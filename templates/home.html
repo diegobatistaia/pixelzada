@@ -1,0 +1,265 @@
+{% extends "base.html" %}
+{% import "partials/icons.html" as ic %}
+{% block schema %}
+<script type="application/ld+json">{{ schema_website|safe }}</script>
+{% endblock %}
+{% block content %}
+{%- macro kick(post, tag=false) -%}
+<p class="kick">{% if tag %}<a class="tag" href="{{ post.category_url }}">{{ post.category_label }}</a>{% else %}<a class="cat" href="{{ post.category_url }}">{{ post.category_label }}</a>{% endif %}<time class="date" datetime="{{ post.published_at }}" data-relative>{{ post.published_human }}</time></p>
+{%- endmacro -%}
+{%- macro media(post, eager=false) -%}
+{%- if post.image and post.image.path %}
+<a class="media" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675"{% if eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async"></a>
+{%- endif %}
+{%- endmacro -%}
+{%- macro community_links() -%}
+<div class="links">
+  <div class="lk wa" aria-disabled="true"><span class="ic">{{ ic.whatsapp() }}</span><span class="txt"><b>{{ t.whatsapp_title }}</b><span>{{ t.whatsapp_text }}</span></span><span class="soon">{{ t.soon }}</span></div>
+  <div class="lk" aria-disabled="true"><span class="ic">{{ ic.telegram() }}</span><span class="txt"><b>{{ t.telegram_title }}</b><span>{{ t.telegram_text }}</span></span><span class="soon">{{ t.soon }}</span></div>
+  {%- if cfg.get('social.instagram') %}
+  <a class="lk" href="{{ cfg.get('social.instagram') }}" target="_blank" rel="noopener"><span class="ic">{{ ic.instagram() }}</span><span class="txt"><b>Instagram</b><span>{{ cfg.get('social.instagram_handle') }}</span></span><span class="arr">{{ ic.out() }}</span></a>
+  {%- endif %}
+</div>
+{%- endmacro -%}
+{%- set sidebar_ad = ads.get('enabled') and ads.get('client_id') and (ads.get('slots') or {}).get('home_sidebar') -%}
+
+{#- Abertura: solta sobre o fundo, sem caixa. #}
+<section class="opening wrap" aria-labelledby="today-title">
+  <div class="opening-text">
+    <p class="stamp"><span class="live-dot" aria-hidden="true"></span><span data-today>{{ t.updated_on }} {{ latest_published|date(lang) if latest_published else '' }}</span></p>
+    <h1 class="opening-title" id="today-title">{{ today_label or t.home }}</h1>
+    <p class="opening-lede">{{ t.today_lede }}</p>
+    <div class="opening-cta">
+      <a class="pillbtn fill" href="#manchetes">{{ t.read_today }} <span class="go" aria-hidden="true">{{ ic.arrow() }}</span></a>
+      <a class="pillbtn line" href="#timeline-title">{{ t.timeline }}</a>
+    </div>
+  </div>
+  <dl class="stats" data-stats data-times="{{ recent_times|join(',') }}">
+    <div class="stat"><dt>{{ t.stories_today }}</dt><dd data-stat="today">{{ stats.today }}</dd></div>
+    <div class="stat"><dt>{{ t.stories_week }}</dt><dd data-stat="week">{{ stats.week }}</dd></div>
+    {%- if edition_count > 1 %}
+    <div class="stat"><dt>{{ t.editions_count }}</dt><dd>{{ edition_count }}</dd></div>
+    {%- endif %}
+  </dl>
+</section>
+
+{%- for block in home_layout %}
+
+{%- if block == 'today' and blocks.today and blocks.today.lead %}
+{%- set lead = blocks.today.lead %}
+<section class="wrap headlines" id="manchetes" aria-label="{{ t.headlines }}">
+  <h2 class="sect"><span>{{ t.headlines }}</span></h2>
+  <div class="headlines-grid">
+    <article class="lead{% if not (lead.image and lead.image.path) %} no-media{% endif %}">
+      {{ media(lead, eager=true) }}
+      {{ kick(lead, tag=true) }}
+      <h2 class="lead-title"><a href="{{ lead.url }}">{{ lead.title }}</a></h2>
+      {%- if lead.summary %}<p class="lead-dek">{{ lead.summary }}</p>{% endif %}
+    </article>
+    {%- if blocks.today.rest %}
+    <div class="lead-side">
+      {%- for post in blocks.today.rest %}
+      {%- if post.image and post.image.path %}
+      <article class="side-item has-thumb">
+        <span class="thumb t-side" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
+        <div class="side-body">
+          {{ kick(post) }}
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        </div>
+      </article>
+      {%- else %}
+      <article class="side-item">
+        {{ kick(post) }}
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {%- if post.summary %}<p>{{ post.summary }}</p>{% endif %}
+      </article>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}
+
+{%- if block == 'feed' and blocks.feed %}
+{%- set feed = blocks.feed %}
+<div class="wrap feed">
+  <section class="timeline-col" aria-labelledby="timeline-title">
+    <h2 class="sect" id="timeline-title"><span>{{ t.timeline }}</span></h2>
+    {%- if feed.timeline %}
+    <ol class="timeline">
+      {%- for post in feed.timeline %}
+      {%- set has_img = post.image and post.image.path %}
+      <li{% if has_img %} class="has-thumb"{% endif %}>
+        <time class="date" datetime="{{ post.published_at }}" data-relative>{{ post.published_human }}</time>
+        <span class="rail" aria-hidden="true"><i></i></span>
+        <div>
+          <p class="cat">{{ post.category_label }}</p>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        </div>
+        {%- if has_img %}
+        <a class="thumb t-tl" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></a>
+        {%- endif %}
+        <a class="ghostgo" href="{{ post.url }}" tabindex="-1" aria-hidden="true">{{ ic.arrow() }}</a>
+      </li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+  </section>
+  <aside class="side-col"{% if feed.most_read %} aria-labelledby="most-read-title"{% endif %}>
+    {%- if feed.most_read %}
+    <h2 class="sect" id="most-read-title"><span>{{ t.most_read }}</span></h2>
+    <ol class="ranking">
+      {%- for post in feed.most_read %}
+      {%- set has_img = post.image and post.image.path %}
+      <li{% if has_img %} class="has-thumb"{% endif %}>
+        <span class="rank" aria-hidden="true">{{ '%02d' % loop.index }}</span>
+        {%- if has_img %}
+        <span class="thumb t-rank" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
+        {%- endif %}
+        <div>
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p class="cat">{{ post.category_label }}</p>
+        </div>
+      </li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+    <h2 class="sect"><span>{{ t.community }}</span></h2>
+    {{ community_links() }}
+    {{ ad_slot('home_sidebar') }}
+  </aside>
+</div>
+{%- if feed.highlights %}
+<section class="wrap block" aria-labelledby="highlights-title">
+  <h2 class="sect" id="highlights-title"><span>{{ highlights_label or t.highlights }}</span></h2>
+  <div class="highlights">
+    {%- for post in feed.highlights %}
+    <article class="highlight{% if not (post.image and post.image.path) %} no-media{% endif %}">
+      {{ media(post) }}
+      {{ kick(post) }}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      {%- if loop.first and post.summary %}<p>{{ post.summary }}</p>{% endif %}
+    </article>
+    {%- endfor %}
+  </div>
+</section>
+{%- endif %}
+{%- endif %}
+
+{%- if block == 'ad_between_blocks' %}
+<div class="ad-band">{{ ad_slot('home_between_blocks') }}</div>
+{%- endif %}
+
+{%- if block == 'by_section' and blocks.by_section %}
+<section class="wrap block" aria-labelledby="by-section-title">
+  <h2 class="sect" id="by-section-title"><span>{{ t.by_section }}</span></h2>
+  <div class="section-cols">
+    {%- for module in blocks.by_section %}
+    {%- set first = module.posts[0] %}
+    <section class="section-col" aria-labelledby="section-{{ module.slug }}">
+      {{ media(first) }}
+      <div class="section-head">
+        <h3 class="tag" id="section-{{ module.slug }}"><a href="/{{ lang }}/c/{{ module.slug }}/">{{ module.label }}</a></h3>
+        <h4><a href="{{ first.url }}">{{ first.title }}</a></h4>
+      </div>
+      {%- if module.posts|length > 1 %}
+      <ul class="section-list">
+        {%- for post in module.posts[1:] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {%- endfor %}
+      </ul>
+      {%- endif %}
+      <a class="more" href="/{{ lang }}/c/{{ module.slug }}/">{{ t.see_all }}<span class="visually-hidden">: {{ module.label }}</span> <span class="go sm" aria-hidden="true">{{ ic.arrow() }}</span></a>
+    </section>
+    {%- endfor %}
+  </div>
+</section>
+{%- endif %}
+
+{%- if block == 'community' %}
+<div class="wrap"><section class="band" aria-labelledby="band-title">
+  <svg class="band-mark" viewBox="-3 9 106 82" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 42 L18 16 L36 24"/><path d="M6 58 L18 84 L36 76"/><path d="M36 76 L64 74"/><path d="M64 26 L80 50 L64 74"/><path d="M96 26 L80 50 L96 74"/></g></svg>
+  <div class="band-text">
+    <p class="cat">{{ t.band_kicker }}</p>
+    <h2 id="band-title">{{ t.band_title }}</h2>
+    <p>{{ t.band_text }}</p>
+  </div>
+  {%- if cfg.get('social.instagram') %}
+  <a class="pillbtn fill" href="{{ cfg.get('social.instagram') }}" target="_blank" rel="noopener">{{ t.follow_instagram }} <span class="go" aria-hidden="true">{{ ic.arrow() }}</span></a>
+  {%- endif %}
+</section></div>
+{%- endif %}
+
+{%- if block == 'hero' and blocks.hero and blocks.hero.lead %}
+{%- set hero = blocks.hero.lead %}
+<section class="wrap headlines" aria-labelledby="hero-title">
+  <div class="headlines-grid">
+    <article class="lead">
+      {{ media(hero, eager=true) }}
+      {{ kick(hero, tag=true) }}
+      <h2 class="lead-title" id="hero-title"><a href="{{ hero.url }}">{{ hero.title }}</a></h2>
+      {%- if hero.summary %}<p class="lead-dek">{{ hero.summary }}</p>{% endif %}
+    </article>
+    {%- if blocks.hero.rest %}
+    <div class="lead-side">
+      {%- for post in blocks.hero.rest %}
+      <article class="side-item">{{ kick(post) }}<h3><a href="{{ post.url }}">{{ post.title }}</a></h3></article>
+      {%- endfor %}
+    </div>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}
+
+{%- if block == 'most_read' and blocks.most_read %}
+<section class="wrap block" aria-labelledby="most-read">
+  <h2 class="sect" id="most-read"><span>{{ t.most_read }}</span></h2>
+  <ol class="ranking">
+    {%- for post in blocks.most_read %}
+    {%- set has_img = post.image and post.image.path %}
+    <li{% if has_img %} class="has-thumb"{% endif %}>
+      <span class="rank" aria-hidden="true">{{ '%02d' % loop.index }}</span>
+      {%- if has_img %}
+      <span class="thumb t-rank" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
+      {%- endif %}
+      <div>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="cat">{{ post.category_label }}</p>
+      </div>
+    </li>
+    {%- endfor %}
+  </ol>
+</section>
+{%- endif %}
+
+{%- if block == 'topic_modules' %}
+{%- for module in blocks.topic_modules or [] %}
+<section class="wrap block" aria-labelledby="topic-{{ module.slug }}">
+  <h2 class="sect" id="topic-{{ module.slug }}"><span>{{ module.label }}</span><a href="/{{ lang }}/c/{{ module.slug }}/">{{ t.see_all }}<span class="visually-hidden">: {{ module.label }}</span></a></h2>
+  <div class="grid">
+    {%- for post in module.posts %}
+    {% with post=post, variant=('lead' if loop.first else '') %}{% include "partials/card.html" %}{% endwith %}
+    {%- endfor %}
+  </div>
+</section>
+{%- endfor %}
+{%- endif %}
+
+{%- if block == 'newsletter' and newsletter.enabled and newsletter.action %}
+<section class="wrap newsletter" aria-labelledby="newsletter-title">
+  <div class="newsletter-inner">
+    <h2 id="newsletter-title">{{ cfg.localized('newsletter.title', lang, '') or t.newsletter_title }}</h2>
+    <p>{{ cfg.localized('newsletter.text', lang, '') or t.newsletter_text }}</p>
+    <form class="newsletter-form" method="post" action="{{ newsletter.action }}">
+      <label class="visually-hidden" for="nl-email">{{ t.newsletter_placeholder }}</label>
+      <input id="nl-email" type="email" name="email" required placeholder="{{ t.newsletter_placeholder }}" autocomplete="email">
+      <button type="submit">{{ t.newsletter_button }}</button>
+    </form>
+    <p class="newsletter-note">{{ t.newsletter_note }}</p>
+  </div>
+</section>
+{%- endif %}
+
+{%- endfor %}
+{% endblock %}

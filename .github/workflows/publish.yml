@@ -1,0 +1,64 @@
+name: Publicar (modo API - cobra por uso)
+
+# MODO API. Faz tudo sozinho - coleta, checagem, redacao, gate, build - chamando
+# a API do Claude, que e cobrada por uso.
+#
+# Hoje o site roda no MODO ROUTINE: a checagem e a redacao acontecem numa sessao
+# do Claude Code agendada na nuvem, sob a assinatura, e o workflow "Finalizar" faz
+# o resto. Por isso este aqui NAO tem agendamento: so roda se alguem clicar.
+#
+# Para voltar ao modo API: adicione o secret ANTHROPIC_API_KEY, descomente o
+# bloco schedule abaixo e desligue a Routine em claude.ai/code/routines.
+on:
+  # schedule:
+  #   - cron: "0 9 * * *"   # 06:00 America/Sao_Paulo
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Quantas pautas processar (0 = o ritmo do dia)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Rodar o pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: python -m scripts.pipeline.run all --limit ${{ github.event.inputs.limit || 0 }}
+
+      - name: Commitar o que foi publicado
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada novo hoje - nenhum commit."
+          else
+            git commit -m "content: publicacao automatica $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Resumo do dia
+        if: always()
+        run: python -m scripts.pipeline.run status >> "$GITHUB_STEP_SUMMARY"

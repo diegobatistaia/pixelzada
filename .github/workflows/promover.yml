@@ -1,0 +1,68 @@
+name: Promover rascunhos
+
+# A Routine do site às vezes não consegue dar push no main e o ambiente dela
+# manda o commit para um branch claude/* (visto em 06/10/2026: as rodadas das
+# 12h30 e 18h30 escreveram três matérias que ficaram fora do site). Este
+# workflow traz para o main só os rascunhos novos desse branch e chama o
+# Finalizar, que publica. Nada além de content/<idioma>/*.json com status
+# "draft" e que ainda não exista no main é copiado.
+on:
+  push:
+    branches: ["claude/**"]
+    paths:
+      - "content/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: promover
+  cancel-in-progress: false
+
+jobs:
+  promover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      promovidos: ${{ steps.copiar.outputs.promovidos }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Copiar os rascunhos novos do branch
+        id: copiar
+        run: |
+          git fetch origin "$GITHUB_REF"
+          base=$(git merge-base origin/main FETCH_HEAD)
+          n=0
+          for f in $(git diff --name-only --diff-filter=A "$base" FETCH_HEAD -- 'content/*/*.json'); do
+            if [ -e "$f" ]; then echo "já existe no main: $f"; continue; fi
+            status=$(git show "FETCH_HEAD:$f" | python3 -c 'import json,sys; print(json.load(sys.stdin).get("status",""))')
+            if [ "$status" != "draft" ]; then echo "não é rascunho: $f"; continue; fi
+            git checkout FETCH_HEAD -- "$f"
+            echo "promovido: $f"
+            n=$((n+1))
+          done
+          echo "promovidos=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Commitar no main
+        if: steps.copiar.outputs.promovidos != '0'
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git commit -m "content: rascunhos trazidos de ${GITHUB_REF#refs/heads/}"
+          enviado=0
+          for tentativa in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then enviado=1; break; fi
+            sleep 5
+          done
+          [ "$enviado" = 1 ]
+
+  finalizar:
+    # Push feito com o GITHUB_TOKEN não dispara o Finalizar sozinho.
+    needs: promover
+    if: needs.promover.outputs.promovidos != '0'
+    uses: ./.github/workflows/finalizar.yml
+    secrets: inherit

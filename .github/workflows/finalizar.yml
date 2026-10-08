@@ -1,0 +1,94 @@
+name: Finalizar
+
+# Modo Routine (sem custo de API).
+#
+# A Routine na nuvem faz a checagem e a redação e commita os rascunhos. Este
+# workflow pega esses rascunhos e faz o resto do caminho: imagem licenciada,
+# gate de qualidade e build do site. O que passa vira matéria publicada; o que
+# reprova vai para data/queue/ e espera revisão humana.
+#
+# O commit que este workflow faz também toca content/, então ele dispara uma
+# segunda execução — que sai em segundos, porque não há mais rascunho.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+  # Rede de seguranca: num dia sem pauta nova, a Routine nao da push e este
+  # workflow nao seria acionado - e um rascunho que ficou pendente por causa ja
+  # corrigida esperaria indefinidamente. Roda 75 min depois de cada coleta, e sai
+  # em segundos quando nao ha rascunho.
+  schedule:
+    - cron: "15 11 * * *"   # 08:15 America/Sao_Paulo
+    - cron: "15 16 * * *"   # 13:15
+    - cron: "15 22 * * *"   # 19:15
+  workflow_dispatch:
+  # Chamado pelo Promover, quando a Routine deixou os rascunhos num branch.
+  workflow_call:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finalizar
+  cancel-in-progress: false
+
+jobs:
+  finalizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Sempre o main, inclusive quando chamado pelo Promover a partir de um
+      # branch claude/*.
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Há rascunho para finalizar?
+        id: check
+        run: |
+          # `|| true` porque grep sem achar nada devolve 1, e o passo roda com
+          # set -e: sem isso, um dia sem rascunho derrubaria o workflow.
+          count=$(grep -rl '"status": *"draft"' content/ 2>/dev/null | wc -l || true)
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+          echo "$count rascunho(s) encontrado(s)."
+
+      - uses: actions/setup-python@v7
+        if: steps.check.outputs.count != '0'
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+        if: steps.check.outputs.count != '0'
+
+      - name: Imagem, gate e build
+        if: steps.check.outputs.count != '0'
+        env:
+          UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        run: python -m scripts.pipeline.run finish
+
+      - name: Commitar o que foi publicado
+        if: steps.check.outputs.count != '0'
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "site: publicação de $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Resumo
+        if: always()
+        run: python -m scripts.pipeline.run status >> "$GITHUB_STEP_SUMMARY" || true
+
+  publicar:
+    # O commit acima foi feito com o GITHUB_TOKEN, e o GitHub nao dispara
+    # workflows a partir dele. Chamamos o Deploy explicitamente.
+    needs: finalizar
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

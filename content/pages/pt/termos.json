@@ -1,0 +1,65 @@
+{
+  "slug": "termos",
+  "key": "terms",
+  "title": "Termos de Uso",
+  "description": "Condições de uso do conteúdo publicado na Pixelzada.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Ao navegar em pixelzada.com.br você concorda com os termos abaixo.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Uso do conteúdo",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Os textos publicados aqui são originais e protegidos por direito autoral. É permitido citar trechos curtos com crédito e link para a matéria original. Não é permitida a reprodução integral sem autorização prévia.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Natureza da informação",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Publicamos jornalismo sobre tecnologia. Nada no site constitui aconselhamento de investimento, jurídico ou profissional. Decisões tomadas com base no conteúdo são de responsabilidade do leitor.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Conteúdo assistido por IA",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Nossas matérias são produzidas com apoio de inteligência artificial sob um processo de checagem em múltiplas fontes. Ainda assim, erros podem ocorrer — e por isso mantemos um canal de correção aberto.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Links externos",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Matérias linkam para as fontes usadas na apuração. Não respondemos pelo conteúdo, pelas políticas nem pela disponibilidade desses sites.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Disponibilidade",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O site é oferecido no estado em que se encontra, sem garantia de funcionamento ininterrupto.",
+      "items": []
+    }
+  ],
+  "lang": "pt",
+  "updated_at": "2026-10-08T02:03:03+00:00"
+}

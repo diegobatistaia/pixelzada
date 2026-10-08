@@ -1,0 +1,145 @@
+name: Deploy
+
+# Publica o site estatico na Hostinger por SSH.
+#
+# Roda em push normal e tambem sob demanda, chamado pelo workflow Finalizar.
+# Essa segunda porta existe porque o GitHub, de proposito, nao dispara workflows
+# a partir de commits feitos por outro workflow - sem isso, o conteudo publicado
+# pelo Finalizar ficaria no repositorio sem nunca chegar ao servidor.
+on:
+  workflow_call:
+  push:
+    branches: [main]
+    # Um push que so mexe em rascunho, dado interno ou documentacao nao muda o
+    # site publicado - nada disso e enviado ao servidor.
+    paths-ignore:
+      - "content/**"
+      - "data/**"
+      - "**.md"
+  # Rede de seguranca contra o dia em que as 5 tentativas do rsync (abaixo)
+  # esgotam por uma instabilidade prolongada da Hostinger. Roda toda noite,
+  # bem depois do ciclo diario (04:00-04:45 BRT); se o repositorio ja estiver
+  # sincronizado, o rsync nao encontra o que copiar e o job so demora segundos.
+  schedule:
+    - cron: "0 3 * * *"   # 00:00 America/Sao_Paulo
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  # Enquanto o dominio e a hospedagem nao estiverem configurados, o deploy fica
+  # desligado em site.config.yaml (deploy.enabled: false) e este job so avisa.
+  alvo:
+    runs-on: ubuntu-latest
+    outputs:
+      enabled: ${{ steps.ler.outputs.enabled }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - id: ler
+        run: |
+          enabled=$(python3 -c "import yaml; print(str(bool(yaml.safe_load(open('site.config.yaml'))['deploy'].get('enabled'))).lower())")
+          echo "enabled=$enabled" >> "$GITHUB_OUTPUT"
+          if [ "$enabled" != "true" ]; then
+            echo "Deploy desligado em site.config.yaml (deploy.enabled: false). Nada enviado." | tee -a "$GITHUB_STEP_SUMMARY"
+          fi
+
+  deploy:
+    needs: alvo
+    if: needs.alvo.outputs.enabled == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Sem `ref`, o checkout pega o commit que disparou o fluxo. Quando o
+      # Finalizar chama este deploy, esse commit é o rascunho, anterior ao
+      # commit em que o Finalizar gerou as páginas, e a matéria nova não era
+      # enviada ao servidor até o deploy da meia-noite.
+      # E o site é sempre o main: chamado pelo Promover, o github.ref é o
+      # branch claude/* de onde vieram os rascunhos.
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      # Python explicito: sem isto o passo seguinte depende do interpretador que
+      # a imagem do runner tiver no PATH e de ele ja trazer PyYAML instalado.
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - run: pip install --quiet PyYAML
+
+      - name: Ler o alvo de deploy do site.config.yaml
+        id: target
+        run: |
+          python - <<'PY' | tee -a "$GITHUB_OUTPUT"
+          import yaml
+          deploy = yaml.safe_load(open("site.config.yaml"))["deploy"]
+          for key in ("host", "port", "user", "remote_path"):
+              print(f"{key}={deploy[key]}")
+          print(f"site_url={yaml.safe_load(open('site.config.yaml'))['site']['base_url'].rstrip('/')}")
+          PY
+          python - <<'PY' > .rsync-exclude
+          import yaml
+          for pattern in yaml.safe_load(open("site.config.yaml"))["deploy"]["exclude"]:
+              print(pattern)
+          PY
+          echo "--- nao sera enviado ---"
+          cat .rsync-exclude
+
+      - name: Preparar a chave SSH
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.HOSTINGER_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          # O ssh-keyscan as vezes nao responde a tempo. Como o passo roda com
+          # set -e, isso derrubava o deploy inteiro por um motivo transitorio.
+          # Se falhar, seguimos: o rsync aceita a chave do host na conexao.
+          if ssh-keyscan -T 10 -p "${{ steps.target.outputs.port }}" \
+               -H "${{ steps.target.outputs.host }}" >> ~/.ssh/known_hosts 2>/dev/null; then
+            echo "chave do host registrada"
+          else
+            echo "keyscan nao respondeu; o rsync vai aceitar a chave na conexao"
+          fi
+
+      - name: Sincronizar com a Hostinger
+        run: |
+          # A Hostinger às vezes recusa a conexão SSH por alguns segundos sem
+          # motivo aparente (visto ao vivo em 2026-09-03: "Connection timed
+          # out" numa hora em que o servidor respondia normalmente logo
+          # depois). Isso derrubava a publicação do dia inteiro mesmo com o
+          # conteúdo já pronto. Tenta até 5 vezes, com espera crescente.
+          tentativa=0
+          ate_a_ultima=5
+          while true; do
+            tentativa=$((tentativa + 1))
+            if rsync -rlvz --delete --compress-level=9 \
+                 --exclude-from=.rsync-exclude \
+                 --exclude='.rsync-exclude' \
+                 -e "ssh -i ~/.ssh/deploy_key -p ${{ steps.target.outputs.port }} -o StrictHostKeyChecking=accept-new -o BatchMode=yes -o ConnectTimeout=20" \
+                 ./ "${{ steps.target.outputs.user }}@${{ steps.target.outputs.host }}:${{ steps.target.outputs.remote_path }}"; then
+              echo "sincronizado na tentativa $tentativa"
+              break
+            fi
+            if [ "$tentativa" -ge "$ate_a_ultima" ]; then
+              echo "falhou $ate_a_ultima vezes seguidas - desistindo"
+              exit 1
+            fi
+            espera=$((tentativa * 15))
+            echo "tentativa $tentativa falhou, tentando de novo em ${espera}s..."
+            sleep "$espera"
+          done
+
+      # O deploy so termina verde se o site realmente responder. Sem isto, um
+      # rsync que copia para o lugar errado passaria despercebido.
+      - name: Conferir que o site respondeu
+        run: |
+          codigo=$(curl -sS -o /dev/null -w '%{http_code}' -L --max-time 30 ${{ steps.target.outputs.site_url }}/pt/ || echo 000)
+          echo "GET /pt/ -> $codigo"
+          test "$codigo" = "200"
+
+      - name: Limpar a chave
+        if: always()
+        run: rm -f ~/.ssh/deploy_key

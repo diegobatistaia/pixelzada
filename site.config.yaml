@@ -1,0 +1,366 @@
+# ---------------------------------------------------------------------------
+# Pixelzada - configuracao especifica DESTE site.
+#
+# Base copiada do Cortexplor (diegobatistaia/cortexplor) em 08/10/2026. O motor
+# em scripts/engine/ e o mesmo; tudo que e nicho, marca, dominio ou idioma mora
+# aqui. Os dois repositorios seguem separados: mudar um nao mexe no outro.
+# ---------------------------------------------------------------------------
+
+site:
+  name: Pixelzada
+  # Artigo usado nas páginas institucionais: "a Pixelzada".
+  article_pt: a
+  domain: pixelzada.com.br
+  base_url: https://pixelzada.com.br
+  default_language: pt
+  # So portugues. A versao em ingles vira depois, com outro nome e outro
+  # repositorio - nao e um idioma a mais aqui.
+  languages: [pt]
+  timezone: America/Sao_Paulo
+  tagline:
+    pt: Notícias de Games
+  description:
+    pt: Notícias, guias e lançamentos de games, com GTA 6 em primeiro plano. Tudo checado, sempre com fonte.
+  # Primeiro paragrafo da pagina "Sobre" (scripts/tools/make_pages.py).
+  about:
+    pt: >-
+      A Pixelzada é um site de notícias de games em português. Cobrimos
+      lançamentos, trailers, consoles, PC e a indústria, com o GTA 6 em primeiro
+      plano, e publicamos guias de códigos, mapa e requisitos para quem joga.
+  locale:
+    pt: pt_BR
+  html_lang:
+    pt: pt-BR
+
+niche:
+  slug: games
+  term:
+    pt: Games
+  term_short:
+    pt: Games
+
+brand:
+  # PROVISORIO. A identidade visual da Pixelzada esta sendo feita em outra
+  # frente do projeto; quando sair, troque cores, fontes e logo aqui e em
+  # assets/logo/. Nada no motor depende destes valores.
+  ink: "#121018"
+  paper: "#FFFFFF"
+  primary: "#5B2EFF"
+  accent: "#FF2E88"
+  surface: "#F5F3FA"
+  border: "#E3DFEE"
+  muted: "#6A6578"
+  ink_dark: "#F1EEF8"
+  paper_dark: "#0E0C14"
+  primary_dark: "#8C6BFF"
+  accent_dark: "#FF5CA3"
+  surface_dark: "#18151F"
+  border_dark: "#2A2633"
+  muted_dark: "#9C96AB"
+  default_theme: dark
+  fonts:
+    # Ainda as webfonts herdadas (assets/fonts/). Trocar junto com a identidade.
+    display: "'Space Grotesk', 'Helvetica Neue', Arial, sans-serif"
+    mono: "'IBM Plex Mono', ui-monospace, SFMono-Regular, monospace"
+  logo:
+    lockup: /assets/logo/pixelzada-logo-color.svg
+    lockup_dark: /assets/logo/pixelzada-logo-white.svg
+    icon: /assets/logo/pixelzada-icon-color.svg
+    # Versoes do icone usadas como avatar da redacao na materia.
+    icon_light: /assets/logo/pixelzada-icon-white.svg
+    icon_dark: /assets/logo/pixelzada-icon-black.svg
+    favicon_svg: /assets/logo/favicon.svg
+    favicon_ico: /assets/logo/favicon.ico
+
+social:
+  instagram: https://www.instagram.com/pixelzada.br/
+  instagram_handle: "@pixelzada.br"
+  email: contato@pixelzada.com.br
+
+# Identificacao dos robos de coleta (RSS e paginas de fonte).
+bot:
+  user_agent: "PixelzadaBot/1.0"
+  git_name: pixelzada-bot
+  git_email: bot@pixelzada.com.br
+
+seo:
+  title_suffix:
+    pt: " | Pixelzada - Notícias de Games"
+  meta_description_range: [150, 160]
+  twitter_site: ""
+  organization_type: NewsMediaOrganization
+
+analytics:
+  # Vazio = tag nao e renderizada. Preencher depois de criar a propriedade GA4.
+  ga4_id: ""
+  search_console_verification: ""
+  ga4_property_id: ""
+  search_console_site: "https://pixelzada.com.br/"
+
+ads:
+  # Plano: pedir o AdSense no comeco de novembro de 2026. Ate a aprovacao,
+  # enabled fica false; client_id pode entrar antes, para a verificacao.
+  enabled: false
+  client_id: ""
+  slots:
+    top_leaderboard: ""
+    in_content: ""
+    home_between_blocks: ""
+    home_sidebar: ""
+    footer: ""
+  readiness:
+    min_posts_per_language: 30
+    min_days_live: 21
+    max_queue_items: 5
+    min_gate_pass_rate: 0.70
+  labels:
+    pt: Continua após a publicidade
+
+newsletter:
+  enabled: false
+  action: ""
+  title:
+    pt: Receba as notícias de games por e-mail
+  text:
+    pt: O que saiu de GTA 6 e do resto do mundo dos games, checado e com fonte.
+
+editorial:
+  categories:
+    - slug: {pt: gta-6}
+      label: {pt: "GTA 6"}
+      color: "#FF2E88"
+    - slug: {pt: lancamentos}
+      label: {pt: "Lançamentos"}
+      color: "#5B2EFF"
+    - slug: {pt: guias}
+      label: {pt: "Guias"}
+      color: "#14B8A6"
+    - slug: {pt: consoles}
+      label: {pt: "Consoles e PC"}
+      color: "#F59E0B"
+    - slug: {pt: industria}
+      label: {pt: "Indústria"}
+      color: "#64748B"
+  home_layout:
+    - today
+    - feed
+    - ad_between_blocks
+    - by_section
+    - community
+    - newsletter
+  today_label:
+    pt: Hoje nos games
+  today_count: 4
+  timeline_count: 7
+  highlights_count: 3
+  highlights_days: 7
+  highlights_label:
+    pt: Destaques da semana
+  section_posts: 3
+  section_columns: 4
+  most_read_min_views: 2
+  fallback_category: industria
+  most_read_count: 5
+  topic_module_count: 4
+  related_posts: 3
+
+publishing:
+  # Preencher com a data do primeiro deploy. Vazio = primeira fase do ramp.
+  launch_date: ""
+  # 5 a 6 por dia no comeco, subindo para 10. So avanca de fase se o gate
+  # aprovar acima de ramp_gate_pass_rate na janela.
+  ramp:
+    - {from_day: 0,   posts_per_language: 5}
+    - {from_day: 14,  posts_per_language: 6}
+    - {from_day: 30,  posts_per_language: 8}
+    - {from_day: 45,  posts_per_language: 10}
+  # Horarios (fuso do site) em que a coleta roda. Se mudar aqui, mude o cron do
+  # workflow Coletar e o horario da Routine (30 min depois de cada coleta).
+  run_hours: [7, 12, 18]
+  ramp_gate_pass_rate: 0.80
+  ramp_window_days: 14
+
+collection:
+  lookback_hours: 48
+  # A primaria publica primeiro e a imprensa escreve horas ou um dia depois.
+  # Com a mesma janela para as duas, o anuncio original cai fora justamente
+  # quando a cobertura esta no auge.
+  lookback_hours_primary: 120
+  max_candidates: 60
+  # Overlap minimo de palavras de titulo para juntar dois itens na mesma pauta.
+  cluster_threshold: 0.42
+  min_title_chars: 25
+  # Duas fontes independentes = dois donos diferentes. Veiculos do mesmo grupo
+  # contam como UMA fonte (evita "confirmacao" circular por republicacao).
+  independence_key: owner
+  tavily:
+    enabled: false     # ligar depois de configurar o MCP do Tavily
+    max_results: 8
+
+sources:
+  # PRIMEIRA LISTA, AINDA NAO VALIDADA: montada em 08/10/2026 num ambiente sem
+  # acesso aos feeds. A primeira execucao do workflow Coletar mostra quais
+  # responderam (feed que falha so gera um aviso, nao derruba a coleta).
+  # Corrija ou remova os que falharem.
+  #
+  # O que importa e a diversidade de OWNERS: a regra das duas fontes conta
+  # grupos. IGN, Eurogamer, Rock Paper Shotgun, GamesIndustry.biz e Push Square
+  # sao todos IGN Entertainment (Ziff Davis); PC Gamer e GamesRadar sao Future.
+  rss:
+
+    # ---- FONTES PRIMARIAS ----------------------------------------------
+    # Quem faz a noticia: a publisher, a plataforma. Trailer, data, preco e
+    # requisitos nascem aqui. A Rockstar nao tem RSS: o Newswire e lido como
+    # pagina (type: html), como o Cortexplor faz com quem nao tem feed.
+    - {name: Rockstar Newswire, url: "https://www.rockstargames.com/newswire", type: html, link_prefix: "/newswire/article/", lang: en, owner: take-two, tier: 1, kind: primary}
+    - {name: PlayStation Blog, url: "https://blog.playstation.com/feed/", lang: en, owner: sony, tier: 1, kind: primary}
+    - {name: PlayStation Blog BR, url: "https://blog.br.playstation.com/feed/", lang: pt, owner: sony, tier: 1, kind: primary}
+    - {name: Xbox Wire, url: "https://news.xbox.com/en-us/feed/", lang: en, owner: microsoft, tier: 1, kind: primary}
+    - {name: Xbox Wire BR, url: "https://news.xbox.com/pt-br/feed/", lang: pt, owner: microsoft, tier: 1, kind: primary}
+
+    # ---- IMPRENSA INTERNACIONAL ----------------------------------------
+    - {name: IGN, url: "https://feeds.feedburner.com/ign/games-all", lang: en, owner: ziff-davis, tier: 1}
+    - {name: Eurogamer, url: "https://www.eurogamer.net/feed", lang: en, owner: ziff-davis, tier: 2}
+    - {name: GamesIndustry.biz, url: "https://www.gamesindustry.biz/feed", lang: en, owner: ziff-davis, tier: 1}
+    - {name: GameSpot, url: "https://www.gamespot.com/feeds/news/", lang: en, owner: fandom, tier: 1}
+    - {name: PC Gamer, url: "https://www.pcgamer.com/rss/", lang: en, owner: future-plc, tier: 2}
+    - {name: GamesRadar, url: "https://www.gamesradar.com/rss/", lang: en, owner: future-plc, tier: 2}
+    - {name: Polygon, url: "https://www.polygon.com/rss/index.xml", lang: en, owner: valnet, tier: 2}
+    - {name: The Verge Games, url: "https://www.theverge.com/rss/games/index.xml", lang: en, owner: vox-media, tier: 2}
+    - {name: Kotaku, url: "https://kotaku.com/rss", lang: en, owner: keleops, tier: 2}
+    - {name: Video Games Chronicle, url: "https://www.videogameschronicle.com/feed/", lang: en, owner: vgc, tier: 2}
+    - {name: Gematsu, url: "https://www.gematsu.com/feed", lang: en, owner: gematsu, tier: 2}
+    - {name: Insider Gaming, url: "https://insider-gaming.com/feed/", lang: en, owner: insider-gaming, tier: 2}
+
+    # ---- IMPRENSA BRASILEIRA -------------------------------------------
+    - {name: Voxel, url: "https://rss.tecmundo.com.br/feed", lang: pt, owner: nzn, tier: 2}
+    - {name: Jovem Nerd, url: "https://jovemnerd.com.br/feed/", lang: pt, owner: jovem-nerd, tier: 2}
+    - {name: Adrenaline, url: "https://adrenaline.com.br/feed/", lang: pt, owner: adrenaline, tier: 2}
+    - {name: MeuPlayStation, url: "https://meups.com.br/feed/", lang: pt, owner: meups, tier: 2}
+    - {name: GameBlast, url: "https://www.gameblast.com.br/feeds/posts/default", lang: pt, owner: gameblast, tier: 2}
+    - {name: Olhar Digital Games, url: "https://olhardigital.com.br/editorias/games-e-consoles/feed/", lang: pt, owner: olhar-digital, tier: 2}
+
+keywords:
+  # Filtro de coleta. Um item so entra se casar com `include` e nao com
+  # `exclude`. Os feeds ja sao de games, entao o filtro e largo de proposito.
+  include:
+    - gta 6
+    - gta vi
+    - grand theft auto
+    - rockstar
+    - take-two
+    - game
+    - games
+    - jogo
+    - jogos
+    - videogame
+    - video game
+    - gameplay
+    - trailer
+    - playstation
+    - ps5
+    - xbox
+    - nintendo
+    - switch 2
+    - steam
+    - pc gaming
+    - console
+    - lancamento
+    - release date
+    - data de lancamento
+    - pre-venda
+    - pre-order
+    - dlc
+    - expansao
+    - expansion
+    - remake
+    - remaster
+    - patch
+    - atualizacao
+    - update
+    - requisitos
+    - system requirements
+    - game pass
+    - ps plus
+    - esports
+    - publisher
+    - estudio
+    - studio
+    - developer
+    - desenvolvedora
+  exclude:
+    - cupom
+    - coupon
+    - horoscopo
+    - apostas
+    - cassino
+    - casino
+    - betting
+
+quality_gate:
+  min_independent_sources: 2
+  # Herdado do Cortexplor: o anúncio que a própria empresa publica no canal
+  # oficial dela (fonte `kind: primary`, ex.: Rockstar, PlayStation Blog) basta
+  # sozinho para a matéria "a empresa anunciou X". A matéria marca `fonte_unica: anuncio_oficial`,
+  # atribui tudo à empresa e mostra um aviso próprio no rodapé. Qualquer
+  # outra notícia continua exigindo duas fontes independentes.
+  official_announcement_alone: true
+  word_count: {min: 600, max: 1000}
+  # Similaridade maxima com o texto-fonte (shingles de 5 palavras).
+  max_source_similarity: 0.18
+  # Maior trecho literal permitido em comum com uma fonte, em palavras.
+  max_verbatim_run: 8
+  meta_description_range: [150, 160]
+  require:
+    - meta_description
+    - image_alt
+    - schema_news_article
+    - sources_cited
+    - h1_present
+    - internal_links
+  min_internal_links: 1
+
+images:
+  # PROVISORIO. A identidade da Pixelzada pede o trailer ou o print oficial
+  # dentro da arte, nao foto de banco. Ate isso existir no motor, o Unsplash
+  # segura o lugar da imagem.
+  provider: unsplash
+  fallback_provider: pexels
+  orientation: landscape
+  attribution_required: true
+  query_suffix: video game
+
+model:
+  id: claude-opus-5
+  effort: high
+  max_tokens: 16000
+
+voice:
+  skill: voz-pixelzada
+  skill_path: .claude/skills/voz-pixelzada/SKILL.md
+
+legal:
+  pages: [sobre, privacidade, contato, termos]
+  contact_email: contato@pixelzada.com.br
+  publisher: Pixelzada
+
+deploy:
+  # DESLIGADO ate o dominio estar registrado e apontado para a hospedagem.
+  # Com enabled: false o workflow Deploy roda, avisa e sai sem erro.
+  # A CHAVE PRIVADA nunca entra aqui: ela vai em GitHub > Secrets.
+  enabled: false
+  host: ""
+  port: 22
+  user: ""
+  remote_path: ""
+  exclude:
+    - ".git*"
+    - ".claude/"
+    - "scripts/"
+    - "templates/"
+    - "content/"
+    - "data/"
+    - "*.md"
+    - "site.config.yaml"
+    - "requirements.txt"
+    - "assets/logo/source/"

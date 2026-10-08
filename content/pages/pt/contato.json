@@ -1,0 +1,40 @@
+{
+  "slug": "contato",
+  "key": "contact",
+  "title": "Contato",
+  "description": "Fale com a redação da Pixelzada: pautas, correções e imprensa.",
+  "body": [
+    {
+      "type": "p",
+      "text": "O canal oficial de contato da Pixelzada é o e-mail <a href=\"mailto:contato@pixelzada.com.br\">contato@pixelzada.com.br</a>.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Para que serve cada assunto",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "<strong>Correção</strong>: envie o link da matéria e o ponto específico a corrigir. Priorizamos esse tipo de mensagem.",
+        "<strong>Sugestão de pauta</strong>: conte o fato e indique onde ele foi publicado ou anunciado.",
+        "<strong>Imprensa e releases</strong>: aceitamos, mas releases não viram matéria sozinhos — dependem de confirmação independente.",
+        "<strong>Publicidade</strong>: nossa monetização hoje é feita por redes de anúncio; não vendemos conteúdo patrocinado."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Prazo de resposta",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Lemos todas as mensagens. Correções são respondidas em até 2 dias úteis; os demais assuntos, conforme a disponibilidade da redação.",
+      "items": []
+    }
+  ],
+  "lang": "pt",
+  "updated_at": "2026-10-08T02:03:03+00:00"
+}

@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+{% import "partials/icons.html" as ic %}
+{% block schema %}
+<script type="application/ld+json">{{ post.schema_news_article|safe }}</script>
+<script type="application/ld+json">{{ post.schema_breadcrumb|safe }}</script>
+{% endblock %}
+{% block content %}
+{%- set n_sources = post.sources|length %}
+{%- macro share_buttons(extra='') -%}
+<div class="share{{ extra }}">
+  <button type="button" class="iconbtn" data-copy="{{ post.canonical }}" aria-label="{{ t.copy_link }}" title="{{ t.copy_link }}">{{ ic.link() }}</button>
+  <a class="iconbtn" href="https://wa.me/?text={{ (post.title ~ ' ' ~ post.canonical)|urlencode }}" target="_blank" rel="noopener" aria-label="{{ t.share_on|replace('{network}', 'WhatsApp') }}" title="WhatsApp">{{ ic.whatsapp() }}</a>
+  <a class="iconbtn" href="https://x.com/intent/post?text={{ post.title|urlencode }}&amp;url={{ post.canonical|urlencode }}" target="_blank" rel="noopener" aria-label="{{ t.share_on|replace('{network}', 'X') }}" title="X">{{ ic.x() }}</a>
+  <button type="button" class="iconbtn" data-share="{{ post.canonical }}" data-share-title="{{ post.title }}" aria-label="{{ t.share }}" title="{{ t.share }}">{{ ic.share() }}</button>
+</div>
+{%- endmacro -%}
+<article class="article">
+  <header class="article-head wrap">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="/{{ lang }}/">{{ cfg.get('site.name') }}</a>
+      <span aria-hidden="true">/</span>
+      <a href="{{ post.category_url }}">{{ post.category_label }}</a>
+    </nav>
+    <p class="kick"><a class="tag" href="{{ post.category_url }}"><span class="live-dot" aria-hidden="true"></span>{{ post.category_label }}</a>
+      <span class="date"><time datetime="{{ post.published_at }}">{{ post.published_human }}</time> &middot; {{ post.reading_time }} {{ t.min_read }}</span></p>
+    <h1>{{ post.title }}</h1>
+    {%- if post.dek %}<p class="dek">{{ post.dek }}</p>{% endif %}
+    <div class="byline">
+      <div class="who">
+        <span class="avatar" aria-hidden="true"><img class="brand-mark light" src="{{ cfg.get('brand.logo.icon_light') }}" alt="" width="20" height="20"><img class="brand-mark dark" src="{{ cfg.get('brand.logo.icon_dark') }}" alt="" width="20" height="20"></span>
+        <div><b>{{ t.newsroom }} {{ cfg.get('site.name') }}</b>
+          <span class="date">{{ t.checked_sources|replace('{n}', n_sources|string) if n_sources > 1 else t.checked_source }}</span></div>
+      </div>
+      {{ share_buttons() }}
+    </div>
+  </header>
+
+  {%- if post.image and post.image.path %}
+  <figure class="article-media wrap">
+    <div class="frame">
+      <img src="{{ post.image.path }}" alt="{{ post.image.alt }}" width="1200" height="675" fetchpriority="high" decoding="async">
+      {%- if post.image.credit %}
+      {%- set author_url = post.image.get('author_url') %}
+      {%- set source_url = post.image.get('source_url') %}
+      {%- set author = post.image.get('author', '') %}
+      {%- set provider = post.image.get('provider', '') %}
+      <figcaption>{{ t.photo }}:
+        {%- if author_url %} <a href="{{ author_url }}" rel="nofollow noopener" target="_blank">{{ author }}</a>
+        {%- elif author %} {{ author }}
+        {%- else %} {{ post.image.credit }}
+        {%- endif %}
+        {%- if provider %} /
+          {%- if source_url %} <a href="{{ source_url }}" rel="nofollow noopener" target="_blank">{{ provider }}</a>
+          {%- else %} {{ provider }}
+          {%- endif %}
+        {%- endif %}
+      </figcaption>
+      {%- endif %}
+    </div>
+  </figure>
+  {%- endif %}
+
+  <div class="article-grid wrap">
+    <div class="article-main">
+      <div class="article-body">
+        {%- set ns = namespace(paragraphs=0) %}
+        {%- for block in post.body %}
+        {%- if block.type == 'p' %}{% set ns.paragraphs = ns.paragraphs + 1 %}{% endif %}
+        {%- if block.type == 'p' %}<p>{{ block.text }}</p>
+        {%- elif block.type == 'h2' %}<h2>{{ block.text }}</h2>
+        {%- elif block.type == 'h3' %}<h3>{{ block.text }}</h3>
+        {%- elif block.type == 'quote' %}<blockquote><p>{{ block.text }}</p></blockquote>
+        {%- elif block.type == 'list' %}<ul>{% for item in block['items'] %}<li>{{ item }}</li>{% endfor %}</ul>
+        {%- endif %}
+        {%- if block.type == 'p' and ns.paragraphs == ad_after_paragraph %}{{ ad_slot('in_content') }}{% endif %}
+        {%- endfor %}
+      </div>
+
+      <p class="notice">{{ ic.shield() }}<span>
+        {%- if post.get('editorial_override') == 'single_source_authorized' %}{{ t.single_source_note }}
+        {%- elif post.get('fonte_unica') == 'anuncio_oficial' %}{{ t.official_note }}
+        {%- else %}{{ t.verification_note }}
+        {%- endif %} {{ t.ai_disclosure }}</span></p>
+
+      <div class="endrow">
+        <div><b>{{ t.enjoyed }}</b><span>{{ t.share_hint }}</span></div>
+        {{ share_buttons(' compact') }}
+      </div>
+    </div>
+
+    <aside class="article-side">
+      <section class="side-card sources" aria-labelledby="sources-title">
+        <h2 id="sources-title"><span class="live-dot" aria-hidden="true"></span>{{ t.sources }}</h2>
+        <ul>
+          {%- for source in post.sources %}
+          <li><a href="{{ source.url }}" rel="nofollow noopener" target="_blank" title="{{ source.title }}"><span><b>{{ source.name }}</b><small>{{ source.title }}</small></span>{{ ic.out() }}</a></li>
+          {%- endfor %}
+        </ul>
+      </section>
+      <section class="side-card follow" aria-labelledby="follow-title">
+        <h2 id="follow-title">{{ t.follow }}</h2>
+        <div class="links">
+          {%- if cfg.get('social.instagram') %}
+          <a class="lk" href="{{ cfg.get('social.instagram') }}" target="_blank" rel="noopener"><span class="ic">{{ ic.instagram() }}</span><span class="txt"><b>Instagram</b><span>{{ cfg.get('social.instagram_handle') }}</span></span><span class="arr">{{ ic.out() }}</span></a>
+          {%- endif %}
+          <div class="lk wa" aria-disabled="true"><span class="ic">{{ ic.whatsapp() }}</span><span class="txt"><b>WhatsApp</b><span>{{ t.whatsapp_text }}</span></span><span class="soon">{{ t.soon }}</span></div>
+        </div>
+      </section>
+    </aside>
+  </div>
+</article>
+
+{%- if post.related %}
+<section class="wrap block" aria-labelledby="related-title">
+  <h2 class="sect" id="related-title"><span>{{ t.related }}</span><a href="{{ post.category_url }}">{{ post.category_label }}</a></h2>
+  <div class="highlights">
+    {%- for item in post.related %}
+    <article class="highlight{% if not item.image %} no-media{% endif %}">
+      {%- if item.image %}
+      <a class="media" href="{{ item.url }}" tabindex="-1" aria-hidden="true"><img src="{{ item.image }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></a>
+      {%- endif %}
+      <p class="kick"><span class="cat">{{ item.category_label }}</span>{% if item.published_at %}<time class="date" datetime="{{ item.published_at }}" data-relative>{{ item.published_at|date(lang) }}</time>{% endif %}</p>
+      <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+    </article>
+    {%- endfor %}
+  </div>
+</section>
+{%- endif %}
+{% endblock %}

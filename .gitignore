@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.tmp
+*.corrupt
+.rsync-exclude
+.DS_Store
+Thumbs.db
+
+# data/ NAO entra aqui: published.json, seen.json, gate-log.json e queue/ sao
+# estado que precisa sobreviver entre execucoes. Sem versionar, o site
+# republicaria as mesmas pautas todo dia e a fila de excecao sumiria.
+# briefing.json tambem e versionado de proposito: e como a coleta (que roda no
+# GitHub Actions, com internet) entrega o material para a Routine (que nao tem).

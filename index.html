@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Pixelzada - Notícias de Games</title>
+<link rel="canonical" href="https://pixelzada.com.br/pt/">
+<link rel="alternate" hreflang="pt-BR" href="https://pixelzada.com.br/pt/">
+<link rel="alternate" hreflang="x-default" href="https://pixelzada.com.br/pt/">
+<meta http-equiv="refresh" content="0; url=/pt/">
+</head>
+<body>
+<p><a href="/pt/">Pixelzada</a></p>
+<script>
+  var supported = ["pt"];
+  var preferred = (navigator.languages || [navigator.language || ""])
+    .map(function (l) { return String(l).slice(0, 2).toLowerCase(); })
+    .filter(function (l) { return supported.indexOf(l) !== -1; })[0];
+  location.replace("/" + (preferred || "pt") + "/");
+</script>
+</body>
+</html>

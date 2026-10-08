@@ -1,0 +1,75 @@
+{
+  "slug": "privacidade",
+  "key": "privacy",
+  "title": "Política de Privacidade",
+  "description": "Como a Pixelzada trata dados de navegação, cookies e publicidade.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Esta política descreve como a Pixelzada (pixelzada.com.br) trata informações de quem visita o site.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Dados que coletamos",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Não pedimos cadastro para ler o site e não coletamos nome, CPF ou documento. Coletamos apenas dados de navegação agregados: páginas visitadas, tempo de permanência, origem do acesso, tipo de dispositivo e país aproximado.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Google Analytics",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Usamos o Google Analytics 4 para entender o desempenho do site. Ele grava cookies no seu navegador e trata o endereço IP de forma anonimizada. Você pode bloquear esses cookies nas configurações do navegador ou pela extensão oficial de opt-out do Google.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Publicidade",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Este site exibe anúncios do Google AdSense. O Google e seus parceiros podem usar cookies para exibir anúncios com base em visitas anteriores a este e a outros sites. Você pode desativar a publicidade personalizada nas <a href=\"https://www.google.com/settings/ads\" rel=\"nofollow noopener\" target=\"_blank\">configurações de anúncios do Google</a>.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Newsletter",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Se você assinar nossa newsletter, guardamos apenas o e-mail informado, usado somente para enviar os próprios boletins. O cancelamento pode ser feito a qualquer momento pelo link no rodapé de cada envio.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Seus direitos (LGPD)",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Você pode solicitar acesso, correção ou exclusão dos seus dados pelo e-mail <a href=\"mailto:contato@pixelzada.com.br\">contato@pixelzada.com.br</a>. Respondemos em até 15 dias.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Alterações",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Mudanças nesta política são publicadas nesta mesma página, com a data de atualização no topo.",
+      "items": []
+    }
+  ],
+  "lang": "pt",
+  "updated_at": "2026-10-08T02:03:03+00:00"
+}

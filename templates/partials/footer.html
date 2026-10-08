@@ -1,0 +1,50 @@
+{%- import "partials/icons.html" as ic %}
+<footer class="site-footer wrap">
+  <div class="foot">
+    <div class="foot-grid">
+      <div class="footer-brand">
+        <img class="brand-mark light" src="{{ cfg.get('brand.logo.lockup') }}" alt="{{ cfg.get('site.name') }}" width="150" height="35" loading="lazy">
+        <img class="brand-mark dark" src="{{ cfg.get('brand.logo.lockup_dark') }}" alt="" aria-hidden="true" width="150" height="35" loading="lazy">
+        <p class="tagline">{{ cfg.localized('site.tagline', lang) }}</p>
+        <p class="footer-note">{{ cfg.localized('site.description', lang) }}</p>
+        <div class="socials">
+          {%- if cfg.get('social.instagram') %}
+          <a class="iconbtn" href="{{ cfg.get('social.instagram') }}" target="_blank" rel="noopener" aria-label="Instagram">{{ ic.instagram() }}</a>
+          {%- endif %}
+          <a class="iconbtn" href="/rss-{{ lang }}.xml" aria-label="RSS">{{ ic.rss() }}</a>
+          {%- if cfg.get('social.email') %}
+          <a class="iconbtn" href="mailto:{{ cfg.get('social.email') }}" aria-label="{{ t.contact }}">{{ ic.mail() }}</a>
+          {%- endif %}
+        </div>
+      </div>
+      <nav class="footer-nav" aria-label="{{ t.sections }}">
+        <h2>{{ t.sections }}</h2>
+        {%- for cat in categories %}
+        <a href="/{{ lang }}/c/{{ cat.slug }}/">{{ cat.label }}</a>
+        {%- endfor %}
+      </nav>
+      <nav class="footer-nav" aria-label="{{ t.about_site }}">
+        <h2>{{ t.about_site }}</h2>
+        {%- for page in legal_pages %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+        {%- endfor %}
+        <a href="/rss-{{ lang }}.xml">RSS</a>
+      </nav>
+      <div class="footer-editions">
+        {%- if lang_links|length > 1 %}
+        <h2>{{ t.editions }}</h2>
+        <nav class="editions" aria-label="{{ t.editions }}">
+          {%- for link in lang_links %}
+          <a href="{{ link.url }}" hreflang="{{ link.hreflang }}" lang="{{ link.hreflang }}"{% if link.current %} aria-current="true"{% endif %}><em>{{ link.code }}</em><b>{{ link.name }}</b></a>
+          {%- endfor %}
+        </nav>
+        {%- endif %}
+        <p class="notice">{{ ic.shield() }}<span>{{ t.ai_disclosure }}</span></p>
+      </div>
+    </div>
+    <div class="footer-legal">
+      <p>&copy; {{ year }} {{ cfg.get('site.name') }}. {{ t.rights }}</p>
+      <p class="domain">{{ cfg.get('site.domain') }}</p>
+    </div>
+  </div>
+</footer>

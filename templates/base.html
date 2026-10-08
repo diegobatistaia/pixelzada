@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ html_lang }}"{% if default_theme == "dark" %} data-theme="dark"{% endif %}>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_description }}">
+{%- if page_keywords %}
+<meta name="keywords" content="{{ page_keywords }}">
+{%- endif %}
+<link rel="canonical" href="{{ canonical }}">
+{%- for alt in alternates %}
+<link rel="alternate" hreflang="{{ alt.hreflang }}" href="{{ alt.url }}">
+{%- endfor %}
+{%- if x_default %}
+<link rel="alternate" hreflang="x-default" href="{{ x_default }}">
+{%- endif %}
+<meta name="robots" content="max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{%- if cfg.get('analytics.search_console_verification') %}
+<meta name="google-site-verification" content="{{ cfg.get('analytics.search_console_verification') }}">
+{%- endif %}
+
+<meta property="og:type" content="{{ og_type|default('website') }}">
+<meta property="og:site_name" content="{{ cfg.get('site.name') }}">
+<meta property="og:locale" content="{{ cfg.get('site.locale.' ~ lang) }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:description" content="{{ page_description }}">
+<meta property="og:url" content="{{ canonical }}">
+{%- if og_image %}
+<meta property="og:image" content="{{ og_image }}">
+<meta property="og:image:alt" content="{{ og_image_alt|default(page_title) }}">
+{%- endif %}
+<meta name="twitter:card" content="{{ 'summary_large_image' if og_image else 'summary' }}">
+{%- if cfg.get('seo.twitter_site') %}
+<meta name="twitter:site" content="{{ cfg.get('seo.twitter_site') }}">
+{%- endif %}
+
+{#- Roda antes do CSS para a página já nascer no tema certo, sem piscar. #}
+<script>(function(){var d=document.documentElement,t=null;try{t=localStorage.getItem("theme")}catch(e){}if(t!=="light"&&t!=="dark"){t="{{ default_theme }}";if(t==="system"){t=window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"}}d.setAttribute("data-theme",t)})();</script>
+<link rel="icon" type="image/svg+xml" href="{{ cfg.get('brand.logo.favicon_svg') }}">
+<link rel="icon" type="image/x-icon" href="{{ cfg.get('brand.logo.favicon_ico') }}">
+<link rel="apple-touch-icon" href="/assets/logo/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="{{ cfg.get('site.name') }}" href="/rss-{{ lang }}.xml">
+<link rel="preload" href="/assets/fonts/space-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/fonts.css?v={{ asset_version('css/fonts.css') }}">
+<link rel="stylesheet" href="/assets/css/site.css?v={{ asset_version('css/site.css') }}">
+<script src="/assets/js/site.js?v={{ asset_version('js/site.js') }}" defer></script>
+{%- block schema %}{% endblock %}
+{%- if cfg.get('analytics.ga4_id') %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ cfg.get('analytics.ga4_id') }}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','{{ cfg.get("analytics.ga4_id") }}');</script>
+{%- endif %}
+{%- if ads.client_id %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ ads.client_id }}" crossorigin="anonymous"></script>
+{%- endif %}
+</head>
+<body>
+<a class="skip" href="#main">{{ t.skip_to_content }}</a>
+{%- if is_home %}
+{% include "partials/sky.html" %}
+{%- endif %}
+{% include "partials/header.html" %}
+{{ ad_slot('top_leaderboard') }}
+<main id="main">
+{%- block content %}{% endblock %}
+</main>
+{{ ad_slot('footer') }}
+{% include "partials/footer.html" %}
+<div class="toast" role="status" aria-live="polite" data-toast>{{ t.link_copied }}</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+# O site e servido a partir de um runner Linux: manter tudo em LF evita diffs
+# fantasmas entre a maquina Windows e o GitHub Actions.
+* text=auto eol=lf
+
+*.woff2 binary
+*.png    binary
+*.jpg    binary
+*.ico    binary

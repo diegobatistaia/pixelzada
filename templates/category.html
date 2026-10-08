@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="wrap block">
+  <header class="page-head">
+    <p class="tag">{{ t.section }}</p>
+    <h1>{{ category.label }}</h1>
+    <p class="dek">{{ page_description }}</p>
+  </header>
+  {%- if posts %}
+  <div class="grid">
+    {%- for post in posts %}
+    {% with post=post, variant=('lead' if loop.first else ''), eager=loop.first, hlevel=2 %}{% include "partials/card.html" %}{% endwith %}
+    {%- endfor %}
+  </div>
+  {%- else %}
+  <p class="empty">{{ t.empty_category }}</p>
+  {%- endif %}
+</section>
+{% endblock %}

@@ -1,0 +1,50 @@
+name: Métricas
+
+# Busca metricas de trafego (GA4 + Search Console) e commita data/analytics.json,
+# do mesmo jeito que o workflow Coletar entrega o briefing: aqui tem internet e
+# credencial, a Routine so le o resultado depois de clonar.
+#
+# Semanal, nao diario - trafego de um site pequeno nao muda o suficiente de um
+# dia pro outro pra justificar rodar isso toda hora.
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # 06:00 America/Sao_Paulo, segunda-feira
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: analytics
+  cancel-in-progress: false
+
+jobs:
+  metricas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Buscar métricas do GA4 e do Search Console
+        env:
+          GA_SEARCH_CONSOLE_CREDENTIALS: ${{ secrets.GA_SEARCH_CONSOLE_CREDENTIALS }}
+        run: python -m scripts.pipeline.run analytics
+
+      - name: Commitar data/analytics.json
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add data/analytics.json
+          if git diff --cached --quiet; then
+            echo "Métricas inalteradas."
+          else
+            git commit -m "analytics: métricas de $(date -u +%Y-%m-%d)"
+            git push
+          fi
