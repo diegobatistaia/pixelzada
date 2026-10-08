@@ -342,14 +342,16 @@ legal:
   publisher: Pixelzada
 
 deploy:
-  # DESLIGADO ate o dominio estar registrado e apontado para a hospedagem.
+  # DESLIGADO ate a chave de deploy da Pixelzada estar cadastrada.
   # Com enabled: false o workflow Deploy roda, avisa e sai sem erro.
   # A CHAVE PRIVADA nunca entra aqui: ela vai em GitHub > Secrets.
+  # Mesma conta compartilhada da Hostinger dos outros sites do Diego; a chave
+  # de deploy e exclusiva da Pixelzada (secret HOSTINGER_SSH_KEY deste repo).
   enabled: false
-  host: ""
-  port: 22
-  user: ""
-  remote_path: ""
+  host: 147.79.91.241
+  port: 65002
+  user: u433721675
+  remote_path: /home/u433721675/domains/pixelzada.com.br/public_html/
   exclude:
     - ".git*"
     - ".claude/"
