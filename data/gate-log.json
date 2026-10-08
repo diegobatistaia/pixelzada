@@ -68,5 +68,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-08T15:47:48+00:00",
+    "id": "star-wars-galactic-racer-grupo-seis-jogadores",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-10-08T15:47:48+00:00",
+    "id": "walking-dead-streets-of-survival-rick-daryl-michonne",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

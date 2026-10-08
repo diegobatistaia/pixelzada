@@ -110,7 +110,8 @@
     "alt": "Arte de The Walking Dead: Streets of Survival com os personagens do jogo",
     "credit": "Imagem: Xbox Wire",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/The-Walking-Dead-SoS-Deluxe-Store-Art-XBOX-WIRE-2aaec7d0cd8b76ff4c30.jpg",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/walking-dead-streets-of-survival-rick-da-0ded53f3.jpg"
   },
   "sources": [
     {
@@ -120,6 +121,8 @@
       "title": "How The Walking Dead: Streets of Survival Builds a Tactical Brawler"
     }
   ],
-  "status": "draft",
-  "fonte_unica": "anuncio_oficial"
+  "status": "published",
+  "fonte_unica": "anuncio_oficial",
+  "published_at": "2026-10-08T15:47:48+00:00",
+  "updated_at": "2026-10-08T15:47:48+00:00"
 }

@@ -126,7 +126,8 @@
     "alt": "Arte promocional de Star Wars: Galactic Racer com a edição de colecionador do jogo",
     "credit": "Imagem: Xbox Wire",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/CollectorsEdArt-653ecb82c42452ec4cdf.jpeg",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/star-wars-galactic-racer-grupo-seis-joga-afe6feea.jpg"
   },
   "sources": [
     {
@@ -148,5 +149,7 @@
       "title": "STAR WARS: Galactic Racer — Crashing with Consequence in Runs-Based Racing"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-08T15:47:48+00:00",
+  "updated_at": "2026-10-08T15:47:48+00:00"
 }
