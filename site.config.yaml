@@ -20,13 +20,12 @@ site:
   tagline:
     pt: Notícias de Games
   description:
-    pt: Notícias, guias e lançamentos de games, com GTA 6 em primeiro plano. Tudo checado, sempre com fonte.
+    pt: Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.
   # Primeiro paragrafo da pagina "Sobre" (scripts/tools/make_pages.py).
   about:
     pt: >-
       A Pixelzada é um site de notícias de games em português. Cobrimos
-      lançamentos, trailers, consoles, PC e a indústria, com o GTA 6 em primeiro
-      plano, e publicamos guias de códigos, mapa e requisitos para quem joga.
+      lançamentos, trailers, consoles, PC e a indústria, e publicamos guias de códigos, mapa e requisitos para quem joga.
   locale:
     pt: pt_BR
   html_lang:
