@@ -128,6 +128,10 @@ def attach(post: dict, cfg: Config) -> dict:
     provider = cfg.get("images.provider", "none")
     if provider == "none":
         return post
+    if provider == "cartao":
+        from . import capa
+        post["image"] = capa.gerar(post, cfg)
+        return post
 
     orientation = cfg.get("images.orientation", "landscape")
     errors = []

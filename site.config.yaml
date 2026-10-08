@@ -318,15 +318,15 @@ quality_gate:
   min_internal_links: 1
 
 images:
-  # SEM IMAGEM POR ENQUANTO. Nao ha chave do Unsplash/Pexels, e a identidade
-  # pede o trailer ou o print oficial dentro da arte, nao foto de banco. Com
-  # provider: none o gate nao exige imagem e os templates publicam so texto.
-  # Para voltar ao banco de fotos: provider: unsplash e os secrets
+  # Capa propria: arte em pixel art gerada pela Pixelzada (scripts/engine/capa.py),
+  # nas cores da categoria. Nao usa foto de banco nem print de terceiros, entao nao
+  # ha licenca nem credito. Trocar por trailer/print oficial dentro da arte e um
+  # passo futuro. Para voltar ao banco de fotos: provider: unsplash e os secrets
   # UNSPLASH_ACCESS_KEY / PEXELS_API_KEY.
-  provider: none
+  provider: cartao
   fallback_provider: pexels
   orientation: landscape
-  attribution_required: true
+  attribution_required: false
   query_suffix: video game
 
 model:
