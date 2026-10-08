@@ -420,9 +420,10 @@ def main() -> int:
           ig.escolher(ig_em("14:05"), fila[:1]) is None)
     feito = ig_pauta("gta-b", True, "2026-10-08T06:00:00-03:00", status="publicado",
                      publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:04:00-03:00"})
-    check("horário já preenchido não publica de novo", ig.escolher(ig_em("18:40"), [feito, fila[0]]) is None)
-    check("19h30 faz o Reel do carrossel do dia",
-          (ig.escolher(ig_em("19:35"), [feito]) or {}).get("acao") == "reel")
+    check("horário já preenchido não publica outro carrossel",
+          (ig.escolher(ig_em("18:40"), [feito, fila[0]]) or {}).get("acao") != "carrossel")
+    check("18h faz o Reel do carrossel do dia, depois do carrossel das 18h",
+          (ig.escolher(ig_em("18:25"), [feito]) or {}).get("acao") == "reel")
     check("horário perdido não sai colado no seguinte",
           (ig.escolher(ig_em("11:55"), fila[:1]) or {}).get("horario") != "08:00")
 
