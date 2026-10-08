@@ -76,5 +76,16 @@
     "Slide 3: Checagem: data no Xbox confirmada; streaming exclusivo e PC falsos",
     "Slide 4: Manda pro amigo que está contando os dias"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-10-08",
+    "horario": "12:00",
+    "em": "2026-10-08T12:36:29-03:00",
+    "media_id": "18191312995396622",
+    "permalink": "https://www.instagram.com/p/DePRXDUIPkG/"
+  },
+  "story": {
+    "em": "2026-10-08T12:37:03-03:00",
+    "media_id": "18144613363597723"
+  }
 }
