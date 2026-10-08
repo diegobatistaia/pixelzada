@@ -28,6 +28,11 @@ on:
     - cron: "23,53 20 * * *"  # 17:23 e 17:53
     - cron: "17 21 * * *"     # 18:17
   workflow_dispatch:
+    inputs:
+      limit:
+        description: "Pautas a baixar (0 = o teto da rodada). Use 10 para um dia de 10 matérias."
+        required: false
+        default: "0"
 
 permissions:
   contents: write
@@ -51,7 +56,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Coletar as pautas do dia
-        run: python -m scripts.pipeline.run brief
+        run: python -m scripts.pipeline.run brief --limit ${{ github.event.inputs.limit || 0 }}
 
       - name: Commitar o briefing
         run: |

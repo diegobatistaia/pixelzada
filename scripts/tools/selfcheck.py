@@ -146,6 +146,10 @@ def main() -> int:
         "imagem sem atribuição reprova": fixture(cfg, image={
             "path": "/x.jpg", "alt": "Descricao suficientemente longa da imagem", "credit": ""}),
     }
+    # Com images.provider: none o gate não exige imagem, então esses dois casos
+    # só fazem sentido quando há banco de imagens configurado.
+    if cfg.get("images.provider", "none") == "none":
+        cases = {k: v for k, v in cases.items() if "imagem" not in k and "alt-text" not in k}
     for label, broken in cases.items():
         enriched = seo.enrich(broken, [], cfg)
         check(label, not gate.evaluate(enriched, cfg, [])["passed"])

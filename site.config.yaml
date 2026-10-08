@@ -318,10 +318,12 @@ quality_gate:
   min_internal_links: 1
 
 images:
-  # PROVISORIO. A identidade da Pixelzada pede o trailer ou o print oficial
-  # dentro da arte, nao foto de banco. Ate isso existir no motor, o Unsplash
-  # segura o lugar da imagem.
-  provider: unsplash
+  # SEM IMAGEM POR ENQUANTO. Nao ha chave do Unsplash/Pexels, e a identidade
+  # pede o trailer ou o print oficial dentro da arte, nao foto de banco. Com
+  # provider: none o gate nao exige imagem e os templates publicam so texto.
+  # Para voltar ao banco de fotos: provider: unsplash e os secrets
+  # UNSPLASH_ACCESS_KEY / PEXELS_API_KEY.
+  provider: none
   fallback_provider: pexels
   orientation: landscape
   attribution_required: true
