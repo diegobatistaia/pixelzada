@@ -1,0 +1,128 @@
+{
+  "lang": "pt",
+  "slug": "unity-spark-google-playground-ia-jogos",
+  "story_id": "42ce26710ae32f08",
+  "title": "Unity Spark e Playground: jogos feitos por IA direto no navegador",
+  "dek": "O Google lançou o Playground em fase experimental, e a Unity promete uma versão 3D, o Spark, em beta ainda este ano, sem exportação nem venda no início.",
+  "meta_description": "O Google lançou o Playground para criar jogos por texto, e a Unity prepara o Spark em beta. Veja o que roda no navegador, o que fica de fora e a cobrança.",
+  "keyword": "Unity Spark Google Playground",
+  "category": "industria",
+  "tags": [
+    "unity spark",
+    "google playground",
+    "ia",
+    "desenvolvimento de jogos",
+    "unity"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "Descrever um jogo em uma frase e receber algo jogável no navegador. Essa é a promessa do Playground, plataforma que o Google lançou nesta semana em fase experimental. Uma versão mais ambiciosa, feita com a Unity e chamada Unity Spark, deve entrar em beta ainda este ano.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "As informações vêm da VGC, que reproduz o anúncio do Google, e da GamesIndustry.biz, que viu uma demonstração do Spark. A plataforma é restrita a maiores de 18 anos, segundo a GamesIndustry.biz.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que é o Playground",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o Google, o usuário dirige a criação digitando o que quer construir, testa o resultado e pode compartilhar o jogo por link. A empresa diz que a ideia é derrubar a barreira técnica, já que fazer um jogo exigiu historicamente conhecimento de programação. O Playground gera jogos simples, de acordo com a VGC.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Na prática, isso significa que alguém sem experiência em programação consegue experimentar uma ideia em minutos e mandar o link para um amigo testar. O Google chama a fase atual de experimental, o que costuma indicar limites de recursos, falhas e mudanças de regra, e não detalhou quantos jogos cada pessoa pode criar.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que o Unity Spark acrescenta",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Spark roda sobre o motor da Unity e gera jogos 3D a partir de comandos em texto, também sem instalar nada. Na demonstração vista pela GamesIndustry.biz, um pedido por uma capa para o personagem trouxe sugestões da Asset Store, a loja de recursos da Unity, e um pedido por um fundo de nascer do sol resultou em várias opções.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O agente de IA também sugere ações a partir do que o usuário faz, como criar uma ferramenta para alternar entre predefinições de iluminação, e vários agentes podem trabalhar ao mesmo tempo. Mais de uma pessoa pode editar o mesmo projeto compartilhando um link, e os jogos podem ser publicados no Playground.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Apesar de anunciado em parceria com o Google, o Spark vai usar vários modelos de IA e não depende só da tecnologia da empresa, segundo a GamesIndustry.biz.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que fica de fora no começo",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "O editor do Spark só funciona em navegadores de computador, embora os jogos possam ser jogados também no celular.",
+        "Não será possível baixar os projetos nem exportá-los para a versão completa do motor da Unity.",
+        "Não será possível vender os jogos criados no Spark.",
+        "O pagamento vai usar créditos ligados a tokens de IA. Uma parte será gratuita, mas os detalhes de preço não foram definidos."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "O que a Unity diz",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O CEO Matt Bromberg afirmou em um post que o objetivo não é gerar um jogo inteiro de uma vez, mas construir algo que valha ser trabalhado, polido e compartilhado. Ele escreveu que digitar o primeiro parágrafo de Guerra e Paz num editor de texto não faz de ninguém Tolstói, e que o mesmo vale para quem pede a IA que repita um jogo que já existe.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Para Bromberg, a base de tudo é a arte, ligada à Asset Store da empresa. Ele citou que cerca de 3 bilhões de pessoas jogam por mês algo feito com a Unity, mas quase nenhuma jamais fez um jogo. O objetivo declarado da empresa é aumentar esse número, não lucrar com a ferramenta de início.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O debate em volta",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A VGC lembra que a IA generativa continua controversa nos jogos, por causa de plágio e da qualidade do resultado, ainda que muitos desenvolvedores a usem para baixar custos. A Unity já lançou ferramentas de IA em beta aberto em maio e, segundo a GamesIndustry.biz, a Unity 7, prevista para o primeiro trimestre de 2027, terá IA como componente central.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O vice-presidente de produto, Adam Smith, afirmou que estúdios que decidiram manter a IA fora do processo criativo não ficam de lado nessa versão. A Unity não deu data para o beta do Spark além de \"ainda este ano\".",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "AI game creation browser Unity",
+    "alt": "Editor de jogos 3D da Unity rodando no navegador"
+  },
+  "sources": [
+    {
+      "name": "GamesIndustry.biz",
+      "owner": "ziff-davis",
+      "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+      "title": "Unity unveils a web-based AI game creation platform"
+    },
+    {
+      "name": "Video Games Chronicle",
+      "owner": "vgc",
+      "url": "https://www.videogameschronicle.com/news/google-officially-reveals-ai-game-creation-platform-playground/",
+      "title": "Google officially reveals AI game creation platform Playground"
+    }
+  ],
+  "status": "draft"
+}
