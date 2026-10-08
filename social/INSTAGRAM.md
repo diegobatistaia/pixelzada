@@ -57,7 +57,7 @@ funciona e é da conta certa?), `conferir` (últimos posts da conta) ou `rodada`
 
 ## Chave do Instagram
 
-Secret `INSTAGRAM_TOKEN` no repositório. A chave vale 60 dias e cada
+Secret `INSTAGRAM_TOKEN_PIXELZADA` no repositório. A chave vale 60 dias e cada
 publicação estica a validade de novo; se a conta ficar 60 dias sem publicar,
 é preciso gerar outra e trocar o secret.
 

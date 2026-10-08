@@ -37,7 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     env:
-      INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+      INSTAGRAM_TOKEN_PIXELZADA: ${{ secrets.INSTAGRAM_TOKEN_PIXELZADA }}
       ACAO: ${{ github.event.inputs.acao || 'rodada' }}
     steps:
       - uses: actions/checkout@v7

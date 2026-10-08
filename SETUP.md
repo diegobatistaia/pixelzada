@@ -105,7 +105,7 @@ Publicação automática de carrosséis, Stories e um Reel por dia. Como funcion
 1. Deixar o @pixelzada.br como conta profissional (Criador ou Empresa).
 2. Gerar a chave de acesso no app da Meta (o mesmo do Cortexplor serve) com
    login do Instagram.
-3. Cadastrar a chave no secret `INSTAGRAM_TOKEN`.
+3. Cadastrar a chave no secret `INSTAGRAM_TOKEN_PIXELZADA`.
 4. Rodar **Actions > Instagram > Run workflow > teste**.
 
 ## 10. Identidade visual

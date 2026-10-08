@@ -37,7 +37,7 @@ from pathlib import Path
 from . import pauta as P
 
 USUARIO = "pixelzada.br"
-SECRET = "INSTAGRAM_TOKEN"
+SECRET = "INSTAGRAM_TOKEN_PIXELZADA"
 API = "https://graph.instagram.com/v23.0"
 PEDIDO = P.SAIDA / "pedido.json"
 RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
