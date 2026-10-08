@@ -45,26 +45,40 @@ class Verification(BaseModel):
 
 def fetch_article(url: str, timeout: int = 20) -> str:
     """Best-effort full text. Returns "" when the page cannot be read."""
+    return fetch_page(url, timeout)[0]
+
+
+def fetch_page(url: str, timeout: int = 20) -> tuple[str, str]:
+    """Texto integral e imagem de capa (og:image) da página; ("", "") se não abrir.
+
+    A imagem vai para o briefing: é de onde a redação tira o print oficial dos
+    carrosséis do Instagram (a Routine não tem internet para procurar)."""
     try:
         response = requests.get(url, headers=HEADERS, timeout=timeout)
         response.raise_for_status()
     except requests.RequestException:
-        return ""
+        return "", ""
     soup = BeautifulSoup(response.text, "html.parser")
+    og = soup.find("meta", attrs={"property": "og:image"}) or soup.find("meta", attrs={"name": "twitter:image"})
+    image = (og.get("content") or "").strip() if og else ""
+    if image.startswith("//"):
+        image = "https:" + image
+    elif image.startswith("/"):
+        image = requests.compat.urljoin(url, image)
     for tag in soup(["script", "style", "nav", "aside", "footer", "form", "figure"]):
         tag.decompose()
     node = soup.find("article") or soup.find("main") or soup.body
     if node is None:
-        return ""
+        return "", image
     paragraphs = [p.get_text(" ", strip=True) for p in node.find_all("p")]
     text = " ".join(p for p in paragraphs if len(p) > 40)
-    return strip_tags(text)[:MAX_ARTICLE_CHARS]
+    return strip_tags(text)[:MAX_ARTICLE_CHARS], image
 
 
 def gather(story: dict) -> dict:
-    """Attach article bodies to the cluster's items, in place."""
+    """Attach article bodies (and cover images) to the cluster's items, in place."""
     for item in story["items"]:
-        item["body"] = fetch_article(item["url"])
+        item["body"], item["image"] = fetch_page(item["url"])
         item["body_chars"] = len(item["body"])
     return story
 

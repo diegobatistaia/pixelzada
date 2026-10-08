@@ -201,6 +201,14 @@ Ele aponta campo faltando, meta description fora da faixa, texto curto ou longo
 demais, fonte não citada, categoria inexistente. **Corrija e rode de novo até
 zerar.** Isso é de graça; o gate lá na frente não é.
 
+## 5.1 Instagram
+
+Depois das matérias, escreva as pautas do @pixelzada.br seguindo
+`.claude/skills/instagram-pixelzada/SKILL.md` (carrosséis das matérias de hoje e
+os de GTA 6 que faltarem na fila) e rode `python -m scripts.social.instagram check`
+até zerar. Isso vale também numa rodada sem matéria nova: a fila do Instagram
+precisa de GTA 6 todo dia.
+
 ## 6. Publicar
 
 ```bash
@@ -243,7 +251,9 @@ ruído.
 ## Se não houver pauta
 
 Se o briefing vier vazio, vier velho, ou nada resistir à checagem: escreva isso
-no resumo e encerre sem commitar. É um resultado legítimo e vai acontecer.
+no resumo e não escreva matéria. É um resultado legítimo e vai acontecer. As
+pautas de GTA 6 do Instagram (seção 5.1) ainda podem sair com fatos de matérias
+já publicadas; se não houver nem isso, encerre sem commitar.
 
 ## Onde cada etapa roda
 

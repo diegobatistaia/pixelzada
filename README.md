@@ -55,7 +55,9 @@ scripts/
     i18n.py               textos de interface (pt/en/es)
   pipeline/run.py         orquestrador: all | collect | build | queue | status
   tools/                  utilitários de uma vez só (páginas, demo, autoteste)
-templates/                HTML e CSS (Jinja2)
+scripts/social/           Instagram: pautas, gerador de artes e publicação
+social/                   pautas do Instagram e o guia (social/INSTAGRAM.md)
+templates/                HTML e CSS (Jinja2); templates/social/ é a moldura do Instagram
 content/pt/*.json         as matérias (fonte da verdade)
 content/pages/pt/          páginas institucionais
 data/                     índice de publicados, fila de exceção, log do gate

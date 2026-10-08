@@ -97,7 +97,18 @@ aparecem com `enabled: true`.
 Criar `contato@pixelzada.com.br`. Ele aparece no rodapé e nas páginas
 institucionais.
 
-## 9. Identidade visual
+## 9. Instagram (@pixelzada.br)
+
+Publicação automática de carrosséis, Stories e um Reel por dia. Como funciona:
+[social/INSTAGRAM.md](social/INSTAGRAM.md). Para ligar:
+
+1. Deixar o @pixelzada.br como conta profissional (Criador ou Empresa).
+2. Gerar a chave de acesso no app da Meta (o mesmo do Cortexplor serve) com
+   login do Instagram.
+3. Cadastrar a chave no secret `INSTAGRAM_TOKEN_PIXELZADA`.
+4. Rodar **Actions > Instagram > Run workflow > teste**.
+
+## 10. Identidade visual
 
 Já aplicada. Se o logo mudar, rode `identidade/logo/gerar_logo.py` na pasta do
 projeto e copie os SVGs novos para `assets/logo/` com os mesmos nomes.
