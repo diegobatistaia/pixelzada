@@ -215,7 +215,8 @@ Depois das matérias, escreva as pautas do @pixelzada.br seguindo
 `.claude/skills/instagram-pixelzada/SKILL.md` (carrosséis das matérias de hoje e
 os de GTA 6 que faltarem na fila) e rode `python -m scripts.social.instagram check`
 até zerar. Isso vale também numa rodada sem matéria nova: a fila do Instagram
-precisa de GTA 6 todo dia.
+precisa de GTA 6 todo dia. **Nunca repita imagem entre carrosséis**: rode
+`python -m scripts.social.instagram imagens` antes de escolher a capa.
 
 ## 6. Publicar
 

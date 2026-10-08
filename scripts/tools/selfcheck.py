@@ -403,6 +403,7 @@ def main() -> int:
     def ig_pauta(slug, gta, criado, **extra):
         p = copy.deepcopy(exemplo)
         p.update(slug=slug, gta6=gta, criado=criado, tipo="noticia", **extra)
+        p["imagem"] = {**p["imagem"], "url": f"https://exemplo.com/{slug}.jpg"}
         return p
 
     def ig_em(hhmm):
@@ -426,6 +427,14 @@ def main() -> int:
           (ig.escolher(ig_em("18:25"), [feito]) or {}).get("acao") == "reel")
     check("horário perdido não sai colado no seguinte",
           (ig.escolher(ig_em("11:55"), fila[:1]) or {}).get("horario") != "08:00")
+    igual = ig_pauta("gta-c", True, "2026-10-08T07:00:00-03:00")
+    igual["imagem"]["url"] = "https://exemplo.com/gta-b.jpg?w=1200"
+    check("imagem já usada em carrossel publicado não sai de novo (mesmo com outro recorte)",
+          ig.escolher(ig_em("08:03"), [feito, igual]) is None)
+    outra = ig_pauta("gta-d", True, "2026-10-08T07:30:00-03:00")
+    outra["imagem"]["url"] = "https://exemplo.com/gta-a.jpg"
+    check("duas pautas da fila com a mesma imagem: só a mais antiga entra",
+          [p["slug"] for p in ig.candidatas([fila[0], outra], ig_em("08:03"))] == ["gta-a"])
 
     print(f"\n{CHECKS - len(FAILURES)}/{CHECKS} verificações passaram")
     if FAILURES:
