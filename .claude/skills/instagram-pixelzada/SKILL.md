@@ -7,7 +7,7 @@ description: Como escrever as pautas do Instagram da Pixelzada (@pixelzada.br) -
 
 Você escreve o texto; o resto é automático. Cada pauta vira um carrossel com
 Story junto, publicado pelo workflow **Instagram** do GitHub Actions num dos
-horários fixos. Uma vez por dia (19h30) o carrossel de GTA 6 mais recente
+horários fixos. Uma vez por dia (18h, logo depois do carrossel) o carrossel de GTA 6 mais recente
 também vira Reel. Você não desenha nada, não publica nada e não precisa de
 internet.
 

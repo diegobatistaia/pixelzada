@@ -47,7 +47,7 @@ RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 # carrossel leva um Story junto.
 CARROSSEIS = [("08:00", "gta"), ("10:00", "outros"), ("12:00", "gta"), ("14:00", "outros"),
               ("18:00", "gta"), ("21:00", "outros")]
-REEL = "19:30"
+REEL = "18:00"
 # O GitHub atrasa os agendamentos. Um horário fica aberto de 10 min antes até
 # 2h30 depois; dentro da janela, cada tentativa vê se ele já foi preenchido.
 ANTES, DEPOIS = timedelta(minutes=10), timedelta(minutes=150)
