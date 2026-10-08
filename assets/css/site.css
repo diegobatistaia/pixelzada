@@ -1,30 +1,31 @@
 /* Generated from templates/site.css.j2 by scripts/engine/build.py.
    Fonts come from site.config.yaml. The palette follows the Instagram bio page
-   (assets/css/bio.css): off-white or near-black background, soft glow behind,
-   very rounded cards and round buttons. Edit here, not in assets/css/site.css. */
+   (assets/css/bio.css), recolored with the Pixelzada identity: noite background,
+   lima accent, Anton titles, Silkscreen labels and pixel-step image corners. Edit here, not in assets/css/site.css. */
 :root {
   color-scheme: light;
-  --bg: #F4F2EC;
-  --ink: #14130F;
-  --muted: #6B6960;
-  --faint: #8F8C82;
-  --line: rgba(20, 19, 15, .09);
-  --line-hi: rgba(20, 19, 15, .15);
-  --tile: #FFFEFB;
-  --tile-hi: #F8F7F3;
-  --steel: #3A4556;
-  --live: #2F7A55;
-  --glow1: rgba(107, 122, 143, .26);
-  --glow2: rgba(183, 192, 204, .30);
-  --edge: rgba(58, 69, 86, .24);
-  --spot: linear-gradient(120deg, #FFFEFB, #F1F2F4 60%, #E6E9EF);
-  --go-bg: #14130F;
-  --go-ink: #F4F2EC;
-  --shadow: 0 1px 0 rgba(255, 255, 255, .9) inset, 0 10px 26px -18px rgba(20, 19, 15, .28), 0 2px 6px -4px rgba(20, 19, 15, .08);
-  --shadow-lg: 0 1px 0 rgba(255, 255, 255, .9) inset, 0 30px 60px -36px rgba(20, 19, 15, .38);
-  --display: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
-  --mono: 'IBM Plex Mono', ui-monospace, SFMono-Regular, monospace;
-  --read: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --bg: #F6F5F9;
+  --ink: #0B0A10;
+  --muted: #5E5A6B;
+  --faint: #8A8697;
+  --line: rgba(11, 10, 16, .09);
+  --line-hi: rgba(11, 10, 16, .15);
+  --tile: #FFFFFF;
+  --tile-hi: #F1F0F5;
+  --steel: #0B0A10;
+  --live: #4C7A00;
+  --glow1: rgba(198, 255, 26, .30);
+  --glow2: rgba(255, 61, 139, .10);
+  --edge: rgba(11, 10, 16, .18);
+  --spot: linear-gradient(120deg, #FFFFFF, #F4F6EA 60%, #EEF7D2);
+  --go-bg: #0B0A10;
+  --go-ink: #C6FF1A;
+  --shadow: 0 1px 0 rgba(255, 255, 255, .9) inset, 0 10px 26px -18px rgba(11, 10, 16, .28), 0 2px 6px -4px rgba(11, 10, 16, .08);
+  --shadow-lg: 0 1px 0 rgba(255, 255, 255, .9) inset, 0 30px 60px -36px rgba(11, 10, 16, .38);
+  --title: 'Anton', Impact, 'Arial Narrow', sans-serif;
+  --display: 'Archivo', 'Arial Narrow', Arial, sans-serif;
+  --mono: 'Silkscreen', ui-monospace, monospace;
+  --read: 'Archivo', 'Arial Narrow', Arial, sans-serif;
   --wrap: 1200px;
   --narrow: 760px;
   --gutter: clamp(16px, 4vw, 32px);
@@ -32,22 +33,22 @@
 }
 
 :root[data-theme="dark"] {  color-scheme: dark;
-  --bg: #0B0B0A;
-  --ink: #EDECE8;
-  --muted: #9A978D;
-  --faint: #6E6B62;
-  --line: rgba(237, 236, 232, .08);
-  --line-hi: rgba(237, 236, 232, .14);
-  --tile: #141412;
-  --tile-hi: #1A1A17;
-  --steel: #B7C0CC;
-  --live: #7FB89A;
-  --glow1: rgba(107, 122, 143, .30);
-  --glow2: rgba(58, 69, 86, .28);
-  --edge: rgba(183, 192, 204, .20);
-  --spot: linear-gradient(120deg, #17181B, #121418 60%, #1A1F29);
-  --go-bg: #EDECE8;
-  --go-ink: #0B0B0A;
+  --bg: #0B0A10;
+  --ink: #FFFFFF;
+  --muted: #A7A3B5;
+  --faint: #7A7689;
+  --line: rgba(255, 255, 255, .08);
+  --line-hi: rgba(255, 255, 255, .14);
+  --tile: #17151F;
+  --tile-hi: #1D1A27;
+  --steel: #C6FF1A;
+  --live: #C6FF1A;
+  --glow1: rgba(198, 255, 26, .10);
+  --glow2: rgba(255, 61, 139, .10);
+  --edge: rgba(198, 255, 26, .22);
+  --spot: linear-gradient(120deg, #17151F, #121019 60%, #1B1A12);
+  --go-bg: #C6FF1A;
+  --go-ink: #0B0A10;
   --shadow: 0 1px 0 rgba(255, 255, 255, .04) inset, 0 14px 30px -20px rgba(0, 0, 0, .9);
   --shadow-lg: 0 1px 0 rgba(255, 255, 255, .05) inset, 0 30px 70px -34px rgba(0, 0, 0, 1);
 }
@@ -164,15 +165,14 @@ h2 a:hover, h3 a:hover, h4 a:hover { text-decoration: underline; text-decoration
     radial-gradient(520px 360px at 8% 60%, color-mix(in srgb, var(--glow1) 55%, transparent), transparent 72%);
   -webkit-mask-image: linear-gradient(#000 45%, transparent 88%); mask-image: linear-gradient(#000 45%, transparent 88%);
 }
-.sky-net { position: absolute; inset: 0; width: 100%; height: 100%; }
+.sky-pixels { position: absolute; inset: 0; width: 100%; height: 100%; }
 .sky-narrow { display: none; }
-.sky .edge path { stroke: var(--edge); stroke-width: 1.2; fill: none; }
-.sky .flow { stroke: var(--steel); stroke-width: 1.5; fill: none; stroke-linecap: round; stroke-dasharray: 14 260; opacity: .7; animation: flow 7s linear infinite; }
-.sky .flow:nth-child(2n) { animation-duration: 9s; animation-delay: -3s; }
-.sky .flow:nth-child(3n) { animation-duration: 11s; animation-delay: -6s; }
-.sky .node { fill: var(--steel); opacity: .55; }
-.sky .hub { fill: var(--ink); }
-@keyframes flow { to { stroke-dashoffset: -274; } }
+.sky .px { fill: var(--steel); opacity: .5; }
+.sky .px.m { fill: #FF3D8B; opacity: .55; }
+.sky .px.c { fill: #2EE6FF; opacity: .45; }
+.sky .px.fujao { opacity: 1; animation: fujao 2.4s steps(2, jump-none) infinite; }
+@keyframes fujao { 50% { transform: translate(0, -12px); } }
+@media (prefers-reduced-motion: reduce) { .sky .px.fujao { animation: none; } }
 
 .opening { display: flex; align-items: flex-end; justify-content: space-between; gap: 40px; padding-top: 84px; padding-bottom: 92px; }
 .stamp {
@@ -515,4 +515,25 @@ a.lk:hover { border-color: var(--edge); background: var(--tile-hi); }
 }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}
+
+
+/* ------------------------------------------------------- identidade Pixelzada */
+/* Titulos em Anton, sempre em maiusculas. */
+.opening-title, .lead-title, .article-head h1, .page-head h1, .card-title, .article-body h2 {
+  font-family: var(--title); font-weight: 400; text-transform: uppercase; letter-spacing: .01em;
+}
+.opening-title { line-height: .95; }
+.lead-title, .article-head h1 { line-height: 1.02; }
+.card-title { line-height: 1.12; }
+/* Texto em Archivo condensado, como na arte do Instagram. */
+body { font-stretch: 90%; }
+/* Recorte de imagem em degrau: a assinatura da moldura. */
+.frame img, .lead img, .card img {
+  --px: 8px;
+  clip-path: polygon(
+    0 calc(var(--px)*2), var(--px) calc(var(--px)*2), var(--px) var(--px), calc(var(--px)*2) var(--px), calc(var(--px)*2) 0,
+    calc(100% - var(--px)*2) 0, calc(100% - var(--px)*2) var(--px), calc(100% - var(--px)) var(--px), calc(100% - var(--px)) calc(var(--px)*2), 100% calc(var(--px)*2),
+    100% calc(100% - var(--px)*2), calc(100% - var(--px)) calc(100% - var(--px)*2), calc(100% - var(--px)) calc(100% - var(--px)), calc(100% - var(--px)*2) calc(100% - var(--px)), calc(100% - var(--px)*2) 100%,
+    calc(var(--px)*2) 100%, calc(var(--px)*2) calc(100% - var(--px)), var(--px) calc(100% - var(--px)), var(--px) calc(100% - var(--px)*2), 0 calc(100% - var(--px)*2));
 }

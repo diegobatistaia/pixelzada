@@ -40,35 +40,32 @@ niche:
     pt: Games
 
 brand:
-  # PROVISORIO. A identidade visual da Pixelzada esta sendo feita em outra
-  # frente do projeto; quando sair, troque cores, fontes e logo aqui e em
-  # assets/logo/. Nada no motor depende destes valores.
-  ink: "#121018"
-  paper: "#FFFFFF"
-  primary: "#5B2EFF"
-  accent: "#FF2E88"
-  surface: "#F5F3FA"
-  border: "#E3DFEE"
-  muted: "#6A6578"
-  ink_dark: "#F1EEF8"
-  paper_dark: "#0E0C14"
-  primary_dark: "#8C6BFF"
-  accent_dark: "#FF5CA3"
-  surface_dark: "#18151F"
-  border_dark: "#2A2633"
-  muted_dark: "#9C96AB"
+  # Identidade visual da Pixelzada (project-files/identidade/, LEIAME.md).
+  # Fundo sempre `noite`, cor da marca `lima`. A paleta completa do site fica
+  # em templates/site.css.j2; aqui ficam as cores que o motor usa em outros
+  # lugares (manifesto, cor de reserva das editorias).
+  ink: "#0B0A10"        # noite
+  paper: "#0B0A10"      # noite (fundo do app instalado)
+  primary: "#C6FF1A"    # lima
+  accent: "#FF3D8B"     # magenta
+  surface: "#17151F"    # carvao
+  border: "#2A2733"     # linha
+  muted: "#A7A3B5"      # cinza
   default_theme: dark
   fonts:
-    # Ainda as webfonts herdadas (assets/fonts/). Trocar junto com a identidade.
-    display: "'Space Grotesk', 'Helvetica Neue', Arial, sans-serif"
-    mono: "'IBM Plex Mono', ui-monospace, SFMono-Regular, monospace"
+    # Anton nos titulos, Archivo no texto, Silkscreen nas etiquetas. Vem do
+    # Google Fonts (gratuitas para uso comercial).
+    stylesheet: "https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wdth,wght@62..125,400..900&family=Silkscreen:wght@400;700&display=swap"
+    title: "'Anton', Impact, 'Arial Narrow', sans-serif"
+    display: "'Archivo', 'Arial Narrow', Arial, sans-serif"
+    mono: "'Silkscreen', ui-monospace, monospace"
   logo:
-    lockup: /assets/logo/pixelzada-logo-color.svg
-    lockup_dark: /assets/logo/pixelzada-logo-white.svg
-    icon: /assets/logo/pixelzada-icon-color.svg
-    # Versoes do icone usadas como avatar da redacao na materia.
-    icon_light: /assets/logo/pixelzada-icon-white.svg
-    icon_dark: /assets/logo/pixelzada-icon-black.svg
+    lockup: /assets/logo/pixelzada-logo-mono-preto.svg
+    lockup_dark: /assets/logo/pixelzada-logo-transparente.svg
+    icon: /assets/logo/pixelzada-simbolo-lima.svg
+    # Avatar da redacao na materia: o simbolo em lima, nos dois temas.
+    icon_light: /assets/logo/pixelzada-simbolo-lima.svg
+    icon_dark: /assets/logo/pixelzada-simbolo-lima.svg
     favicon_svg: /assets/logo/favicon.svg
     favicon_ico: /assets/logo/favicon.ico
 
@@ -128,19 +125,19 @@ editorial:
   categories:
     - slug: {pt: gta-6}
       label: {pt: "GTA 6"}
-      color: "#FF2E88"
+      color: "#C6FF1A"
     - slug: {pt: lancamentos}
       label: {pt: "Lançamentos"}
-      color: "#5B2EFF"
+      color: "#FF3D8B"
     - slug: {pt: guias}
       label: {pt: "Guias"}
-      color: "#14B8A6"
+      color: "#2EE6FF"
     - slug: {pt: consoles}
       label: {pt: "Consoles e PC"}
-      color: "#F59E0B"
+      color: "#FF8A1F"
     - slug: {pt: industria}
       label: {pt: "Indústria"}
-      color: "#64748B"
+      color: "#A7A3B5"
   home_layout:
     - today
     - feed

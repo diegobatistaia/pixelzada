@@ -96,10 +96,10 @@ python scripts/tools/demo_content.py --clean
 
 ## O que é provisório
 
-- **Identidade visual.** Cores em `brand:` no `site.config.yaml`, logo em
-  `assets/logo/` (um "P" de pixel em SVG) e as webfonts herdadas do Cortexplor
-  seguram o lugar até a identidade da Pixelzada ficar pronta. Trocar esses três
-  pontos não exige mexer no motor.
+- **Identidade visual.** Já aplicada a partir de `identidade/` (pasta do
+  projeto): logo e símbolo em `assets/logo/`, paleta `noite`/`lima` em
+  `templates/site.css.j2`, Anton, Archivo e Silkscreen pelo Google Fonts
+  (`brand.fonts` no config) e o recorte em degrau nas imagens.
 - **Imagem das matérias.** Hoje vem do Unsplash. A identidade pede o trailer ou
   o print oficial dentro da arte; isso ainda precisa entrar em
   `scripts/engine/images.py`.

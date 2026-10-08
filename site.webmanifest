@@ -4,8 +4,8 @@
   "description": "Notícias, guias e lançamentos de games, com GTA 6 em primeiro plano. Tudo checado, sempre com fonte.",
   "start_url": "/pt/",
   "display": "standalone",
-  "background_color": "#FFFFFF",
-  "theme_color": "#5B2EFF",
+  "background_color": "#0B0A10",
+  "theme_color": "#C6FF1A",
   "icons": [
     {
       "src": "/assets/logo/icon-192.png",

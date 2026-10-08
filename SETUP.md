@@ -99,13 +99,8 @@ institucionais.
 
 ## 9. Identidade visual
 
-Quando a identidade ficar pronta, troque:
-
-- as cores em `brand:` no `site.config.yaml`;
-- os arquivos em `assets/logo/` (mesmos nomes, ou ajuste `brand.logo`);
-- as webfonts em `assets/fonts/` e `assets/css/fonts.css`, e `brand.fonts`;
-- o fundo decorativo da capa em `templates/partials/sky.html` (ainda é a rede de
-  nós do Cortexplor).
+Já aplicada. Se o logo mudar, rode `identidade/logo/gerar_logo.py` na pasta do
+projeto e copie os SVGs novos para `assets/logo/` com os mesmos nomes.
 
 ---
 
