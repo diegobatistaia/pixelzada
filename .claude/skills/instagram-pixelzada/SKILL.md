@@ -15,8 +15,9 @@ Leia antes `.claude/skills/voz-pixelzada/SKILL.md`: a voz é a mesma do site.
 
 ## Quantas e quando
 
-Horários (Brasília): **08h, 12h, 18h e 21h para GTA 6**; **10h, 14h e 16h para
-outros jogos** (16h só sai se houver pauta). A fila é FIFO: a pauta mais antiga
+São **4 carrosséis por dia, metade GTA 6 e metade outros jogos** (decisão do
+Diego em 08/10). Horários (Brasília): **08h e 18h para GTA 6**; **12h e 21h para
+outros jogos**. A fila é FIFO: a pauta mais antiga
 sai primeiro. Notícia vence em 36 horas, checagem em 4 dias e guia em 7 dias;
 pauta vencida não sai.
 
@@ -27,15 +28,15 @@ python -m scripts.social.instagram agenda
 ```
 
 Ele mostra o que já saiu hoje e quantas pautas há na fila. A meta é a fila
-nunca secar: **cerca de 2 de GTA 6 e 1 de outros jogos por rodada**, menos se a
-fila já estiver cheia. Não escreva mais do que 4 por rodada.
+nunca secar: **cerca de 1 de GTA 6 e 1 de outros jogos por rodada**, menos se a
+fila já estiver cheia. Não escreva mais do que 3 por rodada.
 
 ## De onde vem o assunto
 
 1. **Cada matéria que você acabou de escrever para o site** pode virar uma pauta
    (`"materia": "<slug da matéria>"`). É o caminho principal.
-2. **GTA 6 sem notícia nova no dia.** Até o lançamento (19/11/2026) são 4 por
-   dia, e nem todo dia tem notícia. Complete com:
+2. **GTA 6 sem notícia nova no dia.** São 2 por dia, e nem todo dia tem
+   notícia de GTA 6. Complete com:
    - **checagem** ("o que se sabe"): boatos que estão no briefing contra o que
      já foi confirmado, com selos;
    - **guia**: passos práticos com fatos já publicados (pré-venda, edições,

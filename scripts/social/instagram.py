@@ -42,13 +42,10 @@ API = "https://graph.instagram.com/v23.0"
 PEDIDO = P.SAIDA / "pedido.json"
 RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 
-# Horários fixos (Brasília). "gta": 4 por dia; "outros": 2 ou 3 por dia. Um
-# horário de GTA sem pauta de GTA pega outro jogo, e vice-versa; o "extra" só sai
-# se houver pauta de outro jogo. Cada carrossel leva um Story junto.
-CARROSSEIS = [
-    ("08:00", "gta"), ("10:00", "outros"), ("12:00", "gta"), ("14:00", "outros"),
-    ("16:00", "extra"), ("18:00", "gta"), ("21:00", "gta"),
-]
+# Horários fixos (Brasília): 4 carrosséis por dia, metade GTA 6 e metade outros
+# jogos. Um horário de GTA sem pauta de GTA pega outro jogo, e vice-versa. Cada
+# carrossel leva um Story junto.
+CARROSSEIS = [("08:00", "gta"), ("12:00", "outros"), ("18:00", "gta"), ("21:00", "outros")]
 REEL = "19:30"
 # O GitHub atrasa os agendamentos. Um horário fica aberto de 10 min antes até
 # 2h30 depois; dentro da janela, cada tentativa vê se ele já foi preenchido.
@@ -97,12 +94,10 @@ def escolher(t: datetime | None = None, pautas: list[dict] | None = None) -> dic
         outros = [p for p in fila if not p["gta6"]]
         if tipo == "gta":
             escolhida = (gta or outros or [None])[0]
-        elif tipo == "outros":
+        else:
             # Pega GTA 6 só se sobrar mais do que os horários de GTA que faltam hoje.
             faltam = sum(1 for h, k in CARROSSEIS if k == "gta" and _hora(t, h) > inicio and h not in ocupados)
             escolhida = (outros or (gta if len(gta) > faltam else []) or [None])[0]
-        else:
-            escolhida = (outros or [None])[0]
         if escolhida:
             return {"acao": "carrossel", "slug": escolhida["slug"], "horario": hhmm, "data": hoje}
 

@@ -4,13 +4,12 @@ Tudo sai sozinho, em horários fixos (Brasília):
 
 | Horário | O que sai |
 |---|---|
-| 08h, 12h, 18h, 21h | carrossel de GTA 6 + Story |
-| 10h, 14h | carrossel de outro jogo + Story |
-| 16h | carrossel extra de outro jogo + Story (só se houver pauta) |
+| 08h e 18h | carrossel de GTA 6 + Story |
+| 12h e 21h | carrossel de outro jogo + Story |
 | 19h30 | Reel do carrossel de GTA 6 mais recente do dia |
 
-São de 4 a 7 carrosséis por dia, conforme a fila. Horário de GTA 6 sem pauta de
-GTA 6 pega outro jogo; horário de outro jogo só usa GTA 6 se sobrar.
+São 4 carrosséis por dia, metade GTA 6 e metade outros jogos. Horário de GTA 6
+sem pauta de GTA 6 pega outro jogo; horário de outro jogo só usa GTA 6 se sobrar.
 
 ## Como funciona
 
