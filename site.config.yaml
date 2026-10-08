@@ -163,7 +163,7 @@ editorial:
 
 publishing:
   # Preencher com a data do primeiro deploy. Vazio = primeira fase do ramp.
-  launch_date: ""
+  launch_date: "2026-10-08"
   # 5 a 6 por dia no comeco, subindo para 10. So avanca de fase se o gate
   # aprovar acima de ramp_gate_pass_rate na janela.
   ramp:
@@ -342,12 +342,12 @@ legal:
   publisher: Pixelzada
 
 deploy:
-  # DESLIGADO ate a chave de deploy da Pixelzada estar cadastrada.
+  # Ligado em 08/10/2026, com a chave de deploy da Pixelzada cadastrada.
   # Com enabled: false o workflow Deploy roda, avisa e sai sem erro.
   # A CHAVE PRIVADA nunca entra aqui: ela vai em GitHub > Secrets.
   # Mesma conta compartilhada da Hostinger dos outros sites do Diego; a chave
   # de deploy e exclusiva da Pixelzada (secret HOSTINGER_SSH_KEY deste repo).
-  enabled: false
+  enabled: true
   host: 147.79.91.241
   port: 65002
   user: u433721675
