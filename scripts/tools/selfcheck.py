@@ -413,11 +413,11 @@ def main() -> int:
             ig_pauta("velha", False, "2026-10-06T06:30:00-03:00")]
     check("8h publica GTA 6", (ig.escolher(ig_em("08:03"), fila) or {}).get("slug") == "gta-a")
     check("antes da hora não publica", ig.escolher(ig_em("07:40"), fila) is None)
-    check("12h publica outro jogo", (ig.escolher(ig_em("12:05"), fila) or {}).get("slug") == "outro-a")
+    check("10h publica outro jogo", (ig.escolher(ig_em("10:20"), fila) or {}).get("slug") == "outro-a")
     check("notícia vencida não sai", all((ig.escolher(ig_em(h), fila[2:]) or {}).get("slug") != "velha"
-                                         for h in ("12:05", "21:05")))
-    check("horário das 12h não gasta o GTA 6 que vai faltar às 18h",
-          ig.escolher(ig_em("12:05"), fila[:1]) is None)
+                                         for h in ("10:05", "14:05")))
+    check("horário das 14h não gasta o GTA 6 que vai faltar às 18h",
+          ig.escolher(ig_em("14:05"), fila[:1]) is None)
     feito = ig_pauta("gta-b", True, "2026-10-08T06:00:00-03:00", status="publicado",
                      publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:04:00-03:00"})
     check("horário já preenchido não publica de novo", ig.escolher(ig_em("18:40"), [feito, fila[0]]) is None)

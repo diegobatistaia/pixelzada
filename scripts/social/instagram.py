@@ -42,10 +42,11 @@ API = "https://graph.instagram.com/v23.0"
 PEDIDO = P.SAIDA / "pedido.json"
 RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 
-# Horários fixos (Brasília): 4 carrosséis por dia, metade GTA 6 e metade outros
+# Horários fixos (Brasília): 6 carrosséis por dia, 3 de GTA 6 e 3 de outros
 # jogos. Um horário de GTA sem pauta de GTA pega outro jogo, e vice-versa. Cada
 # carrossel leva um Story junto.
-CARROSSEIS = [("08:00", "gta"), ("12:00", "outros"), ("18:00", "gta"), ("21:00", "outros")]
+CARROSSEIS = [("08:00", "gta"), ("10:00", "outros"), ("12:00", "gta"), ("14:00", "outros"),
+              ("18:00", "gta"), ("21:00", "outros")]
 REEL = "19:30"
 # O GitHub atrasa os agendamentos. Um horário fica aberto de 10 min antes até
 # 2h30 depois; dentro da janela, cada tentativa vê se ele já foi preenchido.
