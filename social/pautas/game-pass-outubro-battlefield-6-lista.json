@@ -1,0 +1,99 @@
+{
+  "slug": "game-pass-outubro-battlefield-6-lista",
+  "tipo": "guia",
+  "assunto": "Game Pass",
+  "gta6": false,
+  "materia": "game-pass-outubro-2026-battlefield-6",
+  "criado": "2026-10-08T08:15:00-03:00",
+  "imagem": {
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon0610_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-cbf1b2ed3dea08b65ef4.jpg",
+    "credito": "Xbox",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Xbox Wire e Eurogamer",
+  "capa": {
+    "titulo": "Game Pass de outubro: Battlefield 6 entra, Clair Obscur sai",
+    "destaque": "Battlefield 6",
+    "apoio": "Datas de cada jogo e quem deixa o catálogo. Arrasta e salva."
+  },
+  "slides": [
+    {
+      "rotulo": "Dia 8",
+      "titulo": "Chegam hoje, dia 8",
+      "destaque": "dia 8",
+      "passos": [
+        "Echo Weaver: metroidvania de ciclo temporal",
+        "Forever Ago: aventura de viagem pela estrada",
+        "Neon Abyss 2: roguelike de ação com visual pixelado"
+      ]
+    },
+    {
+      "rotulo": "Dia 13",
+      "titulo": "Dia 13 tem o jogo grande",
+      "destaque": "jogo grande",
+      "passos": [
+        "Battlefield 6, da EA, no Ultimate e no PC Game Pass",
+        "Deep Dish Dungeon, de exploração e sobrevivência",
+        "Valor Mortis, soulslike dos criadores de Ghostrunner"
+      ]
+    },
+    {
+      "rotulo": "Dia 15 e 16",
+      "titulo": "Fecha o mês com cooperativo",
+      "destaque": "cooperativo",
+      "passos": [
+        "Bluey's Happy Snaps (15)",
+        "Chained Beasts, roguelike para até 4 (15)",
+        "Beyond These Stars, só no PC (16)"
+      ]
+    },
+    {
+      "rotulo": "Vai sair",
+      "titulo": "Quem deixa o catálogo",
+      "destaque": "deixa",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Clair Obscur: Expedition 33"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Pacific Drive"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Donut County"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "A Plague Tale: Requiem"
+        }
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que assina o Game Pass",
+  "legenda": {
+    "gancho": "Battlefield 6 chega ao Game Pass em 13 de outubro, e Clair Obscur: Expedition 33 está de saída.",
+    "corpo": [
+      "O Xbox Wire divulgou a primeira leva do mês: Echo Weaver, Forever Ago e Neon Abyss 2 chegam no dia 8. No dia 13 entram Battlefield 6, Deep Dish Dungeon e Valor Mortis. No dia 15, Bluey's Happy Snaps e Chained Beasts, e no dia 16, Beyond These Stars.",
+      "Segundo a Eurogamer, Clair Obscur: Expedition 33 tem só mais uma semana no serviço. Donut County e Pacific Drive também saem, e a VGC cita A Plague Tale: Requiem.",
+      "Os planos e as plataformas variam por jogo, então confira o seu antes de baixar."
+    ],
+    "chamada": "Qual desses você joga primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gamepass",
+      "#xbox",
+      "#battlefield6"
+    ]
+  },
+  "alt": [
+    "Slide 1: Game Pass de outubro: Battlefield 6 entra e Clair Obscur sai",
+    "Slide 2: Echo Weaver, Forever Ago e Neon Abyss 2 chegam no dia 8",
+    "Slide 3: Battlefield 6, Deep Dish Dungeon e Valor Mortis chegam no dia 13",
+    "Slide 4: Bluey's Happy Snaps, Chained Beasts e Beyond These Stars",
+    "Slide 5: Clair Obscur, Pacific Drive, Donut County e Plague Tale saem",
+    "Slide 6: Manda pro amigo que assina o Game Pass"
+  ],
+  "status": "pronto"
+}

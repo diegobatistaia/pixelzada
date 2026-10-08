@@ -1,0 +1,82 @@
+{
+  "slug": "marvel-tokon-phoenix-cyclops-novembro",
+  "tipo": "noticia",
+  "assunto": "Marvel Tōkon",
+  "gta6": false,
+  "materia": "marvel-tokon-phoenix-cyclops-2-novembro",
+  "criado": "2026-10-08T08:15:00-03:00",
+  "imagem": {
+    "url": "https://blog.playstation.com/tachyon/2026/10/e9592b0a1fa25ebc78f92e5dea79e4266953d980-scaled.jpg",
+    "credito": "Sony Interactive Entertainment",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: PlayStation Blog e Gematsu",
+  "capa": {
+    "titulo": "Phoenix Cyclops chega a Marvel Tōkon em 2 de novembro",
+    "destaque": "Phoenix Cyclops",
+    "apoio": "Primeiro DLC do Ano 1, com teste grátis no PS Plus. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A novidade",
+      "titulo": "O Cyclops com a Força Fênix",
+      "destaque": "Força Fênix",
+      "texto": [
+        "Segundo o produtor Takeshi Yamanaka, o Phoenix Cyclops é o **primeiro personagem de DLC** do Passe do Ano 1 e chega em 2 de novembro.",
+        "Os trajes Clássico e Legado saem no mesmo dia. A voz é de Ray Chase."
+      ]
+    },
+    {
+      "rotulo": "Como joga",
+      "titulo": "Rajadas e a forma Dark Phoenix",
+      "destaque": "Dark Phoenix",
+      "texto": [
+        "Ele é versátil, forte de perto e de longe, com várias rajadas ópticas.",
+        "Usar as rajadas junta Solar Shards. Com **quatro fragmentos**, ele vira Dark Phoenix: mais poder por um tempo, mas perde vida."
+      ]
+    },
+    {
+      "rotulo": "Para quem não jogou",
+      "titulo": "Teste grátis e promoção",
+      "destaque": "Teste grátis",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Teste de 3 horas no PS Plus, já disponível"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Primeira promoção do jogo na PS Store"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Percentual do desconto e preço no Brasil"
+        }
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga jogo de luta",
+  "legenda": {
+    "gancho": "Phoenix Cyclops é o primeiro DLC de Marvel Tōkon e chega em 2 de novembro, com teste grátis no PS Plus.",
+    "corpo": [
+      "Segundo a Sony, o personagem faz parte do Passe do Ano 1 e vem com os trajes Clássico e Legado. A dublagem é de Ray Chase.",
+      "A mecânica gira em torno dos Solar Shards: com quatro fragmentos, ele se transforma em Dark Phoenix, ganha poder temporário e perde vida, de acordo com o produtor Takeshi Yamanaka.",
+      "Quem ainda não jogou pode testar por 3 horas com o PS Plus, e a primeira promoção do jogo na PlayStation Store já começou. Percentual e preço em reais não foram informados."
+    ],
+    "chamada": "Você vai jogar de Phoenix Cyclops?",
+    "hashtags": [
+      "#pixelzada",
+      "#marveltokon",
+      "#ps5",
+      "#ps5games"
+    ]
+  },
+  "alt": [
+    "Slide 1: Phoenix Cyclops chega a Marvel Tōkon em 2 de novembro",
+    "Slide 2: Primeiro DLC do Passe do Ano 1, com trajes Clássico e Legado",
+    "Slide 3: Solar Shards levam o Cyclops à forma Dark Phoenix",
+    "Slide 4: Teste de 3 horas no PS Plus e primeira promoção do jogo",
+    "Slide 5: Manda pro amigo que joga jogo de luta"
+  ],
+  "status": "pronto"
+}

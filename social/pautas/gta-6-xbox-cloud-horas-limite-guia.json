@@ -1,0 +1,87 @@
+{
+  "slug": "gta-6-xbox-cloud-horas-limite-guia",
+  "tipo": "guia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-xbox-streaming-nuvem-pc",
+  "criado": "2026-10-08T08:15:00-03:00",
+  "imagem": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "credito": "Rockstar Games",
+    "pos": "50% 30%"
+  },
+  "fonte": "Fontes: The Verge e GamesRadar",
+  "capa": {
+    "titulo": "GTA 6 na nuvem do Xbox: quantas horas dá pra jogar",
+    "destaque": "quantas horas",
+    "apoio": "O limite começa em novembro, o mesmo mês do jogo. Arrasta que a conta é curta."
+  },
+  "slides": [
+    {
+      "rotulo": "A regra",
+      "titulo": "Novembro tem limite de horas",
+      "destaque": "limite",
+      "texto": [
+        "Segundo o The Verge, a partir de novembro o Xbox Cloud Gaming limita o tempo de streaming por plano.",
+        "Quem passar do limite precisa **comprar horas extras**. Também vai existir um modo de pagar por uso, sem assinatura."
+      ]
+    },
+    {
+      "rotulo": "Por plano",
+      "titulo": "Horas por mês em cada plano",
+      "destaque": "Horas",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Game Pass Ultimate: 15 horas"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Game Pass Premium: 10 horas"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Game Pass Essential: 5 horas"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Preço das horas extras no Brasil"
+        }
+      ]
+    },
+    {
+      "rotulo": "A conta",
+      "titulo": "Dá pra zerar GTA 6 assim?",
+      "destaque": "zerar",
+      "texto": [
+        "Jogos da Rockstar costumam ser longos, lembra a GamesRadar. Com 15 horas no plano mais alto, o streaming vira alternativa pontual.",
+        "Nem a Microsoft nem a Rockstar ligaram o limite ao lançamento. É coincidência de data, não decisão confirmada."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que ia jogar GTA 6 só na nuvem",
+  "legenda": {
+    "gancho": "O Xbox Cloud Gaming vai limitar as horas de streaming em novembro, o mesmo mês de GTA 6.",
+    "corpo": [
+      "Segundo o The Verge, a partir de novembro são 15 horas por mês no Game Pass Ultimate, 10 no Premium e 5 no Essential. Passou disso, só comprando mais horas.",
+      "A GamesRadar lembra que jogos da Rockstar costumam ser longos, então jogar GTA 6 só pela nuvem pode ficar curto. A Microsoft e a Rockstar não ligaram uma coisa à outra.",
+      "Preço das horas extras em reais e a lista de aparelhos que poderão transmitir o jogo ainda não foram divulgados."
+    ],
+    "chamada": "Você jogaria GTA 6 na nuvem?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#xbox",
+      "#gamepass",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 na nuvem do Xbox: quantas horas dá pra jogar",
+    "Slide 2: A partir de novembro o Xbox Cloud Gaming limita as horas",
+    "Slide 3: Limites: 15 horas no Ultimate, 10 no Premium e 5 no Essential",
+    "Slide 4: Com limite de horas, zerar GTA 6 só na nuvem fica difícil",
+    "Slide 5: Manda pro amigo que ia jogar GTA 6 só na nuvem"
+  ],
+  "status": "pronto"
+}

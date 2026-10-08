@@ -1,0 +1,80 @@
+{
+  "slug": "gta-6-faltam-42-dias-o-que-esta-confirmado",
+  "tipo": "checagem",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "",
+  "criado": "2026-10-08T08:15:00-03:00",
+  "imagem": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gta6.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: The Verge e GamesRadar",
+  "capa": {
+    "titulo": "Faltam 42 dias para GTA 6: o que já é fato",
+    "destaque": "42 dias",
+    "apoio": "Contagem regressiva com o que está confirmado e o que ainda não. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Contagem",
+      "titulo": "19 de novembro no Xbox",
+      "destaque": "19 de novembro",
+      "texto": [
+        "A data confirmada pelo Xbox para GTA 6 é **19 de novembro**, segundo Matthew Ball, diretor de estratégia da empresa.",
+        "De hoje até lá são 42 dias."
+      ]
+    },
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato, papo e buraco",
+      "destaque": "buraco",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Lançamento no Xbox em 19 de novembro"
+        },
+        {
+          "selo": "falso",
+          "texto": "Streaming exclusivo do Xbox"
+        },
+        {
+          "selo": "falso",
+          "texto": "Streaming para PC no Xbox Cloud Gaming"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Versão nativa para PC"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Preço do jogo no Brasil"
+        }
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que está contando os dias",
+  "legenda": {
+    "gancho": "Faltam 42 dias para GTA 6, e isto é o que já está confirmado até agora.",
+    "corpo": [
+      "O Xbox confirmou o lançamento em 19 de novembro, segundo Matthew Ball, diretor de estratégia da empresa. Ele também disse que o jogo não terá streaming exclusivo nem para PC, de acordo com o The Verge e a GamesRadar.",
+      "A Rockstar ainda não anunciou versão para PC. O preço do jogo no Brasil também não foi divulgado, e esta página só coloca como fato o que tem fonte.",
+      "A gente atualiza a lista a cada novidade confirmada."
+    ],
+    "chamada": "Qual é o seu maior medo até o dia 19?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#xbox"
+    ]
+  },
+  "alt": [
+    "Slide 1: Faltam 42 dias para GTA 6: o que já é fato, segundo a Pixelzada",
+    "Slide 2: Xbox confirma o lançamento de GTA 6 em 19 de novembro",
+    "Slide 3: Checagem: data no Xbox confirmada; streaming exclusivo e PC falsos",
+    "Slide 4: Manda pro amigo que está contando os dias"
+  ],
+  "status": "pronto"
+}

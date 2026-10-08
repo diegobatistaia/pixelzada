@@ -1,0 +1,90 @@
+{
+  "slug": "forza-horizon-6-ps5-26-janeiro-checagem",
+  "tipo": "checagem",
+  "assunto": "Forza Horizon 6",
+  "gta6": false,
+  "materia": "forza-horizon-6-ps5-rumor-janeiro",
+  "criado": "2026-10-08T08:15:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/forza-horizon-6-steam-headline-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Xbox Game Studios",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Eurogamer e VGC",
+  "capa": {
+    "titulo": "Forza Horizon 6 no PS5 só em janeiro? Calma, é rumor",
+    "destaque": "é rumor",
+    "apoio": "Um leaker cravou data, mas o estúdio ainda fala em 2026. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que rolou",
+      "titulo": "Um leaker cravou 26 de janeiro",
+      "destaque": "26 de janeiro",
+      "texto": [
+        "Segundo a Eurogamer e a VGC, o leaker billbil-kun, do Dealabs, diz que Forza Horizon 6 chega ao PS5 em **26 de janeiro de 2027**, com versão em disco.",
+        "Ele também fala em 59,99 libras no Reino Unido e 69,99 euros no resto da Europa."
+      ]
+    },
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato ou rumor",
+      "destaque": "rumor",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "O jogo já saiu no Xbox e no PC"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "PS5 prometido pela Playground para 2026"
+        },
+        {
+          "selo": "boato",
+          "texto": "Lançamento no PS5 em 26 de janeiro"
+        },
+        {
+          "selo": "boato",
+          "texto": "Versão em disco no PS5"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Edição Premium e preço no Brasil"
+        }
+      ]
+    },
+    {
+      "rotulo": "O estúdio",
+      "titulo": "A Playground ainda não confirmou",
+      "destaque": "não confirmou",
+      "texto": [
+        "Em setembro, o site oficial do jogo dizia que o PS5 chega \"ainda este ano\", segundo a VGC. O estúdio nunca deu uma data.",
+        "Antes disso, outros relatos de atraso já tinham sido negados."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que espera o Forza no PlayStation",
+  "legenda": {
+    "gancho": "Forza Horizon 6 no PS5 em 26 de janeiro? Por enquanto é rumor, e a Playground não confirmou.",
+    "corpo": [
+      "O leaker billbil-kun, do Dealabs, afirma que a versão de PS5 sai em 26 de janeiro de 2027, com disco, segundo a Eurogamer e a VGC. Ele cita 59,99 libras no Reino Unido e 69,99 euros na Europa.",
+      "Em setembro, a Playground Games disse no site do jogo que o PS5 chega ainda este ano e abriu a lista de desejos na PlayStation Store, de acordo com a VGC. O estúdio nunca definiu uma data.",
+      "Se houver anúncio oficial, a data e o preço em reais aparecem aqui."
+    ],
+    "chamada": "Você espera por esse jogo no PS5?",
+    "hashtags": [
+      "#pixelzada",
+      "#forzahorizon6",
+      "#ps5",
+      "#xbox"
+    ]
+  },
+  "alt": [
+    "Slide 1: Forza Horizon 6 no PS5 em janeiro? Calma, é rumor",
+    "Slide 2: Leaker cita 26 de janeiro e versão em disco no PS5",
+    "Slide 3: Checagem: PS5 prometido; data de janeiro e disco são boatos",
+    "Slide 4: Playground Games ainda não confirmou data para o PS5",
+    "Slide 5: Manda pro amigo que espera o Forza no PlayStation"
+  ],
+  "status": "pronto"
+}
