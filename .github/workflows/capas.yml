@@ -1,0 +1,47 @@
+name: Capas
+
+# Troca a capa genérica das matérias publicadas pela imagem de divulgação das
+# fontes. Roda na mão (Actions > Capas > Run workflow); precisa de internet.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finalizar
+  cancel-in-progress: false
+
+jobs:
+  capas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Buscar as imagens e refazer o site
+        run: |
+          python -m scripts.tools.capas_oficiais
+          python -m scripts.pipeline.run build
+      - name: Commitar
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "site: capas oficiais"
+            git push
+          fi
+
+  publicar:
+    needs: capas
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

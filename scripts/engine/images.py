@@ -123,13 +123,56 @@ def query_ladder(post: dict, cfg: Config) -> list[str]:
     return ladder
 
 
+def _da_fonte(post: dict) -> dict | None:
+    """Imagem oficial de divulgação (og:image da fonte), recortada em 16:9.
+
+    A redação copia a URL do campo `image` da fonte no briefing para
+    `post.image.url`. Se não abrir, for pequena ou não for imagem, devolve
+    None e o chamador cai na capa própria.
+    """
+    img = post.get("image") or {}
+    url = (img.get("url") or "").strip()
+    if not url:
+        return None
+    try:
+        resp = requests.get(url, headers={"User-Agent": "PixelzadaBot/1.0"}, timeout=TIMEOUT)
+        resp.raise_for_status()
+        im = Image.open(io.BytesIO(resp.content)).convert("RGB")
+    except Exception:
+        return None
+    if im.width < 800:
+        return None
+    alvo = 16 / 9
+    if im.width / im.height > alvo:                 # larga demais: corta dos lados
+        novo = round(im.height * alvo)
+        esq = (im.width - novo) // 2
+        im = im.crop((esq, 0, esq + novo, im.height))
+    else:                                           # alta demais: corta embaixo e em cima
+        novo = round(im.width / alvo)
+        topo = round((im.height - novo) * 0.35)
+        im = im.crop((0, topo, im.width, topo + novo))
+    im = im.resize((MAX_WIDTH, round(MAX_WIDTH * 9 / 16)), Image.LANCZOS)
+    IMG_DIR.mkdir(parents=True, exist_ok=True)
+    nome = f"{post['slug'][:40]}-{fingerprint(url)[:8]}.jpg"
+    im.save(IMG_DIR / nome, "JPEG", quality=QUALITY, optimize=True, progressive=True)
+    return {**img, "path": f"/assets/img/{nome}",
+            "credit": (img.get("credit") or "Imagem: divulgação").strip(),
+            "source_url": img.get("source_url", "")}
+
+
 def attach(post: dict, cfg: Config) -> dict:
     """Find, download and attach a cover image. Raises ImageError if none can be had."""
     provider = cfg.get("images.provider", "none")
     if provider == "none":
         return post
-    if provider == "cartao":
+    if provider in ("cartao", "fonte"):
         from . import capa
+        if provider == "fonte":
+            achada = _da_fonte(post)
+            if achada:
+                post["image"] = achada
+                return post
+        # Sem imagem utilizável da fonte, a matéria sai com a capa própria.
         post["image"] = capa.gerar(post, cfg)
         return post
 

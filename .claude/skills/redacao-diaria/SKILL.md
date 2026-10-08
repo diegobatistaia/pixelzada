@@ -165,8 +165,10 @@ Um arquivo por matéria, em `content/<idioma>/<slug>.json`:
     {"type": "list", "text": "", "items": ["Item um", "Item dois"]}
   ],
   "image": {
-    "query": "busca em inglês para o banco de imagens",
-    "alt": "Descrição da imagem no idioma do texto, com pelo menos 15 caracteres"
+    "query": "busca em inglês (reserva, se a imagem da fonte falhar)",
+    "alt": "Descrição da imagem no idioma do texto, com pelo menos 15 caracteres",
+    "url": "URL do campo image de uma fonte da pauta no briefing",
+    "credit": "Imagem: Xbox Wire"
   },
   "sources": [
     {"name": "Rockstar Newswire", "owner": "take-two", "url": "https://...", "title": "Título original"},
@@ -178,6 +180,12 @@ Um arquivo por matéria, em `content/<idioma>/<slug>.json`:
 
 Regras do arquivo:
 
+- **Imagem do jogo.** Cada pauta do briefing traz `image` (o og:image da
+  fonte). Copie a URL da fonte mais oficial da matéria (publisher, Xbox Wire,
+  PlayStation Blog, Rockstar) para `image.url` e escreva `image.credit` como
+  "Imagem: <nome da fonte>". O `alt` descreve o que a imagem mostra, sem
+  inventar: se não souber, descreva o jogo e o assunto. Sem URL utilizável, a
+  matéria sai com a capa própria da Pixelzada. Nunca use imagem de outro lugar.
 - `slug` em minúsculas, sem acento, 3 a 8 palavras.
 - `story_id` copiado da pauta: é o que evita escrever a mesma pauta duas vezes.
 - `category` tem que estar em `categories_by_language.pt` no briefing:

@@ -318,15 +318,16 @@ quality_gate:
   min_internal_links: 1
 
 images:
-  # Capa propria: arte em pixel art gerada pela Pixelzada (scripts/engine/capa.py),
-  # nas cores da categoria. Nao usa foto de banco nem print de terceiros, entao nao
-  # ha licenca nem credito. Trocar por trailer/print oficial dentro da arte e um
-  # passo futuro. Para voltar ao banco de fotos: provider: unsplash e os secrets
-  # UNSPLASH_ACCESS_KEY / PEXELS_API_KEY.
-  provider: cartao
+  # Imagem oficial de divulgacao do jogo: a coleta guarda o og:image de cada
+  # fonte, a redacao copia a URL em image.url e o credito em image.credit, e o
+  # Finalizar baixa e recorta em 16:9. Sem URL utilizavel, cai na capa propria
+  # em pixel art (scripts/engine/capa.py). "cartao" usa so a capa propria.
+  # Para banco de fotos: provider: unsplash e os secrets UNSPLASH_ACCESS_KEY /
+  # PEXELS_API_KEY.
+  provider: fonte
   fallback_provider: pexels
   orientation: landscape
-  attribution_required: false
+  attribution_required: true
   query_suffix: video game
 
 model:

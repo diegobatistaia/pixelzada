@@ -114,5 +114,5 @@ def gerar(post: dict, cfg: Config) -> dict:
         **post.get("image", {}),
         "path": f"/assets/img/{nome}",
         "alt": f"Arte em pixel art da Pixelzada, no tema {label or 'games'}, para a matéria: {post['title']}",
-        "credit": "",
+        "credit": "Arte: Pixelzada",
     }
