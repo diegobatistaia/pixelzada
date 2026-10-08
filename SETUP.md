@@ -59,7 +59,7 @@ A lista foi montada sem acesso à internet e nenhum feed foi testado ainda.
 
 1. Instale o app do Claude no GitHub para o repositório `pixelzada`.
 2. Preencha `publishing.launch_date` com a data do primeiro deploy. É ela que
-   move o ramp (5, 6, 8 e 10 matérias por dia).
+   move o ramp (8 matérias por dia, 10 a partir do dia 30).
 3. Crie a Routine em <https://claude.ai/code/routines>, rodando 30 minutos depois
    de cada coleta (07h30, 12h30 e 18h30) e seguindo
    `.claude/skills/redacao-diaria/SKILL.md`.

@@ -166,10 +166,8 @@ publishing:
   # 5 a 6 por dia no comeco, subindo para 10. So avanca de fase se o gate
   # aprovar acima de ramp_gate_pass_rate na janela.
   ramp:
-    - {from_day: 0,   posts_per_language: 5}
-    - {from_day: 14,  posts_per_language: 6}
-    - {from_day: 30,  posts_per_language: 8}
-    - {from_day: 45,  posts_per_language: 10}
+    - {from_day: 0,   posts_per_language: 8}
+    - {from_day: 30,  posts_per_language: 10}
   # Horarios (fuso do site) em que a coleta roda. Se mudar aqui, mude o cron do
   # workflow Coletar e o horario da Routine (30 min depois de cada coleta).
   run_hours: [7, 12, 18]
