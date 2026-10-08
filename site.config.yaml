@@ -365,3 +365,9 @@ deploy:
     - "site.config.yaml"
     - "requirements.txt"
     - "assets/logo/source/"
+    # Instagram: as pautas e o rascunho do gerador nao vao para o site. E ig/
+    # (a midia publica dos posts, enviada pelo workflow Instagram) fica fora
+    # do --delete: sem esta linha, cada deploy apagaria as imagens do servidor.
+    - "/social/"
+    - "/ig/"
+    - "requirements-instagram.txt"

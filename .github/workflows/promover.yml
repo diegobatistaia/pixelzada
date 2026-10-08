@@ -5,12 +5,14 @@ name: Promover rascunhos
 # 12h30 e 18h30 escreveram três matérias que ficaram fora do site). Este
 # workflow traz para o main só os rascunhos novos desse branch e chama o
 # Finalizar, que publica. Nada além de content/<idioma>/*.json com status
-# "draft" e que ainda não exista no main é copiado.
+# "draft" e social/pautas/*.json com status "pronto" (Instagram), que ainda
+# não existam no main, é copiado.
 on:
   push:
     branches: ["claude/**"]
     paths:
       - "content/**"
+      - "social/pautas/**"
 
 permissions:
   contents: write
@@ -46,9 +48,20 @@ jobs:
             n=$((n+1))
           done
           echo "promovidos=$n" >> "$GITHUB_OUTPUT"
+          # Pautas novas do Instagram (status "pronto"), pelo mesmo critério.
+          pautas=0
+          for f in $(git diff --name-only --diff-filter=A "$base" FETCH_HEAD -- 'social/pautas/*.json'); do
+            if [ -e "$f" ]; then echo "já existe no main: $f"; continue; fi
+            status=$(git show "FETCH_HEAD:$f" | python3 -c 'import json,sys; print(json.load(sys.stdin).get("status",""))')
+            if [ "$status" != "pronto" ]; then echo "não está pronta: $f"; continue; fi
+            git checkout FETCH_HEAD -- "$f"
+            echo "promovida: $f"
+            pautas=$((pautas+1))
+          done
+          echo "pautas=$pautas" >> "$GITHUB_OUTPUT"
 
       - name: Commitar no main
-        if: steps.copiar.outputs.promovidos != '0'
+        if: steps.copiar.outputs.promovidos != '0' || steps.copiar.outputs.pautas != '0'
         run: |
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<link rel="stylesheet" href="{{ base }}/templates/social/marca.css">
+<style>
+  body { background: transparent; }
+  .lista { list-style: none; display: grid; }
+  .lista li { display: flex; align-items: center; gap: 24px; padding: 22px 0; border-bottom: 2px solid var(--linha); }
+  .lista .selo { flex: none; min-width: 270px; text-align: center; }
+  .passos { list-style: none; display: grid; gap: 22px; }
+  .passos li { display: flex; gap: 22px; align-items: center; }
+  .passos .n { flex: none; width: 58px; height: 58px; display: grid; place-items: center; background: var(--destaque); color: var(--noite); font: 700 30px/1 var(--f-pixel); }
+  .item { font-size: 38px; font-weight: 600; line-height: 1.22; }
+</style>
+</head><body>
+{%- set logo_preto = base ~ "/assets/logo/pixelzada-logo-mono-preto.svg" %}
+{%- set logo_branco = base ~ "/assets/logo/pixelzada-logo-transparente.svg" %}
+{%- set simbolo = base ~ "/assets/logo/pixelzada-simbolo.svg" %}
+{%- macro faixa(fonte) -%}
+<footer class="faixa"><img src="{{ logo_preto }}" alt="Pixelzada"><span class="fonte">{{ fonte }}</span><span class="contador">{{ n }}/{{ total }}{% if n < total %} <i class="seta"></i>{% endif %}</span></footer>
+{%- endmacro %}
+{%- macro midia(estilo) -%}
+<div class="midia recorte" id="midia" style="{{ estilo }}">
+  {%- if img %}<img src="{{ img }}" alt="" style="object-position: {{ s.pos or pos }}">{% endif -%}
+  <span class="credito">IMAGEM: {{ credito|upper }}</span>
+</div>
+{%- endmacro %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ midia("left:40px;top:40px;width:1000px;height:700px") }}
+  <div style="position:absolute;left:40px;top:672px"><span class="tag">{{ p.assunto }}<i class="sep"></i>{{ rotulo_tipo }}</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:780px">
+    <h1 class="titulo" data-ajusta data-min="64" style="font-size:100px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:22px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <header style="position:absolute;left:56px;right:56px;top:64px;display:flex;justify-content:space-between;align-items:center">
+    <span class="tag">{{ s.rotulo }}</span><img src="{{ simbolo }}" alt="" style="height:64px">
+  </header>
+  <section data-caixa data-imagem-ate="800" style="position:absolute;left:56px;right:56px;top:190px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:78px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- for t in s.texto or [] %}
+    <p class="texto" style="margin-top:{{ 36 if loop.first else 28 }}px{% if loop.index > 1 and loop.last %};color:var(--cinza){% endif %}">{{ t|negrito }}</p>
+    {%- endfor %}
+    {%- if s.itens %}
+    <ul class="lista" style="margin-top:28px">
+      {%- for it in s.itens %}
+      <li><span class="selo {{ it.selo }}">{{ selos[it.selo] }}</span><span class="texto item">{{ it.texto }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+    {%- if s.passos %}
+    <ol class="passos" style="margin-top:36px">
+      {%- for t in s.passos %}
+      <li><span class="n">{{ s.inicio + loop.index0 }}</span><span class="texto item">{{ t }}</span></li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+  </section>
+  {{ midia("left:56px;right:56px;top:830px;height:380px") }}
+  {{ faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte" style="background:var(--lima);color:var(--noite)">
+  <img src="{{ simbolo }}" alt="" style="position:absolute;left:56px;top:64px;height:150px">
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:330px">
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:118px;color:var(--noite)">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa" style="background:var(--noite);color:var(--lima)"><img src="{{ logo_branco }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+
+{%- elif s.kind == "story" %}
+<main class="arte vertical {{ cor }}">
+  <img src="{{ logo_branco }}" alt="Pixelzada" style="position:absolute;left:64px;top:230px;height:52px">
+  <div style="position:absolute;left:64px;top:340px"><span class="tag">Post novo<i class="sep"></i>{{ p.assunto }}</span></div>
+  {{ midia("left:64px;right:64px;top:440px;height:700px") }}
+  <section data-caixa data-limite="1470" style="position:absolute;left:64px;right:64px;top:1180px">
+    <h1 class="titulo" data-ajusta data-min="64" style="font-size:104px">{{ s.titulo|realce(s.destaque) }}</h1>
+  </section>
+  <div style="position:absolute;left:64px;right:64px;top:1530px;font:700 32px/1.5 var(--f-pixel);color:var(--destaque);text-transform:uppercase">Carrossel completo no feed<br><span style="color:var(--branco);font-weight:400">Matéria completa no link da bio</span></div>
+</main>
+
+{%- elif s.kind == "reel-capa" %}
+<main class="arte vertical {{ cor }}">
+  <div class="midia" style="inset:0">{% if img %}<img src="{{ img }}" alt="" style="object-position: {{ pos }}">{% endif %}</div>
+  <div style="position:absolute;inset:0;background:linear-gradient(to bottom,rgba(11,10,16,.1) 30%,rgba(11,10,16,.92) 62%)"></div>
+  <section data-caixa data-limite="1640" style="position:absolute;left:64px;right:64px;top:1000px">
+    <span class="tag">{{ p.assunto }}<i class="sep"></i>{{ rotulo_tipo }}</span>
+    <h1 class="titulo" data-ajusta data-min="72" style="font-size:120px;line-height:1.1;margin-top:30px">{{ s.titulo|realce(s.destaque, "marcador") }}</h1>
+  </section>
+  <img src="{{ logo_branco }}" alt="Pixelzada" style="position:absolute;left:64px;top:150px;height:56px">
+  <span style="position:absolute;right:64px;top:160px;font:400 22px/1 var(--f-pixel);opacity:.85">IMAGEM: {{ credito|upper }}</span>
+</main>
+
+{%- elif s.kind == "reel-moldura" %}
+{#- Fundo do Reel: o slide do carrossel entra no meio (y 285 a 1635) pelo ffmpeg. #}
+<main class="arte vertical {{ cor }}">
+  <img src="{{ logo_branco }}" alt="Pixelzada" style="position:absolute;left:64px;top:150px;height:56px">
+  <div class="degraus" style="right:64px;top:166px"><i></i><i></i><i></i></div>
+  <div style="position:absolute;left:64px;right:64px;top:1690px;font:700 30px/1.4 var(--f-pixel);color:var(--destaque);text-transform:uppercase">Segue @pixelzada.br</div>
+</main>
+{%- endif %}
+
+<script>
+// Encolhe o título até o texto caber; depois mede. O gerador lê window.__medida.
+(function () {
+  const limitePadrao = document.querySelector('.arte').offsetHeight - 84 - 30;
+  const caixa = document.querySelector('[data-caixa]');
+  const out = { erros: [] };
+  if (caixa) {
+    const limite = +(caixa.dataset.limite || limitePadrao);
+    const midia = document.getElementById('midia');
+    const ateImagem = caixa.dataset.imagemAte ? +caixa.dataset.imagemAte : null;
+    const fundo = () => caixa.getBoundingClientRect().bottom;
+    const teto = () => (ateImagem && midia && midia.style.display !== 'none') ? ateImagem : limite;
+    // Slide de texto: a imagem de baixo some quando o texto precisa do espaço.
+    if (ateImagem && midia && fundo() > ateImagem) midia.style.display = 'none';
+    for (const el of caixa.querySelectorAll('[data-ajusta]')) {
+      let tam = parseFloat(getComputedStyle(el).fontSize);
+      const min = +(el.dataset.min || 40);
+      while (fundo() > teto() && tam > min) { tam -= 2; el.style.fontSize = tam + 'px'; }
+    }
+    if (fundo() > teto()) out.erros.push('texto passa do espaço em ' + Math.round(fundo() - teto()) + 'px');
+    for (const el of caixa.querySelectorAll('*')) {
+      if (el.scrollWidth > el.clientWidth + 2 && getComputedStyle(el).overflow !== 'visible') out.erros.push('texto cortado na largura');
+      if (el.getBoundingClientRect().right > document.querySelector('.arte').offsetWidth - 40) { out.erros.push('texto passa da margem direita'); break; }
+    }
+  }
+  window.__medida = out;
+})();
+</script>
+</body></html>

@@ -1,0 +1,116 @@
+name: Instagram
+
+# Publica no @pixelzada.br sozinho, em horários fixos (Brasília):
+#   carrossel + Story às 08h, 10h, 12h, 14h, 16h (extra), 18h e 21h
+#   um Reel por dia às 19h30, feito do carrossel de GTA 6 mais recente do dia
+#
+# A redação (Routine do Claude) escreve as pautas em social/pautas/. Aqui, onde
+# há internet e as chaves, o post é desenhado, enviado para
+# pixelzada.com.br/ig/<slug>/ (o Instagram busca a imagem por URL pública) e
+# publicado pela API. O resultado volta para a pauta e para
+# social/publicar/ultimo.json. Regras e horários: scripts/social/instagram.py.
+#
+# O GitHub atrasa os agendamentos, então cada horário tem três tentativas; a
+# primeira que roda publica e as outras saem em segundos.
+on:
+  schedule:
+    - cron: "2,22,47 11,13,15,17,19,21,0 * * *"   # 08, 10, 12, 14, 16, 18 e 21h
+    - cron: "32,52 22 * * *"                       # 19h32 e 19h52 (Reel)
+    - cron: "17 23 * * *"                          # 20h17 (Reel)
+  workflow_dispatch:
+    inputs:
+      acao:
+        description: "rodada = publica se for horário; teste = confere a chave; conferir = lista os últimos posts"
+        type: choice
+        options: [teste, conferir, rodada]
+        default: teste
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  instagram:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
+      ACAO: ${{ github.event.inputs.acao || 'rodada' }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Teste da chave ou conferência
+        if: env.ACAO != 'rodada'
+        run: python -m scripts.social.instagram "$ACAO"
+
+      - name: É horário de publicar?
+        id: decidir
+        if: env.ACAO == 'rodada'
+        run: python -m scripts.social.instagram decidir
+
+      - name: Instalar o gerador
+        if: steps.decidir.outputs.acao == 'carrossel' || steps.decidir.outputs.acao == 'reel'
+        run: |
+          pip install -r requirements.txt -r requirements-instagram.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Desenhar
+        id: preparar
+        if: steps.decidir.outputs.acao == 'carrossel' || steps.decidir.outputs.acao == 'reel'
+        run: python -m scripts.social.instagram preparar
+
+      - name: Enviar a mídia para pixelzada.com.br/ig/
+        if: steps.preparar.outputs.acao == 'carrossel' || steps.preparar.outputs.acao == 'reel'
+        env:
+          SLUG: ${{ steps.preparar.outputs.slug }}
+        run: |
+          eval "$(python - <<'PY'
+          import yaml
+          d = yaml.safe_load(open("site.config.yaml"))["deploy"]
+          for k in ("host", "port", "user", "remote_path"):
+              print(f'DESTINO_{k.upper()}="{d[k]}"')
+          PY
+          )"
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.HOSTINGER_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          # Mesmas tentativas do Deploy: a Hostinger às vezes recusa o SSH por alguns segundos.
+          for tentativa in 1 2 3 4 5; do
+            if rsync -rlvz --mkpath \
+                 -e "ssh -i ~/.ssh/deploy_key -p $DESTINO_PORT -o StrictHostKeyChecking=accept-new -o BatchMode=yes -o ConnectTimeout=20" \
+                 "social/saida/$SLUG/" "$DESTINO_USER@$DESTINO_HOST:${DESTINO_REMOTE_PATH%/}/ig/$SLUG/"; then
+              rm -f ~/.ssh/deploy_key
+              exit 0
+            fi
+            sleep $((tentativa * 15))
+          done
+          rm -f ~/.ssh/deploy_key
+          exit 1
+
+      - name: Publicar no Instagram
+        if: steps.preparar.outputs.acao == 'carrossel' || steps.preparar.outputs.acao == 'reel'
+        run: python -m scripts.social.instagram publicar
+
+      - name: Registrar o resultado
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add social/pautas social/publicar 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "instagram: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          # A Routine pode ter mandado pautas novas enquanto este job rodava.
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1

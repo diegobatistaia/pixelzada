@@ -1,0 +1,68 @@
+{
+  "slug": "gta-6-xbox-cloud-gaming-pc-checagem",
+  "tipo": "checagem",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "",
+  "criado": "2026-10-08T07:40:00-03:00",
+  "imagem": {
+    "url": "https://exemplo.invalido/print-oficial.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: The Verge, Eurogamer e GamesRadar",
+  "capa": {
+    "titulo": "GTA 6 no PC pela nuvem do Xbox? Calma lá",
+    "destaque": "Calma lá",
+    "apoio": "O Xbox desmentiu a história do streaming exclusivo. Arrasta que a gente separou o que é fato e o que é papo."
+  },
+  "slides": [
+    {
+      "rotulo": "O que rolou",
+      "titulo": "Uma reunião interna virou boato",
+      "destaque": "boato",
+      "texto": [
+        "Segundo o The Verge, a CEO do Xbox, Asha Sharma, disse a funcionários que a empresa prepara algo com GTA 6 que **nenhuma outra plataforma** está fazendo.",
+        "A leitura foi de que o Xbox teria direitos exclusivos de streaming do jogo."
+      ]
+    },
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Real ou papo",
+      "destaque": "papo",
+      "itens": [
+        {"selo": "confirmado", "texto": "GTA 6 sai no Xbox em 19 de novembro"},
+        {"selo": "falso", "texto": "Streaming exclusivo do Xbox"},
+        {"selo": "falso", "texto": "Jogar no PC pelo Xbox Cloud Gaming"},
+        {"selo": "sem-info", "texto": "Versão nativa para PC"}
+      ]
+    },
+    {
+      "rotulo": "Quem desmentiu",
+      "titulo": "O próprio Xbox",
+      "destaque": "Xbox",
+      "texto": [
+        "Matthew Ball, diretor de estratégia do Xbox, escreveu no X que o jogo **não vai ter streaming exclusivo nem para PC**, segundo a Eurogamer e a GamesRadar.",
+        "A Rockstar ainda não anunciou versão de PC."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que já ia jogar GTA 6 no notebook",
+  "legenda": {
+    "gancho": "GTA 6 não vai rodar no PC pelo Xbox Cloud Gaming, e o Xbox não tem streaming exclusivo do jogo.",
+    "corpo": [
+      "A confusão começou com uma reportagem do The Verge sobre uma reunião interna em que a CEO do Xbox, Asha Sharma, prometeu algo com GTA 6 que nenhuma outra plataforma faria.",
+      "Matthew Ball, diretor de estratégia do Xbox, respondeu no X que o jogo sai no Xbox em 19 de novembro, mas sem streaming exclusivo e sem streaming para PC, segundo a Eurogamer e a GamesRadar. A Rockstar ainda não anunciou a versão de PC."
+    ],
+    "chamada": "Você tinha caído nessa?",
+    "hashtags": ["#pixelzada", "#gta6", "#xbox", "#rockstargames"]
+  },
+  "alt": [
+    "Slide 1: GTA 6 no PC pela nuvem do Xbox? Checagem da Pixelzada",
+    "Slide 2: Reportagem do The Verge sobre reunião interna do Xbox gerou o boato",
+    "Slide 3: Checagem: GTA 6 no Xbox em 19/11 confirmado; streaming exclusivo e no PC falsos",
+    "Slide 4: Matthew Ball, do Xbox, desmentiu o streaming exclusivo e para PC",
+    "Slide 5: Manda pro amigo que já ia jogar GTA 6 no notebook"
+  ],
+  "status": "pronto"
+}

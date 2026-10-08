@@ -384,6 +384,46 @@ def main() -> int:
           same_local_day(_dt(2026, 10, 5, 2, 0, tzinfo=timezone.utc), tz,
                          now=_dt(2026, 10, 5, 0, 30, tzinfo=timezone.utc)))
 
+    print("\nInstagram")
+    import copy
+    import json
+    from datetime import datetime
+    from scripts.social import instagram as ig, pauta as pt
+    exemplo = json.loads((ROOT / "social" / "exemplo-pauta.json").read_text(encoding="utf-8"))
+    check("pauta de exemplo passa na conferência", pt.conferir(exemplo) == [], "; ".join(pt.conferir(exemplo)))
+    ruim = copy.deepcopy(exemplo)
+    ruim["legenda"]["hashtags"] = ["#gta6", "#games"]
+    ruim["legenda"]["corpo"].append("Leia em pixelzada.com.br")
+    erros = " ".join(pt.conferir(ruim))
+    check("pauta: hashtag da marca, genérica e link na legenda reprovam",
+          "#pixelzada" in erros and "genérica" in erros and "link" in erros, erros)
+
+    def ig_pauta(slug, gta, criado, **extra):
+        p = copy.deepcopy(exemplo)
+        p.update(slug=slug, gta6=gta, criado=criado, tipo="noticia", **extra)
+        return p
+
+    def ig_em(hhmm):
+        return datetime.fromisoformat(f"2026-10-08T{hhmm}:00-03:00")
+
+    fila = [ig_pauta("gta-a", True, "2026-10-08T06:00:00-03:00"),
+            ig_pauta("outro-a", False, "2026-10-08T06:30:00-03:00"),
+            ig_pauta("velha", False, "2026-10-06T06:30:00-03:00")]
+    check("8h publica GTA 6", (ig.escolher(ig_em("08:03"), fila) or {}).get("slug") == "gta-a")
+    check("antes da hora não publica", ig.escolher(ig_em("07:40"), fila) is None)
+    check("10h publica outro jogo", (ig.escolher(ig_em("10:20"), fila) or {}).get("slug") == "outro-a")
+    check("notícia vencida não sai", all((ig.escolher(ig_em(h), fila[2:]) or {}).get("slug") != "velha"
+                                         for h in ("10:05", "14:05")))
+    check("horário das 14h não gasta GTA 6 que vai faltar às 18h e 21h",
+          ig.escolher(ig_em("14:05"), fila[:1]) is None)
+    feito = ig_pauta("gta-b", True, "2026-10-08T06:00:00-03:00", status="publicado",
+                     publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:04:00-03:00"})
+    check("horário já preenchido não publica de novo", ig.escolher(ig_em("18:40"), [feito, fila[0]]) is None)
+    check("19h30 faz o Reel do carrossel do dia",
+          (ig.escolher(ig_em("19:35"), [feito]) or {}).get("acao") == "reel")
+    check("horário perdido não sai colado no seguinte",
+          (ig.escolher(ig_em("10:20"), fila[:1]) or {}).get("horario") != "08:00")
+
     print(f"\n{CHECKS - len(FAILURES)}/{CHECKS} verificações passaram")
     if FAILURES:
         print("Falhas: " + ", ".join(FAILURES))

@@ -97,6 +97,7 @@ def cmd_brief(cfg, args) -> int:
                 "title": i["title"], "published_at": i["published_at"],
                 "kind": i.get("kind", "press"),
                 "text": i.get("body", ""),
+                "image": i.get("image", ""),
             } for i in story["items"]],
         })
 

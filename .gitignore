@@ -14,3 +14,6 @@ Thumbs.db
 # republicaria as mesmas pautas todo dia e a fila de excecao sumiria.
 # briefing.json tambem e versionado de proposito: e como a coleta (que roda no
 # GitHub Actions, com internet) entrega o material para a Routine (que nao tem).
+
+# Instagram: o que o gerador desenha antes de enviar (refeito a cada publicação).
+social/saida/

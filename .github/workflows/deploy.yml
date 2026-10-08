@@ -15,6 +15,7 @@ on:
     paths-ignore:
       - "content/**"
       - "data/**"
+      - "social/**"
       - "**.md"
   # Rede de seguranca contra o dia em que as 5 tentativas do rsync (abaixo)
   # esgotam por uma instabilidade prolongada da Hostinger. Roda toda noite,
