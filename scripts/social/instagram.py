@@ -70,9 +70,25 @@ def _publicado_hoje(pautas: list[dict], hoje: str) -> list[dict]:
 # ---------------------------------------------------------------------------
 # Escolha do que sai agora
 # ---------------------------------------------------------------------------
+def imagem_chave(p: dict) -> str:
+    """A mesma foto com outro recorte ou tamanho (?w=1200...) tem a mesma chave."""
+    img = p.get("imagem") or {}
+    return (img.get("url") or img.get("path") or "").split("?")[0].split("#")[0].strip().lower()
+
+
 def candidatas(pautas: list[dict], t: datetime) -> list[dict]:
-    prontas = [p for p in pautas if p.get("status") == "pronto" and not P.vencida(p, t)]
-    return sorted(prontas, key=lambda p: P.criado_em(p))  # a mais antiga primeiro: nada vence na fila
+    """Fila de pautas prontas, a mais antiga primeiro. Nunca repete imagem: pauta
+    cuja imagem já saiu em outro carrossel, ou que repete a de uma pauta mais
+    antiga da fila, fica de fora até a redação trocar a imagem."""
+    usadas = {imagem_chave(p) for p in pautas if p.get("status") == "publicado"}
+    fila = []
+    for p in sorted((p for p in pautas if p.get("status") == "pronto" and not P.vencida(p, t)), key=P.criado_em):
+        k = imagem_chave(p)
+        if k in usadas:
+            continue
+        usadas.add(k)
+        fila.append(p)
+    return fila
 
 
 def escolher(t: datetime | None = None, pautas: list[dict] | None = None) -> dict | None:
@@ -380,17 +396,32 @@ def cmd_conferir(args) -> int:
 def cmd_check(args) -> int:
     arquivos = [P.caminho(s) for s in args.slugs] if args.slugs else sorted(P.PAUTAS.glob("*.json"))
     ruins = 0
+    todas = P.todas()
     for f in arquivos:
         p = json.loads(f.read_text(encoding="utf-8"))
         if p.get("status") != "pronto":
             continue
         erros = P.conferir(p, str(f))
+        k = imagem_chave(p)
+        for o in todas:
+            if o["slug"] != p["slug"] and o.get("status") in ("pronto", "publicado") and imagem_chave(o) == k \
+                    and (o.get("status") == "publicado" or P.criado_em(o) < P.criado_em(p)):
+                erros.append(f"imagem repetida: a mesma de {o['slug']}; escolha outra imagem oficial")
+                break
         for e in erros:
             print(f"{f.stem}: ERRO: {e}")
         ruins += bool(erros)
         if not erros:
             print(f"{f.stem}: ok")
     return 1 if ruins else 0
+
+
+def cmd_imagens(args) -> int:
+    """Imagem de cada pauta publicada ou na fila: a redação confere antes de escolher a nova."""
+    for p in sorted(P.todas(), key=P.criado_em):
+        if p.get("status") in ("pronto", "publicado"):
+            print(f"{p['status']:<9} {p['slug'][:48]:<48} {imagem_chave(p)}")
+    return 0
 
 
 def cmd_fila(args) -> int:
@@ -424,13 +455,13 @@ def cmd_agenda(args) -> int:
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
-    for nome in ("decidir", "preparar", "publicar", "teste", "conferir", "fila", "agenda"):
+    for nome in ("decidir", "preparar", "publicar", "teste", "conferir", "fila", "agenda", "imagens"):
         sub.add_parser(nome)
     p = sub.add_parser("check")
     p.add_argument("slugs", nargs="*")
     args = ap.parse_args(argv)
     return {"decidir": cmd_decidir, "preparar": cmd_preparar, "publicar": cmd_publicar, "teste": cmd_teste, "conferir": cmd_conferir,
-            "check": cmd_check, "fila": cmd_fila, "agenda": cmd_agenda}[args.cmd](args)
+            "check": cmd_check, "fila": cmd_fila, "agenda": cmd_agenda, "imagens": cmd_imagens}[args.cmd](args)
 
 
 if __name__ == "__main__":

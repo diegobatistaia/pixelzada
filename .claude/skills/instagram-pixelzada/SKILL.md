@@ -104,14 +104,24 @@ Você não vê a imagem, então escolha pela origem:
    oficial do jogo** (trailer, screenshots, capa). Se a matéria é sobre uma
    pessoa, uma empresa ou um processo, a imagem provavelmente é foto de
    agência: não use.
-3. Para GTA 6 sem imagem nova, reaproveite a `imagem.url` de uma pauta de GTA 6
-   já `publicado` em `social/pautas/` (ela já funcionou).
+
+**Nunca repita imagem.** Cada carrossel tem a sua. Antes de escolher, rode
+`python -m scripts.social.instagram imagens`: ele lista a imagem de cada pauta
+já publicada ou na fila (hoje e dias recentes). A imagem da nova pauta não pode
+ser a mesma de nenhuma delas, nem com outro recorte ou tamanho (o `?w=1200` não
+conta como outra imagem). `check` reprova a repetição e o workflow não publica
+pauta com imagem repetida.
+
+Se a única imagem disponível já foi usada, procure outra: a `image` de outra
+fonte do briefing (prefira a oficial, Rockstar Newswire, PlayStation Blog, Xbox
+Wire) ou a imagem de outra matéria do site sobre o mesmo assunto. Sem imagem
+diferente e adequada, não escreva a pauta: um GTA 6 a menos é melhor que um
+carrossel repetido.
 
 `credito` é o dono da imagem, não o site onde ela estava: "Rockstar Games",
 "Sony", "Xbox Game Studios". `pos` (opcional) diz qual parte da imagem fica
 visível na capa, como no CSS `object-position`.
 
-Sem imagem que sirva, não escreva a pauta.
 
 ## Texto
 
