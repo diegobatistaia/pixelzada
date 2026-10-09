@@ -10,6 +10,17 @@ Tudo sai sozinho, em horários fixos (Brasília):
 São 7 carrosséis por dia, 3 de GTA 6 e 4 de outros jogos. O Reel está desligado desde 09/10 (`REEL_ATIVO = False` em `scripts/social/instagram.py`; o código segue pronto). Horário de GTA 6
 sem pauta de GTA 6 pega outro jogo; horário de outro jogo só usa GTA 6 se sobrar.
 
+## Reels de vídeo (a gaveta)
+
+Além dos carrosséis, saem **3 Reels por dia, às 11h, 15h30 e 20h**, de vídeos já
+prontos na identidade visual (montados pelo Claude a partir do que o Diego
+envia). A fila é `social/reels/fila.json` (data, horário, legenda, estilo) e os
+vídeos ficam em `social/reels/videos/<slug>.mp4` + `<slug>.jpg` (capa). O
+workflow **Reels** (`.github/workflows/reels.yml`, código em
+`scripts/social/reels.py`) publica sozinho; Reel cuja janela passou sem sair vai
+para o próximo horário livre. `python -m scripts.social.reels gaveta` mostra
+quantos vídeos há na fila e até que dia ela cobre.
+
 ## Como funciona
 
 ```
