@@ -25,7 +25,11 @@ Routine da redação  ->  social/pautas/<slug>.json  ->  workflow Instagram (Act
    `python -m scripts.social.instagram check`.
 2. **Desenho.** `scripts/social/arte.py` monta cada slide com a moldura da
    identidade visual (`templates/social/`, cópia do `marca.css` e das fontes) e
-   fotografa no Chromium. Texto que não cabe reprova a pauta (status
+   fotografa no Chromium. O carrossel sai num dos **20 estilos** de
+   `templates/social/estilos/`, em rodízio (`scripts/social/estilos.py`): nunca
+   o mesmo estilo em dias seguidos e o mais antigo primeiro, para todos
+   aparecerem. Se o texto não couber num estilo, tenta o próximo e, por último,
+   o modelo de sempre (que também desenha o Story e o Reel). Texto que não cabe reprova a pauta (status
    `reprovado`, com o motivo) e o horário pega a próxima.
 3. **Mídia pública.** O Instagram busca as imagens por URL. O workflow envia a
    pasta do post para `public_html/ig/<slug>/` na Hostinger, com a mesma chave
@@ -45,9 +49,10 @@ vertical, com uma trilha 8-bit gerada pelo código (sem música de terceiros).
 
 ```bash
 python -m scripts.social.instagram agenda        # o que saiu hoje e o que há na fila
+python -m scripts.social.instagram estilos       # rodízio: quando cada estilo saiu por último
 python -m scripts.social.instagram fila          # pautas prontas, vencidas e reprovadas
 python -m scripts.social.instagram check         # confere as pautas prontas
-python -m scripts.social.arte <slug> [--reel]    # desenha em social/saida/<slug>/
+python -m scripts.social.arte <slug> [--reel] [--estilo nome]   # desenha em social/saida/<slug>/
 ```
 
 No GitHub: **Actions > Instagram > Run workflow**, com `teste` (a chave

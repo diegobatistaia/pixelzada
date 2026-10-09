@@ -1,0 +1,71 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 8. FLIPERAMA · tela de arcade: placar no topo, linhas de TV de tubo, tabela de recordes. -#}
+{{ c.cabeca("Fliperama") }}
+<style>
+  .crt::after { background:
+      repeating-linear-gradient(to bottom, rgba(11,10,16,.28) 0 3px, transparent 3px 7px),
+      radial-gradient(ellipse at center, transparent 55%, rgba(11,10,16,.75) 100%); }
+  .placar { position: absolute; left: 56px; right: 56px; display: flex; justify-content: space-between; font: 700 26px/1.3 var(--f-pixel); text-transform: uppercase; }
+  .placar b { display: block; color: var(--destaque); font-weight: 700; }
+  .start { font: 700 34px/1 var(--f-pixel); text-transform: uppercase; color: var(--destaque); letter-spacing: 2px; }
+  .recordes { list-style: none; display: grid; }
+  .recordes li { display: grid; grid-template-columns: 110px 1fr auto; align-items: center; gap: 22px; padding: 22px 0; border-bottom: 3px dashed var(--linha); }
+  .recordes .pos { font: 700 34px/1 var(--f-pixel); color: var(--destaque); }
+  .recordes .pts { font: 700 22px/1 var(--f-pixel); text-transform: uppercase; color: var(--cinza); text-align: right; }
+  .recordes .pts.confirmado { color: var(--lima); } .recordes .pts.boato { color: var(--laranja); } .recordes .pts.falso { color: var(--vermelho); }
+  .caixa-pixel { border: 6px solid var(--destaque); box-shadow: 0 0 0 6px var(--noite), 0 0 0 12px var(--linha); padding: 28px 36px 32px; }
+</style>
+</head><body>
+{%- set pontos = {"confirmado": "Confirmado", "boato": "Boato", "falso": "Falso", "sem-info": "???"} %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="placar" style="top:52px"><span>1UP<b>{{ "%06d"|format(n * 19) }}</b></span><span style="text-align:center">Hi-score<b>Pixelzada</b></span><span style="text-align:right">{{ p.assunto }}<b>{{ rotulo_tipo }}</b></span></div>
+  {{ c.midia("left:40px;top:150px;width:1000px;height:620px", "recorte crt") }}
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:820px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:104px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  <div class="start" style="position:absolute;left:56px;bottom:116px">Press start <i class="seta" style="vertical-align:-2px;margin-left:10px"></i></div>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="placar" style="top:52px"><span>Stage<b>{{ "%02d"|format(n - 1) }}</b></span><span style="text-align:right">{{ s.rotulo }}<b>{{ p.assunto }}</b></span></div>
+  <section data-caixa data-imagem-ate="920" style="position:absolute;left:56px;right:56px;top:190px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.itens %}
+    <ol class="recordes" style="margin-top:28px">
+      {%- for it in s.itens %}
+      <li><span class="pos">{{ loop.index }}{{ "º" }}</span><span class="texto item">{{ it.texto }}</span><span class="pts {{ it.selo }}">{{ pontos[it.selo] }}</span></li>
+      {%- endfor %}
+    </ol>
+    {%- elif s.passos %}
+    <ol class="recordes" style="margin-top:28px">
+      {%- for t in s.passos %}<li><span class="pos">{{ s.inicio + loop.index0 }}{{ "º" }}</span><span class="texto item">{{ t }}</span><span class="pts">Fase</span></li>{% endfor %}
+    </ol>
+    {%- else %}
+    <div class="caixa-pixel" style="margin-top:40px">{{ c.corpo(s, 0) }}</div>
+    {%- endif %}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:950px;height:290px", "recorte crt") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="placar" style="top:52px"><span>Game<b>Over?</b></span><span style="text-align:right">Créditos<b>01</b></span></div>
+  <div style="position:absolute;left:0;right:0;top:170px;text-align:center">
+    <p class="start" style="font-size:56px">Continue?</p>
+    <p style="font:400 300px/1 var(--f-titulo);color:var(--destaque);margin-top:10px">9</p>
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:640px;text-align:center">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:96px">{{ s.titulo }}</h2>
+    <p style="margin-top:40px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 28px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Insert coin: segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

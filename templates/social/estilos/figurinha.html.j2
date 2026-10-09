@@ -1,0 +1,61 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 11. FIGURINHA · foto colada como adesivo torto, com fita de pixel e título em marca-texto. -#}
+{{ c.cabeca("Figurinha") }}
+<style>
+  .pontos { position: absolute; inset: 0 0 84px 0; background: radial-gradient(var(--linha) 3px, transparent 3.5px) 0 0/36px 36px; }
+  .adesivo { position: absolute; background: var(--branco); padding: 18px 18px 64px; box-shadow: 14px 14px 0 rgba(0,0,0,.45); }
+  .adesivo .midia { position: relative; width: 100%; height: 100%; }
+  .adesivo .legenda { position: absolute; left: 22px; right: 22px; bottom: 16px; font: 700 24px/1 var(--f-pixel); color: var(--noite); text-transform: uppercase; display: flex; justify-content: space-between; }
+  .fita { position: absolute; width: 170px; height: 46px; background: var(--destaque); opacity: .92;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 92% 100%, 92% 80%, 84% 80%, 84% 100%, 0 100%, 0 70%, 6% 70%, 6% 40%, 0 40%); }
+  .selo-torto { position: absolute; transform: rotate(8deg); }
+  .titulo .hl { background: var(--destaque); color: var(--noite); padding: 0 .12em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .cartao { background: var(--carvao); padding: 30px 34px; border: 3px solid var(--linha); }
+  .cartao:nth-child(odd) { transform: rotate(-1.2deg); } .cartao:nth-child(even) { transform: rotate(1deg); }
+</style>
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="pontos"></div>
+  <div class="adesivo" style="left:70px;top:70px;width:940px;height:720px;transform:rotate(-3deg)">
+    {{ c.midia("", "") }}
+    <div class="legenda"><span>{{ p.assunto }}</span><span>{{ rotulo_tipo }}</span></div>
+  </div>
+  <i class="fita" style="left:40px;top:60px;transform:rotate(-38deg)"></i>
+  <i class="fita" style="right:40px;top:700px;transform:rotate(-30deg)"></i>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:850px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:100px;line-height:1.08;transform:rotate(-1.5deg);transform-origin:left">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:22px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="pontos"></div>
+  <div class="adesivo" style="right:60px;top:56px;width:330px;height:300px;padding:12px 12px 12px;transform:rotate(4deg)">{{ c.midia("", "") }}</div>
+  <i class="fita" style="right:250px;top:40px;transform:rotate(-12deg);width:130px"></i>
+  <div style="position:absolute;left:56px;top:96px;transform:rotate(-3deg)"><span class="tag">{{ s.rotulo }}</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:400px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px;line-height:1.08">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.texto %}<div style="display:grid;gap:22px;margin-top:40px">{% for t in s.texto %}<p class="texto cartao" style="font-size:38px">{{ t|negrito }}</p>{% endfor %}</div>{% endif %}
+    {%- if s.itens or s.passos %}{{ c.corpo({"itens": s.itens, "passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="pontos"></div>
+  <section data-caixa style="position:absolute;left:80px;right:80px;top:230px;background:var(--lima);color:var(--noite);padding:60px 52px;transform:rotate(-2deg);box-shadow:16px 16px 0 rgba(0,0,0,.5)">
+    <img src="{{ c.simbolo() }}" alt="" style="height:100px;display:block">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:104px;color:var(--noite);margin-top:36px">{{ s.titulo }}</h2>
+    <p style="margin-top:40px;font:700 30px/1.4 var(--f-pixel);text-transform:uppercase">Matéria completa no link da bio</p>
+  </section>
+  <i class="fita" style="left:30px;top:220px;transform:rotate(-40deg)"></i>
+  <p style="position:absolute;left:56px;bottom:130px;font:400 30px/1.4 var(--f-pixel);color:var(--destaque)">pixelzada.com.br</p>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

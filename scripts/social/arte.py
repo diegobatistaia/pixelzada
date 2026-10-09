@@ -78,10 +78,32 @@ def _negrito(texto: str) -> Markup:
     return Markup(re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", str(escape(texto))))
 
 
+def _numero(texto: str) -> str:
+    """Estilo Numerão sem campo "numero": o primeiro número do título."""
+    m = re.search(r"\d+(?:[.,]\d+)?%?", texto or "")
+    return m.group(0) if m else "!"
+
+
+def _data(texto: str) -> dict:
+    """Estilo Agenda: dia, mês, ano, dia da semana e a grade do mês (começa no domingo)."""
+    import calendar
+    from datetime import date
+    try:
+        d = date.fromisoformat(texto)
+    except (TypeError, ValueError):
+        d = date.today()
+    semana = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"][d.weekday()]
+    return {"dia": d.day, "mes": d.month, "ano": d.year, "semana": semana,
+            "inicio": (date(d.year, d.month, 1).weekday() + 1) % 7,
+            "total": calendar.monthrange(d.year, d.month)[1]}
+
+
 def _env() -> Environment:
     env = Environment(loader=FileSystemLoader(str(TEMPLATES)), autoescape=True)
     env.filters["realce"] = _realce
     env.filters["negrito"] = _negrito
+    env.filters["regex_numero"] = _numero
+    env.filters["data_iso"] = _data
     return env
 
 
@@ -97,17 +119,19 @@ class Desenhista:
             # Sessões na nuvem do Claude trazem o Chromium em /opt/pw-browsers.
             self._browser = self._pw.chromium.launch(executable_path=_chromium_local())
         self._page = self._browser.new_page(viewport={"width": 1080, "height": 1920})
-        self._tpl = _env().get_template("arte.html.j2")
+        self._env = _env()
         return self
 
     def __exit__(self, *exc):
         self._browser.close()
         self._pw.stop()
 
-    def desenhar(self, destino: Path, **ctx) -> list[str]:
-        """Grava o PNG e devolve os problemas de encaixe medidos na página."""
+    def desenhar(self, destino: Path, estilo: str | None = None, **ctx) -> list[str]:
+        """Grava o PNG e devolve os problemas de encaixe medidos na página.
+        estilo: um dos templates/social/estilos/ (só capa, miolo e final)."""
         html = destino.with_suffix(".html")
-        html.write_text(self._tpl.render(base=P.ROOT.as_uri(), **ctx), encoding="utf-8")
+        tpl = self._env.get_template(f"estilos/{estilo}.html.j2" if estilo else "arte.html.j2")
+        html.write_text(tpl.render(base=P.ROOT.as_uri(), **ctx), encoding="utf-8")
         self._page.goto(html.as_uri())
         self._page.evaluate("document.fonts.ready")
         self._page.wait_for_function("window.__medida !== undefined")
@@ -137,26 +161,34 @@ def _jpeg(png: Path) -> Path:
     return jpg
 
 
-def desenhar_post(p: dict, pasta: Path | None = None) -> dict:
-    """Carrossel e Story. Devolve os arquivos gerados; ArteError se algo não couber."""
+def desenhar_post(p: dict, pasta: Path | None = None, estilos: list[str] | None = None) -> dict:
+    """Carrossel e Story. O carrossel tenta os estilos na ordem dada e fica com o
+    primeiro em que o texto cabe; sem estilo (ou se nenhum couber), usa o modelo
+    de sempre. Devolve os arquivos e o estilo usado ("estilo": None = modelo de
+    sempre); ArteError se nem o modelo de sempre couber."""
     pasta = pasta or P.SAIDA / p["slug"]
     pasta.mkdir(parents=True, exist_ok=True)
     foto = obter_imagem(p, pasta)
     ctx = _contexto(p, foto)
     lista = P.slides(p)
-    erros, slides = [], []
+    tentativas = [*(estilos or []), None]
     with Desenhista() as d:
-        for n, s in enumerate(lista, 1):
-            png = pasta / f"{n:02d}.png"
-            for e in d.desenhar(png, s=s, n=n, total=len(lista), **ctx):
-                erros.append(f"slide {n}: {e}")
-            slides.append(png)
+        for estilo in tentativas:
+            erros, slides = [], []
+            for n, s in enumerate(lista, 1):
+                png = pasta / f"{n:02d}.png"
+                for e in d.desenhar(png, estilo, s=s, n=n, total=len(lista), **ctx):
+                    erros.append(f"slide {n}: {e}")
+                slides.append(png)
+            if not erros:
+                break
+            print(f"estilo {estilo or 'padrão'} não coube: {'; '.join(erros)}")
         story = pasta / "story.png"
         for e in d.desenhar(story, s={"kind": "story", **p["capa"]}, n=0, total=0, **ctx):
             erros.append(f"story: {e}")
     if erros:
         raise ArteError("; ".join(erros))
-    return {"slides": [_jpeg(s) for s in slides], "story": _jpeg(story), "pngs": slides}
+    return {"slides": [_jpeg(s) for s in slides], "story": _jpeg(story), "pngs": slides, "estilo": estilo}
 
 
 # ---------------------------------------------------------------------------
@@ -277,6 +309,7 @@ def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("slug")
     ap.add_argument("--reel", action="store_true", help="também gera o Reel")
+    ap.add_argument("--estilo", help="um dos estilos de templates/social/estilos/ (padrão: o modelo de sempre)")
     args = ap.parse_args(argv)
     p = P.carregar(args.slug)
     erros = P.conferir(p, str(P.caminho(args.slug)))
@@ -284,7 +317,7 @@ def main(argv=None) -> int:
         print("\n".join(f"ERRO: {e}" for e in erros))
         return 1
     try:
-        out = desenhar_post(p)
+        out = desenhar_post(p, estilos=[args.estilo] if args.estilo else None)
         print(f"folha: {folha(out['pngs'], P.SAIDA / args.slug / 'folha.png')}")
         if args.reel:
             r = desenhar_reel(p, out["pngs"])

@@ -1,0 +1,66 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 9. VERSUS · tela de seleção de luta: a foto partida em dois lados, magenta contra ciano, com VS no meio. -#}
+{{ c.cabeca("Versus") }}
+<style>
+  .lado { position: absolute; top: 40px; height: 760px; }
+  .lado::after { background: none; }
+  .lado.a { left: 40px; width: 560px; clip-path: polygon(0 0, 100% 0, 100% 20%, 92% 20%, 92% 40%, 84% 40%, 84% 60%, 76% 60%, 76% 80%, 68% 80%, 68% 100%, 0 100%); }
+  .lado.b { right: 40px; width: 560px; clip-path: polygon(32% 0, 100% 0, 100% 100%, 0 100%, 0 80%, 8% 80%, 8% 60%, 16% 60%, 16% 40%, 24% 40%, 24% 20%, 32% 20%); }
+  .lado.a .credito { display: none; }
+  .tinta { position: absolute; inset: 0; mix-blend-mode: color; opacity: .55; }
+  .a .tinta { background: var(--magenta); } .b .tinta { background: var(--ciano); }
+  .vs { position: absolute; left: 50%; top: 340px; transform: translateX(-50%); width: 200px; height: 200px; background: var(--noite);
+    border: 8px solid var(--branco); display: grid; place-items: center; font: 400 120px/1 var(--f-titulo); color: var(--branco); z-index: 3;
+    box-shadow: -12px 0 0 var(--magenta), 12px 0 0 var(--ciano); }
+  .nome-lado { position: absolute; top: 720px; z-index: 3; font: 700 32px/1 var(--f-pixel); text-transform: uppercase; color: var(--noite); padding: 14px 20px 12px; }
+  .round { position: absolute; left: 0; right: 0; top: 0; height: 120px; display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; }
+  .round .m { height: 100%; background: var(--magenta); } .round .c { height: 100%; background: var(--ciano); }
+  .round span { padding: 0 34px; font: 400 64px/1 var(--f-titulo); text-transform: uppercase; }
+</style>
+</head><body>
+{%- set lados = s.lados if s.lados else ((s.titulo|default("")).replace(" vs ", " x ").split(" x ") if " x " in (s.titulo|default("")).replace(" vs ", " x ") else ["Lado A", "Lado B"]) %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("", "lado a", "20% 40%", "midia") }}
+  <div class="midia lado b" style="">{% if img %}<img src="{{ img }}" alt="" style="object-position:85% 40%">{% endif %}<span class="credito">IMAGEM: {{ credito|upper }}</span></div>
+  <script>document.querySelectorAll('.lado').forEach(l => l.insertAdjacentHTML('afterbegin', '<i class="tinta"></i>'));</script>
+  <div class="vs">VS</div>
+  <span class="nome-lado" style="left:40px;background:var(--magenta)">{{ lados[0] }}</span>
+  <span class="nome-lado" style="right:40px;background:var(--ciano)">{{ lados[1] }}</span>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:850px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:100px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="round"><i class="m"></i><span>{{ s.rotulo }}</span><i class="c"></i></div>
+  <section data-caixa data-imagem-ate="900" style="position:absolute;left:56px;right:56px;top:190px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s) }}
+  </section>
+  {{ c.midia("left:56px;width:470px;top:930px;height:310px", "lado a", "20% 40%") }}
+  <div class="midia lado b" style="left:554px;right:56px;width:auto;top:930px;height:310px">{% if img %}<img src="{{ img }}" alt="" style="object-position:85% 40%">{% endif %}<span class="credito">IMAGEM: {{ credito|upper }}</span></div>
+  <script>document.querySelectorAll('.lado').forEach(l => l.insertAdjacentHTML('afterbegin', '<i class="tinta"></i>'));
+    const m = document.getElementById('midia'), b = document.querySelector('.lado.b');
+    new MutationObserver(() => b.style.display = m.style.display).observe(m, {attributes: true});</script>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div style="position:absolute;left:0;width:50%;top:0;bottom:84px;background:var(--magenta)"></div>
+  <div style="position:absolute;right:0;width:50%;top:0;bottom:84px;background:var(--ciano)"></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:240px;background:var(--noite);padding:56px 48px 56px;border:8px solid var(--branco)">
+    <p style="font:700 34px/1 var(--f-pixel);text-transform:uppercase;color:var(--branco)">Escolha seu lado</p>
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:104px;margin-top:30px">{{ s.titulo }}</h2>
+    <p style="margin-top:40px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 28px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

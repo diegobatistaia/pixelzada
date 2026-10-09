@@ -1,0 +1,79 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 10. FICHA · ficha de personagem de RPG: dados do jogo em tabela e barras de status. -#}
+{{ c.cabeca("Ficha") }}
+<style>
+  .ficha { list-style: none; display: grid; }
+  .ficha li { padding: 18px 0; border-bottom: 2px solid var(--linha); }
+  .ficha .k { display: block; font: 700 20px/1 var(--f-pixel); text-transform: uppercase; color: var(--destaque); margin-bottom: 10px; }
+  .ficha .v { font: 700 36px/1.1 var(--f-texto); font-stretch: 85%; }
+  .cabecalho-ficha { display: flex; align-items: center; justify-content: space-between; background: var(--destaque); color: var(--noite);
+    font: 700 26px/1 var(--f-pixel); text-transform: uppercase; padding: 14px 18px 12px; }
+  .status { list-style: none; display: grid; gap: 26px; }
+  .status li { display: grid; gap: 12px; }
+  .status .linha { display: flex; justify-content: space-between; align-items: baseline; gap: 20px; }
+  .status .rotulo-sel { font: 700 20px/1 var(--f-pixel); text-transform: uppercase; flex: none; }
+  .gomos { display: grid; grid-template-columns: repeat(10, 1fr); gap: 6px; }
+  .gomos i { height: 26px; background: var(--linha); display: block; }
+  .painel { background: var(--carvao); padding: 34px 38px 38px; position: relative; }
+  .painel::before { content: "Descrição"; position: absolute; left: 38px; top: -16px; background: var(--destaque); color: var(--noite);
+    font: 700 20px/1 var(--f-pixel); text-transform: uppercase; padding: 8px 12px 6px; }
+</style>
+</head><body>
+{%- set nivel = {"confirmado": 10, "boato": 5, "sem-info": 2, "falso": 0} %}
+{%- set cores = {"confirmado": "var(--lima)", "boato": "var(--laranja)", "sem-info": "var(--cinza)", "falso": "var(--vermelho)"} %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:40px;top:40px;width:540px;height:700px", "recorte") }}
+  <div style="position:absolute;left:610px;right:40px;top:40px">
+    <div class="cabecalho-ficha"><span>Ficha</span><span>{{ p.assunto }}</span></div>
+    <ul class="ficha" style="padding:0 4px">
+      {%- for k, v in (s.ficha or [["Assunto", p.assunto], ["Formato", rotulo_tipo], ["Fonte", fonte.split(":", 1)[-1]]]) %}
+      <li><span class="k">{{ k }}</span><span class="v">{{ v }}</span></li>
+      {%- endfor %}
+    </ul>
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:790px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:104px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <header style="position:absolute;left:56px;right:56px;top:64px;display:flex;gap:28px;align-items:center">
+    {{ c.midia("position:relative;width:150px;height:150px;flex:none", "recorte") }}
+    <div style="flex:1"><div class="cabecalho-ficha"><span>{{ s.rotulo }}</span><span>{{ n - 1 }}/{{ total - 2 }}</span></div>
+      <p style="margin-top:16px;font:700 22px/1 var(--f-pixel);text-transform:uppercase;color:var(--cinza)">{{ p.assunto }} · nível {{ n * 11 }}</p></div>
+  </header>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:280px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.itens %}
+    <ul class="status" style="margin-top:40px">
+      {%- for it in s.itens %}
+      <li><div class="linha"><span class="texto item">{{ it.texto }}</span><span class="rotulo-sel" style="color:{{ cores[it.selo] }}">{{ selos[it.selo] }}</span></div>
+        <div class="gomos">{% for g in range(10) %}<i style="{% if g < nivel[it.selo] %}background:{{ cores[it.selo] }}{% endif %}"></i>{% endfor %}</div></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+    {%- if s.texto %}<div class="painel" style="margin-top:56px">{{ c.corpo({"texto": s.texto}, 0) }}</div>{% endif %}
+    {%- if s.passos %}{{ c.corpo({"passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:180px">
+    <div class="cabecalho-ficha"><span>Jogo salvo</span><span>100%</span></div>
+    <div class="gomos" style="margin-top:14px">{% for g in range(10) %}<i style="background:var(--destaque)"></i>{% endfor %}</div>
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:112px;margin-top:90px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <img src="{{ c.simbolo_lima() }}" alt="" style="position:absolute;right:56px;bottom:140px;height:120px">
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

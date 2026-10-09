@@ -1,0 +1,71 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 13. CONQUISTA · aviso de troféu desbloqueado: para recorde, prêmio, nota alta, marca de vendas. -#}
+{{ c.cabeca("Conquista") }}
+<style>
+  .aviso { position: absolute; display: grid; grid-template-columns: 150px 1fr; gap: 30px; align-items: center;
+    background: var(--noite); border: 6px solid var(--destaque); padding: 26px 34px 26px 26px; box-shadow: 0 0 0 8px var(--noite), 0 0 0 12px var(--linha); }
+  .aviso .topo { font: 700 24px/1 var(--f-pixel); text-transform: uppercase; color: var(--destaque); }
+  .trofeu { width: 150px; height: 150px; display: grid; grid-template-columns: repeat(10, 1fr); }
+  .trofeu i { display: block; }
+  .trofeu i.o { background: var(--destaque); } .trofeu i.e { background: var(--noite); }
+  .xp { font: 700 28px/1 var(--f-pixel); color: var(--noite); background: var(--destaque); padding: 10px 14px 8px; display: inline-block; }
+  .lista-c { list-style: none; display: grid; gap: 20px; }
+  .lista-c li { display: grid; grid-template-columns: 76px 1fr; gap: 22px; align-items: center; background: var(--carvao); padding: 16px 22px 16px 16px; }
+  .lista-c .ic { width: 76px; height: 76px; display: grid; place-items: center; font: 700 26px/1 var(--f-pixel); }
+  .lista-c .ok { background: var(--destaque); color: var(--noite); }
+  .lista-c .bloq { background: var(--linha); color: var(--cinza); }
+  .lista-c small { display: block; font: 700 18px/1 var(--f-pixel); text-transform: uppercase; color: var(--cinza); margin-top: 8px; }
+</style>
+</head><body>
+{#- troféu em 10x10 pixels: o = cor, . = vazio -#}
+{%- set desenho = ["..oooooo..", "oooooooooo", "o.oooooo.o", "o.oooooo.o", ".oooooooo.", "..oooooo..", "....oo....", "....oo....", "...oooo...", "..oooooo.."] %}
+{%- macro trofeu(tam=150) -%}
+<div class="trofeu" style="width:{{ tam }}px;height:{{ tam }}px">{% for linha in desenho %}{% for ch in linha %}<i class="{{ 'o' if ch == 'o' else '' }}"></i>{% endfor %}{% endfor %}</div>
+{%- endmacro %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:40px;top:40px;width:1000px;height:780px", "recorte") }}
+  <div class="aviso" style="left:80px;right:80px;top:560px">
+    {{ trofeu() }}
+    <div><p class="topo">Conquista desbloqueada</p>
+      <p style="margin-top:12px;font:800 40px/1.12 var(--f-texto);font-stretch:85%">{{ p.assunto }} · {{ rotulo_tipo }}</p>
+      <p style="margin-top:14px"><span class="xp">+100 XP</span></p></div>
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:860px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:96px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <header style="position:absolute;left:56px;right:56px;top:64px;display:flex;justify-content:space-between;align-items:center">
+    <span class="tag">{{ s.rotulo }}</span><span style="font:700 26px/1 var(--f-pixel);color:var(--cinza)">{{ n - 1 }}/{{ total - 2 }}</span>
+  </header>
+  <section data-caixa data-imagem-ate="920" style="position:absolute;left:56px;right:56px;top:180px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.itens %}
+    <ul class="lista-c" style="margin-top:36px">
+      {%- for it in s.itens %}<li><span class="ic {{ 'ok' if it.selo == 'confirmado' else 'bloq' }}">{{ 'OK' if it.selo == 'confirmado' else '?' }}</span><span class="texto item">{{ it.texto }}<small>{{ selos[it.selo] }}</small></span></li>{% endfor %}
+    </ul>
+    {%- else %}{{ c.corpo(s) }}{% endif %}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:950px;height:290px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte" style="background:var(--lima);color:var(--noite)">
+  <div style="position:absolute;left:56px;top:80px;--destaque:var(--noite)">{{ trofeu(200) }}</div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:350px">
+    <p style="font:700 32px/1 var(--f-pixel);text-transform:uppercase">Próxima conquista</p>
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:118px;color:var(--noite);margin-top:24px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa" style="background:var(--noite);color:var(--lima)"><img src="{{ c.logo_branco() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

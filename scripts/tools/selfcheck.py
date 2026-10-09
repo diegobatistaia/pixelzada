@@ -436,6 +436,30 @@ def main() -> int:
     check("duas pautas da fila com a mesma imagem: só a mais antiga entra",
           [p["slug"] for p in ig.candidatas([fila[0], outra], ig_em("08:03"))] == ["gta-a"])
 
+
+    from scripts.social import estilos as es
+    def com_estilo(e, dia):
+        return {"publicado": {"data": dia, "estilo": e}}
+    hist = [com_estilo("plantao", "2026-10-07"), com_estilo("revista", "2026-10-08"), com_estilo("mapa", "2026-10-05")]
+    ordem = es.ordem(exemplo, hist, ig_em("10:00"))
+    check("estilo usado ontem ou hoje não repete", "plantao" not in ordem and "revista" not in ordem)
+    check("estilo nunca usado vem antes do que já saiu", ordem.index("dividido") < ordem.index("mapa"))
+    check("Agenda sem data na capa fica de fora", "agenda" not in ordem)
+    com_data = copy.deepcopy(exemplo)
+    com_data["capa"]["data"] = "2026-11-19"
+    check("Agenda entra quando a capa tem data", "agenda" in es.ordem(com_data, hist, ig_em("10:00")))
+    usados, hist = {}, []
+    for dia in range(1, 8):
+        usados[dia] = []
+        for _ in range(6):
+            e = es.ordem(com_data, hist, datetime.fromisoformat(f"2026-10-{dia:02d}T10:00:00-03:00"))[0]
+            hist.append(com_estilo(e, f"2026-10-{dia:02d}"))
+            usados[dia].append(e)
+    check("rodízio: nenhum estilo em dias seguidos",
+          all(not set(usados[d]) & set(usados[d - 1]) for d in range(2, 8)))
+    check("rodízio: todos os que servem aparecem em 4 dias",
+          {e for d in range(1, 5) for e in usados[d]} >= {e for e in es.ESTILOS if es.serve(e, com_data)})
+
     print(f"\n{CHECKS - len(FAILURES)}/{CHECKS} verificações passaram")
     if FAILURES:
         print("Falhas: " + ", ".join(FAILURES))

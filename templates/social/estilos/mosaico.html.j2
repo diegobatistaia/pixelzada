@@ -1,0 +1,80 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 6. MOSAICO · a foto vira pixel numa escada, como se a notícia estivesse carregando. -#}
+{{ c.cabeca("Mosaico") }}
+<style>
+  .midia canvas { position: absolute; inset: 0; width: 100%; height: 100%; image-rendering: pixelated; }
+  .soltos i { position: absolute; background: var(--destaque); display: block; }
+  .grade { position: absolute; inset: 0 0 84px 0; display: grid; grid-template-columns: repeat(12, 1fr); }
+  .grade i { display: block; background: var(--destaque); }
+</style>
+</head><body>
+{#- Pixela a foto num canvas por cima dela. mascara: "escada" (canto superior esquerdo) ou "tudo". -#}
+{%- macro pixelar(bloco, mascara) -%}
+<script>
+(function () {
+  const caixa = document.currentScript.previousElementSibling;
+  const img = caixa.querySelector('img'); if (!img) return;
+  const cv = document.createElement('canvas'); caixa.insertBefore(cv, caixa.querySelector('.credito'));
+  function desenha() {
+    const W = caixa.clientWidth, H = caixa.clientHeight, b = {{ bloco }};
+    cv.width = W; cv.height = H;
+    const pos = getComputedStyle(img).objectPosition.split(' ').map(v => parseFloat(v) / 100);
+    const k = Math.max(W / img.naturalWidth, H / img.naturalHeight);
+    const dw = img.naturalWidth * k, dh = img.naturalHeight * k;
+    const pq = document.createElement('canvas'); pq.width = Math.ceil(W / b); pq.height = Math.ceil(H / b);
+    pq.getContext('2d').drawImage(img, (W - dw) * pos[0] / b, (H - dh) * pos[1] / b, dw / b, dh / b);
+    const g = cv.getContext('2d'); g.imageSmoothingEnabled = false;
+    {%- if mascara == "escada" %}
+    g.save(); g.beginPath();
+    const passos = 7;
+    for (let i = 0; i < passos; i++) { g.rect(0, i * H / passos, W * (0.5 - i * 0.075), H / passos + 1); }
+    g.clip();
+    {%- endif %}
+    g.drawImage(pq, 0, 0, pq.width * b, pq.height * b);
+    g.restore && g.restore();
+  }
+  if (img.complete && img.naturalWidth) desenha(); else img.addEventListener('load', desenha);
+})();
+</script>
+{%- endmacro %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:40px;top:40px;width:1000px;height:740px", "recorte") }}{{ pixelar(30, "escada") }}
+  <div class="soltos">
+    <i style="left:900px;top:52px;width:40px;height:40px;opacity:.9"></i><i style="left:980px;top:120px;width:24px;height:24px;opacity:.6"></i>
+    <i style="left:860px;top:150px;width:16px;height:16px;opacity:.4"></i>
+  </div>
+  <div style="position:absolute;left:40px;top:712px"><span class="tag">{{ p.assunto }}<i class="sep"></i>{{ rotulo_tipo }}</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:820px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:100px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:22px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:0;right:0;top:0;height:300px", "") }}{{ pixelar(60 if n % 2 == 0 else 45, "tudo") }}
+  <div style="position:absolute;left:0;right:0;top:300px;height:24px;display:flex">{% for i in range(45) %}<i style="flex:1;background:var(--destaque);opacity:{{ [1, 0.55, 0.25, 0.8, 0.4][i % 5] }}"></i>{% endfor %}</div>
+  <div style="position:absolute;left:56px;top:256px"><span class="tag">{{ s.rotulo }}</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:380px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s) }}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="grade">{% for i in range(12 * 15) %}{% set o = [0, 0.08, 0, 0.18, 0, 0.35, 0, 0, 0.6, 0, 0.12, 1, 0][(i * 7 + i // 12 * 3) % 13] %}<i style="opacity:{{ o }}"></i>{% endfor %}</div>
+  <section data-caixa style="position:absolute;left:40px;right:40px;top:300px;background:var(--noite);padding:48px 40px 52px">
+    <img src="{{ c.simbolo_lima() }}" alt="" style="height:96px;display:block">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:108px;margin-top:36px">{{ s.titulo }}</h2>
+    <p style="margin-top:40px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

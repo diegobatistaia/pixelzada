@@ -14,6 +14,7 @@ Na sessão do Claude (sem chave, sem internet):
     python -m scripts.social.instagram check [slug ...]   confere as pautas
     python -m scripts.social.instagram fila               o que está esperando
     python -m scripts.social.instagram agenda             os horários de hoje
+    python -m scripts.social.instagram estilos            o rodízio dos 20 estilos de carrossel
 
 Pelo botão "Run workflow" do Actions:
 
@@ -34,7 +35,7 @@ import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from . import pauta as P
+from . import estilos as E, pauta as P
 
 USUARIO = "pixelzada.br"
 SECRET = "INSTAGRAM_TOKEN_PIXELZADA"
@@ -154,7 +155,13 @@ def cmd_preparar(args) -> int:
             erros = P.conferir(p, str(P.caminho(p["slug"])))
             if erros:
                 raise arte.ArteError("; ".join(erros))
-            post = arte.desenhar_post(p, pasta)
+            if pedido["acao"] == "reel":  # o Reel repete o carrossel no estilo em que ele saiu
+                estilo = (p.get("publicado") or {}).get("estilo")
+                estilos = [estilo] if estilo else None
+            else:
+                estilos = E.ordem(p, P.todas(), t)[:3]
+            post = arte.desenhar_post(p, pasta, estilos)
+            pedido["estilo"] = post["estilo"]
             arquivos = [f.name for f in post["slides"]]
             pedido["slides"] = arquivos
             pedido["story"] = post["story"].name
@@ -174,7 +181,7 @@ def cmd_preparar(args) -> int:
             if f.suffix not in (".jpg", ".mp4") or f.name == "foto.jpg":
                 f.unlink()
         PEDIDO.write_text(json.dumps(pedido, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"pedido: {pedido['acao']} {pedido['slug']} ({pedido['horario']})")
+        print(f"pedido: {pedido['acao']} {pedido['slug']} ({pedido['horario']}), estilo {pedido['estilo'] or 'padrão'}")
         _saida(acao=pedido["acao"], slug=pedido["slug"])
         return 0
     _saida(acao="nada")
@@ -337,7 +344,8 @@ def cmd_publicar(args) -> int:
             if p.get("status") != "pronto":
                 raise ApiError(f"{p['slug']} está {p.get('status')}; nada publicado")
             out = publicar_carrossel(p, pedido, ig, token)
-            p.update(status="publicado", publicado={"data": pedido["data"], "horario": pedido["horario"], "em": t, **out})
+            p.update(status="publicado", publicado={"data": pedido["data"], "horario": pedido["horario"], "em": t,
+                                                    "estilo": pedido.get("estilo"), **out})
             P.salvar(p)  # grava já: se o Story falhar, o carrossel não sai de novo
             resultado.update(ok=True, **out)
             print(f"carrossel publicado: {out.get('permalink')}")
@@ -443,7 +451,8 @@ def cmd_agenda(args) -> int:
     feitos = {p["publicado"]["horario"]: p for p in _publicado_hoje(P.todas(), hoje)}
     for hhmm, tipo in CARROSSEIS:
         p = feitos.get(hhmm)
-        print(f"{hhmm}  carrossel {tipo:<6}  {p['slug'] if p else '-'}")
+        estilo = f"  [{p['publicado'].get('estilo') or 'padrão'}]" if p else ""
+        print(f"{hhmm}  carrossel {tipo:<6}  {p['slug'] if p else '-'}{estilo}")
     reel = next((p for p in feitos.values() if p.get("reel", {}).get("media_id")), None)
     print(f"{REEL}  reel              {reel['slug'] if reel else '-'}")
     gta = sum(1 for p in P.todas() if p.get("status") == "pronto" and p["gta6"] and not P.vencida(p, t))
@@ -452,16 +461,25 @@ def cmd_agenda(args) -> int:
     return 0
 
 
+def cmd_estilos(args) -> int:
+    """Rodízio: quando cada estilo saiu por último e o que vem a seguir."""
+    ultimo = E.historico(P.todas())
+    for nome in sorted(E.ESTILOS, key=lambda e: (ultimo.get(e, ""), list(E.ESTILOS).index(e))):
+        exige = E.ESTILOS[nome]
+        print(f"{nome:<11} {ultimo.get(nome, 'nunca'):<11} {'precisa de capa.' + exige if exige else ''}")
+    return 0
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
-    for nome in ("decidir", "preparar", "publicar", "teste", "conferir", "fila", "agenda", "imagens"):
+    for nome in ("decidir", "preparar", "publicar", "teste", "conferir", "fila", "agenda", "imagens", "estilos"):
         sub.add_parser(nome)
     p = sub.add_parser("check")
     p.add_argument("slugs", nargs="*")
     args = ap.parse_args(argv)
     return {"decidir": cmd_decidir, "preparar": cmd_preparar, "publicar": cmd_publicar, "teste": cmd_teste, "conferir": cmd_conferir,
-            "check": cmd_check, "fila": cmd_fila, "agenda": cmd_agenda, "imagens": cmd_imagens}[args.cmd](args)
+            "check": cmd_check, "fila": cmd_fila, "agenda": cmd_agenda, "estilos": cmd_estilos, "imagens": cmd_imagens}[args.cmd](args)
 
 
 if __name__ == "__main__":

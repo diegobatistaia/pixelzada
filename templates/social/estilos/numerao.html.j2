@@ -1,0 +1,53 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 2. NUMERÃO · um número gigante vira a manchete: datas, contagens, listas, preços. -#}
+{{ c.cabeca("Numerão") }}
+<style>
+  .numero { position: absolute; font-family: var(--f-titulo); color: var(--destaque); line-height: .8; letter-spacing: -6px;
+    text-shadow: 12px 12px 0 var(--noite); z-index: 2; }
+  .indice { position: absolute; right: 40px; top: 30px; font: 400 300px/.8 var(--f-titulo); color: transparent;
+    -webkit-text-stroke: 4px var(--destaque); letter-spacing: -4px; }
+  .legenda-num { display: inline-block; font: 700 30px/1 var(--f-pixel); text-transform: uppercase; color: var(--noite); background: var(--destaque); padding: 14px 20px 12px; }
+  .fundo-fim { position: absolute; left: -20px; bottom: 60px; font: 400 520px/.8 var(--f-titulo); color: transparent; -webkit-text-stroke: 4px rgba(11,10,16,.18); }
+</style>
+</head><body>
+{%- set numero = s.numero or ((s.titulo|default(""))|regex_numero) %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:380px;top:40px;width:660px;height:720px", "recorte") }}
+  <div class="numero" style="left:24px;top:130px;font-size:{{ 660 if numero|length <= 2 else (440 if numero|length <= 3 else 320) }}px">{{ numero }}</div>
+  {%- if s.numero_legenda %}<div style="position:absolute;left:40px;top:716px;z-index:3"><span class="legenda-num">{{ s.numero_legenda }}</span></div>{% endif %}
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:820px">
+    <span class="tag escura" style="padding-left:0">{{ p.assunto }}<i class="sep"></i>{{ rotulo_tipo }}</span>
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:104px;margin-top:14px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="indice">{{ "%02d"|format(n - 1) }}</div>
+  <div style="position:absolute;left:56px;top:72px"><span class="tag">{{ s.rotulo }}</span></div>
+  <section data-caixa data-imagem-ate="880" style="position:absolute;left:56px;right:56px;top:280px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s) }}
+  </section>
+  {{ c.midia("left:56px;width:560px;top:910px;height:330px", "recorte") }}
+  <div style="position:absolute;left:650px;right:56px;top:930px;font:700 26px/1.5 var(--f-pixel);color:var(--cinza);text-transform:uppercase">{{ n - 1 }} de {{ total - 2 }}<br><span style="color:var(--destaque)">{{ p.assunto }}</span></div>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte" style="background:var(--lima);color:var(--noite)">
+  <div class="fundo-fim">{{ "%02d"|format(total) }}</div>
+  <img src="{{ c.simbolo() }}" alt="" style="position:absolute;left:56px;top:64px;height:130px">
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:300px">
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:122px;color:var(--noite)">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa" style="background:var(--noite);color:var(--lima)"><img src="{{ c.logo_branco() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

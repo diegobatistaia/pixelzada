@@ -1,0 +1,55 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 20. QUADRINHO · página de HQ: quadros com a foto, balão de fala em pixel e caixas de legenda. -#}
+{{ c.cabeca("Quadrinho") }}
+<style>
+  .quadro { position: absolute; border: 8px solid var(--branco); background: var(--carvao); overflow: hidden; }
+  .quadro .midia { position: absolute; inset: 0; }
+  .quadro .midia::after { background: none; }
+  .balao-hq { position: absolute; background: var(--branco); color: var(--noite); padding: 22px 30px; font: 800 40px/1.1 var(--f-texto); font-stretch: 85%; z-index: 3;
+    box-shadow: 8px 8px 0 var(--noite); }
+  .balao-hq::after { content: ""; position: absolute; left: 60px; bottom: -36px; width: 44px; height: 36px; background: var(--branco);
+    clip-path: polygon(0 0, 100% 0, 25% 100%, 25% 66%, 0 66%); }
+  .legenda-hq { background: var(--destaque); color: var(--noite); padding: 16px 22px; font: 700 24px/1.2 var(--f-pixel); text-transform: uppercase; display: inline-block; border: 4px solid var(--noite); }
+  .caixa-hq { background: var(--carvao); border: 6px solid var(--branco); padding: 28px 32px; }
+  .caixa-hq .texto { font-size: 36px; }
+</style>
+</head><body>
+{%- set fala = p.capa.fala or ((p.capa.destaque or p.assunto) ~ "!") %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="quadro" style="left:40px;top:40px;width:1000px;height:470px">{{ c.midia("", "", "50% 20%") }}</div>
+  <div class="quadro" style="left:40px;top:530px;width:490px;height:300px;transform:rotate(-1deg)">{{ c.midia("", "", "20% 70%", "midia2") }}</div>
+  <div class="quadro" style="left:550px;top:530px;width:490px;height:300px;transform:rotate(1deg)">{{ c.midia("", "", "85% 60%", "midia3") }}</div>
+  <div class="balao-hq" style="left:420px;top:110px;max-width:560px">{{ fala }}</div>
+  <div style="position:absolute;left:30px;top:30px;z-index:3"><span class="legenda-hq">{{ p.assunto }} · {{ rotulo_tipo }}</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:870px">
+    <h1 class="titulo" data-ajusta data-min="56" style="font-size:96px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:16px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="quadro" style="left:40px;top:40px;width:1000px;height:360px">{{ c.midia("", "", ["30% 30%", "70% 60%", "50% 80%"][n % 3]) }}</div>
+  <div style="position:absolute;left:30px;top:30px;z-index:3"><span class="legenda-hq">{{ s.rotulo }}...</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:450px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.texto %}<div style="display:grid;gap:20px;margin-top:34px">{% for t in s.texto %}<div class="caixa-hq"><p class="texto">{{ t|negrito }}</p></div>{% endfor %}</div>{% endif %}
+    {%- if s.itens or s.passos %}{{ c.corpo({"itens": s.itens, "passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="balao-hq" style="left:56px;right:56px;top:200px;padding:48px 44px;font:400 104px/1 var(--f-titulo);text-transform:uppercase" data-caixa>
+    <h2 data-ajusta data-min="64" style="font:inherit">{{ s.titulo }}</h2>
+  </div>
+  <div style="position:absolute;left:56px;top:880px"><span class="legenda-hq" style="font-size:34px">Continua no link da bio...</span></div>
+  <p style="position:absolute;left:56px;top:990px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

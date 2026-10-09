@@ -1,0 +1,67 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 15. MAPA · a foto vira mapa: grade com coordenadas, alfinete de pixel e legenda. Bom para lugares e guias. -#}
+{{ c.cabeca("Mapa") }}
+<style>
+  .grade-mapa::before { content: ""; position: absolute; inset: 0; z-index: 1;
+    background: linear-gradient(rgba(255,255,255,.22) 2px, transparent 2px) 0 0/125px 125px,
+                linear-gradient(90deg, rgba(255,255,255,.22) 2px, transparent 2px) 0 0/125px 125px; }
+  .coords { position: absolute; display: flex; justify-content: space-around; font: 700 22px/1 var(--f-pixel); color: var(--cinza); }
+  .coords.v { flex-direction: column; }
+  .alfinete { position: absolute; width: 64px; height: 88px; z-index: 3; }
+  .alfinete b { position: absolute; left: 0; top: 0; width: 64px; height: 64px; background: var(--destaque); border: 6px solid var(--noite); }
+  .alfinete i { position: absolute; left: 22px; top: 58px; width: 20px; height: 30px; background: var(--destaque); clip-path: polygon(0 0, 100% 0, 50% 100%); }
+  .raio { position: absolute; border: 4px dashed var(--destaque); z-index: 2; }
+  .legenda-mapa { background: var(--noite); border: 4px solid var(--branco); padding: 20px 26px; display: inline-grid; gap: 10px; font: 700 22px/1 var(--f-pixel); text-transform: uppercase; }
+  .legenda-mapa span { display: flex; align-items: center; gap: 12px; }
+  .legenda-mapa span i { width: 18px; height: 18px; display: block; }
+  .rota { list-style: none; position: relative; display: grid; gap: 34px; padding-left: 70px; }
+  .rota::before { content: ""; position: absolute; left: 20px; top: 20px; bottom: 20px; border-left: 6px dotted var(--destaque); }
+  .rota li { position: relative; }
+  .rota li::before { content: attr(data-n); position: absolute; left: -70px; top: -4px; width: 46px; height: 46px; background: var(--destaque); color: var(--noite); display: grid; place-items: center; font: 700 22px/1 var(--f-pixel); }
+</style>
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:60px;top:60px;width:1000px;height:750px", "grade-mapa") }}
+  <div class="coords" style="left:60px;width:1000px;top:24px">{% for l in "ABCDEFGH" %}<span>{{ l }}</span>{% endfor %}</div>
+  <div class="coords v" style="left:20px;top:60px;height:750px">{% for l in range(1, 7) %}<span>{{ l }}</span>{% endfor %}</div>
+  <div class="raio" style="left:500px;top:220px;width:250px;height:250px"></div>
+  <div class="alfinete" style="left:590px;top:250px"><b></b><i></i></div>
+  <div style="position:absolute;left:84px;top:84px;z-index:3"><span class="legenda-mapa"><span><i style="background:var(--destaque)"></i>{{ s.local or p.assunto }}</span><span style="color:var(--cinza)"><i style="border:3px dashed var(--destaque)"></i>{{ rotulo_tipo }}</span></span></div>
+  <section data-caixa style="position:absolute;left:60px;right:56px;top:860px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:100px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("right:56px;top:56px;width:340px;height:340px", "grade-mapa recorte", None, "midia-mini") }}
+  <div class="alfinete" style="right:190px;top:150px;transform:scale(.6)"><b></b><i></i></div>
+  <div style="position:absolute;left:56px;top:72px"><span class="tag">{{ s.rotulo }}</span></div>
+  <p style="position:absolute;left:56px;top:160px;font:700 24px/1.5 var(--f-pixel);text-transform:uppercase;color:var(--cinza)">Ponto {{ n - 1 }} de {{ total - 2 }}<br><span style="color:var(--destaque)">{{ (p.capa.local or p.assunto) }}</span></p>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:440px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.passos %}
+    <ol class="rota" style="margin-top:44px">{% for t in s.passos %}<li data-n="{{ s.inicio + loop.index0 }}"><span class="texto item">{{ t }}</span></li>{% endfor %}</ol>
+    {%- else %}{{ c.corpo(s) }}{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div style="position:absolute;inset:0 0 84px 0;background:linear-gradient(var(--linha) 2px, transparent 2px) 0 0/90px 90px, linear-gradient(90deg, var(--linha) 2px, transparent 2px) 0 0/90px 90px"></div>
+  <div class="alfinete" style="left:56px;top:110px;transform:scale(1.6);transform-origin:left top"><b></b><i></i></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:330px">
+    <p style="font:700 30px/1 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Você está aqui</p>
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:112px;margin-top:24px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Próximo destino: link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

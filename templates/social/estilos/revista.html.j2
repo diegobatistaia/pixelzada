@@ -1,0 +1,64 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 3. REVISTA · capa de revista: logo grande no topo, foto ocupando tudo, chamadas no canto. -#}
+{{ c.cabeca("Revista") }}
+<style>
+  .cheia { clip-path: none; }
+  .cheia::after { background: linear-gradient(to bottom, rgba(11,10,16,.55) 0%, transparent 22%, transparent 45%, rgba(11,10,16,.94) 72%); }
+  .masthead { position: absolute; left: 48px; right: 48px; top: 44px; display: flex; align-items: flex-end; justify-content: space-between; }
+  .edicao { font: 700 22px/1.4 var(--f-pixel); text-transform: uppercase; text-align: right; color: var(--branco); text-shadow: 0 1px 6px rgba(0,0,0,.6); }
+  .chamadas { position: absolute; left: 48px; top: 230px; width: 420px; list-style: none; display: grid; gap: 18px; }
+  .chamadas li { background: rgba(11,10,16,.82); padding: 14px 18px; border-left: 10px solid var(--destaque);
+    font: 700 30px/1.15 var(--f-texto); font-stretch: 85%; }
+  .chamadas li span { display: block; font: 700 18px/1 var(--f-pixel); color: var(--destaque); text-transform: uppercase; margin-bottom: 8px; }
+  .regua { display: flex; align-items: center; gap: 20px; font: 700 24px/1 var(--f-pixel); text-transform: uppercase; }
+  .regua hr { flex: 1; border: 0; border-top: 3px solid var(--branco); }
+  .duas { column-count: 2; column-gap: 44px; }
+  .duas .texto { font-size: 36px; break-inside: avoid; }
+  .duas .texto:first-child::first-letter { float: left; font: 400 150px/.82 var(--f-titulo); color: var(--destaque); margin: 6px 14px 0 0; }
+</style>
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("inset:0 0 84px 0", "cheia") }}
+  <div class="masthead">
+    <img src="{{ c.logo_branco() }}" alt="Pixelzada" style="height:118px">
+    <div class="edicao">Especial<br><span style="color:var(--destaque)">{{ p.assunto }}</span></div>
+  </div>
+  {%- set chamadas = p.slides[:3] %}
+  <ul class="chamadas">
+    {%- for ch in chamadas %}<li><span>{{ ch.rotulo }}</span>{{ ch.titulo }}</li>{% endfor %}
+  </ul>
+  <section data-caixa style="position:absolute;left:48px;right:48px;top:820px">
+    <h1 class="titulo" data-ajusta data-min="64" style="font-size:118px;line-height:.94">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px;color:var(--branco)">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="regua" style="position:absolute;left:56px;right:56px;top:70px"><span style="color:var(--destaque)">{{ s.rotulo }}</span><hr><span>Pixelzada · {{ p.assunto }}</span></div>
+  <section data-caixa data-imagem-ate="900" style="position:absolute;left:56px;right:56px;top:140px">
+    <h2 class="titulo" data-ajusta data-min="60" style="font-size:96px;line-height:.94">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.texto and not s.itens and not s.passos %}
+    <div class="duas" style="margin-top:40px">{% for t in s.texto %}<p class="texto" style="{% if not loop.first %}margin-top:24px;{% endif %}{% if loop.index > 1 and loop.last %}color:var(--cinza){% endif %}">{{ t|negrito }}</p>{% endfor %}</div>
+    {%- else %}{{ c.corpo(s) }}{% endif %}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:930px;height:310px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="regua" style="position:absolute;left:56px;right:56px;top:70px"><span style="color:var(--destaque)">Fim da edição</span><hr><span>{{ n }}/{{ total }}</span></div>
+  <img src="{{ c.logo_branco() }}" alt="Pixelzada" style="position:absolute;left:56px;top:150px;width:968px">
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:470px">
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:112px">{{ s.titulo }}</h2>
+    <div class="regua" style="margin-top:56px"><span style="color:var(--destaque)">Matéria completa no link da bio</span><hr></div>
+    <p style="margin-top:14px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

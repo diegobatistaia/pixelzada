@@ -1,0 +1,73 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 16. CELULAR · tela de celular de jogo: foto de fundo de tela, notificação com a manchete, conversa no miolo. -#}
+{{ c.cabeca("Celular") }}
+<style>
+  .fone { position: absolute; background: var(--noite); border: 10px solid var(--branco); padding: 0; overflow: hidden; }
+  .fone .midia { position: absolute; inset: 0; }
+  .fone .midia::after { background: linear-gradient(to bottom, rgba(11,10,16,.5), transparent 30%, transparent 60%, rgba(11,10,16,.7)); }
+  .barra-sts { position: absolute; left: 24px; right: 24px; top: 18px; display: flex; justify-content: space-between; font: 700 20px/1 var(--f-pixel); z-index: 2; }
+  .hora { position: absolute; left: 0; right: 0; top: 70px; text-align: center; font: 400 120px/1 var(--f-titulo); z-index: 2; text-shadow: 0 2px 12px rgba(0,0,0,.6); }
+  .notif { background: rgba(23,21,31,.96); border-left: 10px solid var(--destaque); padding: 22px 26px; }
+  .notif .app { display: flex; justify-content: space-between; font: 700 20px/1 var(--f-pixel); text-transform: uppercase; color: var(--destaque); margin-bottom: 12px; }
+  .balao { max-width: 86%; padding: 22px 28px; background: var(--carvao); position: relative; }
+  .balao.nosso { background: var(--destaque); color: var(--noite); margin-left: auto; }
+  .balao.nosso strong { color: var(--noite); }
+  .balao .texto { font-size: 36px; }
+  .conversa { display: grid; gap: 22px; }
+  .quem { font: 700 20px/1 var(--f-pixel); text-transform: uppercase; color: var(--cinza); }
+  .botao { display: inline-flex; align-items: center; gap: 16px; background: var(--destaque); color: var(--noite); font: 700 30px/1 var(--f-pixel); text-transform: uppercase; padding: 22px 30px 20px; }
+</style>
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="fone" style="left:60px;top:40px;width:560px;height:1160px;transform:rotate(-4deg)">
+    {{ c.midia("", "") }}
+    <div class="barra-sts"><span>Pixelzada</span><span>▮▮▮ 100%</span></div>
+    <div class="hora">08:00</div>
+  </div>
+  <section data-caixa data-limite="1236" style="position:absolute;left:420px;right:48px;top:470px">
+    <div class="notif">
+      <div class="app"><span>{{ p.assunto }} · {{ rotulo_tipo }}</span><span style="color:var(--cinza)">agora</span></div>
+      <h1 class="titulo" data-ajusta data-min="52" style="font-size:80px">{{ s.titulo|realce(s.destaque) }}</h1>
+    </div>
+    {%- if s.apoio %}<div class="notif" style="margin-top:18px;border-left-color:var(--linha)"><div class="app" style="color:var(--cinza)"><span>Mais 1 mensagem</span></div><p class="texto" style="font-size:32px">{{ s.apoio }}</p></div>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <header style="position:absolute;left:0;right:0;top:0;height:150px;background:var(--carvao);display:flex;align-items:center;gap:24px;padding:0 56px;border-bottom:3px solid var(--linha)">
+    <div style="width:84px;height:84px;position:relative;flex:none">{{ c.midia("inset:0", "recorte") }}</div>
+    <div><p style="font:800 38px/1 var(--f-texto);font-stretch:85%">{{ s.rotulo }}</p><p class="quem" style="margin-top:10px;color:var(--destaque)">online · {{ p.assunto }}</p></div>
+  </header>
+  <section data-caixa data-imagem-ate="880" style="position:absolute;left:56px;right:56px;top:200px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:80px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.texto %}
+    <div class="conversa" style="margin-top:36px">
+      {%- for t in s.texto %}<div class="balao {{ 'nosso' if loop.index is odd else '' }}"><p class="texto">{{ t|negrito }}</p></div>{% endfor %}
+    </div>
+    {%- endif %}
+    {%- if s.itens or s.passos %}{{ c.corpo({"itens": s.itens, "passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.midia("left:56px;width:620px;top:910px;height:330px;border:10px solid var(--carvao)", "") }}
+  <p class="quem" style="position:absolute;left:700px;top:1210px">foto · {{ p.assunto }}</p>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:180px">
+    <p class="quem">Pixelzada · agora</p>
+    <div class="balao nosso" style="margin-left:0;max-width:100%;margin-top:18px;padding:44px 40px">
+      <h2 class="titulo" data-ajusta data-min="64" style="font-size:104px;color:var(--noite)">{{ s.titulo }}</h2>
+    </div>
+    <p style="margin-top:56px"><span class="botao">Encaminhar <i class="seta"></i></span></p>
+    <p style="margin-top:40px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}
