@@ -146,4 +146,12 @@
       }
     });
   }
+
+  // PWA: o service worker deixa o site instalável e mostra a página de "sem
+  // conexão". Matéria nova sempre vem da rede (ver sw.js).
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", function () {
+      navigator.serviceWorker.register("/sw.js").catch(function () {});
+    });
+  }
 })();
