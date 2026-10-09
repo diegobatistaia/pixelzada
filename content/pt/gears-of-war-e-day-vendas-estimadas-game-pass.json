@@ -141,7 +141,8 @@
     "alt": "Arte de Gears of War: E-Day com soldados no campo de batalha",
     "credit": "Imagem: divulgação, via Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/10/gears-of-war-eday-1200x675.jpg",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/gears-of-war-e-day-vendas-estimadas-game-78f179b1.jpg"
   },
   "sources": [
     {
@@ -169,5 +170,7 @@
       "title": "Gears of War: E-Day sold just 62K copies on Xbox versus 1.7 million Game Pass players"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-09T21:41:47+00:00",
+  "updated_at": "2026-10-09T21:41:47+00:00"
 }
