@@ -82,5 +82,17 @@
     "Slide 4: Jogo passou de 40 milhões de cópias e Edgerunners volta em 20 de outubro",
     "Slide 5: Manda pro amigo que queria ver Night City no cinema"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-10-09",
+    "horario": "18:15",
+    "em": "2026-10-09T18:14:32-03:00",
+    "estilo": "ficha",
+    "media_id": "18116911196045417",
+    "permalink": "https://www.instagram.com/p/DeSc3MVo7E0/"
+  },
+  "story": {
+    "em": "2026-10-09T18:15:19-03:00",
+    "media_id": "17961287559235223"
+  }
 }
