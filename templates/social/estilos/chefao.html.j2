@@ -1,0 +1,57 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 19. CHEFÃO · luta contra chefe: nome do chefe e barra de vida que cai a cada slide. Bom para vilões, polêmicas, desafios. -#}
+{{ c.cabeca("Chefão") }}
+<style>
+  .luta::after { background: linear-gradient(to bottom, rgba(11,10,16,.65) 0%, transparent 25%, transparent 50%, rgba(11,10,16,.94) 78%); }
+  .luta .credito { top: 22px; bottom: auto; }
+  .chefe { display: grid; gap: 12px; }
+  .chefe .nome { display: flex; justify-content: space-between; font: 700 28px/1 var(--f-pixel); text-transform: uppercase; }
+  .vida { height: 40px; border: 5px solid var(--branco); background: var(--noite); padding: 4px; }
+  .vida b { display: block; height: 100%; background: linear-gradient(to bottom, var(--vermelho) 0 50%, #c22f2f 50%); }
+  .vida b.baixa { background: var(--laranja); }
+  .dano { font: 400 110px/1 var(--f-titulo); color: var(--destaque); }
+</style>
+</head><body>
+{%- set chefe = p.capa.chefe or p.assunto %}
+{%- macro vida(pct) -%}
+<div class="chefe"><div class="nome"><span>{{ chefe }}</span><span style="color:var(--cinza)">Vida {{ pct }}%</span></div><div class="vida"><b class="{{ 'baixa' if pct < 40 else '' }}" style="width:{{ pct }}%"></b></div></div>
+{%- endmacro %}
+{%- set restante = (100 - (n - 1) * 100 / (total - 1))|round|int %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("inset:0 0 84px 0", "luta") }}
+  <div style="position:absolute;left:56px;right:56px;top:70px">{{ vida(100) }}</div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:800px">
+    <span class="tag" style="background:var(--vermelho);color:var(--branco)">Chefão<i class="sep"></i>{{ p.assunto }}</span>
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:108px;margin-top:22px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:18px;color:var(--branco)">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div style="position:absolute;left:56px;right:56px;top:64px">{{ vida(restante) }}</div>
+  <div style="position:absolute;left:56px;top:210px;display:flex;align-items:flex-end;gap:26px"><span class="dano">-{{ (100 / (total - 1))|round|int }}</span><span class="tag" style="margin-bottom:14px">{{ s.rotulo }}</span></div>
+  <section data-caixa data-imagem-ate="920" style="position:absolute;left:56px;right:56px;top:360px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s) }}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:950px;height:290px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div style="position:absolute;left:56px;right:56px;top:64px">{{ vida(0) }}</div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:260px">
+    <p style="font:700 56px/1.1 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Chefão<br>derrotado</p>
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:108px;margin-top:48px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Recompensa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

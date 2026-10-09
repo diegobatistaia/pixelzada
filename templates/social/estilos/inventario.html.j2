@@ -1,0 +1,64 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 14. INVENTÁRIO · tela de itens do jogo: slots em grade, item selecionado em destaque. Bom para listas. -#}
+{{ c.cabeca("Inventário") }}
+<style>
+  .slots { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .slot { position: relative; height: 150px; background: var(--carvao); border: 4px solid var(--linha); overflow: hidden; }
+  .slot img { width: 100%; height: 100%; object-fit: cover; display: block; filter: saturate(1.1); }
+  .slot span { position: absolute; left: 0; right: 0; bottom: 0; background: rgba(11,10,16,.88); font: 700 18px/1.15 var(--f-pixel); text-transform: uppercase; padding: 8px 8px 6px; }
+  .slot.sel { border-color: var(--destaque); box-shadow: 0 0 0 4px var(--noite), 0 0 0 8px var(--destaque); }
+  .grade-itens { list-style: none; display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .grade-itens li { background: var(--carvao); border: 4px solid var(--linha); padding: 22px 24px; min-height: 170px; display: flex; flex-direction: column; justify-content: space-between; gap: 14px; }
+  .grade-itens li.confirmado { border-color: var(--lima); } .grade-itens li.boato { border-color: var(--laranja); }
+  .grade-itens li.falso { border-color: var(--vermelho); }
+  .grade-itens .raro { font: 700 18px/1 var(--f-pixel); text-transform: uppercase; color: var(--cinza); }
+  .cabecalho-inv { display: flex; justify-content: space-between; align-items: center; border-bottom: 4px solid var(--destaque); padding-bottom: 16px; font: 700 26px/1 var(--f-pixel); text-transform: uppercase; }
+</style>
+</head><body>
+{%- set nomes = s.itens_capa or (p.slides|map(attribute="rotulo")|list) %}
+{%- set cortes = ["20% 30%", "80% 30%", "25% 80%", "75% 80%"] %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="cabecalho-inv" style="position:absolute;left:56px;right:56px;top:56px"><span>Inventário</span><span style="color:var(--destaque)">{{ p.assunto }}</span></div>
+  {{ c.midia("left:40px;top:130px;width:1000px;height:560px", "recorte") }}
+  <div class="slots" style="position:absolute;left:56px;right:56px;top:720px">
+    {%- for nome in nomes[:4] %}
+    <div class="slot {{ 'sel' if loop.first else '' }}">{% if img %}<img src="{{ img }}" alt="" style="transform:scale(3.2);transform-origin:{{ cortes[loop.index0] }}">{% endif %}<span>{{ nome }}</span></div>
+    {%- endfor %}
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:910px">
+    <h1 class="titulo" data-ajusta data-min="56" style="font-size:92px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:16px;font-size:34px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="cabecalho-inv" style="position:absolute;left:56px;right:56px;top:56px"><span>{{ s.rotulo }}</span><span style="color:var(--destaque)">Página {{ n - 1 }}/{{ total - 2 }}</span></div>
+  <section data-caixa data-imagem-ate="1000" style="position:absolute;left:56px;right:56px;top:150px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.itens %}
+    <ul class="grade-itens" style="margin-top:34px">
+      {%- for it in s.itens %}<li class="{{ it.selo }}"><span class="texto item" style="font-size:36px">{{ it.texto }}</span><span class="raro">{{ selos[it.selo] }}</span></li>{% endfor %}
+    </ul>
+    {%- else %}{{ c.corpo(s) }}{% endif %}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:1030px;height:210px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="cabecalho-inv" style="position:absolute;left:56px;right:56px;top:56px"><span>Item novo</span><span style="color:var(--destaque)">1 de 1</span></div>
+  <div class="slot sel" style="position:absolute;left:56px;top:150px;width:220px;height:220px;display:grid;place-items:center;background:var(--noite)"><img src="{{ c.simbolo_lima() }}" alt="" style="width:120px;height:120px;object-fit:contain"></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:440px">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:108px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Equipe o link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

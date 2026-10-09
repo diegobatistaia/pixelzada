@@ -1,0 +1,69 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 12. CARREGANDO · tela de loading de jogo: arte de fundo, barra de progresso e caixa de DICA. -#}
+{{ c.cabeca("Carregando") }}
+<style>
+  .fundo::after { background: linear-gradient(to bottom, rgba(11,10,16,.25) 0%, transparent 30%, rgba(11,10,16,.92) 62%); }
+  .fundo .credito { top: 22px; bottom: auto; }
+  .progresso { display: grid; grid-template-columns: 1fr auto; gap: 18px; align-items: center; }
+  .barra { height: 34px; border: 4px solid var(--branco); padding: 4px; display: flex; gap: 4px; }
+  .barra i { flex: 1; background: var(--destaque); }
+  .barra i.vazio { background: transparent; }
+  .pct { font: 700 30px/1 var(--f-pixel); color: var(--destaque); }
+  .dica { border-left: 10px solid var(--destaque); background: rgba(23,21,31,.92); padding: 22px 28px; }
+  .dica b { display: block; font: 700 24px/1 var(--f-pixel); color: var(--destaque); text-transform: uppercase; margin-bottom: 12px; }
+  .girando { display: inline-grid; grid-template-columns: repeat(3, 12px); gap: 4px; vertical-align: middle; margin-left: 14px; }
+  .girando i { width: 12px; height: 12px; background: var(--destaque); }
+  .girando i:nth-child(2) { opacity: .6; } .girando i:nth-child(3) { opacity: .3; }
+</style>
+</head><body>
+{%- macro barra(pct) -%}
+<div class="progresso"><div class="barra">{% for i in range(20) %}<i class="{{ '' if i < (pct / 5)|int else 'vazio' }}"></i>{% endfor %}</div><span class="pct">{{ pct }}%</span></div>
+{%- endmacro %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("inset:0 0 84px 0", "fundo") }}
+  <section data-caixa data-limite="950" style="position:absolute;left:56px;right:56px;top:560px">
+    <span class="tag">{{ p.assunto }}<i class="sep"></i>{{ rotulo_tipo }}</span>
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:100px;margin-top:22px">{{ s.titulo|realce(s.destaque) }}</h1>
+  </section>
+  <div style="position:absolute;left:56px;right:56px;top:970px">
+    {%- if s.apoio %}<div class="dica" style="margin-bottom:26px"><b>Dica</b><span class="texto" style="font-size:32px">{{ s.apoio }}</span></div>{% endif %}
+  </div>
+  <div style="position:absolute;left:56px;right:56px;bottom:116px">
+    <p style="font:700 26px/1 var(--f-pixel);text-transform:uppercase;margin-bottom:14px">Carregando<span class="girando"><i></i><i></i><i></i></span></p>
+    {{ barra(((1) * 100 / total)|round|int) }}
+  </div>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div style="position:absolute;left:56px;right:56px;top:64px">
+    <p style="font:700 28px/1 var(--f-pixel);text-transform:uppercase;margin-bottom:18px">Carregando {{ s.rotulo }}<span class="girando"><i></i><i></i><i></i></span></p>
+    {{ barra(((n - 1) * 100 / (total - 1))|round|int) }}
+  </div>
+  <section data-caixa data-imagem-ate="900" style="position:absolute;left:56px;right:56px;top:240px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.texto %}{% for t in s.texto %}<div class="dica" style="margin-top:{{ 36 if loop.first else 22 }}px"><b>{{ 'Dica' if loop.first else 'Dica extra' }}</b><p class="texto" style="font-size:38px">{{ t|negrito }}</p></div>{% endfor %}{% endif %}
+    {%- if s.itens or s.passos %}{{ c.corpo({"itens": s.itens, "passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:930px;height:310px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div style="position:absolute;left:56px;right:56px;top:120px">
+    <p style="font:700 34px/1 var(--f-pixel);text-transform:uppercase;margin-bottom:20px;color:var(--destaque)">Pronto!</p>
+    {{ barra(100) }}
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:380px">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:112px">{{ s.titulo }}</h2>
+    <p style="margin-top:56px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Aperte o link da bio<br>pra continuar</p>
+    <p style="margin-top:16px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

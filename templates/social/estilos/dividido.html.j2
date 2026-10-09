@@ -1,0 +1,57 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 4. DIVIDIDO · bloco de cor de um lado, foto do outro, cortados por uma escada de pixels. -#}
+{{ c.cabeca("Dividido") }}
+<style>
+  /* borda esquerda da foto em escada, de cima para baixo */
+  .escada { clip-path: polygon(128px 0, 100% 0, 100% 100%, 0 100%, 0 84%, 32px 84%, 32px 68%, 64px 68%, 64px 52%, 96px 52%, 96px 36%, 128px 36%); }
+  .escada::after { background: none; }
+  .bloco { position: absolute; left: 0; top: 0; bottom: 84px; background: var(--destaque); color: var(--noite); }
+  .inverso { background: var(--noite); color: var(--destaque); padding: 0 .1em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+  .bloco .titulo { color: var(--noite); }
+  .bloco .apoio { color: var(--noite); opacity: .85; font-weight: 600; }
+  .faixa-v { position: absolute; left: 0; top: 0; bottom: 84px; width: 110px; background: var(--destaque); color: var(--noite);
+    writing-mode: vertical-rl; transform: rotate(180deg); display: flex; align-items: center; justify-content: space-between; padding: 48px 0;
+    font: 700 30px/1 var(--f-pixel); text-transform: uppercase; letter-spacing: 2px; }
+  .metade-cima { position: absolute; left: 0; right: 0; top: 0; height: 660px; background: var(--lima); color: var(--noite); }
+</style>
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="bloco" style="width:660px"></div>
+  {{ c.midia("left:520px;right:0;top:0;bottom:84px", "escada") }}
+  <section data-caixa data-direita="600" data-limite="1236" style="position:absolute;left:48px;width:466px;top:64px;height:1172px;display:flex;flex-direction:column;align-items:flex-start">
+    <span class="tag escura" style="font-size:24px">{{ p.assunto }}<i class="sep"></i>{{ rotulo_tipo }}</span>
+    <h1 class="titulo" data-ajusta data-min="56" style="font-size:88px;line-height:1.2;margin-top:40px;color:var(--noite);align-self:stretch">{{ s.titulo|realce(s.destaque, "inverso") }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:auto;padding-top:28px;font-size:36px;color:var(--noite);font-weight:600">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte, "background:var(--noite);color:var(--destaque);border-top:2px solid var(--linha)", c.logo_branco()) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="faixa-v"><span>{{ s.rotulo }}</span><span>{{ n - 1 }}/{{ total - 2 }}</span></div>
+  <section data-caixa data-imagem-ate="900" style="position:absolute;left:170px;right:56px;top:80px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:86px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s, 40) }}
+  </section>
+  {{ c.midia("left:170px;right:0;top:930px;bottom:84px", "escada") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="metade-cima"></div>
+  <section data-caixa data-limite="640" style="position:absolute;left:56px;right:56px;top:72px">
+    <img src="{{ c.simbolo() }}" alt="" style="height:110px;display:block">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:108px;color:var(--noite);margin-top:40px">{{ s.titulo }}</h2>
+  </section>
+  <div style="position:absolute;left:0;right:0;top:660px;height:32px;display:flex">{% for i in range(34) %}<i style="flex:1;background:{{ 'var(--lima)' if i % 2 == 0 else 'transparent' }}"></i>{% endfor %}</div>
+  <div style="position:absolute;left:56px;right:56px;top:780px">
+    <p style="font:700 40px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--lima)">Matéria completa<br>no link da bio</p>
+    <p style="margin-top:24px;font:400 32px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </div>
+  <footer class="faixa" style="background:var(--noite);color:var(--lima);border-top:2px solid var(--linha)"><img src="{{ c.logo_branco() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

@@ -1,0 +1,88 @@
+{#- Peças comuns dos 10 estilos novos. Mesmo contrato do templates/social/arte.html.j2:
+    variáveis base, p, s, n, total, cor, rotulo_tipo, fonte, selos, credito, img, pos;
+    filtros realce e negrito; window.__medida no fim. -#}
+{%- macro logo_preto() %}{{ base }}/assets/logo/pixelzada-logo-mono-preto.svg{% endmacro %}
+{%- macro logo_branco() %}{{ base }}/assets/logo/pixelzada-logo-transparente.svg{% endmacro %}
+{%- macro simbolo() %}{{ base }}/assets/logo/pixelzada-simbolo.svg{% endmacro %}
+{%- macro simbolo_lima() %}{{ base }}/assets/logo/pixelzada-simbolo-lima.svg{% endmacro %}
+
+{%- macro cabeca(titulo) -%}
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>{{ titulo }}</title>
+<link rel="stylesheet" href="{{ base }}/templates/social/marca.css">
+<style>
+  body { background: transparent; }
+  .lista { list-style: none; display: grid; }
+  .lista li { display: flex; align-items: center; gap: 24px; padding: 22px 0; border-bottom: 2px solid var(--linha); }
+  .lista .selo { flex: none; min-width: 270px; text-align: center; }
+  .passos { list-style: none; display: grid; gap: 22px; }
+  .passos li { display: flex; gap: 22px; align-items: center; }
+  .passos .n { flex: none; width: 58px; height: 58px; display: grid; place-items: center; background: var(--destaque); color: var(--noite); font: 700 30px/1 var(--f-pixel); }
+  .item { font-size: 38px; font-weight: 600; line-height: 1.22; }
+</style>
+{%- endmacro %}
+
+{%- macro faixa(fonte, estilo="", logo=None) -%}
+<footer class="faixa" style="{{ estilo }}"><img src="{{ logo or logo_preto() }}" alt="Pixelzada"><span class="fonte">{{ fonte }}</span><span class="contador">{{ n }}/{{ total }}{% if n < total %} <i class="seta"></i>{% endif %}</span></footer>
+{%- endmacro %}
+
+{%- macro midia(estilo, classe="recorte", posicao=None, id="midia", filtro="") -%}
+<div class="midia {{ classe }}" id="{{ id }}" style="{{ estilo }}">
+  {%- if img %}<img src="{{ img }}" alt="" style="object-position: {{ posicao or s.pos or pos }};{{ filtro }}">{% endif -%}
+  <span class="credito">IMAGEM: {{ credito|upper }}</span>
+</div>
+{%- endmacro %}
+
+{#- Corpo dos slides de texto: parágrafos, itens com selo ou passos numerados. -#}
+{%- macro corpo(s, margem=36) -%}
+    {%- for t in s.texto or [] %}
+    <p class="texto" style="margin-top:{{ margem if loop.first else 28 }}px{% if loop.index > 1 and loop.last %};color:var(--cinza){% endif %}">{{ t|negrito }}</p>
+    {%- endfor %}
+    {%- if s.itens %}
+    <ul class="lista" style="margin-top:{{ margem - 8 }}px">
+      {%- for it in s.itens %}
+      <li><span class="selo {{ it.selo }}">{{ selos[it.selo] }}</span><span class="texto item">{{ it.texto }}</span></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+    {%- if s.passos %}
+    <ol class="passos" style="margin-top:{{ margem }}px">
+      {%- for t in s.passos %}
+      <li><span class="n">{{ s.inicio + loop.index0 }}</span><span class="texto item">{{ t }}</span></li>
+      {%- endfor %}
+    </ol>
+    {%- endif %}
+{%- endmacro %}
+
+{%- macro medida() -%}
+<script>
+// Encolhe o título até o texto caber; depois mede. O gerador lê window.__medida.
+(function () {
+  const arte = document.querySelector('.arte');
+  const limitePadrao = arte.offsetHeight - 84 - 30;
+  const caixa = document.querySelector('[data-caixa]');
+  const out = { erros: [] };
+  if (caixa) {
+    const limite = +(caixa.dataset.limite || limitePadrao);
+    const midia = document.getElementById('midia');
+    const ateImagem = caixa.dataset.imagemAte ? +caixa.dataset.imagemAte : null;
+    const fundo = () => caixa.getBoundingClientRect().bottom;
+    const teto = () => (ateImagem && midia && midia.style.display !== 'none') ? ateImagem : limite;
+    if (ateImagem && midia && fundo() > ateImagem) midia.style.display = 'none';
+    for (const el of caixa.querySelectorAll('[data-ajusta]')) {
+      let tam = parseFloat(getComputedStyle(el).fontSize);
+      const min = +(el.dataset.min || 40);
+      while (fundo() > teto() && tam > min) { tam -= 2; el.style.fontSize = tam + 'px'; }
+    }
+    if (fundo() > teto()) out.erros.push('texto passa do espaço em ' + Math.round(fundo() - teto()) + 'px');
+    const direita = +(caixa.dataset.direita || arte.offsetWidth - 40);
+    for (const el of caixa.querySelectorAll('*')) {
+      if (el.scrollWidth > el.clientWidth + 2 && getComputedStyle(el).overflow !== 'visible') out.erros.push('texto cortado na largura');
+      if (el.getBoundingClientRect().right > direita + 1) { out.erros.push('texto passa da margem direita'); break; }
+    }
+  }
+  window.__medida = out;
+})();
+</script>
+</body></html>
+{%- endmacro %}

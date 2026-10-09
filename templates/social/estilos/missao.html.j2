@@ -1,0 +1,67 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 5. MISSÃO · a tela do jogo: HUD com objetivo, minimapa e barras; no miolo, caixa de diálogo. -#}
+{{ c.cabeca("Missão") }}
+<style>
+  .tela::after { background: linear-gradient(to bottom, rgba(11,10,16,.5) 0%, transparent 25%, transparent 50%, rgba(11,10,16,.95) 80%); }
+  .hud { font: 700 24px/1 var(--f-pixel); text-transform: uppercase; }
+  .mapa { position: absolute; width: 190px; height: 190px; border: 6px solid var(--branco); background:
+      linear-gradient(var(--linha) 2px, transparent 2px) 0 0/38px 38px,
+      linear-gradient(90deg, var(--linha) 2px, transparent 2px) 0 0/38px 38px, rgba(11,10,16,.82); }
+  .mapa::before { content: ""; position: absolute; left: 76px; top: 70px; width: 26px; height: 32px; background: var(--destaque);
+    clip-path: polygon(50% 0, 100% 100%, 50% 75%, 0 100%); }
+  .mapa::after { content: ""; position: absolute; left: 130px; top: 26px; width: 22px; height: 22px; background: var(--magenta); }
+  .barra { display: flex; gap: 4px; }
+  .barra i { width: 26px; height: 18px; background: var(--destaque); }
+  .barra i.vazia { background: rgba(255,255,255,.18); }
+  .objetivo { display: inline-flex; align-items: center; gap: 14px; background: var(--noite); color: var(--destaque); border: 4px solid var(--destaque); padding: 12px 18px 10px; }
+  .dialogo { position: absolute; left: 40px; right: 40px; background: var(--noite); border: 6px solid var(--branco);
+    box-shadow: 12px 12px 0 var(--destaque); padding: 64px 44px 52px; }
+  .dialogo .nome { position: absolute; left: 32px; top: -30px; }
+  .dialogo .continua { position: absolute; right: 30px; bottom: 22px; width: 26px; height: 18px; background: var(--destaque); clip-path: polygon(0 0, 100% 0, 50% 100%); }
+</style>
+</head><body>
+{%- macro barras(cheias, total=8) -%}<span class="barra">{% for i in range(total) %}<i class="{{ '' if i < cheias else 'vazia' }}"></i>{% endfor %}</span>{%- endmacro %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("inset:24px 24px 108px 24px", "recorte tela") }}
+  <div class="hud" style="position:absolute;left:56px;top:62px;display:grid;gap:14px">
+    <span class="objetivo">Nova missão<i class="sep" style="width:10px;height:10px;background:currentColor"></i>{{ p.assunto }}</span>
+  </div>
+  <div class="mapa" style="right:56px;top:56px"></div>
+  <div class="hud" style="position:absolute;right:56px;top:270px;display:grid;gap:10px;justify-items:end">{{ barras(7) }}{{ barras(4) }}</div>
+  <section data-caixa data-limite="1220" style="position:absolute;left:64px;right:64px;top:770px">
+    <p class="hud" style="color:var(--destaque);font-size:28px">Objetivo:</p>
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:112px;margin-top:16px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:18px;color:var(--branco)">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:24px;right:24px;top:24px;height:470px", "recorte tela") }}
+  <div class="hud" style="position:absolute;left:56px;top:56px"><span class="objetivo">Parte {{ n - 1 }} de {{ total - 2 }}</span></div>
+  <div class="hud" style="position:absolute;right:56px;top:62px">{{ barras(n + 2) }}</div>
+  <section class="dialogo" data-caixa style="top:390px">
+    <span class="tag nome">{{ s.rotulo }}</span>
+    <h2 class="titulo" data-ajusta data-min="52" style="font-size:72px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s, 28) }}
+    <i class="continua"></i>
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="hud" style="position:absolute;left:56px;right:56px;top:72px;display:flex;justify-content:space-between;align-items:center">{{ barras(8) }}<img src="{{ c.simbolo_lima() }}" alt="" style="height:72px"></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:300px">
+    <p style="font:700 64px/1.1 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Missão<br>cumprida</p>
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:104px;margin-top:48px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px"><span class="objetivo hud" style="font-size:28px">Próximo objetivo: link da bio</span></p>
+    <p style="margin-top:20px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa" style="background:var(--lima);color:var(--noite)"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

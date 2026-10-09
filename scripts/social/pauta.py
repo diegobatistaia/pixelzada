@@ -9,7 +9,7 @@ from __future__ import annotations
 
 import json
 import re
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -34,6 +34,9 @@ LIM = {
     "rotulo": 22, "titulo": 60, "texto": 460, "item": 64, "final": 70,
     "gancho": 125, "legenda_min": 350, "legenda_max": 1100, "alt": 120,
 }
+# Campos opcionais da capa que liberam estilos de carrossel, com o tamanho máximo.
+EXTRAS = {"numero": 6, "numero_legenda": 30, "citacao": 90, "autor": 50, "local": 20,
+          "palavra": 12, "chefe": 20, "fala": 40}
 MARCA = "#pixelzada"
 AVISO_LINK = "Matéria completa no link da bio."
 GENERICAS = {"#games", "#game", "#gamer", "#gaming", "#videogame", "#jogos", "#instagood", "#love"}
@@ -136,6 +139,27 @@ def conferir(p: dict, arquivo: str | None = None) -> list[str]:
     tam("capa.apoio", capa.get("apoio"), LIM["capa.apoio"])
     if capa.get("destaque"):
         exige(capa["destaque"].lower() in capa.get("titulo", "").lower(), "capa.destaque precisa ser um trecho do título")
+    # Campos opcionais que liberam estilos de carrossel (scripts/social/estilos.py)
+    for k, lim in EXTRAS.items():
+        if isinstance(capa.get(k), str):
+            tam(f"capa.{k}", capa[k], lim)
+    if "data" in capa:
+        try:
+            date.fromisoformat(capa["data"])
+        except (TypeError, ValueError):
+            e.append("capa.data no formato AAAA-MM-DD")
+    if "lados" in capa:
+        lados = capa["lados"]
+        exige(isinstance(lados, list) and len(lados) == 2 and all(isinstance(x, str) and 0 < len(x) <= 14 for x in lados),
+              "capa.lados são 2 nomes de até 14 caracteres")
+    if "ficha" in capa:
+        f = capa["ficha"]
+        exige(isinstance(f, list) and 2 <= len(f) <= 4 and all(isinstance(x, list) and len(x) == 2 and len(x[0]) <= 12 and len(x[1]) <= 30 for x in f),
+              "capa.ficha tem de 2 a 4 pares [rótulo até 12, valor até 30]")
+    if "itens_capa" in capa:
+        f = capa["itens_capa"]
+        exige(isinstance(f, list) and 2 <= len(f) <= 4 and all(isinstance(x, str) and len(x) <= 16 for x in f),
+              "capa.itens_capa tem de 2 a 4 nomes de até 16 caracteres")
 
     exige(isinstance(p["slides"], list) and 2 <= len(p["slides"]) <= 5, "de 2 a 5 slides no miolo")
     for i, s in enumerate(p["slides"] if isinstance(p["slides"], list) else [], 2):

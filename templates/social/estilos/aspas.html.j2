@@ -1,0 +1,60 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 7. ASPAS · a frase de alguém vira a manchete, com aspas de pixel gigantes. -#}
+{{ c.cabeca("Aspas") }}
+<style>
+  .fundo-escuro img { filter: brightness(.8); }
+  .fundo-escuro::after { background: linear-gradient(to bottom, rgba(11,10,16,.35) 0%, transparent 18%, rgba(11,10,16,.2) 30%, rgba(11,10,16,.94) 52%); }
+  .fundo-escuro .credito { top: 22px; bottom: auto; }
+  /* aspas desenhadas em pixel: dois blocos com rabinho */
+  .aspas { position: absolute; display: flex; gap: 22px; }
+  .aspas b { display: block; width: 72px; height: 104px; background: var(--destaque);
+    clip-path: polygon(0 0, 100% 0, 100% 66%, 66% 66%, 66% 100%, 33% 100%, 33% 66%, 0 66%); }
+  .aspas.pequenas b { width: 36px; height: 52px; }
+  .aspas.escuras b { background: var(--noite); }
+  .autor { display: inline-flex; align-items: center; gap: 16px; font: 700 26px/1.2 var(--f-pixel); text-transform: uppercase; color: var(--destaque); }
+  .autor::before { content: ""; width: 60px; height: 6px; background: currentColor; }
+  .citacao { border-left: 12px solid var(--destaque); padding-left: 30px; }
+  .citacao .texto:first-child { font-size: 46px; font-weight: 700; line-height: 1.22; }
+</style>
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("inset:0 0 84px 0", "fundo-escuro") }}
+  <div class="aspas" style="left:56px;top:440px"><b></b><b></b></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:590px">
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:100px;line-height:1.02">{{ (s.citacao or s.titulo)|realce(None if s.citacao else s.destaque) }}</h1>
+    {%- if s.autor %}<p class="autor" style="margin-top:36px">{{ s.autor }}</p>{% endif %}
+    {%- if s.citacao %}<p style="margin-top:44px;font:800 44px/1.15 var(--f-texto);font-stretch:85%">{{ s.titulo|realce(s.destaque) }}</p>{% endif %}
+    {%- if s.apoio %}<p class="apoio" style="margin-top:14px;color:var(--branco)">{{ s.apoio }}</p>{% endif %}
+  </section>
+  <div style="position:absolute;left:56px;top:72px"><span class="tag">{{ p.assunto }}<i class="sep"></i>Disse</span></div>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("right:56px;top:56px;width:300px;height:300px", "recorte") }}
+  <div class="aspas pequenas" style="left:56px;top:72px"><b></b><b></b></div>
+  <div style="position:absolute;left:56px;top:160px"><span class="tag">{{ s.rotulo }}</span></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:400px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.texto %}<div class="citacao" style="margin-top:40px">{{ c.corpo({"texto": s.texto}, 0) }}</div>{% endif %}
+    {%- if s.itens or s.passos %}{{ c.corpo({"itens": s.itens, "passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte" style="background:var(--lima);color:var(--noite)">
+  <div class="aspas escuras" style="left:56px;top:80px"><b></b><b></b></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:300px">
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:118px;color:var(--noite)">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <div class="aspas escuras" style="right:56px;bottom:150px;transform:rotate(180deg)"><b></b><b></b></div>
+  <footer class="faixa" style="background:var(--noite);color:var(--lima)"><img src="{{ c.logo_branco() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

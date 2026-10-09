@@ -1,0 +1,64 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 1. PLANTÃO · cara de notícia urgente: letreiro correndo no topo, foto grande e título num painel que invade a foto. -#}
+{{ c.cabeca("Plantão") }}
+<style>
+  .letreiro { position: absolute; left: 0; right: 0; height: 64px; background: var(--destaque); color: var(--noite);
+    display: flex; align-items: center; gap: 28px; white-space: nowrap; overflow: hidden;
+    font: 700 28px/1 var(--f-pixel); text-transform: uppercase; padding-left: 28px; }
+  .letreiro i { width: 12px; height: 12px; background: currentColor; flex: none; }
+  .letreiro.fino { height: 44px; font-size: 22px; gap: 22px; }
+  .painel { position: absolute; left: 40px; right: 40px; background: var(--noite); padding: 40px 40px 0 48px; border-left: 16px solid var(--destaque); }
+  .aovivo { display: inline-flex; align-items: center; gap: 12px; font: 700 24px/1 var(--f-pixel); text-transform: uppercase; color: var(--destaque); }
+  .aovivo b { width: 18px; height: 18px; background: var(--vermelho); display: block; box-shadow: 0 0 0 6px rgba(255,69,69,.25); }
+  .capa-plantao .midia .credito { top: 22px; bottom: auto; }
+  .tempo { border-left: 4px solid var(--linha); padding-left: 40px; }
+  .tempo .texto { position: relative; }
+  .tempo .texto::before { content: ""; position: absolute; left: -52px; top: 14px; width: 20px; height: 20px; background: var(--destaque); }
+  .tempo .texto + .texto::before { background: var(--linha); }
+  .tempo .lista, .tempo .passos { margin-left: -40px; }
+</style>
+</head><body>
+{%- macro letreiro(classe="", top=0) -%}
+<div class="letreiro {{ classe }}" style="top:{{ top }}px">{% for _ in range(6) %}<span>Plantão Pixelzada</span><i></i><span>{{ p.assunto }}</span><i></i>{% endfor %}</div>
+{%- endmacro %}
+
+{%- if s.kind == "capa" %}
+<main class="arte capa-plantao {{ cor }}">
+  {{ letreiro() }}
+  {{ c.midia("left:0;right:0;top:64px;height:820px", "recorte") }}
+  <section class="painel" data-caixa style="top:760px">
+    <span class="aovivo"><b></b>Urgente<i class="sep" style="width:8px;height:8px;background:currentColor;display:block"></i>{{ rotulo_tipo }}</span>
+    <h1 class="titulo" data-ajusta data-min="60" style="font-size:92px;margin-top:22px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:20px;font-size:34px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  {{ letreiro("fino") }}
+  <header style="position:absolute;left:56px;right:56px;top:96px;display:flex;justify-content:space-between;align-items:center">
+    <span class="aovivo"><b></b>Atualização {{ n - 1 }}</span><span class="tag">{{ s.rotulo }}</span>
+  </header>
+  <section data-caixa data-imagem-ate="880" style="position:absolute;left:56px;right:56px;top:180px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:80px">{{ s.titulo|realce(s.destaque) }}</h2>
+    <div class="tempo" style="margin-top:36px;padding-top:4px">{{ c.corpo(s, 8) }}</div>
+  </section>
+  {{ c.midia("left:56px;right:56px;top:910px;height:330px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  {{ letreiro() }}
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:220px">
+    <span class="aovivo"><b></b>Fim da transmissão</span>
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:124px;margin-top:40px">{{ s.titulo }}</h2>
+    <p style="margin-top:56px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  {{ letreiro("fino", 1182) }}
+  <footer class="faixa" style="background:var(--noite);color:var(--destaque);border-top:2px solid var(--linha)"><img src="{{ c.logo_branco() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

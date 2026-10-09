@@ -1,0 +1,74 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 17. AGENDA · calendário do mês com o dia marcado. Precisa do campo "data" (AAAA-MM-DD) na capa. -#}
+{{ c.cabeca("Agenda") }}
+<style>
+  .cal { background: var(--carvao); padding: 26px 28px 30px; }
+  .cal .mes { display: flex; justify-content: space-between; align-items: baseline; font: 400 64px/1 var(--f-titulo); text-transform: uppercase; }
+  .cal .mes span { font: 700 26px/1 var(--f-pixel); color: var(--cinza); }
+  .dias { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; margin-top: 22px; text-align: center; }
+  .dias b { font: 700 20px/1 var(--f-pixel); color: var(--cinza); padding-bottom: 8px; }
+  .dias i { font: 600 30px/1 var(--f-texto); font-style: normal; padding: 14px 0; background: var(--noite); }
+  .dias i.fora { background: transparent; }
+  .dias i.alvo { background: var(--destaque); color: var(--noite); font: 400 46px/1 var(--f-titulo); padding: 6px 0; box-shadow: 0 0 0 6px var(--noite), 0 0 0 10px var(--destaque); position: relative; z-index: 1; }
+  .agenda-lista { list-style: none; display: grid; }
+  .agenda-lista li { display: grid; grid-template-columns: 120px 1fr; gap: 24px; align-items: center; padding: 22px 0; border-bottom: 2px solid var(--linha); }
+  .agenda-lista .q { font: 700 26px/1 var(--f-pixel); color: var(--destaque); text-transform: uppercase; }
+</style>
+</head><body>
+{%- set meses = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"] %}
+{%- set d = (p.capa.data or "")|data_iso %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  {{ c.midia("left:40px;top:40px;width:1000px;height:420px", "recorte") }}
+  <div class="cal" style="position:absolute;left:40px;width:620px;top:490px">
+    <div class="mes">{{ meses[d.mes - 1] }}<span>{{ d.ano }}</span></div>
+    <div class="dias">
+      {%- for x in ["D", "S", "T", "Q", "Q", "S", "S"] %}<b>{{ x }}</b>{% endfor %}
+      {%- for _ in range(d.inicio) %}<i class="fora"></i>{% endfor %}
+      {%- for dia in range(1, d.total + 1) %}<i class="{{ 'alvo' if dia == d.dia else '' }}">{{ dia }}</i>{% endfor %}
+    </div>
+  </div>
+  <section data-caixa style="position:absolute;left:690px;right:48px;top:500px">
+    <span class="tag">{{ p.assunto }}</span>
+    <p style="margin-top:22px;font:700 26px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">{{ d.semana }}<br>{{ "%02d"|format(d.dia) }}/{{ "%02d"|format(d.mes) }}</p>
+  </section>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:1010px">
+    <h1 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:14px;font-size:32px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <header style="position:absolute;left:56px;right:56px;top:64px;display:flex;justify-content:space-between;align-items:center">
+    <span class="tag">{{ s.rotulo }}</span>
+    <span style="font:700 26px/1 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">{{ "%02d"|format(d.dia) }} {{ meses[d.mes - 1][:3] }}</span>
+  </header>
+  <section data-caixa data-imagem-ate="920" style="position:absolute;left:56px;right:56px;top:180px">
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- if s.passos %}
+    <ol class="agenda-lista" style="margin-top:28px">{% for t in s.passos %}<li><span class="q">Passo {{ s.inicio + loop.index0 }}</span><span class="texto item">{{ t }}</span></li>{% endfor %}</ol>
+    {%- else %}{{ c.corpo(s) }}{% endif %}
+  </section>
+  {{ c.midia("left:56px;right:56px;top:950px;height:290px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte" style="background:var(--lima);color:var(--noite)">
+  <div style="position:absolute;left:56px;top:70px;width:220px;background:var(--noite);color:var(--lima);text-align:center;padding:18px 0 22px">
+    <p style="font:700 26px/1 var(--f-pixel);text-transform:uppercase">{{ meses[d.mes - 1][:3] }}</p>
+    <p style="font:400 130px/1 var(--f-titulo);margin-top:10px">{{ d.dia }}</p>
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:390px">
+    <p style="font:700 32px/1 var(--f-pixel);text-transform:uppercase">Salva a data</p>
+    <h2 class="titulo" data-ajusta data-min="72" style="font-size:112px;color:var(--noite);margin-top:24px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa" style="background:var(--noite);color:var(--lima)"><img src="{{ c.logo_branco() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

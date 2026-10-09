@@ -1,0 +1,58 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 18. PÔSTER · uma palavra gigante recheada com a foto do jogo, como cartaz de cinema. -#}
+{{ c.cabeca("Pôster") }}
+<style>
+  .recheio { font-family: var(--f-titulo); text-transform: uppercase; line-height: .86; letter-spacing: -2px;
+    background-size: cover; -webkit-background-clip: text; background-clip: text; color: transparent;
+    -webkit-text-stroke: 3px var(--destaque); filter: brightness(1.25) saturate(1.2); }
+  .linha-pixel { display: flex; gap: 8px; } .linha-pixel i { width: 22px; height: 22px; background: var(--destaque); }
+  .linha-pixel i:nth-child(2) { opacity: .6; } .linha-pixel i:nth-child(3) { opacity: .3; }
+</style>
+</head><body>
+{%- set palavra = p.capa.palavra or p.assunto %}
+{%- set bg = "background-image:url('" ~ (img or '') ~ "');background-position:" ~ pos %}
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="recheio" data-palavra style="position:absolute;left:30px;right:30px;top:50px;font-size:330px;white-space:nowrap;overflow:hidden;transform:scaleY(1.2);transform-origin:top;{{ bg }}">{{ palavra }}</div>
+  {{ c.midia("left:40px;top:450px;width:1000px;height:290px", "recorte") }}
+  <div class="linha-pixel" style="position:absolute;left:56px;top:766px"><i></i><i></i><i></i></div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:790px">
+    <span class="tag">{{ rotulo_tipo }}</span>
+    <h1 class="titulo" data-ajusta data-min="56" style="font-size:88px;margin-top:20px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:18px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  <script>
+  // A palavra ocupa a largura toda: o tamanho se ajusta ao número de letras.
+  // Mede depois que a fonte carrega; com a fonte reserva a palavra sai menor.
+  document.fonts.ready.then(function () { const el = document.querySelector('[data-palavra]'); let t = 330;
+    el.style.fontSize = t + 'px';
+    while (el.scrollWidth > el.clientWidth && t > 120) { t -= 4; el.style.fontSize = t + 'px'; } });
+  </script>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="recheio" style="position:absolute;left:40px;right:40px;top:40px;font-size:240px;white-space:nowrap;overflow:hidden;{{ bg }}">{{ s.rotulo }}</div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:330px">
+    <div class="linha-pixel"><i></i><i></i><i></i></div>
+    <h2 class="titulo" data-ajusta data-min="56" style="font-size:84px;margin-top:26px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {{ c.corpo(s) }}
+  </section>
+  {{ c.midia("right:56px;bottom:124px;width:300px;height:180px", "recorte") }}
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="recheio" style="position:absolute;left:30px;right:30px;top:60px;font-size:330px;{{ bg }};-webkit-text-stroke:0;background-image:none;color:var(--destaque)">Fim</div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:420px">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:108px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px;font:700 34px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}

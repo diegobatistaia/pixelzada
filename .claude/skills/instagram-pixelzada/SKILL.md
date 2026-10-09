@@ -123,6 +123,34 @@ carrossel repetido.
 visível na capa, como no CSS `object-position`.
 
 
+## Estilo do carrossel (automático)
+
+O workflow escolhe sozinho um dos **20 estilos** de `templates/social/estilos/`
+(decisão do Diego em 09/10): nunca o mesmo estilo em dias seguidos, e o que está
+há mais tempo sem sair vai primeiro, para todos aparecerem. Você não escolhe o
+estilo; só escreve a pauta. Prévia dos 20: `identidade/estilos-novos/` na pasta
+do projeto.
+
+Quatro estilos só entram se a capa tiver um campo extra, e outros ficam melhores
+com o seu. **Sempre que a notícia permitir de verdade, preencha um destes na
+`capa`** (sem inventar: o valor sai do fato da pauta):
+
+| Campo na `capa` | Libera ou melhora | Exemplo |
+| --- | --- | --- |
+| `numero` (até 6) e `numero_legenda` (até 30) | Numerão | `"26"`, `"de janeiro de 2027"` |
+| `citacao` (até 90) e `autor` (até 50) | Aspas | frase dita por alguém, com aspas só no texto da fonte |
+| `lados` (2 nomes até 14) | Versus | `["GTA 5", "GTA 6"]` |
+| `data` (AAAA-MM-DD) | Agenda | `"2026-11-19"` (data confirmada de lançamento ou evento) |
+| `ficha` (2 a 4 pares) | Ficha | `[["Lança", "19 nov 2026"], ["Onde", "PS5 e Xbox Series"]]` |
+| `itens_capa` (2 a 4 nomes até 16) | Inventário | jogos de uma lista |
+| `local` (até 20) | Mapa | `"Vice City"` |
+| `palavra` (até 12) | Pôster | o nome do jogo em uma palavra: `"Muramasa"` |
+| `chefe` (até 20) | Chefão | o "vilão" da notícia: `"Os Salvadores"` |
+| `fala` (até 40) | Quadrinho | uma fala curta de personagem, tirada do material oficial |
+
+`citacao` é sempre uma frase que a fonte atribui à pessoa, traduzida sem mudar
+o sentido. `fala` de personagem só se estiver no trailer ou no texto oficial.
+
 ## Texto
 
 - **Capa:** título de até 80 caracteres, com reação ou meme no gancho
