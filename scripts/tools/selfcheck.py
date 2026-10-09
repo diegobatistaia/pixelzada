@@ -422,9 +422,16 @@ def main() -> int:
     feito = ig_pauta("gta-b", True, "2026-10-08T06:00:00-03:00", status="publicado",
                      publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:04:00-03:00"})
     check("horário já preenchido não publica outro carrossel",
-          (ig.escolher(ig_em("18:40"), [feito, fila[0]]) or {}).get("acao") != "carrossel")
-    check("18h faz o Reel do carrossel do dia, depois do carrossel das 18h",
-          (ig.escolher(ig_em("18:25"), [feito]) or {}).get("acao") == "reel")
+          (ig.escolher(ig_em("18:10"), [feito, fila[0]]) or {}).get("acao") != "carrossel")
+    check("Reel desligado: depois do carrossel das 18h não sai Reel",
+          (ig.escolher(ig_em("19:07"), [feito]) or {}).get("acao") != "reel")
+    extra = ig_pauta("outro-b", False, "2026-10-08T06:40:00-03:00")
+    check("18h07 ainda é o horário das 18h (GTA 6), não o das 18h15",
+          (ig.escolher(ig_em("18:07"), [fila[0], extra]) or {}).get("horario") == "18:00")
+    feito18 = ig_pauta("gta-e", True, "2026-10-08T06:00:00-03:00", status="publicado",
+                       publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:08:00-03:00"})
+    check("depois das 18h13 sai o carrossel extra de outros jogos (18h15)",
+          (ig.escolher(ig_em("18:14"), [feito18, extra]) or {}).get("horario") == "18:15")
     check("horário perdido não sai colado no seguinte",
           (ig.escolher(ig_em("11:55"), fila[:1]) or {}).get("horario") != "08:00")
     igual = ig_pauta("gta-c", True, "2026-10-08T07:00:00-03:00")

@@ -43,15 +43,19 @@ API = "https://graph.instagram.com/v23.0"
 PEDIDO = P.SAIDA / "pedido.json"
 RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 
-# Horários fixos (Brasília): 6 carrosséis por dia, 3 de GTA 6 e 3 de outros
+# Horários fixos (Brasília): 7 carrosséis por dia, 3 de GTA 6 e 4 de outros
 # jogos. Um horário de GTA sem pauta de GTA pega outro jogo, e vice-versa. Cada
 # carrossel leva um Story junto.
 CARROSSEIS = [("08:00", "gta"), ("10:00", "outros"), ("12:00", "gta"), ("14:00", "outros"),
-              ("18:00", "gta"), ("21:00", "outros")]
+              ("18:00", "gta"), ("18:15", "outros"), ("21:00", "outros")]
+# O Reel está desligado desde 09/10 (o Diego não gostou do resultado e vai
+# repensar). O código segue pronto: para religar, REEL_ATIVO = True.
+REEL_ATIVO = False
 REEL = "18:00"
-# O GitHub atrasa os agendamentos. Um horário fica aberto de 10 min antes até
+# O GitHub atrasa os agendamentos. Um horário fica aberto de 2 min antes até
 # 2h30 depois; dentro da janela, cada tentativa vê se ele já foi preenchido.
-ANTES, DEPOIS = timedelta(minutes=10), timedelta(minutes=150)
+# (Só 2 min antes para o das 18h15 não tirar a vez do das 18h.)
+ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=150)
 
 
 def agora() -> datetime:
@@ -120,7 +124,7 @@ def escolher(t: datetime | None = None, pautas: list[dict] | None = None) -> dic
             return {"acao": "carrossel", "slug": escolhida["slug"], "horario": hhmm, "data": hoje}
 
     inicio = _hora(t, REEL)
-    if inicio - ANTES <= t <= inicio + DEPOIS and not any(p.get("reel") for p in feitos):
+    if REEL_ATIVO and inicio - ANTES <= t <= inicio + DEPOIS and not any(p.get("reel") for p in feitos):
         # O Reel do dia é o carrossel de hoje mais recente, GTA 6 primeiro.
         base = sorted(feitos, key=lambda p: (p["gta6"], p["publicado"]["em"]), reverse=True)
         if base:
@@ -454,7 +458,8 @@ def cmd_agenda(args) -> int:
         estilo = f"  [{p['publicado'].get('estilo') or 'padrão'}]" if p else ""
         print(f"{hhmm}  carrossel {tipo:<6}  {p['slug'] if p else '-'}{estilo}")
     reel = next((p for p in feitos.values() if p.get("reel", {}).get("media_id")), None)
-    print(f"{REEL}  reel              {reel['slug'] if reel else '-'}")
+    if REEL_ATIVO:
+        print(f"{REEL}  reel              {reel['slug'] if reel else '-'}")
     gta = sum(1 for p in P.todas() if p.get("status") == "pronto" and p["gta6"] and not P.vencida(p, t))
     outros = sum(1 for p in P.todas() if p.get("status") == "pronto" and not p["gta6"] and not P.vencida(p, t))
     print(f"\nna fila: {gta} de GTA 6 e {outros} de outros jogos")
