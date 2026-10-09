@@ -78,5 +78,16 @@
     "Slide 4: Teste de 3 horas no PS Plus e primeira promoção do jogo",
     "Slide 5: Manda pro amigo que joga jogo de luta"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-10-08",
+    "horario": "21:00",
+    "em": "2026-10-08T21:09:29-03:00",
+    "media_id": "18061448855795223",
+    "permalink": "https://www.instagram.com/p/DeQMF9rkW9H/"
+  },
+  "story": {
+    "em": "2026-10-08T21:10:15-03:00",
+    "media_id": "18394730611163203"
+  }
 }
