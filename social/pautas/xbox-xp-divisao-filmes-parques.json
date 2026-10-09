@@ -1,0 +1,100 @@
+{
+  "slug": "xbox-xp-divisao-filmes-parques",
+  "tipo": "noticia",
+  "assunto": "Xbox",
+  "gta6": false,
+  "materia": "xbox-xp-divisao-filmes-tv-parques-mojang",
+  "criado": "2026-10-09T07:50:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/XP-Logo-e3e9296b3ae0466dea8f-1600x900.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Xbox",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Xbox Wire, The Verge e GI.biz",
+  "capa": {
+    "titulo": "Xbox cria divisão XP para filmes, séries e parques",
+    "destaque": "divisão XP",
+    "apoio": "Kayleen Walters sai do Minecraft e comanda o novo braço. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que é",
+      "titulo": "Quatro frentes além dos jogos",
+      "destaque": "além dos jogos",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Xbox Pictures: filmes e séries"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Xbox Products: licenciamento e produtos"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Xbox Partnerships: patrocínios e marcas"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Xbox Places: eventos, parques e atrações"
+        }
+      ]
+    },
+    {
+      "rotulo": "Quem comanda",
+      "titulo": "Troca de liderança no Minecraft",
+      "destaque": "Minecraft",
+      "texto": [
+        "Segundo o comunicado da CEO Asha Sharma, **Kayleen Walters** deixa o Mojang para presidir a XP.",
+        "**Maria Angelidou-Smith**, que era diretora de produto do Reddit, vira CEO do Mojang e começa em 19 de outubro."
+      ]
+    },
+    {
+      "rotulo": "O que já existe",
+      "titulo": "Projetos em volta das franquias",
+      "destaque": "franquias",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Sequência de Minecraft: o Filme, em 23/07/2027"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Terceira temporada de Fallout no Prime Video"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Filme de Gears of War em desenvolvimento"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Orçamento e projetos novos da XP"
+        }
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga Minecraft",
+  "legenda": {
+    "gancho": "A Xbox criou a divisão XP, para filmes, séries, produtos, parcerias e parques, com Kayleen Walters no comando.",
+    "corpo": [
+      "Segundo o comunicado interno da CEO Asha Sharma, a XP reúne quatro áreas: Pictures, Products, Partnerships e Places. O Verge nota que equipes diferentes já faziam esse trabalho, que agora fica centralizado.",
+      "Walters sai do Mojang, e Maria Angelidou-Smith, ex-Reddit, assume o estúdio do Minecraft em 19 de outubro, de acordo com o Xbox Wire.",
+      "O comunicado não informa orçamento, equipe ou projetos novos da divisão."
+    ],
+    "chamada": "Qual franquia da Xbox você quer ver no cinema?",
+    "hashtags": [
+      "#pixelzada",
+      "#xbox",
+      "#minecraft",
+      "#fallout"
+    ]
+  },
+  "alt": [
+    "Slide 1: Xbox cria divisão XP para filmes, séries e parques",
+    "Slide 2: As quatro frentes da XP: Pictures, Products, Partnerships e Places",
+    "Slide 3: Kayleen Walters comanda a XP e Maria Angelidou-Smith assume o Mojang",
+    "Slide 4: Projetos em volta das franquias, como Minecraft, Fallout e Gears",
+    "Slide 5: Manda pro amigo que joga Minecraft"
+  ],
+  "status": "pronto"
+}

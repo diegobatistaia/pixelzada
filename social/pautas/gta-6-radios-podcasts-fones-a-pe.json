@@ -1,0 +1,96 @@
+{
+  "slug": "gta-6-radios-podcasts-fones-a-pe",
+  "tipo": "noticia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-radios-podcasts-fones-rockstar-site",
+  "criado": "2026-10-09T07:50:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: IGN, VGC e The Verge",
+  "capa": {
+    "titulo": "GTA 6 vai deixar você ouvir rádio a pé",
+    "destaque": "rádio a pé",
+    "apoio": "A Rockstar revelou seis estações e a estreia dos podcasts. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A novidade",
+      "titulo": "Fones e podcasts pela primeira vez",
+      "destaque": "podcasts",
+      "texto": [
+        "Segundo a Rockstar, rádio e podcasts poderão ser ouvidos **no carro e a pé**, com fones ligados ao celular de Jason e Lucia.",
+        "Os podcasts são sob demanda, uma estreia na série, de acordo com a VGC."
+      ]
+    },
+    {
+      "rotulo": "As estações",
+      "titulo": "Seis rádios já apareceram",
+      "destaque": "Seis rádios",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Cocoteo FM, de música latina, com Bad Bunny"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Back Country Radio, com Morgan Wallen e Lana Del Rey"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "AfroBank FM, The Chamber 106.6 e Flash FM"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Dirty South Classics, de rap e hip-hop"
+        }
+      ]
+    },
+    {
+      "rotulo": "O que falta",
+      "titulo": "Ainda não saiu tudo",
+      "destaque": "Ainda não",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Prévias de dois minutos no site oficial"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Lista completa de músicas e estações"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Como escolher os episódios dos podcasts"
+        }
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai ficar horas na rádio",
+  "legenda": {
+    "gancho": "GTA 6 terá rádio a pé e podcasts sob demanda, e a Rockstar já mostrou seis estações.",
+    "corpo": [
+      "Segundo a Rockstar, rádio e podcasts poderão ser ouvidos dentro e fora dos carros, com fones ou earbuds ligados ao celular dos protagonistas. Os podcasts são uma estreia na série, de acordo com a VGC.",
+      "As seis estações reveladas são Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM e Dirty South Classics, com vozes como Bad Bunny, Morgan Wallen, Lana Del Rey e Kerry King, segundo a IGN.",
+      "A lista completa de músicas e o funcionamento dos podcasts ainda não foram divulgados. O lançamento segue marcado para 19 de novembro."
+    ],
+    "chamada": "Qual estação você vai deixar ligada?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gta6radio"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 vai deixar você ouvir rádio a pé",
+    "Slide 2: Rádio e podcasts no carro e a pé, com fones no celular",
+    "Slide 3: Seis estações reveladas, de música latina a rap",
+    "Slide 4: Falta a lista completa de músicas e estações",
+    "Slide 5: Manda pro amigo que vai ficar horas na rádio"
+  ],
+  "status": "pronto"
+}
