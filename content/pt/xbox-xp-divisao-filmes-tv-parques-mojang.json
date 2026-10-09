@@ -113,7 +113,8 @@
     "alt": "Logotipo da Xbox em preto e branco",
     "credit": "Imagem: Xbox Wire",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XBOX-Logo-BW-d4fa771be79132c963e1.jpg",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/xbox-xp-divisao-filmes-tv-parques-mojang-86208709.jpg"
   },
   "sources": [
     {
@@ -135,5 +136,7 @@
       "title": "Xbox XP division: film, TV, products, events"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-09T10:42:00+00:00",
+  "updated_at": "2026-10-09T10:42:00+00:00"
 }
