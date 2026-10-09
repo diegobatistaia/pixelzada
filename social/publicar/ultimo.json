@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "cyberpunk-2077-filme-paramount",
-    "horario": "18:15",
-    "data": "2026-10-09",
-    "estilo": "ficha",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "battlefield-redsec-rapid-royale",
+    "pasta": "reel-battlefield-redsec-rapid-royale",
+    "horario": "20:00",
+    "data": "2026-10-09"
   },
-  "em": "2026-10-09T18:14:32-03:00",
+  "em": "2026-10-09T20:21:43-03:00",
   "ok": true,
-  "media_id": "18116911196045417",
-  "permalink": "https://www.instagram.com/p/DeSc3MVo7E0/",
-  "story": {
-    "em": "2026-10-09T18:15:19-03:00",
-    "media_id": "17961287559235223"
-  },
+  "media_id": "17954130309254313",
+  "permalink": "https://www.instagram.com/reel/DeSrX3lgLut/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
