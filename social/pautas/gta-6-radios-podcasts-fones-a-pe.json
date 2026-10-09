@@ -92,5 +92,17 @@
     "Slide 4: Falta a lista completa de músicas e estações",
     "Slide 5: Manda pro amigo que vai ficar horas na rádio"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-10-09",
+    "horario": "12:00",
+    "em": "2026-10-09T12:10:02-03:00",
+    "estilo": "missao",
+    "media_id": "18103747550306134",
+    "permalink": "https://www.instagram.com/p/DeRzIjDG2Fp/"
+  },
+  "story": {
+    "em": "2026-10-09T12:10:39-03:00",
+    "media_id": "18142250575614384"
+  }
 }
