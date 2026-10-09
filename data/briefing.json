@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:02:15+00:00",
+  "generated_at": "2026-10-09T19:34:47+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 8,
   "already_written_today": 6,
@@ -41,6 +41,65 @@
     160
   ],
   "stories": [
+    {
+      "story_id": "d7cd297395399ad3",
+      "title": "Fatal Fury: City of the Wolves recebe trailer enigmático com pistas sobre último personagem da terceira temporada de DLCs",
+      "summary": "A SNK soltou mais um de seus teasers enigmáticos de Fatal Fury: City of the Wolves . O vídeo, intitulado “When Destinies Collide”, mostra a clássica cena de Geese Howard observando Rock Howard do alto de seu arranha-céu, enquanto ele corre pelas ruas próximas. Uma sombra acaba passando por Rock, e o ângulo final nos mostra apenas a silhueta de quem pode ser. Ao contrário dos teasers anteriores...",
+      "owners": [
+        "gameblast",
+        "gematsu",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "aaca71f29b57dbf5",
+        "7ce11f29f148f2dc",
+        "7d3e937e03653bc2",
+        "65b7ac0d3d64e94f"
+      ],
+      "sources": [
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/fatal-fury-city-of-the-wolves-recebe-trailer-enigmatico-ultumo-personagem-da-terceira-temporada-de-dlcs.html",
+          "title": "Fatal Fury: City of the Wolves recebe trailer enigmático com pistas sobre último personagem da terceira temporada de DLCs",
+          "published_at": "2026-10-08T16:37:03+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/fatal-fury-city-of-the-wolves-dlc-character-reina-from-tekken-announced",
+          "title": "Fatal Fury: City of the Wolves DLC character Reina from Tekken announced",
+          "published_at": "2026-10-09T17:16:40+00:00",
+          "kind": "press",
+          "text": "SNK has announced Fatal Fury: City of the Wolves downloadable content characters Reina from the Tekken series. She will launch in December. Reina (voiced by Kate Clarke in English, Asami Seto in Japanese) Other than the fact that she’s a student of the Mishima Polytechnical School, everything about Reina is shrouded in mystery. With her lightning-quick moves, she occasionally reveals a ruthless side beneath her cheerful demeanor. After wandering into South Town, she decides to enter the King of Fighters. Fatal Fury: City of the Wolves is available now for PlayStation 5 , Xbox Series , PlayStation 4 , and PC via Steam and Epic Games Store . A Switch 2 version is due out on October 22.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/FF-CotW-DLC_10-09-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/fatal-fury-city-of-the-wolves-reina-tekken-8-confirmada-como-lutadora-dlc-confira-teaser.html",
+          "title": "Fatal Fury: City of the Wolves: Reina, de Tekken 8, é confirmada como lutadora DLC; confira o teaser",
+          "published_at": "2026-10-09T17:17:20+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/news/reina-tekken-fatal-fury-city-of-the-wolves/",
+          "title": "Reina, de Tekken 8, será DLC de Fatal Fury: City of the Wolves",
+          "published_at": "2026-10-09T17:59:50+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Fatal-Fury-City-of-the-Wolves.jpg"
+        }
+      ]
+    },
     {
       "story_id": "f58be759c874796b",
       "title": "DAVE THE DIVER DLC ‘Subnautica 2 Content Pack’ announced",
@@ -84,8 +143,8 @@
           "title": "DAVE THE DIVER receberá último DLC",
           "published_at": "2026-10-08T18:54:43+00:00",
           "kind": "press",
-          "text": "O último pacote adicional terá conteúdo inspirado em Subnautica 2 em parceria com a Unknown Worlds.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXlUdaHEA3VIo3SYTS4oCLuNvOlIy8sCVW87F6hhJdYF08WS9m1oVdPBfgKc57z907Qe9fZIvHBwRIdzf4N30ePo-A7bYr9YnTlfWusNwn8p_64l8llaZOUeBe65Py5JZzjDwbFMpqd0eXksjzXZ1NONAZyp3eeQdwKChB8lMSzs-hpyME6KE3QSys1M/w1200-h630-p-k-no-nu/gameblast-dave-the-diver-subnautica.jpg"
+          "text": "",
+          "image": ""
         }
       ]
     },
@@ -122,8 +181,8 @@
           "title": "Cyberpunk 2077 terá filme live-action desenvolvido pela Paramount",
           "published_at": "2026-10-08T19:27:47+00:00",
           "kind": "press",
-          "text": "A Paramount prepara adaptação cinematográfica de Cyberpunk 2077 com Lorenzo di Bonaventura como produtor do projeto.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUAaFr9Hv6oIhgQQTL38fBb4aZPQ8YIdviM9UDkmkAOq4Vyl2b3rXIGGBRYvmV_FsxRzpvc-ZweOEtyrRWnwmTuIG-82DdOEP6Ljumy8-drDmV7gvHhMVi8Mu7dPH6GNOECITzBEIjQnHQwCmN08MzMMVl0wuCxK71c5P0kOeZoWKGkiDr78_6kM1Ud8/w1200-h630-p-k-no-nu/gameblast-cyberpunk-2077-filme.jpg"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Eurogamer",
@@ -186,65 +245,6 @@
       ]
     },
     {
-      "story_id": "ca674d10dc44a6b2",
-      "title": "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
-      "summary": "A YouTuber and streamer's channel was permanently banned for a Clive Barker’s Hellraiser: Revival gameplay video.",
-      "owners": [
-        "insider-gaming",
-        "keleops",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "9b0f500f7cacd1ef",
-        "7d7f8c39dded53a9",
-        "c6876412d04223ab",
-        "b194df0d8455ebf9"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/youtuber-banned-over-censored-hellraiser-revival-gameplay-video",
-          "title": "YouTuber's Channel Permanently Banned Over Censored Hellraiser: Revival Gameplay Video",
-          "published_at": "2026-10-09T11:55:17+00:00",
-          "kind": "press",
-          "text": "A YouTuber and streamer's channel was permanently banned for a Clive Barker’s Hellraiser: Revival gameplay video. French content creator J0nathan said that despite covering up the nudity in the game’s opening scenes with black boxes, his channel was removed for violating YouTube’s sex and nudity policy. “Explicit content that’s meant to be sexually gratifying isn’t allowed on YouTube,” the company told the streamer in response to an appeal upholding the ban. Hellraiser: Revival, from Space Marine 2 developer Saber Interactive, opens with a raunchy sex scene featuring a topless woman and some BDSM play. Following that, the male character runs around for a while with their wang in the wind. While the scene is explicit, it’s essential to understanding the story and acts as the catalyst for everything that follows. J0nathan claimed that this is the scene that got his channel banned, despite the fact uncensored gameplay of the same scene remains live on other YouTube channels. While he did add the \"Not Made for Kids\" label to the video, he did not age gate it, assuming that censoring the explicit scenes would be enough to satisfy YouTube. \"Since the rest of the game was just a standard horror title like Resident Evil I figured it didn't really require an age restriction, and that if anything, YouTube would just apply one later on like they always do,\" he said. J0nathan had 190,000 subscribers on his channel at the time of the ban, which he told IGN was \"permanent.\" \"My channel has been completely deleted, wiping out 10 years of hard work and destroying my main source of income,\" he continued. \"I've never had any issues with the platform before. No warnings, no strikes, nothing. And yet they just threw me away like I was nothing.” J0nathan said he has made attempts to run through YouTube’s appeal process, but “everything seems to be handled by AI.” His first appeal was rejected within a few minutes, and support accounts on social media responded with a generic message: \"We've reviewed your case and are upholding our decision.” “How can they possibly uphold such a decision when other videos showing the exact same scene without any censorship are still available on the platform?” he commented. “It really doesn't feel like any human being is actually reviewing these cases.” J0nathan has a side channel but is afraid of using it because YouTube prohibits banned users from operating other channels. If he attempted it, he would run the risk of losing both channels. “I'm absolutely devastated,” he told IGN. “Beyond losing my income, I'm also losing 10 years of hard work and over 3,000 videos. The emotional impact is huge. Those videos represent a big part of my life, and losing them hurts more than I can describe. “I've tried everything. I've reached out to my contacts, asked fellow content creators for help, but none of them have managed to get in touch with anyone at YouTube who could actually review my case. The same goes for the game developers. I've sent them emails and tagged them on X, hoping they might step in and help. I'm convinced they have contacts at YouTube to help prevent unfair bans related to their game, and yet they've completely ignored me.” Ahead of Hellraiser's release, Saber tweeted to offer guidance to content creators concerned that their videos of the game would be at best demonetized, at worst get their channel deleted. Saber recommended content creators label all streams and videos with \"appropriate age restrictions, sexual theme labels, and other necessary platform tools.\" \"You will need to adhere to each platform's community guidelines,\" Saber continued. There is no 'streamer mode,' Saber also pointed out on social media ahead of launch, \"so context and intent behind your content will matter.\" IGN has asked Saber Interactive for comment. Kirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
-          "image": "https://assets-prd.ignimgs.com/2026/10/09/screenshot-3-1791546794207.png?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/hellraiser-revival-review",
-          "title": "Hellraiser: Revival review",
-          "published_at": "2026-10-08T12:00:32+00:00",
-          "kind": "press",
-          "text": "How do you revive a series like Hellraiser? When your source material spans four decades and multiple mediums, all with wildly differing tones (and fans), what stays, what goes? Where would you even begin? It's a question developer Saber Interactive seems to struggle with throughout Hellraiser: Revival and the result is a messy, uneven, but earnest, and often fascinating sort of tribute that, boldly, goes back to the start. Clive Barker's 1986 novella The Hellbound Heart, the genesis of the Hellraiser series, is a queer horror classic; a story of obsession and addiction, loosely inspired by the gay BDSM scene. Later Hellraiser movies would see the series devolve into silliness, iconic villain Pinhead (played by Doug Bradley, who briefly returns here) becoming a quipping counterpart to the Freddies and Chuckies of the time. But Saber seems to have more literary ambitions, drawing heavily on Barker's original themes for its tale of two lovers and their encounter with the Cenonbites; extradimensional beings from a realm where agony and ecstasy are interwined. It's a story that starts with sweaty softcore sex and soon descends into flesh-ripping violence, setting protagonist Aiden against a quasi-religious, extreme BDSM cult as he desperately attempts to rescue his girlfriend Sunny back from Hell. Unfortunately, their relationship is so immediately toxic, it's hard to get emotionally invested in this critical narrative throughline. Tonally, Hellraiser is a strange game. Instead of artfully orchestrated scares, Revival's horrors rely on a grim procession of fused and rended flesh, as relentless as it is effectively offputting. But the ceaseless bodily destruction sits awkwardly alongside villains so deliriously flamboyant, they'd be twiddling their moustaches if it weren't for their masks. And attempts at eroticism and sensuality quickly short circuit amid the dildo-strewn nightclub neon, where extras spit out porn-calibre line readings of flat innuendo. Narratively, it's also a bit of a mess; too obvious and too incoherent by turns, clumsily walking through a minefield of complex ideas - most obviously, the intersection of sex and violence - with all the subtly and nuance of a double-A FPS with an interactive paddle spanking scene. But to its credit, it just about manages to avoid feeling exploitative, and there is, I think, an earnestness to Revival that carries it through. This is the work of a studio, you sense, with a genuine love of the source material - and a desire to do it justice too. And that manifests in a game willing to take some unexpectedly big swings. They don't always work, but at least it's interesting. Take combat, for instance. Revival is, foundationally at least, a fairly bog standard FPS, and it's not long before an early dalliance with perfunctory stealth makes way for more confrontational action. You start with a pistol and, slowly, your arsenal swells to include a shotgun, a revolver, an SMG, and more; an enigmatic old woman intermittently setting up stall to sell you new toys and upgrades (it's not the only time Revival feels like it's channeling Resident Evil 4 ). Eventually, you're mowing down the Unworthy armed with laser-sight pointers and incendiary shells, which should be the absolute antithesis of horror, but Saber just about makes it work. For starters, Aiden moves with a satisfying sense of physicality. He wobbles when he runs, sidesteps with weighty momentum, and, when the melee weapons come out, he bludgeons and slices with sickeningly tangible abandon. And while Revival is undoubtedly action-heavy, Saber still finds tension in withholding. Weapons break, ammo is short, and even the most basic enemies take a good few hits to bring down. Throw in armoured foes which need to be stripped first - either with a swing of something heavy or a particularly aggressive blast - and every combat encounter feels like it's perpetually teetering on the brink of disaster. But Revival strikes a good balance between stressful and unduly punishing. And while I don't love the modern day proliferation of crafting systems, the focus on furious scavenging here feels additive. It heightens the sense of last-gasp desperation as you pocket anything and everything, in the hope you've got enough to eke out a couple more health packs or bullets when things go wrong. Your limited inventory space, meanwhile, forces some tough choices as you frantically shuffle, stash, or abandon items, optimistically Tetrising together the most effective arsenal from the scraps at your disposal. Later, Hellraiser's iconic puzzle box - here, the Genesis Configuration - essentially becomes a gravity gun, so you can fling sawblades, spikes, even fireballs, shredding through multiple bodies as one. And if you're short on the Suffering needed to power it, near-dead enemies wobble on their last legs so you can gruesomely syphon it out of them. Combat's pilfered parts might feel Resident Evil by way of Half-Life and Doom, but at its best, Hellraiser finds an enjoyably ad hoc rhythm of its own - creating showdowns of pure frantic panic as you scramble to juggle weapons that seem to empty their ammo in seconds, as you furiously scan your surroundings for something pointy to use as a projectile, and delve into your inventory, desperately jettisoning stuff to make space for whatever feels most pressing right now. The trouble is Revival spends a lot of time failing to make the most of its tools. Particularly in the first half of the game, progress feels like a linear sequence of encounters that are over before they've even begun, so quick to wrap up there's no space to settle into anything like a rewarding combat rhythm. (Conversely, bosses tend to drag on a touch too long.) And it tends to make for a lot of uninspiring busywork in a game that's already erratically paced, often adopting the relaxed meandering of a walking sim. And while I get what Saber is going for with its inventory system, constantly having to ",
-          "image": "https://assetsio.gnwcdn.com/pinhead-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/youtuber-gets-banned-for-hellraiser-revival-censored-gameplay-video-that-still-violated-sex-and-nudity-policy-2000743226",
-          "title": "YouTuber Gets Banned For Hellraiser: Revival Censored Gameplay Video That Still Violated ‘Sex And Nudity Policy’",
-          "published_at": "2026-10-09T13:45:33+00:00",
-          "kind": "press",
-          "text": "Hellraiser: Revival is not afraid to go there . Like the Clive Barker horror series its based on, the survival horror game has all manner of gore, violence, and sex. And now a YouTuber’s been banned over the gameplay they uploaded to their channel from it. The gameplay in question apparently even had black boxes covering up the actual NC-17 stuff. French content creator J0nathan shared the ban notice from YouTube on X (via IGN ). It stated that his channel was removed from the Google-owned platform for violating its policies against sex and nudity. âExplicit content thatâs meant to be sexually gratifying isnât allowed on YouTube,â the ban read. Hellraiser features full nudity at points, including the beginning of the game, so you might think this is not surprising, but J0nathan told IGN that these parts of the video were censored with black bars. There was a “not for kids” label put on the video but it wasn’t age-gated. Je vous interpelle une derniÃ¨re fois concernant la suppression de ma chaÃ®ne de 190 000 abonnÃ©s pour un motif erronÃ©. Il s'agissait d'un simple gameplay de jeu vidÃ©o, et non d'un contenu destinÃ© Ã la gratification sexuelle. Je vous demande un dernierâ¦ pic.twitter.com/W8o7roTCg1 “Since the rest of the game was just a standard horror title like Resident Evil I figured it didn’t really require an age restriction, and that if anything, YouTube would just apply one later on like they always do,” he said. The YouTuber’s channel had 190,000 subscribers built over over 10 years of content. “I’m addressing you one last time regarding the deletion of my channel with 190,000 subscribers due to an erroneous reason,” J0nathan wrote on X. “It was simply a video game gameplay, and not content intended for sexual gratification. I am requesting one final serious review of my case before I pursue my appeals under the DSA framework and initiate legal proceedings with my lawyer. Above all, I wish for an amicable resolution.” Make sure you properly label all streams and videos with appropriate age restrictions, sexual theme labels and other necessary platform tools. You will need to adhere to each platform's community guidelines. — Saber Interactive (@SaberGames) October 7, 2026 So far, it doesn’t sound like he’s heard back from YouTube or the game’s publisher, Saber Interactive. The company urged content creators to adhere to all platform policies when sharing gameplay from Hellraiser, but didn’t offer more concrete advice. J0nathan told IGN he’s seen other channels share footage from the exact same parts of the game without being penalized, making it unclear why his video got flagged but not others. It could have been an AI review process or some other difference in how the content was posted. Or maybe YouTube will end up eventually banning those other channels as well. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. While Pinhead and the unholy Cenobites have some divine pleasures waiting for you in the Labyrinth, they won't come without considerable suffering 'I'm not going to bore you with too much detail' says the fan of bathroom concepts 'Mighty Mike Plays' spent six figures advertising his Minecraft videos through his father's corporate card, in a now viral video the parent says he has a month to recoup the costs Indie developers are complaining about a content creator's expensive marketing package, which apparently results in little, if any, return on investment A new deep dive from Steven Asarch explores the world of nostalgic content creators impersonating decade old videos, humiliating and hurting in the process A joint statement from the Mansell family and BAM Franchising stated that the parties involved have âreached a comprehensive and amicable resolutionâ",
-          "image": "https://kotaku.com/app/uploads/2026/10/hellraiser-1200x675.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/hellraiser-revival-gameplay-gets-youtuber-permanently-banned/",
-          "title": "Hellraiser: Revival Gameplay Gets YouTuber Permanently Banned",
-          "published_at": "2026-10-09T14:28:42+00:00",
-          "kind": "press",
-          "text": "A YouTuber has had their channel permanently banned from their platform for showcasing Clive Barker’s Hellraiser: Revival gameplay that featured blurred explicit content. The YouTuber in question goes by xj0nathan on X (formerly Twitter) and has informed players about the issue. He has been running his YouTube channel for over 10 years and has built a subscriber base of 190,000 during that time. However, one particular gameplay video from Saber Interactive’s latest title appears to have erased all those years of hard work. Spotted by IGN , On September 23, xj0nathan revealed on X that their YouTube video about Hellraiser: Revival had been removed from the platform due to “nudity.” A few days later, their channel was also deleted. The creator explained that the video contained an hour of content and included a short scene that had been blurred. Despite this, their channel was still taken down, while several other users still had similar content on their channels without any censorship. Just yesterday, the creator posted another update with a screenshot of a response from YouTube. The response stated, “We have reviewed your content and found severe or repeated violations of our sex and nudity policy,” so they removed the channel. The response also stated, “Explicit content that’s meant to be sexually gratifying isn’t allowed on YouTube.” xj0nathan has tried to argue his case multiple times, but to no avail. He has received that this was the first violation he has received, and he also argued that the content they are classifying as sexual gratification was only a short scene out of a 1-hour gameplay video, which was censored too. The latest post on X (formerly Twitter) from the creator calls for YouTube to conduct “one final serious review” of his case. He stated that if this doesn’t happen, he will have to consider pursuing appeals under the DSA framework and may initiate legal proceedings with his lawyer. What are your thoughts on a YouTuber being permanently banned for showcasing Hellraiser: Revival gameplay? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more information from Insider Gaming, read about QSSR probably not running on PS5 games that were built on older SDKs . Don’t forget to sign up for our weekly newsletter .",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/10/Hellraiser-Revival-YouTuber-Banned.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "070b3c20e74c80d8",
       "title": "Charlie Cox Recorded 40 Hours Of Dialogue For A Sega Game He Can’t Name Yet",
       "summary": "Daredevil: Born Again actor Charlie Cox is starring in an upcoming video game, but it's not the first time he has lent his voice to one of these projects. At New York Comic-Con 2026, Cox revealed that he'd just finished recording his lines for a game that'll be published by Sega, but he didn't say which one. Hilariously, Cox mentioned that the game's crew was disappointed to find out he was...",
@@ -288,43 +288,55 @@
           "published_at": "2026-10-09T15:00:04+00:00",
           "kind": "press",
           "text": "Clair Obscur: Expedition 33 Daredevil NYCC 2026 Sega With New York Comic Con 2026 now underway, a number of prominent actors, especially those in Marvel projects, are making the rounds on red carpets and stage events over the next few days. With a new Daredevil series on the horizon, itâs no surprise Charlie Cox is one of those actors. What was surprising was the Clair Obscur: Expedition 33 voice actor’s tease for a mystery Sega game he’s already recorded a ton of dialogue for. Earlier this year, Cox shared that he would be starring in more gaming projects following his experience on last year’s award winning RPG. Speaking to IGN at NYCC, Cox confirmed he had been working on a new, unspecified Sega game. The role appears to be a major one, too, and one that required the Daredevil actor to put on an American accent without much prior preparation. Daredevil star Charlie Cox reveals he's in a new untitled SEGA game! #NYCC pic.twitter.com/wLVnNHFcy1 âI had to do 40 hours or whatever it was, and I showed up for the first day, and I was like, âHi guys, nice to meet you! How are you?” he recalled in the interview. âAnd all of them went, â…oh, heâs English.â Theyâd wanted him to be American. But now Iâve got to do 40 hours of lines Iâve not prepared in an accent.â With these scant few details, fans on social media have already begun to speculate . The most obvious possibility coming to mind for many is Persona 6 . With a need to record so many lines and the game’s recent official teases over the summer, some fans are hoping the actor will play a part in the latest entry in Atlusâ mega-hit JRPG series. That being said, thereâs also the possibility that the game in question has not even been announced yet, and with Cox even saying that the game âdoesnât have a name yet,” that could well be the case. Having won a number of awards for his stellar performance as Gustave in Expedition 33 , it’s nice to know Cox will be back in another major gaming project in the near future. Whatever that ends up being. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Aerith and Tifaâs actors, Briana White and Britt Baron, cried in the booth Sonic Frontiers and Generations were also quite challenging to develop The company also adds some interesting remarks on working with indie developers The RPG sensation and more gems are leaving in October It doesn't seem like there will be a new port of Sonic Unleashed anytime soon Sega President Shuji Utsumi and Epic Games Japan Managing Director Takayuki Kawasaki discussed the challenges of featuring Sonic in Fortnite",
-          "image": "https://kotaku.com/app/uploads/2025/06/0abeb34b62f840157ca35d399a8c4bc2.jpg"
+          "image": "https://kotaku.com/app/uploads/2025/06/0abeb34b62f840157ca35d399a8c4bc2-1200x675.jpg"
         }
       ]
     },
     {
-      "story_id": "4f3473ea9f15009d",
-      "title": "Xbox Is Going Bigger On Movies, TV, And More With New XP Division",
-      "summary": "Xbox has officially unveiled a new division dedicated to movies and TV, called XP. The new branch of Xbox will be headed by Lucasfilm veteran Kayleen Walters, who had previously served as president of Minecraft studio Mojang and an executive producer on A Minecraft Movie. \"At Mojang, her record speaks for itself,\" Xbox chief strategy officer Matthew Ball wrote in a press statement. \"Under her...",
+      "story_id": "29ae476c8b309612",
+      "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
+      "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is coming to Switch 2, and she didn't say yes or no. Instead, she said people should ask Rockstar and its owner, Take-Two. “That’s going to be a conversation for Take-Two and Rockstar, but nothing to...",
       "owners": [
         "fandom",
+        "keleops",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "e4ca3c4311cf0a53",
-        "685453879cbc84e5"
+        "d52debe612af3b87",
+        "f1d96cafbaba3bd7",
+        "58f49443c013208d"
       ],
       "sources": [
         {
           "name": "GameSpot",
           "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/xbox-is-going-bigger-on-movies-tv-and-more-with-new-xp-division/",
-          "title": "Xbox Is Going Bigger On Movies, TV, And More With New XP Division",
-          "published_at": "2026-10-08T12:15:56+00:00",
+          "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
+          "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
+          "published_at": "2026-10-09T15:01:41+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "Eurogamer",
+          "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/xbox-xp-product-partnerships-places-productions",
-          "title": "Following Nintendo and Sony's lead, Xbox is setting up a division exclusively dedicated to movies and non-games partnerships",
-          "published_at": "2026-10-08T12:12:45+00:00",
+          "url": "https://www.ign.com/articles/gta-6-switch-2-nintendo-president",
+          "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
+          "published_at": "2026-10-09T15:04:06+00:00",
           "kind": "press",
-          "text": "Today, Microsoft announced it is setting up a new branch of the Xbox business named XP. In a blog over at the Xbox Wire, Microsoft details what this new area of the business looks like - it consists of four branches: Xbox Places, Xbox Pictures, Xbox Partnerships, Xbox Products. \"[XP] brings together capabilities that have existed across various teams at Xbox for years and aligns them behind a shared mission: helping our franchises reach more people, create deeper connections with players and new fans, and unlock new opportunities for these fandoms to grow around the world,\" says a press release from Matthew Ball, chief strategy officer at Xbox. \"Great games remain at the center of these franchises and at the heart of Xbox. XP will partner with the best creative minds across our studios, along with trusted partners, to build on that foundation and create more ways for people to experience the worlds they love.\" A large focus of Microsoft's newest investment will be in cross-media partnerships, looking particularly at film and TV. It seems lots of publishers are eyeing up the film industry, no doubt buoyed by the massive success of titles like the Super Mario Bros. and Super Mario Galaxy movies ( which have earned $1.36bn and $1bn, respectively ) and Sony's recently released Resident Evil movie (which is tracking at $280m+ at the time of writing). Xbox has had its own notable successes on the big screen, too: last year A Minecraft Movie amassed more than $550m (£415m) in two weeks , immediately setting up a sequel . Xbox has also experimented with TV in the past, too. Fallout is the highlight for the company at the moment, with Fallout Season 2 boasting 83 million viewers tuning in during its first 13 weeks of release . Less successful was Paramount's divisive Halo TV show, which was cancelled after two seasons . A question that springs to my mind when reading this is: where will we go next? There are plenty of Xbox franchises that'd make for good TV; Perfect Dark, Fable, and maybe even a Forza story in the style of Sony's peculiar Gran Turismo show would work. I know the initial run at a Halo TV show was a bit of a flop, but I'd love to see a limited series on the Fall of Reach. It'd make some fine prestige television. We know there's a Gears of War film and a Sea of Thieves film in production, too. Elsewhere, there's Xbox Places. This is the arm of the company that'll oversee the Minecraft theme parks that are opening in the US and UK that so far represent over £85m of investment from Mojang and Xbox. They're expected to open 'between 2026 and 2027'. Will we hear about more real-life locations that'll fall under the 'Places' banner? It remains to be seen. All these initiatives will no doubt require staffing, which is such to be a sore subject for any of the staff that have been impacted by wide-ranging cuts at Microsoft and Xbox over the past few years . Given the contraction of its game studios and software business, is Xbox trying to recoup costs by pursuing other avenues for growth? It certainly seems like it.",
-          "image": "https://assetsio.gnwcdn.com/MS-XP.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "Nintendo of America president Devon Pritchard recently spoke about the company's plans, from theme parks to first- and third-party games. And with the launch of Switch 2, the door is open to more third-party games that previously skipped Nintendo consoles (Call of Duty: Modern Warfare 4 is one example). So what about GTA 6? The Switch 2 is of course more powerful than its predecessor, capable of running games like Cyberpunk 2077 and the recent The Witcher 3 remaster. But could it run GTA 6? And, if so, will Rockstar Games release a Switch 2 port? After all, it's coming out on the less powerful Xbox Series S next month. “That’s going to be a conversation for Take-Two and Rockstar, but nothing to announce on my end at this time,” Pritchard told Variety when asked about GTA 6 on Switch 2. Bah! Rockstar games Red Dead Redemption, Grand Theft Auto: The Trilogy – The Definitive Edition, and L.A. Noire are already on Switch, but the developer hasn’t announced anything about Red Dead Redemption 2, never mind GTA 6. Would Manhunt be asking too much? Rockstar’s sequel, Manhunt 2 , famously featured platform-specific controls for pummeling in heads with the motion controllers, and that’d work nicely on Switch 2 and make any onlookers afraid of taking me on when I play it on the train. “We have historically said that Nintendo is for ages 5 to 95, and that continues to be true,” Pritchard said. “We want to provide a diversity in terms of the types of experiences that you can have on the game system, and that’s really important for us.” Nintendo’s upcoming The Legend of Zelda: Ocarina of Time remake launches on November 5, just two weeks before the launch of GTA 6. It’s about as close to Rockstar’s launch any triple-A game has dared, but Nintendo knows it has a captive audience of dedicated fans who love its stuff. A recent SNL skit parodied the double-bill gaming launches , calling it video games’ Barbenheimer. The one-two punch of Zelda and GTA 6 toward the end of the year really tops off a fantastic year in video games. We’ve had good friend times with Big Walk , industry leading combat in Onimusha: Way of the Sword , the first essential Bond game since GoldenEye with 007: First Light , the tantalising tactics and deep social mechanics of Fire Emblem: Fortune’s Wave , and loads more. It feels like we’re at that time in the console cycle where the developers have learned how to get the most out of the machines, and now we’re seeing what everyone can really do. Now Rockstar just needs to prove it’s the wizard it is and squeeze GTA 6 onto Switch 2 so we can play it on the loo. Please, Rockstar. I need this. On the loo. Kirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
+          "image": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/will-gta-6-ever-come-to-switch-2-nintendo-of-america-president-says-go-ask-rockstar-2000743283",
+          "title": "Will GTA 6 Ever Come To Switch 2? Nintendo Of America President Says Go Ask Rockstar",
+          "published_at": "2026-10-09T19:09:44+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 Grand Theft Auto VI GTA 6 Switch 2 Grand Theft Auto 6 is the most anticipated gaming release ever and it won’t be on Switch 2, at least not at launch or possibly ever. Asked about the possibility of an eventual port, Nintendo of America president Devon Pritchard suggested it wasn’t up to her. âThatâs going to be a conversation for Take Two and Rockstar, but nothing to announce on my end at this time,â Pritchard told Variety in a new interview. In addition to being the only modern gaming console not getting GTA 6 this fall, Switch 2 is also the only console getting a first-party exclusive that’s going head-to-head with Rockstar’s open world juggernaut. The Legend of Zelda: Ocarina of Time remake will arrive just two weeks ahead of time on November 5. But even if it remains a mystery whether the Switch 2 is even capable of satisfactorily running GTA 6 , there are other games Rockstar could be porting to Nintendo’s newest device. Red Dead Redemption 2 still isn’t available on the handheld hybrid, despite coming to the last-gen PlayStation 4 and Xbox Series X/S. GTA 5 hasn’t been ported either. Virtuous, which ported Rockstar’s L.A. Noire to Switch, would love to take on the challenge. â[The] team is eager to adapt Grand Theft Auto 5 and Red Dead Redemption 2 for the Nintendo Switch,â technical director Fong told Pocket Tactics . âWeâre personally big fans and believe these games can shine again on the Switch, delighting even more players.â Those open-world games are two of only four top selling games of all time that aren’t available on Switch 2. The others are PUBG and Wii Sports . A successor to the later, Nintendo Switch Sports Resort , arrives on October 22. Bolstering the case for Rockstar getting GTA 5 on Switch 2, especially if GTA 6 i s a no-go, is the fact that GTA Online remains massively popular and Rockstar has yet to reveal plans for sunsetting it anytime soon. For Switch 2 fans who are pining for some some Vice City madness this November, well, there’s always the G rand Theft Auto: The Trilogy â The Definitive Edition . That one is on Nintendo’s console. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. A junior Rockstar employee was leaking trade union activity to management But look closer and it's clear this isn't magic Also, Lana Del Rey's husband is a 'roving reporter' for an outlaw country station The company also confirmed you'll be able to listen to music and podcasts while on foot via your phone The lengthy portion of the game features cutscenes, dirt bike racing, and...Jason's winky Some of them are Amazon Prime deals, and won't last long",
+          "image": "https://kotaku.com/app/uploads/2026/01/gta-6-1200x675.jpg"
         }
       ]
     }
