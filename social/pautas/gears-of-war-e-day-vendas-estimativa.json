@@ -1,0 +1,86 @@
+{
+  "slug": "gears-of-war-e-day-vendas-estimativa",
+  "tipo": "checagem",
+  "assunto": "Gears E-Day",
+  "gta6": false,
+  "materia": "gears-of-war-e-day-vendas-estimadas-game-pass",
+  "criado": "2026-10-09T18:50:00-03:00",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/10/gears-of-war-eday-1200x675.jpg",
+    "credito": "Divulgação",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Kotaku, Eurogamer e Polygon",
+  "capa": {
+    "titulo": "Gears of War: E-Day vendeu só 230 mil? Calma",
+    "destaque": "230 mil",
+    "apoio": "É estimativa de analista, não dado da Microsoft. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato, estimativa e buraco",
+      "destaque": "estimativa",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "A Alinea Analytics publicou os números"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Cerca de 230 mil cópias vendidas, só estimativa"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "1,7 milhão de jogadores no Game Pass, só estimativa"
+        },
+        {
+          "selo": "falso",
+          "texto": "Microsoft confirmou esses números"
+        }
+      ]
+    },
+    {
+      "rotulo": "Por que engana",
+      "titulo": "Venda não é audiência",
+      "destaque": "audiência",
+      "texto": [
+        "O jogo está no **Game Pass** desde o primeiro dia, então muita gente joga sem comprar.",
+        "Segundo a GamesRadar, contando as atualizações de edição, quase 950 mil pessoas pagaram algo por E-Day."
+      ]
+    },
+    {
+      "rotulo": "Veredito",
+      "titulo": "Número sem selo oficial",
+      "destaque": "oficial",
+      "texto": [
+        "Os dados são de um analista e a **Microsoft não comentou**.",
+        "Vale tratar como pista, não como balanço de vendas."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que jura que sabe quanto vendeu",
+  "legenda": {
+    "gancho": "Gears of War: E-Day teria vendido 230 mil cópias, segundo a Alinea, mas a Microsoft não confirmou.",
+    "corpo": [
+      "O analista Rhys Elliott estima 1,7 milhão de jogadores no Game Pass na primeira semana, de acordo com Kotaku, Eurogamer e Polygon.",
+      "Como o jogo está no serviço desde o primeiro dia, venda e audiência são coisas diferentes. A GamesRadar aponta que quase 950 mil pessoas pagaram algo, contando as atualizações.",
+      "Os números são estimativas e não vêm da Microsoft."
+    ],
+    "chamada": "Você comprou ou está jogando pelo Game Pass?",
+    "hashtags": [
+      "#pixelzada",
+      "#gearsofwar",
+      "#gamepass",
+      "#xbox"
+    ]
+  },
+  "alt": [
+    "Slide 1: Gears of War: E-Day vendeu só 230 mil? Calma",
+    "Slide 2: Números da Alinea são estimativa, sem confirmação da Microsoft",
+    "Slide 3: Game Pass explica a diferença entre venda e audiência",
+    "Slide 4: Veredito: pista, não balanço oficial",
+    "Slide 5: Manda pro amigo que jura que sabe quanto vendeu"
+  ],
+  "status": "pronto"
+}

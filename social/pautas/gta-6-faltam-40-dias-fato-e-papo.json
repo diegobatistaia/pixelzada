@@ -1,0 +1,90 @@
+{
+  "slug": "gta-6-faltam-40-dias-fato-e-papo",
+  "tipo": "checagem",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-radios-podcasts-fones-rockstar-site",
+  "criado": "2026-10-09T18:55:00-03:00",
+  "imagem": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-3.29.45-PM.png",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, The Verge e GamesRadar",
+  "capa": {
+    "titulo": "Faltam 40 dias para GTA 6: o que já é fato",
+    "destaque": "40 dias",
+    "apoio": "O que a Rockstar já confirmou e o que ainda falta. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Contagem",
+      "titulo": "19 de novembro",
+      "destaque": "19 de novembro",
+      "texto": [
+        "O lançamento segue marcado para **19 de novembro**, segundo a Rockstar.",
+        "A pré-venda está aberta, de acordo com o The Verge."
+      ]
+    },
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato e buraco",
+      "destaque": "buraco",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Seis estações de rádio reveladas no site oficial"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Podcasts sob demanda pela primeira vez na série"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Rádio e podcasts a pé, com fones ligados ao celular"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Lista completa de músicas e estações"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Quantidade e temas dos podcasts"
+        }
+      ]
+    },
+    {
+      "rotulo": "Cuidado",
+      "titulo": "Vazamento não é fato",
+      "destaque": "fato",
+      "texto": [
+        "Um novo vazamento de imagens apareceu na semana, e a **Rockstar não comentou**.",
+        "Aqui só vale o que a empresa publicou no site oficial."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que está contando os dias",
+  "legenda": {
+    "gancho": "Faltam 40 dias para GTA 6, e dá para separar o que é fato do que ainda é papo.",
+    "corpo": [
+      "A Rockstar confirma o lançamento em 19 de novembro e já mostrou seis estações de rádio no site oficial, de acordo com IGN e The Verge.",
+      "Também confirmou podcasts sob demanda, a primeira vez na série, segundo a GamesRadar. Rádio e podcasts tocam até a pé, por fones ligados ao celular dos protagonistas.",
+      "A lista completa de músicas e o número de podcasts ainda não saíram. Vazamentos não entram na conta."
+    ],
+    "chamada": "Qual rádio você vai ouvir primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Faltam 40 dias para GTA 6: o que já é fato",
+    "Slide 2: Lançamento em 19 de novembro, pré-venda aberta",
+    "Slide 3: Rádios e podcasts confirmados; lista completa ainda não",
+    "Slide 4: Vazamento não é fato, só vale o site oficial",
+    "Slide 5: Manda pro amigo que está contando os dias"
+  ],
+  "status": "pronto"
+}
