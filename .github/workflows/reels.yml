@@ -1,0 +1,108 @@
+name: Reels
+
+# Publica no @pixelzada.br os Reels de vídeo da fila (social/reels/fila.json),
+# sozinho, às 11h, 15h30 e 20h (Brasília). Os vídeos já vêm prontos, na
+# identidade visual, e ficam em social/reels/videos/. Código: scripts/social/reels.py.
+#
+# O GitHub atrasa os agendamentos, então cada horário tem várias tentativas; a
+# primeira que roda publica e as outras saem em segundos.
+on:
+  schedule:
+    - cron: "2,22,47 14 * * *"     # 11h
+    - cron: "32,52 18 * * *"       # 15h30
+    - cron: "12,37 19 * * *"       # rede de segurança do 15h30
+    - cron: "2,22,47 23 * * *"     # 20h
+  workflow_dispatch:
+    inputs:
+      acao:
+        description: "rodada = publica se for horário; gaveta = lista a fila"
+        type: choice
+        options: [gaveta, rodada]
+        default: gaveta
+
+permissions:
+  contents: write
+
+# Mesmo grupo do workflow Instagram: nunca rodam ao mesmo tempo.
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  reels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      INSTAGRAM_TOKEN_PIXELZADA: ${{ secrets.INSTAGRAM_TOKEN_PIXELZADA }}
+      ACAO: ${{ github.event.inputs.acao || 'rodada' }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Gaveta
+        if: env.ACAO == 'gaveta'
+        run: python -m scripts.social.reels gaveta
+
+      - name: É horário de um Reel?
+        id: decidir
+        if: env.ACAO == 'rodada'
+        run: |
+          pip install pyyaml
+          python -m scripts.social.reels decidir
+
+      - name: Separar o vídeo
+        id: preparar
+        if: steps.decidir.outputs.acao == 'reel'
+        run: python -m scripts.social.reels preparar
+
+      - name: Enviar o vídeo para pixelzada.com.br/ig/
+        if: steps.preparar.outputs.acao == 'reel'
+        env:
+          SLUG: ${{ steps.preparar.outputs.slug }}
+        run: |
+          eval "$(python - <<'PY'
+          import yaml
+          d = yaml.safe_load(open("site.config.yaml"))["deploy"]
+          for k in ("host", "port", "user", "remote_path"):
+              print(f'DESTINO_{k.upper()}="{d[k]}"')
+          PY
+          )"
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.HOSTINGER_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          for tentativa in 1 2 3 4 5; do
+            if ssh -i ~/.ssh/deploy_key -p $DESTINO_PORT -o StrictHostKeyChecking=accept-new -o BatchMode=yes -o ConnectTimeout=20 \
+                 "$DESTINO_USER@$DESTINO_HOST" "mkdir -p '${DESTINO_REMOTE_PATH%/}/ig/$SLUG'" && \
+               rsync -rlvz \
+                 -e "ssh -i ~/.ssh/deploy_key -p $DESTINO_PORT -o StrictHostKeyChecking=accept-new -o BatchMode=yes -o ConnectTimeout=20" \
+                 "social/saida/$SLUG/" "$DESTINO_USER@$DESTINO_HOST:${DESTINO_REMOTE_PATH%/}/ig/$SLUG/"; then
+              rm -f ~/.ssh/deploy_key
+              exit 0
+            fi
+            sleep $((tentativa * 15))
+          done
+          rm -f ~/.ssh/deploy_key
+          exit 1
+
+      - name: Publicar o Reel
+        if: steps.preparar.outputs.acao == 'reel'
+        run: python -m scripts.social.reels publicar
+
+      - name: Registrar o resultado
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add social/reels/fila.json social/publicar 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "reels: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1
