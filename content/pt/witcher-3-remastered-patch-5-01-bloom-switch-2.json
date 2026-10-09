@@ -113,7 +113,8 @@
     "alt": "Yennefer em cena de The Witcher 3 Remastered",
     "credit": "Imagem: divulgação, via Eurogamer",
     "url": "https://assetsio.gnwcdn.com/yennefer-witcher-3_59DfK6B.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/witcher-3-remastered-patch-5-01-bloom-sw-070aeba6.jpg"
   },
   "sources": [
     {
@@ -129,5 +130,7 @@
       "title": "The Witcher 3 Remastered's new patch"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-09T15:41:21+00:00",
+  "updated_at": "2026-10-09T15:41:21+00:00"
 }

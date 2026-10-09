@@ -125,7 +125,8 @@
     "alt": "Switch 2 edição Zelda 40 anos ao lado de Ocarina of Time em arte da Best Buy",
     "credit": "Imagem: divulgação, via IGN",
     "url": "https://assets-prd.ignimgs.com/2026/10/08/zelda-ocarina-of-time-switch-2-console-best-buy-1791470838410.png?width=1280&format=jpg&auto=webp&quality=80",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/zelda-ocarina-of-time-best-buy-abertura--3abec8c3.jpg"
   },
   "sources": [
     {
@@ -147,5 +148,7 @@
       "title": "The new Ocarina of Time figures are nowhere to be found"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-09T15:41:21+00:00",
+  "updated_at": "2026-10-09T15:41:21+00:00"
 }

@@ -131,7 +131,8 @@
     "alt": "Arte de Cyberpunk 2077 com a paisagem urbana de Night City",
     "credit": "Imagem: divulgação, via Eurogamer",
     "url": "https://assetsio.gnwcdn.com/cyberpunk-2077-v.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "source_url": ""
+    "source_url": "",
+    "path": "/assets/img/cyberpunk-2077-filme-paramount-live-acti-d38afd64.jpg"
   },
   "sources": [
     {
@@ -159,5 +160,7 @@
       "title": "Cyberpunk 2077 live-action film Paramount CD Projekt Red"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-09T15:41:21+00:00",
+  "updated_at": "2026-10-09T15:41:21+00:00"
 }
