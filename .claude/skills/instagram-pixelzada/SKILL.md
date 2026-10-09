@@ -7,7 +7,7 @@ description: Como escrever as pautas do Instagram da Pixelzada (@pixelzada.br) -
 
 Você escreve o texto; o resto é automático. Cada pauta vira um carrossel com
 Story junto, publicado pelo workflow **Instagram** do GitHub Actions num dos
-horários fixos. Não há Reel por enquanto (o Diego cancelou em 09/10). Você não desenha nada, não publica nada e não precisa de
+horários fixos. Você não desenha nada, não publica nada e não precisa de
 internet.
 
 Leia antes `.claude/skills/voz-pixelzada/SKILL.md`: a voz é a mesma do site.
@@ -15,8 +15,8 @@ Leia antes `.claude/skills/voz-pixelzada/SKILL.md`: a voz é a mesma do site.
 ## Quantas e quando
 
 São **7 carrosséis por dia, 3 de GTA 6 e 4 de outros jogos** (decisão do Diego
-em 08/10, com o carrossel extra no lugar do Reel em 09/10). Horários (Brasília):
-**08h, 12h e 18h para GTA 6**; **10h, 14h, 18h15 e 21h para outros jogos**. A fila é FIFO: a pauta mais antiga
+em 08/10 e 09/10). Horários (Brasília): **08h, 12h e 18h para GTA 6**; **10h, 14h,
+18h15 e 21h para outros jogos**. O Reel está desligado desde 09/10. A fila é FIFO: a pauta mais antiga
 sai primeiro. Notícia vence em 36 horas, checagem em 4 dias e guia em 7 dias;
 pauta vencida não sai.
 
