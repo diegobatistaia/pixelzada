@@ -1,6 +1,6 @@
 ---
 name: instagram-pixelzada
-description: Como escrever as pautas do Instagram da Pixelzada (@pixelzada.br) - carrossel, Story e Reel que saem sozinhos em horários fixos. Use ao fechar a rodada da redação diária ou sempre que for criar, revisar ou corrigir um arquivo em social/pautas/.
+description: Como escrever as pautas do Instagram da Pixelzada (@pixelzada.br) - carrossel e Story que saem sozinhos em horários fixos. Use ao fechar a rodada da redação diária ou sempre que for criar, revisar ou corrigir um arquivo em social/pautas/.
 ---
 
 # Pautas do Instagram (@pixelzada.br)
