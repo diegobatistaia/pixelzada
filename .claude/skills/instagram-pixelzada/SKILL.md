@@ -125,7 +125,7 @@ visível na capa, como no CSS `object-position`.
 
 ## Estilo do carrossel (automático)
 
-O workflow escolhe sozinho um dos **20 estilos** de `templates/social/estilos/`
+O workflow escolhe sozinho um dos **21 estilos** de `templates/social/estilos/`
 (decisão do Diego em 09/10): nunca o mesmo estilo em dias seguidos, e o que está
 há mais tempo sem sair vai primeiro, para todos aparecerem. Você não escolhe o
 estilo; só escreve a pauta. Prévia dos 20: `identidade/estilos-novos/` na pasta

@@ -25,7 +25,7 @@ Routine da redação  ->  social/pautas/<slug>.json  ->  workflow Instagram (Act
    `python -m scripts.social.instagram check`.
 2. **Desenho.** `scripts/social/arte.py` monta cada slide com a moldura da
    identidade visual (`templates/social/`, cópia do `marca.css` e das fontes) e
-   fotografa no Chromium. O carrossel sai num dos **20 estilos** de
+   fotografa no Chromium. O carrossel sai num dos **21 estilos** de
    `templates/social/estilos/`, em rodízio (`scripts/social/estilos.py`): nunca
    o mesmo estilo em dias seguidos e o mais antigo primeiro, para todos
    aparecerem. Se o texto não couber num estilo, tenta o próximo e, por último,

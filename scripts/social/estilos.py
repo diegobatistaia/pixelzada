@@ -1,4 +1,4 @@
-"""Rodízio dos 20 estilos de carrossel (templates/social/estilos/).
+"""Rodízio dos 21 estilos de carrossel (templates/social/estilos/).
 
 Regra do Diego (09/10/2026): cada carrossel sai num estilo, sem repetir estilo
 em dias seguidos, e todos os estilos têm de aparecer. Por isso a escolha é:
@@ -21,6 +21,7 @@ ESTILOS = {
     "mosaico": None, "aspas": "citacao", "fliperama": None, "versus": "lados", "ficha": None,
     "figurinha": None, "carregando": None, "conquista": None, "inventario": None, "mapa": None,
     "celular": None, "agenda": "data", "poster": None, "chefao": None, "quadrinho": None,
+    "reprodutor": None,
 }
 
 
@@ -51,6 +52,7 @@ def afinidade(nome: str, p: dict) -> int:
         "carregando": (2 if p.get("tipo") == "guia" else 0) + tem("passos"),
         "missao": 2 if p.get("gta6") else 0,
         "celular": 1 if p.get("gta6") else 0,
+        "reprodutor": 2 if p.get("tipo") == "noticia" and p.get("gta6") else 1,
         "fliperama": tem("itens"),
         "revista": 1 if p.get("tipo") == "noticia" else 0,
     }
