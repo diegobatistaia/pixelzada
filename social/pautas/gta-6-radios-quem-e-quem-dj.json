@@ -1,0 +1,94 @@
+{
+  "slug": "gta-6-radios-quem-e-quem-dj",
+  "tipo": "guia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-radios-podcasts-fones-rockstar-site",
+  "criado": "2026-10-09T12:45:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/08/huhrrqdweaall9w-1791470229549.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: IGN, Kotaku e GamesRadar",
+  "capa": {
+    "titulo": "Quem é quem nas rádios de GTA 6: guia dos DJs",
+    "destaque": "guia dos DJs",
+    "apoio": "Seis estações, vozes famosas e o estilo de cada uma. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Latina e country",
+      "titulo": "Cocoteo FM e Back Country",
+      "destaque": "Back Country",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Cocoteo FM: música latina, com Bad Bunny e RaiNao"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Back Country Radio: Morgan Wallen e Lana Del Rey"
+        }
+      ]
+    },
+    {
+      "rotulo": "Afro e metal",
+      "titulo": "AfroBank FM e The Chamber 106.6",
+      "destaque": "The Chamber",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "AfroBank FM: Burna Boy e Palms Trax"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "The Chamber 106.6: Kerry King e Tom Araya"
+        }
+      ]
+    },
+    {
+      "rotulo": "Pop e rap",
+      "titulo": "Flash FM e Dirty South Classics",
+      "destaque": "Flash FM",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Flash FM: pop, com Robyn e Alex Consani"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Dirty South Classics: Trick Daddy e Trina"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Rock clássico e rádio falada ainda sem prévia"
+        }
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que decide a trilha do rolê",
+  "legenda": {
+    "gancho": "Seis rádios de GTA 6 já têm DJ e estilo definidos, segundo a Rockstar. Veja quem fala em cada uma.",
+    "corpo": [
+      "Segundo a IGN, a Rockstar abriu uma seção de música no site oficial com prévias de cerca de dois minutos de seis estações: Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM e Dirty South Classics.",
+      "Entre as vozes estão Bad Bunny, Morgan Wallen, Lana Del Rey, Burna Boy, Kerry King e Tom Araya. A GamesRadar nota que o anúncio também confirma estações de rock clássico e de rádio falada, sem prévia ainda.",
+      "A lista completa de músicas não foi divulgada. O lançamento segue marcado para 19 de novembro."
+    ],
+    "chamada": "Qual dessas rádios você vai deixar ligada?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gta6radio"
+    ]
+  },
+  "alt": [
+    "Slide 1: Quem é quem nas rádios de GTA 6",
+    "Slide 2: Cocoteo FM com Bad Bunny e Back Country com Morgan Wallen e Lana Del Rey",
+    "Slide 3: AfroBank FM com Burna Boy e The Chamber 106.6 com Kerry King",
+    "Slide 4: Flash FM com Robyn e Dirty South Classics com Trick Daddy",
+    "Slide 5: Manda pro amigo que decide a trilha do rolê"
+  ],
+  "status": "pronto"
+}

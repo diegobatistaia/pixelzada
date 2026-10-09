@@ -1,0 +1,86 @@
+{
+  "slug": "cyberpunk-2077-filme-paramount",
+  "tipo": "noticia",
+  "assunto": "Cyberpunk 2077",
+  "gta6": false,
+  "materia": "cyberpunk-2077-filme-paramount-live-action",
+  "criado": "2026-10-09T12:45:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/cyberpunk-2077-v.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "CD Projekt Red",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Kotaku, The Verge e Eurogamer",
+  "capa": {
+    "titulo": "Cyberpunk 2077 vai virar filme na Paramount",
+    "destaque": "filme",
+    "apoio": "O Deadline diz que o produtor de Transformers está no projeto. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Filme live-action em desenvolvimento",
+      "destaque": "live-action",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Paramount desenvolve o filme, segundo o Deadline"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Lorenzo di Bonaventura é produtor"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "CD Projekt Red colabora na produção"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Elenco, diretor e data de estreia"
+        }
+      ]
+    },
+    {
+      "rotulo": "O que a CDPR disse",
+      "titulo": "Parceria reconhecida",
+      "destaque": "Parceria",
+      "texto": [
+        "O co-CEO Michał Nowakowski escreveu no X que a empresa está animada com a Paramount como **futura parceira**.",
+        "Ele disse que mais detalhes saem no momento apropriado, segundo Kotaku e Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Contexto",
+      "titulo": "Franquia em alta",
+      "destaque": "em alta",
+      "texto": [
+        "O jogo passou de **40 milhões de cópias**, segundo o Kotaku. A segunda temporada de Edgerunners estreia em 20 de outubro, de acordo com a Eurogamer.",
+        "A sequência, Cyberpunk 2, está em pré-produção."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que queria ver Night City no cinema",
+  "legenda": {
+    "gancho": "Cyberpunk 2077 vai ganhar um filme live-action na Paramount, segundo o Deadline, com a CD Projekt Red na produção.",
+    "corpo": [
+      "O produtor Lorenzo di Bonaventura, de Transformers, está ligado ao projeto, de acordo com Kotaku, The Verge e Eurogamer. O filme ainda está em fase inicial.",
+      "A CD Projekt Red reconheceu a parceria no X, mas não deu detalhes. Não há elenco, diretor, roteiro nem data de estreia.",
+      "A franquia também tem a segunda temporada de Edgerunners, que estreia em 20 de outubro, segundo a Eurogamer."
+    ],
+    "chamada": "Quem você escalaria como Johnny Silverhand?",
+    "hashtags": [
+      "#pixelzada",
+      "#cyberpunk2077",
+      "#cdprojektred",
+      "#filmedegame"
+    ]
+  },
+  "alt": [
+    "Slide 1: Cyberpunk 2077 vai virar filme na Paramount",
+    "Slide 2: Paramount, Lorenzo di Bonaventura e CD Projekt Red no projeto",
+    "Slide 3: Nowakowski fala em futura parceria com a Paramount",
+    "Slide 4: Jogo passou de 40 milhões de cópias e Edgerunners volta em 20 de outubro",
+    "Slide 5: Manda pro amigo que queria ver Night City no cinema"
+  ],
+  "status": "pronto"
+}
