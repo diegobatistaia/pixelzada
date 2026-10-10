@@ -173,5 +173,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-10T21:40:39+00:00",
+    "id": "sonic-racing-crossworlds-ano-2-godzilla-preco",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-10-10T21:40:39+00:00",
+    "id": "wardogs-chuva-temporada-2-armas-veiculos-apostas",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

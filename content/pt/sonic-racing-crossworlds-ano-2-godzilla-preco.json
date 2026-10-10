@@ -111,7 +111,9 @@
     "query": "Sonic Racing CrossWorlds Year Two",
     "alt": "Arte do segundo ano de Sonic Racing: CrossWorlds, com personagens e veículos dos novos pacotes",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/Sonic-CrossWorlds-Year-Two_10-09-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/sonic-racing-crossworlds-ano-2-godzilla--e5a7f147.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -139,5 +141,7 @@
       "title": "Sonic Racing CrossWorlds Year Two"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-10T21:40:39+00:00",
+  "updated_at": "2026-10-10T21:40:39+00:00"
 }
