@@ -45,10 +45,15 @@
     "slug": "gta6-no-pc",
     "data": "2026-10-10",
     "horario": "15:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "É por isso que o GTA 6 não sai pro PC junto com os consoles ✈️💥 Manda pro amigo que joga no PC.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta6 #gtavi #pcgamer #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-10T16:06:30-03:00",
+      "media_id": "18111610145127601",
+      "permalink": "https://www.instagram.com/reel/DeUy9PUHMoM/"
+    }
   },
   {
     "slug": "ultima-volta-gta5",
