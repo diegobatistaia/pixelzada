@@ -1,0 +1,74 @@
+{
+  "tipo": "guia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-xbox-streaming-nuvem-pc",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/08/27/gta6-romance-feature-blog-1787862386845.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: The Verge, GamesRadar e IGN",
+  "capa": {
+    "titulo": "GTA 6: o que conferir antes de 19 de novembro",
+    "destaque": "conferir",
+    "apoio": "Cinco pontos para não chegar no lançamento no escuro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Passo a passo",
+      "titulo": "Checklist do lançamento",
+      "destaque": "Checklist",
+      "passos": [
+        "Plataforma: o jogo sai para PS5 e Xbox Series X/S",
+        "Data: 19 de novembro, segundo a Rockstar",
+        "Pré-venda: aberta, de acordo com o The Verge",
+        "Nuvem: Xbox Cloud Gaming tem limite de horas por plano",
+        "Console: o estoque pode ficar curto, avisam analistas"
+      ]
+    },
+    {
+      "rotulo": "Atenção",
+      "titulo": "Não tem PC anunciado",
+      "destaque": "PC",
+      "texto": [
+        "A Rockstar **não anunciou versão para PC**, segundo o The Verge.",
+        "Também não existe streaming exclusivo no Xbox, de acordo com a Microsoft."
+      ]
+    },
+    {
+      "rotulo": "Nuvem",
+      "titulo": "Horas por plano no Xbox",
+      "destaque": "Horas",
+      "texto": [
+        "O limite mensal é de **15 horas no Ultimate, 10 no Premium e 5 no Essential**, segundo o The Verge.",
+        "Horas extras são pagas, e o preço no Brasil não foi informado."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai jogar no dia 19",
+  "legenda": {
+    "gancho": "Faltam 40 dias para GTA 6 e vale conferir cinco pontos antes de 19 de novembro.",
+    "corpo": [
+      "O jogo sai para PS5 e Xbox Series X/S, e a pré-venda está aberta, segundo The Verge e IGN. A Rockstar não anunciou versão para PC.",
+      "O Xbox Cloud Gaming limita as horas por plano, e analistas avisam que o estoque de console pode ficar curto. Nada disso tem preço confirmado no Brasil."
+    ],
+    "chamada": "Qual item do checklist você ainda precisa resolver?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6: o que conferir antes de 19 de novembro",
+    "Slide 2: Checklist com plataforma, data, pré-venda, nuvem e console",
+    "Slide 3: PC não foi anunciado pela Rockstar",
+    "Slide 4: Horas de nuvem por plano do Xbox",
+    "Slide 5: Manda pro amigo que vai jogar no dia 19"
+  ],
+  "slug": "gta-6-checklist-antes-de-19-de-novembro",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

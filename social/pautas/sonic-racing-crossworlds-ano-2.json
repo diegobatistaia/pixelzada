@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Sonic Racing",
+  "gta6": false,
+  "materia": "sonic-racing-crossworlds-ano-2-godzilla-preco",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/10/sonic-racing-crossworlds.jpg",
+    "credito": "Sega",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: VGC, GamesRadar e Gematsu",
+  "capa": {
+    "titulo": "Sonic Racing ganha Godzilla e Persona no ano 2",
+    "destaque": "Godzilla",
+    "apoio": "Seis pacotes pagos e o jogo mais barato. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Ano 2 começa em 3 de novembro",
+      "destaque": "3 de novembro",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Pacote 1: Godzilla, em 3 de novembro"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Evangelion, Hello Kitty e Segaland entram"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Bayonetta grátis em 3 de novembro"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Detalhes dos pacotes de FF7 e Persona"
+        }
+      ]
+    },
+    {
+      "rotulo": "Preço",
+      "titulo": "Jogo base ficou mais barato",
+      "destaque": "mais barato",
+      "texto": [
+        "A edição padrão caiu de **US$ 70 para US$ 40**, segundo o VGC.",
+        "O Season Pass 2 custa US$ 29,99. Preço em reais não foi divulgado."
+      ]
+    },
+    {
+      "rotulo": "Novo modo",
+      "titulo": "Duelo 1 contra 1",
+      "destaque": "Duelo",
+      "texto": [
+        "O modo **Duelo** deixa ver os itens e a posição do rival, segundo o Insider Gaming.",
+        "Bayonetta é liberada nele."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga kart",
+  "legenda": {
+    "gancho": "Sonic Racing: CrossWorlds terá Godzilla, Evangelion, Persona e Final Fantasy 7 no segundo ano, a partir de 3 de novembro.",
+    "corpo": [
+      "O Season Pass 2 tem seis pacotes pagos e custa US$ 29,99, segundo o VGC. O jogo base também ficou mais barato, de US$ 70 para US$ 40.",
+      "Os pacotes de Final Fantasy 7 e Persona ainda não têm detalhes. Preços em reais não foram divulgados."
+    ],
+    "chamada": "Qual crossover você quer primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#sonic",
+      "#sega",
+      "#kart"
+    ]
+  },
+  "alt": [
+    "Slide 1: Sonic Racing ganha Godzilla e Persona no ano 2",
+    "Slide 2: Pacotes confirmados e Bayonetta grátis",
+    "Slide 3: Jogo base cai de US$ 70 para US$ 40",
+    "Slide 4: Novo modo de duelo 1 contra 1",
+    "Slide 5: Manda pro amigo que joga kart"
+  ],
+  "slug": "sonic-racing-crossworlds-ano-2",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

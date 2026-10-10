@@ -1,0 +1,85 @@
+{
+  "tipo": "checagem",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "mercado-consoles-eua-pior-desde-anos-80-circana",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/08/large-1200x675.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar, Eurogamer e VGC",
+  "capa": {
+    "titulo": "GTA 6 e console em falta: o que dizem os analistas",
+    "destaque": "em falta",
+    "apoio": "O jogo pode ajudar a vender, mas o estoque manda. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato, aviso e buraco",
+      "destaque": "aviso",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Lançamento em 19 de novembro"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Preço médio de console nos EUA bateu recorde"
+        },
+        {
+          "selo": "boato",
+          "texto": "Varejista avisa que o estoque deve esgotar"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Estoque e preço de console no Brasil"
+        }
+      ]
+    },
+    {
+      "rotulo": "O analista",
+      "titulo": "Ajuda, mas depende",
+      "destaque": "depende",
+      "texto": [
+        "Mat Piscatella, da Circana, diz que GTA 6 pode **ajudar a reduzir as quedas** de venda de console.",
+        "Mas o efeito depende de estoque, por causa da crise de memória, e de preço."
+      ]
+    },
+    {
+      "rotulo": "O alerta",
+      "titulo": "Varejista fala em falta",
+      "destaque": "falta",
+      "texto": [
+        "Um comprador de um varejista não identificado disse ao The Game Business que o estoque de consoles deve **esgotar** com GTA 6, segundo o VGC.",
+        "É a opinião de um varejista, não um dado da Sony ou da Microsoft."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que ainda não comprou o console",
+  "legenda": {
+    "gancho": "GTA 6 pode aquecer a venda de console, mas analistas avisam que o estoque pode não dar conta.",
+    "corpo": [
+      "Segundo a Circana, citada por GamesRadar, Eurogamer e VGC, o efeito do jogo em novembro depende de estoque, por causa da falta de componentes, e de preço.",
+      "Um varejista não identificado disse ao The Game Business que os consoles devem esgotar, de acordo com o VGC. Os dados são dos EUA, e não do Brasil."
+    ],
+    "chamada": "Você já garantiu seu console para GTA 6?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#playstation",
+      "#xbox"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 e console em falta: o que dizem os analistas",
+    "Slide 2: Lançamento confirmado, estoque no Brasil sem informação",
+    "Slide 3: Analista diz que GTA 6 ajuda, mas depende de estoque",
+    "Slide 4: Varejista não identificado fala em falta",
+    "Slide 5: Manda pro amigo que ainda não comprou o console"
+  ],
+  "slug": "gta-6-estoque-de-consoles-novembro",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

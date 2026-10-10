@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Wardogs",
+  "gta6": false,
+  "materia": "wardogs-chuva-temporada-2-armas-veiculos-apostas",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/09/s02-trailer-stills1-1791560517450.png",
+    "credito": "Bulkhead",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e Insider Gaming",
+  "capa": {
+    "titulo": "Wardogs vai ter chuva na temporada 2",
+    "destaque": "chuva",
+    "apoio": "A Bulkhead diz que ela muda o jogo todo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Temporada 2 em 15 de outubro",
+      "destaque": "15 de outubro",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Chuva do começo ao fim da partida"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Quatro armas e quatro veículos novos"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Sistema experimental de apostas"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Neve ou outros climas"
+        }
+      ]
+    },
+    {
+      "rotulo": "A chuva",
+      "titulo": "O que muda na partida",
+      "destaque": "muda",
+      "texto": [
+        "O mapa fica mais escuro, e os trovões **mascaram o som dos tiros**, segundo a IGN.",
+        "As gotas soam diferente em cada superfície."
+      ]
+    },
+    {
+      "rotulo": "Novidades",
+      "titulo": "Armas e tanque",
+      "destaque": "tanque",
+      "texto": [
+        "Entram o fuzil TCX-SPR, o M14 DMR, a Bizon e a Evo-3.",
+        "Entre os veículos, o tanque **T-72B3** e o antiaéreo Gepard, segundo o Insider Gaming."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga tiro tático",
+  "legenda": {
+    "gancho": "Wardogs ganha chuva, quatro armas e quatro veículos na temporada 2, que chega em 15 de outubro, segundo a Bulkhead.",
+    "corpo": [
+      "A chuva não é clima dinâmico: dura a partida inteira, de acordo com a IGN. O produtor Kane Allard diz que ela muda o jogo e pode agradar a uns e irritar outros.",
+      "O jogo está em acesso antecipado no Steam, segundo o Insider Gaming."
+    ],
+    "chamada": "Você prefere partida com chuva ou sem?",
+    "hashtags": [
+      "#pixelzada",
+      "#wardogs",
+      "#fps",
+      "#steam"
+    ]
+  },
+  "alt": [
+    "Slide 1: Wardogs vai ter chuva na temporada 2",
+    "Slide 2: Temporada 2 chega em 15 de outubro",
+    "Slide 3: Chuva escurece o mapa e mascara o som",
+    "Slide 4: Armas e veículos novos",
+    "Slide 5: Manda pro amigo que joga tiro tático"
+  ],
+  "slug": "wardogs-chuva-temporada-2",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}
