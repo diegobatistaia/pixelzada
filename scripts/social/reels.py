@@ -28,7 +28,7 @@ PASTA = P.ROOT / "social" / "reels"
 FILA = PASTA / "fila.json"
 PEDIDO = P.SAIDA / "pedido-reel.json"
 # Horários fixos (Brasília), sem bater com os carrosséis (08, 10, 12, 14, 18, 18h15, 21h).
-HORARIOS = ["11:00", "15:30", "20:00"]
+HORARIOS = ["11:00", "13:00", "15:30", "20:00"]
 POR_DIA = len(HORARIOS)
 # Mesma janela dos carrosséis: o GitHub atrasa os agendamentos.
 ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=150)
@@ -155,6 +155,8 @@ def cmd_gaveta(args) -> int:
     print(f"\nna gaveta: {len(pend)} vídeo(s) agendado(s)")
     if pend:
         print(f"cobre até {max(i['data'] for i in pend)} ({POR_DIA} por dia; faltam {max(0, 7 * POR_DIA - len(pend))} para fechar uma semana)")
+        if len(pend) < 2 * POR_DIA:
+            print(f"GAVETA BAIXA: menos de 2 dias de vídeos ({len(pend)} de {2 * POR_DIA})")
     return 0
 
 

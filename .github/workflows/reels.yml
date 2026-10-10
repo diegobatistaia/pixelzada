@@ -1,7 +1,7 @@
 name: Reels
 
 # Publica no @pixelzada.br os Reels de vídeo da fila (social/reels/fila.json),
-# sozinho, às 11h, 15h30 e 20h (Brasília). Os vídeos já vêm prontos, na
+# sozinho, às 11h, 13h, 15h30 e 20h (Brasília). Os vídeos já vêm prontos, na
 # identidade visual, e ficam em social/reels/videos/. Código: scripts/social/reels.py.
 #
 # O GitHub atrasa os agendamentos, então cada horário tem várias tentativas; a
@@ -9,6 +9,8 @@ name: Reels
 on:
   schedule:
     - cron: "2,22,47 14 * * *"     # 11h
+    - cron: "2,22,47 16 * * *"     # 13h
+    - cron: "12,37 17 * * *"       # rede de segurança do 13h
     - cron: "32,52 18 * * *"       # 15h30
     - cron: "12,37 19 * * *"       # rede de segurança do 15h30
     - cron: "2,22,47 23 * * *"     # 20h
