@@ -1,0 +1,89 @@
+{
+  "tipo": "checagem",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-radios-podcasts-fones-rockstar-site",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/01/gta-6-1200x675.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, Kotaku e The Verge",
+  "capa": {
+    "titulo": "GTA 6: o que a Rockstar ainda não mostrou",
+    "destaque": "não mostrou",
+    "apoio": "Com 40 dias para o lançamento, ainda tem buraco. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato e buraco",
+      "destaque": "buraco",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Lançamento em 19 de novembro"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Seis estações de rádio reveladas"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Lista completa de estações e músicas"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Quantidade de podcasts"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Data do álbum de músicas originais"
+        }
+      ]
+    },
+    {
+      "rotulo": "Música",
+      "titulo": "Álbum ainda sem data",
+      "destaque": "Álbum",
+      "texto": [
+        "A Rockstar confirmou em setembro um álbum com músicas originais para GTA 6, segundo a IGN.",
+        "A **data de lançamento do álbum** ainda não saiu. A empresa promete mais novidades sobre música em breve, de acordo com o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Atenção",
+      "titulo": "Vazamento não vale",
+      "destaque": "não vale",
+      "texto": [
+        "Apareceu um novo vazamento de imagens, e a **Rockstar não comentou**.",
+        "Aqui só entra o que a empresa publicou no site oficial."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que já está com a conta feita",
+  "legenda": {
+    "gancho": "Faltam 40 dias para GTA 6 e a Rockstar ainda não mostrou tudo o que o jogo vai ter.",
+    "corpo": [
+      "O lançamento segue marcado para 19 de novembro e a empresa revelou seis estações de rádio, segundo IGN e The Verge. Faltam a lista completa de músicas, a quantidade de podcasts e a data do álbum com músicas originais.",
+      "Um novo vazamento de imagens circulou nesta semana, e a Rockstar não comentou. Por isso ele fica de fora."
+    ],
+    "chamada": "O que você mais quer ver antes de 19 de novembro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6: o que a Rockstar ainda não mostrou",
+    "Slide 2: Lançamento confirmado, lista de músicas e podcasts ainda não",
+    "Slide 3: Álbum com músicas originais ainda sem data",
+    "Slide 4: Vazamento não vale como fato",
+    "Slide 5: Manda pro amigo que já está com a conta feita"
+  ],
+  "slug": "gta-6-o-que-a-rockstar-ainda-nao-mostrou",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

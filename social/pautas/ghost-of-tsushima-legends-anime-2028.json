@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Ghost Tsushima",
+  "gta6": false,
+  "materia": "ghost-of-tsushima-legends-anime-adiado-2028",
+  "imagem": {
+    "url": "https://cdn.mos.cms.futurecdn.net/jKyZh7AmtzFheyg3GWUn3k-1920-80.jpg",
+    "credito": "Crunchyroll",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Gematsu e GamesRadar",
+  "capa": {
+    "titulo": "Anime de Ghost of Tsushima foi adiado para 2028",
+    "destaque": "2028",
+    "apoio": "A Crunchyroll empurrou a estreia e revelou elenco novo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Atraso e novidades",
+      "destaque": "Atraso",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Estreia na Crunchyroll passou de 2027 para 2028"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Mayumi Saco e Shinya Fukumatsu entram no elenco"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Takanobu Mizuno dirige a série"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Data exata e papéis dos atores"
+        }
+      ]
+    },
+    {
+      "rotulo": "Elenco",
+      "titulo": "Voz da Tomoe volta",
+      "destaque": "Tomoe",
+      "texto": [
+        "Mayumi Saco já deu voz à **Tomoe** no jogo original, segundo a Gematsu.",
+        "Shinya Fukumatsu é o Bomb de One-Punch Man. Os papéis dos dois em Legends não foram revelados."
+      ]
+    },
+    {
+      "rotulo": "Equipe",
+      "titulo": "Mizuno, de Star Wars: Visions",
+      "destaque": "Mizuno",
+      "texto": [
+        "A direção é de **Takanobu Mizuno**, no estúdio Kamikaze Douga, que trabalhou em Star Wars: Visions, de acordo com a GamesRadar.",
+        "O roteiro é de Gen Urobuchi com Renji Oki."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que já afiou a katana",
+  "legenda": {
+    "gancho": "O anime de Ghost of Tsushima Legends foi adiado de 2027 para 2028, segundo a Crunchyroll e a Aniplex.",
+    "corpo": [
+      "O adiamento foi dado na New York Comic Con, de acordo com a GamesRadar, junto com a entrada de dois dubladores no elenco: Mayumi Saco e Shinya Fukumatsu.",
+      "A direção é de Takanobu Mizuno, segundo a Gematsu. A data exata e os papéis dos atores não foram divulgados."
+    ],
+    "chamada": "Você prefere o jogo ou espera mais pelo anime?",
+    "hashtags": [
+      "#pixelzada",
+      "#ghostoftsushima",
+      "#anime",
+      "#crunchyroll"
+    ]
+  },
+  "alt": [
+    "Slide 1: Anime de Ghost of Tsushima foi adiado para 2028",
+    "Slide 2: Estreia passou de 2027 para 2028 e elenco ganhou duas vozes",
+    "Slide 3: Mayumi Saco, voz da Tomoe, entra no elenco",
+    "Slide 4: Direção de Takanobu Mizuno, de Star Wars: Visions",
+    "Slide 5: Manda pro amigo que já afiou a katana"
+  ],
+  "slug": "ghost-of-tsushima-legends-anime-2028",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

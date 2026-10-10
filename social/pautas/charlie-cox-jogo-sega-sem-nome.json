@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Charlie Cox",
+  "gta6": false,
+  "materia": "charlie-cox-jogo-sega-40-horas-dialogos",
+  "imagem": {
+    "url": "https://cdn.mos.cms.futurecdn.net/EhykQCUFEYsEEyiXWS3s7A-1920-80.jpg",
+    "credito": "Divulgação",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar e Kotaku",
+  "capa": {
+    "titulo": "Charlie Cox gravou 40 horas para um jogo da Sega",
+    "destaque": "40 horas",
+    "apoio": "O jogo ainda não tem nome. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato e palpite",
+      "destaque": "palpite",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Cox disse na NYCC que fez um jogo da Sega"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Cerca de 40 horas de falas, segundo ele"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Nome, data e plataformas"
+        },
+        {
+          "selo": "boato",
+          "texto": "Persona 6, palpite de fãs"
+        }
+      ]
+    },
+    {
+      "rotulo": "O relato",
+      "titulo": "O estúdio queria um americano",
+      "destaque": "americano",
+      "texto": [
+        "Cox contou que no primeiro dia ouviu que ele é inglês, mas o personagem era **americano**, segundo o Kotaku.",
+        "Ele teve que gravar as falas num sotaque que não tinha preparado."
+      ]
+    },
+    {
+      "rotulo": "Contexto",
+      "titulo": "Antes foram 4 horas",
+      "destaque": "4 horas",
+      "texto": [
+        "Em Clair Obscur: Expedition 33, onde fez o Gustave, ele gravou cerca de **quatro horas**, de acordo com a GamesRadar.",
+        "A Sega não comentou o projeto nas matérias consultadas."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que fez Persona 6 na cabeça",
+  "legenda": {
+    "gancho": "Charlie Cox, o Gustave de Clair Obscur, disse que gravou 40 horas de falas para um jogo da Sega que ainda não tem nome.",
+    "corpo": [
+      "A fala foi dada à IGN na New York Comic Con, segundo GamesRadar e Kotaku. Cox disse que o trabalho é bem diferente do que fez em Expedition 33.",
+      "Persona 6 e Judgment são palpites de fãs e de veículos, não confirmação. A Sega não comentou."
+    ],
+    "chamada": "Em que jogo você quer ver o Charlie Cox?",
+    "hashtags": [
+      "#pixelzada",
+      "#charliecox",
+      "#sega",
+      "#clairobscur"
+    ]
+  },
+  "alt": [
+    "Slide 1: Charlie Cox gravou 40 horas para um jogo da Sega",
+    "Slide 2: Fato e palpite sobre o jogo sem nome",
+    "Slide 3: O estúdio queria um personagem americano",
+    "Slide 4: Em Expedition 33 foram cerca de quatro horas",
+    "Slide 5: Manda pro amigo que fez Persona 6 na cabeça"
+  ],
+  "slug": "charlie-cox-jogo-sega-sem-nome",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

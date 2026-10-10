@@ -1,0 +1,89 @@
+{
+  "tipo": "noticia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-radios-podcasts-fones-rockstar-site",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/10/gta-music.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, VGC e GamesRadar",
+  "capa": {
+    "titulo": "As seis rádios de GTA 6 por gênero",
+    "destaque": "seis rádios",
+    "apoio": "Latino, country, metal, pop e mais. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A lista",
+      "titulo": "Seis estações, seis gêneros",
+      "destaque": "gêneros",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Cocoteo FM: música latina moderna"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Back Country Radio: country rebelde"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "AfroBank FM: música africana"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "The Chamber 106.6: metal clássico"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Flash FM: pop; Dirty South Classics: rap"
+        }
+      ]
+    },
+    {
+      "rotulo": "Novidade",
+      "titulo": "Rádio a pé e podcasts",
+      "destaque": "a pé",
+      "texto": [
+        "Pela primeira vez, dá para ouvir **rádio e podcasts fora do carro**, com fones ligados ao celular de Jason e Lucia, segundo a Rockstar.",
+        "Os podcasts são sob demanda, de acordo com a VGC."
+      ]
+    },
+    {
+      "rotulo": "Falta saber",
+      "titulo": "O que ainda não saiu",
+      "destaque": "não saiu",
+      "texto": [
+        "A GamesRadar nota que **não são todas as estações**: rock clássico e rádio falada foram confirmados sem prévia.",
+        "A lista completa de músicas segue em aberto."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai ficar só no metal",
+  "legenda": {
+    "gancho": "A Rockstar mostrou seis rádios de GTA 6 e dá para ouvir trechos de cerca de dois minutos no site oficial.",
+    "corpo": [
+      "As estações são Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM e Dirty South Classics, segundo a descrição da Rockstar reproduzida pela IGN.",
+      "Rádio e podcasts também tocam fora do carro, por fones ligados ao celular dos protagonistas, de acordo com a Rockstar. A lista completa de músicas ainda não saiu."
+    ],
+    "chamada": "Qual dessas seis você ouviria primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: As seis rádios de GTA 6 por gênero",
+    "Slide 2: Latino, country, africana, metal, pop e rap",
+    "Slide 3: Rádio e podcasts a pé, com fones",
+    "Slide 4: Rock clássico e rádio falada sem prévia",
+    "Slide 5: Manda pro amigo que vai ficar só no metal"
+  ],
+  "slug": "gta-6-as-seis-radios-por-genero",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

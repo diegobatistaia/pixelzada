@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Fatal Fury",
+  "gta6": false,
+  "materia": "fatal-fury-city-of-the-wolves-reina-tekken-dlc",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/FF-CotW-DLC_10-09-26.jpg",
+    "credito": "SNK",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Gematsu e GameBlast",
+  "capa": {
+    "titulo": "Reina, de Tekken, chega a Fatal Fury em dezembro",
+    "destaque": "dezembro",
+    "apoio": "É a última adição da terceira temporada. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Reina entra como DLC",
+      "destaque": "DLC",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Lutadora de Tekken vira DLC de Fatal Fury"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Chega em dezembro"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Última adição da terceira temporada"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Data exata e preço"
+        }
+      ]
+    },
+    {
+      "rotulo": "A personagem",
+      "titulo": "Quem é Reina",
+      "destaque": "Reina",
+      "texto": [
+        "Reina é estudante da **Mishima Polytechnical School**, segundo a Gematsu.",
+        "Em South Town, ela decide entrar no King of Fighters. Kate Clarke dubla em inglês e Asami Seto em japonês."
+      ]
+    },
+    {
+      "rotulo": "Plataformas",
+      "titulo": "Switch 2 em 22 de outubro",
+      "destaque": "Switch 2",
+      "texto": [
+        "O jogo está disponível no PS5, Xbox Series, PS4 e PC, de acordo com a Gematsu.",
+        "A versão de **Switch 2** sai em 22 de outubro."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga Tekken e Fatal Fury",
+  "legenda": {
+    "gancho": "Reina, de Tekken, vai virar personagem de DLC de Fatal Fury: City of the Wolves em dezembro, segundo a SNK.",
+    "corpo": [
+      "O anúncio foi noticiado pela Gematsu e pela GameBlast, que a chama de última adição da terceira temporada. Houve teaser, de acordo com a GameBlast.",
+      "Data exata, preço e plataformas específicas do DLC não foram divulgados."
+    ],
+    "chamada": "Qual personagem de fora você quer no jogo?",
+    "hashtags": [
+      "#pixelzada",
+      "#fatalfury",
+      "#tekken",
+      "#snk"
+    ]
+  },
+  "alt": [
+    "Slide 1: Reina, de Tekken, chega a Fatal Fury em dezembro",
+    "Slide 2: DLC confirmado como última adição da temporada",
+    "Slide 3: Reina é estudante da Mishima Polytechnical School",
+    "Slide 4: Switch 2 recebe o jogo em 22 de outubro",
+    "Slide 5: Manda pro amigo que joga Tekken e Fatal Fury"
+  ],
+  "slug": "fatal-fury-reina-tekken-dezembro",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}
