@@ -395,6 +395,10 @@ def cmd_conferir(args) -> int:
         resultado.update(ok=True, ultimos=[{
             "quando": m.get("timestamp"), "tipo": m.get("media_type"), "link": m.get("permalink"),
             "inicio": (m.get("caption") or "").split("\n", 1)[0][:90]} for m in media])
+        try:  # cota de publicação das últimas 24h (leitura, 1 chamada)
+            resultado["cota"] = call("GET", f"{ig}/content_publishing_limit", token, fields="quota_usage,config").get("data")
+        except ApiError as e:
+            resultado["cota"] = f"não consegui ler: {e}"
     except ApiError as e:
         resultado.update(ok=False, erro=str(e))
         print(f"ERRO: {e}")
