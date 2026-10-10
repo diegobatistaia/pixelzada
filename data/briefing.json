@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T15:29:33+00:00",
-  "posts_per_language_today": 3,
+  "generated_at": "2026-10-10T15:54:21+00:00",
+  "posts_per_language_today": 2,
   "daily_cap_per_language": 8,
-  "already_written_today": 3,
+  "already_written_today": 5,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -74,8 +74,8 @@
           "title": "Cyberpunk 2077 terá filme live-action desenvolvido pela Paramount",
           "published_at": "2026-10-08T19:27:47+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "A Paramount prepara adaptação cinematográfica de Cyberpunk 2077 com Lorenzo di Bonaventura como produtor do projeto.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUAaFr9Hv6oIhgQQTL38fBb4aZPQ8YIdviM9UDkmkAOq4Vyl2b3rXIGGBRYvmV_FsxRzpvc-ZweOEtyrRWnwmTuIG-82DdOEP6Ljumy8-drDmV7gvHhMVi8Mu7dPH6GNOECITzBEIjQnHQwCmN08MzMMVl0wuCxK71c5P0kOeZoWKGkiDr78_6kM1Ud8/w1200-h630-p-k-no-nu/gameblast-cyberpunk-2077-filme.jpg"
         },
         {
           "name": "Eurogamer",
@@ -188,98 +188,50 @@
       ]
     },
     {
-      "story_id": "258bcdf3df8178db",
-      "title": "US console market hasn't been this bad \"since the early 80s,\" analyst says",
-      "summary": "And even GTA 6 might not be able to save it",
+      "story_id": "0ffe4055a63f9cf9",
+      "title": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
+      "summary": "The game has also received a permanent price drop",
       "owners": [
         "future-plc",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "fb94a030c5569cbc",
-        "1f536b3dfca9a9e2",
-        "57cf05da868e2936"
-      ],
-      "sources": [
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/hardware/us-console-market-hasnt-been-in-a-more-precarious-position-since-the-early-80s-analyst-says-as-ps5-and-xbox-series-x-price-soar-to-all-time-highs/",
-          "title": "US console market hasn't been this bad \"since the early 80s,\" analyst says",
-          "published_at": "2026-10-09T18:19:28+00:00",
-          "kind": "press",
-          "text": "And even GTA 6 might not be able to save it It is absolutely no surprise to anyone in the market for a new gaming console that prices have risen rather sharply in the last year-and-change, but fresh insights from a trusted industry analyst put some context into just how bad things have gotten. The ongoing RAM shortages, coupled with tariff-driven increases in hardware prices, have driven each of the three big console manufacturers; Sony , Microsoft , and Nintendo; to drive up console prices numerous times in less than two years. If you want a brand-new PS5 Pro, you're looking at $900, while the disc version of the Xbox Series X is now priced at $800. Meanwhile, Nintendo's second Switch 2 price hike means you'll need to drop $500 on the base model of the current-gen system. Circana's Mat Piscatella, citing data from the company's US retail tracking system, says these price increases have, unsurprisingly, resulted in slowed sales for both Sony and Microsoft. Specifically, \"For 2026 YTD ending August, Xbox hardware unit sales are down 33% versus a year ago in the US, while PlayStation hardware units are 25% lower,\" says Piscatella on Bluesky. \"Xbox YTD US hardware unit sales are at an all-time low, while PlayStation is at lowest point since 2013.\" Looking at year-to-date console price changes in averages and percentages, Piscatella says \"the average price a consumer has paid for a new Xbox console in 2026 YTD ending August is $529, 26% higher than a year ago, while the average PlayStation console has sold for $597, 20% higher than last year. \"Both prices are at all-time US highs. Price sensitivity is becoming a real problem.\" Perhaps the release of the Big Video Game in November will help ease at least some of these declines. But this will also depend on product availability given the RAM and component crisis. And pricing, of course. The US hardware market has not been in a more precarious position since the early 80s. \"Price sensitivity is becoming a real problem\" just might be the most broadly relatable sentence possible living in the US in 2026, but Piscatella shares a small glimmer of hope in a certain video game that rhymes with Grand Theft Auto Fix. \"Perhaps the release of the Big Video Game in November will help ease at least some of these declines,\" Piscatella says, clearly alluding to GTA 6 , but even that is a big uncertainty. \"This will also depend on product availability given the RAM and component crisis. And pricing, of course,\" says Piscatella, concluding with a dramatic contextualization of the current environment: \"The US hardware market has not been in a more precarious position since the early 80s.\" Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Of course, Piscatella seems to be referencing the historic video game crash that happened from 1983 to 1985 and saw revenue attributed to US home video game sales fall 97% from about $3.2 billion in 1983 to $100 million in 1985. We haven't quite reached that level of catastrophe yet, and there's hope component shortages and tariff-related costs will eventually stabilize and ease some of the pressure on the console market, but going into the holiday season, console shoppers shouldn't expect substantial relief outside of big sales like Black Friday. \"Supply has been consistently available\" - Acer's CEO says it's \"impossible\" for the memory shortage to last until 2030, but that average PC prices will still increase by 5-20% by the end of 2026 After earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021. That means I'm responsible for managing the site's western regional executive branch, AKA my home office, and writing about whatever horror game I'm too afraid to finish. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/nbTYAFyNBRXLhqigMfPpv5-1920-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market",
-          "title": "As Xbox and PlayStation sales reach new lows, analyst says the \"US hardware market has not been in a more precarious position since the early 80s\"",
-          "published_at": "2026-10-09T18:51:26+00:00",
-          "kind": "press",
-          "text": "\"Price sensitivity is becoming a real problem.\" PS5 and Xbox Series X/S consoles are more expensive than ever in most markets, thanks largely to memory components being gobbled up by AI data centres. Now, analyst Mat Piscatella worries the console market, at least in the US, hasn't looked this dire since the early 1980s, which was maybe not-so-coincidentally when the industry absolutely collapsed. Circana's Piscatella recently jumped online to reveal that Xbox and PS5 price hikes caused a big blow to sales, somewhat unsurprisingly. Xbox hardware sales are reportedly down 33% \"versus a year ago in the US, while PlayStation hardware units are 25% lower.\" Those year-to-date stats mark a new all-time low for Xbox, and PlayStation's lowest point since 2013. \"The average price a consumer has paid for a new Xbox console in 2026 YTD ending August is $529, 26% higher than a year ago, while the average PlayStation console has sold for $597, 20% higher than last year,\" Piscatella added. \"Both prices are at all-time US highs. Price sensitivity is becoming a real problem.\" There's been some hope the incoming and meteoric launch of GTA 6 next month could give both consoles a boost, and Piscatella also noted that Rockstar's mammoth might \"help ease at least some of these declines,\" but that's all dependent on pricing and \"product availability.\" If all the RAM is booked for AI data centres, Microsoft and Sony won't be able to make as many consoles as they can sell. \"The US hardware market has not been in a more precarious position since the early 80s,\" Piscatella added. Consoles aren't the only devices suffering from RAMaggedon, though. Almost every consumer electronic device has been subject to price increases the past few years. The PS5 , Switch 2 and Xbox Series X/S price tags have all been bumped up, sometimes multiple times, as well. Micron's CEO recently warned that memory shortages are set to persist until at least 2028. Xbox boss Asha Sharma also delivered a similar note months earlier: \"When I joined as CEO in February, the price we paid for console storage components was over 2x as high as we paid last fall. These costs have since doubled again. And as we plan for the 2027 holiday season, we expect another significant increase, taking us over 5x the prices we paid only two years earlier.\"",
-          "image": "https://assetsio.gnwcdn.com/PS5-ram.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/",
-          "title": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
-          "published_at": "2026-10-10T12:53:54+00:00",
-          "kind": "press",
-          "text": "Xbox sales hit an all-time low as US console prices reach record highs The US console hardware market has not been in a more precarious position âsince the early 80sâ, according to market research firm Circana. Senior director Mat Piscatella shared the warning alongside the firmâs latest retail tracking figures, which suggest that year-to-date through August, Xbox hardware unit sales are down 33% versus a year ago in the US, while PlayStation hardware units are down 25%. The Xbox figure is an all-time low for the platform, while PlayStation is at its lowest point since 2013, according to Circana. The decline reflects a significant increase in console prices in the US, driven mostly by component shortages caused by AI data centers. According to Circana, the average price a consumer has paid for a new Xbox console in 2026 YTD ending August is $529, 26% higher than a year ago, while the average PlayStation console sold for $597, 20% higher than last year. âBoth prices are at all-time US highs. Price sensitivity is becoming a real problem,â commented Piscatella. âPerhaps the release of the Big Video Game in November will help ease at least some of these declines.â Piscatella said GTA 6’s potential impact on console sales in November will depend on product availability, given the RAM and component crisis. Earlier this year, one major retailerÂ warned that the release of Grand Theft Auto 6 Â may lead to a Christmas console shortage . A senior games buyer for an unnamed retailer told The Game Business that the combination of component shortages and price increases means consoles have been in shorter supply than usual, and the release of GTA 6 will âlikelyâ lead to a situation where console stock sells out. Xbox chief strategy officer Matthew Ball previously said that the supply of Xbox consoles was already an issue. âI can tell you definitively demand for our console exceeds the supply,â he said in June. âWe are putting them in as many stores as possible. We are producing them as quickly as possible. There is a severe limitation to how quickly we can do that, but itâs not a question of appetite.â",
-          "image": "https://www.videogameschronicle.com/files/2021/11/PS5-and-Xbox-Series-X-split.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "2902a5349e7ad36d",
-      "title": "Will GTA 6 Ever Come To Switch 2? Nintendo Of America President Says Go Ask Rockstar",
-      "summary": "Never say never, I guess?",
-      "owners": [
-        "insider-gaming",
-        "keleops",
+        "meups",
         "vgc"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "58f49443c013208d",
-        "9a188c19e9b9b9db",
-        "22e7dfc7215fcae9"
+        "981b83c807281789",
+        "042d512aec36c47f",
+        "2461967209b9d522"
       ],
       "sources": [
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/will-gta-6-ever-come-to-switch-2-nintendo-of-america-president-says-go-ask-rockstar-2000743283",
-          "title": "Will GTA 6 Ever Come To Switch 2? Nintendo Of America President Says Go Ask Rockstar",
-          "published_at": "2026-10-09T19:09:44+00:00",
-          "kind": "press",
-          "text": "Grand Theft Auto 6 Grand Theft Auto VI GTA 6 Switch 2 Grand Theft Auto 6 is the most anticipated gaming release ever and it won’t be on Switch 2, at least not at launch and possibly not ever. Asked about the possibility of an eventual port, Nintendo of America president Devon Pritchard suggested it wasn’t up to her. âThatâs going to be a conversation for Take-Two and Rockstar, but nothing to announce on my end at this time,â Pritchard told Variety in a new interview. In addition to being the only modern gaming console not getting GTA 6 this fall, Switch 2 is also the only console getting a first-party exclusive that’s going head-to-head with Rockstar’s open-world juggernaut. The Legend of Zelda: Ocarina of Time remake will arrive just two weeks ahead of time on November 5. But even if it remains a mystery whether the Switch 2 is capable of satisfactorily running GTA 6 , there are other games Rockstar could be porting to Nintendo’s newest device. Red Dead Redemption 2 still isn’t available on the handheld hybrid, despite coming to the last-gen PlayStation 4 and Xbox Series X/S. GTA 5 hasn’t been ported either. Virtuous, which ported Rockstar’s L.A. Noire to Switch, would love to take on the challenge. â[The] team is eager to adapt Grand Theft Auto 5 and Red Dead Redemption 2 for the Nintendo Switch,â technical director Fong told Pocket Tactics . âWeâre personally big fans and believe these games can shine again on the Switch, delighting even more players.â Those open-world games are two of the only four games, out of the ten top-selling games of all time, that aren’t available on Switch 2. The others are PUBG and Wii Sports . A successor to the latter, Nintendo Switch Sports Resort , arrives on October 22. Bolstering the case for Rockstar getting GTA 5 on Switch 2, especially if GTA 6 i s a no-go, is the fact that GTA Online remains massively popular and Rockstar has yet to reveal plans for sunsetting it anytime soon. For Switch 2 fans who are pining for some some Vice City madness this November, well, there’s always G rand Theft Auto: The Trilogy â The Definitive Edition . That one is on Nintendo’s console. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. A junior Rockstar employee was leaking trade union activity to management But look closer and it's clear this isn't magic Also, Lana Del Rey's husband is a 'roving reporter' for an outlaw country station The company also confirmed you'll be able to listen to music and podcasts while on foot via your phone The lengthy portion of the game features cutscenes, dirt bike racing, and...Jason's winky Some of them are Amazon Prime deals, and won't last long",
-          "image": "https://kotaku.com/app/uploads/2026/01/gta-6-1200x675.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/gta-6-on-switch-2-up-to-take-two/",
-          "title": "GTA 6 On Switch 2 ‘Up To Take-Two’",
-          "published_at": "2026-10-09T20:20:23+00:00",
-          "kind": "press",
-          "text": "GTA 6 remains unconfirmed for Nintendo Switch 2 after Devon Pritchard says she has nothing to announce and points to Take-Two and Rockstar. Grand Theft Auto 6 is the most anticipated game of its generation. At launch, it will be available on the Sony PlayStation 5 and XBOX Series X|S. A PC port is expected soon. As for Nintendo and its Switch 2 , a high-ranking Nintendo executive said the creators still have the final say on bringing GTA 6 to that platform. In an interview with Variety , Nintendo of America president Devon Pritchard addresses GTA 6 on Switch 2 but makes no announcement, pointing to Take-Two and Rockstar. “That’s going to be a conversation for Take-Two and Rockstar, but nothing to announce on my end at this time,” Pritchard says. She also noted that the Nintendo brand has always been for all ages, and they are continuing to do their best to provide a diverse experience for all players on their latest hardware. “We’re just at the beginning of seeing what Nintendo Switch 2 can do,” she said. The GTA franchise has had a spotty history on Nintendo hardware. Grand Theft Auto games have appeared on Nintendo platforms five times. The first two Grand Theft Auto games received Game Boy Color ports. Grand Theft Auto: Advance was an exclusive Nintendo Game Boy Advance release in 2004. Grand Theft Auto: Chinatown Wars was an original Nintendo DS game released in 2009. After a 13-year layoff, Grand Theft Auto: The Trilogy – The Definitive Edition arrived on the original Nintendo Switch in 2022. It collected games from the PlayStation 2 era. The trilogy included Grand Theft Auto 3 , Grand Theft Auto: Vice City , and Grand Theft Auto: San Andreas , all remastered and playable on the Nintendo Switch. Do you want to see GTA 6 on Switch 2? Sound off about this story and all others in our official Discord server. For more Insider Gaming coverage, check out everything announced during our recent 28 Games Later showcase . Also, don’t forget to sign up for our weekly newsletter . I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg"
-        },
-        {
           "name": "Video Games Chronicle",
           "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/",
-          "title": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
-          "published_at": "2026-10-10T12:07:44+00:00",
+          "url": "https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/",
+          "title": "Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega",
+          "published_at": "2026-10-10T09:55:44+00:00",
           "kind": "press",
-          "text": "Nintendo of America boss defers GTA 6 questions to Rockstar and Take-Two Nintendo of America president Devon Pritchard said she has ânothing to announceâ when asked about the possibility of Grand Theft Auto 6 coming to Switch 2. So far, thereâs been no suggestion from either Nintendo or Rockstar that a port of GTA 6 could be considered for Switch 2 â or even technically feasible. However, some insiders have claimed that exploratory conversations have taken place behind the scenes. Officially, Nintendo is still keeping quiet, as when asked about the possibility of GTA 6 coming to Switch 2, Pritchard told Variety in a recent interview: âThatâs going to be a conversation for Take Two and Rockstar, but nothing to announce on my end at this time.â One former Rockstar open-world designer recently expressed doubt about the feasibility of GTA 6 coming to Nintendoâs platform. JÃ©rÃ©my Hartvick told the Kiwi Talkz podcast : “I don’t believe it even makes sense, because I’m not sure the audience for GTA 6 is the audience for Switch . If you’re a GTA fan, you would probably buy a console on which GTA will come out.â He added: “Does it make sense for you to go out of your way to probably deliver a subpar experience, because it does not run exactly the same when you know anyone will buy a PS5 to get your game?â Nintendo has seen a roster of mature-rated games released for Switch 2, including Cyberpunk 2077 , Resident Evil Requiem, and Elden Ring , partly facilitated by the systemâs increased power over its predecessor. In the coming months, Call of Duty: Modern Warfare 4 , Kingdom Come: Deliverance, and others are due to release. Rockstar parent Take-Two has supported the platform with versions of Civilization VII and NBA 2K26, while Rockstar released a port of Red Dead Redemption late last year. Earlier this week, Rockstar shared the first information on the radio stations in Grand Theft Auto 6. Six of the stations in the game have been revealed, and users can listen to previews from each station now on the Grand Theft Auto 6 website . The much-anticipated open-world sequel also suffered yet another significant gameplay leak, after the group âCyberleekâ posted a 25-minute video showing a variety of footage from GTA 6, much of which consists of heavy nudity.",
-          "image": "https://www.videogameschronicle.com/files/2026/10/gta6switch2.jpg"
+          "text": "The game has also received a permanent price drop Sega has announced the details for Year 2 of Sonic Racing Crossworld’s DLC content, as well as a permanent price drop for the base game. As with the Year 1 content, Year 2 will consist of six paid crossover packs, as well as regular monthly free content. The game’s Year 2 season officially starts on November 3, with the first paid crossover pack based on Godzilla . This will include a new track in which Godzilla attacks the City Escape level from Sonic Adventure 2, as well as three new vehicles based on Godzilla, Mothra and King Ghidorah. Sega had already previously confirmed that Year 2 would also include a paid DLC pack based on Evangelion , but it’s now confirmed what the other four packs will be. Pack 3 will called Virtual Sanrio Puroland Pack , and will include a track based on the Sanrio Puroland theme park in Japan, as well as Hello Kitty and Kuromi as playable racers. Pack 4 is the Segaland Pack , and includes a new track based on classic Sega games, as well as three new vehicles based on Sega’s Out Run, After Butner and Super Megalo arcade cabinets. DLC Pack 5 has a working title of Midgar Pack , and will include crossover content from the Final Fantasy 7 Remake series. The details of this pack have still to be confirmed. Similarly, DLC Pack 6 is titled the Reload Revival Royal Pack and will include content from the Persona games, which has also still to be confirmed. In terms of free content, the first free DLC character for Year 2 will be added when the season starts on November 3, as Bayonetta arrives. She will be unlockable in a new Rival Duel mode. She’ll be followed later in November by the McLaren Racing DLC, which adds a McLaren F1 car to the game as well as a new Sonic wearing a McLaren suit. Then, in early 2027, Aigis from Persona 3 Reload will be added to the game, along with a car called the Palladion Dressy. Year 2’s paid DLC will be available individually, or available in a Season Pass for $29.99. Players who buy the Season Pass will get access to Genesis, Saturn and Dreamcast controller decal packs now, as well as vehicles based on each console when Year 2 launches on November 3. Players who own both Season Pass 1 and Season Pass 2 will also get Super Shadow and his Super Dark Flare vehicle as an extra bonus. For players new to the game, Sega has also announced a permanent price drop. Effective immediately, the Standard Edition has dropped from $70 to $40, and the Digital Deluxe Edition (which includes all the Year 1 content) has dropped from $90 to $60.",
+          "image": "https://www.videogameschronicle.com/files/2026/10/sonic-racing-crossworlds.jpg"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/sonic-the-hedgehog/final-fantasy-7-remake-persona-godzilla-hello-kitty-and-bayonetta-join-the-increasingly-bonkers-roadmap-for-sonic-racing-crossworlds-dlc/",
+          "title": "Final Fantasy 7 Remake, Persona join the increasingly bonkers roadmap for Sonic Racing Crossworlds",
+          "published_at": "2026-10-10T12:29:59+00:00",
+          "kind": "press",
+          "text": "Sonic Racing: Crossworlds already has a pretty hectic lineup of characters, but Sega 's Year Two DLC roadmap takes things one step further. The Final Fantasy 7 Remake series, Persona, Godzilla, Hello Kitty, Bayonetta, Evangelion, the Dreamcast itself, and much more are all coming to the well-liked kart racer before the end of 2027. Sonic's most recent and surprisingly great take on kart racing is no stranger to bonkers crossovers. The game's first year of post-launch content welcomed everybody from Spongebob Squarepants and Minecraft Steve to Yakuza's Ichiban Kasuga, but Sega's one-upped itself with Year Two. Year Two includes free content drops throughout 2027, alongside a paid Season Two Pass with exclusive goodies. The free content starts with monster-spanking icon Bayonetta joining the roster, alongside a kart inspired by McLaren and Persona 3's Aigis coming between November and March of next year. The paid Season Two kicks off with a Godzilla collaboration on day one (November 3), bringing karts based on popular kaiju and a track that features our beloved, radioactive 'zilla causing chaos throughout a city. Evangelion is up next with playable characters Asuka Shikinami Langley and Rei Ayanami, plus new karts and a track. Sometime after, we can look forward to playing as Hello Kitty and Kuromi in a course that's inspired by the wider Sanrio universe (if you have a favorite friend, there's a good chance they've been hidden somewhere in the background of the track.) Taking a break from crossovers, the Segaland pack goes back in time with a course that pays tribute to Sega's entire history, arcade classics and home consoles included. Sega's also introducing three karts based on classic arcade cabinets (Outrun, After Burner, and Super Megalo) and three karts based on its consoles (Genesis, Saturn, and Dreamcast), alongside a bonus Super Shadow racer for owners of both Season Passes. And, finally, the Year Two Season Pass ends with two big hitters. A Final Fantasy 7 Remake collaboration is on the way, but all Sega had to show was Cloud's Buster Sword sitting alongside a generic ring from the Sonic series. No word on what this collab includes, exactly. The other pack comes from the Reload Revival Royal pack, which presumably features characters and/or stages from all three modern Persona games. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Despite Sega's Mario Kart World shade, rival racer Sonic Racing: CrossWorlds has \"fallen short\" of expectations, and compared to Nintendo's sales I can see why Kaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/QRzLQ9bPsnGC8LCSLFbgsS-1920-80.png"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/news/sonic-racing-crossworlds-persona-ffvii-ano-2/",
+          "title": "Sonic Racing: CrossWorlds terá Persona e Final Fantasy VII Remake no Ano 2",
+          "published_at": "2026-10-10T15:29:46+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Sonic-Racing-CrossWorlds.jpg"
         }
       ]
     },
@@ -363,78 +315,6 @@
           "kind": "press",
           "text": "",
           "image": ""
-        }
-      ]
-    },
-    {
-      "story_id": "40949e934aa1d638",
-      "title": "O verdadeiro charme de Phantom Blade Zero são as boss fights",
-      "summary": "Desafios equilibrados, mas totalmente memoráveis, batalhas especiais colocam a experiência da S-Game em uma prateleira acima",
-      "owners": [
-        "keleops",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "b035692e00c32c48",
-        "ba8dc8897ba42cd7"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/especiais/phantom-blade-zero-boss-fightes/",
-          "title": "O verdadeiro charme de Phantom Blade Zero são as boss fights",
-          "published_at": "2026-10-09T00:02:47+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2024/10/Phantom-Blade-Zero-2.jpg"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/phantom-blade-zeros-fast-paced-action-took-15-years-two-rpg-maker-games-and-a-whole-lot-of-money-to-bring-to-life-2000743230",
-          "title": "Phantom Blade Zero’s Fast-Paced Action Took 15 Years, Two RPG-Maker Games, And A Whole Lot Of Money To Bring To Life",
-          "published_at": "2026-10-09T13:15:08+00:00",
-          "kind": "press",
-          "text": "Action-RPG Phantom Blade Zero S-GAME Studio Iâve been tracking the release of Phantom Blade Zero for several years now, playing the game multiple times over the course of three years, from demos that felt like little more than vertical slices all the way to a multi-hour hands-on at Gamescom this year. For a time, it felt like the game had come out of nowhere; Iâd never encountered Chinese developer S-Gameâs previous titles, and assumed they were never released outside of the country. However, it turns out I simply wasnât paying attention, and Phantom Blade Zero is part of a franchise known as Rainblood thatâs over 15 years old and features a longtime series protagonist who has only so many days to live, while the games themselves have sought to create their own new genre and style. Across 2010 and 2011, two Rainblood games were released, with only the first making it to the West via a fan translation apparently approved by the developer, S-Game CEO Qiwei âSoulframeâ Liang, and being sold on fan sites. These titles are turn-based RPGs set in the same world as Phantom Blade , and seem to share almost no gameplay DNA with the upcoming triple-A game. In 2013, they were followed up by Rain Blood Chronicles: Mirage (yes, Rain Blood is two words now), a Unity-powered hack-and-slash 2D brawler which did actually make its way to Steam and consolesâthough the Xbox and PlayStation versions now seem to be delisted. All three of these games are noticeably unpolished, but make up for it with their striking, dark and twisted interpretation of the Ming Dynasty. Following Mirage , S-game published three China-exclusive mobile games. Then in May 2023, Phantom Blade Zero , a big-budget 3D action game, was announced, followed by the release of Phantom Blade: Executioners in November, a 2D beat âem up which came out on PS4, PS5, and mobile, though again the console ports seem to have been pulled. Both of these games share commonalities with Soulframeâs earlier releases, most notably a recurring motif of crimson blades wielded by the protagonist that stand out in the often grim and grey world; however, these games feel noticeably small compared to a triple-A game featuring Donnie Yen. All this leads to the question: Where did the exponential increase in fidelity and scope come from? The short answer, via a machine-translated article in Chinese publication ChuApp , seems to be âTencent.â Following the completion of rounds of funding from NetEase and the Chinese venture capital firm ZhenFund, Soulframe disclosed in an open letter in 2021 that Lingyou Fangâor, as it’s called in the West, S-Gameâârecently completed a round of financing on the scale of hundreds of millions of dollarsâ from the Chinese mega-corp for two large-scale action RPGs over the next five years. While the second of these projects, âStellar Saga,â is still MIA, the other is the continuation of Soulframeâs long-running series. Which all brings us to now, and my four-ish hours with Phantom Blade Zero . Something that I have noted in my previous time with this game is that while it bears some surface-level similarities to the assortment of Chinese-developed Souls -inspired games like Black Myth: Wukong and Wuchang: Fallen Feathers , in practice it plays closer to a hybrid of Sekiro and Devil May Cry, fusing elements of the formerâs fast, stagger-focused combat with the latterâs stylish action-game sensibilities. This design ethos is best showcased in how the stamina bar functions. Oftentimes in games that seek to offer a faster version of a typical Souls -like combat system, I find myself frustrated by the fact that I can combo chains of attacks with flashy animations, but because each swing of the sword eats away at my stamina bar, I often find myself incapable of extricating myself from enemies’ ripostes. Phantom Blade addresses this, as your stamina doesnât go down when attacking or successfully blocking, only when dodging or attempting to block certain color-coded attacks. Moreover, your light attacks do not take animation priority over all other inputs, meaning that if you start a swing only to realize a boss will strike you first, you can quickly hit block mid-attack to protect yourself. This focus on offensive combat over a muddled mix of Souls -ish turtling, stamina regen, and protracted combos instantly makes Phantom Blade both more intuitive than some of its closest contemporaries and more compelling and cohesive. The design seems to be less focused on finding ways to force wuxia into a Souls game and more focused on creating a combat system purpose-built to highlight both the flow and speed of wuxia media, resulting in something I find infinitely more interesting and rewarding. Phantom Blade âs free-flowing combat focuses on 30 primary weapons, each with its own unique moveset and properties, and 25 secondary weapons, some of which, like axes, grant you heavy charge attacks while others, like mini-cannons, are slow-firing ranged weapons. You can equip two primary weapons at a time, keeping one off-hand and ready to go; however, while you can simply swap to your other primary by hitting the D-pad, you can also work it into a combo with the left trigger. This system is interesting because the combo-weapon-change both deal a lot of damage and stagger to enemies but is also on a cooldown, meaning that if you get into a good flow dealing with a boss with a longsword, comboing away from it to your dual-blades might not actually be the best move. While the combat of Phantom Blade Zero feels distinctly un-Soulslike, the same cannot be said for the world. The press release for the game highlights that Phantom Blade âs interconnected world is âinspired by Soulslike map design.â In lieu of a traditional, highly detailed video game map, youâre instead provided with hand-painted, ink washâstyle charts of the area painted on Xuan paper and scanned into the game. This more abstract map is paire",
-          "image": "https://kotaku.com/app/uploads/2026/10/phantom-blade-0-header.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "7a08b6cc3352f25f",
-      "title": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’ launches October 21",
-      "summary": "The version 3.3 update for Zenless Zone Zero, dubbed “Journey to the Sky,” will launch …",
-      "owners": [
-        "gematsu",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "e1cf069bfb6785e3",
-        "5e123095524f96e2"
-      ],
-      "sources": [
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/10/zenless-zone-zero-version-3-3-update-journey-to-the-sky-launches-october-21",
-          "title": "Zenless Zone Zero version 3.3 update ‘Journey to the Sky’ launches October 21",
-          "published_at": "2026-10-09T12:55:35+00:00",
-          "kind": "press",
-          "text": "The version 3.3 update for Zenless Zone Zero , dubbed “Journey to the Sky,” will launch on October 21, developer miHoYo announced. Here is an overview of the update, via miHoYo: S-Rank Anomaly Agent Phoenix will make her debut in the first half, followed by S-Rank Attack Agent Severian in the second half. The new version also introduces brand-new mech combat gameplay, allowing Proxies to pilot combat mechs to infiltrate enemy bases in disguise and experience a fresh combat style combining melee and ranged action. In Version 3.3’s main story, the conflict over the sky island of Roscaelifer reaches a new peak: traffic to the entire island of Booastrum is locked down, and the only way to get back in is through the occupied skyport—Quietude Isle. Forced to travel together, can Judge Phoenix and Commissioner Severian put their differences aside and truly join forces? The Proxy will also touch down on the island alongside Lindverne, inching ever closer to the truth behind the three Sunbringers and the Karma Cores within them. S-Rank Fire Anomaly Agent Phoenix is Krampus Compliance Authority’s second-in-command when it comes to combat. Thanks to her unique physique, she is extremely hard to bring down—the fiercer her opponents resist, the more her fighting spirit is fired up. Her Core Skill, Nirvana, can sear enemies afflicted by an Anomaly, allowing subsequent Anomaly DMG dealt to them to trigger a critical hit. Even if she suffers a fatal strike, Phoenix won’t be put out of commission. Instead, she can trigger Rebirth to revive on the spot with full health and jump right back into the fray. Phoenix will make her debut in the first half alongside the S-Rank W-Engine, Plume of Rebirth. Dropping in for the second half is S-Rank Wind Attack Agent Severian, a senior commissioner at New Eridu Public Security who won’t hesitate to use necessary violence to uphold true order. His Core Skill, Endless Breeze, allows him to automatically dodge an incoming attack and ride the momentum to launch a counterattack. After a successful dodge or hitting enemies with a specific skill, he can build up Energy to unleash even more powerful continuous slashes. He will debut alongside the S-Rank W-Engine, Incarcerating Grip. As for reruns, S-Rank Agent Velina and the W-Engine Joyau Dore will be making a comeback in the first half, while Norma and the W-Engine Chief Sidekick will return in the second half. In terms of outfits, you can purchase Phoenix’s two brand-new outfits as a bundle at a limited-time 30% discount. Severian’s everyday uniform, Solemnly Impeccable, will also hit the store when his Signal Search channel becomes available in the second half of the version. The new update also brings fresh avatars, dynamic wallpapers, and trust events for both Agents. Plus, the all-new sidebar theme and pendant dropping in Version 3.3 can be claimed through the in-game New Eridu City Fund. As for version events, businesses in Lumina Square are teaming up to host the “Night of Supernatural Tricks” event, and the HIA Club is rolling out a brand-new VR game, “Spooky Funhouse Tales”. Proxies can drive various styles of Trickmobiles and scare away uninvited funhouse guests, obtaining rewards such as an Angels of Delusion outfit, a brand-new A-Rank W-Engine, and fresh Proxy accessories. Additionally, in the “Cyber Miracle Healer, on Duty!” event, Proxies will need to flex their cyber miracle healer skills once more to fix Bangboo that have gone haywire after accidentally eating “toxic” chips. In the “Trails of the Hobbling Crow” event, Proxies have to track down the culprit who attacked Crowe, and in “Repair! Drifting Art,” they must piece together painting fragments lost at sea. Of course, the familiar Area Patrol and Combat Simulation double-drop events will also make their return. In terms of gameplay, Version 3.3’s Main Story will deliver a brand-new mech combat experience. In the story, Lindverne will use her Karma Core power, “Genesis Reconstruction,” to create multiple High Ambitions Corp. combat mechs, which Proxies can then pilot to engage in combat with enemies. The mechs feature both melee and ranged attack modes that can be freely swapped. Furthermore, after using an EX Special Attack or dodging enemy attacks, you can unleash an even more powerful laser attack. Using the environment to shoot explosives or throwing heavy punches to launch heavy objects will make combat and puzzle-solving much smoother. This gameplay will continue to be available in future versions. Additionally, the permanent Hollow exploration, combat, and extraction mode, Enigma of the Labyrinth, is getting a seasonal update titled Spooky Trial. A Devilboo instructor who calls himself Master Devil will issue a three-round progressive challenge to Proxies. The Candle Cores obtained during the trials can be sold for the best price by comparing offers across shops owned by your friends or Outpost group members. Version 3.3 also introduces a couple of system experience optimizations: Fairy will begin providing a team recommendation function, which recommends team lineups, strategies, and basic operational briefs tailored to a Proxy’s existing roster. The team lineups can also be applied to a preset config with a single click. Also, exclusive tutorial videos will be included for some Agents to help Proxies master them faster. During the Squad Configuration phase of certain permanent combat modes, the system will offer challenge tips based on the number of deployed squad members, enhancement progress, and team synergy. Proxies can also jump straight to the relevant guide with a single click. Additionally, Inter-Knot Reputation promotion benefits are displayed more intuitively, and the system will provide guidance or promotion reminders based on your Inter-Knot level and promotion progress. Furthermore, Proxies can claim a total of 10 Encrypted Master Tapes and 10 Boopons from the new version’s check-in events. Zenless Zone Zero is available now for Pl",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Zenless-Zone-Zero_2026_10-09-26_021.jpg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/news/zenless-zone-zero-update-3-3-21-de-outubro/",
-          "title": "Zenless Zone Zero: update 3.3 será lançado em 21 de outubro",
-          "published_at": "2026-10-09T17:33:44+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/10/Zenless-Zone-Zero.jpg"
         }
       ]
     }
