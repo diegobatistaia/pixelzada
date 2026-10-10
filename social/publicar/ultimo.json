@@ -1,78 +1,26 @@
 {
   "pedido": {
-    "acao": "conferir"
+    "acao": "carrossel",
+    "slug": "charlie-cox-jogo-sega-sem-nome",
+    "horario": "14:00",
+    "data": "2026-10-10",
+    "estilo": "figurinha",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-10T14:02:07-03:00",
+  "em": "2026-10-10T14:06:51-03:00",
   "ok": true,
-  "ultimos": [
-    {
-      "quando": "2026-10-10T15:10:13+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeUX4xSIIjr/",
-      "inicio": "A Rockstar mostrou seis rádios de GTA 6 e dá para ouvir trechos de cerca de dois minutos n"
-    },
-    {
-      "quando": "2026-10-10T14:21:44+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DeUSTCFD68_/",
-      "inicio": "Liberando espaço pro GTA 6 😭 Qual jogo você apagaria primeiro? Comenta aí 👇"
-    },
-    {
-      "quando": "2026-10-10T13:10:30+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeUKMEgG9BK/",
-      "inicio": "Dave the Diver vai ganhar uma expansão grátis inspirada em Subnautica 2, a última grande d"
-    },
-    {
-      "quando": "2026-10-10T11:09:55+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeT8Y5Jlkvq/",
-      "inicio": "Faltam 40 dias para GTA 6, e dá para separar o que é fato do que ainda é papo."
-    },
-    {
-      "quando": "2026-10-10T00:10:00+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeSw3VeIz9Q/",
-      "inicio": "Gears of War: E-Day teria vendido 230 mil cópias, segundo a Alinea, mas a Microsoft não co"
-    },
-    {
-      "quando": "2026-10-09T23:22:17+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DeSrX3lgLut/",
-      "inicio": "Battlefield REDSEC com Rapid Royale: partida rápida, caos total 💥 Marca o esquadrão que ia"
-    },
-    {
-      "quando": "2026-10-09T21:15:14+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeSc3MVo7E0/",
-      "inicio": "Cyberpunk 2077 vai ganhar um filme live-action na Paramount, segundo o Deadline, com a CD "
-    },
-    {
-      "quando": "2026-10-09T21:13:19+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeScpYJiaod/",
-      "inicio": "Seis rádios de GTA 6 já têm DJ e estilo definidos, segundo a Rockstar. Veja quem fala em c"
-    },
-    {
-      "quando": "2026-10-09T17:09:34+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeSAwLPlAjO/",
-      "inicio": "A Xbox criou a divisão XP, para filmes, séries, produtos, parcerias e parques, com Kayleen"
-    },
-    {
-      "quando": "2026-10-09T15:10:34+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DeRzIjDG2Fp/",
-      "inicio": "GTA 6 terá rádio a pé e podcasts sob demanda, e a Rockstar já mostrou seis estações."
-    }
-  ],
-  "cota": [
-    {
-      "quota_usage": 14,
-      "config": {
-        "quota_total": 100,
-        "quota_duration": 86400
-      }
-    }
-  ]
+  "media_id": "17947309554341398",
+  "permalink": "https://www.instagram.com/p/DeUlS_YkRTT/",
+  "story": {
+    "em": "2026-10-10T14:07:26-03:00",
+    "media_id": "18131108449761662"
+  },
+  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
