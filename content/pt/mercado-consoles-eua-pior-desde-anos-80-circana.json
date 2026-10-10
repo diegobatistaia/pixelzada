@@ -109,7 +109,9 @@
     "query": "PS5 Xbox Series X consoles",
     "alt": "Montagem com os consoles PlayStation 5 e Xbox Series X lado a lado",
     "url": "https://www.videogameschronicle.com/files/2021/11/PS5-and-Xbox-Series-X-split.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/mercado-consoles-eua-pior-desde-anos-80--e5bbf846.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -131,5 +133,7 @@
       "title": "US console hardware market at its most precarious position since the 80s, says Circana"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-10T15:40:24+00:00",
+  "updated_at": "2026-10-10T15:40:24+00:00"
 }

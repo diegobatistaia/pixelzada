@@ -113,7 +113,9 @@
     "query": "GTA 6 Switch 2",
     "alt": "Imagem de divulgação de GTA 6 mostrando Jason e Lucia, protagonistas do jogo da Rockstar",
     "url": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/gta-6-switch-2-nintendo-diz-perguntem-ro-950656de.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -135,5 +137,7 @@
       "title": "Will GTA 6 make its way to Switch 2? Nintendo isn't saying"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-10T15:40:24+00:00",
+  "updated_at": "2026-10-10T15:40:24+00:00"
 }
