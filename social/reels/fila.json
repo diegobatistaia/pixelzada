@@ -59,10 +59,15 @@
     "slug": "ultima-volta-gta5",
     "data": "2026-10-10",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Faixa",
     "legenda": "Dia 18 de novembro, uma última volta no GTA 5. Temos um acordo? 🚗 Manda pro parça da última volta antes do GTA 6.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta5 #gta6 #gtavi #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-10T20:36:36-03:00",
+      "media_id": "18099674723366911",
+      "permalink": "https://www.instagram.com/reel/DeVR4ZSCFl0/"
+    }
   },
   {
     "slug": "te-vejo-amanha",
