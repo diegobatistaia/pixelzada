@@ -1,0 +1,85 @@
+{
+  "tipo": "checagem",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-switch-2-nintendo-diz-perguntem-rockstar",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/10/gta6switch2.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Kotaku, VGC e Insider Gaming",
+  "capa": {
+    "titulo": "GTA 6 vai sair no Switch 2? A Nintendo respondeu",
+    "destaque": "Switch 2",
+    "apoio": "Resposta curta: pergunta pra Rockstar. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato e buraco",
+      "destaque": "buraco",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Lançamento só em PS5 e Xbox Series"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Nintendo diz que não tem nada a anunciar"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Versão para Switch 2"
+        },
+        {
+          "selo": "boato",
+          "texto": "Conversas de bastidor, segundo insiders"
+        }
+      ]
+    },
+    {
+      "rotulo": "A resposta",
+      "titulo": "Pergunte à Rockstar",
+      "destaque": "Rockstar",
+      "texto": [
+        "Devon Pritchard, presidente da Nintendo of America, disse à Variety que é uma **conversa para a Take-Two e a Rockstar**.",
+        "Ela completou que não há nada para anunciar, segundo Kotaku e VGC."
+      ]
+    },
+    {
+      "rotulo": "Contexto",
+      "titulo": "Rockstar já esteve lá",
+      "destaque": "lá",
+      "texto": [
+        "A Rockstar lançou Red Dead Redemption para o Switch no fim do ano passado, de acordo com o VGC.",
+        "A trilogia remasterizada de GTA saiu no Switch em 2022."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga só no Switch 2",
+  "legenda": {
+    "gancho": "GTA 6 no Switch 2 segue sem anúncio: a presidente da Nintendo of America mandou a pergunta para a Rockstar.",
+    "corpo": [
+      "Em entrevista à Variety, Devon Pritchard disse que a conversa é entre Take-Two e Rockstar e que não tem nada a anunciar, segundo Kotaku, VGC e Insider Gaming.",
+      "O lançamento de GTA 6, em 19 de novembro, é para PS5 e Xbox Series X/S. Conversas de bastidor citadas por insiders não foram confirmadas."
+    ],
+    "chamada": "Você jogaria GTA 6 no Switch 2?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#switch2",
+      "#nintendo"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 vai sair no Switch 2? A Nintendo respondeu",
+    "Slide 2: Só PS5 e Xbox Series, sem anúncio para Switch 2",
+    "Slide 3: Nintendo diz que a conversa é com a Rockstar",
+    "Slide 4: Rockstar já lançou jogos no Switch",
+    "Slide 5: Manda pro amigo que joga só no Switch 2"
+  ],
+  "slug": "gta-6-switch-2-nintendo-nada-a-anunciar",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

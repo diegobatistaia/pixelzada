@@ -1,0 +1,89 @@
+{
+  "tipo": "noticia",
+  "assunto": "Circana",
+  "gta6": false,
+  "materia": "mercado-consoles-eua-pior-desde-anos-80-circana",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/PS5-ram.jpg",
+    "credito": "Divulgação",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar, Eurogamer e VGC",
+  "capa": {
+    "titulo": "Mercado de consoles nos EUA está no pior ponto desde os anos 80",
+    "destaque": "pior ponto",
+    "apoio": "Xbox e PlayStation vendem menos e mais caro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Os números",
+      "titulo": "Vendas caindo, preço subindo",
+      "destaque": "caindo",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Xbox: vendas 33% menores até agosto"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "PlayStation: vendas 25% menores"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Xbox novo custa em média US$ 529"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "PlayStation custa em média US$ 597"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Efeito de GTA 6 em novembro"
+        }
+      ]
+    },
+    {
+      "rotulo": "A causa",
+      "titulo": "Memória em falta",
+      "destaque": "Memória",
+      "texto": [
+        "A alta de preço vem em boa parte da **falta de memória**, usada por data centers de IA, segundo VGC e GamesRadar.",
+        "Os dados são da Circana e valem para os Estados Unidos."
+      ]
+    },
+    {
+      "rotulo": "GTA 6",
+      "titulo": "Ajuda, mas depende",
+      "destaque": "depende",
+      "texto": [
+        "O analista Mat Piscatella diz que o lançamento de novembro pode ajudar.",
+        "O efeito **depende de estoque e de preço**, segundo a Circana."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que está esperando o console baixar",
+  "legenda": {
+    "gancho": "O mercado de consoles nos EUA não estava tão frágil desde o início dos anos 80, segundo a Circana.",
+    "corpo": [
+      "Segundo o analista Mat Piscatella, as vendas de Xbox caíram 33% e as de PlayStation, 25%, no acumulado de 2026 até agosto nos Estados Unidos, de acordo com GamesRadar, Eurogamer e VGC.",
+      "Os preços médios pagos subiram para US$ 529 no Xbox e US$ 597 no PlayStation. Os dados são dos EUA, e não do Brasil."
+    ],
+    "chamada": "Você pretende comprar console antes de GTA 6?",
+    "hashtags": [
+      "#pixelzada",
+      "#xbox",
+      "#playstation",
+      "#gta6"
+    ]
+  },
+  "alt": [
+    "Slide 1: Mercado de consoles nos EUA está no pior ponto desde os anos 80",
+    "Slide 2: Vendas de Xbox e PlayStation caindo e preço médio subindo",
+    "Slide 3: Memória em falta pressiona o preço",
+    "Slide 4: GTA 6 pode ajudar, mas depende de estoque",
+    "Slide 5: Manda pro amigo que está esperando o console baixar"
+  ],
+  "slug": "mercado-consoles-eua-pior-desde-anos-80",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}
