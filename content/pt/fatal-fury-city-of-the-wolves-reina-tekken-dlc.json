@@ -126,7 +126,9 @@
     "query": "Fatal Fury City of the Wolves Reina",
     "alt": "Arte de divulgação de Fatal Fury: City of the Wolves com Reina, lutadora de Tekken, como personagem de DLC",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/FF-CotW-DLC_10-09-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/fatal-fury-city-of-the-wolves-reina-tekk-b92cf4d7.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -142,5 +144,7 @@
       "title": "Fatal Fury: City of the Wolves: Reina, de Tekken 8, confirmada como lutadora de DLC"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-10T10:41:46+00:00",
+  "updated_at": "2026-10-10T10:41:46+00:00"
 }

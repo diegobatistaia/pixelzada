@@ -110,7 +110,9 @@
     "query": "Charlie Cox Clair Obscur Expedition 33",
     "alt": "Imagem de divulgação de Clair Obscur: Expedition 33, jogo em que Charlie Cox deu voz ao protagonista Gustave",
     "url": "https://kotaku.com/app/uploads/2025/06/0abeb34b62f840157ca35d399a8c4bc2-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/charlie-cox-jogo-sega-40-horas-dialogos-2ef56856.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -126,5 +128,7 @@
       "title": "Charlie Cox reveals he's already recorded 40 hours of lines for a surprise Sega game"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-10T10:41:46+00:00",
+  "updated_at": "2026-10-10T10:41:46+00:00"
 }

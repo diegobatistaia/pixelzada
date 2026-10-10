@@ -118,7 +118,9 @@
     "query": "Ghost of Tsushima Legends anime",
     "alt": "Arte do anime Ghost of Tsushima Legends, adaptação do modo multiplayer do jogo da Sucker Punch",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/Ghost-of-Tsushima-Legends-Anime_10-08-26_Top.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/ghost-of-tsushima-legends-anime-adiado-2-0c712387.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -134,5 +136,7 @@
       "title": "Ghost of Tsushima anime arrives in 2028 as OG game actor joins cast"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-10T10:41:46+00:00",
+  "updated_at": "2026-10-10T10:41:46+00:00"
 }
