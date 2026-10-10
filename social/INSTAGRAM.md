@@ -12,7 +12,7 @@ sem pauta de GTA 6 pega outro jogo; horário de outro jogo só usa GTA 6 se sobr
 
 ## Reels de vídeo (a gaveta)
 
-Além dos carrosséis, saem **3 Reels por dia, às 11h, 15h30 e 20h**, de vídeos já
+Além dos carrosséis, saem **4 Reels por dia, às 11h, 13h, 15h30 e 20h**, de vídeos já
 prontos na identidade visual (montados pelo Claude a partir do que o Diego
 envia). A fila é `social/reels/fila.json` (data, horário, legenda, estilo) e os
 vídeos ficam em `social/reels/videos/<slug>.mp4` + `<slug>.jpg` (capa). O
