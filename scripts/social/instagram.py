@@ -303,9 +303,30 @@ def publicar_carrossel(p: dict, pedido: dict, ig: str, token: str) -> dict:
         esperar(c, token)
     car = call("POST", f"{ig}/media", token, media_type="CAROUSEL", children=",".join(filhos), caption=P.legenda(p))
     esperar(car["id"], token)
-    pub = call("POST", f"{ig}/media_publish", token, creation_id=car["id"])
+    try:
+        pub = call("POST", f"{ig}/media_publish", token, creation_id=car["id"])
+    except ApiError as e:
+        # O Instagram às vezes devolve 403 (2207051) e publica mesmo assim: antes de dar por
+        # falho, procura o post pela legenda entre os últimos da conta.
+        achado = _ja_publicado(P.legenda(p), ig, token)
+        if not achado:
+            raise
+        print(f"AVISO: media_publish deu erro, mas o post já está no ar: {achado['permalink']} ({e})")
+        return {"media_id": achado["id"], "permalink": achado["permalink"]}
     info = call("GET", pub["id"], token, fields="permalink")
     return {"media_id": pub["id"], "permalink": info.get("permalink")}
+
+
+def _ja_publicado(legenda: str, ig: str, token: str) -> dict | None:
+    try:
+        recentes = call("GET", f"{ig}/media", token, fields="caption,permalink,timestamp", limit=10).get("data", [])
+    except ApiError:
+        return None
+    inicio = legenda.strip()[:80]
+    for m in recentes:
+        if (m.get("caption") or "").strip().startswith(inicio):
+            return m
+    return None
 
 
 def publicar_story(p: dict, pedido: dict, ig: str, token: str) -> dict:
