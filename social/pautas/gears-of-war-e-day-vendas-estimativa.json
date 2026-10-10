@@ -82,5 +82,17 @@
     "Slide 4: Veredito: pista, não balanço oficial",
     "Slide 5: Manda pro amigo que jura que sabe quanto vendeu"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-10-09",
+    "horario": "21:00",
+    "em": "2026-10-09T21:09:21-03:00",
+    "estilo": "plantao",
+    "media_id": "17912782977284635",
+    "permalink": "https://www.instagram.com/p/DeSw3VeIz9Q/"
+  },
+  "story": {
+    "em": "2026-10-09T21:10:06-03:00",
+    "media_id": "18098867153425588"
+  }
 }
