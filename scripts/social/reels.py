@@ -125,12 +125,22 @@ def cmd_publicar(args) -> int:
         c = IG.call("POST", f"{ig}/media", token, media_type="REELS", video_url=video, cover_url=capa,
                     caption=item["legenda"], share_to_feed="true")
         IG.esperar(c["id"], token, tentativas=60, pausa=10)
-        pub = IG.call("POST", f"{ig}/media_publish", token, creation_id=c["id"])
+        permalink = None
+        try:
+            pub = IG.call("POST", f"{ig}/media_publish", token, creation_id=c["id"])
+        except IG.ApiError as e:
+            # O Instagram às vezes devolve 403 (2207051) e publica mesmo assim: antes de dar por
+            # falho (e tentar de novo, duplicando o Reel), procura o post pela legenda.
+            achado = IG._ja_publicado(item["legenda"], ig, token)
+            if not achado:
+                raise
+            print(f"AVISO: media_publish deu erro, mas o Reel já está no ar: {achado['permalink']} ({e})")
+            pub, permalink = {"id": achado["id"]}, achado.get("permalink")
         # Grava já: se o resto falhar, o Reel não sai de novo.
         item.update(status="publicado", publicado={"em": t, "media_id": pub["id"]})
         salvar(fila)
         try:
-            item["publicado"]["permalink"] = IG.call("GET", pub["id"], token, fields="permalink").get("permalink")
+            item["publicado"]["permalink"] = permalink or IG.call("GET", pub["id"], token, fields="permalink").get("permalink")
         except IG.ApiError as e:
             print(f"AVISO: sem o link do Reel: {e}")
         salvar(fila)
