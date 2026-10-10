@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "charlie-cox-jogo-sega-sem-nome",
-    "horario": "14:00",
-    "data": "2026-10-10",
-    "estilo": "figurinha",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "casais-dia-18",
+    "pasta": "reel-casais-dia-18",
+    "horario": "13:00",
+    "data": "2026-10-10"
   },
-  "em": "2026-10-10T14:06:51-03:00",
+  "em": "2026-10-10T14:52:52-03:00",
   "ok": true,
-  "media_id": "17947309554341398",
-  "permalink": "https://www.instagram.com/p/DeUlS_YkRTT/",
-  "story": {
-    "em": "2026-10-10T14:07:26-03:00",
-    "media_id": "18131108449761662"
-  },
+  "media_id": "17990685741100386",
+  "permalink": "https://www.instagram.com/reel/DeUql5aALQo/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }

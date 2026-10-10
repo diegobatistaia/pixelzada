@@ -31,10 +31,15 @@
     "slug": "casais-dia-18",
     "data": "2026-10-10",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Polaroid",
     "legenda": "Casais indo dormir dia 18 de novembro 😴➡️🎮 Marca quem vai te trocar pelo GTA 6 à meia-noite.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-10T14:52:52-03:00",
+      "media_id": "17990685741100386",
+      "permalink": "https://www.instagram.com/reel/DeUql5aALQo/"
+    }
   },
   {
     "slug": "gta6-no-pc",
