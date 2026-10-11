@@ -120,7 +120,9 @@
     "query": "Amanda the Adventurer",
     "alt": "Imagem de Amanda the Adventurer, jogo de terror indie da DreadXP que vai virar filme",
     "url": "https://kotaku.com/app/uploads/2026/10/amandatheadventurer.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/amanda-the-adventurer-filme-blumhouse-ma-07469770.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -136,5 +138,7 @@
       "title": "MatPat and Blumhouse Productions collaborating on Amanda the Adventurer movie"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-11T10:40:33+00:00",
+  "updated_at": "2026-10-11T10:40:33+00:00"
 }
