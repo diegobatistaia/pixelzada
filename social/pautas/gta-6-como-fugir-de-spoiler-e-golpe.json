@@ -1,0 +1,88 @@
+{
+  "tipo": "guia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-cyberleek-ameaca-build-completa-30-milhoes",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Eurogamer, GamesRadar e Polygon",
+  "capa": {
+    "titulo": "GTA 6: como fugir de spoiler e golpe",
+    "destaque": "spoiler",
+    "apoio": "Um vazador ameaçou soltar uma build. O que fazer. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que aconteceu",
+      "titulo": "Vazador faz nova ameaça",
+      "destaque": "ameaça",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Cyberleek ameaça soltar uma build completa"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Condição: moeda dele chegar a US$ 30 milhões"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Se ele tem mesmo a build completa"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Resposta da Rockstar à ameaça"
+        }
+      ]
+    },
+    {
+      "rotulo": "Passo a passo",
+      "titulo": "Como se proteger",
+      "destaque": "proteger",
+      "passos": [
+        "Silencie as palavras GTA 6 e vazamento nas redes",
+        "Não clique em links de suposta build ou download",
+        "Não compre a moeda do vazador, ela é vista como golpe",
+        "Confie só no site e nas redes oficiais da Rockstar",
+        "Desconfie de qualquer download que prometa o jogo"
+      ]
+    },
+    {
+      "rotulo": "Oficial",
+      "titulo": "Data segue mantida",
+      "destaque": "Data",
+      "texto": [
+        "A Rockstar manteve **19 de novembro** como data de lançamento, segundo a IGN.",
+        "A empresa já chamou os vazamentos de **de partir o coração** para a equipe."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que clica em tudo",
+  "legenda": {
+    "gancho": "Um vazador ameaçou soltar uma build de GTA 6 e vale se proteger de spoiler e golpe.",
+    "corpo": [
+      "O Cyberleek diz que libera uma build se a moeda dele chegar a US$ 30 milhões, segundo Eurogamer, GamesRadar e Polygon. Não há confirmação de que ele tenha o que diz.",
+      "Evite links de download, não compre a moeda e siga só os canais oficiais da Rockstar. A empresa manteve o lançamento em 19 de novembro."
+    ],
+    "chamada": "Você evita spoiler de GTA 6 ou já se rendeu?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6: como fugir de spoiler e golpe",
+    "Slide 2: Vazador faz nova ameaça, sem confirmação",
+    "Slide 3: Cinco passos para se proteger",
+    "Slide 4: Data de lançamento mantida pela Rockstar",
+    "Slide 5: Manda pro amigo que clica em tudo"
+  ],
+  "slug": "gta-6-como-fugir-de-spoiler-e-golpe",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}
