@@ -80,6 +80,18 @@
     "Slide 5: Manda pro amigo que ama a névoa"
   ],
   "slug": "silent-hill-segunda-terceira-onda",
-  "status": "pronto",
-  "criado": "2026-10-10T07:50:00-03:00"
+  "status": "publicado",
+  "criado": "2026-10-10T07:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-11",
+    "horario": "18:15",
+    "em": "2026-10-11T18:14:29-03:00",
+    "estilo": "fliperama",
+    "media_id": "18371481163211551",
+    "permalink": "https://www.instagram.com/p/DeXmb5PoJvH/"
+  },
+  "story": {
+    "em": "2026-10-11T18:15:06-03:00",
+    "media_id": "17880128511630074"
+  }
 }
