@@ -169,8 +169,10 @@ publishing:
     - {from_day: 0,   posts_per_language: 8}
     - {from_day: 30,  posts_per_language: 10}
   # Horarios (fuso do site) em que a coleta roda. Se mudar aqui, mude o cron do
-  # workflow Coletar e o horario da Routine (30 min depois de cada coleta).
-  run_hours: [7, 12, 18]
+  # workflow Coletar e o horario da Routine (minuto 37 de cada hora daqui).
+  # De 2 em 2 horas desde 11/10/2026 (pedido do Diego): o teto do dia se
+  # espalha em cerca de 1 materia por rodada.
+  run_hours: [7, 9, 11, 13, 15, 17, 19, 21]
   ramp_gate_pass_rate: 0.80
   ramp_window_days: 14
 
