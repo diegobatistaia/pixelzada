@@ -113,7 +113,9 @@
     "query": "GTA 6 Lucia",
     "alt": "Imagem de GTA 6 mostrando Lucia, uma das protagonistas do jogo da Rockstar",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/gta-6-cyberleek-ameaca-build-completa-30-2d99d491.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -141,5 +143,7 @@
       "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-11T15:45:08+00:00",
+  "updated_at": "2026-10-11T15:45:08+00:00"
 }
