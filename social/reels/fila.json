@@ -73,10 +73,15 @@
     "slug": "te-vejo-amanha",
     "data": "2026-10-11",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Stories",
     "legenda": "Eu saindo do trabalho dia 18 de novembro e meu chefe: “te vejo amanhã” 😬 Segue a Pixelzada pra não perder a contagem do GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-11T11:31:39-03:00",
+      "media_id": "18104683595366223",
+      "permalink": "https://www.instagram.com/reel/DeW4UNmiW1s/"
+    }
   },
   {
     "slug": "ps4-gta5",
