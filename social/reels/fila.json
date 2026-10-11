@@ -101,10 +101,15 @@
     "slug": "esposa-ps5",
     "data": "2026-10-11",
     "horario": "15:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Plantão",
     "legenda": "Eu quando tô discutindo com minha esposa depois de comprar um PS5 pro meu filho recém-nascido 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#ps5 #games #gamer #memesgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-11T15:34:33-03:00",
+      "media_id": "18355786282216662",
+      "permalink": "https://www.instagram.com/reel/DeXUF_wj3bF/"
+    }
   },
   {
     "slug": "jim-carrey-dia-19",
