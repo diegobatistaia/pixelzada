@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:39:06 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Marvel Tokon revela Thor (Jane Foster), Venom e Jubilee para 2027</title>
+      <link>https://pixelzada.com.br/pt/marvel-tokon-thor-jane-foster-venom-jubilee-2027/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/marvel-tokon-thor-jane-foster-venom-jubilee-2027/</guid>
+      <description>Marvel Tokon: Fighting Souls terá Thor (Jane Foster), Venom e Jubilee como DLC em 2027. Veja o calendário, o passe de US$ 34,99 e o que ainda não foi mostrado.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sun, 11 Oct 2026 22:39:05 +0000</pubDate>
+    </item>
     <item>
       <title>Cyberleek ameaça soltar build completa de GTA 6 e exige discos físicos</title>
       <link>https://pixelzada.com.br/pt/gta-6-cyberleek-ameaca-build-completa-30-milhoes/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/unity-spark-google-playground-ia-jogos/</guid>
       <description>O Google lançou o Playground para criar jogos por texto, e a Unity prepara o Spark em beta. Veja o que roda no navegador, o que fica de fora e a cobrança.</description>
       <category>Indústria</category>
-      <pubDate>Thu, 08 Oct 2026 10:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Warhammer Survivors sai em 10 de novembro no PS5, com 40 campeões</title>
-      <link>https://pixelzada.com.br/pt/warhammer-survivors-lanca-10-novembro-ps5/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/warhammer-survivors-lanca-10-novembro-ps5/</guid>
-      <description>Warhammer Survivors chega ao PS5 em 10 de novembro, com mais de 40 heróis e pré-venda aberta. Conheça Morvenn Vahl e Lyssa Revenya, as novas personagens.</description>
-      <category>Lançamentos</category>
       <pubDate>Thu, 08 Oct 2026 10:15:04 +0000</pubDate>
     </item>
   </channel>

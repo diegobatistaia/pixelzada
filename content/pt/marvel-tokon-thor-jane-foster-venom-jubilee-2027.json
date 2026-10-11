@@ -120,7 +120,9 @@
     "query": "Marvel Tokon Fighting Souls Jane Foster Thor",
     "alt": "Arte de Marvel Tokon: Fighting Souls com Thor (Jane Foster), Venom e Jubilee, personagens de DLC",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/MARVEL-Tokon-DLC-Characters_10-11-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/marvel-tokon-thor-jane-foster-venom-jubi-f599af7e.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -148,5 +150,7 @@
       "title": "Marvel Tokon Year 1 DLC roster"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-11T22:39:05+00:00",
+  "updated_at": "2026-10-11T22:39:05+00:00"
 }
