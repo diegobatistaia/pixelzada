@@ -67,6 +67,10 @@ def cmd_brief(cfg, args) -> int:
           + (f", {len(so_oficial)} só com o anúncio oficial" if oficial else ""))
     if oficial:
         plausible += so_oficial
+    # Com uma coleta a cada 2 horas, as mesmas pautas do topo voltam várias
+    # vezes no dia: o que já virou matéria sai antes de escolher o que baixar.
+    written = already_written_story_ids(cfg)
+    plausible = [s for s in plausible if s["id"] not in written]
 
     tz_name = cfg.get("site.timezone", "UTC")
     daily_cap = cfg.posts_per_language(local_today(tz_name))
@@ -77,7 +81,9 @@ def cmd_brief(cfg, args) -> int:
         wanted = run_budget(daily_cap - used, cfg.run_hours, tz_name)
     print(f"Teto do dia: {daily_cap} por idioma · já escritas hoje: {used} · "
           f"desta rodada: {wanted}")
-    selected = plausible[:wanted * 3] if wanted else []
+    # Baixa mais pautas do que cabem na rodada: boa parte cai na checagem, e
+    # com teto de 1 por rodada (8 rodadas por dia) só 3 deixavam a rodada vazia.
+    selected = plausible[:max(wanted * 3, 9)] if wanted else []
 
     banner("2. Baixando o texto integral das fontes")
     payload = []

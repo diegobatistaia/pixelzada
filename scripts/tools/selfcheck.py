@@ -369,6 +369,11 @@ def main() -> int:
           [run_budget(r, [7, 12, 18], tz, brt(h)) for r, h in ((3, 7), (2, 12), (1, 18))] == [1, 1, 1])
     check("rodada sem pauta devolve a vaga para a seguinte",
           run_budget(3, [7, 12, 18], tz, brt(12)) == 2 and run_budget(3, [7, 12, 18], tz, brt(18)) == 3)
+    oito = [7, 9, 11, 13, 15, 17, 19, 21]
+    from datetime import timedelta
+    check("oito rodadas espalham 8 por dia em 1 por rodada",
+          [run_budget(8 - i, oito, tz, brt(0) + timedelta(hours=h)) for i, h in enumerate(oito)]
+          == [1] * 8)
     check("teto atingido zera a rodada", run_budget(0, [7, 12, 18], tz, brt(12)) == 0)
     check("nunca passa do que resta", run_budget(1, [7, 12, 18], tz, brt(7)) == 1)
     from datetime import datetime as _dt

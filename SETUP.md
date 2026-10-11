@@ -132,8 +132,8 @@ python -m http.server 4173
 
 ## Publicação ao longo do dia
 
-A coleta roda três vezes por dia (07h, 12h e 18h) e a Routine 30 minutos depois
-de cada uma. Três pontos andam juntos:
+A coleta roda de 2 em 2 horas (07h, 09h, 11h, 13h, 15h, 17h, 19h e 21h) e a
+Routine no minuto 37 de cada uma dessas horas. Três pontos andam juntos:
 
 1. `publishing.run_hours` no `site.config.yaml`.
 2. Os `cron` do workflow **Coletar** (em UTC; Brasília é UTC-3).

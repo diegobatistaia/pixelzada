@@ -8,7 +8,7 @@ name: Coletar
 # Routine pelo próprio repositório: este workflow commita data/briefing.json e a
 # Routine lê o arquivo depois de clonar.
 #
-# Roda tres vezes por dia, cada uma 30 minutos antes de uma rodada da Routine,
+# Roda de 2 em 2 horas (07h a 21h), antes de cada rodada da Routine (minuto 37),
 # para dar folga se um feed estiver lento. O teto diario de materias e dividido
 # entre as rodadas (ver publishing.run_hours no site.config.yaml), e uma coleta
 # que falha e recuperada pela rodada seguinte do mesmo dia.
@@ -16,17 +16,14 @@ name: Coletar
 # O GitHub atrasa horários agendados, e muito na hora cheia: em 05/10/2026 a
 # coleta das 18h saiu às 22h42, e a das 07h de 06/10 não tinha saído às 08h20,
 # então a Routine das 07h30 encontrou o briefing de ontem e não escreveu nada.
-# Por isso cada rodada tem três tentativas fora da hora cheia (uma hora, meia
-# hora e dez minutos antes da Routine). Repetir não faz mal: o comando
+# Por isso cada rodada tem duas tentativas fora da hora cheia (44 e 20 minutos
+# antes da Routine), mais uma às 06h23 para a primeira do dia. Repetir não faz mal: o comando
 # 'briefing' da Routine tira o que já virou matéria e refaz o teto.
 on:
   schedule:
-    - cron: "23,53 9 * * *"   # 06:23 e 06:53 America/Sao_Paulo
-    - cron: "17 10 * * *"     # 07:17
-    - cron: "23,53 14 * * *"  # 11:23 e 11:53
-    - cron: "17 15 * * *"     # 12:17
-    - cron: "23,53 20 * * *"  # 17:23 e 17:53
-    - cron: "17 21 * * *"     # 18:17
+    - cron: "23 9 * * *"                              # 06:23 America/Sao_Paulo
+    - cron: "53 9,11,13,15,17,19,21,23 * * *"         # 06:53, 08:53 ... 20:53
+    - cron: "17 10,12,14,16,18,20,22,0 * * *"         # 07:17, 09:17 ... 21:17
   workflow_dispatch:
     inputs:
       limit:
