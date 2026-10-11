@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "ultima-volta-gta5",
-    "pasta": "reel-ultima-volta-gta5",
-    "horario": "20:00",
-    "data": "2026-10-10"
+    "acao": "carrossel",
+    "slug": "ghost-of-tsushima-legends-anime-2028",
+    "horario": "21:00",
+    "data": "2026-10-10",
+    "estilo": "mapa",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-10T20:36:36-03:00",
+  "em": "2026-10-10T21:09:01-03:00",
   "ok": true,
-  "media_id": "18099674723366911",
-  "permalink": "https://www.instagram.com/reel/DeVR4ZSCFl0/",
+  "media_id": "17975495639935738",
+  "permalink": "https://www.instagram.com/p/DeVVpBmEfVv/",
+  "story": {
+    "em": "2026-10-10T21:09:52-03:00",
+    "media_id": "18097544117538520"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
