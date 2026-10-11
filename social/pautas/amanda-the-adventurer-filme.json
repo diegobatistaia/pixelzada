@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Amanda Adventure",
+  "gta6": false,
+  "materia": "amanda-the-adventurer-filme-blumhouse-matpat",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/10/amandatheadventurer.jpg",
+    "credito": "DreadXP",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e Kotaku",
+  "capa": {
+    "titulo": "Amanda the Adventurer vai virar filme",
+    "destaque": "filme",
+    "apoio": "MatPat e a Blumhouse anunciaram na NYCC. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Primeiro de vários",
+      "destaque": "vários",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Blumhouse e MatPat farão filmes de terror indie"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Amanda the Adventurer é o primeiro"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Diretor, roteirista e elenco"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Data de estreia"
+        }
+      ]
+    },
+    {
+      "rotulo": "O jogo",
+      "titulo": "Terror com fitas e puzzles",
+      "destaque": "fitas",
+      "texto": [
+        "O jogo de **2022** é de terror e quebra-cabeças em primeira pessoa, segundo IGN e Kotaku.",
+        "O mistério envolve uma animação infantil de baixo orçamento com o mesmo nome."
+      ]
+    },
+    {
+      "rotulo": "A fala",
+      "titulo": "Terror com coração",
+      "destaque": "coração",
+      "texto": [
+        "MatPat disse que o filme é **terror com coração**, segundo a IGN.",
+        "Ele afirmou que a equipe está em conversas com escritores e diretores."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que viu todas as fitas",
+  "legenda": {
+    "gancho": "Amanda the Adventurer vai ganhar um filme da Blumhouse com o YouTuber MatPat, anunciado na New York Comic Con.",
+    "corpo": [
+      "O primeiro projeto da parceria é a adaptação do jogo da DreadXP, segundo IGN e Kotaku. MatPat diz que há outros projetos em andamento.",
+      "Diretor, roteirista, elenco e data de estreia ainda não foram divulgados."
+    ],
+    "chamada": "Qual jogo de terror indie você quer ver no cinema?",
+    "hashtags": [
+      "#pixelzada",
+      "#amandatheadventurer",
+      "#blumhouse",
+      "#matpat"
+    ]
+  },
+  "alt": [
+    "Slide 1: Amanda the Adventurer vai virar filme",
+    "Slide 2: Blumhouse e MatPat fazem filmes de terror indie",
+    "Slide 3: Jogo de 2022 de terror e puzzles com fitas",
+    "Slide 4: Terror com coração, segundo MatPat",
+    "Slide 5: Manda pro amigo que viu todas as fitas"
+  ],
+  "slug": "amanda-the-adventurer-filme",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

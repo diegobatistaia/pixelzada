@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Silent Hill",
+  "gta6": false,
+  "materia": "silent-hill-segunda-terceira-onda-konami-okamoto",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/A-person-with-pink-nail-polish-rests-James'-face-in-their-hand-in-Silent-Hill-2-Remake.jpg",
+    "credito": "Konami",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, PC Gamer e Eurogamer",
+  "capa": {
+    "titulo": "Konami planeja mais ondas de Silent Hill",
+    "destaque": "mais ondas",
+    "apoio": "O produtor fala em segunda e terceira ondas. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato e buraco",
+      "destaque": "buraco",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Produtor fala em segunda e terceira ondas"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Konami avalia vários projetos"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Remake do Silent Hill original está em produção"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Títulos, datas e estúdios das novas ondas"
+        }
+      ]
+    },
+    {
+      "rotulo": "A fala",
+      "titulo": "Não vamos parar por aqui",
+      "destaque": "parar",
+      "texto": [
+        "Motoi Okamoto disse à Famitsu que a Konami **não vai parar** após a primeira onda.",
+        "Ele afirmou que não pode dar detalhes, segundo a IGN."
+      ]
+    },
+    {
+      "rotulo": "A primeira onda",
+      "titulo": "Três jogos elogiados",
+      "destaque": "elogiados",
+      "texto": [
+        "A primeira onda tem **Silent Hill 2 Remake, Silent Hill f e Townfall**.",
+        "A IGN deu 8 de 10 a Townfall; a Eurogamer, quatro de cinco estrelas."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que ama a névoa",
+  "legenda": {
+    "gancho": "A Konami já planeja a segunda e a terceira ondas de jogos de Silent Hill, segundo o produtor Motoi Okamoto.",
+    "corpo": [
+      "A fala saiu na Famitsu e foi repercutida por IGN, PC Gamer e Eurogamer. Okamoto disse que a empresa avalia vários projetos, mas não deu nomes.",
+      "O único projeto confirmado é o remake do Silent Hill original, com a Bloober Team."
+    ],
+    "chamada": "Qual Silent Hill você quer ver voltar?",
+    "hashtags": [
+      "#pixelzada",
+      "#silenthill",
+      "#konami",
+      "#terror"
+    ]
+  },
+  "alt": [
+    "Slide 1: Konami planeja mais ondas de Silent Hill",
+    "Slide 2: Segunda e terceira ondas, sem detalhes",
+    "Slide 3: Okamoto diz que a empresa não vai parar",
+    "Slide 4: Primeira onda foi elogiada pela crítica",
+    "Slide 5: Manda pro amigo que ama a névoa"
+  ],
+  "slug": "silent-hill-segunda-terceira-onda",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}
