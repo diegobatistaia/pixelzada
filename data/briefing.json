@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T10:38:36+00:00",
+  "generated_at": "2026-10-11T15:38:43+00:00",
   "posts_per_language_today": 3,
   "daily_cap_per_language": 8,
-  "already_written_today": 0,
+  "already_written_today": 2,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -41,54 +41,6 @@
     160
   ],
   "stories": [
-    {
-      "story_id": "29ae476c8b309612",
-      "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
-      "summary": "Rockstar's GTA 6 is the biggest game of 2026 and possibly ever, but it's not coming to Switch 2 ... or is it? Nintendo of America's new president, Devon Pritchard, was recently asked if GTA 6 is coming to Switch 2, and she didn't say yes or no. Instead, she said people should ask Rockstar and its owner, Take-Two. “That’s going to be a conversation for Take-Two and Rockstar, but nothing to...",
-      "owners": [
-        "fandom",
-        "meups",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "d52debe612af3b87",
-        "3ca824c1a60e5198",
-        "11e67cd7beff1277"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/is-gta-6-coming-to-switch-2-ask-rockstar-nintendo-says/",
-          "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
-          "published_at": "2026-10-09T15:01:41+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
-          "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
-          "published_at": "2026-10-09T23:56:23+00:00",
-          "kind": "press",
-          "text": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through. Reddit user aogustoo shared their story in a post late last month. What began as a \"shot-in-the-dark email\" they sent to Rockstar asking for a signed GTA 6 poster has turned into what seems to be a heartwarming moment for them and the community. \"A while ago I took a complete shot in the dark and emailed Rockstar,\" they said. \"I shared how hyped I was for GTA VI and asked if there was any chance I could get a poster for my room. \"Honestly, I expected an automated reply or nothing at all. To my absolute surprise, an executive actually answered and shipped an official GTA VI poster straight from their New York office to my home in Brazil.\" You can see images, which show not only the poster but the emails they supposedly sent to receive it, above. As Rockstar (and the rest of the world) count down the days to GTA 6's November 19 launch, fans will no doubt be on the lookout for official merchandise like this. As many have pointed out, it's unclear if Rockstar truly took the time to send the poster, but the community is still looking to the moment as something worth celebrating as the countdown continues. \"This is a massive W tho,\" Rockstar content creator @videotech said on X/Twitter . \"This guy isn’t an influencer or someone famous, literally just a random Rockstar fan. Very kind of Rockstar and Take-Two to take the time and effort to do this.\" \"​I blurred out all personal addresses, names, and contact emails to respect their privacy,\" aogustoo added. \"Please don't flood their inbox with requests, as I'm pretty sure this was just a rare act of kindness from someone on their team.\" There's still so much about GTA 6 that we don’t know, but one thing is for sure: Rockstar will probably get even more emails after this. While we wait to learn more about the next Grand Theft Auto game ahead of its November 19 launch for PlayStation 5 and Xbox Series X/S, you can check out IGN's recent interview with Rockstar North's Rob Nelson . You can also read about what Nintendo had to say about the chances of seeing GTA 6 on Switch 2 , some recently revealed radio stations , and even a batch of new screenshots . Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
-          "image": "https://assets-prd.ignimgs.com/2026/10/09/gta-6-cover-art-1791589629353.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/news/brasileiro-recebe-poster-gta-vi-rockstar-games/",
-          "title": "Brasileiro recebe pôster de GTA VI diretamente da Rockstar Games",
-          "published_at": "2026-10-10T14:32:06+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/09/GTA-VI-3.jpg"
-        }
-      ]
-    },
     {
       "story_id": "b5a0a3fa1d4290d0",
       "title": "DMZ — 5 Features to Get Excited for in Call of Duty: Modern Warfare 4’s New Mode",
@@ -140,38 +92,120 @@
       ]
     },
     {
-      "story_id": "f1bcb63b5c191f93",
-      "title": "Shadow of the Road delayed to March 10, 2027",
-      "summary": "Publisher Owlcat Games and developer Another Angle Games have delayed story-driven turn-based RPG Shadow of …",
+      "story_id": "2f01fcf0397841dd",
+      "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+      "summary": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme.",
       "owners": [
-        "gameblast",
-        "gematsu"
+        "future-plc",
+        "valnet",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "3b80307c080c715c",
-        "6b3149698715d830"
+        "b3413cb00c56970b",
+        "31c163a6bf276d85",
+        "a0e65d30385d33ba",
+        "961735c9ad8b810b",
+        "1e0683bd3d7a0e6a"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+          "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+          "published_at": "2026-10-10T16:23:47+00:00",
+          "kind": "press",
+          "text": "The GTA 6 leaker has reportedly threatened to release a build of the game with the full story mode played to the end, as part of their heavily criticized crypto scheme. According to online reports , the Cyberleek website was updated with a warning that if its memecoin reached a market cap of $30 million, a build of GTA 6 would be released featuring the full story mode including end credits. In the alleged online warning, Cyberleek once again framed their GTA 6 leaks as a protest against the lack of a physical disc version of the game, and allegedly called on Take-Two to release GTA 6 on-disc and issue an apology. It is unclear whether Cyberleek intends to release a build of the game online, or means to release a full playthrough of GTA 6 in video form. A cryptocurrency market capitalization (market cap) is the total dollar value of all the coins or tokens of a digital asset currently in circulation. At the time of this article’s publication, Cyberleek had a market cap of $3.8 million, having spiked at $5.7 million earlier today as reports of the message hit social media. It seems unlikely that it will get anywhere near $30 million. Cyberleek also issued market cap goals tied to the clothing Lucia would wear in subsequent leaked gameplay. For example, at $2 million, Cyberleek threatened to release gameplay showing Lucia wearing a bikini. According to Cyberleek, a $4 million market cap would mean releasing gameplay with Lucia “fully naked.” However, there is significant skepticism about Cyberleek’s support of physical media, with many accusing the leaker of running a cryptocurrency scam. Fans have heavily criticized Cyberleek and anyone who spends money on their memecoin. “What a dork,” one person said. “Anyone who puts money into this deserves to lose it all.” Cyberleek appeared to go dark after a spate of high-profile GTA 6 leaks in August that sparked an investigation from Rockstar parent company Take-Two. The film issued subpoenas to the likes of Discord as part of the hunt for the person or group of people responsible. But Cyberleek reemerged this week with the release of a 24-minute GTA 6 gameplay video that showed cutscenes, story beats, playable characters Jason and Lucia naked (in the case of Jason, full-frontal nudity), and a first-person camera. It remains unclear how the gameplay footage, or any potential build of the game it's taken from, escaped the confines of Rockstar's infamous tight security. This week’s developments suggest Cyberleek remains at large and defiant in the face of potential legal action. In August, Rockstar addressed the GTA 6 leaks , describing the situation as \"heartbreaking\" for its development team and \"unfortunate\" for fans. At the time, the developer acknowledged that its intended experience for players \"may now be impacted by some spoilers,\" but reiterated GTA 6's previously-confirmed launch date of November 19. Analysis of cryptocurrency transactions in late August pointed to the GTA 6 leaker having \"cashed out,\" earning around $270,000 in the process. Every video posted by Cyberleek pointed to a website where fans could pay to vote on further leaks using the leaker's own cryptocurrency. Such a poll is reportedly live on Cyberleek's website now , suggesting yet another leak is on the way. Whether the culprit or culprits are ever caught may rest on how successful Take-Two's legal team and the relevant authorities are at forcing social networks or crypto exchanges to divulge any personal details they hold on those responsible. Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
+          "image": "https://assets-prd.ignimgs.com/2026/08/27/mega-9-1787855280117.jpeg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+          "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+          "published_at": "2026-10-10T19:42:21+00:00",
+          "kind": "press",
+          "text": "A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. The threat was posted on CyberLeek's website after the leaker shared 25 minutes of footage from the game earlier this week. Rockstar has previously issued statements regarding the leaker, noting that the leaks are \"heartbreaking\" and that \"this is obviously not how we intended for you to see the game after all this time\". Take-Two, Rockstar's parent company, has been hunting for the person behind the leaks, and has tried to subpoena Discord for information pertaining to the leaker's identity. After going quiet for a bit, CyberLeek came back with a bang this week, posting new footage from Rockstar's upcoming game that even features nude scenes, including a fully naked Jason, and a topless Lucia. Eurogamer has seen the video, and it appears to be legitimate - and, as is now traditional, has CyberLeek's emblem overlaid on top of the footage. CyberLeek now reportedly says the build will go out if their cryptocurrency coin reaches a market cap of $30 million, and claims it can be played through to the end credits. \"Here's the deal, nice and clean,\" the demand reads. \"CyberLeek hits 30 million marketcap, the build goes out — full story mode, played to the end, credits and all. Don't believe it has full story mode? Ask for what you want to see, and it gets provided. Take-Two gets one way out: physical disks and a public apology. They can take it at any moment. Or they can gamble that CL is bluffing. Everyone knows which one they'll pick.\" GTA 6 is due out on PlayStation 5 and Xbox Series X/S on 19th November.",
+          "image": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+          "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
+          "published_at": "2026-10-10T23:32:29+00:00",
+          "kind": "press",
+          "text": "\"Take-Two gets one way out: physical disks and a public apology.\" Cyberleek has been uploading footage of Grand Theft Auto 6 since August, most recently a 25-minute video featuring co-protagonist Jason totally nude . Given that GTA 6's November 19 release is just over a month away, on console at least, it seems natural that interest in these kinds of leaks would wane. Cyberleek has found a new way of generating hype: promising to leak a build of the game if their memecoin's marketcap goes up another $26 million or so. \"Here's the deal, nice and clean. CYBERLEEK hits 30 million marketcap, the build goes out – full story mode, played to the end, credits and all. Don't believe it has full story mode? Ask for what you want to see, and it gets provided. Take-Two gets one way out: physical disks and a public apology. They can take it at any moment. Or they can gamble that CL is bluffing. Everyone knows which one they'll pick.\" The other half of the deal suggests that publisher Take-Two Interactive could prevent this by releasing GTA 6 physically and apologizing, presumably for not releasing it on discs in the first place. Which will never happen, but does fit with Cyberleek's previous history of cosplay Robin Hood consumer rights complaints. We know that Cyberleek has access to a playable build since one of the previous leaks ended with the word LEEK being machinegunned into a wall to prove the point. But an early build of GTA 6 seems like the worst possible way to play it on PC, though after the Xbox streaming thing turned out to be a bust , maybe there are people who don't want to wait? Personally I'm looking forward to a slow November where I might actually get a chance to catch up on this year's other releases, like The Blood of Dawnwalker and that Hellraiser game that just came out. GTA 6 guide : Everything we know GTA 6 PC release : When's it going to happen? GTA 6 editions : What's included at each price point GTA 6 cars : The known garage lineup GTA 6 guns : Confirmed arsenal so far Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Jody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, Zed Games . He's written for Rock Paper Shotgun , The Big Issue, GamesRadar , Zam , Glixel , Five Out of Ten Magazine , and Playboy.com , whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the audio of Alien Isolation , published in 2015. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/fKFHSxwg2x8dXuq8dUfMKh-2482-80.png"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-leaker-threatens-to-release-a-build-of-the-entire-game-start-to-finish-but-gives-take-two-a-way-out-physical-disks-and-a-public-apology/",
+          "title": "GTA 6 leaker threatens to release a build of the entire game start to finish",
+          "published_at": "2026-10-11T11:35:57+00:00",
+          "kind": "press",
+          "text": "The notorious GTA 6 leaker known only by their online moniker Cyberleek is back with a new threat. Should their memecoin's market cap hit $30 million, Cyberleek says they'll release a start-to-finish playable build of Rockstar Games ' long-awaited open worlder. Cyberleek's threat, posted to their website and reposted elsewhere online, also gives parent company Take-Two an ultimatum of sorts. The leaker says Take-Two can make this whole fiasco go away by printing physical GTA 6 discs and issuing a public apology. \"Here's the deal, nice and clean. CYBERLEEK hits 30 million marketcap, the build goes out — full story mode, played to the end, credits and all,\" the leaker writes on their website. \"Don't believe it has full story mode? Ask for what you want to see, and it gets provided. Take-Two gets one way out: physical disks and a public apology. They can take it at any moment. Or they can gamble that CL is bluffing. Everyone knows which one they'll pick.\" This isn't the first time Cyberleek's made demands around physical games. An older manifesto railed against practices such as digital pre-orders, \"fake\" single-player DLC and code-in-a-box physical editions - though game preservation group Stop Killing Games disagreed with the leaker's methods : \"Using illegal means to make a point is unacceptable to us and does nothing to protect our right to keep using what we paid for.\" The latest drama comes days after Cyberleek released roughly 24-minutes of new GTA 6 footage showing everything from a first-person mode to a nude Jason and in-game racing events. An even more recent leak supposedly features gameplay from a topless Lucia's perspective. GTA 6's history with leakage goes back years, though the Cyberleek saga only kicked off in earnest earlier this summer when the hacker - or hacking group - shed light on the game's map well before its Netflix blowout. Many thought the drama would've ended when Cyberleek squeezed $250,000 out of their crypto scheme before going radio silent for weeks. Rockstar previously addressed the leaks and called them \"heartbreaking for our team,\" while warning that any leaked footage might contain spoilers. Weekly digests, tales from the communities you love, and more GTA 6 shows Jason nude, and fans are wondering if Rockstar will go full Red Dead Redemption 2: \"Those horse balls physics gotta go somewhere\" Kaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/Zb3Q2uW5q96AnLSCtr2AVA-1920-80.jpg"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/grand-theft-auto-6-gta-cyberleek-full-build-release-threat/",
+          "title": "GTA 6 Leaker Threatens To Release Full Game Build Before November Launch",
+          "published_at": "2026-10-11T13:26:18+00:00",
+          "kind": "press",
+          "text": "Cyberleek is back with its biggest GTA 6 leak-related threat yet Cyberleek returned last week with a wave of new Grand Theft Auto 6 leaks, and is now making their biggest leak threat yet. Cyberleek claims it will leak a finished build of the game if Rockstar doesn't meet their conditions. Cyberleek terrorized Rockstar Games for weeks by leaking footage of Grand Theft Auto 6 earlier this year. It leaked gameplay from early builds of GTA 6 , story missions, and in-game locations, and more. Cyberleek was quiet through September, but started leaking again last week, showing nude versions of characters like Jason. In late August, Grand Theft Auto 6 publisher Take-Two Interactive had enough and started hunting down the hacker. It subpoenaed Discord and Microsoft to find more information about Cyberleek's identity and whereabouts. It looked like Take-Two was closing in on Cyberleek, and when the leaker disappeared for nearly a month, it seemed like the company had caught up to them. Now, it's clear that Cyberleek won't disappear quietly Cyberleek claims it has a full build of GTA 6 and will release it to the public if its cryptocurrency reaches a $30 million market cap. However, it apparently won't release the build if Take-Two agrees to give GTA 6 a physical on-disc release and apologizes publicly. Since the start, Cyberleek has claimed it's leaking the game because it's angry that GTA 6's physical release will be just a code in a box, and it believes gamers have the right to own physical media for what they play. There's clearly a financial incentive to what they are doing as well, since their leaks have been directly tied to cryptocurrency the leaker can profit from, so it's ultimately a big crypto scheme . As of this writing, $CYBERLEEK sits at a $6 million market cap, and it's been rising since the leaker's offer went live. It is highly unlikely that Take-Two will meet the leaker's demands, especially so close to launch. If Cyberleek truly isn't bluffing, all we can do now is sit and wait to see what happens.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop"
+        }
+      ]
+    },
+    {
+      "story_id": "ad8ed3e4acd1855f",
+      "title": "MARVEL Tokon: Fighting Souls DLC characters Thor (Jane Foster), Venom, and Jubilee announced",
+      "summary": "Publisher Sony Interactive Entertainment and developer Arc System Works have announced four-versus-four tag fighting game …",
+      "owners": [
+        "gameblast",
+        "gematsu",
+        "valnet"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "64bc7fefdd5e1a98",
+        "3d002bca8e9a5016",
+        "4cd7927873fda511"
       ],
       "sources": [
         {
           "name": "Gematsu",
           "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/10/shadow-of-the-road-delayed-to-march-10-2027",
-          "title": "Shadow of the Road delayed to March 10, 2027",
-          "published_at": "2026-10-09T15:14:05+00:00",
+          "url": "https://www.gematsu.com/2026/10/marvel-tokon-fighting-souls-dlc-characters-thor-jane-foster-venom-and-jubilee-announced",
+          "title": "MARVEL Tokon: Fighting Souls DLC characters Thor (Jane Foster), Venom, and Jubilee announced",
+          "published_at": "2026-10-11T12:00:18+00:00",
           "kind": "press",
-          "text": "Publisher Owlcat Games and developer Another Angle Games have delayed story-driven turn-based RPG Shadow of the Road from its previously planned November 12, 2026 release date to March 10, 2027. It will be available for PC via Steam , Epic Games Store , and GOG . Here is the full explanation from Owlcat Games: This extra time will let the developers address remaining issues and give the whole experience the polish it deserves. The team will refine the tactical aspect of the encounters and fine-tune combat balance. It is of great importance that the positioning, initiative and ability choices all play their part in every battle and that every encounter rewards thoughtful planning and provides players with meaningful decisions to make. The developers are also hard at work on the progression systems in order to make developing the party more engaging: The goal is to give players more reasons to experiment with different skills and adapt their tactics to the challenges. During this longer period of waiting, fans of Shadow of the Road can look forward to more trailers and insights into the game world soon.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Shadow-Road-Delay_10-09-26.jpg"
+          "text": "Publisher Sony Interactive Entertainment and developer Arc System Works have announced four-versus-four tag fighting game MARVEL Tokon: Fighting Souls downloadable content characters Thor (Jane Foster), Venom, and Jubilee, who are all part of the “Year One Characters & Stage Pass.” MARVEL Tokon: Fighting Souls is available now for PlayStation 5 and PC via Steam and Epic Games Store .",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/MARVEL-Tokon-DLC-Characters_10-11-26.jpg"
         },
         {
           "name": "GameBlast",
           "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/shadow-road-rpg-turnos-narrativo-adiado-10-marco-2027.html",
-          "title": "Shadow of the Road, RPG por turnos narrativo, é adiado para 10 de março de 2027",
-          "published_at": "2026-10-10T09:06:00+00:00",
+          "url": "https://www.gameblast.com.br/2026/10/marvel-tokon-fighting-souls-thor-jane-foster-venom-jubilee-revelados-como-lutadores-dlc.html",
+          "title": "MARVEL Tōkon: Fighting Souls: Thor (Jane Foster), Venom e Jubilee são revelados como lutadores DLC",
+          "published_at": "2026-10-11T12:34:16+00:00",
           "kind": "press",
-          "text": "O título seria lançado em 12 de novembro de 2026.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYM051sWEtC9Wer8CDLyMW2BBQNyPKcGGit8Ue1teAXRivC-D0pjIhB-egnsR-WAIJLBtJ4bQhp9DN8hKVw1cUmojjRUZ3jqoW7i90qP7l7c1BJC_01N_1mk_4gBaWeWWfPJjvhmPesFrCJ2DtaDK89C6oRGztMmeBHNW-DVhyHOSQmtuziYphxK58s-8/w1200-h630-p-k-no-nu/shadow_road_rpg_narrativo_turnos_adiado_10_marco_2027.jpg"
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/marvel-tokon-fighting-souls-year-1-dlc-characters/",
+          "title": "Marvel Tokon: Fighting Souls Officially Adding Thor, Venom, and Jubilee Next Year",
+          "published_at": "2026-10-11T14:36:00+00:00",
+          "kind": "press",
+          "text": "Arc System Works revealed three more DLC fighters coming to the game in 2027 Arc System Works and Sony Interactive Entertainment have unveiled the rest of the Year 1 DLC characters for Marvel Tokon: Fighting Souls at EVO France. The first one to arrive after Phoenix Cyclops is a surprising pick. Instead of adding Thor Odinson to the tag fighter's roster, the developers chose Jane Foster's Thor. The trailer that debuted Jane Foster's Thor as a fighter also revealed the full Year 1 DLC lineup. Phoenix Cyclops kicks things off on Nov. 2. Then, in 2027, we can expect Thor (Jane Foster) to launch in the Winter, Venom in the Spring, and X-Men character Jubilee in the Summer. It's a strong group of DLC characters that come from different corners of the Marvel universe. While we didn't see any gameplay featuring Jane Foster's Thor, the trailer does show her confronting Loki in Marvel Tokon: Fighting Souls ' Asgard stage. This won't be the first time Jane Foster's Thor has been playable in a video game, as she was one of Marvel's Avengers ' last post-launch characters in 2022. Marvel Tokon: Fighting Souls has shown a willingness to subvert expectations with its roster picks, featuring Shuri's Black Panther rather than T'Challa's and the Phoenix Force-infused Cyclops rather than the regular version. Venom is a fairly mainstream pull, though, and he'll join the game alongside a new Klyntar stage. As a fan of X-Men: The Animated Series and X-Men '97 , I'm most hyped for Jubilee's addition. She's already a lot of fun in Marvel Rivals , and I can't wait to see how Arc System Works adapts her flashy powers for its gorgeous fighting game. Marvel Tokon: Fighting Souls is available on PlayStation 5 and Windows PC. To access these DLC characters, you'll need to buy the $84.99 Digital Deluxe Edition or the base game plus the $34.99 Year 1 Character and Stage Pass.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/jane-foster-thor-marvel-tokon.jpg?w=1600&h=900&fit=crop"
         }
       ]
     },
@@ -208,7 +242,7 @@
           "title": "Xbox Game Pass recebe Gears of War E-Day e mais jogos esta semana! Veja os lançamentos (10)",
           "published_at": "2026-10-10T16:15:00+00:00",
           "kind": "press",
-          "text": "Gears of War E-Day é bom? Confira review com o novo exclusivo do Xbox e PC O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de quatro títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Gears of War: E-Day é uma prequel do primeiro jogo da franquia e acompanha Marcus Fenix e Dominic Santiago durante o Dia da Emergência, 14 anos antes dos acontecimentos originais. A campanha mostra o surgimento da Horda Locust e o início da batalha pela sobrevivência da humanidade. O game aposta na ação brutal característica da série, com uma história focada na origem dos personagens e do conflito contra os Locust. Gears of War: E-Day chegou no primeiro dia ao Xbox Game Pass. Echo Weaver é um metroidvania com foco em exploração, conhecimento e manipulação do tempo. No papel do último Tecelão, o jogador precisa aprender com cada ciclo temporal e utilizar as anomalias para encontrar uma forma de quebrar a repetição. A aventura combina exploração e resolução de mistérios, fazendo com que as informações obtidas durante as tentativas sejam parte essencial da progressão. O jogo também chegou no primeiro dia ao Xbox Game Pass. Forever Ago acompanha Alfred, que parte em uma viagem pelo norte após uma tragédia que muda sua vida. A aventura solo é centrada na exploração de diferentes lugares, no encontro com novos personagens e na busca por redenção. Durante a jornada, o jogador poderá registrar momentos com uma câmera, conhecer pessoas e construir novas amizades. Claro, Forever Ago também chegou ao Xbox Game Pass no primeiro dia. Por fim, Neon Abyss 2 combina plataforma e ação roguelike em um cenário cyberpunk repleto de elementos pixelados. Na pele de um personagem lançado em Nova Atenas, o jogador precisa enfrentar o Abismo e diferentes ameaças enquanto busca vingança. A experiência é construída em torno de tentativas sucessivas, com a morte fazendo parte da progressão. Cada derrota permite uma nova oportunidade de explorar o Abismo e avançar em meio aos desafios. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Gears of War E-Day , hein? Jogue e conte pra gente o que achou nas redes sociais do Voxl e do TecMundo ! Fraude na apuração? Como um problema técnico aliado a infográficos enganosos alimentou rumores Quais celulares Samsung já receberam a One UI 9 no Brasil? Confira a lista Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1 Zuckerberg ignorou riscos de segurança para acelerar lançamento do Muse, diz jornal Claude passa a criar dashboards interativos e vídeos para apresentações",
+          "text": "Gears of War E-Day é bom? Confira review com o novo exclusivo do Xbox e PC O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de quatro títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Gears of War: E-Day é uma prequel do primeiro jogo da franquia e acompanha Marcus Fenix e Dominic Santiago durante o Dia da Emergência, 14 anos antes dos acontecimentos originais. A campanha mostra o surgimento da Horda Locust e o início da batalha pela sobrevivência da humanidade. O game aposta na ação brutal característica da série, com uma história focada na origem dos personagens e do conflito contra os Locust. Gears of War: E-Day chegou no primeiro dia ao Xbox Game Pass. Echo Weaver é um metroidvania com foco em exploração, conhecimento e manipulação do tempo. No papel do último Tecelão, o jogador precisa aprender com cada ciclo temporal e utilizar as anomalias para encontrar uma forma de quebrar a repetição. A aventura combina exploração e resolução de mistérios, fazendo com que as informações obtidas durante as tentativas sejam parte essencial da progressão. O jogo também chegou no primeiro dia ao Xbox Game Pass. Forever Ago acompanha Alfred, que parte em uma viagem pelo norte após uma tragédia que muda sua vida. A aventura solo é centrada na exploração de diferentes lugares, no encontro com novos personagens e na busca por redenção. Durante a jornada, o jogador poderá registrar momentos com uma câmera, conhecer pessoas e construir novas amizades. Claro, Forever Ago também chegou ao Xbox Game Pass no primeiro dia. Por fim, Neon Abyss 2 combina plataforma e ação roguelike em um cenário cyberpunk repleto de elementos pixelados. Na pele de um personagem lançado em Nova Atenas, o jogador precisa enfrentar o Abismo e diferentes ameaças enquanto busca vingança. A experiência é construída em torno de tentativas sucessivas, com a morte fazendo parte da progressão. Cada derrota permite uma nova oportunidade de explorar o Abismo e avançar em meio aos desafios. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Gears of War E-Day , hein? Jogue e conte pra gente o que achou nas redes sociais do Voxl e do TecMundo ! Fraude na apuração? Como um problema técnico aliado a infográficos enganosos alimentou rumores Quais celulares Samsung já receberam a One UI 9 no Brasil? Confira a lista Pesquisas mentem? Saiba o que está por trás dos números | Triturando Dados #1 Correios e AliExpress firmam acordo para entregas mais rápidas nas compras de fim de ano As melhores ofertas do último dia da Mega Oferta Prime na Amazon",
           "image": "https://www.estadao.com.br/resizer/v2/PJ6Y3C47JBAGFKXJO2HZQL2Z3Q.jpg?quality=80&auth=1d9ce677b6da275c15521974aba6aa836f279ea79460578e0e6dadcfe8e97dec&width=1200&height=630&smart=true"
         }
       ]
@@ -333,85 +367,74 @@
       ]
     },
     {
-      "story_id": "a9732afdf5d09953",
-      "title": "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
-      "summary": "Blumhouse Productions has partnered with YouTube star Matthew ‘MatPat’ Patrick to create a series of movies based on viral indie horror games, and Amanda the Adventurer is first on the docket.",
+      "story_id": "50b2002d571dd2b7",
+      "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+      "summary": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through.",
       "owners": [
-        "keleops",
+        "meups",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "325cab0dccb2a27e",
-        "ed45c769beb85fdf"
+        "3ca824c1a60e5198",
+        "11e67cd7beff1277"
       ],
       "sources": [
         {
           "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/blumhouse-partners-with-matpat-to-make-amanda-the-adventurer-movie-confirms-more-indie-horror-game-adaptations-are-coming-nycc-2026",
-          "title": "Blumhouse Partners With MatPat to Make Amanda the Adventurer Movie, Confirms More Indie Horror Game Adaptations Are Coming | NYCC 2026",
-          "published_at": "2026-10-09T22:45:02+00:00",
+          "url": "https://www.ign.com/articles/gta-6-fan-says-rockstar-sent-them-a-poster-just-because-they-asked-nicely",
+          "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
+          "published_at": "2026-10-09T23:56:23+00:00",
           "kind": "press",
-          "text": "Blumhouse Productions has partnered with YouTube star Matthew ‘MatPat’ Patrick to create a series of movies based on viral indie horror games, and Amanda the Adventurer is first on the docket. Representatives from Blumhouse and MatPat confirmed this partnership at New York Comic Con 2026, where they said the YouTuber has “a few projects in the works” with the studio. “I am proud to announce that I’m working with Blumhouse to launch some new movies. I am taking some of my all-time favorite indie games and horror channels from the interwebs and partnering with Blumhouse to bring them to the big screen,” MatPat said at the panel. The first of these is Amanda the Adventurer, a first-person, puzzle-solving indie horror game that sees the player character unravel an unsettling mystery involving a low-budget animated children’s show of the same name. MatPat announced that he and Blumhouse are currently in talks with writers and directors, saying they’re “actually moving fast” to get this project made. “It’s horror with heart. Amanda is this horrifying but tragic character. It asks the question, ‘Can you trust the media being put in front of your kids?’” he said. This is the latest YouTuber-led film project to hit the news after Sean ‘Jacksepticeye’ McLoughlin revealed he was at the helm of an animated Bloodborne movie . And earlier this year, YouTube star Mark ‘Markiplier’ Fischbach stunned moviegoers with his self-funded horror movie Iron Lung , an adaptation of an indie horror game of the same name. Indie horror games have always had a strong audience online, and it seems that major studios are finally taking notice — especially after the success of Kane Parson’s Backrooms earlier this year. The film was such a hit that other creepypasta movies were greenlit in short order, including adaptations of The Mandela Catalogue , Siren Head , and even The SCP Foundation. Given the viral nature of Amanda the Adventurer, there’s a few good guesses as to what movies MatPat and Blumhouse are cooking up next. Probably all one needs to do is look at CoryxKenshin’s YouTube channel — could a Puppet Combo movie be on the way? (Nun Massacre would be wild to see in a theater.) For more New York Comic Con news, check out our hub of everything major announced at the convention's Marvel panel, as well as a new Avatar: The Last Airbender show and our interview with Daredevil star Charlie Cox. Virginia (she/her) is IGN’s News Editor. With ten years of experience reporting on games and entertainment, she’s got a storied background in the fighting game community, influencer news, and viral online trends. Find her on Twitter at @TheeMissGlaze .",
-          "image": "https://assets-prd.ignimgs.com/2025/11/05/amandathumb-1762382499399.png?width=1280&format=jpg&auto=webp&quality=80"
+          "text": "A Grand Theft Auto 6 fan in Brazil said they politely asked the Rockstar Games team to send them a poster – and it looks like they actually followed through. Reddit user aogustoo shared their story in a post late last month. What began as a \"shot-in-the-dark email\" they sent to Rockstar asking for a signed GTA 6 poster has turned into what seems to be a heartwarming moment for them and the community. \"A while ago I took a complete shot in the dark and emailed Rockstar,\" they said. \"I shared how hyped I was for GTA VI and asked if there was any chance I could get a poster for my room. \"Honestly, I expected an automated reply or nothing at all. To my absolute surprise, an executive actually answered and shipped an official GTA VI poster straight from their New York office to my home in Brazil.\" You can see images, which show not only the poster but the emails they supposedly sent to receive it, above. As Rockstar (and the rest of the world) count down the days to GTA 6's November 19 launch, fans will no doubt be on the lookout for official merchandise like this. As many have pointed out, it's unclear if Rockstar truly took the time to send the poster, but the community is still looking to the moment as something worth celebrating as the countdown continues. \"This is a massive W tho,\" Rockstar content creator @videotech said on X/Twitter . \"This guy isn’t an influencer or someone famous, literally just a random Rockstar fan. Very kind of Rockstar and Take-Two to take the time and effort to do this.\" \"​I blurred out all personal addresses, names, and contact emails to respect their privacy,\" aogustoo added. \"Please don't flood their inbox with requests, as I'm pretty sure this was just a rare act of kindness from someone on their team.\" There's still so much about GTA 6 that we don’t know, but one thing is for sure: Rockstar will probably get even more emails after this. While we wait to learn more about the next Grand Theft Auto game ahead of its November 19 launch for PlayStation 5 and Xbox Series X/S, you can check out IGN's recent interview with Rockstar North's Rob Nelson . You can also read about what Nintendo had to say about the chances of seeing GTA 6 on Switch 2 , some recently revealed radio stations , and even a batch of new screenshots . Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
+          "image": "https://assets-prd.ignimgs.com/2026/10/09/gta-6-cover-art-1791589629353.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/matpat-and-blumhouse-productions-collaborating-on-amanda-the-adventurer-movie-2000743782",
-          "title": "MatPat And Blumhouse Productions Collaborating On Amanda The Adventurer Movie",
-          "published_at": "2026-10-10T17:22:44+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/news/brasileiro-recebe-poster-gta-vi-rockstar-games/",
+          "title": "Brasileiro recebe pôster de GTA VI diretamente da Rockstar Games",
+          "published_at": "2026-10-10T14:32:06+00:00",
           "kind": "press",
-          "text": "Blumhouse DreadXP Five Nights at Freddy's Horror MatPat For 15 years Matthew Patrick, better known as MatPat, has turned toy-starring horror games into a cottage industry. His “Game Theory” videos have been pivotal in turning the Five Nights at Freddyâs series into a worldwide phenomenon. After that game made box office bank, Hollywood is tapping Patrick himself to develop more mascot horrors into feature length hits, starting with 2022âs Amanda the Adventurer . “The idea is that Iâm taking some of my favorite indie games and horror channels from the online interwebz [sic] and I am partnering with Blumhouse to bring them to the big screen,” says Patrick in front of a banner of Raising Caneâs Chicken logos . “We are giving them the spotlight that they deserve, the megaphone they need, because theyâre incredible.” Announced at this weekâs New York Comic Con, Patrick has been enlisted by Blumhouse Productions, the prolific horror studio behind everything from The Purge to Jordan Peeleâs Get Out , for a “multi-project deal,” reports Variety . The collaboration will be kicking things off with a big screen adaptation of Amanda the Adventurer , DreadXPâs tape-centric puzzle horror about exhuming an increasingly sinister childrenâs TV program. Patrickâs decade-plus series of “Game Theory” videos elevated Five Nights at Freddyâs flash in the pan into an unkillable sensation. Divulging, speculating and likely influencing the lore of the games, the story behind evil animatronics has grown so infamously tangled that only the most screen-addled pre-teens can parse it. And they have! Investing their own time and whichever cousins will listen to them at family dinner, Five Nights at Freddyâs didnât translate into a quality film but an amazing money maker for Blumhouse in 2023. Patrick himself made cameos in both it and its 2025 sequel. The Game Theory videos have become institutional in indie horror games. Alongside Poppyâs Playtime , Baldi Â and Bendy , the YouTuberâs popularity molded a certain, bankable style of conspiracy-heavy, spin-off friendly tales of childrenâs playthings that murder people. Even if they arenât old enough to know Chuck E. Cheese au naturale, the whole Pizza Time Theater crew are now considerably less popular among their target demographic than their blood-thirsty facsimiles . Which other games Patrick ends up boosting into the cross-media vortex is yet to be confirmed, but we know one which isnât in the running. During his Comic Con announcement, someone in the crowd yelled “Slender Man.” “They already tried Slender Man,” responded Patrick. “That ship has sailed my friend.” Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Fortnite' s post revealing the horror-themed crossover has become the game's biggest tweet ever While the practical effect didnât pan out for Zach Creggerâs final product, there were humans behind the 'human tumbleweed' seen rolling through the movie If the Weapons director is burnt out on adapting video games, there's an assistant manager in OâFallon, Missouri that Capcom could reach out to The theme parkâs increasingly popular Halloween season continues to amass more and more movie maniacs, assuming theyâre invited The iconic cult movie actor gave an update on his earlier cancer prognosis, which prompted a startling retirement from film and the convention circuit earlier this year People are playing a never-released Scream game online after it leaked over the weekend",
-          "image": "https://kotaku.com/app/uploads/2026/10/amandatheadventurer.jpg"
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/09/GTA-VI-3.jpg"
         }
       ]
     },
     {
-      "story_id": "2937d186406febf3",
-      "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
-      "summary": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto.",
+      "story_id": "dac4b0cbbec91ee6",
+      "title": "BlazBlue: Central Fiction coming to PS5",
+      "summary": "Arc System Works will release a PlayStation 5 version of 2015-released fighting game BlazBlue: Central …",
       "owners": [
-        "future-plc",
-        "ziff-davis"
+        "gameblast",
+        "gematsu"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "c6768a09db6dabbb",
-        "5e834a8082e7539e",
-        "ad3c9fd65dfda228"
+        "61b65460dcb59285",
+        "2f77d77e506f5bf1"
       ],
       "sources": [
         {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/konami-planning-second-and-third-waves-of-new-silent-hill-games",
-          "title": "Konami Planning 'Second and Third Waves' of New Silent Hill Games",
-          "published_at": "2026-10-09T22:47:30+00:00",
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/blazblue-central-fiction-coming-to-ps5",
+          "title": "BlazBlue: Central Fiction coming to PS5",
+          "published_at": "2026-10-10T12:00:09+00:00",
           "kind": "press",
-          "text": "Konami is planning \"second and third waves\" of new Silent Hill games, according to producer Motoi Okamoto. Okamoto offered a foggy glimpse into the classic horror franchise's future during an interview featured in Famitsu Issue 1965 (via Game Observer ). The series ended a long, painful drought without new games with an initial wave of new releases over the last few years, and now that this first batch is out, Konami is already looking forward to what it can do next. \"All three titles we initially announced were able to be released successfully, so we’re relieved (laughs),\" he noted. \"They’ve also received high praise, and we are satisfied with it.\" Okamoto continued: \"Successfully launching this 'first wave' comes with great relief, but we’re not stopping here; we must think of the second and third waves. We can’t share specific details, but we’re currently looking at a number of projects.\" The first wave of Konami's return to Silent Hill – which included titles like the Silent Hill 2 remake , Silent Hill f , and last month's Silent Hill: Townfall – rolled out throughout the last few years. Townfall arrived as the most recent installment when it dropped players into the shoes of protagonist Simon Ordell in a '90s Scotland just last month. It received generally favorable reviews, with IGN giving it an 8/10 . We said, \"Like the intravenous needle permanently jutting out of its hero’s wrist, Silent Hill: Townfall gives this long running series a welcome shot in the arm.\" It's a successful run of games that Konami is happy with, but getting here wasn't easy. After Hideo Kojima's Silent Hills failed to materialize, Okamoto said he had a hard time convincing higher-ups that more games was the way to go. However, as far as he was concerned, \"just one remake is not enough,\" adding, \"as a producer, I cannot let it end only with that.\" \"If there were only one release, wouldn’t people think that the development is going to be cancelled again, I thought,\" Okamoto added. While Konami's plan to launch additional waves of Silent Hill games spells a promising future for fans who have missed the franchise, we have known that the series would continue in some form. Bloober Team, the horror-centric developer responsible for the Silent Hill 2 remake, confirmed it was working on a remake of the original Silent Hill last year. Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
-          "image": "https://assets-prd.ignimgs.com/2024/05/27/untitled-1-copy-1666187781885-1716851975081.jpg?width=1280&format=jpg&auto=webp&quality=80"
+          "text": "Arc System Works will release a PlayStation 5 version of 2015-released fighting game BlazBlue: Central Fiction , the developer announced . The company recently announced that it will release new downloadable content character Trinity Glassfille for the PlayStation 4 and PC versions of the game. The PlayStation 5 version will feature rollback netcode, cross-play with the PC version, four new text languages, and new Training Mode features. Trinity Glassfille’s release will differ from the PlayStation 5 version and language update’s release. BlazBlue: Central Fiction has been released across PlayStation 4, PlayStation 3, Switch, PC via Steam , and arcades.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/BBCF-PS5_10-10-26.jpg"
         },
         {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto",
-          "title": "Konami is already thinking about the next wave of Silent Hill games",
-          "published_at": "2026-10-10T10:38:48+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/blazblue-central-fiction-ganhara-versao-ps5-cross-play-pc.html",
+          "title": "BlazBlue: Central Fiction ganhará versão para PS5 com cross-play com PC",
+          "published_at": "2026-10-10T16:36:58+00:00",
           "kind": "press",
-          "text": "Silent Hill producer Motoi Okamoto says Konami is looking at \"a number of projects\" after the first wave of new Silent Hill games. Talking to Famitsu , Okamoto said Konami was already thinking about what comes after its first run of new Silent Hill games, teasing \"second and third waves\" of releases. \"All three titles we initially announced were able to be released successfully, so we're relieved (laughs),\" he noted. \"They've also received high praise, and we are satisfied with it. \"Successfully launching this 'first wave' comes with great relief, but we're not stopping here; we must think of the second and third waves. We can't share specific details, but we're currently looking at a number of projects.\" Interesting, Okamoto also hinted that it had taken some time to convince Konami execs, stressing that \"one remake is not enough\". \"As a producer, I cannot let it end only with that,\" he said. \"If there were only one release, wouldn't people think that the development is going to be cancelled again, I thought.\" Silent Hill: Townfall is out now. We awarded it four out of five stars in Eurogamer's Silent Hill: Townfall review , writing: \"Silent Hill: Townfall is, though, an often phenomenal ride; reverent to its roots, rich with ideas, and yes, properly unnerving too. And there is, I think, some pleasing symmetry in the fact the two grandaddies of the survival horror genre - Resident Evil and Silent Hill - have bookended the year with their own distinctive highs; one with a warm eye to the past, the other taking bolder, more experimental strides\". Silent Hill was resuscitated with a bang in 2022 when Konami announced Silent Hill 2 Remake , Silent Hill f , Silent Hill: Townfall, Silent Hill Ascension, and movie Return to Silent Hill all at once, with Silent Hill: The Short Message shadowdropped thereafter, too. Series producer Motoi Okamoto said that the key to the franchise's revival was to \"cherish\" a \"strong psychological horror narrative\" . \"As long as that remains intact, we feel that we can be more liberal and experimental with what kind of gameplay we take,\" Okamoto said at the time. \"So I think that's very evident in how Silent Hill 2 , last year's Silent Hill f and, of course, Silent Hill: Townfall, are all very different gameplay experiences. We feel that as long as we keep the narrative core intact, there's very much room to keep the gameplay style changing.\" Don't forget, Bloober Team - the studio behind the Silent Hill 2 remake - is now working on a remake of the original Silent Hill , which Konami announced in June 2025.",
-          "image": "https://assetsio.gnwcdn.com/A-person-with-pink-nail-polish-rests-James'-face-in-their-hand-in-Silent-Hill-2-Remake.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/",
-          "title": "Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series",
-          "published_at": "2026-10-10T12:26:13+00:00",
-          "kind": "press",
-          "text": "\"We're currently looking at a number of projects,\" says producer Motoi Okamoto. Silent Hill's resurrection is one of the happier stories to emerge from the games industry in recent years. After spending roughly a decade locked in a Konami cupboard, Silent Hill has received three new entries published by Konami in as many years, all of which arrived to positive reviews and, seemingly, healthy sales. But if Silent Hill 2 Remake, Silent Hill f , and Silent Hill: Townfall still haven't satisfied your craving for allegorical horror in foggy towns, fret not, because Konami has plenty more plans for the series' ongoing revival. In an interview featured in Famitsu (via IGN ), Silent Hill producer Motoi Okamoto explained that Konami is \"relieved\" by both the critical and commercial reception to the aforementioned three games. \"All three titles we initially announced were able to be released successfully,\" Okamoto said, adding that, \"they've also received high praise, and we are satisfied with it.\" Okamoto went on to say that the games released so far only represent the \"first wave\" of Konami's planned games for the series, and that there's not one but two additional waves on the drawing board. \"Successfully launching this 'first wave' comes with great relief, but we're not stopping here; we must think of the second and third waves,\" Okamoto stated. \"We can't share specific details, but we're currently looking at a number of projects.\" It's a very different situation from where Silent Hill was only a few years ago. During the chat, Okamoto revealed that persuading Konami's executive to pursue new entries in the series has been challenging, especially after the cancellation of Hideo Kojima's Silent Hills in 2015. While Okamoto eventually got Silent Hill 2's remake greenlit, he was convinced that \"just one remake is not enough\". According to the producer, his reasoning was \"if there were only one release, wouldn't people think that the development is going to be cancelled again?\" While Konami is keeping details of its future Silent Hill projects under wraps, we do know about one of them already. After its excellent remake of Silent Hill 2, Bloober Team is turning its attention to the 1999 original . Remaking the original will represent an interesting challenge, considering how much simpler its narrative is compared to its legendary sequel, and I'm curious to see how Bloober Team will approach it. As for whether NeoBards Entertainment and Screen Burn Interactive will return to the series after their takes on Silent Hill, this is yet to be confirmed. But according to our resident Silent Hill expert Elie Gould, both developers certainly have what it takes. In their Silent Hill f review , Elie described the Japan-set action-horror as a \"true return to form\". As for exploring the Scottish town of St Amelia, Elie wrote that Screen Burn \"absolutely understands what makes a great Silent Hill game\" in their Silent Hill Townfall review . Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/ArsEMsxpwjhaW9qaDEkEki-2560-80.jpg"
+          "text": "",
+          "image": ""
         }
       ]
     }
