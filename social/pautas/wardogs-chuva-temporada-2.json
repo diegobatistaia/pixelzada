@@ -80,6 +80,18 @@
     "Slide 5: Manda pro amigo que joga tiro tático"
   ],
   "slug": "wardogs-chuva-temporada-2",
-  "status": "pronto",
-  "criado": "2026-10-12T07:40:11-03:00"
+  "status": "publicado",
+  "criado": "2026-10-12T07:40:11-03:00",
+  "publicado": {
+    "data": "2026-10-12",
+    "horario": "13:00",
+    "em": "2026-10-12T13:00:22-03:00",
+    "estilo": "inventario",
+    "media_id": "18498853189102830",
+    "permalink": "https://www.instagram.com/p/DeZnR_4mwOf/"
+  },
+  "story": {
+    "em": "2026-10-12T13:00:59-03:00",
+    "media_id": "18098424737435066"
+  }
 }
