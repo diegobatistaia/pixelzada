@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "wardogs-chuva-temporada-2",
-    "horario": "13:00",
-    "data": "2026-10-12",
-    "estilo": "inventario",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "forza-horizon-6-celular",
+    "pasta": "reel-forza-horizon-6-celular",
+    "horario": "14:00",
+    "data": "2026-10-12"
   },
-  "em": "2026-10-12T13:00:22-03:00",
+  "em": "2026-10-12T13:59:34-03:00",
   "ok": true,
-  "media_id": "18498853189102830",
-  "permalink": "https://www.instagram.com/p/DeZnR_4mwOf/",
-  "story": {
-    "em": "2026-10-12T13:00:59-03:00",
-    "media_id": "18098424737435066"
-  },
+  "media_id": "17928619518423534",
+  "permalink": "https://www.instagram.com/reel/DeZuBO1AUn8/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }

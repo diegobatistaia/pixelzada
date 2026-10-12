@@ -143,10 +143,15 @@
     "slug": "forza-horizon-6-celular",
     "data": "2026-10-12",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Uma nova forma de explorar o Forza Horizon 6: com o celular na mão 📱\n\nSegue @pixelzada.br pra acompanhar o Forza Horizon 6.\n\n#forza #forzahorizon6 #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-12T13:59:34-03:00",
+      "media_id": "17928619518423534",
+      "permalink": "https://www.instagram.com/reel/DeZuBO1AUn8/"
+    }
   },
   {
     "slug": "michael-franklin-gta5",
