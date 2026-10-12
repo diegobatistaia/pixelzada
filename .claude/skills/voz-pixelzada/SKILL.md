@@ -39,9 +39,20 @@ para na primeira frase já sabe o que aconteceu.
 aconteceu, quem disse, quando, onde, quanto. Cada informação com atribuição:
 "segundo a Rockstar", "de acordo com a IGN".
 
-**Rumor é rumor.** Vazamento, insider, "fontes próximas": só entra se a pauta
-for sobre o rumor em si, dito como rumor, com quem espalhou e por que importa.
-Nunca escreva vazamento como fato, nem no gancho.
+**Vazamento é pauta (Diego, 12/10).** Até o lançamento de GTA 6, vazamento e
+insider que a comunidade está comentando viram matéria e carrossel: dá
+engajamento e é o assunto do momento. O jeito de escrever:
+- Chame de **vazamento** (ou "segundo o insider X") no título e no gancho, e
+  diga quem vazou e onde apareceu. É isso que separa vazamento de fato.
+- Depois disso, conte o que o vazamento mostra com naturalidade, sem repetir
+  "não confirmado" ou "a Rockstar não comentou" a cada parágrafo. A Rockstar
+  nunca confirma vazamento; uma frase basta, e pode nem aparecer.
+- Pode ter opinião e reação ("se for real, muda tudo"), sem afirmar como
+  certo o que o vazamento diz.
+- **Nunca**: pôr imagem ou vídeo vazado no site ou na arte (use imagem oficial),
+  link ou caminho para baixar build vazada, ou ajudar a espalhar golpe (moeda,
+  "download de GTA 6"). Também não publique dado pessoal de quem trabalha na
+  Rockstar.
 
 **Data, preço e plataforma com fonte.** São os dados que o leitor mais usa e os
 que mais circulam errados. Data de lançamento, preço em reais, plataformas e
@@ -77,7 +88,7 @@ gancho e só se vier com o fato que justifica. No corpo, número descreve.
 ## O que nunca fazer
 
 - Título que esconde a informação para gerar clique ("você não vai acreditar").
-- Tratar rumor, vazamento ou "insider" como fato.
+- Afirmar como fato o que só um vazamento ou "insider" disse (sem a palavra vazamento ou o nome de quem vazou).
 - Inventar aspas, números, datas, preços ou requisitos.
 - Reproduzir frase da matéria-fonte, mesmo reordenada.
 - Zoar pessoa real (dev, jogador, jornalista) por algo que não seja público e

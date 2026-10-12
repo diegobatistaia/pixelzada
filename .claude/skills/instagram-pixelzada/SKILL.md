@@ -188,14 +188,18 @@ o sentido. `fala` de personagem só se estiver no trailer ou no texto oficial.
 - **Slides:** fato checado, frase curta, atribuição ("segundo a Rockstar").
   Título do slide até 60 caracteres; `texto` até 460 caracteres somando os parágrafos.
 - **Sem emoji na arte** e no máximo um ponto de exclamação no carrossel inteiro.
-- Boato só aparece como boato (no texto, ou com selo `boato`/`sem-info`), nunca como fato.
+- **Vazamento de GTA 6 rende carrossel** (Diego, 12/10), desde que exista a
+  matéria do vazamento no site. A capa diz "vazamento" ou "segundo o insider X"
+  e os slides contam o que vazou sem repetir "não confirmado" em cada um. A
+  imagem é sempre oficial, nunca o print vazado. Para vazamento, prefira os
+  formatos `detalhes`, `lista`, `debate` ("acha que é real?") e `perguntas`.
 - **Selos não são regra** (Diego, 09/10): carrossel de notícia e de guia não leva
   lista de selos nem a palavra "confirmado/rumor" em todo slide. Use `itens`
   com selo só no formato **mito-ou-verdade**, e no máximo 1 a cada 4 pautas.
   O resto é conteúdo para chamar atenção: gancho forte na capa (reação, meme,
   número, pergunta), um fato por slide, frase curta. Informar sem virar boletim.
-  Quando o assunto for rumor, o tom diz isso ("ainda é boato", "sem confirmação
-  da Rockstar") dentro da frase, sem tabela de selos.
+  Quando o assunto for vazamento, a palavra "vazamento" na capa já diz tudo;
+  não precisa avisar de novo em cada slide.
 
 ## Legenda
 

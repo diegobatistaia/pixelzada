@@ -116,8 +116,16 @@ o rumor da semana é verdade. **GTA 6 vem primeiro**: até o lançamento
 (19/11/2026), pauta confirmada de GTA 6 tem preferência sobre qualquer outra de
 peso parecido. Depois, entre duas pautas igualmente bem apuradas, prefira a que
 muda alguma coisa para quem joga (data, preço, trailer, atualização, promoção
-oficial, requisito) em vez de bastidor de empresa. Rumor de GTA 6 sem
-confirmação não vira matéria, por mais que circule.
+oficial, requisito) em vez de bastidor de empresa.
+
+**Vazamento de GTA 6 vira matéria** (Diego, 12/10). A matéria é sobre o
+vazamento: quem vazou, onde, o que mostra, e o que a comunidade está dizendo.
+O fato checado é que o vazamento existe e o que ele diz, e isso segue a regra
+das duas fontes: dois owners diferentes noticiando o vazamento. Não precisa de
+confirmação da Rockstar (ela nunca confirma). Título e gancho dizem
+"vazamento" ou "segundo o insider X"; o resto segue
+`voz-pixelzada` ("Vazamento é pauta"). Imagem sempre oficial, nunca o print
+vazado. Rumor de GTA 6 que só um veículo publicou continua de fora.
 
 Publique no máximo `posts_per_language_today` pautas (está no briefing). Esse
 número é o teto **desta rodada**, não do dia: o briefing também traz
