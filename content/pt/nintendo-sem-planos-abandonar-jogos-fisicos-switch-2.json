@@ -118,7 +118,9 @@
     "query": "Nintendo Switch 2 jogo físico",
     "alt": "Cartucho de jogo da Nintendo usado em consoles Switch",
     "url": "https://assetsio.gnwcdn.com/mario-game-cart.jpg",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/nintendo-sem-planos-abandonar-jogos-fisi-3d27380d.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -146,5 +148,7 @@
       "title": "Nintendo Says It Has No Plans To Ditch Physical Games Yet"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T16:40:22+00:00",
+  "updated_at": "2026-10-12T16:40:22+00:00"
 }

@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 12 Oct 2026 14:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:40:22 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nintendo diz que não tem planos de abandonar jogos físicos no Switch 2</title>
+      <link>https://pixelzada.com.br/pt/nintendo-sem-planos-abandonar-jogos-fisicos-switch-2/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/nintendo-sem-planos-abandonar-jogos-fisicos-switch-2/</guid>
+      <description>Bill van Zyll, da Nintendo na América Latina, disse que não há planos de abandonar jogos físicos no Switch 2. Veja o que ele disse e a diferença para a Sony.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Mon, 12 Oct 2026 16:40:22 +0000</pubDate>
+    </item>
     <item>
       <title>Gears of War: E-Day sofreu ataque DDoS no fim de semana, confirma a The Coalition</title>
       <link>https://pixelzada.com.br/pt/gears-of-war-e-day-ataque-ddos-servidores/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/game-pass-outubro-2026-battlefield-6/</guid>
       <description>Battlefield 6, Valor Mortis e Forever Ago entram no Game Pass em outubro. Veja as datas de cada jogo e os títulos que saem do serviço, como Clair Obscur.</description>
       <category>Lançamentos</category>
-      <pubDate>Thu, 08 Oct 2026 10:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 no Xbox Cloud Gaming: o que é verdade e o que ficou de fora</title>
-      <link>https://pixelzada.com.br/pt/gta-6-xbox-streaming-nuvem-pc/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-xbox-streaming-nuvem-pc/</guid>
-      <description>A Microsoft negou exclusividade e streaming de GTA 6 no PC pelo Xbox Cloud Gaming. Veja o que mudou desde o relato do The Verge e o que segue em aberto.</description>
-      <category>GTA 6</category>
       <pubDate>Thu, 08 Oct 2026 10:15:04 +0000</pubDate>
     </item>
   </channel>
