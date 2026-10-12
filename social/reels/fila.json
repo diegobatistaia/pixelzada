@@ -115,10 +115,15 @@
     "slug": "battlefield-redsec-mapa-pegando-fogo",
     "data": "2026-10-12",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conquista (vertical)",
     "legenda": "Battlefield REDSEC com o mapa inteiro pegando fogo 🔥\n\nSegue @pixelzada.br pra acompanhar o Battlefield 6.\n\n#battlefield #battlefield6 #redsec #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-12T10:33:42-03:00",
+      "media_id": "18082464149351339",
+      "permalink": "https://www.instagram.com/reel/DeZWd0mAmxu/"
+    }
   },
   {
     "slug": "nao-fique-triste-gta5",
