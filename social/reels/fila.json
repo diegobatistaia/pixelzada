@@ -129,10 +129,15 @@
     "slug": "nao-fique-triste-gta5",
     "data": "2026-10-12",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Não fique triste porque está acabando, fique feliz porque aconteceu 🥹\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #gtavi #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-12T12:07:48-03:00",
+      "media_id": "18104006201199704",
+      "permalink": "https://www.instagram.com/reel/DeZhOlGEsDh/"
+    }
   },
   {
     "slug": "forza-horizon-6-celular",
