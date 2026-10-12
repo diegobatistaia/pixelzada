@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Yuji Horii",
+  "gta6": false,
+  "materia": "yuji-horii-dragon-quest-jogo-ia-30-minutos",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/10/yuji-horii_feature.jpg",
+    "credito": "Video Games Chronicle",
+    "pos": "50% 30%"
+  },
+  "fonte": "Fontes: VGC, Eurogamer e Kotaku",
+  "capa": {
+    "titulo": "O criador de Dragon Quest fez um jogo em 30 minutos",
+    "destaque": "30 minutos",
+    "apoio": "Com IA, segundo o próprio Horii. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O tempo",
+      "titulo": "30 minutos de produção",
+      "destaque": "30 minutos",
+      "texto": [
+        "Yuji Horii disse no X que o jogo levou **cerca de 30 minutos** para ficar pronto com IA, segundo o VGC.",
+        "O título é Interrogation Room Komiya."
+      ]
+    },
+    {
+      "rotulo": "O jogo",
+      "titulo": "1 sala e 1 suspeito",
+      "destaque": "1 sala",
+      "texto": [
+        "O jogador tenta fazer o suspeito **confessar**, escolhendo perguntas em texto, de acordo com o Kotaku.",
+        "O jogo roda no navegador."
+      ]
+    },
+    {
+      "rotulo": "A regra",
+      "titulo": "100 é o limite dos medidores",
+      "destaque": "100",
+      "texto": [
+        "Os medidores de agitação e resistência sobem e descem conforme as perguntas.",
+        "Se um deles chega a **100**, o suspeito para de responder, segundo o Kotaku."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que defende IA nos jogos",
+  "legenda": {
+    "gancho": "O criador de Dragon Quest lançou um jogo que diz ter feito com IA em cerca de 30 minutos.",
+    "corpo": [
+      "Segundo VGC, Eurogamer e Kotaku, Yuji Horii publicou Interrogation Room Komiya, um jogo de interrogatório no navegador.",
+      "Ele elogiou a tecnologia nas redes sociais e lembrou que, em 1983, fez Portopia praticamente sozinho."
+    ],
+    "chamada": "IA em jogo: você é a favor ou contra?",
+    "hashtags": [
+      "#pixelzada",
+      "#dragonquest",
+      "#squareenix",
+      "#ia"
+    ]
+  },
+  "alt": [
+    "Slide 1: Criador de Dragon Quest fez um jogo em 30 minutos",
+    "Slide 2: Cerca de 30 minutos de produção",
+    "Slide 3: Uma sala e um suspeito",
+    "Slide 4: Medidores com limite em 100",
+    "Slide 5: Manda pro amigo que defende IA nos jogos"
+  ],
+  "slug": "yuji-horii-dragon-quest-jogo-ia-30-minutos",
+  "status": "pronto",
+  "criado": "2026-10-12T15:40:41-03:00"
+}

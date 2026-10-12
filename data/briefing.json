@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-12T18:38:38+00:00",
-  "posts_per_language_today": 2,
+  "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
   "already_written_today": 5,
   "min_independent_sources": 2,
@@ -472,5 +472,271 @@
         }
       ]
     }
-  ]
+  ],
+  "especial_gta6": {
+    "id": "especial-gta6-lucia-caminos",
+    "tema": "Lucia Caminos: quem é a protagonista de GTA 6",
+    "categoria": "gta-6",
+    "angulo": "Quem é Lucia, a lutadora recém-saída da cadeia que divide o protagonismo de GTA 6 com Jason, e o que o jogo já mostrou dela antes do lançamento.",
+    "fatos": [
+      {
+        "texto": "Lucia Caminos é uma das duas protagonistas de GTA 6, ao lado de Jason Duval.",
+        "fontes": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "texto": "Segundo o perfil oficial, o pai de Lucia a ensinou a lutar assim que ela aprendeu a andar.",
+        "fontes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "texto": "Lutar pela própria família a levou para a Penitenciária de Leonida.",
+        "fontes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "texto": "Ela saiu da prisão por pura sorte, e agora quer fazer só jogadas inteligentes.",
+        "fontes": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "texto": "Lucia quer a vida boa que a mãe sonha desde a época em que as duas viviam em Liberty City, e está disposta a resolver as coisas com as próprias mãos.",
+        "fontes": [
+          0,
+          1
+        ]
+      },
+      {
+        "texto": "Para a Rockstar, uma vida ao lado de Jason pode ser a saída de Lucia.",
+        "fontes": [
+          0
+        ]
+      },
+      {
+        "texto": "Falas de Lucia no site oficial incluem \"A única coisa que importa é quem você conhece e o que você tem\".",
+        "fontes": [
+          0
+        ]
+      },
+      {
+        "texto": "Os trailers mostram Lucia deixando a prisão; no Trailer 2, é Jason quem vai buscá-la.",
+        "fontes": [
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "Na sinopse oficial, Jason e Lucia sempre souberam que as cartas estavam marcadas contra eles; quando um golpe fácil dá errado, os dois caem no lado mais sombrio de Vice City, no meio de uma conspiração criminosa que se espalha pelo estado de Leonida, e precisam confiar um no outro para sair vivos.",
+        "fontes": [
+          0,
+          8
+        ]
+      },
+      {
+        "texto": "A Rockstar publicou os perfis oficiais dos personagens no site de GTA VI em 6 de maio de 2025, no mesmo dia em que lançou o Trailer 2.",
+        "fontes": [
+          1,
+          2
+        ]
+      },
+      {
+        "texto": "O vídeo 'Grand Theft Auto VI: An Extended Look', com cerca de 26 minutos de jogo capturado no PS5, estreou na Netflix em 27 de agosto de 2026 às 15h (horário de Nova York, 16h em Brasília) e chegou ao YouTube da Rockstar às 21h (22h em Brasília) do mesmo dia.",
+        "fontes": [
+          10,
+          9,
+          4
+        ]
+      },
+      {
+        "texto": "No Extended Look, Lucia pergunta a Jason qual roupa usar antes de uma festa na casa de Brian Heder.",
+        "fontes": [
+          4,
+          6
+        ]
+      },
+      {
+        "texto": "O vídeo mostra Lucia treinando: ela aparece fazendo sparring e supino.",
+        "fontes": [
+          7,
+          5
+        ]
+      },
+      {
+        "texto": "Em combates corpo a corpo, Lucia pode atacar usando um salto alto, segundo cenas mostradas pela Rockstar.",
+        "fontes": [
+          3,
+          6
+        ]
+      },
+      {
+        "texto": "No trecho final, Jason e Lucia fazem a segurança de um evento corporativo que é atacado; no fim do vídeo, Lucia está em perigo.",
+        "fontes": [
+          4,
+          7
+        ]
+      },
+      {
+        "texto": "Rumor, sem confirmação da Rockstar: a atriz Manni L. Perez é apontada como a intérprete de Lucia; a Dexerto afirma que 'a Rockstar ainda não confirmou' e a SVG lembra que o elenco não foi anunciado.",
+        "fontes": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "texto": "Perez já teve um papel pequeno em GTA V: segundo a Dexerto, ela aparece nos créditos como duas crupiês de blackjack sem nome no cassino Diamond.",
+        "fontes": [
+          11,
+          12
+        ]
+      },
+      {
+        "texto": "GTA 6 sai em 19 de novembro de 2026 para PS5 e Xbox Series X|S, segundo o site oficial e a GameSpot (agosto de 2026); em maio de 2025 a Rockstar havia anunciado 26 de maio de 2026, data que depois foi adiada.",
+        "fontes": [
+          0,
+          8,
+          9
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "Rockstar Games",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI/lucia",
+        "title": "An Extended Look: Now Playing"
+      },
+      {
+        "name": "Video Games Chronicle",
+        "owner": "vgc",
+        "kind": "press",
+        "url": "https://www.videogameschronicle.com/news/gta-6s-cast-of-characters-revealed/",
+        "title": "GTA 6's cast of characters revealed, including a conspiracy theorist and strip club gangster"
+      },
+      {
+        "name": "Game Informer",
+        "owner": "game-informer",
+        "kind": "press",
+        "url": "https://www.gameinformer.com/2025/05/06/rockstar-details-9-of-grand-theft-auto-vi-presumably-many-many-characters",
+        "title": "Rockstar Details Nine of Grand Theft Auto VI's Presumably Many, Many Characters"
+      },
+      {
+        "name": "PC Gamer",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.pcgamer.com/games/action/grand-theft-auto/gta6-characters/",
+        "title": "GTA 6 characters: Everyone we know about so far"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+        "title": "Everything revealed from the GTA 6 extended look"
+      },
+      {
+        "name": "Engadget",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.engadget.com/2246846/things-you-may-have-missed-gta-6-extended-look/",
+        "title": "20+ Things You May Have Missed In The GTA 6 Extended Look"
+      },
+      {
+        "name": "KeenGamer",
+        "owner": "keengamer",
+        "kind": "press",
+        "url": "https://www.keengamer.com/articles/news/gta-6-extended-look-recap-all-gameplay-details/",
+        "title": "GTA 6 Extended Look Recap: All Gameplay Details"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/gta-6-extended-look-jason-lucia-story/",
+        "title": "GTA 6 Extended Look Showcases Jason and Lucia's Story"
+      },
+      {
+        "name": "Rockstar Games (Business Wire)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.businesswire.com/news/home/20250506618004/en/ADDING-MULTIMEDIA-Rockstar-Games-Releases-Trailer-2-for-Grand-Theft-Auto-VI",
+        "title": "ADDING MULTIMEDIA Rockstar Games Releases Trailer 2 for Grand Theft Auto VI"
+      },
+      {
+        "name": "GameSpot",
+        "owner": "fandom",
+        "kind": "press",
+        "url": "https://www.gamespot.com/articles/gta-6-netflix-trailers-beefy-runtime-revealed-footage-captured-on-ps5/",
+        "title": "GTA 6 Netflix Trailer's Beefy Runtime Revealed, Footage Captured On PS5"
+      },
+      {
+        "name": "Rockstar Newswire",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9/grand-theft-auto-vi-an-extended-look",
+        "title": "Grand Theft Auto VI: An Extended Look"
+      },
+      {
+        "name": "Dexerto",
+        "owner": "dexerto",
+        "kind": "press",
+        "url": "https://www.dexerto.com/gta/gta-6s-lucia-actress-actually-appears-in-gta-online-and-you-might-have-missed-her-3404005/",
+        "title": "GTA 6's Lucia actress actually appears in GTA Online and you might have missed her"
+      },
+      {
+        "name": "SVG",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.svg.com/2120810/gta-6-rumored-cast-look-real-life/",
+        "title": "What The Rumored Cast Of GTA 6 Looks Like In Real Life"
+      },
+      {
+        "name": "Pure Xbox",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://www.purexbox.com/news/2025/05/gta-6-fans-are-trying-to-figure-out-the-games-voice-actors",
+        "title": "GTA 6 Fans Are Trying To Figure Out The Game's Voice Actors"
+      },
+      {
+        "name": "PCGamesN",
+        "owner": "network-n",
+        "kind": "press",
+        "url": "https://www.pcgamesn.com/grand-theft-auto-6/voice-actors",
+        "title": "Who are the GTA 6 voice actors?"
+      },
+      {
+        "name": "SVG",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.svg.com/2246330/gta-6-extended-look-actors-voice-cast/",
+        "title": "All The Actors We Recognized In The GTA 6 Extended Look"
+      }
+    ],
+    "imagem": {
+      "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.02k0a_sb5-8k7.jpg?akim=1&imdensity=1&imwidth=3840",
+      "credito": "Rockstar Games",
+      "descricao": "Imagem da seção de Lucia Caminos no site oficial de GTA VI"
+    },
+    "formatos_carrossel": [
+      "em-foco",
+      "perguntas",
+      "detalhes"
+    ]
+  },
+  "especiais_gta6_hoje": 1
 }

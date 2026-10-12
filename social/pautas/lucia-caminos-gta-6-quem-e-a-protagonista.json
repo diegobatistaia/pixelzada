@@ -1,0 +1,81 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "lucia-caminos-gta-6-quem-e-a-protagonista",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.02k0a_sb5-8k7.jpg?akim=1&imdensity=1&imwidth=3840",
+    "credito": "Rockstar Games",
+    "pos": "50% 35%"
+  },
+  "fonte": "Fontes: Rockstar, VGC e Game Informer",
+  "capa": {
+    "titulo": "Lucia Caminos: tudo que a Rockstar já contou",
+    "destaque": "Lucia Caminos",
+    "apoio": "Quem é a protagonista de GTA 6, em quatro perguntas. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quem é a Lucia?",
+      "destaque": "Lucia",
+      "texto": [
+        "Lucia é uma das duas protagonistas de GTA 6, ao lado de Jason, segundo a Rockstar.",
+        "O pai a **ensinou a lutar** assim que ela aprendeu a andar."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Por que ela foi presa?",
+      "destaque": "presa",
+      "texto": [
+        "Lutar pela família a levou à **Penitenciária de Leonida**, segundo o VGC e a Game Informer.",
+        "Ela saiu por pura sorte e agora quer só jogadas inteligentes."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "O que ela faz no vídeo?",
+      "destaque": "vídeo",
+      "texto": [
+        "No Extended Look, Lucia aparece **treinando**, com sparring e supino, segundo o Insider Gaming.",
+        "Ela também pode atacar usando um salto alto, de acordo com o PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 4",
+      "titulo": "Quem faz a voz dela?",
+      "destaque": "voz",
+      "texto": [
+        "A Rockstar **não anunciou o elenco**. A atriz Manni L. Perez é só um palpite dos fãs, segundo a Dexerto."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai jogar de Lucia",
+  "legenda": {
+    "gancho": "Lucia Caminos divide o protagonismo de GTA 6 com Jason, e a Rockstar já contou bastante sobre ela.",
+    "corpo": [
+      "Segundo a Rockstar, o pai de Lucia a ensinou a lutar e lutar pela família a levou à Penitenciária de Leonida. Ela saiu por sorte e quer só jogadas inteligentes.",
+      "No vídeo Extended Look, ela aparece treinando e pode atacar com salto alto. Quem faz a voz dela não foi anunciado."
+    ],
+    "chamada": "Você vai de Lucia ou de Jason?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Lucia Caminos, tudo que a Rockstar já contou",
+    "Slide 2: Quem é a Lucia",
+    "Slide 3: Por que ela foi presa",
+    "Slide 4: O que ela faz no vídeo",
+    "Slide 5: Quem faz a voz dela",
+    "Slide 6: Manda pro amigo que vai jogar de Lucia"
+  ],
+  "slug": "lucia-caminos-gta-6-quem-e-a-protagonista",
+  "status": "pronto",
+  "criado": "2026-10-12T15:40:41-03:00"
+}
