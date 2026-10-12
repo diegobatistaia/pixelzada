@@ -129,7 +129,9 @@
     "query": "Squadron 42 trailer",
     "alt": "Cena do novo trailer de Squadron 42, jogo solo de Star Citizen",
     "url": "https://assets-prd.ignimgs.com/2026/10/10/s42-main-1791639420951.png",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/squadron-42-trailer-steam-elenco-2027-fe501fcd.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -145,5 +147,7 @@
       "title": "Squadron 42 has a Steam page"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T12:41:58+00:00",
+  "updated_at": "2026-10-12T12:41:58+00:00"
 }

@@ -115,7 +115,9 @@
     "query": "Jason Duval GTA 6",
     "alt": "Arte oficial de Jason Duval, um dos protagonistas de GTA 6, no site da Rockstar",
     "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.07_8xvc_cedh..jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/jason-duval-gta-6-quem-e-o-protagonista-17d8c404.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -203,5 +205,7 @@
       "title": "Who are the GTA 6 voice actors?"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T12:41:57+00:00",
+  "updated_at": "2026-10-12T12:41:57+00:00"
 }
