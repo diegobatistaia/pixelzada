@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "Wing Commander 3",
+  "gta6": false,
+  "materia": "wing-commander-3-remaster-30-anos-fitas-originais",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/10/wing-commander-3.jpg",
+    "credito": "Electronic Arts",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: PC Gamer e VGC",
+  "capa": {
+    "titulo": "Wing Commander 3 ganha edição de 30 anos",
+    "destaque": "30 anos",
+    "apoio": "As fitas originais foram achadas no arquivo da EA. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que se sabe",
+      "titulo": "Fato e buraco",
+      "destaque": "buraco",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "EA anunciou edição de 30 anos"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Vídeos restaurados das fitas originais"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Até 60 quadros por segundo"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Data, preço e plataformas"
+        }
+      ]
+    },
+    {
+      "rotulo": "As fitas",
+      "titulo": "Fitas achadas no arquivo",
+      "destaque": "fitas",
+      "texto": [
+        "O produtor Jim Vessella achou **600 fitas** ao digitalizar o acervo da EA, segundo o PC Gamer.",
+        "O jogo de 1994 saiu com vídeos em 240p, de acordo com o VGC."
+      ]
+    },
+    {
+      "rotulo": "Elenco",
+      "titulo": "Luke Skywalker na nave",
+      "destaque": "Luke",
+      "texto": [
+        "Mark Hamill, o **Luke Skywalker**, vive o protagonista, segundo o VGC.",
+        "Malcolm McDowell e John Rhys-Davies também estão no elenco."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que jogou nos anos 90",
+  "legenda": {
+    "gancho": "A EA anunciou uma edição de 30 anos de Wing Commander 3, com vídeos restaurados das fitas originais.",
+    "corpo": [
+      "O anúncio foi num painel de um evento retrô, segundo PC Gamer e VGC. A edição terá até 60 quadros por segundo e integração com a Kilrathi Saga.",
+      "Data, preço e plataformas não foram confirmados pela EA."
+    ],
+    "chamada": "Você jogou Wing Commander na época?",
+    "hashtags": [
+      "#pixelzada",
+      "#wingcommander",
+      "#ea",
+      "#retrogames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Wing Commander 3 ganha edição de 30 anos",
+    "Slide 2: Vídeos restaurados e 60 quadros por segundo",
+    "Slide 3: 600 fitas achadas no arquivo da EA",
+    "Slide 4: Mark Hamill no elenco",
+    "Slide 5: Manda pro amigo que jogou nos anos 90"
+  ],
+  "slug": "wing-commander-3-edicao-30-anos",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}

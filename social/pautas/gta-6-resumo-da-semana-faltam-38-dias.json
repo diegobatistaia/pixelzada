@@ -1,0 +1,85 @@
+{
+  "tipo": "noticia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-radios-podcasts-fones-rockstar-site",
+  "imagem": {
+    "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, The Verge e Polygon",
+  "capa": {
+    "titulo": "Faltam 38 dias para GTA 6: resumo da semana",
+    "destaque": "38 dias",
+    "apoio": "Rádios, nuvem, Switch 2 e vazamento. O que é fato. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Resumo",
+      "titulo": "O que valeu na semana",
+      "destaque": "semana",
+      "itens": [
+        {
+          "selo": "confirmado",
+          "texto": "Seis rádios reveladas e podcasts a pé"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "Sem streaming exclusivo no Xbox"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Versão para Switch 2"
+        },
+        {
+          "selo": "boato",
+          "texto": "Vazador ameaça soltar build completa"
+        }
+      ]
+    },
+    {
+      "rotulo": "Oficial",
+      "titulo": "Lançamento em 19 de novembro",
+      "destaque": "19 de novembro",
+      "texto": [
+        "A Rockstar manteve **19 de novembro** para PS5 e Xbox Series X/S, segundo a IGN.",
+        "A pré-venda está aberta, de acordo com o The Verge."
+      ]
+    },
+    {
+      "rotulo": "Cuidado",
+      "titulo": "Vazamento não é fato",
+      "destaque": "não é fato",
+      "texto": [
+        "O Cyberleek ameaça soltar uma build, mas **não há confirmação** de que ele tenha o que diz.",
+        "Siga só os canais oficiais da Rockstar."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que perdeu a semana",
+  "legenda": {
+    "gancho": "Faltam 38 dias para GTA 6, e esta semana teve rádio, nuvem, Switch 2 e uma ameaça de vazamento.",
+    "corpo": [
+      "A Rockstar mostrou seis rádios e confirmou podcasts, segundo IGN e The Verge. O Xbox não terá streaming exclusivo, e a Nintendo disse que não tem nada a anunciar sobre o Switch 2.",
+      "O vazador Cyberleek ameaça soltar uma build, de acordo com o Polygon, mas isso não está confirmado. A data de 19 de novembro foi mantida."
+    ],
+    "chamada": "Qual novidade da semana mais te animou?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Faltam 38 dias para GTA 6: resumo da semana",
+    "Slide 2: Rádios, nuvem, Switch 2 e vazamento",
+    "Slide 3: Lançamento mantido em 19 de novembro",
+    "Slide 4: Vazamento não é fato",
+    "Slide 5: Manda pro amigo que perdeu a semana"
+  ],
+  "slug": "gta-6-resumo-da-semana-faltam-38-dias",
+  "status": "pronto",
+  "criado": "2026-10-10T07:50:00-03:00"
+}
