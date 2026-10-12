@@ -88,6 +88,8 @@ publicação estica a validade de novo; se a conta ficar 60 dias sem publicar,
   acha os rostos da foto com o detector YuNet do OpenCV
   (`scripts/engine/rosto.py`) e enquadra todos os slides neles; sem rosto,
   vale o `pos` da pauta. No site, o mesmo detector decide o recorte 16:9 da
-  capa (`images.recortar`) e grava `image.foco` para as miniaturas.
+  capa (`images.recortar`), escolhe entre `image.url` e `image.alternativas` a
+  primeira em que o rosto sai inteiro e grava `image.foco` para as miniaturas.
+  Nunca há faixa ou fundo desfocado nas laterais (Diego, 12/10).
 - Formatos com duas imagens (expectativa x realidade, comparativo) ainda não
   estão no gerador.

@@ -123,33 +123,51 @@ def query_ladder(post: dict, cfg: Config) -> list[str]:
     return ladder
 
 
-def _da_fonte(post: dict) -> dict | None:
-    """Imagem oficial de divulgação (og:image da fonte), recortada em 16:9.
-
-    A redação copia a URL do campo `image` da fonte no briefing para
-    `post.image.url`. Se não abrir, for pequena ou não for imagem, devolve
-    None e o chamador cai na capa própria.
-    """
-    img = post.get("image") or {}
-    url = (img.get("url") or "").strip()
-    if not url:
-        return None
+def _baixar(url: str) -> Image.Image | None:
     try:
         resp = requests.get(url, headers={"User-Agent": "PixelzadaBot/1.0"}, timeout=TIMEOUT)
         resp.raise_for_status()
         im = Image.open(io.BytesIO(resp.content)).convert("RGB")
     except Exception:
         return None
-    if im.width < 800:
-        return None
-    im, foco = recortar(im, 16 / 9)
+    return im if im.width >= 800 else None
+
+
+def _da_fonte(post: dict) -> dict | None:
+    """Imagem oficial de divulgação (og:image da fonte), recortada em 16:9.
+
+    A redação copia a URL do campo `image` da fonte no briefing para
+    `post.image.url` e pode dar outras em `post.image.alternativas`. Vale a
+    primeira que, recortada, mostra rosto e rostos inteiros; depois a primeira
+    sem rosto; por último a primeira que abriu (recortada no rosto principal). Se nenhuma abrir, for pequena ou
+    não for imagem, devolve None e o chamador cai na capa própria.
+    """
+    img = post.get("image") or {}
+    urls = [u.strip() for u in [img.get("url") or "", *(img.get("alternativas") or [])] if u and u.strip()]
+    sem_rosto = cortada = None
+    for url in urls:
+        im = _baixar(url)
+        if im is None:
+            continue
+        recorte, foco, inteiro = recortar(im, 16 / 9)
+        if inteiro and foco:                           # personagem à vista, rosto inteiro
+            return _salvar(post, img, url, recorte, foco)
+        if inteiro:
+            sem_rosto = sem_rosto or (url, recorte, foco)
+        else:
+            cortada = cortada or (url, recorte, foco)
+    escolha = sem_rosto or cortada
+    return _salvar(post, img, *escolha) if escolha else None
+
+
+def _salvar(post: dict, img: dict, url: str, im: Image.Image, foco: str | None) -> dict:
     im = im.resize((MAX_WIDTH, round(MAX_WIDTH * 9 / 16)), Image.LANCZOS)
     IMG_DIR.mkdir(parents=True, exist_ok=True)
     # o recorte entra no nome: capa recortada de novo ganha arquivo novo e não
     # fica presa no cache do navegador
-    nome = f"{post['slug'][:40]}-{fingerprint(url + '|r2|' + (foco or ''))[:8]}.jpg"
+    nome = f"{post['slug'][:40]}-{fingerprint(url + '|r3|' + (foco or ''))[:8]}.jpg"
     im.save(IMG_DIR / nome, "JPEG", quality=QUALITY, optimize=True, progressive=True)
-    achada = {**img, "path": f"/assets/img/{nome}",
+    achada = {**img, "url": url, "path": f"/assets/img/{nome}",
               "credit": (img.get("credit") or "Imagem: divulgação").strip(),
               "source_url": img.get("source_url", "")}
     achada.pop("foco", None)
@@ -158,23 +176,21 @@ def _da_fonte(post: dict) -> dict | None:
     return achada
 
 
-def recortar(im: Image.Image, alvo: float) -> tuple[Image.Image, str | None]:
+def recortar(im: Image.Image, alvo: float) -> tuple[Image.Image, str | None, bool]:
     """Recorta `im` na proporção `alvo` (largura/altura) sem cortar rosto.
 
-    Com rosto, a janela é posta sobre as cabeças (inteiras, com testa e queixo)
-    e devolve também o foco delas na imagem recortada, para o CSS das
-    miniaturas usar em object-position. Se as cabeças não cabem na janela
-    (rosto em close numa foto em pé), a foto entra inteira na altura das
-    cabeças sobre um fundo desfocado dela mesma, como nos Reels. Sem rosto,
-    foto alta perde mais embaixo do que em cima (cabeça costuma estar no alto)
-    e foto larga perde igual dos dois lados.
+    A imagem sempre preenche o quadro inteiro (nada de faixa ou fundo
+    desfocado nas laterais, pedido do Diego em 12/10). Com rosto, a janela é
+    posta sobre as cabeças (inteiras, com testa e queixo) e devolve o foco
+    delas na imagem recortada, para o CSS das miniaturas usar em
+    object-position. Se as cabeças não cabem, tenta só o rosto principal, e
+    depois com folga mínima; `inteiro` volta False quando nem assim cabe (close
+    em foto em pé): aí o chamador deve preferir outra imagem. Sem rosto, foto
+    alta perde mais embaixo do que em cima e foto larga perde igual dos lados.
     """
-    from PIL import ImageFilter, ImageEnhance
-
     from . import rosto
 
     caixas = rosto.rostos(im)
-    area = rosto.area_das_cabecas(caixas)
     W, H = im.size
     if W / H > alvo:                                   # larga demais: corta dos lados
         jw, jh = round(H * alvo), H
@@ -184,35 +200,33 @@ def recortar(im: Image.Image, alvo: float) -> tuple[Image.Image, str | None]:
     def cabe(a):
         return a[2] - a[0] <= jw and a[3] - a[1] <= jh
 
-    if area and not cabe(area):                        # todos não cabem: fica o rosto principal
-        area = rosto.area_das_cabecas([max(caixas, key=lambda c: c[2] * c[3])])
-    if area and not cabe(area):
-        # não cabe: fundo desfocado + o trecho das cabeças inteiro por cima
-        folga = round(0.08 * (area[3] - area[1]))
-        if jw == W:                                    # foto em pé: faixa inteira na altura das cabeças
-            trecho = im.crop((0, max(0, area[1] - folga), W, min(H, area[3] + folga)))
-        else:                                          # foto deitada: coluna inteira na largura delas
-            trecho = im.crop((max(0, area[0] - folga), 0, min(W, area[2] + folga), H))
-        fx, fy = (W - jw) // 2, round((H - jh) * 0.15)
-        fundo = im.crop((fx, fy, fx + jw, fy + jh)).filter(ImageFilter.GaussianBlur(max(jw, jh) / 30))
-        fundo = ImageEnhance.Brightness(fundo).enhance(0.55)
-        k = min(jw / trecho.width, jh / trecho.height)
-        trecho = trecho.resize((max(1, round(trecho.width * k)), max(1, round(trecho.height * k))), Image.LANCZOS)
-        fundo.paste(trecho, ((jw - trecho.width) // 2, (jh - trecho.height) // 2))
-        return fundo, "50% 50%"
+    area, inteiro = None, True
+    if caixas:
+        principal = [max(caixas, key=lambda c: c[2] * c[3])]
+        for tentativa in (rosto.area_das_cabecas(caixas), rosto.area_das_cabecas(principal),
+                          rosto.area_das_cabecas(principal, justa=True)):
+            area = tentativa
+            if cabe(area):
+                break
+        else:
+            inteiro = False
 
     if jw < W:
         esq = (W - jw) // 2
         if area:
             esq = round((area[0] + area[2]) / 2 - jw / 2)
-            esq = min(max(esq, area[2] - jw), area[0])  # nenhuma cabeça pela metade
+            if area[2] - area[0] <= jw:
+                esq = min(max(esq, area[2] - jw), area[0])  # nenhuma cabeça pela metade
         esq = min(max(0, esq), W - jw)
         caixa = (esq, 0, esq + jw, H)
     else:
         topo = round((H - jh) * 0.15)
         if area:
             topo = round((area[1] + area[3]) / 2 - jh * 0.42)  # cabeças um pouco acima do meio
-            topo = min(max(topo, area[3] - jh), area[1])
+            if area[3] - area[1] <= jh:
+                topo = min(max(topo, area[3] - jh), area[1])
+            else:                                      # não cabe: perde o queixo, nunca a testa
+                topo = area[1]
         topo = min(max(0, topo), H - jh)
         caixa = (0, topo, W, topo + jh)
     recorte = im.crop(caixa)
@@ -221,7 +235,7 @@ def recortar(im: Image.Image, alvo: float) -> tuple[Image.Image, str | None]:
         cx = ((area[0] + area[2]) / 2 - caixa[0]) / (caixa[2] - caixa[0])
         cy = ((area[1] + area[3]) / 2 - caixa[1]) / (caixa[3] - caixa[1])
         foco = f"{min(100, max(0, round(cx * 100)))}% {min(100, max(0, round(cy * 100)))}%"
-    return recorte, foco
+    return recorte, foco, inteiro
 
 
 def attach(post: dict, cfg: Config) -> dict:

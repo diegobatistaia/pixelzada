@@ -210,6 +210,7 @@ Um arquivo por matéria, em `content/<idioma>/<slug>.json`:
     "query": "busca em inglês (reserva, se a imagem da fonte falhar)",
     "alt": "Descrição da imagem no idioma do texto, com pelo menos 15 caracteres",
     "url": "URL do campo image de uma fonte da pauta no briefing",
+    "alternativas": ["outras URLs de imagem oficial deitada (opcional)"],
     "credit": "Imagem: Xbox Wire"
   },
   "sources": [
@@ -229,14 +230,23 @@ Regras do arquivo:
   inventar: se não souber, descreva o jogo e o assunto. Sem URL utilizável, a
   matéria sai com a capa própria da Pixelzada. Nunca use imagem de outro lugar.
 - **Nunca cortar nem cobrir o rosto de personagem (regra do Diego, 12/10).** A
-  capa precisa mostrar a cena bem enquadrada: cabeça inteira, sem testa, olhos
-  ou queixo cortados, e nada (selo, texto, logo) por cima do rosto. Vale para o
-  site e para os carrosséis do Instagram. O Finalizar acha os rostos e recorta
-  em volta deles (`scripts/engine/rosto.py`), mas ajude escolhendo a imagem:
-  prefira a versão deitada (16:9, "desktop", "wide", "1920x1080") à versão em
-  pé de celular (URL com `mobile`, `portrait`, `9x16`), porque numa foto em pé o
-  rosto quase nunca cabe inteiro numa faixa 16:9. Se a capa publicada sair com
-  rosto cortado, rode o workflow **Capas**, que refaz o recorte das publicadas.
+  capa é sempre uma imagem deitada, cheia, em boa resolução, com a cena bem
+  enquadrada: cabeça inteira, sem testa, olhos ou queixo cortados, e nada
+  (selo, texto, logo) por cima do rosto. **Nunca capa com faixa ou fundo
+  desfocado nas laterais.** Vale para o site e para os carrosséis do
+  Instagram. Como fazer:
+  - Use imagem deitada (16:9, "desktop", "wide", "1920x1080", screenshot
+    oficial). Nunca a versão em pé de celular (URL com `mobile`, `portrait`,
+    `9x16`): numa foto em pé o rosto não cabe inteiro numa capa deitada.
+  - Em matéria sobre personagem ou pessoa, ponha em `image.alternativas` mais
+    2 a 5 URLs de imagens oficiais deitadas (screenshots da Rockstar, Xbox
+    Wire, PlayStation Blog, galeria oficial do jogo). Há muito material de
+    GTA 6: não se contente com uma imagem ruim.
+  - O Finalizar acha os rostos (`scripts/engine/rosto.py`) e fica com a
+    primeira imagem em que o rosto sai inteiro; se nenhuma servir, recorta no
+    rosto principal. Se uma capa publicada sair com rosto cortado, ponha
+    alternativas melhores na matéria e rode o workflow **Capas**, que refaz o
+    recorte das publicadas.
 - `slug` em minúsculas, sem acento, 3 a 8 palavras.
 - `story_id` copiado da pauta: é o que evita escrever a mesma pauta duas vezes.
 - `category` tem que estar em `categories_by_language.pt` no briefing:

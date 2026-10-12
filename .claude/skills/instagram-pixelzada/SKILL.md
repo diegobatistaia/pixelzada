@@ -159,8 +159,12 @@ cena bem enquadrada: nada de testa, olhos ou queixo cortados pela moldura, e
 nenhum texto, selo, logo ou faixa por cima do rosto. O desenho acha os rostos
 da foto (`scripts/engine/rosto.py`) e põe todos os slides nesse ponto; o que
 fica com você:
-- Prefira imagem deitada (16:9) com o personagem à vista à versão em pé de
-  celular (URL com `mobile`, `portrait`, `9x16`).
+- Use imagem deitada (16:9) em boa resolução, com o personagem à vista;
+  nunca a versão em pé de celular (URL com `mobile`, `portrait`, `9x16`). Há
+  muito material oficial de GTA 6 (screenshots da Rockstar, trailers, Xbox
+  Wire): procure uma boa em vez de aceitar uma ruim.
+- Nunca arte com faixa ou fundo desfocado nas laterais da foto: a imagem
+  preenche a moldura inteira.
 - Não escolha imagem em que o rosto está colado na borda ou já cortado na
   origem (close em que só aparece boca ou olhos).
 - Ao revisar as artes, se algum slide cortar ou cobrir um rosto, troque a
