@@ -9,7 +9,7 @@
 {%- endmacro -%}
 {%- macro media(post, eager=false) -%}
 {%- if post.image and post.image.path %}
-<a class="media" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675"{% if eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async"></a>
+<a class="media" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt="" width="1200" height="675"{% if eager %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async"></a>
 {%- endif %}
 {%- endmacro -%}
 {%- macro community_links() -%}
@@ -61,7 +61,7 @@
       {%- for post in blocks.today.rest %}
       {%- if post.image and post.image.path %}
       <article class="side-item has-thumb">
-        <span class="thumb t-side" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
+        <span class="thumb t-side" aria-hidden="true"><img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
         <div class="side-body">
           {{ kick(post) }}
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -98,7 +98,7 @@
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         </div>
         {%- if has_img %}
-        <a class="thumb t-tl" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></a>
+        <a class="thumb t-tl" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt="" width="1200" height="675" loading="lazy" decoding="async"></a>
         {%- endif %}
         <a class="ghostgo" href="{{ post.url }}" tabindex="-1" aria-hidden="true">{{ ic.arrow() }}</a>
       </li>
@@ -115,7 +115,7 @@
       <li{% if has_img %} class="has-thumb"{% endif %}>
         <span class="rank" aria-hidden="true">{{ '%02d' % loop.index }}</span>
         {%- if has_img %}
-        <span class="thumb t-rank" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
+        <span class="thumb t-rank" aria-hidden="true"><img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
         {%- endif %}
         <div>
           <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
@@ -221,7 +221,7 @@
     <li{% if has_img %} class="has-thumb"{% endif %}>
       <span class="rank" aria-hidden="true">{{ '%02d' % loop.index }}</span>
       {%- if has_img %}
-      <span class="thumb t-rank" aria-hidden="true"><img src="{{ post.image.path }}" alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
+      <span class="thumb t-rank" aria-hidden="true"><img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt="" width="1200" height="675" loading="lazy" decoding="async"></span>
       {%- endif %}
       <div>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
