@@ -124,7 +124,7 @@ visível na capa, como no CSS `object-position`.
 
 ## Estilo do carrossel (automático)
 
-O workflow escolhe sozinho um dos **20 estilos** de `templates/social/estilos/`
+O workflow escolhe sozinho um dos **21 estilos** de `templates/social/estilos/`
 (decisão do Diego em 09/10): nunca o mesmo estilo em dias seguidos, e o que está
 há mais tempo sem sair vai primeiro, para todos aparecerem. Você não escolhe o
 estilo; só escreve a pauta. Prévia dos 20: `identidade/estilos-novos/` na pasta
@@ -157,7 +157,14 @@ o sentido. `fala` de personagem só se estiver no trailer ou no texto oficial.
 - **Slides:** fato checado, frase curta, atribuição ("segundo a Rockstar").
   Título do slide até 60 caracteres; `texto` até 460 caracteres somando os parágrafos.
 - **Sem emoji na arte** e no máximo um ponto de exclamação no carrossel inteiro.
-- Boato só aparece com selo `boato` ou `sem-info`, nunca como fato.
+- Boato só aparece como boato (no texto, ou com selo `boato`/`sem-info`), nunca como fato.
+- **Selos não são regra** (Diego, 09/10): carrossel de notícia e de guia não leva
+  lista de selos nem a palavra "confirmado/rumor" em todo slide. Use `itens`
+  com selo só em pauta de **checagem**, e no máximo 1 checagem a cada 4 pautas.
+  O resto é conteúdo para chamar atenção: gancho forte na capa (reação, meme,
+  número, pergunta), um fato por slide, frase curta. Informar sem virar boletim.
+  Quando o assunto for rumor, o tom diz isso ("ainda é boato", "sem confirmação
+  da Rockstar") dentro da frase, sem tabela de selos.
 
 ## Legenda
 

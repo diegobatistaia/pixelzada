@@ -1,0 +1,78 @@
+{%- import "estilos/_comum.j2" as c with context -%}
+{#- 21. REPRODUTOR · tela de player de vídeo: quadro real com botão de play, barra de tempo (cada slide é um capítulo), texto como legenda. -#}
+{{ c.cabeca("Reprodutor") }}
+<style>
+  .tela { position: absolute; background: #000; overflow: hidden; }
+  .tela .midia { position: absolute; inset: 0; }
+  .tela .midia::after { background: linear-gradient(to bottom, rgba(11,10,16,.45), transparent 25%, transparent 55%, rgba(11,10,16,.8)); }
+  .tela .credito { bottom: auto; top: 84px; right: 28px; }
+  .play { position: absolute; left: 50%; top: 50%; width: 170px; height: 170px; margin: -85px 0 0 -85px; background: var(--destaque); display: grid; place-items: center; z-index: 2; box-shadow: 0 0 0 14px rgba(255,255,255,.25); }
+  .play i { display: block; width: 0; height: 0; margin-left: 14px; border-left: 64px solid var(--noite); border-top: 40px solid transparent; border-bottom: 40px solid transparent; }
+  .topo-tela { position: absolute; left: 28px; right: 28px; top: 24px; display: flex; justify-content: space-between; align-items: center; z-index: 2; }
+  .ao-vivo { background: var(--vermelho); color: var(--branco); font: 700 24px/1 var(--f-pixel); text-transform: uppercase; padding: 12px 16px 10px; }
+  .canal { font: 700 24px/1 var(--f-pixel); text-transform: uppercase; text-shadow: 0 1px 6px rgba(0,0,0,.8); }
+  .controles { position: absolute; left: 28px; right: 28px; bottom: 56px; z-index: 2; }
+  .tempo { height: 12px; background: rgba(255,255,255,.3); position: relative; }
+  .tempo b { position: absolute; left: 0; top: 0; bottom: 0; background: var(--destaque); }
+  .tempo u { position: absolute; top: -9px; width: 30px; height: 30px; margin-left: -15px; background: var(--destaque); }
+  .tempo s { position: absolute; top: 0; bottom: 0; width: 4px; background: var(--noite); }
+  .caps { display: flex; justify-content: space-between; margin-top: 18px; font: 700 20px/1 var(--f-pixel); text-transform: uppercase; }
+  .caps span { opacity: .6; } .caps span.on { opacity: 1; color: var(--destaque); }
+  .legenda { background: rgba(0,0,0,.82); padding: 22px 28px; margin-top: 18px; }
+  .legenda .texto { font-size: 38px; }
+  .cap-tag { font: 700 22px/1 var(--f-pixel); text-transform: uppercase; color: var(--destaque); }
+  .botao { display: inline-flex; align-items: center; gap: 16px; background: var(--destaque); color: var(--noite); font: 700 30px/1 var(--f-pixel); text-transform: uppercase; padding: 22px 30px 20px; }
+</style>
+{%- macro barra(n, total) %}
+<div class="tempo"><b style="width:{{ (100 * (n - 1) / (total - 1))|round|int if total > 1 else 0 }}%"></b>{% for k in range(1, total) %}<s style="left:{{ (100 * k / (total - 1))|round|int }}%"></s>{% endfor %}<u style="left:{{ (100 * (n - 1) / (total - 1))|round|int if total > 1 else 0 }}%"></u></div>
+{%- endmacro %}
+</head><body>
+
+{%- if s.kind == "capa" %}
+<main class="arte {{ cor }}">
+  <div class="tela" style="left:0;top:0;width:1080px;height:760px">
+    {{ c.midia("", "") }}
+    <div class="topo-tela"><span class="ao-vivo">{{ rotulo_tipo }}</span><span class="canal">Pixelzada · {{ p.assunto }}</span></div>
+    <div class="play"><i></i></div>
+    <div class="controles">{{ barra(1, total) }}<div class="caps"><span class="on">Início</span><span>{{ total }} partes</span></div></div>
+  </div>
+  <section data-caixa data-limite="1236" style="position:absolute;left:56px;right:56px;top:800px">
+    <h1 class="titulo" data-ajusta data-min="56" style="font-size:96px">{{ s.titulo|realce(s.destaque) }}</h1>
+    {%- if s.apoio %}<p class="apoio" style="margin-top:28px">{{ s.apoio }}</p>{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "miolo" %}
+<main class="arte {{ cor }}">
+  <div class="tela" style="left:0;top:0;width:1080px;height:430px">
+    {{ c.midia("", "") }}
+    <div class="topo-tela"><span class="cap-tag" style="background:var(--noite);padding:12px 16px 10px">Parte {{ n }} de {{ total }}</span><span class="canal">{{ s.rotulo }}</span></div>
+    <div class="controles" style="bottom:36px">{{ barra(n, total) }}</div>
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:470px">
+    <h2 class="titulo" data-ajusta data-min="52" style="font-size:76px">{{ s.titulo|realce(s.destaque) }}</h2>
+    {%- for t in s.texto or [] %}<div class="legenda"><p class="texto">{{ t|negrito }}</p></div>{% endfor %}
+    {%- if s.itens or s.passos %}{{ c.corpo({"itens": s.itens, "passos": s.passos, "inicio": s.inicio}) }}{% endif %}
+  </section>
+  {{ c.faixa(fonte) }}
+</main>
+
+{%- elif s.kind == "final" %}
+<main class="arte {{ cor }}">
+  <div class="tela" style="left:0;top:0;width:1080px;height:560px">
+    {{ c.midia("", "", filtro="filter:brightness(.55);") }}
+    <div class="play" style="margin-top:-100px"><i></i></div>
+    <p class="canal" style="position:absolute;left:0;right:0;top:350px;text-align:center;z-index:2;font-size:28px">Fim · assista de novo</p>
+    <div class="controles" style="bottom:36px">{{ barra(total, total) }}</div>
+  </div>
+  <section data-caixa style="position:absolute;left:56px;right:56px;top:610px">
+    <h2 class="titulo" data-ajusta data-min="64" style="font-size:104px">{{ s.titulo }}</h2>
+    <p style="margin-top:44px"><span class="botao">Encaminhar <i class="seta"></i></span></p>
+    <p style="margin-top:36px;font:700 32px/1.4 var(--f-pixel);text-transform:uppercase;color:var(--destaque)">Matéria completa no link da bio</p>
+    <p style="margin-top:6px;font:400 30px/1.4 var(--f-pixel)">pixelzada.com.br</p>
+  </section>
+  <footer class="faixa"><img src="{{ c.logo_preto() }}" alt="Pixelzada"><span class="fonte">Segue @pixelzada.br</span><span class="contador">{{ n }}/{{ total }}</span></footer>
+</main>
+{%- endif %}
+{{ c.medida() }}
