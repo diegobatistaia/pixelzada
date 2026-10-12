@@ -24,6 +24,24 @@ TIPOS = {
     "checagem": ("checagem", "Checagem", 96),
     "guia": ("guia", "Guia", 168),
 }
+# Formatos de carrossel (Diego, 12/10): o jeito de contar a matéria. Varia de
+# uma pauta para a outra; a skill instagram-pixelzada explica cada um.
+FORMATOS = {
+    "manchete": "o fato, o que muda para quem joga e o que falta saber",
+    "perguntas": "cada slide responde uma pergunta do leitor (título com ?)",
+    "linha-do-tempo": "datas em ordem (passos que começam com a data)",
+    "em-numeros": "um número da matéria por slide (título com algarismo)",
+    "lista": "N coisas ou detalhes da matéria, um por slide",
+    "detalhes": "o que passou batido no trailer, nas imagens ou no anúncio",
+    "comparativo": "antes e agora, um contra o outro (capa com lados)",
+    "em-foco": "perfil de um personagem, lugar, jogo ou pessoa (capa com ficha ou local)",
+    "passo-a-passo": "guia prático (slides com passos)",
+    "mito-ou-verdade": "checagem com selos (único formato com selos)",
+    "debate": "os fatos dos dois lados e o final pede a opinião de quem lê",
+}
+# Pautas criadas a partir daqui seguem as regras de linha editorial (conferir_linha).
+LINHA_DESDE = datetime(2026, 10, 12, 12, 0, tzinfo=ZoneInfo("America/Sao_Paulo"))
+CONTENT = ROOT / "content" / "pt"
 SELOS = {"confirmado": "Confirmado", "boato": "Boato", "falso": "Falso", "sem-info": "Sem confirmação"}
 STATUS = {"pronto", "publicado", "descartado", "reprovado"}
 
@@ -209,4 +227,68 @@ def conferir(p: dict, arquivo: str | None = None) -> list[str]:
     tudo = " ".join(arte)
     exige(not EMOJI.search(tudo), "sem emoji na arte")
     exige(tudo.count("!") <= 1, "no máximo um ponto de exclamação no carrossel")
+    return e
+
+
+# ---------------------------------------------------------------------------
+# Linha editorial (Diego, 12/10): toda pauta nasce de uma matéria do site, uma
+# matéria vira um carrossel só, e o formato varia. Só a redação confere isso
+# (comando check); a publicação não reprova pauta por estas regras.
+# ---------------------------------------------------------------------------
+def conferir_linha(p: dict, outras: list[dict]) -> list[str]:
+    if criado_em(p) < LINHA_DESDE:
+        return []
+    e: list[str] = []
+    slug = (p.get("materia") or "").strip()
+    if not slug:
+        e.append("falta materia: toda pauta sai de uma matéria do site (content/pt/<slug>.json)")
+    elif not (CONTENT / f"{slug}.json").exists():
+        e.append(f"materia {slug!r} não existe em content/pt/")
+    fmt = p.get("formato")
+    if fmt not in FORMATOS:
+        e.append(f"formato deve ser um de {sorted(FORMATOS)}")
+    vivas = [o for o in outras if o["slug"] != p["slug"] and o.get("status") in ("pronto", "publicado")]
+    if slug:
+        for o in vivas:
+            if (o.get("materia") or "").strip() == slug:
+                e.append(f"a matéria {slug} já virou o carrossel {o['slug']}: escreva uma matéria nova ou use outra")
+                break
+    # Formato diferente dos dois últimos carrosséis do mesmo grupo (GTA 6 ou outros jogos)
+    antes = sorted((o for o in vivas if o.get("gta6") == p.get("gta6") and o.get("formato")
+                    and criado_em(o) <= criado_em(p)), key=criado_em)[-2:]
+    if fmt and fmt in {o["formato"] for o in antes}:
+        e.append(f"formato {fmt} saiu em {', '.join(o['slug'] for o in antes if o['formato'] == fmt)}; varie")
+    sl = p.get("slides") if isinstance(p.get("slides"), list) else []
+    capa = p.get("capa") or {}
+    com_selo = any(s.get("itens") for s in sl)
+    if com_selo and fmt != "mito-ou-verdade":
+        e.append("selos (itens) só no formato mito-ou-verdade")
+    if fmt == "mito-ou-verdade":
+        if p.get("tipo") != "checagem":
+            e.append("mito-ou-verdade é tipo checagem")
+        if not com_selo:
+            e.append("mito-ou-verdade precisa de um slide com itens e selos")
+        recentes = sorted((o for o in vivas if criado_em(o) <= criado_em(p)), key=criado_em)[-3:]
+        if any(o.get("formato") == "mito-ou-verdade" for o in recentes):
+            e.append("no máximo 1 mito-ou-verdade a cada 4 pautas")
+    if fmt == "perguntas":
+        if not all(s.get("titulo", "").rstrip().endswith("?") for s in sl):
+            e.append("perguntas: todo título de slide é uma pergunta (termina com ?)")
+    if fmt == "em-numeros":
+        if not all(re.search(r"\d", s.get("titulo", "")) for s in sl):
+            e.append("em-numeros: todo título de slide tem um número em algarismo")
+    if fmt == "linha-do-tempo":
+        passos = [t for s in sl for t in s.get("passos") or []]
+        if len(passos) < 3 or not all(re.search(r"\d", t) for t in passos):
+            e.append("linha-do-tempo: pelo menos 3 passos, cada um com a data")
+    if fmt == "passo-a-passo" and not any(s.get("passos") for s in sl):
+        e.append("passo-a-passo precisa de slide com passos")
+    if fmt == "comparativo" and not capa.get("lados"):
+        e.append("comparativo precisa de capa.lados")
+    if fmt == "em-foco" and not (capa.get("ficha") or capa.get("local")):
+        e.append("em-foco precisa de capa.ficha ou capa.local")
+    if fmt in ("lista", "detalhes") and len(sl) < 3:
+        e.append(f"{fmt}: pelo menos 3 slides, um item por slide")
+    if fmt == "debate" and "?" not in (p.get("final") or ""):
+        e.append("debate: o final é uma pergunta para quem lê")
     return e

@@ -439,7 +439,7 @@ def cmd_check(args) -> int:
         p = json.loads(f.read_text(encoding="utf-8"))
         if p.get("status") != "pronto":
             continue
-        erros = P.conferir(p, str(f))
+        erros = P.conferir(p, str(f)) + P.conferir_linha(p, todas)
         k = imagem_chave(p)
         for o in todas:
             if o["slug"] != p["slug"] and o.get("status") in ("pronto", "publicado") and imagem_chave(o) == k \

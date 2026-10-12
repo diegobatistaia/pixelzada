@@ -20,46 +20,77 @@ em 08/10 e 09/10). Horários (Brasília, grade de 12/10): **11h, 15h e 19h para 
 sai primeiro. Notícia vence em 36 horas, checagem em 4 dias e guia em 7 dias;
 pauta vencida não sai.
 
-A redação roda três vezes por dia. Em cada rodada, rode antes:
+A redação roda de 2 em 2 horas. Em cada rodada, rode antes:
 
 ```bash
 python -m scripts.social.instagram agenda
 ```
 
-Ele mostra o que já saiu hoje e quantas pautas há na fila. A meta é a fila
-nunca secar: **cerca de 1 de GTA 6 e 1 de outros jogos por rodada**, menos se a
-fila já estiver cheia. Não escreva mais do que 4 por rodada.
+Ele mostra o que já saiu hoje e quantas pautas há na fila. Escreva **uma pauta
+para cada matéria nova da rodada**, e só isso. Não escreva mais do que 4 por
+rodada.
 
-## De onde vem o assunto
+## De onde vem o assunto: sempre de uma matéria (Diego, 12/10)
 
-1. **Cada matéria que você acabou de escrever para o site** pode virar uma pauta
-   (`"materia": "<slug da matéria>"`). É o caminho principal.
-2. **GTA 6 sem notícia nova no dia.** São 3 por dia, e nem todo dia tem
-   notícia de GTA 6. Complete com:
-   - **checagem** ("o que se sabe"): boatos que estão no briefing contra o que
-     já foi confirmado, com selos;
-   - **guia**: passos práticos com fatos já publicados (pré-venda, edições,
-     plataformas, preparar o console);
-   - **contagem e resumo**: "faltam N dias" com o que já está confirmado.
+Diego viu os carrosséis de GTA 6 repetindo as mesmas coisas (as seis rádios, os
+podcasts, o "não tem streaming exclusivo no Xbox") porque saíam 3 por dia em
+cima de 4 matérias. A regra agora é:
 
-   Todo fato da pauta tem que estar no briefing (passando pela regra das duas
-   fontes) ou numa matéria já publicada em `content/pt/`. Nada de memória, nada
-   de "todo mundo sabe".
+1. **Toda pauta nasce de uma matéria do site** (`"materia": "<slug>"`, o arquivo
+   `content/pt/<slug>.json`), de preferência a que você acabou de escrever.
+2. **Uma matéria vira um carrossel só.** Não existe segundo carrossel da mesma
+   matéria, nem com outro formato ou outro título. O `check` reprova.
+3. **Os slides contam só o que está naquela matéria.** Nada de recapitular fato
+   de outra matéria ("seis rádios", "sem streaming exclusivo", "data mantida")
+   para encher slide. Se a matéria é curta, o carrossel tem 2 slides.
+4. **Acabaram as pautas de enchimento.** Checagem, guia ou "faltam N dias" sem
+   matéria por trás não saem mais. O guia, a checagem e a contagem continuam
+   existindo como **matéria no site** (que vira carrossel depois).
+5. **Faltou matéria de GTA 6?** O horário de GTA 6 fica com outro jogo; o
+   workflow já faz isso sozinho. Um carrossel repetido é pior que um GTA 6 a
+   menos. Para não faltar, a redação escreve mais matérias de GTA 6 no site
+   (ver `redacao-diaria`).
+6. **Antes de escrever, olhe as últimas pautas** de `social/pautas/` do mesmo
+   grupo (GTA 6 ou outros jogos): o gancho da capa e o primeiro slide não podem
+   repetir o de nenhuma delas.
 
-Não repita a mesma pauta em dias seguidos: confira `social/pautas/` antes.
+## O formato (varia sempre)
+
+Além do estilo visual (automático), cada pauta tem um `formato`: o jeito de
+contar a matéria. **O formato não pode ser o mesmo das duas últimas pautas do
+mesmo grupo** (o `check` confere). Escolha o que a matéria pede:
+
+| `formato` | Quando usar | Como fica |
+| --- | --- | --- |
+| `manchete` | notícia direta | capa com o fato; slides: o que aconteceu, o que muda pra quem joga, o que falta saber |
+| `perguntas` | assunto que gera dúvida | cada slide é uma pergunta do leitor no título ("Vai ter no PC?") e a resposta no texto |
+| `linha-do-tempo` | história com datas | slide com `passos`, cada passo começa pela data ("Dez 2023: primeiro trailer") |
+| `em-numeros` | matéria com números | cada slide abre com um número no título ("15 horas por mês no Ultimate") |
+| `lista` | várias novidades de uma vez | "5 coisas que...": um item por slide, com o porquê |
+| `detalhes` | trailer, imagens, anúncio | "o que passou batido": um detalhe por slide, só o que a matéria descreve |
+| `comparativo` | antes e agora, um contra o outro | capa com `lados`; slides lado a lado |
+| `em-foco` | personagem, lugar, jogo, pessoa | capa com `ficha` ou `local`; perfil em 2 a 4 slides |
+| `passo-a-passo` | guia prático | slide com `passos` |
+| `mito-ou-verdade` | boato que circula | o único com selos (`itens`); no máximo 1 a cada 4 pautas |
+| `debate` | assunto que divide | os fatos dos dois lados e o `final` é uma pergunta para comentar |
+
+O `check` confere o mínimo de cada um: pergunta com "?", número em algarismo,
+data em cada passo, `lados` no comparativo, `ficha` ou `local` no em-foco, pelo
+menos 3 slides em lista e detalhes, e selos só no mito-ou-verdade.
 
 ## O arquivo
 
 Um por post, em `social/pautas/<slug>.json`. Exemplo completo em
-`social/exemplo-pauta.json` (formato checagem).
+`social/exemplo-pauta.json` (formato mito-ou-verdade).
 
 ```json
 {
   "slug": "gta-6-xbox-cloud-gaming-pc-checagem",
   "tipo": "noticia | checagem | guia",
+  "formato": "manchete | perguntas | linha-do-tempo | em-numeros | lista | detalhes | comparativo | em-foco | passo-a-passo | mito-ou-verdade | debate",
   "assunto": "GTA 6",
   "gta6": true,
-  "materia": "slug-da-materia-no-site ou vazio",
+  "materia": "slug-da-materia-no-site (obrigatório)",
   "criado": "2026-10-08T07:40:00-03:00",
   "imagem": {"url": "https://...", "credito": "Rockstar Games", "pos": "50% 40%"},
   "fonte": "Fontes: The Verge e Eurogamer",
@@ -160,7 +191,7 @@ o sentido. `fala` de personagem só se estiver no trailer ou no texto oficial.
 - Boato só aparece como boato (no texto, ou com selo `boato`/`sem-info`), nunca como fato.
 - **Selos não são regra** (Diego, 09/10): carrossel de notícia e de guia não leva
   lista de selos nem a palavra "confirmado/rumor" em todo slide. Use `itens`
-  com selo só em pauta de **checagem**, e no máximo 1 checagem a cada 4 pautas.
+  com selo só no formato **mito-ou-verdade**, e no máximo 1 a cada 4 pautas.
   O resto é conteúdo para chamar atenção: gancho forte na capa (reação, meme,
   número, pergunta), um fato por slide, frase curta. Informar sem virar boletim.
   Quando o assunto for rumor, o tom diz isso ("ainda é boato", "sem confirmação
@@ -204,6 +235,8 @@ git push
 
 ## O que nunca fazer
 
+- Escrever pauta sem matéria, ou um segundo carrossel da mesma matéria.
+- Encher slide com fato de outra matéria já postada.
 - Mudar `status`, `publicado`, `story` ou `reel` de uma pauta que já saiu.
 - Apagar pauta publicada: ela é o histórico que impede repetir post.
 - Mexer em `templates/social/` ou na moldura para o texto caber: encurte o texto.
