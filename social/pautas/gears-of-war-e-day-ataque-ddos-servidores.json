@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Gears E-Day",
+  "gta6": false,
+  "materia": "gears-of-war-e-day-ataque-ddos-servidores",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-marcus-crop.jpg",
+    "credito": "The Coalition",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: IGN, Eurogamer e Kotaku",
+  "capa": {
+    "titulo": "Gears E-Day caiu? Era ataque DDoS",
+    "destaque": "ataque DDoS",
+    "apoio": "A The Coalition explicou as quedas do fim de semana. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "O que aconteceu com o jogo?",
+      "destaque": "jogo",
+      "texto": [
+        "Jogadores tiveram **desconexões e falhas de login**, segundo a IGN.",
+        "O estúdio disse que os problemas vieram de ataques contra os serviços online."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Já voltou ao normal?",
+      "destaque": "normal",
+      "texto": [
+        "Sim. A conta oficial do Xbox informou que o serviço está **de volta ao normal**, de acordo com a Eurogamer.",
+        "A The Coalition segue monitorando."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Quem atacou e por quê?",
+      "destaque": "quem",
+      "texto": [
+        "Ninguém sabe. A IGN registra muita especulação, mas **o estúdio não apontou culpados**.",
+        "Ataques assim também atingiram Arc Raiders e The Finals em janeiro."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que ficou preso na tela de login",
+  "legenda": {
+    "gancho": "As quedas de Gears of War: E-Day no fim de semana foram ataque DDoS, confirmou a The Coalition.",
+    "corpo": [
+      "Segundo IGN, Eurogamer e Kotaku, jogadores tiveram desconexões e problemas de login, e o estúdio atribuiu tudo a ataques contra os serviços online.",
+      "O Xbox informou que o serviço voltou ao normal. Quem está por trás do ataque não foi divulgado."
+    ],
+    "chamada": "Você conseguiu jogar no fim de semana?",
+    "hashtags": [
+      "#pixelzada",
+      "#gearsofwar",
+      "#xbox",
+      "#gamepass"
+    ]
+  },
+  "alt": [
+    "Slide 1: Gears E-Day caiu? Era ataque DDoS",
+    "Slide 2: O que aconteceu com o jogo",
+    "Slide 3: O serviço já voltou ao normal",
+    "Slide 4: Quem atacou ainda é desconhecido",
+    "Slide 5: Manda pro amigo que ficou preso na tela de login"
+  ],
+  "slug": "gears-of-war-e-day-ataque-ddos-servidores",
+  "status": "pronto",
+  "criado": "2026-10-12T11:42:01-03:00"
+}
