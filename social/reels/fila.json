@@ -112,15 +112,6 @@
     }
   },
   {
-    "slug": "jim-carrey-dia-19",
-    "data": "2026-10-11",
-    "horario": "20:00",
-    "status": "agendado",
-    "estilo": "Cartaz",
-    "legenda": "Eu no dia 19 de novembro dizendo bom dia, boa tarde e boa noite pro mundo real 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
-  },
-  {
     "slug": "battlefield-redsec-mapa-pegando-fogo",
     "data": "2026-10-12",
     "horario": "11:00",
@@ -163,6 +154,15 @@
     "status": "agendado",
     "estilo": "Missão",
     "legenda": "O mapa do GTA 6 é pequeno? Compare com Los Santos 🗺️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+    "tentativas": 0
+  },
+  {
+    "slug": "jim-carrey-dia-19",
+    "data": "2026-10-13",
+    "horario": "13:00",
+    "status": "agendado",
+    "estilo": "Cartaz",
+    "legenda": "Eu no dia 19 de novembro dizendo bom dia, boa tarde e boa noite pro mundo real 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
     "tentativas": 0
   }
 ]
