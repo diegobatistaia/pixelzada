@@ -170,6 +170,49 @@ def same_local_day(when, tz_name: str, now=None) -> bool:
     return when.astimezone(tz).date() == (now or utcnow()).astimezone(tz).date()
 
 
+# --------------------------------------------------------------- especiais
+
+ESPECIAIS = DATA / "gta6-especiais.json"
+
+
+def especiais_hoje(cfg, tz_name: str, now=None) -> tuple[int, dict | None, int]:
+    """Matérias especiais de GTA 6 (Diego, 12/10/2026): 2 por dia até 19/11.
+
+    Saem de data/gta6-especiais.json, um dossiê de fatos já checados, porque o
+    noticiário só rende cerca de uma matéria de GTA 6 por dia e o Instagram tem
+    três horários de GTA 6. Devolve (escritas hoje, a próxima a escrever nesta
+    rodada ou None, quantas ainda faltam hoje e precisam de vaga reservada).
+    """
+    from zoneinfo import ZoneInfo
+    conf = cfg.get("publishing.especiais_gta6") or {}
+    if not conf or not ESPECIAIS.exists():
+        return 0, None, 0
+    tz = ZoneInfo(tz_name)
+    agora = (now or utcnow()).astimezone(tz)
+    if conf.get("ate") and agora.date() > date.fromisoformat(str(conf["ate"])):
+        return 0, None, 0
+    temas = json.loads(ESPECIAIS.read_text(encoding="utf-8"))
+    ids = {t["id"] for t in temas}
+    feitas = 0
+    escritas = set()
+    for lang in cfg.languages:
+        for post in load_posts(lang):
+            sid = post.get("story_id", "")
+            if sid not in ids:
+                continue
+            escritas.add(sid)
+            when = parse_date(post.get("published_at"))
+            if post.get("status") == "draft" or (when and when.astimezone(tz).date() == agora.date()):
+                feitas += 1
+    por_dia = int(conf.get("por_dia", 2))
+    rodadas = sorted(conf.get("rodadas", [9, 15]))[:por_dia]
+    devidas = sum(1 for h in rodadas if agora.hour >= h)
+    faltam = max(0, por_dia - feitas)
+    livres = [t for t in temas if t["id"] not in escritas and not t.get("problema")]
+    proxima = livres[0] if (livres and feitas < devidas) else None
+    return feitas, proxima, min(faltam, len(livres))
+
+
 def already_written_story_ids(cfg) -> set[str]:
     """Pautas que já viraram matéria (publicada ou rascunho) em qualquer idioma."""
     return {p.get("story_id") for lang in cfg.languages for p in load_posts(lang)
@@ -215,9 +258,13 @@ def cmd_briefing(cfg, args) -> int:
         data["stories"] = [st for st in data.get("stories", []) if st["story_id"] not in written]
         daily_cap = cfg.posts_per_language(local_today(tz_name))
         used = max(used_today(cfg.languages, tz_name).values(), default=0)
+        feitas, proxima, reserva = especiais_hoje(cfg, tz_name)
+        # A vaga das especiais que ainda faltam hoje fica guardada: o noticiário
+        # divide o resto do teto entre as rodadas.
+        noticias = run_budget(daily_cap - used - reserva, cfg.run_hours, tz_name)
         data.update({"daily_cap_per_language": daily_cap, "already_written_today": used,
-                     "posts_per_language_today":
-                         run_budget(daily_cap - used, cfg.run_hours, tz_name)})
+                     "posts_per_language_today": noticias,
+                     "especial_gta6": proxima, "especiais_gta6_hoje": feitas})
         if len(data["stories"]) != before:
             print(f"{before - len(data['stories'])} pauta(s) já viraram matéria e foram tiradas.")
         BRIEFING.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -234,12 +281,20 @@ def cmd_briefing(cfg, args) -> int:
         print(f"    {marca} | owners: {', '.join(story['owners'])} | "
               f"{legiveis}/{len(story['sources'])} com texto integral")
 
+    especial = data.get("especial_gta6") if from_today else None
+    if especial:
+        print(f"\nESPECIAL DE GTA 6 NESTA RODADA ({data.get('especiais_gta6_hoje', 0)} escrita(s) hoje): "
+              f"{especial['id']}  {especial['tema']}")
+        print("  Escreva a partir de data/gta6-especiais.json (seção 3.1 da skill redacao-diaria). "
+              "Ela não gasta a vaga das notícias desta rodada.")
     if not data.get("posts_per_language_today"):
-        print("\nTeto do dia já atingido. Encerre sem commitar.")
-        return 1
+        print("\nTeto de notícias desta rodada já atingido."
+              + (" Escreva só a especial." if especial else " Encerre sem commitar."))
+        return 0 if especial else 1
     if not data.get("stories"):
-        print("\nNenhuma pauta nova com fontes suficientes. Encerre sem commitar.")
-        return 1
+        print("\nNenhuma pauta nova com fontes suficientes."
+              + (" Escreva só a especial." if especial else " Encerre sem commitar."))
+        return 0 if especial else 1
     return 0
 
 

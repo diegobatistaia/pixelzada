@@ -127,7 +127,8 @@ confirmação da Rockstar (ela nunca confirma). Título e gancho dizem
 `voz-pixelzada` ("Vazamento é pauta"). Imagem sempre oficial, nunca o print
 vazado. Rumor de GTA 6 que só um veículo publicou continua de fora.
 
-Publique no máximo `posts_per_language_today` pautas (está no briefing). Esse
+Publique no máximo `posts_per_language_today` pautas de notícia (está no
+briefing; a especial de GTA 6 da seção 3.1 é à parte). Esse
 número é o teto **desta rodada**, não do dia: o briefing também traz
 `daily_cap_per_language` e `already_written_today`, e o código já dividiu o que
 sobra do dia entre as rodadas que faltam. Se sobrarem boas, deixe para a
@@ -149,6 +150,39 @@ Cite as fontes no corpo ("segundo a Rockstar", "de acordo com a IGN") — pelo m
 
 Escreva com a ortografia e a acentuação corretas do idioma. Um site de notícias
 em português sem acento não passa.
+
+## 3.1 Especial de GTA 6 (2 por dia até 19/11)
+
+Diego aprovou em 12/10 duas matérias especiais de GTA 6 por dia, além do
+noticiário, para que os três horários de GTA 6 do Instagram tenham matéria
+própria. Quando o `briefing` mostrar **"ESPECIAL DE GTA 6 NESTA RODADA"**,
+escreva aquele tema, mesmo que não haja outra pauta (o comando não manda
+encerrar nesse caso). Ela não gasta a vaga das notícias da rodada.
+
+O tema está em `data/gta6-especiais.json`, pelo `id` mostrado. Esse dossiê foi
+montado numa sessão com internet, com os fatos já checados pela regra das duas
+fontes. Na matéria:
+
+- **Só os `fatos` do tema.** Nada de memória, nada de "todo mundo sabe". Pode
+  usar fatos de matérias já publicadas em `content/pt/` se citar a fonte delas.
+  Fato com data ("em maio de 2025") mantém a data.
+- `story_id` = o `id` do tema. É o que marca o tema como escrito; não edite o
+  dossiê para isso.
+- `sources` = as `fontes` dos fatos que você usou (copie `name`, `owner`,
+  `url`, `title`). Com dois owners ou mais, sem `fonte_unica`. Se só a
+  Rockstar (`take-two`) sustenta o texto, use `"fonte_unica": "anuncio_oficial"`.
+- `category` = a `categoria` do tema. `image.url` e o crédito vêm de `imagem`
+  ("Imagem: Rockstar Games"); sem URL, a matéria sai com a capa própria.
+- O ângulo é explicativo, não "notícia de hoje": título de busca ("Quem é Lucia
+  Caminos, a protagonista de GTA 6"), e o gancho com a contagem para 19/11 ou
+  o que o leitor vai encontrar no jogo.
+- Tema com `aviso`: é um cuidado da pesquisa (dado que diverge, data não
+  oficial). Siga o aviso no texto: divergência dita como divergência.
+- Faltou fato para 600 palavras? Não encha. Ponha `"problema": "<motivo>"` no
+  tema dentro do dossiê, commite só isso e o comando passa para o próximo.
+
+Depois, a pauta do Instagram dessa matéria (seção 5.1), num dos
+`formatos_carrossel` sugeridos no tema que não repita os das últimas pautas.
 
 ## 4. Salvar
 
