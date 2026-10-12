@@ -1,0 +1,89 @@
+{
+  "tipo": "noticia",
+  "formato": "em-foco",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "jason-duval-gta-6-quem-e-o-protagonista",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.07_8xvc_cedh..jpg?akim=1&imdensity=1&imwidth=3840",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Rockstar, VGC e Game Informer",
+  "capa": {
+    "titulo": "Jason Duval: quem é o outro protagonista de GTA 6",
+    "destaque": "Jason Duval",
+    "apoio": "Ex-militar, faz-tudo de traficante e atrás de vida fácil. Arrasta.",
+    "ficha": [
+      [
+        "Quem",
+        "Jason Duval"
+      ],
+      [
+        "Passado",
+        "Ex-Exército"
+      ],
+      [
+        "Onde",
+        "Keys, em Leonida"
+      ],
+      [
+        "Dupla",
+        "Lucia Caminos"
+      ]
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "O passado",
+      "titulo": "Do crime ao Exército",
+      "destaque": "Exército",
+      "texto": [
+        "Segundo a Rockstar, Jason **cresceu cercado de golpistas** e entrou para o Exército para deixar a juventude problemática para trás.",
+        "Depois, foi parar nas Keys, onde trabalha para traficantes locais."
+      ]
+    },
+    {
+      "rotulo": "O que ele quer",
+      "titulo": "Uma vida fácil que complica",
+      "destaque": "vida fácil",
+      "texto": [
+        "O lema oficial: Jason quer uma vida fácil, mas **as coisas só ficam mais difíceis**.",
+        "Ele mora sem pagar aluguel num imóvel de Brian Heder e, em troca, ajuda com achaques, segundo o VGC."
+      ]
+    },
+    {
+      "rotulo": "No jogo",
+      "titulo": "O que já deu pra ver",
+      "destaque": "já deu",
+      "texto": [
+        "No vídeo Extended Look, Jason **rouba um carro**, foge da polícia com a Lucia e faz carinho num cachorro, de acordo com a GamesRadar e o Kotaku."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai jogar de Jason",
+  "legenda": {
+    "gancho": "Todo mundo fala da Lucia, mas Jason Duval também divide o protagonismo de GTA 6.",
+    "corpo": [
+      "Segundo a Rockstar, Jason cresceu cercado de golpistas, entrou para o Exército e foi parar nas Keys, trabalhando para traficantes locais.",
+      "O lema oficial resume: ele quer uma vida fácil, mas as coisas só ficam mais difíceis. Quem faz a voz dele não foi anunciado."
+    ],
+    "chamada": "Você vai de Jason ou de Lucia?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Jason Duval, o outro protagonista de GTA 6",
+    "Slide 2: Passado de Jason, do crime ao Exército",
+    "Slide 3: Jason quer uma vida fácil, mas tudo complica",
+    "Slide 4: Jason no vídeo Extended Look",
+    "Slide 5: Manda pro amigo que vai jogar de Jason"
+  ],
+  "slug": "jason-duval-gta-6-quem-e-o-protagonista",
+  "status": "pronto",
+  "criado": "2026-10-12T09:41:19-03:00"
+}

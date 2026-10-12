@@ -1,0 +1,70 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Squadron 42",
+  "gta6": false,
+  "materia": "squadron-42-trailer-steam-elenco-2027",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/10/s42-main-1791639420951.png",
+    "credito": "Cloud Imperium Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e PC Gamer",
+  "capa": {
+    "titulo": "Squadron 42 voltou, com trailer e Steam",
+    "destaque": "voltou",
+    "apoio": "O jogo solo de Star Citizen mira 2027. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que rolou",
+      "titulo": "Trailer, Steam e elenco",
+      "destaque": "Steam",
+      "texto": [
+        "A Cloud Imperium abriu a **lista de desejos na Steam** e confirmou o elenco, com Mark Hamill, Gary Oldman e Henry Cavill, segundo a IGN.",
+        "A janela na Steam é o segundo trimestre de 2027."
+      ]
+    },
+    {
+      "rotulo": "Para o PC",
+      "titulo": "150 GB de instalação",
+      "destaque": "150 GB",
+      "texto": [
+        "Os requisitos já estão na Steam. O PC Gamer nota que são modestos, mas a instalação pede **150 GB**."
+      ]
+    },
+    {
+      "rotulo": "Por que 2027",
+      "titulo": "GTA 6 empurrou a data",
+      "destaque": "GTA 6",
+      "texto": [
+        "Em agosto, o jogo saiu de 2026. Chris Roberts disse que não queria lançar no meio da atenção de **GTA 6**, segundo a IGN."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que ainda joga Star Citizen",
+  "legenda": {
+    "gancho": "Squadron 42 voltou com trailer novo, página na Steam e elenco confirmado.",
+    "corpo": [
+      "Segundo a IGN, o jogo solo de Star Citizen tem Mark Hamill, Gary Oldman, Gillian Anderson, Ben Mendelsohn e Henry Cavill no elenco.",
+      "A Steam lista o segundo trimestre de 2027 e 150 GB de instalação, de acordo com o PC Gamer."
+    ],
+    "chamada": "Você acredita nessa data?",
+    "hashtags": [
+      "#pixelzada",
+      "#squadron42",
+      "#starcitizen",
+      "#steam"
+    ]
+  },
+  "alt": [
+    "Slide 1: Squadron 42 volta com trailer e Steam",
+    "Slide 2: Lista de desejos e elenco confirmado",
+    "Slide 3: Requisitos e 150 GB",
+    "Slide 4: Adiado por causa de GTA 6",
+    "Slide 5: Manda pro amigo que ainda joga Star Citizen"
+  ],
+  "slug": "squadron-42-trailer-steam-elenco-2027",
+  "status": "pronto",
+  "criado": "2026-10-12T09:41:19-03:00"
+}
