@@ -212,10 +212,12 @@ zerar.** Isso é de graça; o gate lá na frente não é.
 ## 5.1 Instagram
 
 Depois das matérias, escreva as pautas do @pixelzada.br seguindo
-`.claude/skills/instagram-pixelzada/SKILL.md` (carrosséis das matérias de hoje e
-os de GTA 6 que faltarem na fila) e rode `python -m scripts.social.instagram check`
-até zerar. Isso vale também numa rodada sem matéria nova: a fila do Instagram
-precisa de GTA 6 todo dia. **Nunca repita imagem entre carrosséis**: rode
+`.claude/skills/instagram-pixelzada/SKILL.md`: **uma pauta por matéria nova
+desta rodada**, cada uma num formato diferente das últimas, e rode
+`python -m scripts.social.instagram check` até zerar. Sem matéria nova, não há
+pauta nova: carrossel não sai de matéria que já virou carrossel, nem de fatos
+soltos de matérias antigas (Diego, 12/10: os de GTA 6 estavam repetindo as
+mesmas rádios e o mesmo streaming do Xbox). **Nunca repita imagem entre carrosséis**: rode
 `python -m scripts.social.instagram imagens` antes de escolher a capa.
 
 ## 6. Publicar
@@ -260,9 +262,8 @@ ruído.
 ## Se não houver pauta
 
 Se o briefing vier vazio, vier velho, ou nada resistir à checagem: escreva isso
-no resumo e não escreva matéria. É um resultado legítimo e vai acontecer. As
-pautas de GTA 6 do Instagram (seção 5.1) ainda podem sair com fatos de matérias
-já publicadas; se não houver nem isso, encerre sem commitar.
+no resumo e não escreva matéria. É um resultado legítimo e vai acontecer. A
+rodada também não tem pauta nova do Instagram (seção 5.1): encerre sem commitar.
 
 ## Onde cada etapa roda
 

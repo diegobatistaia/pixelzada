@@ -1,9 +1,10 @@
 {
   "slug": "gta-6-xbox-cloud-gaming-pc-checagem",
   "tipo": "checagem",
+  "formato": "mito-ou-verdade",
+  "materia": "gta-6-xbox-streaming-nuvem-pc",
   "assunto": "GTA 6",
   "gta6": true,
-  "materia": "",
   "criado": "2026-10-08T07:40:00-03:00",
   "imagem": {
     "url": "https://exemplo.invalido/print-oficial.jpg",
@@ -31,10 +32,22 @@
       "titulo": "Real ou papo",
       "destaque": "papo",
       "itens": [
-        {"selo": "confirmado", "texto": "GTA 6 sai no Xbox em 19 de novembro"},
-        {"selo": "falso", "texto": "Streaming exclusivo do Xbox"},
-        {"selo": "falso", "texto": "Jogar no PC pelo Xbox Cloud Gaming"},
-        {"selo": "sem-info", "texto": "Versão nativa para PC"}
+        {
+          "selo": "confirmado",
+          "texto": "GTA 6 sai no Xbox em 19 de novembro"
+        },
+        {
+          "selo": "falso",
+          "texto": "Streaming exclusivo do Xbox"
+        },
+        {
+          "selo": "falso",
+          "texto": "Jogar no PC pelo Xbox Cloud Gaming"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "Versão nativa para PC"
+        }
       ]
     },
     {
@@ -55,7 +68,12 @@
       "Matthew Ball, diretor de estratégia do Xbox, respondeu no X que o jogo sai no Xbox em 19 de novembro, mas sem streaming exclusivo e sem streaming para PC, segundo a Eurogamer e a GamesRadar. A Rockstar ainda não anunciou a versão de PC."
     ],
     "chamada": "Você tinha caído nessa?",
-    "hashtags": ["#pixelzada", "#gta6", "#xbox", "#rockstargames"]
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#xbox",
+      "#rockstargames"
+    ]
   },
   "alt": [
     "Slide 1: GTA 6 no PC pela nuvem do Xbox? Checagem da Pixelzada",
