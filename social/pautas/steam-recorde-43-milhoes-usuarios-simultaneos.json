@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Steam",
+  "gta6": false,
+  "materia": "steam-recorde-43-milhoes-usuarios-simultaneos",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/10/steam-record-1200x675.jpg",
+    "credito": "Valve",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar e Kotaku",
+  "capa": {
+    "titulo": "Steam bateu recorde: 43 milhões ao mesmo tempo",
+    "destaque": "43 milhões",
+    "apoio": "Três coisas para entender esse número. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1 de 3",
+      "titulo": "Conectado não é jogando",
+      "destaque": "jogando",
+      "texto": [
+        "Os 43,5 milhões são contas **conectadas**, segundo o Kotaku.",
+        "Quem deixa o PC ligado à noite entra na conta."
+      ]
+    },
+    {
+      "rotulo": "2 de 3",
+      "titulo": "14,5 milhões jogando de verdade",
+      "destaque": "14,5 milhões",
+      "texto": [
+        "O SteamDB registra **14,5 milhões** de usuários dentro de um jogo na hora do recorde.",
+        "Esse número também é recorde, segundo o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "3 de 3",
+      "titulo": "Tem mais de 130 mil jogos",
+      "destaque": "130 mil",
+      "texto": [
+        "O catálogo da Steam passa de **130 mil jogos** e cresce cerca de 20 mil por ano, segundo o Kotaku.",
+        "Gears E-Day e Aion 2 ajudaram na semana."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que nunca desliga o PC",
+  "legenda": {
+    "gancho": "A Steam bateu recorde com mais de 43 milhões de usuários conectados ao mesmo tempo.",
+    "corpo": [
+      "Segundo o SteamDB, via GamesRadar e Kotaku, foram 43.505.724 contas em 11 de outubro. Desses, 14,5 milhões estavam dentro de um jogo.",
+      "Os números mostram contas conectadas, não só gente jogando."
+    ],
+    "chamada": "Quantos jogos você tem esperando na biblioteca?",
+    "hashtags": [
+      "#pixelzada",
+      "#steam",
+      "#pcgamer",
+      "#valve"
+    ]
+  },
+  "alt": [
+    "Slide 1: Steam bateu recorde de 43 milhões ao mesmo tempo",
+    "Slide 2: Conectado não é jogando",
+    "Slide 3: 14,5 milhões jogando de verdade",
+    "Slide 4: Mais de 130 mil jogos no catálogo",
+    "Slide 5: Manda pro amigo que nunca desliga o PC"
+  ],
+  "slug": "steam-recorde-43-milhoes-usuarios-simultaneos",
+  "status": "pronto",
+  "criado": "2026-10-12T17:40:48-03:00"
+}
