@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "debate",
+  "assunto": "Nintendo",
+  "gta6": false,
+  "materia": "nintendo-sem-planos-abandonar-jogos-fisicos-switch-2",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/mario-game-cart.jpg",
+    "credito": "Nintendo",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar, Eurogamer e Kotaku",
+  "capa": {
+    "titulo": "Nintendo: sem planos de largar o físico",
+    "destaque": "largar o físico",
+    "apoio": "Enquanto a Sony acaba com os discos, o Switch 2 segue nas prateleiras. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A Nintendo",
+      "titulo": "Agnóstica, e com físico",
+      "destaque": "Agnóstica",
+      "texto": [
+        "Bill van Zyll, da Nintendo na América Latina, disse que **não há planos de abandonar o físico**, segundo a Eurogamer.",
+        "A empresa diz seguir o que o consumidor prefere."
+      ]
+    },
+    {
+      "rotulo": "A Sony",
+      "titulo": "Discos acabam em 2028",
+      "destaque": "2028",
+      "texto": [
+        "A Sony vai encerrar os discos para jogos novos do PlayStation em 2028, segundo a GamesRadar.",
+        "O Kotaku conta que os fãs reclamaram **\"no disc, no buy\"** nas transmissões."
+      ]
+    },
+    {
+      "rotulo": "Os números",
+      "titulo": "61,5% digital na Nintendo",
+      "destaque": "61,5%",
+      "texto": [
+        "A parcela digital da Nintendo é de **61,5%** das unidades, contra 82% da Sony, segundo o Kotaku.",
+        "Por isso, abandonar o físico seria bem mais difícil para a Nintendo."
+      ]
+    }
+  ],
+  "final": "Físico ou digital: qual é o seu time?",
+  "legenda": {
+    "gancho": "A Nintendo disse que não tem planos de abandonar os jogos físicos no Switch 2.",
+    "corpo": [
+      "Segundo GamesRadar, Eurogamer e Kotaku, Bill van Zyll, da Nintendo na América Latina, afirmou que a empresa segue o que o consumidor prefere.",
+      "A fala contrasta com a Sony, que vai acabar com os discos de jogos novos em 2028."
+    ],
+    "chamada": "Você prefere físico ou digital?",
+    "hashtags": [
+      "#pixelzada",
+      "#nintendo",
+      "#switch2",
+      "#playstation"
+    ]
+  },
+  "alt": [
+    "Slide 1: Nintendo sem planos de largar o físico",
+    "Slide 2: A Nintendo é agnóstica e mantém o físico",
+    "Slide 3: A Sony acaba com os discos em 2028",
+    "Slide 4: Parcela digital de 61,5% na Nintendo",
+    "Slide 5: Físico ou digital, qual é o seu time"
+  ],
+  "slug": "nintendo-sem-planos-abandonar-jogos-fisicos-switch-2",
+  "status": "pronto",
+  "criado": "2026-10-12T13:39:32-03:00"
+}
