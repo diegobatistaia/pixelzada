@@ -40,15 +40,17 @@ def rostos(im: Image.Image) -> list[tuple[int, int, int, int]]:
     return [tuple(round(v / escala) for v in c) for c in caixas]
 
 
-def area_das_cabecas(caixas) -> tuple[int, int, int, int] | None:
+def area_das_cabecas(caixas, justa: bool = False) -> tuple[int, int, int, int] | None:
     """Retângulo (esq, topo, dir, base) que cobre as cabeças inteiras: o rosto
-    detectado mais testa/cabelo em cima e queixo/pescoço embaixo."""
+    detectado mais testa/cabelo em cima e queixo/pescoço embaixo. `justa` usa
+    folga mínima (só o rosto, da testa ao queixo)."""
     if not caixas:
         return None
-    esq = min(x - 0.25 * w for x, y, w, h in caixas)
-    dir_ = max(x + 1.25 * w for x, y, w, h in caixas)
-    topo = min(y - 0.4 * h for x, y, w, h in caixas)
-    base = max(y + 1.25 * h for x, y, w, h in caixas)
+    lado, cima, baixo = (0.05, 0.12, 1.05) if justa else (0.25, 0.4, 1.25)
+    esq = min(x - lado * w for x, y, w, h in caixas)
+    dir_ = max(x + (1 + lado) * w for x, y, w, h in caixas)
+    topo = min(y - cima * h for x, y, w, h in caixas)
+    base = max(y + baixo * h for x, y, w, h in caixas)
     return round(esq), round(topo), round(dir_), round(base)
 
 
