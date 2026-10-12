@@ -250,5 +250,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-12T18:41:27+00:00",
+    "id": "lucia-caminos-gta-6-quem-e-a-protagonista",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-10-12T18:41:28+00:00",
+    "id": "yuji-horii-dragon-quest-jogo-ia-30-minutos",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

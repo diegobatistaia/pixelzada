@@ -124,7 +124,9 @@
     "query": "Yuji Horii",
     "alt": "Yuji Horii, criador de Dragon Quest",
     "url": "https://www.videogameschronicle.com/files/2026/10/yuji-horii_feature.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/yuji-horii-dragon-quest-jogo-ia-30-minut-eb570538.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -152,5 +154,7 @@
       "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T18:41:28+00:00",
+  "updated_at": "2026-10-12T18:41:28+00:00"
 }
