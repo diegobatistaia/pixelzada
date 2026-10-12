@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-12T18:38:38+00:00",
+  "generated_at": "2026-10-12T19:09:51+00:00",
   "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
-  "already_written_today": 5,
+  "already_written_today": 7,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -98,66 +98,6 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/10/Invincible-VS.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "192f686381f7872b",
-      "title": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI",
-      "summary": "Horii has previously praised AI technology and its use in video games",
-      "owners": [
-        "future-plc",
-        "keleops",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "b79c01c7e91778f8",
-        "6d8b963f9c71c108",
-        "252ac9fff5de7675",
-        "809d9b29d28492ba"
-      ],
-      "sources": [
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
-          "title": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI",
-          "published_at": "2026-10-12T09:33:47+00:00",
-          "kind": "press",
-          "text": "Horii has previously praised AI technology and its use in video games Dragon Quest creator Yuji Horii has released a new game, which he claims was made in “just about 30 minutes,” with generative AI. Horii,Â age 72, who is best known as the creator of the Dragon Quest franchise and for his work on the beloved RPG Chrono Trigger, took to X to show off his latest game. “Long ago, when I made ‘The Portopia Serial Murder Case’ on a PC , I came up with the story myself, drew the pictures myself, did the programming myself, and created the game all by myself,” Horii said. “And now, by using AI, even if I can’t draw pictures or program, I can just give instructions to the AI and create a decent game all by myself. It’s truly astonishing. By the way, the production time for the game below was just about 30 minutes. Oh, and don’t press the boost button.” In the new game, Interrogation Room Komiya, players select a series of text prompts in an attempt to make a suspect confess to a crime. ãã®æãPCã§ããã¼ããã¢é£ç¶æ®ºäººäºä»¶ããä½ã£ãæã¯ãèªåã§ç©èªãèããçµµãæãã¦ããã­ã°ã©ã ããã¦ãã²ã¨ãã§ã²ã¼ã ãä½ãã¾ãããããã¦ä»ãï¼¡ï¼©ãä½¿ãã°ãçµµãæããªãã¦ãããã­ã°ã©ã ããªãã¦ããï¼¡ï¼©ã«æå³ããã ãã§ãã²ã¨ãã§ãããããã®ã²ã¼ã ãä½ãã¦ãã¾ãã¾ãããã³ãã³ã£ããã§ããâ¦ This isn’t the first time Horii has praised generative AI technology. Last year, Horii claimed that he was thinking about adding an AI chatbot to one of his future games.Â During the G-Star 2025 games conference in South Korea. “It would be interesting if we could use that kind of AI to, for example, play quiz games or mystery games where you have to find the culprit,” he explained, perhaps foreshadowing this latest release. “You could find the culprit while talking to your subordinates. Or the AI ââcould do the interrogation and when you ask it, it could tell you ‘here’s what they said’. Actually solving the case through conversation, while chatting… if something like that were truly possible, it would be fun, wouldn’t it?” As reported by Automaton at the time the interviewer than asked Horii if he was considering incorporating AI into his future games, to which he reportedly replied “yes”. Horii has worked on every mainline Dragon Quest game since the 1986 original, and via his company Armor Project, co-owns the franchise alongside Square Enix . Generative AI remains a contentious subject in video games, particularly because of concerns about plagiarism and the perceived poor quality of its results. However, many developers are using AI in the creation of their games, in an attempt to lower costs and speed up development. While AI creation remains a grey area in much of the world, with governments, artists, and companies deliberating how best to move forward, Japan declared in 2023 that using datasets to train AI models doesnât violate copyright law, even for commercial use. A recent report on Japanese online game developers claims that 100% of those surveyed use generative AI tools. The Japan Online Game Association (JOGA) stressed that this report relates only to domestic (Japanese) games that are âplayed via the internet regardless of deviceâ. It doesnât include console or PC games , nor does it include mobile games that are standalone offline experiences.",
-          "image": "https://www.videogameschronicle.com/files/2026/10/yuji-horii_feature.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/dragon-quest/dragon-quest-creator-yuji-horii-continues-his-love-affair-with-ai-slop-as-he-releases-a-new-game-he-generated-in-30-minutes/",
-          "title": "Dragon Quest creator continues love affair with AI as he releases a game he generated in 30 minutes",
-          "published_at": "2026-10-12T12:03:29+00:00",
-          "kind": "press",
-          "text": "Just keep the slop out of Dragon Quest 12, please Dragon Quest creator Yuji Horii is touting his new game which he claims took him about 30 minutes to make using generative AI. Despite being one of the most prolific game creators of all time, the Dragon Quest creator has fallen head over heels for the slop machine like your elderly uncle on Facebook. Developers like Hideo Kojima have spoken critically about using it as a replacement for creative aspects of game development , but Square Enix is working with Google on a chatbot for Dragon Quest 10, and Horii has generally been very positive about the tech, claiming it can make JRPG characters \"feel even more human\" and claiming that the tech known for hallucinating info \"hardly ever makes things up.\" And now, Horii has released a new 'game' titled Interrogation Room Komiya (via VGC ). The developer went to Twitter recalling the development of his 1983 adventure game The Portopia Serial Murder Case – a game which he wrote, programmed and created art for all by himself – while now, he can just write some words into the machine, allowing him to make something in about 30 minutes. Of course, the question is whether Horii's enthusiasm for the tech will carry over into Dragon Quest 12, which has been in what could be described as development hell, given that the entire concept was reworked and development was restarted . The game is confirmed to have artwork and characters from Dragon Ball creator Akira Toriyama and series composer Koichi Sugiyama, both of whom have passed away since the 12th entry was announced. I'm a creature-collecting sicko, and going hands-on with Dragon Quest Monsters: The Withered World made me realize how much I've been missing out on this spin-off. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/jDumTKMi4fRB8TrXDgqB77-1920-80.jpg"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
-          "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
-          "published_at": "2026-10-12T15:34:17+00:00",
-          "kind": "press",
-          "text": "AI Dragon Quest Portopia Serial Murder Case Yuji Horii Yuji Horii, best known for his work on the Dragon Quest RPG franchise , is also known in Japan for creating a murder mystery adventure The Portopia Serial Murder Case . That game was released in 1983 for PC titles and is credited with helping to pave the way for Nintendoâs own Famicom Detective Club series. Unfortunately, outside of Japan, Portopia has mostly been known for Square Enixâs attempts to revitalize the game entirely using AI for a maligned 2023 remake . Not content with leaving the AI experiments solely to other people, Horii himself decided to try “developing” his own spiritual successor using Claude. That game is called Komiya in the Interrogation Room and it’s a short browser-based experience that takes place entirely within the confines of the interrogation of the titular 72-year-old suspect Komiya for a possible safe robbery. Due to the suspect’s constant lies, the player must use various lines of questioning the game provides to uncover the truth underneath them, all while balancing Agitation and Resistance meters. They rise and fall based on your questioning and may lead Komiya to no longer provide answers at all if they reach their maximum of 100. ãã®æãPCã§ããã¼ããã¢é£ç¶æ®ºäººäºä»¶ããä½ã£ãæã¯ãèªåã§ç©èªãèããçµµãæãã¦ããã­ã°ã©ã ããã¦ãã²ã¨ãã§ã²ã¼ã ãä½ãã¾ãããããã¦ä»ãï¼¡ï¼©ãä½¿ãã°ãçµµãæããªãã¦ãããã­ã°ã©ã ããªãã¦ããï¼¡ï¼©ã«æå³ããã ãã§ãã²ã¨ãã§ãããããã®ã²ã¼ã ãä½ãã¦ãã¾ãã¾ãããã³ãã³ã£ããã§ããâ¦ — å äºéäº (@YujiHorii) October 11, 2026 According to the directorâs social media post sharing the game, he only spent about 30 minutes creating it using Anthropic’s AI tools before sharing it, praising the benefits of the technology in game development. âBack when I made The Portopia Serial Murder Case on PC, I had to come up with the story myself, draw the art, write the code, and create everything by myself,â Horii wrote in his post. âNow, with AI, even if you canât draw, or you canât program, you can create a game by yourself simply by asking the AI to do it for you. Itâs incredible.â The director has made no secret of his love for AI in recent months. The Chrono Trigger co-writer has published many social media posts praising it, including celebrating the idea that the technology “hardly ever” makes things up anymore . This has all happened alongside the Dragon Quest series itself being associated with a number of generative AI promotional stunts throughout Japan in partnership with Googleâs Gemini . Currently, Horii is working on the scenario for the latest game in the Dragon Quest series, Dragon Quest XII, which underwent a major reboot in the past year. His historically significant Portopia Serial Murder Case game, meanwhile, looks set to receive a developer- and artist-driven remake courtesy of G-Mode next year. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. As Affleck seeks to establish a seat for movie stars at AI's table, his use-case political thriller Animals isn't exactly persuasive Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use Call of Duty: Black Ops , Halo: CE , Grand Theft Auto: Vice City , Skate 3 and many more titles have been decompiled and ported to web browsers overnight Get ready for the vision that is Space Corridor Astrocade is filled with AI slop, but millions of people don't seem to care Zer0Day justified his AI-slop rip-off of GoldHEN by stating that âcreativity should never have to ask for permissionâ in a lengthy post on GitHub",
-          "image": "https://kotaku.com/app/uploads/2026/10/Yuji-Horii-AI-game--1200x675.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
-          "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
-          "published_at": "2026-10-12T17:15:59+00:00",
-          "kind": "press",
-          "text": "Dragon Quest co-creator Yuji Horii has just released a new game that he says was made (or, rather, prompted) in about half an hour thanks to gen-AI. In an online post from this weekend, the famed game developer recalled how he created 1983's The Portopia Serial Murder Case mostly on his lonesome. \"I came up with the story myself, drew the pictures myself, did the programming myself, and created the game all by myself,\" Horii wrote on X. \"And now, by using AI, even if I can't draw pictures or program, I can just give instructions to the AI and create a decent game all by myself. It's truly astonishing. By the way, the production time for the game below was just about 30 minutes. Oh, and don't press the boost button,\" he adds, while linking to a text-based interrogation game. その昔、PCで『ポートピア連続殺人事件』を作った時は、自分で物語を考え、絵も描いて、プログラムもして、ひとりでゲームを作りました。そして今、ＡＩを使えば、絵を描けなくても、プログラムしなくても、ＡＩに指図するだけで、ひとりで、そこそこのゲームを作れてしまいます。ホントびっくりです。ちなみに下のゲームの制作時間は、ほんの30分ほどでしたよ。あ、ブーストするボタンは押さないように。 https://t.co/slczyG52ZQ Horii's love affair with the tech started a while ago. Earlier this year, MMO Dragon Quest 10 teamed up with Google's Gemini AI to power an NPC chatbot called \"Chatty Slimey\", an in-game character that can talk to players in case they're, you know, starving for human interaction in a massively multiplayer online RPG. The 72-year-old dev defended the decision in an interview with Famitsu , translated by GamesRadar , months later: \"Because nowadays AI is really smart, it's fun. It doesn't matter what I ask it, it hardly ever makes things up [anymore]... It's evolving, and lately there are a lot of things you can do with it. Slimey is a conversational partner, so I think it lowers the barrier of entry to interacting with AI.\" As noted by VGC , Horii is also toying with the idea of an AI-powered chatbot for one of his future games, as well. He's currently involved with Dragon Quest 12: Beyond Dreams and a surprise sequel to The Portopia Serial Murder Case decades in the making. Generative-AI and its uses in game development have been hugely controversial in recent years - with players, developers and video game actors worried about job security . Just this month, Google and Unity revealed a quite depressing AI-game-making tool , too.",
-          "image": "https://assetsio.gnwcdn.com/ai-slime.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -329,42 +269,6 @@
       ]
     },
     {
-      "story_id": "6f53856718b45ea1",
-      "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
-      "summary": "Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use",
-      "owners": [
-        "future-plc",
-        "keleops"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "e548688da11a1065",
-        "384a2222265c9a04"
-      ],
-      "sources": [
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/ai-driven-driving-simulator-developers-go-into-debt-just-to-maintain-steam-demo-2000743791",
-          "title": "Developer Goes Into Debt Spending $1,000 A Day To Keep Steam Demo For AI-Fueled Driving Sim Going",
-          "published_at": "2026-10-10T19:18:35+00:00",
-          "kind": "press",
-          "text": "Teach My Little Sister How To Drive is an upcoming DMV simulator where players, riding passenger, instruct a chaotic young student to pass their exam. Developers Easy Fox are embracing AI for the project, the titular sister a live chat bot that the player is instructing. Beyond contention for the tech, Easy Fox are finding that the mere demo for the game is proving to be problematic, as accounting for the token usage is forcing them into debt . “Over the past month, the number of demo players has grown more than twentyfold,” reads the Steam pageâs latest update . “Thank you so much for giving our game far more attention than we ever expected. This growth has also increased our operating costs considerably.” As the update explains, the game originally patched players through to a chat bot operating on Googleâs Gemini. With no cost barrier between them and the curious, players of the demo were triggering limit-use errors, Google informing Easy Fox that thereâs no easy way out. Switching to the competing OpenAI model, while hoping to finding a fix with Gemini, is proving to be the least of their problems. Easy Fox says the surge of players has forced them to take out a bank loan to keep the demo operating. Maintaining the demo is apparently costing them more than $1,000 a day, which they admit they will have to factor into pricing the final product. While a number of game developers have flocked to AI to create in-game assets and code on the back-end, Teach My Little Sister is a more unique case. Leveraging an agent for sustained real-time gameplay, the game has found an expensive way to recreate what Lifeline and Hey You, Pikachu! accomplished over 20 years ago. “We want to continue operating the demo and would love for more people to enjoy it,” writes Easy Fox. “However, we are a small team of four, and financial pressure may mean we have to close the demo earlier than expected before the full release. We have not made that decision at this time.” The update also addresses complaints that, even in a game based around calamity, the AI fueled sister is not following instructions as desired. While a microcosm of it, the financial strain is an amusing illustration of one of AIâs biggest white elephant. That is, no oneâs sure how to make money off of it. While proliferating in short video content, horrifying fast food posters and visual assets devs “meant to take out,” the firms themselves are running purely on investments, not generating profit. The amount of resources needed to keep these computers burning continually outweighs what the public is otherwise willing to spend to see SpongeBob murder Shrek . Over the last year, AI firms have been forced to adjust, adding new premiums to their service, the so-called “tokenpocalypse.” With the global economy now held hostage by the industry, the burdens of the tech continue to put people on edge. Easy Fox are being taught a swift lesson on something the global population is likely going to learn the hard way. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The director has released his own Claude-driven adventure having spent months praising the technology It also broke the record for the number of players in-game by another half a million As Affleck seeks to establish a seat for movie stars at AI's table, his use-case political thriller Animals isn't exactly persuasive Call of Duty: Black Ops , Halo: CE , Grand Theft Auto: Vice City , Skate 3 and many more titles have been decompiled and ported to web browsers overnight Get ready for the vision that is Space Corridor Astrocade is filled with AI slop, but millions of people don't seem to care",
-          "image": "https://kotaku.com/app/uploads/2026/10/teachmysisterhowtodrive-1200x675.jpg"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-          "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running",
-          "published_at": "2026-10-11T12:31:04+00:00",
-          "kind": "press",
-          "text": "Teach My Little Sister How to Drive centres around a costly chatbot. One of the many ways AI will (supposedly) revolutionise the games industry is facilitating highly reactive NPCs via LLM-powered chatbots. Yet so far, only a handful of games like Where Winds Meet have attempted to implement the tech, and the results have been less than spectacular. But there might also be another reason why relatively few games feature LLM-powered NPCs, which is that powering such chatbots can be costly, as recently demonstrated by the developers of an upcoming driving instructor simulator As reported by FRVR (via Kotaku ) Teach My Little Sister How To Drive is a comic simulation game in which you coach your virtual sibling on driving technique from the comfort of the passenger seat. The twist is that behind your sister's dinner-plate eyes is an LLM chatbot (currently powered by an OpenAI model, though the developers intend to use Gemini for the final release) In the role of instructor, players can both converse with the chatbot and issue vocal instructions such as \"turn left here\", to which the bot will respond accordingly. At least, that's the theory. Developer Easy Fox released a demo for Teach My Little Sister How To Drive back in February, but in the past month the game has seen a surge in players, which has had an interesting knock-on effect for the demo. \"The number of demo players has grown more than twentyfold,\" Easy Fox explained in a Steam post , adding. \"This growth has also increased our operating costs considerably.\" Easy Fox goes on to explain that it is \"spending over $1,000 per day on AI services for the demo\", as players burn through tokens prompting the LLM by proxy. Easy Fox claims that figure \"isn't because each player is particularly expensive to support\", but rather that \"so many people are playing.\" As a result of this, Easy Fox has \"taken out a bank loan to help keep the demo running\". Yet even this may not be sufficient to support the demo long term. \"Financial pressure may mean we have to close the demo earlier than expected before the full release,\" Easy Fox says, though the studio stresses it has \"not made that decision at this time\". According to FRVR, that twentyfold increase in players amounts to 450 concurrent. While the overall player numbers will be higher than that, it isn't an enormous figure, and it makes me wonder how financially viable the game will be when it is released. Easy Fox says it will \"account for expected AI usage in the game's price\". But it also says that players \"will not be charged separately for their individual AI token usage after purchasing the game\". That might work in the short term, but surely those token costs are going to pile up over time. It's also worth noting that AI token costs are highly unpredictable , with even large companies like Microsoft and Uber struggling to accurately predict the cost and burn rate of their own internal token use. In its Steam post, Easy Fox says it's looking into options like introducing local AI models for players with \"sufficiently capable GPUs\". But that's only going to be a fraction of the player-base. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. All of this is aside from whether an AI-powered driving instruction game is a good idea. Personally, I think the fact that it revolves specifically around chatting with another character makes this a more sensible application than in Where Winds Meet, where the chatbots don't factor into the game design in any meaningful way. It's much more reminiscent of early chatbot-based social sim Façade . But the very fact it reminds me of Façade makes me wonder whether the game needs a premium LLM connected to it to achieve its goal. Easy Fox states that current design problems being addressed include \"dialogue that feels too artificial and breaks immersion\" and \"commands being carried out incorrectly, such as turning right when asked to turn left.\" All of which seems like it could be solved with a good voice actor and a sufficiently rich dialogue system. Easy Fox plans to release the full game in January next year, so we'll find out exactly how the finances stack up then. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/mpQFst9ntNsDXtxsubpvs-1920-80.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "4d09557cf29a714c",
       "title": "Entenda os 5 diferentes finais de Silent Hill: Townfall",
       "summary": "O final de Townfall é determinado por algumas ações ao longo do jogo",
@@ -471,272 +375,78 @@
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/vintage_vice_city_pack_exclusive_looks_04.jpg?w=1600&h=900&fit=crop"
         }
       ]
-    }
-  ],
-  "especial_gta6": {
-    "id": "especial-gta6-lucia-caminos",
-    "tema": "Lucia Caminos: quem é a protagonista de GTA 6",
-    "categoria": "gta-6",
-    "angulo": "Quem é Lucia, a lutadora recém-saída da cadeia que divide o protagonismo de GTA 6 com Jason, e o que o jogo já mostrou dela antes do lançamento.",
-    "fatos": [
-      {
-        "texto": "Lucia Caminos é uma das duas protagonistas de GTA 6, ao lado de Jason Duval.",
-        "fontes": [
-          0,
-          1,
-          3
-        ]
-      },
-      {
-        "texto": "Segundo o perfil oficial, o pai de Lucia a ensinou a lutar assim que ela aprendeu a andar.",
-        "fontes": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "texto": "Lutar pela própria família a levou para a Penitenciária de Leonida.",
-        "fontes": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "texto": "Ela saiu da prisão por pura sorte, e agora quer fazer só jogadas inteligentes.",
-        "fontes": [
-          0,
-          1,
-          3
-        ]
-      },
-      {
-        "texto": "Lucia quer a vida boa que a mãe sonha desde a época em que as duas viviam em Liberty City, e está disposta a resolver as coisas com as próprias mãos.",
-        "fontes": [
-          0,
-          1
-        ]
-      },
-      {
-        "texto": "Para a Rockstar, uma vida ao lado de Jason pode ser a saída de Lucia.",
-        "fontes": [
-          0
-        ]
-      },
-      {
-        "texto": "Falas de Lucia no site oficial incluem \"A única coisa que importa é quem você conhece e o que você tem\".",
-        "fontes": [
-          0
-        ]
-      },
-      {
-        "texto": "Os trailers mostram Lucia deixando a prisão; no Trailer 2, é Jason quem vai buscá-la.",
-        "fontes": [
-          2,
-          3
-        ]
-      },
-      {
-        "texto": "Na sinopse oficial, Jason e Lucia sempre souberam que as cartas estavam marcadas contra eles; quando um golpe fácil dá errado, os dois caem no lado mais sombrio de Vice City, no meio de uma conspiração criminosa que se espalha pelo estado de Leonida, e precisam confiar um no outro para sair vivos.",
-        "fontes": [
-          0,
-          8
-        ]
-      },
-      {
-        "texto": "A Rockstar publicou os perfis oficiais dos personagens no site de GTA VI em 6 de maio de 2025, no mesmo dia em que lançou o Trailer 2.",
-        "fontes": [
-          1,
-          2
-        ]
-      },
-      {
-        "texto": "O vídeo 'Grand Theft Auto VI: An Extended Look', com cerca de 26 minutos de jogo capturado no PS5, estreou na Netflix em 27 de agosto de 2026 às 15h (horário de Nova York, 16h em Brasília) e chegou ao YouTube da Rockstar às 21h (22h em Brasília) do mesmo dia.",
-        "fontes": [
-          10,
-          9,
-          4
-        ]
-      },
-      {
-        "texto": "No Extended Look, Lucia pergunta a Jason qual roupa usar antes de uma festa na casa de Brian Heder.",
-        "fontes": [
-          4,
-          6
-        ]
-      },
-      {
-        "texto": "O vídeo mostra Lucia treinando: ela aparece fazendo sparring e supino.",
-        "fontes": [
-          7,
-          5
-        ]
-      },
-      {
-        "texto": "Em combates corpo a corpo, Lucia pode atacar usando um salto alto, segundo cenas mostradas pela Rockstar.",
-        "fontes": [
-          3,
-          6
-        ]
-      },
-      {
-        "texto": "No trecho final, Jason e Lucia fazem a segurança de um evento corporativo que é atacado; no fim do vídeo, Lucia está em perigo.",
-        "fontes": [
-          4,
-          7
-        ]
-      },
-      {
-        "texto": "Rumor, sem confirmação da Rockstar: a atriz Manni L. Perez é apontada como a intérprete de Lucia; a Dexerto afirma que 'a Rockstar ainda não confirmou' e a SVG lembra que o elenco não foi anunciado.",
-        "fontes": [
-          11,
-          12,
-          13,
-          14,
-          15
-        ]
-      },
-      {
-        "texto": "Perez já teve um papel pequeno em GTA V: segundo a Dexerto, ela aparece nos créditos como duas crupiês de blackjack sem nome no cassino Diamond.",
-        "fontes": [
-          11,
-          12
-        ]
-      },
-      {
-        "texto": "GTA 6 sai em 19 de novembro de 2026 para PS5 e Xbox Series X|S, segundo o site oficial e a GameSpot (agosto de 2026); em maio de 2025 a Rockstar havia anunciado 26 de maio de 2026, data que depois foi adiada.",
-        "fontes": [
-          0,
-          8,
-          9
-        ]
-      }
-    ],
-    "fontes": [
-      {
-        "name": "Rockstar Games",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://www.rockstargames.com/VI/lucia",
-        "title": "An Extended Look: Now Playing"
-      },
-      {
-        "name": "Video Games Chronicle",
-        "owner": "vgc",
-        "kind": "press",
-        "url": "https://www.videogameschronicle.com/news/gta-6s-cast-of-characters-revealed/",
-        "title": "GTA 6's cast of characters revealed, including a conspiracy theorist and strip club gangster"
-      },
-      {
-        "name": "Game Informer",
-        "owner": "game-informer",
-        "kind": "press",
-        "url": "https://www.gameinformer.com/2025/05/06/rockstar-details-9-of-grand-theft-auto-vi-presumably-many-many-characters",
-        "title": "Rockstar Details Nine of Grand Theft Auto VI's Presumably Many, Many Characters"
-      },
-      {
-        "name": "PC Gamer",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://www.pcgamer.com/games/action/grand-theft-auto/gta6-characters/",
-        "title": "GTA 6 characters: Everyone we know about so far"
-      },
-      {
-        "name": "GamesRadar+",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
-        "title": "Everything revealed from the GTA 6 extended look"
-      },
-      {
-        "name": "Engadget",
-        "owner": "static-media",
-        "kind": "press",
-        "url": "https://www.engadget.com/2246846/things-you-may-have-missed-gta-6-extended-look/",
-        "title": "20+ Things You May Have Missed In The GTA 6 Extended Look"
-      },
-      {
-        "name": "KeenGamer",
-        "owner": "keengamer",
-        "kind": "press",
-        "url": "https://www.keengamer.com/articles/news/gta-6-extended-look-recap-all-gameplay-details/",
-        "title": "GTA 6 Extended Look Recap: All Gameplay Details"
-      },
-      {
-        "name": "Insider Gaming",
-        "owner": "insider-gaming",
-        "kind": "press",
-        "url": "https://insider-gaming.com/gta-6-extended-look-jason-lucia-story/",
-        "title": "GTA 6 Extended Look Showcases Jason and Lucia's Story"
-      },
-      {
-        "name": "Rockstar Games (Business Wire)",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://www.businesswire.com/news/home/20250506618004/en/ADDING-MULTIMEDIA-Rockstar-Games-Releases-Trailer-2-for-Grand-Theft-Auto-VI",
-        "title": "ADDING MULTIMEDIA Rockstar Games Releases Trailer 2 for Grand Theft Auto VI"
-      },
-      {
-        "name": "GameSpot",
-        "owner": "fandom",
-        "kind": "press",
-        "url": "https://www.gamespot.com/articles/gta-6-netflix-trailers-beefy-runtime-revealed-footage-captured-on-ps5/",
-        "title": "GTA 6 Netflix Trailer's Beefy Runtime Revealed, Footage Captured On PS5"
-      },
-      {
-        "name": "Rockstar Newswire",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9/grand-theft-auto-vi-an-extended-look",
-        "title": "Grand Theft Auto VI: An Extended Look"
-      },
-      {
-        "name": "Dexerto",
-        "owner": "dexerto",
-        "kind": "press",
-        "url": "https://www.dexerto.com/gta/gta-6s-lucia-actress-actually-appears-in-gta-online-and-you-might-have-missed-her-3404005/",
-        "title": "GTA 6's Lucia actress actually appears in GTA Online and you might have missed her"
-      },
-      {
-        "name": "SVG",
-        "owner": "static-media",
-        "kind": "press",
-        "url": "https://www.svg.com/2120810/gta-6-rumored-cast-look-real-life/",
-        "title": "What The Rumored Cast Of GTA 6 Looks Like In Real Life"
-      },
-      {
-        "name": "Pure Xbox",
-        "owner": "ziff-davis",
-        "kind": "press",
-        "url": "https://www.purexbox.com/news/2025/05/gta-6-fans-are-trying-to-figure-out-the-games-voice-actors",
-        "title": "GTA 6 Fans Are Trying To Figure Out The Game's Voice Actors"
-      },
-      {
-        "name": "PCGamesN",
-        "owner": "network-n",
-        "kind": "press",
-        "url": "https://www.pcgamesn.com/grand-theft-auto-6/voice-actors",
-        "title": "Who are the GTA 6 voice actors?"
-      },
-      {
-        "name": "SVG",
-        "owner": "static-media",
-        "kind": "press",
-        "url": "https://www.svg.com/2246330/gta-6-extended-look-actors-voice-cast/",
-        "title": "All The Actors We Recognized In The GTA 6 Extended Look"
-      }
-    ],
-    "imagem": {
-      "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.02k0a_sb5-8k7.jpg?akim=1&imdensity=1&imwidth=3840",
-      "credito": "Rockstar Games",
-      "descricao": "Imagem da seção de Lucia Caminos no site oficial de GTA VI"
     },
-    "formatos_carrossel": [
-      "em-foco",
-      "perguntas",
-      "detalhes"
-    ]
-  },
-  "especiais_gta6_hoje": 1
+    {
+      "story_id": "99bc314046da5bd8",
+      "title": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+      "summary": "Four characters and one stage will be available individually or as part of a season pass",
+      "owners": [
+        "meups",
+        "vgc"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "2eb2a24d57420be7",
+        "8bec501a2d0e3def"
+      ],
+      "sources": [
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/",
+          "title": "Marvel Tokon’s Year One DLC roster confirmed, including Venom, Thor and Jubilee",
+          "published_at": "2026-10-12T10:02:29+00:00",
+          "kind": "press",
+          "text": "Four characters and one stage will be available individually or as part of a season pass The full Year One DLC line-up for Marvel Tokon: Fighting Souls has been confirmed. As revealed during the EVO France fighting game competition this past weekend, a total of four characters will be coming to the game over the course of the next year, as well as one stage. The first to be added is Phoenix Cyclops, who was previously announced last week. He’ll be added to the game on November 2, it’s been confirmed. He’ll be followed by Thor (the Jane Foster version), who will arrive in ‘Winter 2027’. Because of the order the characters are listed, this likely means early 2027, rather than late in the year. Spring 2027 will see the arrival of Venom, as well as a new stage set on the planet Klyntar, the living prison created by symbiotes. Finally, rounding off the Year 1 DLC is X-Men teenager Jubilee, who will arrive in Summer 2027. All four characters and the Klyntar stage will be available to purchase individually, but a Year One pass will also be offered for those who wish to buy them all at a reduced price. Marvel Tokon: Fighting Souls was released in August and was critically well received, with a current Metacritic score of 85. The game had problematic launch on Steam , however, with players reporting stuttering and inconsistent frame rates â something more forgivable in an action adventure game or an RPG, but not in a fighting game where expert players may study certain techniques on a frame-by-frame basis. Producer Takeshi Yamanaka told VGC in August that while he was “very appreciative” to see “a positive reception” to the game’s content itself, and among console players, the team was also well aware of the issues faced by PC players. “Currently, the team is hard at work on fixing these issues, and weâve now released two urgent patches,” he said at the time. “The CPU processing load issue has been greatly improved now as of the latest patch. However, the team is still hard at work to continue working on resolving remaining issues.”",
+          "image": "https://www.videogameschronicle.com/files/2026/10/marvel-tokon-1.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/news/marvel-tokon-jane-foster-venom-jubilee-dlcs/",
+          "title": "Marvel Tōkon terá Thor (Jane Foster), Venom e Jubilee no Ano 1 de DLCs",
+          "published_at": "2026-10-12T13:00:38+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Marvel-Tokon-Fighting-Souls-2.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "df5cdf11716ec2e5",
+      "title": "Steam hits new all-time high of over 43 million concurrent users just 7 months after its last record",
+      "summary": "Valve's platform is having a good 2026",
+      "owners": [
+        "future-plc",
+        "keleops"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "ad1edba50f89228e",
+        "f6a4a45f1b961d1c"
+      ],
+      "sources": [
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/steam-hits-new-all-time-high-of-over-43-million-concurrent-users-just-7-months-after-its-last-record-as-wardogs-and-deadlock-surge-in-popularity/",
+          "title": "Steam hits new all-time high of over 43 million concurrent users just 7 months after its last record",
+          "published_at": "2026-10-12T10:12:58+00:00",
+          "kind": "press",
+          "text": "We regularly report on individual games breaking their concurrent player records on Steam , but this time the focus is on Valve 's storefront itself. This month, October 2026, the marketplace hit a new all-time record for concurrent users, safely leapfrogging the previous benchmark. Per SteamDB , Valve 's platform had a ridiculous 43,505,724 people using it at once during October 11. That's a significant amount of accounts to be active at once, to say the least. The last record, a similarly beefy 42,686,616, wasn't actually that long ago, occurring in March of this year. 2026 is turning out to be a good lap around the sun for Gabe Newell and his cohorts. I'm sure he'll be buying more yachts to celebrate. For comparison, the current number is more than the last recorded populations of Canada, Poland, and Mozambique. I'd joke about Valve founding its own sovereign state using fans of Steam, but I wouldn't put it past them to do it for a meme. The service has enjoyed an increased uptick this decade compared to the last. Starting with a surge while we were all in lockdown, Steam crossed the 40 million threshold a good deal quicker than it did the 20 million line. Even without hard data, there are accelerants we can point towards here. The diversity of games available, since Steam offers a huge amount of indie and lower-specced releases alongside all the triple-A stuff, and more live-service projects such as Wardogs and Deadlock that start off in early access or are simply preferable on PC. But mostly I think this just makes it clear more people than ever are enjoying video games in some form or another. Which is great for everyone, but especially those of us who're still hoping for Half-Life 3 . Someday, comrades. Weekly digests, tales from the communities you love, and more Steam on track to earn a record $20 billion this year thanks to games like The Witcher 3 Remastered and Wardogs, analyst says after a massive September. Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/TvJbRegD7ZdQp6usZvFDSX-1920-80.png"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/steam-valve-concurrent-users-record-in-game-epic-fortnite-roblox-2000744564",
+          "title": "Steam Smashes Its Player Records, With Over 43 Million Concurrent Users In October",
+          "published_at": "2026-10-12T13:15:13+00:00",
+          "kind": "press",
+          "text": "Steam has once again broken its all-time record for concurrent users, reaching an utterly extraordinary 43,505,724 people logged in at the same time. AsÂ Eurogamer reports , picking up the numbers from SteamDB , this marks the third time this year that the top figure has been smashed, hitting over 42 million back in January, adding another half-million in March, and now breaking through the 43 million barrier for the first time in the service’s 23 years. It’s important to note that this isn’t the number of people playing games on Steam simultaneously, but rather the numbers logged in at once. And if you’re a terrible person like me who leaves your PC on overnight, you’re adding to the number of non-playing accounts in those figures. However, SteamDB records that 14.5 million actually were in-game when the record was broken. That too is a record, by an extraordinary half a million more people. As for where those numbers are coming from, there’s no specific massive spike, but rather the continued gradual accumulation of users. Clearly the release ofÂ Gears of War: E-Day will have helped, with around 170,000 sales on Steam , while free-to-play MMOÂ Aion 2 has seen almost 400,000 players showing up all week. They join the usual suspects like Dota 2 and Counter-Strike 2 , which routinely see player counts of over a million, andÂ PUGB with its regular 700,000. The rest, of course, is spread across the 130,000 games currently available on Steam, a figure that goes up by 20,000 a year. All these extraordinary numbers mean Valve is looking likely to make $20,000,000,000 this year, higher than the GDP of dozens of countries, andÂ Kotaku has helpfully suggested a few ways it could spend this money to improve things for everyone involved. Of course, it’s important to add some perspective.Â RobloxÂ reported 123 million daily active users across all its many games in the second quarter of 2026 (which is in fact significantly down from Q3 2025’s 152 million), still demolishing Steam’s record by almost triple the number of people. And for a single game, Fortnite alone matched Steam’s all-time highest number of in-game players across the tens of thousands of games, with an all-time peak of 14.3 million players in 2024. (That number has colossally collapsed of late, with this year’s Halloween event struggling to pull in 2 million midway through the month.) Yet, despite this, Fortnite creators Epic laid off 1,000 people this year , whileÂ Roblox reports a net loss of $185 million, so no matter what, Valve is still coming out on top. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. From within a closed beta, the board-wielding Solomon already has fans eager to crown him royalty Hoping to launch next year, Teach My Little Sister How To Drive is prematurely sending its creators into the red over exhaustive token use One producer shares how he sought to relive his childhood camaraderie and 'cross the line' with sexy mahjong There are so many ways Steam could work better for the people that generate the profit Valve's annual sales event is back and offering up big deals on games like XCOM 2 , Minecraft Dungeons , Grand Theft Auto V , and Total War: Warhammer Ocarina of Time 's Navi has some new competition for the title of most annoying NPC in a video game; the entire cast of Graveyard Keeper 2",
+          "image": "https://kotaku.com/app/uploads/2026/10/steam-record-1200x675.jpg"
+        }
+      ]
+    }
+  ]
 }
