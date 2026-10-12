@@ -165,9 +165,16 @@ publishing:
   launch_date: "2026-10-08"
   # 5 a 6 por dia no comeco, subindo para 10. So avanca de fase se o gate
   # aprovar acima de ramp_gate_pass_rate na janela.
+  # 10 por dia desde 12/10/2026 (Diego aprovou): 2 delas são as especiais de
+  # GTA 6 (especiais_gta6 abaixo), o resto é noticiário.
   ramp:
-    - {from_day: 0,   posts_per_language: 8}
-    - {from_day: 30,  posts_per_language: 10}
+    - {from_day: 0,   posts_per_language: 10}
+  # Matérias especiais de GTA 6 (Diego, 12/10/2026): saem do dossiê checado em
+  # data/gta6-especiais.json, nas rodadas destas horas, até o lançamento.
+  especiais_gta6:
+    por_dia: 2
+    rodadas: [9, 15]
+    ate: "2026-11-19"
   # Horarios (fuso do site) em que a coleta roda. Se mudar aqui, mude o cron do
   # workflow Coletar e o horario da Routine (minuto 37 de cada hora daqui).
   # De 2 em 2 horas desde 11/10/2026 (pedido do Diego): o teto do dia se
