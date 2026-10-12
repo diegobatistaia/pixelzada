@@ -32,12 +32,29 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # O Google Analytics ainda não foi ligado (sem propriedade GA4 no
+      # site.config.yaml ou sem a chave): pula em vez de falhar toda semana.
+      - name: Ver se o Google Analytics está ligado
+        id: ligado
+        env:
+          GA_SEARCH_CONSOLE_CREDENTIALS: ${{ secrets.GA_SEARCH_CONSOLE_CREDENTIALS }}
+        run: |
+          prop=$(python -c "import yaml; print((yaml.safe_load(open('site.config.yaml')).get('analytics') or {}).get('ga4_property_id') or '')")
+          if [ -n "$prop" ] && [ -n "$GA_SEARCH_CONSOLE_CREDENTIALS" ]; then
+            echo "sim=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Google Analytics ainda não configurado; nada a buscar."
+            echo "sim=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Buscar métricas do GA4 e do Search Console
+        if: steps.ligado.outputs.sim == 'true'
         env:
           GA_SEARCH_CONSOLE_CREDENTIALS: ${{ secrets.GA_SEARCH_CONSOLE_CREDENTIALS }}
         run: python -m scripts.pipeline.run analytics
 
       - name: Commitar data/analytics.json
+        if: steps.ligado.outputs.sim == 'true'
         run: |
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
