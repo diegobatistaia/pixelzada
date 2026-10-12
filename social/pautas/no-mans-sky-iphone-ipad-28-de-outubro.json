@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "No Man's Sky",
+  "gta6": false,
+  "materia": "no-mans-sky-iphone-ipad-28-de-outubro",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/No-Mans-Sky-iOS_10-12-26.jpg",
+    "credito": "Hello Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: The Verge, Gematsu e Eurogamer",
+  "capa": {
+    "titulo": "No Man's Sky vai caber no seu iPhone",
+    "destaque": "iPhone",
+    "apoio": "A estreia no iOS é em 28 de outubro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que rolou",
+      "titulo": "Chega ao iPhone e ao iPad",
+      "destaque": "iPhone",
+      "texto": [
+        "A Hello Games confirmou a estreia no iOS em **28 de outubro**, segundo o The Verge.",
+        "Sean Murray diz que **não é uma versão lite**."
+      ]
+    },
+    {
+      "rotulo": "O que muda",
+      "titulo": "Sem multiplayer e assentamentos",
+      "destaque": "multiplayer",
+      "texto": [
+        "A versão tem as atualizações dos últimos dez anos, em **5 GB**, segundo o The Verge.",
+        "Ficam de fora o multiplayer e os assentamentos planetários."
+      ]
+    },
+    {
+      "rotulo": "Quem roda",
+      "titulo": "A partir do iPhone 11",
+      "destaque": "iPhone 11",
+      "texto": [
+        "Funciona no iPhone 11 e no iPad Air de 3ª geração, ou mais novos, segundo o The Verge.",
+        "Aceita toque, controle e, no iPad, mouse e teclado."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que explora o espaço no celular",
+  "legenda": {
+    "gancho": "No Man's Sky chega ao iPhone e ao iPad em 28 de outubro.",
+    "corpo": [
+      "Segundo The Verge, Gematsu e Eurogamer, a versão para iOS traz as atualizações dos últimos dez anos, mas sem multiplayer e sem assentamentos.",
+      "Roda a partir do iPhone 11 e ocupa 5 GB. O preço do jogo completo não foi informado."
+    ],
+    "chamada": "Você jogaria No Man's Sky no celular?",
+    "hashtags": [
+      "#pixelzada",
+      "#nomanssky",
+      "#ios",
+      "#hellogames"
+    ]
+  },
+  "alt": [
+    "Slide 1: No Man's Sky vai caber no seu iPhone",
+    "Slide 2: Chega ao iPhone e ao iPad em 28 de outubro",
+    "Slide 3: Sem multiplayer e assentamentos",
+    "Slide 4: Roda a partir do iPhone 11",
+    "Slide 5: Manda pro amigo que explora o espaço no celular"
+  ],
+  "slug": "no-mans-sky-iphone-ipad-28-de-outubro",
+  "status": "pronto",
+  "criado": "2026-10-12T19:39:07-03:00"
+}
