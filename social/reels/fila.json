@@ -157,10 +157,15 @@
     "slug": "michael-franklin-gta5",
     "data": "2026-10-12",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conversa",
     "legenda": "Michael: “Você tá bem, Franklin?” 🥲\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #gtavi #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-12T15:59:36-03:00",
+      "media_id": "18113579522126753",
+      "permalink": "https://www.instagram.com/reel/DeZ7wwXiqjG/"
+    }
   },
   {
     "slug": "mapa-gta6-vice-city-los-santos",

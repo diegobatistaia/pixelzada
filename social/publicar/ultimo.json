@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "wing-commander-3-edicao-30-anos",
-    "horario": "15:00",
-    "data": "2026-10-12",
-    "estilo": "dividido",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "michael-franklin-gta5",
+    "pasta": "reel-michael-franklin-gta5",
+    "horario": "16:00",
+    "data": "2026-10-12"
   },
-  "em": "2026-10-12T15:00:37-03:00",
+  "em": "2026-10-12T15:59:36-03:00",
   "ok": true,
-  "media_id": "18008364038782602",
-  "permalink": "https://www.instagram.com/p/DeZ1D08leX-/",
-  "story": {
-    "em": "2026-10-12T15:01:31-03:00",
-    "media_id": "18117684850970448"
-  },
+  "media_id": "18113579522126753",
+  "permalink": "https://www.instagram.com/reel/DeZ7wwXiqjG/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
