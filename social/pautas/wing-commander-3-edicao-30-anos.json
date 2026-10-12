@@ -80,6 +80,18 @@
     "Slide 5: Manda pro amigo que jogou nos anos 90"
   ],
   "slug": "wing-commander-3-edicao-30-anos",
-  "status": "pronto",
-  "criado": "2026-10-12T07:40:11-03:00"
+  "status": "publicado",
+  "criado": "2026-10-12T07:40:11-03:00",
+  "publicado": {
+    "data": "2026-10-12",
+    "horario": "15:00",
+    "em": "2026-10-12T15:00:37-03:00",
+    "estilo": "dividido",
+    "media_id": "18008364038782602",
+    "permalink": "https://www.instagram.com/p/DeZ1D08leX-/"
+  },
+  "story": {
+    "em": "2026-10-12T15:01:31-03:00",
+    "media_id": "18117684850970448"
+  }
 }

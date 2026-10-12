@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "forza-horizon-6-celular",
-    "pasta": "reel-forza-horizon-6-celular",
-    "horario": "14:00",
-    "data": "2026-10-12"
+    "acao": "carrossel",
+    "slug": "wing-commander-3-edicao-30-anos",
+    "horario": "15:00",
+    "data": "2026-10-12",
+    "estilo": "dividido",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-12T13:59:34-03:00",
+  "em": "2026-10-12T15:00:37-03:00",
   "ok": true,
-  "media_id": "17928619518423534",
-  "permalink": "https://www.instagram.com/reel/DeZuBO1AUn8/",
+  "media_id": "18008364038782602",
+  "permalink": "https://www.instagram.com/p/DeZ1D08leX-/",
+  "story": {
+    "em": "2026-10-12T15:01:31-03:00",
+    "media_id": "18117684850970448"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
