@@ -171,10 +171,15 @@
     "slug": "mapa-gta6-vice-city-los-santos",
     "data": "2026-10-12",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Missão",
     "legenda": "O mapa do GTA 6 é pequeno? Compare com Los Santos 🗺️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-12T17:59:40-03:00",
+      "media_id": "18155969572515063",
+      "permalink": "https://www.instagram.com/reel/DeaJf6CieTn/"
+    }
   },
   {
     "slug": "jim-carrey-dia-19",
