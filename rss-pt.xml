@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:42:39 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Gears of War: E-Day sofreu ataque DDoS no fim de semana, confirma a The Coalition</title>
+      <link>https://pixelzada.com.br/pt/gears-of-war-e-day-ataque-ddos-servidores/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gears-of-war-e-day-ataque-ddos-servidores/</guid>
+      <description>A The Coalition confirmou que as quedas de Gears of War: E-Day no fim de semana foram causadas por ataque DDoS. Veja o que o estúdio disse e o que falta saber.</description>
+      <category>Indústria</category>
+      <pubDate>Mon, 12 Oct 2026 14:42:39 +0000</pubDate>
+    </item>
     <item>
       <title>Squadron 42 ganha trailer, página na Steam e elenco com Hamill, Oldman e Cavill</title>
       <link>https://pixelzada.com.br/pt/squadron-42-trailer-steam-elenco-2027/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-xbox-streaming-nuvem-pc/</guid>
       <description>A Microsoft negou exclusividade e streaming de GTA 6 no PC pelo Xbox Cloud Gaming. Veja o que mudou desde o relato do The Verge e o que segue em aberto.</description>
       <category>GTA 6</category>
-      <pubDate>Thu, 08 Oct 2026 10:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phoenix Cyclops chega a Marvel Tōkon em 2 de novembro, com teste</title>
-      <link>https://pixelzada.com.br/pt/marvel-tokon-phoenix-cyclops-2-novembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/marvel-tokon-phoenix-cyclops-2-novembro/</guid>
-      <description>Phoenix Cyclops é o primeiro DLC de Marvel Tōkon: Fighting Souls e chega em 2 de novembro. Veja como ele luta, o teste de 3 horas no PS Plus e a promoção.</description>
-      <category>Lançamentos</category>
       <pubDate>Thu, 08 Oct 2026 10:15:04 +0000</pubDate>
     </item>
   </channel>

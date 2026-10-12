@@ -124,7 +124,9 @@
     "query": "Gears of War E-Day Marcus",
     "alt": "Marcus Fenix em arte de Gears of War: E-Day",
     "url": "https://assetsio.gnwcdn.com/gears-of-war-e-day-marcus-crop.jpg",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/gears-of-war-e-day-ataque-ddos-servidore-e9bcd1b2.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -146,5 +148,7 @@
       "title": "Gears Of War: E-Day Was Taken Down By DDoS Attack, Developers Confirm"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T14:42:39+00:00",
+  "updated_at": "2026-10-12T14:42:39+00:00"
 }
