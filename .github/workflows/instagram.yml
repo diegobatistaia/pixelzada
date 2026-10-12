@@ -1,7 +1,7 @@
 name: Instagram
 
 # Publica no @pixelzada.br sozinho, em horários fixos (Brasília):
-#   carrossel + Story às 08h, 10h, 12h, 14h, 18h, 18h15 e 21h (3 de GTA 6, 4 de outros jogos)
+#   carrossel + Story às 09h, 11h, 13h, 15h, 17h, 19h e 21h (GTA 6 às 11h, 15h e 19h)
 #   Reel desligado (REEL_ATIVO em scripts/social/instagram.py)
 #
 # A redação (Routine do Claude) escreve as pautas em social/pautas/. Aqui, onde
@@ -14,9 +14,8 @@ name: Instagram
 # primeira que roda publica e as outras saem em segundos.
 on:
   schedule:
-    - cron: "2,22,47 11,13,15,17,21,0 * * *"   # 08, 10, 12, 14, 18 e 21h
-    - cron: "17 22 * * *"                          # 19h17 (rede de segurança do Reel)
-    - cron: "17 23 * * *"                          # 20h17 (rede de segurança do Reel)
+    - cron: "2,22,47 12,14,16,18,20,22,0 * * *"   # 09, 11, 13, 15, 17, 19 e 21h
+    - cron: "12,37 13,15,17,19,21,23,1 * * *"     # rede de segurança, 1h depois
   workflow_dispatch:
     inputs:
       acao:

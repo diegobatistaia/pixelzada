@@ -27,11 +27,13 @@ from . import instagram as IG, pauta as P
 PASTA = P.ROOT / "social" / "reels"
 FILA = PASTA / "fila.json"
 PEDIDO = P.SAIDA / "pedido-reel.json"
-# Horários fixos (Brasília), sem bater com os carrosséis (08, 10, 12, 14, 18, 18h15, 21h).
-HORARIOS = ["11:00", "13:00", "15:30", "20:00"]
+# Horários fixos (Brasília): 6 por dia nas horas pares, entre os carrosséis
+# (9h, 11h, 13h, 15h, 17h, 19h e 21h).
+HORARIOS = ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
 POR_DIA = len(HORARIOS)
-# Mesma janela dos carrosséis: o GitHub atrasa os agendamentos.
-ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=150)
+# Mesma janela dos carrosséis (1h50): o GitHub atrasa os agendamentos, e a
+# janela fecha antes do Reel seguinte.
+ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)
 TENTATIVAS = 3
 
 
@@ -177,7 +179,7 @@ def cmd_check(args) -> int:
         for k in ("slug", "data", "horario", "legenda", "status"):
             if not i.get(k):
                 erros.append(f"{i.get('slug', '?')}: falta {k}")
-        if i.get("horario") not in HORARIOS:
+        if i.get("status") != "publicado" and i.get("horario") not in HORARIOS:  # os já publicados ficam na grade antiga
             erros.append(f"{i['slug']}: horário {i.get('horario')} não é um dos {HORARIOS}")
         if (i["data"], i["horario"]) in vistos:
             erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")

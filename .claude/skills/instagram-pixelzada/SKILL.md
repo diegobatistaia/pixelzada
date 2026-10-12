@@ -15,8 +15,8 @@ Leia antes `.claude/skills/voz-pixelzada/SKILL.md`: a voz é a mesma do site.
 ## Quantas e quando
 
 São **7 carrosséis por dia, 3 de GTA 6 e 4 de outros jogos** (decisão do Diego
-em 08/10 e 09/10). Horários (Brasília): **08h, 12h e 18h para GTA 6**; **10h, 14h,
-18h15 e 21h para outros jogos**. O Reel está desligado desde 09/10. A fila é FIFO: a pauta mais antiga
+em 08/10 e 09/10). Horários (Brasília, grade de 12/10): **11h, 15h e 19h para GTA 6**; **09h, 13h,
+17h e 21h para outros jogos**. Os Reels de vídeo saem nas horas pares, entre eles. O Reel está desligado desde 09/10. A fila é FIFO: a pauta mais antiga
 sai primeiro. Notícia vence em 36 horas, checagem em 4 dias e guia em 7 dias;
 pauta vencida não sai.
 
