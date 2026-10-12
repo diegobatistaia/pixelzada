@@ -228,6 +228,15 @@ Regras do arquivo:
   "Imagem: <nome da fonte>". O `alt` descreve o que a imagem mostra, sem
   inventar: se não souber, descreva o jogo e o assunto. Sem URL utilizável, a
   matéria sai com a capa própria da Pixelzada. Nunca use imagem de outro lugar.
+- **Nunca cortar nem cobrir o rosto de personagem (regra do Diego, 12/10).** A
+  capa precisa mostrar a cena bem enquadrada: cabeça inteira, sem testa, olhos
+  ou queixo cortados, e nada (selo, texto, logo) por cima do rosto. Vale para o
+  site e para os carrosséis do Instagram. O Finalizar acha os rostos e recorta
+  em volta deles (`scripts/engine/rosto.py`), mas ajude escolhendo a imagem:
+  prefira a versão deitada (16:9, "desktop", "wide", "1920x1080") à versão em
+  pé de celular (URL com `mobile`, `portrait`, `9x16`), porque numa foto em pé o
+  rosto quase nunca cabe inteiro numa faixa 16:9. Se a capa publicada sair com
+  rosto cortado, rode o workflow **Capas**, que refaz o recorte das publicadas.
 - `slug` em minúsculas, sem acento, 3 a 8 palavras.
 - `story_id` copiado da pauta: é o que evita escrever a mesma pauta duas vezes.
 - `category` tem que estar em `categories_by_language.pt` no briefing:

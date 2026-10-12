@@ -84,5 +84,10 @@ publicação estica a validade de novo; se a conta ficar 60 dias sem publicar,
   link da bio".
 - A imagem vem do `og:image` das fontes no briefing. A Routine não vê a
   imagem; a regra de escolha está na skill.
+- Rosto de personagem nunca sai cortado nem coberto (Diego, 12/10). O desenho
+  acha os rostos da foto com o detector YuNet do OpenCV
+  (`scripts/engine/rosto.py`) e enquadra todos os slides neles; sem rosto,
+  vale o `pos` da pauta. No site, o mesmo detector decide o recorte 16:9 da
+  capa (`images.recortar`) e grava `image.foco` para as miniaturas.
 - Formatos com duas imagens (expectativa x realidade, comparativo) ainda não
   estão no gerador.

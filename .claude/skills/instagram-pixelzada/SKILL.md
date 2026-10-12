@@ -150,7 +150,21 @@ carrossel repetido.
 
 `credito` é o dono da imagem, não o site onde ela estava: "Rockstar Games",
 "Sony", "Xbox Game Studios". `pos` (opcional) diz qual parte da imagem fica
-visível na capa, como no CSS `object-position`.
+visível na capa, como no CSS `object-position`; quando a foto tem rosto, o
+desenho ignora o `pos` e enquadra no rosto (ver abaixo).
+
+**Nunca cortar nem cobrir o rosto de personagem (regra do Diego, 12/10).** Em
+todo slide, Story e capa de Reel o personagem aparece com a cabeça inteira e a
+cena bem enquadrada: nada de testa, olhos ou queixo cortados pela moldura, e
+nenhum texto, selo, logo ou faixa por cima do rosto. O desenho acha os rostos
+da foto (`scripts/engine/rosto.py`) e põe todos os slides nesse ponto; o que
+fica com você:
+- Prefira imagem deitada (16:9) com o personagem à vista à versão em pé de
+  celular (URL com `mobile`, `portrait`, `9x16`).
+- Não escolha imagem em que o rosto está colado na borda ou já cortado na
+  origem (close em que só aparece boca ou olhos).
+- Ao revisar as artes, se algum slide cortar ou cobrir um rosto, troque a
+  imagem antes de publicar.
 
 
 ## Estilo do carrossel (automático)

@@ -147,10 +147,20 @@ def _chromium_local() -> str:
     raise ArteError("Chromium não encontrado")
 
 
+def _foco_dos_rostos(foto: Path) -> str | None:
+    from PIL import Image
+    from scripts.engine import rosto
+    with Image.open(foto) as im:
+        return rosto.foco(im.convert("RGB"))
+
+
 def _contexto(p: dict, foto: Path | None) -> dict:
     cor, rotulo, _ = P.TIPOS[p["tipo"]]
-    pos = p["imagem"].get("pos", "50% 40%")
-    return {"p": p, "cor": cor, "rotulo_tipo": rotulo, "fonte": p["fonte"], "selos": P.SELOS,
+    # O enquadramento sai dos rostos achados na foto: a pauta chuta "pos" sem ver
+    # a imagem e o recorte em pé do carrossel cortava a cabeça dos personagens.
+    rosto = _foco_dos_rostos(foto) if foto else None
+    pos = rosto or p["imagem"].get("pos", "50% 40%")
+    return {"rosto": rosto, "p": p, "cor": cor, "rotulo_tipo": rotulo, "fonte": p["fonte"], "selos": P.SELOS,
             "credito": p["imagem"]["credito"], "img": foto.as_uri() if foto else None, "pos": pos}
 
 
@@ -171,6 +181,10 @@ def desenhar_post(p: dict, pasta: Path | None = None, estilos: list[str] | None 
     foto = obter_imagem(p, pasta)
     ctx = _contexto(p, foto)
     lista = P.slides(p)
+    if ctx["rosto"]:
+        # cada slide mostrava um pedaço diferente da foto (alto, baixo, lados) e
+        # cortava o personagem; com rosto na foto, todos ficam enquadrados nele
+        lista = [{**s, "pos": ctx["rosto"]} if s["kind"] == "miolo" else s for s in lista]
     tentativas = [*(estilos or []), None]
     with Desenhista() as d:
         for estilo in tentativas:

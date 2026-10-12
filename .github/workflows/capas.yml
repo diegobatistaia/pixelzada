@@ -1,7 +1,8 @@
 name: Capas
 
-# Troca a capa genérica das matérias publicadas pela imagem de divulgação das
-# fontes. Roda na mão (Actions > Capas > Run workflow); precisa de internet.
+# Refaz o recorte das capas publicadas a partir da imagem original (sem cortar
+# rosto) e troca a capa genérica pela imagem de divulgação das fontes. Roda na
+# mão (Actions > Capas > Run workflow); precisa de internet.
 on:
   workflow_dispatch:
 
@@ -27,6 +28,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Buscar as imagens e refazer o site
         run: |
+          python -m scripts.tools.recortar_capas
           python -m scripts.tools.capas_oficiais
           python -m scripts.pipeline.run build
       - name: Commitar

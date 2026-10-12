@@ -38,7 +38,7 @@
   {%- if post.image and post.image.path %}
   <figure class="article-media wrap">
     <div class="frame">
-      <img src="{{ post.image.path }}" alt="{{ post.image.alt }}" width="1200" height="675" fetchpriority="high" decoding="async">
+      <img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt="{{ post.image.alt }}" width="1200" height="675" fetchpriority="high" decoding="async">
       {%- if post.image.credit %}
       {%- set author_url = post.image.get('author_url') %}
       {%- set source_url = post.image.get('source_url') %}

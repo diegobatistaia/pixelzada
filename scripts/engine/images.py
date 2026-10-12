@@ -142,22 +142,86 @@ def _da_fonte(post: dict) -> dict | None:
         return None
     if im.width < 800:
         return None
-    alvo = 16 / 9
-    if im.width / im.height > alvo:                 # larga demais: corta dos lados
-        novo = round(im.height * alvo)
-        esq = (im.width - novo) // 2
-        im = im.crop((esq, 0, esq + novo, im.height))
-    else:                                           # alta demais: corta embaixo e em cima
-        novo = round(im.width / alvo)
-        topo = round((im.height - novo) * 0.35)
-        im = im.crop((0, topo, im.width, topo + novo))
+    im, foco = recortar(im, 16 / 9)
     im = im.resize((MAX_WIDTH, round(MAX_WIDTH * 9 / 16)), Image.LANCZOS)
     IMG_DIR.mkdir(parents=True, exist_ok=True)
-    nome = f"{post['slug'][:40]}-{fingerprint(url)[:8]}.jpg"
+    # o recorte entra no nome: capa recortada de novo ganha arquivo novo e não
+    # fica presa no cache do navegador
+    nome = f"{post['slug'][:40]}-{fingerprint(url + '|r2|' + (foco or ''))[:8]}.jpg"
     im.save(IMG_DIR / nome, "JPEG", quality=QUALITY, optimize=True, progressive=True)
-    return {**img, "path": f"/assets/img/{nome}",
-            "credit": (img.get("credit") or "Imagem: divulgação").strip(),
-            "source_url": img.get("source_url", "")}
+    achada = {**img, "path": f"/assets/img/{nome}",
+              "credit": (img.get("credit") or "Imagem: divulgação").strip(),
+              "source_url": img.get("source_url", "")}
+    achada.pop("foco", None)
+    if foco:
+        achada["foco"] = foco
+    return achada
+
+
+def recortar(im: Image.Image, alvo: float) -> tuple[Image.Image, str | None]:
+    """Recorta `im` na proporção `alvo` (largura/altura) sem cortar rosto.
+
+    Com rosto, a janela é posta sobre as cabeças (inteiras, com testa e queixo)
+    e devolve também o foco delas na imagem recortada, para o CSS das
+    miniaturas usar em object-position. Se as cabeças não cabem na janela
+    (rosto em close numa foto em pé), a foto entra inteira na altura das
+    cabeças sobre um fundo desfocado dela mesma, como nos Reels. Sem rosto,
+    foto alta perde mais embaixo do que em cima (cabeça costuma estar no alto)
+    e foto larga perde igual dos dois lados.
+    """
+    from PIL import ImageFilter, ImageEnhance
+
+    from . import rosto
+
+    caixas = rosto.rostos(im)
+    area = rosto.area_das_cabecas(caixas)
+    W, H = im.size
+    if W / H > alvo:                                   # larga demais: corta dos lados
+        jw, jh = round(H * alvo), H
+    else:                                              # alta demais: corta embaixo e em cima
+        jw, jh = W, round(W / alvo)
+
+    def cabe(a):
+        return a[2] - a[0] <= jw and a[3] - a[1] <= jh
+
+    if area and not cabe(area):                        # todos não cabem: fica o rosto principal
+        area = rosto.area_das_cabecas([max(caixas, key=lambda c: c[2] * c[3])])
+    if area and not cabe(area):
+        # não cabe: fundo desfocado + o trecho das cabeças inteiro por cima
+        folga = round(0.08 * (area[3] - area[1]))
+        if jw == W:                                    # foto em pé: faixa inteira na altura das cabeças
+            trecho = im.crop((0, max(0, area[1] - folga), W, min(H, area[3] + folga)))
+        else:                                          # foto deitada: coluna inteira na largura delas
+            trecho = im.crop((max(0, area[0] - folga), 0, min(W, area[2] + folga), H))
+        fx, fy = (W - jw) // 2, round((H - jh) * 0.15)
+        fundo = im.crop((fx, fy, fx + jw, fy + jh)).filter(ImageFilter.GaussianBlur(max(jw, jh) / 30))
+        fundo = ImageEnhance.Brightness(fundo).enhance(0.55)
+        k = min(jw / trecho.width, jh / trecho.height)
+        trecho = trecho.resize((max(1, round(trecho.width * k)), max(1, round(trecho.height * k))), Image.LANCZOS)
+        fundo.paste(trecho, ((jw - trecho.width) // 2, (jh - trecho.height) // 2))
+        return fundo, "50% 50%"
+
+    if jw < W:
+        esq = (W - jw) // 2
+        if area:
+            esq = round((area[0] + area[2]) / 2 - jw / 2)
+            esq = min(max(esq, area[2] - jw), area[0])  # nenhuma cabeça pela metade
+        esq = min(max(0, esq), W - jw)
+        caixa = (esq, 0, esq + jw, H)
+    else:
+        topo = round((H - jh) * 0.15)
+        if area:
+            topo = round((area[1] + area[3]) / 2 - jh * 0.42)  # cabeças um pouco acima do meio
+            topo = min(max(topo, area[3] - jh), area[1])
+        topo = min(max(0, topo), H - jh)
+        caixa = (0, topo, W, topo + jh)
+    recorte = im.crop(caixa)
+    foco = None
+    if area:
+        cx = ((area[0] + area[2]) / 2 - caixa[0]) / (caixa[2] - caixa[0])
+        cy = ((area[1] + area[3]) / 2 - caixa[1]) / (caixa[3] - caixa[1])
+        foco = f"{min(100, max(0, round(cx * 100)))}% {min(100, max(0, round(cy * 100)))}%"
+    return recorte, foco
 
 
 def attach(post: dict, cfg: Config) -> dict:

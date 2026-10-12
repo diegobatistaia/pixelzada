@@ -3,7 +3,7 @@
 <article class="card {{ variant }}">
   {%- if post.image and post.image.path and variant != 'compact' %}
   <a class="media" href="{{ post.url }}" tabindex="-1" aria-hidden="true">
-    <img src="{{ post.image.path }}" alt=""{% if eager|default(false) %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async" width="1200" height="675">
+    <img src="{{ post.image.path }}"{% if post.image.get('foco') %} style="object-position: {{ post.image.foco }}"{% endif %} alt=""{% if eager|default(false) %} fetchpriority="high"{% else %} loading="lazy"{% endif %} decoding="async" width="1200" height="675">
   </a>
   {%- endif %}
   <p class="kick"><a class="tag" href="{{ post.category_url }}">{{ post.category_label }}</a><time class="date" datetime="{{ post.published_at }}" data-relative>{{ post.published_human }}</time></p>
