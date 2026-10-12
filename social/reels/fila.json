@@ -185,10 +185,15 @@
     "slug": "jim-carrey-dia-19",
     "data": "2026-10-12",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Cartaz",
     "legenda": "Eu no dia 19 de novembro dizendo bom dia, boa tarde e boa noite pro mundo real 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-12T19:59:11-03:00",
+      "media_id": "18494160187109832",
+      "permalink": "https://www.instagram.com/reel/DeaXLPujmKI/"
+    }
   },
   {
     "slug": "voltando-do-trabalho-19-11",

@@ -1,27 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "lucia-caminos-gta-6-quem-e-a-protagonista",
-    "horario": "19:00",
-    "data": "2026-10-12",
-    "estilo": "celular",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg",
-      "06.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "jim-carrey-dia-19",
+    "pasta": "reel-jim-carrey-dia-19",
+    "horario": "20:00",
+    "data": "2026-10-12"
   },
-  "em": "2026-10-12T18:59:52-03:00",
+  "em": "2026-10-12T19:59:11-03:00",
   "ok": true,
-  "media_id": "18089072600243452",
-  "permalink": "https://www.instagram.com/p/DeaQbC7FfKi/",
-  "story": {
-    "em": "2026-10-12T19:00:28-03:00",
-    "media_id": "17865786117675685"
-  },
+  "media_id": "18494160187109832",
+  "permalink": "https://www.instagram.com/reel/DeaXLPujmKI/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
