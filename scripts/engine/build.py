@@ -417,19 +417,142 @@ def build_robots(cfg: Config, out: Path) -> None:
 
 
 def build_manifest(cfg: Config, out: Path) -> None:
+    """Manifesto do PWA: o site instala na tela inicial do celular, no tema escuro
+    da marca, e abre direto na página inicial do idioma padrão."""
+    home = seo.home_path(cfg.default_language)
     write(out / "site.webmanifest", json.dumps({
+        "id": home,
         "name": cfg.get("site.name"),
         "short_name": cfg.get("site.name"),
         "description": cfg.localized("site.description", cfg.default_language),
-        "start_url": seo.home_path(cfg.default_language),
+        "lang": cfg.get(f"site.html_lang.{cfg.default_language}", cfg.default_language),
+        "start_url": home,
+        "scope": "/",
         "display": "standalone",
+        "orientation": "portrait",
+        "categories": ["games", "news", "entertainment"],
         "background_color": cfg.get("brand.paper"),
-        "theme_color": cfg.get("brand.primary"),
+        "theme_color": cfg.get("brand.paper"),
         "icons": [
-            {"src": "/assets/logo/icon-192.png", "sizes": "192x192", "type": "image/png"},
-            {"src": "/assets/logo/icon-512.png", "sizes": "512x512", "type": "image/png"},
+            {"src": "/assets/logo/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+            {"src": "/assets/logo/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+            {"src": "/assets/logo/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+            {"src": "/assets/logo/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
         ],
     }, ensure_ascii=False, indent=2) + "\n")
+
+
+SERVICE_WORKER = """/* Service worker da Pixelzada. Gerado por scripts/engine/build.py.
+   Regra de ouro: matéria nova sempre vem da rede. O cache só entra quando a
+   rede falha (sem sinal) ou para o que nunca muda (imagens e fontes). */
+const VERSION = "pixelzada-v1";
+const STATIC = VERSION + "-static";
+const PAGES = VERSION + "-paginas";
+const MAX_PAGES = 40;
+const PRECACHE = ["/offline.html", "/assets/logo/icon-192.png", "/assets/logo/favicon.svg"];
+
+self.addEventListener("install", (event) => {
+  event.waitUntil(caches.open(STATIC).then((c) => c.addAll(PRECACHE)).then(() => self.skipWaiting()));
+});
+
+self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    caches.keys()
+      .then((keys) => Promise.all(keys.filter((k) => !k.startsWith(VERSION)).map((k) => caches.delete(k))))
+      .then(() => self.clients.claim())
+  );
+});
+
+function trim(cache) {
+  return cache.keys().then((keys) => {
+    if (keys.length <= MAX_PAGES) return;
+    return cache.delete(keys[0]).then(() => trim(cache));
+  });
+}
+
+function fromNetworkFirst(request) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 8000);
+  return fetch(request, { signal: controller.signal })
+    .then((response) => {
+      clearTimeout(timer);
+      if (response && response.ok) {
+        const copy = response.clone();
+        caches.open(PAGES).then((c) => c.put(request, copy).then(() => trim(c)));
+      }
+      return response;
+    })
+    .catch(() => {
+      clearTimeout(timer);
+      return caches.match(request).then((hit) => hit || caches.match("/offline.html"));
+    });
+}
+
+function fromCacheFirst(request) {
+  return caches.match(request).then((hit) => {
+    if (hit) return hit;
+    return fetch(request).then((response) => {
+      if (response && response.ok) {
+        const copy = response.clone();
+        caches.open(STATIC).then((c) => c.put(request, copy));
+      }
+      return response;
+    });
+  });
+}
+
+self.addEventListener("fetch", (event) => {
+  const request = event.request;
+  if (request.method !== "GET") return;
+  const url = new URL(request.url);
+  if (url.origin !== self.location.origin) return;
+  if (url.pathname.startsWith("/ig/")) return;
+  if (request.mode === "navigate") {
+    event.respondWith(fromNetworkFirst(request));
+    return;
+  }
+  if (url.pathname.startsWith("/assets/")) {
+    event.respondWith(fromCacheFirst(request));
+  }
+});
+"""
+
+
+def build_service_worker(cfg: Config, out: Path) -> None:
+    write(out / "sw.js", SERVICE_WORKER)
+
+
+def build_offline(cfg: Config, out: Path) -> None:
+    """Página mostrada quando o celular está sem sinal e a página pedida não
+    está no cache. Só HTML e CSS inline, para funcionar sem nenhum outro arquivo."""
+    name = escape(str(cfg.get("site.name")))
+    home = seo.home_path(cfg.default_language)
+    write(out / "offline.html", f"""<!DOCTYPE html>
+<html lang="{cfg.get(f'site.html_lang.{cfg.default_language}', cfg.default_language)}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="{cfg.get('brand.paper')}">
+<title>Sem conexão - {name}</title>
+<style>
+html,body{{height:100%;margin:0}}
+body{{display:flex;align-items:center;justify-content:center;background:{cfg.get('brand.paper')};color:#F3F1FA;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;text-align:center;padding:24px}}
+main{{max-width:420px}}
+h1{{font-size:1.6rem;margin:0 0 12px;color:{cfg.get('brand.primary')}}}
+p{{line-height:1.5;margin:0 0 24px;color:#B9B5C9}}
+a{{display:inline-block;background:{cfg.get('brand.primary')};color:{cfg.get('brand.paper')};padding:12px 22px;font-weight:700;text-decoration:none;border-radius:6px}}
+</style>
+</head>
+<body>
+<main>
+<h1>Sem conexão</h1>
+<p>Não deu para carregar esta página agora. Confira o sinal do celular e tente de novo. As matérias que você já abriu continuam disponíveis.</p>
+<a href="{home}">Tentar de novo</a>
+</main>
+</body>
+</html>
+""")
 
 
 def build_root(cfg: Config, out: Path) -> None:
@@ -535,6 +658,8 @@ def run(cfg: Config, out: Path = ROOT) -> dict:
     build_sitemap_index(cfg, out)
     build_robots(cfg, out)
     build_manifest(cfg, out)
+    build_service_worker(cfg, out)
+    build_offline(cfg, out)
     build_root(cfg, out)
     build_favicon(cfg, out)
     build_css(env, cfg, out)
