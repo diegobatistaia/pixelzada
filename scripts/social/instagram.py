@@ -44,18 +44,19 @@ PEDIDO = P.SAIDA / "pedido.json"
 RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 
 # Horários fixos (Brasília): 7 carrosséis por dia, 3 de GTA 6 e 4 de outros
-# jogos. Um horário de GTA sem pauta de GTA pega outro jogo, e vice-versa. Cada
-# carrossel leva um Story junto.
-CARROSSEIS = [("08:00", "gta"), ("10:00", "outros"), ("12:00", "gta"), ("14:00", "outros"),
-              ("18:00", "gta"), ("18:15", "outros"), ("21:00", "outros")]
+# jogos, nas horas ímpares das 9h às 21h; os Reels ficam nas horas pares entre
+# eles (scripts/social/reels.py). Um horário de GTA sem pauta de GTA pega outro
+# jogo, e vice-versa. Cada carrossel leva um Story junto.
+CARROSSEIS = [("09:00", "outros"), ("11:00", "gta"), ("13:00", "outros"), ("15:00", "gta"),
+              ("17:00", "outros"), ("19:00", "gta"), ("21:00", "outros")]
 # O Reel está desligado desde 09/10 (o Diego não gostou do resultado e vai
 # repensar). O código segue pronto: para religar, REEL_ATIVO = True.
 REEL_ATIVO = False
 REEL = "18:00"
 # O GitHub atrasa os agendamentos. Um horário fica aberto de 2 min antes até
-# 2h30 depois; dentro da janela, cada tentativa vê se ele já foi preenchido.
-# (Só 2 min antes para o das 18h15 não tirar a vez do das 18h.)
-ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=150)
+# 1h50 depois (antes do carrossel seguinte); dentro da janela, cada tentativa vê
+# se ele já foi preenchido.
+ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)
 
 
 def agora() -> datetime:

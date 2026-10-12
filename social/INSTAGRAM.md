@@ -4,15 +4,18 @@ Tudo sai sozinho, em horários fixos (Brasília):
 
 | Horário | O que sai |
 |---|---|
-| 08h, 12h e 18h | carrossel de GTA 6 + Story |
-| 10h, 14h, 18h15 e 21h | carrossel de outro jogo + Story |
+| 11h, 15h e 19h | carrossel de GTA 6 + Story |
+| 09h, 13h, 17h e 21h | carrossel de outro jogo + Story |
+| 10h, 12h, 14h, 16h, 18h e 20h | Reel de vídeo (a gaveta) |
+
+Um post por hora cheia, das 9h às 21h, alternando carrossel e Reel (grade do Diego em 12/10).
 
 São 7 carrosséis por dia, 3 de GTA 6 e 4 de outros jogos. O Reel está desligado desde 09/10 (`REEL_ATIVO = False` em `scripts/social/instagram.py`; o código segue pronto). Horário de GTA 6
 sem pauta de GTA 6 pega outro jogo; horário de outro jogo só usa GTA 6 se sobrar.
 
 ## Reels de vídeo (a gaveta)
 
-Além dos carrosséis, saem **4 Reels por dia, às 11h, 13h, 15h30 e 20h**, de vídeos já
+Além dos carrosséis, saem **6 Reels por dia, às 10h, 12h, 14h, 16h, 18h e 20h**, de vídeos já
 prontos na identidade visual (montados pelo Claude a partir do que o Diego
 envia). A fila é `social/reels/fila.json` (data, horário, legenda, estilo) e os
 vídeos ficam em `social/reels/videos/<slug>.mp4` + `<slug>.jpg` (capa). O

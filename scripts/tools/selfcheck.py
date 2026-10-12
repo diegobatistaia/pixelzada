@@ -417,36 +417,31 @@ def main() -> int:
     fila = [ig_pauta("gta-a", True, "2026-10-08T06:00:00-03:00"),
             ig_pauta("outro-a", False, "2026-10-08T06:30:00-03:00"),
             ig_pauta("velha", False, "2026-10-06T06:30:00-03:00")]
-    check("8h publica GTA 6", (ig.escolher(ig_em("08:03"), fila) or {}).get("slug") == "gta-a")
-    check("antes da hora não publica", ig.escolher(ig_em("07:40"), fila) is None)
-    check("10h publica outro jogo", (ig.escolher(ig_em("10:20"), fila) or {}).get("slug") == "outro-a")
+    check("11h publica GTA 6", (ig.escolher(ig_em("11:03"), fila) or {}).get("slug") == "gta-a")
+    check("antes da hora não publica", ig.escolher(ig_em("08:40"), fila) is None)
+    check("9h publica outro jogo", (ig.escolher(ig_em("09:20"), fila) or {}).get("slug") == "outro-a")
     check("notícia vencida não sai", all((ig.escolher(ig_em(h), fila[2:]) or {}).get("slug") != "velha"
-                                         for h in ("10:05", "14:05")))
-    check("horário das 14h não gasta o GTA 6 que vai faltar às 18h",
-          ig.escolher(ig_em("14:05"), fila[:1]) is None)
+                                         for h in ("09:05", "13:05")))
+    check("horário das 13h não gasta o GTA 6 que vai faltar às 15h e 19h",
+          ig.escolher(ig_em("13:05"), fila[:1]) is None)
     feito = ig_pauta("gta-b", True, "2026-10-08T06:00:00-03:00", status="publicado",
-                     publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:04:00-03:00"})
+                     publicado={"data": "2026-10-08", "horario": "19:00", "em": "2026-10-08T19:04:00-03:00"})
     check("horário já preenchido não publica outro carrossel",
-          (ig.escolher(ig_em("18:10"), [feito, fila[0]]) or {}).get("acao") != "carrossel")
-    check("Reel desligado: depois do carrossel das 18h não sai Reel",
+          (ig.escolher(ig_em("19:10"), [feito, fila[0]]) or {}).get("acao") != "carrossel")
+    check("Reel desligado: depois do carrossel das 19h não sai Reel",
           (ig.escolher(ig_em("19:07"), [feito]) or {}).get("acao") != "reel")
-    extra = ig_pauta("outro-b", False, "2026-10-08T06:40:00-03:00")
-    check("18h07 ainda é o horário das 18h (GTA 6), não o das 18h15",
-          (ig.escolher(ig_em("18:07"), [fila[0], extra]) or {}).get("horario") == "18:00")
-    feito18 = ig_pauta("gta-e", True, "2026-10-08T06:00:00-03:00", status="publicado",
-                       publicado={"data": "2026-10-08", "horario": "18:00", "em": "2026-10-08T18:08:00-03:00"})
-    check("depois das 18h13 sai o carrossel extra de outros jogos (18h15)",
-          (ig.escolher(ig_em("18:14"), [feito18, extra]) or {}).get("horario") == "18:15")
+    check("atrasado 1h40 ainda sai no horário das 11h",
+          (ig.escolher(ig_em("12:40"), fila[:1]) or {}).get("horario") == "11:00")
     check("horário perdido não sai colado no seguinte",
-          (ig.escolher(ig_em("11:55"), fila[:1]) or {}).get("horario") != "08:00")
+          ig.escolher(ig_em("12:55"), fila[:1]) is None)
     igual = ig_pauta("gta-c", True, "2026-10-08T07:00:00-03:00")
     igual["imagem"]["url"] = "https://exemplo.com/gta-b.jpg?w=1200"
     check("imagem já usada em carrossel publicado não sai de novo (mesmo com outro recorte)",
-          ig.escolher(ig_em("08:03"), [feito, igual]) is None)
+          ig.escolher(ig_em("11:03"), [feito, igual]) is None)
     outra = ig_pauta("gta-d", True, "2026-10-08T07:30:00-03:00")
     outra["imagem"]["url"] = "https://exemplo.com/gta-a.jpg"
     check("duas pautas da fila com a mesma imagem: só a mais antiga entra",
-          [p["slug"] for p in ig.candidatas([fila[0], outra], ig_em("08:03"))] == ["gta-a"])
+          [p["slug"] for p in ig.candidatas([fila[0], outra], ig_em("11:03"))] == ["gta-a"])
 
 
     from scripts.social import estilos as es
