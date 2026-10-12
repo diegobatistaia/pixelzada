@@ -119,7 +119,9 @@
     "query": "Steam recorde",
     "alt": "Ilustração sobre o recorde de usuários simultâneos da Steam",
     "url": "https://kotaku.com/app/uploads/2026/10/steam-record-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/steam-recorde-43-milhoes-usuarios-simult-9ca140fd.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -135,5 +137,7 @@
       "title": "Steam Smashes Its Player Records, With Over 43 Million Concurrent Users In October"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T20:41:51+00:00",
+  "updated_at": "2026-10-12T20:41:51+00:00"
 }
