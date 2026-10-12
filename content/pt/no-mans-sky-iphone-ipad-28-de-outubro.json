@@ -129,7 +129,9 @@
     "query": "No Man's Sky iPhone",
     "alt": "Tela de No Man's Sky rodando em um iPhone",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/No-Mans-Sky-iOS_10-12-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/no-mans-sky-iphone-ipad-28-de-outubro-25834f4d.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -151,5 +153,7 @@
       "title": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-12T22:39:59+00:00",
+  "updated_at": "2026-10-12T22:39:59+00:00"
 }
