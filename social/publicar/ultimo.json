@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "nfs-focado-sob-pressao",
-    "pasta": "reel-nfs-focado-sob-pressao",
-    "horario": "12:00",
-    "data": "2026-10-13"
+    "acao": "carrossel",
+    "slug": "yuji-horii-dragon-quest-jogo-ia-30-minutos",
+    "horario": "13:00",
+    "data": "2026-10-13",
+    "estilo": "mapa",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-13T11:59:24-03:00",
+  "em": "2026-10-13T12:59:58-03:00",
   "ok": true,
-  "media_id": "18014122427982994",
-  "permalink": "https://www.instagram.com/reel/DecFFsDADXh/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "media_id": "17880230616543792",
+  "permalink": "https://www.instagram.com/p/DecMB41G6KJ/",
+  "story": {
+    "em": "2026-10-13T13:00:35-03:00",
+    "media_id": "18129757189757649"
+  },
+  "chave": "a renovação devolveu uma chave nova (vale 60 dias); a atual continua valendo até vencer"
 }
