@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-13T17:37:26+00:00",
-  "posts_per_language_today": 2,
+  "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
   "already_written_today": 5,
   "min_independent_sources": 2,
@@ -483,5 +483,216 @@
         }
       ]
     }
-  ]
+  ],
+  "especial_gta6": {
+    "id": "especial-gta6-vice-city",
+    "tema": "Vice City em detalhes: a 'Miami' de GTA 6",
+    "categoria": "gta-6",
+    "angulo": "Como é a nova Vice City, de volta 24 anos depois do clássico de 2002, e o que a Rockstar já mostrou de bairros, personagens e lugares da cidade.",
+    "fatos": [
+      {
+        "texto": "Vice City é a cidade de GTA 6 inspirada em Miami.",
+        "fontes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "Agora a cidade faz parte de um estado maior, Leonida, a versão da Rockstar para a Flórida.",
+        "fontes": [
+          4,
+          2
+        ]
+      },
+      {
+        "texto": "A nova Vice City se passa nos dias de hoje, diferente da ambientação dos anos 1980 do GTA Vice City clássico.",
+        "fontes": [
+          1,
+          5
+        ]
+      },
+      {
+        "texto": "O site oficial chama Vice City de 'capital do sol e da diversão da América'.",
+        "fontes": [
+          0,
+          6,
+          7
+        ]
+      },
+      {
+        "texto": "Pela descrição oficial, glamour, correria e ganância convivem na cidade.",
+        "fontes": [
+          6,
+          5
+        ]
+      },
+      {
+        "texto": "Ocean Beach tem hotéis art déco em tons pastel e areia branca.",
+        "fontes": [
+          0,
+          6,
+          8
+        ]
+      },
+      {
+        "texto": "Little Cuba é o bairro das padarias cubanas; o mercado de pulgas Tisha-Wocka vende produtos piratas.",
+        "fontes": [
+          0,
+          6,
+          9
+        ]
+      },
+      {
+        "texto": "O VC Port é apresentado como a 'capital mundial dos navios de cruzeiro'.",
+        "fontes": [
+          0,
+          6
+        ]
+      },
+      {
+        "texto": "O site oficial apresenta Leonida como lar das 'ruas encharcadas de neon de Vice City'.",
+        "fontes": [
+          4
+        ]
+      },
+      {
+        "texto": "Boobie Ike, figura local de Vice City, transformou o dinheiro das ruas em negócios legais: imóveis, um clube de strip e um estúdio de gravação.",
+        "fontes": [
+          4
+        ]
+      },
+      {
+        "texto": "Dre'Quan Priest, ex-traficante que sempre quis ser músico, assinou com uma gravadora e mira a cena musical de Vice City.",
+        "fontes": [
+          4
+        ]
+      },
+      {
+        "texto": "A história de Jason e Lucia começa em 'Vice City, USA', segundo o site oficial.",
+        "fontes": [
+          10
+        ]
+      },
+      {
+        "texto": "No Extended Look (agosto de 2026), Jason e Lucia exploram Bayside, bairro que Lucia cita pelo nome depois de uma fuga da polícia.",
+        "fontes": [
+          11,
+          12
+        ]
+      },
+      {
+        "texto": "O Extended Look mostrou ainda uma cena na sede de uma grande empresa e um encontro com Brian Heder num terraço.",
+        "fontes": [
+          12,
+          11
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/every-gta-6-location-confirmed-so-far-vice-city-included-more/",
+        "title": "Every GTA 6 Location Confirmed So Far—Vice City Included & More"
+      },
+      {
+        "name": "CNET (via Yahoo Tech)",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://tech.yahoo.com/gaming/articles/every-gta-6-character-location-192152353.html",
+        "title": "Every New GTA 6 Character and Location Announced in Trailer 2"
+      },
+      {
+        "name": "CBS12 (via ABC6)",
+        "owner": "sinclair",
+        "kind": "press",
+        "url": "https://abc6onyourside.com/news/offbeat/rockstar-games-grand-theft-auto-vi-brings-series-back-florida-inspired-vice-city-leonida-everglades-miami-florida-keys-wetland-video-game-xbox-playstation-jason-duval-lucia-caminos",
+        "title": "Rockstar Games' Grand Theft Auto VI brings series back to Florida-inspired Vice City"
+      },
+      {
+        "name": "Video Games Chronicle",
+        "owner": "vgc",
+        "kind": "press",
+        "url": "https://videogameschronicle.com/news/gallery-over-60-gta-6-screenshots-show-the-new-vice-city",
+        "title": "Gallery: Over 60 GTA 6 screenshots show the new Vice City"
+      },
+      {
+        "name": "Rockstar Games (site oficial de GTA VI)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "title": "Grand Theft Auto VI - Rockstar Games (People & Places / Only in Leonida)"
+      },
+      {
+        "name": "The Game Post",
+        "owner": "the-game-post",
+        "kind": "press",
+        "url": "https://thegamepost.com/gta-6-map-breakdown/",
+        "title": "GTA 6 Map Breakdown: All Locations, Cities, Towns, and Regions Confirmed So Far"
+      },
+      {
+        "name": "Press Start",
+        "owner": "press-start",
+        "kind": "press",
+        "url": "https://press-start.com.au/news/playstation/2025/05/07/over-70-grand-theft-auto-6-screenshots-have-arrived-as-the-six-main-locations-are-revealed/",
+        "title": "Over 70 Grand Theft Auto 6 Screenshots Have Arrived As The Six Main Locations Are Revealed"
+      },
+      {
+        "name": "GosuGamers",
+        "owner": "gosugamers",
+        "kind": "press",
+        "url": "https://www.gosugamers.net/entertainment/news/74895-gta-vi-major-locations-revealed-vice-city-leonida-keys-grassrivers-and-more",
+        "title": "GTA VI major locations revealed to include Vice City, Leonida Keys, Grassrivers, and more"
+      },
+      {
+        "name": "Gfinity Esports",
+        "owner": "gfinity",
+        "kind": "press",
+        "url": "https://www.gfinityesports.com/article/gta-6-all-confirmed-locations",
+        "title": "All Six Confirmed Locations in GTA 6"
+      },
+      {
+        "name": "PC Gamer",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.pcgamer.com/games/grand-theft-auto/gta6-map/",
+        "title": "Charting the GTA 6 map: Vice City, Ambrosia, and everything in between"
+      },
+      {
+        "name": "Rockstar Games (site oficial de GTA VI)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Grand Theft Auto VI - Rockstar Games"
+      },
+      {
+        "name": "SVG",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.svg.com/2246139/gta-6-leonida-map-new-locations-extended-look/",
+        "title": "GTA 6's Leonida Map: Every New Location Rockstar Showed In The Extended Look"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+        "title": "Everything revealed from the GTA 6 extended look"
+      }
+    ],
+    "imagem": {
+      "url": "https://www.rockstargames.com/VI/_next/static/media/poster.03hy0_cb3li0-.jpg",
+      "credito": "Rockstar Games",
+      "descricao": "Imagem de capa do destino Vice City na seção 'Only in Leonida' do site oficial de GTA VI"
+    },
+    "formatos_carrossel": [
+      "em-foco",
+      "lista",
+      "comparativo"
+    ]
+  },
+  "especiais_gta6_hoje": 1
 }

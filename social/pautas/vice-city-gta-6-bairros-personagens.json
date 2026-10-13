@@ -1,0 +1,70 @@
+{
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Vice City",
+  "gta6": true,
+  "materia": "vice-city-gta-6-bairros-personagens-o-que-a-rockstar-mostrou",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.03hy0_cb3li0-.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar Games e VGC",
+  "capa": {
+    "titulo": "Vice City em GTA 6: os lugares já mostrados",
+    "destaque": "Vice City",
+    "apoio": "Praia, bairro cubano e porto. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1 de 3",
+      "titulo": "Ocean Beach tem hotéis pastel",
+      "destaque": "Ocean Beach",
+      "texto": [
+        "O bairro tem **hotéis art déco** em tons pastel e areia branca, segundo o site oficial da Rockstar."
+      ]
+    },
+    {
+      "rotulo": "2 de 3",
+      "titulo": "Little Cuba tem mercado pirata",
+      "destaque": "mercado pirata",
+      "texto": [
+        "É o bairro das **padarias cubanas**, e o mercado de pulgas Tisha-Wocka vende produtos piratas, segundo a Rockstar."
+      ]
+    },
+    {
+      "rotulo": "3 de 3",
+      "titulo": "VC Port é o porto dos cruzeiros",
+      "destaque": "porto",
+      "texto": [
+        "A Rockstar apresenta o VC Port como a **capital mundial dos navios de cruzeiro**.",
+        "A cidade se passa nos dias de hoje, segundo o VGC."
+      ]
+    }
+  ],
+  "final": "Qual desses lugares você visita primeiro?",
+  "legenda": {
+    "gancho": "Faltam 37 dias para GTA 6 e a Rockstar já mostrou vários lugares de Vice City.",
+    "corpo": [
+      "Segundo o site oficial, Ocean Beach tem hotéis art déco em tons pastel, Little Cuba reúne padarias cubanas e o VC Port é a capital mundial dos navios de cruzeiro.",
+      "A cidade se passa nos dias de hoje e faz parte do estado de Leonida, de acordo com o VGC."
+    ],
+    "chamada": "Qual lugar de Vice City você quer ver primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#vicecity",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Vice City em GTA 6: os lugares já mostrados",
+    "Slide 2: Ocean Beach tem hotéis pastel",
+    "Slide 3: Little Cuba tem mercado pirata",
+    "Slide 4: VC Port é o porto dos cruzeiros",
+    "Slide 5: Qual desses lugares você visita primeiro?"
+  ],
+  "slug": "vice-city-gta-6-bairros-personagens",
+  "status": "pronto",
+  "criado": "2026-10-13T15:39:53-03:00"
+}
