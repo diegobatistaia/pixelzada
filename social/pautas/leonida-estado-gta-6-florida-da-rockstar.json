@@ -1,0 +1,73 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "leonida-estado-gta-6-florida-da-rockstar",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/outro.0e9ko9mexi~1m.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, NME e Forbes",
+  "capa": {
+    "titulo": "Leonida em números: o estado de GTA 6",
+    "destaque": "Leonida",
+    "apoio": "Mapa, regiões e bichos do jogo. Arrasta.",
+    "numero": "6",
+    "numero_legenda": "regiões para explorar"
+  },
+  "slides": [
+    {
+      "rotulo": "Regiões",
+      "titulo": "6 regiões no mapa",
+      "destaque": "6 regiões",
+      "texto": [
+        "Vice City é só uma delas: o site oficial lista **Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga**."
+      ]
+    },
+    {
+      "rotulo": "Tamanho",
+      "titulo": "2 vezes o mapa de GTA 5",
+      "destaque": "2 vezes",
+      "texto": [
+        "O mapa tem cerca do **dobro do tamanho** do de GTA 5, segundo o co-chefe da Rockstar North, Aaron Garbut.",
+        "A área exata não foi divulgada."
+      ]
+    },
+    {
+      "rotulo": "Bichos",
+      "titulo": "170 espécies de animais",
+      "destaque": "170",
+      "texto": [
+        "Há mais de **170 espécies**, entre elas peixes-boi, flamingos e jacarés, segundo a Forbes.",
+        "Alguns são Raros, Descobríveis ou Lendários."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai explorar cada canto",
+  "legenda": {
+    "gancho": "GTA 6 não acontece só em Vice City: o jogo é no estado de Leonida, com seis regiões.",
+    "corpo": [
+      "Segundo a Rockstar, são seis destinos: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga.",
+      "O mapa tem cerca do dobro do tamanho do de GTA 5, de acordo com Aaron Garbut, e há mais de 170 espécies de animais, segundo a Forbes."
+    ],
+    "chamada": "Qual região você quer explorar primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Leonida em números, o estado de GTA 6",
+    "Slide 2: 6 regiões no mapa",
+    "Slide 3: 2 vezes o mapa de GTA 5",
+    "Slide 4: 170 espécies de animais",
+    "Slide 5: Manda pro amigo que vai explorar cada canto"
+  ],
+  "slug": "leonida-estado-gta-6-florida-da-rockstar",
+  "status": "pronto",
+  "criado": "2026-10-13T09:39:32-03:00"
+}
