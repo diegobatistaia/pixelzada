@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 12:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:41:48 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>God of War Laufey tem edição de colecionador de US$ 149,99 sem o jogo dentro</title>
+      <link>https://pixelzada.com.br/pt/god-of-war-laufey-collector-box-sem-o-jogo/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/god-of-war-laufey-collector-box-sem-o-jogo/</guid>
+      <description>A Sony revelou a Collector Box de God of War Laufey por US$ 149,99, sem disco nem código. Veja o que vem na caixa, o preço no Reino Unido e o elo com GTA 6.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 13 Oct 2026 14:41:48 +0000</pubDate>
+    </item>
     <item>
       <title>Sony lança PS5 Digital Edition Midnight Black só no Japão em 19 de novembro</title>
       <link>https://pixelzada.com.br/pt/ps5-digital-edition-midnight-black-japao-19-de-novembro/</link>
@@ -238,14 +246,6 @@
       <description>A Best Buy fará abertura à meia-noite para Zelda: Ocarina of Time em 5 de novembro, com estoque limitado do Switch 2 de edição especial. Veja o que se sabe.</description>
       <category>Lançamentos</category>
       <pubDate>Fri, 09 Oct 2026 15:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Forza Horizon 6 chega ao PS5 em 26 de janeiro, junto da 1ª expansão</title>
-      <link>https://pixelzada.com.br/pt/forza-horizon-6-ps5-26-janeiro-confirmado-expansao/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/forza-horizon-6-ps5-26-janeiro-confirmado-expansao/</guid>
-      <description>Forza Horizon 6 chega ao PS5 em 26 de janeiro de 2027, com a primeira expansão no mesmo dia. Veja o acesso antecipado, a Premium Edition e o evento do 7-Eleven.</description>
-      <category>Lançamentos</category>
-      <pubDate>Fri, 09 Oct 2026 10:42:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

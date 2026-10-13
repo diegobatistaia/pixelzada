@@ -118,7 +118,10 @@
     "query": "God of War Laufey",
     "alt": "Arte de God of War Laufey com Faye",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/god-of-war-laufey-edited.jpg",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/god-of-war-laufey-collector-box-sem-o-jo-39a592bb.jpg",
+    "source_url": "",
+    "foco": "55% 18%"
   },
   "sources": [
     {
@@ -146,5 +149,7 @@
       "title": "God Of War's Laufey Collector's Edition Leaves One Important Thing Out: The Game"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T14:41:48+00:00",
+  "updated_at": "2026-10-13T14:41:48+00:00"
 }
