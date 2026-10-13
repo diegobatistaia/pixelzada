@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "gta-6-pc-primeiro-trimestre-2027",
-    "horario": "15:00",
-    "data": "2026-10-13",
-    "estilo": "missao",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "ps2-melhor-console",
+    "pasta": "reel-ps2-melhor-console",
+    "horario": "16:00",
+    "data": "2026-10-13"
   },
-  "em": "2026-10-13T14:59:46-03:00",
+  "em": "2026-10-13T15:59:20-03:00",
   "ok": true,
-  "media_id": "17962299864228824",
-  "permalink": "https://www.instagram.com/p/DecZvw2GALL/",
-  "story": {
-    "em": "2026-10-13T15:00:25-03:00",
-    "media_id": "18113480801583249"
-  },
+  "media_id": "18151255321554429",
+  "permalink": "https://www.instagram.com/reel/DecghV-jxlh/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }

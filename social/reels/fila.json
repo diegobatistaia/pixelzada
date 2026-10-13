@@ -241,10 +241,15 @@
     "slug": "ps2-melhor-console",
     "data": "2026-10-13",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "Quando o assunto é ser o melhor console… o PS2 chega com tudo isso 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#ps2 #playstation #retrogames #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-13T15:59:20-03:00",
+      "media_id": "18151255321554429",
+      "permalink": "https://www.instagram.com/reel/DecghV-jxlh/"
+    }
   },
   {
     "slug": "dia-do-lancamento-ps5-3600",
