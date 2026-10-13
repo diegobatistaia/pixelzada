@@ -124,7 +124,9 @@
     "query": "Vice City GTA 6",
     "alt": "Imagem da cidade de Vice City na seção Only in Leonida do site oficial de GTA 6",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.03hy0_cb3li0-.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/vice-city-gta-6-bairros-personagens-o-qu-a85ce7b8.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -206,5 +208,7 @@
       "title": "Everything revealed from the GTA 6 extended look"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T18:40:31+00:00",
+  "updated_at": "2026-10-13T18:40:31+00:00"
 }

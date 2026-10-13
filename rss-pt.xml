@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 16:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:40:31 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Escape Academy 2: Back 2 School chega ao PS5 em 5 de novembro com campus aberto</title>
+      <link>https://pixelzada.com.br/pt/escape-academy-2-back-2-school-ps5-5-de-novembro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/escape-academy-2-back-2-school-ps5-5-de-novembro/</guid>
+      <description>Escape Academy 2: Back 2 School ganha versão de PS5 e sai em 5 de novembro, com campus aberto, coop local e on-line e modo sem cronômetro. Veja o que muda.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 13 Oct 2026 18:40:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vice City em GTA 6: bairros, personagens e o que a Rockstar já mostrou da cidade</title>
+      <link>https://pixelzada.com.br/pt/vice-city-gta-6-bairros-personagens-o-que-a-rockstar-mostrou/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/vice-city-gta-6-bairros-personagens-o-que-a-rockstar-mostrou/</guid>
+      <description>Como é a nova Vice City de GTA 6? Veja os bairros Ocean Beach e Little Cuba, o porto, os personagens locais e as cenas que a Rockstar já mostrou até aqui.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 13 Oct 2026 18:40:31 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6 no PC no início de 2027? Relatório cita fontes anônimas; Take-Two fala em 9/11</title>
       <link>https://pixelzada.com.br/pt/gta-6-pc-primeiro-trimestre-2027-take-two-9-de-novembro/</link>
@@ -230,22 +246,6 @@
       <description>Gears of War: E-Day teria vendido 230 mil cópias e tido 1,7 milhão de jogadores no Game Pass, segundo a Alinea. Veja o que a Microsoft não confirmou ainda.</description>
       <category>Indústria</category>
       <pubDate>Fri, 09 Oct 2026 21:41:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 vai virar filme live-action na Paramount</title>
-      <link>https://pixelzada.com.br/pt/cyberpunk-2077-filme-paramount-live-action/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/cyberpunk-2077-filme-paramount-live-action/</guid>
-      <description>A Paramount desenvolve um filme live-action de Cyberpunk 2077 com Lorenzo di Bonaventura, segundo o Deadline. Veja o que a CD Projekt Red disse e o que falta.</description>
-      <category>Indústria</category>
-      <pubDate>Fri, 09 Oct 2026 15:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Witcher 3 Remastered ganha patch 5.01 e opção de desligar o bloom</title>
-      <link>https://pixelzada.com.br/pt/witcher-3-remastered-patch-5-01-bloom-switch-2/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/witcher-3-remastered-patch-5-01-bloom-switch-2/</guid>
-      <description>O patch 5.01 de The Witcher 3 Remastered corrige bugs e traz bloom e outras opções visuais ao console. Veja o que mudou e o que vem para o Switch 2 em breve.</description>
-      <category>Lançamentos</category>
-      <pubDate>Fri, 09 Oct 2026 15:41:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

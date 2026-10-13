@@ -129,7 +129,9 @@
     "query": "Escape Academy 2 Back 2 School",
     "alt": "Arte de Escape Academy 2: Back 2 School",
     "url": "https://blog.playstation.com/tachyon/2026/10/1e264f63a715ae1b1a88fccfdc443e1dd19353fc.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/escape-academy-2-back-2-school-ps5-5-de--7911d03e.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -151,5 +153,7 @@
       "title": "Escape Academy 2: Back 2 School ganha versão de PS5 para novembro"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T18:40:31+00:00",
+  "updated_at": "2026-10-13T18:40:31+00:00"
 }
