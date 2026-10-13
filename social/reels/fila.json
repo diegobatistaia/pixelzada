@@ -213,10 +213,15 @@
     "slug": "nfs-focado-sob-pressao",
     "data": "2026-10-13",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Legenda",
     "legenda": "“Como você fica tão focado sob pressão?” Eu em 2003 🏎️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#needforspeed #nfs #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-13T11:59:24-03:00",
+      "media_id": "18014122427982994",
+      "permalink": "https://www.instagram.com/reel/DecFFsDADXh/"
+    }
   },
   {
     "slug": "pov-gta6-nao-vai-ser-isso-tudo",
