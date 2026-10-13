@@ -255,10 +255,15 @@
     "slug": "dia-do-lancamento-ps5-3600",
     "data": "2026-10-13",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Quadrinho",
     "legenda": "Dia do lançamento do GTA 6: o cara do PS5 de 3,6k vs. o cara do PC de 15k 😅\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #pcgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-13T17:59:20-03:00",
+      "media_id": "18128181022879263",
+      "permalink": "https://www.instagram.com/reel/DecuQUfCLft/"
+    }
   },
   {
     "slug": "mary-arthur-talvez-em-outra-vida",
