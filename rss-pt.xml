@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:42:19 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyberleek volta com novo vídeo de GTA 6 e usa a Lucia para vender a própria cripto</title>
+      <link>https://pixelzada.com.br/pt/cyberleek-novo-video-gta-6-lucia-cripto-build/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/cyberleek-novo-video-gta-6-lucia-cripto-build/</guid>
+      <description>Cyberleek postou novo vídeo de GTA 6 com a Lucia para promover a própria criptomoeda. Veja o que foi publicado, o que não dá para confirmar e o contexto.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 13 Oct 2026 10:42:19 +0000</pubDate>
+    </item>
     <item>
       <title>Epic adia jogo da Disney com Marvel e Star Wars e manda equipe usar IA primeiro</title>
       <link>https://pixelzada.com.br/pt/epic-games-adia-jogo-disney-producao-ia-first/</link>
@@ -238,14 +246,6 @@
       <description>A Xbox criou a divisão XP para cuidar de filmes, séries, produtos e eventos, com Kayleen Walters no comando. Maria Angelidou-Smith assume o Mojang em 19/10.</description>
       <category>Indústria</category>
       <pubDate>Fri, 09 Oct 2026 10:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Star Wars: Galactic Racer vai subir o grupo de 3 para 6 jogadores</title>
-      <link>https://pixelzada.com.br/pt/star-wars-galactic-racer-grupo-seis-jogadores/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/star-wars-galactic-racer-grupo-seis-jogadores/</guid>
-      <description>Star Wars: Galactic Racer vai aumentar o grupo do multiplayer de 3 para 6 jogadores. Veja o que o estúdio disse e como funciona o sistema de corridas em ciclos.</description>
-      <category>Lançamentos</category>
-      <pubDate>Thu, 08 Oct 2026 15:47:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
