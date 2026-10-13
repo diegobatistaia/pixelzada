@@ -113,7 +113,10 @@
     "query": "Epic Games Marvel Star Wars Fortnite",
     "alt": "Arte de Fortnite com personagens de Marvel e Star Wars",
     "url": "https://kotaku.com/app/uploads/2026/10/marvel-fortnite.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/epic-games-adia-jogo-disney-producao-ia--a326642a.jpg",
+    "source_url": "",
+    "foco": "61% 48%"
   },
   "sources": [
     {
@@ -135,5 +138,7 @@
       "title": "Epic Games Delays Marvel and Star Wars Crossover Game Amid Generative AI Push"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T00:41:42+00:00",
+  "updated_at": "2026-10-13T00:41:42+00:00"
 }

@@ -278,5 +278,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-13T00:41:42+00:00",
+    "id": "epic-games-adia-jogo-disney-producao-ia-first",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
