@@ -122,7 +122,10 @@
     "query": "GTA 6 Jason e Lucia",
     "alt": "Jason e Lucia em arte de GTA 6",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_03.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-pc-primeiro-trimestre-2027-take-tw-959437cc.jpg",
+    "source_url": "",
+    "foco": "47% 41%"
   },
   "sources": [
     {
@@ -144,5 +147,7 @@
       "title": "GTA 6 Fans Are Excited For Another Date In November, And It's Not Release Day"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T16:43:30+00:00",
+  "updated_at": "2026-10-13T16:43:30+00:00"
 }
