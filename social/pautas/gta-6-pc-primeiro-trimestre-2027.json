@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "debate",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-pc-primeiro-trimestre-2027-take-two-9-de-novembro",
+  "imagem": {
+    "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_03.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Eurogamer, Polygon e GameSpot",
+  "capa": {
+    "titulo": "GTA 6 no PC no início de 2027? Ainda é boato",
+    "destaque": "é boato",
+    "apoio": "A Rockstar não confirmou. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O relato",
+      "titulo": "GamesBeat cita fontes anônimas",
+      "destaque": "anônimas",
+      "texto": [
+        "A GamesBeat diz que a versão de PC sai no **primeiro trimestre de 2027**, segundo quatro fontes do setor.",
+        "A Rockstar não respondeu ao pedido de comentário."
+      ]
+    },
+    {
+      "rotulo": "Histórico",
+      "titulo": "GTA 5 esperou quase 2 anos",
+      "destaque": "2 anos",
+      "texto": [
+        "GTA 5 saiu no PC em abril de 2015, **quase dois anos** depois dos consoles, segundo a Eurogamer.",
+        "RDR2 levou pouco mais de um ano."
+      ]
+    },
+    {
+      "rotulo": "Data oficial",
+      "titulo": "Take-Two fala em 9 de novembro",
+      "destaque": "9 de novembro",
+      "texto": [
+        "A empresa divulga os resultados do trimestre em **9 de novembro**, com teleconferência aberta, segundo a GameSpot.",
+        "O lançamento nos consoles segue em 19 de novembro."
+      ]
+    }
+  ],
+  "final": "Você esperaria pelo PC ou joga no console?",
+  "legenda": {
+    "gancho": "Um relatório diz que GTA 6 chega ao PC no primeiro trimestre de 2027, mas a Rockstar não confirmou.",
+    "corpo": [
+      "Segundo Eurogamer e Polygon, a GamesBeat cita quatro fontes anônimas. O jogo sai em 19 de novembro nos consoles.",
+      "A Take-Two divulga resultados em 9 de novembro, de acordo com a GameSpot."
+    ],
+    "chamada": "PC ou console: onde você vai jogar GTA 6?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 no PC no início de 2027? Ainda é boato",
+    "Slide 2: GamesBeat cita fontes anônimas",
+    "Slide 3: GTA 5 esperou quase dois anos pelo PC",
+    "Slide 4: Take-Two fala em 9 de novembro",
+    "Slide 5: Você esperaria pelo PC ou joga no console?"
+  ],
+  "slug": "gta-6-pc-primeiro-trimestre-2027",
+  "status": "pronto",
+  "criado": "2026-10-13T13:42:39-03:00"
+}

@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-13T16:39:46+00:00",
-  "posts_per_language_today": 2,
+  "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
   "already_written_today": 4,
   "min_independent_sources": 2,
@@ -482,5 +482,7 @@
         }
       ]
     }
-  ]
+  ],
+  "especial_gta6": null,
+  "especiais_gta6_hoje": 1
 }

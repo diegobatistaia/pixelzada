@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "PS5 Midnight",
+  "gta6": false,
+  "materia": "ps5-digital-edition-midnight-black-japao-19-de-novembro",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/PS5-Digital-Edition-Black-Japan_10-12-26.jpg",
+    "credito": "Sony",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Gematsu e VGC",
+  "capa": {
+    "titulo": "PS5 preto sai só no Japão em 19 de novembro",
+    "destaque": "só no Japão",
+    "apoio": "Preço, região travada e leitor de disco. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quanto custa?",
+      "destaque": "custa",
+      "texto": [
+        "**55 mil ienes** com impostos, cerca de US$ 350, segundo o VGC.",
+        "A pré-venda começa em 20 de outubro."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Dá para usar fora do Japão?",
+      "destaque": "fora do Japão",
+      "texto": [
+        "O console tem **região travada** e só funciona com contas japonesas, segundo as fontes.",
+        "Não há anúncio para o Ocidente."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Vem com leitor de disco?",
+      "destaque": "leitor",
+      "texto": [
+        "Um leitor **Midnight Black** avulso chega junto, por 11.980 ienes com impostos, segundo o Gematsu."
+      ]
+    }
+  ],
+  "final": "Você compraria um PS5 preto importado?",
+  "legenda": {
+    "gancho": "A Sony anunciou o PS5 Digital Edition Midnight Black, mas só para o Japão.",
+    "corpo": [
+      "Segundo Gematsu e VGC, ele chega em 19 de novembro por 55 mil ienes, com região travada.",
+      "O leitor de discos avulso na mesma cor sai junto, por 11.980 ienes com impostos, para quem quiser jogar mídia física. Não há preço nem data fora do Japão, e a Sony não anunciou lançamento no Ocidente."
+    ],
+    "chamada": "Você traria um desses para o Brasil?",
+    "hashtags": [
+      "#pixelzada",
+      "#ps5",
+      "#playstation",
+      "#sony"
+    ]
+  },
+  "alt": [
+    "Slide 1: PS5 preto sai só no Japão em 19 de novembro",
+    "Slide 2: Quanto custa",
+    "Slide 3: Dá para usar fora do Japão",
+    "Slide 4: Vem com leitor de disco",
+    "Slide 5: Você compraria um PS5 preto importado?"
+  ],
+  "slug": "ps5-digital-edition-midnight-black-japao-19-de-novembro",
+  "status": "pronto",
+  "criado": "2026-10-13T13:42:39-03:00"
+}
