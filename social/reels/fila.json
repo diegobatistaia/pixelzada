@@ -199,10 +199,15 @@
     "slug": "voltando-do-trabalho-19-11",
     "data": "2026-10-13",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Inventário",
     "legenda": "Eu voltando do trabalho no dia 19/11/2026 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-13T09:59:34-03:00",
+      "media_id": "17954556735291408",
+      "permalink": "https://www.instagram.com/reel/Deb3ZOGjnfh/"
+    }
   },
   {
     "slug": "nfs-focado-sob-pressao",
