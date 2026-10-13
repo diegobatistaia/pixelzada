@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "God of War",
+  "gta6": false,
+  "materia": "god-of-war-laufey-collector-box-sem-o-jogo",
+  "imagem": {
+    "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/god-of-war-laufey-edited.jpg",
+    "credito": "Sony",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Polygon, GamesRadar e Kotaku",
+  "capa": {
+    "titulo": "Edição de colecionador de God of War sem o jogo",
+    "destaque": "sem o jogo",
+    "apoio": "US$ 149,99 por três itens. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Item 1 de 3",
+      "titulo": "Estátua da Faye com luz",
+      "destaque": "Estátua",
+      "texto": [
+        "Uma estátua de resina mostra Faye lutando enquanto o cubo **Phranque** observa, segundo a GamesRadar.",
+        "O tamanho não foi informado."
+      ]
+    },
+    {
+      "rotulo": "Item 2 de 3",
+      "titulo": "Baralho Oracle de 51 cartas",
+      "destaque": "51 cartas",
+      "texto": [
+        "Cada carta tem uma ilustração inspirada na **jornada de Faye**, segundo o Polygon e o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Item 3 de 3",
+      "titulo": "Mini artbook e nada de jogo",
+      "destaque": "nada de jogo",
+      "texto": [
+        "A caixa traz um mini artbook, mas **não inclui disco nem código** do jogo, segundo o Polygon.",
+        "Ela chega em 16 de fevereiro de 2027."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que compraria só a estátua",
+  "legenda": {
+    "gancho": "A Sony revelou a edição de colecionador de God of War Laufey, e o jogo não vem junto.",
+    "corpo": [
+      "Segundo Polygon, GamesRadar e Kotaku, a Collector Box custa US$ 149,99 e traz estátua com luz, baralho de 51 cartas e mini artbook.",
+      "O jogo é vendido separadamente, e a caixa chega em 16 de fevereiro de 2027."
+    ],
+    "chamada": "Você pagaria isso numa caixa sem o jogo?",
+    "hashtags": [
+      "#pixelzada",
+      "#godofwar",
+      "#playstation",
+      "#ps5"
+    ]
+  },
+  "alt": [
+    "Slide 1: Edição de colecionador de God of War sem o jogo",
+    "Slide 2: Estátua da Faye com luz",
+    "Slide 3: Baralho Oracle de 51 cartas",
+    "Slide 4: Mini artbook e nada de jogo",
+    "Slide 5: Manda pro amigo que compraria só a estátua"
+  ],
+  "slug": "god-of-war-laufey-collector-box-sem-o-jogo",
+  "status": "pronto",
+  "criado": "2026-10-13T11:40:51-03:00"
+}
