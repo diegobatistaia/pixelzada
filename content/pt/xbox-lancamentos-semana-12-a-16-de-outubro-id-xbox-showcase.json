@@ -119,7 +119,9 @@
     "query": "Next Week on Xbox",
     "alt": "Arte do Xbox Wire com os jogos da semana",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-0bb02cea342889d69146.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-lancamentos-semana-12-a-16-de-outub-0e4c1c2c.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -141,5 +143,7 @@
       "title": "ID@Xbox Showcase set for October 20"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T20:40:27+00:00",
+  "updated_at": "2026-10-13T20:40:27+00:00"
 }
