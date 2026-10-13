@@ -113,7 +113,9 @@
     "query": "Max Payne 3",
     "alt": "Imagem de Max Payne 3",
     "url": "https://assets-prd.ignimgs.com/2026/10/13/max-payne-3-1791891616427.jpg",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/dan-houser-max-payne-3-fracasso-bully-e3847b36.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -135,5 +137,7 @@
       "title": "Max Payne 3 was a \"failure,\" says Dan Houser, because despite writing GTA games, he's no Sam Lake"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T22:39:44+00:00",
+  "updated_at": "2026-10-13T22:39:44+00:00"
 }
