@@ -129,7 +129,9 @@
     "query": "PS5 Digital Edition Midnight Black",
     "alt": "PS5 Digital Edition na cor Midnight Black, edição exclusiva do Japão",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/PS5-Digital-Edition-Black-Japan_10-12-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/ps5-digital-edition-midnight-black-japao-d1d3e3ed.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -151,5 +153,7 @@
       "title": "The best early Black Friday PS5 deals in 2026"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T12:40:28+00:00",
+  "updated_at": "2026-10-13T12:40:28+00:00"
 }

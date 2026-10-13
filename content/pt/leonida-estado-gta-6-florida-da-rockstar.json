@@ -148,7 +148,10 @@
     "query": "Leonida GTA 6",
     "alt": "Imagem da seção Only in Leonida no site oficial de GTA 6",
     "url": "https://www.rockstargames.com/VI/_next/static/media/outro.0e9ko9mexi~1m.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/leonida-estado-gta-6-florida-da-rockstar-382eabe4.jpg",
+    "source_url": "",
+    "foco": "40% 40%"
   },
   "sources": [
     {
@@ -236,5 +239,7 @@
       "title": "It's Official, Rockstar Games Has Delayed GTA 6 To November 2026"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-13T12:40:27+00:00",
+  "updated_at": "2026-10-13T12:40:27+00:00"
 }
