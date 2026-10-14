@@ -325,10 +325,15 @@
     "slug": "san-andreas-vs-gta6-paraquedas",
     "data": "2026-10-14",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Polaroid",
     "legenda": "Paraquedas no GTA San Andreas vs. paraquedas no GTA 6 🪂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtasanandreas #gtavi #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-14T16:07:00-03:00",
+      "media_id": "18090335780679477",
+      "permalink": "https://www.instagram.com/reel/DefGMgVDmWU/"
+    }
   },
   {
     "slug": "takes-gta6-esperando-19-novembro",

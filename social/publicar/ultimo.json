@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "rockstar-proximo-jogo-apos-gta-6",
-    "horario": "15:00",
-    "data": "2026-10-14",
-    "estilo": "reprodutor",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "san-andreas-vs-gta6-paraquedas",
+    "pasta": "reel-san-andreas-vs-gta6-paraquedas",
+    "horario": "16:00",
+    "data": "2026-10-14"
   },
-  "em": "2026-10-14T14:59:46-03:00",
+  "em": "2026-10-14T16:07:00-03:00",
   "ok": true,
-  "media_id": "18202278766334407",
-  "permalink": "https://www.instagram.com/p/Dee-hWmlJUk/",
-  "story": {
-    "em": "2026-10-14T15:00:13-03:00",
-    "media_id": "18027508370876421"
-  },
+  "media_id": "18090335780679477",
+  "permalink": "https://www.instagram.com/reel/DefGMgVDmWU/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
