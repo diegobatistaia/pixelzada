@@ -133,7 +133,10 @@
     "query": "Trailer 1 GTA 6",
     "alt": "Miniatura oficial do Trailer 1 de Grand Theft Auto VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-1.06b6paykx247w.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/trailer-1-gta-6-o-que-mostrou-e-os-recor-5ad9b353.jpg",
+    "source_url": "",
+    "foco": "54% 42%"
   },
   "sources": [
     {
@@ -221,5 +224,7 @@
       "title": "Grand Theft Auto: every game and controversy explained"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T12:40:45+00:00",
+  "updated_at": "2026-10-14T12:40:45+00:00"
 }

@@ -119,7 +119,10 @@
     "query": "The Witcher 3 Remastered",
     "alt": "Geralt em The Witcher 3 Remastered",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witcher-3-endings-guide-geralt-1.jpg",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/the-witcher-3-remastered-hotfix-ps5-patc-47c04019.jpg",
+    "source_url": "",
+    "foco": "49% 33%"
   },
   "sources": [
     {
@@ -141,5 +144,7 @@
       "title": "The Witcher 3: Remastered recebe hotfix com foco no PS5 e PS5 Pro"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T12:40:44+00:00",
+  "updated_at": "2026-10-14T12:40:44+00:00"
 }
