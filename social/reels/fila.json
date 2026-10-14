@@ -311,10 +311,15 @@
     "slug": "explicando-gta6-pro-amigo",
     "data": "2026-10-14",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Claquete",
     "legenda": "Eu explicando pro meu amigo como vou jogar GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-14T13:59:37-03:00",
+      "media_id": "18167190178490540",
+      "permalink": "https://www.instagram.com/reel/Dee3nSXDhnU/"
+    }
   },
   {
     "slug": "san-andreas-vs-gta6-paraquedas",
