@@ -1,0 +1,143 @@
+{
+  "lang": "pt",
+  "slug": "novo-epic-games-launcher-vibe-coded-ia-mais-rapido-que-steam",
+  "story_id": "1123b62eb8da7fab",
+  "title": "Novo Epic Games Launcher foi 'vibe coded' com IA e promete ser mais rápido que a Steam",
+  "dek": "A Epic diz que reescreveu o launcher com ajuda de inteligência artificial, que a versão agora roda também no Linux e que abre mais rápido que o aplicativo da Steam.",
+  "meta_description": "A Epic apresentou o novo Epic Games Launcher, feito com ajuda de IA, com versão para Windows, Mac e Linux. Veja o que a empresa diz sobre a velocidade.",
+  "keyword": "Epic Games Launcher",
+  "category": "industria",
+  "tags": [
+    "epic games",
+    "epic games launcher",
+    "steam",
+    "inteligencia artificial",
+    "linux"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "A Epic Games apresentou uma nova versão do Epic Games Launcher, o aplicativo da loja e da biblioteca de jogos da empresa. O que chamou atenção foi o jeito de contar: em um post no blog oficial, a Epic escreveu que, em vez de programar da forma tradicional, 'vibe codou' o novo launcher, termo usado para descrever código criado a partir de instruções dadas a uma IA. A informação está no IGN, no The Verge e no VGC.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que a Epic anunciou",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o IGN, o texto do blog diz que programar é difícil e que a equipe fez um launcher 'bem mais rápido e responsivo' que o atual, com visual novo. A versão está em prévia e roda em Windows e Mac. Pela primeira vez, a Epic também prepara uma versão para Linux, de acordo com o The Verge e o IGN.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A própria empresa avisa que a primeira versão tem poucos recursos. Segundo o Polygon, a Epic compara o lançamento a uma lancha, e não a um iate. Mesmo assim, ela já traz carrinho de compras, e o The Verge cita uma biblioteca redesenhada, com visualização em grade e em detalhes, além de atalhos para jogos de outras lojas. A Epic pede que os jogadores enviem comentários, porque espera encontrar bugs.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que a Epic diz sobre velocidade",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O PC Gamer e o Polygon contam que a empresa afirma que o novo launcher abre em cerca de 5,47 segundos a partir do zero, 46% mais rápido que a Steam, que teria levado 10,07 segundos no teste da própria Epic. O Polygon acrescenta uma comparação de 14% a favor da Epic na hora de voltar da bandeja do sistema para a biblioteca. Esses números vêm da Epic e não foram confirmados por testes independentes.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Como a IA foi usada",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Em entrevista ao IGN, Martin Keely, vice-presidente e gerente geral da Epic Games Store, disse que a empresa usou a IA como uma ferramenta dentro do processo de desenvolvimento. Segundo ele, isso deixou a equipe mais eficiente e permitiu que um time pequeno reescrevesse a base de código e lançasse a versão mais rápido em várias plataformas.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Keely afirmou também que o uso da IA foi focado na eficiência do código e na arquitetura, para criar recursos mais depressa, e que não envolveu arte nem estilo visual. Segundo ele, as mudanças de design foram conduzidas pela equipe de design normal da Epic.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Plataformas: Windows e Mac na prévia, com Linux a caminho, segundo a Epic.",
+        "Recursos: poucos no começo, mas com carrinho de compras e biblioteca nova.",
+        "Comentários: a Epic pede feedback e espera encontrar bugs na prévia.",
+        "Velocidade: números divulgados pela própria empresa, sem teste independente."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "O contexto: a aposta da Epic em IA",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O IGN lembra que o anúncio vem depois de uma reportagem da Bloomberg, segundo a qual desenvolvedores da Epic foram incentivados a usar o Claude, a IA da Anthropic, e o trabalho em um projeto ainda não anunciado de Star Wars e Marvel deveria ter 'nenhum código escrito à mão'. Tim Sweeney, fundador e CEO da Epic, escreveu no X que a empresa está 'movendo desenvolvedores para se reorganizar para a máxima aceleração com IA'.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O IGN também recorda que a Epic já falou abertamente sobre o uso de IA generativa em visuais de Fortnite. O próprio veículo diz ser curioso ver a empresa traçar um limite agora, para o launcher, entre código e arte.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que ainda não se sabe",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Veículos como o VGC e o Polygon destacam que o uso de IA para escrever código levanta dúvidas entre desenvolvedores, sobretudo sobre segurança e manutenção a longo prazo. A Epic não detalhou como revisou o código gerado, além de dizer que há supervisão humana.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Também não há data para o fim da prévia nem para a chegada da versão de Linux. Enquanto isso, quem usa o launcher atual não precisa mudar nada: a prévia é opcional. Vale esperar testes independentes antes de tratar a vantagem de velocidade como fato, já que, por enquanto, ela é uma afirmação da própria Epic.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "Novo Epic Games Launcher",
+    "alt": "Tela do novo Epic Games Launcher",
+    "url": "https://assets-prd.ignimgs.com/2026/10/14/egs-ai-build-blogroll-1791981252442.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credit": "Imagem: IGN"
+  },
+  "sources": [
+    {
+      "name": "IGN",
+      "owner": "ziff-davis",
+      "url": "https://www.ign.com/articles/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai",
+      "title": "'We Vibe Coded a New Epic Games Launcher'"
+    },
+    {
+      "name": "The Verge",
+      "owner": "vox-media",
+      "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+      "title": "Epic's new games launcher is 'vibe coded'"
+    },
+    {
+      "name": "PC Gamer",
+      "owner": "future-plc",
+      "url": "https://www.pcgamer.com/software/platforms/epic-says-its-new-vibe-coded-epic-games-store-launcher-is-faster-than-steam/",
+      "title": "Epic says its new 'vibe coded' Epic Games Store launcher is faster than Steam"
+    },
+    {
+      "name": "VGC",
+      "owner": "vgc",
+      "url": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/",
+      "title": "Epic says it's 'vibe coded' its new Epic Games Launcher with AI"
+    },
+    {
+      "name": "Polygon",
+      "owner": "valnet",
+      "url": "https://www.polygon.com/epic-game-store-launcher-vibe-coded/",
+      "title": "Epic Brags That Its New 'Vibe Coded' Store Launcher Is Faster Than Steam"
+    }
+  ],
+  "status": "draft"
+}
