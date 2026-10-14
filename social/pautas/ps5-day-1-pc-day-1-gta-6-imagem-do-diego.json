@@ -5,8 +5,25 @@
   "gta6": true,
   "criado": "2026-10-14T14:58:00-03:00",
   "validade_horas": 24,
-  "imagem": {"path": "social/prontas/ps5-day-1-pc-day-1-gta-6.jpg", "credito": "Imagem enviada pelo Diego"},
-  "pronta": {"arquivo": "social/prontas/ps5-day-1-pc-day-1-gta-6.jpg", "data": "2026-10-14", "horario": "19:00"},
-  "legenda": {"texto": "#pixelzada #gta6"},
-  "status": "pronto"
+  "imagem": {
+    "path": "social/prontas/ps5-day-1-pc-day-1-gta-6.jpg",
+    "credito": "Imagem enviada pelo Diego"
+  },
+  "pronta": {
+    "arquivo": "social/prontas/ps5-day-1-pc-day-1-gta-6.jpg",
+    "data": "2026-10-14",
+    "horario": "19:00"
+  },
+  "legenda": {
+    "texto": "#pixelzada #gta6"
+  },
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-10-14",
+    "horario": "19:00",
+    "em": "2026-10-14T18:59:40-03:00",
+    "estilo": null,
+    "media_id": "18394185580207133",
+    "permalink": "https://www.instagram.com/p/DefZ8hTFTbM/"
+  }
 }
