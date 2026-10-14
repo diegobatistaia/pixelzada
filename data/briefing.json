@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T14:35:19+00:00",
+  "generated_at": "2026-10-14T14:42:49+00:00",
   "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
-  "already_written_today": 3,
+  "already_written_today": 4,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -41,113 +41,6 @@
     160
   ],
   "stories": [
-    {
-      "story_id": "ebd90650f6d57ad4",
-      "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
-      "summary": "Rockstar has spent more than eight years developing Grand Theft Auto 6 , but the studio hopes its next project will arrive considerably faster. Speaking to Bloomberg , Rockstar's head of development Phil Hooker explained how the company expanded its team and developed its technology for the hotly anticipated upcoming game, and how that'll make it easier to build future releases. Hooker said the...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "insider-gaming",
-        "valnet",
-        "vgc",
-        "vox-media",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "da6add89ffff7c4a",
-        "4e37279278dbf859",
-        "689c2e6175349d19",
-        "9155b8fa1c0c032d",
-        "e0c8b2c8ba85ce5b",
-        "ff406fcd444ea8fc",
-        "54cc05921296ef29",
-        "5c02816d1e3369ee"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/",
-          "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
-          "published_at": "2026-10-14T10:43:11+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
-          "title": "GTA 6 Developer Rockstar Insists Its Next Game Won't Take Another 8 Years to Make",
-          "published_at": "2026-10-14T10:48:41+00:00",
-          "kind": "press",
-          "text": "Rockstar has promised that its next game following GTA 6 won’t take as long to come out, although it failed to hint at what it might be. GTA 6 finally launches in November, eight years after the release of its last game, Red Dead Redemption 2. In a new report by Bloomberg detailing the challenges Rockstar has faced during GTA 6’s development, company leadership said whatever’s next won’t take as long because the work done for GTA 6 provides a foundation for following it up faster. “The engine, the tools and the team we’ve built during this project will allow us to do things more quickly,” Phil Hooker, co-head of development, said. “I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.” “We foundationally changed a lot of stuff on this project,” co-head of development Aaron Garbut added. “But now it’s done, and we’re not going to rip it apart.” The question fans have is, what will Rockstar’s next game be? Bloomberg compares the release of GTA 6 to GTA 3, in that the first 3D GTA game paved the way for the quickfire release of Grand Theft Auto: Vice City, which launched a year later in 2002. Could Rockstar soon follow GTA 6 with another GTA game, perhaps focused on another city? Many hope and expect Rockstar to make Red Dead Redemption 3, although Rockstar itself hasn’t indicated it has plans to do so. A year ago, Rockstar Games co-founder and former lead writer Dan Houser said RDR3 “will probably happen.” In 2023, Roger Clark, who played Arthur Morgan, the main playable protagonist of Red Dead Redemption 2, said he was “certain” fans would see Red Dead Redemption 3 “one day,” but qualified that statement by saying he had no idea when that would be. Clark also ruled out the return of Arthur Morgan in the game, should it come to be. If you’ve played Red Dead Redemption 2, this might seem like stating the obvious, but there’s always the chance Rockstar may consider another prequel of some kind. “I’m certain we will see Red Redemption 3 one day,” Clark said. “When that will be — I have absolutely no idea. Don’t count on Arthur’s involvement either. His story has been told, I feel.” In a subsequent interview with IGN , Clark expanded on his thoughts: “Yeah, that got really picked up! I would have thought that was obvious though. Wouldn’t you? And it’s not like I have any insider information whatsoever, but of course there’s going to be another Red Dead. It sold over 60 million copies!” He continued: “Strauss Zelnick, the CEO of Take-Two said it himself. He said GTA and Red Dead are prominent franchises for Rockstar Games and that they will be returning to them in the future. So there’s no doubt there will be another Red Dead. But if Arthur Morgan will be involved? I highly doubt it, to be honest. And I think it’s going to be quite some time before we even see a snifter of anything new Red Dead related. I have no idea how it would pan out, but I wouldn’t bet on Arthur being a part of it.” In April this year, Hollywood star Jack Black revealed the character he’d love to play in Red Dead Redemption 3 , should Rockstar make the game: Jack Black. In lieu of a Red Dead Redemption movie, which Black said he’d very much love to star in if the opportunity ever came his way, the Bowser actor would love to star in Red Dead Redemption 3. And it turns out there’s a character called Jack Black he’d love to play. \"Red Dead Redemption 2 takes place around the turn of the century, right?\" Black told Polygon while promoting The Super Mario Galaxy Movie . \"There was a character around that time named Jack Black, who wrote an autobiography called You Can't Win. I would kinda like to play Jack Black in Red Dead Redemption 3.\" Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
-          "image": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-vice-city-style-01-1791974913899.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "GamesIndustry.biz",
-          "owner": "ziff-davis",
-          "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
-          "title": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\"",
-          "published_at": "2026-10-14T12:26:32+00:00",
-          "kind": "press",
-          "text": "Team has more than doubled since Red Dead Redemption 2's launch in 2018, with over 4,000 working in development and QA Rockstar Games has more than doubled its workforce to develop Grand Theft Auto 6, and is adamant that it won't take another eight years to complete its next title. In a wide-ranging interview with Bloomberg , Rockstar senior leadership said that when Red Dead Redemption 2 launched in 2018, the studio had 2,441 employees. By 2026, Rockstar employed 4,711 staff across 12 offices. Of these, 4,020 work in development and QA, while 690 are in publishing. Rockstar's leadership stated that future games will be developed more quickly, as GTA 6 \"is a foundation upon which they can build new content at a faster pace.\" \"The engine, the tools and the team we've built during this project will allow us to do things more quickly,\" said co-head of development Phil Hooker. \"I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.\" GTA 6 was first announced in 2023 with a planned 2025 release . The launch was postponed to May 26, 2026 , and later rescheduled to its current date, November 19 . Rockstar's head of publishing Jennifer Kolbe recalled informing Take-Two CEO Strauss Zelnick about both delays. \"I think he said, 'You're kidding. Please tell me you're kidding.' But once we talked through why, he got it.\" \"And I think we are really lucky that he is as reasonable as he is, because a lot of people would say, 'You'd just better figure out how to ship it.' And we have been really, really lucky that we have not found ourselves in that place, because that happens to a lot of teams, and we've all played those games. It's not great.\" Zelnick previously told GamesIndustry.biz that he wasn't \"in the least\" bit worried about the impact that delays could have on the business. \"As you know, occasionally across our entire company, including 2K and our mobile business, at times more time is required to polish a title to ensure that it's released in its best possible form. And of course it'll release in the same fiscal year as the prior date.\" \"At the end of the day it's our responsibility to do the right thing for our consumers, and that means delivering the best possible entertainment experience.\" Elsewhere in the interview, the topic of leaks was addressed. Rockstar was hit with its first set of leaks in September 2022 , which were caused by a \"network intrusion\" and resulted in 90 in-development video clips of the game being shared. \"It feels like somebody's wading through your dirty washing. It's like they're inside your head,\" said Rockstar North co-head Aaron Garbut. \"You see your early work out there. Nobody's ever supposed to see that. It's really weirdly invasive. And so it's quite hard to deal with on an emotional level.\" Security at Rockstar was heightened as a result, leading to the elimination of remote work in April 2024 . \"The idea that we would have the game in that many environments is something that I think the security team would not love,\" said Kolbe. \"I think if we did not have a game that people wanted to steal as much, maybe it would be an easier conversation.\" The developer is currently addressing another set of leaks from a hacker group that appears to possess a build of the game. The group began circulating footage in August . Earlier this week, the group released additional footage and threatened to leak the full build, including the story mode, if Rockstar's parent company, Take-Two Interactive, does not comply with its demands.",
-          "image": "https://assetsio.gnwcdn.com/gta-lucia-jason-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/",
-          "title": "GTA 6 took 13 years, but Rockstar says GTA 7 won't",
-          "published_at": "2026-10-14T10:46:39+00:00",
-          "kind": "press",
-          "text": "Although GTA 6 has taken a whopping 13 years to come to fruition following Grand Theft Auto 5, Rockstar promises that shouldn't be the case with GTA 7 or any other future projects, as it's got everything it needs to get 'em out more quickly. Phil Hooker, technical director at Rockstar, tells Bloomberg as much during a new interview, explaining that the foundation developers have built while creating GTA 6 – an entry that's arriving over a decade after predecessor GTA 5 launched back in 2013 – will help them work more efficiently on any future projects, like Grand Theft Auto 7. They've got a solid team, engine, and \"tools\" to use, after all, as Hooker says. \"The engine, the tools and the team we've built during this project will allow us to do things more quickly,\" he describes. \"I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.\" Artist Aaron Garbut agrees, chiming in, \"We foundationally changed a lot of stuff on this project – but now it's done, and we're not going to rip it apart.\" And, honestly, why would they? There's no telling what \"things\" Rockstar will do \"more quickly,\" whether that's GTA 7 or a smaller spin-off like Vice City, which was created in under a year after GTA 3 itself, but it's good news regardless. The wait between Grand Theft Auto games has been a gruelling one, to say the least, marred by widespread layoffs and delays, so hearing that we might not have to witness another like it comes as a welcome report. Here's hoping this all rings true and GTA 7 – or whatever Rockstar has up its sleeve after GTA 6 – arrives in under a decade, or perhaps even five years… but I might be jumping the gun, considering how huge the new Grand Theft Auto seems. GTA 6 is coming to PC in just a few months according to new report, with Rockstar moving much faster than it did with GTA 5 and Red Dead Redemption 2 Weekly digests, tales from the communities you love, and more After spending years with her head in various fantastical realms' clouds, Anna studied English Literature and then Medieval History at the University of Edinburgh, going on to specialize in narrative design and video game journalism as a writer. She has written for various publications since her postgraduate studies, including Dexerto, Fanbyte, GameSpot, IGN, PCGamesN, and more. When she's not frantically trying to form words into coherent sentences, she's probably daydreaming about becoming a fairy druid and befriending every animal or she's spending a thousand (more) hours traversing the Underdark in Baldur's Gate 3. If you spot her away from her PC, you'll always find Anna with a fantasy book, a handheld video game console of some sort, and a Tamagotchi or two on hand. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/cHsymK6EjRzsMKSCatzjiA-2000-80.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/",
-          "title": "Rockstar says its next game after Grand Theft Auto 6 won’t take another eight years to make",
-          "published_at": "2026-10-14T10:57:10+00:00",
-          "kind": "press",
-          "text": "The engine, tools and team built during GTA 6 will make the next project “go more sideways than upwards” Rockstar says the next game it works on after Grand Theft Auto 6 won’t take another eight years to make. When GTA 6 is released on November 19, it will be the studio’s first major new single-player release since Red Dead Redemption 2 , which arrived on PS4 and Xbox One in October 2018. Players may be worried that with games getting increasingly more expensive and time-consuming to make, and with Rockstar ‘s trademark, attention to detail, it may be well into the 2030s before its next title arrives, whether that be a new Red Dead Redemption game or something else. In a new interview with Bloomberg , however, studio heads Phil Hooker and Aaron Garbut say the wait for Rockstar’s next game won’t be as long as the wait for GTA 6. According to the pair, the technology created for this game, as well as the team that was formed to work on it, will carry over to the next project, which should reduce development time. “The engine, the tools and the team weâve built during this project will allow us to do things more quickly,” Hooker said. “I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.” Garbut added: “We foundationally changed a lot of stuff on this project. But now itâs done, and weâre not going to rip it apart.” The publication likens this to the release of Grand Theft Auto Vice City, which was released just one year after Grand Theft Auto 3 because all the groundwork had been laid while developing that game. There’s certainly no suggestion, however, that Rockstar’s next game will arrive anywhere near that soon. Elsewhere in the interview, Garbut said GTA 6 will be the culmination of everything Rockstar has learned up to this point, including staff who have been at the studio for decades. “The last 30 years has been practice for where we got to here,”, he explained. “The team and us as individuals have been doing it for so long that thereâs a sort of shared understanding, shared knowledge and a sort of shortcut to questions.” Earlier this week it was reported that Rockstar is planning to release the PC version of Grand Theft Auto 6 at some time before the end of March 2027. GamesBeat cited four separate industry sources, all of whom are said to be familiar with Rockstarâs plans but all of whom requested to be kept anonymous to avoid damaging their relationship with the studio. Rockstar has yet to officially confirm a PC version.",
-          "image": "https://www.videogameschronicle.com/files/2026/09/gta-6-pic1.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/rockstars-next-title-wont-take-as-long-as-gta-6-to-develop/",
-          "title": "Rockstar’s Next Title Won’t Take As Long As GTA 6 To Develop",
-          "published_at": "2026-10-14T12:00:00+00:00",
-          "kind": "press",
-          "text": "Rockstar Games is one of the biggest names in the gaming industry, but there’s no denying that new releases from the studio have become few and far between. Red Dead Redemption 2 launched eight years ago, while the gap between Grand Theft Auto 5 and GTA 6 has stretched to more than a decade. However, a new interview with Rockstar’s studio heads suggests that future projects may not take nearly as long to develop. According to the developers, the work put into GTA 6 has established the foundations needed to make future development cycles faster and more efficient. In a recent interview with Bloomberg , several Rockstar studio heads discussed the development of Grand Theft Auto 6, reflecting on the challenges the team faced and the lengthy journey to get the game ready for release. The process wasn’t always smooth sailing, with some early development periods described as a “dark period” for the studio. Uncertainty surrounding the game’s vision, combined with the significant disruption caused by the pandemic and leaks , made an already ambitious project even more challenging. However, Rockstar believes that the time invested in GTA 6 could pay dividends for its future releases. Phil Hooker, one of the project’s leads, explained that the tools, technology, and team assembled during development should allow the studio to work more efficiently moving forward. “The engine, the tools and the team we’ve built during this project will allow us to do things more quickly,” Hooker said, adding that he was confident Rockstar could “build on top of this and go more sideways than upwards to build more compelling content.” This approach is reminiscent of Rockstar’s earlier development cycles, particularly Grand Theft Auto 3 and Vice City. The latter was released just a year after GTA 3, benefiting from much of the groundwork already being in place rather than requiring the studio to start from scratch. Aaron Garbut, another Rockstar studio head, echoed this sentiment, explaining that the team had made significant foundational changes during GTA 6’s development . “We foundationally changed a lot of stuff on this project, but now it’s done, and we’re not going to rip it apart,” Garbut said. While this doesn’t guarantee that Rockstar’s next game will arrive within a specific timeframe, it suggests the studio is better positioned to build upon its existing technology rather than repeat the same lengthy process. For fans, that could mean a shorter wait between future releases, although Rockstar has yet to reveal what its next project might be. What title do you hope Rockstar develops after GTA 6? Let us know on the Insider Gaming Discord server . For more Insider Gaming, read about the future of EA Sports College Football being in jeopardy , and don’t forget to sign up for our weekly newsletter . Charlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for him, he enjoys every video game genre out…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/09/GTA6BrianHeder-scaled.webp"
-        },
-        {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/games/1011028/next-gta-faster-development",
-          "title": "We might not have to wait 13 years for the next GTA",
-          "published_at": "2026-10-14T13:42:29+00:00",
-          "kind": "press",
-          "text": "Rockstar’s Phil Hooker says the engine and tools that the team has built ‘will allow us to do things more quickly.’ Rockstar’s Phil Hooker says the engine and tools that the team has built ‘will allow us to do things more quickly.’ Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto . As part of Bloomberg ’s expansive report on the making of GTA VI , Rockstar technical lead Phil Hooker said that the “engine, the tools and the team we’ve built during this project will allow us to do things more quickly.” GTA VI had a notoriously long development process. It took eight years to make, leaving a 13-year gap between this upcoming installment and GTA V . The report points to the one-year gap between Grand Theft Auto III and Grand Theft Auto: Vice City , which was possible because Rockstar already had the framework in place for its next project. “I feel confident that we can build on top of this [ GTA VI ] and go more sideways than upwards to build more compelling content,” Hooker told Bloomberg . There were several other interesting details in the report as well, including: GTA VI launches on November 19th on the PlayStation 5 and Xbox Series X | S.",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jason_Duval_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-rockstar-8-years-grand-theft-auto-7/",
-          "title": "Rockstar Promises Its Next Game Won’t Take Another 8 Years",
-          "published_at": "2026-10-14T14:17:18+00:00",
-          "kind": "press",
-          "text": "The wait for Grand Theft Auto 6 has been a long one for fans of the series, with more than a 13-year gap since Grand Theft Auto 5 . Even accounting for the fact that Rockstar had to complete the similarly massive Red Dead Redemption 2 before fully focusing on the next entry in its crime saga, it’s still been eight years since Rockstar North released that game. For context, the studio previously released Grand Theft Auto 3 , Vice City , San Andreas , and Grand Theft Auto 4 with a much smaller staff over a span of seven years. Rockstar leadership seems well aware of how slow things have been. In a new making-of feature on Grand Theft Auto 6 from Bloomberg , higher-ups at Rockstar have vowed that their next game won’t take eight years to come out. “The engine, the tools and the team we’ve built during this project will allow us to do things more quickly,” said Phil Hooker, co-head of development on Grand Theft Auto 6 . “I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.” “We foundationally changed a lot of stuff on this project,” added Rockstar North co-head Aaron Garbut. “But now it’s done, and we’re not going to rip it apart.” Other tidbits from the article put the sheer scale of the game’s development into perspective. When Red Dead Redemption 2 launched in 2018, Rockstar had 2,441 employees. By 2026, the studio employed 4,711 staff across 12 offices, 4,020 of whom are in development and QA. As such, the game is likely one of the most expensive video games ever made , although the company denied the rumor that GTA 6 cost more than $1.5 billion to make. The Bloomberg article adds additional context for why GTA 6 had such a long development cycle . At one point, Garbut explained that designing a single nightclub involved animating and scripting each individual clubgoer, then adding drinks, music, and lighting with “layers and layers and layers of detail” to make the backdrop feel as real as possible. “And now you understand why it took so long,” said Jennifer Kolbe, Rockstar’s head of publishing. GTA 6 has become a stand-in for troubling trends in modern game development where increasing technical fidelity and massive worlds have led to inflated budgets and lengthy development cycles. Despite Rockstar’s recent pledge to shorten the wait for its next game, as the Bloomberg article notes, the studio previously believed the same about GTA 6 after Red Dead Redemption 2 's five-year development cycle . Hopefully, it won't take until the mid 2030s to play the team's next project. Grand Theft Auto 6 will be released on Nov. 19 for PlayStation 5 and Xbox Series X. A PC version of the game is reportedly coming in 2027.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop"
-        }
-      ]
-    },
     {
       "story_id": "3a04c6ef73eb144d",
       "title": "The Legend of Zelda: Ocarina of Time Remake Is Surprisingly More Different Than You Think | IGN Preview",
@@ -280,7 +173,7 @@
       "primary_owners": [],
       "fingerprints": [
         "e573dbd69b744688",
-        "d8f2c178c0c6c59d"
+        "37c39d71527e2e7c"
       ],
       "sources": [
         {
@@ -296,12 +189,12 @@
         {
           "name": "The Verge Games",
           "owner": "vox-media",
-          "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-          "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
-          "published_at": "2026-10-13T15:12:59+00:00",
+          "url": "https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat",
+          "title": "Epic is bringing Fortnite to Linux",
+          "published_at": "2026-10-14T13:54:58+00:00",
           "kind": "press",
-          "text": "Developers working on the unannounced shooter game were told to use AI tools like Anthropic’s Claude.﻿ Developers working on the unannounced shooter game were told to use AI tools like Anthropic’s Claude.﻿ Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg . The project’s developers have been given an “AI-first” mandate directing them to use tools like Anthropic’s Claude more to finish the game. According to Bloomberg , one of the game’s directors said in a message to staff, “No more hand-written code.” Staff were also told that all of the game’s art will be “generated with full AI workflows.” In a statement given to Bloomberg , Epic Games spokesperson Jake Jones said the company is “embracing AI-accelerated development.” Epic Games and Disney did not immediately respond to a request for comment, but Epic CEO Tim Sweeney tweeted : “We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration. The aim isn’t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.” The upcoming game is reportedly a shooter featuring characters from Marvel and Star Wars . It’s part of a multiyear collaboration between Epic and Disney, which also invested $1.5 billion in Epic in 2024. Epic already uses AI in Fortnite , which has previously featured Disney characters like an AI Darth Vader . But it sounds like Epic may be aiming to have AI do most of the heavy lifting on its new Disney game. AI game development tools have been popping up from other large companies, like Meta and Google , so Epic isn’t alone here. Epic CEO Tim Sweeney has also pushed for Steam to drop its “made with AI” tag , arguing that “AI will be involved in nearly all future production.” Earlier this year, Epic laid off over 1,000 of its employees , following a “downturn” in engagement on Fortnite since 2025. Update, October 13th: Added Sweeney’s tweet.",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+          "text": "There’s no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux. There’s no timeline on when, but Epic is rebuilding its anti-cheat software so that Fortnite will be playable on Linux. Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn’t available there just yet, Epic wants to make that a reality. So far, part of the reason Fortnite hasn’t been available on Linux is concerns about cheating. While Epic’s Easy Anti-Cheat (EAC) service does support Linux, Fortnite itself does not, and in February 2022, Epic Games CEO Tim Sweeney said that for Fortnite , “We don’t have confidence that we’d be able to combat cheating at scale under a wide array of kernel configurations.” But now, Epic says it’s planning to rebuild EAC for Linux, which it is calling EAC Linux v2. “To bring Fortnite to Linux, we are rebuilding Easy Anti-Cheat (EAC) and working with distro maintainers on security requirements,” Epic says in a blog post . “Once it’s working with a critical mass of distro maintainers, we’ll bring Fortnite to Linux via the Epic Games Launcher. We’ll also make these improvements available to other developers so they can bring their games to Linux players.” Epic plans to pilot EAC Linux v2 in Fortnite first, Epic says in a separate post focused on the anti-cheat update. The company doesn’t have a timeline for when the Fortnite Linux version might be available, Epic engineering director Rick Deist tells The Verge in a briefing. Epic is also “investigating” making the game compatible with Valve’s Linux-based SteamOS, Deist says, though the company does not plan to bring Fortnite to Valve’s Steam store, according to Epic Games Store VP and GM Martin Keely. The company also says that the Steam Deck “does not support the required features for our EAC v2 solution, but we are actively talking with Valve and hope to support it in the future.”",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
         }
       ]
     },
@@ -408,8 +301,8 @@
           "title": "Rumor: Grand Theft Auto VI pode ser lançado para PC no primeiro trimestre de 2027",
           "published_at": "2026-10-14T13:24:34+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "Fontes ligadas à Rockstar relataram que o lançamento para PC pode acontecer bem mais cedo do que o esperado.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMQP-i51H9PmsRgqUI2Wly-1B9hMrN0yuESNbd0dzLFeSE13hADL34aooUqsfRXq36hriAcxOXPwmIyAJOOY_vxsQFGI8G8O7sWhWVZIXFMiJ6kNXtSpO9VJrHXkAK0UM0K0W5Mego7k6kIJFXCmslMC1x7PGiAFQvK1dO4YjnUO3aWaLltHRhCikDP70/w1200-h630-p-k-no-nu/rumor-grand-theft-auto-6-pode-ser-lancado-para-pc-no-primeiro-trimestre-2027.jpg"
         }
       ]
     },
@@ -484,8 +377,42 @@
           "image": ""
         }
       ]
+    },
+    {
+      "story_id": "d743c5bdc70ec068",
+      "title": "Sifu chega ao Android e iOS com combate de kung-fu adaptado para celulares",
+      "summary": "Jogo de ação lançado originalmente em 2022 ganha versão mobile com controles de toque, câmera adaptativa e mecânicas de combate preservadas O post Sifu chega ao Android e iOS com combate de kung-fu adaptado para celulares apareceu primeiro em Olhar Digital .",
+      "owners": [
+        "olhar-digital",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "df4d468e49b071d4",
+        "c856b76fae1171f0"
+      ],
+      "sources": [
+        {
+          "name": "Olhar Digital Games",
+          "owner": "olhar-digital",
+          "url": "https://olhardigital.com.br/2026/10/13/games-e-consoles/sifu-chega-ao-android-e-ios-veja-novidades-da-versao-mobile/",
+          "title": "Sifu chega ao Android e iOS com combate de kung-fu adaptado para celulares",
+          "published_at": "2026-10-13T14:25:38+00:00",
+          "kind": "press",
+          "text": "Sifu , jogo de ação e artes marciais desenvolvido pela Sloclap, já está disponível para dispositivos Android e iOS . Lançada nesta terça-feira (13), a versão mobile adapta a experiência original de 2022 para telas menores, com mudanças nos controles e na câmera. O título mantém sua proposta de combate baseado em kung-fu, no qual os jogadores precisam dominar técnicas de defesa, contra-ataques e combinações de golpes para superar os adversários. A principal novidade está na adaptação da jogabilidade para smartphones. A versão mobile apresenta controles de toque desenvolvidos para preservar a precisão e a intensidade dos confrontos. O jogo também conta com interações com o ambiente simplificadas e uma câmera adaptativa, projetada para facilitar a visualização das lutas em telas menores. Segundo a divulgação, o estilo artístico inspirado em pinturas feitas à mão e a apresentação cinematográfica foram mantidos, buscando oferecer uma experiência visual semelhante à das versões anteriores. Ambientado em uma cidade chinesa fictícia, Sifu acompanha um jovem praticante de artes marciais que testemunha o assassinato do pai. Após oito anos de treinamento, ele inicia uma jornada de vingança contra os responsáveis. A jogabilidade combina elementos de roguelike e beat ‘em up, incentivando o aprendizado por meio de tentativas, erros e aperfeiçoamento das técnicas de combate. Para avançar, os jogadores precisam dominar o estilo de kung-fu Pak Mei, identificar as fraquezas dos inimigos e utilizar o ambiente durante os confrontos. Desenvolvido pelo estúdio francês Sloclap, também responsável por Absolver, Sifu chegou originalmente ao mercado em 2022 e agora amplia sua disponibilidade para dispositivos móveis. A versão para Android e iOS já está disponível. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
+          "image": "https://olhardigital.com.br/wp-content/uploads/2026/10/Sifu-Xbox-1.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
+          "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
+          "published_at": "2026-10-13T14:26:57+00:00",
+          "kind": "press",
+          "text": "Sifu , Sloclap's 2022 martial arts action game, can now be played on smartphones. The French developer released the game today on Android and iOS , following an announcement earlier in the month. This portable version of Sifu is priced $8 / £6, and the studio said it has been developed specifically for phone screens. The game has new touch-based controls, as you might imagine, which translate its core moves to on-screen prompts, with environmental interactions streamlined. The ports also have a new, adaptive camera which Sloclap said works better on smaller screens. The developer said it worked to retain Sifu's painterly look, and its fluid and impactful combat for the mobile release, but the game also supports controllers if you prefer. Judging by the trailer, it does look like the Sifu we know, albeit with a softer image as a result of the less powerful hardware. Sifu was critically acclaimed and sold 1 million copies in its first three weeks of release . Previously a PlayStation and Epic Games Store exclusive, Sifu made its way to Steam and Xbox a year later . Sloclap followed Sifu with something altogether different: a third-person football game called Rematch. The game is likewise critically acclaimed and commercially successful , but its reveal left fans who were eager for a sequel to Sifu disappointed . While Sloclap continues to support Rematch, the studio's future plans remain unknown. Sloclap's three developed games are all notably distinct. The studio's debut title, Absolver, is a martial arts MMO. Then came Sifu, a single-player kung fu game, which was followed up by a third-person football game in Rematch. It's anyone's guess what genre the studio is going to tackle next.",
+          "image": "https://assetsio.gnwcdn.com/sifu-review-1643924545930.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
     }
-  ],
-  "especial_gta6": null,
-  "especiais_gta6_hoje": 1
+  ]
 }
