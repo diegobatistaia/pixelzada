@@ -125,7 +125,9 @@
     "query": "Trials RedLynx",
     "alt": "Arte da série Trials, da RedLynx",
     "url": "https://assetsio.gnwcdn.com/Trials_2.jpg_CTbXk1t.jpg",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/ubisoft-fechar-redlynx-trials-cortes-sin-a3159a07.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -147,5 +149,7 @@
       "title": "Ubisoft Closing RedLynx Studio & Downsizing Singapore Studio"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T10:41:54+00:00",
+  "updated_at": "2026-10-14T10:41:54+00:00"
 }
