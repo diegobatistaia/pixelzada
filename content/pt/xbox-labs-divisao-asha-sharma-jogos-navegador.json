@@ -114,7 +114,9 @@
     "query": "Xbox Labs",
     "alt": "Arte do anúncio do Xbox Labs",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/Xbox-Labs-Ann_10-13-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/xbox-labs-divisao-asha-sharma-jogos-nave-61d7d405.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -136,5 +138,7 @@
       "title": "Xbox Announces ‘Xbox Labs’, a New Xbox Division to “Explore New Technology”"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T00:39:41+00:00",
+  "updated_at": "2026-10-14T00:39:41+00:00"
 }
