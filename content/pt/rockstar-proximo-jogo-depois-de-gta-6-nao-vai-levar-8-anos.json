@@ -133,7 +133,10 @@
     "query": "GTA 6 Rockstar",
     "alt": "Arte de GTA 6 com Jason e Lucia",
     "url": "https://assetsio.gnwcdn.com/gta-lucia-jason-(1).webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/rockstar-proximo-jogo-depois-de-gta-6-na-4da91ff0.jpg",
+    "source_url": "",
+    "foco": "46% 39%"
   },
   "sources": [
     {
@@ -179,5 +182,7 @@
       "title": "Rockstar’s Next Title Won’t Take As Long As GTA 6 To Develop"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T14:40:01+00:00",
+  "updated_at": "2026-10-14T14:40:01+00:00"
 }
