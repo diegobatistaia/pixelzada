@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:40:28 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rockstar nega que GTA 6 custou mais de US$ 1,5 bilhão, mas não revela o valor</title>
+      <link>https://pixelzada.com.br/pt/rockstar-nega-gta-6-custou-mais-de-1-5-bilhao-orcamento/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/rockstar-nega-gta-6-custou-mais-de-1-5-bilhao-orcamento/</guid>
+      <description>A Rockstar desmentiu que GTA 6 tenha custado mais de US$ 1,5 bilhão, mas não diz quanto gastou. Veja o que a Bloomberg apurou e as comparações com outros jogos.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 14 Oct 2026 22:40:28 +0000</pubDate>
+    </item>
     <item>
       <title>Novo Epic Games Launcher foi 'vibe coded' com IA e promete ser mais rápido que a Steam</title>
       <link>https://pixelzada.com.br/pt/novo-epic-games-launcher-vibe-coded-ia-mais-rapido-que-steam/</link>
@@ -238,14 +246,6 @@
       <description>Marvel Tokon: Fighting Souls terá Thor (Jane Foster), Venom e Jubilee como DLC em 2027. Veja o calendário, o passe de US$ 34,99 e o que ainda não foi mostrado.</description>
       <category>Lançamentos</category>
       <pubDate>Sun, 11 Oct 2026 22:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberleek ameaça soltar build completa de GTA 6 e exige discos físicos</title>
-      <link>https://pixelzada.com.br/pt/gta-6-cyberleek-ameaca-build-completa-30-milhoes/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-cyberleek-ameaca-build-completa-30-milhoes/</guid>
-      <description>O vazador Cyberleek ameaça publicar uma build completa de GTA 6 se sua criptomoeda atingir US$ 30 milhões. Veja o que ele exige e o que a Rockstar já disse.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 11 Oct 2026 15:45:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

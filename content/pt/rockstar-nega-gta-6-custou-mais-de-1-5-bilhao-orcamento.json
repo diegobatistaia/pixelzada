@@ -115,7 +115,10 @@
     "query": "GTA 6 edição Ultimate",
     "alt": "Arte promocional de GTA 6 com a edição Ultimate",
     "url": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-stock-305-02-1791978787029.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/rockstar-nega-gta-6-custou-mais-de-1-5-b-45683fd4.jpg",
+    "source_url": "",
+    "foco": "75% 19%"
   },
   "sources": [
     {
@@ -137,5 +140,7 @@
       "title": "Rockstar Says GTA 6 Didn't Cost $1.5 Billion To Make, But Won't Reveal The Real Number"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T22:40:28+00:00",
+  "updated_at": "2026-10-14T22:40:28+00:00"
 }
