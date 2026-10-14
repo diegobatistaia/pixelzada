@@ -113,6 +113,12 @@ def escolher(t: datetime | None = None, pautas: list[dict] | None = None) -> dic
         if t > inicio + DEPOIS or hhmm in ocupados:
             continue
         fila = candidatas(pautas, t)
+        # Imagem pronta (Diego manda e quer como está): tem data e horário marcados.
+        fixa = next((p for p in fila if (p.get("pronta") or {}).get("horario") == hhmm
+                     and p["pronta"].get("data") == hoje), None)
+        if fixa:
+            return {"acao": "carrossel", "slug": fixa["slug"], "horario": hhmm, "data": hoje}
+        fila = [p for p in fila if not p.get("pronta")]
         gta = [p for p in fila if p["gta6"]]
         outros = [p for p in fila if not p["gta6"]]
         if tipo == "gta":
@@ -160,6 +166,17 @@ def cmd_preparar(args) -> int:
             erros = P.conferir(p, str(P.caminho(p["slug"])))
             if erros:
                 raise arte.ArteError("; ".join(erros))
+            if p.get("pronta"):  # imagem pronta: copia o arquivo, sem desenho e sem Story
+                pasta.mkdir(parents=True, exist_ok=True)
+                shutil.copy(P.ROOT / p["pronta"]["arquivo"], pasta / "01.jpg")
+                pedido.update(estilo=None, slides=["01.jpg"], story=None)
+                for f in pasta.iterdir():
+                    if f.suffix not in (".jpg", ".mp4"):
+                        f.unlink()
+                PEDIDO.write_text(json.dumps(pedido, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+                print(f"pedido: imagem pronta {pedido['slug']} ({pedido['horario']})")
+                _saida(acao=pedido["acao"], slug=pedido["slug"])
+                return 0
             if pedido["acao"] == "reel":  # o Reel repete o carrossel no estilo em que ele saiu
                 estilo = (p.get("publicado") or {}).get("estilo")
                 estilos = [estilo] if estilo else None
@@ -287,6 +304,19 @@ def conferir_urls(urls: list[str]) -> None:
 def publicar_carrossel(p: dict, pedido: dict, ig: str, token: str) -> dict:
     urls = [url_publica(p["slug"], f) for f in pedido["slides"]]
     conferir_urls(urls)
+    if len(urls) == 1:  # imagem pronta: post de uma imagem só (carrossel exige 2 ou mais)
+        c = call("POST", f"{ig}/media", token, image_url=urls[0], caption=P.legenda(p))
+        esperar(c["id"], token)
+        try:
+            pub = call("POST", f"{ig}/media_publish", token, creation_id=c["id"])
+        except ApiError as e:
+            achado = _ja_publicado(P.legenda(p), ig, token)
+            if not achado:
+                raise
+            print(f"AVISO: media_publish deu erro, mas o post já está no ar: {achado['permalink']} ({e})")
+            return {"media_id": achado["id"], "permalink": achado["permalink"]}
+        info = call("GET", pub["id"], token, fields="permalink")
+        return {"media_id": pub["id"], "permalink": info.get("permalink")}
     filhos = []
     for i, url in enumerate(urls):
         params = {"image_url": url, "is_carousel_item": "true"}
@@ -375,13 +405,14 @@ def cmd_publicar(args) -> int:
             P.salvar(p)  # grava já: se o Story falhar, o carrossel não sai de novo
             resultado.update(ok=True, **out)
             print(f"carrossel publicado: {out.get('permalink')}")
-            try:
-                p["story"] = {"em": agora().isoformat(timespec="seconds"), **publicar_story(p, pedido, ig, token)}
-                print("story publicado")
-            except ApiError as e:
-                p["story"] = {"erro": str(e)}
-                print(f"AVISO: o Story não saiu: {e}")
-            resultado["story"] = p["story"]
+            if pedido.get("story"):  # imagem pronta não leva Story
+                try:
+                    p["story"] = {"em": agora().isoformat(timespec="seconds"), **publicar_story(p, pedido, ig, token)}
+                    print("story publicado")
+                except ApiError as e:
+                    p["story"] = {"erro": str(e)}
+                    print(f"AVISO: o Story não saiu: {e}")
+                resultado["story"] = p["story"]
         else:
             out = publicar_reel(p, pedido, ig, token)
             p["reel"] = {"em": t, **out}
