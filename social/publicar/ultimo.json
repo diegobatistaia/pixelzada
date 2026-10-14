@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "san-andreas-vs-gta6-paraquedas",
-    "pasta": "reel-san-andreas-vs-gta6-paraquedas",
-    "horario": "16:00",
-    "data": "2026-10-14"
+    "acao": "carrossel",
+    "slug": "ubisoft-redlynx-trials-fechamento",
+    "horario": "17:00",
+    "data": "2026-10-14",
+    "estilo": "carregando",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-14T16:07:00-03:00",
+  "em": "2026-10-14T17:00:19-03:00",
   "ok": true,
-  "media_id": "18090335780679477",
-  "permalink": "https://www.instagram.com/reel/DefGMgVDmWU/",
+  "media_id": "18106234432980973",
+  "permalink": "https://www.instagram.com/p/DefMV_8j03_/",
+  "story": {
+    "em": "2026-10-14T17:01:03-03:00",
+    "media_id": "17911691064503030"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
