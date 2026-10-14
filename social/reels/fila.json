@@ -297,10 +297,15 @@
     "slug": "problemas-de-adulto-2008-san-andreas",
     "data": "2026-10-14",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Faixa",
     "legenda": "Problemas de adulto? Não, você está em 2008: sábado, PS2 ligado e San Andreas no K-Rose 🎧\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta6 #ps2 #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-14T11:59:26-03:00",
+      "media_id": "18043499711854189",
+      "permalink": "https://www.instagram.com/reel/Deep3F1lec8/"
+    }
   },
   {
     "slug": "explicando-gta6-pro-amigo",
