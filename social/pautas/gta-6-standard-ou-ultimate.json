@@ -1,0 +1,74 @@
+{
+  "tipo": "noticia",
+  "formato": "comparativo",
+  "assunto": "GTA 6 edições",
+  "gta6": true,
+  "materia": "gta-6-pre-venda-edicoes-preco-brasil-vale-a-ultimate",
+  "imagem": {
+    "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/5171972o3ak5oa/837b1fbc8f96dfa70c1aad939546cdbd85a32527.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, CNN Brasil e Tecnoblog",
+  "capa": {
+    "titulo": "GTA 6 no Brasil: Standard ou Ultimate?",
+    "destaque": "Standard ou Ultimate",
+    "apoio": "R$ 100 de diferença. Arrasta.",
+    "lados": [
+      "Standard",
+      "Ultimate"
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "Preço",
+      "titulo": "R$ 449,90 contra R$ 549,90",
+      "destaque": "R$ 549,90",
+      "texto": [
+        "A **Standard** custa R$ 449,90 e a **Ultimate**, R$ 549,90, nas lojas da PlayStation e do Xbox, segundo a CNN Brasil."
+      ]
+    },
+    {
+      "rotulo": "O que a Ultimate traz",
+      "titulo": "Carros, armas e 5 lugares",
+      "destaque": "5 lugares",
+      "texto": [
+        "A Ultimate soma carros, barco, armas personalizadas, roupas e **cinco lugares exclusivos** no mapa, segundo a Rockstar."
+      ]
+    },
+    {
+      "rotulo": "E se eu me arrepender?",
+      "titulo": "Dá para fazer upgrade depois",
+      "destaque": "upgrade",
+      "texto": [
+        "Quem comprar a Standard pode **fazer o upgrade para a Ultimate** a qualquer momento, segundo a Rockstar.",
+        "As duas edições levam o Vintage Vice City Pack até 20 de novembro."
+      ]
+    }
+  ],
+  "final": "Standard ou Ultimate: qual é a sua?",
+  "legenda": {
+    "gancho": "GTA 6 tem duas edições no Brasil, e a diferença de preço é de R$ 100.",
+    "corpo": [
+      "A Standard custa R$ 449,90 e a Ultimate, R$ 549,90, segundo CNN Brasil e Tecnoblog. A Ultimate traz carros, armas, roupas e cinco lugares exclusivos no mapa, de acordo com a Rockstar.",
+      "Quem compra a Standard pode fazer o upgrade depois. A versão física não tem disco, só um código de download."
+    ],
+    "chamada": "Você vai de Standard ou de Ultimate?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#prevenda"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 no Brasil: Standard ou Ultimate",
+    "Slide 2: R$ 449,90 contra R$ 549,90",
+    "Slide 3: Carros, armas e cinco lugares",
+    "Slide 4: Dá para fazer upgrade depois",
+    "Slide 5: Standard ou Ultimate: qual é a sua"
+  ],
+  "slug": "gta-6-standard-ou-ultimate",
+  "status": "pronto",
+  "criado": "2026-10-14T15:39:39-03:00"
+}
