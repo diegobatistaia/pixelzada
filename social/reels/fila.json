@@ -283,10 +283,15 @@
     "slug": "drone-fpv-miami-vice-city",
     "data": "2026-10-14",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Celular",
     "legenda": "Drone FPV mostra que Vice City é Miami reconstruída com perfeição 🚁\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #miami #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-14T09:59:29-03:00",
+      "media_id": "17931009669165552",
+      "permalink": "https://www.instagram.com/reel/DeecIf6gSqR/"
+    }
   },
   {
     "slug": "problemas-de-adulto-2008-san-andreas",

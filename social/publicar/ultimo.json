@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "god-of-war-laufey-collector-box-sem-o-jogo",
-    "horario": "09:00",
-    "data": "2026-10-14",
-    "estilo": "poster",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "drone-fpv-miami-vice-city",
+    "pasta": "reel-drone-fpv-miami-vice-city",
+    "horario": "10:00",
+    "data": "2026-10-14"
   },
-  "em": "2026-10-14T09:08:49-03:00",
+  "em": "2026-10-14T09:59:29-03:00",
   "ok": true,
-  "media_id": "18086701802704091",
-  "permalink": "https://www.instagram.com/p/DeeWYMsm68o/",
-  "story": {
-    "em": "2026-10-14T09:09:28-03:00",
-    "media_id": "18124183100485257"
-  },
+  "media_id": "17931009669165552",
+  "permalink": "https://www.instagram.com/reel/DeecIf6gSqR/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
