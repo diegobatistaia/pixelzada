@@ -109,7 +109,9 @@
     "query": "Controle Xbox Nano",
     "alt": "Controle Xbox Nano, o menor da linha",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/Controle_XBOX_Nano_Hero-8bfdb58681cc5ea77cc0.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/controle-xbox-nano-preco-brasil-lancamen-daff0457.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -155,5 +157,7 @@
       "title": "XBOX Announces Pocket-Sized ‘Nano’ Controller"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T20:41:33+00:00",
+  "updated_at": "2026-10-14T20:41:33+00:00"
 }

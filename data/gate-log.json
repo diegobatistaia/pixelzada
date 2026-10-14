@@ -397,5 +397,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-14T20:41:33+00:00",
+    "id": "controle-xbox-nano-preco-brasil-lancamento",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-10-14T20:41:34+00:00",
+    "id": "novo-epic-games-launcher-vibe-coded-ia-mais-rapido-que-steam",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
