@@ -1,0 +1,80 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Trailer 1",
+  "gta6": true,
+  "materia": "trailer-1-gta-6-o-que-mostrou-e-os-recordes",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-1.06b6paykx247w.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Push Square, VGC e MusicTech",
+  "capa": {
+    "titulo": "Os números do Trailer 1 de GTA 6",
+    "destaque": "números",
+    "apoio": "Recordes no YouTube, da Lucia ao Tom Petty. Arrasta.",
+    "numero": "90 mi"
+  },
+  "slides": [
+    {
+      "rotulo": "Número 1 de 4",
+      "titulo": "90,4 milhões de views em 24 horas",
+      "destaque": "90,4 milhões",
+      "texto": [
+        "O Guinness registra **90.421.491 visualizações** no YouTube no primeiro dia, recorde de revelação de videogame.",
+        "VGC e TechRadar citam 93 milhões."
+      ]
+    },
+    {
+      "rotulo": "Número 2 de 4",
+      "titulo": "8,9 milhões de curtidas",
+      "destaque": "8,9 milhões",
+      "texto": [
+        "Foram cerca de **8,9 milhões de curtidas** em 24 horas, recorde de trailer de videogame mais curtido, segundo o Guinness."
+      ]
+    },
+    {
+      "rotulo": "Número 3 de 4",
+      "titulo": "36.979% de alta para Tom Petty",
+      "destaque": "36.979%",
+      "texto": [
+        "O Spotify registrou alta de **36.979%** nos streams de Love Is a Long Road, a música do trailer, segundo a Push Square."
+      ]
+    },
+    {
+      "rotulo": "Número 4 de 4",
+      "titulo": "255 milhões de views em 17 meses",
+      "destaque": "255 milhões",
+      "texto": [
+        "Até maio de 2025, o primeiro trailer somava cerca de **255 milhões de visualizações** no YouTube, segundo o VGC."
+      ]
+    }
+  ],
+  "final": "Você assistiu ao Trailer 1 de madrugada?",
+  "legenda": {
+    "gancho": "O primeiro trailer de GTA 6 bateu recordes no YouTube e ainda mexeu com o Spotify.",
+    "corpo": [
+      "Segundo o Guinness, foram 90.421.491 visualizações e cerca de 8,9 milhões de curtidas em 24 horas, via Push Square e Insider Gaming.",
+      "A música, Love Is a Long Road, de Tom Petty, teve alta de 36.979% nos streams. Faltam 36 dias para GTA 6, em 19 de novembro."
+    ],
+    "chamada": "Você viu o Trailer 1 na estreia?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Os números do Trailer 1 de GTA 6",
+    "Slide 2: 90,4 milhões de views em 24 horas",
+    "Slide 3: 8,9 milhões de curtidas",
+    "Slide 4: 36.979% de alta para Tom Petty",
+    "Slide 5: 255 milhões de views em 17 meses",
+    "Slide 6: Você assistiu ao Trailer 1 de madrugada?"
+  ],
+  "slug": "gta-6-trailer-1-recordes",
+  "status": "pronto",
+  "criado": "2026-10-14T09:39:42-03:00"
+}
