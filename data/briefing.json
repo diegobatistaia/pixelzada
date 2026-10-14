@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T10:38:46+00:00",
-  "posts_per_language_today": 1,
+  "generated_at": "2026-10-14T14:35:19+00:00",
+  "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 1,
+  "already_written_today": 3,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,193 +42,230 @@
   ],
   "stories": [
     {
-      "story_id": "8f46b3fc7927528a",
-      "title": "The Witcher 3: Remastered recebe hotfix com foco no PS5 e PS5 Pro",
-      "summary": "Hotfix 5.01b visa aprimorar a estabilidade do título nos consoles da Sony",
+      "story_id": "ebd90650f6d57ad4",
+      "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
+      "summary": "Rockstar has spent more than eight years developing Grand Theft Auto 6 , but the studio hopes its next project will arrive considerably faster. Speaking to Bloomberg , Rockstar's head of development Phil Hooker explained how the company expanded its team and developed its technology for the hotly anticipated upcoming game, and how that'll make it easier to build future releases. Hooker said the...",
       "owners": [
-        "keleops",
-        "meups",
+        "fandom",
+        "future-plc",
+        "insider-gaming",
         "valnet",
+        "vgc",
+        "vox-media",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "27fe688ad8b93d7f",
-        "9031184d642d7393",
-        "4eb31cee52a11f8d",
-        "8e6da24ebf0a26bf"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/news/the-witcher-3-remastered-hotfix-ps5-pro/",
-          "title": "The Witcher 3: Remastered recebe hotfix com foco no PS5 e PS5 Pro",
-          "published_at": "2026-10-13T14:23:36+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/01/THE-WITCHER-3.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch",
-          "title": "CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro",
-          "published_at": "2026-10-13T16:13:54+00:00",
-          "kind": "press",
-          "text": "CD Projekt Red has released an update for The Witcher 3 Remastered on PlayStation 5 and PS5 Pro , making \"various stability improvements to help ensure a more reliable experience\" to the game. And those are the entire patch notes for hotfix 5.01b , Eurogamer understands. The update has drawn some concern from players waiting for the promised Switch 2 Witcher 3 update , prompting the studio to reassure people on X that: \"We're working on getting the Nintendo Switch 2 patch to all users as soon as possible.\" That Switch 2 patch is said to improve visual \"clarity and sharpness\" in the game. CD Projekt Red has been busy addressing issues with the Remastered edition of The Witcher 3 since it was released two weeks ago. It's a transformative update, significantly altering the game's visuals while also changing animations, skills, and even some gameplay. Given its breadth - and that it's free and occurring 11 years after the game's release - I called The Witcher 3 Remastered an extraordinarily generous upgrade after playing it , though the game's audience isn't entirely happy. Some feel it made the game too bright, though this aspect has been addressed in patches since release. Incidentally, Digital Foundry has now chimed into the performance discussion with a full appraisal of The Witcher 3 Remastered on PC , complete with optimised settings suggestions. DF is also tracking the various changes being made to path tracing in the game, which so far is enormously system-heavy. The Witcher 3 Remastered raises the game's visual standards ahead of the new Songs of the Past expansion arriving next year. This will bring a beautiful new region to explore, dozens of hours of gameplay, and a story revolving around Geralt's musical pal Dandelion and family. Dom had a chance to see Songs of the Past at Gamescom and came away impressed.",
-          "image": "https://assetsio.gnwcdn.com/20260925144028_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324",
-          "title": "New Oblivion Remastered Patch Fixes What The Old Oblivion Remastered Patch Broke On Switch 2",
-          "published_at": "2026-10-13T17:15:29+00:00",
-          "kind": "press",
-          "text": "Bethesda Patch Switch 2 The Elder Scrolls IV: Oblivion Remastered Last month, Bethesda pushed out a small update for the Switch 2 version of The Elder Scrolls IV: Oblivion Remastered. This patch ended up making the open-world RPG look a lot worse. ( Tale as old as time… ) Now, a new update is out for Oblivion on Switch 2 that, according to Bethesda, resolves the issue it introduced to the game the last time it updated the port. In late September, a small update arrived for Oblivion Remastered . Nobody was expecting much from the tiny update besides some minor bug fixes. However, players quickly began documenting numerous visual issues with the RPG post-patch, including ghosting and everything looking blurrier than before. Things were so bad that some players didn’t let their copy update to avoid the visual downgrade. But things should be better now. An update for The Elder Scrolls IV: Oblivion Remastered on Nintendo Switch 2 has just released, resolving the global visual degradation issue discovered in the previous update. Thank you for your continued feedback and support! — Bethesda Game Studios (@BethesdaStudios) October 13, 2026 On October 13, Bethesda pushed out a new update for Elder Scrolls IV: Oblivion Remastered on Switch 2 and confirmed that it had fixed a “global visual degradation issue discovered in the previous update.” According to players who have downloaded the new update , Oblivion on Switch 2 indeed looks much better and more like it did before September’s patch borked everything up. Some are even suggesting it might be running a bit better than it ever did. Interesting. The patch is also reportedly bigger than some expected, making me wonder what Bethesda did in the first place to cause the visual issues. Regardless, it is now safe to download the latest patch for Oblivion on Switch 2. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Dozens of fresh fixes have arrived for the newest version of the open-world RPG Some of them are Amazon Prime deals, and won't last long Part one is an unrewarding slog, saved only by incredible characters Shuhei Yoshida says what most PS5 players are thinking",
-          "image": "https://kotaku.com/app/uploads/2025/05/6235f61a2f468a596e148f467ed6c22f-1200x675.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/",
-          "title": "The Witcher 3 Remastered Switch 2 Patch Is Officially 'On the Way'",
-          "published_at": "2026-10-14T09:48:30+00:00",
-          "kind": "press",
-          "text": "Switch 2 players won't have to wait too long for their patch All platforms except the Nintendo Switch 2 have received fixes for The Witcher 3 following the launch of the remastered version on Sept. 29. Fans have appreciated developer CD Projekt Red's commitment to make this free update to their award-winning game meet fans' expectations, but it seems that Switch 2 users had been left behind. Thankfully, the developers have given some insight into the highly anticipated Switch 2 update. On Oct. 9, CD Projekt Red released patch 5.01 for The Witcher 3: Wild Hunt Remastered . It included much-needed changes and fixes, such as improved performance and bloom, and additional visual customization options. While the update significantly improved the state of the game, it was exclusive to PC, PlayStation 5, and Xbox Series X/S, which meant Switch 2 players were stuck with any problems caused by the remastered patch. In the patch notes, CD Projekt Red assured fans that it was still working on a patch for the Switch 2, and that new information would be coming soon. Another patch rolled out for The Witcher 3 Remastered on Oct. 13. It was a small hotfix that increased stability and provided a better gameplay experience for players on PlayStation 5. Once again, Switch 2 players sat by as other platforms were prioritized. It wasn't surprising when CD Projekt Red announced the PS5 hotfix on social media, and the comments were flooded with unhappy Switch 2 players — especially considering that there are now more Witcher 3 players on Switch 2 thanks to the game duplication exploit affecting cartridge owners. CD Projekt Red was quick to reply to the disgruntled fans, letting them know that the update is \"on the way\" and that it \"should have more information for those playing on Nintendo Switch 2 very soon.\" This was a relief for many, as it reassured them that they wouldn't have to wait much longer to enjoy the game in a better state. According to the v5.01 patch notes , the Switch 2 update will include all the improvements made to other platforms and fix Switch-specific issues regarding image clarity and sharpness.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witcher-3-endings-guide-geralt-1.jpg?w=1600&h=900&fit=crop"
-        }
-      ]
-    },
-    {
-      "story_id": "24a365242f95dadc",
-      "title": "Sifu será lançado para Android e iOS em outubro; veja trailer do port",
-      "summary": "",
-      "owners": [
-        "gameblast",
-        "gematsu",
-        "nzn"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "490e8c23f5ae151d",
-        "9660fc03fc7ba2aa",
-        "26ca3310bb619b62",
-        "3dd6dc49d662fa8a"
-      ],
-      "sources": [
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/sifu-sera-lancado-para-android-e-ios-em-outubro-veja-trailer-do-port/",
-          "title": "Sifu será lançado para Android e iOS em outubro; veja trailer do port",
-          "published_at": "2026-10-12T18:15:00+00:00",
-          "kind": "press",
-          "text": "Sifu , jogo de artes marciais da Sloclap, será lançado para Android e iOS. A desenvolvedora anunciou a versão mobile do game, com estreia prevista para 12 de outubro deste ano. “A mesma ação, a mesma aura, a mesma atmosfera. Agora, na palma da sua mão”, anunciou a Sloclap no X. Na mesma publicação, a empresa anexou um trailer de gameplay da nova versão. A jogatina de Sifu no mobile parece ser idêntica à versão para PC e consoles, com os mesmos cenários, personagens e chefões – portanto, tudo indica que seja um port. No vídeo, são exibidos os botões virtuais adaptados para a tela touchscreen, que permitirão experimentar a porradaria mesmo sem um controle dedicado . Sifu é um jogo de artes marciais com combate rápido, em que o jogador acompanha o protagonista em uma jornada de vingança. O combate é cheio de combos interessantes e marcado pelo forte foco em parries e desvios. Porém, o que deixou Sifu mais relevante é o sistema de vidas. Durante as fases, cada morte do personagem principal não é necessariamente fatal, mas faz com que ele envelheça alguns anos – o que o deixa mais forte com o tempo, mas também mais frágil. O game over acontece quando o protagonista fica velho demais para retornar após uma derrota. Reconhecido jogo de artes marciais da Sloclap, Sifu foi lançado para PlayStation 4, PlayStation 5 e PC em fevereiro de 2022; chegou ao Nintendo Switch meses depois e, em 2023, foi lançado para Xbox One e Xbox Series X | S. O jogo já está listado na App Store e na Play Store. No iOS, vai custar US$ 7,99 (R$ 39,80, em conversão direta) ; no Android, o preço ainda não aparece na loja, mas já é possível fazer o pré-registro, que notifica o usuário quando o jogo estiver pronto para download. O jogo conquistou uma boa nota na análise do Voxl anos atrás . Ao longo do tempo, muito conteúdo foi adicionado ao game, incluindo novas arenas, cosméticos desbloqueáveis e mais desafios que estendem as horas de conteúdo. Quer ficar por dentro das novidades do mundo dos games? Acesse o Voxl e acompanhe as últimas notícias sobre Sifu , jogos mobile e lançamentos. Robô humanoide é apreendido após tentar assediar adolescente na Alemanha Gemini 4 Argon: Google libera sua IA mais poderosa para empresas e assinantes De onde veio o sinal de rádio captado pela primeira vez fora do Sistema Solar? Entenda Vazamento de dados do Grindr rende multa recorde de R$ 48,4 milhões à empresa publicitária 4 apps pagos estão de graça para baixar na Play Store; confira",
-          "image": "https://www.estadao.com.br/resizer/v2/O7ULKOAIVVOELGYWYKCYFZURYI.jpg?quality=80&auth=210f5f64f1fa8165d07f2dde511ba4ec711bdd898e7ad5db115312ba7d6c79b5&width=1200&height=630&focal=963,515"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/blind-descent-sera-lancado-acesso-antecipado-pc-2-dezembro.html",
-          "title": "Blind Descent será lançado em Acesso Antecipado para PC em 2 de dezembro",
-          "published_at": "2026-10-12T22:02:02+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/10/replaced-coming-to-android-on-december-8",
-          "title": "REPLACED coming to Android on December 8",
-          "published_at": "2026-10-13T14:20:51+00:00",
-          "kind": "press",
-          "text": "Publisher Atari and developer Sad Cat Studios will release atmospheric narrative-driven cyberpunk adventure game REPLACED for Android via Google Play on December 8, the companies announced. REPLACED first launched for Xbox Series and PC via Steam , Epic Games Store , Microsoft Store , and GOG on April 14. It is also available via Game Pass. Here is an overview of the game, via Atari: The mobile version is part of the Google Play Games program, offering seamless gaming across mobile, tablets, and PC via a single purchase. The Android version, ported by Poland-based studio The Knights of U, will allow a new audience to experience the same jaw-dropping cinematic visuals and immersive atmosphere that those players loved on its original PC and console release. REPLACED has been played by over 900,000 players across all platforms since its release in Spring 2026. REPLACED is a narrative-driven 2.5D platformer blending cinematic exploration with fluid, free-flow action. Immerse yourself in an alternate 1980s America reshaped by nuclear catastrophe and meet the downtrodden of Phoenix City as you struggle to survive. Soak up the game’s rich atmosphere as you walk the streets of Phoenix-City and become a part of the stories of the citizens you meet in this dark cyberpunk thriller. As you uncover the sinister secrets of Phoenix Corporation, REPLACED explores themes of humanity, identity, and control through morally complex characters and the slow reveal of a world pushed to its limits. Discover a haven for corruption where outlaws thrive and human life is traded like currency as R.E.A.C.H.—an AI trapped in a human body against its will. Expose the Corporation’s hidden agenda, and uncover the purpose behind your creation in a world where every secret—and every life—has a price.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/REPLACED-Android_10-13-26.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/replaced-sera-lancado-android-8-dezembro.html",
-          "title": "REPLACED será lançado para Android em 8 de dezembro",
-          "published_at": "2026-10-13T19:38:26+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "story_id": "4ceaf860868a5a79",
-      "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
-      "summary": "Haunted Chocolatier, the second game from Stardew Valley creator, Eric Barone, has been in development for more than five years, having been announced in October 2021. While there's no official word on the Haunted Chocolatier release date , Barone has been discussing the development of the game, including who it's for and more about the playstyle. In a recent interview with GQ , Barone said that...",
-      "owners": [
-        "fandom",
-        "keleops"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "2985b5787277794a",
-        "ce05e0eed89ae021"
+        "da6add89ffff7c4a",
+        "4e37279278dbf859",
+        "689c2e6175349d19",
+        "9155b8fa1c0c032d",
+        "e0c8b2c8ba85ce5b",
+        "ff406fcd444ea8fc",
+        "54cc05921296ef29",
+        "5c02816d1e3369ee"
       ],
       "sources": [
         {
           "name": "GameSpot",
           "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
-          "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
-          "published_at": "2026-10-12T11:09:52+00:00",
+          "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/",
+          "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
+          "published_at": "2026-10-14T10:43:11+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/concernedape-teases-more-action-rpg-gameplay-in-haunted-chocolatier-its-for-the-people-in-stardew-valley-that-go-into-the-mines-2000745296",
-          "title": "ConcernedApe Teases More Action-RPG Gameplay In Haunted Chocolatier: ‘It’s For The People In Stardew Valley That Go Into The Mines’",
-          "published_at": "2026-10-13T18:00:03+00:00",
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/gta-6-developer-rockstar-insists-its-next-game-wont-take-another-8-years-to-make",
+          "title": "GTA 6 Developer Rockstar Insists Its Next Game Won't Take Another 8 Years to Make",
+          "published_at": "2026-10-14T10:48:41+00:00",
           "kind": "press",
-          "text": "Action-RPG Haunted Chocolatier Stardew Valley Stardew Valleyâs mines have always been pretty polarizing. Some players love to grind them for endless challenge runs and min-maxing, while die-hard cozy gamers have sworn off them entirely, pledging to stick to farming and fishing and avoiding combat as much as possible. Thanks to a new interview, it now sounds like that former camp will be in luck whenever Haunted Chocolatier , the upcoming game from Stardew developer Eric âConcernedApeâ Barone, launches. In an interview with British GQ , Barone revealed that Haunted Chocolatier âis more of an action RPGâthe main focus is more about adventuring, finding equipment and getting more powerful. There are monsters, there are boss fights. It’s for the people in Stardew Valley that go into the mines.â Barone clarified that itâll still be what he refers to as a âtown game,â though, likely meaning itâll still revolve around the experience of settling into a new town and getting to know your neighbors as you build up your business. We already knew that Haunted Chocolatier was bound to have in-depth combatâearlier peeks at the game have shown off bosses, enemy-stunning shields, and other off-hand weapons. The game is also slated to have slightly darker themes, and now that Barone has cited David Lynch as an inspiration as well, Iâd count on things being a bit surreal. While speaking to GQ , Barone also briefly touched on the pressure heâs been facing to develop Haunted Chocolatier , which has been in the works for over four years now (that’s almost the same amount of time that Stardew was in development before its release). Barone has yet to announce a release window, likely because the game is set to be âway biggerâ than its predecessorâ¦somehow. âEveryone’s watching me, and if I don’t do things a certain way, it might disappoint millions of people,â he said. Iâm certainly willing to wait as long as Haunted Chocolatier might take to wrap, especially now that I know Iâll have plenty of combat to sink my sweet tooth into. The mines are probably my favorite part of Stardew (although they were definitely an acquired taste). They get pretty repetitive after a while, though, so Iâm excited to see what else Barone does to keep the action fresh in Haunted Chocolatier . Let’s just hope that those terrible spiral-shaped floors don’t make a return. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. S-Game is finally nearing the release of Phantom Blade Zero , and as part of previewing it one last time, I discovered this game has a whole lot of history Ocarina of Time 's Navi has some new competition for the title of most annoying NPC in a video game; the entire cast of Graveyard Keeper 2 The action-RPG sequel shows Remedy Entertainment isn't done pulling from its bag of refreshingly original tricks 'I'm going to be like a regular man and just go fishing' More and more games are figuring out that I don't want to have to remember where I left my high-quality copper",
-          "image": "https://kotaku.com/app/uploads/2026/10/haunted-chocolatier.jpg"
+          "text": "Rockstar has promised that its next game following GTA 6 won’t take as long to come out, although it failed to hint at what it might be. GTA 6 finally launches in November, eight years after the release of its last game, Red Dead Redemption 2. In a new report by Bloomberg detailing the challenges Rockstar has faced during GTA 6’s development, company leadership said whatever’s next won’t take as long because the work done for GTA 6 provides a foundation for following it up faster. “The engine, the tools and the team we’ve built during this project will allow us to do things more quickly,” Phil Hooker, co-head of development, said. “I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.” “We foundationally changed a lot of stuff on this project,” co-head of development Aaron Garbut added. “But now it’s done, and we’re not going to rip it apart.” The question fans have is, what will Rockstar’s next game be? Bloomberg compares the release of GTA 6 to GTA 3, in that the first 3D GTA game paved the way for the quickfire release of Grand Theft Auto: Vice City, which launched a year later in 2002. Could Rockstar soon follow GTA 6 with another GTA game, perhaps focused on another city? Many hope and expect Rockstar to make Red Dead Redemption 3, although Rockstar itself hasn’t indicated it has plans to do so. A year ago, Rockstar Games co-founder and former lead writer Dan Houser said RDR3 “will probably happen.” In 2023, Roger Clark, who played Arthur Morgan, the main playable protagonist of Red Dead Redemption 2, said he was “certain” fans would see Red Dead Redemption 3 “one day,” but qualified that statement by saying he had no idea when that would be. Clark also ruled out the return of Arthur Morgan in the game, should it come to be. If you’ve played Red Dead Redemption 2, this might seem like stating the obvious, but there’s always the chance Rockstar may consider another prequel of some kind. “I’m certain we will see Red Redemption 3 one day,” Clark said. “When that will be — I have absolutely no idea. Don’t count on Arthur’s involvement either. His story has been told, I feel.” In a subsequent interview with IGN , Clark expanded on his thoughts: “Yeah, that got really picked up! I would have thought that was obvious though. Wouldn’t you? And it’s not like I have any insider information whatsoever, but of course there’s going to be another Red Dead. It sold over 60 million copies!” He continued: “Strauss Zelnick, the CEO of Take-Two said it himself. He said GTA and Red Dead are prominent franchises for Rockstar Games and that they will be returning to them in the future. So there’s no doubt there will be another Red Dead. But if Arthur Morgan will be involved? I highly doubt it, to be honest. And I think it’s going to be quite some time before we even see a snifter of anything new Red Dead related. I have no idea how it would pan out, but I wouldn’t bet on Arthur being a part of it.” In April this year, Hollywood star Jack Black revealed the character he’d love to play in Red Dead Redemption 3 , should Rockstar make the game: Jack Black. In lieu of a Red Dead Redemption movie, which Black said he’d very much love to star in if the opportunity ever came his way, the Bowser actor would love to star in Red Dead Redemption 3. And it turns out there’s a character called Jack Black he’d love to play. \"Red Dead Redemption 2 takes place around the turn of the century, right?\" Black told Polygon while promoting The Super Mario Galaxy Movie . \"There was a character around that time named Jack Black, who wrote an autobiography called You Can't Win. I would kinda like to play Jack Black in Red Dead Redemption 3.\" Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
+          "image": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-vice-city-style-01-1791974913899.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "GamesIndustry.biz",
+          "owner": "ziff-davis",
+          "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
+          "title": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\"",
+          "published_at": "2026-10-14T12:26:32+00:00",
+          "kind": "press",
+          "text": "Team has more than doubled since Red Dead Redemption 2's launch in 2018, with over 4,000 working in development and QA Rockstar Games has more than doubled its workforce to develop Grand Theft Auto 6, and is adamant that it won't take another eight years to complete its next title. In a wide-ranging interview with Bloomberg , Rockstar senior leadership said that when Red Dead Redemption 2 launched in 2018, the studio had 2,441 employees. By 2026, Rockstar employed 4,711 staff across 12 offices. Of these, 4,020 work in development and QA, while 690 are in publishing. Rockstar's leadership stated that future games will be developed more quickly, as GTA 6 \"is a foundation upon which they can build new content at a faster pace.\" \"The engine, the tools and the team we've built during this project will allow us to do things more quickly,\" said co-head of development Phil Hooker. \"I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.\" GTA 6 was first announced in 2023 with a planned 2025 release . The launch was postponed to May 26, 2026 , and later rescheduled to its current date, November 19 . Rockstar's head of publishing Jennifer Kolbe recalled informing Take-Two CEO Strauss Zelnick about both delays. \"I think he said, 'You're kidding. Please tell me you're kidding.' But once we talked through why, he got it.\" \"And I think we are really lucky that he is as reasonable as he is, because a lot of people would say, 'You'd just better figure out how to ship it.' And we have been really, really lucky that we have not found ourselves in that place, because that happens to a lot of teams, and we've all played those games. It's not great.\" Zelnick previously told GamesIndustry.biz that he wasn't \"in the least\" bit worried about the impact that delays could have on the business. \"As you know, occasionally across our entire company, including 2K and our mobile business, at times more time is required to polish a title to ensure that it's released in its best possible form. And of course it'll release in the same fiscal year as the prior date.\" \"At the end of the day it's our responsibility to do the right thing for our consumers, and that means delivering the best possible entertainment experience.\" Elsewhere in the interview, the topic of leaks was addressed. Rockstar was hit with its first set of leaks in September 2022 , which were caused by a \"network intrusion\" and resulted in 90 in-development video clips of the game being shared. \"It feels like somebody's wading through your dirty washing. It's like they're inside your head,\" said Rockstar North co-head Aaron Garbut. \"You see your early work out there. Nobody's ever supposed to see that. It's really weirdly invasive. And so it's quite hard to deal with on an emotional level.\" Security at Rockstar was heightened as a result, leading to the elimination of remote work in April 2024 . \"The idea that we would have the game in that many environments is something that I think the security team would not love,\" said Kolbe. \"I think if we did not have a game that people wanted to steal as much, maybe it would be an easier conversation.\" The developer is currently addressing another set of leaks from a hacker group that appears to possess a build of the game. The group began circulating footage in August . Earlier this week, the group released additional footage and threatened to leak the full build, including the story mode, if Rockstar's parent company, Take-Two Interactive, does not comply with its demands.",
+          "image": "https://assetsio.gnwcdn.com/gta-lucia-jason-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-took-13-years-but-gta-7-wont-rockstar-says-the-tools-and-the-team-weve-built-during-this-project-will-allow-us-to-do-things-more-quickly-in-the-future/",
+          "title": "GTA 6 took 13 years, but Rockstar says GTA 7 won't",
+          "published_at": "2026-10-14T10:46:39+00:00",
+          "kind": "press",
+          "text": "Although GTA 6 has taken a whopping 13 years to come to fruition following Grand Theft Auto 5, Rockstar promises that shouldn't be the case with GTA 7 or any other future projects, as it's got everything it needs to get 'em out more quickly. Phil Hooker, technical director at Rockstar, tells Bloomberg as much during a new interview, explaining that the foundation developers have built while creating GTA 6 – an entry that's arriving over a decade after predecessor GTA 5 launched back in 2013 – will help them work more efficiently on any future projects, like Grand Theft Auto 7. They've got a solid team, engine, and \"tools\" to use, after all, as Hooker says. \"The engine, the tools and the team we've built during this project will allow us to do things more quickly,\" he describes. \"I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.\" Artist Aaron Garbut agrees, chiming in, \"We foundationally changed a lot of stuff on this project – but now it's done, and we're not going to rip it apart.\" And, honestly, why would they? There's no telling what \"things\" Rockstar will do \"more quickly,\" whether that's GTA 7 or a smaller spin-off like Vice City, which was created in under a year after GTA 3 itself, but it's good news regardless. The wait between Grand Theft Auto games has been a gruelling one, to say the least, marred by widespread layoffs and delays, so hearing that we might not have to witness another like it comes as a welcome report. Here's hoping this all rings true and GTA 7 – or whatever Rockstar has up its sleeve after GTA 6 – arrives in under a decade, or perhaps even five years… but I might be jumping the gun, considering how huge the new Grand Theft Auto seems. GTA 6 is coming to PC in just a few months according to new report, with Rockstar moving much faster than it did with GTA 5 and Red Dead Redemption 2 Weekly digests, tales from the communities you love, and more After spending years with her head in various fantastical realms' clouds, Anna studied English Literature and then Medieval History at the University of Edinburgh, going on to specialize in narrative design and video game journalism as a writer. She has written for various publications since her postgraduate studies, including Dexerto, Fanbyte, GameSpot, IGN, PCGamesN, and more. When she's not frantically trying to form words into coherent sentences, she's probably daydreaming about becoming a fairy druid and befriending every animal or she's spending a thousand (more) hours traversing the Underdark in Baldur's Gate 3. If you spot her away from her PC, you'll always find Anna with a fantasy book, a handheld video game console of some sort, and a Tamagotchi or two on hand. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/cHsymK6EjRzsMKSCatzjiA-2000-80.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/",
+          "title": "Rockstar says its next game after Grand Theft Auto 6 won’t take another eight years to make",
+          "published_at": "2026-10-14T10:57:10+00:00",
+          "kind": "press",
+          "text": "The engine, tools and team built during GTA 6 will make the next project “go more sideways than upwards” Rockstar says the next game it works on after Grand Theft Auto 6 won’t take another eight years to make. When GTA 6 is released on November 19, it will be the studio’s first major new single-player release since Red Dead Redemption 2 , which arrived on PS4 and Xbox One in October 2018. Players may be worried that with games getting increasingly more expensive and time-consuming to make, and with Rockstar ‘s trademark, attention to detail, it may be well into the 2030s before its next title arrives, whether that be a new Red Dead Redemption game or something else. In a new interview with Bloomberg , however, studio heads Phil Hooker and Aaron Garbut say the wait for Rockstar’s next game won’t be as long as the wait for GTA 6. According to the pair, the technology created for this game, as well as the team that was formed to work on it, will carry over to the next project, which should reduce development time. “The engine, the tools and the team weâve built during this project will allow us to do things more quickly,” Hooker said. “I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.” Garbut added: “We foundationally changed a lot of stuff on this project. But now itâs done, and weâre not going to rip it apart.” The publication likens this to the release of Grand Theft Auto Vice City, which was released just one year after Grand Theft Auto 3 because all the groundwork had been laid while developing that game. There’s certainly no suggestion, however, that Rockstar’s next game will arrive anywhere near that soon. Elsewhere in the interview, Garbut said GTA 6 will be the culmination of everything Rockstar has learned up to this point, including staff who have been at the studio for decades. “The last 30 years has been practice for where we got to here,”, he explained. “The team and us as individuals have been doing it for so long that thereâs a sort of shared understanding, shared knowledge and a sort of shortcut to questions.” Earlier this week it was reported that Rockstar is planning to release the PC version of Grand Theft Auto 6 at some time before the end of March 2027. GamesBeat cited four separate industry sources, all of whom are said to be familiar with Rockstarâs plans but all of whom requested to be kept anonymous to avoid damaging their relationship with the studio. Rockstar has yet to officially confirm a PC version.",
+          "image": "https://www.videogameschronicle.com/files/2026/09/gta-6-pic1.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/rockstars-next-title-wont-take-as-long-as-gta-6-to-develop/",
+          "title": "Rockstar’s Next Title Won’t Take As Long As GTA 6 To Develop",
+          "published_at": "2026-10-14T12:00:00+00:00",
+          "kind": "press",
+          "text": "Rockstar Games is one of the biggest names in the gaming industry, but there’s no denying that new releases from the studio have become few and far between. Red Dead Redemption 2 launched eight years ago, while the gap between Grand Theft Auto 5 and GTA 6 has stretched to more than a decade. However, a new interview with Rockstar’s studio heads suggests that future projects may not take nearly as long to develop. According to the developers, the work put into GTA 6 has established the foundations needed to make future development cycles faster and more efficient. In a recent interview with Bloomberg , several Rockstar studio heads discussed the development of Grand Theft Auto 6, reflecting on the challenges the team faced and the lengthy journey to get the game ready for release. The process wasn’t always smooth sailing, with some early development periods described as a “dark period” for the studio. Uncertainty surrounding the game’s vision, combined with the significant disruption caused by the pandemic and leaks , made an already ambitious project even more challenging. However, Rockstar believes that the time invested in GTA 6 could pay dividends for its future releases. Phil Hooker, one of the project’s leads, explained that the tools, technology, and team assembled during development should allow the studio to work more efficiently moving forward. “The engine, the tools and the team we’ve built during this project will allow us to do things more quickly,” Hooker said, adding that he was confident Rockstar could “build on top of this and go more sideways than upwards to build more compelling content.” This approach is reminiscent of Rockstar’s earlier development cycles, particularly Grand Theft Auto 3 and Vice City. The latter was released just a year after GTA 3, benefiting from much of the groundwork already being in place rather than requiring the studio to start from scratch. Aaron Garbut, another Rockstar studio head, echoed this sentiment, explaining that the team had made significant foundational changes during GTA 6’s development . “We foundationally changed a lot of stuff on this project, but now it’s done, and we’re not going to rip it apart,” Garbut said. While this doesn’t guarantee that Rockstar’s next game will arrive within a specific timeframe, it suggests the studio is better positioned to build upon its existing technology rather than repeat the same lengthy process. For fans, that could mean a shorter wait between future releases, although Rockstar has yet to reveal what its next project might be. What title do you hope Rockstar develops after GTA 6? Let us know on the Insider Gaming Discord server . For more Insider Gaming, read about the future of EA Sports College Football being in jeopardy , and don’t forget to sign up for our weekly newsletter . Charlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for him, he enjoys every video game genre out…",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/09/GTA6BrianHeder-scaled.webp"
+        },
+        {
+          "name": "The Verge Games",
+          "owner": "vox-media",
+          "url": "https://www.theverge.com/games/1011028/next-gta-faster-development",
+          "title": "We might not have to wait 13 years for the next GTA",
+          "published_at": "2026-10-14T13:42:29+00:00",
+          "kind": "press",
+          "text": "Rockstar’s Phil Hooker says the engine and tools that the team has built ‘will allow us to do things more quickly.’ Rockstar’s Phil Hooker says the engine and tools that the team has built ‘will allow us to do things more quickly.’ Rockstar Games might not keep fans waiting as long for the next installment of Grand Theft Auto . As part of Bloomberg ’s expansive report on the making of GTA VI , Rockstar technical lead Phil Hooker said that the “engine, the tools and the team we’ve built during this project will allow us to do things more quickly.” GTA VI had a notoriously long development process. It took eight years to make, leaving a 13-year gap between this upcoming installment and GTA V . The report points to the one-year gap between Grand Theft Auto III and Grand Theft Auto: Vice City , which was possible because Rockstar already had the framework in place for its next project. “I feel confident that we can build on top of this [ GTA VI ] and go more sideways than upwards to build more compelling content,” Hooker told Bloomberg . There were several other interesting details in the report as well, including: GTA VI launches on November 19th on the PlayStation 5 and Xbox Series X | S.",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jason_Duval_02.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/gta-6-rockstar-8-years-grand-theft-auto-7/",
+          "title": "Rockstar Promises Its Next Game Won’t Take Another 8 Years",
+          "published_at": "2026-10-14T14:17:18+00:00",
+          "kind": "press",
+          "text": "The wait for Grand Theft Auto 6 has been a long one for fans of the series, with more than a 13-year gap since Grand Theft Auto 5 . Even accounting for the fact that Rockstar had to complete the similarly massive Red Dead Redemption 2 before fully focusing on the next entry in its crime saga, it’s still been eight years since Rockstar North released that game. For context, the studio previously released Grand Theft Auto 3 , Vice City , San Andreas , and Grand Theft Auto 4 with a much smaller staff over a span of seven years. Rockstar leadership seems well aware of how slow things have been. In a new making-of feature on Grand Theft Auto 6 from Bloomberg , higher-ups at Rockstar have vowed that their next game won’t take eight years to come out. “The engine, the tools and the team we’ve built during this project will allow us to do things more quickly,” said Phil Hooker, co-head of development on Grand Theft Auto 6 . “I feel confident that we can build on top of this and go more sideways than upwards to build more compelling content.” “We foundationally changed a lot of stuff on this project,” added Rockstar North co-head Aaron Garbut. “But now it’s done, and we’re not going to rip it apart.” Other tidbits from the article put the sheer scale of the game’s development into perspective. When Red Dead Redemption 2 launched in 2018, Rockstar had 2,441 employees. By 2026, the studio employed 4,711 staff across 12 offices, 4,020 of whom are in development and QA. As such, the game is likely one of the most expensive video games ever made , although the company denied the rumor that GTA 6 cost more than $1.5 billion to make. The Bloomberg article adds additional context for why GTA 6 had such a long development cycle . At one point, Garbut explained that designing a single nightclub involved animating and scripting each individual clubgoer, then adding drinks, music, and lighting with “layers and layers and layers of detail” to make the backdrop feel as real as possible. “And now you understand why it took so long,” said Jennifer Kolbe, Rockstar’s head of publishing. GTA 6 has become a stand-in for troubling trends in modern game development where increasing technical fidelity and massive worlds have led to inflated budgets and lengthy development cycles. Despite Rockstar’s recent pledge to shorten the wait for its next game, as the Bloomberg article notes, the studio previously believed the same about GTA 6 after Red Dead Redemption 2 's five-year development cycle . Hopefully, it won't take until the mid 2030s to play the team's next project. Grand Theft Auto 6 will be released on Nov. 19 for PlayStation 5 and Xbox Series X. A PC version of the game is reportedly coming in 2027.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg?w=1600&h=900&fit=crop"
         }
       ]
     },
     {
-      "story_id": "14b38941863d32bf",
-      "title": "5 jogos exclusivos de PS5 que você não pode perder",
-      "summary": "Astro Bot, Demon’s Souls, Ghost of Yōtei e outros títulos mostram algumas das experiências que continuam associadas ao console da Sony O post 5 jogos exclusivos de PS5 que você não pode perder apareceu primeiro em Olhar Digital .",
+      "story_id": "3a04c6ef73eb144d",
+      "title": "The Legend of Zelda: Ocarina of Time Remake Is Surprisingly More Different Than You Think | IGN Preview",
+      "summary": "The Legend of Zelda: Ocarina of Time is far from a 1:1 remake. When I played it, I found familiar rooms containing redesigned challenges that change how the world and player function. I spoke to old friends who had new things to say that added texture to Hyrule and its people. And, I unpacked how its updated controls and detailed art design redefine its old-school combat and puzzle solving for...",
       "owners": [
-        "nzn",
-        "olhar-digital"
+        "gematsu",
+        "valnet",
+        "vox-media",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "125959b51d6d862f",
-        "44aa013742ea4a4c"
+        "73849f8fe1084ad7",
+        "9c794e89596e39ff",
+        "9d85843f34d25733",
+        "565d47cb411478dc",
+        "1b1e090351a2ddd2"
       ],
       "sources": [
         {
-          "name": "Olhar Digital Games",
-          "owner": "olhar-digital",
-          "url": "https://olhardigital.com.br/2026/10/12/games-e-consoles/5-jogos-exclusivos-de-ps5-que-voce-precisa-jogar-em-2026/",
-          "title": "5 jogos exclusivos de PS5 que você não pode perder",
-          "published_at": "2026-10-12T13:00:00+00:00",
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-more-different-than-you-think-ign-preview",
+          "title": "The Legend of Zelda: Ocarina of Time Remake Is Surprisingly More Different Than You Think | IGN Preview",
+          "published_at": "2026-10-14T13:00:00+00:00",
           "kind": "press",
-          "text": "Com cada vez mais jogos da PlayStation chegando ao PC, falar em “exclusivos de PS5” ficou um pouco mais complicado. Títulos como Marvel’s Spider-Man 2 , God of War Ragnarök e Horizon Forbidden West , por exemplo, já podem ser encontrados fora do console. Ainda assim, o PS5 mantém jogos que permanecem ligados à plataforma e ajudam a mostrar diferentes lados do catálogo da Sony . De plataformas a RPGs difíceis, passando por grandes aventuras de mundo aberto, separamos cinco títulos para conhecer. Depois de Astro’s Playroom apresentar gratuitamente algumas das possibilidades do DualSense, Astro Bot transformou a ideia em uma aventura completa. O jogo de plataforma coloca o pequeno robô da PlayStation em dezenas de fases, com mecânicas que mudam constantemente e referências a diferentes momentos da história dos consoles da Sony. O destaque está justamente na variedade. Cada mundo apresenta ideias próprias, enquanto recursos como resposta tátil e gatilhos adaptáveis são incorporados à jogabilidade. Para quem acabou de comprar um PS5, é uma das melhores portas de entrada para entender o que o hardware pode oferecer além de gráficos melhores. O remake de Demon’s Souls , desenvolvido pela Bluepoint Games, reconstruiu o RPG lançado originalmente para PS3 e ajudou a apresentar o potencial técnico do PS5 logo no início da geração. A estrutura, porém, continua bastante fiel ao original. O jogador precisa explorar áreas perigosas, enfrentar inimigos capazes de puni-lo rapidamente e aprender com cada derrota. É uma experiência exigente, mas que recompensa observação, paciência e domínio dos sistemas de combate. Também é uma boa escolha para entender as raízes da fórmula que posteriormente ajudaria a popularizar jogos como Dark Souls e Elden Ring . Ghost of Yōtei leva a fórmula apresentada em Ghost of Tsushima para uma nova história, ambientação e protagonista. Desta vez, acompanhamos Atsu em uma jornada pelo Japão do século XVII, com exploração, confrontos e uma narrativa de vingança no centro da experiência. Um ano após o lançamento, o game também ganhou uma Edição Completa, reunindo a campanha principal, o multiplayer Legends , o modo roguelike Mais Procurados e a expansão narrativa Ecos de Sekigahara . Para quem procura uma aventura extensa no PS5, é uma das opções mais completas atualmente. A Insomniac Games trocou o Homem-Aranha por outro herói da Marvel em Marvel’s Wolverine . O jogo acompanha Logan em uma aventura mais violenta e coloca as famosas garras do personagem no centro de um sistema de combate pensado para transmitir sua força e agressividade. O título também funciona como uma das grandes vitrines da geração do PS5. Para quem gostou do trabalho da Insomniac com Marvel’s Spider-Man , Wolverine é uma escolha natural, mas com identidade própria e uma proposta de combate bem diferente das aventuras de Peter Parker e Miles Morales. James Bond também ganhou uma nova interpretação nos videogames com 007 First Light . Desenvolvido pela IO Interactive, de Hitman , o título apresenta uma versão mais jovem do agente antes de se tornar o famoso 007. A proposta combina espionagem, infiltração, ação e diferentes maneiras de resolver situações, aproveitando a experiência do estúdio com ambientes que oferecem múltiplas possibilidades ao jogador. Para quem gosta de jogos de espionagem, é uma alternativa que foge um pouco dos tradicionais mundos abertos e aventuras de super-heróis. A estratégia da Sony mudou ao longo dos últimos anos, e exclusividade passou a ser um conceito menos definitivo. Jogos que começam restritos ao PlayStation podem posteriormente receber versões para outras plataformas, especialmente PC. Por isso, mais importante do que montar uma biblioteca pensando apenas no selo de “exclusivo” é observar quais experiências fazem sentido para quem tem o console. Astro Bot , Demon’s Souls , Ghost of Yōtei , Marvel’s Wolverine e 007 First Light representam gêneros bastante diferentes e ajudam a mostrar a variedade disponível no PS5. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
-          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/10/Montagem-Minimalista-Estilo-Steam-1-1.png"
+          "text": "Taking my first steps out of Link’s treehouse and into Kokiri Forest, The Legend of Zelda: Ocarina of Time remake came to life. Zelda series producer Eiji Aonuma described this as a “faithful interpretation” of the Nintendo 64 original , and that term stuck with me as I explored Hyrule for more than an hour. This is far from a 1:1 remake: I found familiar rooms containing redesigned challenges that change how the world and player function. I spoke to old friends who had new things to say that added texture to Hyrule and its people. And, I unpacked how its updated controls and detailed art design redefine its old-school combat and puzzle solving for the modern day. This remake isn’t about scope; it’s about depth. The Zelda series is full of old stories, and the Ocarina of Time remake presents itself as a legend retold, with clear theatrical inspirations that have completely changed how I’m approaching it. First, a quick word about spoilers. I know some of you have never played the N64 game, meaning Ocarina of Time will be a wholly new experience. So, I’m only going to talk about explicitly what I saw in the three chunks I played during the preview. Two sections were split across the first 90-ish minutes of the adventure, while the third and largest section was set in the first dungeon you play as Adult Link, which happens at roughly the one-third mark of the story. So, there will be no spoilers for anything outside of what Nintendo chose to show us. Back to Kokiri Forest. Not counting last-gen upgrades or spinoffs, this is the series’ proper Nintendo Switch 2 debut, and the leap forward in quality immediately drew me in. Rays of light poke through the trees; moss and mushrooms thrive on the withered bark; our hero’s tunic is decorated with handwoven flourishes – and it’s all running at a crisp 60 fps. A pleasant musical performance recreates the forest’s original MIDI theme with what sounds like just a handful of real musicians. Hyrule has never felt more intimately realized than this. That applies to the dialogue as well. Later, a Castle Town citizen gawks at Link’s outfit, treating him as some foreign outsider from the distant forest: “Intricate stitching that implies the whole ensemble is handmade!” he excitedly says. The forest’s shopkeeper apologizes to Link for his empty shelves, blaming the stubborn Kokiri ringleader Mido for blocking the path to the Great Deku Tree, where the staff goes to restock. No matter how hard I try to juke Mido, he won’t let anyone pass without a sword and a shield. Here, the remake shows its willingness to change up Ocarina’s level design. After crawling to the secret area that contains the Kokiri Sword, I find that the challenge to reach it has been overhauled. The treasure chest used to be tucked away in the back corner of a maze with a giant boulder – now it’s perched on a high platform in the center of the room, with the boulder rolling around it. The fact that it’s different is interesting on its own, but the way this change impacts what this room is now asking of you reveals a lot. On N64, this obstacle was about learning to recenter the camera behind Link by tapping Z to see around corners and avoid the boulder. It was teaching you how to play one of the first 3D action-adventure games ever made. This remake no longer carries that burden, and that lesson is unnecessary since the right stick provides complete camera control. Instead, since Link can now jump at the press of a button, this room marks the first time you are required to jump in order to reach the treasure. It stripped out an obsolete tutorial and replaced it with a newly relevant one. My hour in Ocarina was stuffed with nuanced differences like this. I’m fully equipped now that I have the sword and shield, and Link feels excellent to control. His movement felt immediately familiar to Link in Breath of the Wild and Tears of the Kingdom, with a dash, a jump, and snappy third-person gyro aiming with projectile-based weapons like the slingshot. I was running, leaping, and sniping spiders like a pro in the first dungeon, Inside the Great Deku Tree. I worked my way to the area I was most looking forward to seeing. Ever since Aonuma’s gameplay demonstration, I’ve been interested in Ocarina’s apparent fascination with a more logically constructed world . As seen in one room of Inside the Great Deku Tree, a floating platform from the N64 game has been replaced by a crumbling bridge that’s now actually built into the environment. I came in with the idea that the remake cares about explaining every element of its world, and my preview session only reinforced that theory. I was on the lookout for more instances of this in the Forest Temple. Atmospheric fog blankets the ground in this old, haunted mansion where Adult Link hunts down four ghosts. After two open-world 3D Zeldas that largely took a break from the franchise’s traditional dungeons, it felt great to push blocks around, navigate through twisted hallways, and collect small keys. I was reminded of how classic Zelda design welcomes different types of logic and reasoning than Breath of the Wild and Tears of the Kingdom’s open-ended approach. While the Forest Temple’s overall layout was mostly unchanged, it included new cutscenes that fleshed out the dungeon’s antagonists, and yet again showed differences in how specific moments played out. An arena where Link fights a Stalfos used to have a giant hole in the middle. Link needed to avoid it or risk falling to the floor below, but the Stalfos could defy gravity and hover over the gap. You could explain it away as part of this dungeon’s supernatural trickery, but it always looked out of place to me. Here, that hole has been exchanged for a shallow pool of acid. The skeleton enemies can still walk in it – they don’t have any flesh to lose – while Link takes damage if he enters it. This means the fight plays out the same as it used to: the Stalfos has access to the whole room while Link is constrai",
+          "image": "https://assets-prd.ignimgs.com/2026/10/13/thelegendofzelda-ocarinaoftimeremake-preview-blogroll-1791928627826.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/overdrive-loja-pirata-traz-mais-de-1000-jogos-gratis-para-o-ps5-em-versao-desbloqueada/",
-          "title": "Loja pirata traz mais de 1 mil jogos grátis para o PS5 em versão desbloqueada, mas pode dar ban",
-          "published_at": "2026-10-13T17:07:00+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl",
+          "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake",
+          "published_at": "2026-10-14T13:00:00+00:00",
           "kind": "press",
-          "text": "Um novo aplicativo chamado Overdrive foi lançado recentemente para o PlayStation 5 desbloqueado e permite baixar jogos e conteúdos adicionais (DLCs) sem custos. A ferramenta funciona como uma loja digital alternativa para consoles que passaram pelo processo de desbloqueio, violando diretrizes da PlayStation Store. A novidade surge em meio a relatos sobre novas possibilidades abertas pelo jailbreak do PS5. Nas últimas semanas, usuários também demonstraram recursos como a execução de discos de PlayStation 2 no console atual . Vídeos publicados recentemente nas redes sociais mostram o funcionamento do Overdrive e uma biblioteca com mais de mil jogos. Como a ferramenta está associada à pirataria, certamente que os downloads não estão autorizados pelas detentoras dos direitos dos títulos. O Overdrive funciona como uma loja instalada diretamente no PS5 desbloqueado. Por meio da interface, os usuários podem navegar pelo catálogo e selecionar jogos para baixar, sem que a listagem apresente preços. Em vez dos valores normalmente exibidos nas lojas digitais oficiais, a interface mostra informações como o tamanho dos arquivos e a classificação indicativa dos títulos. O aplicativo, portanto, oferece uma experiência semelhante à de uma loja convencional, mas voltada à distribuição não autorizada de jogos. Entre os jogos exibidos nos vídeos estão Battlefield 6 , 007: First Light , Forza Horizon 5 e Black Myth: Wukong . Apesar da quantidade de jogos disponíveis, o funcionamento do Overdrive depende de um console compatível com o desbloqueio. A instalação também não representa uma alternativa oficial à PlayStation Store, e o download de jogos protegidos por direitos autorais sem autorização pode configurar violação de propriedade intelectual. Ou seja, assim como desbloquear o PS5, baixar a loja pode gerar banimento da conta da PSN e do console. Além da distribuição de jogos, o PS5 desbloqueado também recebeu uma ferramenta relacionada ao Xbox Cloud Gaming, serviço de jogos em nuvem da Microsoft. Segundo uma reportagem do WccfTech , o cliente nativo se chama PSXBOX e permite acessar e transmitir títulos no console da Sony. A ferramenta oferece streaming em resolução de até 1080p a 60 quadros por segundo. O cliente também é compatível com o controle DualSense, permitindo utilizar os recursos do acessório durante as partidas. O PSXBOX inclui ainda um menu acessível durante os jogos, com estatísticas e configurações de imagem, resolução de transmissão e opções de upscaling. O funcionamento depende do desbloqueio do console e do acesso ao serviço de jogos em nuvem. O desbloqueio do PlayStation 5 também vem abrindo espaço para projetos de emulação. Entre eles está o PS5CEMU-HAR, ferramenta que adapta emuladores de Wii U e Nintendo 3DS ao console da Sony e permite executar The Legend of Zelda: Breath of the Wild em 4K a 30 FPS . O projeto reúne os emuladores Cemu, voltado a jogos de Wii U, e Azahar, destinado a títulos de Nintendo 3DS. A renderização utiliza a API gráfica Vulkan por meio de uma versão do driver RADV adaptada para o PS5, com suporte ao DualSense. Segundo a descrição do projeto, a ferramenta integra os dois emuladores em uma estrutura própria. “Ele reúne dois emuladores, ambos renderizando com Vulkan através da versão para PS5 do driver RADV feita por Mihawk e executados com o DualSense”, afirma a documentação. No caso do Cemu, o sistema também oferece recursos como renderização em 3840 x 2160, filtros de upscaling, suporte a telas de 120 Hz e pacotes gráficos criados pela comunidade. A compatibilidade e o desempenho variam conforme o jogo e a versão do sistema utilizada. Vale ressaltar que a Sony já corrigiu o exploit que permite desbloquear o PS5 usando o método Relapse, que permite o uso de lojas como o Overdrive e emulação de jogos. No entanto, a solução ainda roda em consoles que não tiveram o firmware atualizado. Ainda assim, para o usuário comum, a dica é ficar longe de soluções como essa, que podem render banimento e até inutilizar o console. O VOXL também ressalta que é contra toda forma de pirataria de games e aconselha jogadores a evitarem processos que podem render violações de direitos autorais. Você acha que o desbloqueio do PS5 e a facilidade de acessar jogos piratas podem mudar o cenário do console? Conte sua opinião nas redes sociais do Voxl ! Robô humanoide é apreendido após tentar assediar adolescente na Alemanha Gemini 4 Argon: Google libera sua IA mais poderosa para empresas e assinantes De onde veio o sinal de rádio captado pela primeira vez fora do Sistema Solar? Entenda 4 apps pagos estão de graça para baixar na Play Store; confira Obesidade + Envelhecimento: uma Bomba para o SUS",
-          "image": "https://www.estadao.com.br/resizer/v2/ZBWVSPXCNBMM5ESUIRSFM73LME.jpg?quality=80&auth=ef13d7b97f8f7d88b08b45132519125133f0a001afb0967b01e11ca4d44cf093&width=1200&height=630&smart=true"
+          "text": "It looks like the owl known Kaepora Gaebora - part-tutorial, part-tip giver - will be far less talkative in the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time . Who is the most dangerous monster you face in Ocarina of Time ? 'Ganondorf' you'll surely answer. Wrong. 'Koume and Kotake', you might offer. After all, they raised Ganondorf and set him down his evil path. Incorrect. 'Okay, then it must be the Shadow Temple boss, the dastardly Bongo Bongo'. You fool. The most vicious villain can only be Kaepora Gaebora, the owl. Sure, he appears helpful. Some might even say he's secretly Rauru, Sage of Light, but show me the evidence! (So I can ignore it). You might even use the lift he offers down Death Mountain to excuse his overly long explanations, but, never forget, always beware owls bearing free flights. Seriously, think about it. What's the best, sneakiest, way to slow down the Hero of Time? A monster ambush? You can easily slay those beasts with a few sword slashes. But being captured in a one-sided conversation… one that forces you to slam the A button - because you already know how the map works and definitely know where you're going - only to suddenly be asked whether you want to hear all of that guff again… Of course you don't. Who would? But you've already hit A so you're going to hear it again and again and again. Slowly the edges of your soul begin to tatter and, with every loose thread, your desire to escape wanes until you simply give up. All that remains is one very smug owl. I know I'm not the only person that's been trapped in an endless circle of 'Did you get all that?' at the behest of this cursed avian. But it seems our collective suffering is at an end. During my preview of the Ocarina of Time Switch 2 remake, I was very, very, worried about meeting the owl. I only had 15 minutes to explore both Hyrule Field and Hyrule Castle Town. A small amount of time which could easily get cut even shorter if I made one bad decision. I could feel Kaepora Gaebora circling above me as if I was a field mouse and he, well, an owl. When the time came, I took a deep breath. I would pay attention. I would not fall for his 'yes means no, no means yes' trap. Not this time. Yet the damned owl surprised me: the conversation was short. Pleasant even. Not a single mention of the map was made and, before I knew it, the owl was flying away. I can't say whether the owl's incessant talking has been cut down in other points in the game, but it would track with the other quality-of-life changes made to Ocarina of Time in this remake. (There's an Ocarina of Time preview waiting for you if you'd like to learn more. Nudge, nudge, wink, wink.) What we do know is that he's been fitted with a new design and, thanks to the game's trailer, will still offer flights from Lake Hylia. For now, we'll just have to wait until the remake is released on 5th November to learn exactly how talkative the owl actually is.",
+          "image": "https://assetsio.gnwcdn.com/owl-ocarina-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "The Verge Games",
+          "owner": "vox-media",
+          "url": "https://www.theverge.com/games/1010101/zelda-ocarina-of-time-remake-switch-2-preview-hands-on",
+          "title": "The Ocarina of Time remake feels remarkably modern — and surprisingly terrifying",
+          "published_at": "2026-10-14T13:00:00+00:00",
+          "kind": "press",
+          "text": "New tech and gameplay improvements make it easier to get into Nintendo’s defining title. New tech and gameplay improvements make it easier to get into Nintendo’s defining title. With its upcoming remake for the Switch 2, Nintendo might have nailed the best thing about The Legend of Zelda: Ocarina of Time : its timelessness. The 1998 3D action adventure game for the Nintendo 64 that pioneered so much — 3D graphics, movement, exploration, openness — has been reengineered with changes that make it feel more modern, and surprisingly terrifying at times. Based on my early hands-on time with the game, it’s shaping up to be the best-looking, best-playing version of the game that addresses the most frustrating aspects of playing the original. More than just sanding off its roughest edges, Nintendo also fitted Ocarina of Time with modern trappings to make it more welcoming to those who were introduced to Zelda through more modern releases, like Breath of the Wild . The remake has a new progression marker, called Threads of Time, that’s viewable when you pause. It also has Zelda Notes integration within the Nintendo Switch app to let you view game maps and other info on your phone. Oh, it also has a dedicated jump button. I spent around 90 minutes during a recent preview event in New York City playing through some chunks of the game, including when you first take control of Child Link, and later on after you yank the Master Sword in the Temple of Time to become Adult Link. Its story still makes it a standout Zelda title, and the improvements make it even easier to get immersed in. In some ways, the remake feels similar to modern Zelda games. Link is snappy to control, and lock-on combat is engaging. Swapping between items and weapons no longer requires hopping into the pause menu, as it did in the original. Holding a shoulder button halts the action, and you can navigate with an analog stick to find what you want in near-realtime. However, it’s an adventure on a much smaller scale; the complexity of your quests, and the tools at your disposal for combat and getting around are simpler, but no less fun. All of the sections I played were truncated, though I left feeling confident that Nintendo nailed this remake. My favorite section was the Forest Temple, which really shows off the more realistic art style. It can finally portray the game’s horror themes in ways that weren’t possible 28 years ago. For example, Link traverses rooms in the dungeon that have red stained glass windows, and as he passes through beams of light, he is cast in the color of blood. It really looks and feels like he’s on an adventure to stave off cataclysm, and the visual evolution frequently made me stop playing for a second while I took in the changes. Also, being able to use the right stick to control the camera lets you create cinematic moments on-the-fly, which is great if, like me, you like taking a lot of screenshots. Ocarina of Time is one of Nintendo’s most influential games, and playing it is a rite of passage for any Zelda fan, but it can be tough to go back to the original. As accessible as it is considering it was one of Nintendo’s earliest fully-3D titles, the remake makes it so much easier to get into. And it’s launching at a time when the Zelda franchise is bigger than ever. Breath of the Wild and Tears of the Kingdom were big sellers, and they continue to attract new players years after launch, while fans will be able to dig into the live-action movie in April 2027 . Even sooner, though, Switch 2 owners will get to feast on the best way to play through a defining Zelda classic. The Legend of Zelda: Ocarina of Time launches for the Nintendo Switch 2 on Thursday, November 5th.",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-13-112314.png?quality=90&strip=all&crop=0%2C10.742092856336%2C100%2C78.515814287328&w=1200"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-preview-switch-2/",
+          "title": "The Legend of Zelda: Ocarina of Time Remake Preview",
+          "published_at": "2026-10-14T13:00:16+00:00",
+          "kind": "press",
+          "text": "Nintendo’s new version of a Zelda classic is sharp, streamlined, and plays better than ever Remaking The Legend of Zelda: Ocarina of Time is a tricky needle for Nintendo to thread. The Nintendo Switch 2 update of the Nintendo 64 classic needs to feel both authentic to the original, groundbreaking game while somehow feeling of a piece with modern Zelda titles, such as Breath of the Wild . After spending roughly 30 minutes playing November’s The Legend of Zelda: Ocarina of Time , Nintendo seems to have pulled it off. The remake is both incredibly impressive graphically and the game now plays better than ever. The remake evokes nostalgia for Link’s first 3D adventure while also feeling thoroughly modern. My hands-on time with the game covered much of what series producer Eiji Aonuma showed in his gameplay demonstration during a Nintendo Direct showcase in September. I started at the very beginning of the game, when Link earns his new fairy, Navi, and visits the Great Deku Tree to explore his first dungeon. From there, I strolled through Hyrule Field and into its bustling Castle Town. Later, I explored a heretofore unseen section of the Ocarina of Time remake, the twisting, turning Forest Temple. One impression of the remake remained consistent throughout my hands-on time: Nintendo’s new Zelda is snappy, streamlined, and polished in ways that make it feel totally fresh. The Legend of Zelda: Ocarina of Time for Switch 2 starts in a familiar way. Navi the fairy is tasked with waking the fairyless boy Link, conveying a message from the wise old Deku Tree. In this opening section, I relearned the basics of interaction and combat. I visited my Kokiri friends for conversation and learned what I need to progress. That included acquiring a Kokiri sword, earned by visiting a nook in the forest, and earning enough rupees to purchase a Deku shield. These activities, which taught me to jump — yes, Link can manually jump now, using either the X or B button on a Joy-Con 2 controller — and pick up and throw objects, felt speedy and precise. I feel like I blitzed through the opening tutorials, confronting the bossy Mido with such efficiency that even he must have been impressed. After speaking to the gorgeously rendered Great Deku Tree, I ventured inside with Link to explore the interior dungeon. Here too, combat against Skulltulas and Deku Baba felt incredibly responsive. Ocarina of Time controls like a dream on Switch 2, and as I acquired items like the Fairy Slingshot and Link’s bow and arrow, swapping between secondary weapons and items was speedy using the R button to cycle through his inventory. One more thing stood out to me during my limited time in the Deku Tree: Gold Skulltula Tokens look absolutely beautiful. Nintendo’s rendering of textures and light in the Ocarina of Time remake is unlike anything else I’ve seen on Switch 2. After exploring the Great Deku Tree, I was visited by the owl Kaepora Gaebora, who directed me to Hyrule Castle. Here, I got a look at the new Threads of Time feature that Nintendo is adding to the Ocarina of Time remake. In the game’s main menu, I could check in on a log of Link’s adventure thus far, reminding myself of key story beats and checking on my next destination. It’s a bit of new hand-holding, but also a handy way to reacquaint oneself with the narrative’s current state. Hyrule Field is vast . You can see landmarks like Hyrule Castle and Death Mountain in the far-off distance, and the walk to the nearby Castle Town feels initially a bit daunting. But Link can now dash, making traversing long distances much quicker. I did make one diversion in Hyrule Field, taking down a large Peahat near the town’s drawbridge, just to get a better handle on combat against a tougher enemy. Inside Hyrule Castle Town, the area is teeming with life. Townspeople move to and fro, engaging in dance and conversation. Engaging them in chatter and finding side-quest opportunities felt immediately distracting in my first visit to the remake’s town. I can’t wait to revisit it when I have more time. After spending some time playing as Young Link in the early portions of the game, I loaded up a save that featured a playable Adult Link. At this point in the game, Link has the Hook Shoot, a tool that’s key to exploring the Forest Temple, one of Ocarina of Time ’s most memorable dungeons. It was in the Forest Temple that I started to fully appreciate the streamlined movement and combat in the remake, as well as the attention to detail in breathing new life into old spaces. The Forest Temple looks gorgeous. It feels tangible and ancient, with vines and moss laying its stone walls. Small adjustments to the temple’s architecture make the space feel real, while staying true to the soul of the original. Each quadrant feels distinct, thanks to improved lighting and textures. Small environmental touches, like an ever-present mist flowing along the floors, give the space an ethereal mood. It’s a gorgeous space to play in. But even with the game’s speedy movement and controls, I was unable to meet the dungeon’s boss, Phantom Ganon, during the time limit I was under. But after exploring the Forest Temple’s twisting hallways and clever puzzles, I was intoxicated. I can’t wait to revisit this place and see how the rest of the game has evolved when Nintendo's new The Legend of Zelda: Ocarina of Time finally arrives. The Legend of Zelda: Ocarina of Time will be released on Nov. 5, exclusively on Nintendo Switch 2.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/switch2_zeldaoot_medaibroll_scrn_20.jpeg?w=1600&h=900&fit=crop"
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/the-legend-of-zelda-ocarina-of-time-remake-overview-trailer",
+          "title": "The Legend of Zelda: Ocarina of Time remake ‘Overview’ trailer",
+          "published_at": "2026-10-14T13:10:43+00:00",
+          "kind": "press",
+          "text": "Nintendo has released a five-minute overview trailer for the remake of The Legend of Zelda: Ocarina of Time . Here is an overview of the game, via Nintendo: The Legend of Zelda: Ocarina of Time Invites you to put yourself at the center of an epic adventure as you join Link on a journey of growth and discovery through the kingdom of Hyrule. Together with a guiding fairy named Navi, you’ll encounter lively characters, battle ferocious monsters and use cunning to overcome obstacles in search of the mythical Triforce—and to save Hyrule from falling into darkness! The key to this adventure lies with the ocarina, with its powerful melodies that are able to stir space and time and lead Link toward a new destiny. In this completely reborn version of the game, you’ll be able to bring some of the ocarina magic into your real world. Hum a melody Link has learned or even play one on an actual instrument, and the Nintendo Switch 2 microphone will hear your song and cause Link’s ocarina in the game to respond! This reborn version also introduces the Hall of Fallen Heroes, a place where statues of defeated monsters reside. Venture there to learn about them or engage them in a rematch battle! This new version of The Legend of Zelda: Ocarina of Time also features overhauled visuals, fully voiced cutscenes with expanded dialogue, and full symphonic orchestral music! The game also supports ZELDA NOTES , a service available within the Nintendo Switch App for compatible smart devices that allows you to get even more out of your adventure. There will also be two new The Legend of Zelda: Ocarina of Time amiibo figures launching in 2027, which unlock special in-game masks—existing amiibo figures from the Legend of Zelda series will also provide useful rewards when tapped during gameplay! Celebrate the 40th anniversary of the original Legend of Zelda game with this immersive adventure where you can be introduced—or reintroduced—to this magical world and become the Hero of Time to save Hyrule from the forces of darkness! The Legend of Zelda: Ocarina of Time is due out for Switch 2 on November 5.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/OoT-Remake-Overview_10-14-26.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "b6d25b589089ed58",
+      "title": "A atualização Spec IV (Parte 1) de Gran Turismo 7 é lançada hoje e uma prévia do controle sem fio DualSense – Edição Limitada Gran Turismo",
+      "summary": "Olá a todos, estamos empolgados em compartilhar novidades sobre Gran Turismo com vocês hoje. Para começar, temos todos os detalhes da Parte 1 da atualização Spec IV de Gran Turismo 7, que chega hoje. Além disso, celebramos os 30 anos de Gran Turismo com uma prévia do controle sem fio DualSense Edição Limitada Gran Turismo! […]",
+      "owners": [
+        "gameblast",
+        "meups",
+        "sony"
+      ],
+      "primary_owners": [
+        "sony"
+      ],
+      "fingerprints": [
+        "6e5d992539daede4",
+        "c0c4af7b156b5f7b",
+        "81d3864c6bbab7d6"
+      ],
+      "sources": [
+        {
+          "name": "PlayStation Blog BR",
+          "owner": "sony",
+          "url": "https://blog.br.playstation.com/2026/10/14/spec-iv-parte-1-de-gran-turismo-7-e-lancada-hoje-e-uma-previa-do-controle-sem-fio-dualsense-edicao-limitada-gran-turismo/",
+          "title": "A atualização Spec IV (Parte 1) de Gran Turismo 7 é lançada hoje e uma prévia do controle sem fio DualSense – Edição Limitada Gran Turismo",
+          "published_at": "2026-10-14T14:12:55+00:00",
+          "kind": "primary",
+          "text": "A atualização mais recente inclui o lendário Sugo Circuit, seis novos veículos e mais formas de vivenciar sua paixão por dirigir. Olá a todos, estamos empolgados em compartilhar novidades sobre Gran Turismo com vocês hoje. Para começar, temos todos os detalhes da Parte 1 da atualização Spec IV de Gran Turismo 7 , que chega hoje. Além disso, celebramos os 30 anos de Gran Turismo com uma prévia do controle sem fio DualSense Edição Limitada Gran Turismo! Continue lendo e saiba todos os detalhes. Hoje, todos os jogadores receberão a Parte 1 da atualização Spec IV de Gran Turismo 7. Se você gosta de buscar tempos de volta, descobrir a história automotiva, tirar a foto perfeita, montar a coleção dos seus sonhos ou simplesmente busca algo novo para pilotar, a Spec IV adiciona novas formas de explorar o mundo dos carros com seis novos veículos, o circuito Sportsland Sugo, novos eventos, locais do Scapes, recursos de jogabilidade e muito mais. Esta atualização também traz novos recursos de Visualização de Carros, modo Experiência, 6 novos eventos de Circuitos Mundiais e muito mais! Tudo isso estará disponível gratuitamente a partir de hoje, 16 de outubro, às 3h BRT*. O Xiaomi Vision Gran Turismo é um hipercarro elétrico esculpido pelo vento. Seu cockpit em formato de lágrima está integrado em uma carroceria esculpida com recortes e dutos de ar, formando canais aerodinâmicos por todo o veículo. A lanterna traseira em formato de halo serve tanto como um ícone visual quanto como uma enorme saída de ar. Junto com inovações como o Active Wake Control System e os Accretion Rims, o carro atinge um coeficiente de arrasto de 0,29, força descendente de -1,2 e uma classificação de eficiência aerodinâmica de 4,1 por meio de testes simulados iterativos, alcançando novos níveis de equilíbrio entre baixo arrasto e alta força descendente para hipercarros elétricos. “Os hipercarros elétricos precisam responder a uma pergunta fundamental”, disse Tianyuan Li, Chefe de Design da Xiaomi Auto. “Buscamos um arrasto extremamente baixo para velocidade em linha reta ou força descendente máxima para superar curvas? A solução ideal é encontrar o equilíbrio perfeito entre os dois.” Essa abordagem impressionou o produtor da série Gran Turismo Kazunori Yamauchi. “Quando vi que a Xiaomi tinha resolvido a contradição entre baixo arrasto e alta força descendente, fiquei realmente maravilhado.” Experimente isto em GT7: leve-o ao circuito de Spa-Francorchamps no evento Troféu Vision Gran Turismo e veja como seu design futurista funciona em um dos circuitos mais históricos do automobilismo. A Ferrari, a marca do cavalo empinado, sediada em Maranello, na Itália, elevou os carros ao reino da arte, colocando tecnologia e paixão das pistas de corrida em seus carros de produção. Um carro que dá continuidade à linhagem de seus carros esportivos de motor central é a F355 Berlinetta de 1994. A carroceria da Pininfarina é uma obra-prima que combina lindas curvas e beleza funcional. As linhas quadradas da 348 evoluíram muito, equilibrando desempenho aerodinâmico e beleza sensual em um alto nível. Só olhar para o carro faz seu coração bater mais rápido. É a aparência de uma verdadeira Ferrari. Experimente isto em GT7: vá para o circuito Sportsland Sugo e deixe o equilíbrio e a capacidade de resposta da Ferrari ganharem vida nas curvas fluidas e nas mudanças de elevação do circuito. O Mugen Motul Civic, que conquistou a vitória geral na categoria no All-Japan Touring Car Championship de 1987, foi um carro de corrida do Grupo A desenvolvido a partir do modelo “Si” de duplo came que entrou para a linha de 3ª geração do Civic em 1984. A versão do Grupo A do Civic Si presente em Gran Turismo é baseada nesse Mugen Motul Civic. O Si, o primeiro carro de produção da Honda em 20 anos a ser equipado com um motor DOHC, demonstrou seu alto desempenho até mesmo como um carro de produção e era perfeito para o Grupo A. A Mugen desenvolveu o carro ainda mais e amadureceu a plataforma em corridas antes de fornecer peças para equipes privadas. Experimente isto em GT7: participe de um dos novos eventos de Copa dos Amadores e veja se consegue manter o ritmo em cada curva como o carro de corrida original fazia. A Mazda continuou a aperfeiçoar a linhagem de motores rotativos desde que seu “Cosmo Sport” foi lançado em 1967. O “GT3 CONCEPT” foi um carro de corrida que trouxe de volta o motor de 4 rotores que mantém a filosofia do 787B, um carro que venceu Le Mans, combinando-o com a mais recente tecnologia SKYACTIV. Esta linda fera foi refinada ainda mais e evoluiu para batalhas árduas e competição nas pistas. Experimente isto em GT7: leve-o para um evento de Mundial de Turismo e aprenda como cada ajuste e cada ápice podem reduzir um tempo precioso em uma volta. Desde sua primeira aparição em 1996, o Step WGN (pronunciado como “step wagon”) sempre foi uma minivan popular com as famílias devido ao seu grande espaço interno, forma quadrada e proposta utilitária, incluindo o piso baixo e as grandes portas deslizantes. Na linha, o “Spada” recebeu uma grade dianteira ampla e robusta, e a moldura cromada que envolve a parte inferior da carroceria confere uma sensação de poder e classe. O “Spada Premium Line” vai além com detalhes cromados de platina especiais. Este é um modelo de classe superior que garante aos passageiros uma experiência sublime tanto em trajetos diários quanto em longas viagens. Experimente isto em GT7: coloque-o no Scapes e descubra como um veículo familiar pode ser fotogênico diante de alguns dos locais mais bonitos de Gran Turismo. O Citroën 2 CV é uma obra-prima do carro do povo francês, produzido por 42 anos desde o lançamento em 1948. Seu design é tão simples que foi chamado de um guarda-chuva com rodas, mas ele veio com uma suspensão flexível que permitia carregar ovos sem quebrá-los em qualquer tipo de terreno acidentado, um interior amplo que permitia o uso em viagens longas e um preço que o tornava acessível para qualquer pessoa. Os tempos muda",
+          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/10/0a6094e661e23a6b07164420bc5b6675016b5d83-scaled.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/controle-sem-fio-dualsense-edicao-limitada-gran-turismo-anunciado-lancamento-10-dezembro.html",
+          "title": "Controle sem fio DualSense – Edição Limitada Gran Turismo é anunciado com lançamento em 10 de dezembro",
+          "published_at": "2026-10-14T14:26:16+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/news/gran-turismo-7-parte-1-atualizacao-spec-iv/",
+          "title": "Gran Turismo 7 recebe “Parte 1” da atualização Spec IV amanhã (15)",
+          "published_at": "2026-10-14T14:27:43+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Gran-turismo-7.jpg"
         }
       ]
     },
@@ -269,42 +306,6 @@
       ]
     },
     {
-      "story_id": "ac07f8136959075c",
-      "title": "BUZZ or DIE launches October 28",
-      "summary": "“Death row inmates reality show x death game adventure” game BUZZ or DIE will launch …",
-      "owners": [
-        "gameblast",
-        "gematsu"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "475b310d08a7445f",
-        "14780bae207a1714"
-      ],
-      "sources": [
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/10/buzz-or-die-launches-october-28",
-          "title": "BUZZ or DIE launches October 28",
-          "published_at": "2026-10-13T03:24:23+00:00",
-          "kind": "press",
-          "text": "“Death row inmates reality show x death game adventure” game BUZZ or DIE will launch PC via Steam on October 28, publisher Kodansha and developer Bon announced . It will support English, Japanese, and Simplified Chinese language options. A demo is available now. Here is an overview of the game, via its Steam page : BUZZ or DIE is a point-and-click game where death row inmates enter a death-match game show. You and a man named Sagishima will be participating together. The rules are simple. Dive into your opponent’s mindscape and search for secrets. Turn those secrets into content and make a short video. Gain the most Likes from the audience to win. The winner receives a pardon and the chance to have one wish granted. The loser receives not only death…but an eternity of humiliation as a slave android model. Witness the passions and fury of the world’s worst criminals in this gripping video-game drama. We hope you enjoy.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/BUZZ-or-DIE-Date_10-12-26.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/buzz-or-die-lancamento-28-outubro-pc.html",
-          "title": "BUZZ or DIE será lançado em 28 de outubro para PC",
-          "published_at": "2026-10-13T07:10:55+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        }
-      ]
-    },
-    {
       "story_id": "4fd043f7bda5bbb2",
       "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
       "summary": "Glen Schofield, the game-maker best known for co-creating Dead Space, has blamed Korean company Krafton - the owner of PUBG - for the shortcomings of his horror game successor The Callisto Protocol , which it published. Read more",
@@ -341,283 +342,148 @@
       ]
     },
     {
-      "story_id": "7aa06a2c1a67bd82",
-      "title": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan",
-      "summary": "After February 2027, players will no longer be able to download or install purchased games",
+      "story_id": "2e6e6f9fb64530c4",
+      "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
+      "summary": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Payne 3 was a failure . Read more",
       "owners": [
-        "keleops",
-        "vgc"
+        "insider-gaming",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "7636ce5e669fd3ba",
-        "649b939464195d1d"
+        "d79d97d4793c6518",
+        "1b74f054eb183b23"
       ],
       "sources": [
         {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/casual-game-store-legacy-games-is-shutting-down-purchases-wont-be-re-downloadable-despite-keep-forever-slogan/",
-          "title": "Casual game store Legacy Games is shutting down, purchases won’t be re-downloadable despite ‘keep forever’ slogan",
-          "published_at": "2026-10-13T12:10:19+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/dan-houser-gta-3-boxart-9-11",
+          "title": "GTA 3's iconic box art was changed at the last minute because of 9/11, ex-Rockstar lead Dan Houser reveals",
+          "published_at": "2026-10-13T13:35:54+00:00",
           "kind": "press",
-          "text": "After February 2027, players will no longer be able to download or install purchased games Casual games publisher Legacy Games has announced that its online store is closing down, and players won’t be able to re-download their purchases. Legacy Games was founded in 1998 and has specialised in publishing casual and indie titles on PC , console and mobile. In 2020 the publisher launched the Legacy Games online store , which to date offers more than 1,000 titles, many of which are released in multi-game bundles and mostly consist of hidden object, match 3, time management and puzzle games. The website’s slogan, which is still top of the homepage at the time of writing, is “amazing games, incredible value, yours to keep forever”. It appears the latter claim will no longer be true, however, as Legacy Games has announced its site is closing down, and previous purchases will no longer be downloadable after a certain point. The store will close on December 31, 2026. Players who bought physical Legacy Games titles which come with download codes will have to redeem them by then, or they will longer work. After the store closes, players will be able to continue downloading their previous purchases to the Legacy Games Launcher and play them as normal, but won’t be able to buy any new games. From February 28, 2027, however, players will also no longer be able to re-download their previous purchases, meaning they’ll be locked out of installing them on other devices in the future. Legacy Games says that any games downloaded and installed before the February 28, 2027 deadline will remain playable after this date, for as long as they remain installed on that device. Once they’re deleted, however, they can’t be redownloaded. This also applies to the free Legacy Games titles that have been available to claim via Amazon Prime’s monthly PC game offers. Players who have claimed these games in the past will have until February 28, 2027 to download these too. Legacy Games claims that because players can continue to play installed games after February 28, 2027 this means “your games stay yours”, and installing them is “how to keep them”. Given that people generally don’t keep the same PC or laptop for the rest of their lives however, when they eventually upgrade to a new device their games won’t be able to come with them.",
-          "image": "https://www.videogameschronicle.com/files/2026/10/legacy-games-1.jpg"
+          "text": "Dan Houser, one of Rockstar's co-founders that left the GTA 6 studio in 2020 , has given a wide-ranging new interview with IGN, covering topics including the tortured production of Bully , changes made to Grand Theft Auto 3's artwork post-9/11, the reaction to Red Dead Redemption's ending , and why he thinks Max Payne 3 was a failure . The most interesting to me is how the iconic boxart for GTA 3 - a template that has been used for every game since, by the way, most recently being co-opted for GTA 6's cover - was actually put together very last minute. \"What's funny is the cover art that became the iconic GTA cover art; Stephen Bliss did that in about two evenings because the old cover art was probably being too offensive to release after 9/11 because there were burning buildings in it,\" Houser revealed to IGN . \"So it would've been fine if there hadn't just been 9/11. So that look of the shards, the squares that became very iconic, only appeared because of 9/11.\" GTA 3 takes place in Liberty City - a thinly-veiled parody of the real-world New York City, where the 9/11 disaster, of course, took place. So there was sensitivity around showing destruction and death publicly in the months and years after. This is something that Rockstar had to consider carefully as it was launching the game into the aftermath of the event. \"There were a couple of bits of content that would've been fine, but in the exact aftermath of 9/11, were maybe a little bit too much,\" Houser explained. \"So we had to take those out, and the team [rallied] round and remove those and edit a couple of lines of dialogue and did a quick content stand and thought it was fine. And then the game came out in October of 2001. It was gradual all the way through till Christmas 2001 into early 2002, and it just didn't stop selling. It's not like any single week was that massive. It was that every week it just rumbled on.\" The art he's referring to (above) is, of course, as iconic as the staples of GTA 3's newly-open world gameplay. Houser notes this, and reflects: \"GTA has become part of the wider cultural fabric. I mean, you sort of saw that on YouTube clips and whatever else that would have the HUD on it, and people using the logo and things like that. When you go to any big tourist resort, you'll have a sort of GTA cover art-inspired T-shirt available. So you began to see that creep in 10 years ago.\" This isn't the first we've heard from Dan Houser in the past few months. Back in July, the Rockstar Games co-founder joined longtime GTA writer Lazlow Jones to espouse some opinions on the on-going physical games debate . \"I don't know that I care,\" he responded when asked about the fact that Sony plans to scrap physical discs from January 20-28 onwards, \"but if people want that, companies should provide it. I think the ability to update games - as critical as people are on digital releases - the ability to update and fix problems in games have been very useful to the quality of games.\" Elsewhere, with his company Absurd Ventures, Houser is working on an \" open world action-adventure \". This is the first time we get a look at \"just a few characters\" coming to a \"story-driven action-comedy adventure game set in the Absurdaverse\".",
+          "image": "https://assetsio.gnwcdn.com/gta-3-boxart-houser.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/online-store-that-promised-games-were-yours-to-keep-forever-is-shutting-down-2000745265",
-          "title": "Online Store That Promised Games Were ‘Yours To Keep Forever’ Is Shutting Down",
-          "published_at": "2026-10-13T15:30:20+00:00",
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/gta-6-is-never-completed-settled-rockstar-reveals/",
+          "title": "GTA 6 is ‘Never Completed Settled’, Rockstar Reveals",
+          "published_at": "2026-10-14T11:01:53+00:00",
           "kind": "press",
-          "text": "Legacy Games is a clearinghouse for all sorts of games you probably haven’t heard of. The online storefront and launcher provides deals on bundles of lesser-known indie and casual games that people can download for cheap. “Get up to 15 games in a single pack,” reads the marketing copy on the home page. “Hidden object, match 3, puzzles and more! Starting at $14.99. No subscription needed.” Over 1 million customers have been served. In the biggest, boldest letters of all, the site states, “Amazing games. Incredible value. Yours to keep forever.” There should now be an asterisk next to “forever” that says, “if you download them before February 28, 2027.” That’s when the Legacy Games online storefront is shutting down for good. As VGC reports , the announcement was made on the site’s FAQ page this week. Game-of-the-month deals will end on December 1. Disc download codes, which the company also sells, will no longer work after December 31. Everything else goes offline on February 28, 2027. That’s the last day for people who have claimed games but potentially uninstalled them to re-download them and keep them forever before they’re gone forever. “Download and install your purchased games through the Legacy Games Launcher as soon as you can, and no later than February 28, 2027,” the FAQ reads . “Once theyâre installed, you can play them through the launcher any time. We recommend installing everything you want to keep while you still can.” All of users’ existing points, rewards, and membership perks will expire at the end of the year as well. Legacy Games also had a partnership with Amazon’s Luna streaming service. Anything there will also still be supported, but only if it’s been claimed prior to the end date. “Oh yes, I have infinite storage available,” wrote one person on the Prime Gaming subreddit. “This is shitty business practice and we need more laws to avoid such behavior or have some compensation to the users.” Another person chimed in, “Bruh I hope GOG doesn’t end like this.” While it’s harder to imagine the bigger digital game storefronts going bust, especially GOG and Steam, nothing actually lasts forever, especially in digital form, no matter what the marketing tagline on the website is. At least in the case of digital PC games sold without DRM, players can shift them around between their own storage devices without having to worry about launchers or redownloading them. It’s still a pain and not the way most people have been trained to think of their digital game libraries, which is instead as something that will magically outlast the crumbling physical world around it. Not so in the case of Legacy Games. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Game key cards have helped the company bridge the divide What would it take for Sony to walk the controversial move back? At least one person is so fed up with Rockstar that they modeled a cartoon gator in retaliation The Xbox One's pitch for an all-digital, always-online future went down in flames so its disc-to-digital initiative could be born from the ashes Director Naoki Hamaguchi defended the move amid the current uproar over physical games",
-          "image": "https://kotaku.com/app/uploads/2026/10/image-13-1.jpg"
+          "text": "In a new interview, Rockstar’s head of development discussed how GTA 6 is never fully settled. GTA 6 is all set to release in just over a month, and fans still can’t believe that the game is so close. Leading up to the launch, Rockstar has given players insights into what went into developing a title of this scale and has also touched on the delays it faced, none of which were for any dramatic reason. In a recent interview with Bloomberg , Phil Hooker, Rockstar’s head of development, stated that GTA 6 is never fully settled. He said the game’s delays have never been due to major, dramatic issues; instead, they result from elements not coming together as planned within the intended timeframe. Hooker also noted that the team doesn’t follow a strict blueprint for the game’s development and has changed things even “within the last few months.” Hooker also pointed out that Rockstar built a new studio in Los Angeles to focus solely on creating NPCs. Hooker talked about playing a version of the game that was meant to lead him to a story mission but took an unexpected turn. Instead, he collided with a car, resolved the situation peacefully, and then visited a convenience store to pick up items to restore his health. Later, Hooker had a violent encounter with an NPC who insulted him and also robbed a store while the counter was unattended. He was then chased by the cops and managed to escape by ditching his car and finding a new one. Realizing that the new vehicle could be sold for a pretty penny, he attempted to sell it. On his way, another car blasting loud music rammed into him. He pursued the car and discovered a compound filled with more goods to fence. Hooker explained that two hours into their session, he still hadn’t even come close to completing the story mission. What are your thoughts on GTA 6 never being completely settled? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more information from Insider Gaming, read about Planet Zoo 2’s first patch releasing fixes, franchise mode, and more . Don’t forget to sign up for our weekly newsletter .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/10/Jason_and_Lucia_10-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "4667ad82b18b10f0",
+      "title": "Rumor: Grand Theft Auto VI coming to PC in Q1 2027",
+      "summary": "Rockstar Games plans to release a PC version of Grand Theft Auto VI within the …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "242cf682bdd676eb",
+        "d522bcd5fab34272"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/rumor-grand-theft-auto-vi-coming-to-pc-in-q1-2027",
+          "title": "Rumor: Grand Theft Auto VI coming to PC in Q1 2027",
+          "published_at": "2026-10-13T14:04:00+00:00",
+          "kind": "press",
+          "text": "Rockstar Games plans to release a PC version of Grand Theft Auto VI within the first three months of 2027, according to a GamesBeat report citing “four industry sources familiar with the studio’s plans.” Grand Theft Auto VI is due out for PlayStation 5 and Xbox Series on November 19, meaning the PC release would arrive no more than four months after its console launch. The previous iteration of the series, Grand Theft Auto V , did not arrive on PC until roughly one year and seven months after its initial release. And Rockstar Games’ latest major new title, Red Dead Redemption 2 , took just over a year to come to PC. Rockstar Games did not respond to GamesBeat’s request for comment.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/GTA6-PC-Rumor_10-13-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/rumor-grand-theft-auto-6-pode-ser-lancado-para-pc-no-primeiro-trimestre-2027.html",
+          "title": "Rumor: Grand Theft Auto VI pode ser lançado para PC no primeiro trimestre de 2027",
+          "published_at": "2026-10-14T13:24:34+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "story_id": "628d895299a5b5a2",
+      "title": "STARDUST: Wish of Witch coming to PS5, Switch 2 in Q1 2027",
+      "summary": "Publisher Silver Lining Interactive and developer Kniv Studio will release pixel art strategy RPG STARDUST: …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "b4671a592f17c049",
+        "bf202d9c0e48dd39"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/stardust-wish-of-witch-coming-to-ps5-switch-2-in-q1-2027",
+          "title": "STARDUST: Wish of Witch coming to PS5, Switch 2 in Q1 2027",
+          "published_at": "2026-10-13T14:13:31+00:00",
+          "kind": "press",
+          "text": "Publisher Silver Lining Interactive and developer Kniv Studio will release pixel art strategy RPG STARDUST: Wish of Witch for PlayStation 5 and Switch 2 in Q1 2027, the companies announced. A physical edition including the official soundtrack will also be available. Pre-orders are available now via Silver Lining Direct . STARDUST: Wish of Witch first launched for PC via Steam on May 28. Here is an overview of the game, via Silver Lining Interactive: STARDUST: Wish of Witch is a turn-based single-player pixel strategy RPG that reimagines the charm of classic strategy RPGs for the modern era. Players traverse battlefields in an adventure centered on stars and fate, growing alongside characters with distinct personalities and stories. A delicately breathing pixel world combined with dramatic presentation delivers a sweeping fantasy journey.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/STARDUST-Consoles_10-13-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/stardust-wish-of-witch-sera-lancado-playstation-5-switch-2-2027.html",
+          "title": "STARDUST: Wish of Witch será lançado para PlayStation 5 e Switch 2 em 2027",
+          "published_at": "2026-10-13T18:49:04+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "story_id": "c1ff93f6ed4f9a98",
+      "title": "REPLACED coming to Android on December 8",
+      "summary": "Publisher Atari and developer Sad Cat Studios will release atmospheric narrative-driven cyberpunk adventure game REPLACED …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "26ca3310bb619b62",
+        "3dd6dc49d662fa8a"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/replaced-coming-to-android-on-december-8",
+          "title": "REPLACED coming to Android on December 8",
+          "published_at": "2026-10-13T14:20:51+00:00",
+          "kind": "press",
+          "text": "Publisher Atari and developer Sad Cat Studios will release atmospheric narrative-driven cyberpunk adventure game REPLACED for Android via Google Play on December 8, the companies announced. REPLACED first launched for Xbox Series and PC via Steam , Epic Games Store , Microsoft Store , and GOG on April 14. It is also available via Game Pass. Here is an overview of the game, via Atari: The mobile version is part of the Google Play Games program, offering seamless gaming across mobile, tablets, and PC via a single purchase. The Android version, ported by Poland-based studio The Knights of U, will allow a new audience to experience the same jaw-dropping cinematic visuals and immersive atmosphere that those players loved on its original PC and console release. REPLACED has been played by over 900,000 players across all platforms since its release in Spring 2026. REPLACED is a narrative-driven 2.5D platformer blending cinematic exploration with fluid, free-flow action. Immerse yourself in an alternate 1980s America reshaped by nuclear catastrophe and meet the downtrodden of Phoenix City as you struggle to survive. Soak up the game’s rich atmosphere as you walk the streets of Phoenix-City and become a part of the stories of the citizens you meet in this dark cyberpunk thriller. As you uncover the sinister secrets of Phoenix Corporation, REPLACED explores themes of humanity, identity, and control through morally complex characters and the slow reveal of a world pushed to its limits. Discover a haven for corruption where outlaws thrive and human life is traded like currency as R.E.A.C.H.—an AI trapped in a human body against its will. Expose the Corporation’s hidden agenda, and uncover the purpose behind your creation in a world where every secret—and every life—has a price.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/REPLACED-Android_10-13-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/replaced-sera-lancado-android-8-dezembro.html",
+          "title": "REPLACED será lançado para Android em 8 de dezembro",
+          "published_at": "2026-10-13T19:38:26+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
         }
       ]
     }
-  ],
-  "especial_gta6": {
-    "id": "especial-gta6-trailer-1",
-    "tema": "Trailer 1 de GTA 6 (dezembro de 2023): o que mostrou e os recordes que quebrou",
-    "categoria": "gta-6",
-    "angulo": "Relembrar, a pouco mais de um mês do lançamento, o vídeo que apresentou Lucia, Vice City e o estado de Leonida ao mundo e virou recorde no YouTube, inclusive para quem acompanhou tudo de madrugada no Brasil.",
-    "fatos": [
-      {
-        "texto": "Em 8 de novembro de 2023, Sam Houser, presidente e fundador da Rockstar Games, anunciou no X que a empresa lançaria no início de dezembro o primeiro trailer do 'próximo Grand Theft Auto'.",
-        "fontes": [
-          1,
-          2
-        ]
-      },
-      {
-        "texto": "O anúncio veio ligado aos 25 anos da Rockstar, fundada em 1998 e que completava aniversário em dezembro de 2023.",
-        "fontes": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "texto": "A estreia oficial do trailer estava marcada para terça-feira, 5 de dezembro de 2023, mas uma versão vazou na noite anterior (4 de dezembro) e a Rockstar antecipou a publicação do vídeo oficial no YouTube.",
-        "fontes": [
-          3,
-          4,
-          5
-        ]
-      },
-      {
-        "texto": "Ao antecipar o trailer, a Rockstar escreveu no X: 'Nosso trailer vazou, então, por favor, assistam ao verdadeiro no YouTube'.",
-        "fontes": [
-          3,
-          4
-        ]
-      },
-      {
-        "texto": "Junto com o trailer, a Rockstar e a Take-Two confirmaram em comunicado de 4 de dezembro de 2023 que Grand Theft Auto VI sairia em 2025 para PlayStation 5 e Xbox Series X|S (essa data depois foi adiada duas vezes, até 19 de novembro de 2026).",
-        "fontes": [
-          0,
-          4
-        ]
-      },
-      {
-        "texto": "O comunicado oficial situou o jogo em Leonida, estado fictício que inclui Vice City; o GameSpot descreveu Leonida como a versão da Rockstar para a Flórida.",
-        "fontes": [
-          0,
-          4
-        ]
-      },
-      {
-        "texto": "Sam Houser declarou no comunicado do trailer que a Rockstar estava empolgada por poder compartilhar 'essa nova visão com jogadores do mundo todo'.",
-        "fontes": [
-          0,
-          4
-        ]
-      },
-      {
-        "texto": "O trailer apresentou Lucia, a primeira protagonista mulher da série, segundo CNN e The Guardian.",
-        "fontes": [
-          3,
-          13
-        ]
-      },
-      {
-        "texto": "Lucia aparece de uniforme de presidiária sendo interrogada, e o vídeo indica uma dupla de protagonistas (um homem e uma mulher) no estilo Bonnie e Clyde.",
-        "fontes": [
-          3,
-          4,
-          6
-        ]
-      },
-      {
-        "texto": "Entre as cenas do trailer estão aerobarcos nas áreas alagadas, vídeos que imitam redes sociais, imagens de câmera corporal da polícia, o noticiário Weazel News cobrindo perseguições e uma dupla mascarada assaltando uma loja de conveniência.",
-        "fontes": [
-          4,
-          6
-        ]
-      },
-      {
-        "texto": "A música do trailer é 'Love Is a Long Road', de Tom Petty; o Spotify registrou alta de 36.979% nos streams da faixa em relação à semana anterior.",
-        "fontes": [
-          9,
-          10
-        ]
-      },
-      {
-        "texto": "Segundo o Guinness World Records, o trailer teve 90.421.491 visualizações no YouTube nas primeiras 24 horas, recorde de revelação de videogame mais vista na plataforma nesse período.",
-        "fontes": [
-          7,
-          8
-        ]
-      },
-      {
-        "texto": "O Guinness também reconheceu os cerca de 8,9 milhões de curtidas em 24 horas como recorde de trailer de videogame mais curtido no YouTube.",
-        "fontes": [
-          7,
-          8
-        ]
-      },
-      {
-        "texto": "O vídeo virou ainda o conteúdo não musical mais visto do YouTube em 24 horas, superando o recorde anterior, que era de um vídeo do MrBeast.",
-        "fontes": [
-          7,
-          8
-        ]
-      },
-      {
-        "texto": "Há divergência sobre o número do primeiro dia: o Guinness registra cerca de 90,4 milhões de visualizações, enquanto VGC e TechRadar citam 93 milhões no primeiro dia.",
-        "fontes": [
-          7,
-          8,
-          11,
-          12
-        ]
-      },
-      {
-        "texto": "Até maio de 2025, cerca de 17 meses depois, o primeiro trailer somava aproximadamente 255 milhões de visualizações no YouTube.",
-        "fontes": [
-          11,
-          12
-        ]
-      },
-      {
-        "texto": "O primeiro trailer foi publicado só no YouTube, o que o diferencia do segundo, lançado em várias plataformas ao mesmo tempo em maio de 2025.",
-        "fontes": [
-          11,
-          12
-        ]
-      }
-    ],
-    "fontes": [
-      {
-        "name": "Take-Two Interactive (comunicado)",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://ir.take2games.com/node/30006/pdf",
-        "title": "Rockstar Games Announces Grand Theft Auto VI, Coming 2025"
-      },
-      {
-        "name": "Deadline",
-        "owner": "variety",
-        "kind": "press",
-        "url": "https://deadline.com/2023/11/grand-theft-auto-6-confirmed-trailer-coming-december-1235596717",
-        "title": "Rockstar Confirms Grand Theft Auto 6, with First Trailer Due in December"
-      },
-      {
-        "name": "Gematsu",
-        "owner": "gematsu",
-        "kind": "press",
-        "url": "https://www.gematsu.com/2023/11/grand-theft-auto-vi-first-trailer-to-be-released-in-early-december",
-        "title": "Grand Theft Auto VI – first trailer to be released in early December"
-      },
-      {
-        "name": "CNN",
-        "owner": "cnn",
-        "kind": "press",
-        "url": "https://edition.cnn.com/2023/12/04/business/gta-6-trailer-release-leak/index.html",
-        "title": "Grand Theft Auto VI trailer released early after leak"
-      },
-      {
-        "name": "GameSpot",
-        "owner": "fandom",
-        "kind": "press",
-        "url": "https://gamespot.com/articles/gta-6-trailer-2025-release/1100-6518649/",
-        "title": "GTA 6 Trailer Debuts Early After Leak, Confirming 2025 Release And Vice City Setting"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/2023-video-games-leaks-gta-insomniac-wolverine-1851113378/2",
-        "title": "2023's Biggest Video Game Leaks, From Wolverine To GTA"
-      },
-      {
-        "name": "PC Gamer",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://www.pcgamer.com/gta-6-reveal-trailer-scene-by-scene-breakdown-dogs-dadbods-and-social-agitation/",
-        "title": "GTA 6 reveal trailer scene-by-scene breakdown: dogs, dadbods and social agitation"
-      },
-      {
-        "name": "Push Square",
-        "owner": "ziff-davis",
-        "kind": "press",
-        "url": "https://www.pushsquare.com/news/2023/12/gta-6-trailer-pulls-90-million-views-in-24-hours-sets-new-world-records",
-        "title": "GTA 6 Trailer Pulls 90 Million Views in 24 Hours, Sets New World Records"
-      },
-      {
-        "name": "Insider Gaming",
-        "owner": "insider-gaming",
-        "kind": "press",
-        "url": "https://insider-gaming.com/gta-6-trailer-world-record-broken",
-        "title": "GTA 6 Trailer Has Already Broken 3 Official World Records"
-      },
-      {
-        "name": "Push Square",
-        "owner": "ziff-davis",
-        "kind": "press",
-        "url": "https://pushsquare.com/news/2023/12/gta-6s-record-breaking-trailer-has-a-profound-impact-on-tom-petty-streams",
-        "title": "GTA 6's Record Breaking Trailer Has a Profound Impact on Tom Petty Streams"
-      },
-      {
-        "name": "MusicTech",
-        "owner": "nme",
-        "kind": "press",
-        "url": "https://musictech.com/news/tom-petty-love-is-a-long-road-streams-gta-6/",
-        "title": "Tom Petty's Love is a Long Road sees 36,979% increase in Spotify streams following GTA 6 trailer launch"
-      },
-      {
-        "name": "Video Games Chronicle",
-        "owner": "vgc",
-        "kind": "press",
-        "url": "https://www.videogameschronicle.com/news/at-nearly-half-a-billion-views-rockstar-says-gta-6s-new-trailer-is-the-biggest-video-launch-of-all-time",
-        "title": "At nearly half a billion views, Rockstar says GTA 6's new trailer is 'the biggest video launch of all time'"
-      },
-      {
-        "name": "TechRadar",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://www.techradar.com/gaming/the-latest-grand-theft-auto-6-trailer-has-set-a-major-record-by-racking-up-475-million-views-in-just-24-hours",
-        "title": "The latest Grand Theft Auto 6 trailer has set a major record by racking up 475 million views in just 24 hours"
-      },
-      {
-        "name": "The Guardian (edição impressa via PressReader)",
-        "owner": "guardian",
-        "kind": "press",
-        "url": "https://www.pressreader.com/usa/the-guardian-usa/20231208/281964612496314",
-        "title": "Grand Theft Auto: every game and controversy explained"
-      }
-    ],
-    "imagem": {
-      "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-1.06b6paykx247w.jpg",
-      "credito": "Rockstar Games",
-      "descricao": "Miniatura oficial do Trailer 1 de Grand Theft Auto VI no site oficial do jogo"
-    },
-    "formatos_carrossel": [
-      "em-numeros",
-      "detalhes",
-      "linha-do-tempo"
-    ]
-  },
-  "especiais_gta6_hoje": 0
+  ]
 }
