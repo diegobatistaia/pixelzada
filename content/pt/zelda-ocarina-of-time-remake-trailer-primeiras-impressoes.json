@@ -119,7 +119,10 @@
     "query": "Zelda Ocarina of Time remake",
     "alt": "Arte do remake de Zelda: Ocarina of Time",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/OoT-Remake-Overview_10-14-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/zelda-ocarina-of-time-remake-trailer-pri-46157969.jpg",
+    "source_url": "",
+    "foco": "45% 42%"
   },
   "sources": [
     {
@@ -153,5 +156,7 @@
       "title": "The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-14T16:39:48+00:00",
+  "updated_at": "2026-10-14T16:39:48+00:00"
 }
