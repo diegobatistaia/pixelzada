@@ -1,0 +1,74 @@
+{
+  "tipo": "noticia",
+  "formato": "linha-do-tempo",
+  "assunto": "RedLynx",
+  "gta6": false,
+  "materia": "ubisoft-fechar-redlynx-trials-cortes-singapura",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/Trials_2.jpg_CTbXk1t.jpg",
+    "credito": "Ubisoft",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesIndustry.biz e VGC",
+  "capa": {
+    "titulo": "Ubisoft quer fechar a RedLynx, de Trials",
+    "destaque": "fechar a RedLynx",
+    "apoio": "Até 52 vagas em risco na Finlândia. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A história",
+      "titulo": "De Helsinque à Ubisoft",
+      "destaque": "Ubisoft",
+      "passos": [
+        "2000: a RedLynx é criada em Helsinque, segundo o VGC.",
+        "2011: a Ubisoft compra o estúdio depois de Trials HD.",
+        "2019: sai Trials Rising, o último da série."
+      ]
+    },
+    {
+      "rotulo": "A queda",
+      "titulo": "Cortes e mudança de foco",
+      "destaque": "Cortes",
+      "passos": [
+        "Dez 2024: o jogo de celular Gwen's Getaway é encerrado.",
+        "Out 2025: até 60 vagas cortadas e foco em celular.",
+        "Out 2026: Ubisoft propõe fechar o estúdio."
+      ]
+    },
+    {
+      "rotulo": "O anúncio",
+      "titulo": "Fechamento ainda é proposta",
+      "destaque": "proposta",
+      "texto": [
+        "Até **52 posições** afetadas na Finlândia e 70 em Singapura.",
+        "Na Finlândia, a negociação com os funcionários ainda define o resultado."
+      ]
+    }
+  ],
+  "final": "Qual Trials foi o seu favorito?",
+  "legenda": {
+    "gancho": "A Ubisoft propôs fechar a RedLynx, estúdio finlandês criador da série Trials.",
+    "corpo": [
+      "Segundo GamesIndustry.biz e VGC, até 52 posições ficam em risco na Finlândia, e a Ubisoft Singapura teve 70 posições afetadas.",
+      "A RedLynx foi criada em 2000, comprada pela Ubisoft em 2011 e fez Trials Rising em 2019. Na Finlândia, o fechamento depende de negociação."
+    ],
+    "chamada": "Qual Trials foi o seu favorito?",
+    "hashtags": [
+      "#pixelzada",
+      "#trials",
+      "#ubisoft",
+      "#redlynx"
+    ]
+  },
+  "alt": [
+    "Slide 1: Ubisoft quer fechar a RedLynx, de Trials",
+    "Slide 2: A história da RedLynx de 2000 a 2019",
+    "Slide 3: Cortes e mudança de foco",
+    "Slide 4: Fechamento ainda é proposta",
+    "Slide 5: Qual Trials foi o seu favorito?"
+  ],
+  "slug": "ubisoft-redlynx-trials-fechamento",
+  "status": "pronto",
+  "criado": "2026-10-14T07:41:11-03:00"
+}
