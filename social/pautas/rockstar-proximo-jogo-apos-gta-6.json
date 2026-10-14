@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Próximo jogo",
+  "gta6": true,
+  "materia": "rockstar-proximo-jogo-depois-de-gta-6-nao-vai-levar-8-anos",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/09/gta-6-pic1.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: IGN, VGC e GamesIndustry.biz",
+  "capa": {
+    "titulo": "Rockstar diz que o próximo jogo não leva 8 anos",
+    "destaque": "não leva 8 anos",
+    "apoio": "Líderes do estúdio falaram à Bloomberg. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Por que será mais rápido?",
+      "destaque": "mais rápido",
+      "texto": [
+        "Phil Hooker diz que o **motor, as ferramentas e a equipe** de GTA 6 permitem fazer as coisas com mais velocidade.",
+        "Aaron Garbut afirma que a base não será desmontada."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Qual será o próximo jogo?",
+      "destaque": "próximo jogo",
+      "texto": [
+        "A Rockstar **não revelou** o projeto, segundo a IGN.",
+        "Red Dead 3 e GTA 7 são palpites de fãs e de veículos."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Quanto cresceu o estúdio?",
+      "destaque": "cresceu",
+      "texto": [
+        "De **2.441 funcionários** em 2018 para 4.711 em 2026, em 12 escritórios, segundo a GamesIndustry.biz."
+      ]
+    }
+  ],
+  "final": "Qual jogo você quer ver depois de GTA 6?",
+  "legenda": {
+    "gancho": "A Rockstar prometeu que o próximo jogo depois de GTA 6 não vai levar mais oito anos.",
+    "corpo": [
+      "Segundo a Bloomberg, via IGN e VGC, o motor, as ferramentas e a equipe de GTA 6 vão acelerar os próximos projetos.",
+      "A empresa não disse qual será o jogo, e o estúdio saltou de 2.441 para 4.711 funcionários desde 2018."
+    ],
+    "chamada": "Red Dead 3 ou outro? O que você espera?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Rockstar diz que o próximo jogo não leva 8 anos",
+    "Slide 2: Por que será mais rápido",
+    "Slide 3: Qual será o próximo jogo",
+    "Slide 4: Quanto cresceu o estúdio",
+    "Slide 5: Qual jogo você quer ver depois de GTA 6?"
+  ],
+  "slug": "rockstar-proximo-jogo-apos-gta-6",
+  "status": "pronto",
+  "criado": "2026-10-14T11:39:07-03:00"
+}
