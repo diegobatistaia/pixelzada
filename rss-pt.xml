@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 16:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:40:35 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6: pré-venda, edições e preço no Brasil, e se vale pagar a Ultimate</title>
+      <link>https://pixelzada.com.br/pt/gta-6-pre-venda-edicoes-preco-brasil-vale-a-ultimate/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-pre-venda-edicoes-preco-brasil-vale-a-ultimate/</guid>
+      <description>Quanto custa GTA 6 no Brasil? Veja preços da Standard e da Ultimate, o que cada edição traz, o bônus de pré-venda, a caixa sem disco e o pré-download.</description>
+      <category>Guias</category>
+      <pubDate>Wed, 14 Oct 2026 18:40:35 +0000</pubDate>
+    </item>
     <item>
       <title>Remake de Zelda: Ocarina of Time ganha trailer de 5 minutos e primeiras impressões</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-trailer-primeiras-impressoes/</link>
@@ -238,14 +246,6 @@
       <description>Konami já pensa em uma segunda e uma terceira onda de Silent Hill, disse o produtor Motoi Okamoto à Famitsu. Veja o que ele contou e o que continua em segredo.</description>
       <category>Indústria</category>
       <pubDate>Sun, 11 Oct 2026 10:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sonic Racing: CrossWorlds terá Godzilla, Persona e preço menor no ano 2</title>
-      <link>https://pixelzada.com.br/pt/sonic-racing-crossworlds-ano-2-godzilla-preco/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/sonic-racing-crossworlds-ano-2-godzilla-preco/</guid>
-      <description>A Sega detalhou o segundo ano de Sonic Racing: CrossWorlds, com Godzilla, Evangelion, Persona e Bayonetta, e baixou o preço do jogo base. Veja o calendário.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sat, 10 Oct 2026 21:40:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
