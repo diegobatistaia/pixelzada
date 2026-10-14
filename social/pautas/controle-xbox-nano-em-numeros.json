@@ -1,0 +1,78 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Xbox Nano",
+  "gta6": false,
+  "materia": "controle-xbox-nano-preco-brasil-lancamento",
+  "imagem": {
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/Controle_XBOX_Nano_Hero-8bfdb58681cc5ea77cc0.jpg",
+    "credito": "Xbox Wire",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Xbox Wire, Gematsu e Polygon",
+  "capa": {
+    "titulo": "Controle Xbox Nano em números",
+    "destaque": "em números",
+    "apoio": "O menor controle da Xbox. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Preço no Brasil",
+      "titulo": "R$ 379",
+      "destaque": "R$ 379",
+      "texto": [
+        "Esse é o **preço sugerido** no Brasil, segundo o Xbox Wire BR. A pré-venda no país deve começar em breve."
+      ]
+    },
+    {
+      "rotulo": "Peso",
+      "titulo": "Cerca de 100 g",
+      "destaque": "100 g",
+      "texto": [
+        "Tem pouco mais de **13 cm** de comprimento e cabe no bolso, segundo a Xbox."
+      ]
+    },
+    {
+      "rotulo": "Comandos",
+      "titulo": "18 botões",
+      "destaque": "18",
+      "texto": [
+        "Traz **todos os 18 comandos** padrão, mais um Botão de Ação programável, segundo a Gematsu e o Polygon."
+      ]
+    },
+    {
+      "rotulo": "Lançamento",
+      "titulo": "4 de novembro",
+      "destaque": "4 de novembro",
+      "texto": [
+        "A data vale para os Estados Unidos, onde o preço é de **US$ 49,99**, segundo a Gematsu e a GamesRadar."
+      ]
+    }
+  ],
+  "final": "Você compraria um controle desse tamanho?",
+  "legenda": {
+    "gancho": "A Xbox anunciou o Nano, o menor controle da linha, e ele já tem preço sugerido no Brasil.",
+    "corpo": [
+      "O Xbox Wire BR informa R$ 379, com pré-venda no país prevista para breve. Nos Estados Unidos, o preço é de US$ 49,99 e o lançamento é em 4 de novembro, segundo Gematsu e GamesRadar.",
+      "O controle tem cerca de 100 g, pouco mais de 13 cm, 18 comandos e bateria recarregável por USB-C, de acordo com Xbox e Polygon."
+    ],
+    "chamada": "Você trocaria o seu controle por um desse tamanho?",
+    "hashtags": [
+      "#pixelzada",
+      "#xbox",
+      "#xboxnano",
+      "#gamepass"
+    ]
+  },
+  "alt": [
+    "Slide 1: Controle Xbox Nano em números",
+    "Slide 2: R$ 379",
+    "Slide 3: Cerca de 100 g",
+    "Slide 4: 18 botões",
+    "Slide 5: 4 de novembro",
+    "Slide 6: Você compraria um controle desse tamanho?"
+  ],
+  "slug": "controle-xbox-nano-em-numeros",
+  "status": "pronto",
+  "criado": "2026-10-14T19:39:28-03:00"
+}
