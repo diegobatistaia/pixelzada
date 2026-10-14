@@ -1,14 +1,27 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "drone-fpv-miami-vice-city",
-    "pasta": "reel-drone-fpv-miami-vice-city",
-    "horario": "10:00",
-    "data": "2026-10-14"
+    "acao": "carrossel",
+    "slug": "gta-6-trailer-1-recordes",
+    "horario": "11:00",
+    "data": "2026-10-14",
+    "estilo": "chefao",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-14T09:59:29-03:00",
+  "em": "2026-10-14T11:00:11-03:00",
   "ok": true,
-  "media_id": "17931009669165552",
-  "permalink": "https://www.instagram.com/reel/DeecIf6gSqR/",
+  "media_id": "17961219114216227",
+  "permalink": "https://www.instagram.com/p/DeejIMpGptv/",
+  "story": {
+    "em": "2026-10-14T11:00:53-03:00",
+    "media_id": "17910233913311647"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
