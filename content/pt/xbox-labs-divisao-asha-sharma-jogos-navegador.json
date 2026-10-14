@@ -1,0 +1,140 @@
+{
+  "lang": "pt",
+  "slug": "xbox-labs-divisao-asha-sharma-jogos-navegador",
+  "story_id": "aff3e39d6a29b93a",
+  "title": "Xbox Labs: o que é o novo grupo da Xbox para testar jogos em navegadores e outras tecnologias",
+  "dek": "A CEO Asha Sharma anunciou uma divisão liderada por Scott Van Vliet para transformar ideias novas em produtos, sem mudar as prioridades da Xbox.",
+  "meta_description": "A Xbox anunciou o Xbox Labs, grupo que vai testar tecnologias como jogos em navegadores. Veja o que Asha Sharma disse, quem lidera e quais dúvidas ficam.",
+  "keyword": "Xbox Labs",
+  "category": "industria",
+  "tags": [
+    "xbox labs",
+    "xbox",
+    "asha sharma",
+    "microsoft",
+    "navegador"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "A Xbox anunciou o Xbox Labs, uma nova divisão para explorar o que chama de tecnologias emergentes e levar jogos a mais pessoas, em mais lugares. O anúncio foi feito pela CEO da Xbox, Asha Sharma, num comunicado ao time publicado também no blog Xbox Wire, e noticiado por IGN, Insider Gaming e Gematsu.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que é o Xbox Labs",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo a Gematsu, o Xbox Labs reunirá um grupo pequeno de criadores de jogos, engenheiros e cientistas para testar ideias novas, como tornar os jogos mais acessíveis, dar nova vida a jogos antigos e permitir que mais gente vire criadora. O comando é do diretor de tecnologia da Xbox, Scott Van Vliet, de acordo com a Gematsu e com o Insider Gaming. Este último lembra que ele foi vice-presidente na Microsoft para Azure OpenAI e infraestrutura de IA.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Sharma escreveu que a missão do grupo é transformar ideias emergentes em coisas que jogadores e desenvolvedores possam experimentar. A empresa diz que vai \"construir às claras\", aprender com o que as pessoas fizerem e medir o sucesso por quantas pessoas estão jogando e criando.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O gancho: jogos no navegador",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "No comunicado, Sharma cita experimentos recentes da comunidade: jogos recompilados para rodar em equipamentos para os quais não foram feitos, versões de PC adaptadas para chips da Apple e outros portados para navegadores com WebAssembly e WebGPU, tecnologia que, segundo ela, já tem perto de 90% de suporte global nos navegadores. A IGN cita a versão de Halo: Combat Evolved a 94 quadros por segundo no navegador como exemplo.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A IGN avalia que o Xbox Labs formaliza os testes que a Xbox já fazia para rodar jogos de Xbox e Xbox 360 em navegadores. O veículo vê o grupo como a próxima fase da retrocompatibilidade e afirma entender que o trabalho não será só pesquisa: a equipe deve lançar produtos. Esta é a leitura da IGN, e a empresa não detalhou produtos.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que a Xbox promete",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Dividir com o mercado: Sharma diz que as ferramentas criadas serão compartilhadas com desenvolvedores de toda a indústria, como a empresa sempre fez.",
+        "Manter o foco: as prioridades não mudam, e a Xbox segue comprometida com os quatro Cs, com bons jogos, com o hardware e com cuidar da propriedade intelectual e das comunidades.",
+        "Sem abandonar o que já existe: segundo Sharma, o Labs permite explorar tecnologia nova sem deixar de lado o trabalho em andamento."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Os números citados",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Para justificar o papel da Xbox, Sharma afirmou que as pessoas passam mais de 72 bilhões de horas por ano jogando jogos da Xbox, cerca de cinco vezes o tempo estimado que se gasta escrevendo código no mundo. A IGN observa que o objetivo declarado da CEO é chegar a 1 bilhão de jogadores por dia. Os números são da própria Xbox.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "As dúvidas",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Insider Gaming achou o anúncio confuso e disse que ele parece evitar as palavras inteligência artificial. O veículo lembra que Sharma falou em agentes de código no comunicado, mas diz não ficar claro quem usará as ferramentas e com quais limites. A pergunta dele: seria IA, seria modding? É uma opinião do veículo, e a Xbox não deu detalhes.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A IGN, por sua vez, diz que falta saber se e como a Xbox cobrará pelos produtos do Labs, seja com preço inicial, microtransações ou anúncios.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que ainda falta saber",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Que produtos o Xbox Labs vai lançar e quando.",
+        "Se haverá cobrança e de que tipo.",
+        "Se o grupo trará algo para o Brasil.",
+        "Qual o papel de IA no trabalho, que a Xbox não detalhou."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A IGN lembra que o anúncio vem numa semana movimentada da Xbox, que havia revelado na semana anterior sua frente Xbox XP, voltada à indústria de entretenimento.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "Xbox Labs",
+    "alt": "Arte do anúncio do Xbox Labs",
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/Xbox-Labs-Ann_10-13-26.jpg",
+    "credit": "Imagem: Gematsu"
+  },
+  "sources": [
+    {
+      "name": "Gematsu",
+      "owner": "gematsu",
+      "url": "https://www.gematsu.com/2026/10/xbox-announces-xbox-labs-to-explore-emerging-technologies",
+      "title": "Xbox announces Xbox Labs to explore ’emerging technologies’"
+    },
+    {
+      "name": "IGN",
+      "owner": "ziff-davis",
+      "url": "https://www.ign.com/articles/xbox-announces-xbox-labs-aimed-in-part-at-getting-improved-old-gen-games-playable-in-web-browsers",
+      "title": "Xbox Announces Xbox Labs, Aimed in Part at Getting Improved Old-Gen Games Playable in Web Browsers"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/xbox-labs-announced/",
+      "title": "Xbox Announces ‘Xbox Labs’, a New Xbox Division to “Explore New Technology”"
+    }
+  ],
+  "status": "draft"
+}
