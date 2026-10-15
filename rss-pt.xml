@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 00:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:40:10 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Red Rooster: ex-devs de Disco Elysium anunciam RPG sobre incêndios</title>
+      <link>https://pixelzada.com.br/pt/red-rooster-ex-devs-disco-elysium-rpg-incendios-summer-eternal/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/red-rooster-ex-devs-disco-elysium-rpg-incendios-summer-eternal/</guid>
+      <description>Ex-desenvolvedores de Disco Elysium anunciaram Red Rooster, um RPG de física sobre incêndios, com PC primeiro e sem data. Veja a história e o que se sabe.</description>
+      <category>Lançamentos</category>
+      <pubDate>Thu, 15 Oct 2026 10:40:10 +0000</pubDate>
+    </item>
     <item>
       <title>PS Plus Extra e Premium de outubro: Mafia, Horizon Forbidden West e Mycopunk</title>
       <link>https://pixelzada.com.br/pt/ps-plus-extra-premium-outubro-2026-mafia-horizon-mycopunk/</link>
@@ -238,14 +246,6 @@
       <description>Quem é Jason Duval, protagonista de GTA 6? Veja o que a Rockstar contou sobre o passado, o trabalho nas Keys e o que ele faz nas cenas já mostradas do jogo.</description>
       <category>GTA 6</category>
       <pubDate>Mon, 12 Oct 2026 12:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Wing Commander 3 terá edição de 30 anos com vídeos das fitas originais</title>
-      <link>https://pixelzada.com.br/pt/wing-commander-3-remaster-30-anos-fitas-originais/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/wing-commander-3-remaster-30-anos-fitas-originais/</guid>
-      <description>A EA anunciou uma edição de 30 anos de Wing Commander 3, com cenas em vídeo restauradas das fitas originais. Veja o que foi revelado e o que ainda não tem data.</description>
-      <category>Lançamentos</category>
-      <pubDate>Mon, 12 Oct 2026 10:48:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
