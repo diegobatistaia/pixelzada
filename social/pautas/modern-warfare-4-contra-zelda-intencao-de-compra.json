@@ -1,0 +1,73 @@
+{
+  "tipo": "noticia",
+  "formato": "comparativo",
+  "assunto": "MW4 e Zelda",
+  "gta6": false,
+  "materia": "activision-gta-6-vai-ajudar-modern-warfare-4-zelda",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/05/modernwarfare4-2560x1440.jpg",
+    "credito": "Activision",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, VGC e GamesRadar+",
+  "capa": {
+    "titulo": "Modern Warfare 4 ou Zelda: quem vende mais?",
+    "destaque": "quem vende mais",
+    "apoio": "A Activision provocou. Os números respondem. Arrasta.",
+    "lados": [
+      "MW4",
+      "Zelda"
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "A provocação",
+      "titulo": "Sem ofensa a Zelda",
+      "destaque": "Zelda",
+      "texto": [
+        "O CMO da Activision, Tyler Bahl, disse que **GTA e Call of Duty** são os dois maiores jogos do ano, segundo o VGC."
+      ]
+    },
+    {
+      "rotulo": "Intenção de compra",
+      "titulo": "15% contra 10,4%",
+      "destaque": "15%",
+      "texto": [
+        "Em agosto, a Circana mediu **15% para Modern Warfare 4** e 10,4% para o remake de Ocarina of Time entre jogadores de console e PC dos EUA."
+      ]
+    },
+    {
+      "rotulo": "O contraponto",
+      "titulo": "Zelda só roda no Switch 2",
+      "destaque": "Switch 2",
+      "texto": [
+        "Por jogador potencial, a intenção de compra de Ocarina é **bem maior**, diz o analista Mat Piscatella, segundo a GamesRadar+."
+      ]
+    }
+  ],
+  "final": "Quem leva a melhor em novembro?",
+  "legenda": {
+    "gancho": "A Activision disse que GTA 6 e Call of Duty são os maiores jogos do ano, e Zelda ficou de fora da conta.",
+    "corpo": [
+      "Segundo o VGC, Tyler Bahl respondeu 'sem ofensa a Zelda' quando perguntado sobre a concorrência de GTA 6 e do remake de Ocarina of Time com Modern Warfare 4, que sai em 23 de outubro.",
+      "A Circana mediu, em agosto, 15% de intenção de compra para MW4 e 10,4% para Ocarina entre jogadores de console e PC dos EUA, mas Zelda só roda no Switch 2, o que muda a conta, segundo a GamesRadar+."
+    ],
+    "chamada": "Você vai jogar MW4, Zelda ou os dois?",
+    "hashtags": [
+      "#pixelzada",
+      "#callofduty",
+      "#modernwarfare4",
+      "#zelda"
+    ]
+  },
+  "alt": [
+    "Slide 1: Modern Warfare 4 ou Zelda: quem vende mais",
+    "Slide 2: Sem ofensa a Zelda",
+    "Slide 3: 15% contra 10,4%",
+    "Slide 4: Zelda só roda no Switch 2",
+    "Slide 5: Quem leva a melhor em novembro?"
+  ],
+  "slug": "modern-warfare-4-contra-zelda-intencao-de-compra",
+  "status": "pronto",
+  "criado": "2026-10-15T17:39:21-03:00"
+}
