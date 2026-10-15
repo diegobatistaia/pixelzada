@@ -127,7 +127,10 @@
     "query": "Trailer 2 GTA 6",
     "alt": "Miniatura oficial do Trailer 2 de Grand Theft Auto VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-2.0l.7aqib91fz6.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/trailer-2-gta-6-o-que-mostrou-elenco-e-r-602ac409.jpg",
+    "source_url": "",
+    "foco": "50% 42%"
   },
   "sources": [
     {
@@ -191,5 +194,7 @@
       "title": "Grand Theft Auto VI - Rockstar Games"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T12:41:45+00:00",
+  "updated_at": "2026-10-15T12:41:45+00:00"
 }

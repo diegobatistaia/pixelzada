@@ -116,7 +116,9 @@
     "query": "Gran Turismo 7 Spec IV",
     "alt": "Arte da atualização Spec IV de Gran Turismo 7",
     "url": "https://blog.playstation.com/tachyon/2026/10/d5cfc813eab691ec601d72e8b599b173e6bc2dcc.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/gran-turismo-7-spec-iv-parte-1-carros-su-483cc0c6.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -132,5 +134,7 @@
       "title": "Gran Turismo is getting a new limited edition PS5 DualSense controller"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T12:41:44+00:00",
+  "updated_at": "2026-10-15T12:41:44+00:00"
 }
