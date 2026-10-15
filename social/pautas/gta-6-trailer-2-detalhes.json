@@ -1,0 +1,78 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Trailer 2",
+  "gta6": true,
+  "materia": "trailer-2-gta-6-o-que-mostrou-elenco-e-recorde-de-views",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-2.0l.7aqib91fz6.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, VGC e TechRadar",
+  "capa": {
+    "titulo": "Trailer 2 de GTA 6: o que passou batido",
+    "destaque": "passou batido",
+    "apoio": "Faltam 35 dias. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Detalhe 1",
+      "titulo": "Metade gameplay, metade história",
+      "destaque": "Metade gameplay",
+      "texto": [
+        "Segundo a Rockstar, o vídeo tem **partes iguais** de gameplay e cenas de história, todas capturadas em um PlayStation 5."
+      ]
+    },
+    {
+      "rotulo": "Detalhe 2",
+      "titulo": "Os nomes completos",
+      "destaque": "nomes completos",
+      "texto": [
+        "O trailer e o site oficial trouxeram pela primeira vez **Jason Duval e Lucia Caminos**, segundo o VGC e a TechRadar."
+      ]
+    },
+    {
+      "rotulo": "Detalhe 3",
+      "titulo": "Uma dupla de rap no elenco",
+      "destaque": "dupla de rap",
+      "texto": [
+        "Entre os nomes revelados estão Cal Hampton, Boobie Ike e a dupla **Real Dimez**, formada por Bae-Luxe e Roxy, segundo o VGC."
+      ]
+    },
+    {
+      "rotulo": "Detalhe 4",
+      "titulo": "Hot Together, 182.000% mais streams",
+      "destaque": "182.000%",
+      "texto": [
+        "A música das Pointer Sisters ouvida no trailer teve **alta de 182.000% nos streams** no Spotify, segundo dados citados pela The Hollywood Reporter."
+      ]
+    }
+  ],
+  "final": "Qual detalhe você tinha perdido?",
+  "legenda": {
+    "gancho": "Faltam 35 dias para GTA 6, e o Trailer 2 ainda guarda detalhes que muita gente deixou passar.",
+    "corpo": [
+      "Segundo a Rockstar, o vídeo de maio de 2025 tem partes iguais de gameplay e cenas de história, todas capturadas em um PlayStation 5. Foi ali que Jason Duval e Lucia Caminos ganharam nome completo, de acordo com VGC e TechRadar.",
+      "O elenco inclui a dupla de rap Real Dimez, e a música Hot Together, das Pointer Sisters, teve alta de 182.000% nos streams, segundo dados do Spotify citados pela The Hollywood Reporter. A Rockstar diz que o vídeo bateu 475 milhões de visualizações em 24 horas."
+    ],
+    "chamada": "Qual cena do Trailer 2 você mais repetiu?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Trailer 2 de GTA 6: o que passou batido",
+    "Slide 2: Metade gameplay, metade história",
+    "Slide 3: Os nomes completos",
+    "Slide 4: Uma dupla de rap no elenco",
+    "Slide 5: Hot Together, 182.000% mais streams",
+    "Slide 6: Qual detalhe você tinha perdido?"
+  ],
+  "slug": "gta-6-trailer-2-detalhes",
+  "status": "pronto",
+  "criado": "2026-10-15T09:40:38-03:00"
+}
