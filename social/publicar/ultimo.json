@@ -1,14 +1,23 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "nfs-concentrar-sob-pressao-2005",
-    "pasta": "reel-nfs-concentrar-sob-pressao-2005",
-    "horario": "12:00",
-    "data": "2026-10-15"
+    "acao": "carrossel",
+    "slug": "red-rooster-rpg-ex-disco-elysium",
+    "horario": "13:00",
+    "data": "2026-10-15",
+    "estilo": "ficha",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": null
   },
-  "em": "2026-10-15T11:59:15-03:00",
+  "em": "2026-10-15T13:00:47-03:00",
   "ok": true,
-  "media_id": "17973894288150460",
-  "permalink": "https://www.instagram.com/reel/DehOo9mirHx/",
+  "media_id": "18103767470640532",
+  "permalink": "https://www.instagram.com/p/DehVuYfm8yb/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
