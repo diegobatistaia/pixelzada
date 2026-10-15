@@ -46,12 +46,14 @@ RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 # Horários fixos (Brasília): 7 carrosséis por dia, 3 de GTA 6 e 4 de outros
 # jogos, nas horas ímpares das 9h às 21h; os Reels ficam nas horas pares entre
 # eles (scripts/social/reels.py). Um horário de GTA sem pauta de GTA pega outro
-# jogo, e vice-versa. Cada carrossel leva um Story junto.
+# jogo, e vice-versa. Desde 15/10 (pedido do Diego) só o carrossel de GTA 6
+# leva Story junto (STORY_SO_GTA); os de outros jogos saem sem Story.
 CARROSSEIS = [("09:00", "outros"), ("11:00", "gta"), ("13:00", "outros"), ("15:00", "gta"),
               ("17:00", "outros"), ("19:00", "gta"), ("21:00", "outros")]
 # O Reel está desligado desde 09/10 (o Diego não gostou do resultado e vai
 # repensar). O código segue pronto: para religar, REEL_ATIVO = True.
 REEL_ATIVO = False
+STORY_SO_GTA = True
 REEL = "18:00"
 # O GitHub atrasa os agendamentos. Um horário fica aberto de 2 min antes até
 # 1h50 depois (antes do carrossel seguinte); dentro da janela, cada tentativa vê
@@ -186,7 +188,7 @@ def cmd_preparar(args) -> int:
             pedido["estilo"] = post["estilo"]
             arquivos = [f.name for f in post["slides"]]
             pedido["slides"] = arquivos
-            pedido["story"] = post["story"].name
+            pedido["story"] = post["story"].name if p.get("gta6") or not STORY_SO_GTA else None
             if pedido["acao"] == "reel":
                 reel = arte.desenhar_reel(p, post["pngs"], pasta)
                 pedido.update(video=reel["video"].name, capa=reel["capa"].name)
