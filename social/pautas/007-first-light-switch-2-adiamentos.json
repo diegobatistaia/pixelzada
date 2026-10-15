@@ -1,0 +1,73 @@
+{
+  "tipo": "noticia",
+  "formato": "linha-do-tempo",
+  "assunto": "007 Switch 2",
+  "gta6": false,
+  "materia": "007-first-light-switch-2-data-18-de-marco-de-2027-deluxe",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/007-Switch-2_10-14-26.jpg",
+    "credito": "IO Interactive",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Gematsu, VGC e Eurogamer",
+  "capa": {
+    "titulo": "007 First Light no Switch 2 ganha data",
+    "destaque": "ganha data",
+    "apoio": "18 de março de 2027, depois de três adiamentos. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Os adiamentos",
+      "titulo": "Do plano original à nova data",
+      "destaque": "nova data",
+      "passos": [
+        "27 mar 2026: data inicial do jogo, segundo o VGC.",
+        "27 mai 2026: lançamento em PS5, Xbox Series e PC.",
+        "Set 2026: Switch 2 empurrado para março de 2027.",
+        "18 mar 2027: data confirmada, com pré-venda aberta."
+      ]
+    },
+    {
+      "rotulo": "A edição Deluxe",
+      "titulo": "Gadgets, roupas e traje de GoldenEye",
+      "destaque": "GoldenEye",
+      "texto": [
+        "A Deluxe custa **US$ 69,99** e traz quatro gadgets e quatro roupas, segundo o VGC.",
+        "Quem reservar ganha acesso antecipado a um traje de GoldenEye."
+      ]
+    },
+    {
+      "rotulo": "O que a IOI diz",
+      "titulo": "Mais tempo para otimizar",
+      "destaque": "otimizar",
+      "texto": [
+        "A produtora diz que usará os próximos meses para **refinar o desempenho** no Switch 2, segundo o Eurogamer."
+      ]
+    }
+  ],
+  "final": "Você espera pelo Switch 2 ou joga em outro console?",
+  "legenda": {
+    "gancho": "007 First Light finalmente tem data no Switch 2: 18 de março de 2027, e a pré-venda já abriu.",
+    "corpo": [
+      "O jogo saiu em 27 de maio de 2026 para PS5, Xbox Series e PC. A versão do Switch 2 foi adiada para o terceiro trimestre de 2026 e, depois, para março de 2027, segundo o VGC.",
+      "A edição Deluxe custa US$ 69,99 e traz gadgets, roupas e acesso antecipado a um traje de GoldenEye na pré-venda. A IO Interactive diz que usará o tempo extra para refinar o desempenho, segundo o Eurogamer."
+    ],
+    "chamada": "Você espera pelo Switch 2 ou já joga em outro console?",
+    "hashtags": [
+      "#pixelzada",
+      "#007firstlight",
+      "#switch2",
+      "#jamesbond"
+    ]
+  },
+  "alt": [
+    "Slide 1: 007 First Light no Switch 2 ganha data",
+    "Slide 2: Do plano original à nova data",
+    "Slide 3: Gadgets, roupas e traje de GoldenEye",
+    "Slide 4: Mais tempo para otimizar",
+    "Slide 5: Você espera pelo Switch 2 ou joga em outro console?"
+  ],
+  "slug": "007-first-light-switch-2-adiamentos",
+  "status": "pronto",
+  "criado": "2026-10-15T13:39:40-03:00"
+}
