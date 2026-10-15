@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:39:38 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sega tira Total War: Shogun 2 Complete Edition de venda após reclamações sobre IA</title>
+      <link>https://pixelzada.com.br/pt/sega-tira-total-war-shogun-2-complete-edition-de-venda-ia/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/sega-tira-total-war-shogun-2-complete-edition-de-venda-ia/</guid>
+      <description>A Sega vai retirar Total War: Shogun 2 Complete Edition da venda após críticas a bugs e a imagens ampliadas por IA. A versão original será recolocada à venda.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 15 Oct 2026 22:39:37 +0000</pubDate>
+    </item>
     <item>
       <title>Activision diz que GTA 6 vai ajudar Modern Warfare 4 e provoca fãs de Zelda</title>
       <link>https://pixelzada.com.br/pt/activision-gta-6-vai-ajudar-modern-warfare-4-zelda/</link>
@@ -238,14 +246,6 @@
       <description>A Epic adiou um shooter da Disney com Marvel e Star Wars e mandou a equipe usar IA primeiro, diz a Bloomberg. Veja o que foi reportado e o que a Epic respondeu.</description>
       <category>Indústria</category>
       <pubDate>Tue, 13 Oct 2026 00:41:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>No Man's Sky chega ao iPhone e ao iPad em 28 de outubro, sem multiplayer</title>
-      <link>https://pixelzada.com.br/pt/no-mans-sky-iphone-ipad-28-de-outubro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/no-mans-sky-iphone-ipad-28-de-outubro/</guid>
-      <description>No Man's Sky chega ao iPhone e ao iPad em 28 de outubro. Veja o que a versão para iOS tem, o que ficou de fora, quais aparelhos rodam e o elo com Light No Fire.</description>
-      <category>Lançamentos</category>
-      <pubDate>Mon, 12 Oct 2026 22:39:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

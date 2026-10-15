@@ -100,7 +100,10 @@
     "query": "Total War Shogun 2 Complete Edition",
     "alt": "Arte de Total War: Shogun 2 Complete Edition",
     "url": "https://assets-prd.ignimgs.com/2026/09/15/totalwarshogun2completeeditionannouncementtrailer-ign-blogroll-1789483521770.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/sega-tira-total-war-shogun-2-complete-ed-0d76b826.jpg",
+    "source_url": "",
+    "foco": "35% 37%"
   },
   "sources": [
     {
@@ -122,5 +125,7 @@
       "title": "Sega pulls Total War: Shogun 2 Complete Edition from stores over bugs and AI art"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T22:39:37+00:00",
+  "updated_at": "2026-10-15T22:39:37+00:00"
 }
