@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 14:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:40:49 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>007 First Light no Switch 2 ganha data: 18 de março de 2027, com edição Deluxe</title>
+      <link>https://pixelzada.com.br/pt/007-first-light-switch-2-data-18-de-marco-de-2027-deluxe/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/007-first-light-switch-2-data-18-de-marco-de-2027-deluxe/</guid>
+      <description>A IO Interactive marcou 007 First Light para Switch 2 em 18 de março de 2027. Veja pré-venda, edição Deluxe, os sucessivos adiamentos e as falas da produtora.</description>
+      <category>Lançamentos</category>
+      <pubDate>Thu, 15 Oct 2026 16:40:49 +0000</pubDate>
+    </item>
     <item>
       <title>Trailer de lançamento de GTA 6: tudo o que aparece, a música do Justice e as pistas</title>
       <link>https://pixelzada.com.br/pt/gta-6-trailer-de-lancamento-o-que-mostra-musica-justice-pistas/</link>
@@ -238,14 +246,6 @@
       <description>Yuji Horii, criador de Dragon Quest, lançou um jogo de interrogatório que diz ter feito com IA em cerca de 30 minutos. Veja o que ele disse e como funciona.</description>
       <category>Indústria</category>
       <pubDate>Mon, 12 Oct 2026 18:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nintendo diz que não tem planos de abandonar jogos físicos no Switch 2</title>
-      <link>https://pixelzada.com.br/pt/nintendo-sem-planos-abandonar-jogos-fisicos-switch-2/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/nintendo-sem-planos-abandonar-jogos-fisicos-switch-2/</guid>
-      <description>Bill van Zyll, da Nintendo na América Latina, disse que não há planos de abandonar jogos físicos no Switch 2. Veja o que ele disse e a diferença para a Sony.</description>
-      <category>Consoles e PC</category>
-      <pubDate>Mon, 12 Oct 2026 16:40:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
