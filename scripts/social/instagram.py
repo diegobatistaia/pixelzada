@@ -427,6 +427,29 @@ def cmd_publicar(args) -> int:
     return 0 if resultado["ok"] else 1
 
 
+def cmd_story(args) -> int:
+    """Refaz só o Story de um carrossel já publicado (a imagem já está em /ig/<slug>/)."""
+    p = P.carregar(args.slug)
+    if p.get("status") != "publicado" or (p.get("story") or {}).get("media_id"):
+        print(f"{args.slug}: não está publicado ou o Story já saiu; nada a fazer")
+        return 0
+    pedido = {"story": "story.jpg"}
+    try:
+        token, ig = conta()
+        p["story"] = {"em": agora().isoformat(timespec="seconds"), **publicar_story(p, pedido, ig, token)}
+        print("story publicado")
+    except ApiError as e:
+        p["story"] = {"erro": str(e)}
+        print(f"ERRO: {e}")
+    P.salvar(p)
+    if RESULTADO.exists():
+        r = json.loads(RESULTADO.read_text(encoding="utf-8"))
+        if r.get("pedido", {}).get("slug") == args.slug:
+            r["story"] = p["story"]
+            _gravar(r)
+    return 0 if p["story"].get("media_id") else 1
+
+
 def cmd_teste(args) -> int:
     resultado = {"pedido": {"acao": "teste"}, "em": agora().isoformat(timespec="seconds")}
     try:
@@ -539,9 +562,11 @@ def main(argv=None) -> int:
         sub.add_parser(nome)
     p = sub.add_parser("check")
     p.add_argument("slugs", nargs="*")
+    p = sub.add_parser("story")
+    p.add_argument("slug")
     args = ap.parse_args(argv)
     return {"decidir": cmd_decidir, "preparar": cmd_preparar, "publicar": cmd_publicar, "teste": cmd_teste, "conferir": cmd_conferir,
-            "check": cmd_check, "fila": cmd_fila, "agenda": cmd_agenda, "estilos": cmd_estilos, "imagens": cmd_imagens}[args.cmd](args)
+            "check": cmd_check, "story": cmd_story, "fila": cmd_fila, "agenda": cmd_agenda, "estilos": cmd_estilos, "imagens": cmd_imagens}[args.cmd](args)
 
 
 if __name__ == "__main__":

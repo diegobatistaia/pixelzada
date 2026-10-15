@@ -19,10 +19,13 @@ on:
   workflow_dispatch:
     inputs:
       acao:
-        description: "rodada = publica se for horário; teste = confere a chave; conferir = lista os últimos posts"
+        description: "rodada = publica se for horário; teste = confere a chave; conferir = lista os últimos posts; story = refaz só o Story do slug"
         type: choice
-        options: [teste, conferir, rodada]
+        options: [teste, conferir, rodada, story]
         default: teste
+      slug:
+        description: "só para acao=story: a pauta cujo Story não saiu"
+        required: false
 
 permissions:
   contents: write
@@ -48,8 +51,16 @@ jobs:
           python-version: "3.12"
 
       - name: Teste da chave ou conferência
-        if: env.ACAO != 'rodada'
+        if: env.ACAO != 'rodada' && env.ACAO != 'story'
         run: python -m scripts.social.instagram "$ACAO"
+
+      - name: Refazer só o Story
+        if: env.ACAO == 'story'
+        env:
+          SLUG: ${{ github.event.inputs.slug }}
+        run: |
+          pip install -r requirements.txt
+          python -m scripts.social.instagram story "$SLUG"
 
       - name: É horário de publicar?
         id: decidir
