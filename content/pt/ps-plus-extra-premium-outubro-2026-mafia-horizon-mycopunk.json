@@ -108,7 +108,10 @@
     "query": "PlayStation Plus Game Catalog de outubro",
     "alt": "Arte do PlayStation Plus Game Catalog de outubro de 2026",
     "url": "https://blog.playstation.com/tachyon/2026/10/564648f1d0bcdfc71f095bc5473eaf27c88b428e.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/ps-plus-extra-premium-outubro-2026-mafia-f135c0aa.jpg",
+    "source_url": "",
+    "foco": "50% 62%"
   },
   "sources": [
     {
@@ -148,5 +151,7 @@
       "title": "October's PlayStation Plus catalog is one of the service's best months"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T00:39:48+00:00",
+  "updated_at": "2026-10-15T00:39:48+00:00"
 }
