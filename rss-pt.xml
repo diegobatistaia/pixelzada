@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 16:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:40:39 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Big Walk não sai no Xbox por causa do boicote BDS, diz a House House</title>
+      <link>https://pixelzada.com.br/pt/big-walk-fora-do-xbox-boicote-bds-house-house/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/big-walk-fora-do-xbox-boicote-bds-house-house/</guid>
+      <description>A House House, de Untitled Goose Game, disse que Big Walk não chegará ao Xbox enquanto a Microsoft for alvo do boicote BDS. Veja o que o estúdio disse.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 15 Oct 2026 18:40:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Onde jogar GTA 6: PS5, Xbox Series, PS5 Pro e por que o PC ficou de fora</title>
+      <link>https://pixelzada.com.br/pt/onde-jogar-gta-6-ps5-xbox-series-ps5-pro-e-situacao-do-pc/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/onde-jogar-gta-6-ps5-xbox-series-ps5-pro-e-situacao-do-pc/</guid>
+      <description>GTA 6 sai em 19 de novembro só para PS5 e Xbox Series X|S. Veja o que se sabe do PS5 Pro, dos 30 fps, do Xbox Cloud Gaming e da versão de PC, sem data.</description>
+      <category>Guias</category>
+      <pubDate>Thu, 15 Oct 2026 18:40:38 +0000</pubDate>
+    </item>
     <item>
       <title>007 First Light no Switch 2 ganha data: 18 de março de 2027, com edição Deluxe</title>
       <link>https://pixelzada.com.br/pt/007-first-light-switch-2-data-18-de-marco-de-2027-deluxe/</link>
@@ -230,22 +246,6 @@
       <description>A Steam chegou a 43.505.724 usuários simultâneos em 11 de outubro, novo recorde segundo o SteamDB. Veja o que ajudou a puxar o número e o que ele não mede.</description>
       <category>Indústria</category>
       <pubDate>Mon, 12 Oct 2026 20:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lucia Caminos: quem é a protagonista de GTA 6 e o que já foi mostrado dela</title>
-      <link>https://pixelzada.com.br/pt/lucia-caminos-gta-6-quem-e-a-protagonista/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/lucia-caminos-gta-6-quem-e-a-protagonista/</guid>
-      <description>Quem é Lucia Caminos, protagonista de GTA 6? Veja o que a Rockstar contou sobre ela, o que apareceu nos trailers e no Extended Look e o que ainda é só rumor.</description>
-      <category>GTA 6</category>
-      <pubDate>Mon, 12 Oct 2026 18:41:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criador de Dragon Quest lança jogo que diz ter feito com IA em 30 minutos</title>
-      <link>https://pixelzada.com.br/pt/yuji-horii-dragon-quest-jogo-ia-30-minutos/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/yuji-horii-dragon-quest-jogo-ia-30-minutos/</guid>
-      <description>Yuji Horii, criador de Dragon Quest, lançou um jogo de interrogatório que diz ter feito com IA em cerca de 30 minutos. Veja o que ele disse e como funciona.</description>
-      <category>Indústria</category>
-      <pubDate>Mon, 12 Oct 2026 18:41:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -118,7 +118,10 @@
     "query": "GTA 6 Extended Look",
     "alt": "Imagem de divulgação de Grand Theft Auto VI, capturada no PS5",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k138k8okkk483/ffebf733f7e03ff9ec9467471cc25a6c1117c5be.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/onde-jogar-gta-6-ps5-xbox-series-ps5-pro-8d78a53a.jpg",
+    "source_url": "",
+    "foco": "62% 17%"
   },
   "sources": [
     {
@@ -218,5 +221,7 @@
       "title": "Grand Theft Auto VI"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T18:40:38+00:00",
+  "updated_at": "2026-10-15T18:40:38+00:00"
 }

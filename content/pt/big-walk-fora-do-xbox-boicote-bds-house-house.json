@@ -95,7 +95,9 @@
     "query": "Big Walk House House",
     "alt": "Cena de Big Walk, jogo cooperativo da House House",
     "url": "https://assets-prd.ignimgs.com/2026/08/07/bigwalk-blogroll-02-1786134282337.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/big-walk-fora-do-xbox-boicote-bds-house--e7033857.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -123,5 +125,7 @@
       "title": "Big Walk Xbox Microsoft BDS boycott"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T18:40:38+00:00",
+  "updated_at": "2026-10-15T18:40:38+00:00"
 }
