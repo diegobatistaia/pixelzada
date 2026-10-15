@@ -1,7 +1,8 @@
 name: Instagram
 
 # Publica no @pixelzada.br sozinho, em horários fixos (Brasília):
-#   carrossel + Story às 09h, 11h, 13h, 15h, 17h, 19h e 21h (GTA 6 às 11h, 15h e 19h)
+#   carrossel às 09h, 11h, 13h, 15h, 17h, 19h e 21h (GTA 6 às 11h, 15h e 19h);
+#   só o de GTA 6 leva Story (STORY_SO_GTA em scripts/social/instagram.py)
 #   Reel desligado (REEL_ATIVO em scripts/social/instagram.py)
 #
 # A redação (Routine do Claude) escreve as pautas em social/pautas/. Aqui, onde
