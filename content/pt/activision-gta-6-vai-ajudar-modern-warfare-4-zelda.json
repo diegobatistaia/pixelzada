@@ -94,7 +94,9 @@
     "query": "Call of Duty Modern Warfare 4",
     "alt": "Arte de divulgação de Call of Duty: Modern Warfare 4",
     "url": "https://www.videogameschronicle.com/files/2026/05/modernwarfare4-2560x1440.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/activision-gta-6-vai-ajudar-modern-warfa-8a96c6fa.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -122,5 +124,7 @@
       "title": "Zelda Ocarina of Time remake doesn't even rate against GTA 6 and Call of Duty Modern Warfare 4"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T20:40:17+00:00",
+  "updated_at": "2026-10-15T20:40:17+00:00"
 }

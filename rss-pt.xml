@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 18:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:40:17 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Activision diz que GTA 6 vai ajudar Modern Warfare 4 e provoca fãs de Zelda</title>
+      <link>https://pixelzada.com.br/pt/activision-gta-6-vai-ajudar-modern-warfare-4-zelda/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/activision-gta-6-vai-ajudar-modern-warfare-4-zelda/</guid>
+      <description>O CMO da Activision disse que GTA 6 vai ajudar Modern Warfare 4 e citou Zelda ao falar dos maiores jogos do ano. Veja a fala dele e os números da Circana.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 15 Oct 2026 20:40:17 +0000</pubDate>
+    </item>
     <item>
       <title>Big Walk não sai no Xbox por causa do boicote BDS, diz a House House</title>
       <link>https://pixelzada.com.br/pt/big-walk-fora-do-xbox-boicote-bds-house-house/</link>
@@ -238,14 +246,6 @@
       <description>No Man's Sky chega ao iPhone e ao iPad em 28 de outubro. Veja o que a versão para iOS tem, o que ficou de fora, quais aparelhos rodam e o elo com Light No Fire.</description>
       <category>Lançamentos</category>
       <pubDate>Mon, 12 Oct 2026 22:39:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steam bate recorde com mais de 43 milhões de usuários ao mesmo tempo</title>
-      <link>https://pixelzada.com.br/pt/steam-recorde-43-milhoes-usuarios-simultaneos/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/steam-recorde-43-milhoes-usuarios-simultaneos/</guid>
-      <description>A Steam chegou a 43.505.724 usuários simultâneos em 11 de outubro, novo recorde segundo o SteamDB. Veja o que ajudou a puxar o número e o que ele não mede.</description>
-      <category>Indústria</category>
-      <pubDate>Mon, 12 Oct 2026 20:41:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
