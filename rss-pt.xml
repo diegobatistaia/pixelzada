@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 12:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:40:34 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Trailer de lançamento de GTA 6: tudo o que aparece, a música do Justice e as pistas</title>
+      <link>https://pixelzada.com.br/pt/gta-6-trailer-de-lancamento-o-que-mostra-musica-justice-pistas/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-trailer-de-lancamento-o-que-mostra-musica-justice-pistas/</guid>
+      <description>A Rockstar lançou o trailer de lançamento de GTA 6, com 90 segundos e música do Justice. Veja o que aparece sobre Jason e Lucia e o que ainda é palpite.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 15 Oct 2026 14:40:34 +0000</pubDate>
+    </item>
     <item>
       <title>Trailer 2 de GTA 6: o que mostrou, o elenco e o recorde de 475 milhões de views</title>
       <link>https://pixelzada.com.br/pt/trailer-2-gta-6-o-que-mostrou-elenco-e-recorde-de-views/</link>
@@ -238,14 +246,6 @@
       <description>Bill van Zyll, da Nintendo na América Latina, disse que não há planos de abandonar jogos físicos no Switch 2. Veja o que ele disse e a diferença para a Sony.</description>
       <category>Consoles e PC</category>
       <pubDate>Mon, 12 Oct 2026 16:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gears of War: E-Day sofreu ataque DDoS no fim de semana, confirma a The Coalition</title>
-      <link>https://pixelzada.com.br/pt/gears-of-war-e-day-ataque-ddos-servidores/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gears-of-war-e-day-ataque-ddos-servidores/</guid>
-      <description>A The Coalition confirmou que as quedas de Gears of War: E-Day no fim de semana foram causadas por ataque DDoS. Veja o que o estúdio disse e o que falta saber.</description>
-      <category>Indústria</category>
-      <pubDate>Mon, 12 Oct 2026 14:42:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -116,7 +116,10 @@
     "query": "Trailer de lançamento de GTA 6",
     "alt": "Imagem do trailer de lançamento de Grand Theft Auto VI",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/GTA6-Launch-PV_10-15-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/gta-6-trailer-de-lancamento-o-que-mostra-08e80b1b.jpg",
+    "source_url": "",
+    "foco": "32% 15%"
   },
   "sources": [
     {
@@ -174,5 +177,7 @@
       "title": "GTA 6 launch trailer dropped by Rockstar Games"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-15T14:40:34+00:00",
+  "updated_at": "2026-10-15T14:40:34+00:00"
 }
