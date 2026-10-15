@@ -1,26 +1,23 @@
 {
   "pedido": {
     "acao": "carrossel",
-    "slug": "zelda-ocarina-of-time-remake",
-    "horario": "21:00",
-    "data": "2026-10-14",
-    "estilo": "dividido",
+    "slug": "controle-xbox-nano-em-numeros",
+    "horario": "09:00",
+    "data": "2026-10-15",
+    "estilo": "mosaico",
     "slides": [
       "01.jpg",
       "02.jpg",
       "03.jpg",
       "04.jpg",
-      "05.jpg"
+      "05.jpg",
+      "06.jpg"
     ],
-    "story": "story.jpg"
+    "story": null
   },
-  "em": "2026-10-14T20:59:38-03:00",
+  "em": "2026-10-15T09:00:39-03:00",
   "ok": true,
-  "media_id": "18150847258554024",
-  "permalink": "https://www.instagram.com/p/Defntw6kZU5/",
-  "story": {
-    "em": "2026-10-14T21:08:00-03:00",
-    "media_id": "18447613480130859"
-  },
+  "media_id": "18446943397130651",
+  "permalink": "https://www.instagram.com/p/Deg6PYbGwNx/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
