@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:40:45 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remake de Zelda: Ocarina of Time mostra Dark Link em dois novos trailers</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-dark-link-novos-trailers/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-dark-link-novos-trailers/</guid>
+      <description>Dois novos trailers do remake de Zelda: Ocarina of Time mostram Dark Link pela primeira vez. Veja o que há nos vídeos e o que se sabe da dublagem em português.</description>
+      <category>Lançamentos</category>
+      <pubDate>Fri, 16 Oct 2026 14:40:44 +0000</pubDate>
+    </item>
     <item>
       <title>Linha do tempo de GTA 6: do anúncio ao lançamento em 19/11/2026</title>
       <link>https://pixelzada.com.br/pt/linha-do-tempo-gta-6-do-anuncio-ao-lancamento-19-11-2026/</link>
@@ -238,14 +246,6 @@
       <description>A Sony anunciou o PS5 Digital Edition Midnight Black para 19 de novembro, só no Japão, por 55 mil ienes. Veja o preço, a trava de região e o que falta saber.</description>
       <category>Consoles e PC</category>
       <pubDate>Tue, 13 Oct 2026 12:40:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leonida: o estado de GTA 6, a versão da Rockstar para a Flórida</title>
-      <link>https://pixelzada.com.br/pt/leonida-estado-gta-6-florida-da-rockstar/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/leonida-estado-gta-6-florida-da-rockstar/</guid>
-      <description>O que é Leonida, o estado fictício de GTA 6? Veja as seis regiões, o tamanho do mapa, o clima com furacões e os animais já mostrados antes de 19 de novembro.</description>
-      <category>GTA 6</category>
-      <pubDate>Tue, 13 Oct 2026 12:40:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
