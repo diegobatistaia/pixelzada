@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:03:56+00:00",
+  "generated_at": "2026-10-16T19:35:11+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 4,
@@ -112,8 +112,8 @@
           "title": "HUMANKIND 2 ganha primeiro trailer de gameplay",
           "published_at": "2026-10-16T03:43:56+00:00",
           "kind": "press",
-          "text": "Novo Modo foi desenvolvido em colaboração com mais de 30 historiadores para permitir que os jogadores vivenciem eventos reais no mapa da Terra.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8WAnbK4KkON8DEqwhNcpyOGs87mLEaEC3toVgD6KYacYbvCKOKNxz4R9Rsx5oWSSeyu2c9QW8cYujUVcXiHQWgWz9Wf9wJLxwgNDARUqeMi_OToaqo6cY-IZaiMF6euwnY6aupHCFLyZd4KFb7zN6qPBM7huvdSk1UFOuqqZ1VhIgQEh8Sy5fIrdBmxU/w1200-h630-p-k-no-nu/image.png"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Insider Gaming",
@@ -282,19 +282,19 @@
       ]
     },
     {
-      "story_id": "8ea2491a771db1be",
+      "story_id": "42bd0806e02f7829",
       "title": "Shrek 2 Remastered Microsoft Store page appears",
       "summary": "A Microsoft Store page for the unannounced Shrek 2 Remastered developed by Aspyr has gone …",
       "owners": [
-        "gameblast",
         "gematsu",
-        "insider-gaming"
+        "insider-gaming",
+        "meups"
       ],
       "primary_owners": [],
       "fingerprints": [
         "fa09de2e5048f5ce",
         "3ff35984042c1881",
-        "0173b062b5c9f737"
+        "d35a681ddc04402f"
       ],
       "sources": [
         {
@@ -318,14 +318,14 @@
           "image": "https://insider-gaming.com/wp-content/uploads/2026/10/Shrek-2-XBOX.jpg"
         },
         {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/shrek-2-remastered-pagina-na-microsoft-store-vaza-anuncio-do-jogo.html",
-          "title": "Shrek 2 Remastered: página na Microsoft Store vaza anúncio do jogo",
-          "published_at": "2026-10-16T18:49:03+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/shrek-2-remastered-vaza-na-xbox-store/",
+          "title": "Shrek 2 Remastered tem trailer e detalhes vazados na Xbox Store",
+          "published_at": "2026-10-16T19:18:04+00:00",
           "kind": "press",
-          "text": "Desenvolvido pela Aspyr, clássico de ação e aventura traz gráficos em 4K, modo cooperativo para quatro jogadores e novo Modo Foto.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPkr0euhamdSa5qc4n0FiO1iV9zOKsgbZJM_nAnJUGUb7FKuUv74jGRBSq8W6OyLGnCDsQzNf4If7ORF3qgQa0pKfASgaaNkdcOTeOc_OUjgcl_vKd7OCz7rH8G9MKCHNmLCMTadFGgHMnoSeCGZrl_1hAJzf4SZaT5Hv9ymf21W-kyCS5UWHLFknOqpi/w1200-h630-p-k-no-nu/Shrek-2-Remastered-vazamento.jpg"
+          "text": "Vinícius Paráboa é redator no MeuPlayStation, com experiência na cobertura do universo PlayStation e da indústria de games. Acompanha a evolução da marca desde o PS1, com foco em notícias e tendências do mercado. Tem afinidade com clássicos como Crash Bandicoot, Sonic e Spyro, além de franquias como Persona, Assassin’s Creed e God of War.",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Shrek-2-Remastered.webp"
         }
       ]
     },
