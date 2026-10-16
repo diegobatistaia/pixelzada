@@ -1,0 +1,130 @@
+{
+  "lang": "pt",
+  "slug": "dean-hall-brutal-framework-alternativa-unity-unreal",
+  "story_id": "4778bca325869654",
+  "title": "Criador de DayZ lança o Brutal, alternativa grátis ao Unity e ao Unreal",
+  "dek": "Dean Hall disse que a indústria está apodrecendo por dentro e liberou um framework aberto em C#. Ele já é usado em Kitten Space Agency, e o RimWorld trocou de motor.",
+  "meta_description": "Dean Hall, criador de DayZ, lançou o Brutal, framework grátis e aberto em C#, e criticou Unity e Unreal. Veja o que ele disse, quem já usa e as ressalvas.",
+  "keyword": "Brutal framework Dean Hall",
+  "category": "industria",
+  "tags": [
+    "dean hall",
+    "brutal",
+    "dayz",
+    "unreal engine",
+    "unity"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "Dean Hall, criador de DayZ, Icarus e Kitten Space Agency, soltou o verbo contra as grandes empresas de jogos e lançou uma alternativa aos motores mais usados do mercado. O Brutal é um framework livre e de código aberto, e Hall o apresentou em um longo post no Reddit, segundo o Eurogamer e o GamesRadar. Para ele, a indústria está apodrecendo \"do núcleo para fora\", movida pela ganância e por uma corrida para baixo nos preços.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que é o Brutal",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O GamesRadar explica que, tecnicamente, o Brutal não é um motor de jogo. É um conjunto de programas e ferramentas em C# que serve para fazer jogos ou como base para montar motores próprios. Foi feito pela RocketWerkz, estúdio de Hall, e é grátis. O Eurogamer diz que o projeto é público, com o código aberto para qualquer pessoa conferir.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Hall afirma que não foi trabalho só dele: muita gente da RocketWerkz participou, e, segundo ele, pessoas de algumas das maiores empresas do setor estão entrando no esforço. Também deixa claro que não é uma ferramenta que todos devam usar. Felipe Falanghe, criador de Kerbal Space Program, comparou usar o Brutal a sentar num banquinho de bar enquanto quem usa motores como o Godot fica num sofá confortável, conforme o GamesRadar.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que Hall criticou",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O alvo principal foram a Epic, dona do Unreal, e a Unity. Segundo o GamesRadar, Hall escreveu que os desenvolvedores entregaram um controle extraordinário sobre o próprio trabalho a empresas que, na visão dele, não prestam contas. O Eurogamer cita a frase em que ele diz que a ganância e a falta de responsabilidade das duas empresas as deixaram incapazes de conciliar a necessidade de parecerem relevantes.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Hall também teme que, à medida que fluxos de trabalho com agentes de IA diminuírem as vantagens dessas empresas, elas tentem extrair mais dinheiro de quem não consegue trocar de motor, por royalties, assinaturas ou licenças mais restritivas. O GamesRadar lembra que a Unity tentou cobrar taxas enormes de instalação em 2023 e recuou. Hall conta ainda que perguntou ao CEO da Epic, Tim Sweeney, durante uma palestra na GDC de 2025, se o Unreal presta contas aos desenvolvedores em desempenho e estabilidade.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Brutal é grátis, de código aberto e escrito em C#.",
+        "Não é, tecnicamente, um motor: serve de base para jogos ou para motores próprios.",
+        "Kitten Space Agency usa o Brutal diretamente, segundo o GamesRadar.",
+        "O jogo novo de Felipe Falanghe também usa."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "A questão da inteligência artificial",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Eurogamer atualizou a notícia depois de trocar e-mails com Hall. Ele diz que não há IA generativa no Brutal: nenhuma ferramenta nem script para gerar assets, e o repositório público permite conferir. Para ele, o framework serve para montar um jogo ou motor, não para gerar conteúdo.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Hall disse ainda achar confuso que Unreal e Unity gastem tanto esforço com IA. Se o custo de criar as próprias ferramentas se aproxima de zero, pergunta ele, por que pagar para contornar o fluxo gigante e feito para humanos de outra empresa? Na visão dele, as duas empresas aceleram uma tecnologia que pode minar o próprio modelo de negócios. Ele também fez questão de dizer que não afirma que o Brutal seja o vencedor, mas sim um começo.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Quem já usa e o caso RimWorld",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o GamesRadar, Hall cita o RimWorld como prova de progresso. A Ludeon Studios refez o motor do jogo e, de acordo com Hall, usou o framework como base. A própria Ludeon anunciou nesta semana o Waylith Engine, descrito como motor próprio do estúdio, com desempenho de duas a quatro vezes melhor em testes. A versão nova já está disponível em um branch beta no Steam e, segundo o estúdio, não quebra mods.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Falanghe, por sua vez, contou que deixou o Kerbal Space Program sem direitos sobre o jogo há oito anos e que, com o Brutal, seu novo projeto está muito perto de poder ser mostrado.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "E Icarus?",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o Eurogamer, Icarus usa o Unreal Engine 4 e a RocketWerkz não pretende abandonar o motor nele. O estúdio deixou o Unreal de lado em novos projetos, mas trocar o motor de Icarus seria muito disruptivo para os jogadores, que recebem patches toda semana desde o lançamento, diz Hall.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Ainda não dá para saber se o Brutal vai ser adotado em larga escala. São opiniões de um desenvolvedor, não uma resposta da Epic ou da Unity, que não aparece nos textos consultados.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "Dean Hall",
+    "alt": "Ilustração de astronauta ligada a Dean Hall e à RocketWerkz",
+    "url": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: Eurogamer"
+  },
+  "sources": [
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
+      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity"
+    },
+    {
+      "name": "GamesRadar",
+      "owner": "future-plc",
+      "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
+      "title": "\"Our industry is rotting\" and AI made it worse, so DayZ creator wants to change how games are made"
+    }
+  ],
+  "status": "draft"
+}
