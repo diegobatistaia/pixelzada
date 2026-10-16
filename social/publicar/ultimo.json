@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "gta-6-linha-do-tempo-do-anuncio-ao-lancamento",
-    "horario": "15:00",
-    "data": "2026-10-16",
-    "estilo": "conquista",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "desinstalar-gta5-pra-instalar-gta6",
+    "pasta": "reel-desinstalar-gta5-pra-instalar-gta6",
+    "horario": "16:00",
+    "data": "2026-10-16"
   },
-  "em": "2026-10-16T15:00:02-03:00",
+  "em": "2026-10-16T15:59:44-03:00",
   "ok": true,
-  "media_id": "18001585698040236",
-  "permalink": "https://www.instagram.com/p/DekIKp0iRzh/",
-  "story": {
-    "em": "2026-10-16T15:00:45-03:00",
-    "media_id": "18017625068956307"
-  },
+  "media_id": "18108626515920038",
+  "permalink": "https://www.instagram.com/reel/DekO8qcoHTs/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
