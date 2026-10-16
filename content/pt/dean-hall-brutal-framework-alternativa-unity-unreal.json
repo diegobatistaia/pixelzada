@@ -110,7 +110,10 @@
     "query": "Dean Hall",
     "alt": "Ilustração de astronauta ligada a Dean Hall e à RocketWerkz",
     "url": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/dean-hall-brutal-framework-alternativa-u-b476f5c5.jpg",
+    "source_url": "",
+    "foco": "60% 51%"
   },
   "sources": [
     {
@@ -126,5 +129,7 @@
       "title": "\"Our industry is rotting\" and AI made it worse, so DayZ creator wants to change how games are made"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-16T22:39:35+00:00",
+  "updated_at": "2026-10-16T22:39:35+00:00"
 }

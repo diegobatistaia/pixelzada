@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 20:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:39:36 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Criador de DayZ lança o Brutal, alternativa grátis ao Unity e ao Unreal</title>
+      <link>https://pixelzada.com.br/pt/dean-hall-brutal-framework-alternativa-unity-unreal/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/dean-hall-brutal-framework-alternativa-unity-unreal/</guid>
+      <description>Dean Hall, criador de DayZ, lançou o Brutal, framework grátis e aberto em C#, e criticou Unity e Unreal. Veja o que ele disse, quem já usa e as ressalvas.</description>
+      <category>Indústria</category>
+      <pubDate>Fri, 16 Oct 2026 22:39:35 +0000</pubDate>
+    </item>
     <item>
       <title>Steam ganha conjuntos de conquistas: DLC não derruba mais seu 100%</title>
       <link>https://pixelzada.com.br/pt/steam-conjuntos-de-conquistas-dlc-nao-derruba-100/</link>
@@ -238,14 +246,6 @@
       <description>Veja os lançamentos do Xbox de 12 a 16 de outubro, com Castlevania: Belmont's Curse e Planet Zoo 2, e a data do ID@Xbox Showcase, em 20 de outubro, às 14h.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 13 Oct 2026 20:40:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Escape Academy 2: Back 2 School chega ao PS5 em 5 de novembro com campus aberto</title>
-      <link>https://pixelzada.com.br/pt/escape-academy-2-back-2-school-ps5-5-de-novembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/escape-academy-2-back-2-school-ps5-5-de-novembro/</guid>
-      <description>Escape Academy 2: Back 2 School ganha versão de PS5 e sai em 5 de novembro, com campus aberto, coop local e on-line e modo sem cronômetro. Veja o que muda.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 13 Oct 2026 18:40:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
