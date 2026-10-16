@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T22:15:03+00:00",
+  "generated_at": "2026-10-16T22:53:09+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 6,
+  "already_written_today": 7,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -282,42 +282,6 @@
       ]
     },
     {
-      "story_id": "4778bca325869654",
-      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-      "summary": "UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Read more",
-      "owners": [
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "5049c7ca1ffb21f7",
-        "261b53f8df073479"
-      ],
-      "sources": [
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
-          "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
-          "published_at": "2026-10-15T13:02:51+00:00",
-          "kind": "press",
-          "text": "\"Developers have surrendered an extraordinary amount of control.\" UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Primarily, I wanted to clarify what Brutal's relationship was with generative AI, if any, because it's the tech topic of the moment and something both Epic and Unreal , and Unity , are all-in on. In this regard, Hall answered: \"There is no generative AI inside it, no tooling or scripts for making generative AI assets. Anyone can see for themselves as the repository is public. The framework is a tool for putting a game or engine together, not for generating anything.\" Hall then tackled generative AI more broadly, particularly as it relates to Unreal and Unity, and said he finds it \"confusing\" that both engines focus \"so much effort\" on it. They are human-centric workflows, as he calls them - presumably meaning designed to be easily digestible by humans. \"What, specifically, is it about Unreal - which has long focused on visual scripting, blueprints, and such - that would make it good for AI work?\" He asked. \"If we take all the promises as true, why would a human-centric workflow without the human be better than a language-centric workflow provided to a language model?\" I don't understand some of that but the \"inconsistency\" bothers Hall. \"Let's take their arguments as gospel and say that AI is the way for them,\" he went on. \"What happens when the cost of making those very tools yourself is approaching zero? Why pay to work around someone else's enormous, human-centric workflow when you can increasingly make the exact tools you need? The technology they're embracing might actually be undermining the very reason developers needed them in the first place.\" It reminds him of the dot-com era \"when companies tried to slap a coat of paint on themselves and suddenly become internet companies\". \"Unity and Unreal may be accelerating the adoption of the very technology that could undermine their business models,\" he said. \"Pretty ironic.\" Think about the control companies like Epic with Unreal, and Unity with its engine, have over a game developer's project, and what happens if they make a change or perhaps introduce a fee a developer is not happy with. What can the developer do? Because those are issues people face. \"Is that going to get better?\" Hall asked. \"And I want to be clear,\" he added, concluding. \"I am not saying my Brutal framework is the winner.\" Instead, it's meant to be a start. \"I want to say developers will tear down Unity and Unreal, but it is Unreal and Unity who are tearing themselves down. Their greed and lack of accountability to developers has left them completely unable to reconcile their need to appear relevant. They have to slap AI on everything while being an encumbrance for using the very thing they are pushing.\" Incidentally, on the topic of Icarus using Unreal Engine 4: Hall and RocketWerkz have no plans to remove it. The studio has apparently \"sunset\" Unreal as an engine it uses but switching engine for Icarus would require a lot more work. \"Migrating Icarus would be very disruptive,\" Hall said, \"and our players are loyal and we've earned their trust through patches every single week for years now since launch, not missing one. An engine switch to Brutal would disrupt that.\" ORIGINAL STORY 2PM BST: DayZ , Icarus, and Kitten Space Agency creator Dean Hall has issued a fiery assault against some of the world's biggest game companies, calling out a \"greed\" that's \"rotting\" our industry to its core. He took particular aim at engine-makers Epic (Unreal) and Unity, while simultaneously backing his words by launching an open-sourced, free alternative of his own: a game-making framework called Brutal. \"Our industry is rotting from its core,\" Hall wrote in an expansive post on Reddit , \"outwards in every direction, and it has been for some time. Driven by greed, driven by a race to the bottom on price. It is my position that the games industry was already heading somewhere unsustainable before reverse-engineering and powerful agentic processes became widely available. These have pushed things over the edge. \"But I think one of the biggest problems is something we don't discuss enough. Developers have surrendered an extraordinary amount of control over their work to companies whose interests aren't necessarily aligned with their own. So we're doing something about it.\" Brutal is a framework rather than a game engine, so it allows freedom to either make a game with it - as Hall's RocketWerkz studio has with Kitten Space Agency - or use another engine with it, like RimWorld 's developer Ludeon has with its game engine Waylith. \"We're making the Brutal framework publicly available, with its source code, and we're making it free to use, including for commercial games, subject to an attribution requirement,\" Hall wrote. \"There are no royalties and we don't want a percentage of your game's revenue.\" Hall's post shares a lot of detail about the origins of Brutal, about what it is and who's working on it. He also admits and even underlines that Brutal won't be for everyone. \"I do not believe this is the tool that everyone should use to make a game,\" Hall states. \"We are not trying to make something that can do everything for everyone.\" One particular anecdote that stands out to me is about where the spark came from to do this, and it sounds like it came from asking Epic boss Tim Sweeney a question during a Game Developers Conference 2025 talk. \"Tim was, for a long time, a hero of mine,\" Hall shared. \"A powerhouse of a programmer with a mind I admired growing up. But over time I became frustrated with how much of the discussion seemed to revolve around the latest buzzwords. The metaverse one year, AI the next. Meanwhile developers were struggling with perfo",
-          "image": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
-          "title": "\"Our industry is rotting\" and AI made it worse, so DayZ creator wants to change how games are made",
-          "published_at": "2026-10-16T20:30:33+00:00",
-          "kind": "press",
-          "text": "Kerbal Space Program creator is also on board for his next game DayZ creator Dean Hall reckons \"our industry is rotting from its core, outwards in every direction, and it has been for some time,\" and that rot has only been accelerated by the rise of AI agent-led development , reverse-engineering, and recompilation. \"These have pushed things over the edge,\" he says, so he and studio RocketWerkz have prepared and shared a new, open source game engine alternative meant to help developers \"break free of Unity\" and mainstream offerings like Unreal Engine as providers like Epic Games dive headfirst into AI. In a lengthy post to the gamedev subreddit , Hall explains the origins and intent of \"Brutal,\" a free C# (C Sharp) framework that is technically not a game engine – a collection of software and tools used to make games – but can be used to make games or applied as a base to build custom game engines. RocketWerkz's upcoming game Kitten Space Agency uses Brutal directly, and Hall says mega-hit colony sim RimWorld had its entire engine reworked by developer Ludeon Studios and creator Tynan Sylvester using this framework as a foundation. Just this week, Ludeon Studios announced its transition to the Waylith Engine, \"our own in-house engine built by Ludeon Studios. The game looks and plays exactly the same, but in our tests performance is improved by 2-4x.\" This new build of RimWorld is already available to players via a beta branch in Steam, and purportedly doesn't break mods. \"RimWorld isn’t the only game on Waylith,\" the studio adds. \"We’re working on something new! It may be a little while before we can share more details, but we couldn’t resist telling you.\" Hall says \"their team amazingly extracted the last bits of Unity out of RimWorld to create their Waylith engine,\" and highlights RimWorld as proof of progress. \"An established studio with a very specific set of problems can take the framework and build an engine designed around their own game, instead of spending years building the underlying foundations,\" he observes. What's more, the creator of Kerbal Space Program, Felipe Falanghe, says he's used Brutal to make his next game. \"I had left KSP with no rights to it 8 years prior, and had to battle uphill to do a job that was feeling more and more untenable,\" Falanghe says in a reply to Hall's post. Thanks to Brutal and a fresh crash-course in game development, he says his project is \"very very close to being showable.\" Weekly digests, tales from the communities you love, and more Hall is very clear about a few things. Firstly, this project wasn't just his baby; loads of people at RocketWerkz built this thing, and he says collaborators like Falanghe were invaluable. Additionally, after years in development, \"we also have new people joining us from some of the world's largest game companies, bringing their experience to this effort.\" Secondly, this is not a \"tool that everyone should use to make a game,\" even if it might be dreamy for the right people and project. Falanghe described Brutal this way: using it is like \"sitting on a bar stool while everyone else using engines like Godot was sitting on comfortable couches.\" I'm interpreting this to mean: it might not be as big or comfy as traditional game engines, but it might be just what you need. Hall later clarified that he thinks Godot, the game engine used by Slay the Spire 2, is a great bit of tech. Rather, he pushes his crosshairs toward Unity, Unreal Engine, and Epic CEO Tim Sweeney. \"I have watched Unity and Unreal consistently fail to be accountable to developers,\" Hall writes. \"And I think this problem could get much worse as agentic workflows begin undermining the competitive advantages that have protected established software companies. \"My concern is that as those advantages erode, the companies involved will increasingly look to extract more revenue from developers who feel they cannot switch. Whether through royalties, subscriptions, or more restrictive licensing.\" We've already seen this play out in an incident also cited by Falanghe as a warning sign to developers: Unity infamously adding enormous install fees in 2023 before being bullied out of this decision. Hall recalls listening to Sweeney at the GDC 2025 Tencent Summit talk. He asked the CEO \"whether he thought Unreal was accountable to developers, particularly around performance and stability.\" He says Sweeney responded by emphasizing \"making more demos and putting them on social media to counter people describing games as 'Unreal slop.'\" \"I was not satisfied with his answer, and I continue to believe Unreal is not accountable enough to developers,\" Hall continues. \"Particularly when it can take a 5% royalty on game revenue above its licensing threshold. I don't think developers should have to simply accept that relationship without questioning it.\" Hall skewers Epic for chasing trends rather than focusing on its product or audience. \"The metaverse one year, AI the next,\" he says. You can imagine Hall's response to Epic Games proudly announcing that it \"vibe coded\" its new storefront because \"programming is hard.\" Hall argues \"you are only as independent as your tools are,\" so a framework like Brutal is \"how we fight back.\" \"You can use BRUTAL for free, including in commercial games,\" he clarifies. \"There are no royalties and we don't want a percentage of your game's revenue.\" All that's required to use the open-source project is proper attribution: include the copyright notice in credits, show the Brutal logo on startup, and include the Brutal notice in project files. \"If you don't want to do that, we can arrange a separate commercial licence,\" Hall says. There are a lot of layers to this onion. The key takeaway is that some of the most celebrated and technically skilled developers of our time – as Hall notes, Kerbal Space Program is so robust that it is referenced by actual \"scientists and astronauts\" – have come together to agree that the tides of the games industr",
-          "image": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "2c78cfbd01ed68d3",
       "title": "ASUS Announces Availability of ROG XBOX Ally X20",
       "summary": "The post ASUS Announces Availability of ROG XBOX Ally X20 appeared first on XBOX Wire .",
@@ -435,6 +399,42 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/09/Dragon-Quest-Monsters.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "c97f6116b9a29fb1",
+      "title": "HUMANKIND 2 ganha primeiro trailer de gameplay",
+      "summary": "A desenvolvedora Amplitude Studios divulgou o primeiro trailer de gameplay de HUMANKIND 2 nesta quinta-feira (15). O jogo de estratégia histórica por turnos está previsto para ser lançado no PC (via Steam) em 2027 e trará sistemas reestruturados com base em 15 anos de experiência da equipe e no feedback da comunidade. A sequência aposta em maior liberdade de escolha para definir a evolução das...",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "06d6adfd85e8794c",
+        "45b116252199382c"
+      ],
+      "sources": [
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/humankind-2-ganha-primeiro-trailer-de-gameplay.html",
+          "title": "HUMANKIND 2 ganha primeiro trailer de gameplay",
+          "published_at": "2026-10-16T03:43:56+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/toxic-crusaders-gameplay-trailer",
+          "title": "Toxic Crusaders ‘Gameplay’ trailer",
+          "published_at": "2026-10-16T16:55:46+00:00",
+          "kind": "press",
+          "text": "Retroware has released a new gameplay trailer for side-scrolling beat ’em up game Toxic Crusaders . Here is an overview of the game, via its Steam page : When the evil Dr. Killemoff attacks, only one team of hideously deformed creatures of superhuman size and strength stands between him and his plans for global pollution: the Toxic Crusaders, earth’s last, greatest and ugliest hope for survival! The hottest heroes of 1991 return for a radical, radioactive beat ’em up for a new era, featuring awesome action, crushing combos and more toxic waste than you’ll know what to do with! Choose from seven playable characters, including Toxie, No-Zone, Junkyard, Major Disaster and Headbanger (who would technically count as two characters if they could only agree on something)—plus, for the first time, play as Toxie’s musically “gifted” girlfriend Yvonne, and the mother of all mothers, Mrs. Junko, Toxie’s mom! Battle across seven disgusting levels rendered in beautiful full-color pixel art as you defend Tromaville from hordes of Radiation Rangers, mutated thugs and zombie chickens. The odds might be stacked against you but with awesome powers, a winning personality and up to four-player local co-up on your side, the Smogulan Empire’s days are numbered! Take a deep breath and dive deep into an action-packed, pun-filled adventure that drags you kicking and screaming through the wonderful world of Troma. Enjoy cameos from gore-filled classics such as Class of Nuke ‘Em High, Poultrygeist: Night of the Chicken Dead, and Sgt. Kabukiman N.Y.P.D.—reimagined in the Saturday morning cartoon style that made this franchise so unforgettable! Toxic Crusaders is due out for PlayStation 5 , Xbox Series , PlayStation 4 , Xbox One , Switch , and PC via Steam in 2026.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Toxic-Crusaders-Trailer_10-16-26.jpeg"
         }
       ]
     }
