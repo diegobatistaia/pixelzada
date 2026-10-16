@@ -136,7 +136,10 @@
     "query": "GTA 6 Extended Look",
     "alt": "Imagem oficial do anúncio de Grand Theft Auto VI: An Extended Look",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k2kaa1o3297k9/4faf2f8d60cd657f09eb55707b31cc44008bfa4c.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/linha-do-tempo-gta-6-do-anuncio-ao-lanca-f6817cb3.jpg",
+    "source_url": "",
+    "foco": "62% 17%"
   },
   "sources": [
     {
@@ -254,5 +257,7 @@
       "title": "At nearly half a billion views, Rockstar says GTA 6's new trailer is 'the biggest video launch of all time'"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-16T12:41:41+00:00",
+  "updated_at": "2026-10-16T12:41:41+00:00"
 }
