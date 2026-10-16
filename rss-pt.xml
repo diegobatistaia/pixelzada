@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:40:14 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Control Resonant vende 1 milhão de cópias e vira o jogo mais rápido da história da Remedy</title>
+      <link>https://pixelzada.com.br/pt/control-resonant-1-milhao-de-copias-jogo-mais-rapido-da-remedy/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/control-resonant-1-milhao-de-copias-jogo-mais-rapido-da-remedy/</guid>
+      <description>Control Resonant passou de 1 milhão de cópias em cerca de três semanas e superou Alan Wake 2 como o título mais rápido da Remedy. Veja os números e o que falta.</description>
+      <category>Indústria</category>
+      <pubDate>Fri, 16 Oct 2026 16:40:13 +0000</pubDate>
+    </item>
     <item>
       <title>Remake de Zelda: Ocarina of Time mostra Dark Link em dois novos trailers</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-dark-link-novos-trailers/</link>
@@ -238,14 +246,6 @@
       <description>A Sony revelou a Collector Box de God of War Laufey por US$ 149,99, sem disco nem código. Veja o que vem na caixa, o preço no Reino Unido e o elo com GTA 6.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 13 Oct 2026 14:41:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sony lança PS5 Digital Edition Midnight Black só no Japão em 19 de novembro</title>
-      <link>https://pixelzada.com.br/pt/ps5-digital-edition-midnight-black-japao-19-de-novembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/ps5-digital-edition-midnight-black-japao-19-de-novembro/</guid>
-      <description>A Sony anunciou o PS5 Digital Edition Midnight Black para 19 de novembro, só no Japão, por 55 mil ienes. Veja o preço, a trava de região e o que falta saber.</description>
-      <category>Consoles e PC</category>
-      <pubDate>Tue, 13 Oct 2026 12:40:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
