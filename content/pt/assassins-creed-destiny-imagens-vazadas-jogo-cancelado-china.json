@@ -115,7 +115,9 @@
     "query": "Assassin's Creed",
     "alt": "Arte da série Assassin's Creed",
     "url": "https://www.videogameschronicle.com/files/2023/06/assassins-creed-codename-jade.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/assassins-creed-destiny-imagens-vazadas--a817859e.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -137,5 +139,7 @@
       "title": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-16T20:41:18+00:00",
+  "updated_at": "2026-10-16T20:41:18+00:00"
 }
