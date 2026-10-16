@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T19:35:11+00:00",
+  "generated_at": "2026-10-16T22:15:03+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 4,
+  "already_written_today": 6,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,98 +42,50 @@
   ],
   "stories": [
     {
-      "story_id": "70e8c3f7b3d06eb9",
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "summary": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the game as usual,\" Valve says. \"But when you browse what you have unlocked afterward, Steam will […]",
+      "story_id": "717a4d81d47917cd",
+      "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here’s When You Can Expect It",
+      "summary": "Call of Duty: Modern Warfare 4 is set for release on October 23, and in a big shakeup, it will not be available on Xbox Game Pass at launch. This has been known for a while, but Activision is reminding people of this in a new blog post on the eve of the game's campaign early access on October 16. In fact, Activision has been warning people that MW4 is not on Game Pass for months now , so the blog...",
       "owners": [
+        "fandom",
         "future-plc",
-        "insider-gaming",
-        "vox-media"
+        "valnet"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "09b153c0766a7ce6",
-        "cafb393763c009c5",
-        "f7cc3d74336d2f44"
+        "7d1526656e22bf9c",
+        "d1ceb7398bbef3dc",
+        "59fdc0b1a4ca9581"
       ],
       "sources": [
         {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-          "title": "Steam can now show game achievements in separate ‘sets’",
-          "published_at": "2026-10-15T23:18:28+00:00",
-          "kind": "press",
-          "text": "Developers with games on Steam can split achievements from a base game and its DLC into sets with their own progress bars. Developers with games on Steam can split achievements from a base game and its DLC into sets with their own progress bars. If you buy something from a link, The Verge may earn a commission. See our ethics statement. Valve is introducing a major new feature for Steam achievements called “achievement sets” that lets developers list different groups of achievements for a base game and DLCs. “In games that support sets, you still unlock achievements by playing the game as usual,” Valve says . “But when you browse what you have unlocked afterward, Steam will break the long list of game achievements into the developer-created sets, making it easier to see what you have completed and to find other related achievements you can unlock next.” Achievement sets have their own progress bars, and if you finish a set, you’ll get a “set complete” trophy that’s visible on your profile. Steam will support seasonal achievement sets that developers can archive, too. “We think there are a lot of fun ways games can take advantage of the temporary nature this can add, such as adding achievements to season-based games or enabling time-limited holiday achievements,” Valve says. A handful of games already support achievement sets, per Valve: The company is also refreshing the Steam Achievements page to show “a summary of your overall progress, progress in each achievement set, and details on individual achievements.” The new achievements features are available in the latest Steam client beta, Valve says .",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
-          "title": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
-          "published_at": "2026-10-15T23:58:30+00:00",
-          "kind": "press",
-          "text": "It's in beta now, but will likely release widely in about a month. Valve has pushed a new update to its Steam client beta introducing big changes to how achievements work and how they're displayed. Developers can now create sets of achievements customized to their game, like mastering a specific character class or finishing a singleplayer campaign. Sets also distinguish base game achievements from separate DLC and seasonal sets. Previously if you unlocked all achievements for a game you'd see a nice 'n' tidy 100% in your achievements list. But if that game got DLC with new achievements, that 100% would drop accordingly. I can understand why achievement heads would be annoyed by this: what if you have no intention of playing the DLC, but want to retain 100% completion bragging rights? This update fixes that, assuming devs use it. It's a similar situation for seasonal achievements, which I can see working well with battle passes. The example Valve uses is a set called \"Halloween Event Achievements\" which are valid for a certain period and don't affect the achievement count of the base game. In other words: if you have the completionist itch but skip a season, it won't affect your base game stats. All these changes have prompted a refresh of the achievements page. Most achievements info is now displayed on a single page: your progress towards overall completion, and your progress towards unlocking individual achievements. I especially like that you can now directly compare achievements with up to three friends at once, which is what's being displayed at the bottom of the above image. This has been a feature on PlayStation consoles for a while, and so has separate sets for DLC achievements. It's nice that Valve has caught up. Naturally, not every game on Steam will have implemented this new system yet, but the following games have: This system is still in beta, but you can sign up for the Client Beta or just wait: as we saw with Steam's new screensaver feature , betas normally only last around a month. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Shaun Prescott is the Australian editor of PC Gamer. With over ten years experience covering the games industry, his work has appeared on GamesRadar+, TechRadar, The Guardian, PLAY Magazine, the Sydney Morning Herald, and more. Specific interests include indie games, obscure Metroidvanias, speedrunning, experimental games and FPSs. He thinks Lulu by Metallica and Lou Reed is an all-time classic that will receive its due critical reappraisal one day. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/aDSd3fesSdXXhP9JGLAMAS-1200-80.png"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/steam-achievements-overhaul-now-available-in-beta/",
-          "title": "Steam Achievements Overhaul Now Available in Beta",
-          "published_at": "2026-10-16T15:50:06+00:00",
-          "kind": "press",
-          "text": "A new update has arrived in Steam Beta, overhauling the platform’s Achievements system and adding new Achievement Sets. Steam has recognized that games live longer thanks to DLCs and expansions, and while that’s great for gamers, it can sometimes mess up the platform’s achievement tracking and even remove players from completion status. Hence, the DLCs will no longer impact 100% completion, and the achievements have been compartmentalized into new ‘Achievement Sets’. Achievement Sets is a new system that has arrived with Steam Beta and is now available for a select set of games. With the new system, developers can compartmentalize a game’s achievements into different sets and define each one’s purpose. For example, a game could have different sets for single-player, multiplayer, DLC, and more. The new system doesn’t change how you earn achievements; you still earn them by playing the game. What’s changed is the viewing experience, with the long list now segregated into different sets with their own progress bar. Players will also earn a new “set complete” trophy when they unlock every achievement in a set. With new DLCs and expansions, developers can add new achievement sets specific to that content without affecting players’ progress. Steam has revealed different achievement sets: Base Game and DLC. Base game sets can be earned by playing the game, and this progress is shown in blue on the page. You can only access DLC achievement sets when you purchase that content; progress for these sets is shown in purple. The new system also lets developers add temporary sets for season-based games or time-limited holiday achievements. Once that time period is over, the developers can archive this set, and only the users who have unlocked the achievements or the set can showcase it on their profile. The overhaul also adds an updated Achievements page on Steam, accessible from the Games List on the web and from games in your Steam Library. The updated page will now display a summary of the player’s overall progress, the progress for each achievement set of that game, and details on individual achievements. Players can also toggle Global Stats or per-achievement completion rates on the same page. Additionally, Search has been expanded with new filters for achievement sets and for locked or unlocked achievements. Players will also be able to compare their game progress with up to three friends, including rare achievements, completed sets, and DLC sets. Along with all of these changes, there are some other enhancements as well: Currently, Steam’s Achievement Sets are only available to players and developers in beta . Here’s a list of all the games that support the new sets: What are your thoughts on Steam’s new Achievement Sets system? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more information from Insider Gaming, read about the new features coming to Blood of Dawnwalker with update 1.1 . Don’t forget to sign up for our weekly newsletter .",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/10/Steam-Achievements-.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "c97f6116b9a29fb1",
-      "title": "HUMANKIND 2 ganha primeiro trailer de gameplay",
-      "summary": "A desenvolvedora Amplitude Studios divulgou o primeiro trailer de gameplay de HUMANKIND 2 nesta quinta-feira (15). O jogo de estratégia histórica por turnos está previsto para ser lançado no PC (via Steam) em 2027 e trará sistemas reestruturados com base em 15 anos de experiência da equipe e no feedback da comunidade. A sequência aposta em maior liberdade de escolha para definir a evolução das...",
-      "owners": [
-        "gameblast",
-        "gematsu",
-        "insider-gaming"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "06d6adfd85e8794c",
-        "556a30bf8ec0ac46",
-        "45b116252199382c"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/humankind-2-ganha-primeiro-trailer-de-gameplay.html",
-          "title": "HUMANKIND 2 ganha primeiro trailer de gameplay",
-          "published_at": "2026-10-16T03:43:56+00:00",
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/call-of-duty-mw4-is-not-on-xbox-game-pass-but-heres-when-you-can-expect-it/",
+          "title": "Call Of Duty: MW4 Is Not On Xbox Game Pass, But Here’s When You Can Expect It",
+          "published_at": "2026-10-15T19:21:10+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/first-angelfall-trailer-delivers-devilishly-demonic-gameplay/",
-          "title": "First Angelfall Trailer Delivers Devilishly Demonic Gameplay",
-          "published_at": "2026-10-16T12:44:52+00:00",
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/call-of-duty/modern-warfare-4-game-pass/",
+          "title": "When will Modern Warfare 4 be on Game Pass?",
+          "published_at": "2026-10-16T16:14:13+00:00",
           "kind": "press",
-          "text": "Developer The Third One has dropped its first trailer for its new project, Angelfall. Let me tell you, there’s nothing angelic about the Archdemon you control, as you tear through humans and harvest souls. Angelfall is a new ‘roguelike reverse-horror game,’ where you fight hundreds of enemies at once. The visuals are dark and grizzly, in keeping with the game’s theme, and did I mention its pounding heavy metal soundtrack that would give Mick Gordon a run for his money? There’s so much going on at once in Angelfall that it’s easily the kind of game you could kick back with a cold drink and watch someone else play and have a great time. Absolute cinema, some would say. You need to use your Archdemon’s range of weapons and abilities to conquer perilously large mobs and take down bosses, while enjoying an industrial breakdown or two. The game can be wishlisted now, and there’s even a free Angelfall Steam demo for you to try out. Here’s the official game description to get you hyped: ‘Face the endless armies of Light and become the nightmare they fear! Angelfall is a roguelike reverse-horror game, in which you play as powerful Archdemon, slaughter hordes of humans and holy warriors, harvest their souls, and discover devastating synergies. Grow stronger, unlock new powers, and conquer the Light.’ Still not hyped enough? Check out the full gameplay trailer. How good does Angelfall look? Are you gonna try out the free demo? Let us know your thoughts on the Insider Gaming Discord server . For more Insider Gaming content, check out ‘ Insider Gaming Presents New Year, New Games 2027 Showcase On January 14 ,’ and don’t forget to sign up for our newsletter . Andy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/10/First-Angelfall-Trailer-Delivers-Devilishly-Demonic-Gameplay-news.jpg"
+          "text": "COD: MW4 will be on Game Pass, but not at launch Call of Duty: Modern Warfare 4 (2026) will not be on Xbox Game Pass at launch, which may came as a point of frustration to those COD fans who were hoping that the company's involvement with Microsoft would mean a day-one Game Pass availability. However, that doesn't mean that it's not coming at some point in the future, as I'll lay out the details below. According to an official press release from the development team, Modern Warfare 4 is not going to be available on Xbox Game Pass until \"Holiday 2027,\" roughly one year after its initial launch and release. Further details about exactly when in the year that will be are currently not available, but either way players can expect a long wait if they're dependant on Game Pass and don't want to purchase a copy for themselves. MW4 will still be available to buy on Xbox from its initial launch date of October 23, 2026, but not on the Game Pass subscription service. If you want an alternative until then, there are still a multitude of Call of Duty games currently available on Xbox Game Pass to download as part of the service, going all the way back to Call of Duty: Black Ops Cold War from 2020. Alternatively, if you're less brand-loyal and just want to find an online military shooter to experience with friends, Battlefield 6 is also available for free on Game Pass. © GamesRadar+. Not to be reproduced without permission. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Joel Franey is a writer, journalist, podcaster and Very Tired Man with a BA from Brunel University, a Masters from Sussex University and a decade working in games journalism, often focused on guides coverage but also in reviews, features and news. His love of games is strongest when it comes to groundbreaking narratives like Disco Elysium, UnderTale and Baldur's Gate 3, as well as innovative or refined gameplay experiences like XCOM, Sifu, Arkham Asylum or Slay the Spire. He is a firm believer that the vast majority of games would be improved by adding a grappling hook, and if they already have one, they should probably add another just to be safe. You can find old work of his at Eurogamer, Gfinity, USgamer, SFX Magazine, RPS, Dicebreaker, VG247, and more. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/t9kEG3FvRxzShLt5LTX4vB-1920-80.jpg"
         },
         {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/10/toxic-crusaders-gameplay-trailer",
-          "title": "Toxic Crusaders ‘Gameplay’ trailer",
-          "published_at": "2026-10-16T16:55:46+00:00",
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/best-call-of-duty-games-missing-from-game-pass/",
+          "title": "8 Call of Duty Games Still Missing from Game Pass",
+          "published_at": "2026-10-16T22:00:17+00:00",
           "kind": "press",
-          "text": "Retroware has released a new gameplay trailer for side-scrolling beat ’em up game Toxic Crusaders . Here is an overview of the game, via its Steam page : When the evil Dr. Killemoff attacks, only one team of hideously deformed creatures of superhuman size and strength stands between him and his plans for global pollution: the Toxic Crusaders, earth’s last, greatest and ugliest hope for survival! The hottest heroes of 1991 return for a radical, radioactive beat ’em up for a new era, featuring awesome action, crushing combos and more toxic waste than you’ll know what to do with! Choose from seven playable characters, including Toxie, No-Zone, Junkyard, Major Disaster and Headbanger (who would technically count as two characters if they could only agree on something)—plus, for the first time, play as Toxie’s musically “gifted” girlfriend Yvonne, and the mother of all mothers, Mrs. Junko, Toxie’s mom! Battle across seven disgusting levels rendered in beautiful full-color pixel art as you defend Tromaville from hordes of Radiation Rangers, mutated thugs and zombie chickens. The odds might be stacked against you but with awesome powers, a winning personality and up to four-player local co-up on your side, the Smogulan Empire’s days are numbered! Take a deep breath and dive deep into an action-packed, pun-filled adventure that drags you kicking and screaming through the wonderful world of Troma. Enjoy cameos from gore-filled classics such as Class of Nuke ‘Em High, Poultrygeist: Night of the Chicken Dead, and Sgt. Kabukiman N.Y.P.D.—reimagined in the Saturday morning cartoon style that made this franchise so unforgettable! Toxic Crusaders is due out for PlayStation 5 , Xbox Series , PlayStation 4 , Xbox One , Switch , and PC via Steam in 2026.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Toxic-Crusaders-Trailer_10-16-26.jpeg"
+          "text": "The franchise has slipped from its lofty perch in recent years, but there was a time when the launch of a new Call of Duty game was a huge event. The anticipation was never quite on the level of Grand Theft Auto 6 , but the series reliably mattered in a way that many other games did not. When Microsoft purchased Activision, some of us assumed we wouldn’t have to wait long before being able to play all of those classic games on Xbox Game Pass. Why else would Microsoft drop that kind of money on the company, if not to leverage its library of classics? But Call of Duty has made only a weak showing on the subscription service since then, with many of its most iconic games still available only for purchase. With Call of Duty: Modern Warfare 4 launching Oct. 23, here are eight Call of Duty games somehow still missing from Game Pass. We’d love to see them get added soon. After Call of Duty: Modern Warfare 2 , it was unclear how the franchise might top itself. Then came Call of Duty: Black Ops , with an energetic campaign that included outrageous moments such as an attempted assassination of Fidel Castro. Some of the most memorable characters in the franchise experienced a thrilling campaign, and that was just for starters. Without Black Ops , we never would have been introduced to the Nuketown map so many of us know and love from multiplayer deathmatch. The game’s absence from Game Pass is an injustice. World at War once again told a compelling story set in World War 2, like most of the franchise entries up to that point, but that’s not why most players remember it fondly. Rather, they recall the zombies mode, which developer Treyarch introduced to the overall franchise with sufficient success that it quickly became a standard component in future titles. Players worked to cooperate against increasingly powerful waves of invading zombies, rushing from one site to another and struggling to survive against the endless horde. If you love fighting zombies in Call of Duty, you owe that mode to this one great game, which is sadly missing from Game Pass. And if you want more World War 2 action of a more recent vintage, there’s always 2017’s Call of Duty: WW2 . There’s a popular meme you might have seen: “Press F to pay respects.” The familiar line comes from Call of Duty: Advanced Warfare . Early in the campaign, wounded during a recent military operation and now missing one arm, you attend the funeral of a fallen comrade. As you look over the coffin, text prompts you to press a button to grieve. Also present at that funeral: Jonathan Irons, the father of the slain soldier. Voiced by Kevin Spacey, Irons plays a pivotal role in a story that explores the contentious relationship between private enterprise and the United States government. It’s an intriguing tale, over-the-top in the way some of the best Call of Duty campaigns so often were, even if it occasionally feels contrived. Modern players are missing out on an experience that’s still worth having. Many players associated Infinity Ward with the best Call of Duty had to offer, even though there were three studios working on the series. Following the very noisy exit of Vince Zampella and Jason West in 2010, the remaining team had to work hard to prove they still had the creative juice necessary to build something special. Call of Duty: Ghosts was the result of their effort. Co-developed with Neversoft ( Tony Hawk’s Pro Skater ) and Raven Software, the game suffered from slower pacing and less interesting maps, but still managed to pack in some of the high-octane sequences for which the franchise is known. Although it’s not remembered as a high point for the series, it provided a solid experience that today’s players can still enjoy a great deal, provided they keep their expectations in check. Call of Duty: Black Ops 2 remains one of the most ambitious games in the series to date, offering spectacular multiplayer modes that gave players better control of their loadouts. Its maps were some of the very best, including Raid, Hijacked, and Slums, which players happily ran through time after time. The zombies mode was more ambitious than before, with Mob of the Dead and Origins DLC providing additional zombie maps on top of the ones that shipped on the disc. Black Ops 2 featured a branching narrative with multiple endings, allowing players to decide who lived and died as the team went up against Raul Menendez, one of the most believable villains in franchise history. It also imagined life in 2025, more than a decade after the game’s release date. Overall, the title is a high point for the franchise. It’s a minor tragedy that newer players have no idea what they’ve been missing. Call of Duty: Infinite Warfare had massive battles. In space. It had advanced technology and the firefights you know and love, this time with zero gravity. In space. And it had a compelling, surprisingly intimate plot featuring the voice talents of Brian Bloom and Kit Harington. They probably didn’t record them in space, even if it sounded like it. Besides all of that, some copies of the game shipped with Call of Duty: Modern Warfare Remastered as a bonus, which made a good thing even better. For me and some other players, it was the last time a new Call of Duty game felt like a proper event that was not to be missed. The game’s continued absence from the Game Pass lineup is a real disappointment. A weekly cheat sheet to what you’ll eventually love to play. No buying, no commitment — just saving for later. If you say “No Russian” to Call of Duty players of a certain age, they’ll immediately know just what you mean, perhaps even if they didn’t play the original Call of Duty: Modern Warfare 2 . The scene where that pivotal phrase was uttered ranks among the most memorable ever featured in a first-person shooter. At the time, it was preceded by a warning to let players know they were about to go to a very dark place. But that scene – and the game as a whole – were a welcome gut-punch i",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/vs-youtube-modernwarfare4pre-orderbonusinnercircuitm4blueprint-youtube-0-07.jpg?w=1600&h=900&fit=crop"
         }
       ]
     },
@@ -186,6 +138,54 @@
       ]
     },
     {
+      "story_id": "45b447fe18baab98",
+      "title": "The Live-Action Cyberpunk 2077 Movie Won't Retrace the Game's Steps, CD Projekt Confirms",
+      "summary": "CD Projekt Red has finally spoken up about the live-action Cyberpunk 2077 movie. The company said it doesn’t want to do a 1:1 adaptation of the game, instead telling a new story within the same universe.",
+      "owners": [
+        "future-plc",
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "34bc763b554e9c1e",
+        "dbcc4fe2eb59c732",
+        "af76e8d52e343a8f"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/cyberpunk-2077-movie-not-retelling",
+          "title": "The Live-Action Cyberpunk 2077 Movie Won't Retrace the Game's Steps, CD Projekt Confirms",
+          "published_at": "2026-10-16T11:13:56+00:00",
+          "kind": "press",
+          "text": "CD Projekt Red has finally spoken up about the live-action Cyberpunk 2077 movie . The company said it doesn’t want to do a 1:1 adaptation of the game, instead telling a new story within the same universe. \"At this point, we can only say that we definitely don't want to make a film adaptation of the game,\" co-CEO Michał Nowakowski told Polish outlet PAP Biznes , via GamesRadar . \"We want to tell a story in the world of Cyberpunk, but it won't be a one-to-one translation of the game's story.\" The Cyberpunk movie is being created in partnership with Parmount, now under the Skydance banner after the recent merger . The film will be produced by Lorenzo di Bonaventura, of live-action Transformers fame. It’ll be interesting to see how far the movie strays from the game, which featured a freelance mercenary called V who put a mysterious computer chip in their brain and ended up haunted by the digital ghost of Keanu Reeves’ Johnny Silverhand. I’d personally love them to go back, get Reeves back in, and tell Silverhand’s story before he ended up stuck in a chip. Of course, the Cyberpunk universe — created by tabletop RPG designer Mike Pondsmith — is wide enough to tell a range of original stories. It’s fertile soil for pulling at themes of identity, autonomy, and the self as a ship of theseus to be modified and reprinted. It sounds like a similar approach the company took to anime. Cyberpunk: Edgerunners feels like a faithful multimedia project within the world CDPR created — featuring locations and characters from the game world — but it tells a fresh story about original characters in its dystopian posthuman hellscape. The Studio Trigger-led anime series is back on Netflix this month when Cyberpunk: Edgerunners Season 2 launches on October 20. Check out the IGN interview with the creators of Edgerunners for the lowdown. CD Projekt also recently announced that work has officially begun on Project Hadar , its first game in its own original universe. The company has previously only played in the worlds of others, with The Witcher based on novels and Cyberpunk based on a tabletop RPG. Elsewhere in CD Project Land, The Witcher 3 just got a remaster on consoles and PC, which saw the iconic RPG get a makeover. There were some issues with the new visuals, particularly heavy bloom in The Witcher 3 remaster , but CDPR was on the case quickly. And of course, Cyberpunk 2 is in the works, although it feels years away. Kirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
+          "image": "https://assets1.ignimgs.com/2019/10/10/2077-1570745477822.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/filme-cyberpunk-2077-nao-adaptar-game/",
+          "title": "Filme live-action de Cyberpunk 2077 não adaptará a história do game",
+          "published_at": "2026-10-16T17:46:37+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2025/02/cyberpunk-2077.jpg"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/",
+          "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says",
+          "published_at": "2026-10-16T22:02:23+00:00",
+          "kind": "press",
+          "text": "The game is great, but CD Projekt wants to tell a new story. We learned last week that a Cyberpunk 2077 movie is in the works , an announcement I used mainly to talk about a completely different cyberpunk movie starring Keanu Reeves as a guy named Johnny who's having a bad week. Now we've got a bit more insight into what CD Projekt Red has in mind for the film, and it's possible that a guy named Johnny may not be involved at all. \"Our contract with Anonymous Content expired, and in the meantime, an opportunity arose to establish cooperation with Paramount Pictures,\" co-CEO Michał Nowakowski told Polish PAP Biznes ( Google translated ), referring to the Cyberpunk 2077 \"live action project\" that was announced in 2023 and ultimately went nowhere. \"We decided that we would conduct a live-action Cyberpunk project in a new formula. \"At this point, we can only say that we definitely don't want to make a film adaptation of the game. We want to tell a story in the world of Cyberpunk, but it won't be a one-to-one translation of the game's story.\" I loved Cyberpunk 2077, and the fact that it featured two Hollywood stars in central roles might make it seem like a natural fit for a direct translation. But I think avoiding that approach is the wiser move: V's story has been told, and trying to replicate it on film only invites unflattering comparisons and criticism. And it's not as though the world of Night City is short of other stories to tell, after all, nor would it be difficult to indirectly tie it to the game through references or cameos, if the urge to do so is really that strong. Remember as well that two of the most successful game-to-screen adaptations, Cyberpunk: Edgerunners and Resident Evil , took their respective underlying settings and made them their own. That's basically what Cyberpunk 2077 is, as far as that goes: A vision of Mike Pondsmith's Cyberpunk tabletop setting, interpreted through the lens of a new timeline. They're all stronger for it, because they allow creators to work within a particular framework without tying them to specifics. It's way too early in the process to say when all of this big-screen fun will actually happen, but Cyberpunk: Edgerunners 2 is set to debut on Netflix on October 20. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/RrKWBQLDZb3WHTmZP4Ha9a-1487-80.jpg"
+        }
+      ]
+    },
+    {
       "story_id": "9c78e9599d5c2654",
       "title": "Big Walk Won’t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target",
       "summary": "Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not to release the game on Xbox was a show of support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) movement. \"It has always been our intention for Big Walk to be played by...",
@@ -234,54 +234,6 @@
       ]
     },
     {
-      "story_id": "15c391dbf363ff58",
-      "title": "Apparent Leaked Footage Shows Canceled Assassin's Creed Game Set in Qin Dynasty China",
-      "summary": "Ubisoft was apparently making another Assassin’s Creed game set in ancient China, except this one was a full-fat AC with a massive open world and a fancy umbrella weapon.",
-      "owners": [
-        "future-plc",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "b6a1e7a8e422eb0e",
-        "43b523a3e2c0766e",
-        "75aa53c2ec3a20a0"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/assassins-creed-destiny-leak",
-          "title": "Apparent Leaked Footage Shows Canceled Assassin's Creed Game Set in Qin Dynasty China",
-          "published_at": "2026-10-16T15:56:14+00:00",
-          "kind": "press",
-          "text": "Ubisoft was apparently making another Assassin’s Creed game set in ancient China, except this one was a full-fat AC with a massive open world and a fancy umbrella weapon. According to a new report, the game was called Assassin’s Creed Destiny. Assassin’s Creed Jade will explore the same setting, targeting mobile. Destiny’s prototype footage appears to be aimed at modern consoles and PC instead. Destiny was reportedly set during 206 BCE, where the Qin dynasty made way for the Han dynasty after a brutal civil war. The game likely would have focused on Liu Bang’s rise to power. MP1st found the footage in developer portfolios. According to the report, the game was supposed to be a partnership between Ubisoft and Tencent, the Chinese conglomerate that owns huge portions of the games industry, including a 25% stake in Vantage Studios, a subsidiary that oversees some of Ubisoft’s biggest IPs. The footage shows a hooded assassin battling through a siege headed up by warlord Xiang Yu, before switching to greybox testing environments for combat abilities. There’s a spinning umbrella weapon shown at one point. Another snippet suggests players would have been able to choose between a male and female character, or it could have done the Shadows thing of having dual protagonists. Yin-yangs and ink brushes are used to tie the UI into the setting thematically. While Destiny was seemingly cancelled, Assassin’s Creed Jade is still in development. The last we heard about it was that it was delayed to 2025 . Considering it’s 2026 now, it’s probably safe to assume they’re having some issues getting the mobile game off the ground, which is ironic for a series about assassins who love rooftops. Elsewhere in the world of hidden blades, leaps of faith, and stylish hoods, Assassin’s Creed Hexe is the next major game in the series. If leaks are to be believed, that’s got its own development issues, mind you. One report suggests Assassin’s Creed Hexe developers decided to rework the game, removing magical abilities from the mix. Hexe's game director Benoit Richer recently departed the project for reasons unknown. That departure followed the exit of Clint Hocking, Hexe's creative director , sparking the beginning of a major internal reshuffle at the top of the franchise that saw Ubisoft veteran Jean Guesdon ascend to become Assassin's Creed Head of Content. Kirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
-          "image": "https://assets-prd.ignimgs.com/2026/05/13/edward-kenway-black-flag-blogroll-1778681529123.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/",
-          "title": "Footage from a reportedly cancelled Assassin’s Creed game set in China has leaked",
-          "published_at": "2026-10-16T09:35:08+00:00",
-          "kind": "press",
-          "text": "The title known as ‘Assassin’s Creed Destiny’ was allegedly cancelled by Ubisoft Footage has appeared online claiming to show a cancelled mainline Assassinâs Creed game set in ancient China. The footage, which is said to originate from developer portfolios discovered by MP1st , shows a prototype for a game with the working title Assassinâs Creed Destiny . Ubisoft is already working on an Assassin’s Creed entry set in China, the mobile game Assassin’s Creed Jade. However, the cancelled project shown in todayâs footage is said to have been intended as a full instalment for consoles and PC . According to MP1st, the game was set to be led by TiMi Studio Group â the Tencent subsidiary that also worked on Jade â and also set during the Qin Dynasty, but a few years later in 206 BCE. The footage shows a female assassin trying to reach a mysterious artifact located inside a sacred palace besieged by the historical figure Xiang Yu and his troops. We can also see a boss fight involving the Chinese warlord. The prototype video also shows other gameplay elements, such as stealth kills and the leap of faith. Another clip shows the player wielding an umbrella-like spinning weapon in a placeholder. Destiny was likely cancelled after Tencent pivoted away from Western franchises in 2024, citing lower profit margins than domestic Chinese releases. According to Ubisoft, Assassinâs Creed Jade remains in development. Providing an update on the project earlier this year , franchise boss Jean Guesdon said it would feature co-op gameplay. âWhile we recently chose to pivot away from an early project, the lessons from that work are already helping shape our approach going forward,â he said. âWhat matters most to us is giving each project the time it deserves and releasing them when they are ready.â Jean Guesdon wasÂ appointed as head of content for Assassinâs Creed in February, alongside two other franchise veterans who will steward the series at Ubisoftâs new subsidiary, Vantage Studios. Future Assassin’s Creed titles include previously announced premium games . The first title, Codename Hexe,Â lost its creative director , per a VGC report, and Guesdon will take over himself.",
-          "image": "https://www.videogameschronicle.com/files/2023/06/assassins-creed-codename-jade.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/assassin-s-creed/we-finally-get-to-see-the-canceled-assassins-creed-game-set-in-china-and-darn-it-it-looks-pretty-good/",
-          "title": "We finally get to see the canceled Assassin's Creed game set in China, and it looks pretty good",
-          "published_at": "2026-10-16T14:37:53+00:00",
-          "kind": "press",
-          "text": "Ubisoft and Tencent were making it together Any franchise that lasts a number of years always winds up with a few unrealized projects, whether from partnerships that fell through or ideas that simply just didn't come together. Assassin's Creed has a bunch of them, and details and footage of another one have emerged. This particular game was called Assassin's Creed Destiny, and it was part of a collaboration between Ubisoft and Chinese conglomerate Tencent . You might be aware these industry giants are currently working on Assassin's Creed Jade, a mobile game first announced back in 2022. They had a couple of other potential releases on the docket as well, and one of them was remarkably similar to Jade. In fact, according to details gleaned by MP1st , Assassin's Creed Destiny was also set in China, and during the same period, taking place around 206 BCE, nine years after the events of Jade. It would've been a full, triple-A game on modern hardware, marking a grand return to Chinese history after Assassin's Creed Chronicles way back in 2015. Jade is still fulfilling that promise, but on a different scale. Destiny was being handled by TiMi group, and we now have a smattering of images and clips demonstrating what could've been. This definitely looks like a full-on Assassin's Creed game. You've the player character skulking around a palace during the Qin Empire. Your mission is to prevent an invading army from stealing some form of treasure. Doing so gets bloodier and messier than anyone would like, but you spend the majority of your time in the shadows, taking out soldiers and other enemies. It looks intriguing - the architectural layouts offer plenty of exploration and the swords and spears make combat feel weighty. There's a spinning blade, somewhat like an umbrella, that seems like it would've been very entertaining. Destiny was only canceled last year, a casualty of restructuring at TiMi. It's unknown how far along the game ultimately was, or if any of its ideas live on in Jade. There's no release window for the mobile game yet, but at least we can now look at what could've been. Weekly digests, tales from the communities you love, and more Zelda: Ocarina of Time remake doesn't even rate against GTA 6 and Call of Duty Modern Warfare 4 as the \"biggest games of the year,\" Activision exec says Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/kVTNG76XNjYR6JGFteDkkU-1920-80.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "42bd0806e02f7829",
       "title": "Shrek 2 Remastered Microsoft Store page appears",
       "summary": "A Microsoft Store page for the unannounced Shrek 2 Remastered developed by Aspyr has gone …",
@@ -326,6 +278,42 @@
           "kind": "press",
           "text": "Vinícius Paráboa é redator no MeuPlayStation, com experiência na cobertura do universo PlayStation e da indústria de games. Acompanha a evolução da marca desde o PS1, com foco em notícias e tendências do mercado. Tem afinidade com clássicos como Crash Bandicoot, Sonic e Spyro, além de franquias como Persona, Assassin’s Creed e God of War.",
           "image": "https://meups.com.br/wp-content/uploads/2026/10/Shrek-2-Remastered.webp"
+        }
+      ]
+    },
+    {
+      "story_id": "4778bca325869654",
+      "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
+      "summary": "UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Read more",
+      "owners": [
+        "future-plc",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "5049c7ca1ffb21f7",
+        "261b53f8df073479"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity",
+          "title": "DayZ creator Dean Hall says \"our industry is rotting from its core\" because of big-company \"greed\", aiming shots at Epic's Unreal and Unity",
+          "published_at": "2026-10-15T13:02:51+00:00",
+          "kind": "press",
+          "text": "\"Developers have surrendered an extraordinary amount of control.\" UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Primarily, I wanted to clarify what Brutal's relationship was with generative AI, if any, because it's the tech topic of the moment and something both Epic and Unreal , and Unity , are all-in on. In this regard, Hall answered: \"There is no generative AI inside it, no tooling or scripts for making generative AI assets. Anyone can see for themselves as the repository is public. The framework is a tool for putting a game or engine together, not for generating anything.\" Hall then tackled generative AI more broadly, particularly as it relates to Unreal and Unity, and said he finds it \"confusing\" that both engines focus \"so much effort\" on it. They are human-centric workflows, as he calls them - presumably meaning designed to be easily digestible by humans. \"What, specifically, is it about Unreal - which has long focused on visual scripting, blueprints, and such - that would make it good for AI work?\" He asked. \"If we take all the promises as true, why would a human-centric workflow without the human be better than a language-centric workflow provided to a language model?\" I don't understand some of that but the \"inconsistency\" bothers Hall. \"Let's take their arguments as gospel and say that AI is the way for them,\" he went on. \"What happens when the cost of making those very tools yourself is approaching zero? Why pay to work around someone else's enormous, human-centric workflow when you can increasingly make the exact tools you need? The technology they're embracing might actually be undermining the very reason developers needed them in the first place.\" It reminds him of the dot-com era \"when companies tried to slap a coat of paint on themselves and suddenly become internet companies\". \"Unity and Unreal may be accelerating the adoption of the very technology that could undermine their business models,\" he said. \"Pretty ironic.\" Think about the control companies like Epic with Unreal, and Unity with its engine, have over a game developer's project, and what happens if they make a change or perhaps introduce a fee a developer is not happy with. What can the developer do? Because those are issues people face. \"Is that going to get better?\" Hall asked. \"And I want to be clear,\" he added, concluding. \"I am not saying my Brutal framework is the winner.\" Instead, it's meant to be a start. \"I want to say developers will tear down Unity and Unreal, but it is Unreal and Unity who are tearing themselves down. Their greed and lack of accountability to developers has left them completely unable to reconcile their need to appear relevant. They have to slap AI on everything while being an encumbrance for using the very thing they are pushing.\" Incidentally, on the topic of Icarus using Unreal Engine 4: Hall and RocketWerkz have no plans to remove it. The studio has apparently \"sunset\" Unreal as an engine it uses but switching engine for Icarus would require a lot more work. \"Migrating Icarus would be very disruptive,\" Hall said, \"and our players are loyal and we've earned their trust through patches every single week for years now since launch, not missing one. An engine switch to Brutal would disrupt that.\" ORIGINAL STORY 2PM BST: DayZ , Icarus, and Kitten Space Agency creator Dean Hall has issued a fiery assault against some of the world's biggest game companies, calling out a \"greed\" that's \"rotting\" our industry to its core. He took particular aim at engine-makers Epic (Unreal) and Unity, while simultaneously backing his words by launching an open-sourced, free alternative of his own: a game-making framework called Brutal. \"Our industry is rotting from its core,\" Hall wrote in an expansive post on Reddit , \"outwards in every direction, and it has been for some time. Driven by greed, driven by a race to the bottom on price. It is my position that the games industry was already heading somewhere unsustainable before reverse-engineering and powerful agentic processes became widely available. These have pushed things over the edge. \"But I think one of the biggest problems is something we don't discuss enough. Developers have surrendered an extraordinary amount of control over their work to companies whose interests aren't necessarily aligned with their own. So we're doing something about it.\" Brutal is a framework rather than a game engine, so it allows freedom to either make a game with it - as Hall's RocketWerkz studio has with Kitten Space Agency - or use another engine with it, like RimWorld 's developer Ludeon has with its game engine Waylith. \"We're making the Brutal framework publicly available, with its source code, and we're making it free to use, including for commercial games, subject to an attribution requirement,\" Hall wrote. \"There are no royalties and we don't want a percentage of your game's revenue.\" Hall's post shares a lot of detail about the origins of Brutal, about what it is and who's working on it. He also admits and even underlines that Brutal won't be for everyone. \"I do not believe this is the tool that everyone should use to make a game,\" Hall states. \"We are not trying to make something that can do everything for everyone.\" One particular anecdote that stands out to me is about where the spark came from to do this, and it sounds like it came from asking Epic boss Tim Sweeney a question during a Game Developers Conference 2025 talk. \"Tim was, for a long time, a hero of mine,\" Hall shared. \"A powerhouse of a programmer with a mind I admired growing up. But over time I became frustrated with how much of the discussion seemed to revolve around the latest buzzwords. The metaverse one year, AI the next. Meanwhile developers were struggling with perfo",
+          "image": "https://assetsio.gnwcdn.com/dean-hall-astronaut.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
+          "title": "\"Our industry is rotting\" and AI made it worse, so DayZ creator wants to change how games are made",
+          "published_at": "2026-10-16T20:30:33+00:00",
+          "kind": "press",
+          "text": "Kerbal Space Program creator is also on board for his next game DayZ creator Dean Hall reckons \"our industry is rotting from its core, outwards in every direction, and it has been for some time,\" and that rot has only been accelerated by the rise of AI agent-led development , reverse-engineering, and recompilation. \"These have pushed things over the edge,\" he says, so he and studio RocketWerkz have prepared and shared a new, open source game engine alternative meant to help developers \"break free of Unity\" and mainstream offerings like Unreal Engine as providers like Epic Games dive headfirst into AI. In a lengthy post to the gamedev subreddit , Hall explains the origins and intent of \"Brutal,\" a free C# (C Sharp) framework that is technically not a game engine – a collection of software and tools used to make games – but can be used to make games or applied as a base to build custom game engines. RocketWerkz's upcoming game Kitten Space Agency uses Brutal directly, and Hall says mega-hit colony sim RimWorld had its entire engine reworked by developer Ludeon Studios and creator Tynan Sylvester using this framework as a foundation. Just this week, Ludeon Studios announced its transition to the Waylith Engine, \"our own in-house engine built by Ludeon Studios. The game looks and plays exactly the same, but in our tests performance is improved by 2-4x.\" This new build of RimWorld is already available to players via a beta branch in Steam, and purportedly doesn't break mods. \"RimWorld isn’t the only game on Waylith,\" the studio adds. \"We’re working on something new! It may be a little while before we can share more details, but we couldn’t resist telling you.\" Hall says \"their team amazingly extracted the last bits of Unity out of RimWorld to create their Waylith engine,\" and highlights RimWorld as proof of progress. \"An established studio with a very specific set of problems can take the framework and build an engine designed around their own game, instead of spending years building the underlying foundations,\" he observes. What's more, the creator of Kerbal Space Program, Felipe Falanghe, says he's used Brutal to make his next game. \"I had left KSP with no rights to it 8 years prior, and had to battle uphill to do a job that was feeling more and more untenable,\" Falanghe says in a reply to Hall's post. Thanks to Brutal and a fresh crash-course in game development, he says his project is \"very very close to being showable.\" Weekly digests, tales from the communities you love, and more Hall is very clear about a few things. Firstly, this project wasn't just his baby; loads of people at RocketWerkz built this thing, and he says collaborators like Falanghe were invaluable. Additionally, after years in development, \"we also have new people joining us from some of the world's largest game companies, bringing their experience to this effort.\" Secondly, this is not a \"tool that everyone should use to make a game,\" even if it might be dreamy for the right people and project. Falanghe described Brutal this way: using it is like \"sitting on a bar stool while everyone else using engines like Godot was sitting on comfortable couches.\" I'm interpreting this to mean: it might not be as big or comfy as traditional game engines, but it might be just what you need. Hall later clarified that he thinks Godot, the game engine used by Slay the Spire 2, is a great bit of tech. Rather, he pushes his crosshairs toward Unity, Unreal Engine, and Epic CEO Tim Sweeney. \"I have watched Unity and Unreal consistently fail to be accountable to developers,\" Hall writes. \"And I think this problem could get much worse as agentic workflows begin undermining the competitive advantages that have protected established software companies. \"My concern is that as those advantages erode, the companies involved will increasingly look to extract more revenue from developers who feel they cannot switch. Whether through royalties, subscriptions, or more restrictive licensing.\" We've already seen this play out in an incident also cited by Falanghe as a warning sign to developers: Unity infamously adding enormous install fees in 2023 before being bullied out of this decision. Hall recalls listening to Sweeney at the GDC 2025 Tencent Summit talk. He asked the CEO \"whether he thought Unreal was accountable to developers, particularly around performance and stability.\" He says Sweeney responded by emphasizing \"making more demos and putting them on social media to counter people describing games as 'Unreal slop.'\" \"I was not satisfied with his answer, and I continue to believe Unreal is not accountable enough to developers,\" Hall continues. \"Particularly when it can take a 5% royalty on game revenue above its licensing threshold. I don't think developers should have to simply accept that relationship without questioning it.\" Hall skewers Epic for chasing trends rather than focusing on its product or audience. \"The metaverse one year, AI the next,\" he says. You can imagine Hall's response to Epic Games proudly announcing that it \"vibe coded\" its new storefront because \"programming is hard.\" Hall argues \"you are only as independent as your tools are,\" so a framework like Brutal is \"how we fight back.\" \"You can use BRUTAL for free, including in commercial games,\" he clarifies. \"There are no royalties and we don't want a percentage of your game's revenue.\" All that's required to use the open-source project is proper attribution: include the copyright notice in credits, show the Brutal logo on startup, and include the Brutal notice in project files. \"If you don't want to do that, we can arrange a separate commercial licence,\" Hall says. There are a lot of layers to this onion. The key takeaway is that some of the most celebrated and technically skilled developers of our time – as Hall notes, Kerbal Space Program is so robust that it is referenced by actual \"scientists and astronauts\" – have come together to agree that the tides of the games industr",
+          "image": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
         }
       ]
     },
@@ -379,42 +367,6 @@
       ]
     },
     {
-      "story_id": "8427e04e999959d8",
-      "title": "CONTROL Resonant ultrapassa a marca de 1 milhão de unidades vendidas",
-      "summary": "Lançado no último dia 24 de setembro, CONTROL Resonant, nova entrada da franquia de ação sobrenatural da Remedy, ultrapassou a marca de 1 milhão de unidades vendidas. A informação foi divulgada por meios dos perfis oficiais do título nas redes sociais no início da tarde de hoje (15), juntamente com uma mensagem de agradecimento. Após anos de confinamento nas mãos do Departamento Federal de...",
-      "owners": [
-        "gameblast",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "51962db1f22fefd2",
-        "957e14e7eb5bc83d"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/control-resonant-ultrapassa-marca-1-milhao-unidades-vendidas.html",
-          "title": "CONTROL Resonant ultrapassa a marca de 1 milhão de unidades vendidas",
-          "published_at": "2026-10-15T16:21:50+00:00",
-          "kind": "press",
-          "text": "Título de ação sobrenatural da Remedy foi lançado para PC e consoles em 24 de setembro.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8R7zDYQHu9rTrA3mFZACluPLiTlrRaqET0AzCL_5ofQ33YAl6ujgwDcv-4uIA-Vq6hyAY6Z-IffOlTbwMhj3R3vO8cQQrL4LL8_-_PnzdHvOZcy916QlQN08gJMGunG_Mp2hUArAr6yEUglg3owbCA5-3gEu1tSziZRwh61xRLf09nWmbspR8Jfnc7SM/w1200-h630-p-k-no-nu/control-resonant-ultrapassa-marca-1-milhao-unidades-vendidas.jpg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/control-resonant-ultrapassa-1-milhao-copias/",
-          "title": "Control Resonant ultrapassa 1 milhão de cópias vendidas em três semanas",
-          "published_at": "2026-10-15T19:51:26+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/10/Control-Resonant.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "b76eef6cfc9a5118",
       "title": "We’re Getting A WWE And Street Fighter Crossover, And It’s Pretty Weird",
       "summary": "Ahead of the Street Fighter movie 's release this week, 2K Games has announced a new DLC pack for WWE 2K26 that lets you dress several WWE performers as Street Fighter action figures . You can make the likes of Rey Mysterio and The Rock look like oversized toys, and each version of the WWE star will also come equipped with Street Fighter-inspired moves like the Shinku Hadoken, Psycho Crusher...",
@@ -447,6 +399,42 @@
           "kind": "press",
           "text": "The WWE 2K26 X Street Fighter Elite Pack adds new special moves and cosmetic parts WWE 2K26 is getting a special collaboration DLC pack which sees Street Fighter action figures being added to the game. Mattel first launched its WWE Elite Collection X Street Fighter action figures in 2025, which features WWE superstars dressed as Street Fighter characters. To date, there have been four series of these figures, and now a selection of them are being added to the game as playable characters. They’ll be arriving in the WWE 2K26 X Street Fighter Elite Pack, which will be a separate paid DLC pack not included in any existing bundles or premium editions of the game. The pack, which will be available from October 28, contains playable versions of the five following crossover action figures: Rather than simply reskinned versions of the existing wrestlers, each character will have their own entrance music and video, and will have their own movesets featuring Street Fighter special moves including the Shinku Hadoken, Psycho Crusher, Spiral Arrow, Electric Thunder and Shoryuken. As well as the five superstars, the pack will also include 15 extra create-a-superstar parts from numerous Street Fighter characters, including M. Bison, Ryu, Akuma, Vega and Chun-Li. VGCâs WWE 2K26 review called it the best entry in the series to date, but noted that it didnât innovate too much over the 2K25 edition and still had room for improvement. âWWE 2K26 offers another net gain over its predecessor, ensuring the series continues to evolve in a positive direction,â we said. âWhile its new reversal system will initially divide players and the spectre of microtransactions continues to loom over MyFaction, the overall package introduces more quality-of-life features to ensure each of its numerous modes is better than it was last time.â",
           "image": "https://www.videogameschronicle.com/files/2026/10/WWE-2K26-Rey-Mysterio-as-Ryu-vs-Dominik-Mysterio-as-Ken.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "08ac8f311de8f91f",
+      "title": "Dragon Quest Monsters: The Withered World details online content, offline Battle Arena, and Wrangler’s Gauntlet",
+      "summary": "Publisher and developer Square Enix, and developer TOSE have released new information and screenshots for …",
+      "owners": [
+        "gematsu",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "f0cc1ab088a8611a",
+        "0b76665f63a82857"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/dragon-quest-monsters-the-withered-world-details-online-content-offline-battle-arena-and-wranglers-gauntlet",
+          "title": "Dragon Quest Monsters: The Withered World details online content, offline Battle Arena, and Wrangler’s Gauntlet",
+          "published_at": "2026-10-15T22:00:36+00:00",
+          "kind": "press",
+          "text": "Publisher and developer Square Enix , and developer TOSE have released new information and screenshots for Dragon Quest Monsters: The Withered World introducing online content, the offline Battle Arena, and the new roguelike mode Wrangler’s Gauntlet. ■ Team Up With Wranglers the World Over and Take on Joint Battles Together! After you progress some way through the story of Dragon Quest Monsters: The Withered World , you’ll unlock a host of online content. These modes are enabled for cross-platform play, meaning you can enjoy them with anyone, regardless of their chosen gaming system. One of those modes is Online Joint Battles, where you can team up with other wranglers to test your skills against massive monsters together. There are daily quests to try your hand at, as well as special events featuring infamous monsters from across the Dragon Quest series, with fantastic rewards for those able to overcome the challenge! —With three difficulties of regular quests to choose from, you can select the level of challenge that best matches your current party’s strength. —Once you’ve chosen the quest you want to take on, you can start the matching process to find other players. You can also choose to play alone if you wish. —During battle, you can talk with your teammates using a selection of simple preset messages—and you’ll need to communicate if you want to emerge victorious! —When you use healing and support skills on allied parties in battle, you’ll boost your collective Team Bonus. This multiplier increases the damage that everyone can inflict on the enemy and boosts the effectiveness of healing abilities. —Keep an eye out for super-tough Special Quests that feature special monsters. These events regularly come and go, so be sure to give them a try if you’re feeling strong enough. You can earn monster eggs as rewards for completing Online Joint Battles and other challenges. The monsters that hatch forth can then be added to your party! —Eggs come in four colors, and all sorts of monsters can be inside. ■ Connect Online to Access a Wealth of Extra Content! In addition to Online Joint Battles, connecting online allows you to battle against other players in Ranked Matches to improve your global ranking, fight parties that players have uploaded via the Wranglers Society and much more. However, because the online content, such as Online Joint Battles and Ranked Matches, is intended to be a fair test of your monster wrangling skills, the Wrangler’s Spirit ability won’t activate in these game modes. —In Ranked Matches, you compete against other players of a similar ability to yours. There are seven main ranks, from Beginner to Legendary, and the goal is to rise as far you can in the standings. —Every victory rewards you with Ranking Points. Your total at the end of a season determines your rank. Perform well and you might earn promotion to a higher rank, with rewards for doing so! —In Private Matches, you can customize the rules of battle, such as setting the number of rounds or the times you can swap in your reserves. —Head over to the Online Hub, where other players are represented, to participate in the Wranglers Society. By speaking to the wranglers there, you can battle against their parties, so be sure to take your strongest monsters along with you. —Win a battle in the Wranglers Society and you’ll get to spin the roulette wheel to determine your reward, with items, mini medals and other great prizes up for grabs. —The Online Shop has some valuable items for sale. The lineup changes depending on the day of the week and your progress through the story, so check back regularly to see what new stock has come in. ■ The Battle Arena, Where Monster Wranglers Go to Test Their Mettle! In addition to the online content, there’s also a fully offline Battle Arena to enjoy, which Bianca and Nera will discover upon visiting Witherwood Castle. In these contests, you’ll send the monsters you’ve raised into battles that will determine the strongest wrangler in the kingdom. This Battle Arena features both regular battles and joint battles, each with seven difficulty categories from G up to A. With rewards on offer for completing a category, the Battle Arena is the perfect place to test your skills or take a break from adventuring. —In the regular Arena Battles, you have to win all three matches in a category to complete it. Your monsters’ HP and MP will be fully restored between matches, so you can always fight to the max. Once you pay the entry fee, it’s time to start battling! —During battle, you can choose the general tactics you want your monsters to follow. Keep close tabs on how each battle plays out and adjust your tactics accordingly. —In Joint Battles at the arena, you can set the tactics for your main party and your reserves, as well as for the other monster wranglers who fight alongside you. ■ An All-New Roguelike Mode for Extended Replayability! Progress even further through the story and a new challenge will unlock in the Battle Arena called the “Wrangler’s Gauntlet” that will truly test your ability as a monster wrangler! Devised by Scruffy, the Wrangler’s Gauntlet provides you with a selection of monsters that changes each time you attempt the challenge. You must use what you’re given to build a party capable of winning 50 consecutive battles. The monsters you befriend here, and the items you obtain, can’t be taken out on your adventures, but with different starting monsters each time and opponents that change with every new attempt, no two runs are ever the same. The roguelike elements offer a fresh perspective on monster wrangling! —The challenge begins once you receive your monsters from Scruffy. He’ll even tell you which monsters you’ll face off against in the next battle, meaning you can tailor your party to best deal with each different opponent. —After winning a battle, you’ll have the opportunity to strengthen your party. Your monsters and those of your previous opponent will all be av",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/DragonQuest-Monsters-The-Withered-World_2026_10-15-26_003.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/dragon-quest-monsters-tera-crossplay/",
+          "title": "Dragon Quest Monsters terá crossplay, ranked e roguelite",
+          "published_at": "2026-10-16T13:05:38+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/09/Dragon-Quest-Monsters.jpg"
         }
       ]
     }
