@@ -1,0 +1,69 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Onde jogar",
+  "gta6": true,
+  "materia": "onde-jogar-gta-6-ps5-xbox-series-ps5-pro-e-situacao-do-pc",
+  "imagem": {
+    "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k138k8okkk483/ffebf733f7e03ff9ec9467471cc25a6c1117c5be.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, GamesRadar+ e PC Gamer",
+  "capa": {
+    "titulo": "Onde dá para jogar GTA 6?",
+    "destaque": "jogar GTA 6",
+    "apoio": "PS5, Xbox, PS5 Pro e PC. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Consoles",
+      "titulo": "Em quais consoles?",
+      "destaque": "consoles",
+      "texto": [
+        "Só no **PS5 e no Xbox Series X|S**, em 19 de novembro, segundo o site oficial da Rockstar."
+      ]
+    },
+    {
+      "rotulo": "PS5 Pro",
+      "titulo": "Tem melhora no PS5 Pro?",
+      "destaque": "PS5 Pro",
+      "texto": [
+        "A PlayStation Store traz o selo **PS5 Pro Aprimorado**, mas Sony e Rockstar não detalharam o que muda."
+      ]
+    },
+    {
+      "rotulo": "PC",
+      "titulo": "E o PC?",
+      "destaque": "PC",
+      "texto": [
+        "**Nenhuma versão foi anunciada**, nem data. Não dá para jogar via Xbox Cloud Gaming, segundo o diretor Matthew Ball, de acordo com a GamesRadar+."
+      ]
+    }
+  ],
+  "final": "Em qual console você vai jogar?",
+  "legenda": {
+    "gancho": "Faltam 34 dias para GTA 6, e a dúvida é onde jogar: só em PS5 e Xbox Series X|S, por enquanto.",
+    "corpo": [
+      "Segundo o site oficial da Rockstar, o jogo sai em 19 de novembro apenas para PS5 e Xbox Series X|S. A PlayStation Store exibe o selo de PS5 Pro Aprimorado, mas ninguém detalhou as melhorias.",
+      "Não há versão de PC anunciada, e o Xbox Cloud Gaming também não resolve, segundo Matthew Ball, do Xbox, de acordo com a GamesRadar+."
+    ],
+    "chamada": "Em qual plataforma você vai jogar GTA 6?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#ps5",
+      "#xboxseries"
+    ]
+  },
+  "alt": [
+    "Slide 1: Onde dá para jogar GTA 6",
+    "Slide 2: Em quais consoles",
+    "Slide 3: Tem melhora no PS5 Pro",
+    "Slide 4: E o PC",
+    "Slide 5: Em qual console você vai jogar"
+  ],
+  "slug": "onde-jogar-gta-6-plataformas",
+  "status": "pronto",
+  "criado": "2026-10-16T07:38:55-03:00"
+}
