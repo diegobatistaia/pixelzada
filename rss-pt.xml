@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:39:42 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fire Emblem: Fortune's Weave ganha passe de expansão em três ondas, a partir de hoje</title>
+      <link>https://pixelzada.com.br/pt/fire-emblem-fortunes-weave-passe-de-expansao-tres-ondas/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/fire-emblem-fortunes-weave-passe-de-expansao-tres-ondas/</guid>
+      <description>Fortune's Weave ganhou um passe de expansão em três partes: armas hoje, roupas e aliados no fim do ano e novas histórias em 2027. Veja o que cada onda traz.</description>
+      <category>Lançamentos</category>
+      <pubDate>Fri, 16 Oct 2026 00:39:42 +0000</pubDate>
+    </item>
     <item>
       <title>Sega tira Total War: Shogun 2 Complete Edition de venda após reclamações sobre IA</title>
       <link>https://pixelzada.com.br/pt/sega-tira-total-war-shogun-2-complete-edition-de-venda-ia/</link>
@@ -238,14 +246,6 @@
       <description>Cyberleek postou novo vídeo de GTA 6 com a Lucia para promover a própria criptomoeda. Veja o que foi publicado, o que não dá para confirmar e o contexto.</description>
       <category>GTA 6</category>
       <pubDate>Tue, 13 Oct 2026 10:42:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epic adia jogo da Disney com Marvel e Star Wars e manda equipe usar IA primeiro</title>
-      <link>https://pixelzada.com.br/pt/epic-games-adia-jogo-disney-producao-ia-first/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/epic-games-adia-jogo-disney-producao-ia-first/</guid>
-      <description>A Epic adiou um shooter da Disney com Marvel e Star Wars e mandou a equipe usar IA primeiro, diz a Bloomberg. Veja o que foi reportado e o que a Epic respondeu.</description>
-      <category>Indústria</category>
-      <pubDate>Tue, 13 Oct 2026 00:41:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

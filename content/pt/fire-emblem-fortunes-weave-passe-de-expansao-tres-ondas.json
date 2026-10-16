@@ -105,7 +105,9 @@
     "query": "Fire Emblem Fortune's Weave",
     "alt": "Cena de Fire Emblem: Fortune's Weave",
     "url": "https://assetsio.gnwcdn.com/FireEmblem_FortunesWeave_scrn_07.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/fire-emblem-fortunes-weave-passe-de-expa-dcd3e443.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -127,5 +129,7 @@
       "title": "The Fire Emblem Fortune's Weave expansion pass adds stories for those other four protagonists"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-16T00:39:42+00:00",
+  "updated_at": "2026-10-16T00:39:42+00:00"
 }
