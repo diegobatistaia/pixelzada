@@ -451,10 +451,15 @@
     "slug": "gta5-desconfiar-dos-postes",
     "data": "2026-10-16",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conquista",
     "legenda": "Você passa 500 horas no GTA aprendendo a desconfiar dos jogadores e agora descobre que também precisava desconfiar dos postes 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gtav #games #memesgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-16T10:00:02-03:00",
+      "media_id": "18098602538385384",
+      "permalink": "https://www.instagram.com/reel/DejlyWiFS4h/"
+    }
   },
   {
     "slug": "npc-atropelar-gta6",
