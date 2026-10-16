@@ -71,7 +71,19 @@
     "Slide 5: Manda pro amigo que está contando os dias"
   ],
   "slug": "gta-6-linha-do-tempo-do-anuncio-ao-lancamento",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-10-16T09:40:19-03:00",
-  "formato": "linha-do-tempo"
+  "formato": "linha-do-tempo",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "15:00",
+    "em": "2026-10-16T15:00:02-03:00",
+    "estilo": "conquista",
+    "media_id": "18001585698040236",
+    "permalink": "https://www.instagram.com/p/DekIKp0iRzh/"
+  },
+  "story": {
+    "em": "2026-10-16T15:00:45-03:00",
+    "media_id": "18017625068956307"
+  }
 }
