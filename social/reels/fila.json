@@ -465,10 +465,15 @@
     "slug": "npc-atropelar-gta6",
     "data": "2026-10-16",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Legenda",
     "legenda": "Eu depois de atropelar meu primeiro NPC no GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-16T12:00:29-03:00",
+      "media_id": "18103930298232968",
+      "permalink": "https://www.instagram.com/reel/DejzneyiTDW/"
+    }
   },
   {
     "slug": "rdr2-discurso-formatura",
