@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 12:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:40:02 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Castlevania: Belmont's Curse: devs admitem que fizeram personagens bonitos de propósito</title>
+      <link>https://pixelzada.com.br/pt/castlevania-belmonts-curse-devs-personagens-bonitos-de-proposito/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/castlevania-belmonts-curse-devs-personagens-bonitos-de-proposito/</guid>
+      <description>Os criadores de Castlevania: Belmont's Curse viram fanarts de Trevor Belmont e dizem que o visual atraente dos personagens foi proposital. Veja o que contaram.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sat, 17 Oct 2026 14:40:02 +0000</pubDate>
+    </item>
     <item>
       <title>Leonida Keys: o arquipélago de GTA 6 onde Jason mora</title>
       <link>https://pixelzada.com.br/pt/leonida-keys-gta-6-arquipelago-onde-jason-mora/</link>
@@ -238,14 +246,6 @@
       <description>A Ubisoft propôs fechar a RedLynx, criadora de Trials, com até 52 vagas em risco, e afetou 70 posições em Singapura. Veja o que a empresa disse e o contexto.</description>
       <category>Indústria</category>
       <pubDate>Wed, 14 Oct 2026 10:41:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox Labs: o que é o novo grupo da Xbox para testar jogos em navegadores e outras tecnologias</title>
-      <link>https://pixelzada.com.br/pt/xbox-labs-divisao-asha-sharma-jogos-navegador/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-labs-divisao-asha-sharma-jogos-navegador/</guid>
-      <description>A Xbox anunciou o Xbox Labs, grupo que vai testar tecnologias como jogos em navegadores. Veja o que Asha Sharma disse, quem lidera e quais dúvidas ficam.</description>
-      <category>Indústria</category>
-      <pubDate>Wed, 14 Oct 2026 00:39:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -115,7 +115,10 @@
     "query": "Castlevania Belmont's Curse",
     "alt": "Arte de Castlevania: Belmont's Curse com Trevor Belmont",
     "url": "https://assets-prd.ignimgs.com/2026/10/16/castlevania-belmonts-curse-devs-made-the-characters-hot-on-purpose-1792184534105.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/castlevania-belmonts-curse-devs-personag-e0a1cf48.jpg",
+    "source_url": "",
+    "foco": "54% 27%"
   },
   "sources": [
     {
@@ -137,5 +140,7 @@
       "title": "Castlevania: Belmont's Curse já está disponível para ao PC e consoles"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-17T14:40:02+00:00",
+  "updated_at": "2026-10-17T14:40:02+00:00"
 }
