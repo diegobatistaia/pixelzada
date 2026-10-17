@@ -1,0 +1,78 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "fauna-gta-6-animais-leonida-jacares-flamingos-170-especies",
+  "imagem": {
+    "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k2a49ook82o57/cbdf4fc342bfca94c789a887244c3b70283047ae.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Game Informer e Pure Xbox",
+  "capa": {
+    "titulo": "Os bichos de GTA 6 em números",
+    "destaque": "em números",
+    "apoio": "Jacaré, flamingo e macaco em Leonida. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Espécies",
+      "titulo": "Mais de 170",
+      "destaque": "170",
+      "texto": [
+        "Leonida terá **mais de 170 espécies** de animais em terra, ar e mar, segundo a Game Informer."
+      ]
+    },
+    {
+      "rotulo": "Aves e mamíferos",
+      "titulo": "60 aves e 30 mamíferos",
+      "destaque": "60",
+      "texto": [
+        "São **mais de 60 tipos de aves** e mais de 30 mamíferos terrestres, de acordo com o Pure Xbox e o Notebookcheck."
+      ]
+    },
+    {
+      "rotulo": "Invasores",
+      "titulo": "4 espécies da Flórida real",
+      "destaque": "4",
+      "texto": [
+        "Iguanas-verdes, sapos-cururu, gatos ferais e **macacos rhesus**, segundo a Game Informer."
+      ]
+    },
+    {
+      "rotulo": "Clima",
+      "titulo": "1 furacão a mais",
+      "destaque": "furacão",
+      "texto": [
+        "Tempestades tropicais e furacões estão confirmados, mas a Rockstar **não disse a frequência**."
+      ]
+    }
+  ],
+  "final": "Qual bicho você quer ver primeiro?",
+  "legenda": {
+    "gancho": "GTA 6 terá mais de 170 espécies de animais em Leonida, de jacarés a macacos invasores.",
+    "corpo": [
+      "Segundo a reportagem de capa da Game Informer, são mais de 60 tipos de aves e mais de 30 mamíferos terrestres, além de peixes e répteis. Entre os nativos da Flórida estão flamingos, peixes-boi, pelicanos e jacarés.",
+      "A Rockstar também incluiu espécies invasoras reais, como iguanas-verdes, sapos-cururu, gatos ferais e macacos rhesus. Tempestades tropicais e furacões estão confirmados. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Qual bicho você quer ver primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Os bichos de GTA 6 em números",
+    "Slide 2: Mais de 170",
+    "Slide 3: 60 aves e 30 mamíferos",
+    "Slide 4: 4 espécies da Flórida real",
+    "Slide 5: 1 furacão a mais",
+    "Slide 6: Qual bicho você quer ver primeiro?"
+  ],
+  "slug": "gta-6-fauna-leonida-em-numeros",
+  "status": "pronto",
+  "criado": "2026-10-17T15:38:39-03:00"
+}
