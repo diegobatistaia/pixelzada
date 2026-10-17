@@ -1,0 +1,85 @@
+{
+  "tipo": "checagem",
+  "formato": "mito-ou-verdade",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "rockstar-nega-gta-6-custou-mais-de-1-5-bilhao-orcamento",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-stock-305-02-1791978787029.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "Rockstar Games",
+    "pos": "75% 19%"
+  },
+  "fonte": "Fontes: IGN, GamesRadar e GameSpot",
+  "capa": {
+    "titulo": "GTA 6 custou mais de US$ 1,5 bilhão?",
+    "destaque": "US$ 1,5 bilhão",
+    "apoio": "A Rockstar respondeu, mas não deu o valor. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Mito ou verdade",
+      "titulo": "O que é fato e o que é palpite",
+      "destaque": "palpite",
+      "itens": [
+        {
+          "selo": "falso",
+          "texto": "Custou mais de US$ 1,5 bilhão, segundo a Rockstar"
+        },
+        {
+          "selo": "sem-info",
+          "texto": "O orçamento real nunca foi divulgado"
+        },
+        {
+          "selo": "confirmado",
+          "texto": "A Rockstar tem 4.711 funcionários, contra 2.441 em 2018"
+        },
+        {
+          "selo": "boato",
+          "texto": "40 milhões de cópias em 4 meses é projeção de analistas"
+        }
+      ]
+    },
+    {
+      "rotulo": "A resposta",
+      "titulo": "Kolbe descartou o teto",
+      "destaque": "descartou",
+      "texto": [
+        "Jennifer Kolbe, chefe de publicação da Rockstar, disse à Bloomberg que o palpite está errado, mas **não revelou o orçamento**, segundo IGN e GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "A origem",
+      "titulo": "De onde veio o número",
+      "destaque": "número",
+      "texto": [
+        "O IGN aponta uma matéria do Gulf News, de julho de 2025, que comparava o Burj Khalifa a um suposto orçamento do jogo.",
+        "O analista Michael Pachter também estimou algo acima disso, segundo a GamesRadar."
+      ]
+    }
+  ],
+  "final": "Quanto você acha que custou?",
+  "legenda": {
+    "gancho": "A Rockstar diz que GTA 6 não custou mais de US$ 1,5 bilhão, mas não revela o valor real.",
+    "corpo": [
+      "A resposta veio de Jennifer Kolbe, chefe de publicação da Rockstar, em reportagem da Bloomberg, segundo IGN e GamesRadar. Ela descartou o teto de US$ 1,5 bilhão, mas não deu número nenhum.",
+      "O IGN diz que o boato parece ter nascido numa matéria do Gulf News de julho de 2025. A Rockstar tem hoje 4.711 funcionários, contra 2.441 quando Red Dead Redemption 2 saiu. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Quanto você acha que custou?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 custou mais de US$ 1,5 bilhão?",
+    "Slide 2: O que é fato e o que é palpite",
+    "Slide 3: Kolbe descartou o teto",
+    "Slide 4: De onde veio o número",
+    "Slide 5: Quanto você acha que custou?"
+  ],
+  "slug": "rockstar-nega-orcamento-gta-6-1-5-bilhao",
+  "status": "pronto",
+  "criado": "2026-10-17T07:41:24-03:00"
+}
