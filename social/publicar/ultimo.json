@@ -1,14 +1,27 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "ciclo-se-repete-gta5-gta6",
-    "pasta": "reel-ciclo-se-repete-gta5-gta6",
-    "horario": "18:00",
-    "data": "2026-10-17"
+    "acao": "carrossel",
+    "slug": "gta-6-fauna-leonida-em-numeros",
+    "horario": "19:00",
+    "data": "2026-10-17",
+    "estilo": "celular",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-17T17:59:25-03:00",
+  "em": "2026-10-17T19:00:40-03:00",
   "ok": true,
-  "media_id": "18141353090258248",
-  "permalink": "https://www.instagram.com/reel/DenBcSRDi8W/",
+  "media_id": "18210015817365591",
+  "permalink": "https://www.instagram.com/p/DenIgYInRAw/",
+  "story": {
+    "em": "2026-10-17T19:01:25-03:00",
+    "media_id": "17921506473449019"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
