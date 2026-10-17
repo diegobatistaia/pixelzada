@@ -605,10 +605,15 @@
     "slug": "vida-ps5-tv4k-gta6",
     "data": "2026-10-17",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Celular",
     "legenda": "Vida de quem tem PS5, TV 4K e GTA 6 comprado 😎\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #memesgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-17T19:59:36-03:00",
+      "media_id": "18119001988929383",
+      "permalink": "https://www.instagram.com/reel/DenPMd8D3LI/"
+    }
   },
   {
     "slug": "aviao-gta5-vs-gta6",
