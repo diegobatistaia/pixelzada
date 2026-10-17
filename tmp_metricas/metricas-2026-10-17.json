@@ -1,0 +1,3115 @@
+{
+ "gerado_em": "2026-10-17T04:54:12.461084Z",
+ "erros": [],
+ "perfil": {
+  "username": "pixelzada.br",
+  "followers_count": 7,
+  "follows_count": 2,
+  "media_count": 101,
+  "id": "39077701321874827"
+ },
+ "totais": {
+  "total": {
+   "reach|follow_type": [
+    {
+     "name": "reach",
+     "period": "day",
+     "title": "Accounts reached",
+     "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+     "total_value": {
+      "value": 5382,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "follow_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "NON_FOLLOWER"
+          ],
+          "value": 5382
+         },
+         {
+          "dimension_values": [
+           "FOLLOWER"
+          ],
+          "value": 7
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/reach/day"
+    }
+   ],
+   "reach|media_product_type": [
+    {
+     "name": "reach",
+     "period": "day",
+     "title": "Accounts reached",
+     "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+     "total_value": {
+      "value": 5382,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 2
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 5382
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 9
+         },
+         {
+          "dimension_values": [
+           "CAROUSEL_CONTAINER"
+          ],
+          "value": 9
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/reach/day"
+    }
+   ],
+   "views|follow_type": [
+    {
+     "name": "views",
+     "period": "day",
+     "title": "Views",
+     "description": "The number of times your content was played or displayed. Content includes reels, posts, stories.",
+     "total_value": {
+      "value": 7338,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "follow_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "NON_FOLLOWER"
+          ],
+          "value": 6595
+         },
+         {
+          "dimension_values": [
+           "FOLLOWER"
+          ],
+          "value": 743
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/views/day"
+    }
+   ],
+   "views|media_product_type": [
+    {
+     "name": "views",
+     "period": "day",
+     "title": "Views",
+     "description": "The number of times your content was played or displayed. Content includes reels, posts, stories.",
+     "total_value": {
+      "value": 7338,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 4
+         },
+         {
+          "dimension_values": [
+           "CAROUSEL_CONTAINER"
+          ],
+          "value": 424
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 161
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 6749
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/views/day"
+    }
+   ],
+   "total_interactions|media_product_type": [
+    {
+     "name": "total_interactions",
+     "period": "day",
+     "title": "Content interactions",
+     "description": "The total number of post interactions, story interactions, reels interactions, video interactions and live video interactions, including any interactions on boosted content.",
+     "total_value": {
+      "value": 408,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 40
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 3
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 365
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/total_interactions/day"
+    }
+   ],
+   "accounts_engaged|None": [
+    {
+     "name": "accounts_engaged",
+     "period": "day",
+     "title": "Accounts engaged",
+     "description": "The number of accounts that have interacted with your content, including in ads. Content includes posts, stories, reels, videos and live videos. Interactions can include actions such as likes, saves, comments, shares or replies. These metrics are estimated and in development.",
+     "total_value": {
+      "value": 201
+     },
+     "id": "17841420505797110/insights/accounts_engaged/day"
+    }
+   ],
+   "profile_views|None": [
+    {
+     "name": "profile_views",
+     "period": "day",
+     "title": "Profile visits",
+     "description": "The number of times your profile was visited.",
+     "total_value": {
+      "value": 33
+     },
+     "id": "17841420505797110/insights/profile_views/day"
+    }
+   ],
+   "likes|None": [
+    {
+     "name": "likes",
+     "period": "day",
+     "title": "Likes",
+     "description": "The number of likes on your posts, reels and videos.",
+     "total_value": {
+      "value": 274
+     },
+     "id": "17841420505797110/insights/likes/day"
+    }
+   ],
+   "shares|None": [
+    {
+     "name": "shares",
+     "period": "day",
+     "title": "Shares",
+     "description": "The number of shares of your posts, stories, reels, videos and live videos.",
+     "total_value": {
+      "value": 55
+     },
+     "id": "17841420505797110/insights/shares/day"
+    }
+   ],
+   "saves|None": [
+    {
+     "name": "saves",
+     "period": "day",
+     "title": "Saves",
+     "description": "The number of saves of your posts, reels and videos.",
+     "total_value": {
+      "value": 10
+     },
+     "id": "17841420505797110/insights/saves/day"
+    }
+   ],
+   "comments|None": [
+    {
+     "name": "comments",
+     "period": "day",
+     "title": "Comments",
+     "description": "The number of comments on your posts, reels, videos, and live videos.",
+     "total_value": {
+      "value": 10
+     },
+     "id": "17841420505797110/insights/comments/day"
+    }
+   ],
+   "follows_and_unfollows|follow_type": [],
+   "profile_links_taps|None": [
+    {
+     "name": "profile_links_taps",
+     "period": "day",
+     "title": "Profile links taps",
+     "description": "The number of taps on your business address, call button, email button and text button.",
+     "total_value": {
+      "value": 0
+     },
+     "id": "17841420505797110/insights/profile_links_taps/day"
+    }
+   ]
+  },
+  "sem1": {
+   "reach|follow_type": [
+    {
+     "name": "reach",
+     "period": "day",
+     "title": "Accounts reached",
+     "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+     "total_value": {
+      "value": 3873,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "follow_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "FOLLOWER"
+          ],
+          "value": 5
+         },
+         {
+          "dimension_values": [
+           "NON_FOLLOWER"
+          ],
+          "value": 3873
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/reach/day"
+    }
+   ],
+   "reach|media_product_type": [
+    {
+     "name": "reach",
+     "period": "day",
+     "title": "Accounts reached",
+     "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+     "total_value": {
+      "value": 3873,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 1
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 3873
+         },
+         {
+          "dimension_values": [
+           "CAROUSEL_CONTAINER"
+          ],
+          "value": 7
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 7
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/reach/day"
+    }
+   ],
+   "views|follow_type": [
+    {
+     "name": "views",
+     "period": "day",
+     "title": "Views",
+     "description": "The number of times your content was played or displayed. Content includes reels, posts, stories.",
+     "total_value": {
+      "value": 5399,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "follow_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "FOLLOWER"
+          ],
+          "value": 610
+         },
+         {
+          "dimension_values": [
+           "NON_FOLLOWER"
+          ],
+          "value": 4789
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/views/day"
+    }
+   ],
+   "views|media_product_type": [
+    {
+     "name": "views",
+     "period": "day",
+     "title": "Views",
+     "description": "The number of times your content was played or displayed. Content includes reels, posts, stories.",
+     "total_value": {
+      "value": 5399,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 1
+         },
+         {
+          "dimension_values": [
+           "CAROUSEL_CONTAINER"
+          ],
+          "value": 357
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 4910
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 131
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/views/day"
+    }
+   ],
+   "total_interactions|media_product_type": [
+    {
+     "name": "total_interactions",
+     "period": "day",
+     "title": "Content interactions",
+     "description": "The total number of post interactions, story interactions, reels interactions, video interactions and live video interactions, including any interactions on boosted content.",
+     "total_value": {
+      "value": 300,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 40
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 3
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 257
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/total_interactions/day"
+    }
+   ],
+   "accounts_engaged|None": [
+    {
+     "name": "accounts_engaged",
+     "period": "day",
+     "title": "Accounts engaged",
+     "description": "The number of accounts that have interacted with your content, including in ads. Content includes posts, stories, reels, videos and live videos. Interactions can include actions such as likes, saves, comments, shares or replies. These metrics are estimated and in development.",
+     "total_value": {
+      "value": 137
+     },
+     "id": "17841420505797110/insights/accounts_engaged/day"
+    }
+   ],
+   "profile_views|None": [
+    {
+     "name": "profile_views",
+     "period": "day",
+     "title": "Profile visits",
+     "description": "The number of times your profile was visited.",
+     "total_value": {
+      "value": 28
+     },
+     "id": "17841420505797110/insights/profile_views/day"
+    }
+   ],
+   "likes|None": [
+    {
+     "name": "likes",
+     "period": "day",
+     "title": "Likes",
+     "description": "The number of likes on your posts, reels and videos.",
+     "total_value": {
+      "value": 196
+     },
+     "id": "17841420505797110/insights/likes/day"
+    }
+   ],
+   "shares|None": [
+    {
+     "name": "shares",
+     "period": "day",
+     "title": "Shares",
+     "description": "The number of shares of your posts, stories, reels, videos and live videos.",
+     "total_value": {
+      "value": 42
+     },
+     "id": "17841420505797110/insights/shares/day"
+    }
+   ],
+   "saves|None": [
+    {
+     "name": "saves",
+     "period": "day",
+     "title": "Saves",
+     "description": "The number of saves of your posts, reels and videos.",
+     "total_value": {
+      "value": 6
+     },
+     "id": "17841420505797110/insights/saves/day"
+    }
+   ],
+   "comments|None": [
+    {
+     "name": "comments",
+     "period": "day",
+     "title": "Comments",
+     "description": "The number of comments on your posts, reels, videos, and live videos.",
+     "total_value": {
+      "value": 10
+     },
+     "id": "17841420505797110/insights/comments/day"
+    }
+   ],
+   "follows_and_unfollows|follow_type": [],
+   "profile_links_taps|None": [
+    {
+     "name": "profile_links_taps",
+     "period": "day",
+     "title": "Profile links taps",
+     "description": "The number of taps on your business address, call button, email button and text button.",
+     "total_value": {
+      "value": 0
+     },
+     "id": "17841420505797110/insights/profile_links_taps/day"
+    }
+   ]
+  },
+  "pos15": {
+   "reach|follow_type": [
+    {
+     "name": "reach",
+     "period": "day",
+     "title": "Accounts reached",
+     "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+     "total_value": {
+      "value": 1491,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "follow_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "FOLLOWER"
+          ],
+          "value": 5
+         },
+         {
+          "dimension_values": [
+           "NON_FOLLOWER"
+          ],
+          "value": 1483
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/reach/day"
+    }
+   ],
+   "reach|media_product_type": [
+    {
+     "name": "reach",
+     "period": "day",
+     "title": "Accounts reached",
+     "description": "The number of unique accounts that have seen your content, at least once, including in ads. Content includes posts, stories, reels, videos and live videos. Reach is different from impressions, which may include multiple views of your content by the same accounts. This metric is estimated and in development.",
+     "total_value": {
+      "value": 1491,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 4
+         },
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 1
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 1489
+         },
+         {
+          "dimension_values": [
+           "CAROUSEL_CONTAINER"
+          ],
+          "value": 4
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/reach/day"
+    }
+   ],
+   "views|follow_type": [
+    {
+     "name": "views",
+     "period": "day",
+     "title": "Views",
+     "description": "The number of times your content was played or displayed. Content includes reels, posts, stories.",
+     "total_value": {
+      "value": 1939,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "follow_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "NON_FOLLOWER"
+          ],
+          "value": 1806
+         },
+         {
+          "dimension_values": [
+           "FOLLOWER"
+          ],
+          "value": 133
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/views/day"
+    }
+   ],
+   "views|media_product_type": [
+    {
+     "name": "views",
+     "period": "day",
+     "title": "Views",
+     "description": "The number of times your content was played or displayed. Content includes reels, posts, stories.",
+     "total_value": {
+      "value": 1939,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "CAROUSEL_CONTAINER"
+          ],
+          "value": 67
+         },
+         {
+          "dimension_values": [
+           "STORY"
+          ],
+          "value": 30
+         },
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 1839
+         },
+         {
+          "dimension_values": [
+           "POST"
+          ],
+          "value": 3
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/views/day"
+    }
+   ],
+   "total_interactions|media_product_type": [
+    {
+     "name": "total_interactions",
+     "period": "day",
+     "title": "Content interactions",
+     "description": "The total number of post interactions, story interactions, reels interactions, video interactions and live video interactions, including any interactions on boosted content.",
+     "total_value": {
+      "value": 108,
+      "breakdowns": [
+       {
+        "dimension_keys": [
+         "media_product_type"
+        ],
+        "results": [
+         {
+          "dimension_values": [
+           "REEL"
+          ],
+          "value": 108
+         }
+        ]
+       }
+      ]
+     },
+     "id": "17841420505797110/insights/total_interactions/day"
+    }
+   ],
+   "accounts_engaged|None": [
+    {
+     "name": "accounts_engaged",
+     "period": "day",
+     "title": "Accounts engaged",
+     "description": "The number of accounts that have interacted with your content, including in ads. Content includes posts, stories, reels, videos and live videos. Interactions can include actions such as likes, saves, comments, shares or replies. These metrics are estimated and in development.",
+     "total_value": {
+      "value": 66
+     },
+     "id": "17841420505797110/insights/accounts_engaged/day"
+    }
+   ],
+   "profile_views|None": [
+    {
+     "name": "profile_views",
+     "period": "day",
+     "title": "Profile visits",
+     "description": "The number of times your profile was visited.",
+     "total_value": {
+      "value": 5
+     },
+     "id": "17841420505797110/insights/profile_views/day"
+    }
+   ],
+   "likes|None": [
+    {
+     "name": "likes",
+     "period": "day",
+     "title": "Likes",
+     "description": "The number of likes on your posts, reels and videos.",
+     "total_value": {
+      "value": 78
+     },
+     "id": "17841420505797110/insights/likes/day"
+    }
+   ],
+   "shares|None": [
+    {
+     "name": "shares",
+     "period": "day",
+     "title": "Shares",
+     "description": "The number of shares of your posts, stories, reels, videos and live videos.",
+     "total_value": {
+      "value": 13
+     },
+     "id": "17841420505797110/insights/shares/day"
+    }
+   ],
+   "saves|None": [
+    {
+     "name": "saves",
+     "period": "day",
+     "title": "Saves",
+     "description": "The number of saves of your posts, reels and videos.",
+     "total_value": {
+      "value": 4
+     },
+     "id": "17841420505797110/insights/saves/day"
+    }
+   ],
+   "comments|None": [
+    {
+     "name": "comments",
+     "period": "day",
+     "title": "Comments",
+     "description": "The number of comments on your posts, reels, videos, and live videos.",
+     "total_value": {
+      "value": 0
+     },
+     "id": "17841420505797110/insights/comments/day"
+    }
+   ],
+   "follows_and_unfollows|follow_type": [],
+   "profile_links_taps|None": [
+    {
+     "name": "profile_links_taps",
+     "period": "day",
+     "title": "Profile links taps",
+     "description": "The number of taps on your business address, call button, email button and text button.",
+     "total_value": {
+      "value": 0
+     },
+     "id": "17841420505797110/insights/profile_links_taps/day"
+    }
+   ]
+  }
+ },
+ "serie": {
+  "reach": [
+   {
+    "name": "reach",
+    "period": "day",
+    "values": [
+     {
+      "value": 44,
+      "end_time": "2026-10-08T07:00:00+0000"
+     },
+     {
+      "value": 118,
+      "end_time": "2026-10-09T07:00:00+0000"
+     },
+     {
+      "value": 531,
+      "end_time": "2026-10-10T07:00:00+0000"
+     },
+     {
+      "value": 1247,
+      "end_time": "2026-10-11T07:00:00+0000"
+     },
+     {
+      "value": 699,
+      "end_time": "2026-10-12T07:00:00+0000"
+     },
+     {
+      "value": 661,
+      "end_time": "2026-10-13T07:00:00+0000"
+     },
+     {
+      "value": 613,
+      "end_time": "2026-10-14T07:00:00+0000"
+     },
+     {
+      "value": 713,
+      "end_time": "2026-10-15T07:00:00+0000"
+     },
+     {
+      "value": 762,
+      "end_time": "2026-10-16T07:00:00+0000"
+     }
+    ],
+    "title": "Reach",
+    "description": "Total number of times the Business Account's media objects have been uniquely viewed",
+    "id": "17841420505797110/insights/reach/day"
+   }
+  ],
+  "follower_count": []
+ },
+ "publico": {
+  "age": [],
+  "gender": [],
+  "city": [],
+  "country": []
+ },
+ "media": [
+  {
+   "id": "17990686499865550",
+   "caption": "Imagens vazadas mostrariam Assassin's Creed Destiny, um jogo cancelado na China de 206 a.C.\n\nO site MP1st encontrou o protótipo em portfólios de desenvolvedores, segundo IGN, VGC e GamesRadar. Seria u",
+   "permalink": "https://www.instagram.com/p/DekxVwmjeyo/",
+   "timestamp": "2026-10-17T00:00:28+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 6,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18022497191708516",
+   "caption": "POV: você mora no mapa do GTA 6 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #miami #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DekqfldFc3r/",
+   "timestamp": "2026-10-16T23:00:58+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 4,
+   "comments_count": 0,
+   "insights": {
+    "reach": 103,
+    "views": 123,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 3861,
+    "ig_reels_video_view_total_time": 405494,
+    "reels_skip_rate": 66.7
+   }
+  },
+  {
+   "id": "18104076131205534",
+   "caption": "Cal Hampton e Boobie Ike são dois coadjuvantes de GTA 6 que a Rockstar já apresentou no site oficial.\n\nCal é amigo de Jason e fuça as comunicações da Guarda Costeira de casa. Boobie Ike é uma lenda de",
+   "permalink": "https://www.instagram.com/p/DekjoQrgWyi/",
+   "timestamp": "2026-10-16T22:00:40+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18148965568563368",
+   "caption": "Essa cena deixou muita gente de queixo caído. O gráfico era absurdo pra época 🤯\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#godofwar #kratos #playstation #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DekcrQSjqzi/",
+   "timestamp": "2026-10-16T21:00:04+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 12,
+   "comments_count": 0,
+   "insights": {
+    "reach": 123,
+    "views": 143,
+    "likes": 12,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 13,
+    "ig_reels_avg_watch_time": 9050,
+    "ig_reels_video_view_total_time": 1131332,
+    "reels_skip_rate": 29.8
+   }
+  },
+  {
+   "id": "18123882173301338",
+   "caption": "Control Resonant vendeu 1 milhão de cópias em cerca de três semanas e virou o jogo mais rápido da Remedy.\n\nA Remedy anunciou a marca em 15 de outubro. O jogo saiu em 24 de setembro, segundo o Polygon,",
+   "permalink": "https://www.instagram.com/p/DekWAzOgbXt/",
+   "timestamp": "2026-10-16T20:01:41+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 0,
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18108626515920038",
+   "caption": "Como eu vou me sentir tendo que desinstalar o GTA 5 pra instalar o GTA 6 🥲\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #memesgamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DekO8qcoHTs/",
+   "timestamp": "2026-10-16T19:00:27+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 8,
+   "comments_count": 0,
+   "insights": {
+    "reach": 113,
+    "views": 129,
+    "likes": 8,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 10,
+    "ig_reels_avg_watch_time": 5983,
+    "ig_reels_video_view_total_time": 682098,
+    "reels_skip_rate": 61.1
+   }
+  },
+  {
+   "id": "18001585698040236",
+   "caption": "GTA 6 já passou por vazamento, dois adiamentos e pré-venda, e o lançamento segue em 19 de novembro.\n\nA Rockstar confirmou o jogo em 4 de fevereiro de 2022. Depois vieram o vazamento de setembro de 202",
+   "permalink": "https://www.instagram.com/p/DekIKp0iRzh/",
+   "timestamp": "2026-10-16T18:00:42+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 3,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17920067064447738",
+   "caption": "Estudante cita uma lição de Red Dead Redemption 2 em discurso de formatura 🤠🎓\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#rdr2 #reddeadredemption2 #arthurmorgan #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DekBWhJk_pg/",
+   "timestamp": "2026-10-16T17:01:56+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 8,
+   "comments_count": 0,
+   "insights": {
+    "reach": 127,
+    "views": 155,
+    "likes": 8,
+    "comments": 0,
+    "shares": 1,
+    "saved": 1,
+    "total_interactions": 11,
+    "ig_reels_avg_watch_time": 17657,
+    "ig_reels_video_view_total_time": 2295513,
+    "reels_skip_rate": 51.2
+   }
+  },
+  {
+   "id": "17913573039491931",
+   "caption": "O remake de Zelda: Ocarina of Time mostrou Dark Link pela primeira vez, em dois trailers novos.\n\nOs vídeos são comerciais de TV do Japão. O GamesRadar conta que o duelo contra Dark Link aparece por vo",
+   "permalink": "https://www.instagram.com/p/Dej6fkFEQFH/",
+   "timestamp": "2026-10-16T16:01:12+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 1,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18103930298232968",
+   "caption": "Eu depois de atropelar meu primeiro NPC no GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DejzneyiTDW/",
+   "timestamp": "2026-10-16T15:01:22+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 6,
+   "comments_count": 0,
+   "insights": {
+    "reach": 124,
+    "views": 182,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 7,
+    "ig_reels_avg_watch_time": 9813,
+    "ig_reels_video_view_total_time": 1226749,
+    "reels_skip_rate": 41.6
+   }
+  },
+  {
+   "id": "18096101675691982",
+   "caption": "Faltam 34 dias para GTA 6, e a dúvida é onde jogar: só em PS5 e Xbox Series X|S, por enquanto.\n\nSegundo o site oficial da Rockstar, o jogo sai em 19 de novembro apenas para PS5 e Xbox Series X|S. A Pl",
+   "permalink": "https://www.instagram.com/p/DejswVjHHBE/",
+   "timestamp": "2026-10-16T14:01:04+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 5,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18098602538385384",
+   "caption": "Você passa 500 horas no GTA aprendendo a desconfiar dos jogadores e agora descobre que também precisava desconfiar dos postes 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gtav #games #memesg",
+   "permalink": "https://www.instagram.com/reel/DejlyWiFS4h/",
+   "timestamp": "2026-10-16T13:00:56+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 6,
+   "comments_count": 0,
+   "insights": {
+    "reach": 155,
+    "views": 204,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 17463,
+    "ig_reels_video_view_total_time": 2724315,
+    "reels_skip_rate": 37.2
+   }
+  },
+  {
+   "id": "18147888925562276",
+   "caption": "A Sega vai tirar da venda o remaster de Total War: Shogun 2 dois dias depois do lançamento.\n\nA Complete Edition saiu em 13 de outubro e recebeu avaliações extremamente negativas na Steam, com críticas",
+   "permalink": "https://www.instagram.com/p/DejfGJ0Fhvd/",
+   "timestamp": "2026-10-16T12:01:48+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 8,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18155203336517104",
+   "caption": "A Activision disse que GTA 6 e Call of Duty são os maiores jogos do ano, e Zelda ficou de fora da conta.\n\nSegundo o VGC, Tyler Bahl respondeu 'sem ofensa a Zelda' quando perguntado sobre a concorrênci",
+   "permalink": "https://www.instagram.com/p/DeiMntzj1kf/",
+   "timestamp": "2026-10-16T00:01:08+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18062520629717279",
+   "caption": "Eu: “A base de um relacionamento é a confiança” 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #cj #gta #memesgamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeiFmNkiJnM/",
+   "timestamp": "2026-10-15T23:00:03+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 0,
+   "insights": {
+    "reach": 106,
+    "views": 129,
+    "likes": 3,
+    "comments": 0,
+    "shares": 1,
+    "saved": 1,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 3122,
+    "ig_reels_video_view_total_time": 359112,
+    "reels_skip_rate": 64.2
+   }
+  },
+  {
+   "id": "17912120922523592",
+   "caption": "A Rockstar lançou o trailer de lançamento de GTA 6, 35 dias antes do jogo chegar ao PS5 e ao Xbox Series X|S.\n\nO vídeo tem 90 segundos e mostra mais da história de Jason e Lucia, com imagens capturada",
+   "permalink": "https://www.instagram.com/p/Deh-z4rGgC_/",
+   "timestamp": "2026-10-15T22:00:27+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18113710916127311",
+   "caption": "Vice City em 2002 e a expectativa do GTA 6: 24 anos depois 🌴 (imagem ilustrativa)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/Deh3_4pgKTM/",
+   "timestamp": "2026-10-15T21:01:05+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 0,
+   "insights": {
+    "reach": 131,
+    "views": 186,
+    "likes": 3,
+    "comments": 0,
+    "shares": 1,
+    "saved": 1,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 4474,
+    "ig_reels_video_view_total_time": 599630,
+    "reels_skip_rate": 66.2
+   }
+  },
+  {
+   "id": "18493323700096042",
+   "caption": "007 First Light finalmente tem data no Switch 2: 18 de março de 2027, e a pré-venda já abriu.\n\nO jogo saiu em 27 de maio de 2026 para PS5, Xbox Series e PC. A versão do Switch 2 foi adiada para o terc",
+   "permalink": "https://www.instagram.com/p/DehxFxlm4cF/",
+   "timestamp": "2026-10-15T20:00:33+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18214619893361530",
+   "caption": "Quando o time gamer se reúne depois de anos sem jogar 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#minecraft #games #gamer #memesgamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DehqGCeDBoj/",
+   "timestamp": "2026-10-15T18:59:47+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 7,
+   "comments_count": 0,
+   "insights": {
+    "reach": 128,
+    "views": 156,
+    "likes": 7,
+    "comments": 0,
+    "shares": 9,
+    "saved": 0,
+    "total_interactions": 17,
+    "ig_reels_avg_watch_time": 9143,
+    "ig_reels_video_view_total_time": 1161229,
+    "reels_skip_rate": 35.7
+   }
+  },
+  {
+   "id": "17947908240068376",
+   "caption": "Faltam 35 dias para GTA 6, e o Trailer 2 ainda guarda detalhes que muita gente deixou passar.\n\nSegundo a Rockstar, o vídeo de maio de 2025 tem partes iguais de gameplay e cenas de história, todas capt",
+   "permalink": "https://www.instagram.com/p/Dehji3rlDIi/",
+   "timestamp": "2026-10-15T18:02:11+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 5,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17912843889499223",
+   "caption": "Galera do PC quando baixar o GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #pc #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/Dehcb1hDIrY/",
+   "timestamp": "2026-10-15T17:00:21+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 0,
+   "insights": {
+    "reach": 135,
+    "views": 145,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 10364,
+    "ig_reels_video_view_total_time": 1409595,
+    "reels_skip_rate": 34.1
+   }
+  },
+  {
+   "id": "18103767470640532",
+   "caption": "Ex-desenvolvedores de Disco Elysium anunciaram Red Rooster, um RPG de física em que o fogo é parte da investigação.\n\nO jogo do estúdio Summer Eternal coloca você no lugar de Redrick Roost, um presidiá",
+   "permalink": "https://www.instagram.com/p/DehVuYfm8yb/",
+   "timestamp": "2026-10-15T16:01:29+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17973894288150460",
+   "caption": "“Como você consegue se concentrar tanto sob pressão?” Eu em 2005 🏎️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#needforspeed #mostwanted #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DehOo9mirHx/",
+   "timestamp": "2026-10-15T14:59:48+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 10,
+   "comments_count": 0,
+   "insights": {
+    "reach": 129,
+    "views": 162,
+    "likes": 10,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 11,
+    "ig_reels_avg_watch_time": 8823,
+    "ig_reels_video_view_total_time": 1147015,
+    "reels_skip_rate": 35.2
+   }
+  },
+  {
+   "id": "17895806244681018",
+   "caption": "GTA 6 tem duas edições no Brasil, e a diferença de preço é de R$ 100.\n\nA Standard custa R$ 449,90 e a Ultimate, R$ 549,90, segundo CNN Brasil e Tecnoblog. A Ultimate traz carros, armas, roupas e cinco",
+   "permalink": "https://www.instagram.com/p/DehH6jOlWR-/",
+   "timestamp": "2026-10-15T14:00:46+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17907096507578089",
+   "caption": "Fã recria a despedida do GTA V com IA e o resultado parece um filme de verdade 🎬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gtav #ia #gta6 #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DehA9u4DR_U/",
+   "timestamp": "2026-10-15T13:00:41+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 5,
+   "comments_count": 0,
+   "insights": {
+    "reach": 118,
+    "views": 138,
+    "likes": 5,
+    "comments": 0,
+    "shares": 1,
+    "saved": 0,
+    "total_interactions": 7,
+    "ig_reels_avg_watch_time": 12431,
+    "ig_reels_video_view_total_time": 1529100,
+    "reels_skip_rate": 39.3
+   }
+  },
+  {
+   "id": "18446943397130651",
+   "caption": "A Xbox anunciou o Nano, o menor controle da linha, e ele já tem preço sugerido no Brasil.\n\nO Xbox Wire BR informa R$ 379, com pré-venda no país prevista para breve. Nos Estados Unidos, o preço é de US",
+   "permalink": "https://www.instagram.com/p/Deg6PYbGwNx/",
+   "timestamp": "2026-10-15T12:01:17+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 7,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18150847258554024",
+   "caption": "A Nintendo mostrou um trailer de cinco minutos do remake de Zelda: Ocarina of Time para o Switch 2.\n\nSegundo a Gematsu, a ocarina responde a melodias cantaroladas pelo microfone, e o Hall of Fallen He",
+   "permalink": "https://www.instagram.com/p/Defntw6kZU5/",
+   "timestamp": "2026-10-15T00:00:04+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18135256783637185",
+   "caption": "Vazou GTA 6 rodando no Series S 😂 (calma, é o GTA 5, é só brincadeira)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta5 #memesgamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/Defg10Cj8Sz/",
+   "timestamp": "2026-10-14T23:00:27+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 5,
+   "comments_count": 0,
+   "insights": {
+    "reach": 126,
+    "views": 173,
+    "likes": 5,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 8115,
+    "ig_reels_video_view_total_time": 1054976,
+    "reels_skip_rate": 27.6
+   }
+  },
+  {
+   "id": "18394185580207133",
+   "caption": "#pixelzada #gta6",
+   "permalink": "https://www.instagram.com/p/DefZ8hTFTbM/",
+   "timestamp": "2026-10-14T21:59:51+0000",
+   "media_type": "IMAGE",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17982984519107386",
+   "caption": "Esses takes do GTA 6 e a gente esperando até 19 de novembro 😩\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DefTDvIgIkZ/",
+   "timestamp": "2026-10-14T20:59:58+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 17,
+    "views": 20,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 2249,
+    "ig_reels_video_view_total_time": 42731,
+    "reels_skip_rate": 82.4
+   }
+  },
+  {
+   "id": "18106234432980973",
+   "caption": "A Ubisoft propôs fechar a RedLynx, estúdio finlandês criador da série Trials.\n\nSegundo GamesIndustry.biz e VGC, até 52 posições ficam em risco na Finlândia, e a Ubisoft Singapura teve 70 posições afet",
+   "permalink": "https://www.instagram.com/p/DefMV_8j03_/",
+   "timestamp": "2026-10-14T20:00:59+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 5,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18090335780679477",
+   "caption": "Paraquedas no GTA San Andreas vs. paraquedas no GTA 6 🪂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtasanandreas #gtavi #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DefGMgVDmWU/",
+   "timestamp": "2026-10-14T19:07:35+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 4,
+   "comments_count": 0,
+   "insights": {
+    "reach": 127,
+    "views": 152,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 6249,
+    "ig_reels_video_view_total_time": 799905,
+    "reels_skip_rate": 33.1
+   }
+  },
+  {
+   "id": "18202278766334407",
+   "caption": "A Rockstar prometeu que o próximo jogo depois de GTA 6 não vai levar mais oito anos.\n\nSegundo a Bloomberg, via IGN e VGC, o motor, as ferramentas e a equipe de GTA 6 vão acelerar os próximos projetos.",
+   "permalink": "https://www.instagram.com/p/Dee-hWmlJUk/",
+   "timestamp": "2026-10-14T18:00:12+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 4,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18167190178490540",
+   "caption": "Eu explicando pro meu amigo como vou jogar GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/Dee3nSXDhnU/",
+   "timestamp": "2026-10-14T17:00:10+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 5,
+   "comments_count": 0,
+   "insights": {
+    "reach": 121,
+    "views": 167,
+    "likes": 5,
+    "comments": 0,
+    "shares": 6,
+    "saved": 0,
+    "total_interactions": 12,
+    "ig_reels_avg_watch_time": 7283,
+    "ig_reels_video_view_total_time": 917680,
+    "reels_skip_rate": 46.8
+   }
+  },
+  {
+   "id": "17912168139554622",
+   "caption": "A Sony anunciou o PS5 Digital Edition Midnight Black, mas só para o Japão.\n\nSegundo Gematsu e VGC, ele chega em 19 de novembro por 55 mil ienes, com região travada.\n\nO leitor de discos avulso na mesma",
+   "permalink": "https://www.instagram.com/p/Deewy20HETk/",
+   "timestamp": "2026-10-14T16:00:15+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 8,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18043499711854189",
+   "caption": "Problemas de adulto? Não, você está em 2008: sábado, PS2 ligado e San Andreas no K-Rose 🎧\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta6 #ps2 #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/Deep3F1lec8/",
+   "timestamp": "2026-10-14T14:59:59+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 12,
+   "comments_count": 0,
+   "insights": {
+    "reach": 115,
+    "views": 131,
+    "likes": 12,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 13,
+    "ig_reels_avg_watch_time": 7160,
+    "ig_reels_video_view_total_time": 830626,
+    "reels_skip_rate": 39.1
+   }
+  },
+  {
+   "id": "17961219114216227",
+   "caption": "O primeiro trailer de GTA 6 bateu recordes no YouTube e ainda mexeu com o Spotify.\n\nSegundo o Guinness, foram 90.421.491 visualizações e cerca de 8,9 milhões de curtidas em 24 horas, via Push Square e",
+   "permalink": "https://www.instagram.com/p/DeejIMpGptv/",
+   "timestamp": "2026-10-14T14:00:50+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 3,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17931009669165552",
+   "caption": "Drone FPV mostra que Vice City é Miami reconstruída com perfeição 🚁\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #miami #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeecIf6gSqR/",
+   "timestamp": "2026-10-14T13:00:02+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 2,
+   "insights": {
+    "reach": 116,
+    "views": 133,
+    "likes": 3,
+    "comments": 2,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 10909,
+    "ig_reels_video_view_total_time": 1265528,
+    "reels_skip_rate": 38.3
+   }
+  },
+  {
+   "id": "18086701802704091",
+   "caption": "A Sony revelou a edição de colecionador de God of War Laufey, e o jogo não vem junto.\n\nSegundo Polygon, GamesRadar e Kotaku, a Collector Box custa US$ 149,99 e traz estátua com luz, baralho de 51 cart",
+   "permalink": "https://www.instagram.com/p/DeeWYMsm68o/",
+   "timestamp": "2026-10-14T12:09:26+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 5,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18104845244199107",
+   "caption": "No Man's Sky chega ao iPhone e ao iPad em 28 de outubro.\n\nSegundo The Verge, Gematsu e Eurogamer, a versão para iOS traz as atualizações dos últimos dez anos, mas sem multiplayer e sem assentamentos.\n",
+   "permalink": "https://www.instagram.com/p/DedDAqljw5v/",
+   "timestamp": "2026-10-14T00:00:58+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 6,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17927815413185402",
+   "caption": "Era isso que a Rockstar insinuava nas cartas da Mary pro Arthur? “Talvez em outra vida…”\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#rdr2 #reddeadredemption2 #rockstar #games #pixelzad",
+   "permalink": "https://www.instagram.com/reel/Dec8DN6gpO6/",
+   "timestamp": "2026-10-13T23:00:32+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 8,
+   "comments_count": 2,
+   "insights": {
+    "reach": 129,
+    "views": 172,
+    "likes": 8,
+    "comments": 2,
+    "shares": 1,
+    "saved": 1,
+    "total_interactions": 13,
+    "ig_reels_avg_watch_time": 5664,
+    "ig_reels_video_view_total_time": 759078,
+    "reels_skip_rate": 50.8
+   }
+  },
+  {
+   "id": "18463449880190367",
+   "caption": "Faltam 37 dias para GTA 6 e a Rockstar já mostrou vários lugares de Vice City.\n\nSegundo o site oficial, Ocean Beach tem hotéis art déco em tons pastel, Little Cuba reúne padarias cubanas e o VC Port é",
+   "permalink": "https://www.instagram.com/p/Dec1RSRFUJ8/",
+   "timestamp": "2026-10-13T22:00:47+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 3,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18128181022879263",
+   "caption": "Dia do lançamento do GTA 6: o cara do PS5 de 3,6k vs. o cara do PC de 15k 😅\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #pcgamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DecuQUfCLft/",
+   "timestamp": "2026-10-13T20:59:53+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 4,
+   "insights": {
+    "reach": 120,
+    "views": 147,
+    "likes": 3,
+    "comments": 4,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 8,
+    "ig_reels_avg_watch_time": 5930,
+    "ig_reels_video_view_total_time": 735346,
+    "reels_skip_rate": 52.5
+   }
+  },
+  {
+   "id": "18133916767676120",
+   "caption": "A Steam bateu recorde com mais de 43 milhões de usuários conectados ao mesmo tempo.\n\nSegundo o SteamDB, via GamesRadar e Kotaku, foram 43.505.724 contas em 11 de outubro. Desses, 14,5 milhões estavam ",
+   "permalink": "https://www.instagram.com/p/Decnh-2j6av/",
+   "timestamp": "2026-10-13T20:00:44+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 3,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18151255321554429",
+   "caption": "Quando o assunto é ser o melhor console… o PS2 chega com tudo isso 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#ps2 #playstation #retrogames #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DecghV-jxlh/",
+   "timestamp": "2026-10-13T19:00:16+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 4,
+    "views": 6,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 5735,
+    "ig_reels_video_view_total_time": 34413,
+    "reels_skip_rate": 50
+   }
+  },
+  {
+   "id": "17962299864228824",
+   "caption": "Um relatório diz que GTA 6 chega ao PC no primeiro trimestre de 2027, mas a Rockstar não confirmou.\n\nSegundo Eurogamer e Polygon, a GamesBeat cita quatro fontes anônimas. O jogo sai em 19 de novembro ",
+   "permalink": "https://www.instagram.com/p/DecZvw2GALL/",
+   "timestamp": "2026-10-13T18:00:22+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 8,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17868717897662195",
+   "caption": "POV: “Ah, mas GTA 6 não vai ser isso tudo…” Rockstar em 2018 🏔️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rdr2 #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DecSyXTDIVn/",
+   "timestamp": "2026-10-13T17:00:12+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 6,
+   "comments_count": 0,
+   "insights": {
+    "reach": 123,
+    "views": 134,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 7,
+    "ig_reels_avg_watch_time": 6297,
+    "ig_reels_video_view_total_time": 768283,
+    "reels_skip_rate": 56.2
+   }
+  },
+  {
+   "id": "17880230616543792",
+   "caption": "O criador de Dragon Quest lançou um jogo que diz ter feito com IA em cerca de 30 minutos.\n\nSegundo VGC, Eurogamer e Kotaku, Yuji Horii publicou Interrogation Room Komiya, um jogo de interrogatório no ",
+   "permalink": "https://www.instagram.com/p/DecMB41G6KJ/",
+   "timestamp": "2026-10-13T16:00:32+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 8,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18014122427982994",
+   "caption": "“Como você fica tão focado sob pressão?” Eu em 2003 🏎️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#needforspeed #nfs #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DecFFsDADXh/",
+   "timestamp": "2026-10-13T15:00:07+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 7,
+   "comments_count": 0,
+   "insights": {
+    "reach": 127,
+    "views": 150,
+    "likes": 7,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 11,
+    "ig_reels_avg_watch_time": 8347,
+    "ig_reels_video_view_total_time": 1068462,
+    "reels_skip_rate": 50.4
+   }
+  },
+  {
+   "id": "17885588853685814",
+   "caption": "GTA 6 não acontece só em Vice City: o jogo é no estado de Leonida, com seis regiões.\n\nSegundo a Rockstar, são seis destinos: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalag",
+   "permalink": "https://www.instagram.com/p/Deb-YR-G4B6/",
+   "timestamp": "2026-10-13T14:01:15+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17954556735291408",
+   "caption": "Eu voltando do trabalho no dia 19/11/2026 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/Deb3ZOGjnfh/",
+   "timestamp": "2026-10-13T13:00:28+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 7,
+   "comments_count": 0,
+   "insights": {
+    "reach": 124,
+    "views": 143,
+    "likes": 7,
+    "comments": 0,
+    "shares": 1,
+    "saved": 0,
+    "total_interactions": 9,
+    "ig_reels_avg_watch_time": 4699,
+    "ig_reels_video_view_total_time": 587449,
+    "reels_skip_rate": 58.5
+   }
+  },
+  {
+   "id": "18217511713345033",
+   "caption": "A Nintendo disse que não tem planos de abandonar os jogos físicos no Switch 2.\n\nSegundo GamesRadar, Eurogamer e Kotaku, Bill van Zyll, da Nintendo na América Latina, afirmou que a empresa segue o que ",
+   "permalink": "https://www.instagram.com/p/Debwmw9IJol/",
+   "timestamp": "2026-10-13T12:00:48+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 2,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17912069448549217",
+   "caption": "As quedas de Gears of War: E-Day no fim de semana foram ataque DDoS, confirmou a The Coalition.\n\nSegundo IGN, Eurogamer e Kotaku, jogadores tiveram desconexões e problemas de login, e o estúdio atribu",
+   "permalink": "https://www.instagram.com/p/DeaeP5NDxDg/",
+   "timestamp": "2026-10-13T00:01:08+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 7,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18494160187109832",
+   "caption": "Eu no dia 19 de novembro dizendo bom dia, boa tarde e boa noite pro mundo real 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeaXLPujmKI/",
+   "timestamp": "2026-10-12T22:59:45+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 4,
+   "comments_count": 0,
+   "insights": {
+    "reach": 112,
+    "views": 131,
+    "likes": 4,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 4027,
+    "ig_reels_video_view_total_time": 471247,
+    "reels_skip_rate": 59.6
+   }
+  },
+  {
+   "id": "18089072600243452",
+   "caption": "Lucia Caminos divide o protagonismo de GTA 6 com Jason, e a Rockstar já contou bastante sobre ela.\n\nSegundo a Rockstar, o pai de Lucia a ensinou a lutar e lutar pela família a levou à Penitenciária de",
+   "permalink": "https://www.instagram.com/p/DeaQbC7FfKi/",
+   "timestamp": "2026-10-12T22:00:25+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 7,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 1
+   }
+  },
+  {
+   "id": "18155969572515063",
+   "caption": "O mapa do GTA 6 é pequeno? Compare com Los Santos 🗺️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeaJf6CieTn/",
+   "timestamp": "2026-10-12T21:00:14+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 101,
+    "views": 120,
+    "likes": 2,
+    "comments": 0,
+    "shares": 3,
+    "saved": 0,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 8749,
+    "ig_reels_video_view_total_time": 918718,
+    "reels_skip_rate": 61.8
+   }
+  },
+  {
+   "id": "18106787722967634",
+   "caption": "Squadron 42 voltou com trailer novo, página na Steam e elenco confirmado.\n\nSegundo a IGN, o jogo solo de Star Citizen tem Mark Hamill, Gary Oldman, Gillian Anderson, Ben Mendelsohn e Henry Cavill no e",
+   "permalink": "https://www.instagram.com/p/DeaCrhQjx4z/",
+   "timestamp": "2026-10-12T20:00:21+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 3,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18113579522126753",
+   "caption": "Michael: “Você tá bem, Franklin?” 🥲\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #gtavi #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeZ7wwXiqjG/",
+   "timestamp": "2026-10-12T19:00:11+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 6,
+   "comments_count": 0,
+   "insights": {
+    "reach": 150,
+    "views": 176,
+    "likes": 6,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 7,
+    "ig_reels_avg_watch_time": 14154,
+    "ig_reels_video_view_total_time": 2165656,
+    "reels_skip_rate": 29.3
+   }
+  },
+  {
+   "id": "18008364038782602",
+   "caption": "A EA anunciou uma edição de 30 anos de Wing Commander 3, com vídeos restaurados das fitas originais.\n\nO anúncio foi num painel de um evento retrô, segundo PC Gamer e VGC. A edição terá até 60 quadros ",
+   "permalink": "https://www.instagram.com/p/DeZ1D08leX-/",
+   "timestamp": "2026-10-12T18:01:27+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 3,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17928619518423534",
+   "caption": "Uma nova forma de explorar o Forza Horizon 6: com o celular na mão 📱\n\nSegue @pixelzada.br pra acompanhar o Forza Horizon 6.\n\n#forza #forzahorizon6 #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeZuBO1AUn8/",
+   "timestamp": "2026-10-12T17:00:08+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 123,
+    "views": 150,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "ig_reels_avg_watch_time": 7461,
+    "ig_reels_video_view_total_time": 940118,
+    "reels_skip_rate": 44.4
+   }
+  },
+  {
+   "id": "18498853189102830",
+   "caption": "Wardogs ganha chuva, quatro armas e quatro veículos na temporada 2, que chega em 15 de outubro, segundo a Bulkhead.\n\nA chuva não é clima dinâmico: dura a partida inteira, de acordo com a IGN. O produt",
+   "permalink": "https://www.instagram.com/p/DeZnR_4mwOf/",
+   "timestamp": "2026-10-12T16:00:56+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18104006201199704",
+   "caption": "Não fique triste porque está acabando, fique feliz porque aconteceu 🥹\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #gtavi #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeZhOlGEsDh/",
+   "timestamp": "2026-10-12T15:08:40+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 9,
+   "comments_count": 0,
+   "insights": {
+    "reach": 143,
+    "views": 153,
+    "likes": 9,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 10,
+    "ig_reels_avg_watch_time": 11229,
+    "ig_reels_video_view_total_time": 1628236,
+    "reels_skip_rate": 32.2
+   }
+  },
+  {
+   "id": "17916393531461467",
+   "caption": "Todo mundo fala da Lucia, mas Jason Duval também divide o protagonismo de GTA 6.\n\nSegundo a Rockstar, Jason cresceu cercado de golpistas, entrou para o Exército e foi parar nas Keys, trabalhando para ",
+   "permalink": "https://www.instagram.com/p/DeZbW_7lZQR/",
+   "timestamp": "2026-10-12T14:16:45+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 6,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18082464149351339",
+   "caption": "Battlefield REDSEC com o mapa inteiro pegando fogo 🔥\n\nSegue @pixelzada.br pra acompanhar o Battlefield 6.\n\n#battlefield #battlefield6 #redsec #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeZWd0mAmxu/",
+   "timestamp": "2026-10-12T13:34:46+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 122,
+    "views": 154,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 1,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 5179,
+    "ig_reels_video_view_total_time": 642266,
+    "reels_skip_rate": 50.8
+   }
+  },
+  {
+   "id": "18120105548019801",
+   "caption": "Sonic Racing: CrossWorlds terá Godzilla, Evangelion, Persona e Final Fantasy 7 no segundo ano, a partir de 3 de novembro.\n\nO Season Pass 2 tem seis pacotes pagos e custa US$ 29,99, segundo o VGC. O jo",
+   "permalink": "https://www.instagram.com/p/DeZVKuxkYCq/",
+   "timestamp": "2026-10-12T13:22:39+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 6,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 1
+   }
+  },
+  {
+   "id": "18410404606093037",
+   "caption": "Faltam 38 dias para GTA 6, e esta semana teve rádio, nuvem, Switch 2 e uma ameaça de vazamento.\n\nA Rockstar mostrou seis rádios e confirmou podcasts, segundo IGN e The Verge. O Xbox não terá streaming",
+   "permalink": "https://www.instagram.com/p/DeZGUyWoI1a/",
+   "timestamp": "2026-10-12T11:12:58+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 3,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18017380022744821",
+   "caption": "GTA 6 no Switch 2 segue sem anúncio: a presidente da Nintendo of America mandou a pergunta para a Rockstar.\n\nEm entrevista à Variety, Devon Pritchard disse que a conversa é entre Take-Two e Rockstar e",
+   "permalink": "https://www.instagram.com/p/DeX6e0tGe3T/",
+   "timestamp": "2026-10-12T00:10:14+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 4,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18371481163211551",
+   "caption": "A Konami já planeja a segunda e a terceira ondas de jogos de Silent Hill, segundo o produtor Motoi Okamoto.\n\nA fala saiu na Famitsu e foi repercutida por IGN, PC Gamer e Eurogamer. Okamoto disse que a",
+   "permalink": "https://www.instagram.com/p/DeXmb5PoJvH/",
+   "timestamp": "2026-10-11T21:15:03+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 2,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18341210716262141",
+   "caption": "Um vazador ameaçou soltar uma build de GTA 6 e vale se proteger de spoiler e golpe.\n\nO Cyberleek diz que libera uma build se a moeda dele chegar a US$ 30 milhões, segundo Eurogamer, GamesRadar e Polyg",
+   "permalink": "https://www.instagram.com/p/DeXl0XDAVkg/",
+   "timestamp": "2026-10-11T21:09:40+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 7,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18355786282216662",
+   "caption": "Eu quando tô discutindo com minha esposa depois de comprar um PS5 pro meu filho recém-nascido 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#ps5 #games #gamer #memesgamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeXUF_wj3bF/",
+   "timestamp": "2026-10-11T18:34:56+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 0,
+   "insights": {
+    "reach": 162,
+    "views": 187,
+    "likes": 3,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 4,
+    "ig_reels_avg_watch_time": 4645,
+    "ig_reels_video_view_total_time": 771218,
+    "reels_skip_rate": 49.7
+   }
+  },
+  {
+   "id": "18636151975039861",
+   "caption": "O mercado de consoles nos EUA não estava tão frágil desde o início dos anos 80, segundo a Circana.\n\nSegundo o analista Mat Piscatella, as vendas de Xbox caíram 33% e as de PlayStation, 25%, no acumula",
+   "permalink": "https://www.instagram.com/p/DeXKZVriQSL/",
+   "timestamp": "2026-10-11T17:10:03+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 3,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17991205674099970",
+   "caption": "Eu ligando o PS4 pra jogar GTA 5 no dia 19 de novembro 😅 Marca o amigo que ainda joga no PS4.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta5 #gta6 #ps4 #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeXCenSDru_/",
+   "timestamp": "2026-10-11T16:01:11+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 25,
+   "comments_count": 2,
+   "insights": {
+    "reach": 972,
+    "views": 1320,
+    "likes": 25,
+    "comments": 2,
+    "shares": 13,
+    "saved": 0,
+    "total_interactions": 42,
+    "ig_reels_avg_watch_time": 8185,
+    "ig_reels_video_view_total_time": 8259524,
+    "reels_skip_rate": 37.1
+   }
+  },
+  {
+   "id": "18124045573927651",
+   "caption": "GTA 6 pode aquecer a venda de console, mas analistas avisam que o estoque pode não dar conta.\n\nSegundo a Circana, citada por GamesRadar, Eurogamer e VGC, o efeito do jogo em novembro depende de estoqu",
+   "permalink": "https://www.instagram.com/p/DeW8nrpmw7l/",
+   "timestamp": "2026-10-11T15:09:40+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 1,
+    "views": 7,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18104683595366223",
+   "caption": "Eu saindo do trabalho dia 18 de novembro e meu chefe: “te vejo amanhã” 😬 Segue a Pixelzada pra não perder a contagem do GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeW4UNmiW1s/",
+   "timestamp": "2026-10-11T14:32:23+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 9,
+   "comments_count": 0,
+   "insights": {
+    "reach": 120,
+    "views": 173,
+    "likes": 9,
+    "comments": 0,
+    "shares": 5,
+    "saved": 0,
+    "total_interactions": 15,
+    "ig_reels_avg_watch_time": 6434,
+    "ig_reels_video_view_total_time": 810737,
+    "reels_skip_rate": 39.3
+   }
+  },
+  {
+   "id": "18334991398275697",
+   "caption": "Amanda the Adventurer vai ganhar um filme da Blumhouse com o YouTuber MatPat, anunciado na New York Comic Con.\n\nO primeiro projeto da parceria é a adaptação do jogo da DreadXP, segundo IGN e Kotaku. M",
+   "permalink": "https://www.instagram.com/p/DeWu8HyEavi/",
+   "timestamp": "2026-10-11T13:10:07+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 16,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17992926120049438",
+   "caption": "Faltam 40 dias para GTA 6 e vale conferir cinco pontos antes de 19 de novembro.\n\nO jogo sai para PS5 e Xbox Series X/S, e a pré-venda está aberta, segundo The Verge e IGN. A Rockstar não anunciou vers",
+   "permalink": "https://www.instagram.com/p/DeWhK05EXI1/",
+   "timestamp": "2026-10-11T11:09:48+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 9,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17975495639935738",
+   "caption": "O anime de Ghost of Tsushima Legends foi adiado de 2027 para 2028, segundo a Crunchyroll e a Aniplex.\n\nO adiamento foi dado na New York Comic Con, de acordo com a GamesRadar, junto com a entrada de do",
+   "permalink": "https://www.instagram.com/p/DeVVpBmEfVv/",
+   "timestamp": "2026-10-11T00:09:49+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 14,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 1
+   }
+  },
+  {
+   "id": "18099674723366911",
+   "caption": "Dia 18 de novembro, uma última volta no GTA 5. Temos um acordo? 🚗 Manda pro parça da última volta antes do GTA 6.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta5 #gta6 #gtavi #games #pixelza",
+   "permalink": "https://www.instagram.com/reel/DeVR4ZSCFl0/",
+   "timestamp": "2026-10-10T23:37:20+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 9,
+   "comments_count": 0,
+   "insights": {
+    "reach": 129,
+    "views": 151,
+    "likes": 9,
+    "comments": 0,
+    "shares": 2,
+    "saved": 2,
+    "total_interactions": 15,
+    "ig_reels_avg_watch_time": 6683,
+    "ig_reels_video_view_total_time": 922269,
+    "reels_skip_rate": 48.9
+   }
+  },
+  {
+   "id": "18106664597217096",
+   "caption": "Reina, de Tekken, vai virar personagem de DLC de Fatal Fury: City of the Wolves em dezembro, segundo a SNK.\n\nO anúncio foi noticiado pela Gematsu e pela GameBlast, que a chama de última adição da terc",
+   "permalink": "https://www.instagram.com/p/DeVBqq6CUkh/",
+   "timestamp": "2026-10-10T21:15:17+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 9,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 3
+   }
+  },
+  {
+   "id": "18115888528825237",
+   "caption": "Faltam 40 dias para GTA 6 e a Rockstar ainda não mostrou tudo o que o jogo vai ter.\n\nO lançamento segue marcado para 19 de novembro e a empresa revelou seis estações de rádio, segundo IGN e The Verge.",
+   "permalink": "https://www.instagram.com/p/DeVA_4dIE39/",
+   "timestamp": "2026-10-10T21:09:28+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 6,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18111610145127601",
+   "caption": "É por isso que o GTA 6 não sai pro PC junto com os consoles ✈️💥 Manda pro amigo que joga no PC.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta6 #gtavi #pcgamer #games #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeUy9PUHMoM/",
+   "timestamp": "2026-10-10T19:07:04+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 0,
+   "insights": {
+    "reach": 166,
+    "views": 240,
+    "likes": 3,
+    "comments": 0,
+    "shares": 1,
+    "saved": 0,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 16132,
+    "ig_reels_video_view_total_time": 2742605,
+    "reels_skip_rate": 28.3
+   }
+  },
+  {
+   "id": "17990685741100386",
+   "caption": "Casais indo dormir dia 18 de novembro 😴➡️🎮 Marca quem vai te trocar pelo GTA 6 à meia-noite.\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeUql5aALQo/",
+   "timestamp": "2026-10-10T17:53:47+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 3,
+   "comments_count": 0,
+   "insights": {
+    "reach": 126,
+    "views": 181,
+    "likes": 3,
+    "comments": 0,
+    "shares": 2,
+    "saved": 0,
+    "total_interactions": 6,
+    "ig_reels_avg_watch_time": 8088,
+    "ig_reels_video_view_total_time": 1051495,
+    "reels_skip_rate": 35.7
+   }
+  },
+  {
+   "id": "17947309554341398",
+   "caption": "Charlie Cox, o Gustave de Clair Obscur, disse que gravou 40 horas de falas para um jogo da Sega que ainda não tem nome.\n\nA fala foi dada à IGN na New York Comic Con, segundo GamesRadar e Kotaku. Cox d",
+   "permalink": "https://www.instagram.com/p/DeUlS_YkRTT/",
+   "timestamp": "2026-10-10T17:07:23+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 9,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17908918332563583",
+   "caption": "A Rockstar mostrou seis rádios de GTA 6 e dá para ouvir trechos de cerca de dois minutos no site oficial.\n\nAs estações são Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM e Di",
+   "permalink": "https://www.instagram.com/p/DeUX4xSIIjr/",
+   "timestamp": "2026-10-10T15:10:13+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 13,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18469468711143963",
+   "caption": "Liberando espaço pro GTA 6 😭 Qual jogo você apagaria primeiro? Comenta aí 👇\n\nSegue @pixelzada.br pra não perder nada do GTA 6.\n\n#gta6 #gtavi #games #gamer #pixelzada",
+   "permalink": "https://www.instagram.com/reel/DeUSTCFD68_/",
+   "timestamp": "2026-10-10T14:21:44+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 7,
+   "comments_count": 0,
+   "insights": {
+    "reach": 123,
+    "views": 149,
+    "likes": 7,
+    "comments": 0,
+    "shares": 5,
+    "saved": 0,
+    "total_interactions": 13,
+    "ig_reels_avg_watch_time": 7376,
+    "ig_reels_video_view_total_time": 936778,
+    "reels_skip_rate": 55.3
+   }
+  },
+  {
+   "id": "18101866775325448",
+   "caption": "Dave the Diver vai ganhar uma expansão grátis inspirada em Subnautica 2, a última grande do jogo.\n\nA Mintrocket fez o anúncio em parceria com a Unknown Worlds, segundo a Gematsu e o PC Gamer. O pacote",
+   "permalink": "https://www.instagram.com/p/DeUKMEgG9BK/",
+   "timestamp": "2026-10-10T13:10:30+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 15,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 8
+   }
+  },
+  {
+   "id": "18491426440096969",
+   "caption": "Faltam 40 dias para GTA 6, e dá para separar o que é fato do que ainda é papo.\n\nA Rockstar confirma o lançamento em 19 de novembro e já mostrou seis estações de rádio no site oficial, de acordo com IG",
+   "permalink": "https://www.instagram.com/p/DeT8Y5Jlkvq/",
+   "timestamp": "2026-10-10T11:09:55+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 10,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17912782977284635",
+   "caption": "Gears of War: E-Day teria vendido 230 mil cópias, segundo a Alinea, mas a Microsoft não confirmou.\n\nO analista Rhys Elliott estima 1,7 milhão de jogadores no Game Pass na primeira semana, de acordo co",
+   "permalink": "https://www.instagram.com/p/DeSw3VeIz9Q/",
+   "timestamp": "2026-10-10T00:10:00+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 4,
+    "views": 19,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17954130309254313",
+   "caption": "Battlefield REDSEC com Rapid Royale: partida rápida, caos total 💥 Marca o esquadrão que ia ser o primeiro a cair.\n\nSegue @pixelzada.br pra mais games todo dia.\n\n#battlefield #battlefield6 #redsec #gam",
+   "permalink": "https://www.instagram.com/reel/DeSrX3lgLut/",
+   "timestamp": "2026-10-09T23:22:17+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 109,
+    "views": 130,
+    "likes": 1,
+    "comments": 0,
+    "shares": 3,
+    "saved": 0,
+    "total_interactions": 5,
+    "ig_reels_avg_watch_time": 3024,
+    "ig_reels_video_view_total_time": 362964,
+    "reels_skip_rate": 88.9
+   }
+  },
+  {
+   "id": "18116911196045417",
+   "caption": "Cyberpunk 2077 vai ganhar um filme live-action na Paramount, segundo o Deadline, com a CD Projekt Red na produção.\n\nO produtor Lorenzo di Bonaventura, de Transformers, está ligado ao projeto, de acord",
+   "permalink": "https://www.instagram.com/p/DeSc3MVo7E0/",
+   "timestamp": "2026-10-09T21:15:14+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 6,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18135928204728310",
+   "caption": "Seis rádios de GTA 6 já têm DJ e estilo definidos, segundo a Rockstar. Veja quem fala em cada uma.\n\nSegundo a IGN, a Rockstar abriu uma seção de música no site oficial com prévias de cerca de dois min",
+   "permalink": "https://www.instagram.com/p/DeScpYJiaod/",
+   "timestamp": "2026-10-09T21:13:19+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 9,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18084761726317567",
+   "caption": "A Xbox criou a divisão XP, para filmes, séries, produtos, parcerias e parques, com Kayleen Walters no comando.\n\nSegundo o comunicado interno da CEO Asha Sharma, a XP reúne quatro áreas: Pictures, Prod",
+   "permalink": "https://www.instagram.com/p/DeSAwLPlAjO/",
+   "timestamp": "2026-10-09T17:09:34+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 7,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18103747550306134",
+   "caption": "GTA 6 terá rádio a pé e podcasts sob demanda, e a Rockstar já mostrou seis estações.\n\nSegundo a Rockstar, rádio e podcasts poderão ser ouvidos dentro e fora dos carros, com fones ou earbuds ligados ao",
+   "permalink": "https://www.instagram.com/p/DeRzIjDG2Fp/",
+   "timestamp": "2026-10-09T15:10:34+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 9,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18119228507516657",
+   "caption": "Forza Horizon 6 chega ao PS5 em 26 de janeiro de 2027, com a primeira expansão no mesmo dia.\n\nSegundo a Xbox Game Studios e a Playground Games, a versão do PS5 sai em mídia física e digital. Quem comp",
+   "permalink": "https://www.instagram.com/p/DeRlmXZGyEA/",
+   "timestamp": "2026-10-09T13:12:18+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 0,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 13,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 1,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17948347173339619",
+   "caption": "GTA 6 não vai rodar no PC pelo Xbox Cloud Gaming, e o Xbox não tem streaming exclusivo do jogo.\n\nA confusão começou com uma reportagem do The Verge sobre uma reunião interna em que a CEO do Xbox, Asha",
+   "permalink": "https://www.instagram.com/p/DeRXobMkXQp/",
+   "timestamp": "2026-10-09T11:10:16+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 2,
+    "views": 12,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18061448855795223",
+   "caption": "Phoenix Cyclops é o primeiro DLC de Marvel Tōkon e chega em 2 de novembro, com teste grátis no PS Plus.\n\nSegundo a Sony, o personagem faz parte do Passe do Ano 1 e vem com os trajes Clássico e Legado.",
+   "permalink": "https://www.instagram.com/p/DeQMF9rkW9H/",
+   "timestamp": "2026-10-09T00:10:11+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 9,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "17950122741056218",
+   "caption": "O Xbox Cloud Gaming vai limitar as horas de streaming em novembro, o mesmo mês de GTA 6.\n\nSegundo o The Verge, a partir de novembro são 15 horas por mês no Game Pass Ultimate, 10 no Premium e 5 no Ess",
+   "permalink": "https://www.instagram.com/reel/DeP-aSFgfU_/",
+   "timestamp": "2026-10-08T22:10:58+0000",
+   "media_type": "VIDEO",
+   "media_product_type": "REELS",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 54,
+    "views": 64,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "ig_reels_avg_watch_time": 2821,
+    "ig_reels_video_view_total_time": 169306,
+    "reels_skip_rate": 79.3
+   }
+  },
+  {
+   "id": "17970905910178788",
+   "caption": "O Xbox Cloud Gaming vai limitar as horas de streaming em novembro, o mesmo mês de GTA 6.\n\nSegundo o The Verge, a partir de novembro são 15 horas por mês no Game Pass Ultimate, 10 no Premium e 5 no Ess",
+   "permalink": "https://www.instagram.com/p/DeP3qRhoLdV/",
+   "timestamp": "2026-10-08T21:11:39+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 16,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 1
+   }
+  },
+  {
+   "id": "18107925080522527",
+   "caption": "Battlefield 6 chega ao Game Pass em 13 de outubro, e Clair Obscur: Expedition 33 está de saída.\n\nO Xbox Wire divulgou a primeira leva do mês: Echo Weaver, Forever Ago e Neon Abyss 2 chegam no dia 8. N",
+   "permalink": "https://www.instagram.com/p/DePcCHLIA2c/",
+   "timestamp": "2026-10-08T17:10:14+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 10,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18191312995396622",
+   "caption": "Faltam 42 dias para GTA 6, e isto é o que já está confirmado até agora.\n\nO Xbox confirmou o lançamento em 19 de novembro, segundo Matthew Ball, diretor de estratégia da empresa. Ele também disse que o",
+   "permalink": "https://www.instagram.com/p/DePRXDUIPkG/",
+   "timestamp": "2026-10-08T15:36:58+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 2,
+   "comments_count": 0,
+   "insights": {
+    "reach": 5,
+    "views": 17,
+    "likes": 2,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 3,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  },
+  {
+   "id": "18034331723845677",
+   "caption": "Forza Horizon 6 no PS5 em 26 de janeiro? Por enquanto é rumor, e a Playground não confirmou.\n\nO leaker billbil-kun, do Dealabs, afirma que a versão de PS5 sai em 26 de janeiro de 2027, com disco, segu",
+   "permalink": "https://www.instagram.com/p/DePJ_xamyOs/",
+   "timestamp": "2026-10-08T14:32:38+0000",
+   "media_type": "CAROUSEL_ALBUM",
+   "media_product_type": "FEED",
+   "like_count": 1,
+   "comments_count": 0,
+   "insights": {
+    "reach": 3,
+    "views": 10,
+    "likes": 1,
+    "comments": 0,
+    "shares": 0,
+    "saved": 0,
+    "total_interactions": 2,
+    "follows": 0,
+    "profile_visits": 0
+   }
+  }
+ ],
+ "stories": [
+  {
+   "id": "18636452512061308",
+   "timestamp": "2026-10-16T22:00:49+0000",
+   "permalink": "https://www.instagram.com/stories/pixelzada.br/4009486397059704952",
+   "media_type": "IMAGE",
+   "insights": {
+    "reach": 0,
+    "views": 2,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0,
+    "navigation": 0
+   }
+  },
+  {
+   "id": "18017625068956307",
+   "timestamp": "2026-10-16T18:00:56+0000",
+   "permalink": "https://www.instagram.com/stories/pixelzada.br/4009365607186816497",
+   "media_type": "IMAGE",
+   "insights": {
+    "reach": 0,
+    "views": 3,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0,
+    "navigation": 0
+   }
+  },
+  {
+   "id": "18634236997032833",
+   "timestamp": "2026-10-16T14:01:16+0000",
+   "permalink": "https://www.instagram.com/stories/pixelzada.br/4009244988903545800",
+   "media_type": "IMAGE",
+   "insights": {
+    "reach": 0,
+    "views": 5,
+    "replies": 0,
+    "shares": 0,
+    "total_interactions": 0,
+    "follows": 0,
+    "profile_visits": 0,
+    "navigation": 0
+   }
+  }
+ ]
+}
