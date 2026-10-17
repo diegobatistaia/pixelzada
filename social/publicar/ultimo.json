@@ -1,22 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "filme-cyberpunk-2077-historia-nova",
-    "horario": "13:00",
-    "data": "2026-10-17",
-    "estilo": "chefao",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": null
+    "acao": "reel",
+    "slug": "jogar-serio-fazer-missoes",
+    "pasta": "reel-jogar-serio-fazer-missoes",
+    "horario": "14:00",
+    "data": "2026-10-17"
   },
-  "em": "2026-10-17T13:00:16-03:00",
+  "em": "2026-10-17T13:59:46-03:00",
   "ok": true,
-  "media_id": "18030694424908322",
-  "permalink": "https://www.instagram.com/p/DemfPrpFPxS/",
+  "media_id": "17994604743016141",
+  "permalink": "https://www.instagram.com/reel/DemmBUcjmCC/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
