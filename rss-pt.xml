@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 14:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 18:40:49 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fauna de GTA 6: jacarés, flamingos, macacos e mais de 170 espécies em Leonida</title>
+      <link>https://pixelzada.com.br/pt/fauna-gta-6-animais-leonida-jacares-flamingos-170-especies/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/fauna-gta-6-animais-leonida-jacares-flamingos-170-especies/</guid>
+      <description>GTA 6 terá mais de 170 espécies de animais em Leonida, com jacarés, flamingos e macacos, além de furacões e clima local. Veja o que a Rockstar mostrou.</description>
+      <category>GTA 6</category>
+      <pubDate>Sat, 17 Oct 2026 18:40:49 +0000</pubDate>
+    </item>
     <item>
       <title>Castlevania: Belmont's Curse: devs admitem que fizeram personagens bonitos de propósito</title>
       <link>https://pixelzada.com.br/pt/castlevania-belmonts-curse-devs-personagens-bonitos-de-proposito/</link>
@@ -238,14 +246,6 @@
       <description>The Witcher 3 Remastered recebeu o hotfix 5.01b no PS5 e no PS5 Pro. A CD Projekt Red diz que o patch do Switch 2 está a caminho. Veja o que mudou e o que vem.</description>
       <category>Lançamentos</category>
       <pubDate>Wed, 14 Oct 2026 12:40:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubisoft propõe fechar a RedLynx, de Trials, e cortar 70 vagas em Singapura</title>
-      <link>https://pixelzada.com.br/pt/ubisoft-fechar-redlynx-trials-cortes-singapura/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/ubisoft-fechar-redlynx-trials-cortes-singapura/</guid>
-      <description>A Ubisoft propôs fechar a RedLynx, criadora de Trials, com até 52 vagas em risco, e afetou 70 posições em Singapura. Veja o que a empresa disse e o contexto.</description>
-      <category>Indústria</category>
-      <pubDate>Wed, 14 Oct 2026 10:41:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

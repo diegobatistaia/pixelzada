@@ -110,7 +110,9 @@
     "query": "Macca the Gator GTA 6",
     "alt": "Arte oficial da coleção The Goodtime State, inspirada no programa Macca the Gator",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k2a49ook82o57/cbdf4fc342bfca94c789a887244c3b70283047ae.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/fauna-gta-6-animais-leonida-jacares-flam-fe1151e0.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -186,5 +188,7 @@
       "title": "GTA 6 gets a 'Vice City Collection' box set for super-fans — but it's $399 and doesn't even come with the game"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-17T18:40:49+00:00",
+  "updated_at": "2026-10-17T18:40:49+00:00"
 }
