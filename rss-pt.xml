@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:39:53 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Leonida Keys: o arquipélago de GTA 6 onde Jason mora</title>
+      <link>https://pixelzada.com.br/pt/leonida-keys-gta-6-arquipelago-onde-jason-mora/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/leonida-keys-gta-6-arquipelago-onde-jason-mora/</guid>
+      <description>Leonida Keys é o arquipélago tropical de GTA 6 inspirado nas Florida Keys. Veja onde fica, o que diz o site oficial e o papel de Jason e Brian Heder por lá.</description>
+      <category>GTA 6</category>
+      <pubDate>Sat, 17 Oct 2026 12:39:52 +0000</pubDate>
+    </item>
     <item>
       <title>Filme de Cyberpunk 2077 não vai recontar a história do jogo, diz a CD Projekt</title>
       <link>https://pixelzada.com.br/pt/filme-cyberpunk-2077-nao-vai-adaptar-historia-do-jogo/</link>
@@ -238,14 +246,6 @@
       <description>A Xbox anunciou o Xbox Labs, grupo que vai testar tecnologias como jogos em navegadores. Veja o que Asha Sharma disse, quem lidera e quais dúvidas ficam.</description>
       <category>Indústria</category>
       <pubDate>Wed, 14 Oct 2026 00:39:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Houser diz que Max Payne 3 foi um fracasso e que a culpa foi dele</title>
-      <link>https://pixelzada.com.br/pt/dan-houser-max-payne-3-fracasso-bully/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/dan-houser-max-payne-3-fracasso-bully/</guid>
-      <description>Dan Houser, ex-Rockstar, disse à IGN que Max Payne 3 foi um fracasso e que errou no tom. Ele também falou das dificuldades de Bully. Veja o que ele contou.</description>
-      <category>Indústria</category>
-      <pubDate>Tue, 13 Oct 2026 22:39:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

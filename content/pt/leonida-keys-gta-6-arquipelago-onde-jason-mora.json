@@ -115,7 +115,9 @@
     "query": "Leonida Keys GTA 6",
     "alt": "Imagem de capa do destino Leonida Keys no site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.13r.65m29y5~z.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/leonida-keys-gta-6-arquipelago-onde-jaso-f2eae9d4.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -191,5 +193,7 @@
       "title": "20+ things you may have missed in the GTA 6 extended look"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-17T12:39:52+00:00",
+  "updated_at": "2026-10-17T12:39:52+00:00"
 }
