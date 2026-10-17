@@ -1,0 +1,69 @@
+{
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Xbox",
+  "gta6": false,
+  "materia": "xbox-lancamentos-semana-19-a-23-de-outubro-final-fantasy-resonance-mw4",
+  "imagem": {
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-44d2cca98829b6a1ec03.jpg",
+    "credito": "Xbox Wire",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Xbox Wire e GamesRadar",
+  "capa": {
+    "titulo": "3 lançamentos do Xbox para a semana",
+    "destaque": "3 lançamentos",
+    "apoio": "De 19 a 23 de outubro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1 de 3",
+      "titulo": "Shoresy, dia 19",
+      "destaque": "dia 19",
+      "texto": [
+        "RPG de hóquei rápido no universo da série, em que você cria seu patinador e joga com amigos, segundo o **Xbox Wire**."
+      ]
+    },
+    {
+      "rotulo": "2 de 3",
+      "titulo": "Final Fantasy Resonance, dia 22",
+      "destaque": "dia 22",
+      "texto": [
+        "O primeiro Final Fantasy **HD-2D**, com aeronaves, cristais, espers e moogles, de acordo com o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "3 de 3",
+      "titulo": "Modern Warfare 4, dia 23",
+      "destaque": "dia 23",
+      "texto": [
+        "Lançamento mundial na sexta. Quem fez a pré-venda joga a **campanha antes**, desde 16 de outubro."
+      ]
+    }
+  ],
+  "final": "Qual desses você vai jogar primeiro?",
+  "legenda": {
+    "gancho": "A semana do Xbox tem RPG de hóquei, o primeiro Final Fantasy HD-2D e Call of Duty.",
+    "corpo": [
+      "Segundo o Xbox Wire, Shoresy: Legends of the North sai em 19 de outubro, Final Fantasy Resonance em 22 e Call of Duty: Modern Warfare 4 em 23. As datas podem mudar.",
+      "A lista traz ainda jogos de objetos escondidos, o policial Entwined: Strings of Deception e Dreadway, terror cooperativo online. O GamesRadar também informa que o controle Xbox X25 voltou ao estoque nos Estados Unidos por US$ 79,99."
+    ],
+    "chamada": "Qual desses você vai jogar primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#xbox",
+      "#finalfantasy",
+      "#callofduty"
+    ]
+  },
+  "alt": [
+    "Slide 1: 3 lançamentos do Xbox para a semana",
+    "Slide 2: Shoresy, dia 19",
+    "Slide 3: Final Fantasy Resonance, dia 22",
+    "Slide 4: Modern Warfare 4, dia 23",
+    "Slide 5: Qual desses você vai jogar primeiro?"
+  ],
+  "slug": "xbox-semana-19-a-23-de-outubro-lancamentos",
+  "status": "pronto",
+  "criado": "2026-10-17T17:45:00-03:00"
+}
