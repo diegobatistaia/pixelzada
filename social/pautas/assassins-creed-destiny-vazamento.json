@@ -1,0 +1,79 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Assassin's Creed",
+  "gta6": false,
+  "materia": "assassins-creed-destiny-imagens-vazadas-jogo-cancelado-china",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2023/06/assassins-creed-codename-jade.jpg",
+    "credito": "Ubisoft",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, VGC e GamesRadar",
+  "capa": {
+    "titulo": "Vazou um Assassin's Creed cancelado na China",
+    "destaque": "cancelado",
+    "apoio": "Destiny, de 206 a.C. É vazamento. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O vazamento",
+      "titulo": "Protótipo achado em portfólios",
+      "destaque": "portfólios",
+      "texto": [
+        "O site MP1st achou imagens de **Assassin's Creed Destiny** em portfólios de desenvolvedores, segundo IGN e VGC.",
+        "A Ubisoft não confirmou o projeto."
+      ]
+    },
+    {
+      "rotulo": "O jogo",
+      "titulo": "China de 206 a.C.",
+      "destaque": "206 a.C.",
+      "texto": [
+        "Seria um jogo completo de mundo aberto, com uma **assassina** e um chefe, o general Xiang Yu, segundo o VGC."
+      ]
+    },
+    {
+      "rotulo": "A parceria",
+      "titulo": "Ubisoft e Tencent",
+      "destaque": "Tencent",
+      "texto": [
+        "O estúdio TiMi, da Tencent, cuidaria do jogo, de acordo com VGC e GamesRadar.",
+        "Jade, o mobile da série na China, segue em desenvolvimento."
+      ]
+    }
+  ],
+  "final": "Você jogaria um Assassin's Creed na China antiga?",
+  "legenda": {
+    "gancho": "Imagens vazadas mostrariam Assassin's Creed Destiny, um jogo cancelado na China de 206 a.C.",
+    "corpo": [
+      "O site MP1st encontrou o protótipo em portfólios de desenvolvedores, segundo IGN, VGC e GamesRadar. Seria um Assassin's Creed completo para consoles e PC, com uma assassina, um cerco comandado por Xiang Yu e uma arma giratória parecida com um guarda-chuva.",
+      "A Ubisoft não confirmou o projeto. O VGC diz que a TiMi, da Tencent, cuidaria do jogo, e que Assassin's Creed Jade segue em desenvolvimento. Tudo isso vem de vazamento."
+    ],
+    "chamada": "Você jogaria um Assassin's Creed na China antiga?",
+    "hashtags": [
+      "#pixelzada",
+      "#assassinscreed",
+      "#ubisoft",
+      "#vazamento"
+    ]
+  },
+  "alt": [
+    "Slide 1: Vazou um Assassin's Creed cancelado na China",
+    "Slide 2: Protótipo achado em portfólios",
+    "Slide 3: China de 206 a.C.",
+    "Slide 4: Ubisoft e Tencent",
+    "Slide 5: Você jogaria um Assassin's Creed na China antiga?"
+  ],
+  "slug": "assassins-creed-destiny-vazamento",
+  "status": "publicado",
+  "criado": "2026-10-16T17:40:22-03:00",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "21:00",
+    "em": "2026-10-16T20:59:57-03:00",
+    "estilo": "dividido",
+    "media_id": "17990686499865550",
+    "permalink": "https://www.instagram.com/p/DekxVwmjeyo/"
+  }
+}

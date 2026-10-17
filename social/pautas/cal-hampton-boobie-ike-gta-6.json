@@ -1,0 +1,92 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "cal-hampton-boobie-ike-gta-6-quem-sao",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0-ev6i8jbkd19.jpg?akim=1&imdensity=1&imwidth=3840",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, VGC e Game Informer",
+  "capa": {
+    "titulo": "Cal e Boobie Ike: os coadjuvantes de GTA 6",
+    "destaque": "coadjuvantes",
+    "apoio": "O paranoico e o empresário de Vice City. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Cal Hampton",
+      "titulo": "O amigo conspiracionista",
+      "destaque": "conspiracionista",
+      "texto": [
+        "Amigo de Jason, ele **bisbilhota a Guarda Costeira** de casa, segundo a Rockstar.",
+        "Para o VGC, é o teórico da conspiração do elenco."
+      ]
+    },
+    {
+      "rotulo": "Boobie Ike",
+      "titulo": "Lenda das ruas, agora empresário",
+      "destaque": "empresário",
+      "texto": [
+        "Ele tem **imóveis, um clube de strip e um estúdio**, segundo a Rockstar.",
+        "O clube se chama Jack of Hearts."
+      ]
+    },
+    {
+      "rotulo": "Música",
+      "titulo": "A gravadora Only Raw",
+      "destaque": "Only Raw",
+      "texto": [
+        "A **Only Raw Records** é sociedade com Dre'Quan Priest, e os dois precisam de um sucesso."
+      ]
+    },
+    {
+      "rotulo": "No jogo",
+      "titulo": "Primeira missão do Extended Look",
+      "destaque": "primeira missão",
+      "texto": [
+        "Jason e Lucia vão buscar uma carga para Boobie, e a **polícia invade**, segundo o Kotaku."
+      ]
+    }
+  ],
+  "final": "Qual dos dois você quer ver mais?",
+  "legenda": {
+    "gancho": "Cal Hampton e Boobie Ike são dois coadjuvantes de GTA 6 que a Rockstar já apresentou no site oficial.",
+    "corpo": [
+      "Cal é amigo de Jason e fuça as comunicações da Guarda Costeira de casa. Boobie Ike é uma lenda de Vice City que virou dono de imóveis, de um clube de strip e de um estúdio, segundo a Rockstar e o VGC.",
+      "No Extended Look, a primeira missão mostra Jason e Lucia indo buscar uma carga para Boobie, e a polícia invade, de acordo com o GamesRadar+ e o Kotaku. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Qual dos dois você quer ver mais?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Cal e Boobie Ike: os coadjuvantes de GTA 6",
+    "Slide 2: O amigo conspiracionista",
+    "Slide 3: Lenda das ruas, agora empresário",
+    "Slide 4: A gravadora Only Raw",
+    "Slide 5: Primeira missão do Extended Look",
+    "Slide 6: Qual dos dois você quer ver mais?"
+  ],
+  "slug": "cal-hampton-boobie-ike-gta-6",
+  "status": "publicado",
+  "criado": "2026-10-16T15:39:48-03:00",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "19:00",
+    "em": "2026-10-16T18:59:58-03:00",
+    "estilo": "reprodutor",
+    "media_id": "18104076131205534",
+    "permalink": "https://www.instagram.com/p/DekjoQrgWyi/"
+  },
+  "story": {
+    "em": "2026-10-16T19:00:44-03:00",
+    "media_id": "18636452512061308"
+  }
+}

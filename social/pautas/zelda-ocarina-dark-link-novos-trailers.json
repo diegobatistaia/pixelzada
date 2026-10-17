@@ -1,0 +1,90 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Zelda Ocarina",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-dark-link-novos-trailers",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/16/dark-link-1792148601694.png?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, GamesRadar e Voxel",
+  "capa": {
+    "titulo": "Dark Link aparece no remake de Zelda: Ocarina",
+    "destaque": "Dark Link",
+    "apoio": "Dois trailers novos, e sai em 5 de novembro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que saiu",
+      "titulo": "Dois comerciais japoneses",
+      "destaque": "japoneses",
+      "texto": [
+        "A Nintendo soltou **dois trailers curtos** no canal do Japão, segundo a IGN.",
+        "Um deles tem 30 segundos de combate, de acordo com o GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Dark Link",
+      "titulo": "Primeira luta no remake",
+      "destaque": "Primeira luta",
+      "texto": [
+        "O duelo aparece por volta dos **16 segundos** do vídeo de combate, segundo o GamesRadar.",
+        "No original, ele é o mini-chefe do Templo da Água, lembra a IGN."
+      ]
+    },
+    {
+      "rotulo": "Atenção",
+      "titulo": "Tem spoiler do final",
+      "destaque": "spoiler",
+      "texto": [
+        "A IGN avisa que os vídeos mostram **cenas da reta final** da história.",
+        "Quem nunca jogou pode preferir esperar."
+      ]
+    },
+    {
+      "rotulo": "Em português",
+      "titulo": "Dublagem brasileira",
+      "destaque": "brasileira",
+      "texto": [
+        "O Voxel ouviu a **dublagem em português do Brasil** numa demonstração de cerca de 90 minutos."
+      ]
+    }
+  ],
+  "final": "Você vai jogar o remake logo no lançamento?",
+  "legenda": {
+    "gancho": "O remake de Zelda: Ocarina of Time mostrou Dark Link pela primeira vez, em dois trailers novos.",
+    "corpo": [
+      "Os vídeos são comerciais de TV do Japão. O GamesRadar conta que o duelo contra Dark Link aparece por volta dos 16 segundos do trailer de combate, e a IGN avisa que há cenas da reta final da história, então vale cuidado com spoiler.",
+      "O Voxel jogou cerca de 90 minutos do remake e confirmou a dublagem em português do Brasil. O jogo chega ao Switch 2 em 5 de novembro de 2026, segundo IGN e GamesRadar."
+    ],
+    "chamada": "Você vai jogar o remake logo no lançamento?",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#ocarinaoftime",
+      "#switch2",
+      "#nintendo"
+    ]
+  },
+  "alt": [
+    "Slide 1: Dark Link aparece no remake de Zelda: Ocarina",
+    "Slide 2: Dois comerciais japoneses",
+    "Slide 3: Primeira luta no remake",
+    "Slide 4: Tem spoiler do final",
+    "Slide 5: Dublagem brasileira",
+    "Slide 6: Você vai jogar o remake logo no lançamento?"
+  ],
+  "slug": "zelda-ocarina-dark-link-novos-trailers",
+  "status": "publicado",
+  "criado": "2026-10-16T11:39:35-03:00",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "13:00",
+    "em": "2026-10-16T13:00:35-03:00",
+    "estilo": "fliperama",
+    "media_id": "17913573039491931",
+    "permalink": "https://www.instagram.com/p/Dej6fkFEQFH/"
+  }
+}

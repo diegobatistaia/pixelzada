@@ -1,0 +1,79 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Shogun 2",
+  "gta6": false,
+  "materia": "sega-tira-total-war-shogun-2-complete-edition-de-venda-ia",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/09/15/totalwarshogun2completeeditionannouncementtrailer-ign-blogroll-1789483521770.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "Sega",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, Kotaku e VGC",
+  "capa": {
+    "titulo": "Sega tira Total War: Shogun 2 remaster de venda",
+    "destaque": "tira Total War",
+    "apoio": "Bugs e arte ampliada por IA causaram a revolta. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que aconteceu",
+      "titulo": "Dois dias de venda e recuo",
+      "destaque": "recuo",
+      "texto": [
+        "A Complete Edition saiu em 13 de outubro e ficou com avaliações **extremamente negativas** na Steam, segundo o IGN e o VGC."
+      ]
+    },
+    {
+      "rotulo": "O motivo",
+      "titulo": "Bugs e imagens ampliadas por IA",
+      "destaque": "IA",
+      "texto": [
+        "Jogadores apontaram **bugs, problemas gráficos e arte ampliada por IA**, de acordo com o Kotaku e o VGC.",
+        "O original também tinha saído de venda, segundo o IGN."
+      ]
+    },
+    {
+      "rotulo": "O que a Sega diz",
+      "titulo": "Original volta, quem comprou mantém",
+      "destaque": "Original volta",
+      "texto": [
+        "Sega e Creative Assembly vão **reativar o jogo original** e investigar os problemas.",
+        "Quem já comprou continua com acesso, segundo o comunicado."
+      ]
+    }
+  ],
+  "final": "Você comprou a Complete Edition?",
+  "legenda": {
+    "gancho": "A Sega vai tirar da venda o remaster de Total War: Shogun 2 dois dias depois do lançamento.",
+    "corpo": [
+      "A Complete Edition saiu em 13 de outubro e recebeu avaliações extremamente negativas na Steam, com críticas a bugs, problemas gráficos e arte ampliada por IA, segundo IGN, Kotaku e VGC.",
+      "Em comunicado, a Sega e a Creative Assembly disseram que o jogo ficou aquém das expectativas, que vão reativar o original e que quem comprou segue com acesso. Não há prazo para a volta da edição."
+    ],
+    "chamada": "Você comprou a Complete Edition ou ficou no original?",
+    "hashtags": [
+      "#pixelzada",
+      "#totalwar",
+      "#shogun2",
+      "#sega"
+    ]
+  },
+  "alt": [
+    "Slide 1: Sega tira Total War: Shogun 2 remaster de venda",
+    "Slide 2: Dois dias de venda e recuo",
+    "Slide 3: Bugs e imagens ampliadas por IA",
+    "Slide 4: Original volta, quem comprou mantém",
+    "Slide 5: Você comprou a Complete Edition?"
+  ],
+  "slug": "total-war-shogun-2-sega-tira-de-venda",
+  "status": "publicado",
+  "criado": "2026-10-16T07:38:55-03:00",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "09:00",
+    "em": "2026-10-16T09:01:13-03:00",
+    "estilo": "plantao",
+    "media_id": "18147888925562276",
+    "permalink": "https://www.instagram.com/p/DejfGJ0Fhvd/"
+  }
+}
