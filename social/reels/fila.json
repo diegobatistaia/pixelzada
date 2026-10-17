@@ -549,10 +549,15 @@
     "slug": "san-andreas-atmosfera-mundo-aberto",
     "data": "2026-10-17",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conversa",
     "legenda": "GTA San Andreas ainda tem uma das melhores atmosferas de mundo aberto dos games 🎮🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta #ps2 #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-17T11:59:56-03:00",
+      "media_id": "17947319457350507",
+      "permalink": "https://www.instagram.com/reel/DemYTRHlZWl/"
+    }
   },
   {
     "slug": "jogar-serio-fazer-missoes",

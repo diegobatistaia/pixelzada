@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "rockstar-nega-orcamento-gta-6-1-5-bilhao",
-    "horario": "11:00",
-    "data": "2026-10-17",
-    "estilo": "poster",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "san-andreas-atmosfera-mundo-aberto",
+    "pasta": "reel-san-andreas-atmosfera-mundo-aberto",
+    "horario": "12:00",
+    "data": "2026-10-17"
   },
-  "em": "2026-10-17T11:01:16-03:00",
+  "em": "2026-10-17T11:59:56-03:00",
   "ok": true,
-  "media_id": "18102296804306599",
-  "permalink": "https://www.instagram.com/p/DemRoFQG2lG/",
-  "story": {
-    "em": "2026-10-17T11:01:52-03:00",
-    "media_id": "18028548378401435"
-  },
+  "media_id": "17947319457350507",
+  "permalink": "https://www.instagram.com/reel/DemYTRHlZWl/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
