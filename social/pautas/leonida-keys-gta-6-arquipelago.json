@@ -1,0 +1,89 @@
+{
+  "tipo": "noticia",
+  "formato": "em-foco",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "leonida-keys-gta-6-arquipelago-onde-jason-mora",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.13r.65m29y5~z.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, CNET e PC Gamer",
+  "capa": {
+    "titulo": "Leonida Keys: o arquipélago de GTA 6",
+    "destaque": "Leonida Keys",
+    "apoio": "Tropical, tranquilo e perigoso. Arrasta.",
+    "ficha": [
+      [
+        "Onde",
+        "Ao sul de Vice City"
+      ],
+      [
+        "Inspirado em",
+        "Florida Keys"
+      ],
+      [
+        "Clima",
+        "Bares e vida fácil"
+      ],
+      [
+        "Quem mora",
+        "Jason Duval"
+      ]
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "O lugar",
+      "titulo": "Tropical, mas nada chamativo",
+      "destaque": "Tropical",
+      "texto": [
+        "Segundo a Rockstar, o arquipélago tem **código de vestimenta relaxado e bares bem abastecidos**.",
+        "A vida ali, diz o texto oficial, não é chamativa, mas é fácil."
+      ]
+    },
+    {
+      "rotulo": "O perigo",
+      "titulo": "Águas bonitas e perigosas",
+      "destaque": "perigosas",
+      "texto": [
+        "A Rockstar diz que as ilhas fazem fronteira com **algumas das águas mais bonitas e perigosas** da América.",
+        "As imagens oficiais mostram cenas debaixo d'água."
+      ]
+    },
+    {
+      "rotulo": "Quem manda",
+      "titulo": "Brian Heder e o estaleiro",
+      "destaque": "estaleiro",
+      "texto": [
+        "O contrabandista Brian Heder comanda um estaleiro nas Keys e deixa **Jason morar sem pagar aluguel**, em troca de ajuda em extorsões locais."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que quer morar nas Keys",
+  "legenda": {
+    "gancho": "Leonida Keys é o arquipélago de GTA 6 inspirado nas Florida Keys, onde Jason mora.",
+    "corpo": [
+      "Segundo a Rockstar, a região tem código de vestimenta relaxado, bares bem abastecidos e uma vida que não é chamativa, mas é fácil. Fica ao sul de Vice City, de acordo com o PC Gamer.",
+      "O site oficial diz que as ilhas fazem fronteira com algumas das águas mais bonitas e perigosas da América. Brian Heder, contrabandista que comanda um estaleiro por lá, deixa Jason morar sem pagar aluguel em troca de ajuda em extorsões locais. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Você ia morar nas Keys ou em Vice City?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Leonida Keys: o arquipélago de GTA 6",
+    "Slide 2: Tropical, mas nada chamativo",
+    "Slide 3: Águas bonitas e perigosas",
+    "Slide 4: Brian Heder e o estaleiro",
+    "Slide 5: Manda pro amigo que quer morar nas Keys"
+  ],
+  "slug": "leonida-keys-gta-6-arquipelago",
+  "status": "pronto",
+  "criado": "2026-10-17T11:38:57-03:00"
+}
