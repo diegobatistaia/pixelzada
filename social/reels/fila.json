@@ -591,10 +591,15 @@
     "slug": "ciclo-se-repete-gta5-gta6",
     "data": "2026-10-17",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Carregando",
     "legenda": "E o ciclo se repete novamente… 🔁\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta #gta6 #gta5 #memesgamer #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-17T17:59:25-03:00",
+      "media_id": "18141353090258248",
+      "permalink": "https://www.instagram.com/reel/DenBcSRDi8W/"
+    }
   },
   {
     "slug": "vida-ps5-tv4k-gta6",
