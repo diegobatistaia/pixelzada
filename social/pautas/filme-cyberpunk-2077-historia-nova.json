@@ -1,0 +1,70 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Cyberpunk 2077",
+  "gta6": false,
+  "materia": "filme-cyberpunk-2077-nao-vai-adaptar-historia-do-jogo",
+  "imagem": {
+    "url": "https://assets1.ignimgs.com/2019/10/10/2077-1570745477822.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "CD Projekt Red",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e PC Gamer",
+  "capa": {
+    "titulo": "Filme de Cyberpunk 2077 não vai adaptar o jogo",
+    "destaque": "não vai adaptar",
+    "apoio": "A CD Projekt quer uma história nova em Night City. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que foi dito",
+      "titulo": "Sem tradução um para um",
+      "destaque": "um para um",
+      "texto": [
+        "O co-CEO Michał Nowakowski disse que a empresa quer contar uma história no mundo de Cyberpunk, mas **não a trama do jogo**, segundo IGN e PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "A parceria",
+      "titulo": "Paramount no lugar da Anonymous",
+      "destaque": "Paramount",
+      "texto": [
+        "O contrato com a Anonymous Content expirou e surgiu a chance de trabalhar com a Paramount, segundo o PC Gamer.",
+        "O produtor é **Lorenzo di Bonaventura**, de Transformers, diz a IGN."
+      ]
+    },
+    {
+      "rotulo": "O exemplo",
+      "titulo": "O caminho de Edgerunners",
+      "destaque": "Edgerunners",
+      "texto": [
+        "O anime usa o mundo do jogo com **personagens originais**, e a 2ª temporada estreia na Netflix em 20 de outubro."
+      ]
+    }
+  ],
+  "final": "Você quer ver V no cinema ou uma história nova?",
+  "legenda": {
+    "gancho": "O filme live-action de Cyberpunk 2077 não vai recontar a história do jogo, segundo a CD Projekt.",
+    "corpo": [
+      "O co-CEO Michał Nowakowski disse ao veículo polonês PAP Biznes que a empresa quer uma história no mundo de Cyberpunk, mas que ela não será uma tradução um para um da trama do jogo, segundo IGN e PC Gamer.",
+      "O filme é feito com a Paramount e produzido por Lorenzo di Bonaventura, segundo a IGN. Não há data de estreia, diretor ou elenco. A 2ª temporada de Edgerunners estreia na Netflix em 20 de outubro."
+    ],
+    "chamada": "Você quer ver V no cinema ou uma história nova?",
+    "hashtags": [
+      "#pixelzada",
+      "#cyberpunk2077",
+      "#cdprojektred",
+      "#edgerunners"
+    ]
+  },
+  "alt": [
+    "Slide 1: Filme de Cyberpunk 2077 não vai adaptar o jogo",
+    "Slide 2: Sem tradução um para um",
+    "Slide 3: Paramount no lugar da Anonymous",
+    "Slide 4: O caminho de Edgerunners",
+    "Slide 5: Você quer ver V no cinema ou uma história nova?"
+  ],
+  "slug": "filme-cyberpunk-2077-historia-nova",
+  "status": "pronto",
+  "criado": "2026-10-17T09:38:45-03:00"
+}
