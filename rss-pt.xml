@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 17 Oct 2026 18:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:40:15 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xbox na semana de 19 a 23 de outubro: Final Fantasy Resonance, Call of Duty MW4 e o controle X25</title>
+      <link>https://pixelzada.com.br/pt/xbox-lancamentos-semana-19-a-23-de-outubro-final-fantasy-resonance-mw4/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-lancamentos-semana-19-a-23-de-outubro-final-fantasy-resonance-mw4/</guid>
+      <description>Veja os lançamentos do Xbox de 19 a 23 de outubro, com Final Fantasy Resonance, Modern Warfare 4 e Entwined, e o retorno do controle X25 nos Estados Unidos.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sat, 17 Oct 2026 20:40:15 +0000</pubDate>
+    </item>
     <item>
       <title>Fauna de GTA 6: jacarés, flamingos, macacos e mais de 170 espécies em Leonida</title>
       <link>https://pixelzada.com.br/pt/fauna-gta-6-animais-leonida-jacares-flamingos-170-especies/</link>
@@ -238,14 +246,6 @@
       <description>Relembre o primeiro trailer de GTA 6: o vazamento que antecipou o vídeo, as cenas, a música de Tom Petty e os recordes de visualizações no YouTube do Guinness.</description>
       <category>GTA 6</category>
       <pubDate>Wed, 14 Oct 2026 12:40:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Witcher 3 Remastered ganha hotfix no PS5 e CD Projekt Red promete o patch do Switch 2</title>
-      <link>https://pixelzada.com.br/pt/the-witcher-3-remastered-hotfix-ps5-patch-switch-2/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-witcher-3-remastered-hotfix-ps5-patch-switch-2/</guid>
-      <description>The Witcher 3 Remastered recebeu o hotfix 5.01b no PS5 e no PS5 Pro. A CD Projekt Red diz que o patch do Switch 2 está a caminho. Veja o que mudou e o que vem.</description>
-      <category>Lançamentos</category>
-      <pubDate>Wed, 14 Oct 2026 12:40:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

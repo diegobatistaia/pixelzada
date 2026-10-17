@@ -121,7 +121,10 @@
     "query": "Next Week on Xbox",
     "alt": "Arte do Xbox Wire com os jogos da semana de 19 a 23 de outubro",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/nwox-hero-44d2cca98829b6a1ec03.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-lancamentos-semana-19-a-23-de-outub-9378fdda.jpg",
+    "source_url": "",
+    "foco": "33% 26%"
   },
   "sources": [
     {
@@ -137,5 +140,7 @@
       "title": "Xbox X25 controller pre-orders are back in stock ahead of next week's launch"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-17T20:40:15+00:00",
+  "updated_at": "2026-10-17T20:40:15+00:00"
 }
