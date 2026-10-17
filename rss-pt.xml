@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 16 Oct 2026 22:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:42:56 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Filme de Cyberpunk 2077 não vai recontar a história do jogo, diz a CD Projekt</title>
+      <link>https://pixelzada.com.br/pt/filme-cyberpunk-2077-nao-vai-adaptar-historia-do-jogo/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/filme-cyberpunk-2077-nao-vai-adaptar-historia-do-jogo/</guid>
+      <description>O filme live-action de Cyberpunk 2077 não vai adaptar o jogo, segundo o co-CEO da CD Projekt. Veja o que ele disse e o papel da Paramount no projeto hoje.</description>
+      <category>Indústria</category>
+      <pubDate>Sat, 17 Oct 2026 10:42:55 +0000</pubDate>
+    </item>
     <item>
       <title>Criador de DayZ lança o Brutal, alternativa grátis ao Unity e ao Unreal</title>
       <link>https://pixelzada.com.br/pt/dean-hall-brutal-framework-alternativa-unity-unreal/</link>
@@ -238,14 +246,6 @@
       <description>Dan Houser, ex-Rockstar, disse à IGN que Max Payne 3 foi um fracasso e que errou no tom. Ele também falou das dificuldades de Bully. Veja o que ele contou.</description>
       <category>Indústria</category>
       <pubDate>Tue, 13 Oct 2026 22:39:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox na semana de 12 a 16 de outubro: Castlevania, Call of Duty e ID@Xbox Showcase dia 20</title>
-      <link>https://pixelzada.com.br/pt/xbox-lancamentos-semana-12-a-16-de-outubro-id-xbox-showcase/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-lancamentos-semana-12-a-16-de-outubro-id-xbox-showcase/</guid>
-      <description>Veja os lançamentos do Xbox de 12 a 16 de outubro, com Castlevania: Belmont's Curse e Planet Zoo 2, e a data do ID@Xbox Showcase, em 20 de outubro, às 14h.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 13 Oct 2026 20:40:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

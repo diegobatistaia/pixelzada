@@ -105,7 +105,10 @@
     "query": "Cyberpunk 2077",
     "alt": "Arte de Cyberpunk 2077, da CD Projekt Red",
     "url": "https://assets1.ignimgs.com/2019/10/10/2077-1570745477822.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/filme-cyberpunk-2077-nao-vai-adaptar-his-8b97bd90.jpg",
+    "source_url": "",
+    "foco": "52% 32%"
   },
   "sources": [
     {
@@ -121,5 +124,7 @@
       "title": "The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-17T10:42:55+00:00",
+  "updated_at": "2026-10-17T10:42:55+00:00"
 }
