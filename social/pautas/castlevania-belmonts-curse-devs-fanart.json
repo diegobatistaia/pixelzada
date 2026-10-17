@@ -1,0 +1,70 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Castlevania",
+  "gta6": false,
+  "materia": "castlevania-belmonts-curse-devs-personagens-bonitos-de-proposito",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/16/castlevania-belmonts-curse-devs-made-the-characters-hot-on-purpose-1792184534105.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "Konami",
+    "pos": "50% 30%"
+  },
+  "fonte": "Fontes: IGN e GamesRadar",
+  "capa": {
+    "titulo": "Devs de Castlevania fizeram os personagens bonitos de propósito",
+    "destaque": "de propósito",
+    "apoio": "Trevor Belmont virou assunto. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A entrevista",
+      "titulo": "Os criadores viram os fanarts",
+      "destaque": "fanarts",
+      "texto": [
+        "Em conversa com o Fall Damage, Sandro Bordier e Bérenger Dupré disseram que **a onda já começou**, segundo IGN e GamesRadar.",
+        "Trevor foi o mais citado, e a equipe não esperava tanta reação."
+      ]
+    },
+    {
+      "rotulo": "A escolha",
+      "titulo": "Foi uma decisão de design",
+      "destaque": "decisão",
+      "texto": [
+        "Bordier afirmou que alguns personagens são atraentes **de propósito**, como parte do clima do jogo, e que o estúdio tem orgulho disso."
+      ]
+    },
+    {
+      "rotulo": "A crítica",
+      "titulo": "Nota 8 na IGN",
+      "destaque": "Nota 8",
+      "texto": [
+        "O jogo saiu em **15 de outubro** e levou 8 em 10 da IGN, que elogiou a ação rápida e a modernização da série."
+      ]
+    }
+  ],
+  "final": "Qual personagem de Castlevania você escolheria?",
+  "legenda": {
+    "gancho": "Os criadores de Castlevania: Belmont's Curse dizem que fizeram os personagens atraentes de propósito.",
+    "corpo": [
+      "Em entrevista ao Fall Damage, Sandro Bordier e Bérenger Dupré contaram que já viram os fanarts e que não esperavam tanta reação a Trevor Belmont, segundo IGN e GamesRadar. Bordier disse que o visual foi uma escolha da equipe.",
+      "O jogo saiu em 15 de outubro. A IGN deu nota 8 em 10 e elogiou o foco em ação rápida; o GamesRadar o chamou de retorno triunfal da série."
+    ],
+    "chamada": "Qual personagem de Castlevania você escolheria?",
+    "hashtags": [
+      "#pixelzada",
+      "#castlevania",
+      "#belmontscurse",
+      "#konami"
+    ]
+  },
+  "alt": [
+    "Slide 1: Devs de Castlevania fizeram os personagens bonitos de propósito",
+    "Slide 2: Os criadores viram os fanarts",
+    "Slide 3: Foi uma decisão de design",
+    "Slide 4: Nota 8 na IGN",
+    "Slide 5: Qual personagem de Castlevania você escolheria?"
+  ],
+  "slug": "castlevania-belmonts-curse-devs-fanart",
+  "status": "pronto",
+  "criado": "2026-10-17T13:38:14-03:00"
+}
