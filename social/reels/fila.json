@@ -577,10 +577,15 @@
     "slug": "ifood-acabei-dormindo",
     "data": "2026-10-17",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Cartaz",
     "legenda": "Fiz um pedido no iFood e acabei dormindo 😴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta #memesgamer #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-17T15:59:26-03:00",
+      "media_id": "18047028224818574",
+      "permalink": "https://www.instagram.com/reel/Demzto0FP4R/"
+    }
   },
   {
     "slug": "ciclo-se-repete-gta5-gta6",
