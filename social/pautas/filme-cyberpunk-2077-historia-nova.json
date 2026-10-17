@@ -65,6 +65,14 @@
     "Slide 5: Você quer ver V no cinema ou uma história nova?"
   ],
   "slug": "filme-cyberpunk-2077-historia-nova",
-  "status": "pronto",
-  "criado": "2026-10-17T09:38:45-03:00"
+  "status": "publicado",
+  "criado": "2026-10-17T09:38:45-03:00",
+  "publicado": {
+    "data": "2026-10-17",
+    "horario": "13:00",
+    "em": "2026-10-17T13:00:16-03:00",
+    "estilo": "chefao",
+    "media_id": "18030694424908322",
+    "permalink": "https://www.instagram.com/p/DemfPrpFPxS/"
+  }
 }
