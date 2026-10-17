@@ -535,10 +535,15 @@
     "slug": "cj-amigo-iphone-18",
     "data": "2026-10-17",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Missão",
     "legenda": "“Indo visitar meu amigo que comprou um iPhone 18 Pro Max” 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #cj #gta #memesgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-17T09:59:31-03:00",
+      "media_id": "18200258680380573",
+      "permalink": "https://www.instagram.com/reel/DemKpDiggvE/"
+    }
   },
   {
     "slug": "san-andreas-atmosfera-mundo-aberto",
