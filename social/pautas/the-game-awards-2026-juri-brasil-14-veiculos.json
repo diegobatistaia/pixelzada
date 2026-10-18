@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "The Game Awards",
+  "gta6": false,
+  "materia": "brasil-tem-terceiro-maior-juri-do-the-game-awards-2026-14-veiculos",
+  "imagem": {
+    "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ambrosia_06.jpg?w=1600&h=900&fit=crop",
+    "credito": "Polygon",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Voxel e Polygon",
+  "capa": {
+    "titulo": "Brasil tem 14 veículos no júri do The Game Awards",
+    "destaque": "14 veículos",
+    "apoio": "Terceira maior bancada. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O ranking",
+      "titulo": "3º lugar entre os países",
+      "destaque": "3º lugar",
+      "texto": [
+        "Só **Estados Unidos e Reino Unido** têm mais veículos no júri, segundo o Voxel."
+      ]
+    },
+    {
+      "rotulo": "Os líderes",
+      "titulo": "17 veículos para EUA e Reino Unido",
+      "destaque": "17 veículos",
+      "texto": [
+        "Os dois países empatam com **17 cada**.",
+        "O Polygon destaca que os americanos perderam espaço: eram 24 em 2024 e 2025."
+      ]
+    },
+    {
+      "rotulo": "A evolução",
+      "titulo": "De 3 veículos em 2018 a 14",
+      "destaque": "3 veículos",
+      "texto": [
+        "Em 2018 eram só **Voxel, The Enemy e UOL Jogos**.",
+        "Em 2025 eram 10, de acordo com o Voxel."
+      ]
+    }
+  ],
+  "final": "Qual jogo você quer ver indicado ao GOTY?",
+  "legenda": {
+    "gancho": "O Brasil tem a terceira maior bancada no júri do The Game Awards 2026, com 14 veículos.",
+    "corpo": [
+      "Segundo o Voxel, só Estados Unidos e Reino Unido têm mais representantes, com 17 cada. Em 2018, o Brasil tinha apenas três veículos no júri.",
+      "O Polygon aponta que a presença americana encolheu, de 24 para 17 veículos em relação a 2024 e 2025, enquanto a América Latina já representa cerca de 21% do júri."
+    ],
+    "chamada": "Qual jogo você quer ver indicado ao GOTY?",
+    "hashtags": [
+      "#pixelzada",
+      "#thegameawards",
+      "#goty",
+      "#brasil"
+    ]
+  },
+  "slug": "the-game-awards-2026-juri-brasil-14-veiculos",
+  "alt": [
+    "Slide 1: Brasil tem 14 veículos no júri do The Game Awards",
+    "Slide 2: 3º lugar entre os países",
+    "Slide 3: 17 veículos para EUA e Reino Unido",
+    "Slide 4: De 3 veículos em 2018 a 14",
+    "Slide 5: Qual jogo você quer ver indicado ao GOTY?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-18T13:50:00-03:00"
+}
