@@ -59,7 +59,7 @@
     ]
   },
   "slug": "kutaragi-fim-dos-discos-mentalidade",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-10-18T09:50:00-03:00",
   "alt": [
     "Slide 1: Pai do PlayStation defende o fim dos discos",
@@ -67,5 +67,13 @@
     "Slide 3: Sony acaba com discos em 2028",
     "Slide 4: Ele saiu da Sony em 2007",
     "Slide 5: Você abriria mão dos discos?"
-  ]
+  ],
+  "publicado": {
+    "data": "2026-10-18",
+    "horario": "13:00",
+    "em": "2026-10-18T13:01:00-03:00",
+    "estilo": "inventario",
+    "media_id": "18103293209254238",
+    "permalink": "https://www.instagram.com/p/DepEHgPmlvr/"
+  }
 }
