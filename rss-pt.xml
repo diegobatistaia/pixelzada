@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 12:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 14:40:17 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Brasil tem o terceiro maior júri do The Game Awards 2026, com 14 veículos</title>
+      <link>https://pixelzada.com.br/pt/brasil-tem-terceiro-maior-juri-do-the-game-awards-2026-14-veiculos/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/brasil-tem-terceiro-maior-juri-do-the-game-awards-2026-14-veiculos/</guid>
+      <description>O Brasil terá 14 veículos no júri do The Game Awards 2026, a terceira maior bancada, atrás de Estados Unidos e Reino Unido. Veja como funciona a votação.</description>
+      <category>Indústria</category>
+      <pubDate>Sun, 18 Oct 2026 14:40:17 +0000</pubDate>
+    </item>
     <item>
       <title>Os adiamentos de GTA 6: por que o jogo atrasou duas vezes e o que garante 19 de novembro</title>
       <link>https://pixelzada.com.br/pt/adiamentos-de-gta-6-por-que-o-jogo-atrasou-duas-vezes-e-a-data-de-19-de-novembro/</link>
@@ -238,14 +246,6 @@
       <description>A Sony anunciou os jogos do PlayStation Plus Extra e Premium de outubro, com Mafia: The Old Country, Horizon Forbidden West e Mycopunk. Veja datas e extras.</description>
       <category>Lançamentos</category>
       <pubDate>Thu, 15 Oct 2026 00:39:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rockstar nega que GTA 6 custou mais de US$ 1,5 bilhão, mas não revela o valor</title>
-      <link>https://pixelzada.com.br/pt/rockstar-nega-gta-6-custou-mais-de-1-5-bilhao-orcamento/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/rockstar-nega-gta-6-custou-mais-de-1-5-bilhao-orcamento/</guid>
-      <description>A Rockstar desmentiu que GTA 6 tenha custado mais de US$ 1,5 bilhão, mas não diz quanto gastou. Veja o que a Bloomberg apurou e as comparações com outros jogos.</description>
-      <category>GTA 6</category>
-      <pubDate>Wed, 14 Oct 2026 22:40:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

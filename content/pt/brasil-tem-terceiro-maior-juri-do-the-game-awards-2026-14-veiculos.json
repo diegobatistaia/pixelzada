@@ -113,7 +113,10 @@
     "query": "The Game Awards 2026",
     "alt": "Imagem de divulgação de jogo usada na cobertura do júri do The Game Awards",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ambrosia_06.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/brasil-tem-terceiro-maior-juri-do-the-ga-f601c11f.jpg",
+    "source_url": "",
+    "foco": "55% 22%"
   },
   "sources": [
     {
@@ -129,5 +132,7 @@
       "title": "America's Dominance in The Game Awards Is Officially Over"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T14:40:17+00:00",
+  "updated_at": "2026-10-18T14:40:17+00:00"
 }
