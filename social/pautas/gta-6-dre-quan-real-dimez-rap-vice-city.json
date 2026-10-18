@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "dre-quan-priest-e-real-dimez-gta-6-quem-sao-rap-vice-city",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0dgzn0invq.yx.jpg?akim=1&imdensity=1&imwidth=3840",
+    "credito": "Rockstar Games",
+    "pos": "50% 20%"
+  },
+  "fonte": "Fontes: Rockstar, VGC e PC Gamer",
+  "capa": {
+    "titulo": "3 fatos sobre Dre'Quan e Real Dimez",
+    "destaque": "3 fatos",
+    "apoio": "O rap de Vice City em GTA 6. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1 de 3",
+      "titulo": "Dono da Only Raw Records",
+      "destaque": "Only Raw",
+      "texto": [
+        "Dre'Quan Priest vendia drogas nas ruas, mas sempre quis entrar na **música**, segundo a Rockstar.",
+        "Ele é sócio de **Boobie Ike** na gravadora."
+      ]
+    },
+    {
+      "rotulo": "2 de 3",
+      "titulo": "Real Dimez: Bae-Luxe e Roxy",
+      "destaque": "Bae-Luxe",
+      "texto": [
+        "Amigas desde o ensino médio, as duas faziam dinheiro **achacando traficantes** antes do rap.",
+        "Hoje vivem de música e de redes sociais."
+      ]
+    },
+    {
+      "rotulo": "3 de 3",
+      "titulo": "A um hit da fama",
+      "destaque": "hit",
+      "texto": [
+        "Dre'Quan **contratou a dupla** para a gravadora.",
+        "O primeiro sucesso delas foi com o rapper local **DWNPLY**, de acordo com o VGC."
+      ]
+    }
+  ],
+  "final": "Você ouviria o rap de Vice City?",
+  "legenda": {
+    "gancho": "O rap de Vice City em GTA 6 tem dono de gravadora e uma dupla de influenciadoras.",
+    "corpo": [
+      "Segundo a Rockstar, Dre'Quan Priest comanda a gravadora Only Raw Records, em sociedade com Boobie Ike, e contratou a dupla Real Dimez, formada por Bae-Luxe e Roxy.",
+      "As duas são amigas desde o ensino médio e hoje ganham dinheiro com música e redes sociais. Os perfis foram publicados em 6 de maio de 2025. GTA 6 chega em 19 de novembro de 2026."
+    ],
+    "chamada": "Você ouviria o rap de Vice City?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#vicecity",
+      "#rockstar"
+    ]
+  },
+  "slug": "gta-6-dre-quan-real-dimez-rap-vice-city",
+  "alt": [
+    "Slide 1: 3 fatos sobre Dre'Quan e Real Dimez",
+    "Slide 2: Dono da Only Raw Records",
+    "Slide 3: Real Dimez: Bae-Luxe e Roxy",
+    "Slide 4: A um hit da fama",
+    "Slide 5: Você ouviria o rap de Vice City?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-18T15:50:00-03:00"
+}
