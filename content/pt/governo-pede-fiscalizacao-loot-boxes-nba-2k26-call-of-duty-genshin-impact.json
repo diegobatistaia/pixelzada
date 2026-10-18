@@ -126,7 +126,9 @@
     "query": "loot boxes",
     "alt": "Ilustração de caixas de recompensa em jogos digitais",
     "url": "https://olhardigital.com.br/wp-content/uploads/2026/10/loot-boxes.jpg",
-    "credit": "Imagem: Olhar Digital"
+    "credit": "Imagem: Olhar Digital",
+    "path": "/assets/img/governo-pede-fiscalizacao-loot-boxes-nba-af96a3ee.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -142,5 +144,7 @@
       "title": "Governo pede fiscalização de Call of Duty e outros jogos por causa de loot boxes no Brasil"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T00:40:21+00:00",
+  "updated_at": "2026-10-18T00:40:21+00:00"
 }
