@@ -647,10 +647,15 @@
     "slug": "miami-vice-city-todo-lugar",
     "data": "2026-10-18",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Polaroid",
     "legenda": "Você anda em Miami e vê Vice City em todo lugar 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #vicecity #miami #gtavi #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-18T13:58:54-03:00",
+      "media_id": "18109551323350962",
+      "permalink": "https://www.instagram.com/reel/DepKtudCsun/"
+    }
   },
   {
     "slug": "dutch-10-milhoes",
