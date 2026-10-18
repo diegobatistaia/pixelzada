@@ -67,6 +67,18 @@
     "Slide 4: Lançamento em 19 de novembro",
     "Slide 5: Você viu essa ação de GTA 6 nas redes?"
   ],
-  "status": "pronto",
-  "criado": "2026-10-18T07:45:00-03:00"
+  "status": "publicado",
+  "criado": "2026-10-18T07:45:00-03:00",
+  "publicado": {
+    "data": "2026-10-18",
+    "horario": "11:00",
+    "em": "2026-10-18T11:00:21-03:00",
+    "estilo": "figurinha",
+    "media_id": "18093597539185630",
+    "permalink": "https://www.instagram.com/p/Deo2UcKlnPQ/"
+  },
+  "story": {
+    "em": "2026-10-18T11:00:59-03:00",
+    "media_id": "18154997680522055"
+  }
 }
