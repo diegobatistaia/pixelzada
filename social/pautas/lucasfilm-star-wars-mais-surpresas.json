@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Star Wars",
+  "gta6": false,
+  "materia": "lucasfilm-games-star-wars-estudios-menores-vai-continuar-surpreendendo",
+  "imagem": {
+    "url": "https://insider-gaming.com/wp-content/uploads/2026/09/star-wars-zero-company.jpg",
+    "credito": "Lucasfilm Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: GamesRadar e Insider Gaming",
+  "capa": {
+    "titulo": "Lucasfilm promete mais surpresas em Star Wars",
+    "destaque": "surpresas",
+    "apoio": "Estúdios menores entram na jogada. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A fala",
+      "titulo": "Sem precisar de gigante",
+      "destaque": "gigante",
+      "texto": [
+        "Douglas Reilly, da Lucasfilm Games, diz que não precisa ser um dos **cinco maiores publishers** para fazer um bom jogo de Star Wars."
+      ]
+    },
+    {
+      "rotulo": "Os exemplos",
+      "titulo": "Zero Company e Galactic Racer",
+      "destaque": "Galactic Racer",
+      "texto": [
+        "Os dois foram feitos por estúdios menores e **bem avaliados**, segundo o GamesRadar.",
+        "O Insider Gaming cita notas na casa dos 80 no Metacritic."
+      ]
+    },
+    {
+      "rotulo": "O contexto",
+      "titulo": "Fim da exclusividade da EA",
+      "destaque": "exclusividade",
+      "texto": [
+        "O acordo de 10 anos com a EA terminou em **2023**.",
+        "A Respawn trabalha num terceiro Jedi, e a Quantic Dream faz Eclipse."
+      ]
+    }
+  ],
+  "final": "Qual jogo de Star Wars você quer ver?",
+  "legenda": {
+    "gancho": "A Lucasfilm Games diz que Star Wars está mais flexível e que vem mais surpresa por aí.",
+    "corpo": [
+      "Em entrevista ao The Game Business Show, o executivo Douglas Reilly afirmou que a empresa aceita propostas de estúdios menores, desde que a qualidade seja alta, segundo o GamesRadar e o Insider Gaming.",
+      "Zero Company e Galactic Racer, ambos de estúdios menores, foram bem avaliados neste ano. O acordo de exclusividade da EA terminou em 2023."
+    ],
+    "chamada": "Qual jogo de Star Wars você quer ver?",
+    "hashtags": [
+      "#pixelzada",
+      "#starwars",
+      "#lucasfilm",
+      "#zerocompany"
+    ]
+  },
+  "slug": "lucasfilm-star-wars-mais-surpresas",
+  "alt": [
+    "Slide 1: Lucasfilm promete mais surpresas em Star Wars",
+    "Slide 2: Sem precisar de gigante",
+    "Slide 3: Zero Company e Galactic Racer",
+    "Slide 4: Fim da exclusividade da EA",
+    "Slide 5: Qual jogo de Star Wars você quer ver?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-18T19:50:00-03:00"
+}
