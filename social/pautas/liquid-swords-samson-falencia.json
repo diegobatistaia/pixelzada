@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Samson",
+  "gta6": false,
+  "materia": "liquid-swords-estudio-de-samson-vai-a-falencia-salarios-atrasados",
+  "imagem": {
+    "url": "https://insider-gaming.com/wp-content/uploads/2026/10/Samson-Key-Art-3840x2160-1-scaled-1.jpg",
+    "credito": "Liquid Swords",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: PC Gamer e Insider Gaming",
+  "capa": {
+    "titulo": "Estúdio de Samson foi à falência",
+    "destaque": "falência",
+    "apoio": "Seis meses após o lançamento. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O caso",
+      "titulo": "Cerca de 30 sem salário",
+      "destaque": "30",
+      "texto": [
+        "A **Liquid Swords** estava com a equipe sem receber havia pelo menos dois meses, segundo o PC Gamer.",
+        "Os próprios funcionários pediram a falência."
+      ]
+    },
+    {
+      "rotulo": "O destino",
+      "titulo": "Estúdio está à venda",
+      "destaque": "à venda",
+      "texto": [
+        "O administrador colocou o estúdio e **Samson** à venda, com propostas até **21 de outubro**.",
+        "Os salários serão cobertos pelo Estado sueco."
+      ]
+    },
+    {
+      "rotulo": "O jogo",
+      "titulo": "Lançado em abril",
+      "destaque": "abril",
+      "texto": [
+        "Samson saiu com avaliações mistas e nota **51 no Metacritic**, de acordo com o Insider Gaming.",
+        "Foi o único jogo do estúdio de Christofer Sundberg."
+      ]
+    }
+  ],
+  "final": "Você chegou a jogar Samson?",
+  "legenda": {
+    "gancho": "A Liquid Swords, estúdio de Samson, foi declarada falida seis meses depois do lançamento do jogo.",
+    "corpo": [
+      "Segundo o PC Gamer e o Insider Gaming, que citam o Breakit, cerca de 30 funcionários estavam sem receber e pediram a falência. Os salários serão cobertos pelo Estado sueco.",
+      "O administrador colocou o estúdio e Samson à venda, com propostas até 21 de outubro. O jogo saiu em abril com avaliações mistas e é o único título do estúdio, fundado por Christofer Sundberg, cofundador da Avalanche."
+    ],
+    "chamada": "Você chegou a jogar Samson?",
+    "hashtags": [
+      "#pixelzada",
+      "#samson",
+      "#liquidswords",
+      "#gamedev"
+    ]
+  },
+  "slug": "liquid-swords-samson-falencia",
+  "alt": [
+    "Slide 1: Estúdio de Samson foi à falência",
+    "Slide 2: Cerca de 30 sem salário",
+    "Slide 3: Estúdio está à venda",
+    "Slide 4: Lançado em abril",
+    "Slide 5: Você chegou a jogar Samson?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-18T07:45:00-03:00"
+}

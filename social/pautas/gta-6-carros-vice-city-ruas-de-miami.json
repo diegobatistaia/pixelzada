@@ -1,0 +1,72 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-carros-vice-city-ruas-de-miami-campanha-rockstar",
+  "imagem": {
+    "url": "https://meups.com.br/wp-content/uploads/2026/10/GTA-VI-2-3.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Voxel e MeuPlayStation",
+  "capa": {
+    "titulo": "Carros de GTA 6 rodam pelas ruas de Miami",
+    "destaque": "Miami",
+    "apoio": "Ação de marketing viralizou. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A ação",
+      "titulo": "Carros estilo Vice City",
+      "destaque": "Vice City",
+      "texto": [
+        "Segundo o **Voxel**, a Rockstar levou carros inspirados em GTA 6 para as ruas de Miami.",
+        "Há até viaturas com placas da cidade fictícia."
+      ]
+    },
+    {
+      "rotulo": "A campanha",
+      "titulo": "Dirigível e aviões",
+      "destaque": "Dirigível",
+      "texto": [
+        "A campanha também tem um **dirigível** com a marca Vice City e aviões com banners promocionais.",
+        "As ações não citam GTA 6 diretamente."
+      ]
+    },
+    {
+      "rotulo": "O jogo",
+      "titulo": "Lançamento em 19 de novembro",
+      "destaque": "19 de novembro",
+      "texto": [
+        "Os vídeos dos carros circulando já repercutem nas redes, com fãs empolgados.",
+        "O jogo sai em **19 de novembro de 2026**."
+      ]
+    }
+  ],
+  "final": "Você viu essa ação de GTA 6 nas redes?",
+  "legenda": {
+    "gancho": "A Rockstar levou carros inspirados em GTA 6 para as ruas de Miami, e os vídeos viralizaram.",
+    "corpo": [
+      "Segundo o Voxel, os veículos foram modificados para lembrar modelos de Vice City, com viaturas de placas da cidade fictícia. A campanha tem ainda um dirigível com a marca Vice City e aviões com banners. O MeuPlayStation também noticiou a presença dos carros nas ruas.",
+      "As ações não mencionam GTA 6 diretamente. O jogo chega em 19 de novembro de 2026."
+    ],
+    "chamada": "Você viu essa ação de GTA 6 nas redes?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstar",
+      "#vicecity"
+    ]
+  },
+  "slug": "gta-6-carros-vice-city-ruas-de-miami",
+  "alt": [
+    "Slide 1: Carros de GTA 6 rodam pelas ruas de Miami",
+    "Slide 2: Carros estilo Vice City",
+    "Slide 3: Dirigível e aviões",
+    "Slide 4: Lançamento em 19 de novembro",
+    "Slide 5: Você viu essa ação de GTA 6 nas redes?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-18T07:45:00-03:00"
+}
