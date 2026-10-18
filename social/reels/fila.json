@@ -661,10 +661,15 @@
     "slug": "dutch-10-milhoes",
     "data": "2026-10-18",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Figurinha",
     "legenda": "Um jogador doou 10 milhões ao acampamento pra ver a reação do Dutch 💰\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #dutch #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-18T15:59:08-03:00",
+      "media_id": "17979264732130344",
+      "permalink": "https://www.instagram.com/reel/DepYfDmjr82/"
+    }
   },
   {
     "slug": "furacao-gta6",
