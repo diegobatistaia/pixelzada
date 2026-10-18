@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "PlayStation",
+  "gta6": false,
+  "materia": "pai-do-playstation-kutaragi-fim-dos-discos-questao-de-mentalidade",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/10/GettyImages-51330963-e1792157827612.jpg",
+    "credito": "Getty Images",
+    "pos": "50% 30%"
+  },
+  "fonte": "Fontes: Kotaku e GamesRadar",
+  "capa": {
+    "titulo": "Pai do PlayStation defende o fim dos discos",
+    "destaque": "fim dos discos",
+    "apoio": "Ken Kutaragi falou ao VGC. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A fala",
+      "titulo": "É questão de mentalidade",
+      "destaque": "mentalidade",
+      "texto": [
+        "Kutaragi disse entender que o disco virou símbolo de **possuir o jogo**.",
+        "Mas afirmou não achar a mídia física economicamente razoável, segundo o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "O contexto",
+      "titulo": "Sony acaba com discos em 2028",
+      "destaque": "2028",
+      "texto": [
+        "O GamesRadar lembra que a decisão da Sony gerou **enorme reação negativa** por causa da posse das bibliotecas.",
+        "A Sony ainda não anunciou plano para recuar."
+      ]
+    },
+    {
+      "rotulo": "O alerta",
+      "titulo": "Ele saiu da Sony em 2007",
+      "destaque": "2007",
+      "texto": [
+        "Kutaragi não tem **informação direta** sobre os planos da empresa, como destaca o GamesRadar."
+      ]
+    }
+  ],
+  "final": "Você abriria mão dos discos?",
+  "legenda": {
+    "gancho": "Ken Kutaragi, pai do PlayStation, diz que a revolta com o fim dos discos é questão de mentalidade.",
+    "corpo": [
+      "Em entrevista ao VGC, Kutaragi afirmou que entende o disco como símbolo de possuir o jogo, mas que manter a mídia física não é economicamente razoável, segundo o Kotaku e o GamesRadar.",
+      "A Sony decidiu acabar com os discos em 2028 e ainda não anunciou plano para reverter a decisão. Kutaragi deixou a empresa em 2007 e não tem informação direta sobre os planos dela."
+    ],
+    "chamada": "Você abriria mão dos discos?",
+    "hashtags": [
+      "#pixelzada",
+      "#playstation",
+      "#sony",
+      "#midiafisica"
+    ]
+  },
+  "slug": "kutaragi-fim-dos-discos-mentalidade",
+  "status": "pronto",
+  "criado": "2026-10-18T09:50:00-03:00",
+  "alt": [
+    "Slide 1: Pai do PlayStation defende o fim dos discos",
+    "Slide 2: É questão de mentalidade",
+    "Slide 3: Sony acaba com discos em 2028",
+    "Slide 4: Ele saiu da Sony em 2007",
+    "Slide 5: Você abriria mão dos discos?"
+  ]
+}

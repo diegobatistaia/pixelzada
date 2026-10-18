@@ -1,0 +1,71 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "adiamentos-de-gta-6-por-que-o-jogo-atrasou-duas-vezes-e-a-data-de-19-de-novembro",
+  "imagem": {
+    "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak3ak31a49a221/c8c033070a0bfb2e3ec6ae7ff047ebe8ec551326.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Rockstar, Take-Two e Reuters",
+  "capa": {
+    "titulo": "GTA 6 vai atrasar de novo?",
+    "destaque": "atrasar de novo",
+    "apoio": "O que a Rockstar já disse. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quantas vezes atrasou?",
+      "destaque": "vezes",
+      "texto": [
+        "De 2025 para **26 de maio de 2026**, em 2 de maio de 2025.",
+        "Depois para **19 de novembro de 2026**, em 6 de novembro de 2025."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Por que atrasou?",
+      "destaque": "atrasou",
+      "texto": [
+        "A Rockstar disse que os meses extras servem para terminar o jogo com o **nível de polimento** que os fãs esperam e merecem."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "A data está firme?",
+      "destaque": "firme",
+      "texto": [
+        "A Take-Two **reafirmou 19 de novembro** em fevereiro, maio e agosto de 2026.",
+        "O site oficial da Rockstar também mantém a data."
+      ]
+    }
+  ],
+  "final": "Você já está com a contagem regressiva?",
+  "legenda": {
+    "gancho": "GTA 6 atrasou duas vezes, mas a data de 19 de novembro foi reafirmada em todos os balanços de 2026.",
+    "corpo": [
+      "O primeiro adiamento, anunciado em 2 de maio de 2025, levou o jogo para 26 de maio de 2026. O segundo, em 6 de novembro de 2025, para 19 de novembro de 2026, segundo a Rockstar.",
+      "A Take-Two reafirmou a data em fevereiro, maio e agosto de 2026, de acordo com a Reuters e outras fontes. Em outubro, o site oficial da Rockstar mantém o lançamento para PS5 e Xbox Series X|S."
+    ],
+    "chamada": "Você já está com a contagem regressiva?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstar",
+      "#take2"
+    ]
+  },
+  "slug": "gta-6-adiamentos-data-19-de-novembro",
+  "status": "pronto",
+  "criado": "2026-10-18T09:50:00-03:00",
+  "alt": [
+    "Slide 1: GTA 6 vai atrasar de novo?",
+    "Slide 2: Quantas vezes atrasou?",
+    "Slide 3: Por que atrasou?",
+    "Slide 4: A data está firme?",
+    "Slide 5: Você já está com a contagem regressiva?"
+  ]
+}
