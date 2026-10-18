@@ -675,10 +675,15 @@
     "slug": "furacao-gta6",
     "data": "2026-10-18",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "O que eu vou fazer quando aparecer um furacão no GTA 6 🌪️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #vicecity #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-18T17:59:32-03:00",
+      "media_id": "18350512438283459",
+      "permalink": "https://www.instagram.com/reel/DepmQKiAF78/"
+    }
   },
   {
     "slug": "obrigado-rockstar-gta5",
