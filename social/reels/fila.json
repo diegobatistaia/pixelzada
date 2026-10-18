@@ -633,10 +633,15 @@
     "slug": "spider-man-2-dlss-filme",
     "data": "2026-10-18",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Claquete",
     "legenda": "Marvel’s Spider-Man 2 com DLSS parece um filme jogável 🕷️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#spiderman2 #marvelsspiderman2 #dlss #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-18T11:59:28-03:00",
+      "media_id": "18080396348710528",
+      "permalink": "https://www.instagram.com/reel/Deo9C_yk4lJ/"
+    }
   },
   {
     "slug": "miami-vice-city-todo-lugar",
