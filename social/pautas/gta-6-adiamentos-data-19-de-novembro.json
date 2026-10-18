@@ -59,7 +59,7 @@
     ]
   },
   "slug": "gta-6-adiamentos-data-19-de-novembro",
-  "status": "pronto",
+  "status": "publicado",
   "criado": "2026-10-18T09:50:00-03:00",
   "alt": [
     "Slide 1: GTA 6 vai atrasar de novo?",
@@ -67,5 +67,17 @@
     "Slide 3: Por que atrasou?",
     "Slide 4: A data está firme?",
     "Slide 5: Você já está com a contagem regressiva?"
-  ]
+  ],
+  "publicado": {
+    "data": "2026-10-18",
+    "horario": "15:00",
+    "em": "2026-10-18T15:00:09-03:00",
+    "estilo": "missao",
+    "media_id": "17952072357051494",
+    "permalink": "https://www.instagram.com/p/DepRxm3I9MZ/"
+  },
+  "story": {
+    "em": "2026-10-18T15:00:57-03:00",
+    "media_id": "17951283765054485"
+  }
 }
