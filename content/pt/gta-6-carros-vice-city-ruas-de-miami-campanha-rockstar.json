@@ -124,7 +124,9 @@
     "query": "GTA 6 Vice City",
     "alt": "Arte de GTA 6 com cenário de Vice City",
     "url": "https://meups.com.br/wp-content/uploads/2026/10/GTA-VI-2-3.jpg",
-    "credit": "Imagem: MeuPlayStation"
+    "credit": "Imagem: MeuPlayStation",
+    "path": "/assets/img/gta-6-carros-vice-city-ruas-de-miami-cam-a4124087.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -140,5 +142,7 @@
       "title": "Rockstar leva carros de GTA 6 para as ruas de Miami antes do lançamento do game"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T10:43:00+00:00",
+  "updated_at": "2026-10-18T10:43:00+00:00"
 }

@@ -109,7 +109,10 @@
     "query": "Samson",
     "alt": "Arte de divulgação de Samson, jogo da Liquid Swords",
     "url": "https://insider-gaming.com/wp-content/uploads/2026/10/Samson-Key-Art-3840x2160-1-scaled-1.jpg",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/liquid-swords-estudio-de-samson-vai-a-fa-9db0654e.jpg",
+    "source_url": "",
+    "foco": "53% 26%"
   },
   "sources": [
     {
@@ -125,5 +128,7 @@
       "title": "Samson Developer Liquid Swords Goes Bankrupt"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T10:43:00+00:00",
+  "updated_at": "2026-10-18T10:43:00+00:00"
 }

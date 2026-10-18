@@ -593,5 +593,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-18T10:43:00+00:00",
+    "id": "gta-6-carros-vice-city-ruas-de-miami-campanha-rockstar",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-10-18T10:43:00+00:00",
+    "id": "liquid-swords-estudio-de-samson-vai-a-falencia-salarios-atrasados",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
