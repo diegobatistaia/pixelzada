@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "furacao-gta6",
-    "pasta": "reel-furacao-gta6",
-    "horario": "18:00",
-    "data": "2026-10-18"
+    "acao": "carrossel",
+    "slug": "gta-6-dre-quan-real-dimez-rap-vice-city",
+    "horario": "19:00",
+    "data": "2026-10-18",
+    "estilo": "plantao",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-18T17:59:32-03:00",
+  "em": "2026-10-18T19:00:02-03:00",
   "ok": true,
-  "media_id": "18350512438283459",
-  "permalink": "https://www.instagram.com/reel/DepmQKiAF78/",
+  "media_id": "18637728517058543",
+  "permalink": "https://www.instagram.com/p/DeptNybAT-m/",
+  "story": {
+    "em": "2026-10-18T19:00:41-03:00",
+    "media_id": "17953814394273372"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }

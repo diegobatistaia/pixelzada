@@ -67,6 +67,18 @@
     "Slide 4: A um hit da fama",
     "Slide 5: Você ouviria o rap de Vice City?"
   ],
-  "status": "pronto",
-  "criado": "2026-10-18T15:50:00-03:00"
+  "status": "publicado",
+  "criado": "2026-10-18T15:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-18",
+    "horario": "19:00",
+    "em": "2026-10-18T19:00:02-03:00",
+    "estilo": "plantao",
+    "media_id": "18637728517058543",
+    "permalink": "https://www.instagram.com/p/DeptNybAT-m/"
+  },
+  "story": {
+    "em": "2026-10-18T19:00:41-03:00",
+    "media_id": "17953814394273372"
+  }
 }
