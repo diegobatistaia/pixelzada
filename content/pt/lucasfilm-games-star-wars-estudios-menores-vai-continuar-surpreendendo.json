@@ -108,7 +108,10 @@
     "query": "Star Wars Zero Company",
     "alt": "Arte de Star Wars: Zero Company",
     "url": "https://insider-gaming.com/wp-content/uploads/2026/09/star-wars-zero-company.jpg",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/lucasfilm-games-star-wars-estudios-menor-de2a00ae.jpg",
+    "source_url": "",
+    "foco": "52% 48%"
   },
   "sources": [
     {
@@ -124,5 +127,7 @@
       "title": "Star Wars Games Don’t Need Top Publishers, Lucasfilm Says"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T22:39:46+00:00",
+  "updated_at": "2026-10-18T22:39:46+00:00"
 }

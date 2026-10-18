@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:39:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:39:47 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lucasfilm Games diz que Star Wars está mais flexível e que vem mais surpresa por aí</title>
+      <link>https://pixelzada.com.br/pt/lucasfilm-games-star-wars-estudios-menores-vai-continuar-surpreendendo/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/lucasfilm-games-star-wars-estudios-menores-vai-continuar-surpreendendo/</guid>
+      <description>Douglas Reilly, da Lucasfilm Games, diz que Star Wars está mais flexível com estúdios menores após Zero Company e Galactic Racer e promete mais surpresas.</description>
+      <category>Indústria</category>
+      <pubDate>Sun, 18 Oct 2026 22:39:46 +0000</pubDate>
+    </item>
     <item>
       <title>Dre'Quan Priest e Real Dimez em GTA 6: quem são e o que a Rockstar mostrou</title>
       <link>https://pixelzada.com.br/pt/dre-quan-priest-e-real-dimez-gta-6-quem-sao-rap-vice-city/</link>
@@ -238,14 +246,6 @@
       <description>Relembre o Trailer 2 de GTA 6: Jason e Lucia, o elenco de Leonida, as regiões do mapa, a música das Pointer Sisters e o recorde de visualizações da estreia.</description>
       <category>GTA 6</category>
       <pubDate>Thu, 15 Oct 2026 12:41:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gran Turismo 7 Spec IV Parte 1: 6 carros novos, circuito Sugo e DualSense de 30 anos</title>
-      <link>https://pixelzada.com.br/pt/gran-turismo-7-spec-iv-parte-1-carros-sugo-dualsense-30-anos/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gran-turismo-7-spec-iv-parte-1-carros-sugo-dualsense-30-anos/</guid>
-      <description>Gran Turismo 7 ganha a Parte 1 da Spec IV, com seis carros e o circuito Sugo. A Sony também mostrou um DualSense dos 30 anos da série, com preço e data.</description>
-      <category>Lançamentos</category>
-      <pubDate>Thu, 15 Oct 2026 12:41:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
