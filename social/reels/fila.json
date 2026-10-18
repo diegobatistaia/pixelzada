@@ -689,10 +689,15 @@
     "slug": "obrigado-rockstar-gta5",
     "data": "2026-10-18",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "Obrigado, Rockstar Games. Que venha o GTA 6 🙏\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #rockstargames #gtavi #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-18T19:59:20-03:00",
+      "media_id": "18065426120788336",
+      "permalink": "https://www.instagram.com/reel/Depz9wBk1gY/"
+    }
   },
   {
     "slug": "rdr2-dlss5-parece-filme",
