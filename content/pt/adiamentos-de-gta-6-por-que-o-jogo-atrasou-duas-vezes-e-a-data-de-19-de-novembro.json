@@ -114,7 +114,9 @@
     "query": "GTA 6 19 de novembro",
     "alt": "Arte oficial da Rockstar que anunciou o lançamento de GTA 6 em 19 de novembro de 2026",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak3ak31a49a221/c8c033070a0bfb2e3ec6ae7ff047ebe8ec551326.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/adiamentos-de-gta-6-por-que-o-jogo-atras-05463387.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -220,5 +222,7 @@
       "title": "Grand Theft Auto VI - Rockstar Games"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T12:40:54+00:00",
+  "updated_at": "2026-10-18T12:40:54+00:00"
 }

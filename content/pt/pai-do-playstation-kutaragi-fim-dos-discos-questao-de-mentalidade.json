@@ -105,7 +105,9 @@
     "query": "Ken Kutaragi",
     "alt": "Ken Kutaragi, criador do PlayStation",
     "url": "https://kotaku.com/app/uploads/2026/10/GettyImages-51330963-e1792157827612.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/pai-do-playstation-kutaragi-fim-dos-disc-53d4124b.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -121,5 +123,7 @@
       "title": "PlayStation creator backs Sony's call to end discs, says backlash is a mentality issue"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T12:40:54+00:00",
+  "updated_at": "2026-10-18T12:40:54+00:00"
 }
