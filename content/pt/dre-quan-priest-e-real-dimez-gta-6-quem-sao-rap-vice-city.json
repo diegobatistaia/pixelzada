@@ -110,7 +110,10 @@
     "query": "Dre'Quan Priest GTA 6",
     "alt": "Quadro do vídeo de Dre'Quan Priest no site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0dgzn0invq.yx.jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/dre-quan-priest-e-real-dimez-gta-6-quem--0a23a8f6.jpg",
+    "source_url": "",
+    "foco": "52% 42%"
   },
   "sources": [
     {
@@ -138,5 +141,7 @@
       "title": "GTA 6 characters: Everyone we know about so far"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T18:39:36+00:00",
+  "updated_at": "2026-10-18T18:39:36+00:00"
 }
