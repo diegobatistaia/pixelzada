@@ -619,10 +619,15 @@
     "slug": "aviao-gta5-vs-gta6",
     "data": "2026-10-18",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conquista",
     "legenda": "A mesma cena no GTA 5 e no GTA 6, 13 anos depois ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #comparacao #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-18T10:00:16-03:00",
+      "media_id": "17922824214441937",
+      "permalink": "https://www.instagram.com/reel/DeovaHJik_e/"
+    }
   },
   {
     "slug": "spider-man-2-dlss-filme",
