@@ -94,7 +94,9 @@
     "query": "Epic Games jogos grátis",
     "alt": "Arte de divulgação dos jogos grátis da Epic Games, Agent A e Bad Cheese",
     "url": "https://olhardigital.com.br/wp-content/uploads/2026/10/capa120.png",
-    "credit": "Imagem: Olhar Digital"
+    "credit": "Imagem: Olhar Digital",
+    "path": "/assets/img/epic-games-jogos-gratis-agent-a-bad-chee-d721906e.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -110,5 +112,7 @@
       "title": "Epic Games libera novo jogo grátis no celular! Resgate agora no Android (18)"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-18T16:39:42+00:00",
+  "updated_at": "2026-10-18T16:39:42+00:00"
 }

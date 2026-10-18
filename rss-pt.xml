@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 14:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 16:39:43 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Epic Games dá Agent A e Bad Cheese de graça até 22 de outubro</title>
+      <link>https://pixelzada.com.br/pt/epic-games-jogos-gratis-agent-a-bad-cheese-ate-22-de-outubro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/epic-games-jogos-gratis-agent-a-bad-cheese-ate-22-de-outubro/</guid>
+      <description>A Epic Games Store libera Agent A: O Enigma Disfarçado e Bad Cheese de graça de 15 a 22 de outubro. Agent A também está grátis no app da Epic para Android.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sun, 18 Oct 2026 16:39:42 +0000</pubDate>
+    </item>
     <item>
       <title>Brasil tem o terceiro maior júri do The Game Awards 2026, com 14 veículos</title>
       <link>https://pixelzada.com.br/pt/brasil-tem-terceiro-maior-juri-do-the-game-awards-2026-14-veiculos/</link>
@@ -238,14 +246,6 @@
       <description>Ex-desenvolvedores de Disco Elysium anunciaram Red Rooster, um RPG de física sobre incêndios, com PC primeiro e sem data. Veja a história e o que se sabe.</description>
       <category>Lançamentos</category>
       <pubDate>Thu, 15 Oct 2026 10:40:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>PS Plus Extra e Premium de outubro: Mafia, Horizon Forbidden West e Mycopunk</title>
-      <link>https://pixelzada.com.br/pt/ps-plus-extra-premium-outubro-2026-mafia-horizon-mycopunk/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/ps-plus-extra-premium-outubro-2026-mafia-horizon-mycopunk/</guid>
-      <description>A Sony anunciou os jogos do PlayStation Plus Extra e Premium de outubro, com Mafia: The Old Country, Horizon Forbidden West e Mycopunk. Veja datas e extras.</description>
-      <category>Lançamentos</category>
-      <pubDate>Thu, 15 Oct 2026 00:39:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
