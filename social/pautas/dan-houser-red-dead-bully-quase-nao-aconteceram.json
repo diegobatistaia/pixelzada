@@ -1,0 +1,70 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Rockstar",
+  "gta6": true,
+  "materia": "dan-houser-red-dead-redemption-e-bully-quase-nao-aconteceram",
+  "imagem": {
+    "url": "https://insider-gaming.com/wp-content/uploads/2025/11/Red-Dead-Redemption-rating.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: GamesRadar e Insider Gaming",
+  "capa": {
+    "titulo": "Red Dead e Bully quase não aconteceram",
+    "destaque": "quase não",
+    "apoio": "Dan Houser conta os bastidores. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A fala",
+      "titulo": "Vários momentos de risco",
+      "destaque": "risco",
+      "texto": [
+        "Dan Houser disse à IGN que houve **muitos momentos** em que Red Dead e Bully quase não saíram do papel."
+      ]
+    },
+    {
+      "rotulo": "O motivo",
+      "titulo": "Jogo novo sofre mais",
+      "destaque": "sofre mais",
+      "texto": [
+        "Segundo Houser, franquias novas **tendem a sofrer** mais para chegar ao fim do que sequências.",
+        "É quase mais impressionante quando saem, disse ele."
+      ]
+    },
+    {
+      "rotulo": "A solução",
+      "titulo": "Time forte e foco",
+      "destaque": "foco",
+      "texto": [
+        "Red Dead Redemption terminou graças a um **núcleo forte** que manteve o foco e resolveu os problemas, de acordo com o GamesRadar."
+      ]
+    }
+  ],
+  "final": "Qual jogo da Rockstar é o seu favorito?",
+  "legenda": {
+    "gancho": "Dan Houser, cofundador da Rockstar, diz que Red Dead Redemption e Bully quase não aconteceram.",
+    "corpo": [
+      "Em entrevista à IGN, Houser afirmou que houve muitos momentos em que os dois jogos correram risco, e que franquias novas tendem a sofrer mais do que sequências, segundo o GamesRadar e o Insider Gaming.",
+      "Red Dead Redemption terminou graças a um núcleo forte que manteve o foco. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Qual jogo da Rockstar é o seu favorito?",
+    "hashtags": [
+      "#pixelzada",
+      "#rockstar",
+      "#reddead",
+      "#gta6"
+    ]
+  },
+  "slug": "dan-houser-red-dead-bully-quase-nao-aconteceram",
+  "alt": [
+    "Slide 1: Red Dead e Bully quase não aconteceram",
+    "Slide 2: Vários momentos de risco",
+    "Slide 3: Jogo novo sofre mais",
+    "Slide 4: Time forte e foco",
+    "Slide 5: Qual jogo da Rockstar é o seu favorito?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-19T07:50:00-03:00"
+}

@@ -1,0 +1,70 @@
+{
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Loot boxes",
+  "gta6": false,
+  "materia": "governo-pede-fiscalizacao-loot-boxes-nba-2k26-call-of-duty-genshin-impact",
+  "imagem": {
+    "url": "https://olhardigital.com.br/wp-content/uploads/2026/10/loot-boxes.jpg",
+    "credito": "Olhar Digital",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Olhar Digital e Voxel",
+  "capa": {
+    "titulo": "Governo quer fiscalizar 6 jogos com loot boxes",
+    "destaque": "6 jogos",
+    "apoio": "O que muda para quem joga. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quais jogos entraram?",
+      "destaque": "jogos",
+      "texto": [
+        "Segundo o Voxel: **NBA 2K26, WWE 2K26, Counter-Strike 2, Call of Duty, Genshin Impact e PUBG Mobile**."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Por que a lista existe?",
+      "destaque": "lista",
+      "texto": [
+        "Os jogos mantêm caixas pagas **sem verificação de idade**, diz a nota técnica do Ministério da Justiça.",
+        "O pedido é para a ANPD monitorar."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Isso já é punição?",
+      "destaque": "punição",
+      "texto": [
+        "**Não.** A lista é preliminar e não comprova que as empresas descumprem a lei, ressalta o governo."
+      ]
+    }
+  ],
+  "final": "Loot box devia ser proibida para menores?",
+  "legenda": {
+    "gancho": "O Ministério da Justiça pediu à ANPD que monitore seis jogos com loot boxes sem verificação de idade.",
+    "corpo": [
+      "A nota técnica cita NBA 2K26, WWE 2K26, Counter-Strike 2, Call of Duty, Genshin Impact e PUBG Mobile, segundo o Voxel. O ECA Digital proíbe loot boxes em jogos com acesso provável por crianças e adolescentes.",
+      "A lista é preliminar e não comprova, por si só, que as empresas descumprem a lei, de acordo com o Ministério da Justiça e o Olhar Digital."
+    ],
+    "chamada": "Loot box devia ser proibida para menores?",
+    "hashtags": [
+      "#pixelzada",
+      "#lootboxes",
+      "#ecadigital",
+      "#anpd"
+    ]
+  },
+  "slug": "loot-boxes-governo-pede-fiscalizacao-seis-jogos",
+  "alt": [
+    "Slide 1: Governo quer fiscalizar 6 jogos com loot boxes",
+    "Slide 2: Quais jogos entraram?",
+    "Slide 3: Por que a lista existe?",
+    "Slide 4: Isso já é punição?",
+    "Slide 5: Loot box devia ser proibida para menores?"
+  ],
+  "status": "pronto",
+  "criado": "2026-10-19T07:50:00-03:00"
+}
