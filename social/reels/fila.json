@@ -703,10 +703,15 @@
     "slug": "rdr2-dlss5-parece-filme",
     "data": "2026-10-19",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Fliperama",
     "legenda": "“Red Dead Redemption 2 com DLSS 5 não parece mais um jogo, parece um filme” 🤠\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #dlss #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-19T09:59:31-03:00",
+      "media_id": "18081066110703940",
+      "permalink": "https://www.instagram.com/reel/DerUHULjljn/"
+    }
   },
   {
     "slug": "miami-clima-vice-city",
