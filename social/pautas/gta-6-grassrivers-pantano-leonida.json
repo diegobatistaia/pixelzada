@@ -1,78 +1,90 @@
 {
- "tipo": "noticia",
- "formato": "detalhes",
- "assunto": "GTA 6",
- "gta6": true,
- "materia": "grassrivers-gta-6-o-pantano-selvagem-de-leonida-jacares",
- "imagem": {
-  "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0q6dkw_b2u02f.jpg",
-  "credito": "Rockstar Games",
-  "pos": "50% 50%"
- },
- "fonte": "Fontes: site oficial e PC Gamer",
- "capa": {
-  "titulo": "Grassrivers: o pântano de GTA 6",
-  "destaque": "pântano",
-  "apoio": "O que a Rockstar contou. Arrasta."
- },
- "slides": [
-  {
-   "rotulo": "A região",
-   "titulo": "A joia indomável",
-   "destaque": "indomável",
-   "texto": [
-    "A Rockstar chama Grassrivers de **joia indomável** da coroa de Leonida."
-   ]
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "grassrivers-gta-6-o-pantano-selvagem-de-leonida-jacares",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0q6dkw_b2u02f.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
   },
-  {
-   "rotulo": "A inspiração",
-   "titulo": "Inspirado nos Everglades",
-   "destaque": "Everglades",
-   "texto": [
-    "A região é inspirada nos **Everglades**, as áreas alagadas do sul da Flórida."
-   ]
+  "fonte": "Fontes: site oficial e PC Gamer",
+  "capa": {
+    "titulo": "Grassrivers: o pântano de GTA 6",
+    "destaque": "pântano",
+    "apoio": "O que a Rockstar contou. Arrasta."
   },
-  {
-   "rotulo": "Os perigos",
-   "titulo": "Mais que jacarés",
-   "destaque": "jacarés",
-   "texto": [
-    "Segundo o texto oficial, os manguezais escondem **predadores mais mortais** que os jacarés."
-   ]
-  },
-  {
-   "rotulo": "A fauna",
-   "titulo": "Mais de 170 espécies",
-   "destaque": "170 espécies",
-   "texto": [
-    "Leonida terá **mais de 170 espécies** de animais, segundo a Rockstar à Game Informer."
-   ]
-  }
- ],
- "final": "Você explora o pântano primeiro?",
- "legenda": {
-  "gancho": "Grassrivers é o pântano de GTA 6, e a Rockstar já contou o que dá para esperar.",
-  "corpo": [
-   "A região é inspirada nos Everglades e, segundo o texto oficial, esconde predadores mais mortais que os jacarés.",
-   "Os jacarés são a atração mais conhecida, mas a descrição oficial diz que há descobertas mais estranhas por lá. Leonida terá mais de 170 espécies de animais, e o novo sistema de vento move a água e a vegetação. GTA 6 chega em 19 de novembro."
+  "slides": [
+    {
+      "rotulo": "A região",
+      "titulo": "A joia indomável",
+      "destaque": "indomável",
+      "texto": [
+        "A Rockstar chama Grassrivers de **joia indomável** da coroa de Leonida."
+      ]
+    },
+    {
+      "rotulo": "A inspiração",
+      "titulo": "Inspirado nos Everglades",
+      "destaque": "Everglades",
+      "texto": [
+        "A região é inspirada nos **Everglades**, as áreas alagadas do sul da Flórida."
+      ]
+    },
+    {
+      "rotulo": "Os perigos",
+      "titulo": "Mais que jacarés",
+      "destaque": "jacarés",
+      "texto": [
+        "Segundo o texto oficial, os manguezais escondem **predadores mais mortais** que os jacarés."
+      ]
+    },
+    {
+      "rotulo": "A fauna",
+      "titulo": "Mais de 170 espécies",
+      "destaque": "170 espécies",
+      "texto": [
+        "Leonida terá **mais de 170 espécies** de animais, segundo a Rockstar à Game Informer."
+      ]
+    }
   ],
-  "chamada": "Você explora o pântano primeiro?",
-  "hashtags": [
-   "#pixelzada",
-   "#gta6",
-   "#leonida",
-   "#grassrivers"
-  ]
- },
- "slug": "gta-6-grassrivers-pantano-leonida",
- "alt": [
-  "Slide 1: Grassrivers: o pântano de GTA 6",
-  "Slide 2: A joia indomável",
-  "Slide 3: Inspirado nos Everglades",
-  "Slide 4: Mais que jacarés",
-  "Slide 5: Mais de 170 espécies",
-  "Slide 6: Você explora o pântano primeiro?"
- ],
- "status": "pronto",
- "criado": "2026-10-19T09:50:00-03:00"
+  "final": "Você explora o pântano primeiro?",
+  "legenda": {
+    "gancho": "Grassrivers é o pântano de GTA 6, e a Rockstar já contou o que dá para esperar.",
+    "corpo": [
+      "A região é inspirada nos Everglades e, segundo o texto oficial, esconde predadores mais mortais que os jacarés.",
+      "Os jacarés são a atração mais conhecida, mas a descrição oficial diz que há descobertas mais estranhas por lá. Leonida terá mais de 170 espécies de animais, e o novo sistema de vento move a água e a vegetação. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Você explora o pântano primeiro?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#leonida",
+      "#grassrivers"
+    ]
+  },
+  "slug": "gta-6-grassrivers-pantano-leonida",
+  "alt": [
+    "Slide 1: Grassrivers: o pântano de GTA 6",
+    "Slide 2: A joia indomável",
+    "Slide 3: Inspirado nos Everglades",
+    "Slide 4: Mais que jacarés",
+    "Slide 5: Mais de 170 espécies",
+    "Slide 6: Você explora o pântano primeiro?"
+  ],
+  "status": "publicado",
+  "criado": "2026-10-19T09:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-19",
+    "horario": "15:00",
+    "em": "2026-10-19T15:00:01-03:00",
+    "estilo": "revista",
+    "media_id": "17879461914631252",
+    "permalink": "https://www.instagram.com/p/Der2j4rGGMU/"
+  },
+  "story": {
+    "em": "2026-10-19T15:00:42-03:00",
+    "media_id": "18132115369683774"
+  }
 }
