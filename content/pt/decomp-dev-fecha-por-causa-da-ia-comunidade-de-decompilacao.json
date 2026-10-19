@@ -1,0 +1,119 @@
+{
+  "lang": "pt",
+  "slug": "decomp-dev-fecha-por-causa-da-ia-comunidade-de-decompilacao",
+  "story_id": "bc0c88eb001897e9",
+  "title": "Decomp.dev, grande site de decompilação de jogos, fecha por causa da IA",
+  "dek": "O criador diz que portes feitos com IA e forks hostis quebraram o lado comunitário da decompilação.",
+  "meta_description": "O Decomp.dev, um dos maiores sites de decompilação de jogos, vai encerrar as atividades por causa da IA. Entenda o que são os projetos e o que o criador disse.",
+  "keyword": "Decomp.dev",
+  "category": "industria",
+  "tags": [
+    "decompilação",
+    "decomp.dev",
+    "ia",
+    "mods",
+    "portes"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "O Decomp.dev, um dos maiores sites dedicados a projetos de decompilação de jogos, vai encerrar a atividade principal. O motivo, segundo o criador do site, é o crescimento do uso de inteligência artificial nesse tipo de projeto, que, nas palavras dele, quebrou o lado comunitário da decompilação. A notícia foi divulgada pelo Kotaku e pelo Video Games Chronicle com base no aviso publicado na página inicial do próprio site.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que é decompilação de jogos",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Decompilar um jogo, resumindo, é desmontar e remontar o código dele. Segundo o Video Games Chronicle, fãs desenvolvedores vêm fazendo isso nos últimos anos: pegam um jogo existente e o transformam, por engenharia reversa, em código legível. O Kotaku explica que, quando a estrutura é descoberta, a comunidade pode criar mods, portes e patches.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O VGC diz que esses projetos são tecnicamente legais, porque os desenvolvedores não usam conteúdo vazado nem arquivos protegidos, e o jogador precisa fornecer a própria ROM obtida de forma legal. Com a base pronta, é possível melhorar os jogos com taxas de quadros maiores, telas widescreen e ultrawide, controles com dois analógicos e outras modificações feitas pela comunidade.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Por que o site vai fechar",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Decomp.dev indexava decompilações e acompanhava os projetos em andamento. Segundo o VGC, o criador do site, que usa o nome @encounter, anunciou que o serviço será encerrado aos poucos. No aviso, ele afirma que a IA não é o problema em si, e que, usada com orientação, revisão e esforço humano, pode acelerar bastante o processo. O que mudou, de acordo com o Kotaku e o VGC, é que o lado comunitário foi prejudicado.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O aviso cita contribuições feitas sem cuidado, os chamados drive-by, de quem não se preocupou em verificar se o trabalho era bom. O VGC acrescenta que algumas pessoas pegavam projetos de decompilação ainda em andamento, copiavam o código em forks e os terminavam com IA, sem contribuir de verdade com a equipe original. O autor chama esses forks de hostis.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "projetos abertos foram usados por pessoas que abusaram deles, segundo o aviso;",
+        "qualquer um com uma assinatura de IA consegue fazer um porte básico, que funciona, mas não permite recursos novos;",
+        "muita gente chama de decompilação algo que, na prática, é só um porte para PC."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "A crítica aos portes rápidos e ao placar",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o aviso, citado pelo VGC, portar um jogo é relativamente fácil perto da decompilação, principalmente com as ferramentas criadas por pessoas talentosas. Enquanto membros da comunidade se dedicam a decompilar um jogo, oportunistas correm para lançar um porte meia-boca. O criador também diz que uma das razões de decompilar jogos é aprender e pesquisar como eles foram feitos, algo que se perde quando o foco passa a ser só o porte.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O site também tinha barras de progresso que mostravam o quanto cada projeto já avançou. A ideia original era motivar os desenvolvedores, mas, de acordo com o criador, virou uma tabela de pontuação para quem corre para publicar portes feitos com IA. Ele diz acreditar que um índice público e um ranking passaram a causar mais mal do que bem.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Um dilema maior para a comunidade",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Kotaku vê o caso como mais um exemplo do choque entre quem curte esses hobbies pelo convívio e quem busca a experiência mais imediata possível. O Kotaku também menciona uma reportagem do 404 Media, segundo a qual um conjunto de ferramentas de IA de abril foi feito para copiar outros programas, dentro de estruturas legais duvidosas.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Por enquanto, a comunidade de decompilação continua dividida sobre o uso de IA nos projetos: para uns, ela torna tudo mais rápido, e para outros, tira o sentido do trabalho coletivo. Cada projeto funciona de um jeito, e alguns não querem usar IA por motivos legais ou éticos, enquanto outros aceitam, mas não querem contribuições de quem não se esforçou, segundo o aviso.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A Pixelzada vai acompanhar se outros sites e projetos de decompilação anunciarem mudanças parecidas. As informações acima vêm do aviso do Decomp.dev, segundo o Kotaku e o Video Games Chronicle.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "Decomp.dev",
+    "alt": "Imagem ilustrando a decompilação de jogos",
+    "url": "https://kotaku.com/app/uploads/2026/10/neuroman2-1063x675.jpg",
+    "credit": "Imagem: Kotaku"
+  },
+  "sources": [
+    {
+      "name": "Kotaku",
+      "owner": "keleops",
+      "url": "https://kotaku.com/video-game-decomp-hub-closes-due-to-ai-the-community-aspect-of-decompilation-has-been-broken-2000747302",
+      "title": "Video Game Decomp Hub Closes Due To AI: ‘The Community Aspect Of Decompilation Has Been Broken’"
+    },
+    {
+      "name": "Video Games Chronicle",
+      "owner": "vgc",
+      "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+      "title": "One of the biggest game decompilation sites is closing because AI has ‘broken the community aspect’"
+    }
+  ],
+  "status": "draft"
+}
