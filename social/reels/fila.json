@@ -759,10 +759,15 @@
     "slug": "animacoes-gta6-parecem-reais",
     "data": "2026-10-19",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Polaroid",
     "legenda": "As animações do GTA 6 são tão bem feitas que até parecem reais 🤯\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #lucia #jason #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-19T17:59:22-03:00",
+      "media_id": "18169189285411279",
+      "permalink": "https://www.instagram.com/reel/DesLGjrDSsi/"
+    }
   },
   {
     "slug": "abertura-san-andreas-infancia",
