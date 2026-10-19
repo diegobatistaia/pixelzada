@@ -105,7 +105,10 @@
     "query": "Final Fantasy VII Revelation",
     "alt": "Arte de Final Fantasy VII Revelation",
     "url": "https://cdn.mos.cms.futurecdn.net/YdcgqahJjX7Yjkswah7wy-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/final-fantasy-7-revelation-hard-mode-des-442d54ca.jpg",
+    "source_url": "",
+    "foco": "40% 21%"
   },
   "sources": [
     {
@@ -121,5 +124,7 @@
       "title": "Final Fantasy 7 Revelation Lets You Play On The Hardest Difficulty From The Start Because Of The ‘Wide Variety Of End-Game Content’"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T16:41:14+00:00",
+  "updated_at": "2026-10-19T16:41:14+00:00"
 }

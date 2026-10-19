@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:41:14 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Final Fantasy VII Revelation terá Hard Mode liberado desde o início, diz Hamaguchi</title>
+      <link>https://pixelzada.com.br/pt/final-fantasy-7-revelation-hard-mode-desde-o-comeco-hamaguchi/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/final-fantasy-7-revelation-hard-mode-desde-o-comeco-hamaguchi/</guid>
+      <description>Hamaguchi confirma que Final Fantasy VII Revelation terá Hard Mode desde o início, opção Enemy Strength e outra regra para o uso de itens nas batalhas.</description>
+      <category>Lançamentos</category>
+      <pubDate>Mon, 19 Oct 2026 16:41:14 +0000</pubDate>
+    </item>
     <item>
       <title>Saros ganha atualização Zenith grátis com New Game+, Overlord Rush e opções de acessibilidade</title>
       <link>https://pixelzada.com.br/pt/saros-atualizacao-zenith-new-game-plus-overlord-rush-acessibilidade/</link>
@@ -238,14 +246,6 @@
       <description>O CMO da Activision disse que GTA 6 vai ajudar Modern Warfare 4 e citou Zelda ao falar dos maiores jogos do ano. Veja a fala dele e os números da Circana.</description>
       <category>Indústria</category>
       <pubDate>Thu, 15 Oct 2026 20:40:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Walk não sai no Xbox por causa do boicote BDS, diz a House House</title>
-      <link>https://pixelzada.com.br/pt/big-walk-fora-do-xbox-boicote-bds-house-house/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/big-walk-fora-do-xbox-boicote-bds-house-house/</guid>
-      <description>A House House, de Untitled Goose Game, disse que Big Walk não chegará ao Xbox enquanto a Microsoft for alvo do boicote BDS. Veja o que o estúdio disse.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 15 Oct 2026 18:40:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
