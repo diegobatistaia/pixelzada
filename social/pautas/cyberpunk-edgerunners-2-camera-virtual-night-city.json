@@ -1,69 +1,77 @@
 {
- "tipo": "noticia",
- "formato": "manchete",
- "assunto": "Cyberpunk",
- "gta6": false,
- "materia": "cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica",
- "imagem": {
-  "url": "https://cdn.mos.cms.futurecdn.net/Wqr2kKqswLnyEUsBg8mifb-1920-80.jpg",
-  "credito": "GamesRadar",
-  "pos": "50% 40%"
- },
- "fonte": "Fontes: GamesRadar e Kotaku",
- "capa": {
-  "titulo": "Edgerunners 2 usou câmera virtual em Night City",
-  "destaque": "câmera virtual",
-  "apoio": "A estreia é dia 20. Arrasta."
- },
- "slides": [
-  {
-   "rotulo": "O bastidor",
-   "titulo": "Diretor explorou o jogo",
-   "destaque": "explorou",
-   "texto": [
-    "O diretor Kai Ikarashi percorreu Night City em **Cyberpunk 2077** com uma câmera virtual, segundo o GamesRadar."
-   ]
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Cyberpunk",
+  "gta6": false,
+  "materia": "cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica",
+  "imagem": {
+    "url": "https://cdn.mos.cms.futurecdn.net/Wqr2kKqswLnyEUsBg8mifb-1920-80.jpg",
+    "credito": "GamesRadar",
+    "pos": "50% 40%"
   },
-  {
-   "rotulo": "O motivo",
-   "titulo": "Achar os cenários certos",
-   "destaque": "cenários",
-   "texto": [
-    "O objetivo era achar **lugares que combinassem** com a história da segunda temporada."
-   ]
+  "fonte": "Fontes: GamesRadar e Kotaku",
+  "capa": {
+    "titulo": "Edgerunners 2 usou câmera virtual em Night City",
+    "destaque": "câmera virtual",
+    "apoio": "A estreia é dia 20. Arrasta."
   },
-  {
-   "rotulo": "A estreia",
-   "titulo": "Chega à Netflix dia 20",
-   "destaque": "dia 20",
-   "texto": [
-    "A segunda temporada estreia em **20 de outubro**. A primeira crítica do Kotaku foi fria."
-   ]
-  }
- ],
- "final": "Você vai assistir à segunda temporada?",
- "legenda": {
-  "gancho": "Edgerunners 2 usou câmera virtual dentro de Cyberpunk 2077 para escolher cenários de Night City.",
-  "corpo": [
-   "Segundo o GamesRadar, o diretor Kai Ikarashi percorreu a cidade do jogo atrás de lugares que combinassem com a história.",
-   "A temporada estreia na Netflix em 20 de outubro. A primeira crítica, do Kotaku, foi fria."
+  "slides": [
+    {
+      "rotulo": "O bastidor",
+      "titulo": "Diretor explorou o jogo",
+      "destaque": "explorou",
+      "texto": [
+        "O diretor Kai Ikarashi percorreu Night City em **Cyberpunk 2077** com uma câmera virtual, segundo o GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "O motivo",
+      "titulo": "Achar os cenários certos",
+      "destaque": "cenários",
+      "texto": [
+        "O objetivo era achar **lugares que combinassem** com a história da segunda temporada."
+      ]
+    },
+    {
+      "rotulo": "A estreia",
+      "titulo": "Chega à Netflix dia 20",
+      "destaque": "dia 20",
+      "texto": [
+        "A segunda temporada estreia em **20 de outubro**. A primeira crítica do Kotaku foi fria."
+      ]
+    }
   ],
-  "chamada": "Você vai assistir à segunda temporada?",
-  "hashtags": [
-   "#pixelzada",
-   "#cyberpunk",
-   "#edgerunners",
-   "#netflix"
-  ]
- },
- "slug": "cyberpunk-edgerunners-2-camera-virtual-night-city",
- "alt": [
-  "Slide 1: Edgerunners 2 usou câmera virtual em Night City",
-  "Slide 2: Diretor explorou o jogo",
-  "Slide 3: Achar os cenários certos",
-  "Slide 4: Chega à Netflix dia 20",
-  "Slide 5: Você vai assistir à segunda temporada?"
- ],
- "status": "pronto",
- "criado": "2026-10-19T09:50:00-03:00"
+  "final": "Você vai assistir à segunda temporada?",
+  "legenda": {
+    "gancho": "Edgerunners 2 usou câmera virtual dentro de Cyberpunk 2077 para escolher cenários de Night City.",
+    "corpo": [
+      "Segundo o GamesRadar, o diretor Kai Ikarashi percorreu a cidade do jogo atrás de lugares que combinassem com a história.",
+      "A temporada estreia na Netflix em 20 de outubro. A primeira crítica, do Kotaku, foi fria."
+    ],
+    "chamada": "Você vai assistir à segunda temporada?",
+    "hashtags": [
+      "#pixelzada",
+      "#cyberpunk",
+      "#edgerunners",
+      "#netflix"
+    ]
+  },
+  "slug": "cyberpunk-edgerunners-2-camera-virtual-night-city",
+  "alt": [
+    "Slide 1: Edgerunners 2 usou câmera virtual em Night City",
+    "Slide 2: Diretor explorou o jogo",
+    "Slide 3: Achar os cenários certos",
+    "Slide 4: Chega à Netflix dia 20",
+    "Slide 5: Você vai assistir à segunda temporada?"
+  ],
+  "status": "publicado",
+  "criado": "2026-10-19T09:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-19",
+    "horario": "13:00",
+    "em": "2026-10-19T13:00:31-03:00",
+    "estilo": "mapa",
+    "media_id": "18151619467555884",
+    "permalink": "https://www.instagram.com/p/Dero2rrFgy-/"
+  }
 }
