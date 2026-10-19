@@ -717,10 +717,15 @@
     "slug": "miami-clima-vice-city",
     "data": "2026-10-19",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Enquanto isso, em Miami: Vice City por todo lado 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #vicecity #miami #gtavi #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-19T11:59:25-03:00",
+      "media_id": "18235005652323468",
+      "permalink": "https://www.instagram.com/reel/Derh33hgYNg/"
+    }
   },
   {
     "slug": "gta6-quinta-sexta-feriado",
