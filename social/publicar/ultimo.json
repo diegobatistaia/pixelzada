@@ -1,14 +1,27 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "animacoes-gta6-parecem-reais",
-    "pasta": "reel-animacoes-gta6-parecem-reais",
-    "horario": "18:00",
-    "data": "2026-10-19"
+    "acao": "carrossel",
+    "slug": "gta-6-marcas-falsas-leonida-paradias",
+    "horario": "19:00",
+    "data": "2026-10-19",
+    "estilo": "celular",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-19T17:59:22-03:00",
+  "em": "2026-10-19T19:00:16-03:00",
   "ok": true,
-  "media_id": "18169189285411279",
-  "permalink": "https://www.instagram.com/reel/DesLGjrDSsi/",
+  "media_id": "18124195144837631",
+  "permalink": "https://www.instagram.com/p/DesSCxhm5D0/",
+  "story": {
+    "em": "2026-10-19T19:00:58-03:00",
+    "media_id": "18116175374113588"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
