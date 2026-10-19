@@ -109,7 +109,9 @@
     "query": "Steam Next Fest",
     "alt": "Arte do Steam Next Fest",
     "url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/steam-next-fest-outubro-2026-mais-de-8-m-5df8d0fb.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -131,5 +133,7 @@
       "title": "Steam Next Fest: Demos From The 28 Games Later Showcase"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T18:40:15+00:00",
+  "updated_at": "2026-10-19T18:40:15+00:00"
 }

@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:40:15 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Steam Next Fest chega com mais de 8 mil demos e medo de clones feitos com IA</title>
+      <link>https://pixelzada.com.br/pt/steam-next-fest-outubro-2026-mais-de-8-mil-demos-clones-ia/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/steam-next-fest-outubro-2026-mais-de-8-mil-demos-clones-ia/</guid>
+      <description>O Steam Next Fest de outubro tem mais de 8 mil demos, o dobro do ano passado, e estúdios temem clones feitos com IA. Veja os casos citados pela imprensa.</description>
+      <category>Indústria</category>
+      <pubDate>Mon, 19 Oct 2026 18:40:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paródias e marcas de GTA 6: o que aparece nos trailers e no material oficial</title>
+      <link>https://pixelzada.com.br/pt/gta-6-paradias-e-marcas-de-leonida-o-que-aparece-nos-trailers/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-paradias-e-marcas-de-leonida-o-que-aparece-nos-trailers/</guid>
+      <description>Nine1Nine, Pißwasser, Angstipan, Snapmatic e WAiNK: veja as paródias e marcas de GTA 6 que já apareceram nos trailers e no material oficial da Rockstar.</description>
+      <category>GTA 6</category>
+      <pubDate>Mon, 19 Oct 2026 18:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>Final Fantasy VII Revelation terá Hard Mode liberado desde o início, diz Hamaguchi</title>
       <link>https://pixelzada.com.br/pt/final-fantasy-7-revelation-hard-mode-desde-o-comeco-hamaguchi/</link>
@@ -230,22 +246,6 @@
       <description>Fortune's Weave ganhou um passe de expansão em três partes: armas hoje, roupas e aliados no fim do ano e novas histórias em 2027. Veja o que cada onda traz.</description>
       <category>Lançamentos</category>
       <pubDate>Fri, 16 Oct 2026 00:39:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sega tira Total War: Shogun 2 Complete Edition de venda após reclamações sobre IA</title>
-      <link>https://pixelzada.com.br/pt/sega-tira-total-war-shogun-2-complete-edition-de-venda-ia/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/sega-tira-total-war-shogun-2-complete-edition-de-venda-ia/</guid>
-      <description>A Sega vai retirar Total War: Shogun 2 Complete Edition da venda após críticas a bugs e a imagens ampliadas por IA. A versão original será recolocada à venda.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 15 Oct 2026 22:39:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Activision diz que GTA 6 vai ajudar Modern Warfare 4 e provoca fãs de Zelda</title>
-      <link>https://pixelzada.com.br/pt/activision-gta-6-vai-ajudar-modern-warfare-4-zelda/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/activision-gta-6-vai-ajudar-modern-warfare-4-zelda/</guid>
-      <description>O CMO da Activision disse que GTA 6 vai ajudar Modern Warfare 4 e citou Zelda ao falar dos maiores jogos do ano. Veja a fala dele e os números da Circana.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 15 Oct 2026 20:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

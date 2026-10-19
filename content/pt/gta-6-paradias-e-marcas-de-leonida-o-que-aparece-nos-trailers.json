@@ -133,7 +133,9 @@
     "query": "GTA VI rádios",
     "alt": "Arte oficial do anúncio das estações de rádio de GTA VI",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3982oa93a23k4/365fb2f8af9e4263284a4dc2c6671e36a2480ba4.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-paradias-e-marcas-de-leonida-o-que-e0e05518.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -239,5 +241,7 @@
       "title": "Rockstar Reveals GTA 6 Radio Stations and Podcasts with Previews"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T18:40:14+00:00",
+  "updated_at": "2026-10-19T18:40:14+00:00"
 }
