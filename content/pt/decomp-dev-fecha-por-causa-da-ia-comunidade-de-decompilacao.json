@@ -99,7 +99,9 @@
     "query": "Decomp.dev",
     "alt": "Imagem ilustrando a decompilação de jogos",
     "url": "https://kotaku.com/app/uploads/2026/10/neuroman2-1063x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/decomp-dev-fecha-por-causa-da-ia-comunid-9206dfff.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -115,5 +117,7 @@
       "title": "One of the biggest game decompilation sites is closing because AI has ‘broken the community aspect’"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T20:42:20+00:00",
+  "updated_at": "2026-10-19T20:42:20+00:00"
 }

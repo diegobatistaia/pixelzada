@@ -698,5 +698,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-10-19T20:42:20+00:00",
+    "id": "decomp-dev-fecha-por-causa-da-ia-comunidade-de-decompilacao",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
