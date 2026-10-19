@@ -731,10 +731,15 @@
     "slug": "gta6-quinta-sexta-feriado",
     "data": "2026-10-19",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "19 de novembro: GTA 6 na quinta e feriado na sexta 🗓️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #19denovembro #feriado #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-19T13:59:19-03:00",
+      "media_id": "18111791353891462",
+      "permalink": "https://www.instagram.com/reel/DervjlBDNu4/"
+    }
   },
   {
     "slug": "kratos-play5-visita",
