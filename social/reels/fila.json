@@ -773,10 +773,15 @@
     "slug": "abertura-san-andreas-infancia",
     "data": "2026-10-19",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Quadrinho",
     "legenda": "A abertura do GTA San Andreas fez parte da infância de muita gente 🥹\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta #ps2 #nostalgia #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-19T19:58:55-03:00",
+      "media_id": "17964590943219603",
+      "permalink": "https://www.instagram.com/reel/DesYtrGkwT8/"
+    }
   },
   {
     "slug": "vice-city-2023-2026",
