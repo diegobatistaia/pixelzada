@@ -1,0 +1,78 @@
+{
+ "tipo": "noticia",
+ "formato": "lista",
+ "assunto": "Final Fantasy",
+ "gta6": false,
+ "materia": "final-fantasy-7-revelation-hard-mode-desde-o-comeco-hamaguchi",
+ "imagem": {
+  "url": "https://cdn.mos.cms.futurecdn.net/YdcgqahJjX7Yjkswah7wy-1920-80.jpg",
+  "credito": "GamesRadar",
+  "pos": "50% 40%"
+ },
+ "fonte": "Fontes: GamesRadar e Kotaku",
+ "capa": {
+  "titulo": "FF7 Revelation terá Hard Mode desde o início",
+  "destaque": "desde o início",
+  "apoio": "O que muda na dificuldade. Arrasta."
+ },
+ "slides": [
+  {
+   "rotulo": "1",
+   "titulo": "Hard Mode liberado de cara",
+   "destaque": "de cara",
+   "texto": [
+    "Hamaguchi confirmou que o modo difícil pode ser **escolhido desde o começo**, ao contrário de Remake e Rebirth."
+   ]
+  },
+  {
+   "rotulo": "2",
+   "titulo": "Itens não serão proibidos",
+   "destaque": "não serão",
+   "texto": [
+    "Segundo o Kotaku, a regra de **banir os itens** não será a mesma de antes."
+   ]
+  },
+  {
+   "rotulo": "3",
+   "titulo": "Força dos inimigos",
+   "destaque": "inimigos",
+   "texto": [
+    "Uma opção permite escolher entre o modo **Dynamic** e inimigos estáticos, segundo o GamesRadar."
+   ]
+  },
+  {
+   "rotulo": "4",
+   "titulo": "Conteúdo depois do final",
+   "destaque": "depois",
+   "texto": [
+    "O motivo é que Revelation terá **conteúdo variado** mesmo depois do final da história."
+   ]
+  }
+ ],
+ "final": "Você joga no difícil logo de início?",
+ "legenda": {
+  "gancho": "Final Fantasy VII Revelation terá Hard Mode liberado desde o começo da campanha.",
+  "corpo": [
+   "Em entrevista ao Hardcore Gamer, Naoki Hamaguchi disse que o modo difícil muda em relação a Remake e Rebirth, e que a equipe reimaginou a dificuldade para o novo desenho do jogo.",
+   "O motivo, segundo ele, é o conteúdo variado que o jogo terá depois do final da história. Os itens também não serão simplesmente proibidos."
+  ],
+  "chamada": "Você joga no difícil logo de início?",
+  "hashtags": [
+   "#pixelzada",
+   "#finalfantasy7",
+   "#ff7revelation",
+   "#squareenix"
+  ]
+ },
+ "slug": "ff7-revelation-hard-mode-desde-o-inicio",
+ "alt": [
+  "Slide 1: FF7 Revelation terá Hard Mode desde o início",
+  "Slide 2: Hard Mode liberado de cara",
+  "Slide 3: Itens não serão proibidos",
+  "Slide 4: Força dos inimigos",
+  "Slide 5: Conteúdo depois do final",
+  "Slide 6: Você joga no difícil logo de início?"
+ ],
+ "status": "pronto",
+ "criado": "2026-10-19T13:50:00-03:00"
+}
