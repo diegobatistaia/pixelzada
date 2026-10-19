@@ -134,7 +134,9 @@
     "query": "Grassrivers GTA 6",
     "alt": "Imagem de capa do destino Grassrivers no site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0q6dkw_b2u02f.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/grassrivers-gta-6-o-pantano-selvagem-de--2013b7eb.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -240,5 +242,7 @@
       "title": "GTA 6's Leonida Map: Every New Location Rockstar Showed In The Extended Look"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T12:42:35+00:00",
+  "updated_at": "2026-10-19T12:42:35+00:00"
 }

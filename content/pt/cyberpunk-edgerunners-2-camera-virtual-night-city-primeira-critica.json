@@ -114,7 +114,9 @@
     "query": "Cyberpunk Edgerunners",
     "alt": "Cena do anime Cyberpunk: Edgerunners",
     "url": "https://cdn.mos.cms.futurecdn.net/Wqr2kKqswLnyEUsBg8mifb-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/cyberpunk-edgerunners-2-camera-virtual-n-f5dfd5dc.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -130,5 +132,7 @@
       "title": "Cyberpunk: Edgerunners II: The Kotaku Review"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T12:42:35+00:00",
+  "updated_at": "2026-10-19T12:42:35+00:00"
 }

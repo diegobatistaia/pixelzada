@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 10:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:42:36 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cyberpunk: Edgerunners 2 usou câmera virtual em Night City, e a primeira crítica é fria</title>
+      <link>https://pixelzada.com.br/pt/cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica/</guid>
+      <description>Edgerunners 2 estreia na Netflix em 20 de outubro. O diretor usou câmera virtual em Cyberpunk 2077 para achar cenários, e a primeira crítica foi fria.</description>
+      <category>Indústria</category>
+      <pubDate>Mon, 19 Oct 2026 12:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grassrivers em GTA 6: o pântano de Leonida inspirado nos Everglades</title>
+      <link>https://pixelzada.com.br/pt/grassrivers-gta-6-o-pantano-selvagem-de-leonida-jacares/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/grassrivers-gta-6-o-pantano-selvagem-de-leonida-jacares/</guid>
+      <description>Grassrivers é o pântano de GTA 6, inspirado nos Everglades da Flórida. Veja o que a Rockstar diz sobre jacarés, manguezais e os bichos da região de Leonida.</description>
+      <category>GTA 6</category>
+      <pubDate>Mon, 19 Oct 2026 12:42:35 +0000</pubDate>
+    </item>
     <item>
       <title>Dan Houser diz que Red Dead Redemption e Bully quase não aconteceram</title>
       <link>https://pixelzada.com.br/pt/dan-houser-red-dead-redemption-e-bully-quase-nao-aconteceram/</link>
@@ -230,22 +246,6 @@
       <description>GTA 6 sai em 19 de novembro só para PS5 e Xbox Series X|S. Veja o que se sabe do PS5 Pro, dos 30 fps, do Xbox Cloud Gaming e da versão de PC, sem data.</description>
       <category>Guias</category>
       <pubDate>Thu, 15 Oct 2026 18:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>007 First Light no Switch 2 ganha data: 18 de março de 2027, com edição Deluxe</title>
-      <link>https://pixelzada.com.br/pt/007-first-light-switch-2-data-18-de-marco-de-2027-deluxe/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/007-first-light-switch-2-data-18-de-marco-de-2027-deluxe/</guid>
-      <description>A IO Interactive marcou 007 First Light para Switch 2 em 18 de março de 2027. Veja pré-venda, edição Deluxe, os sucessivos adiamentos e as falas da produtora.</description>
-      <category>Lançamentos</category>
-      <pubDate>Thu, 15 Oct 2026 16:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trailer de lançamento de GTA 6: tudo o que aparece, a música do Justice e as pistas</title>
-      <link>https://pixelzada.com.br/pt/gta-6-trailer-de-lancamento-o-que-mostra-musica-justice-pistas/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-trailer-de-lancamento-o-que-mostra-musica-justice-pistas/</guid>
-      <description>A Rockstar lançou o trailer de lançamento de GTA 6, com 90 segundos e música do Justice. Veja o que aparece sobre Jason e Lucia e o que ainda é palpite.</description>
-      <category>GTA 6</category>
-      <pubDate>Thu, 15 Oct 2026 14:40:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
