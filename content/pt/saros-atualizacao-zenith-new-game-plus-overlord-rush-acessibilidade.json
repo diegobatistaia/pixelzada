@@ -118,7 +118,9 @@
     "query": "Saros Zenith",
     "alt": "Arte da atualização Zenith de Saros",
     "url": "https://blog.playstation.com/tachyon/2026/10/9aa3044b4b1785651b3dfe461fc0dcc1ce503a67-scaled.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/saros-atualizacao-zenith-new-game-plus-o-a9a2cabf.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -140,5 +142,7 @@
       "title": "Saros 2.0 Zenith Update Adds New Game+, Overlord Rush, and More Trophies"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T14:42:14+00:00",
+  "updated_at": "2026-10-19T14:42:14+00:00"
 }

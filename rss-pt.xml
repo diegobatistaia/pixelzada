@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 14:42:14 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Saros ganha atualização Zenith grátis com New Game+, Overlord Rush e opções de acessibilidade</title>
+      <link>https://pixelzada.com.br/pt/saros-atualizacao-zenith-new-game-plus-overlord-rush-acessibilidade/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/saros-atualizacao-zenith-new-game-plus-overlord-rush-acessibilidade/</guid>
+      <description>A atualização Zenith de Saros já saiu e é grátis: New Game+, Overlord Rush, 20 modificadores novos, seis troféus, Auto-fire e opção de desacelerar o jogo.</description>
+      <category>Lançamentos</category>
+      <pubDate>Mon, 19 Oct 2026 14:42:14 +0000</pubDate>
+    </item>
     <item>
       <title>Cyberpunk: Edgerunners 2 usou câmera virtual em Night City, e a primeira crítica é fria</title>
       <link>https://pixelzada.com.br/pt/cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/big-walk-fora-do-xbox-boicote-bds-house-house/</guid>
       <description>A House House, de Untitled Goose Game, disse que Big Walk não chegará ao Xbox enquanto a Microsoft for alvo do boicote BDS. Veja o que o estúdio disse.</description>
       <category>Indústria</category>
-      <pubDate>Thu, 15 Oct 2026 18:40:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Onde jogar GTA 6: PS5, Xbox Series, PS5 Pro e por que o PC ficou de fora</title>
-      <link>https://pixelzada.com.br/pt/onde-jogar-gta-6-ps5-xbox-series-ps5-pro-e-situacao-do-pc/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/onde-jogar-gta-6-ps5-xbox-series-ps5-pro-e-situacao-do-pc/</guid>
-      <description>GTA 6 sai em 19 de novembro só para PS5 e Xbox Series X|S. Veja o que se sabe do PS5 Pro, dos 30 fps, do Xbox Cloud Gaming e da versão de PC, sem data.</description>
-      <category>Guias</category>
       <pubDate>Thu, 15 Oct 2026 18:40:38 +0000</pubDate>
     </item>
   </channel>
