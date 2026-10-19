@@ -1,0 +1,78 @@
+{
+ "tipo": "noticia",
+ "formato": "lista",
+ "assunto": "GTA 6",
+ "gta6": true,
+ "materia": "gta-6-paradias-e-marcas-de-leonida-o-que-aparece-nos-trailers",
+ "imagem": {
+  "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3982oa93a23k4/365fb2f8af9e4263284a4dc2c6671e36a2480ba4.jpg",
+  "credito": "Rockstar Games",
+  "pos": "50% 50%"
+ },
+ "fonte": "Fontes: Rockstar e Video Games Chronicle",
+ "capa": {
+  "titulo": "As marcas falsas de GTA 6",
+  "destaque": "marcas falsas",
+  "apoio": "Paródias de Leonida. Arrasta."
+ },
+ "slides": [
+  {
+   "rotulo": "1",
+   "titulo": "Nine1Nine, a boate",
+   "destaque": "boate",
+   "texto": [
+    "Aparece num avião do primeiro trailer. É uma paródia da casa noturna **E11even**, de Miami."
+   ]
+  },
+  {
+   "rotulo": "2",
+   "titulo": "Pißwasser e Logger",
+   "destaque": "Logger",
+   "texto": [
+    "As cervejas fictícias voltam: **Pißwasser**, **Logger Beer** e a cerveza **Pindayho**."
+   ]
+  },
+  {
+   "rotulo": "3",
+   "titulo": "Angstipan na TV",
+   "destaque": "TV",
+   "texto": [
+    "O remédio fictício aparece em **comerciais de TV**, do primeiro trailer ao Extended Look."
+   ]
+  },
+  {
+   "rotulo": "4",
+   "titulo": "Snapmatic e WAiNK",
+   "destaque": "WAiNK",
+   "texto": [
+    "O **Snapmatic** é a rede social. O **WAiNK** mostra o valor de revenda de um carro."
+   ]
+  }
+ ],
+ "final": "Qual marca falsa é a sua favorita?",
+ "legenda": {
+  "gancho": "GTA 6 mantém a sátira de marcas, e Leonida está cheia de empresas falsas.",
+  "corpo": [
+   "Do avião da boate Nine1Nine às cervejas Pißwasser e Logger, passando pelo remédio Angstipan, pelo Snapmatic e pelo WAiNK, as fontes já listaram muitas paródias.",
+   "A coleção Vice City traz até marcas reais, como Oakley e New Era. GTA 6 chega em 19 de novembro."
+  ],
+  "chamada": "Qual marca falsa é a sua favorita?",
+  "hashtags": [
+   "#pixelzada",
+   "#gta6",
+   "#leonida",
+   "#rockstar"
+  ]
+ },
+ "slug": "gta-6-marcas-falsas-leonida-paradias",
+ "alt": [
+  "Slide 1: As marcas falsas de GTA 6",
+  "Slide 2: Nine1Nine, a boate",
+  "Slide 3: Pißwasser e Logger",
+  "Slide 4: Angstipan na TV",
+  "Slide 5: Snapmatic e WAiNK",
+  "Slide 6: Qual marca falsa é a sua favorita?"
+ ],
+ "status": "pronto",
+ "criado": "2026-10-19T15:50:00-03:00"
+}

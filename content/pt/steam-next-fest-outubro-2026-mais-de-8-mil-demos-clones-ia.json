@@ -1,0 +1,135 @@
+{
+  "lang": "pt",
+  "slug": "steam-next-fest-outubro-2026-mais-de-8-mil-demos-clones-ia",
+  "story_id": "7d7b42698bc49f00",
+  "title": "Steam Next Fest chega com mais de 8 mil demos e medo de clones feitos com IA",
+  "dek": "O evento vai até 26 de outubro. Estúdios independentes já cancelam demo e acusam cópias de código em jogos recém-lançados.",
+  "meta_description": "O Steam Next Fest de outubro tem mais de 8 mil demos, o dobro do ano passado, e estúdios temem clones feitos com IA. Veja os casos citados pela imprensa.",
+  "keyword": "Steam Next Fest",
+  "category": "industria",
+  "tags": [
+    "steam next fest",
+    "steam",
+    "ia generativa",
+    "jogos indie",
+    "clones"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "O Steam Next Fest de outubro de 2026 começou nesta segunda-feira (19) com um número que chama atenção: mais de 8 mil demos na página de imprensa do evento. Segundo o Eurogamer, o total é mais que o dobro do registrado no ano passado. Junto com a empolgação, cresce a preocupação com jogos feitos às pressas com inteligência artificial, cópias de títulos independentes e a dificuldade de ser notado no meio de tanta coisa.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Quantas demos tem o evento",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O PC Gamer contou 8.011 jogos na página de imprensa antes da abertura e diz que o número é quase o dobro do Next Fest de junho de 2026. O Eurogamer, que publicou depois, fala em 8.202. A diferença vem de quando cada site olhou a lista, que continua mudando, então a conta exata varia. O PC Gamer lembra ainda que, em junho de 2022, o evento tinha pouco mais de mil demos.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com o Insider Gaming, o evento vai de 19 a 26 de outubro. A ideia é a de sempre: permitir que o jogador descubra e experimente jogos novos de desenvolvedores do mundo todo, e o site separou, por exemplo, 13 jogos do seu showcase de terror 28 Games Later que têm demo disponível agora.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "A preocupação com a IA generativa",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Eurogamer lembra que, no Next Fest de junho, cerca de 17% das demos disseram ter usado IA generativa, e que o número real pode ser maior, porque nem todo mundo declara. Para o site, o uso dessas ferramentas não diminuiu nos últimos 12 meses, e o problema mudou: agora ela também é usada para clonar jogos.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O PC Gamer é mais duro no tom e fala de uma explosão de clones e jogos montados às pressas neste mês. A matéria cita o caso de Escape the Walls, um jogo incremental de socos. Segundo o site, em 19 de outubro já existiam pelo menos sete clones dele no Roblox, e um estúdio concorrente chegou a divulgar a própria cópia para o criador do original.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Drunken Goddess Reflux cancela a demo",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O caso mais citado pelos dois veículos é o de Drunken Goddess Reflux, um jogo descrito como uma sobrevivência de roleta-russa com bebida. O estúdio Alliance Arts Inc. anunciou que não vai mais publicar a demo no Steam, como planejado.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o estúdio, o receio é que a demo seja usada para imitar ou replicar com IA ou outras ferramentas a apresentação e a jogabilidade, e que essas cópias saiam antes do lançamento do original. Em vez da demo pública, o PC Gamer conta que o estúdio fará sessões de teste em ambiente fechado, para quem ler e concordar com uma série de requisitos de participação.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Needle in a Haystack e a acusação de cópia",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Outro jogo independente popular, Needle in a Haystack, também enfrenta uma enxurrada de cópias feitas rapidamente, segundo o Eurogamer. O PC Gamer detalha que a NoGlyph, criadora do jogo, acusou o estúdio Little Field Studios de copiar o código dela em A Game About Needle In A Haystack, lançado em 16 de outubro no Steam.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "A NoGlyph afirma que encontrou 13 classes suas com os mesmos nomes dentro dos arquivos do outro jogo;",
+        "segundo o estúdio, mais da metade das funções dessa parte são iguais;",
+        "algumas mensagens de erro continuam idênticas, inclusive uma que aponta para um shader que não existe no outro jogo."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A NoGlyph diz que já enviou um aviso de direitos autorais à Valve. Essas são acusações do estúdio, e a Pixelzada não encontrou resposta do outro lado nas fontes consultadas.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O problema de ser visto",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Eurogamer cita outra consequência: a descoberta. Um estúdio que faz uma demo para atrair gente para o projeto precisa disputar atenção com uma montanha de outras demos. Se o Next Fest vai continuar útil para desenvolvedores e jogadores, nas palavras do site, ainda está por ver.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O texto do Eurogamer ainda comenta que o evento acontece pouco antes de novembro, mês que deve ser dominado por GTA 6, e que essa é uma boa chance de descobrir um jogo novo antes disso. A Pixelzada vai acompanhar se a Valve ou os estúdios se manifestarem sobre as cópias e o uso de IA no evento.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "Steam Next Fest",
+    "alt": "Arte do Steam Next Fest",
+    "url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: Eurogamer"
+  },
+  "sources": [
+    {
+      "name": "PC Gamer",
+      "owner": "future-plc",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
+      "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up"
+    },
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/steam-next-fest-2026-over-double",
+      "title": "Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/steam-next-fest-demos-28-games-later-showcase/",
+      "title": "Steam Next Fest: Demos From The 28 Games Later Showcase"
+    }
+  ],
+  "status": "draft"
+}
