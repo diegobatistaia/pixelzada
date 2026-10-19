@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:42:44 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dan Houser diz que Red Dead Redemption e Bully quase não aconteceram</title>
+      <link>https://pixelzada.com.br/pt/dan-houser-red-dead-redemption-e-bully-quase-nao-aconteceram/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/dan-houser-red-dead-redemption-e-bully-quase-nao-aconteceram/</guid>
+      <description>Dan Houser, cofundador da Rockstar, disse à IGN que Red Dead Redemption e Bully quase não aconteceram e que jogos novos sofrem mais para chegar ao fim.</description>
+      <category>Indústria</category>
+      <pubDate>Mon, 19 Oct 2026 10:42:44 +0000</pubDate>
+    </item>
     <item>
       <title>Lucasfilm Games diz que Star Wars está mais flexível e que vem mais surpresa por aí</title>
       <link>https://pixelzada.com.br/pt/lucasfilm-games-star-wars-estudios-menores-vai-continuar-surpreendendo/</link>
@@ -238,14 +246,6 @@
       <description>A Rockstar lançou o trailer de lançamento de GTA 6, com 90 segundos e música do Justice. Veja o que aparece sobre Jason e Lucia e o que ainda é palpite.</description>
       <category>GTA 6</category>
       <pubDate>Thu, 15 Oct 2026 14:40:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trailer 2 de GTA 6: o que mostrou, o elenco e o recorde de 475 milhões de views</title>
-      <link>https://pixelzada.com.br/pt/trailer-2-gta-6-o-que-mostrou-elenco-e-recorde-de-views/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/trailer-2-gta-6-o-que-mostrou-elenco-e-recorde-de-views/</guid>
-      <description>Relembre o Trailer 2 de GTA 6: Jason e Lucia, o elenco de Leonida, as regiões do mapa, a música das Pointer Sisters e o recorde de visualizações da estreia.</description>
-      <category>GTA 6</category>
-      <pubDate>Thu, 15 Oct 2026 12:41:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

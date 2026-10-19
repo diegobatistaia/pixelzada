@@ -114,7 +114,10 @@
     "query": "Red Dead Redemption",
     "alt": "Arte de divulgação de Red Dead Redemption",
     "url": "https://insider-gaming.com/wp-content/uploads/2025/11/Red-Dead-Redemption-rating.jpg",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/dan-houser-red-dead-redemption-e-bully-q-1c4161c5.jpg",
+    "source_url": "",
+    "foco": "59% 23%"
   },
   "sources": [
     {
@@ -130,5 +133,7 @@
       "title": "Dan Houser Says Red Dead and Bully Nearly Didn’t Happen"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-19T10:42:44+00:00",
+  "updated_at": "2026-10-19T10:42:44+00:00"
 }
