@@ -113,7 +113,10 @@
     "query": "Raul Bautista GTA 6",
     "alt": "Quadro do vídeo de Raul Bautista no site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0ntc_0yu6jyg..jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/raul-bautista-e-brian-heder-gta-6-ladrao-8be7dea6.jpg",
+    "source_url": "",
+    "foco": "33% 42%"
   },
   "sources": [
     {
@@ -201,5 +204,7 @@
       "title": "All The Actors We Recognized In The GTA 6 Extended Look"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T18:42:14+00:00",
+  "updated_at": "2026-10-20T18:42:14+00:00"
 }

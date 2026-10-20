@@ -95,7 +95,10 @@
     "query": "Zelda Ocarina of Time remake",
     "alt": "Arte do remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2",
     "url": "https://assets-prd.ignimgs.com/2026/10/20/zelda-1792507026584.png?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/zelda-ocarina-of-time-remake-27-gb-switc-cc850ad2.jpg",
+    "source_url": "",
+    "foco": "34% 36%"
   },
   "sources": [
     {
@@ -117,5 +120,7 @@
       "title": "Nintendo Pays Homage to Original 1998 Commercial for The Legend of Zelda: Ocarina of Time in New Remake Trailer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T18:42:14+00:00",
+  "updated_at": "2026-10-20T18:42:14+00:00"
 }
