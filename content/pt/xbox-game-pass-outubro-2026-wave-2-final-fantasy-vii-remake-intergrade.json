@@ -99,7 +99,9 @@
     "query": "Xbox Game Pass",
     "alt": "Arte da segunda leva de jogos do Xbox Game Pass em outubro",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon201026_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-f6dc970066614f9c5440.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-game-pass-outubro-2026-wave-2-final-4ada26ed.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -115,5 +117,7 @@
       "title": "XBOX Game Pass October Wave 2 Games Revealed"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T16:43:16+00:00",
+  "updated_at": "2026-10-20T16:43:16+00:00"
 }
