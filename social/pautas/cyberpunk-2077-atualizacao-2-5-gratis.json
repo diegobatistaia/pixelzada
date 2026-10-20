@@ -1,69 +1,77 @@
 {
- "tipo": "noticia",
- "formato": "manchete",
- "assunto": "Cyberpunk",
- "gta6": false,
- "materia": "cyberpunk-2077-atualizacao-2-5-edgerunners-2-22-de-outubro",
- "imagem": {
-  "url": "https://assets-prd.ignimgs.com/2026/10/20/cyberpunk-1792491397814.jpg?width=1280&format=jpg&auto=webp&quality=80",
-  "credito": "CD Projekt RED",
-  "pos": "50% 40%"
- },
- "fonte": "Fontes: IGN e Eurogamer",
- "capa": {
-  "titulo": "Cyberpunk 2077 ganha atualização 2.5 grátis",
-  "destaque": "2.5 grátis",
-  "apoio": "Sai quinta, inspirada em Edgerunners 2. Arrasta."
- },
- "slides": [
-  {
-   "rotulo": "A data",
-   "titulo": "Sai dia 22 de outubro",
-   "destaque": "22 de outubro",
-   "texto": [
-    "A atualização chega a **PC, PS5 e Xbox Series**. O Switch 2 vem logo depois, segundo a CD Projekt RED."
-   ]
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Cyberpunk",
+  "gta6": false,
+  "materia": "cyberpunk-2077-atualizacao-2-5-edgerunners-2-22-de-outubro",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/10/20/cyberpunk-1792491397814.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "CD Projekt RED",
+    "pos": "50% 40%"
   },
-  {
-   "rotulo": "O conteúdo",
-   "titulo": "Itens e recursos novos",
-   "destaque": "recursos",
-   "texto": [
-    "Haverá conteúdo **inspirado em Edgerunners 2**, anime que já estreou na Netflix."
-   ]
+  "fonte": "Fontes: IGN e Eurogamer",
+  "capa": {
+    "titulo": "Cyberpunk 2077 ganha atualização 2.5 grátis",
+    "destaque": "2.5 grátis",
+    "apoio": "Sai quinta, inspirada em Edgerunners 2. Arrasta."
   },
-  {
-   "rotulo": "A dica",
-   "titulo": "Cyberware e duas armas",
-   "destaque": "duas armas",
-   "texto": [
-    "Os teasers falam em **personalização de cyberware** e um novo estilo de jogo com armas duplas."
-   ]
-  }
- ],
- "final": "O que você quer ver na atualização 2.5?",
- "legenda": {
-  "gancho": "Cyberpunk 2077 vai ganhar a atualização 2.5, gratuita, em 22 de outubro.",
-  "corpo": [
-   "Segundo o IGN e o Eurogamer, ela traz itens e recursos novos, com conteúdo inspirado em Edgerunners 2. O Switch 2 recebe a versão logo depois.",
-   "Os detalhes saem em um REDstream no dia 21, às 12h de Brasília."
+  "slides": [
+    {
+      "rotulo": "A data",
+      "titulo": "Sai dia 22 de outubro",
+      "destaque": "22 de outubro",
+      "texto": [
+        "A atualização chega a **PC, PS5 e Xbox Series**. O Switch 2 vem logo depois, segundo a CD Projekt RED."
+      ]
+    },
+    {
+      "rotulo": "O conteúdo",
+      "titulo": "Itens e recursos novos",
+      "destaque": "recursos",
+      "texto": [
+        "Haverá conteúdo **inspirado em Edgerunners 2**, anime que já estreou na Netflix."
+      ]
+    },
+    {
+      "rotulo": "A dica",
+      "titulo": "Cyberware e duas armas",
+      "destaque": "duas armas",
+      "texto": [
+        "Os teasers falam em **personalização de cyberware** e um novo estilo de jogo com armas duplas."
+      ]
+    }
   ],
-  "chamada": "O que você quer ver na atualização 2.5?",
-  "hashtags": [
-   "#pixelzada",
-   "#cyberpunk2077",
-   "#edgerunners",
-   "#cdprojektred"
-  ]
- },
- "slug": "cyberpunk-2077-atualizacao-2-5-gratis",
- "alt": [
-  "Slide 1: Cyberpunk 2077 ganha atualização 2.5 grátis",
-  "Slide 2: Sai dia 22 de outubro",
-  "Slide 3: Itens e recursos novos",
-  "Slide 4: Cyberware e duas armas",
-  "Slide 5: O que você quer ver na atualização 2.5?"
- ],
- "status": "pronto",
- "criado": "2026-10-20T11:50:00-03:00"
+  "final": "O que você quer ver na atualização 2.5?",
+  "legenda": {
+    "gancho": "Cyberpunk 2077 vai ganhar a atualização 2.5, gratuita, em 22 de outubro.",
+    "corpo": [
+      "Segundo o IGN e o Eurogamer, ela traz itens e recursos novos, com conteúdo inspirado em Edgerunners 2. O Switch 2 recebe a versão logo depois.",
+      "Os detalhes saem em um REDstream no dia 21, às 12h de Brasília."
+    ],
+    "chamada": "O que você quer ver na atualização 2.5?",
+    "hashtags": [
+      "#pixelzada",
+      "#cyberpunk2077",
+      "#edgerunners",
+      "#cdprojektred"
+    ]
+  },
+  "slug": "cyberpunk-2077-atualizacao-2-5-gratis",
+  "alt": [
+    "Slide 1: Cyberpunk 2077 ganha atualização 2.5 grátis",
+    "Slide 2: Sai dia 22 de outubro",
+    "Slide 3: Itens e recursos novos",
+    "Slide 4: Cyberware e duas armas",
+    "Slide 5: O que você quer ver na atualização 2.5?"
+  ],
+  "status": "publicado",
+  "criado": "2026-10-20T11:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-20",
+    "horario": "13:00",
+    "em": "2026-10-20T13:00:14-03:00",
+    "estilo": "quadrinho",
+    "media_id": "18470092975138069",
+    "permalink": "https://www.instagram.com/p/DeuNoTtlqOC/"
+  }
 }
