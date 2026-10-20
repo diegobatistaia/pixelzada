@@ -815,10 +815,15 @@
     "slug": "passado-militar-jason-gta6",
     "data": "2026-10-20",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Legenda",
     "legenda": "No GTA 6, vamos ver o passado militar do Jason 🪖\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #jason #vicecity #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-20T13:59:43-03:00",
+      "media_id": "18018052688953393",
+      "permalink": "https://www.instagram.com/reel/DeuUZMpksJS/"
+    }
   },
   {
     "slug": "policia-na-cola-tesla",
