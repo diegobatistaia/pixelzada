@@ -829,10 +829,15 @@
     "slug": "policia-na-cola-tesla",
     "data": "2026-10-20",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conversa",
     "legenda": "Quando a polícia tá na sua cola, mas você lembra que tá de Tesla 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta #tesla #memesgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-20T15:59:14-03:00",
+      "media_id": "18118636183974238",
+      "permalink": "https://www.instagram.com/reel/DeuiLOVDsYa/"
+    }
   },
   {
     "slug": "trailer-gta6-19-novembro",
