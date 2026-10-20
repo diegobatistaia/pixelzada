@@ -1,14 +1,21 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "vice-city-2023-2026",
-    "pasta": "reel-vice-city-2023-2026",
-    "horario": "10:00",
-    "data": "2026-10-20"
+    "acao": "carrossel",
+    "slug": "gta-online-e-gta-6-perguntas",
+    "horario": "11:00",
+    "data": "2026-10-20",
+    "estilo": "chefao",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-10-20T09:59:31-03:00",
-  "ok": true,
-  "media_id": "18439500091183914",
-  "permalink": "https://www.instagram.com/reel/Det46KBlyU0/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "em": "2026-10-20T11:00:44-03:00",
+  "ok": false,
+  "erro": "HTTP 400 em 17841420505797110/media_publish: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AZxtqwK_y-H7Y7Eq8ra5wv2\"}}"
 }
