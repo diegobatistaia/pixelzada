@@ -843,10 +843,15 @@
     "slug": "trailer-gta6-19-novembro",
     "data": "2026-10-20",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "19 de novembro tá chegando 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #trailer #19denovembro #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-20T17:59:17-03:00",
+      "media_id": "17970692612962426",
+      "permalink": "https://www.instagram.com/reel/Deuv6ArkZET/"
+    }
   },
   {
     "slug": "evolucao-arthur-morgan",
