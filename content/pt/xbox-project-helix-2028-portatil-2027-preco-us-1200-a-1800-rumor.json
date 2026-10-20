@@ -105,7 +105,9 @@
     "query": "Xbox Project Helix",
     "alt": "Arte ilustrando o próximo console Xbox",
     "url": "https://cdn.mos.cms.futurecdn.net/zKrSP9p6CDCyqzJtemv7D4-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/xbox-project-helix-2028-portatil-2027-pr-42afe612.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -133,5 +135,7 @@
       "title": "Report claims next Xbox is targeting 2028 and could cost between $1,200 and $1,800"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T20:41:57+00:00",
+  "updated_at": "2026-10-20T20:41:57+00:00"
 }

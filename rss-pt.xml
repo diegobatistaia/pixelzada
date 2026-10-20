@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:41:58 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rumor: próximo Xbox pode chegar em 2028 por até US$ 1.800, diz Fortune</title>
+      <link>https://pixelzada.com.br/pt/xbox-project-helix-2028-portatil-2027-preco-us-1200-a-1800-rumor/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-project-helix-2028-portatil-2027-preco-us-1200-a-1800-rumor/</guid>
+      <description>A Fortune diz que o Project Helix, o próximo Xbox, chega até 2028 e pode custar de US$ 1.200 a US$ 1.800. A Microsoft não confirmou. Veja o que é rumor.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Tue, 20 Oct 2026 20:41:57 +0000</pubDate>
+    </item>
     <item>
       <title>Raul Bautista e Brian Heder: quem são o ladrão de bancos e o traficante de GTA 6</title>
       <link>https://pixelzada.com.br/pt/raul-bautista-e-brian-heder-gta-6-ladrao-de-bancos-e-traficante-das-keys/</link>
@@ -238,14 +246,6 @@
       <description>O filme live-action de Cyberpunk 2077 não vai adaptar o jogo, segundo o co-CEO da CD Projekt. Veja o que ele disse e o papel da Paramount no projeto hoje.</description>
       <category>Indústria</category>
       <pubDate>Sat, 17 Oct 2026 10:42:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criador de DayZ lança o Brutal, alternativa grátis ao Unity e ao Unreal</title>
-      <link>https://pixelzada.com.br/pt/dean-hall-brutal-framework-alternativa-unity-unreal/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/dean-hall-brutal-framework-alternativa-unity-unreal/</guid>
-      <description>Dean Hall, criador de DayZ, lançou o Brutal, framework grátis e aberto em C#, e criticou Unity e Unreal. Veja o que ele disse, quem já usa e as ressalvas.</description>
-      <category>Indústria</category>
-      <pubDate>Fri, 16 Oct 2026 22:39:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
