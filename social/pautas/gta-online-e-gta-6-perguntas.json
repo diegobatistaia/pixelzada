@@ -1,78 +1,90 @@
 {
- "tipo": "noticia",
- "formato": "perguntas",
- "assunto": "GTA 6",
- "gta6": true,
- "materia": "gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player",
- "imagem": {
-  "url": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg",
-  "credito": "Rockstar Games",
-  "pos": "50% 50%"
- },
- "fonte": "Fontes: TechRadar e Motley Fool",
- "capa": {
-  "titulo": "E o GTA Online, vai acabar com GTA 6?",
-  "destaque": "GTA Online",
-  "apoio": "O que a Take-Two já disse. Arrasta."
- },
- "slides": [
-  {
-   "rotulo": "Pergunta 1",
-   "titulo": "GTA 6 tem multiplayer?",
-   "destaque": "multiplayer",
-   "texto": [
-    "A Take-Two declarou que **GTA 6 é um título single player**, segundo o TechRadar."
-   ]
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
   },
-  {
-   "rotulo": "Pergunta 2",
-   "titulo": "O GTA Online vai acabar?",
-   "destaque": "vai acabar",
-   "texto": [
-    "A empresa diz que vai **continuar a dar suporte** ao GTA Online após o lançamento de GTA 6 e além."
-   ]
+  "fonte": "Fontes: TechRadar e Motley Fool",
+  "capa": {
+    "titulo": "E o GTA Online, vai acabar com GTA 6?",
+    "destaque": "GTA Online",
+    "apoio": "O que a Take-Two já disse. Arrasta."
   },
-  {
-   "rotulo": "Pergunta 3",
-   "titulo": "Vem um novo GTA Online?",
-   "destaque": "novo GTA Online",
-   "texto": [
-    "Ainda **não há anúncio**. A Rockstar se recusou a comentar o próximo GTA Online."
-   ]
-  },
-  {
-   "rotulo": "Pergunta 4",
-   "titulo": "GTA 6 terá microtransações?",
-   "destaque": "microtransações",
-   "texto": [
-    "Rob Nelson, da Rockstar North, disse que o jogo **não tem monetização**, segundo o Push Square."
-   ]
-  }
- ],
- "final": "Você vai continuar no GTA Online?",
- "legenda": {
-  "gancho": "GTA 6 sai só com modo single player, e o GTA Online vai continuar existindo.",
-  "corpo": [
-   "Segundo o TechRadar e o GamingBolt, a Take-Two disse que GTA 6 é um título single player e que vai continuar a dar suporte ao GTA Online depois do lançamento.",
-   "Ainda não há anúncio de um novo GTA Online. GTA 6 chega em 19 de novembro."
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "GTA 6 tem multiplayer?",
+      "destaque": "multiplayer",
+      "texto": [
+        "A Take-Two declarou que **GTA 6 é um título single player**, segundo o TechRadar."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "O GTA Online vai acabar?",
+      "destaque": "vai acabar",
+      "texto": [
+        "A empresa diz que vai **continuar a dar suporte** ao GTA Online após o lançamento de GTA 6 e além."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Vem um novo GTA Online?",
+      "destaque": "novo GTA Online",
+      "texto": [
+        "Ainda **não há anúncio**. A Rockstar se recusou a comentar o próximo GTA Online."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 4",
+      "titulo": "GTA 6 terá microtransações?",
+      "destaque": "microtransações",
+      "texto": [
+        "Rob Nelson, da Rockstar North, disse que o jogo **não tem monetização**, segundo o Push Square."
+      ]
+    }
   ],
-  "chamada": "Você vai continuar no GTA Online?",
-  "hashtags": [
-   "#pixelzada",
-   "#gta6",
-   "#gtaonline",
-   "#rockstar"
-  ]
- },
- "slug": "gta-online-e-gta-6-perguntas",
- "alt": [
-  "Slide 1: E o GTA Online, vai acabar com GTA 6?",
-  "Slide 2: GTA 6 tem multiplayer?",
-  "Slide 3: O GTA Online vai acabar?",
-  "Slide 4: Vem um novo GTA Online?",
-  "Slide 5: GTA 6 terá microtransações?",
-  "Slide 6: Você vai continuar no GTA Online?"
- ],
- "status": "pronto",
- "criado": "2026-10-20T09:50:00-03:00"
+  "final": "Você vai continuar no GTA Online?",
+  "legenda": {
+    "gancho": "GTA 6 sai só com modo single player, e o GTA Online vai continuar existindo.",
+    "corpo": [
+      "Segundo o TechRadar e o GamingBolt, a Take-Two disse que GTA 6 é um título single player e que vai continuar a dar suporte ao GTA Online depois do lançamento.",
+      "Ainda não há anúncio de um novo GTA Online. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Você vai continuar no GTA Online?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtaonline",
+      "#rockstar"
+    ]
+  },
+  "slug": "gta-online-e-gta-6-perguntas",
+  "alt": [
+    "Slide 1: E o GTA Online, vai acabar com GTA 6?",
+    "Slide 2: GTA 6 tem multiplayer?",
+    "Slide 3: O GTA Online vai acabar?",
+    "Slide 4: Vem um novo GTA Online?",
+    "Slide 5: GTA 6 terá microtransações?",
+    "Slide 6: Você vai continuar no GTA Online?"
+  ],
+  "status": "publicado",
+  "criado": "2026-10-20T09:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-20",
+    "horario": "11:00",
+    "em": "2026-10-20T11:09:41-03:00",
+    "estilo": "chefao",
+    "media_id": "18132169684772785",
+    "permalink": "https://www.instagram.com/p/DeuA-WHlepY/"
+  },
+  "story": {
+    "em": "2026-10-20T11:10:18-03:00",
+    "media_id": "17936554263401362"
+  }
 }
