@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:40:19+00:00",
+  "generated_at": "2026-10-20T20:02:01+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 6,
@@ -41,6 +41,78 @@
     160
   ],
   "stories": [
+    {
+      "story_id": "92ce81482de306d9",
+      "title": "'Final Fantasy 7 Remake' Leads New Wave of Xbox Game Pass Additions",
+      "summary": "Xbox Game Pass adds new games through early November, including Final Fantasy VII Remake Intergrade. See what's arriving and leaving the library.",
+      "owners": [
+        "future-plc",
+        "insider-gaming",
+        "keleops",
+        "nzn",
+        "valnet"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "0c273f7f8610baa4",
+        "9111141a5ee962f4",
+        "79aa79f9bea44ee3",
+        "e64aed01f8a15367",
+        "031efce5528d8987"
+      ],
+      "sources": [
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/xbox-game-pass-new-games-october-2026-final-fantasy-7-remake/",
+          "title": "'Final Fantasy 7 Remake' Leads New Wave of Xbox Game Pass Additions",
+          "published_at": "2026-10-20T17:59:21+00:00",
+          "kind": "press",
+          "text": "Xbox Game Pass adds Square Enix’s acclaimed RPG remake, a supernatural detective mystery and several other games Xbox Game Pass subscribers have another batch of games to look forward to as Microsoft expands its subscription library with new releases and older favorites. The latest wave includes everything from supernatural mysteries and online RPGs to a remastered tower-defense classic, with several games arriving for Xbox fans before the end of October. One of the biggest additions is Final Fantasy VII Remake Intergrade , Square Enix’s enhanced version of its acclaimed RPG remake. Here’s what to know about the game and everything else coming to Xbox Game Pass in the coming weeks. Originally released in 2020, Final Fantasy VII Remake reimagines the opening portion of the classic 1997 RPG, following Cloud Strife and his allies as they fight against the Shinra Electric Power Company in the sprawling city of Midgar. The enhanced Intergrade edition features improved visuals and additional story content starring Yuffie Kisaragi. The RPG arrives on Xbox Series X, Windows PC, and cloud gaming on Oct. 29, joining Game Pass Ultimate, Game Pass Premium and PC Game Pass. Here are the rest of the games being added in the latest wave of releases: As new games arrive, several titles are also preparing to leave Xbox Game Pass. Subscribers have until the end of October to play nine departing games, including Deep Rock Galactic , Lego Star Wars: The Skywalker Saga , and several LucasArts adventure classics. Two editions of Football Manager 26 will follow them out of the library in November. Here are all the games leaving Xbox Game Pass and their respective deadlines: If any of these games are still on your backlog, now is the time to give them a try before they leave the library.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22330612/18_Event_Cloud__1_.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-outubro-recebe-final-fantasy-vii-remake-intergrade-e-mais-jogos-veja-a-lista/",
+          "title": "Xbox Game Pass de outubro recebe Final Fantasy VII Remake Intergrade e mais jogos! Veja a lista",
+          "published_at": "2026-10-20T18:15:00+00:00",
+          "kind": "press",
+          "text": "Lançamentos de games em OUTUBRO de 2026 - Calendário VOXL Lançamentos de games em OUTUBRO de 2026 - Calendário VOXEL. Crédito: Voxl O catálogo do Xbox Game Pass continua recebendo grandes novidades — e ficará ainda maior na segunda metade de outubro. A Microsoft revelou, nesta terça-feira (20), mais uma leva de jogos de peso que chegarão ao serviço de assinatura da casa este mês, que também inclui Final Fantasy VII Remake Intergrade . Vale lembrar que a Microsoft também disponibilizou alguns títulos de peso em setembro, incluindo nomes como Gears of War E-Day , Battlefield 6 e muitos outros. Quer ver a lista completa com os jogos que chegam ainda em outubro ao Game Pass? Então confira abaixo os títulos que estão prestes a estrear no serviço da Microsoft! Por fim, mas não menos importante, o comunicado no site oficial da Microsoft também revelou que nove jogos deixarão o catálogo do Xbox Game Pass no dia 31 de outubro. Confira abaixo a lista completa! Confira nossas páginas de cupons especiais no KaBuM!, Hype Games e outras para comprar jogos, periféricos e mais com desconto. Curtiu os jogos de outubro do Xbox Game Pass? Qual deles você pretende jogar primeiro? Comente nas redes sociais do VOXL ! Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores. Usuários estão deixando suas smart tvs mais rápidas com IA; confira como fazer Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP Como a 99 decide quem vai buscar você e quanto vai custar a viagem; entenda o algoritmo do app Acer Nitro V16: conheça as diferenças entre os quatro modelos de notebooks gamers Home office: 41 vagas para trabalho remoto internacional [19/10]",
+          "image": "https://www.estadao.com.br/resizer/v2/Z6C2YLGIWBFR7ESPSZF4IEVTXQ.jpg?quality=80&auth=4cefe77a2e2c58554392bd5d7b0cb64dcf122f883388a4499738a3d00ed37d41&width=1200&height=630&smart=true"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/xbox-game-pass-overhaul-would-have-you-pay-for-add-ons-like-multiplayer-and-cloud-gaming-ala-carte-says-new-report/",
+          "title": "Xbox Game Pass overhaul would have you pay for add-ons like multiplayer \"ala carte,\" says report",
+          "published_at": "2026-10-20T19:09:03+00:00",
+          "kind": "press",
+          "text": "New Xbox CEO Asha Sharma is reportedly planning some huge Game Pass changes New Xbox CEO Asha Sharma is reportedly planning some huge Game Pass changes, including a full-blown pricing overhaul that would have users pay for subscription add-ons \"ala carte,\" according to a new report. This comes from Fortune (paywalled), which published an exhaustive conversation with Sharma covering some of the broad strokes of her plan to make Xbox \"the No. 1 entertainment company.\" Part of that plan is a multi-stage downsizing that'll see 3,200 cut jobs by the end of the 2027 fiscal year , but it also includes the new Project Helix home console that is reportedly due to release in time for the 2028 holiday season and could cost as much as $1800 , as well as a handheld system expected to launch in 2027. The reason we're here, however, is this reported plan to fundamentally change how Microsoft 's Game Pass subscriptions are priced. The current structure allows users to pick from various pre-determined tiers with various features based on price, but according to this new Fortune report, Sharma and co. are hatching a new plan to introduce paid add-ons for things like cloud gaming, multiplayer, and console-only games. So, in theory, you could be subscribed to the cheapest plan with the fewest benefits and still add on features that are important to you for additional monthly charges. This is all far from confirmed and heavily dependent on pricing specifics, but I don't hate this idea fundamentally. If I can save myself a few dollars on a subscription by opting out of stuff like online multiplayer and cloud gaming, and just tack-on benefits like day one releases, that could increase the value proposition enough for me to resubscribe. But again, it's far too early to say how consumer friendly this potentially revised Game Pass plan will be in the end. Xbox business manager says devs not using AI shouldn't \"be in the business of being a business\" – because he \"vibe coded a bad but improvable game in 2 days\" Weekly digests, tales from the communities you love, and more After earning an English degree from ASU, I worked as a corporate copy editor while freelancing for places like SFX Magazine, Screen Rant, Game Revolution, and MMORPG on the side. I got my big break here in 2019 with a freelance news gig, and I was hired on as GamesRadar's west coast Staff Writer in 2021. That means I'm responsible for managing the site's western regional executive branch, AKA my home office, and writing about whatever horror game I'm too afraid to finish. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/j4HLMb6gkbFzF3Bxjf5iVP-2560-80.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/xbox-game-pass-to-get-an-a-la-carte-system-its-claimed/",
+          "title": "XBOX Game Pass to Get an ‘À La Carte’ System, It’s Claimed",
+          "published_at": "2026-10-20T19:44:56+00:00",
+          "kind": "press",
+          "text": "XBOX seemingly plans to bring big changes to Game Pass, including an ‘à la carte’ plan that players can use. This is not the first time players have heard about changes to XBOX Game Pass; since the arrival of the new CEO, players have already seen several changes to the service, including price changes, a cloud gaming tier, and more. The upcoming change could provide players with even more flexibility from the service. A new report by Fortune Magazine mentions the ‘à la carte’ system for XBOX Game Pass. The team seems to be planning a major revamp that will let players choose what they want, including add-ons for console-only games, cloud gaming, and multiplayer, while keeping the tier structure. Currently, only tiers are available, and players purchase a specific tier based on the services they want. Readers should note that Microsoft has not yet made an official announcement about this system. This is not the first time we have heard about XBOX Game Pass becoming more flexible. Earlier this year, players were informed about a ‘ pick your own plan ‘ option that was being considered, which would allow players to customize their subscriptions by choosing which services they want. Players would have the option to remove features like Xbox Cloud Gaming or Fortnite Crew to lower the subscription price or add other services that better suit their needs. What are your thoughts on Xbox Game Pass getting an ‘à la carte’ system? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server. For more information from Insider Gaming, read about XBOX Game Pass October Wave 2 adding Final Fantasy 7 Remake Intergrade . Don’t forget to sign up for our weekly newsletter .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2025/07/xbox-game-pass.jpg"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/a-big-overhaul-of-xbox-game-pass-is-in-the-works-2000748041",
+          "title": "A Big Overhaul Of Xbox Game Pass Is In The Works",
+          "published_at": "2026-10-20T19:52:34+00:00",
+          "kind": "press",
+          "text": "It sounds like Microsoft isn’t done making big changes to its big subscription service. Xbox Game Pass already lost day-one Call of Duty earlier this year in exchange for a price cut, but the Netflix-like program will reportedly be getting an even bigger overhaul in the near future. According to Fortune , CEO Asha Sharma wants to turn Game Pass from a one-price, all-you-can-eat buffet into more of an Ã la carte arrangement. The service would still be tiered but players could pick and choose which add-ons they pay for. Cloud gaming, multiplayer, and console-only games would be some of the options users can select from. It sounds like a way to keep costs in check and grow subscriber numbers while stripping out services most people don’t use or charging those who use them a lot extra do to so. That would be in line with Microsoft’s existing testing for an ad-supported tier of Game Pass that would lower the barrier to entry for people who aren’t already diehard gamers. But the other thing that sounds inevitable is that the rest of Xbox’s first-party games get pulled from the day-one offering. The company has already been tip-toeing in that direction for years with Premium Edition Upgrades that charge players $30 for early access to games that will be available at no extra charge just days later via Game Pass. Leaked internal charts suggested Microsoft was once aiming for over 100 million subscribers, only for the service’s growth to plateau around 35 million and the entire business model around Xbox this console generation to unravel as a result. The next batch of Xbox blockbusters begins in February 2027 with Fable . My guess is that this reported Game Pass overhaul gets officially rolled out sometime before then. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The device could seemingly be a successor to the Xbox Ally X When 'posting through it' goes horribly wrong The email supposedly opens by asking Xbox Series owners, 'Haven't played on your console in a while?' The union has spent over two years trying to negotiate its first contract",
+          "image": "https://kotaku.com/app/uploads/2023/10/1a76617ac1879ca471869afe5a2cfec4.jpg"
+        }
+      ]
+    },
     {
       "story_id": "1e1a540b882f9ef0",
       "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
@@ -110,56 +182,6 @@
           "kind": "press",
           "text": "Microsoft is reportedly planning to launch a next-gen Xbox handheld next year Xboxâs next console, Project Helix, will release by the holiday season in 2028 and could cost between $1,200 and $1,800, according to a new report. Thatâs according to a new profile of CEO Asha Sharma by Fortune , which features alleged new details on Xbox âs progress developing Project Helix. According to the publication, Microsoft âs gaming arm is planning to release a ânext-generation handheld deviceâ by the 2027 holiday season, and its next console by the holidays in 2028. âAs it stands, the price of the Helix console has internally been projected to cost consumers between $1,200 and $1,800,â Fortune claims, âunless Microsoft decides to subsidize the cost.â The Helix price projections align with what analysts and insiders have warned could be on the cards for the next generation of game consoles, given ongoing global component shortages that have driven up the cost of consumer electronics. Last week, it was claimed that Sonyâs PlayStation 6 storage and memory components alone will cost the company âover $680â per console . And earlier this year, industry analysts debated if next-gen consoles would retail for over $1,000 , considering the price of new hardware is currently at an all-time high . Elsewhere in the Fortune profile, itâs claimed that Xbox has clashed with its Windows counterparts over what software Project Helix will run. âWindows leaders wanted an upcoming handheld device to use a trimmed-down version of Windows Home. Sharmaâs team, meanwhile, has sought to build and control its own software to get the best gaming performance,â it says. It also claims that Microsoft is planning to overhaul Xbox Game Pass, allowing players to âchoose features Ã la carteâ, including add-ons for cloud gaming, and multiplayer. Microsoft unveiled its plans for the next Xbox back at GDC in March, when it confirmed that its next-generation game console will run both âXbox and PC games â, and arrive in developersâ hands starting next year. It later warned that it needs to consider new business models to cover rising hardware costs. Microsoft recently announced it was raising the price of Xbox Series S and X by up to $150 , and introduced new programs to help make its consoles more affordable, including Buy Now, Pay Later options through Microsoft Stores. Speaking to GamesIndustry.biz earlier this year, Aldora CEO Joost van Dreunen said he believed it was certain that new consoles will cost north of $1,000, warning: âAt this rate, the next generation may not even release until 2028, and when it does, north of a grand is the floor. Even existing devices are getting marked up.â",
           "image": "https://www.videogameschronicle.com/files/2026/05/Screenshot-2026-05-06-175204-e1778086879954.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "f9da6789ca75c3b0",
-      "title": "Modern Warfare 4: Campaign Early Access Now Live",
-      "summary": "The post Modern Warfare 4: Campaign Early Access Now Live appeared first on XBOX Wire .",
-      "owners": [
-        "future-plc",
-        "microsoft",
-        "ziff-davis"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "1b8a2fa1432e68e7",
-        "730a0ea386a88913",
-        "f1f06870710c9c69"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/10/16/modern-warfare-4-campaign-early-access-now-live/",
-          "title": "Modern Warfare 4: Campaign Early Access Now Live",
-          "published_at": "2026-10-16T17:01:00+00:00",
-          "kind": "primary",
-          "text": "",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/MW4-CAMPAIGNLIVE-TOUT-6e9f9a71214002c2cfd5.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
-          "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
-          "published_at": "2026-10-19T08:36:43+00:00",
-          "kind": "press",
-          "text": "It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC , but the final game may have turned things around - so far, at least. On Steam, Infinity Ward 's final chapter in the Modern Warfare sub-series currently has a Very Positive (92 percent) rating based on over 3,100 user reviews . Modern Warfare 4's campaign early access went live Friday, and the review rating has been improving steadily as players have experienced more of the campaign's missions. Many have likely finished it by now; the campaign is a little over six-hours in length, after all. Gaining access to the campaign on Friday required pre-ordering any of the game's editions digitally. Modern Warfare 4's official release isn't until 23rd October, which makes it hard to determine the current number of players, because SteamDB , our source for this data, can't reveal numbers without its tracking bot having a copy of the game. Setting aside player numbers, the sentiment around Modern Warfare 4 is considerably more positive at the outset compared to last year's Black Ops 7, currently sitting at Mostly Negative (37 percent) . While review ratings change over time with each major update, Modern Warfare 4 is currently the highest-rated Call of Duty in over a decade. However, it's worth bearing in mind that the people playing the game are likely the series' most keen players, so perhaps they're more lenient towards it. We haven't had a chance to review the game yet, having only received code late last week, but IGN published a COD: Modern Warfare 4 campaign review on Friday, scoring it 8/10. In the rebooted Modern Warfare series, the 2019 Modern Warfare game comes closest in average player sentiment with a Mostly Positive rating (79 percent) . 2022's Modern Warfare 2 is far lower with a Mixed rating (45 percent) . Outside of Infinity Ward's output, Black Ops: Cold War is close at Mostly Positive (79 percent) . Modern Warfare 4's next big moment is the anticipated release of DMZ, the game's extraction shooter mode. Like the campaign, DMZ is available early for pre-orders, unlocking tomorrow, 20th October . Finally, on 23rd October, traditional multiplayer becomes available, which is when we're likely to see a shift in user sentiment, if one is going to happen.",
-          "image": "https://assetsio.gnwcdn.com/modern-warfare-4-campaign-crop-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/call-of-duty/call-of-duty-modern-warfare-4-campaign-launches-to-94-percent-positive-steam-reviews-way-ahead-of-black-ops-7-and-modern-warfare-3/",
-          "title": "Modern Warfare 4 campaign launches to 94% positive Steam reviews, way ahead of Black Ops 7",
-          "published_at": "2026-10-20T14:33:25+00:00",
-          "kind": "press",
-          "text": "The campaign for Call of Duty : Modern Warfare 4 is now available for those who pre-ordered, and PC players in particular seem pretty taken by it. The single-player mode has debuted to a strong rating on Steam, indicating this particular installment could be a big one for the franchise. Although Modern Warfare 4 isn't fully out until this coming Friday, October 23, pre-orders come with early access to the campaign. During the beta, this was relegated to a single mission, but now you can knock out the whole thing if you'd like. You'd think this would be a questionable move by Activision and Infinity Ward , but it might just be quite shrewd. If you go on the game's page on Steam, you can see the rating is currently riding extremely high. At time of writing, Modern Warfare 4 is sitting at Very Positive on Valve 's marketplace, based on 94% of reviews. That's a strong opening for any game, and it's especially good for Call of Duty. We don't have hard data on the first weeks of many individual entries of the long-running FPS, but this definitely outdoes the initial feedback on Black Ops 7 and Modern Warfare 3. You can see charts of their reviews going back to launch weeks, and neither were anywhere close to that amount. Whomever came up with the bold move to simply make the campaign part of the perks for being an early adopter, they were onto something. It helps that apparently Infinity Ward's made a good one, which includes 16 missions spread across several locations around the world. Call of Duty campaigns have tended to be a little forgettable over the last ten years or so, since the multiplayer modes and Warzone took prominence. As someone who loves a good solo FPS, it pleases me to see that Modern Warfare 4 is bucking the trend. You can pre-order now if any kind of FOMO is setting in. Weekly digests, tales from the communities you love, and more Call of Duty: Modern Warfare 4 narrative lead says Denis Villeneuve's Sicario is an influence \"I'm always checking against,\" but John Wick \"has some obvious presence\" too Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/sAgJM9zAqPjGntjcPbt8o8-1920-80.jpg"
         }
       ]
     },
@@ -244,8 +266,8 @@
           "title": "Análise: Final Fantasy Resonance combina nostalgia e estratégia em um JRPG cativante",
           "published_at": "2026-10-20T13:00:00+00:00",
           "kind": "press",
-          "text": "O RPG conquista com um mundo envolvente e combates versáteis, mas nem sempre escapa das convenções do passado.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPAA6ab5MxxLH9n8iaMljggLZddj2hlMOveyF-_pgwdcCaaFH2aSbilj6mJ2dC7h0jQrlSx4yv4UINkg8Y5C29T_C9bz0X_cosmIYSBQKPS7sTPq_bERm4OBs0U9tnKjCbBXbRM9RgIXJLNPojjPWFIve2whC19Dl2EHb0oRYKXZlQsSnPOzARV5lpfDy/w1200-h630-p-k-no-nu/final-fantasy-resonance-capa.jpg"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Video Games Chronicle",
@@ -356,44 +378,6 @@
       ]
     },
     {
-      "story_id": "6a155b046ac89924",
-      "title": "Próxima Semana em XBOX: novos jogos de 19 a 23 de outubro",
-      "summary": "The post Próxima Semana em XBOX: novos jogos de 19 a 23 de outubro appeared first on Xbox Wire em Português .",
-      "owners": [
-        "microsoft",
-        "nzn"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "6566b0cc4c3313d9",
-        "9111141a5ee962f4"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/10/16/proxima-semana-em-xbox-novos-jogos-de-19-a-23-de-outubro/",
-          "title": "Próxima Semana em XBOX: novos jogos de 19 a 23 de outubro",
-          "published_at": "2026-10-16T14:00:35+00:00",
-          "kind": "primary",
-          "text": "Boas-vindas ao Próxima Semana em XBOX! Neste post semanal, cobrimos todos os jogos que chegarão em breve ao XBOX Series X|S, XBOX One, XBOX no PC e XBOX Game Pass! Confira abaixo mais detalhes sobre esses próximos jogos e clique em seus perfis para mais informações (datas de lançamento sujeitas a alteração). Vamos começar! Call of Duty: Modern Warfare 4 leva a série a um território mais sombrio e perigoso, em que consequências e uma escalada de tensão conduzem tramas de longa data a um ponto de virada poderoso e emocionante. Reserve Call of Duty: Modern Warfare 4 hoje mesmo para obter Acesso Antecipado à Campanha do jogo a partir de sexta-feira, 16 de outubro, antes do lançamento global em 23 de outubro. E se FINAL FANTASY tivesse continuado a expandir os limites da pixel art? Como o primeiro FINAL FANTASY a integrar a linha HD-2D, FINAL FANTASY RESONANCE oferece uma experiência visualmente impressionante, que parece ao mesmo tempo nostálgica e nova, aprimorada por ângulos de câmera dinâmicos e modelos 3D pixelizados que tornam cada momento mais dramático e imersivo. Uma aventura clássica de RPG se desenrola em um mundo repleto de elementos adorados de FINAL FANTASY — aeronaves, cristais, espers e moogles entrelaçados à trama, além de muito mais. Shoresy: Legends of the North é um RPG de hóquei em ritmo acelerado ambientado no universo de Shoresy . Crie seu atleta e junte-se aos Sudbury Blueberry Bulldogs em uma missão para salvar o mundo dos lendários Hockey Godz, ou enfrente seus amigos com um elenco de personagens favoritos dos fãs. Prepare-se para uma aventura radiante e cheia de estratégia em Candlemates ! Controle duas velas encantadas e empurre as pedras de fogo até os braseiros correspondentes, mas tome cuidado: cada vela tem um número limitado de movimentos, e cada passo pode fazer toda a diferença! Christmas Across America Collector’s Edition Entre no clima das festas de fim de ano! Viaje até o coração do inverno nos Estados Unidos para criar tradições, encontrar tesouros escondidos e vivenciar a magia da época mais aconchegante do ano. Cruise Adventure: Hidden Journey Collector’s Edition Sinta a brisa do mar e contemple o horizonte sem fim! Este é o início de uma grande jornada. Pela primeira vez, você embarca em um luxuoso navio de cruzeiro para viver uma lua de mel inesquecível! Em Cruise Adventure: Hidden Journey , encontros calorosos e noites aconchegantes esperam por você enquanto a rota passa pelas ilhas do Oceano Pacífico. Este não é apenas um passeio turístico, mas uma celebração da vida, em que cada dia traz novas emoções. ESG Football 27 está maior, mais rápido e mais conectado do que nunca. Crie seu jogador, dispute partidas com os amigos e viva o futebol do seu jeito com o novo modo Rec 11 contra 11, cross-play entre consoles, melhorias na criação de partidas e na conectividade, tutoriais para aprender os fundamentos, minijogos inspirados na nostalgia e um sistema mais profundo de progressão do jogador, com distintivos e melhorias que podem ser conquistados para aumentar os atributos do seu personagem. Seja em confrontos diretos, jogando em equipe no 11 contra 11 ou se dedicando à evolução do seu jogador, ESG Football 27 dá vida à experiência definitiva de futebol. Family Journey: Hidden Across The World Collector’s Edition Faça as malas e junte-se a uma família amorosa em uma emocionante viagem ao redor do mundo! Aguce seu olhar para os detalhes em 60 cenas de objetos escondidos cuidadosamente elaboradas, cada uma inspirada em cidades reais e pontos turísticos icônicos. Faça uma pausa nas buscas com 12 minijogos encantadores e quebra-cabeças desafiadores que toda a família pode aproveitar junta. Esta Edição de Colecionador está repleta de extras exclusivos: aproveite fases bônus, um reprodutor de música e conquistas para manter a aventura viva. Personalize sua experiência em uma cena especial de decoração, na qual você pode comprar móveis, e coloque suas habilidades à prova para desbloquear 10 conquistas únicas. 20 de outubro – Entrega Inteligente / XBOX Play Anywhere Hail to the Rainbow é uma aventura em primeira pessoa focada em narrativa, com elementos de terror e tiro. Ambientado em um mundo ricamente detalhado, o jogo desafia você a sobreviver em uma nova realidade, desvendar os segredos por trás do caos ao seu redor e vivenciar as memórias e os conflitos internos do protagonista. Durante uma expedição para salvar seus companheiros Exploradores, você e seu parceiro ficam presos sob o gelo da Antártida. Ao despertarem, vocês se encontram nas instalações misteriosas da Norček Industries, com poucas lembranças do que aconteceu. A diretora Kathleen Bowe precisa da ajuda de vocês para dar continuidade ao trabalho de sua equipe de pesquisadores desaparecida antes que uma crise global se desencadeie. Neste emocionante jogo de plataforma 2D, você assume o papel de CyberBot, uma corajosa unidade autônoma que precisa atravessar uma megainstalação corrompida. Prepare-se para uma aventura nostálgica repleta de desafios digitais! Explore ambientes cibernéticos detalhados e coloridos, criados em um charmoso estilo retrô. Use a lógica para hackear sistemas, mover unidades e superar obstáculos criativos. Dreadway é um jogo de terror e sobrevivência cooperativo online com criação de itens, bate-papo por voz por proximidade, monstros aterrorizantes e interações acionadas por voz. Você e até três amigos viajam por um mundo pós-apocalíptico, coletam sucata, criam dispositivos de sobrevivência e interagem com o jogo por meio do bate-papo por voz. O famoso inventor Christopher Edward foi brutalmente assassinado em sua própria casa. Na pele da detetive Karla Robbins, você assume o caso. Você interroga a esposa, a secretária, o mordomo, a empregada e o médico da família. Todos sorriem educadamente; todos contam sua própria versão dos acontecimentos daquela noite. Registre cada evidência em seu arquivo interativo do caso e monte o quebra-cabeça, peça por peça. Às vezes, a pista decis",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/nwox-hero-2fa5de488cff5e138880.jpg"
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-de-outubro-recebe-final-fantasy-vii-remake-intergrade-e-mais-jogos-veja-a-lista/",
-          "title": "Xbox Game Pass de outubro recebe Final Fantasy VII Remake Intergrade e mais jogos! Veja a lista",
-          "published_at": "2026-10-20T18:15:00+00:00",
-          "kind": "press",
-          "text": "Lançamentos de games em OUTUBRO de 2026 - Calendário VOXL Lançamentos de games em OUTUBRO de 2026 - Calendário VOXEL. Crédito: Voxl O catálogo do Xbox Game Pass continua recebendo grandes novidades — e ficará ainda maior na segunda metade de outubro. A Microsoft revelou, nesta terça-feira (20), mais uma leva de jogos de peso que chegarão ao serviço de assinatura da casa este mês, que também inclui Final Fantasy VII Remake Intergrade . Vale lembrar que a Microsoft também disponibilizou alguns títulos de peso em setembro, incluindo nomes como Gears of War E-Day , Battlefield 6 e muitos outros. Quer ver a lista completa com os jogos que chegam ainda em outubro ao Game Pass? Então confira abaixo os títulos que estão prestes a estrear no serviço da Microsoft! Por fim, mas não menos importante, o comunicado no site oficial da Microsoft também revelou que nove jogos deixarão o catálogo do Xbox Game Pass no dia 31 de outubro. Confira abaixo a lista completa! Confira nossas páginas de cupons especiais no KaBuM!, Hype Games e outras para comprar jogos, periféricos e mais com desconto. Curtiu os jogos de outubro do Xbox Game Pass? Qual deles você pretende jogar primeiro? Comente nas redes sociais do VOXL ! Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores. Usuários estão deixando suas smart tvs mais rápidas com IA; confira como fazer Smart Sampa não tinha autenticação em dois fatores; sistema teve falha que permitia acesso indevido Gigantes chinesas fazem pedido bilionário de GPUs da Nvidia que pode não ser atendido; veja o motivo Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP Home office: 41 vagas para trabalho remoto internacional [19/10]",
-          "image": "https://www.estadao.com.br/resizer/v2/Z6C2YLGIWBFR7ESPSZF4IEVTXQ.jpg?quality=80&auth=4cefe77a2e2c58554392bd5d7b0cb64dcf122f883388a4499738a3d00ed37d41&width=1200&height=630&smart=true"
-        }
-      ]
-    },
-    {
       "story_id": "6fcd0bfc757c223b",
       "title": "Star Wars Zero Company review",
       "summary": "It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company. The fate of its eponymous crew - short of cash, betrayed by the shifting sands of circumstance in a tumultuous wider world, scrambling to just about get the job over the line - is really a lot like that of its developers at Bit Reactor. Furloughed for about a month before the game was released...",
@@ -473,6 +457,42 @@
           "kind": "press",
           "text": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of features that needed to be added to the game. The horse testicles were instead the unexpected work of one person, or a group of people, autonomously working on the Cowboy epic. Journalist Jason Schreier heard this anecdote from Rockstar head of development Aaron Garbut while visiting Rockstar North to write an expansive report for Bloomberg about the making of GTA 6 . \"Garbut actually brought this up,\" Schreier said in a video on YouTube . \"[The horse testicles were] not something that was on some big list of features to make; it was not something that an art director told an artist, 'Alright, we've got to get those horse testicles in here - better put in nights and weekends so you can get these horse testicles in here.' \"That was something that people, or a person on their own, autonomously decided, 'OK, I'm going to do this because I think it's a really cool detail and I have enough time to work on it.\" We're checking the veracity of this anecdote with Rockstar, by the way. And that anecdote is important because it relates to another thing Schreier was told by Garbut, which was that no one person at Rockstar knows everything that's in GTA 6 because it's too big and detailed to do that. \"There's no one person that has this whole thing in their head,\" Garbut apparently said. That, coupled with the fact that developers apparently have \"autonomy to put in things that are cool\", Schreier said, means there could be another unexpected feature like horse testicles in GTA 6. And given the nudity-related GTA 6 video leaks we've already had , perhaps the features aren't that far removed. Schreier's video revealed a few other tidbits of information learnt on his trip to Rockstar. He was told that roads in GTA 6 are \"significantly narrower\" than in GTA 5 , apparently, so players feel the effects of traffic more - a detail that relates to the increased levels of realism in GTA 6 . He also heard how some artists had been working on GTA 6 for 11 years, and whereas there were \"five of six\" people in GTA 5's art production team, there were - or are - 65 people in GTA 6's art production team. Note that Rockstar, as a company, has roughly doubled in size since the release of 2018's Red Dead Redemption 2 , growing from 2,441 employees to 4,711 across 12 offices. There's also some information about the origins of the contextual 'hold left trigger' interaction system introduced in Red Dead Redemption 2, which again, apparently came from someone autonomously working on the game - Phil Hooker (now director of technology) - rather than from one of the game's creative leads. Also, many experiments were apparently done to find a replacement for GTA's radial menu but in the end, the team reverted back to it. Grand Theft Auto 6 is, of course, releasing a month from now on 19th November. The road to launch has been bumpy, however, with Rockstar North currently embroiled in an employment tribunal in Scotland over the alleged unjust firings of 31 employees, and with a series of gameplay footage leaks exposing GTA 6 in ways that are outside of Rockstar's control.",
           "image": "https://assetsio.gnwcdn.com/red-dead-redemption-2-horse_oWpviPa.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
+    },
+    {
+      "story_id": "ac7459a18e76cb05",
+      "title": "Epic Games Store traz ofertas com até 80% de desconto durante a Promoção de Halloween",
+      "summary": "Preços altos assustam, mas perder oportunidades assustam ainda mais. Pensando nos corajosos que não tem medo de economizar na hora de dar um up em sua biblioteca de jogos, a Epic Games Store deu início nesta segunda-feira em sua tradicional Promoção de Halloween com diversos jogos com descontos que chegam até 80%. A Promoção de Halloween da Epic Games Store vai até o dia 2 de novembro. Confira...",
+      "owners": [
+        "gameblast",
+        "nzn"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "3c18cefe6b4a9285",
+        "a50f538a97318377"
+      ],
+      "sources": [
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/epic-games-store-traz-ofertas-ate-80-por-cento-desconto-durante-promocao-de-halloween.html",
+          "title": "Epic Games Store traz ofertas com até 80% de desconto durante a Promoção de Halloween",
+          "published_at": "2026-10-19T20:28:40+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/rival-da-steam-epic-games-inicia-promocao-de-halloween-com-descontos-de-ate-90-veja-indicacoes/",
+          "title": "Rival da Steam, Epic Games inicia Promoção de Halloween com descontos de até 90%! Veja indicações",
+          "published_at": "2026-10-20T19:45:00+00:00",
+          "kind": "press",
+          "text": "A Promoção de Halloween da Epic Games Store já está disponível e ficará ativa até o dia 2 de novembro, às 12h (horário de Brasília). Com dezenas de títulos em oferta, essa é uma das melhores janelas do ano para expandir a biblioteca da plataforma sem gastar muito. Para facilitar a escolha, o VOXL separou 20 indicações de qualidade que podem ser adquiridas a preços bem acessíveis — incluindo clássicos absolutos da indústria com descontos de até 90%. Está com uma graninha sobrando na carteira? Saiba que também há outras grandes produções AAA com descontos bem interessantes para aproveitar na Promoção de Halloween da Epic Games Store . Alguns dos títulos listados abaixo estão com descontos generosos de até 80%. Confira nossas páginas de cupons especiais no KaBuM!, Hype Games e outras para comprar jogos, periféricos e mais com desconto. Vai aproveitar a Promoção de Halloween da Epic Games Store para expandir sua biblioteca gastando pouco? Conta pra gente nas redes sociais do VOXL ! Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores. Usuários estão deixando suas smart tvs mais rápidas com IA; confira como fazer Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP Como a 99 decide quem vai buscar você e quanto vai custar a viagem; entenda o algoritmo do app Acer Nitro V16: conheça as diferenças entre os quatro modelos de notebooks gamers Home office: 41 vagas para trabalho remoto internacional [19/10]",
+          "image": "https://www.estadao.com.br/resizer/v2/HLLKX6YB5ZDXVAGBUBRMOPIH5M.jpg?quality=80&auth=c089b1dac571786652d3989a71edbf3326c4e40e603d5ff45ae15c335cac6a89&width=1200&height=630&smart=true"
         }
       ]
     }
