@@ -1,0 +1,74 @@
+{
+  "slug": "xbox-game-pass-segunda-leva-outubro-ffvii",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Game Pass",
+  "gta6": false,
+  "materia": "xbox-game-pass-outubro-2026-wave-2-final-fantasy-vii-remake-intergrade",
+  "criado": "2026-10-20T15:08:00-03:00",
+  "imagem": {
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon201026_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-f6dc970066614f9c5440.jpg",
+    "credito": "Xbox Wire",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Xbox Wire e Insider Gaming",
+  "capa": {
+    "titulo": "Game Pass anunciou 8 jogos novos para outubro",
+    "destaque": "8 jogos",
+    "apoio": "Tem Final Fantasy VII no meio. Arrasta.",
+    "data": "2026-10-29"
+  },
+  "slides": [
+    {
+      "rotulo": "Dia 29 de outubro",
+      "titulo": "Final Fantasy VII Remake chega",
+      "destaque": "Final Fantasy VII",
+      "texto": [
+        "O **Final Fantasy VII Remake Intergrade** entra no catálogo em 29 de outubro, para Ultimate, Premium e PC Game Pass, segundo o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "Dia 29 de outubro",
+      "titulo": "Terrible Lizards, no primeiro dia",
+      "destaque": "primeiro dia",
+      "texto": [
+        "É um jogo de terror com parkour, em que você **foge das ameaças** em vez de revidar. Também sai em 29 de outubro, para Ultimate e PC Game Pass."
+      ]
+    },
+    {
+      "rotulo": "Dia 29 de outubro",
+      "titulo": "Plants vs. Zombies: Replanted",
+      "destaque": "Replanted",
+      "texto": [
+        "O clássico volta **em HD**, e quem tem EA Play pode rever as batalhas com novas fases, segundo o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "Antes disso",
+      "titulo": "Quatro jogos chegam na semana",
+      "destaque": "Quatro jogos",
+      "texto": [
+        "Sandustry (21/10), Dodo Duckie (22/10), Scramble Knights Online (26/10) e The Séance of Blake Manor (27/10). **Pit of Goblin** fecha a lista em 3 de novembro."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que vai jogar Final Fantasy VII no Game Pass.",
+  "legenda": {
+    "gancho": "O Xbox Game Pass anunciou a segunda leva de outubro: são oito jogos, com Final Fantasy VII Remake Intergrade.",
+    "corpo": [
+      "Segundo o Xbox Wire, o Final Fantasy VII Remake Intergrade entra em 29 de outubro, no mesmo dia de Plants vs. Zombies: Replanted e Terrible Lizards, que estreia direto no Game Pass.",
+      "Antes deles chegam Sandustry, Dodo Duckie, Scramble Knights Online e The Séance of Blake Manor. Pit of Goblin completa a lista em 3 de novembro. O Insider Gaming lembra que dá para jogar antes de comprar Rebirth."
+    ],
+    "chamada": "Qual desses você joga primeiro? Conta aqui.",
+    "hashtags": ["#pixelzada", "#gamepass", "#xbox", "#finalfantasy"]
+  },
+  "alt": [
+    "Slide 1: Game Pass anunciou 8 jogos novos para outubro",
+    "Slide 2: Final Fantasy VII Remake chega",
+    "Slide 3: Terrible Lizards, no primeiro dia",
+    "Slide 4: Plants vs. Zombies: Replanted",
+    "Slide 5: Quatro jogos chegam na semana",
+    "Slide 6: Manda pro amigo que vai jogar Final Fantasy VII no Game Pass."
+  ],
+  "status": "pronto"
+}
