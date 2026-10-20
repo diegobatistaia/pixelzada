@@ -1,14 +1,23 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "abertura-san-andreas-infancia",
-    "pasta": "reel-abertura-san-andreas-infancia",
-    "horario": "20:00",
-    "data": "2026-10-19"
+    "acao": "carrossel",
+    "slug": "steam-next-fest-8-mil-demos-clones-ia",
+    "horario": "21:00",
+    "data": "2026-10-19",
+    "estilo": "carregando",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": null
   },
-  "em": "2026-10-19T19:58:55-03:00",
+  "em": "2026-10-19T21:00:11-03:00",
   "ok": true,
-  "media_id": "17964590943219603",
-  "permalink": "https://www.instagram.com/reel/DesYtrGkwT8/",
+  "media_id": "18070678859759590",
+  "permalink": "https://www.instagram.com/p/DesfxieD8Pj/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }

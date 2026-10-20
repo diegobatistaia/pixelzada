@@ -1,78 +1,86 @@
 {
- "tipo": "noticia",
- "formato": "em-numeros",
- "assunto": "Steam",
- "gta6": false,
- "materia": "steam-next-fest-outubro-2026-mais-de-8-mil-demos-clones-ia",
- "imagem": {
-  "url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-  "credito": "Eurogamer",
-  "pos": "50% 50%"
- },
- "fonte": "Fontes: PC Gamer e Eurogamer",
- "capa": {
-  "titulo": "Steam Next Fest tem mais de 8 mil demos",
-  "destaque": "8 mil demos",
-  "apoio": "E medo de clones com IA. Arrasta."
- },
- "slides": [
-  {
-   "rotulo": "O evento",
-   "titulo": "8 mil demos no Steam",
-   "destaque": "8 mil",
-   "texto": [
-    "A página de imprensa lista **mais de 8 mil demos**, o dobro do ano passado, segundo o Eurogamer."
-   ]
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Steam",
+  "gta6": false,
+  "materia": "steam-next-fest-outubro-2026-mais-de-8-mil-demos-clones-ia",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/steam-next-fest_myGmpAu.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Eurogamer",
+    "pos": "50% 50%"
   },
-  {
-   "rotulo": "As datas",
-   "titulo": "De 19 a 26 de outubro",
-   "destaque": "26 de outubro",
-   "texto": [
-    "O Next Fest vai **até 26 de outubro**, de acordo com o Insider Gaming."
-   ]
+  "fonte": "Fontes: PC Gamer e Eurogamer",
+  "capa": {
+    "titulo": "Steam Next Fest tem mais de 8 mil demos",
+    "destaque": "8 mil demos",
+    "apoio": "E medo de clones com IA. Arrasta."
   },
-  {
-   "rotulo": "O medo",
-   "titulo": "17% usaram IA em junho",
-   "destaque": "17%",
-   "texto": [
-    "No evento de junho, cerca de **17%** das demos disseram ter usado IA generativa, segundo o Eurogamer."
-   ]
-  },
-  {
-   "rotulo": "O caso",
-   "titulo": "1 demo cancelada",
-   "destaque": "1 demo",
-   "texto": [
-    "O estúdio de **Drunken Goddess Reflux** cancelou a demo pública por medo de cópias feitas com IA."
-   ]
-  }
- ],
- "final": "Você vai testar alguma demo?",
- "legenda": {
-  "gancho": "O Steam Next Fest chegou com mais de 8 mil demos, e estúdios indie temem cópias feitas com IA.",
-  "corpo": [
-   "Segundo o Eurogamer, o total é mais que o dobro do ano passado. O evento vai de 19 a 26 de outubro.",
-   "O estúdio de Drunken Goddess Reflux cancelou a demo pública por medo de imitações feitas com IA, e o estúdio NoGlyph acusa outro jogo de copiar código."
+  "slides": [
+    {
+      "rotulo": "O evento",
+      "titulo": "8 mil demos no Steam",
+      "destaque": "8 mil",
+      "texto": [
+        "A página de imprensa lista **mais de 8 mil demos**, o dobro do ano passado, segundo o Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "As datas",
+      "titulo": "De 19 a 26 de outubro",
+      "destaque": "26 de outubro",
+      "texto": [
+        "O Next Fest vai **até 26 de outubro**, de acordo com o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "O medo",
+      "titulo": "17% usaram IA em junho",
+      "destaque": "17%",
+      "texto": [
+        "No evento de junho, cerca de **17%** das demos disseram ter usado IA generativa, segundo o Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "O caso",
+      "titulo": "1 demo cancelada",
+      "destaque": "1 demo",
+      "texto": [
+        "O estúdio de **Drunken Goddess Reflux** cancelou a demo pública por medo de cópias feitas com IA."
+      ]
+    }
   ],
-  "chamada": "Você vai testar alguma demo?",
-  "hashtags": [
-   "#pixelzada",
-   "#steam",
-   "#nextfest",
-   "#jogosindie"
-  ]
- },
- "slug": "steam-next-fest-8-mil-demos-clones-ia",
- "alt": [
-  "Slide 1: Steam Next Fest tem mais de 8 mil demos",
-  "Slide 2: 8 mil demos no Steam",
-  "Slide 3: De 19 a 26 de outubro",
-  "Slide 4: 17% usaram IA em junho",
-  "Slide 5: 1 demo cancelada",
-  "Slide 6: Você vai testar alguma demo?"
- ],
- "status": "pronto",
- "criado": "2026-10-19T19:50:00-03:00"
+  "final": "Você vai testar alguma demo?",
+  "legenda": {
+    "gancho": "O Steam Next Fest chegou com mais de 8 mil demos, e estúdios indie temem cópias feitas com IA.",
+    "corpo": [
+      "Segundo o Eurogamer, o total é mais que o dobro do ano passado. O evento vai de 19 a 26 de outubro.",
+      "O estúdio de Drunken Goddess Reflux cancelou a demo pública por medo de imitações feitas com IA, e o estúdio NoGlyph acusa outro jogo de copiar código."
+    ],
+    "chamada": "Você vai testar alguma demo?",
+    "hashtags": [
+      "#pixelzada",
+      "#steam",
+      "#nextfest",
+      "#jogosindie"
+    ]
+  },
+  "slug": "steam-next-fest-8-mil-demos-clones-ia",
+  "alt": [
+    "Slide 1: Steam Next Fest tem mais de 8 mil demos",
+    "Slide 2: 8 mil demos no Steam",
+    "Slide 3: De 19 a 26 de outubro",
+    "Slide 4: 17% usaram IA em junho",
+    "Slide 5: 1 demo cancelada",
+    "Slide 6: Você vai testar alguma demo?"
+  ],
+  "status": "publicado",
+  "criado": "2026-10-19T19:50:00-03:00",
+  "publicado": {
+    "data": "2026-10-19",
+    "horario": "21:00",
+    "em": "2026-10-19T21:00:11-03:00",
+    "estilo": "carregando",
+    "media_id": "18070678859759590",
+    "permalink": "https://www.instagram.com/p/DesfxieD8Pj/"
+  }
 }
