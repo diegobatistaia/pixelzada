@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T18:38:52+00:00",
+  "generated_at": "2026-10-20T19:40:19+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 4,
+  "already_written_today": 6,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -41,6 +41,78 @@
     160
   ],
   "stories": [
+    {
+      "story_id": "1e1a540b882f9ef0",
+      "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+      "summary": "A new report sheds more details on Microsoft's plans for new Xbox hardware, including a new handheld device and console, and one of the biggest takeaways is the alleged price. According to Fortune , the Project Helix console could cost between $1,200 and $1,800, unless Microsoft opts to subsidize the cost. The system could launch in 2028, the report said. It's not uncommon for platform-holders to...",
+      "owners": [
+        "fandom",
+        "future-plc",
+        "insider-gaming",
+        "vgc",
+        "vox-media"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "ee7642f3ff57cafc",
+        "b4df4cba9a543d5c",
+        "cd605ea9f119bba7",
+        "272b87c44ef9785d",
+        "33abf436180dd3dc"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
+          "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+          "published_at": "2026-10-20T19:29:33+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/hardware/xbox-project-helix-console-could-cost-as-much-as-usd1-800-and-is-reportedly-set-to-launch-by-christmas-2028/",
+          "title": "Xbox Project Helix could cost as much as $1,800 and is reportedly set to launch by Christmas 2028",
+          "published_at": "2026-10-20T18:42:48+00:00",
+          "kind": "press",
+          "text": "The Helix handheld is expected to launch in 2027 A new report suggests that the next-gen Xbox Project Helix console is set to launch by Christmas 2028, and it could cost anywhere between $1,200 and $1,800. That's according to a report from Fortune . According to the outlet's sources, a next-gen handheld device is set to be released \"by the 2027 holiday season,\" with the main console set to follow in time for the 2028 holidays. The report additionally suggests that Microsoft 's internal projections suggest that the console will \"cost consumers between $1,200 and $1,800,\" though Xbox could choose to subsidize some of that cost, taking a loss on manufacturing the device. Fortune's sources also suggest that Microsoft's internal engineering deadlines for Project Helix have been moved up by several months, putting pressure on devs to get their work done faster, even if that means using AI. Additionally, the outlet reports that there have been internal clashes between the Xbox and Windows teams at Microsoft over what software Project Helix should use. The Windows team reportedly wanted the upcoming handheld to use a version of Windows, while the Xbox team wanted to use custom software. To that part of the story, Sharma simply responds, \"We can't build Helix on our own.\" Sharma has previously described Xbox Project Helix as \"a family of devices,\" but we have not gotten any official details on the planned hardware rollout or potential pricing. With current hardware manufacturing costs being what they are, analysts have been predicting $1,000 consoles for some time now, and these price tags are expected to have a major negative effect on the growth of the next-gen console market for both Xbox and PlayStation . Meanwhile, Xbox's plan to lay off 3,200 developers continues. Fortune reports that 1,868 of those jobs have been cut so far, with more rounds of layoffs set to occur in October, November, and January. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Xbox Game Pass overhaul would have you pay for add-ons like multiplayer and cloud gaming \"ala carte.\" Dustin Bailey joined the GamesRadar team as a Staff Writer in May 2022, and is currently based in Missouri. He's been covering games (with occasional dalliances in the worlds of anime and pro wrestling) since 2015, first as a freelancer, then as a news writer at PCGamesN for nearly five years. His love for games was sparked somewhere between Metal Gear Solid 2 and Knights of the Old Republic, and these days you can usually find him splitting his entertainment time between retro gaming, the latest big action-adventure title, or a long haul in American Truck Simulator. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/zKrSP9p6CDCyqzJtemv7D4-1920-80.jpg"
+        },
+        {
+          "name": "The Verge Games",
+          "owner": "vox-media",
+          "url": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
+          "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
+          "published_at": "2026-10-20T18:45:39+00:00",
+          "kind": "press",
+          "text": "The next Xbox could cost between $1,200 and $1,800 if Microsoft doesn’t subsidize it. The next Xbox could cost between $1,200 and $1,800 if Microsoft doesn’t subsidize it. Microsoft is reportedly planning to launch an Xbox “next-generation handheld device” for the holiday season of 2027. The Xbox next-gen console, codename Project Helix, would then launch in the holidays of 2028, according to a new report from Fortune . The report doesn’t make it clear whether the handheld would be made by a manufacturer like Asus, or by Microsoft itself. Xbox teamed up with Asus for its Xbox Ally devices, which ran a modified version of Windows 11 with an Xbox mode enabled. Xbox CEO Asha Sharma has also described Project Helix as a “ family of devices ,” suggesting that Microsoft’s next Xbox console may not be just one piece of hardware. Last year Microsoft and AMD announced a “strategic multi-year partnership” to work together on “a portfolio of devices,” including Microsoft’s next-generation console. It seems increasingly likely that this will include a range of “Xbox” devices, running on AMD’s new chips. The regular next-generation Xbox console may not arrive until 2028, though. Fortune reports that Microsoft is currently projecting that its Xbox Project Helix console may cost “between $1,200 to $1,800” for consumers, unless Microsoft is willing to subsidize the cost of the hardware. Microsoft’s Windows and Xbox teams have also reportedly clashed over what software will power the next-gen Xbox. That’s not terribly surprising given the two teams have clashed multiple times over the past 25 years of Xbox. It sounds like Xbox is now controlling the direction of the software on Helix, though. The report also touches on the rumored changes to Xbox Game Pass. Last month rumors emerged that Microsoft was working on an overhaul to Game Pass that will create tiers with or without ads, much like Netflix and other streaming services. Fortune says Xbox is looking at including add-ons for console-only games, cloud gaming, and multiplayer. This would make Game Pass a lot more flexible, but it’s not clear what happens to day one games and the overall price of Game Pass. One of Sharma’s first big moves as Xbox CEO was reversing the Game Pass price hikes , after she admitted internally that “Game Pass has become too expensive for players.” Xbox dropped future Call of Duty titles from day one on Game Pass, and brought prices back down for its subscription service. Fortune also reports that Sharma is planning a fresh round of Xbox layoffs this month, followed by more in November and January.",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290359/STK048_XBOX_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/xbox-next-gen-handheld-planned-for-2027-and-console-in-2028-its-claimed/",
+          "title": "XBOX Next-Gen Handheld Planned for 2027 and Console in 2028, It’s Claimed",
+          "published_at": "2026-10-20T19:18:53+00:00",
+          "kind": "press",
+          "text": "A new report appears to provide release windows for Xbox’s next-gen handheld and console. Earlier this year, players were informed that Xbox has not abandoned its plans for a first-party handheld console. Although the company hasn’t shared many details yet, it appears that a release window is being planned, and it might come sooner than players expect. Meanwhile, there have been several revelations about the next-generation console, Project Helix, but we may need to wait a little longer for that to come out. A new report in Fortune Magazine discusses the release window for Xbox’s next-gen handheld and console. According to sources familiar with the matter, XBOX aims to release the handheld console by the holiday season of 2027 and the next-gen console during the holiday season of 2028. The report also claims internal projections put the console’s cost between $1,200 and $1,800, which would only go lower if Microsoft subsidizes it. The report also discusses a dispute between the Windows and Xbox teams regarding the software that Project Helix would use. One team preferred a streamlined version of Windows Home for the handheld device, while the other aimed to develop software optimized for the best gaming performance. The situation escalated to the point where a senior Xbox executive threatened to cancel the entire handheld project. Since then, Xbox has had control over the operating system. What are your thoughts on the XBOX next-gen handheld and console release windows? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more Insider Gaming news, read about EA announcing that Fight Night will return . Don’t forget to sign up for our weekly newsletter .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/06/XBOX-price-2027.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/report-claims-next-xbox-is-targeting-2028-and-could-cost-between-1200-and-1800/",
+          "title": "Report claims next Xbox is targeting 2028 and could cost between $1,200 and $1,800",
+          "published_at": "2026-10-20T19:31:18+00:00",
+          "kind": "press",
+          "text": "Microsoft is reportedly planning to launch a next-gen Xbox handheld next year Xboxâs next console, Project Helix, will release by the holiday season in 2028 and could cost between $1,200 and $1,800, according to a new report. Thatâs according to a new profile of CEO Asha Sharma by Fortune , which features alleged new details on Xbox âs progress developing Project Helix. According to the publication, Microsoft âs gaming arm is planning to release a ânext-generation handheld deviceâ by the 2027 holiday season, and its next console by the holidays in 2028. âAs it stands, the price of the Helix console has internally been projected to cost consumers between $1,200 and $1,800,â Fortune claims, âunless Microsoft decides to subsidize the cost.â The Helix price projections align with what analysts and insiders have warned could be on the cards for the next generation of game consoles, given ongoing global component shortages that have driven up the cost of consumer electronics. Last week, it was claimed that Sonyâs PlayStation 6 storage and memory components alone will cost the company âover $680â per console . And earlier this year, industry analysts debated if next-gen consoles would retail for over $1,000 , considering the price of new hardware is currently at an all-time high . Elsewhere in the Fortune profile, itâs claimed that Xbox has clashed with its Windows counterparts over what software Project Helix will run. âWindows leaders wanted an upcoming handheld device to use a trimmed-down version of Windows Home. Sharmaâs team, meanwhile, has sought to build and control its own software to get the best gaming performance,â it says. It also claims that Microsoft is planning to overhaul Xbox Game Pass, allowing players to âchoose features Ã la carteâ, including add-ons for cloud gaming, and multiplayer. Microsoft unveiled its plans for the next Xbox back at GDC in March, when it confirmed that its next-generation game console will run both âXbox and PC games â, and arrive in developersâ hands starting next year. It later warned that it needs to consider new business models to cover rising hardware costs. Microsoft recently announced it was raising the price of Xbox Series S and X by up to $150 , and introduced new programs to help make its consoles more affordable, including Buy Now, Pay Later options through Microsoft Stores. Speaking to GamesIndustry.biz earlier this year, Aldora CEO Joost van Dreunen said he believed it was certain that new consoles will cost north of $1,000, warning: âAt this rate, the next generation may not even release until 2028, and when it does, north of a grand is the floor. Even existing devices are getting marked up.â",
+          "image": "https://www.videogameschronicle.com/files/2026/05/Screenshot-2026-05-06-175204-e1778086879954.jpg"
+        }
+      ]
+    },
     {
       "story_id": "f9da6789ca75c3b0",
       "title": "Modern Warfare 4: Campaign Early Access Now Live",
@@ -92,9 +164,9 @@
       ]
     },
     {
-      "story_id": "ccecb8e49ebc7031",
-      "title": "Saros recebe a atualização gratuita Zenith com novos modos e opções de acessibilidade",
-      "summary": "A Housemarque disponibilizou a atualização gratuita Zenith para Saros , jogo de ação exclusivo do PlayStation 5. O conteúdo adiciona modos de jogo, modificadores de dificuldade, troféus e recursos de acessibilidade, com novidades tanto para quem está começando a campanha quanto para jogadores experientes. Entre as principais novidades está Overlord Rush, modo que coloca os jogadores diante de...",
+      "story_id": "550398fdc2aaea7c",
+      "title": "Não acabou: Cyberpunk 2077 receberá o patch 2.5 em 22 de outubro",
+      "summary": "CD Projekt RED detalhará o patch em livestream nesta quarta-feira (21)",
       "owners": [
         "gameblast",
         "meups",
@@ -102,22 +174,11 @@
       ],
       "primary_owners": [],
       "fingerprints": [
-        "36964214379451b6",
         "d79c65710dcc9221",
         "3a2801b40383ec1b",
         "4aef2aec2cca4eed"
       ],
       "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/saros-recebe-atualizacao-gratuita-zenith-novos-modos-opcoes-acessibilidade.html",
-          "title": "Saros recebe a atualização gratuita Zenith com novos modos e opções de acessibilidade",
-          "published_at": "2026-10-19T12:54:30+00:00",
-          "kind": "press",
-          "text": "Um dos destaques é o modo Overlord Rush, no qual os jogadores enfrentam uma série de chefes da campanha principal.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF0SUPqTEIw2E_4ni0kiplx5wTmlYNjRayD0sjHFPamLJvDKk-UVQULqqH3LM_JjmkcdLr-E_EIxKKIdYrehUzqndIoa7CBvGDzQe7mckPWg8f5kiveYmGLm9IyGkb8JYMzwsfNATwRC9RNXAZAGwxm93UEWs2z0lKzOkyC0qySCvGnG0bmkw9oyq1eo39/w1200-h630-p-k-no-nu/saroszenithblast.jpg"
-        },
         {
           "name": "MeuPlayStation",
           "owner": "meups",
@@ -199,54 +260,6 @@
       ]
     },
     {
-      "story_id": "4e895ed200ad4503",
-      "title": "Nintendo Pays Homage to Original 1998 Commercial for The Legend of Zelda: Ocarina of Time in New Remake Trailer",
-      "summary": "Nintendo has released a new The Legend of Zelda: Ocarina of Time remake trailer that pays homage to the 1998 commercial for the N64 masterpiece — and we’ve got a comparison video showing just how close it is to the original.",
-      "owners": [
-        "future-plc",
-        "valnet",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "61e20e2dc00568c9",
-        "a9c0a0c1b4379923",
-        "e4b39e6fa1f5b902"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/nintendo-pays-homage-to-original-1998-commercial-for-the-legend-of-zelda-ocarina-of-time-in-new-remake-trailer",
-          "title": "Nintendo Pays Homage to Original 1998 Commercial for The Legend of Zelda: Ocarina of Time in New Remake Trailer",
-          "published_at": "2026-10-20T14:37:22+00:00",
-          "kind": "press",
-          "text": "Nintendo has released a new The Legend of Zelda: Ocarina of Time remake trailer that pays homage to the 1998 commercial for the N64 masterpiece — and we’ve got a comparison video showing just how close it is to the original. Cast your mind back to 1998 and you might remember seeing a commercial for Ocarina of Time that had phrases like “A dark time is approaching,” “Willst thou run?” and “Have ye what it takes?” It’s an iconic advert that certainly got my teenage blood pumping at the time. Now, Nintendo has recreated the advert in a new trailer for the Ocarina of Time remake. It features some of the same shots and even some of the same language. “Willst thou flee? Or Fight?” the trailer asks, leaning heavily on nostalgia as Link encounters Ganondorf on his horse — just as we see him do in the original trailer. Check out a comparison in the video below. Reaction to the new trailer has been overwhelmingly positive, with warm memories of weekends spent in the glow of a CRT television successfully rekindled. “THEY DID THE TRAILER THING OMG,” one person said. “NO WAY THEY DID IT,” another added. “THY WILL PREORDER AS SOON AS THY GETS PAYDAY,” one fan joked. There is one major difference though: Nintendo’s recreation does not include the custom-recorded version of the track \"Riddle of Steel / Riders of Doom\" from the 1982 film Conan the Barbarian, as the original trailer did. Music rights! Marketing for the Ocarina of Time remake has ramped up, with Nintendo releasing a number of new commercials ahead of the game’s November launch. Nintendo recently released two new TV spots for Japan that, while brief, reveal a tantalizing glimpse at some never-before-seen characters, chief among them Dark Link . As Nintendo has pulled back the curtain on The Legend of Zelda: Ocarina of Time remake , we’ve begun to get a better understanding of how this Nintendo Switch 2 exclusive will look and feel to play. IGN has already got you covered with an extensive hands-on preview , as well as a roundup of all the changes we’ve noticed so far compared to the N64 masterpiece. The Legend of Zelda: Ocarina of Time remake launches on Nintendo Switch 2 on November 5, 2026. While you wait, check out a special episode of Nintendo Voice Chat where we dive deeper into our Zelda preview. Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
-          "image": "https://assets-prd.ignimgs.com/2026/10/20/zelda-1792507026584.png?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-time-remake-file-size-is-over-800-times-larger-than-the-nintendo-64-original/",
-          "title": "The Legend of Zelda: Ocarina of Time remake file size is over 800 times larger than the N64 original",
-          "published_at": "2026-10-20T15:17:18+00:00",
-          "kind": "press",
-          "text": "And it's bigger than Breath of the Wild and Tears of the Kingdom Nintendo has revealed the The Legend of Zelda: Ocarina of Time remake file size, and it's mercifully not going to hog a ton of your storage space, even if it is bigger than Breath of the Wild and Tears of the Kingdom. Twitter user Genki_JPN posted a photo of the download card for The Legend of Zelda: Ocarina of Time remake on Switch 2, which is now available in Japanese stores. While this doesn't reveal much beyond including some screenshots and artwork for the game, it does list the file size for the Switch 2 remake as 27GB. For context, The Legend of Zelda: Ocarina of Time for the Nintendo 64 shipped on a 32MB cartridge, meaning the 2026 remake is over 800 times larger than the original version in 1998. Obviously, we live in the era of 200GB Call of Duty downloads, and given that two parts of fellow 90's remake Final Fantasy 7 Remake and Rebirth are the biggest games on Switch 2 at 90.4GB and 91.5GB respectively, it's a reasonably low file size for the new Zelda remake, which is a welcome surprise. What is shocking, though, is that at 27GB, The Legend of Zelda: Ocarina of Time remake is now the biggest mainline Zelda game of the Switch era. Breath of the Wild Nintendo Switch 2 Edition was the previous record holder at 24GB, with Tears of the Kingdom Nintendo Switch 2 Edition at only 20GB, while the Link's Awakening remake and Echoes of Wisdom both land within the 5GB range. In fact, the only Zelda game that's larger overall is Hyrule Warriors: Age of Imprisonment, at 43.5GB. The Legend of Zelda: Ocarina of Time remake borrows one of Breath of the Wild's most immersive features Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/rchR5gTvwM5HinWhXj7Mi3-1920-80.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-file-size/",
-          "title": "Zelda: Ocarina of Time Remake File Size Officially Confirmed",
-          "published_at": "2026-10-20T17:54:55+00:00",
-          "kind": "press",
-          "text": "You'll never believe how much bigger the Switch 2 game is than the Nintendo 64 original When the original Nintendo 64 version of The Legend of Zelda: Ocarina of Time was released in 1998, the entire game fit on a 32 MB cartridge. The upcoming Nintendo Switch 2 remake does not; in fact, the updated version of the classic game is over 800 times larger. That's according to the recently revealed file size for the remake, so you should start clearing some storage space. We now know that the Ocarina of Time remake on Nintendo Switch 2 will take up 27 GB of storage. That's according to a photo of the game's download card in Japan, posted on X by Genki_JPN . That doesn't make the remake a big game by modern standards. The likes of Call of Duty can easily take up over 200 GB alone on consoles. It is, however, the biggest mainline Zelda game to date. The Legend of Zelda: Tears of the Kingdom , the most recent mainline entry in the series, takes up 24 GB on Switch 2. The only game that exceeds the size of the Ocarina of Time remake is currently Hyrule Warriors: Age of Imprisonment , the 2025 Musou spinoff, which takes up just over 43 GB. As the remake introduces a complex (if controversial ) art style and expands the game world, it makes sense that it would come with a bigger file size, though I still think it's a bit shocking that it outdoes the scale of Tears of the Kingdom Players are finally close to getting their hands on the Ocarina of Time remake. It will be released exclusively for Nintendo Switch 2 on Nov. 5, as Nintendo is one of the only companies willing to get anywhere near Grand Theft Auto 6 . In addition to the updated graphics, the game brings a number of new features , like jumping whenever you want. Wow! Polygon went hands on with the game earlier this month and came away impressed with how timeless the new version of the iconic game feels. We wrote, \"Nintendo seems to have pulled it off. The remake is both incredibly impressive graphically and the game now plays better than ever. The remake evokes nostalgia for Link’s first 3D adventure while also feeling thoroughly modern.\" A weekly cheat sheet to what you’ll eventually love to play. No buying, no commitment — just saving for later.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ns2_thelegendofzeldaocarinaoftime_scrn_15.png?w=1600&h=900&fit=crop"
-        }
-      ]
-    },
-    {
       "story_id": "bf944b5642555fd3",
       "title": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
       "summary": "While a whole bunch of new games are being added to the PlayStation Plus Game Catalog this month, it looks like Sony is making room for them by removing several titles over the next few weeks. We don’t know exactly when they will be gone, but you can expect 11 games to be removed over the next couple of weeks, including two of Rockstar's biggest open-world adventures: Red Dead Redemption 2 and...",
@@ -295,6 +308,54 @@
       ]
     },
     {
+      "story_id": "4b24dff73d940f9c",
+      "title": "DreamWorks Shrek 2 Remastered announced for PS5, Xbox Series, Switch 2, Switch, and PC",
+      "summary": "Aspyr has announced DreamWorks Shrek 2 Remastered for PlayStation 5, Xbox Series, Switch 2, Switch, …",
+      "owners": [
+        "gameblast",
+        "gematsu",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "8b8d25e4ed2f2ed0",
+        "e4b50a0ed60f8385",
+        "6e6c633e704aa6f0"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/10/dreamworks-shrek-2-remastered-announced-for-ps5-xbox-series-switch-2-switch-and-pc",
+          "title": "DreamWorks Shrek 2 Remastered announced for PS5, Xbox Series, Switch 2, Switch, and PC",
+          "published_at": "2026-10-20T17:33:18+00:00",
+          "kind": "press",
+          "text": "Aspyr has announced DreamWorks Shrek 2 Remastered for PlayStation 5 , Xbox Series , Switch 2 , Switch , and PC ( Steam , Epic Games Store ). It will launch on November 10 for $29.99. As the title suggest, DreamWorks Shrek 2 Remastered is a remastered version of the Shrek 2 video game that first launched for PlayStation 2 , Xbox , GameCube , and PC in May 2004. Here is an overview of the game, via Aspyr: Journey through the fairytale kingdom of Far Far Away from Shrek’s swamp to Fiona’s castle and everywhere in between, in a classic action adventure experience inspired by the DreamWorks Animation movie. Play solo or with up to three friends in cooperative play, take control of your favorite Shrek heroes as you smash, throw and kick your way against iconic characters from the franchise. Travel back to a nostalgic era of gaming for some pick-up-and-play casual fun.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Shrek-2-Remastered-Announced_10-20-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/shrek-2-remastered-e-anunciado-oficialmente-para-consoles-e-pc-com-lancamento-em-10-de-novembro.html",
+          "title": "Shrek 2 Remastered é anunciado oficialmente para consoles e PC, com lançamento em 10 de novembro",
+          "published_at": "2026-10-20T18:43:44+00:00",
+          "kind": "press",
+          "text": "Com multiplayer local e jogabilidade divertidíssima, o jogo original se tornou praticamente um clássico do gênero. Viaje pelo reino de conto de fadas de Tão Tão Distante, do pântano de Shrek até o castelo de Fiona e em todos os lugares entre esses lugares, em uma clássica experiência de ação e aventura inspirada no filme da DreamWorks Animation. Jogue sozinho ou com até três amigos em modo cooperativo, assuma o controle dos seus heróis favoritos de Shrek enquanto esmaga, arremessa e chuta personagens icônicos da franquia. Volte a uma era nostálgica dos jogos para um pouco de diversão casual.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuOBfopQwEJs0ACNKNsYRgrzF_jZ8OSxM1N8oBxndbZsurCbmeH173tXFuhW7sf4acZATw3MFW1ZPUZzNcxYohaRFcOL_T18qEvA20Z_Gbykl9T7a15Pl1tYlOJK2EK1OCexhe-j7R7BCbe4BjZdvREkI3lNAu6vDj4HjtSvOj1yytIMsmvreTPw5KPQw/w1200-h630-p-k-no-nu/BlastCapa.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/shrek-2-remastered-e-confirmado-nov-ps5/",
+          "title": "DreamWorks Shrek 2 Remastered é confirmado para novembro no PS5",
+          "published_at": "2026-10-20T18:46:19+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Shrek-2-Remastered.webp"
+        }
+      ]
+    },
+    {
       "story_id": "6a155b046ac89924",
       "title": "Próxima Semana em XBOX: novos jogos de 19 a 23 de outubro",
       "summary": "The post Próxima Semana em XBOX: novos jogos de 19 a 23 de outubro appeared first on Xbox Wire em Português .",
@@ -327,7 +388,7 @@
           "title": "Xbox Game Pass de outubro recebe Final Fantasy VII Remake Intergrade e mais jogos! Veja a lista",
           "published_at": "2026-10-20T18:15:00+00:00",
           "kind": "press",
-          "text": "Lançamentos de games em OUTUBRO de 2026 - Calendário VOXL Lançamentos de games em OUTUBRO de 2026 - Calendário VOXEL. Crédito: Voxl O catálogo do Xbox Game Pass continua recebendo grandes novidades — e ficará ainda maior na segunda metade de outubro. A Microsoft revelou, nesta terça-feira (20), mais uma leva de jogos de peso que chegarão ao serviço de assinatura da casa este mês, que também inclui Final Fantasy VII Remake Intergrade . Vale lembrar que a Microsoft também disponibilizou alguns títulos de peso em setembro, incluindo nomes como Gears of War E-Day , Battlefield 6 e muitos outros. Quer ver a lista completa com os jogos que chegam ainda em outubro ao Game Pass? Então confira abaixo os títulos que estão prestes a estrear no serviço da Microsoft! Por fim, mas não menos importante, o comunicado no site oficial da Microsoft também revelou que nove jogos deixarão o catálogo do Xbox Game Pass no dia 31 de outubro. Confira abaixo a lista completa! Confira nossas páginas de cupons especiais no KaBuM!, Hype Games e outras para comprar jogos, periféricos e mais com desconto. Curtiu os jogos de outubro do Xbox Game Pass? Qual deles você pretende jogar primeiro? Comente nas redes sociais do VOXL ! Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores. Usuários estão deixando suas smart tvs mais rápidas com IA; confira como fazer Acer Nitro V16: conheça as diferenças entre os quatro modelos de notebooks gamers Gigantes chinesas fazem pedido bilionário de GPUs da Nvidia que pode não ser atendido; veja o motivo Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP Carga de GPUs RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos",
+          "text": "Lançamentos de games em OUTUBRO de 2026 - Calendário VOXL Lançamentos de games em OUTUBRO de 2026 - Calendário VOXEL. Crédito: Voxl O catálogo do Xbox Game Pass continua recebendo grandes novidades — e ficará ainda maior na segunda metade de outubro. A Microsoft revelou, nesta terça-feira (20), mais uma leva de jogos de peso que chegarão ao serviço de assinatura da casa este mês, que também inclui Final Fantasy VII Remake Intergrade . Vale lembrar que a Microsoft também disponibilizou alguns títulos de peso em setembro, incluindo nomes como Gears of War E-Day , Battlefield 6 e muitos outros. Quer ver a lista completa com os jogos que chegam ainda em outubro ao Game Pass? Então confira abaixo os títulos que estão prestes a estrear no serviço da Microsoft! Por fim, mas não menos importante, o comunicado no site oficial da Microsoft também revelou que nove jogos deixarão o catálogo do Xbox Game Pass no dia 31 de outubro. Confira abaixo a lista completa! Confira nossas páginas de cupons especiais no KaBuM!, Hype Games e outras para comprar jogos, periféricos e mais com desconto. Curtiu os jogos de outubro do Xbox Game Pass? Qual deles você pretende jogar primeiro? Comente nas redes sociais do VOXL ! Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores. Usuários estão deixando suas smart tvs mais rápidas com IA; confira como fazer Smart Sampa não tinha autenticação em dois fatores; sistema teve falha que permitia acesso indevido Gigantes chinesas fazem pedido bilionário de GPUs da Nvidia que pode não ser atendido; veja o motivo Smart Sampa: entenda o que vazou e quem são as empresas que operam o sistema de câmeras de SP Home office: 41 vagas para trabalho remoto internacional [19/10]",
           "image": "https://www.estadao.com.br/resizer/v2/Z6C2YLGIWBFR7ESPSZF4IEVTXQ.jpg?quality=80&auth=4cefe77a2e2c58554392bd5d7b0cb64dcf122f883388a4499738a3d00ed37d41&width=1200&height=630&smart=true"
         }
       ]
@@ -412,42 +473,6 @@
           "kind": "press",
           "text": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of features that needed to be added to the game. The horse testicles were instead the unexpected work of one person, or a group of people, autonomously working on the Cowboy epic. Journalist Jason Schreier heard this anecdote from Rockstar head of development Aaron Garbut while visiting Rockstar North to write an expansive report for Bloomberg about the making of GTA 6 . \"Garbut actually brought this up,\" Schreier said in a video on YouTube . \"[The horse testicles were] not something that was on some big list of features to make; it was not something that an art director told an artist, 'Alright, we've got to get those horse testicles in here - better put in nights and weekends so you can get these horse testicles in here.' \"That was something that people, or a person on their own, autonomously decided, 'OK, I'm going to do this because I think it's a really cool detail and I have enough time to work on it.\" We're checking the veracity of this anecdote with Rockstar, by the way. And that anecdote is important because it relates to another thing Schreier was told by Garbut, which was that no one person at Rockstar knows everything that's in GTA 6 because it's too big and detailed to do that. \"There's no one person that has this whole thing in their head,\" Garbut apparently said. That, coupled with the fact that developers apparently have \"autonomy to put in things that are cool\", Schreier said, means there could be another unexpected feature like horse testicles in GTA 6. And given the nudity-related GTA 6 video leaks we've already had , perhaps the features aren't that far removed. Schreier's video revealed a few other tidbits of information learnt on his trip to Rockstar. He was told that roads in GTA 6 are \"significantly narrower\" than in GTA 5 , apparently, so players feel the effects of traffic more - a detail that relates to the increased levels of realism in GTA 6 . He also heard how some artists had been working on GTA 6 for 11 years, and whereas there were \"five of six\" people in GTA 5's art production team, there were - or are - 65 people in GTA 6's art production team. Note that Rockstar, as a company, has roughly doubled in size since the release of 2018's Red Dead Redemption 2 , growing from 2,441 employees to 4,711 across 12 offices. There's also some information about the origins of the contextual 'hold left trigger' interaction system introduced in Red Dead Redemption 2, which again, apparently came from someone autonomously working on the game - Phil Hooker (now director of technology) - rather than from one of the game's creative leads. Also, many experiments were apparently done to find a replacement for GTA's radial menu but in the end, the team reverted back to it. Grand Theft Auto 6 is, of course, releasing a month from now on 19th November. The road to launch has been bumpy, however, with Rockstar North currently embroiled in an employment tribunal in Scotland over the alleged unjust firings of 31 employees, and with a series of gameplay footage leaks exposing GTA 6 in ways that are outside of Rockstar's control.",
           "image": "https://assetsio.gnwcdn.com/red-dead-redemption-2-horse_oWpviPa.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
-      "story_id": "161d3d4cf005ea7b",
-      "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
-      "summary": "Star Wars has had no shortage of breakout alien stars over the decades--from Chewbacca in the original trilogy to Grogu from The Mandalorian--but in Star Wars: Galactic Racer, that honor belongs to Biddy Blas. Who is Biddy Blas? A hotshot racer in the game, with an ego the size of a Death Star and a voice that sounds like a TIE Fighter fueled by nightmares— that's who Biddy Blas is. And in real...",
-      "owners": [
-        "fandom",
-        "vgc"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "2e3c5f158cdf3e32",
-        "a1b96abde1e7f7b8"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/",
-          "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
-          "published_at": "2026-10-19T16:18:07+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/features/star-wars-galactic-racer-boss-on-dlc-and-the-remarkable-rise-of-biddy-blas/",
-          "title": "Star Wars: Galactic Racer boss on DLC and the ‘remarkable’ rise of Biddy Blas",
-          "published_at": "2026-10-19T15:19:51+00:00",
-          "kind": "press",
-          "text": "Fuse Games CEO Matt Webster chats about what’s next for the hit racing game Fuse Games CEO Matt Webster has sat down with VGC for an in-depth chat about Star Wars: Galactic Racer’s success, the future of the game, and the viral stardom of Biddy Blas. Speaking with VGC following the game’s hugely positive reviews and player sentiment, Webster chats about what players should expect next from the game, and what the team is prioritizing post-launch. Webster also tells VGC about some of the early days of working with Lucasfilm Games. You can watch the complete conversation below. A chat about Star Wars: Galactic Racer wouldn’t be complete without some words for Biddy Blas, a side character in the game that has shot to viral stardom following clips on social media being viewed millions of times. We asked Webster what he thought of the game’s unlikely main character. “It’s remarkable, isn’t it?,” Webster said. “What is quite funny is that we were talking about the Biddy Base fan club at the preview event because everyone has their favorites and then we kind of forgot about him a little bit. I knew there was a few characters in this game that people were really going to connect with. Hibi being one of them, Biddy being the other. “That just shows you how much this galaxy is loved, because it can support characters like that then people just take it and run with it. And it’s unexpected alien creatures and the characterizations that we’ve learned and we worked so closely with Lucasfilm Games on. Bringing them to life and you call them a rogue’s gallery, that’s exactly how we talked about it. This group of races that go around with you on the racing circuit and you get to learn a little bit more about them. And the fact that, you know, now we’ve now got people quoting Huttese, it’s just remarkable.” As for Biddy Blas merchandise, Webster tells us that’s something for Lucasfilm to decide. When we suggest that we’d love toÂ see him at the Star Wars Galaxy’s Edge theme parks, he laughs: “That’s outside my sphere of influence. I would also love to see Biddy wherever possible.” VGC’s review of the game called it a “modern racing classic” that “absolutely nails what it is trying to do”. “It is a high-octane racer that’s endless fun to play, and it looks fantastic,” we said. “This would have been a great game with a standard single-player mode, but what is here is inventive and engaging. I’d have loved a few silly classic characters and another planet or two, but this is a game I’ll return to for a long time.”",
-          "image": "https://www.videogameschronicle.com/files/2026/10/star-warrs-interview.jpg"
         }
       ]
     }
