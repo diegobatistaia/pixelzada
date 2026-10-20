@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:08:53+00:00",
+  "generated_at": "2026-10-20T16:39:12+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 3,
@@ -41,6 +41,78 @@
     160
   ],
   "stories": [
+    {
+      "story_id": "bf944b5642555fd3",
+      "title": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
+      "summary": "While a whole bunch of new games are being added to the PlayStation Plus Game Catalog this month, it looks like Sony is making room for them by removing several titles over the next few weeks. We don’t know exactly when they will be gone, but you can expect 11 games to be removed over the next couple of weeks, including two of Rockstar's biggest open-world adventures: Red Dead Redemption 2 and...",
+      "owners": [
+        "fandom",
+        "future-plc",
+        "insider-gaming",
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "c1d1af1a164acaa4",
+        "3a97d930da3fd44d",
+        "13e818664f383e48",
+        "d2188ec694b969e4",
+        "a79ef6403392f725"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/gta-5-and-red-dead-redemption-2-are-leaving-ps-plus-but-you-still-have-time/",
+          "title": "GTA 5 And Red Dead Redemption 2 Are Leaving PS Plus, But You Still Have Time",
+          "published_at": "2026-10-20T15:15:30+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+          "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
+          "published_at": "2026-10-20T11:20:20+00:00",
+          "kind": "press",
+          "text": "Red Dead Redemption 2's infamous animated horse testicles , which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become - a symbol of extraordinary detail in the game - they didn't originate from a list of features that needed to be added to the game. The horse testicles were instead the unexpected work of one person, or a group of people, autonomously working on the Cowboy epic. Journalist Jason Schreier heard this anecdote from Rockstar head of development Aaron Garbut while visiting Rockstar North to write an expansive report for Bloomberg about the making of GTA 6 . \"Garbut actually brought this up,\" Schreier said in a video on YouTube . \"[The horse testicles were] not something that was on some big list of features to make; it was not something that an art director told an artist, 'Alright, we've got to get those horse testicles in here - better put in nights and weekends so you can get these horse testicles in here.' \"That was something that people, or a person on their own, autonomously decided, 'OK, I'm going to do this because I think it's a really cool detail and I have enough time to work on it.\" We're checking the veracity of this anecdote with Rockstar, by the way. And that anecdote is important because it relates to another thing Schreier was told by Garbut, which was that no one person at Rockstar knows everything that's in GTA 6 because it's too big and detailed to do that. \"There's no one person that has this whole thing in their head,\" Garbut apparently said. That, coupled with the fact that developers apparently have \"autonomy to put in things that are cool\", Schreier said, means there could be another unexpected feature like horse testicles in GTA 6. And given the nudity-related GTA 6 video leaks we've already had , perhaps the features aren't that far removed. Schreier's video revealed a few other tidbits of information learnt on his trip to Rockstar. He was told that roads in GTA 6 are \"significantly narrower\" than in GTA 5 , apparently, so players feel the effects of traffic more - a detail that relates to the increased levels of realism in GTA 6 . He also heard how some artists had been working on GTA 6 for 11 years, and whereas there were \"five of six\" people in GTA 5's art production team, there were - or are - 65 people in GTA 6's art production team. Note that Rockstar, as a company, has roughly doubled in size since the release of 2018's Red Dead Redemption 2 , growing from 2,441 employees to 4,711 across 12 offices. There's also some information about the origins of the contextual 'hold left trigger' interaction system introduced in Red Dead Redemption 2, which again, apparently came from someone autonomously working on the game - Phil Hooker (now director of technology) - rather than from one of the game's creative leads. Also, many experiments were apparently done to find a replacement for GTA's radial menu but in the end, the team reverted back to it. Grand Theft Auto 6 is, of course, releasing a month from now on 19th November. The road to launch has been bumpy, however, with Rockstar North currently embroiled in an employment tribunal in Scotland over the alleged unjust firings of 31 employees, and with a series of gameplay footage leaks exposing GTA 6 in ways that are outside of Rockstar's control.",
+          "image": "https://assetsio.gnwcdn.com/red-dead-redemption-2-horse_oWpviPa.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/a-fundamental-red-dead-redemption-2-system-provided-the-basis-for-how-gta-6s-npcs-work-but-it-was-nearly-cut-because-of-an-ambitious-rockstar-studio-head/",
+          "title": "A Red Dead Redemption 2 system that greatly shaped GTA 6 almost wasn't pitched",
+          "published_at": "2026-10-20T11:49:26+00:00",
+          "kind": "press",
+          "text": "\"This will revolutionize the way our games and our worlds work\" GTA 6 features an advanced take on Red Dead Redemption 2 's beloved NPC interaction system, though we might not have got it at all if one of Rockstar's leads hadn't changed their mind on sharing it with everyone else. That comes from Bloomberg reporter Jason Schreier, who has posted a YouTube video after visiting Rockstar to see GTA 6. During that visit, Schreier mentions a conversation with Rockstar North boss Rob Nelson, in which he says that vice president of animation Mark Tennant came up with a prototype of Red Dead 2 Redemption 2's advanced NPC tech way back in 2014 or 2015. The way it worked was simple – instead of pressing a button to point a gun at an NPC and have them react, you could press the same button to choose to greet or antagonize them. While the idea is simple to explain, the execution is complex. As such, when Tennant showed the prototype to another technical lead at Rockstar, Phil Hooker, he didn't want the system shown to Nelson initially. As Schreier explains, Nelson is known as the guy who \"wants to do the world\" – even if it leads to a lot of extra work for the team. Despite the concern, Nelson was eventually shown the prototype and was blown away. \"This is incredible,\" Nelson reportedly said in reaction. \"This will revolutionize the way our games and our worlds work.\" Amusingly, it sounds like Hooker was proven right. Implementing the system did prove to be a lot of work for Rockstar, though you'd argue it was absolutely worth it. Not only is Red Dead Redemption 2's NPC system well-loved, but we're getting an evolved version of it in GTA 6. We initially got an inkling that would be the case during a GTA 6 leak, though Rockstar's latest media rounds have further fleshed out the details. Weekly digests, tales from the communities you love, and more \"The NPC interaction system is one that is returning and evolved from Red Dead Redemption 2,\" Nelson confirmed to IGN . \"In the past we’ve had systems where you can speak to NPCs. In RDR1 and GTA 5, there were basic systems for interacting, but the interactions were very simple. \"But with Red Dead Redemption 2, we were finally able to incorporate the ability to interact with NPCs as a more fleshed-out system. Traditionally, L2 was a binary action that immediately aimed your gun at someone or locked onto them for combat. But as the resolution has increased, the experiences we create have had to evolve alongside that – the fidelity of them, how you can exist in them, and what you can do in them.\" While we need to wait and see what this means in full, the hint Nelson leaves us with comes down to the various ways NPCs can react to you in GTA 6's world. For example, it's normal for people to gather and chatter, though their behavior will influence how they feel about you eavesdropping. While some might be more inquisitive, others, to put it mildly, won't appreciate it at all. \"While we pushed this sort of interaction with NPCs as far as we could for Red Dead Redemption 2, with GTA 6 we are taking it much further,\" Nelson teases. To think, this might be something we didn't get at all if someone at Rockstar had been put off by how much work it would entail. Not even Rockstar heads know everything that's in GTA 6 because devs will just add stuff – which is also how Red Dead Redemption 2 got its absurd horse testicle physics. I joined GamesRadar+ in May 2022 following stints at PCGamesN and PocketGamer.Biz, with some freelance for Kotaku UK, RockPaperShotgun, and VG24/7 thrown in for good measure. When I'm not running the news team on the games side, you'll find me putting News Editor duties to one side to play the hottest JRPG of 20 years ago or pillaging the depths of Final Fantasy 14 for a swanky new cloak – the more colourful, the better. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/ps-plus/ps-plus-extra-deluxe-perdem-12-jogos-nov/",
+          "title": "GTA, Red Dead e mais: PS Plus Extra e Deluxe perdem 12 jogos em novembro",
+          "published_at": "2026-10-20T12:20:56+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2025/12/PS-Plus-Extra-Deluxe-Dezembro-25.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/gta-5-among-10-games-leaving-playstation-plus-in-november/",
+          "title": "GTA 5 Among 10 Games Leaving PlayStation Plus in November",
+          "published_at": "2026-10-20T13:10:55+00:00",
+          "kind": "press",
+          "text": "The Last Chance to Play section for PlayStation Plus has been updated, revealing that 10 games are leaving in November. PlayStation Plus adds a full set of games each month across the subscription service’s different tiers. Through the Extra and Premium tiers, players get access to a whole library of PS5 and PS4 games, called the Game Catalog. Each month a set of new games are added to the library and some are removed. Now, the latest set of removals has been revealed. If players go to the PlayStation Plus section on their consoles, then to ‘Collections,’ and scroll down to ‘Last Chance to Play,’ they will see the 11 games being removed on the list. The biggest ones on the list are Rockstar’s heavy hitters, GTA 5 and Red Dead Redemption 2. That makes sense, though, since the developers’ most-anticipated game, GTA 6, releases next month, so they’ll naturally remove the ways to play the previous installments. Other big names include the console versions of Football Manager 26 and Cricket 24, which sports fans should definitely check out before PS Plus removes them on November 17 (thanks, PlayStation Lifestyle ). Here’s the full list of games being removed from PlayStation Plus in November below: What are your thoughts on the games leaving PlayStation Plus in November? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server. For more information from Insider Gaming, read about CD Projekt Red announcing an Edgerunners 2 update for Cyberpunk 2077 . Don’t forget to sign up for our weekly newsletter .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/06/GTA-5-free-upgrade.jpg"
+        }
+      ]
+    },
     {
       "story_id": "f9da6789ca75c3b0",
       "title": "Modern Warfare 4: Campaign Early Access Now Live",
@@ -151,50 +223,50 @@
       ]
     },
     {
-      "story_id": "2b3b88fb307e72de",
-      "title": "Cyberpunk 2077 version 2.5 update launches October 22",
-      "summary": "CD Projekt RED will release the version 2.5 update for Cyberpunk 2077 on October 22 …",
+      "story_id": "db412059a39b86c2",
+      "title": "Directive 8020: A Dark Pictures Game online multiplayer mode update now available",
+      "summary": "Supermassive Games has released a free update for science-fiction survival horror adventure game Directive 8020: …",
       "owners": [
+        "gameblast",
         "gematsu",
-        "keleops",
-        "valnet"
+        "meups"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "49742f88133c38f1",
-        "0c53b7911932d780",
-        "27e3531f436040d0"
+        "888eae77af705e36",
+        "70b62e1b91f26308",
+        "68b8395b6b511c03"
       ],
       "sources": [
         {
           "name": "Gematsu",
           "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-update-launches-october-22",
-          "title": "Cyberpunk 2077 version 2.5 update launches October 22",
-          "published_at": "2026-10-20T10:05:19+00:00",
+          "url": "https://www.gematsu.com/2026/10/directive-8020-a-dark-pictures-game-online-multiplayer-mode-update-now-available",
+          "title": "Directive 8020: A Dark Pictures Game online multiplayer mode update now available",
+          "published_at": "2026-10-19T14:54:09+00:00",
           "kind": "press",
-          "text": "CD Projekt RED will release the version 2.5 update for Cyberpunk 2077 on October 22 to commemorate the release of the anime series Cyberpunk: Edgerunners II , the company announced . . The developer will host a REDstreams live stream on October 21 at 8:00 a.m. PT / 11:00 a.m. ET , where it will share a closer look at some of the features coming in the version 2.5 update, including cyberware customization, a new dual-wielding playstyle, and more. You will be able to watch it on YouTube and Twitch . Cyberpunk 2077 is available now for PlayStation 5 , Xbox Series , Switch 2 , PlayStation 4, Xbox One, PC via Steam , Epic Games Store , and GOG .",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Cyberpunk-2077-Update_10-20-26.jpg"
+          "text": "Supermassive Games has released a free update for science-fiction survival horror adventure game Directive 8020: A Dark Pictures Game , which adds an online multiplayer mode for up to five players. The new online multiplayer mode allows up to five players—(each must own their own copy of the game)—to connect across multiple locations and experience the gripping story that unravels in space, together. Mirroring Directive 8020 ‘s Movie Night Mode couch cooperative experience, each online player takes control of a crew member aboard the Cassiopeia, taking their turn directly on their own screen and device. Directive 8020: A Dark Pictures Game is available now for PlayStation 5 , Xbox Series , and PC via Steam . View a new set of screenshots at the gallery .",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/10/Directive-8020-A-Dark-Pictures-Game_2026_10-19-26_002.jpg"
         },
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/cyberpunk-2077-edgerunners-season-2-patch-update-netflix-2000747931",
-          "title": "Six Years Later, Cyberpunk 2077 Is Still Getting Updates",
-          "published_at": "2026-10-20T13:09:52+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/directive-8020-multiplayer-online-5-jogador/",
+          "title": "Directive 8020 recebe multiplayer online para até 5 jogadores no PS5",
+          "published_at": "2026-10-19T18:55:04+00:00",
           "kind": "press",
-          "text": "Cyberpunk: Edgerunners â second season is out on Netflix today, and I didnât really care for it very much . That said, the first season in 2022 had a real hand in rehabilitating Cyberpunk 2077 âs image after its rocky 2020 launch, so it makes sense that CD Projekt Red would be doing something with the RPG to commemorate the second seasonâs premiere.Â Cyberpunk 2077 âs 2.5 update is coming this week on October 22, and while the team didnât get too into the details about what it would include, it did schedule a new REDStreams presentation to talk about the patch for tomorrow, October 21st at 10 a.m. Eastern. The announcement does mention âcyberware customizationâ and âa new dual-wielding playstyle.â as some of the additions in the 2.5 update. Based on the promo image, which shows protagonist V standing back to back with Weak Kingsley, one of the characters in Edgerunners II , there may also be some new photo mode poses and other features, as V is shown dual-wielding guns, which is not a pose typically seen in-game. Or this could just be bespoke art. Weâll see tomorrow. While Cyberpunk 2077 is getting a few updates here and there, the bulk of CD Projekt Red is working on The Witcher IV , which is set to launch in 2028 . The Witcher 3: Wild Hunt is getting a new DLC to hold people over until the next game, though, so the wait wonât feel that long. A sequel to Cyberpunk 2077 is also in the works, but that is still likely years away. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. You will see at least one familiar face in the new Netflix anime Studio Trigger and Netflixâs second season trades away the first seasonâs focus for no real benefit Hollywood continues its rush to make more video game adaptations following Mario and Minecraft success Itâs been a while since I went back home to Night City CD Projekt Red's crossover with Battle.net has a frustrating catch Just calling it a 'remaster' might not do justice to what CDPR has planned",
-          "image": "https://kotaku.com/app/uploads/2023/09/d01d81c8eec5957be48bc7819fce7f13-1200x675.jpg"
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/Directive-8020.webp"
         },
         {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/cyberpunk-2077-edgerunners-2-update-netflix/",
-          "title": "Cyberpunk 2077 Is Getting a Big Update This Week",
-          "published_at": "2026-10-20T14:05:48+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/10/directive-8020-recebe-suporte-a-multiplayer-online-em-nova-atualizacao.html",
+          "title": "Directive 8020 recebe suporte a multiplayer online em nova atualização",
+          "published_at": "2026-10-20T15:16:55+00:00",
           "kind": "press",
-          "text": "It'll feature content inspired by Edgerunners 2 Cyberpunk: Edgerunners 2 is out on Netflix: It's a standalone sequel to the first Edgerunners anime from 2022, and both seasons connect to CD Projekt Red's RPG Cyberpunk 2077 . To celebrate the release of the new anime, CDPR has announced Cyberpunk 2077 will receive a new update this week. CD Projekt Red is calling it the Edgerunners 2 Update or Update 2.5, and it will include \"content inspired by the anime,\" according to a news release. Also on the way are \"a range of other new items and features.\" That is all CD Projekt Red has shared at this time. The publisher will host a livestream on Wednesday at 11 a.m. EDT to go into detail about what the update entails. You can watch the stream on Twitch, YouTube, and Steam. Or ignore the stream and go into the new update blind. You do you. Edgerunners 2 Update will be released on Oct. 22 for PlayStation 5, Windows PC, and Xbox Series X, while the update for the Nintendo Switch 2 version will \"follow shortly.\" Like Cyberpunk 2077 , Cyberpunk: Edgerunners takes place in the futuristic Night City, where gang violence and body modification run rampant. Season 1 followed the rise and fall of David Martinez, undone by an excess of cybernetic implants. Season 2 follows a new cast trying to survive in the chaos of Night City. \"With the intertwining stories of a veteran edgerunner, a young cinephile, a chrome-obsessed delinquent, and a Snake Nation netrunner, the series tells a raw and emotional tale of vengeance and redemption,\" the news release says. Polygon's Ryan Epps saw the first episode over the summer at Anime Expo and enjoyed it. \"Packed with incredible colors, gorgeous framing, and punchy sound design, Edgerunners 2 is a fresh take on a beloved world,\" he wrote .",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24954550/Cyberpunk_2077_Phantom_Liberty_Songbird_romance.png?w=1600&h=900&fit=crop"
+          "text": "A atualização já está disponível em todas as plataformas. O novo modo multijogador online permite que até cinco jogadores — cada um com sua própria cópia do jogo — se conectem de diferentes locais e vivenciem juntos a envolvente história que se desenrola no espaço. Assim como na experiência cooperativa local do Modo Noite de Cinema de Directive 8020, cada jogador online assume o controle de um membro da tripulação a bordo da Cassiopeia, jogando sua vez diretamente na própria tela e dispositivo. Directive 8020 já está disponível para PlayStation 5, Xbox Series e PC (via Steam ).",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz4gKeYpHcnHM_-T9CsyZL1MkOCDwiPkQfIzorOWxcS6NxvwGeRCZATWn4xX2_Is1bb3JCZYgIf6e6Wgq_9oPVaR_9TL_39QHnVNt9rDBDBE3ZtCYdr93IyI3cDuJNMoqCALqjCqJWo4LWYseDoU4bEF8tsBC9Jv130BkHaP5xo2Pe76jppB_9Nv5nic/w1200-h630-p-k-no-nu/BlastCapa.jpg"
         }
       ]
     },
@@ -231,8 +303,8 @@
           "title": "Análise: Final Fantasy Resonance combina nostalgia e estratégia em um JRPG cativante",
           "published_at": "2026-10-20T13:00:00+00:00",
           "kind": "press",
-          "text": "O RPG conquista com um mundo envolvente e combates versáteis, mas nem sempre escapa das convenções do passado.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifPAA6ab5MxxLH9n8iaMljggLZddj2hlMOveyF-_pgwdcCaaFH2aSbilj6mJ2dC7h0jQrlSx4yv4UINkg8Y5C29T_C9bz0X_cosmIYSBQKPS7sTPq_bERm4OBs0U9tnKjCbBXbRM9RgIXJLNPojjPWFIve2whC19Dl2EHb0oRYKXZlQsSnPOzARV5lpfDy/w1200-h630-p-k-no-nu/final-fantasy-resonance-capa.jpg"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Video Games Chronicle",
@@ -243,6 +315,78 @@
           "kind": "press",
           "text": "Alongside Square Enix’s Pixel Remasters and other HD-2D games, Resonance isn’t an essential experience Final Fantasy Resonance doesnât really have to do anything new. This is a new adaptation of an older mobile game, Final Fantasy Brave Exvius, with the gacha system removed and progression completely reworked to befit a more standard, single-player, premium JRPG. Those are all points in its favor, and Resonance evokes the atmosphere and spirit of classic Final Fantasy, but itâs still an adaptation of that older mobile game. Resonance is set in a Final Fantasy world thatâs familiar, but not the same as the ones youâve played before (unless youâve literally played Brave Exvius). Armor-clad knights, elemental crystals, spirits, and summons. Everything about the setting, character designs, and major story beats feels cherry-picked from classic FF games that fans are nostalgic for. Thatâs not necessarily a bad thing. Final Fantasy games have a unique vibe that other long-running JRPG series just canât quite muster, and Resonance manages to evoke that atmosphere even when some numbered entries struggle to do so. On the other hand, this familiarity makes it difficult to connect with the cast when their archetypes shine through more strongly than their own personalities. I quite like the protagonist duo of Rain and Lasswell. Rain is boisterous and doesnât have the gentlemanly qualities of most knights, but is an innately talented warrior. Lasswell, meanwhile, picks up the slack to ensure his adopted brother Rain can rise in the ranks and let his talents shine. But while Lasswell is a more interesting character, he has to give way to Rain, who has unique magical abilities he doesnât understand the origin of. Aside from one major exception, most of your party members are downplayed by the plot past the chapter in which theyâre introduced. Lid is incredibly charming when you first meet her, but past that point her character moments are few and far between. Nicholâs introduction is intense and emotional, but once itâs over, it feels swept under the rug. Past that point, theyâre functional party members that give you more options in battle, and rarely more than that. The major defining feature that sets Resonance apart from other FF games is the Vision system. Youâre able to equip a Vision to each party member, and this Vision takes the form of another character from across the Final Fantasy pantheon. Upgrading Visions gives you access to more of their attacks in battle, and you can freely choose between your own characterâs pool of skills or their equipped Visionâs. Keeping a Vision equipped will enable you to level up a characterâs synergy with it, allowing you to equip abilities and skills from that Vision permanently. Itâs like a hot-swappable job system. If you feel one of your characters needs more curative skills, then you can equip them with a White Mage Vision. If you need access to Water and Thunder element attacks, then teaming up with Cloud Strife is a good idea. There are dozens of characters from different FF games available to unlock and equip as Visions â protagonists and final bosses alike â and this acts as the gameâs main hook. Swapping through Visions, increasing synergy across the cast, and building your main party members to be as capable as possible. “There are dozens of characters from different FF games available to unlock and equip as Visions â protagonists and final bosses alike â and this acts as the gameâs main hook” When collecting Visions from the various Sanctums of Light across the land, you complete a quick three-step quiz to see how well you resonate with the Vision youâre summoning, and the questions are worded so obviously that youâll probably understand what the correct answers are without ever playing the game the Vision is from. Itâs obviously an improvement over Brave Exviusâ gacha system, but these moments feel somewhat cheap, evoking nostalgia for better games. It makes sense for a mobile title, but as a premium game it falls flat. Still, Visions do a lot to spice up a battle system that is otherwise tried and tested. Itâs a traditional turn-based affair with a basic attack, each characterâs own skills, and those of your equipped Vision. You also get access to Limit Break abilities, and modifiers that allow you to build LB more quickly. The final piece of the puzzle is summonable spirits, called Espers, that act as a fifth party member for a short time in battle before unleashing a final strike on your enemies. Otherwise, youâll be using familiar Final Fantasy strategies such as using Protect and Haste to strengthen your team while staggering and damaging foes. Itâs impossible to get lost in Resonance thanks to a map which constantly shows where your next main objective is, along with any side quests youâve picked up. Side quests can offer decent rewards â including some nice upgrades for Lidâs Mecha Chocobo â but by and large theyâre pretty dull, often having you backtrack a bit through an earlier dungeon to witness a new scene or collect an item. Resonance successfully evokes the vibes and atmosphere of Final Fantasy, sure, but it doesnât live up to its inspirations. The battle system and Visions are the standout features, and even they arenât any kind of revolutionary, being broadly bettered by other HD-2D titles from Square Enix . Many of the minor qualms and complaints arenât because of any lack of talent on the behalf of the developers, I think theyâve done a great job adapting a mobile game into a premium title. But the design of its mobile origins limits this gameâs ambitions. Resonance, if it were a truly original title, couldâve been a bigger, bolder celebration of Final Fantasyâs history. As it is, it falls short of that. Final Fantasy Resonance is a fun JRPG releasing just when I personally needed a classic turn-based experience, but in a world with HD-2D rele",
           "image": "https://www.videogameschronicle.com/files/2026/10/ffresonancereview.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "9689c2714d30248a",
+      "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More",
+      "summary": "Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that “Play Next List” and let’s get to it! Coming Soon Sandustry(Game Preview) (PC) – October 21Now with Game Pass Premium; […] The post Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake...",
+      "owners": [
+        "fandom",
+        "insider-gaming",
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "4f9ecfa454686cdc",
+        "8906f4739be1366d",
+        "26c402bcb83bbfa8",
+        "024aa4e605668be2",
+        "9b553309fb41b74e"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
+          "title": "Coming to XBOX Game Pass: Final Fantasy VII Remake Intergrade, The Séance of Blake Manor, and More",
+          "published_at": "2026-10-20T16:00:00+00:00",
+          "kind": "primary",
+          "text": "Ghosts to question and a planet to save. Sounds like a perfectly reasonable few weeks to me! We have another batch of games coming soon to Game Pass, so clear a little room in that “Play Next List” and let’s get to it! Sandustry (Game Preview) (PC) – October 21 Now with Game Pass Premium; joining Game Pass Ultimate and PC Game Pass Explore and mine fully destructible worlds. Automate increasingly complex production chains. Delve deep to uncover an ancient civilization’s powerful secrets and learn to love the sand in this factory game where every pixel is a valuable resource. Dodo Duckie (Cloud, XBOX Series X|S, and PC) – October 22 Game Pass Ultimate, Game Pass Premium, PC Game Pass Waddle into a reality-bending odyssey where simply being a duck is your greatest superpower. With the help of your magical cap, switch instantly between 2D and 3D to uncover hidden paths, outsmart aliens, solve puzzles and rescue your kidnapped chicken friends in this wholesome puzzle platformer adventure. Scramble Knights Online (Game Preview) (Cloud, XBOX Series X|S, and PC) – October 26 Game Pass Ultimate, PC Game Pass Available on day one with XBOX Game Pass! Adventure together with your friends in this MMO-lite action RPG! Explore the shared online kingdom of Terracott as a knight-in-training. Work together to take on quests, conquer dungeons, slay monsters, discover rare loot, and return home to forge powerful new gear before setting out on your next quest. The Séance of Blake Manor (Cloud, XBOX Series X|S, and PC) – October 27 Game Pass Ultimate, Game Pass Premium, PC Game Pass The Séance of Blake Manor is a supernatural detective mystery, set in 1897 Ireland, where you investigate the disappearance of a young woman in a remote hotel full of secrets and other-worldly occurrences. Final Fantasy VII Remake Intergrade (Cloud, XBOX Series X|S, and PC) – October 29 Game Pass Ultimate, Game Pass Premium, PC Game Pass The award-winning Final Fantasy VII Remake Intergrade retells the original story up to the escape from Midgar with breathtaking visuals, fast-paced gameplay, and additional story elements. This RPG delivers unforgettable characters, a powerful narrative, and a hybrid battle system that blends real-time action with strategic, command-based combat. Plants vs. Zombies: Replanted (Cloud, Console, and PC) – October 29 Game Pass Ultimate, PC Game Pass The classic Plants vs. Zombies returns in glorious HD! The original battle between Plants and Zombies is back – bigger, brighter, and crazier than ever before. EA Play members can revisit the epic backyard battles that started it all, now with new levels and more. Terrible Lizards (Cloud, XBOX Series X|S, and PC) – October 29 Game Pass Ultimate, PC Game Pass Available on day one with XBOX Game Pass! Terrible Lizards, a horror parkour game, is the debut game from WDR Studios, founded by the creators behind JTMusic. It is a love letter to the games and media the team grew up with and sees players escaping threats using parkour moves. Rather than fighting back, players rely on fast, fluid movement. Pit of Goblin (Cloud, XBOX Series X|S, and PC) – November 3 Game Pass Ultimate, Game Pass Premium, PC Game Pass In this online horror co-op, you play as a scrappy goblin, scavenging dungeons, dodging traps, and fleeing monsters to feed the Goblin King-Queen. Team up with goblin pals, or go rogue, as you dive deep and cause chaos! Fail to feed them, and you might be the next meal! The Elder Scrolls Online : Season 2 Update: Echoes of Skyrim – October 21 Return to the homeland of the Nords in Western Skyrim, stand alone in two perilous solo dungeons, enjoy player-requested gameplay improvements, and unlock monstrous new rewards with the free and premium versions of the Season Two Tamriel Tome- available until January 27! The Finals : Welcome Pack – Available Now Game Pass Ultimate, Game Pass Premium, Game Pass Essential, PC Game Pass The Finals , a free-to-play, team-based, first-person shooter is the ultimate virtual combat game show. Get the Welcome Pack which includes 500 Multibucks, a 25% Bonus XP boost, and the “Pretty Hostile” set featuring a weapon skin, an emote, a spray, and an outfit. Only available while the season lasts! World of Tanks Modern Armo r: XP Stock – November 3 Game Pass Ultimate, Game Pass Premium, Game Pass Essential, PC Game Pass Stay ahead of the competition with this exclusive bundle, specially crafted for Game Pass subscribers! It’s packed with powerful rewards that will help you dominate even the toughest challenges! Here’s what you’ll find in this bundle: 20 Enhanced Repair Kits, 20 Enhanced Med Kits, 20 Automatic Fire Suppressors. The following games are leaving the Game Pass library soon. Don’t want the fun to end? Save on these games now before they leave Game Pass! Plenty to keep you busy, assuming your backlog hasn’t already achieved sentience. We’ll be back with more games soon, so stay tuned and we’ll see you next time! Note: Games with a ‘Handheld’ designation represent those that are optimized for handheld play.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/XGP_ComingSoon201026_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_EN-US-f6dc970066614f9c5440.jpg"
+        },
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/pt-br/2026/10/20/xbox-game-pass-outubro-2026-wave-2/",
+          "title": "Chegando ao XBOX Game Pass: Final Fantasy VII Remake Integrade, The Séance of Blake Manor e mais",
+          "published_at": "2026-10-20T16:00:12+00:00",
+          "kind": "primary",
+          "text": "Fantasmas para interrogar e um planeta para salvar. Parece uma programação perfeitamente razoável para as próximas semanas! Temos mais uma leva de jogos chegando em breve ao Game Pass, então abra um espacinho na sua lista “Jogar a seguir” e vamos nessa! Sandrustry (Game Preview) (PC) 21 de outubro – agora também no Game Pass Premium (já disponível no Game Pass Ultimate e PC Game Pass) Explore e minere mundos totalmente destrutíveis. Automatize cadeias de produção cada vez mais complexas. Mergulhe nas profundezas para desvendar os poderosos segredos de uma civilização antiga e aprenda a gostar de areia neste jogo de construção de fábricas em que cada pixel é um recurso valioso. Dodo Duckie (nuvem, XBOX Series X|S e PC) 22 de outubro – Game Pass Ultimate, Premium e PC Game Pass Embarque em uma odisseia que desafia a realidade, na qual simplesmente ser um pato é o seu maior superpoder. Com a ajuda do seu boné mágico, alterne instantaneamente entre 2D e 3D para descobrir caminhos escondidos, enganar alienígenas, resolver quebra-cabeças e resgatar seus amigos galinhas sequestrados nesta encantadora aventura de plataforma e quebra-cabeças. Scramble Knights Online (Game Preview) (nuvem, XBOX Series X|S e PC) 26 de outubro – Game Pass Ultimate e PC Game Pass Disponível no primeiro dia no XBOX Game Pass! Embarque em uma aventura com seus amigos neste RPG de ação “MMO-lite”! Explore o reino online compartilhado de Terracott como um cavaleiro em treinamento. Trabalhem juntos para cumprir missões, conquistar masmorras, derrotar monstros, descobrir itens raros e voltar para casa para forjar novos equipamentos poderosos antes de partir para a próxima missão. The Séance of Blake Manor (nuvem, XBOX Series X|S e PC) 27 de outubro – Game Pass Ultimate, Premium e PC Game Pass The Séance of Blake Manor é um mistério de investigação sobrenatural ambientado na Irlanda de 1897, no qual você investiga o desaparecimento de uma jovem em um hotel remoto repleto de segredos e acontecimentos sobrenaturais. Final Fantasy VII Remake Integrade (nuvem, XBOX Series X|S e PC) 29 de outubro – Game Pass Ultimate, Premium e PC Game Pass O premiado Final Fantasy VII Remake Intergrade reconta a história original até a fuga de Midgar, com visuais de tirar o fôlego, jogabilidade dinâmica e elementos adicionais de história. Este RPG apresenta personagens inesquecíveis, uma narrativa marcante e um sistema de batalha híbrido que combina ação em tempo real com combates estratégicos baseados em comandos. Plants vs. Zombies: Replanted (nuvem, console e PC) 29 de outubro – Game Pass Ultimate e PC Game Pass O clássico Plants vs. Zombies está de volta e gloriosamente em HD! A batalha original entre plantas e zumbis retorna maior, mais vibrante e mais maluca do que nunca. Os assinantes do EA Play podem revisitar as épicas batalhas no quintal que deram início a tudo, agora com novas fases e muito mais. Terrible Lizards (nuvem, XBOX Series X|S e PC) 29 de outubro – Game Pass Ultimate e PC Game Pass Disponível no primeiro dia no XBOX Game Pass! Terrible Lizards , um jogo de parkour de terror, é o título de estreia da WDR Studios, fundada pelos criadores do JTMusic. O jogo é uma carta de amor aos games e às produções que marcaram a infância da equipe e desafia os jogadores a escapar de ameaças usando movimentos de parkour. Em vez de revidar, eles precisam contar com movimentos rápidos e fluidos. Pit of Goblin (nuvem, XBOX Series X|S e PC) 3 de novembro – Game Pass Ultimate, Premium e PC Game Pass Neste jogo cooperativo de terror online, você assume o papel de um goblin ardiloso, vasculhando masmorras, desviando de armadilhas e fugindo de monstros para alimentar o Rei-Rainha Goblin. Junte-se aos seus amigos goblins ou siga por conta própria enquanto mergulha nas profundezas e espalha o caos! Se não conseguir alimentar a realeza, você pode acabar sendo a próxima refeição! The Elder Scrolls Online : atualizaçõa da temporada 2: Echoes of Skyrim 21 de outubro Retorne à terra natal dos nórdicos em Skyrim Ocidental, aventure-se por conta própria em duas masmorras solo perigosas, aproveite melhorias de jogabilidade solicitadas pelos jogadores e desbloqueie novas recompensas monstruosas com as versões gratuita e premium do Tomo de Tamriel da Temporada 2 — disponível até 27 de janeiro de 2027! The Finals : Pacote de boas-vindas Já disponível – Game Pass Ultimate, Premium, Essential e PC Game Pass The Finals , um jogo de tiro em primeira pessoa gratuito e baseado em equipes, é o mais espetacular game show de combate virtual. Resgate o Pacote de Boas-vindas, que inclui 500 Multibucks, um bônus de 25% de XP e o conjunto “Pretty Hostile”, com uma aparência de arma, um gesto, um spray e um traje. Disponível somente durante esta temporada! World of Tanks Modern Armor: XP Stock 3 de novembro – Game Pass Ultimate, Premium, Essential e PC Game Pass Fique à frente da concorrência com este pacote exclusivo, criado especialmente para assinantes do Game Pass! Ele está recheado de recompensas poderosas que ajudarão você a superar até os desafios mais difíceis! Confira o que você encontrará neste pacote: 20 Kits de Reparo Aprimorados, 20 Kits Médicos Aprimorados e 20 Extintores Automáticos. Os jogos a seguir deixarão o catálogo do Game Pass em breve. Não quer que a diversão acabe? Aproveite os descontos nesses jogos antes que eles saiam do Game Pass! Há muita coisa para manter você ocupado — isso se a sua lista de jogos pendentes ainda não tiver adquirido consciência própria. Voltaremos em breve com mais jogos, então fique ligado e até a próxima! Observação: jogos com a designação “portátil” representam aqueles que são otimizados para jogar em dispositivos portáteis.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/10/XGP_ComingSoon201026_16x9_FBXTH_N_CW90_GBL_MGP_N_N_1_PT-BR-d6b4150e205c09106629.jpg"
+        },
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-october/",
+          "title": "Xbox Game Pass Is Losing 8 More Games In October",
+          "published_at": "2026-10-19T10:22:22+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/xbox-game-pass-newest-wave-is-headlined-by-a-huge-final-fantasy-adventure/",
+          "title": "Xbox Game Pass’s Newest Wave Is Headlined By A Huge Final Fantasy Adventure",
+          "published_at": "2026-10-20T16:12:33+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/xbox-game-pass-october-wave-2-games-revealed/",
+          "title": "XBOX Game Pass October Wave 2 Games Revealed",
+          "published_at": "2026-10-20T16:27:12+00:00",
+          "kind": "press",
+          "text": "A new announcement reveals all the fresh additions for XBOX Game Pass Wave 2 for October 2026, with Final Fantasy 7 Remake Intergrade being the biggest name on the list. Players already received a full set of titles earlier this month, including the Day One exclusive Gears of War: E-Day. Players have also been informed about all the games that will be leaving across the two October waves, and now we finally have a list of the last set of games being added this month. A new post on the XBOX Wire reveals all the new additions for Game Pass October Wave 2. Players will get 8 more titles to try this month, including two day-one games. The standout title is Final Fantasy 7 Remake Intergrade, which players can play before purchasing Rebirth, and it offers the full experience ahead of Revelation. Other than that, Plants Vs. Zombies is also on the list; game update: Elder Scrolls Online: Season 2 Update: Echoes of Skyrim arrives on October 21, plus in-game benefits for The Finals and World of Tanks Modern Armor. Here are all the games being added to XBOX Game Pass in October Wave 2, along with platforms and subscription tiers needed: What are your thoughts on the October Wave 2 titles for XBOX Game Pass? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more Insider Gaming news, read about GTA 6 already making $600 million in pre-order sales . Don’t forget to sign up for our weekly newsletter .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2025/12/Game-Pass-2025-Games.jpg"
         }
       ]
     },
@@ -285,114 +429,6 @@
       ]
     },
     {
-      "story_id": "1c3708654c8d5d9a",
-      "title": "Frozen Trail finally puts the 'raid' in Arc Raiders",
-      "summary": "The Fallen Emperor and Arc Frigate have me excited for the game's future.",
-      "owners": [
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "0e8d1801ca402136",
-        "270c12f7773514e2"
-      ],
-      "sources": [
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/third-person-shooter/frozen-trail-finally-puts-the-raid-in-arc-raiders/",
-          "title": "Frozen Trail finally puts the 'raid' in Arc Raiders",
-          "published_at": "2026-10-18T16:00:00+00:00",
-          "kind": "press",
-          "text": "The Fallen Emperor and Arc Frigate have me excited for the game's future. Welcome to Play This Right Now, the site version of our weekly newsletter in which we celebrate a new game, update, or DLC that we think is well worth checking out. You can subscribe to the newsletter at the link if you want to get our thoughts about a new videogame happening direct to your inbox every Thursday. I'm standing on top of a flying fortress hundreds of feet in the air, as around me, 15 or so players wage a losing battle against a swarm of flying robots armed with rockets and lasers. It's utter chaos. We fight further and further into the ship, unlocking platforms, defeating waves of enemies and giant turrets which pop out of the deck to gun down unsuspecting looters. But I think we're done. Time is running short and we've once again stalled at this stage of the puzzle. All that's left now is to try and make it back to ground in one piece and live to attempt another day. This is the Frigate , one of Arc Raiders two new raid-style activities, and it's exactly what the game needed. Rather than content you can complete the day the update comes out, Frozen Trail 's Frigate and Fallen Emperor represent a deeper loot chase, tied into upgrading the new outpost and workbenches to fashion special weapons which fire explosive bullets or incendiary grenades. More than that: they're properly fun . I've raided a lot in Destiny 2, completed its dungeons more times than I can count (including soloing some) and I'm quite impressed with the variety of these endgame challenges, how they demand cooperation from players, but also really tie into the features and loot chase that Frozen Trail added. While the Arc Frigate is a pitched battle blasting endless waves of robots as you try to unlock its cargo hold with a bunch of other raiders, the Fallen Emperor is more of an individual challenge. This series of mostly randomised encounters sees you solving puzzles and painstakingly platforming your way through its labyrinth of hazards and Hydra turrets, which love to pick you off when you're dangling in some precarious position. It's a race to perpetrate a bank heist in the corpse of a colossal robot, and if that doesn't get your juices flowing, I don't know what will. Part of the fun is Frozen Trail's new Grappling Hook item, an easy to craft traversal tool that lets you scale and swing in a much more enjoyable way than the game's existing Snap Hook—I always carry one now, just for ease of exploration. The Fallen Emperor is also smart in terms of loot, designed like a kids' gameshow (did anyone here watch Jungle Run?). Players who want the guaranteed big score at the end are incentivised to rush there, lest another raider beat them, but since there are loot containers between each encounter and concealed in them, other players can filter in and still have a chance at getting rare items and rewards for encounters without making it to the end. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. The same goes for the Arc Frigate—it's not just about who gets there first; these encounters are layered with loot, and often reward exploration as much as pushing for the end goal, especially as the new upgrades require a wide range of materials. Though Frozen Trail has its bugs—my reward pass still isn't fixed—this is such a positive update for the game's direction. If the PvE-mode test is anything to go by, we'll soon be able to play Arc Raiders' endgame events like the Fallen Emperor, Frigate, Matriarch, or Harvester without fear of getting ratted and having our loot stolen while we're trying to fight big arc, work together, and puzzle stuff out. I'm not a player who minds PvP or the way it elevates the tension and excitement of the extraction shooter genre, but I think there's a good case to be made for a PvE-only option when running PvE-centric endgame events, which often require cooperation. It's also uniquely frustrating getting ambushed after successfully completing one. This happened to me after landing a huge loot haul on the Frigate and basically being the only raider to make it out alive—I was riding high, I wasn't cautious, and of course some punk with a Kettle was waiting at extraction. He even said \"Hello\" before he ratted me. It's a sucky way to end these cool events and it dissuades players from investing in their challenge, so hopefully any eventual PvE mode that does appear will include these. Still, these new raid-style events have me so excited for the future of Arc Raiders. I can't help but fantasize about how fun and rewarding a Destiny 2 length raid in Arc Raiders would be, or something similar to Building 21 or Koschei Complex in DMZ—a dedicated mode with its own timer, challenges, and bosses. I can't wait to see what endgame content Embark cooks up next. Arc Raiders guide : What's hot this week Arc Raiders roadmap : New and improved Arc Raiders best skills : Survive the surface Arc Raiders best weapons : Just don't lose them Arc Raiders Expeditions : Retire your Raider Arc Raiders quests : All the missions and how to beat 'em Sean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/AevreNKXsaDy2wzyyA9Fdj-2480-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high",
-          "title": "Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update",
-          "published_at": "2026-10-19T17:22:27+00:00",
-          "kind": "press",
-          "text": "Arc Raiders is still going strong almost a year after finding viral success, and it's all thanks to Embark Studios' one-two-punch strategy of launching a huge new update, Frozen Trails, to coincide with a free weekend. Arc Raiders' Frozen Trails update upgraded the extraction shooter to version 2.0 earlier this month - 8th October - and quickly led to a surge in Steam players interested in its tense PvEvP shootouts. A new report from Alinea Analytics ' Rhys Elliott now claims a similar resurgence took place across all platforms where the game's available. According to the report, Arc Raiders' comeback peaked with a whopping 1.7m daily players jumping in on the 14th of October, its biggest player count in six months, mostly driven by the aforementioned update. What's perhaps most interesting is that player numbers actually peaked just after the game's free trial weekend ended on 12th October - though around 150,000 new looters reportedly joined the robo-infested wasteland during that weekend period. Both events coincided with the game's steepest discount yet, slashing its price tag by 50% to $19.99. In the three days after the free trial, Arc Raiders sold another 150,000 copies and brought home roughly $3m, not counting microtransactions, per the report. Embark Studios' seemingly went all out this month. Frozen Trails itself nudged almost every corner of the game, adding a new map, new weapons, new menacing mechs and much more. A PvE test also tried to accommodate the game's surprisingly friendly community between the 13th and 20th of October. Executive producer Aleksander Grøndal recently said the team isn't against the idea of permanently splitting Arc Raiders' PvEvP gameplay into PvE and PvP pockets . Who knows? Doing so could open the door to another resurgence if done well. Earlier this month, we learned the production company behind this summer's big screen horror hit, Backrooms, is working to adapt both Arc Raiders and The Finals into film and TV projects . Developer Embark is involved, too.",
-          "image": "https://assetsio.gnwcdn.com/arc-raiders-headline.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
-      "story_id": "4c9bcf62655e9cde",
-      "title": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
-      "summary": "Star Wars Jedi: Survivor é um dos títulos mais recentes que te permitem ser um Jedi.",
-      "owners": [
-        "meups",
-        "nzn"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "4e474e6ea575090e",
-        "03c8b82ae4119ecf"
-      ],
-      "sources": [
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/8-melhores-jogos-de-star-wars-com-jedi-e-sabres-de-luz/",
-          "title": "8 melhores jogos de Star Wars que deixam você ser um Jedi",
-          "published_at": "2026-10-18T17:15:00+00:00",
-          "kind": "press",
-          "text": "Temos certeza que praticamente todos os fãs de Star Wars já sonharam com a possibilidade de empunhar um sabre de luz um dia. Enquanto na vida real temos que nos contentar com meras réplicas, no mundo dos games podemos tornar o sonho de virar um Jedi em realidade. Há muitos jogos que nos permitem reviver eventos famosos da saga de George Lucas, enquanto outros nos trazem histórias e personagens totalmente inéditos. Por isso, nós reunimos os 8 melhores jogos de Star Wars que deixam você ser um Jedi , seja lutando no chão com seu sabre ou pilotando um X-Wing pelos ares. Confira! Sabemos que há inúmeros jogos que realizam essa fantasia, então tentamos selecionar uma lista mais diversa e apenas com jogos de qualidade inspirados na franquia. Lançado em 2019 pela Respawn Entertainment, em Fallen Order , você controla Cal Kestis, um jovem Padawan que sobreviveu à Ordem 66 e vive escondido , trabalhando em um ferro-velho. Quando sua identidade é exposta, ele precisa fugir do Império e continuar seu treinamento. O combate é um dos grandes destaques, já que exige paciência e leitura do adversário. É claro que também há os poderes da Força, como empurrar e frear inimigos , para complementar o arsenal. Tudo ajuda a te fazer você se sentir como um Jedi em formação. Star Wars Jedi: Survivor , lançado em 2023, se passa mais ou menos 5 anos depois e mostra um Cal mais experiente, mas também mais sobrecarregado pelas consequências de suas escolhas. A história ganha um tom mais sombrio e maduro, e o mundo é maior, com destaque para o planeta Koboh. Survivor melhora o sistema de combate com várias posturas de sabre, entre elas a de sabre duplo, sabre cruzado e a combinada com blaster . Cada uma muda o ritmo das lutas e abre espaço para estilos diferentes. É um dos jogos mais completos já feitos sobre a vida de um Jedi e para muitos fãs é um dos melhores exemplos atuais do gênero. Lançado em 2011 pela BioWare, The Old Republic é um MMORPG que se passa milhares de anos antes dos filmes , numa época em que a República e o Império Sith disputam a galáxia. O jogo permite criar seu próprio personagem e escolher entre classes de Jedi ou de Sith. O grande diferencial é a ênfase na narrativa. Cada classe tem uma história própria, com diálogos dublados e decisões que afetam o desenrolar dos acontecimentos. Além disso, é possível jogar com outras pessoas em missões cooperativas, enfrentar chefes e explorar planetas lendários. Lançado em 2003 pela Raven Software, Jedi Academy é um dos favoritos dos fãs até hoje . Você controla um aluno e o treina na academia de Luke Skywalker, aprendendo o caminho da Força sob a orientação de Kyle Katarn. O jogo se destaca pela liberdade de personalização. Você escolhe o formato do sabre, a sia cor e entre os estilos de luta que o jogo oferece. O sistema de poderes ainda permite combinar habilidades do lado do bem e do lado sombrio . Fora isso, há o modo multiplayer que ainda conta com uma comunidade ativa com vários mods e servidores. Este Battlefront II , da Pandemic Studios, não é focado em ser um Jedi logo de início, mas oferece momentos memoráveis para quem gosta da saga. Após alguns tiroteios mais normais, você pode participar das grandes batalhas no papel de personagens como Luke Skywalker , Obi-Wan Kenobi, Yoda, Mace Windu e Darth Vader. O ponto alto é a campanha, que acompanha a ascensão do Império a partir da perspectiva da 501ª Legião , e o modo Conquista Galáctica, que combina estratégia e ação. Ver um Jedi cruzando o campo de batalha, desviando de rajadas e derrubando adversários com a Força é algo que o jogo fez com mais charme do que muitos títulos posteriores. Merece a lista pela diversão e pelo valor nostálgico. Lançado em 2008, The Force Unleashed apresenta Starkiller, o aprendiz secreto de Darth Vader . A trama se passa entre os Episódios III e IV e mostra o que aconteceu enquanto o Império caçava os últimos Jedi. Nesse jogo, dá para fazer muita coisa, já que você pode arremessar inimigos para longe, destruir estruturas, levantar caças TIE do chão e disparar raios com uma intensidade quase absurda . Na época, o motor de física permitia que objetos e inimigos reagissem de forma realista a seus golpes, o que tornava os combates muito mais dinâmicos. Sabemos que geralmente os Jedi estão lutando diretamente com seus sabres, mas não dá para negar que eles também possuem habilidades incríveis em combates áereos . Esse título de GameCube é ainda mais incrível que o seu antecessor, do N64, e te coloca para reviver algumas das batalhas mais importantes contra o império. Para quem quer algo diferente dos jogos usuais de Jedi , esse é um dos melhores da lista. Além disso, é um dos títulos que melhor recriou diversas batalhas e situações icônicas dos filmes. Lançado em 2003 pela BioWare, Knights of the Old Republic costuma ser um dos mais citados quando se fala de jogos de Star Wars. A história se passa cerca de quatro mil anos antes dos filmes e coloca você como um soldado que descobre ter sensibilidade à Força e se torna um Jedi em meio a uma guerra contra os Sith. O sistema de combate pode ser meio datado hoje em dia, mas o resto vale muito a pena. A trama e os personagens são incríveis, sendo que as escolhas de diálogo e das suas ações empurram o personagem para o lado do bem ou para o sombrio. Apesar da idade, continua sendo uma das melhores formas de viver a jornada de um Jedi. Gostou de conhecer alguns dos melhores jogos de Star Wars que deixam você ser um Jedi? Deixe seu comentário nos dizendo qual é o seu favorito! Carga de GPUs RTX 5090 avaliada em R$ 2,5 milhões desaparece no Aeroporto de Guarulhos Novos Macs, iPad mini e mais: Apple confirma evento para 28 de outubro Notebook gamer ou PC de mesa: qual vale mais a pena em 2026? Pesquisa aponta falhas do Google e OpenAI que permitem gerar ‘deepnudes’ sem barreiras Home office: 41 vagas para trabalho remoto internacional [19/10]",
-          "image": "https://www.estadao.com.br/resizer/v2/5BNCDLGOPJKAXLBT5U3E2SJDNQ.jpg?quality=80&auth=36ca761890867731e00f5cb8f85622ffdf671090a52aef88eb8eb5f7ffbf3345&width=1200&height=630&smart=true"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/star-wars-nao-precisam-grandes-publishers/",
-          "title": "Jogos de Star Wars não precisam de grandes publishers, diz Lucasfilm",
-          "published_at": "2026-10-19T18:33:30+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2024/09/Star-Wars-JEDI-Survivor-1.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "b0fa87e45cf0bf10",
-      "title": "Phantom Blade Zero quer resgatar a ação clássica com um estilo próprio",
-      "summary": "Phantom Blade Zero é um dos projetos de ação mais empolgantes dos últimos anos. Desenvolvido pelo estúdio chinês S-GAME, o jogo chamou atenção desde sua revelação pela fluidez dos combates e pelo seu estilo próprio denominado “kung-fu punk”. A apresentação inicial era tão ambiciosa que levantava dúvidas sobre quanto daquela experiência sobreviveria à transição dos trailers para o produto final...",
-      "owners": [
-        "gameblast",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "06a84ee272029976",
-        "16ef576efe31aae1"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/10/phantom-blade-zero-previa-preview.html",
-          "title": "Phantom Blade Zero quer resgatar a ação clássica com um estilo próprio",
-          "published_at": "2026-10-18T19:00:00+00:00",
-          "kind": "press",
-          "text": "A aventura promete combates espetaculares em um mundo singular.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84vtN68Mme-V7v4bP2o6-VACK_08_gsAcdTyvVGEpU_1FHeXi1Ivhk5MZvYQPSUtLlX3vLf7-3hZRrmNTxsC2YWZZZIDIveEPjFfqNImgRsrFnwkqOcC0u0-tTB0JzJGu53e484mnLOVRUGurVUhhqPOKIeaawXaxm4phD9Jo0qmNVK18N6QHTrqP/w1200-h630-p-k-no-nu/phantom-blade-zero-previa-preview.jpg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/phantom-blade-zero-pode-ocupar-135-gb-no-ps5/",
-          "title": "Phantom Blade Zero pode ocupar 135 GB no PS5",
-          "published_at": "2026-10-19T17:58:24+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2025/12/Phantom-Blade-Zero.webp"
-        }
-      ]
-    },
-    {
       "story_id": "1fbdc0b78c959037",
       "title": "Tales of Eternia Remastered se beneficia da generosidade do tempo",
       "summary": "Tales of Eternia Remastered já está disponível.",
@@ -425,6 +461,53 @@
           "kind": "press",
           "text": "A Bandai Namco apresenta mais um relançamento competente de uma obra sólida, mas que decepciona em alguns pontos.",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGWoU2dYB2p4JcEgMIM5S2MV34mQ3cORszJcph7nTazYMnZAURbfrv2RMocS8EOn0Tv0EZR-m1pHM2dhSsNnGKP4Vo_Bw5-9ikQejW8uVnj_FEYRgoipCulj0a4G64KS0OAGw6MDs6Onwe8CFqhGiLtXsuuCbsYN8-QTy5kccJonMoFVhYXvVAh9SaOg/w1200-h630-p-k-no-nu/tales-of-eternia-remasterd-capa-noticia.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "6fcd0bfc757c223b",
+      "title": "Star Wars Zero Company review",
+      "summary": "It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company. The fate of its eponymous crew - short of cash, betrayed by the shifting sands of circumstance in a tumultuous wider world, scrambling to just about get the job over the line - is really a lot like that of its developers at Bit Reactor. Furloughed for about a month before the game was released...",
+      "owners": [
+        "future-plc",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "def68f8eceaa0c07",
+        "c4fc51b2a10bea89",
+        "0edfc6547b7d6b6e"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-review",
+          "title": "Star Wars Zero Company review",
+          "published_at": "2026-10-19T13:05:47+00:00",
+          "kind": "press",
+          "text": "It took me longer than I'd like to admit to realise something obvious about Star Wars Zero Company. The fate of its eponymous crew - short of cash, betrayed by the shifting sands of circumstance in a tumultuous wider world, scrambling to just about get the job over the line - is really a lot like that of its developers at Bit Reactor. Furloughed for about a month before the game was released, those staff have clearly hustled and scrapped and fought to the last. And so Zero Company the game bears the signs of its development. In places it feels a little patched together, a little under-ready, a game that launched into the world like a roguish pilot might launch a half-repaired starfighter. The windscreen's rattling, warning lights are flashing, one particularly hirsute engineer is deeply unimpressed at the decision to take off, and nobody knows where that ominous groaning noise is coming from. But somehow she's up. And in the end that's all that counts. Zero Company is not a tidy game, then - truly, I've a list of nitpicks longer than this review - but it is also a bit of a gem. There's so much love here. At times it borders on the saccarine, some characters getting a little too wistful, moments of crewmate dialogue a little too breathy, too aww, shucks . But I've an enduring soft spot for games where you can feel the development of it as you play. And it's more than just the slightly taped-together vibes that give Zero Company that impression here. You can feel the development of this game because you can feel the thinking behind it. The many hours that years-long experts of turn-based tactics (many Bit Reactor devs have pedigree at Firaxis, developer of the modern XCOM games) have spent sat in, I'd like to imagine, a big, comfortable chair. Perhaps with their feet resting, legs crossed, up on their desk. And staring intently at the ceiling until the solution to one design problem or another presented itself. A game I imagine as being developed much the same as it's played. A nice twist, however, is in how relaxed that playing can be. Zero Company's default difficulty is on the easy side, pitched at newcomers to the turn-based tactical genre, and in turn it makes for a perfect match to the source material. Star Wars Zero Company is set in the late Clone Wars era - roughly parallel to Episode 3, in other words - which also happens to be the prime kids TV era. This is the time when Obi Wan Kenobi was a cool action figure warrior-general with big shoulder pads and there were lots of Trooper dudes with names like Rex diving around shooting their lasers. It's also the period that plays home to Andor, the gloriously realised political melodrama about revolution, solidarity, and the banality of evil under fascism, perched right at the opposite end of the Star Wars Seriousness Spectrum. And so Zero Company has these two, ostensibly opposing threads running through it, tasking it with somehow tying together light entertainment and timely introspection. And somehow, it does it quite well. The default difficulty is part of the reason why (though there are hard and ironman-like modes for the true tacticos and sickos out there, of course). There's a novelty to angling a game in this genre - a genre more often associated with those iron men - at the casual crowd, in aiming for breeziness and satisfaction first. This is my first time enjoying one of these games as a good old-fashioned romp, where there might be the occasional grabbing of a hat beneath the closing door but, broadly speaking, you will find yourself playing as the good guys who ultimately always come out on top. That pairs nicely with Zero Company's take on telling a story. Rather than the XCOM approach of an aggressively replayable campaign with a feather-light narrative layer, Zero Company has a proper beginning-middle-end story. This is where the Andor side of things comes in. Zero Company is far from that level of writing and execution, unfortunately, and perhaps expectedly. It relays its themes broadly and a little clunkily, falling into familiar video game traps that so often feel unavoidable because of the way the game itself is structured. Characters, for instance, often need to deliver entire backstories in a couple of throwaway lines - lines which most players might never hear because they didn't opt to talk to the right static NPC between the right missions. Or which they might hear a variation of multiple times because they talked to them at every opportunity, and developers need to make sure those skip-lots-of-conversations players get their required minimum exposition to know what's going on. There's also a lot of overly-breathy voice work - Jae, who has a moderately interesting background as a kind of ore-baron nepo baby who wants to do good, is a particular culprit of the kind of over-earnestness that can jar just a little. The truth is a lot of Star Wars media is always going to struggle to execute its themes with the sophistication we now know to be possible, post-Andor. But what helps Zero Company is that those themes are at least there , and more than that, they're both fully understood and delivered with heartfelt sincerity. There's a wonderful transition, which I'll try not to spoil, where this crew's story shifts from underdog adventure-romp (that's the third of Star Wars' three pillars accounted for: original trilogy ruffian-camp), through Clone Wars action melodrama, and out the other side into something about bigger ideas. I only wish it had gone on for a little longer after that point - you'll know it when you play it - to give that final part a bit more time to breathe. All that said, I expect most people coming to Zero Company are coming because you can conveniently shorten it to ZCOM. This is a tactics game from tactics virtuosos, ultimately, and in the playing is where it really shows. The big twist for XCOM fans is the removal of the two-action limit. Here you get three, though rather than that simply feeli",
+          "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-review-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/star-wars-games-small-developers-lucasfilm-games-plan",
+          "title": "We've had two great Star Wars games this year, probably because Lucasfilm Games says it's now \"more flexible\" about who it takes pitches from",
+          "published_at": "2026-10-19T13:06:53+00:00",
+          "kind": "press",
+          "text": "\"We're exploring all kinds of things, large and small.\" This year has seen two highly-rated and beloved Star Wars games in the XCOM-like Zero Company , and the Burnout-like Galactic Racer . And both were made by independent studios rather than much bigger companies, which have typically taken on Star Wars games in recent years, such as Ubisoft with Star Wars Outlaws and EA with Star Wars Battlefront. The change, it turns out, was intentional. Lucasfilm Games bigwig Douglas Reilly told The Game Business that the Star Wars franchise stewards are now much more open about who to give the license to. \"We're obviously a licensing business,\" Reilly explained, \"so we're not the publishers any more of products. Our goal is to try and find a publishing partner and a developer or a publisher and a developer. I think we've tried to be more flexible about who we're willing to take pitches from. Good ideas can come from a lot of different places.\" This is a fairly recent change in Lucasfilm Games' strategy. The license holder was previously happy to sell a single publisher exclusive rights to Star Wars games, which previously was EA. That approach has often been criticised for limiting the creative output, be it in the number of games released or genres that get chosen. That dearth is something Star Wars fans truly felt when EA had exclusive rights to Star Wars, but this new approach allows for a much more varied pool of games and more frequent releases. To that end, Reilly revealed there is no particular tier of publisher that Lucasfilm Games targets, saying, \"There are some hurdles; we have a high quality bar and we want to make sure they're excellent experiences. And that means typically you work with more experienced teams than new teams.\" However, that doesn't mean you \"necessarily [have to] be a top-five publisher to make a great Star Wars game\". Reilly also teased what we can expect from Star Wars games in the future. \"We're exploring all kinds of things, large and small,\" he said, \"with partners that I think are going to continue to surprise folks who are like, 'Oh, they're doing a thing with them. That might be interesting to see how that turns out.'\" The number of currently announced Star Wars games remains small. Outside of Quantic Dream's long-in-development Star Wars Eclipse , the only other game that's understood to be in the works is the third game in Respawn's Star Wars Jedi series . Former Mass Effect and Knights of the Old Republic lead Casey Hudson is currently working on a follow-up, Fate of the Old Republic , as Saber Interactive continues to insist the Knights of the Old Republic Remake remains in development .",
+          "image": "https://assetsio.gnwcdn.com/star-wars-galactic-racer-biddy-blas-capture-1.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/",
+          "title": "Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'",
+          "published_at": "2026-10-19T21:46:23+00:00",
+          "kind": "press",
+          "text": "Not every Star Wars game has to be a big-budget blockbuster to be successful. We've had two Star Wars games in 2026, both of them quite good and neither of them quite what you might expect from the Star Wars mould: Zero Company , an XCOM-style tactics game, and Galactic Racer , an arcade racing game but Star Wars. And the success of those games means we may see more like them—which is to say, more offbeat Star Wars games from smaller-scale studios—in the future. Both Zero Company and Galactic Racer were developed by independent studios—Bit Reactor and Fuse Games, respectively—and that \"very much is part of the strategy,\" Lucasfilm Games vice president Douglas Reilly told The Game Business . \"Obviously, huge triple-A games like Battlefront are always going to be an essential part of the strategy,\" Reilly said. \"But one of the great things about Star Wars is it has all kinds of other opportunities to tell stories in different genres. \"The goal has been to find the best partner who makes that experience come alive inside the galaxy far, far away. And it doesn’t have to always be triple-A, sometimes it can be double-A, and it’s really about the experience that we’re delivering and the fantasy we’re fulfilling.\" That's a real shift in Disney's approach to making Star Wars games. Disney acquired Lucasfilm in 2012 and shuttered its games division the following year; not long after that, it signed a 10-year deal with Electronic Arts , granting it exclusive rights to make Star Wars games. That deal was not especially fruitful, and Ubisoft 's big-budget Star Wars Outlaws , announced in the waning years of the EA deal, didn't exactly set the world on fire either. Disney also resurrected Lucasfilm Games in 2021, making it \"the official identity for all gaming titles from Lucasfilm\"—which, as the sizzle reel made clear, meant Star Wars games—and it's \"tried to be more flexible about who we’re willing to take pitches from,\" Reilly said. \"Good ideas can come from a lot of different places. You don’t have to necessarily be a top five publisher to make a great Star Wars game. There are some hurdles. We have a high quality bar, and that means typically we work with more experienced teams than ones with no track record. But we’re exploring all kinds of things, large and small, with partners that are going to surprise folks.\" From the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews Of course, there are plenty of familiar-looking Star Wars games in the trench too: Star Wars: Fate of the Old Republic , a new addition to the Knights of the Old Republic series, was announced at The Game Awards in 2025, the third and supposedly last Star Wars Jedi game is in development, Quantic Dream is still plugging away on Star Wars: Eclipse, despite recent reports of struggles , and yes, that KOTOR remake is, somehow, still happening . 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/K7roYa2aLEn3iBVZEPULoG-1920-80.jpg"
         }
       ]
     }
