@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:42:23 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nintendo Switch Sports Resort: o que a crítica diz das primeiras análises</title>
+      <link>https://pixelzada.com.br/pt/nintendo-switch-sports-resort-reviews-o-que-a-critica-diz/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/nintendo-switch-sports-resort-reviews-o-que-a-critica-diz/</guid>
+      <description>Switch Sports Resort chega ao Switch 2 e as análises elogiam skate e arco e flecha, mas criticam basquete e o modo solo. Veja o que dizem IGN, Eurogamer e mais.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 20 Oct 2026 14:42:23 +0000</pubDate>
+    </item>
     <item>
       <title>GTA Online e GTA 6: o que se sabe sobre o multiplayer</title>
       <link>https://pixelzada.com.br/pt/gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player/</link>
@@ -238,14 +246,6 @@
       <description>Quem são Cal Hampton e Boobie Ike em GTA 6? Veja o que a Rockstar diz sobre o amigo conspiracionista de Jason e o empresário de Vice City e o que falta saber.</description>
       <category>GTA 6</category>
       <pubDate>Fri, 16 Oct 2026 18:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Control Resonant vende 1 milhão de cópias e vira o jogo mais rápido da história da Remedy</title>
-      <link>https://pixelzada.com.br/pt/control-resonant-1-milhao-de-copias-jogo-mais-rapido-da-remedy/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/control-resonant-1-milhao-de-copias-jogo-mais-rapido-da-remedy/</guid>
-      <description>Control Resonant passou de 1 milhão de cópias em cerca de três semanas e superou Alan Wake 2 como o título mais rápido da Remedy. Veja os números e o que falta.</description>
-      <category>Indústria</category>
-      <pubDate>Fri, 16 Oct 2026 16:40:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

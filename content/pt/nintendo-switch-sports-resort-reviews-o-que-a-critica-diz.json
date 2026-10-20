@@ -105,7 +105,10 @@
     "query": "Nintendo Switch Sports Resort",
     "alt": "Arte de Nintendo Switch Sports Resort",
     "url": "https://olhardigital.com.br/wp-content/uploads/2026/10/NS2_16x9_NintendoSwitchSportsResort_KeyArt.png",
-    "credit": "Imagem: Olhar Digital"
+    "credit": "Imagem: Olhar Digital",
+    "path": "/assets/img/nintendo-switch-sports-resort-reviews-o--f1cdcb54.jpg",
+    "source_url": "",
+    "foco": "75% 29%"
   },
   "sources": [
     {
@@ -145,5 +148,7 @@
       "title": "Nintendo Switch Sports Resort é definitivo e tem aura de férias de verão"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T14:42:23+00:00",
+  "updated_at": "2026-10-20T14:42:23+00:00"
 }
