@@ -1,0 +1,78 @@
+{
+ "tipo": "noticia",
+ "formato": "detalhes",
+ "assunto": "GTA 6",
+ "gta6": true,
+ "materia": "raul-bautista-e-brian-heder-gta-6-ladrao-de-bancos-e-traficante-das-keys",
+ "imagem": {
+  "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0ntc_0yu6jyg..jpg?akim=1&imdensity=1&imwidth=3840",
+  "credito": "Rockstar Games",
+  "pos": "50% 40%"
+ },
+ "fonte": "Fontes: Rockstar e Video Games Chronicle",
+ "capa": {
+  "titulo": "Raul e Brian: os criminosos de GTA 6",
+  "destaque": "criminosos",
+  "apoio": "Quem dá trabalho a Jason e Lucia. Arrasta."
+ },
+ "slides": [
+  {
+   "rotulo": "Raul Bautista",
+   "titulo": "Ladrão de bancos imprudente",
+   "destaque": "imprudente",
+   "texto": [
+    "Experiente e charmoso, **Raul** aumenta os riscos de cada golpe. Quem está na equipe entra de cabeça ou cai fora."
+   ]
+  },
+  {
+   "rotulo": "Brian Heder",
+   "titulo": "Traficante da velha guarda",
+   "destaque": "velha guarda",
+   "texto": [
+    "**Brian** é um traficante clássico das Keys e ainda movimenta droga pelo seu pátio de barcos."
+   ]
+  },
+  {
+   "rotulo": "Extended Look",
+   "titulo": "Os dois já apareceram",
+   "destaque": "apareceram",
+   "texto": [
+    "Raul aparece numa **fuga de carro** com Jason e Lucia. Brian oferece **um trabalho suspeito** numa festa no terraço."
+   ]
+  },
+  {
+   "rotulo": "Rumor",
+   "titulo": "As vozes seguem em dúvida",
+   "destaque": "dúvida",
+   "texto": [
+    "A Rockstar **não anunciou o elenco**. Qualquer nome de ator é só teoria de fãs, sem confirmação."
+   ]
+  }
+ ],
+ "final": "Qual dos dois você mais quer encontrar?",
+ "legenda": {
+  "gancho": "Raul Bautista e Brian Heder são dois criminosos veteranos de GTA 6 que dão trabalho a Jason e Lucia.",
+  "corpo": [
+   "Segundo a Rockstar, Raul é um ladrão de bancos cada vez mais imprudente, e Brian é um traficante clássico das Keys.",
+   "No Extended Look, Raul aparece numa fuga de carro e Brian oferece um trabalho suspeito numa festa. As vozes dos dois não foram confirmadas. GTA 6 chega em 19 de novembro."
+  ],
+  "chamada": "Qual dos dois você mais quer encontrar?",
+  "hashtags": [
+   "#pixelzada",
+   "#gta6",
+   "#rockstargames",
+   "#gtavi"
+  ]
+ },
+ "slug": "raul-e-brian-criminosos-gta-6",
+ "alt": [
+  "Slide 1: Raul e Brian: os criminosos de GTA 6",
+  "Slide 2: Ladrão de bancos imprudente",
+  "Slide 3: Traficante da velha guarda",
+  "Slide 4: Os dois já apareceram",
+  "Slide 5: As vozes seguem em dúvida",
+  "Slide 6: Qual dos dois você mais quer encontrar?"
+ ],
+ "status": "pronto",
+ "criado": "2026-10-20T15:50:00-03:00"
+}

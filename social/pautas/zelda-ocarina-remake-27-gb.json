@@ -1,0 +1,78 @@
+{
+ "tipo": "noticia",
+ "formato": "em-numeros",
+ "assunto": "Zelda",
+ "gta6": false,
+ "materia": "zelda-ocarina-of-time-remake-27-gb-switch-2-tamanho-do-download",
+ "imagem": {
+  "url": "https://assets-prd.ignimgs.com/2026/10/20/zelda-1792507026584.png?width=1280&format=jpg&auto=webp&quality=80",
+  "credito": "Nintendo",
+  "pos": "50% 50%"
+ },
+ "fonte": "Fontes: GamesRadar e Polygon",
+ "capa": {
+  "titulo": "Ocarina of Time remake: 27 GB no Switch 2",
+  "destaque": "27 GB",
+  "apoio": "Mais de 800 vezes o original. Arrasta."
+ },
+ "slides": [
+  {
+   "rotulo": "O tamanho",
+   "titulo": "27 GB de download",
+   "destaque": "27 GB",
+   "texto": [
+    "O cartão de download vendido no Japão lista **27 GB** para o remake no Switch 2."
+   ]
+  },
+  {
+   "rotulo": "O original",
+   "titulo": "32 MB em 1998",
+   "destaque": "32 MB",
+   "texto": [
+    "O jogo do Nintendo 64 cabia em um cartucho de **32 MB**. O remake é mais de 800 vezes maior."
+   ]
+  },
+  {
+   "rotulo": "O recorde",
+   "titulo": "Maior Zelda principal",
+   "destaque": "Maior",
+   "texto": [
+    "Passa Breath of the Wild e Tears of the Kingdom. Só **Hyrule Warriors**, com cerca de 43 GB, é maior."
+   ]
+  },
+  {
+   "rotulo": "A data",
+   "titulo": "Sai em 5 de novembro",
+   "destaque": "5 de novembro",
+   "texto": [
+    "O remake é **exclusivo do Switch 2** e chega em 5 de novembro de 2026."
+   ]
+  }
+ ],
+ "final": "Seu Switch 2 tem espaço para ele?",
+ "legenda": {
+  "gancho": "O remake de Zelda: Ocarina of Time vai ocupar 27 GB no Switch 2.",
+  "corpo": [
+   "Segundo o GamesRadar e o Polygon, o número aparece no cartão de download vendido no Japão. O jogo original do Nintendo 64 cabia em 32 MB.",
+   "É o maior Zelda principal da era Switch. O remake chega em 5 de novembro, exclusivo do Switch 2."
+  ],
+  "chamada": "Seu Switch 2 tem espaço para ele?",
+  "hashtags": [
+   "#pixelzada",
+   "#zelda",
+   "#ocarinaoftime",
+   "#switch2"
+  ]
+ },
+ "slug": "zelda-ocarina-remake-27-gb",
+ "alt": [
+  "Slide 1: Ocarina of Time remake: 27 GB no Switch 2",
+  "Slide 2: 27 GB de download",
+  "Slide 3: 32 MB em 1998",
+  "Slide 4: Maior Zelda principal",
+  "Slide 5: Sai em 5 de novembro",
+  "Slide 6: Seu Switch 2 tem espaço para ele?"
+ ],
+ "status": "pronto",
+ "criado": "2026-10-20T15:50:00-03:00"
+}
