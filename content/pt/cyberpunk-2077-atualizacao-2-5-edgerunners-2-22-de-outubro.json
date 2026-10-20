@@ -114,7 +114,10 @@
     "query": "Cyberpunk 2077",
     "alt": "Arte de Cyberpunk 2077",
     "url": "https://assets-prd.ignimgs.com/2026/10/20/cyberpunk-1792491397814.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/cyberpunk-2077-atualizacao-2-5-edgerunne-f7cf219d.jpg",
+    "source_url": "",
+    "foco": "50% 31%"
   },
   "sources": [
     {
@@ -136,5 +139,7 @@
       "title": "Cyberpunk 2077 Update 2.5 Announced by CD Projekt RED"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T12:41:21+00:00",
+  "updated_at": "2026-10-20T12:41:21+00:00"
 }

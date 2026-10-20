@@ -120,7 +120,10 @@
     "query": "GTA 6 Extended Look",
     "alt": "Arte oficial do anúncio de \"Grand Theft Auto VI: An Extended Look\"",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k2kaa1o3297k9/4faf2f8d60cd657f09eb55707b31cc44008bfa4c.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-online-e-gta-6-o-que-se-sabe-multipl-f6817cb3.jpg",
+    "source_url": "",
+    "foco": "62% 17%"
   },
   "sources": [
     {
@@ -226,5 +229,7 @@
       "title": "Take-Two reiterates that it predicts $8 billion in net bookings this fiscal year thanks to GTA 6"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-10-20T12:41:22+00:00",
+  "updated_at": "2026-10-20T12:41:22+00:00"
 }

@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:41:23 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA Online e GTA 6: o que se sabe sobre o multiplayer</title>
+      <link>https://pixelzada.com.br/pt/gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player/</guid>
+      <description>GTA 6 sai só com modo single player e a Take-Two diz que o GTA Online continua. Veja o que já foi dito sobre o multiplayer, o GTA+ e as microtransações.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 20 Oct 2026 12:41:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cyberpunk 2077 ganha atualização 2.5 grátis em 22 de outubro, inspirada em Edgerunners 2</title>
+      <link>https://pixelzada.com.br/pt/cyberpunk-2077-atualizacao-2-5-edgerunners-2-22-de-outubro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/cyberpunk-2077-atualizacao-2-5-edgerunners-2-22-de-outubro/</guid>
+      <description>A atualização 2.5 de Cyberpunk 2077 sai em 22 de outubro, de graça, com conteúdo inspirado em Edgerunners 2. Veja o que a CD Projekt RED já confirmou até agora.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 20 Oct 2026 12:41:21 +0000</pubDate>
+    </item>
     <item>
       <title>Decomp.dev, grande site de decompilação de jogos, fecha por causa da IA</title>
       <link>https://pixelzada.com.br/pt/decomp-dev-fecha-por-causa-da-ia-comunidade-de-decompilacao/</link>
@@ -230,22 +246,6 @@
       <description>Control Resonant passou de 1 milhão de cópias em cerca de três semanas e superou Alan Wake 2 como o título mais rápido da Remedy. Veja os números e o que falta.</description>
       <category>Indústria</category>
       <pubDate>Fri, 16 Oct 2026 16:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remake de Zelda: Ocarina of Time mostra Dark Link em dois novos trailers</title>
-      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-dark-link-novos-trailers/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-dark-link-novos-trailers/</guid>
-      <description>Dois novos trailers do remake de Zelda: Ocarina of Time mostram Dark Link pela primeira vez. Veja o que há nos vídeos e o que se sabe da dublagem em português.</description>
-      <category>Lançamentos</category>
-      <pubDate>Fri, 16 Oct 2026 14:40:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Linha do tempo de GTA 6: do anúncio ao lançamento em 19/11/2026</title>
-      <link>https://pixelzada.com.br/pt/linha-do-tempo-gta-6-do-anuncio-ao-lancamento-19-11-2026/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/linha-do-tempo-gta-6-do-anuncio-ao-lancamento-19-11-2026/</guid>
-      <description>Veja a linha do tempo de GTA 6 com datas exatas: confirmação em 2022, vazamento, trailers, dois adiamentos, pré-venda e o lançamento em 19 de novembro de 2026.</description>
-      <category>GTA 6</category>
-      <pubDate>Fri, 16 Oct 2026 12:41:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
