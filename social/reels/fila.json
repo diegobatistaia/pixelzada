@@ -801,10 +801,15 @@
     "slug": "rdr2-jogar-pra-desestressar",
     "data": "2026-10-20",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Plantão",
     "legenda": "“Vou jogar um pouquinho pra desestressar.” 5 minutos de gameplay: 🐎\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #memesgamer #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-10-20T12:00:37-03:00",
+      "media_id": "18127476757883668",
+      "permalink": "https://www.instagram.com/reel/DeuGxSJCsfo/"
+    }
   },
   {
     "slug": "passado-militar-jason-gta6",

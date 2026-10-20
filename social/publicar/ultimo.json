@@ -1,27 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "gta-online-e-gta-6-perguntas",
-    "horario": "11:00",
-    "data": "2026-10-20",
-    "estilo": "chefao",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg",
-      "06.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "rdr2-jogar-pra-desestressar",
+    "pasta": "reel-rdr2-jogar-pra-desestressar",
+    "horario": "12:00",
+    "data": "2026-10-20"
   },
-  "em": "2026-10-20T11:09:41-03:00",
+  "em": "2026-10-20T12:00:37-03:00",
   "ok": true,
-  "media_id": "18132169684772785",
-  "permalink": "https://www.instagram.com/p/DeuA-WHlepY/",
-  "story": {
-    "em": "2026-10-20T11:10:18-03:00",
-    "media_id": "17936554263401362"
-  },
+  "media_id": "18127476757883668",
+  "permalink": "https://www.instagram.com/reel/DeuGxSJCsfo/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
