@@ -1,0 +1,23 @@
+name: Métricas Instagram (diagnóstico temporário)
+on:
+  push:
+    branches: [claude/project-thread-mqz8ow]
+    paths: [scripts/social/metricas_tmp.py, .github/workflows/metricas-tmp.yml]
+permissions:
+  contents: write
+jobs:
+  ler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      INSTAGRAM_TOKEN_PIXELZADA: ${{ secrets.INSTAGRAM_TOKEN_PIXELZADA }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: python -m scripts.social.metricas_tmp
+      - run: |
+          git config user.name "pixelzada-bot"; git config user.email "bot@pixelzada.com.br"
+          mkdir -p diag && cp saida/metricas.json diag/metricas.json
+          git add diag/metricas.json && git commit -qm "diag: métricas lidas" && git push
