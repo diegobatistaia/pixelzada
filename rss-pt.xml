@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 01:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:41:03 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Final Fantasy XIV Evercold é adiada para 23 de fevereiro</title>
+      <link>https://pixelzada.com.br/pt/final-fantasy-xiv-evercold-adiada-23-fevereiro-2027/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/final-fantasy-xiv-evercold-adiada-23-fevereiro-2027/</guid>
+      <description>Final Fantasy XIV: Evercold foi adiada para 23 de fevereiro de 2027, com acesso antecipado em 19/2. Veja pré-venda, edição de colecionador e o job Zephyr.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sun, 01 Nov 2026 10:41:02 +0000</pubDate>
+    </item>
     <item>
       <title>Port Gellhorn em GTA 6: a costa esquecida de Leonida</title>
       <link>https://pixelzada.com.br/pt/port-gellhorn-gta-6-costa-esquecida-de-leonida/</link>
@@ -238,14 +246,6 @@
       <description>Os criadores de Castlevania: Belmont's Curse viram fanarts de Trevor Belmont e dizem que o visual atraente dos personagens foi proposital. Veja o que contaram.</description>
       <category>Lançamentos</category>
       <pubDate>Sat, 17 Oct 2026 14:40:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Leonida Keys: o arquipélago de GTA 6 onde Jason mora</title>
-      <link>https://pixelzada.com.br/pt/leonida-keys-gta-6-arquipelago-onde-jason-mora/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/leonida-keys-gta-6-arquipelago-onde-jason-mora/</guid>
-      <description>Leonida Keys é o arquipélago tropical de GTA 6 inspirado nas Florida Keys. Veja onde fica, o que diz o site oficial e o papel de Jason e Brian Heder por lá.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 17 Oct 2026 12:39:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -117,9 +117,10 @@
   ],
   "image": {
     "query": "Final Fantasy XIV Evercold",
-    "alt": "Slide do Fan Festival de Tóquio com a nova data de lançamento de Final Fantasy XIV: Evercold",
+    "alt": "Arte em pixel art da Pixelzada, no tema Lançamentos, para a matéria: Final Fantasy XIV Evercold é adiada para 23 de fevereiro",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/10/FFXIV_Slides_2026_10-30-26_107.jpg",
-    "credit": "Imagem: Square Enix via Gematsu"
+    "credit": "Arte: Pixelzada",
+    "path": "/assets/img/final-fantasy-xiv-evercold-adiada-23-fev-cef9b453.jpg"
   },
   "sources": [
     {
@@ -147,5 +148,7 @@
       "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-01T10:41:02+00:00",
+  "updated_at": "2026-11-01T10:41:02+00:00"
 }
