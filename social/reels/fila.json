@@ -854,15 +854,6 @@
     }
   },
   {
-    "slug": "evolucao-arthur-morgan",
-    "data": "2026-11-01",
-    "horario": "10:00",
-    "status": "agendado",
-    "estilo": "Cartaz",
-    "legenda": "Evolução do Arthur Morgan em Red Dead Redemption 2, do primeiro capítulo até o último suspiro 🤠\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #arthurmorgan #games #pixelzada",
-    "tentativas": 0
-  },
-  {
     "slug": "hidroaviao-gta5-gta6",
     "data": "2026-11-01",
     "horario": "12:00",
@@ -932,6 +923,15 @@
     "status": "agendado",
     "estilo": "Inventário",
     "legenda": "Assim é um encontro High Society no GTA Online sem MK2 💸\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtaonline #gta5 #carros #gta #pixelzada",
+    "tentativas": 0
+  },
+  {
+    "slug": "evolucao-arthur-morgan",
+    "data": "2026-11-02",
+    "horario": "16:00",
+    "status": "agendado",
+    "estilo": "Cartaz",
+    "legenda": "Evolução do Arthur Morgan em Red Dead Redemption 2, do primeiro capítulo até o último suspiro 🤠\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #arthurmorgan #games #pixelzada",
     "tentativas": 0
   }
 ]
