@@ -854,15 +854,6 @@
     }
   },
   {
-    "slug": "mansao-braithwaite-rdr2",
-    "data": "2026-11-01",
-    "horario": "18:00",
-    "status": "agendado",
-    "estilo": "Faixa",
-    "legenda": "A Mansão Braithwaite de Red Dead Redemption 2 foi inspirada nas mansões históricas do sul dos EUA 🏛️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #curiosidades #games #pixelzada",
-    "tentativas": 0
-  },
-  {
     "slug": "mais-takes-gta6-contando-dias",
     "data": "2026-11-01",
     "horario": "20:00",
@@ -932,6 +923,15 @@
     "status": "agendado",
     "estilo": "Carregando",
     "legenda": "A Rockstar vai levar o PS5 ao limite com o GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #rockstargames #pixelzada",
+    "tentativas": 0
+  },
+  {
+    "slug": "mansao-braithwaite-rdr2",
+    "data": "2026-11-03",
+    "horario": "12:00",
+    "status": "agendado",
+    "estilo": "Faixa",
+    "legenda": "A Mansão Braithwaite de Red Dead Redemption 2 foi inspirada nas mansões históricas do sul dos EUA 🏛️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #curiosidades #games #pixelzada",
     "tentativas": 0
   }
 ]
