@@ -130,7 +130,9 @@
     "query": "Port Gellhorn GTA 6",
     "alt": "Imagem de capa do destino Port Gellhorn na seção 'Only in Leonida' do site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.15pqq49m2stxb.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/port-gellhorn-gta-6-costa-esquecida-de-l-445ca82f.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -194,5 +196,7 @@
       "title": "20+ things you may have missed in the GTA 6 extended look"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-01T01:58:04+00:00",
+  "updated_at": "2026-11-01T01:58:04+00:00"
 }

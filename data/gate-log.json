@@ -754,5 +754,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-01T01:58:04+00:00",
+    "id": "port-gellhorn-gta-6-costa-esquecida-de-leonida",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

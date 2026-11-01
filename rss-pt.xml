@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 01:58:04 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Port Gellhorn em GTA 6: a costa esquecida de Leonida</title>
+      <link>https://pixelzada.com.br/pt/port-gellhorn-gta-6-costa-esquecida-de-leonida/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/port-gellhorn-gta-6-costa-esquecida-de-leonida/</guid>
+      <description>Port Gellhorn é a costa esquecida de Leonida em GTA 6: ex-destino de férias com motéis baratos e economia paralela. Veja o que a Rockstar já contou do lugar.</description>
+      <category>GTA 6</category>
+      <pubDate>Sun, 01 Nov 2026 01:58:04 +0000</pubDate>
+    </item>
     <item>
       <title>Rumor: próximo Xbox pode chegar em 2028 por até US$ 1.800, diz Fortune</title>
       <link>https://pixelzada.com.br/pt/xbox-project-helix-2028-portatil-2027-preco-us-1200-a-1800-rumor/</link>
@@ -238,14 +246,6 @@
       <description>Leonida Keys é o arquipélago tropical de GTA 6 inspirado nas Florida Keys. Veja onde fica, o que diz o site oficial e o papel de Jason e Brian Heder por lá.</description>
       <category>GTA 6</category>
       <pubDate>Sat, 17 Oct 2026 12:39:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Filme de Cyberpunk 2077 não vai recontar a história do jogo, diz a CD Projekt</title>
-      <link>https://pixelzada.com.br/pt/filme-cyberpunk-2077-nao-vai-adaptar-historia-do-jogo/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/filme-cyberpunk-2077-nao-vai-adaptar-historia-do-jogo/</guid>
-      <description>O filme live-action de Cyberpunk 2077 não vai adaptar o jogo, segundo o co-CEO da CD Projekt. Veja o que ele disse e o papel da Paramount no projeto hoje.</description>
-      <category>Indústria</category>
-      <pubDate>Sat, 17 Oct 2026 10:42:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
