@@ -854,15 +854,6 @@
     }
   },
   {
-    "slug": "rockstar-ps5-limite-gta6",
-    "data": "2026-11-01",
-    "horario": "16:00",
-    "status": "agendado",
-    "estilo": "Carregando",
-    "legenda": "A Rockstar vai levar o PS5 ao limite com o GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #rockstargames #pixelzada",
-    "tentativas": 0
-  },
-  {
     "slug": "mansao-braithwaite-rdr2",
     "data": "2026-11-01",
     "horario": "18:00",
@@ -932,6 +923,15 @@
     "status": "agendado",
     "estilo": "Claquete",
     "legenda": "“Quando eu ficar rico não direi nada.” Eu chegando no novo Tesla: ✈️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#memes #tesla #memesgamer #games #pixelzada",
+    "tentativas": 0
+  },
+  {
+    "slug": "rockstar-ps5-limite-gta6",
+    "data": "2026-11-03",
+    "horario": "10:00",
+    "status": "agendado",
+    "estilo": "Carregando",
+    "legenda": "A Rockstar vai levar o PS5 ao limite com o GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #rockstargames #pixelzada",
     "tentativas": 0
   }
 ]
