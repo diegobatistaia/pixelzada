@@ -1,0 +1,69 @@
+{
+  "slug": "ffxiv-evercold-adiada-fevereiro-2027",
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "FFXIV",
+  "gta6": false,
+  "materia": "final-fantasy-xiv-evercold-adiada-23-fevereiro-2027",
+  "criado": "2026-11-01T07:50:00-03:00",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/FFXIV_Slides_2026_10-30-26_107.jpg",
+    "credito": "Square Enix"
+  },
+  "fonte": "Fontes: IGN e Gematsu",
+  "capa": {
+    "titulo": "FFXIV Evercold atrasou para fevereiro",
+    "destaque": "fevereiro",
+    "apoio": "A nova data e a pré-venda. Arrasta.",
+    "data": "2027-02-23"
+  },
+  "slides": [
+    {
+      "rotulo": "A nova data",
+      "titulo": "Evercold sai em 23 de fevereiro",
+      "destaque": "23 de fevereiro",
+      "texto": [
+        "A Square Enix adiou a expansão, que estava prevista para janeiro de 2027. O acesso antecipado começa em **19 de fevereiro**."
+      ]
+    },
+    {
+      "rotulo": "Pré-venda",
+      "titulo": "Abre em 4 de novembro",
+      "destaque": "4 de novembro",
+      "texto": [
+        "Quem comprar antes ganha bônus no jogo, como o **Halone's Earring**, que aumenta a experiência até o nível 100."
+      ]
+    },
+    {
+      "rotulo": "Novo job",
+      "titulo": "Zephyr atira de besta",
+      "destaque": "besta",
+      "texto": [
+        "O segundo job novo é um DPS físico à distância, com **besta** e uma ave companheira chamada Nephele."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que joga FFXIV!",
+  "legenda": {
+    "gancho": "Final Fantasy XIV: Evercold atrasou para 23 de fevereiro de 2027.",
+    "corpo": [
+      "Segundo a IGN e o Gematsu, o acesso antecipado começa em 19 de fevereiro e a pré-venda abre em 4 de novembro.",
+      "O Fan Festival de Tóquio também revelou o job Zephyr, um DPS à distância com besta. A expansão traz o patch 8.0 do MMORPG da Square Enix."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#ffxiv",
+      "#finalfantasy",
+      "#squareenix"
+    ]
+  },
+  "alt": [
+    "Slide 1: FFXIV Evercold atrasou para fevereiro",
+    "Slide 2: Evercold sai em 23 de fevereiro",
+    "Slide 3: Abre em 4 de novembro",
+    "Slide 4: Zephyr atira de besta",
+    "Slide 5: Manda pro amigo que joga FFXIV!"
+  ],
+  "status": "pronto"
+}
