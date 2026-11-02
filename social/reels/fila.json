@@ -854,15 +854,6 @@
     }
   },
   {
-    "slug": "mais-takes-gta6-contando-dias",
-    "data": "2026-11-01",
-    "horario": "20:00",
-    "status": "agendado",
-    "estilo": "Missão",
-    "legenda": "Mais takes do GTA 6 e a gente contando os dias até 19 de novembro ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #19denovembro #pixelzada",
-    "tentativas": 0
-  },
-  {
     "slug": "selfie-turma-gta5",
     "data": "2026-11-02",
     "horario": "10:00",
@@ -932,6 +923,15 @@
     "status": "agendado",
     "estilo": "Faixa",
     "legenda": "A Mansão Braithwaite de Red Dead Redemption 2 foi inspirada nas mansões históricas do sul dos EUA 🏛️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #curiosidades #games #pixelzada",
+    "tentativas": 0
+  },
+  {
+    "slug": "mais-takes-gta6-contando-dias",
+    "data": "2026-11-03",
+    "horario": "14:00",
+    "status": "agendado",
+    "estilo": "Missão",
+    "legenda": "Mais takes do GTA 6 e a gente contando os dias até 19 de novembro ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #19denovembro #pixelzada",
     "tentativas": 0
   }
 ]
