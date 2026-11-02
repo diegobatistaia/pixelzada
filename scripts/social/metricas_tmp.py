@@ -1,4 +1,4 @@
-"""Leitura única das métricas do @pixelzada.br (temporário, branch de diagnóstico)."""
+"""Leitura das métricas do @pixelzada.br (temporário, branch de diagnóstico; 02/11)."""
 import json, os, sys, time
 from scripts.social.instagram import call, conta, ApiError
 
