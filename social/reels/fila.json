@@ -854,15 +854,6 @@
     }
   },
   {
-    "slug": "selfie-turma-gta5",
-    "data": "2026-11-02",
-    "horario": "10:00",
-    "status": "agendado",
-    "estilo": "Moldura",
-    "legenda": "A turma do GTA 5 numa selfie de despedida 📸\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #michael #trevor #pixelzada",
-    "tentativas": 0
-  },
-  {
     "slug": "goty-garantido-gta6",
     "data": "2026-11-02",
     "horario": "12:00",
@@ -932,6 +923,15 @@
     "status": "agendado",
     "estilo": "Missão",
     "legenda": "Mais takes do GTA 6 e a gente contando os dias até 19 de novembro ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #19denovembro #pixelzada",
+    "tentativas": 0
+  },
+  {
+    "slug": "selfie-turma-gta5",
+    "data": "2026-11-03",
+    "horario": "16:00",
+    "status": "agendado",
+    "estilo": "Moldura",
+    "legenda": "A turma do GTA 5 numa selfie de despedida 📸\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #michael #trevor #pixelzada",
     "tentativas": 0
   }
 ]
