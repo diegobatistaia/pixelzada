@@ -899,10 +899,15 @@
     "slug": "selfie-turma-gta5",
     "data": "2026-11-03",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "A turma do GTA 5 numa selfie de despedida 📸\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #michael #trevor #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-03T16:03:24-03:00",
+      "media_id": "17896219536614666",
+      "permalink": "https://www.instagram.com/reel/DfSlrWoDqsB/"
+    }
   },
   {
     "slug": "goty-garantido-gta6",
