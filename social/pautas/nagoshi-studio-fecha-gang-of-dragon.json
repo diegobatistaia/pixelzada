@@ -78,5 +78,13 @@
     "Slide 4: E Gang of Dragon?",
     "Slide 5: Manda pro amigo fã de Yakuza!"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-03",
+    "horario": "09:00",
+    "em": "2026-11-03T09:00:29-03:00",
+    "estilo": "ficha",
+    "media_id": "18119157728278750",
+    "permalink": "https://www.instagram.com/p/DfR1UZPkW5H/"
+  }
 }
