@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:42:02 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Take-Two divulga balanço em 9 de novembro, antes de GTA 6</title>
+      <link>https://pixelzada.com.br/pt/take-two-balanco-9-de-novembro-gta-6-o-que-esperar/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/take-two-balanco-9-de-novembro-gta-6-o-que-esperar/</guid>
+      <description>A Take-Two divulga o balanço em 9 de novembro, dez dias antes de GTA 6. Veja o que a empresa já disse em 2026 sobre data, preço, pré-venda, disco e PC.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 03 Nov 2026 12:42:02 +0000</pubDate>
+    </item>
     <item>
       <title>Nagoshi Studio fecha e Gang of Dragon fica sem futuro</title>
       <link>https://pixelzada.com.br/pt/nagoshi-studio-fecha-gang-of-dragon-yakuza-netease/</link>
@@ -238,14 +246,6 @@
       <description>Veja os lançamentos do Xbox de 19 a 23 de outubro, com Final Fantasy Resonance, Modern Warfare 4 e Entwined, e o retorno do controle X25 nos Estados Unidos.</description>
       <category>Lançamentos</category>
       <pubDate>Sat, 17 Oct 2026 20:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fauna de GTA 6: jacarés, flamingos, macacos e mais de 170 espécies em Leonida</title>
-      <link>https://pixelzada.com.br/pt/fauna-gta-6-animais-leonida-jacares-flamingos-170-especies/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/fauna-gta-6-animais-leonida-jacares-flamingos-170-especies/</guid>
-      <description>GTA 6 terá mais de 170 espécies de animais em Leonida, com jacarés, flamingos e macacos, além de furacões e clima local. Veja o que a Rockstar mostrou.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 17 Oct 2026 18:40:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
