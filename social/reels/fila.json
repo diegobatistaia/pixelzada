@@ -857,10 +857,15 @@
     "slug": "rockstar-ps5-limite-gta6",
     "data": "2026-11-03",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Carregando",
     "legenda": "A Rockstar vai levar o PS5 ao limite com o GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #rockstargames #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-03T09:59:23-03:00",
+      "media_id": "18110877893241726",
+      "permalink": "https://www.instagram.com/reel/DfR8HedCbOz/"
+    }
   },
   {
     "slug": "mansao-braithwaite-rdr2",
