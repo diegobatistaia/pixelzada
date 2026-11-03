@@ -69,5 +69,17 @@
     "Slide 4: Ainda não é anúncio de trailer",
     "Slide 5: Você vai acompanhar a teleconferência da Take-Two?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-03",
+    "horario": "11:00",
+    "em": "2026-11-03T10:59:46-03:00",
+    "estilo": "plantao",
+    "media_id": "18200199451385635",
+    "permalink": "https://www.instagram.com/p/DfSC99lGzkp/"
+  },
+  "story": {
+    "em": "2026-11-03T11:00:23-03:00",
+    "media_id": "18120273112777199"
+  }
 }
