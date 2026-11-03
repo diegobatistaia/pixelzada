@@ -115,7 +115,10 @@
     "query": "GTA 6 pré-carregamento",
     "alt": "Arte de GTA 6 divulgada pela PlayStation para o pré-carregamento",
     "url": "https://blog.playstation.com/tachyon/2026/11/4933057538b60628e4c543923b03620ff4bbc25a.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/gta-6-pre-carregamento-10-de-novembro-21-3e0f8eba.jpg",
+    "source_url": "",
+    "foco": "46% 37%"
   },
   "sources": [
     {
@@ -167,5 +170,7 @@
       "title": "Grand Theft Auto 6 pre-load date"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T18:41:33+00:00",
+  "updated_at": "2026-11-03T18:41:33+00:00"
 }

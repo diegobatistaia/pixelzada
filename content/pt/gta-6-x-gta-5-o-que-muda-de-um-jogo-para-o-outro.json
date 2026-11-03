@@ -134,7 +134,10 @@
     "query": "GTA 6",
     "alt": "Imagem oficial do post 'Grand Theft Auto VI: An Extended Look — Now Playing' no Rockstar Newswire",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k138k8okkk483/ffebf733f7e03ff9ec9467471cc25a6c1117c5be.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-x-gta-5-o-que-muda-de-um-jogo-para-8d78a53a.jpg",
+    "source_url": "",
+    "foco": "62% 17%"
   },
   "sources": [
     {
@@ -234,5 +237,7 @@
       "title": "Grand Theft Auto VI trailer released early after leak"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T18:41:33+00:00",
+  "updated_at": "2026-11-03T18:41:33+00:00"
 }
