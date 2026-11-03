@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 01 Nov 2026 10:41:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:18:33 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nagoshi Studio fecha e Gang of Dragon fica sem futuro</title>
+      <link>https://pixelzada.com.br/pt/nagoshi-studio-fecha-gang-of-dragon-yakuza-netease/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/nagoshi-studio-fecha-gang-of-dragon-yakuza-netease/</guid>
+      <description>O Nagoshi Studio, do criador de Yakuza, foi dissolvido em 31 de outubro, e Gang of Dragon deve ser cancelado. Veja o que se sabe sobre o fim do estúdio.</description>
+      <category>Indústria</category>
+      <pubDate>Tue, 03 Nov 2026 08:18:33 +0000</pubDate>
+    </item>
     <item>
       <title>Final Fantasy XIV Evercold é adiada para 23 de fevereiro</title>
       <link>https://pixelzada.com.br/pt/final-fantasy-xiv-evercold-adiada-23-fevereiro-2027/</link>
@@ -238,14 +246,6 @@
       <description>GTA 6 terá mais de 170 espécies de animais em Leonida, com jacarés, flamingos e macacos, além de furacões e clima local. Veja o que a Rockstar mostrou.</description>
       <category>GTA 6</category>
       <pubDate>Sat, 17 Oct 2026 18:40:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Castlevania: Belmont's Curse: devs admitem que fizeram personagens bonitos de propósito</title>
-      <link>https://pixelzada.com.br/pt/castlevania-belmonts-curse-devs-personagens-bonitos-de-proposito/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/castlevania-belmonts-curse-devs-personagens-bonitos-de-proposito/</guid>
-      <description>Os criadores de Castlevania: Belmont's Curse viram fanarts de Trevor Belmont e dizem que o visual atraente dos personagens foi proposital. Veja o que contaram.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sat, 17 Oct 2026 14:40:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -126,7 +126,10 @@
     "query": "Gang of Dragon Nagoshi Studio",
     "alt": "Arte de divulgação de Gang of Dragon, jogo do Nagoshi Studio",
     "url": "https://assetsio.gnwcdn.com/gang-of-dragon_yAI7wse.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/nagoshi-studio-fecha-gang-of-dragon-yaku-d214cb45.jpg",
+    "source_url": "",
+    "foco": "60% 31%"
   },
   "sources": [
     {
@@ -160,5 +163,7 @@
       "title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T08:18:33+00:00",
+  "updated_at": "2026-11-03T08:18:33+00:00"
 }
