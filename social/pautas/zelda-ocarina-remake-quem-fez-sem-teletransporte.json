@@ -1,0 +1,69 @@
+{
+  "slug": "zelda-ocarina-remake-quem-fez-sem-teletransporte",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Zelda OoT",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-quem-fez-nintendo-epd",
+  "criado": "2026-11-03T10:30:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/02/the-legend-of-zelda-ocarina-of-time-remake-developer-1793638906639.png?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, Eurogamer e Kotaku",
+  "capa": {
+    "titulo": "Quem fez o remake de Zelda Ocarina of Time",
+    "destaque": "remake",
+    "apoio": "A Nintendo respondeu, e o teletransporte caiu. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Quem fez",
+      "titulo": "O time de sempre da Nintendo",
+      "destaque": "de sempre",
+      "texto": [
+        "O remake vem do grupo **EPD Produção Nº 3**, o mesmo da maioria dos Zelda das últimas três décadas, segundo a IGN."
+      ]
+    },
+    {
+      "rotulo": "Teletransporte",
+      "titulo": "Aonuma pediu e depois tirou",
+      "destaque": "tirou",
+      "texto": [
+        "Ele quis pontos de viagem rápida, mas o time sentiu falta dos **momentos de descoberta** no caminho, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Mudanças",
+      "titulo": "Corrida e botão de pulo",
+      "destaque": "botão de pulo",
+      "texto": [
+        "Link ganha **sprint** e um botão de pulo dedicado. As telas de carregamento foram mantidas de propósito, segundo a IGN."
+      ]
+    }
+  ],
+  "final": "Você prefere Hyrule sem teletransporte?",
+  "legenda": {
+    "gancho": "A Nintendo revelou quem fez o remake de Zelda: Ocarina of Time, e o teletransporte ficou de fora.",
+    "corpo": [
+      "O remake vem do grupo EPD Produção Nº 3, o time por trás da maioria dos Zelda das últimas três décadas, segundo a IGN. O produtor Eiji Aonuma contou que pediu pontos de viagem rápida, mas mandou tirar todos depois de testar, segundo a Eurogamer.",
+      "O jogo chega em 5 de novembro, só para o Nintendo Switch 2, segundo a IGN. O time ainda deve falar mais nas próximas partes da entrevista."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#ocarinaoftime",
+      "#nintendoswitch2"
+    ]
+  },
+  "alt": [
+    "Slide 1: Quem fez o remake de Zelda Ocarina of Time",
+    "Slide 2: O time de sempre da Nintendo",
+    "Slide 3: Aonuma pediu e depois tirou",
+    "Slide 4: Corrida e botão de pulo",
+    "Slide 5: Você prefere Hyrule sem teletransporte?"
+  ],
+  "status": "pronto"
+}
