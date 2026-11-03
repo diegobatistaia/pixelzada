@@ -1,0 +1,73 @@
+{
+  "slug": "take-two-balanco-9-de-novembro-gta-6",
+  "tipo": "noticia",
+  "formato": "linha-do-tempo",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "take-two-balanco-9-de-novembro-gta-6-o-que-esperar",
+  "criado": "2026-11-03T09:50:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Take-Two, VGC e Rockstar Games",
+  "capa": {
+    "titulo": "Take-Two presta contas antes de GTA 6",
+    "destaque": "presta contas",
+    "apoio": "Balanço em 9 de novembro, dez dias antes do jogo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que já foi dito",
+      "titulo": "Do balanço de fevereiro ao de agosto",
+      "destaque": "agosto",
+      "passos": [
+        "Fev: previsão elevada por causa de GTA 6.",
+        "Mai: data de 19 de novembro reafirmada.",
+        "25 jun: pré-venda aberta, de US$ 79,99 a US$ 99,99.",
+        "Ago: meta de receita mantida por causa de GTA 6."
+      ]
+    },
+    {
+      "rotulo": "O próximo balanço",
+      "titulo": "9 de novembro, às 18h30",
+      "destaque": "18h30",
+      "texto": [
+        "A Take-Two divulga o balanço **depois do fechamento da bolsa**. A teleconferência é às 18h30 de Brasília, segundo a empresa.",
+        "Será o último balanço antes do lançamento, segundo a Beebom."
+      ]
+    },
+    {
+      "rotulo": "Importante",
+      "titulo": "Ainda não é anúncio de trailer",
+      "destaque": "trailer",
+      "texto": [
+        "Um site especula um trailer de história no dia, mas é **palpite**. Nem a Take-Two nem a Rockstar anunciaram material novo."
+      ]
+    }
+  ],
+  "final": "Você vai acompanhar a teleconferência da Take-Two?",
+  "legenda": {
+    "gancho": "A Take-Two divulga o balanço em 9 de novembro, dez dias antes de GTA 6.",
+    "corpo": [
+      "A teleconferência é às 18h30 de Brasília, segundo a empresa. Será o último balanço antes do lançamento, de acordo com a Beebom.",
+      "Nos balanços de 2026, a Take-Two reafirmou a data de 19 de novembro e manteve a meta de reservas líquidas de US$ 8 bilhões a US$ 8,2 bilhões. GTA 6 chega em 19 de novembro de 2026, para PS5 e Xbox Series X|S, segundo a Rockstar. Trailer novo no dia é só especulação de um site."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#taketwo",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Take-Two presta contas antes de GTA 6",
+    "Slide 2: Do balanço de fevereiro ao de agosto",
+    "Slide 3: 9 de novembro, às 18h30",
+    "Slide 4: Ainda não é anúncio de trailer",
+    "Slide 5: Você vai acompanhar a teleconferência da Take-Two?"
+  ],
+  "status": "pronto"
+}
