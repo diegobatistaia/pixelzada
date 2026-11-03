@@ -1,0 +1,69 @@
+{
+  "slug": "elder-scrolls-6-sentinel-nome",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Elder Scrolls 6",
+  "gta6": false,
+  "materia": "the-elder-scrolls-6-sentinel-nome-oficial-bethesda",
+  "criado": "2026-11-03T17:55:00-03:00",
+  "imagem": {
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/TES-VI-Sentinel-Hero-73987caa05ad2617d75f.jpg",
+    "credito": "Xbox Wire",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Xbox Wire, IGN e The Verge",
+  "capa": {
+    "titulo": "Elder Scrolls 6 se chama Sentinel",
+    "destaque": "Sentinel",
+    "apoio": "A Bethesda revelou o nome e o logo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A revelação",
+      "titulo": "Nome anunciado nos 40 anos",
+      "destaque": "40 anos",
+      "texto": [
+        "Todd Howard revelou o subtítulo em um **vídeo de aniversário** da Bethesda, segundo a IGN."
+      ]
+    },
+    {
+      "rotulo": "O cenário",
+      "titulo": "Sentinel fica em Hammerfell",
+      "destaque": "Hammerfell",
+      "texto": [
+        "É uma cidade na **costa noroeste** da província, ao lado da Baía de Iliac, segundo a IGN."
+      ]
+    },
+    {
+      "rotulo": "O que falta",
+      "titulo": "Nem data, nem plataformas",
+      "destaque": "nem data",
+      "texto": [
+        "O anúncio no Xbox Wire é **só o logo**. A Bethesda não deu mais detalhes, segundo The Verge."
+      ]
+    }
+  ],
+  "final": "Você esperava esse nome para Elder Scrolls 6?",
+  "legenda": {
+    "gancho": "The Elder Scrolls 6 se chama Sentinel, confirmou a Bethesda.",
+    "corpo": [
+      "O nome saiu em um vídeo dos 40 anos do estúdio, apresentado por Todd Howard, segundo a IGN. Sentinel é uma cidade de Hammerfell, mas a Bethesda não confirmou o cenário do jogo.",
+      "Não há data de lançamento nem plataformas confirmadas, segundo The Verge. O jogo foi anunciado em 2018."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#elderscrolls",
+      "#sentinel",
+      "#bethesda"
+    ]
+  },
+  "alt": [
+    "Slide 1: Elder Scrolls 6 se chama Sentinel",
+    "Slide 2: Nome anunciado nos 40 anos",
+    "Slide 3: Sentinel fica em Hammerfell",
+    "Slide 4: Nem data, nem plataformas",
+    "Slide 5: Você esperava esse nome para Elder Scrolls 6?"
+  ],
+  "status": "pronto"
+}
