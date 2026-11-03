@@ -1,0 +1,71 @@
+{
+  "slug": "gta-6-pre-carregamento-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-pre-carregamento-10-de-novembro-212-gb",
+  "criado": "2026-11-03T15:50:00-03:00",
+  "imagem": {
+    "url": "https://blog.playstation.com/tachyon/2026/11/4933057538b60628e4c543923b03620ff4bbc25a.jpg",
+    "credito": "PlayStation Blog",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar Games, PlayStation e IGN",
+  "capa": {
+    "titulo": "GTA 6: quando dá para baixar o jogo?",
+    "destaque": "baixar",
+    "apoio": "A Rockstar confirmou o pré-carregamento. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quando começa?",
+      "destaque": "começa",
+      "texto": [
+        "No **PS5**, à meia-noite do dia **10 de novembro** no seu horário local, segundo a Rockstar.",
+        "No Xbox, a 0h de Greenwich, ou **21h do dia 9** em Brasília."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Quanto espaço precisa?",
+      "destaque": "espaço",
+      "texto": [
+        "A Rockstar fala em **até 212 GB**, dependendo do aparelho.",
+        "A PlayStation pede no mínimo 212 GB livres no PS5."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "E quem comprou a caixa?",
+      "destaque": "caixa",
+      "texto": [
+        "As versões com **código na caixa** devem chegar às lojas a partir de **12 de novembro**, segundo a Rockstar."
+      ]
+    }
+  ],
+  "final": "Você já abriu espaço no console?",
+  "legenda": {
+    "gancho": "A Rockstar confirmou: o pré-carregamento de GTA 6 começa em 10 de novembro.",
+    "corpo": [
+      "No PS5, começa à meia-noite do horário local. No Xbox, a 0h de Greenwich, que é 21h de 9 de novembro em Brasília. O arquivo ocupa até 212 GB, segundo a Rockstar.",
+      "As versões com código na caixa devem chegar às lojas a partir de 12 de novembro. GTA 6 chega em 19 de novembro de 2026, para PS5 e Xbox Series X|S, segundo a Rockstar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6: quando dá para baixar o jogo?",
+    "Slide 2: Quando começa?",
+    "Slide 3: Quanto espaço precisa?",
+    "Slide 4: E quem comprou a caixa?",
+    "Slide 5: Você já abriu espaço no console?"
+  ],
+  "status": "pronto"
+}
