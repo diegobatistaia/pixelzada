@@ -927,10 +927,15 @@
     "slug": "encontro-high-society-gta-online",
     "data": "2026-11-03",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Inventário",
     "legenda": "Assim é um encontro High Society no GTA Online sem MK2 💸\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtaonline #gta5 #carros #gta #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-03T19:59:38-03:00",
+      "media_id": "18417476737086940",
+      "permalink": "https://www.instagram.com/reel/DfTAtzhjwdp/"
+    }
   },
   {
     "slug": "evolucao-arthur-morgan",
