@@ -156,8 +156,9 @@ em português sem acento não passa.
 Diego aprovou em 12/10 duas matérias especiais de GTA 6 por dia, além do
 noticiário, para que os três horários de GTA 6 do Instagram tenham matéria
 própria. Quando o `briefing` mostrar **"ESPECIAL DE GTA 6 NESTA RODADA"**,
-escreva aquele tema, mesmo que não haja outra pauta (o comando não manda
-encerrar nesse caso). Ela não gasta a vaga das notícias da rodada.
+escreva aquele tema, mesmo que não haja outra pauta ou que o briefing seja
+de outro dia (o comando não manda encerrar nesse caso; notícia continua
+proibida em briefing velho). Ela não gasta a vaga das notícias da rodada.
 
 O tema está em `data/gta6-especiais.json`, pelo `id` mostrado. Esse dossiê foi
 montado numa sessão com internet, com os fatos já checados pela regra das duas
@@ -166,6 +167,8 @@ fontes. Na matéria:
 - **Só os `fatos` do tema.** Nada de memória, nada de "todo mundo sabe". Pode
   usar fatos de matérias já publicadas em `content/pt/` se citar a fonte delas.
   Fato com data ("em maio de 2025") mantém a data.
+- Tema com `a_partir_de` é de data certa (balanço, dia do lançamento): o
+  comando só o mostra a partir desse dia.
 - `story_id` = o `id` do tema. É o que marca o tema como escrito; não edite o
   dossiê para isso.
 - `sources` = as `fontes` dos fatos que você usou (copie `name`, `owner`,
