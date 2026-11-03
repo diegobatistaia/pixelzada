@@ -111,7 +111,9 @@
     "query": "F-Stop Portal Valve",
     "alt": "Arte de Portal, série da Valve de onde saiu o prequel cancelado F-Stop",
     "url": "https://cdn.mos.cms.futurecdn.net/VXY83d6T5oKAhhtWefiJSf-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/f-stop-prequel-cancelado-portal-jogavel--eb7bff5b.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -127,5 +129,7 @@
       "title": "Valve's canceled Portal follow-up F-Stop is now fully playable"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T16:43:01+00:00",
+  "updated_at": "2026-11-03T16:43:01+00:00"
 }

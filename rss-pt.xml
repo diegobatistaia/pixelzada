@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 14:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:43:01 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>F-Stop, o prequel cancelado de Portal, ficou jogável</title>
+      <link>https://pixelzada.com.br/pt/f-stop-prequel-cancelado-portal-jogavel-vazamento-valve/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/f-stop-prequel-cancelado-portal-jogavel-vazamento-valve/</guid>
+      <description>F-Stop, o prequel cancelado de Portal que usa uma câmera, foi remontado por fãs com o vazamento de 12 TB da Valve e já pode ser jogado. Veja o que se sabe.</description>
+      <category>Indústria</category>
+      <pubDate>Tue, 03 Nov 2026 16:43:01 +0000</pubDate>
+    </item>
     <item>
       <title>Phantom Blade Zero vende 4 milhões de cópias em três dias</title>
       <link>https://pixelzada.com.br/pt/phantom-blade-zero-4-milhoes-copias-tres-dias-steam/</link>
@@ -238,14 +246,6 @@
       <description>A Liquid Swords, estúdio sueco de Samson, foi declarada falida após meses de salários atrasados, e o administrador busca um comprador até 21 de outubro.</description>
       <category>Indústria</category>
       <pubDate>Sun, 18 Oct 2026 10:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Blood of Dawnwalker ganha respec, modo mais fácil e até carinho em cachorro no update 1.1</title>
-      <link>https://pixelzada.com.br/pt/the-blood-of-dawnwalker-update-1-1-respec-dificuldade-mais-facil-acariciar-animais/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-blood-of-dawnwalker-update-1-1-respec-dificuldade-mais-facil-acariciar-animais/</guid>
-      <description>O update 1.1 de The Blood of Dawnwalker traz respec de habilidades, dificuldade mais fácil, carinho em animais e mais de 1.100 melhorias, na próxima semana.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 18 Oct 2026 00:40:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
