@@ -122,7 +122,9 @@
     "query": "The Elder Scrolls VI Sentinel",
     "alt": "Logotipo de The Elder Scrolls VI: Sentinel divulgado pela Bethesda",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/TES-VI-Sentinel-Hero-73987caa05ad2617d75f.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/the-elder-scrolls-6-sentinel-nome-oficia-14a7ebd7.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -156,5 +158,7 @@
       "title": "The Elder Scrolls 6: Sentinel is finally made official"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T20:40:33+00:00",
+  "updated_at": "2026-11-03T20:40:33+00:00"
 }

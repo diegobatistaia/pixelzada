@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:40:33 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Elder Scrolls 6 se chama Sentinel, confirma a Bethesda</title>
+      <link>https://pixelzada.com.br/pt/the-elder-scrolls-6-sentinel-nome-oficial-bethesda/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-elder-scrolls-6-sentinel-nome-oficial-bethesda/</guid>
+      <description>Bethesda revelou o nome de The Elder Scrolls 6: Sentinel em vídeo dos 40 anos do estúdio. Veja o que se sabe sobre cenário, plataformas e data de lançamento.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 03 Nov 2026 20:40:33 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: pré-carregamento começa em 10 de novembro e pede 212 GB</title>
       <link>https://pixelzada.com.br/pt/gta-6-pre-carregamento-10-de-novembro-212-gb/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/adiamentos-de-gta-6-por-que-o-jogo-atrasou-duas-vezes-e-a-data-de-19-de-novembro/</guid>
       <description>Veja os dois adiamentos de GTA 6, de 2025 para 26 de maio de 2026 e depois para 19 de novembro, e o que a Rockstar e a Take-Two disseram em cada um deles.</description>
       <category>GTA 6</category>
-      <pubDate>Sun, 18 Oct 2026 12:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pai do PlayStation diz que revolta com o fim dos discos é questão de mentalidade</title>
-      <link>https://pixelzada.com.br/pt/pai-do-playstation-kutaragi-fim-dos-discos-questao-de-mentalidade/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/pai-do-playstation-kutaragi-fim-dos-discos-questao-de-mentalidade/</guid>
-      <description>Ken Kutaragi, pai do PlayStation, disse ao VGC que a revolta com o fim dos discos é questão de mentalidade e que a mídia física não é economicamente razoável.</description>
-      <category>Consoles e PC</category>
       <pubDate>Sun, 18 Oct 2026 12:40:54 +0000</pubDate>
     </item>
   </channel>
