@@ -1,0 +1,82 @@
+{
+  "slug": "nagoshi-studio-fecha-gang-of-dragon",
+  "tipo": "noticia",
+  "formato": "em-foco",
+  "assunto": "Gang of Dragon",
+  "gta6": false,
+  "materia": "nagoshi-studio-fecha-gang-of-dragon-yakuza-netease",
+  "criado": "2026-11-03T05:30:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/gang-of-dragon_yAI7wse.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "GamesIndustry.biz"
+  },
+  "fonte": "Fontes: Gematsu e GamesRadar",
+  "capa": {
+    "titulo": "O estúdio de Gang of Dragon fechou",
+    "destaque": "fechou",
+    "apoio": "O que se sabe sobre o fim. Arrasta.",
+    "ficha": [
+      [
+        "Fechou",
+        "31 out 2026"
+      ],
+      [
+        "Fundador",
+        "Toshihiro Nagoshi"
+      ],
+      [
+        "Jogo",
+        "Gang of Dragon"
+      ]
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "O que aconteceu com o estúdio?",
+      "destaque": "estúdio",
+      "texto": [
+        "Um aviso no diário oficial japonês confirma que o Nagoshi Studio foi **dissolvido em 31 de outubro**."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Por que o estúdio fechou?",
+      "destaque": "fechou",
+      "texto": [
+        "A NetEase cortou o financiamento meses antes. Segundo reportagens, faltavam cerca de **44 milhões de dólares** para terminar o jogo."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "E Gang of Dragon?",
+      "destaque": "Gang of Dragon",
+      "texto": [
+        "O jogo foi revelado no The Game Awards de 2025, com Ma Dong-seok. A imprensa diz que está **aparentemente cancelado**, sem confirmação oficial."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo fã de Yakuza!",
+  "legenda": {
+    "gancho": "O Nagoshi Studio, do criador de Yakuza, foi dissolvido em 31 de outubro.",
+    "corpo": [
+      "Segundo o Gematsu e o GamesRadar, o aviso saiu no diário oficial japonês, meses depois de a NetEase cortar o financiamento.",
+      "Gang of Dragon, revelado no The Game Awards de 2025, está aparentemente cancelado, mas ninguém confirmou oficialmente."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gangofdragon",
+      "#yakuza",
+      "#netease"
+    ]
+  },
+  "alt": [
+    "Slide 1: O estúdio de Gang of Dragon fechou",
+    "Slide 2: O que aconteceu com o estúdio?",
+    "Slide 3: Por que o estúdio fechou?",
+    "Slide 4: E Gang of Dragon?",
+    "Slide 5: Manda pro amigo fã de Yakuza!"
+  ],
+  "status": "pronto"
+}
