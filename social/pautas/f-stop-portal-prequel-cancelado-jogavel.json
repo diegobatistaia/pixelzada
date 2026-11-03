@@ -1,0 +1,78 @@
+{
+  "slug": "f-stop-portal-prequel-cancelado-jogavel",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Portal F-Stop",
+  "gta6": false,
+  "materia": "f-stop-prequel-cancelado-portal-jogavel-vazamento-valve",
+  "criado": "2026-11-03T13:55:00-03:00",
+  "imagem": {
+    "url": "https://cdn.mos.cms.futurecdn.net/VXY83d6T5oKAhhtWefiJSf-1920-80.jpg",
+    "credito": "GamesRadar",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: The Verge e GamesRadar",
+  "capa": {
+    "titulo": "F-Stop, o Portal cancelado, ficou jogável",
+    "destaque": "ficou jogável",
+    "apoio": "Fãs remontaram o jogo da câmera. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "Uma câmera no lugar do portal",
+      "destaque": "câmera",
+      "texto": [
+        "O jogador **fotografa um objeto** e o coloca em outro lugar, segundo The Verge."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Veio do vazamento de 12 TB",
+      "destaque": "12 TB",
+      "texto": [
+        "Fãs usaram dados vazados em agosto e **peças novas** que apareceram no Discord Valve Cut Content, segundo The Verge."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "Campanha de menos de uma hora",
+      "destaque": "menos de uma hora",
+      "texto": [
+        "Os vídeos com o jogo inteiro duram **menos de 1 hora**, segundo The Verge."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "Por que foi cancelado",
+      "destaque": "cancelado",
+      "texto": [
+        "Testadores reclamaram da **falta da arma de portais**, segundo a GamesRadar."
+      ]
+    }
+  ],
+  "final": "Você jogaria o Portal que a Valve cancelou?",
+  "legenda": {
+    "gancho": "F-Stop, o prequel cancelado de Portal, foi remontado por fãs e já pode ser jogado.",
+    "corpo": [
+      "Em vez da arma de portais, o jogo usa uma câmera: o jogador fotografa um objeto e o coloca em outro lugar, segundo The Verge. A base veio do vazamento de 12 TB que apareceu em agosto.",
+      "O projeto foi cancelado depois que testadores estranharam a falta da arma de portais, segundo a GamesRadar. É material vazado, e a Valve não comentou nas matérias consultadas."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#portal",
+      "#valve",
+      "#fstop"
+    ]
+  },
+  "alt": [
+    "Slide 1: F-Stop, o Portal cancelado, ficou jogável",
+    "Slide 2: Uma câmera no lugar do portal",
+    "Slide 3: Veio do vazamento de 12 TB",
+    "Slide 4: Campanha de menos de uma hora",
+    "Slide 5: Por que foi cancelado",
+    "Slide 6: Você jogaria o Portal que a Valve cancelou?"
+  ],
+  "status": "pronto"
+}
