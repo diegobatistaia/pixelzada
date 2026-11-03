@@ -871,10 +871,15 @@
     "slug": "mansao-braithwaite-rdr2",
     "data": "2026-11-03",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Faixa",
     "legenda": "A Mansão Braithwaite de Red Dead Redemption 2 foi inspirada nas mansões históricas do sul dos EUA 🏛️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #curiosidades #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-03T11:59:52-03:00",
+      "media_id": "18431570950151456",
+      "permalink": "https://www.instagram.com/reel/DfSJzjZDgW-/"
+    }
   },
   {
     "slug": "mais-takes-gta6-contando-dias",

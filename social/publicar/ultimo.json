@@ -1,26 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "take-two-balanco-9-de-novembro-gta-6",
-    "horario": "11:00",
-    "data": "2026-11-03",
-    "estilo": "plantao",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "mansao-braithwaite-rdr2",
+    "pasta": "reel-mansao-braithwaite-rdr2",
+    "horario": "12:00",
+    "data": "2026-11-03"
   },
-  "em": "2026-11-03T10:59:46-03:00",
+  "em": "2026-11-03T11:59:52-03:00",
   "ok": true,
-  "media_id": "18200199451385635",
-  "permalink": "https://www.instagram.com/p/DfSC99lGzkp/",
-  "story": {
-    "em": "2026-11-03T11:00:23-03:00",
-    "media_id": "18120273112777199"
-  },
+  "media_id": "18431570950151456",
+  "permalink": "https://www.instagram.com/reel/DfSJzjZDgW-/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
