@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "goty-garantido-gta6",
-    "pasta": "reel-goty-garantido-gta6",
-    "horario": "18:00",
-    "data": "2026-11-03"
+    "acao": "carrossel",
+    "slug": "gta-6-pre-carregamento-perguntas",
+    "horario": "19:00",
+    "data": "2026-11-03",
+    "estilo": "revista",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-11-03T18:05:17-03:00",
+  "em": "2026-11-03T19:02:57-03:00",
   "ok": true,
-  "media_id": "18147187147717624",
-  "permalink": "https://www.instagram.com/reel/DfSzoEjicoo/",
+  "media_id": "17930233227426525",
+  "permalink": "https://www.instagram.com/p/DfS6RXmAavj/",
+  "story": {
+    "em": "2026-11-03T19:03:39-03:00",
+    "media_id": "18069582776790401"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
