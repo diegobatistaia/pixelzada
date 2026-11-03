@@ -913,10 +913,15 @@
     "slug": "goty-garantido-gta6",
     "data": "2026-11-03",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Celular",
     "legenda": "O GOTY já está garantido pro GTA 6 🏆\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #goty #rockstargames #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-03T18:05:17-03:00",
+      "media_id": "18147187147717624",
+      "permalink": "https://www.instagram.com/reel/DfSzoEjicoo/"
+    }
   },
   {
     "slug": "encontro-high-society-gta-online",
