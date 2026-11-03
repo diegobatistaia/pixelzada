@@ -885,10 +885,15 @@
     "slug": "mais-takes-gta6-contando-dias",
     "data": "2026-11-03",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Missão",
     "legenda": "Mais takes do GTA 6 e a gente contando os dias até 19 de novembro ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #19denovembro #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-03T14:00:42-03:00",
+      "media_id": "18107026934369742",
+      "permalink": "https://www.instagram.com/reel/DfSXq18DLK3/"
+    }
   },
   {
     "slug": "selfie-turma-gta5",
