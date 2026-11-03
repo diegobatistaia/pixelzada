@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:43:30 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zelda: Ocarina of Time remake foi feito pelo time EPD da Nintendo</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-quem-fez-nintendo-epd/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-quem-fez-nintendo-epd/</guid>
+      <description>Nintendo confirma quem fez o remake de Zelda: Ocarina of Time: o time EPD de sempre. Aonuma conta por que tirou o teletransporte. Lançamento em 5 de novembro.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 03 Nov 2026 12:43:29 +0000</pubDate>
+    </item>
     <item>
       <title>Take-Two divulga balanço em 9 de novembro, antes de GTA 6</title>
       <link>https://pixelzada.com.br/pt/take-two-balanco-9-de-novembro-gta-6-o-que-esperar/</link>
@@ -238,14 +246,6 @@
       <description>Ministério da Justiça pede que a ANPD monitore seis jogos com loot boxes, como Call of Duty e Genshin Impact, por falta de verificação de idade no Brasil.</description>
       <category>Indústria</category>
       <pubDate>Sun, 18 Oct 2026 00:40:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xbox na semana de 19 a 23 de outubro: Final Fantasy Resonance, Call of Duty MW4 e o controle X25</title>
-      <link>https://pixelzada.com.br/pt/xbox-lancamentos-semana-19-a-23-de-outubro-final-fantasy-resonance-mw4/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-lancamentos-semana-19-a-23-de-outubro-final-fantasy-resonance-mw4/</guid>
-      <description>Veja os lançamentos do Xbox de 19 a 23 de outubro, com Final Fantasy Resonance, Modern Warfare 4 e Entwined, e o retorno do controle X25 nos Estados Unidos.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sat, 17 Oct 2026 20:40:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
