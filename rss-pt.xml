@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:41:08 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Phantom Blade Zero vende 4 milhões de cópias em três dias</title>
+      <link>https://pixelzada.com.br/pt/phantom-blade-zero-4-milhoes-copias-tres-dias-steam/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/phantom-blade-zero-4-milhoes-copias-tres-dias-steam/</guid>
+      <description>Phantom Blade Zero vendeu mais de 4 milhões de cópias em três dias, segundo a S-Game, e fez a maior estreia do ano na Steam. Veja os números e a crítica.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 03 Nov 2026 14:41:07 +0000</pubDate>
+    </item>
     <item>
       <title>Zelda: Ocarina of Time remake foi feito pelo time EPD da Nintendo</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-quem-fez-nintendo-epd/</link>
@@ -238,14 +246,6 @@
       <description>O update 1.1 de The Blood of Dawnwalker traz respec de habilidades, dificuldade mais fácil, carinho em animais e mais de 1.100 melhorias, na próxima semana.</description>
       <category>Indústria</category>
       <pubDate>Sun, 18 Oct 2026 00:40:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Governo pede à ANPD que fiscalize seis jogos com loot boxes, entre eles Call of Duty e Genshin Impact</title>
-      <link>https://pixelzada.com.br/pt/governo-pede-fiscalizacao-loot-boxes-nba-2k26-call-of-duty-genshin-impact/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/governo-pede-fiscalizacao-loot-boxes-nba-2k26-call-of-duty-genshin-impact/</guid>
-      <description>Ministério da Justiça pede que a ANPD monitore seis jogos com loot boxes, como Call of Duty e Genshin Impact, por falta de verificação de idade no Brasil.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 18 Oct 2026 00:40:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

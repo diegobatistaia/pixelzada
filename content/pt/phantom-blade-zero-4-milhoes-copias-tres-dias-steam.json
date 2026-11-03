@@ -116,7 +116,10 @@
     "query": "Phantom Blade Zero",
     "alt": "Cena de Phantom Blade Zero, jogo de ação do estúdio S-Game",
     "url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/phantom-blade-zero-4-milhoes-copias-tres-59d1d7ea.jpg",
+    "source_url": "",
+    "foco": "55% 15%"
   },
   "sources": [
     {
@@ -132,5 +135,7 @@
       "title": "Phantom Blade Zero has sold 4 million copies in just 3 days"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T14:41:07+00:00",
+  "updated_at": "2026-11-03T14:41:07+00:00"
 }
