@@ -121,7 +121,9 @@
     "query": "Black Friday PlayStation",
     "alt": "Arte da Black Friday da PlayStation Store 2026",
     "url": "https://blog.playstation.com/tachyon/2026/11/62bd61203b9e44f88de85cba81f10904e5757ed4.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/black-friday-playstation-store-2026-4-de-30a2b2ec.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -149,5 +151,7 @@
       "title": "PlayStation's Black Friday sale includes Wolverine, Astro Bot and more"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-03T22:40:10+00:00",
+  "updated_at": "2026-11-03T22:40:10+00:00"
 }
