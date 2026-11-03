@@ -1,0 +1,78 @@
+{
+  "slug": "phantom-blade-zero-4-milhoes-em-numeros",
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Phantom Blade",
+  "gta6": false,
+  "materia": "phantom-blade-zero-4-milhoes-copias-tres-dias-steam",
+  "criado": "2026-11-03T11:55:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/Phantom-Blade-Zero-review-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Eurogamer",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Eurogamer e GamesRadar",
+  "capa": {
+    "titulo": "Phantom Blade Zero em números",
+    "destaque": "em números",
+    "apoio": "A maior estreia do ano na Steam. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Vendas",
+      "titulo": "4 milhões de cópias",
+      "destaque": "4 milhões",
+      "texto": [
+        "A S-Game anunciou a marca **em 72 horas**, segundo a Eurogamer e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Jogadores",
+      "titulo": "Mais de 820 mil na Steam",
+      "destaque": "820 mil",
+      "texto": [
+        "É o **pico de jogadores simultâneos**, segundo a Eurogamer e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Crítica",
+      "titulo": "88 no Metacritic",
+      "destaque": "88",
+      "texto": [
+        "A nota aparece na imagem da S-Game, com **89%** de avaliações positivas na Steam, segundo a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "O rival",
+      "titulo": "2,4 milhões de Wukong",
+      "destaque": "2,4 milhões",
+      "texto": [
+        "Black Myth: Wukong chegou a **2,4 milhões** de jogadores simultâneos, segundo a Eurogamer."
+      ]
+    }
+  ],
+  "final": "Você já jogou Phantom Blade Zero?",
+  "legenda": {
+    "gancho": "Phantom Blade Zero vendeu mais de 4 milhões de cópias em três dias, segundo a S-Game.",
+    "corpo": [
+      "É a maior estreia do ano na Steam, de acordo com a Eurogamer, com mais de 820 mil jogadores ao mesmo tempo no pico. A soma de vendas inclui o WeGame, a loja de PC da Tencent exclusiva da China.",
+      "O jogo ainda não chegou perto de Black Myth: Wukong, que teve 2,4 milhões de jogadores simultâneos. A S-Game não divulgou a divisão por plataforma, e o número de vendas é da própria empresa."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#phantomblade",
+      "#phantombladezero",
+      "#ps5"
+    ]
+  },
+  "alt": [
+    "Slide 1: Phantom Blade Zero em números",
+    "Slide 2: 4 milhões de cópias",
+    "Slide 3: Mais de 820 mil na Steam",
+    "Slide 4: 88 no Metacritic",
+    "Slide 5: 2,4 milhões de Wukong",
+    "Slide 6: Você já jogou Phantom Blade Zero?"
+  ],
+  "status": "pronto"
+}
