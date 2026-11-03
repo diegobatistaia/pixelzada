@@ -1157,7 +1157,7 @@
       },
       {
         "name": "Deadline",
-        "owner": "variety",
+        "owner": "penske",
         "kind": "press",
         "url": "https://deadline.com/2023/11/grand-theft-auto-6-confirmed-trailer-coming-december-1235596717",
         "title": "Rockstar Confirms Grand Theft Auto 6, with First Trailer Due in December"
@@ -2194,7 +2194,7 @@
       },
       {
         "name": "Deadline",
-        "owner": "variety",
+        "owner": "penske",
         "kind": "press",
         "url": "https://deadline.com/2023/11/grand-theft-auto-6-confirmed-trailer-coming-december-1235596717",
         "title": "Rockstar Confirms Grand Theft Auto 6, with First Trailer Due in December"
@@ -2243,7 +2243,7 @@
       },
       {
         "name": "Variety",
-        "owner": "variety",
+        "owner": "penske",
         "kind": "press",
         "url": "https://au.variety.com/2025/tv/news/gta-6-release-delayed-november-2026-29751",
         "title": "'GTA 6' Release Delayed to November 2026"
@@ -3152,7 +3152,7 @@
       },
       {
         "name": "Variety",
-        "owner": "variety",
+        "owner": "penske",
         "kind": "press",
         "url": "https://au.variety.com/2025/tv/news/gta-6-release-delayed-november-2026-29751",
         "title": "'GTA 6' Release Delayed to November 2026"
@@ -4642,7 +4642,7 @@
       },
       {
         "name": "Deadline",
-        "owner": "variety",
+        "owner": "penske",
         "kind": "press",
         "url": "https://deadline.com/2023/11/grand-theft-auto-6-confirmed-trailer-coming-december-1235596717",
         "title": "Rockstar Confirms Grand Theft Auto 6, with First Trailer Due in December"
@@ -5175,101 +5175,87 @@
   },
   {
     "id": "especial-gta6-take-two-balanco",
-    "tema": "Take-Two e GTA 6: o que os balanços e Strauss Zelnick disseram",
+    "tema": "Take-Two divulga balanço em 9 de novembro, dez dias antes de GTA 6: o que esperar e o que a empresa já disse em 2026",
     "categoria": "gta-6",
-    "angulo": "Para entender o peso de GTA 6 nos negócios: as metas bilionárias, as falas do CEO sobre pré-venda, preço e PC, e o que esperar do balanço de novembro.",
+    "angulo": "Para quem acompanha GTA 6 no Brasil: o último balanço da Take-Two antes do lançamento sai em 9/11 às 18h30 de Brasília, e os três balanços de 2026 mostram o que a dona da Rockstar já prometeu sobre data, pré-venda, preço, disco e PC.",
     "fatos": [
       {
-        "texto": "A Rockstar adiou GTA 6, antes previsto para 26 de maio de 2026, para 19 de novembro de 2026, dizendo que os meses extras serviriam para terminar o jogo com o nível de polimento esperado.",
+        "texto": "A Take-Two anunciou em comunicado de 13/10/2026 que divulga os resultados do 2º trimestre do ano fiscal 2027 (julho a setembro de 2026) na segunda-feira, 9 de novembro de 2026, depois do fechamento da bolsa, com teleconferência às 16h30 de Nova York (14h30 na Costa Oeste dos EUA, 18h30 em Brasília) e transmissão em take2games.com/ir.",
         "fontes": [
           0,
+          26,
           1
         ]
       },
       {
-        "texto": "Na divulgação de resultados de maio de 2026, Zelnick reafirmou a data de 19/11 e disse que o marketing começaria \"quando fosse verão\".",
+        "texto": "Até 03/11/2026 esse balanço ainda não tinha sido divulgado: portanto, não há ainda falas da empresa sobre GTA 6 referentes a ele. Será o último balanço antes do lançamento, dez dias antes de 19/11 e três dias antes do início do pré-download (12/11).",
         "fontes": [
-          2,
-          3
+          1,
+          2
         ]
       },
       {
-        "texto": "Em 07/08/2026, a Take-Two divulgou o 1º trimestre fiscal de 2027 (abril a junho): reservas líquidas (net bookings) de US$ 1,39 bilhão, queda de 3% sobre um ano antes, e receita de US$ 1,53 bilhão.",
+        "texto": "Para o trimestre que será apresentado em 9/11, a própria Take-Two projetou, em agosto, reservas líquidas (net bookings) de US$ 1,62 bilhão a US$ 1,67 bilhão.",
         "fontes": [
-          4,
+          3,
+          4
+        ]
+      },
+      {
+        "texto": "Fevereiro de 2026 (balanço do 3º trimestre fiscal 2026, divulgado em 3/2): reservas líquidas de US$ 1,76 bilhão, alta de 28% sobre um ano antes; a empresa elevou a previsão do ano fiscal 2026 para US$ 6,65 bilhões a 6,7 bilhões e disse esperar reservas recorde no ano fiscal 2027 por causa de GTA 6 em 19 de novembro.",
+        "fontes": [
           5,
           6
         ]
       },
       {
-        "texto": "A empresa manteve a meta de reservas líquidas de US$ 8,0 a 8,2 bilhões para o ano fiscal que termina em março de 2027, citando o lançamento de GTA 6 em 19 de novembro.",
+        "texto": "Também em fevereiro de 2026, Strauss Zelnick, CEO da Take-Two, disse ter 'todos os motivos para acreditar' que o GTA Online continuaria recebendo suporte depois do lançamento de GTA 6.",
         "fontes": [
           7,
-          5,
           8
         ]
       },
       {
-        "texto": "Para o 2º trimestre fiscal (julho a setembro de 2026), a Take-Two projetou reservas líquidas de US$ 1,62 a 1,67 bilhão.",
-        "fontes": [
-          4,
-          6
-        ]
-      },
-      {
-        "texto": "Os gastos recorrentes dos jogadores (microtransações, assinaturas etc.) representaram 84% das reservas líquidas no 1º trimestre.",
-        "fontes": [
-          4,
-          8
-        ]
-      },
-      {
-        "texto": "Zelnick classificou as pré-vendas de GTA 6 como \"sem precedentes e surpreendentes\" e disse que \"ninguém nunca viu nada assim na Take-Two ou na indústria\".",
+        "texto": "Maio de 2026 (balanço do 4º trimestre e do ano fiscal 2026, divulgado em 21/5): o ano fiscal fechou com reservas líquidas de US$ 6,72 bilhões (alta de 19%), e a Take-Two lançou a meta de US$ 8,0 bilhões a 8,2 bilhões para o ano fiscal 2027 (abril de 2026 a março de 2027), apoiada no lançamento de GTA 6.",
         "fontes": [
           9,
-          10,
-          11
-        ]
-      },
-      {
-        "texto": "Ele se recusou a dar números, lembrando que \"ainda não vendemos uma unidade\" e que pré-vendas podem ser canceladas; por isso a previsão não foi elevada.",
-        "fontes": [
-          11,
-          12,
           10
         ]
       },
       {
-        "texto": "Sobre o preço de US$ 80, Zelnick disse que a meta é entregar muito mais valor do que se cobra e que os preços de jogos não acompanharam a inflação.",
+        "texto": "No mesmo balanço de maio, Zelnick reafirmou o 19 de novembro e indicou que o jogo não seria adiado de novo; disse que o marketing começaria 'quando chegasse o verão' (do hemisfério norte), o que depois explicou como fim de junho ou início de julho.",
         "fontes": [
-          10,
-          12
-        ]
-      },
-      {
-        "texto": "Na mesma teleconferência, Zelnick anunciou a parceria com a Netflix para o Extended Look de 27/08, exibido com 6 horas de exclusividade antes de ir ao YouTube; não revelou os termos do acordo.",
-        "fontes": [
-          10,
+          11,
           12,
           13
         ]
       },
       {
-        "texto": "GTA V passou de 230 milhões de unidades vendidas, segundo a Take-Two em agosto de 2026.",
+        "texto": "Em maio, a Take-Two não revelou o preço de GTA 6; a VICE relatou que Zelnick disse que o valor viria junto com o marketing e a pré-venda. A pré-venda acabou aberta em 25/06/2026, por US$ 79,99 (Standard) e US$ 99,99 (Ultimate).",
         "fontes": [
-          10,
-          5
+          12,
+          14,
+          2
         ]
       },
       {
-        "texto": "Em fevereiro de 2026, Zelnick já dizia ter \"todos os motivos para acreditar\" que o GTA Online seguiria com suporte depois de GTA 6.",
+        "texto": "Agosto de 2026 (balanço do 1º trimestre fiscal 2027, divulgado em 7/8): reservas líquidas de US$ 1,39 bilhão, queda de 3% sobre um ano antes e um pouco acima da faixa prevista; os gastos recorrentes dos jogadores (microtransações e afins) foram 84% do total.",
         "fontes": [
-          14,
+          3,
+          10,
           15
         ]
       },
       {
-        "texto": "Na assembleia de acionistas de 17/09/2026, a Take-Two reafirmou que GTA 6 é single player e que o GTA Online continua; Zelnick disse que o PC está \"cada vez mais importante\".",
+        "texto": "Em agosto, a empresa manteve a meta de US$ 8,0 bilhões a 8,2 bilhões para o ano fiscal 2027, e Zelnick citou 'a empolgação em torno do lançamento de Grand Theft Auto VI em 19 de novembro' como motivo.",
+        "fontes": [
+          3,
+          10,
+          4
+        ]
+      },
+      {
+        "texto": "Na teleconferência de agosto, Zelnick chamou as pré-vendas de GTA 6 de 'sem precedentes e surpreendentes', mas não deu números, lembrando que pré-vendas podem ser canceladas.",
         "fontes": [
           16,
           17,
@@ -5277,56 +5263,72 @@
         ]
       },
       {
-        "texto": "Próximo balanço: o resultado do 2º trimestre fiscal costuma sair no início de novembro (em 2025 foi em 6 de novembro). Até 12/10/2026 a data de 2026 não aparecia em comunicado oficial encontrado, e calendários financeiros divergem: Investing.com aponta 5/11/2026 e TipRanks aponta 11/11/2026.",
+        "texto": "Sobre o preço de US$ 80, Zelnick disse em agosto que a meta é entregar muito mais valor do que se cobra, e não maximizar o preço.",
         "fontes": [
+          21,
           19,
+          17
+        ]
+      },
+      {
+        "texto": "Sobre a versão física ser um código na caixa, sem disco, Zelnick disse em agosto que o negócio da Take-Two é 'bem mais de 90% digital' e, ao IGN, que não descartava nada sobre um disco no futuro.",
+        "fontes": [
           20,
           21
+        ]
+      },
+      {
+        "texto": "Ainda em agosto, a Take-Two informou que GTA V passou de 230 milhões de unidades vendidas.",
+        "fontes": [
+          10,
+          17
+        ]
+      },
+      {
+        "texto": "Na mesma época, Zelnick anunciou a parceria com a Netflix para o 'Extended Look', exibido em 27/08/2026 primeiro na plataforma e horas depois no YouTube.",
+        "fontes": [
+          17,
+          19,
+          22
+        ]
+      },
+      {
+        "texto": "Na assembleia de acionistas de 17/09/2026, a Take-Two repetiu que GTA 6 sai só com modo single player e que o GTA Online continua; Zelnick disse que o PC está 'cada vez mais importante', sem anunciar versão de PC.",
+        "fontes": [
+          23,
+          24,
+          25
         ]
       }
     ],
     "fontes": [
       {
-        "name": "Rockstar Newswire",
+        "name": "Take-Two Interactive (comunicado via Business Wire/Yahoo Finance)",
         "owner": "take-two",
         "kind": "primary",
-        "url": "https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026",
-        "title": "Grand Theft Auto VI is Now Coming May 26, 2026"
+        "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-report-120000538.html",
+        "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026"
       },
       {
-        "name": "Rockstar Newswire",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
-        "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026"
-      },
-      {
-        "name": "TechRadar",
-        "owner": "future-plc",
+        "name": "Beebom",
+        "owner": "beebom",
         "kind": "press",
-        "url": "https://www.techradar.com/gaming/gta-6-is-locked-in-for-november-19-2026-according-to-take-two-interactive-despite-delay-rumors-and-marketing-starts-soon",
-        "title": "GTA 6 is locked in for November 19, 2026, according to Take-Two Interactive, despite delay rumors — and marketing starts soon"
+        "url": "https://beebom.com/take-two-november-9-earnings-call-could-bring-gta-6-story-trailer/",
+        "title": "Take-Two's Final Earnings Call Before GTA 6 Release Could Finally Bring Story Trailer"
       },
       {
-        "name": "VICE",
-        "owner": "vice-media",
-        "kind": "press",
-        "url": "https://www.vice.com/en/article/take-two-ceo-confirms-gta-6-wont-be-delayed-again-and-teases-next-trailer-date/",
-        "title": "Take-Two CEO Confirms GTA 6 Won't Be Delayed Again and Teases Next Trailer Date"
-      },
-      {
-        "name": "Nasdaq (comunicado da Take-Two)",
+        "name": "Rockstar Games (Business Wire)",
         "owner": "take-two",
         "kind": "primary",
-        "url": "https://www.nasdaq.com/press-release/take-two-interactive-software-inc-reports-results-fiscal-first-quarter-2027-2026-08",
+        "url": "https://www.businesswire.com/news/home/20260624539426/en/Rockstar-Games-Announces-Pre-Orders-for-Grand-Theft-Auto-VI",
+        "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI"
+      },
+      {
+        "name": "Take-Two Interactive (8-K, 1º trimestre fiscal 2027)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026054580/ttwo1q27earningsrelease.htm",
         "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027"
-      },
-      {
-        "name": "Video Games Chronicle",
-        "owner": "vgc",
-        "kind": "press",
-        "url": "https://www.videogameschronicle.com/news/take-two-predicts-8-billion-in-net-bookings-for-its-2027-fiscal-year-thanks-to-gta-6/",
-        "title": "Take-Two reiterates that it predicts $8 billion in net bookings this fiscal year thanks to GTA 6"
       },
       {
         "name": "Quartz (via Yahoo Finance)",
@@ -5336,11 +5338,74 @@
         "title": "Take-Two Q1 2027 earnings: GTA VI launch date confirmed"
       },
       {
-        "name": "Take-Two Interactive (Investor Relations)",
+        "name": "Take-Two Interactive (8-K, 3º trimestre fiscal 2026)",
         "owner": "take-two",
         "kind": "primary",
-        "url": "https://www.take2games.com/ir/news/take-two-interactive-software-inc-reports-results-fiscal-first-6",
-        "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal First Quarter 2027"
+        "url": "https://www.sec.gov/Archives/edgar/data/946581/000162828026005010/ttwo3q26earningsrelease.htm",
+        "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal Third Quarter 2026"
+      },
+      {
+        "name": "Shacknews",
+        "owner": "shacknews",
+        "kind": "press",
+        "url": "https://www.shacknews.com/article/147710/gta-6-release-date-not-delayed",
+        "title": "GTA 6 still on track for November 2026 release date, Take-Two (TTWO) expects record FY27 bookings"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/gta-6-gta-online-support-2027-november-post-launch-take-two-ceo-strauss-2000665489",
+        "title": "GTA 6 Doesn't Mean The End Of GTA Online: 'We'll Continue To Support It'"
+      },
+      {
+        "name": "TweakTown",
+        "owner": "tweaktown",
+        "kind": "press",
+        "url": "https://www.tweaktown.com/news/110028/take-two-ceo-expects-rockstar-to-support-current-iteration-of-gta-online-after-gta-6s-release/index.html",
+        "title": "Take-Two CEO expects Rockstar to support current iteration of GTA Online after GTA 6's release"
+      },
+      {
+        "name": "Take-Two Interactive (8-K, 4º trimestre fiscal 2026)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026037260/ttwo4q26earningsrelease.htm",
+        "title": "Take-Two Interactive Software, Inc. Reports Results for Fiscal Fourth Quarter and Fiscal Year 2026"
+      },
+      {
+        "name": "Video Games Chronicle",
+        "owner": "vgc",
+        "kind": "press",
+        "url": "https://videogameschronicle.com/news/take-two-predicts-8-billion-in-net-bookings-for-its-2027-fiscal-year-thanks-to-gta-6/",
+        "title": "Take-Two reiterates that it predicts $8 billion in net bookings this fiscal year thanks to GTA 6"
+      },
+      {
+        "name": "TheGamer",
+        "owner": "valnet",
+        "kind": "press",
+        "url": "https://www.thegamer.com/gta-6-will-still-launch-november-19/",
+        "title": "Strauss Zelnick Reconfirms What We All Hoped: GTA 6 Will Launch Still On November 19, Marketing To Begin This Summer"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/take-two-ceo-confirms-gta-6-wont-be-delayed-again-and-teases-next-trailer-date/",
+        "title": "Take-Two CEO Confirms GTA 6 Won't Be Delayed Again and Teases Next Trailer Date"
+      },
+      {
+        "name": "TechRadar",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.techradar.com/gaming/gta-6-is-locked-in-for-november-19-2026-according-to-take-two-interactive-despite-delay-rumors-and-marketing-starts-soon",
+        "title": "GTA 6 is locked in for November 19, 2026, according to Take-Two Interactive, despite delay rumors — and marketing starts soon"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/everything-learned-may-2026-take-two-earnings-call-gta-6/",
+        "title": "Everything We Learned About May 2026 Take-Two Earnings Call For GTA 6"
       },
       {
         "name": "Pulse 2.0",
@@ -5378,25 +5443,25 @@
         "title": "Take-Two CEO Strauss Zelnick isn't doing a victory lap before GTA VI sales start | exclusive interview"
       },
       {
+        "name": "TechRadar",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://techradar.com/gaming/wondering-why-gta-6-is-a-code-in-a-box-take-two-ceo-says-its-because-gaming-is-now-well-over-90-percent-digital",
+        "title": "Wondering why GTA 6 is a code in a box? Take-Two CEO says it's because gaming is now 'well over 90% digital'"
+      },
+      {
+        "name": "Notebookcheck",
+        "owner": "notebookcheck",
+        "kind": "press",
+        "url": "https://notebookcheck.net/Take-Two-CEO-won-t-rule-out-a-GTA-6-disc-release-defends-80-price-and-digital-only-launch.1362991.0.html",
+        "title": "Take-Two CEO won't rule out a GTA 6 disc release, defends $80 price and digital-only launch"
+      },
+      {
         "name": "Rockstar Newswire",
         "owner": "take-two",
         "kind": "primary",
         "url": "https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9/grand-theft-auto-vi-an-extended-look",
         "title": "Grand Theft Auto VI: An Extended Look"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/gta-6-gta-online-support-2027-november-post-launch-take-two-ceo-strauss-2000665489",
-        "title": "GTA 6 Doesn't Mean The End Of GTA Online: 'We'll Continue To Support It'"
-      },
-      {
-        "name": "TweakTown",
-        "owner": "tweaktown",
-        "kind": "press",
-        "url": "https://www.tweaktown.com/news/110028/take-two-ceo-expects-rockstar-to-support-current-iteration-of-gta-online-after-gta-6s-release/index.html",
-        "title": "Take-Two CEO expects Rockstar to support current iteration of GTA Online after GTA 6's release"
       },
       {
         "name": "TechRadar",
@@ -5420,25 +5485,11 @@
         "title": "'The PC platform is becoming more and more important,' Take-Two chief says, as we continue to wonder when we're going to get GTA 6"
       },
       {
-        "name": "Take-Two Interactive (Investor Relations)",
+        "name": "Stock Titan (comunicado da Take-Two)",
         "owner": "take-two",
         "kind": "primary",
-        "url": "https://ir.take2games.com/node/31791/pdf",
-        "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2026 Results on Thursday, November 6, 2025"
-      },
-      {
-        "name": "Investing.com",
-        "owner": "investing-com",
-        "kind": "press",
-        "url": "https://www.investing.com/equities/take-two-interactive-earnings",
-        "title": "Take-Two (TTWO) Earnings Date & Report"
-      },
-      {
-        "name": "TipRanks",
-        "owner": "tipranks",
-        "kind": "press",
-        "url": "https://www.tipranks.com/stocks/ttwo/earnings",
-        "title": "Take-Two (TTWO) Earnings Dates, Call Summary & Reports"
+        "url": "https://www.stocktitan.net/news/TTWO/take-two-interactive-software-inc-to-report-second-quarter-fiscal-qst6u4vkpwg0.html",
+        "title": "Take-Two Interactive Software, Inc. to Report Second Quarter Fiscal Year 2027 Results on Monday, November 9, 2026"
       }
     ],
     "imagem": {
@@ -5449,9 +5500,9 @@
     "formatos_carrossel": [
       "linha-do-tempo",
       "em-numeros",
-      "em-foco"
+      "perguntas"
     ],
-    "aviso": "Data do balanço de novembro de 2026 (2º trimestre fiscal 2027) não confirmada oficialmente pela Take-Two até 12/10/2026; só há estimativas divergentes de calendários financeiros. Confirmar antes de publicar se possível."
+    "a_partir_de": "2026-11-03"
   },
   {
     "id": "especial-gta6-mount-kalaga",
@@ -6037,113 +6088,148 @@
   },
   {
     "id": "especial-gta6-dia-do-lancamento",
-    "tema": "Guia do dia do lançamento de GTA 6: horário, pré-download e mídia física",
+    "tema": "Dia do lançamento de GTA 6: meia-noite no Brasil, pré-download em 12/11 e os 210 GB que ainda não são oficiais",
     "categoria": "guias",
-    "angulo": "Tudo que o jogador brasileiro precisa saber para jogar GTA 6 no primeiro minuto: meia-noite de 19/11 em Brasília, pré-download em 12/11 e caixa física sem disco.",
+    "angulo": "Guia prático atualizado em novembro para quem vai jogar no Brasil: a que horas o jogo libera no PS5 e no Xbox, quando começa o pré-download, o que se sabe do tamanho, como funciona a caixa com código e o que a Rockstar soltou nas últimas semanas.",
     "fatos": [
       {
-        "texto": "GTA 6 lança em quinta-feira, 19 de novembro de 2026, no PS5 e no Xbox Series X|S.",
+        "texto": "GTA 6 lança na quinta-feira, 19 de novembro de 2026, no PS5 e no Xbox Series X|S; no site oficial, a data continua 'Coming November 19, 2026' (atualizado até 03/11).",
         "fontes": [
           0,
           1
         ]
       },
       {
-        "texto": "Na PlayStation Store brasileira, a liberação está marcada para 19/11/2026 às 03h00 UTC, ou seja, meia-noite no horário de Brasília.",
+        "texto": "Na PlayStation Store brasileira, a liberação está marcada para 19/11/2026 às 03h00 UTC, ou seja, meia-noite (00h00) no horário de Brasília da noite de quarta (18) para quinta (19).",
         "fontes": [
           2,
-          3
+          3,
+          4
         ]
       },
       {
-        "texto": "As listagens da PlayStation Store indicam liberação à meia-noite no horário local de cada região, em cerca de 15 janelas ao longo de 19 horas, começando pela Nova Zelândia.",
+        "texto": "As lojas listam liberação à meia-noite no horário local de cada região, em 15 janelas: a primeira é a Nova Zelândia, em 18/11 às 11h00 UTC (8h da manhã de 18/11 em Brasília), e a última é México e América Central, às 06h00 UTC de 19/11.",
         "fontes": [
           3,
-          4,
-          5
+          5,
+          6
         ]
       },
       {
-        "texto": "Nos EUA, a PlayStation Store marca 05h00 UTC — meia-noite na Costa Leste e 21h do dia 18 na Costa Oeste.",
-        "fontes": [
-          6,
-          3
-        ]
-      },
-      {
-        "texto": "Na Nova Zelândia, o jogo libera em 18/11 às 11h00 UTC, cerca de 16 horas antes do Brasil.",
+        "texto": "O Brasil fica na mesma janela de Argentina, Chile, Paraguai e Uruguai (03h00 UTC); os EUA liberam depois, às 05h00 UTC (meia-noite na Costa Leste, 21h do dia 18 na Costa Oeste).",
         "fontes": [
           3,
-          5
+          6
         ]
       },
       {
-        "texto": "A Rockstar ainda não publicou um comunicado próprio com todos os horários; eles vêm das lojas e podem mudar.",
+        "texto": "A Rockstar não publicou um cronograma próprio de horários; eles vêm das listagens da PlayStation Store e da Xbox Store e ainda podem mudar.",
         "fontes": [
           3,
           7,
-          8
+          5
         ]
       },
       {
-        "texto": "Jogadores de Xbox discutem mudar a região do console para a Nova Zelândia para jogar antes; a imprensa alerta que isso é por conta e risco do jogador.",
+        "texto": "No Xbox, jogadores falam em trocar a região do console para a Nova Zelândia para jogar antes; a imprensa lembra que isso não é o uso previsto e fica por conta e risco do jogador.",
         "fontes": [
           5,
-          8
+          7
         ]
       },
       {
-        "texto": "O pré-download começa em 12 de novembro de 2026 (sete dias antes) para quem tem o jogo na pré-venda.",
+        "texto": "O pré-download (pre-load) começa em 12 de novembro de 2026, uma semana antes, para quem fez a pré-venda digital; a página brasileira da PS Store informa 'Pré-carregamento 7 dias antes'. Pré-carregar não dá acesso antecipado: o jogo só abre no horário de liberação.",
         "fontes": [
-          9,
+          8,
           2,
-          10,
-          11
+          9,
+          14
         ]
       },
       {
-        "texto": "A versão física é um código numa caixa, sem disco; as caixas são entregues a partir de 12 de novembro para permitir o pré-download.",
+        "texto": "O anúncio oficial da Rockstar dá só a data do pré-download, sem horário exato de início.",
         "fontes": [
-          9,
+          8,
+          10,
+          9
+        ]
+      },
+      {
+        "texto": "A versão física é uma caixa com código de download, sem disco; ela chega às lojas a partir de 12/11 justamente para permitir o pré-download, e é preciso internet para baixar e jogar.",
+        "fontes": [
+          8,
+          11,
+          10,
+          9
+        ]
+      },
+      {
+        "texto": "Sobre a falta de disco, Strauss Zelnick, CEO da Take-Two, disse em agosto que o negócio da empresa é 'bem mais de 90% digital'.",
+        "fontes": [
+          15,
+          31
+        ]
+      },
+      {
+        "texto": "Tamanho do download: em 27-28/10/2026, a conta 'PlayStation Game Size', que levanta dados do sistema da PS Store, apontou 210 GB no PS5. A Rockstar não confirmou o número, o tamanho no Xbox não foi divulgado e o espaço instalado pode ser diferente do download.",
+        "fontes": [
           12,
+          13,
+          14
+        ]
+      },
+      {
+        "texto": "Quem compra até 19/11 (antes de 20 de novembro) leva o bônus Vintage Vice City Pack; na pré-venda digital também vem um mês grátis de GTA+.",
+        "fontes": [
+          8,
           10
         ]
       },
       {
-        "texto": "O tamanho do download ainda não foi anunciado oficialmente.",
+        "texto": "O jogo sai só com o modo single player; não há GTA Online novo no lançamento, e não haverá versão de PC no dia 19 nem streaming para PC pelo Xbox Cloud Gaming.",
         "fontes": [
-          8,
-          13
+          27,
+          28,
+          29,
+          30
         ]
       },
       {
-        "texto": "Comprando até 19/11 (antes de 20 de novembro), o jogador leva o bônus Vintage Vice City Pack.",
+        "texto": "Nas últimas semanas, a Rockstar lançou em 15/10/2026 o trailer de lançamento, capturado no PS5, com a música inédita 'Flower in a Hurricane', do Justice com Tame Impala, SZA e King Gizzard & The Lizard Wizard.",
         "fontes": [
-          14,
-          9,
-          15
-        ]
-      },
-      {
-        "texto": "O jogo sai apenas com modo single player; não há GTA Online novo no lançamento.",
-        "fontes": [
-          2,
           16,
           17
         ]
       },
       {
-        "texto": "Não haverá versão de PC no dia 19, nem streaming para PC via Xbox Cloud Gaming.",
+        "texto": "Em 08/10/2026 o site oficial ganhou detalhes das rádios, com prévia de estações na página de música, além de três novas imagens; no mesmo período, a Rockstar Store abriu a coleção oficial de roupas e colecionáveis de GTA VI.",
         "fontes": [
-          18,
-          19
+          21,
+          22,
+          23
         ]
       },
       {
-        "texto": "A caixa de colecionador \"The Goodtime State – Vice City Collection\" (US$ 399,99, sem o jogo) chega no mesmo dia do lançamento.",
+        "texto": "Em 29/10/2026 a Rockstar anunciou a trilha original de GTA VI composta pelo Justice, com lançamento em 11 de dezembro (depois do jogo) e o single 'Pusher', com Gesaffelstein, já disponível. As fontes divergem no número de faixas: a GosuGamers fala em 30 (mais faixas bônus digitais) em CD, vinil e streaming; a Gfinity cita 50, a partir de uma listagem do Apple Music da Nova Zelândia.",
         "fontes": [
-          20,
-          21
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "texto": "Evento de véspera: em 18/11/2026, às 19h de Miami (21h em Brasília), o Miami HEAT recebe o Milwaukee Bucks na Kaseya Center na noite 'A Night in Vice City', com quadra especial 'Vice City', uniforme redesenhado e transmissão da ESPN nos EUA.",
+        "fontes": [
+          24,
+          25,
+          26
+        ]
+      },
+      {
+        "texto": "Na arena, o HEAT vende comida com as marcas fictícias Burger Shot e Cluckin' Bell, de GTA, e uma coleção de roupas Vice City; o clube chama a ação de 'parceria histórica' ligada ao lançamento, mas a página não cita a Rockstar pelo nome.",
+        "fontes": [
+          24,
+          26
         ]
       }
     ],
@@ -6156,7 +6242,7 @@
         "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026"
       },
       {
-        "name": "Rockstar Games",
+        "name": "Rockstar Games (site oficial de GTA VI)",
         "owner": "take-two",
         "kind": "primary",
         "url": "https://www.rockstargames.com/VI",
@@ -6170,18 +6256,18 @@
         "title": "Grand Theft Auto VI: Ultimate Edition"
       },
       {
+        "name": "GamerFuzion",
+        "owner": "gamerfuzion",
+        "kind": "press",
+        "url": "https://www.gamerfuzion.com/gta-6-release-times-unlock-windows/",
+        "title": "GTA 6 Release Times: All 15 Unlock Windows, and Xbox Confirms Them Too"
+      },
+      {
         "name": "GameVicio",
         "owner": "gamevicio",
         "kind": "press",
         "url": "https://www.gamevicio.com/noticias/2026/09/gta-6-liberado-16-horas-mais-cedo/",
         "title": "GTA 6 poderá ser liberado 16 horas mais cedo para alguns jogadores"
-      },
-      {
-        "name": "Rolling Stone Brasil",
-        "owner": "rolling-stone-brasil",
-        "kind": "press",
-        "url": "https://rollingstone.com.br/rs-gaming/horario-de-lancamento-do-gta-6-e-divulgado-veja-quando-voce-podera-jogar/",
-        "title": "Horário de lançamento do GTA 6 é divulgado; veja quando você poderá jogar"
       },
       {
         "name": "Pure Xbox",
@@ -6191,18 +6277,11 @@
         "title": "GTA 6 Release Times Suggest Some Xbox Players Will Get Access Earlier Than Others"
       },
       {
-        "name": "PlayStation Store (EUA)",
-        "owner": "sony",
-        "kind": "primary",
-        "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
-        "title": "Grand Theft Auto VI: Ultimate Edition"
-      },
-      {
-        "name": "Dork",
-        "owner": "dork",
+        "name": "Kotaku",
+        "owner": "keleops",
         "kind": "press",
-        "url": "https://readdork.com/gaming/grand-theft-auto-6-staggered-midnight-launch-66205a94f7",
-        "title": "'Grand Theft Auto 6' is reportedly set for a staggered midnight launch"
+        "url": "https://kotaku.com/gta6-grand-theft-auto-6-launch-date-time-midnight-rockstar-2000732098",
+        "title": "The United States Will Be One Of The Last Countries In The World To Be Able To Play GTA 6"
       },
       {
         "name": "Gfinity Esports",
@@ -6212,53 +6291,137 @@
         "title": "GTA 6 Worldwide Release Times & Regional Launch Window"
       },
       {
-        "name": "Rockstar Store",
+        "name": "Rockstar Games (Business Wire)",
         "owner": "take-two",
         "kind": "primary",
-        "url": "https://store.rockstargames.com/game/buy-gta-vi",
-        "title": "Grand Theft Auto VI"
+        "url": "https://www.businesswire.com/news/home/20260624539426/en/Rockstar-Games-Announces-Pre-Orders-for-Grand-Theft-Auto-VI",
+        "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI"
       },
       {
-        "name": "Tecnoblog",
-        "owner": "tecnoblog",
+        "name": "Shacknews",
+        "owner": "shacknews",
         "kind": "press",
-        "url": "https://tecnoblog.net/noticias/preco-de-gta-6-no-brasil-e-revelado-r-449/",
-        "title": "Preço de GTA 6 no Brasil é revelado: R$ 449"
+        "url": "https://www.shacknews.com/article/149775/grand-theft-auto-6-pre-load-guide",
+        "title": "Grand Theft Auto 6 pre-load guide"
       },
       {
-        "name": "Seu Dinheiro",
-        "owner": "seu-dinheiro",
+        "name": "HotHardware",
+        "owner": "hothardware",
         "kind": "press",
-        "url": "https://www.seudinheiro.com/2026/empresas/pre-venda-gta-6-isca-2/",
-        "title": "Pré-venda de GTA 6 acaba de começar; veja preços e onde adquirir o jogo"
+        "url": "https://hothardware.com/news/gta-6-preload-guide-everything-know-before-servers-open",
+        "title": "GTA 6 Preload Guide: Everything To Know Before Servers Open"
       },
       {
-        "name": "Best Buy",
-        "owner": "best-buy",
+        "name": "Gfinity Esports",
+        "owner": "gfinity",
         "kind": "press",
-        "url": "https://www.bestbuy.com/product/grand-theft-auto-vi-code-in-box-delivers-11-12-26-playable-11-19-26-xbox-series-x-xbox-series-s/JXHY5RKPCY",
-        "title": "Grand Theft Auto VI (Code in Box, Delivers 11/12/26, Playable 11/19/26) Xbox Series X, Xbox Series S"
+        "url": "https://www.gfinityesports.com/article/gta-6-pre-load-date",
+        "title": "GTA 6 Pre-Load Date Confirmed for Digital and Physical Versions"
       },
       {
-        "name": "The Sunday Guardian",
-        "owner": "sunday-guardian",
+        "name": "PC Gamer",
+        "owner": "future-plc",
         "kind": "press",
-        "url": "https://sundayguardianlive.com/tech-news/gta-6-download-size-how-many-gb-will-grand-theft-auto-6-be-check-expected-file-size-storage-requirements-preload-date-release-time-in-us-ps5-pro-support-more-218492/",
-        "title": "GTA 6 Download Size: How Many GB Will Grand Theft Auto 6 Be? Check Expected File Size, Storage Requirements, Preload Date, Release Time, PS5 Pro Support & More"
+        "url": "https://pcgamer.com/games/grand-theft-auto/gta-6s-ps5-install-size-is-so-big-you-could-store-3500-copies-of-balatro-inside",
+        "title": "GTA 6's PS5 install size is so big you could store 3500 copies of Balatro inside"
       },
       {
-        "name": "PlayStation Blog",
-        "owner": "sony",
+        "name": "Gfinity Esports",
+        "owner": "gfinity",
+        "kind": "press",
+        "url": "https://www.gfinityesports.com/article/gta-6-file-size-will-reportedly-be-over-200-gb-on-ps5",
+        "title": "GTA 6 File Size Will Reportedly Be Over 200 GB on PS5"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://vice.com/en/article/gta-6-pre-load-date-ps5-download-file-size",
+        "title": "GTA 6 Pre Load Date Revealed – When You Can Download on PS5"
+      },
+      {
+        "name": "TechRadar",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://techradar.com/gaming/wondering-why-gta-6-is-a-code-in-a-box-take-two-ceo-says-its-because-gaming-is-now-well-over-90-percent-digital",
+        "title": "Wondering why GTA 6 is a code in a box? Take-Two CEO says it's because gaming is now 'well over 90% digital'"
+      },
+      {
+        "name": "Rockstar Newswire",
+        "owner": "take-two",
         "kind": "primary",
-        "url": "https://blog.playstation.com/2026/06/24/grand-theft-auto-vi-plays-best-on-ps5-november-19/",
-        "title": "Grand Theft Auto VI plays best on PS5 November 19"
+        "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer",
+        "title": "Watch the Grand Theft Auto VI Launch Trailer"
+      },
+      {
+        "name": "Push Square",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5",
+        "title": "GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5"
+      },
+      {
+        "name": "Rockstar Newswire",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/newswire/article/39ak8a12395591",
+        "title": "Grand Theft Auto VI: Original Score by Justice"
+      },
+      {
+        "name": "GosuGamers",
+        "owner": "gosugamers",
+        "kind": "press",
+        "url": "https://www.gosugamers.net/entertainment/news/79441-rockstar-announces-grand-theft-auto-vi-original-score-by-justice-launching-in-december",
+        "title": "Rockstar announces Grand Theft Auto VI Original Score by Justice, launching in December"
+      },
+      {
+        "name": "Gfinity Esports",
+        "owner": "gfinity",
+        "kind": "press",
+        "url": "https://www.gfinityesports.com/article/gta-6-original-score-details-release-date-revealed",
+        "title": "GTA 6 Original Score Details & Release Date Revealed"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-screenshots-radio-stations/",
+        "title": "Rockstar Releases New GTA 6 Screenshots & Radio Stations Early"
+      },
+      {
+        "name": "Rockstar Games (site oficial de GTA VI)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI/music",
+        "title": "Grand Theft Auto VI - Music"
+      },
+      {
+        "name": "Rockstar Newswire",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/newswire/article/759875393o5253",
+        "title": "Grand Theft Auto VI Collection Now at the Rockstar Store"
+      },
+      {
+        "name": "Miami HEAT (NBA.com)",
+        "owner": "nba",
+        "kind": "press",
+        "url": "https://www.nba.com/heat/vicecity",
+        "title": "A Night In Vice City"
       },
       {
         "name": "Video Games Chronicle",
         "owner": "vgc",
         "kind": "press",
-        "url": "https://www.videogameschronicle.com/news/rockstar-confirms-grand-theft-auto-6-ultimate-edition-and-pre-order-bonuses-but-still-no-price/",
-        "title": "Rockstar confirms Grand Theft Auto 6 Ultimate Edition and pre-order bonuses as well as price"
+        "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
+        "title": "Miami Heat NBA team to rebrand as 'Vice City' in GTA 6 marketing stunt"
+      },
+      {
+        "name": "Gematsu",
+        "owner": "gematsu",
+        "kind": "press",
+        "url": "https://www.gematsu.com/2026/10/miami-heat-to-play-as-grand-theft-auto-vis-vice-city-on-november-18",
+        "title": "Miami HEAT to play as Grand Theft Auto VI's Vice City on November 18"
       },
       {
         "name": "TechRadar",
@@ -6289,31 +6452,24 @@
         "title": "Xbox clarifies that Cloud Gaming will not allow GTA 6 to be streamed on PC"
       },
       {
-        "name": "TechRadar",
-        "owner": "future-plc",
+        "name": "Notebookcheck",
+        "owner": "notebookcheck",
         "kind": "press",
-        "url": "https://www.techradar.com/gaming/gta-6-gets-a-vice-city-collection-box-set-for-super-fans-but-its-usd399-and-doesnt-even-come-with-the-game",
-        "title": "GTA 6 gets a 'Vice City Collection' box set for super-fans — but it's $399 and doesn't even come with the game"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/rockstar-reveals-400-special-edition-of-grand-theft-auto-6-2000736975",
-        "title": "Rockstar Reveals $400 Grand Theft Auto 6 Box Of Stuff That Doesn't Include The Game"
+        "url": "https://notebookcheck.net/Take-Two-CEO-won-t-rule-out-a-GTA-6-disc-release-defends-80-price-and-digital-only-launch.1362991.0.html",
+        "title": "Take-Two CEO won't rule out a GTA 6 disc release, defends $80 price and digital-only launch"
       }
     ],
     "imagem": {
-      "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/ak3ak31a49a221/c8c033070a0bfb2e3ec6ae7ff047ebe8ec551326.jpg",
+      "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517572321a549a/0637b4bb19438399bc5b3e7bbdfe6936f79cdbf3.jpg",
       "credito": "Rockstar Games",
-      "descricao": "Arte oficial do anúncio da data de lançamento de GTA VI, 19 de novembro de 2026"
+      "descricao": "Imagem oficial do post do trailer de lançamento de GTA VI no Newswire da Rockstar"
     },
     "formatos_carrossel": [
       "passo-a-passo",
-      "linha-do-tempo",
-      "perguntas"
+      "perguntas",
+      "linha-do-tempo"
     ],
-    "aviso": "Horário de liberação vem das listagens da PlayStation Store (fonte primária da Sony) e da imprensa; a Rockstar não publicou comunicado próprio sobre horários. Tamanho do download não divulgado."
+    "a_partir_de": "2026-11-16"
   },
   {
     "id": "especial-gta6-extended-look-gameplay",
@@ -12839,5 +12995,348 @@
       "lista",
       "detalhes"
     ]
+  },
+  {
+    "id": "especial-gta6-primeiras-horas",
+    "tema": "O que fazer nas primeiras horas de GTA 6: dicas práticas com base no que a Rockstar já mostrou",
+    "categoria": "guias",
+    "angulo": "Guia de sobrevivência para a madrugada de 19/11: só o que a Rockstar e as prévias já mostraram, transformado em dicas — da primeira missão à troca entre Jason e Lucia, do celular ao tanque de gasolina e ao sono dos personagens.",
+    "fatos": [
+      {
+        "texto": "A primeira missão mostrada no Extended Look é a busca de uma carga para Boobie Ike num prédio de apartamentos; uma traição leva a uma batida policial e a um tiroteio. Rob Nelson, co-chefe da Rockstar North, disse ao IGN que há 'várias rotas' para sair desse prédio — vale explorar em vez de seguir sempre o mesmo caminho.",
+        "fontes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "texto": "Nas missões, o jogo indica uma rota de fuga 'ideal', mas quem sai dela ainda consegue escapar; a missão só vira uma perseguição policial. Nelson admite que a história às vezes precisa de momentos mais guiados.",
+        "fontes": [
+          1,
+          3,
+          0
+        ]
+      },
+      {
+        "texto": "Exemplo: na fuga com o ladrão de bancos Raul Bautista, a primeira parte é guiada — Jason atira enquanto Lucia dirige — e depois o jogador assume o volante e pode escolher como despistar a polícia.",
+        "fontes": [
+          1,
+          3,
+          0
+        ]
+      },
+      {
+        "texto": "Trocar entre Jason e Lucia é instantâneo quando os dois estão juntos e leva alguns segundos quando estão separados, como em GTA 5; o personagem que não está sendo controlado é guiado pela IA e dá cobertura nos tiroteios.",
+        "fontes": [
+          4,
+          5,
+          2
+        ]
+      },
+      {
+        "texto": "O celular é o centro do jogo fora das missões: entre os apps vistos estão BuckMe (banco), RydeMe (corridas, a versão do jogo para o Uber), Scooter Bros (entrega do seu veículo), WhatUp (mensagens), WAiNK (scanner de carros) e Snapmatic (rede social).",
+        "fontes": [
+          6,
+          7
+        ]
+      },
+      {
+        "texto": "Antes de roubar um carro, use o WAiNK: ele mostra quanto o carro vale, quanto custa registrá-lo como veículo pessoal e se tem trava, alarme ou rastreador.",
+        "fontes": [
+          8,
+          9,
+          6
+        ]
+      },
+      {
+        "texto": "Cuidado com rastreadores: um carro com rastreador pode avisar a polícia onde você está; os receptadores costumam ter bloqueador de sinal no ponto de entrega, e o estado do carro na chegada muda o valor pago.",
+        "fontes": [
+          10,
+          11,
+          6
+        ]
+      },
+      {
+        "texto": "Deposite o dinheiro vivo: ele se perde se o personagem morrer antes de passar num caixa eletrônico; o saldo bancário fica no app BuckMe, e bolsas de itens roubados só viram dinheiro em receptadores.",
+        "fontes": [
+          6,
+          12
+        ]
+      },
+      {
+        "texto": "Fique de olho no tanque: carros a gasolina precisam ser abastecidos em postos (cerca de 10 segundos) e elétricos, recarregados; segundo a prévia da revista Edge, um carro roubado na rua pode estar quase vazio, então vale deixar um carro de fuga pronto antes de um assalto.",
+        "fontes": [
+          6,
+          13,
+          10
+        ]
+      },
+      {
+        "texto": "Durma: o app de saúde mostra se o personagem está descansado, e dormir pouco deixa mais lenta a recuperação de alguns atributos, segundo Rob Nelson.",
+        "fontes": [
+          13,
+          14
+        ]
+      },
+      {
+        "texto": "Não ignore o parceiro: pelo celular dá para chamar o outro protagonista para ajudar ou para um programa, e ignorar as mensagens dele repetidamente prejudica a relação entre Jason e Lucia.",
+        "fontes": [
+          15,
+          16,
+          5
+        ]
+      },
+      {
+        "texto": "Polícia: ícones abaixo das estrelas mostram o que a polícia sabe (rosto, roupa, carro, se vocês estão juntos, arma, câmeras); separar a dupla, trocar a roupa inteira, trocar de carro ou largar a arma ajuda a sumir.",
+        "fontes": [
+          17,
+          18,
+          10
+        ]
+      },
+      {
+        "texto": "Com três estrelas é difícil fugir de carro, a não ser com um carro muito rápido ou moto esportiva; muitas vezes o melhor é fugir a pé pelos becos, disse Nelson ao IGN.",
+        "fontes": [
+          18,
+          19,
+          16
+        ]
+      },
+      {
+        "texto": "Fugir a pé tem um novo risco: a prévia da Edge mostrou um cão da unidade K9 da polícia derrubando Jason depois de um roubo que deu errado.",
+        "fontes": [
+          10,
+          11
+        ]
+      },
+      {
+        "texto": "Para se locomover sem dirigir, há ônibus e trens com horários fixos, e as corridas de RydeMe podem ter conversas com motorista e passageiros, como alternativa à viagem rápida; o Scooter Bros entrega seu veículo pessoal em segundos, com armas guardadas no porta-malas.",
+        "fontes": [
+          11,
+          10,
+          16,
+          20
+        ]
+      },
+      {
+        "texto": "Cuidado com o Criminal Profile, o perfil criminal: violência e destruição desnecessárias em mundo aberto pesam contra, enquanto a violência exigida nas missões não conta; um gesto como fazer carinho num cachorro mostra um ícone de anjo.",
+        "fontes": [
+          6,
+          21,
+          4
+        ]
+      },
+      {
+        "texto": "Ajuste a mira logo no começo: a mira automática vem desligada por padrão, com um leve 'grude' no alvo que pode ser regulado nas configurações, e as armas têm mais recuo que em GTA 5.",
+        "fontes": [
+          6,
+          22
+        ]
+      },
+      {
+        "texto": "Atividades para as primeiras horas, citadas pela Rockstar à Game Informer: base jump, sinuca, academia, caiaque, minigolfe, mergulho, corridas de rua e off-road, zoológicos, aerobarco e jet ski — algumas podem virar programas de Jason e Lucia juntos.",
+        "fontes": [
+          23,
+          24,
+          25
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "GamingBolt",
+        "owner": "gamingbolt",
+        "kind": "press",
+        "url": "https://gamingbolt.com/grand-theft-auto-6-will-offer-more-freedom-in-missions-when-possible",
+        "title": "Grand Theft Auto 6 Will Offer More Freedom in Missions When Possible"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/with-gta-6-missions-rockstar-has-made-a-very-conscious-effort-to-open-things-up/",
+        "title": "With GTA 6 missions, Rockstar has \"made a very conscious effort to open things up\""
+      },
+      {
+        "name": "Game Informer",
+        "owner": "game-informer",
+        "kind": "press",
+        "url": "https://gameinformer.com/2026/08/27/grand-theft-auto-vi-trailer-provides-lengthy-first-look-at-gameplay-including-story",
+        "title": "Grand Theft Auto VI Trailer Provides Lengthy First Look At Gameplay Including Story Missions, Side Activities, And More"
+      },
+      {
+        "name": "Dexerto",
+        "owner": "dexerto",
+        "kind": "press",
+        "url": "https://www.dexerto.com/gta/gta-6-is-giving-players-more-freedom-to-complete-missions-their-own-way-3416453/",
+        "title": "GTA 6 is giving players more freedom to complete missions their own way"
+      },
+      {
+        "name": "Push Square",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
+        "title": "Watch GTA 6 Extended Look Here - 17 Things We've Learned"
+      },
+      {
+        "name": "Gulf News",
+        "owner": "al-nisr",
+        "kind": "press",
+        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
+        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
+        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
+      },
+      {
+        "name": "International Business Times UK",
+        "owner": "ibtimes",
+        "kind": "press",
+        "url": "https://www.ibtimes.co.uk/gta-6-preview-interactive-safehouses-larger-map-1819375",
+        "title": "GTA 6 Open-World Details Reportedly Reveal a Massive Vice City Map, Safehouses, and Phone Apps"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
+        "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard"
+      },
+      {
+        "name": "Beebom",
+        "owner": "beebom",
+        "kind": "press",
+        "url": "https://beebom.com/your-in-game-phone-in-gta-6-does-more-than-youd-expect/",
+        "title": "Your In-Game Phone in GTA 6 Does More than You'd Expect"
+      },
+      {
+        "name": "VGTimes",
+        "owner": "vgtimes",
+        "kind": "press",
+        "url": "https://vgtimes.com/articles/172804-gta-6-edge-preview-breakdown.html",
+        "title": "GTA 6's Fuel System, Longer Nights, and Police Dogs: Key Details from EDGE's Preview"
+      },
+      {
+        "name": "ARY News",
+        "owner": "ary",
+        "kind": "press",
+        "url": "https://arynews.tv/new-gta-6-police-tactics-include-aggressive-k9-dogs-that-attack-runaway-players",
+        "title": "New GTA 6 police tactics include aggressive K9 dogs that attack runaway players"
+      },
+      {
+        "name": "TweakTown",
+        "owner": "tweaktown",
+        "kind": "press",
+        "url": "https://www.tweaktown.com/news/113368/gta-6s-illicit-criminal-economy-robberies-and-money-explained-by-rockstar/index.html",
+        "title": "GTA 6's illicit criminal economy: Robberies and money explained by Rockstar"
+      },
+      {
+        "name": "International Business Times UK",
+        "owner": "ibtimes",
+        "kind": "press",
+        "url": "https://www.ibtimes.co.uk/gta-6-driving-has-best-parts-gta-4-rockstar-will-now-make-you-refuel-cars-sleep-1818069",
+        "title": "GTA 6 Driving Has 'The Best Parts' of GTA 4, but Rockstar Will Now Make You Refuel Cars and Sleep"
+      },
+      {
+        "name": "GamesRadar+ (via Yahoo Tech)",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://tech.yahoo.com/gaming/articles/gta-6-bit-too-real-113605772.html",
+        "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\""
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
+        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/15-new-things-we-just-learned-about-gta-6-2000728941",
+        "title": "20 Big New Things We Just Learned About GTA 6"
+      },
+      {
+        "name": "GameSpot",
+        "owner": "fandom",
+        "kind": "press",
+        "url": "https://www.gamespot.com/articles/gta-6-wanted-levels/",
+        "title": "Here's How Wanted Levels And Crime Work In GTA 6"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-system-goes-up-to-6-stars-and-lets-police-track-your-face-your-clothes-and-your-car/",
+        "title": "GTA 6 wanted system goes up to 6 stars and lets police track your face, your clothes, and your car"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/gta-6-interview-reveals-new-details-about-the-game/",
+        "title": "GTA 6 Interview Reveals New Details About The Game"
+      },
+      {
+        "name": "TechSpot",
+        "owner": "techspot",
+        "kind": "press",
+        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
+        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
+      },
+      {
+        "name": "GamingBolt",
+        "owner": "gamingbolt",
+        "kind": "press",
+        "url": "https://gamingbolt.com/grand-theft-auto-6-will-use-6-star-wanted-system-criminal-profiles-to-track-player-behaviour",
+        "title": "Grand Theft Auto 6 Will Use Criminal Profiles to Track Player Behaviour"
+      },
+      {
+        "name": "Beebom",
+        "owner": "beebom",
+        "kind": "press",
+        "url": "https://beebom.com/gta-6-gunplay-overhauled-with-free-aim-more-recoil-and-tactical-shooting/",
+        "title": "GTA 6 Is Overhauling Gunplay with Free Aim, More Recoil, and Tactical Shooting"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/all-gta-6-features-game-informer/",
+        "title": "All New GTA 6 Features Revealed By Game Informer"
+      },
+      {
+        "name": "Push Square",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://www.pushsquare.com/news/2026/09/gta-6-reveals-massive-dense-open-world-in-13-new-screenshots-details",
+        "title": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details"
+      },
+      {
+        "name": "Forbes",
+        "owner": "forbes",
+        "kind": "press",
+        "url": "https://www.forbes.com/sites/brianmazique/2026/10/06/gta-6s-map-is-about-twice-the-size-of-gta-5-with-hurricanes-and-170-animal-species/",
+        "title": "GTA 6's Map Is About Twice The Size Of GTA 5, With Hurricanes And 170 Animal Species"
+      }
+    ],
+    "imagem": {
+      "url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_An_Extended_Look_poster.0ijbsha5fo1te.jpg",
+      "credito": "Rockstar Games",
+      "descricao": "Imagem oficial de capa do vídeo 'Grand Theft Auto VI: An Extended Look' no site de GTA VI"
+    },
+    "formatos_carrossel": [
+      "lista",
+      "passo-a-passo",
+      "detalhes"
+    ],
+    "a_partir_de": "2026-11-17"
   }
 ]

@@ -208,7 +208,13 @@ def especiais_hoje(cfg, tz_name: str, now=None) -> tuple[int, dict | None, int]:
     rodadas = sorted(conf.get("rodadas", [9, 15]))[:por_dia]
     devidas = sum(1 for h in rodadas if agora.hour >= h)
     faltam = max(0, por_dia - feitas)
-    livres = [t for t in temas if t["id"] not in escritas and not t.get("problema")]
+    # Tema com "a_partir_de" (AAAA-MM-DD) só sai desse dia em diante e, quando
+    # chega a hora, passa na frente: o guia do dia do lançamento não pode sair
+    # cedo demais nem ficar para depois de 19/11.
+    def pronto(t):
+        return not t.get("a_partir_de") or agora.date() >= date.fromisoformat(t["a_partir_de"])
+    livres = [t for t in temas if t["id"] not in escritas and not t.get("problema") and pronto(t)]
+    livres.sort(key=lambda t: not t.get("a_partir_de"))
     proxima = livres[0] if (livres and feitas < devidas) else None
     return feitas, proxima, min(faltam, len(livres))
 
@@ -249,6 +255,16 @@ def cmd_briefing(cfg, args) -> int:
         print(f"\nBRIEFING DE OUTRO DIA. A coleta de hoje ({hoje:%d/%m}) ainda não chegou.")
         print(f"O teto de hoje está intacto: {cfg.posts_per_language(hoje)} por idioma, "
               f"já escritas hoje: {max(used_today(cfg.languages, tz_name).values(), default=0)}.")
+        # A especial de GTA 6 não depende da coleta: sai do dossiê checado.
+        # Sem isto, de 20/10 a 31/10 (Actions sem minutos, coleta parada) as
+        # especiais pararam junto com o noticiário.
+        _, especial, _ = especiais_hoje(cfg, tz_name)
+        if especial:
+            print("Não escreva notícia em cima deste material. Mas a especial de GTA 6 sai:")
+            print(f"\nESPECIAL DE GTA 6 NESTA RODADA: {especial['id']}  {especial['tema']}")
+            print("  Escreva só ela, a partir de data/gta6-especiais.json (seção 3.1 da skill "
+                  "redacao-diaria), e a pauta do Instagram dela.")
+            return 0
         print("Não escreva em cima deste material: avise no resumo que a coleta de hoje "
               "atrasou e encerre sem commitar. A rodada seguinte recupera as vagas.")
         return 1
