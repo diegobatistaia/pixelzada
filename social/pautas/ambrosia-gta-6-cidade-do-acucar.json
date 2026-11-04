@@ -1,0 +1,70 @@
+{
+  "slug": "ambrosia-gta-6-cidade-do-acucar",
+  "tipo": "noticia",
+  "formato": "em-foco",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "ambrosia-gta-6-cidade-do-acucar-e-dos-motoqueiros",
+  "criado": "2026-11-04T15:55:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0cbnc0-35neev.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fonte: Rockstar Games",
+  "capa": {
+    "titulo": "Ambrosia: o coração de Leonida em GTA 6",
+    "destaque": "coração",
+    "apoio": "A cidade do açúcar e dos motoqueiros. Arrasta.",
+    "local": "Ambrosia"
+  },
+  "slides": [
+    {
+      "rotulo": "O lugar",
+      "titulo": "Uma cidade operária",
+      "destaque": "operária",
+      "texto": [
+        "Ambrosia fica no **centro de Leonida** e é industrial, segundo a Rockstar e a Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "A economia",
+      "titulo": "Uma refinaria de açúcar",
+      "destaque": "açúcar",
+      "texto": [
+        "A **Allied Crystal** dá a maior parte dos empregos, segundo a Insider Gaming e a PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "O poder",
+      "titulo": "Quem manda são os motoqueiros",
+      "destaque": "motoqueiros",
+      "texto": [
+        "Uma gangue de motoqueiros **controla a cidade e as fábricas**, segundo a Insider Gaming e a Gfinity."
+      ]
+    }
+  ],
+  "final": "Você encararia a gangue de Ambrosia?",
+  "legenda": {
+    "gancho": "Ambrosia é o coração de Leonida em GTA 6: uma cidade de açúcar e motoqueiros.",
+    "corpo": [
+      "Segundo a Rockstar, a velha indústria americana ainda manda ali. A refinaria Allied Crystal dá a maior parte dos empregos, e uma gangue de motoqueiros controla a cidade e as fábricas, segundo a Insider Gaming.",
+      "A Rockstar não apontou uma cidade real como inspiração. GTA 6 chega em 19 de novembro de 2026, para PS5 e Xbox Series X|S, segundo a Rockstar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Ambrosia: o coração de Leonida em GTA 6",
+    "Slide 2: Uma cidade operária",
+    "Slide 3: Uma refinaria de açúcar",
+    "Slide 4: Quem manda são os motoqueiros",
+    "Slide 5: Você encararia a gangue de Ambrosia?"
+  ],
+  "status": "pronto"
+}
