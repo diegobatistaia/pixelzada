@@ -74,5 +74,13 @@
     "Slide 5: 30 de novembro",
     "Slide 6: Qual jogo você vai comprar na promoção?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-04",
+    "horario": "09:00",
+    "em": "2026-11-04T08:59:49-03:00",
+    "estilo": "fliperama",
+    "media_id": "18035937284895894",
+    "permalink": "https://www.instagram.com/p/DfUaCryICp3/"
+  }
 }
