@@ -831,5 +831,14 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-04T00:39:21+00:00",
+    "id": "xbox-game-pass-novembro-2026-escape-academy-2-thronefall-warhammer-survivors",
+    "lang": "pt",
+    "passed": false,
+    "reasons": [
+      "texto com 599 palavras, mínimo 600"
+    ]
   }
 ]
