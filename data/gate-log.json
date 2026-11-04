@@ -849,5 +849,19 @@
     "reasons": [
       "texto com 599 palavras, mínimo 600"
     ]
+  },
+  {
+    "at": "2026-11-04T10:40:50+00:00",
+    "id": "xbox-game-pass-novembro-2026-escape-academy-2-thronefall-warhammer-survivors",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-11-04T10:40:51+00:00",
+    "id": "zelda-ocarina-of-time-remake-templo-da-agua-mudancas",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

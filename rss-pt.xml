@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:40:51 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zelda Ocarina of Time remake muda o Templo da Água e ganha botão de pulo</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-templo-da-agua-mudancas/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-templo-da-agua-mudancas/</guid>
+      <description>Nintendo explica as mudanças no Templo da Água de Zelda: Ocarina of Time para o Switch 2 e no botão de pulo. O remake sai em 5 de novembro. Veja o que muda.</description>
+      <category>Lançamentos</category>
+      <pubDate>Wed, 04 Nov 2026 10:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Game Pass de novembro: Escape Academy 2, Thronefall e Warhammer Survivors</title>
+      <link>https://pixelzada.com.br/pt/xbox-game-pass-novembro-2026-escape-academy-2-thronefall-warhammer-survivors/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-game-pass-novembro-2026-escape-academy-2-thronefall-warhammer-survivors/</guid>
+      <description>Game Pass de novembro: Escape Academy 2, Thronefall e Warhammer Survivors chegam na primeira leva. Veja datas, jogos do Essential e o que sai em 15 de novembro.</description>
+      <category>Lançamentos</category>
+      <pubDate>Wed, 04 Nov 2026 10:40:50 +0000</pubDate>
+    </item>
     <item>
       <title>Black Friday da PlayStation Store começa em 4 de novembro</title>
       <link>https://pixelzada.com.br/pt/black-friday-playstation-store-2026-4-de-novembro/</link>
@@ -230,22 +246,6 @@
       <description>Quem são Dre'Quan Priest e a dupla Real Dimez em GTA 6: o empresário da gravadora Only Raw Records e as rappers influenciadoras de Vice City. Veja os perfis.</description>
       <category>GTA 6</category>
       <pubDate>Sun, 18 Oct 2026 18:39:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Epic Games dá Agent A e Bad Cheese de graça até 22 de outubro</title>
-      <link>https://pixelzada.com.br/pt/epic-games-jogos-gratis-agent-a-bad-cheese-ate-22-de-outubro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/epic-games-jogos-gratis-agent-a-bad-cheese-ate-22-de-outubro/</guid>
-      <description>A Epic Games Store libera Agent A: O Enigma Disfarçado e Bad Cheese de graça de 15 a 22 de outubro. Agent A também está grátis no app da Epic para Android.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sun, 18 Oct 2026 16:39:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brasil tem o terceiro maior júri do The Game Awards 2026, com 14 veículos</title>
-      <link>https://pixelzada.com.br/pt/brasil-tem-terceiro-maior-juri-do-the-game-awards-2026-14-veiculos/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/brasil-tem-terceiro-maior-juri-do-the-game-awards-2026-14-veiculos/</guid>
-      <description>O Brasil terá 14 veículos no júri do The Game Awards 2026, a terceira maior bancada, atrás de Estados Unidos e Reino Unido. Veja como funciona a votação.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 18 Oct 2026 14:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

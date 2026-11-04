@@ -113,7 +113,10 @@
     "query": "Xbox Game Pass novembro",
     "alt": "Arte da primeira leva de jogos do Xbox Game Pass de novembro de 2026",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/XGP_ComingSoon031126_16x9_PT-BR-b3afc3bf38a76c887395.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-game-pass-novembro-2026-escape-acad-89162e94.jpg",
+    "source_url": "",
+    "foco": "52% 69%"
   },
   "sources": [
     {
@@ -153,5 +156,7 @@
       "title": "Xbox Game Pass is losing 14 games in November"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-04T10:40:50+00:00",
+  "updated_at": "2026-11-04T10:40:50+00:00"
 }
