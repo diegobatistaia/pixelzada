@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:40:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:40:45 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ambrosia: a cidade do açúcar e dos motoqueiros em GTA 6</title>
+      <link>https://pixelzada.com.br/pt/ambrosia-gta-6-cidade-do-acucar-e-dos-motoqueiros/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/ambrosia-gta-6-cidade-do-acucar-e-dos-motoqueiros/</guid>
+      <description>Ambrosia, o coração de Leonida em GTA 6: a cidade da refinaria de açúcar Allied Crystal e da gangue de motoqueiros. Veja o que a Rockstar já contou do lugar.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 04 Nov 2026 18:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>God of War Laufey é adiado para 20 de maio de 2027</title>
+      <link>https://pixelzada.com.br/pt/god-of-war-laufey-adiado-20-de-maio-de-2027/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/god-of-war-laufey-adiado-20-de-maio-de-2027/</guid>
+      <description>God of War Laufey foi adiado de 16 de fevereiro para 20 de maio de 2027, anunciou a Santa Monica. Veja o que o estúdio disse e o que muda para os fãs.</description>
+      <category>Lançamentos</category>
+      <pubDate>Wed, 04 Nov 2026 18:40:44 +0000</pubDate>
+    </item>
     <item>
       <title>id Software diz que está bem, mesmo sem metade da equipe</title>
       <link>https://pixelzada.com.br/pt/id-software-doing-great-metade-do-estudio-cortes-xbox/</link>
@@ -230,22 +246,6 @@
       <description>A atualização Zenith de Saros já saiu e é grátis: New Game+, Overlord Rush, 20 modificadores novos, seis troféus, Auto-fire e opção de desacelerar o jogo.</description>
       <category>Lançamentos</category>
       <pubDate>Mon, 19 Oct 2026 14:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberpunk: Edgerunners 2 usou câmera virtual em Night City, e a primeira crítica é fria</title>
-      <link>https://pixelzada.com.br/pt/cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/cyberpunk-edgerunners-2-camera-virtual-night-city-primeira-critica/</guid>
-      <description>Edgerunners 2 estreia na Netflix em 20 de outubro. O diretor usou câmera virtual em Cyberpunk 2077 para achar cenários, e a primeira crítica foi fria.</description>
-      <category>Indústria</category>
-      <pubDate>Mon, 19 Oct 2026 12:42:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grassrivers em GTA 6: o pântano de Leonida inspirado nos Everglades</title>
-      <link>https://pixelzada.com.br/pt/grassrivers-gta-6-o-pantano-selvagem-de-leonida-jacares/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/grassrivers-gta-6-o-pantano-selvagem-de-leonida-jacares/</guid>
-      <description>Grassrivers é o pântano de GTA 6, inspirado nos Everglades da Flórida. Veja o que a Rockstar diz sobre jacarés, manguezais e os bichos da região de Leonida.</description>
-      <category>GTA 6</category>
-      <pubDate>Mon, 19 Oct 2026 12:42:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

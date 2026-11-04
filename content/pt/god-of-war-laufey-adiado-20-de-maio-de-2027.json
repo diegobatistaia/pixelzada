@@ -107,7 +107,10 @@
     "query": "God of War Laufey",
     "alt": "Faye, protagonista de God of War Laufey, em arte do jogo",
     "url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/god-of-war-laufey-adiado-20-de-maio-de-2-cf6be680.jpg",
+    "source_url": "",
+    "foco": "56% 35%"
   },
   "sources": [
     {
@@ -165,5 +168,7 @@
       "title": "God of War Laufey adiado para 20 de maio de 2027"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-04T18:40:44+00:00",
+  "updated_at": "2026-11-04T18:40:44+00:00"
 }
