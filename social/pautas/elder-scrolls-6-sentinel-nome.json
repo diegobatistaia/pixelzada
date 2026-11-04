@@ -65,5 +65,13 @@
     "Slide 4: Nem data, nem plataformas",
     "Slide 5: Você esperava esse nome para Elder Scrolls 6?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-03",
+    "horario": "21:00",
+    "em": "2026-11-03T21:00:16-03:00",
+    "estilo": "mosaico",
+    "media_id": "18038237885853705",
+    "permalink": "https://www.instagram.com/p/DfTHryNiTkK/"
+  }
 }
