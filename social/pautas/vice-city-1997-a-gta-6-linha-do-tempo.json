@@ -1,0 +1,72 @@
+{
+  "slug": "vice-city-1997-a-gta-6-linha-do-tempo",
+  "tipo": "noticia",
+  "formato": "linha-do-tempo",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "vice-city-na-historia-de-gta-de-1997-a-gta-6",
+  "criado": "2026-11-04T11:50:00-03:00",
+  "imagem": {
+    "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517oa135328155/e11178dabf62ad8ef865e773b66250b9a26262e6.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Rockstar Games e ComicBook.com",
+  "capa": {
+    "titulo": "Vice City: de 1997 a GTA 6",
+    "destaque": "de 1997",
+    "apoio": "A cidade tem quase 30 anos de história. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A cidade na série",
+      "titulo": "Da estreia ao presente",
+      "destaque": "presente",
+      "passos": [
+        "1997: aparece no primeiro GTA, inspirada em Miami.",
+        "2002: vira cenário de GTA: Vice City, nos anos 1980.",
+        "2006: ganha a prequência Vice City Stories.",
+        "2021: volta na The Definitive Edition."
+      ]
+    },
+    {
+      "rotulo": "O clássico de 2002",
+      "titulo": "Tommy Vercetti e Scarface",
+      "destaque": "Scarface",
+      "texto": [
+        "O protagonista era **Tommy Vercetti**, dublado por Ray Liotta, com forte inspiração no filme Scarface, segundo a Inverse e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "GTA 6",
+      "titulo": "Agora é nos dias atuais",
+      "destaque": "dias atuais",
+      "texto": [
+        "A Vice City de GTA 6 fica em **Leonida**, a versão da Rockstar para a Flórida, e é ambientada no presente, segundo a Take-Two e o VGC."
+      ]
+    }
+  ],
+  "final": "Qual foi a sua Vice City favorita?",
+  "legenda": {
+    "gancho": "Vice City aparece em GTA desde 1997, e agora volta em GTA 6.",
+    "corpo": [
+      "A cidade estreou no primeiro GTA, virou cenário principal em 2002, ganhou a prequência Vice City Stories em 2006 e voltou na The Definitive Edition em 2021, segundo a ComicBook e o VGC.",
+      "Em GTA 6, Vice City fica em Leonida e é ambientada nos dias atuais. GTA 6 chega em 19 de novembro de 2026, para PS5 e Xbox Series X|S, segundo a Rockstar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#vicecity",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Vice City: de 1997 a GTA 6",
+    "Slide 2: Da estreia ao presente",
+    "Slide 3: Tommy Vercetti e Scarface",
+    "Slide 4: Agora é nos dias atuais",
+    "Slide 5: Qual foi a sua Vice City favorita?"
+  ],
+  "status": "pronto"
+}
