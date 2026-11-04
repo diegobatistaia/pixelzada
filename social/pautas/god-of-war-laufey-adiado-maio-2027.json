@@ -1,0 +1,69 @@
+{
+  "slug": "god-of-war-laufey-adiado-maio-2027",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "God of War",
+  "gta6": false,
+  "materia": "god-of-war-laufey-adiado-20-de-maio-de-2027",
+  "criado": "2026-11-04T17:55:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/A-peaceful-looking-Faye-in-God-of-War-Laufey.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Eurogamer",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: The Verge, Eurogamer e Kotaku",
+  "capa": {
+    "titulo": "God of War Laufey foi adiado",
+    "destaque": "adiado",
+    "apoio": "A nova data é 20 de maio de 2027. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A nova data",
+      "titulo": "De fevereiro para maio",
+      "destaque": "maio",
+      "texto": [
+        "O jogo saía em **16 de fevereiro** e agora sai em **20 de maio de 2027**, só no PS5, segundo o The Verge."
+      ]
+    },
+    {
+      "rotulo": "O motivo",
+      "titulo": "Retoques finais",
+      "destaque": "retoques",
+      "texto": [
+        "A Santa Monica fala em dar os **retoques finais**, mas não deu um motivo específico, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Quem joga",
+      "titulo": "Faye, no lugar de Kratos",
+      "destaque": "Faye",
+      "texto": [
+        "É o primeiro God of War sem Kratos como protagonista, segundo a Kotaku. Um jogo com Kratos **também está em produção**."
+      ]
+    }
+  ],
+  "final": "Você preferia jogar em fevereiro mesmo?",
+  "legenda": {
+    "gancho": "God of War Laufey foi adiado para 20 de maio de 2027.",
+    "corpo": [
+      "A Santa Monica Studio tirou o jogo de 16 de fevereiro e disse que vai usar o tempo extra para os retoques finais, segundo o The Verge. O estúdio não deu um motivo específico, de acordo com a Eurogamer.",
+      "O jogo é exclusivo de PS5 e tem Faye, esposa de Kratos, como protagonista. Outro jogo com Kratos também está em desenvolvimento, segundo a Kotaku."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#godofwar",
+      "#laufey",
+      "#ps5"
+    ]
+  },
+  "alt": [
+    "Slide 1: God of War Laufey foi adiado",
+    "Slide 2: De fevereiro para maio",
+    "Slide 3: Retoques finais",
+    "Slide 4: Faye, no lugar de Kratos",
+    "Slide 5: Você preferia jogar em fevereiro mesmo?"
+  ],
+  "status": "pronto"
+}
