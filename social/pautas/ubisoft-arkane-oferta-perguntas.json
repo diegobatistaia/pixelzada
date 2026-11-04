@@ -1,0 +1,78 @@
+{
+  "slug": "ubisoft-arkane-oferta-perguntas",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Arkane",
+  "gta6": false,
+  "materia": "ubisoft-oferta-comprar-arkane-lyon-xbox-bloomberg",
+  "criado": "2026-11-04T13:45:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/03/blade-blogroll-1702003922219-1793739341910.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Bloomberg, IGN e VGC",
+  "capa": {
+    "titulo": "Ubisoft quer comprar a Arkane, diz relatório",
+    "destaque": "Arkane",
+    "apoio": "O estúdio de Dishonored e Marvel's Blade. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "Ao menos 3 empresas ofertaram",
+      "destaque": "3 empresas",
+      "texto": [
+        "Só a **Ubisoft** foi identificada, segundo a Bloomberg, citada pelo VGC e pela IGN."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Nada foi aceito ainda",
+      "destaque": "nada",
+      "texto": [
+        "A Microsoft **não aceitou nenhuma proposta** e fala em decidir até dezembro, segundo a Kotaku."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "Outras saídas em estudo",
+      "destaque": "saídas",
+      "texto": [
+        "Vender à **própria gestão** ou, sem acordo, **fechar o estúdio**, segundo o VGC e a Kotaku."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "O futuro de Marvel's Blade",
+      "destaque": "Blade",
+      "texto": [
+        "Um acordo permitiria **concluir o jogo**, que deve sair em um ou dois anos, segundo a Bloomberg, citada pela IGN."
+      ]
+    }
+  ],
+  "final": "Ubisoft seria um bom lar para a Arkane?",
+  "legenda": {
+    "gancho": "A Ubisoft estaria entre as empresas que querem comprar a Arkane, estúdio de Dishonored e Marvel's Blade.",
+    "corpo": [
+      "Segundo uma reportagem da Bloomberg, ao menos três empresas fizeram ofertas à Microsoft, e só a Ubisoft foi identificada. Nada foi aceito, e a Microsoft diz que segue avaliando opções.",
+      "Outras saídas em estudo são vender o estúdio à própria gestão ou fechá-lo, segundo o VGC e a Kotaku. Marvel's Blade deve sair em um ou dois anos, segundo a Bloomberg."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#arkane",
+      "#marvelsblade",
+      "#xbox"
+    ]
+  },
+  "alt": [
+    "Slide 1: Ubisoft quer comprar a Arkane, diz relatório",
+    "Slide 2: Ao menos 3 empresas ofertaram",
+    "Slide 3: Nada foi aceito ainda",
+    "Slide 4: Outras saídas em estudo",
+    "Slide 5: O futuro de Marvel's Blade",
+    "Slide 6: Ubisoft seria um bom lar para a Arkane?"
+  ],
+  "status": "pronto"
+}
