@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 10:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:39:46 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vice City na história de GTA: de 1997 a GTA 6</title>
+      <link>https://pixelzada.com.br/pt/vice-city-na-historia-de-gta-de-1997-a-gta-6/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/vice-city-na-historia-de-gta-de-1997-a-gta-6/</guid>
+      <description>Vice City aparece em GTA desde 1997. Veja a história da cidade em GTA 1, Vice City, Vice City Stories e o que muda em GTA 6, que chega em 19 de novembro.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 04 Nov 2026 12:39:45 +0000</pubDate>
+    </item>
     <item>
       <title>Zelda Ocarina of Time remake muda o Templo da Água e ganha botão de pulo</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-templo-da-agua-mudancas/</link>
@@ -238,14 +246,6 @@
       <description>Douglas Reilly, da Lucasfilm Games, diz que Star Wars está mais flexível com estúdios menores após Zero Company e Galactic Racer e promete mais surpresas.</description>
       <category>Indústria</category>
       <pubDate>Sun, 18 Oct 2026 22:39:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dre'Quan Priest e Real Dimez em GTA 6: quem são e o que a Rockstar mostrou</title>
-      <link>https://pixelzada.com.br/pt/dre-quan-priest-e-real-dimez-gta-6-quem-sao-rap-vice-city/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/dre-quan-priest-e-real-dimez-gta-6-quem-sao-rap-vice-city/</guid>
-      <description>Quem são Dre'Quan Priest e a dupla Real Dimez em GTA 6: o empresário da gravadora Only Raw Records e as rappers influenciadoras de Vice City. Veja os perfis.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 18 Oct 2026 18:39:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
