@@ -121,7 +121,10 @@
     "query": "Control Resonant",
     "alt": "Cena de Control Resonant, jogo da Remedy",
     "url": "https://assetsio.gnwcdn.com/Control-Resonant_Dhpy5QW.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/remedy-receita-sobe-226-control-resonant-3bc3aa8d.jpg",
+    "source_url": "",
+    "foco": "65% 46%"
   },
   "sources": [
     {
@@ -137,5 +140,7 @@
       "title": "Control Resonant is Remedy's fastest-selling game to date"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-04T22:40:27+00:00",
+  "updated_at": "2026-11-04T22:40:27+00:00"
 }

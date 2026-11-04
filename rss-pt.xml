@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:40:28 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remedy tem receita 226% maior com Control Resonant</title>
+      <link>https://pixelzada.com.br/pt/remedy-receita-sobe-226-control-resonant/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/remedy-receita-sobe-226-control-resonant/</guid>
+      <description>A Remedy teve receita 226% maior no trimestre com Control Resonant, o jogo de venda mais rápida do estúdio. Veja números, jogadores e os próximos projetos.</description>
+      <category>Indústria</category>
+      <pubDate>Wed, 04 Nov 2026 22:40:27 +0000</pubDate>
+    </item>
     <item>
       <title>Zelda Ocarina of Time remake estreia com 96 no Metacritic</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-nota-96-metacritic-melhor-do-ano/</link>
@@ -238,14 +246,6 @@
       <description>Nine1Nine, Pißwasser, Angstipan, Snapmatic e WAiNK: veja as paródias e marcas de GTA 6 que já apareceram nos trailers e no material oficial da Rockstar.</description>
       <category>GTA 6</category>
       <pubDate>Mon, 19 Oct 2026 18:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Final Fantasy VII Revelation terá Hard Mode liberado desde o início, diz Hamaguchi</title>
-      <link>https://pixelzada.com.br/pt/final-fantasy-7-revelation-hard-mode-desde-o-comeco-hamaguchi/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/final-fantasy-7-revelation-hard-mode-desde-o-comeco-hamaguchi/</guid>
-      <description>Hamaguchi confirma que Final Fantasy VII Revelation terá Hard Mode desde o início, opção Enemy Strength e outra regra para o uso de itens nas batalhas.</description>
-      <category>Lançamentos</category>
-      <pubDate>Mon, 19 Oct 2026 16:41:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

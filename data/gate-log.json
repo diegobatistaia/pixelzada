@@ -905,5 +905,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-04T22:40:27+00:00",
+    "id": "remedy-receita-sobe-226-control-resonant",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
