@@ -1,0 +1,78 @@
+{
+  "slug": "black-friday-playstation-store-em-numeros",
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "PlayStation",
+  "gta6": false,
+  "materia": "black-friday-playstation-store-2026-4-de-novembro",
+  "criado": "2026-11-04T07:50:00-03:00",
+  "imagem": {
+    "url": "https://blog.playstation.com/tachyon/2026/11/62bd61203b9e44f88de85cba81f10904e5757ed4.jpg",
+    "credito": "PlayStation Blog",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: PlayStation Blog, IGN e VGC",
+  "capa": {
+    "titulo": "Black Friday da PlayStation Store em números",
+    "destaque": "em números",
+    "apoio": "A promoção começa hoje. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Desconto",
+      "titulo": "Até 75% de desconto",
+      "destaque": "75%",
+      "texto": [
+        "Em **milhares de jogos**, expansões e DLCs de PS5, PS4 e PS VR2, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "Início",
+      "titulo": "4 de novembro",
+      "destaque": "4 de novembro",
+      "texto": [
+        "A promoção começa **à meia-noite no horário local** e vai até 30 de novembro, segundo a Sony."
+      ]
+    },
+    {
+      "rotulo": "Atualização",
+      "titulo": "16 de novembro",
+      "destaque": "16 de novembro",
+      "texto": [
+        "Nessa data as ofertas são **atualizadas**, segundo o PlayStation Blog. Alguns descontos acabam em 20 de novembro."
+      ]
+    },
+    {
+      "rotulo": "Fim",
+      "titulo": "30 de novembro",
+      "destaque": "30 de novembro",
+      "texto": [
+        "A promoção termina às 23h59 (horário local). A Sony **não falou em desconto de consoles**, segundo a IGN."
+      ]
+    }
+  ],
+  "final": "Qual jogo você vai comprar na promoção?",
+  "legenda": {
+    "gancho": "A Black Friday da PlayStation Store começa hoje e vai até 30 de novembro.",
+    "corpo": [
+      "Os descontos chegam a 75% em milhares de jogos, expansões e DLCs de PS5, PS4 e PS VR2, segundo o PlayStation Blog. A lista completa e os preços em reais só aparecem na loja quando a promoção começar.",
+      "A Sony não anunciou desconto em consoles nem em acessórios, segundo a IGN e o VGC. Marvel's Wolverine e The Blood of Dawnwalker estão entre os jogos confirmados, segundo o VGC."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#playstation",
+      "#blackfriday",
+      "#ps5"
+    ]
+  },
+  "alt": [
+    "Slide 1: Black Friday da PlayStation Store em números",
+    "Slide 2: Até 75% de desconto",
+    "Slide 3: 4 de novembro",
+    "Slide 4: 16 de novembro",
+    "Slide 5: 30 de novembro",
+    "Slide 6: Qual jogo você vai comprar na promoção?"
+  ],
+  "status": "pronto"
+}

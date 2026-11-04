@@ -1,0 +1,82 @@
+{
+  "slug": "gta-6-x-gta-5-comparativo",
+  "tipo": "noticia",
+  "formato": "comparativo",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-x-gta-5-o-que-muda-de-um-jogo-para-o-outro",
+  "criado": "2026-11-04T07:50:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_An_Extended_Look_poster.0ijbsha5fo1te.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Rockstar Games, Engadget e Tecnoblog",
+  "capa": {
+    "titulo": "GTA 6 x GTA 5: o que muda?",
+    "destaque": "o que muda",
+    "apoio": "13 anos separam os dois jogos. Arrasta.",
+    "lados": [
+      "GTA 5",
+      "GTA 6"
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "Protagonistas",
+      "titulo": "3 personagens contra 2",
+      "destaque": "2",
+      "texto": [
+        "GTA 5 tem **Michael, Franklin e Trevor**. GTA 6 troca o trio por **Jason Duval e Lucia Caminos**, segundo a Rockstar."
+      ]
+    },
+    {
+      "rotulo": "Cenário",
+      "titulo": "Los Santos contra Leonida",
+      "destaque": "Leonida",
+      "texto": [
+        "GTA 5 se passa em **Los Santos**. GTA 6 acontece no estado fictício de **Leonida**, que inclui Vice City, segundo a Rockstar."
+      ]
+    },
+    {
+      "rotulo": "Plataformas",
+      "titulo": "Só PS5 e Xbox Series",
+      "destaque": "PS5 e Xbox",
+      "texto": [
+        "GTA 6 sai só para **PS5 e Xbox Series X|S**. Nenhuma versão para PC foi anunciada, segundo a TechRadar."
+      ]
+    },
+    {
+      "rotulo": "Preço no Brasil",
+      "titulo": "R$ 449,90 na Standard",
+      "destaque": "R$ 449,90",
+      "texto": [
+        "A edição **Standard** custa R$ 449,90, e a **Ultimate**, R$ 549,90, segundo o Tecnoblog."
+      ]
+    }
+  ],
+  "final": "Qual você joga mais: GTA 5 ou GTA 6?",
+  "legenda": {
+    "gancho": "GTA 6 chega 13 anos depois de GTA 5. O que mudou de um jogo para o outro?",
+    "corpo": [
+      "GTA 5 tem três protagonistas em Los Santos. GTA 6 tem uma dupla, Jason e Lucia, no estado fictício de Leonida, segundo a Rockstar.",
+      "O novo jogo sai só para PS5 e Xbox Series X|S, e a pré-venda no Brasil custa R$ 449,90 na Standard, segundo o Tecnoblog. GTA 6 chega em 19 de novembro de 2026, segundo a Rockstar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gta5",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 x GTA 5: o que muda?",
+    "Slide 2: 3 personagens contra 2",
+    "Slide 3: Los Santos contra Leonida",
+    "Slide 4: Só PS5 e Xbox Series",
+    "Slide 5: R$ 449,90 na Standard",
+    "Slide 6: Qual você joga mais: GTA 5 ou GTA 6?"
+  ],
+  "status": "pronto"
+}
