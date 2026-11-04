@@ -1,0 +1,69 @@
+{
+  "slug": "zelda-ocarina-templo-da-agua-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Zelda OoT",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-templo-da-agua-mudancas",
+  "criado": "2026-11-04T09:55:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/03/ironboots1-1788896524665-1793716124257.png?width=1280&format=jpg&auto=webp&quality=80",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, GamesRadar e VGC",
+  "capa": {
+    "titulo": "O Templo da Água mudou no remake de Zelda?",
+    "destaque": "Templo da Água",
+    "apoio": "A Nintendo explicou o que ajustou. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Por que mexeram nele?",
+      "destaque": "mexeram",
+      "texto": [
+        "Aonuma, que criou o templo há 28 anos, falou em um **dever de casa atrasado**, segundo a IGN e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "O que ficou mais fácil?",
+      "destaque": "fácil",
+      "texto": [
+        "Trocar de item ficou **bem mais simples**, e algumas paredes viraram **treliças** que deixam ver as salas, segundo a IGN."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "E as botas de ferro?",
+      "destaque": "botas",
+      "texto": [
+        "Link tira as botas de ferro **na hora**, sem abrir o menu de equipamentos, segundo a IGN."
+      ]
+    }
+  ],
+  "final": "Você travou no Templo da Água?",
+  "legenda": {
+    "gancho": "A Nintendo mexeu no Templo da Água, o trecho mais odiado de Zelda: Ocarina of Time.",
+    "corpo": [
+      "Segundo a IGN, trocar de item ficou muito mais fácil, e paredes que faziam o jogador se perder viraram treliças. Link também tira as botas de ferro sem abrir o menu.",
+      "O remake sai em 5 de novembro, só para o Nintendo Switch 2, segundo a Nintendo. Aonuma disse que o templo era um dever de casa atrasado, segundo a GamesRadar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#ocarinaoftime",
+      "#nintendoswitch2"
+    ]
+  },
+  "alt": [
+    "Slide 1: O Templo da Água mudou no remake de Zelda?",
+    "Slide 2: Por que mexeram nele?",
+    "Slide 3: O que ficou mais fácil?",
+    "Slide 4: E as botas de ferro?",
+    "Slide 5: Você travou no Templo da Água?"
+  ],
+  "status": "pronto"
+}
