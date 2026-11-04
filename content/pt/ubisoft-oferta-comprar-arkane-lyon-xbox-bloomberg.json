@@ -130,7 +130,9 @@
     "query": "Arkane Lyon Marvel's Blade",
     "alt": "Arte de Marvel's Blade, jogo da Arkane Lyon",
     "url": "https://assets-prd.ignimgs.com/2026/11/03/blade-blogroll-1702003922219-1793739341910.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/ubisoft-oferta-comprar-arkane-lyon-xbox--abd63fea.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -170,5 +172,7 @@
       "title": "Ubisoft faz oferta à Microsoft pela Arkane Studios"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-04T14:40:26+00:00",
+  "updated_at": "2026-11-04T14:40:26+00:00"
 }
