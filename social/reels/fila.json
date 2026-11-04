@@ -941,10 +941,15 @@
     "slug": "evolucao-arthur-morgan",
     "data": "2026-11-04",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Cartaz",
     "legenda": "Evolução do Arthur Morgan em Red Dead Redemption 2, do primeiro capítulo até o último suspiro 🤠\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #arthurmorgan #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-04T09:59:53-03:00",
+      "media_id": "18091763105299796",
+      "permalink": "https://www.instagram.com/reel/DfUg7jCCWPZ/"
+    }
   },
   {
     "slug": "hidroaviao-gta5-gta6",

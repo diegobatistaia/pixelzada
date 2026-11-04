@@ -1,23 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "black-friday-playstation-store-em-numeros",
-    "horario": "09:00",
-    "data": "2026-11-04",
-    "estilo": "fliperama",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg",
-      "06.jpg"
-    ],
-    "story": null
+    "acao": "reel",
+    "slug": "evolucao-arthur-morgan",
+    "pasta": "reel-evolucao-arthur-morgan",
+    "horario": "10:00",
+    "data": "2026-11-04"
   },
-  "em": "2026-11-04T08:59:49-03:00",
+  "em": "2026-11-04T09:59:53-03:00",
   "ok": true,
-  "media_id": "18035937284895894",
-  "permalink": "https://www.instagram.com/p/DfUaCryICp3/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "media_id": "18091763105299796",
+  "permalink": "https://www.instagram.com/reel/DfUg7jCCWPZ/",
+  "chave": "a renovação devolveu uma chave nova (vale 60 dias); a atual continua valendo até vencer"
 }
