@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:40:33 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>id Software diz que está bem, mesmo sem metade da equipe</title>
+      <link>https://pixelzada.com.br/pt/id-software-doing-great-metade-do-estudio-cortes-xbox/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/id-software-doing-great-metade-do-estudio-cortes-xbox/</guid>
+      <description>A id Software, de Doom, diz que está bem apesar de perder cerca de metade da equipe nos cortes do Xbox. Veja o que Marty Stratton disse e o que segue incerto.</description>
+      <category>Indústria</category>
+      <pubDate>Wed, 04 Nov 2026 16:40:32 +0000</pubDate>
+    </item>
     <item>
       <title>Ubisoft faz oferta pela Arkane, estúdio de Marvel's Blade, diz Bloomberg</title>
       <link>https://pixelzada.com.br/pt/ubisoft-oferta-comprar-arkane-lyon-xbox-bloomberg/</link>
@@ -238,14 +246,6 @@
       <description>Grassrivers é o pântano de GTA 6, inspirado nos Everglades da Flórida. Veja o que a Rockstar diz sobre jacarés, manguezais e os bichos da região de Leonida.</description>
       <category>GTA 6</category>
       <pubDate>Mon, 19 Oct 2026 12:42:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dan Houser diz que Red Dead Redemption e Bully quase não aconteceram</title>
-      <link>https://pixelzada.com.br/pt/dan-houser-red-dead-redemption-e-bully-quase-nao-aconteceram/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/dan-houser-red-dead-redemption-e-bully-quase-nao-aconteceram/</guid>
-      <description>Dan Houser, cofundador da Rockstar, disse à IGN que Red Dead Redemption e Bully quase não aconteceram e que jogos novos sofrem mais para chegar ao fim.</description>
-      <category>Indústria</category>
-      <pubDate>Mon, 19 Oct 2026 10:42:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

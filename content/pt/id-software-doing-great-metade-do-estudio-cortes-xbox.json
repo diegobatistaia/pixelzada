@@ -122,7 +122,10 @@
     "query": "Doom The Dark Ages",
     "alt": "Personagem demoníaco de Doom: The Dark Ages, jogo da id Software",
     "url": "https://assetsio.gnwcdn.com/A-demonic-looking-character-in-Doom-The-Dark-Ages.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/id-software-doing-great-metade-do-estudi-e2feeb38.jpg",
+    "source_url": "",
+    "foco": "50% 47%"
   },
   "sources": [
     {
@@ -144,5 +147,7 @@
       "title": "Doom dev says we're doing great after half the studio was just laid off"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-04T16:40:32+00:00",
+  "updated_at": "2026-11-04T16:40:32+00:00"
 }
