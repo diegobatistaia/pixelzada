@@ -112,7 +112,9 @@
     "query": "Zelda Ocarina of Time remake",
     "alt": "Cena do remake de The Legend of Zelda: Ocarina of Time para o Switch 2",
     "url": "https://www.videogameschronicle.com/files/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_06.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/zelda-ocarina-of-time-remake-nota-96-met-ac38c069.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -158,5 +160,7 @@
       "title": "Review Zelda Ocarina of Time Switch 2"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-04T20:40:24+00:00",
+  "updated_at": "2026-11-04T20:40:24+00:00"
 }

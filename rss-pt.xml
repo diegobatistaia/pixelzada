@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:40:25 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Zelda Ocarina of Time remake estreia com 96 no Metacritic</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-nota-96-metacritic-melhor-do-ano/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-nota-96-metacritic-melhor-do-ano/</guid>
+      <description>O remake de Zelda: Ocarina of Time estreia com 96 no Metacritic, a maior nota de 2026. Veja o que as análises elogiam e o que criticam no jogo do Switch 2.</description>
+      <category>Lançamentos</category>
+      <pubDate>Wed, 04 Nov 2026 20:40:24 +0000</pubDate>
+    </item>
     <item>
       <title>Ambrosia: a cidade do açúcar e dos motoqueiros em GTA 6</title>
       <link>https://pixelzada.com.br/pt/ambrosia-gta-6-cidade-do-acucar-e-dos-motoqueiros/</link>
@@ -238,14 +246,6 @@
       <description>Hamaguchi confirma que Final Fantasy VII Revelation terá Hard Mode desde o início, opção Enemy Strength e outra regra para o uso de itens nas batalhas.</description>
       <category>Lançamentos</category>
       <pubDate>Mon, 19 Oct 2026 16:41:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saros ganha atualização Zenith grátis com New Game+, Overlord Rush e opções de acessibilidade</title>
-      <link>https://pixelzada.com.br/pt/saros-atualizacao-zenith-new-game-plus-overlord-rush-acessibilidade/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/saros-atualizacao-zenith-new-game-plus-overlord-rush-acessibilidade/</guid>
-      <description>A atualização Zenith de Saros já saiu e é grátis: New Game+, Overlord Rush, 20 modificadores novos, seis troféus, Auto-fire e opção de desacelerar o jogo.</description>
-      <category>Lançamentos</category>
-      <pubDate>Mon, 19 Oct 2026 14:42:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
