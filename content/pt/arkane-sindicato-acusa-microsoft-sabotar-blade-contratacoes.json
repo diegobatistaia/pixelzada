@@ -126,7 +126,9 @@
     "query": "Marvel's Blade",
     "alt": "Arte de Marvel's Blade, jogo em desenvolvimento na Arkane Lyon",
     "url": "https://www.videogameschronicle.com/files/2026/11/Marvels-Blade.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/arkane-sindicato-acusa-microsoft-sabotar-857adfcc.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -148,5 +150,7 @@
       "title": "French game union accuses Microsoft of sabotaging Blade"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T10:40:41+00:00",
+  "updated_at": "2026-11-05T10:40:41+00:00"
 }
