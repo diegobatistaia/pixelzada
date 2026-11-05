@@ -74,5 +74,13 @@
     "Slide 5: Sem novo aumento",
     "Slide 6: O Switch 2 vale o preço hoje?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-05",
+    "horario": "21:00",
+    "em": "2026-11-05T20:59:19-03:00",
+    "estilo": "dividido",
+    "media_id": "18131942551770551",
+    "permalink": "https://www.instagram.com/p/DfYRK9SlGwt/"
+  }
 }
