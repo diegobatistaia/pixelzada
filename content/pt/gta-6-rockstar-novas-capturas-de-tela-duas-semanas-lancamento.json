@@ -128,7 +128,10 @@
     "query": "GTA 6 screenshots",
     "alt": "Captura de tela oficial de GTA 6 divulgada pela Rockstar",
     "url": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic22.jpg",
-    "credit": "Imagem: Rockstar Games, via VGC"
+    "credit": "Imagem: Rockstar Games, via VGC",
+    "path": "/assets/img/gta-6-rockstar-novas-capturas-de-tela-du-071658cb.jpg",
+    "source_url": "",
+    "foco": "23% 35%"
   },
   "sources": [
     {
@@ -156,5 +159,7 @@
       "title": "GTA 6 launch update screenshots"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T18:39:49+00:00",
+  "updated_at": "2026-11-05T18:39:49+00:00"
 }

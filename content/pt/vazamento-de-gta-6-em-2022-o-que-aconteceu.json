@@ -120,9 +120,10 @@
   ],
   "image": {
     "query": "GTA 6 vazamento 2022",
-    "alt": "Capa da Pixelzada sobre o vazamento de GTA 6 em 2022",
+    "alt": "Arte em pixel art da Pixelzada, no tema GTA 6, para a matéria: O vazamento de GTA 6 em 2022: o que aconteceu",
     "url": "",
-    "credit": ""
+    "credit": "Arte: Pixelzada",
+    "path": "/assets/img/vazamento-de-gta-6-em-2022-o-que-acontec-aea07621.jpg"
   },
   "sources": [
     {
@@ -180,5 +181,7 @@
       "title": "Rockstar says 'GTA 6' leak is legitimate but won't cause delays"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T18:39:49+00:00",
+  "updated_at": "2026-11-05T18:39:49+00:00"
 }
