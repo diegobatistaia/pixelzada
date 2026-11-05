@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:54:04 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Derelikt, terror espacial com visual de PS1, chega ao PS5</title>
+      <link>https://pixelzada.com.br/pt/derelikt-terror-espacial-estilo-ps1-ps5-13-de-novembro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/derelikt-terror-espacial-estilo-ps1-ps5-13-de-novembro/</guid>
+      <description>Derelikt, terror espacial com visual de PSOne, chega ao PS5 em 13 de novembro. Veja a história, o jogo e como o dev solo recriou os gráficos da quinta geração.</description>
+      <category>Lançamentos</category>
+      <pubDate>Thu, 05 Nov 2026 16:54:03 +0000</pubDate>
+    </item>
     <item>
       <title>Sonic aparece no trailer de Angry Birds 3 – O Filme</title>
       <link>https://pixelzada.com.br/pt/angry-birds-3-sonic-aparece-no-novo-trailer/</link>
@@ -238,14 +246,6 @@
       <description>A segunda leva de outubro do Xbox Game Pass traz Final Fantasy VII Remake Intergrade, Terrible Lizards, Pit of Goblin e mais. Veja datas, planos e bônus.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 20 Oct 2026 16:43:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nintendo Switch Sports Resort: o que a crítica diz das primeiras análises</title>
-      <link>https://pixelzada.com.br/pt/nintendo-switch-sports-resort-reviews-o-que-a-critica-diz/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/nintendo-switch-sports-resort-reviews-o-que-a-critica-diz/</guid>
-      <description>Switch Sports Resort chega ao Switch 2 e as análises elogiam skate e arco e flecha, mas criticam basquete e o modo solo. Veja o que dizem IGN, Eurogamer e mais.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 20 Oct 2026 14:42:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

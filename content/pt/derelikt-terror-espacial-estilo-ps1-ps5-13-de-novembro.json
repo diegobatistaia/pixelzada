@@ -142,7 +142,9 @@
     "query": "Derelikt",
     "alt": "Arte de Derelikt, jogo de terror espacial para PS5",
     "url": "https://blog.playstation.com/tachyon/2048/11/646bca9666d03e4befc0e440f34d1e961ac329e0.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/derelikt-terror-espacial-estilo-ps1-ps5--a70e7449.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -153,5 +155,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T16:54:03+00:00",
+  "updated_at": "2026-11-05T16:54:03+00:00"
 }
