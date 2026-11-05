@@ -1,0 +1,78 @@
+{
+  "slug": "mount-kalaga-gta-6-parque-nacional-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Mount Kalaga",
+  "gta6": true,
+  "materia": "mount-kalaga-gta-6-o-parque-nacional-de-leonida",
+  "criado": "2026-11-05T09:50:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.17wlh6xi7ljz9.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, Press Start e PC Gamer",
+  "capa": {
+    "titulo": "Mount Kalaga: o parque nacional de GTA 6",
+    "destaque": "Mount Kalaga",
+    "apoio": "A região mais selvagem de Leonida. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "Um dos seis destinos",
+      "destaque": "seis",
+      "texto": [
+        "Mount Kalaga aparece no site oficial ao lado de Vice City, Keys, Grassrivers, Port Gellhorn e Ambrosia, segundo a **Rockstar**."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Caça, pesca e trilhas",
+      "destaque": "trilhas",
+      "texto": [
+        "A descrição oficial fala em **caça, pesca e trilhas off-road**, segundo a Press Start e o PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "Quem vive na mata",
+      "destaque": "mata",
+      "texto": [
+        "Místicos caipiras e radicais paranoicos, segundo o texto oficial, citado pela **Press Start**."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "A caça volta?",
+      "destaque": "caça",
+      "texto": [
+        "Uma imagem mostra Jason com um **rifle diante de um cervo**, mas a Rockstar não explicou o sistema, segundo a The Week."
+      ]
+    }
+  ],
+  "final": "Você exploraria Mount Kalaga primeiro?",
+  "legenda": {
+    "gancho": "Mount Kalaga é o parque nacional de GTA 6, a região mais selvagem de Leonida.",
+    "corpo": [
+      "Segundo a Rockstar, o lugar tem caça, pesca e trilhas off-road, e as imagens oficiais mostram caiaques e motos de trilha.",
+      "Uma imagem da Game Informer mostra Jason mirando um cervo, mas a Rockstar ainda não detalhou como a caça funciona, segundo a The Week."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Mount Kalaga: o parque nacional de GTA 6",
+    "Slide 2: Um dos seis destinos",
+    "Slide 3: Caça, pesca e trilhas",
+    "Slide 4: Quem vive na mata",
+    "Slide 5: A caça volta?",
+    "Slide 6: Você exploraria Mount Kalaga primeiro?"
+  ],
+  "status": "pronto"
+}
