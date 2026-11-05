@@ -125,7 +125,9 @@
     "query": "Nintendo Switch 2",
     "alt": "Console Nintendo Switch 2",
     "url": "https://www.videogameschronicle.com/files/2026/06/switch-2-hero.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/nintendo-descarta-novo-aumento-preco-swi-fc35e385.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -153,5 +155,7 @@
       "title": "Nintendo's president said the company has acquired sufficient RAM for now"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T20:39:49+00:00",
+  "updated_at": "2026-11-05T20:39:49+00:00"
 }

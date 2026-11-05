@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:39:50 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Nintendo descarta novo aumento do Switch 2 com vendas em queda</title>
+      <link>https://pixelzada.com.br/pt/nintendo-descarta-novo-aumento-preco-switch-2-vendas-caem/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/nintendo-descarta-novo-aumento-preco-switch-2-vendas-caem/</guid>
+      <description>A Nintendo descartou novos aumentos de preço do Switch 2, mesmo com vendas e lucro em queda no semestre. Veja os números, os jogos mais vendidos e o que vem.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Thu, 05 Nov 2026 20:39:49 +0000</pubDate>
+    </item>
     <item>
       <title>Rockstar solta nova galeria de GTA 6 a duas semanas do lançamento</title>
       <link>https://pixelzada.com.br/pt/gta-6-rockstar-novas-capturas-de-tela-duas-semanas-lancamento/</link>
@@ -238,14 +246,6 @@
       <description>A Fortune diz que o Project Helix, o próximo Xbox, chega até 2028 e pode custar de US$ 1.200 a US$ 1.800. A Microsoft não confirmou. Veja o que é rumor.</description>
       <category>Consoles e PC</category>
       <pubDate>Tue, 20 Oct 2026 20:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Raul Bautista e Brian Heder: quem são o ladrão de bancos e o traficante de GTA 6</title>
-      <link>https://pixelzada.com.br/pt/raul-bautista-e-brian-heder-gta-6-ladrao-de-bancos-e-traficante-das-keys/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/raul-bautista-e-brian-heder-gta-6-ladrao-de-bancos-e-traficante-das-keys/</guid>
-      <description>Quem são Raul Bautista e Brian Heder, personagens de GTA 6: o que a Rockstar diz dos perfis, onde aparecem no Extended Look e os rumores sobre as vozes.</description>
-      <category>GTA 6</category>
-      <pubDate>Tue, 20 Oct 2026 18:42:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
