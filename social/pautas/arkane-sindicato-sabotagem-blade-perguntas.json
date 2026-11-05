@@ -74,5 +74,13 @@
     "Slide 5: E a Microsoft?",
     "Slide 6: A Arkane merece ser salva?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-05",
+    "horario": "09:00",
+    "em": "2026-11-05T09:09:31-03:00",
+    "estilo": "missao",
+    "media_id": "17948871558359429",
+    "permalink": "https://www.instagram.com/p/DfW_8QRFfHe/"
+  }
 }
