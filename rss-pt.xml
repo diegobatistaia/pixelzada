@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:41:00 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Sonic aparece no trailer de Angry Birds 3 – O Filme</title>
+      <link>https://pixelzada.com.br/pt/angry-birds-3-sonic-aparece-no-novo-trailer/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/angry-birds-3-sonic-aparece-no-novo-trailer/</guid>
+      <description>Sonic aparece no segundo trailer de Angry Birds 3, correndo ao lado do Chuck. Veja o que se sabe da participação, as datas de estreia e por que ela surpreendeu.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 05 Nov 2026 14:41:00 +0000</pubDate>
+    </item>
     <item>
       <title>Mount Kalaga: o parque nacional de GTA 6</title>
       <link>https://pixelzada.com.br/pt/mount-kalaga-gta-6-o-parque-nacional-de-leonida/</link>
@@ -238,14 +246,6 @@
       <description>Switch Sports Resort chega ao Switch 2 e as análises elogiam skate e arco e flecha, mas criticam basquete e o modo solo. Veja o que dizem IGN, Eurogamer e mais.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 20 Oct 2026 14:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA Online e GTA 6: o que se sabe sobre o multiplayer</title>
-      <link>https://pixelzada.com.br/pt/gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-online-e-gta-6-o-que-se-sabe-multiplayer-single-player/</guid>
-      <description>GTA 6 sai só com modo single player e a Take-Two diz que o GTA Online continua. Veja o que já foi dito sobre o multiplayer, o GTA+ e as microtransações.</description>
-      <category>GTA 6</category>
-      <pubDate>Tue, 20 Oct 2026 12:41:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -130,7 +130,9 @@
     "query": "Sonic Angry Birds 3",
     "alt": "Cena do trailer de Angry Birds 3 com Sonic",
     "url": "https://cdn.mos.cms.futurecdn.net/zDjUx4wPzhbzXbdfBAJDgQ-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/angry-birds-3-sonic-aparece-no-novo-trai-40a74530.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -152,5 +154,7 @@
       "title": "Angry Birds 3 – O Filme terá participação de Sonic the Hedgehog; confira o novo trailer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T14:41:00+00:00",
+  "updated_at": "2026-11-05T14:41:00+00:00"
 }
