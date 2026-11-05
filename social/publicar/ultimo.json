@@ -1,10 +1,10 @@
 {
   "pedido": {
     "acao": "carrossel",
-    "slug": "ambrosia-gta-6-cidade-do-acucar",
-    "horario": "19:00",
+    "slug": "god-of-war-laufey-adiado-maio-2027",
+    "horario": "21:00",
     "data": "2026-11-04",
-    "estilo": "mapa",
+    "estilo": "reprodutor",
     "slides": [
       "01.jpg",
       "02.jpg",
@@ -12,15 +12,11 @@
       "04.jpg",
       "05.jpg"
     ],
-    "story": "story.jpg"
+    "story": null
   },
-  "em": "2026-11-04T19:00:19-03:00",
+  "em": "2026-11-04T21:05:16-03:00",
   "ok": true,
-  "media_id": "18290599552290467",
-  "permalink": "https://www.instagram.com/p/DfVewtOj9Yn/",
-  "story": {
-    "em": "2026-11-04T19:00:57-03:00",
-    "media_id": "17949757503068417"
-  },
+  "media_id": "18108852761255987",
+  "permalink": "https://www.instagram.com/p/DfVtEmBme-L/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
