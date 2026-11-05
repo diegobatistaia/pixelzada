@@ -124,7 +124,9 @@
     "query": "GTA 6 Mount Kalaga",
     "alt": "Imagem de capa do destino Mount Kalaga na seção 'Only in Leonida' do site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.17wlh6xi7ljz9.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/mount-kalaga-gta-6-o-parque-nacional-de--c95a61d9.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -212,5 +214,7 @@
       "title": "GTA 6's Map Is About Twice The Size Of GTA 5, With Hurricanes And 170 Animal Species"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T12:40:25+00:00",
+  "updated_at": "2026-11-05T12:40:25+00:00"
 }

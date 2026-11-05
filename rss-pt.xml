@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 10:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:40:26 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mount Kalaga: o parque nacional de GTA 6</title>
+      <link>https://pixelzada.com.br/pt/mount-kalaga-gta-6-o-parque-nacional-de-leonida/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/mount-kalaga-gta-6-o-parque-nacional-de-leonida/</guid>
+      <description>Mount Kalaga, o parque nacional de GTA 6: caça, pesca e trilhas off-road na fronteira norte de Leonida. Veja o que a Rockstar já contou sobre a região selvagem.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 05 Nov 2026 12:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modern Warfare 4 tem menos jogadores que Black Ops 7</title>
+      <link>https://pixelzada.com.br/pt/call-of-duty-modern-warfare-4-menos-jogadores-black-ops-7-circana/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/call-of-duty-modern-warfare-4-menos-jogadores-black-ops-7-circana/</guid>
+      <description>Modern Warfare 4 teve menos jogadores no PlayStation e no Xbox do que Black Ops 7 na estreia, segundo a Circana. Veja os números e o que explica a queda.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 05 Nov 2026 12:40:24 +0000</pubDate>
+    </item>
     <item>
       <title>Sindicato acusa Microsoft de sabotar Blade, da Arkane</title>
       <link>https://pixelzada.com.br/pt/arkane-sindicato-acusa-microsoft-sabotar-blade-contratacoes/</link>
@@ -230,22 +246,6 @@
       <description>GTA 6 sai só com modo single player e a Take-Two diz que o GTA Online continua. Veja o que já foi dito sobre o multiplayer, o GTA+ e as microtransações.</description>
       <category>GTA 6</category>
       <pubDate>Tue, 20 Oct 2026 12:41:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyberpunk 2077 ganha atualização 2.5 grátis em 22 de outubro, inspirada em Edgerunners 2</title>
-      <link>https://pixelzada.com.br/pt/cyberpunk-2077-atualizacao-2-5-edgerunners-2-22-de-outubro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/cyberpunk-2077-atualizacao-2-5-edgerunners-2-22-de-outubro/</guid>
-      <description>A atualização 2.5 de Cyberpunk 2077 sai em 22 de outubro, de graça, com conteúdo inspirado em Edgerunners 2. Veja o que a CD Projekt RED já confirmou até agora.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 20 Oct 2026 12:41:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Decomp.dev, grande site de decompilação de jogos, fecha por causa da IA</title>
-      <link>https://pixelzada.com.br/pt/decomp-dev-fecha-por-causa-da-ia-comunidade-de-decompilacao/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/decomp-dev-fecha-por-causa-da-ia-comunidade-de-decompilacao/</guid>
-      <description>O Decomp.dev, um dos maiores sites de decompilação de jogos, vai encerrar as atividades por causa da IA. Entenda o que são os projetos e o que o criador disse.</description>
-      <category>Indústria</category>
-      <pubDate>Mon, 19 Oct 2026 20:42:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

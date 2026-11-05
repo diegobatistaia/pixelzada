@@ -122,7 +122,10 @@
     "query": "Call of Duty Modern Warfare 4",
     "alt": "Arte de Call of Duty: Modern Warfare 4",
     "url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/call-of-duty-modern-warfare-4-menos-joga-0cfd2b71.jpg",
+    "source_url": "",
+    "foco": "33% 31%"
   },
   "sources": [
     {
@@ -144,5 +147,7 @@
       "title": "Call of Duty: Warzone ganha integração completa com Modern Warfare 4"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T12:40:24+00:00",
+  "updated_at": "2026-11-05T12:40:24+00:00"
 }
