@@ -74,5 +74,17 @@
     "Slide 5: Pouco de jogabilidade",
     "Slide 6: Qual captura te empolgou mais?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-05",
+    "horario": "19:00",
+    "em": "2026-11-05T19:01:23-03:00",
+    "estilo": "plantao",
+    "media_id": "18135653329781419",
+    "permalink": "https://www.instagram.com/p/DfYDsw4gVkO/"
+  },
+  "story": {
+    "em": "2026-11-05T19:02:13-03:00",
+    "media_id": "18102264248416850"
+  }
 }
