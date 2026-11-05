@@ -1,0 +1,78 @@
+{
+  "slug": "nintendo-switch-2-balanco-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Switch 2",
+  "gta6": false,
+  "materia": "nintendo-descarta-novo-aumento-preco-switch-2-vendas-caem",
+  "criado": "2026-11-05T19:55:00-03:00",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/06/switch-2-hero.jpg",
+    "credito": "VGC",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, PC Gamer e VGC",
+  "capa": {
+    "titulo": "Switch 2 em números: vendas caem, preço fica",
+    "destaque": "em números",
+    "apoio": "O balanço da Nintendo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "6,49 milhões em 6 meses",
+      "destaque": "6,49 milhões",
+      "texto": [
+        "Eram **10,36 milhões** no mesmo período do ano passado, segundo o IGN e o PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Queda de 16%",
+      "destaque": "16%",
+      "texto": [
+        "O lucro operacional foi de **73,9 bilhões de ienes**, segundo o IGN, citando a Bloomberg."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "16,5 milhões até março",
+      "destaque": "16,5 milhões",
+      "texto": [
+        "É a meta de vendas do Switch 2 no ano fiscal, **menor que a anterior**, segundo o PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "Sem novo aumento",
+      "destaque": "Sem novo",
+      "texto": [
+        "A Nintendo diz ter **memória suficiente** e não considera reajustar o preço, segundo o VGC."
+      ]
+    }
+  ],
+  "final": "O Switch 2 vale o preço hoje?",
+  "legenda": {
+    "gancho": "A Nintendo descartou um novo aumento de preço do Switch 2, mesmo com vendas e lucro em queda.",
+    "corpo": [
+      "Segundo o IGN, o Switch 2 vendeu 6,49 milhões de unidades entre abril e setembro, contra 10,36 milhões um ano antes. O lucro operacional caiu 16%.",
+      "A empresa diz ter memória suficiente para manter o preço, segundo o VGC, e mantém a meta de 16,5 milhões de consoles até março de 2027."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#switch2",
+      "#nintendo",
+      "#nintendoswitch2"
+    ]
+  },
+  "alt": [
+    "Slide 1: Switch 2 em números: vendas caem, preço fica",
+    "Slide 2: 6,49 milhões em 6 meses",
+    "Slide 3: Queda de 16%",
+    "Slide 4: 16,5 milhões até março",
+    "Slide 5: Sem novo aumento",
+    "Slide 6: O Switch 2 vale o preço hoje?"
+  ],
+  "status": "pronto"
+}
