@@ -1,0 +1,139 @@
+{
+  "lang": "pt",
+  "slug": "xbox-cloud-gaming-celular-controle-nano-wifi-direto",
+  "story_id": "836c875c383e99bc",
+  "title": "Xbox Cloud Gaming testa celular como controle e Nano com Wi-Fi",
+  "dek": "Duas prévias chegam ao serviço de jogos na nuvem: comandos pelo celular na smart TV e conexão direta do Xbox Nano Controller pelo Wi-Fi.",
+  "meta_description": "O Xbox Cloud Gaming testa o celular como controle na smart TV e o Xbox Nano Controller com Wi-Fi direto na nuvem. Veja como ativar e o que ainda é teste.",
+  "keyword": "Xbox Cloud Gaming celular controle",
+  "category": "industria",
+  "tags": [
+    "xbox",
+    "cloud gaming",
+    "xbox nano controller",
+    "microsoft"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "O Xbox Cloud Gaming ganhou dois novos modos de uso em fase de teste. Anunciados nesta quarta-feira (4) no Xbox Wire, o blog oficial da marca, eles permitem usar o celular como controle em smart TVs compatíveis e conectar o novo Xbox Nano Controller direto à nuvem pelo Wi-Fi. Os dois recursos já começaram a ser liberados, mas ainda estão em teste.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Celular vira controle na smart TV",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Na primeira novidade, um celular Android ou iOS compatível funciona como controle numa smart TV compatível. Segundo a Microsoft, os comandos abrem no navegador do aparelho, então não é preciso nenhum controle físico. Alguns jogos terão comandos adaptados ao estilo de jogabilidade.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Para testar, é preciso ativar os Recursos de Visualização (Preview Features) em Configurações > Conta, na versão mais recente do app do Xbox na TV. Ao abrir um jogo sem controle conectado, a TV mostra a opção de usar o celular naquela sessão. A prévia começou a ser liberada hoje nos países onde o Xbox Cloud Gaming é oferecido, segundo o Xbox Wire.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Insider Gaming cita entre as marcas de TV compatíveis Amazon Fire, LG, Samsung e modelos com o sistema VIDAA. A lista, segundo o site, não é grande. O autor também relatou que a opção ainda não apareceu na TV dele durante o teste, o que combina com o aviso da Microsoft de que a liberação é gradual.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Xbox Nano Controller com Wi-Fi direto",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A segunda prévia é o chamado cloud connect, disponível por enquanto só nos Estados Unidos, para o Xbox Nano Controller. Em vez de usar Bluetooth até a TV, o controle se conecta pelo Wi-Fi direto ao servidor na nuvem que roda o jogo. Segundo a Microsoft, isso pode reduzir a latência dos comandos e deixar o jogo mais responsivo.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "onde funciona: em smart TVs compatíveis e na versão web, por enquanto;",
+        "configuração: o The Verge informa que é preciso o app Xbox beta para Android ou o app Xbox Accessories no PC para configurar o cloud connect no Nano;",
+        "preço do controle: o Insider Gaming cita US$ 49,99 para o Xbox Nano Controller;",
+        "limite: o recurso ainda não funciona com todas as experiências de jogo na nuvem, de acordo com a Microsoft."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "O The Verge já havia antecipado, no dia anterior, que o Nano teria conexão Wi-Fi direta com o Xbox Cloud Gaming. Agora a Microsoft confirmou o recurso de forma oficial.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que ainda é teste",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A própria Microsoft avisa que as duas experiências ainda estão sendo avaliadas. A disponibilidade e os jogos ou dispositivos compatíveis podem ser limitados enquanto a empresa colhe retorno dos jogadores. Quem encontrar problema ou tiver sugestão pode enviar feedback pela própria experiência de prévia.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o Xbox Wire, o que a empresa aprender nesses testes vai ajudar a moldar as próximas atualizações do serviço.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Por que isso importa",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Xbox Cloud Gaming roda os jogos em servidores e transmite a imagem para o aparelho do jogador. Isso significa que dá para jogar em celular, tablet, PC e TV sem console. O controle, porém, sempre foi um obstáculo: sem um gamepad por perto, a TV não servia. Usar o celular reduz essa barreira, como observou o Insider Gaming. Já o Wi-Fi direto mira o outro ponto sensível da nuvem, a demora entre apertar um botão e ver a resposta na tela.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que ainda não se sabe",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "quando os recursos chegam ao Brasil, já que a Microsoft só confirmou o cloud connect nos Estados Unidos;",
+        "quando as prévias viram recursos definitivos;",
+        "quais jogos terão comandos adaptados no celular."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A Pixelzada atualiza esta matéria quando a Microsoft detalhar a chegada dos recursos a outros países.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "Xbox Cloud Gaming",
+    "alt": "Arte do Xbox Wire sobre as novidades do Xbox Cloud Gaming",
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
+    "credit": "Imagem: Xbox Wire"
+  },
+  "sources": [
+    {
+      "name": "Xbox Wire",
+      "owner": "microsoft",
+      "url": "https://news.xbox.com/en-us/2026/11/04/cloud-gaming-inputs-preview/",
+      "title": "Preview Two New Ways to Play with XBOX Cloud Gaming"
+    },
+    {
+      "name": "The Verge",
+      "owner": "vox-media",
+      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+      "title": "Xbox previews two new ways to control cloud games"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/two-new-xbox-cloud-gaming-options/",
+      "title": "XBOX Announces Two New Cloud Gaming Options"
+    }
+  ],
+  "status": "draft"
+}
