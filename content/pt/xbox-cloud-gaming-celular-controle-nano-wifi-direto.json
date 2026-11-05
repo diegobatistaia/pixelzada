@@ -113,7 +113,9 @@
     "query": "Xbox Cloud Gaming",
     "alt": "Arte do Xbox Wire sobre as novidades do Xbox Cloud Gaming",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-cloud-gaming-celular-controle-nano--214191ab.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -135,5 +137,7 @@
       "title": "XBOX Announces Two New Cloud Gaming Options"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-05T00:39:32+00:00",
+  "updated_at": "2026-11-05T00:39:32+00:00"
 }
