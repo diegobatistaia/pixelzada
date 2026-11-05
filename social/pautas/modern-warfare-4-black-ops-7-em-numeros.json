@@ -1,0 +1,78 @@
+{
+  "slug": "modern-warfare-4-black-ops-7-em-numeros",
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Call of Duty",
+  "gta6": false,
+  "materia": "call-of-duty-modern-warfare-4-menos-jogadores-black-ops-7-circana",
+  "criado": "2026-11-05T11:55:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/DMZ-COD-MW4-(4).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Eurogamer",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fonte: Eurogamer, com dados da Circana",
+  "capa": {
+    "titulo": "Modern Warfare 4 x Black Ops 7 em números",
+    "destaque": "em números",
+    "apoio": "Menos jogadores na estreia. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "PlayStation",
+      "titulo": "19% contra 23%",
+      "destaque": "19%",
+      "texto": [
+        "Jogadores de PlayStation que jogaram **na semana de estreia**, segundo a Circana, citada pela Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Xbox",
+      "titulo": "17% contra 29%",
+      "destaque": "17%",
+      "texto": [
+        "A queda no Xbox pode ter a ver com a **ausência do Game Pass** no primeiro dia, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Steam",
+      "titulo": "4,2% contra 1,5%",
+      "destaque": "4,2%",
+      "texto": [
+        "No PC, o único ponto em que Modern Warfare 4 **ficou na frente**, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Ranking",
+      "titulo": "Top 10 nas 3 plataformas",
+      "destaque": "Top 10",
+      "texto": [
+        "Mesmo assim, ficou **entre os dez mais jogados** em todas, segundo a Eurogamer."
+      ]
+    }
+  ],
+  "final": "Você jogou Modern Warfare 4 no lançamento?",
+  "legenda": {
+    "gancho": "Modern Warfare 4 teve menos jogadores no PlayStation e no Xbox do que Black Ops 7 na estreia.",
+    "corpo": [
+      "Segundo a Circana, citada pela Eurogamer, 19% dos jogadores de PlayStation jogaram na semana de estreia, contra 23% de Black Ops 7. No Xbox, foram 17% contra 29%. No Steam, 4,2% contra 1,5%.",
+      "A Eurogamer lembra que Call of Duty ficou entre os dez mais jogados nas três plataformas e que o jogo não chegou ao Game Pass no primeiro dia."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#callofduty",
+      "#modernwarfare4",
+      "#blackops7"
+    ]
+  },
+  "alt": [
+    "Slide 1: Modern Warfare 4 x Black Ops 7 em números",
+    "Slide 2: 19% contra 23%",
+    "Slide 3: 17% contra 29%",
+    "Slide 4: 4,2% contra 1,5%",
+    "Slide 5: Top 10 nas 3 plataformas",
+    "Slide 6: Você jogou Modern Warfare 4 no lançamento?"
+  ],
+  "status": "pronto"
+}
