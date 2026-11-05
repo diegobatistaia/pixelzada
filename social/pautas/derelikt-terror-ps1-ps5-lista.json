@@ -1,0 +1,78 @@
+{
+  "slug": "derelikt-terror-ps1-ps5-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Derelikt",
+  "gta6": false,
+  "materia": "derelikt-terror-espacial-estilo-ps1-ps5-13-de-novembro",
+  "criado": "2026-11-05T13:55:00-03:00",
+  "imagem": {
+    "url": "https://blog.playstation.com/tachyon/2048/11/646bca9666d03e4befc0e440f34d1e961ac329e0.jpg",
+    "credito": "PlayStation Blog",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fonte: PlayStation Blog",
+  "capa": {
+    "titulo": "Derelikt: terror espacial com visual de PS1",
+    "destaque": "PS1",
+    "apoio": "Chega ao PS5 em 13 de novembro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "Terror num asteroide",
+      "destaque": "asteroide",
+      "texto": [
+        "Você investiga o sumiço de uma equipe de escavação na órbita de **Saturno**, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Visual de 1999",
+      "destaque": "1999",
+      "texto": [
+        "Texturas **pintadas à mão** e cenas em CGI retrô imitam os jogos do fim da era PSOne, segundo o desenvolvedor."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "Dev solo",
+      "destaque": "solo",
+      "texto": [
+        "O jogo é de **Philipp Jensen**, em desenvolvimento desde o fim de 2021, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "Efeitos opcionais",
+      "destaque": "opcionais",
+      "texto": [
+        "Dá para **ligar ou desligar** os efeitos retrô, segundo o desenvolvedor."
+      ]
+    }
+  ],
+  "final": "Você encararia esse terror retrô?",
+  "legenda": {
+    "gancho": "Derelikt é um terror espacial que imita o visual do PlayStation original e chega ao PS5 em 13 de novembro.",
+    "corpo": [
+      "Segundo o PlayStation Blog, o jogador investiga o sumiço de uma equipe de escavação num asteroide na órbita de Saturno. O visual usa texturas pintadas à mão e cenas em CGI retrô.",
+      "O jogo é de um desenvolvedor solo e tem pré-venda com 10% de desconto, de acordo com o blog."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#derelikt",
+      "#ps5",
+      "#terror"
+    ]
+  },
+  "alt": [
+    "Slide 1: Derelikt: terror espacial com visual de PS1",
+    "Slide 2: Terror num asteroide",
+    "Slide 3: Visual de 1999",
+    "Slide 4: Dev solo",
+    "Slide 5: Efeitos opcionais",
+    "Slide 6: Você encararia esse terror retrô?"
+  ],
+  "status": "pronto"
+}
