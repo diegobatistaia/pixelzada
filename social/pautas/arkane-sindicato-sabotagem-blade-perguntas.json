@@ -1,0 +1,78 @@
+{
+  "slug": "arkane-sindicato-sabotagem-blade-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Arkane",
+  "gta6": false,
+  "materia": "arkane-sindicato-acusa-microsoft-sabotar-blade-contratacoes",
+  "criado": "2026-11-05T07:55:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/marvel-blade-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "GamesIndustry.biz",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesIndustry.biz, VGC e PC Gamer",
+  "capa": {
+    "titulo": "Sindicato diz que a Microsoft sabotou Blade",
+    "destaque": "sabotou",
+    "apoio": "A acusação da Arkane Lyon. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Qual é a acusação?",
+      "destaque": "acusação",
+      "texto": [
+        "Um congelamento de **19 meses** nas contratações teria causado os atrasos de Blade, segundo o VGC e o PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Quem corre risco?",
+      "destaque": "risco",
+      "texto": [
+        "Os **217 funcionários** da Arkane Lyon, se não aparecer um comprador, segundo o GamesIndustry.biz."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "O que o sindicato quer?",
+      "destaque": "quer",
+      "texto": [
+        "Voz na escolha do comprador e, se fechar, **US$ 223 mil** por pessoa, segundo o GamesIndustry.biz."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 4",
+      "titulo": "E a Microsoft?",
+      "destaque": "Microsoft",
+      "texto": [
+        "Ainda **não respondeu**. O prazo para vender foi estendido para **13 de dezembro**, segundo o GamesIndustry.biz."
+      ]
+    }
+  ],
+  "final": "A Arkane merece ser salva?",
+  "legenda": {
+    "gancho": "O sindicato da Arkane Lyon acusa a Microsoft de sabotar Marvel's Blade.",
+    "corpo": [
+      "Segundo o STJV, 19 meses sem contratar causaram os atrasos que agora justificam fechar o estúdio, de acordo com o VGC e o PC Gamer.",
+      "A Microsoft não respondeu. O prazo para vender a Arkane foi estendido para 13 de dezembro, segundo o GamesIndustry.biz."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#arkane",
+      "#marvelsblade",
+      "#xbox"
+    ]
+  },
+  "alt": [
+    "Slide 1: Sindicato diz que a Microsoft sabotou Blade",
+    "Slide 2: Qual é a acusação?",
+    "Slide 3: Quem corre risco?",
+    "Slide 4: O que o sindicato quer?",
+    "Slide 5: E a Microsoft?",
+    "Slide 6: A Arkane merece ser salva?"
+  ],
+  "status": "pronto"
+}

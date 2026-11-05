@@ -1,0 +1,78 @@
+{
+  "slug": "xbox-cloud-gaming-celular-controle-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Xbox Cloud",
+  "gta6": false,
+  "materia": "xbox-cloud-gaming-celular-controle-nano-wifi-direto",
+  "criado": "2026-11-05T07:55:00-03:00",
+  "imagem": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "credito": "The Verge",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Xbox Wire, The Verge e Insider Gaming",
+  "capa": {
+    "titulo": "Xbox Cloud Gaming: celular vira controle",
+    "destaque": "celular",
+    "apoio": "Duas prévias já começaram. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "Celular como controle",
+      "destaque": "celular",
+      "texto": [
+        "Em **smart TVs compatíveis**, o celular Android ou iOS vira controle pelo navegador, segundo o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Como ativar",
+      "destaque": "ativar",
+      "texto": [
+        "Ligue os **Recursos de Visualização** em Configurações > Conta no app do Xbox na TV, segundo o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "Nano com Wi-Fi direto",
+      "destaque": "Wi-Fi",
+      "texto": [
+        "O **Xbox Nano Controller** conecta direto à nuvem pelo Wi-Fi, só nos EUA por enquanto, segundo o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "Ainda é teste",
+      "destaque": "teste",
+      "texto": [
+        "A Microsoft diz que a disponibilidade e os jogos compatíveis podem ser **limitados**, segundo o Xbox Wire."
+      ]
+    }
+  ],
+  "final": "Você jogaria na nuvem com o celular?",
+  "legenda": {
+    "gancho": "O Xbox Cloud Gaming testa o celular como controle na smart TV.",
+    "corpo": [
+      "Segundo o Xbox Wire, o recurso abre os comandos no navegador do celular. O Xbox Nano Controller também ganhou conexão direta pelo Wi-Fi, nos Estados Unidos.",
+      "As duas novidades estão em teste, e a Microsoft avisa que a disponibilidade pode ser limitada, de acordo com o Xbox Wire e o The Verge."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#xbox",
+      "#xboxcloudgaming",
+      "#cloudgaming"
+    ]
+  },
+  "alt": [
+    "Slide 1: Xbox Cloud Gaming: celular vira controle",
+    "Slide 2: Celular como controle",
+    "Slide 3: Como ativar",
+    "Slide 4: Nano com Wi-Fi direto",
+    "Slide 5: Ainda é teste",
+    "Slide 6: Você jogaria na nuvem com o celular?"
+  ],
+  "status": "pronto"
+}
