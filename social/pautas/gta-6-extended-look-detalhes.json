@@ -74,5 +74,17 @@
     "Slide 5: 31,1 milhões na Netflix",
     "Slide 6: Qual cena do vídeo te empolgou mais?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-06",
+    "horario": "19:00",
+    "em": "2026-11-06T19:00:15-03:00",
+    "estilo": "celular",
+    "media_id": "18162189760545334",
+    "permalink": "https://www.instagram.com/p/DfaoVlslUL3/"
+  },
+  "story": {
+    "em": "2026-11-06T19:00:50-03:00",
+    "media_id": "18110889365265463"
+  }
 }
