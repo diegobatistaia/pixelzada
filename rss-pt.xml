@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:39:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:40:55 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Extended Look de GTA 6: os 26 minutos de jogo explicados</title>
+      <link>https://pixelzada.com.br/pt/gta-6-extended-look-26-minutos-de-gameplay-explicados/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-extended-look-26-minutos-de-gameplay-explicados/</guid>
+      <description>O Extended Look de GTA 6 explicado: o que acontece em cada trecho dos 26 minutos de gameplay, os sistemas que aparecem e o que o vídeo indica sobre o jogo.</description>
+      <category>GTA 6</category>
+      <pubDate>Fri, 06 Nov 2026 18:40:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>NieR: Automata pede 366 GB na Steam depois de update</title>
+      <link>https://pixelzada.com.br/pt/nier-automata-atualizacao-366-gb-steam-square-enix/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/nier-automata-atualizacao-366-gb-steam-square-enix/</guid>
+      <description>Uma pequena atualização fez NieR: Automata exigir 366 GB na Steam, contra 50 GB. A Square Enix pediu desculpas e há um jeito de contornar. Veja o que se sabe.</description>
+      <category>Indústria</category>
+      <pubDate>Fri, 06 Nov 2026 18:40:54 +0000</pubDate>
+    </item>
     <item>
       <title>Meg's Monster chega ao PS5 em 1º de março de 2027</title>
       <link>https://pixelzada.com.br/pt/megs-monster-ps5-1-de-marco-2027-odencat/</link>
@@ -230,22 +246,6 @@
       <description>F-Stop, o prequel cancelado de Portal que usa uma câmera, foi remontado por fãs com o vazamento de 12 TB da Valve e já pode ser jogado. Veja o que se sabe.</description>
       <category>Indústria</category>
       <pubDate>Tue, 03 Nov 2026 16:43:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Phantom Blade Zero vende 4 milhões de cópias em três dias</title>
-      <link>https://pixelzada.com.br/pt/phantom-blade-zero-4-milhoes-copias-tres-dias-steam/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/phantom-blade-zero-4-milhoes-copias-tres-dias-steam/</guid>
-      <description>Phantom Blade Zero vendeu mais de 4 milhões de cópias em três dias, segundo a S-Game, e fez a maior estreia do ano na Steam. Veja os números e a crítica.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 03 Nov 2026 14:41:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelda: Ocarina of Time remake foi feito pelo time EPD da Nintendo</title>
-      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-quem-fez-nintendo-epd/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-quem-fez-nintendo-epd/</guid>
-      <description>Nintendo confirma quem fez o remake de Zelda: Ocarina of Time: o time EPD de sempre. Aonuma conta por que tirou o teletransporte. Lançamento em 5 de novembro.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 03 Nov 2026 12:43:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

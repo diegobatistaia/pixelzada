@@ -108,7 +108,10 @@
     "query": "GTA 6 Extended Look",
     "alt": "Imagem oficial de capa do vídeo 'Grand Theft Auto VI: An Extended Look' na página de downloads do site de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_An_Extended_Look_poster.0ijbsha5fo1te.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-extended-look-26-minutos-de-gamepl-9467e600.jpg",
+    "source_url": "",
+    "foco": "49% 17%"
   },
   "sources": [
     {
@@ -214,5 +217,7 @@
       "title": "GTA 6 Extended Look dominates Netflix with 31.1 million views"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-06T18:40:54+00:00",
+  "updated_at": "2026-11-06T18:40:54+00:00"
 }

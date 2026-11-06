@@ -122,7 +122,10 @@
     "query": "NieR Automata",
     "alt": "Arte de NieR: Automata",
     "url": "https://kotaku.com/app/uploads/2026/02/nier-automata-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/nier-automata-atualizacao-366-gb-steam-s-b62bd58b.jpg",
+    "source_url": "",
+    "foco": "58% 21%"
   },
   "sources": [
     {
@@ -144,5 +147,7 @@
       "title": "NieR: Automata devs address 366 GB update"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-06T18:40:54+00:00",
+  "updated_at": "2026-11-06T18:40:54+00:00"
 }
