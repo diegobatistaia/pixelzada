@@ -74,5 +74,13 @@
     "Slide 5: Por que é especial?",
     "Slide 6: Você pagaria isso num portátil?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-06",
+    "horario": "09:00",
+    "em": "2026-11-06T09:00:15-03:00",
+    "estilo": "mosaico",
+    "media_id": "17910645306325979",
+    "permalink": "https://www.instagram.com/p/DfZjsMoEY0Q/"
+  }
 }
