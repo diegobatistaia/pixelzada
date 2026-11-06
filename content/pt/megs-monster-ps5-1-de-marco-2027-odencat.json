@@ -132,7 +132,10 @@
     "query": "Meg's Monster",
     "alt": "Arte de Meg's Monster para PS5",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Megs-Monster-PS5_11-04-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/megs-monster-ps5-1-de-marco-2027-odencat-a263b05b.jpg",
+    "source_url": "",
+    "foco": "34% 34%"
   },
   "sources": [
     {
@@ -148,5 +151,7 @@
       "title": "Meg's Monster será lançado para PlayStation 5"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-06T14:39:43+00:00",
+  "updated_at": "2026-11-06T14:39:43+00:00"
 }
