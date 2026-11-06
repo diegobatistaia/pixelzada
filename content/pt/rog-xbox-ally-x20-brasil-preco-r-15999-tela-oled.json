@@ -134,7 +134,9 @@
     "query": "ROG Xbox Ally X20",
     "alt": "ROG Xbox Ally X20, portátil da ASUS com visual translúcido",
     "url": "https://olhardigital.com.br/wp-content/uploads/2026/11/ROG-Xbox-Ally-X20-ASUS-1-1.png",
-    "credit": "Imagem: Olhar Digital"
+    "credit": "Imagem: Olhar Digital",
+    "path": "/assets/img/rog-xbox-ally-x20-brasil-preco-r-15999-t-b0f36875.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -150,5 +152,7 @@
       "title": "ASUS lança ROG Xbox Ally X20 no Brasil por até R$ 28.999"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-06T00:39:39+00:00",
+  "updated_at": "2026-11-06T00:39:39+00:00"
 }

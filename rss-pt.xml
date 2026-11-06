@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:39:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:39:39 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ROG Xbox Ally X20 chega ao Brasil por R$ 15.999</title>
+      <link>https://pixelzada.com.br/pt/rog-xbox-ally-x20-brasil-preco-r-15999-tela-oled/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/rog-xbox-ally-x20-brasil-preco-r-15999-tela-oled/</guid>
+      <description>A ASUS lançou no Brasil o ROG Xbox Ally X20, portátil com tela OLED, por R$ 15.999. Veja o preço, o pacote de R$ 28.999, as especificações e onde comprar.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Fri, 06 Nov 2026 00:39:39 +0000</pubDate>
+    </item>
     <item>
       <title>Zelda Ocarina of Time remake: quem dubla Ganondorf, Zelda e Navi</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-elenco-vozes-ingles-ganondorf-mercer/</link>
@@ -238,14 +246,6 @@
       <description>Final Fantasy XIV: Evercold foi adiada para 23 de fevereiro de 2027, com acesso antecipado em 19/2. Veja pré-venda, edição de colecionador e o job Zephyr.</description>
       <category>Lançamentos</category>
       <pubDate>Sun, 01 Nov 2026 10:41:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Port Gellhorn em GTA 6: a costa esquecida de Leonida</title>
-      <link>https://pixelzada.com.br/pt/port-gellhorn-gta-6-costa-esquecida-de-leonida/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/port-gellhorn-gta-6-costa-esquecida-de-leonida/</guid>
-      <description>Port Gellhorn é a costa esquecida de Leonida em GTA 6: ex-destino de férias com motéis baratos e economia paralela. Veja o que a Rockstar já contou do lugar.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 01 Nov 2026 01:58:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
