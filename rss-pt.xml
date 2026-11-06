@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:39:49 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assassin's Creed Valhalla ganha New Game+ em update gratuito</title>
+      <link>https://pixelzada.com.br/pt/assassins-creed-valhalla-new-game-plus-the-most-requested-update/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/assassins-creed-valhalla-new-game-plus-the-most-requested-update/</guid>
+      <description>Assassin's Creed Valhalla ganhou New Game+ em atualização gratuita, com mithril, 300 runas novas e PSSR no PS5 Pro. Veja como liberar o modo e o que mudou.</description>
+      <category>Lançamentos</category>
+      <pubDate>Fri, 06 Nov 2026 10:39:48 +0000</pubDate>
+    </item>
     <item>
       <title>ROG Xbox Ally X20 chega ao Brasil por R$ 15.999</title>
       <link>https://pixelzada.com.br/pt/rog-xbox-ally-x20-brasil-preco-r-15999-tela-oled/</link>
@@ -238,14 +246,6 @@
       <description>O Nagoshi Studio, do criador de Yakuza, foi dissolvido em 31 de outubro, e Gang of Dragon deve ser cancelado. Veja o que se sabe sobre o fim do estúdio.</description>
       <category>Indústria</category>
       <pubDate>Tue, 03 Nov 2026 08:18:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Final Fantasy XIV Evercold é adiada para 23 de fevereiro</title>
-      <link>https://pixelzada.com.br/pt/final-fantasy-xiv-evercold-adiada-23-fevereiro-2027/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/final-fantasy-xiv-evercold-adiada-23-fevereiro-2027/</guid>
-      <description>Final Fantasy XIV: Evercold foi adiada para 23 de fevereiro de 2027, com acesso antecipado em 19/2. Veja pré-venda, edição de colecionador e o job Zephyr.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sun, 01 Nov 2026 10:41:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

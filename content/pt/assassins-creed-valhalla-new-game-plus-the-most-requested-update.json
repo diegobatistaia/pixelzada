@@ -106,7 +106,9 @@
     "query": "Assassin's Creed Valhalla",
     "alt": "Arte de Assassin's Creed Valhalla",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Helix_ARISE_Sshot01_MainVisual_NG_Final-bee66ce75d62c7da6633.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/assassins-creed-valhalla-new-game-plus-t-d088b6d8.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -128,5 +130,7 @@
       "title": "Assassin's Creed Valhalla gets New Game Plus, a stash inventory and extended progression mode"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-06T10:39:48+00:00",
+  "updated_at": "2026-11-06T10:39:48+00:00"
 }
