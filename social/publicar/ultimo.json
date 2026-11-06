@@ -1,10 +1,10 @@
 {
   "pedido": {
     "acao": "carrossel",
-    "slug": "rog-xbox-ally-x20-brasil-perguntas",
-    "horario": "09:00",
+    "slug": "gta-6-espaco-212-gb-em-numeros",
+    "horario": "11:00",
     "data": "2026-11-06",
-    "estilo": "mosaico",
+    "estilo": "ficha",
     "slides": [
       "01.jpg",
       "02.jpg",
@@ -13,11 +13,15 @@
       "05.jpg",
       "06.jpg"
     ],
-    "story": null
+    "story": "story.jpg"
   },
-  "em": "2026-11-06T09:00:15-03:00",
+  "em": "2026-11-06T11:00:38-03:00",
   "ok": true,
-  "media_id": "17910645306325979",
-  "permalink": "https://www.instagram.com/p/DfZjsMoEY0Q/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "media_id": "18384243985234358",
+  "permalink": "https://www.instagram.com/p/DfZxdUllgfT/",
+  "story": {
+    "em": "2026-11-06T11:01:18-03:00",
+    "media_id": "18067584623790456"
+  },
+  "chave": "a renovação devolveu uma chave nova (vale 60 dias); a atual continua valendo até vencer"
 }
