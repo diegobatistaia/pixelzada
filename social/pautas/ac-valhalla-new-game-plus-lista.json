@@ -1,0 +1,78 @@
+{
+  "slug": "ac-valhalla-new-game-plus-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "AC Valhalla",
+  "gta6": false,
+  "materia": "assassins-creed-valhalla-new-game-plus-the-most-requested-update",
+  "criado": "2026-11-06T09:55:00-03:00",
+  "imagem": {
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Helix_ARISE_Sshot01_MainVisual_NG_Final-bee66ce75d62c7da6633.jpg",
+    "credito": "Xbox Wire",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Xbox Wire, PlayStation e GamesRadar",
+  "capa": {
+    "titulo": "AC Valhalla finalmente ganhou New Game+",
+    "destaque": "New Game+",
+    "apoio": "Update gratuito já está no ar. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "1",
+      "titulo": "New Game+ quatro anos depois",
+      "destaque": "New Game+",
+      "texto": [
+        "Libera ao concluir a **Holy Day Quest**, em Hamtunscire, e cada volta fica mais difícil, segundo a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "2",
+      "titulo": "Upgrade vai de 13 para 27",
+      "destaque": "27",
+      "texto": [
+        "A melhoria de equipamentos usa o novo recurso **mithril**, segundo a Ubisoft, citada pela GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "3",
+      "titulo": "Mais de 300 runas novas",
+      "destaque": "300",
+      "texto": [
+        "A **forja de runas** passa a gravar bônus de DLCs e da loja, segundo o Xbox Wire."
+      ]
+    },
+    {
+      "rotulo": "4",
+      "titulo": "PSSR atualizado",
+      "destaque": "PSSR",
+      "texto": [
+        "Modo Qualidade em **4K a 60 FPS**, segundo a Ubisoft no PlayStation Blog."
+      ]
+    }
+  ],
+  "final": "Você voltaria para a Inglaterra viking?",
+  "legenda": {
+    "gancho": "Assassin's Creed Valhalla ganhou New Game+ em atualização gratuita.",
+    "corpo": [
+      "Segundo a GamesRadar, o modo libera ao concluir a Holy Day Quest e cada volta fica mais difícil. O limite de upgrade de equipamentos sobe de 13 para 27, com o novo recurso mithril.",
+      "A forja de runas ganha mais de 300 runas, segundo o Xbox Wire, e o PS5 Pro recebe PSSR atualizado, de acordo com o PlayStation Blog."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#assassinscreed",
+      "#valhalla",
+      "#ubisoft"
+    ]
+  },
+  "alt": [
+    "Slide 1: AC Valhalla finalmente ganhou New Game+",
+    "Slide 2: New Game+ quatro anos depois",
+    "Slide 3: Upgrade vai de 13 para 27",
+    "Slide 4: Mais de 300 runas novas",
+    "Slide 5: PSSR atualizado",
+    "Slide 6: Você voltaria para a Inglaterra viking?"
+  ],
+  "status": "pronto"
+}

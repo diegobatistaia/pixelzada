@@ -1,0 +1,78 @@
+{
+  "slug": "gta-6-espaco-212-gb-em-numeros",
+  "tipo": "guia",
+  "formato": "em-numeros",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "quanto-espaco-gta-6-vai-ocupar-como-preparar-ps5-xbox-series",
+  "criado": "2026-11-06T09:55:00-03:00",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic22.jpg",
+    "credito": "VGC",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, Stevivor e TechRadar",
+  "capa": {
+    "titulo": "Quanto espaço GTA 6 vai ocupar",
+    "destaque": "espaço",
+    "apoio": "Prepare o console antes do dia 10. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pré-download",
+      "titulo": "212 GB livres",
+      "destaque": "212 GB",
+      "texto": [
+        "É o que a Rockstar pede para o **arquivo de pré-carregamento**, segundo o IGN e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Data",
+      "titulo": "Dia 10 de novembro",
+      "destaque": "10",
+      "texto": [
+        "O pré-carregamento começa **uma semana e meia antes** do lançamento, em 19 de novembro, segundo a Rockstar."
+      ]
+    },
+    {
+      "rotulo": "PS5 Slim",
+      "titulo": "Cerca de 848 GB livres",
+      "destaque": "848 GB",
+      "texto": [
+        "O Slim tem 1 TB, com uns **150 GB ocupados pelo sistema**, segundo Stevivor e TechRadar."
+      ]
+    },
+    {
+      "rotulo": "PS5 original",
+      "titulo": "Uns 670 GB utilizáveis",
+      "destaque": "670 GB",
+      "texto": [
+        "O console anuncia 825 GB, mas o espaço livre é menor, segundo **Stevivor e TechRadar**."
+      ]
+    }
+  ],
+  "final": "Seu console tem espaço para GTA 6?",
+  "legenda": {
+    "gancho": "GTA 6 pede 212 GB livres para o pré-carregamento, que começa em 10 de novembro.",
+    "corpo": [
+      "Segundo o IGN e a GamesRadar, o número vale para o arquivo de pré-carregamento, e a Rockstar ainda não detalhou a instalação completa. A caixa física também precisa de download, pois traz só um código.",
+      "O PS5 Slim tem cerca de 848 GB livres, e o PS5 original, uns 670 GB, de acordo com Stevivor e TechRadar. No Xbox Series, jogos da geração rodam só do SSD interno ou de cartão oficial."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#ps5"
+    ]
+  },
+  "alt": [
+    "Slide 1: Quanto espaço GTA 6 vai ocupar",
+    "Slide 2: 212 GB livres",
+    "Slide 3: Dia 10 de novembro",
+    "Slide 4: Cerca de 848 GB livres",
+    "Slide 5: Uns 670 GB utilizáveis",
+    "Slide 6: Seu console tem espaço para GTA 6?"
+  ],
+  "status": "pronto"
+}
