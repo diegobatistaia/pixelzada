@@ -1,0 +1,147 @@
+{
+  "lang": "pt",
+  "slug": "um-em-cada-tres-estudios-comprados-fechou-desde-2000-analise",
+  "story_id": "c76c96b222961364",
+  "title": "Um em cada três estúdios comprados desde 2000 foi fechado",
+  "dek": "Análise de Sebastian Cardoso mostra que Nintendo não fechou nenhum e que a Activision Blizzard teve o pior histórico.",
+  "meta_description": "Análise de 303 estúdios diz que um em cada três comprados desde 2000 foi fechado. Veja quem mais fechou, quem não fechou nenhum e por que os números divergem.",
+  "keyword": "estúdios adquiridos fechados análise",
+  "category": "industria",
+  "tags": [
+    "estúdios",
+    "fechamentos",
+    "aquisições",
+    "indústria"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "Um em cada três estúdios de games comprados por grandes empresas desde 2000 acabou fechado, segundo uma análise do ex-funcionário de Riot, Crytek e EA Sebastian Cardoso. Pelo levantamento, metade desses fechamentos aconteceu em até cinco anos após a compra. O estudo foi publicado na newsletter Game Studio Unlocked e repercutido pelo GamesIndustry.biz e pelo Insider Gaming.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Como foi feita a análise",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o GamesIndustry.biz, Cardoso passou cerca de três meses acompanhando 303 estúdios de PC e consoles adquiridos nos últimos 25 anos, e divulgou os resultados junto com o conjunto de dados completo. O Insider Gaming, que cita o TechSpot, fala em 362 estúdios, então os números de cada veículo divergem. Vale conferir a base original antes de usar qualquer percentual.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Os números principais",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "60,8% dos estúdios tiveram queda na produção ou foram fechados, segundo o GamesIndustry.biz;",
+        "só um em cada quatro, ou 25,1%, ficou produzindo no mesmo nível e sem perder a estrutura, ou seja, 71 dos 283 desenvolvedores do censo;",
+        "pela divisão do Insider Gaming, 12,4% prosperaram, 27,3% ficaram estáveis, 26,2% declinaram e 34% fecharam."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "O GamesIndustry.biz explica que Cardoso conta como declínio o estúdio que foi absorvido pelo dono ou que passou a fazer trabalho de apoio, mesmo que os jogos tenham se mantido. Sem esses casos, o índice de 60,8% cai para 51,6%.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Quem comprou faz diferença",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O fator mais importante, segundo o autor, é quem compra o estúdio. No GamesIndustry.biz, todas as 17 passagens da Activision Blizzard como dona terminaram em declínio ou fechamento, assim como todas as da Disney, da Midway e da Thunderful. A EA aparece com 83%.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Nintendo: comprou seis estúdios em 24 anos e não fechou nenhum, segundo o GamesIndustry.biz;",
+        "Kadokawa, Krafton e Sumo Group também têm histórico limpo;",
+        "Microsoft: 63% das passagens terminaram em declínio ou fechamento;",
+        "Sony: 58%; Tencent: 50%; Embracer: 43%."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "O Insider Gaming lista ainda a Ubisoft com 62% de estúdios fechados e a Take-Two e a Epic Games com 60%, em uma contagem de fechamentos que é diferente da do GamesIndustry.biz. Cardoso atribui a diferença a empresas que compram estúdios para alimentar uma máquina e a empresas que quiseram ter bons estúdios, segundo o GamesIndustry.biz.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Os fechamentos aceleraram",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com o GamesIndustry.biz, apenas um estúdio adquirido do censo fechou entre 2019 e 2022, mas 33 fecharam desde 2023. O Insider Gaming fala em dois fechamentos no primeiro período e em 71 nos últimos 46 meses, outra diferença entre as fontes.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "E os independentes?",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Cardoso também acompanhou 50 estúdios independentes notáveis entre outubro de 2019 e outubro de 2026. Só 2% fecharam, contra 12,6% dos estúdios adquiridos, mas ele mesmo ressalva que o índice dos independentes se apoia em um único fechamento, segundo o GamesIndustry.biz.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Os estúdios fundados pelas próprias grandes empresas foram ainda pior: dos 56 do censo, 87,5% declinaram ou fecharam, e 18 dos 34 que fecharam nunca lançaram um jogo. A NetEase abriu oito estúdios entre 2020 e 2023, e todos os oito já foram fechados.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O tema ganha peso em uma semana em que a Arkane Lyon, da Microsoft, está sob risco de fechamento, caso que a Pixelzada acompanha em outra matéria. O levantamento não trata desse caso especificamente, mas dá contexto sobre aquisições e fechamentos no setor.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que ainda não se sabe",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "qual é o tamanho exato da amostra, já que os veículos citam 303 e 362 estúdios;",
+        "como a metodologia de Cardoso se compara a outras análises do setor;",
+        "se a tendência de fechamentos continua nos próximos anos."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A Pixelzada acompanha o assunto e atualiza esta matéria se o autor publicar correções.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "estúdios de games adquiridos",
+    "alt": "Imagem de divulgação ligada à análise sobre estúdios adquiridos",
+    "url": "https://assetsio.gnwcdn.com/ss_8a13650ffe930da77593dae80f0118588c46a5ca.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: GamesIndustry.biz"
+  },
+  "sources": [
+    {
+      "name": "GamesIndustry.biz",
+      "owner": "ziff-davis",
+      "url": "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000",
+      "title": "Analysis: one in three acquired game studios has been shut down since 2000"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/one-third-of-acquired-game-studios-have-shut-down-since-2000/",
+      "title": "One third of acquired game studios have shut down since 2000"
+    }
+  ],
+  "status": "draft"
+}
