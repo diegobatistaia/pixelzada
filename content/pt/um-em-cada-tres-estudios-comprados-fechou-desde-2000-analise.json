@@ -127,7 +127,9 @@
     "query": "estúdios de games adquiridos",
     "alt": "Imagem de divulgação ligada à análise sobre estúdios adquiridos",
     "url": "https://assetsio.gnwcdn.com/ss_8a13650ffe930da77593dae80f0118588c46a5ca.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/um-em-cada-tres-estudios-comprados-fecho-47b8b3eb.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -143,5 +145,7 @@
       "title": "One third of acquired game studios have shut down since 2000"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-06T20:40:11+00:00",
+  "updated_at": "2026-11-06T20:40:11+00:00"
 }

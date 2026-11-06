@@ -1024,5 +1024,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-06T20:40:11+00:00",
+    "id": "um-em-cada-tres-estudios-comprados-fechou-desde-2000-analise",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

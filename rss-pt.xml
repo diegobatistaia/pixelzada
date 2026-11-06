@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 18:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 20:40:12 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Um em cada três estúdios comprados desde 2000 foi fechado</title>
+      <link>https://pixelzada.com.br/pt/um-em-cada-tres-estudios-comprados-fechou-desde-2000-analise/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/um-em-cada-tres-estudios-comprados-fechou-desde-2000-analise/</guid>
+      <description>Análise de 303 estúdios diz que um em cada três comprados desde 2000 foi fechado. Veja quem mais fechou, quem não fechou nenhum e por que os números divergem.</description>
+      <category>Indústria</category>
+      <pubDate>Fri, 06 Nov 2026 20:40:11 +0000</pubDate>
+    </item>
     <item>
       <title>Extended Look de GTA 6: os 26 minutos de jogo explicados</title>
       <link>https://pixelzada.com.br/pt/gta-6-extended-look-26-minutos-de-gameplay-explicados/</link>
@@ -238,14 +246,6 @@
       <description>GTA 6 x GTA 5: compare protagonistas, cenário, plataformas, preço e datas dos dois jogos da Rockstar, com dados oficiais e o que muda em 19 de novembro.</description>
       <category>GTA 6</category>
       <pubDate>Tue, 03 Nov 2026 18:41:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>F-Stop, o prequel cancelado de Portal, ficou jogável</title>
-      <link>https://pixelzada.com.br/pt/f-stop-prequel-cancelado-portal-jogavel-vazamento-valve/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/f-stop-prequel-cancelado-portal-jogavel-vazamento-valve/</guid>
-      <description>F-Stop, o prequel cancelado de Portal que usa uma câmera, foi remontado por fãs com o vazamento de 12 TB da Valve e já pode ser jogado. Veja o que se sabe.</description>
-      <category>Indústria</category>
-      <pubDate>Tue, 03 Nov 2026 16:43:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
