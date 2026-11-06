@@ -1,0 +1,78 @@
+{
+  "slug": "rog-xbox-ally-x20-brasil-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "ROG Ally X20",
+  "gta6": false,
+  "materia": "rog-xbox-ally-x20-brasil-preco-r-15999-tela-oled",
+  "criado": "2026-11-06T07:55:00-03:00",
+  "imagem": {
+    "url": "https://olhardigital.com.br/wp-content/uploads/2026/11/ROG-Xbox-Ally-X20-ASUS-1-1.png",
+    "credito": "Olhar Digital",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Voxel e Olhar Digital",
+  "capa": {
+    "titulo": "ROG Xbox Ally X20 chega ao Brasil",
+    "destaque": "X20",
+    "apoio": "Portátil com tela OLED por R$ 15.999. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quanto custa?",
+      "destaque": "Quanto",
+      "texto": [
+        "Vendido na **Loja ASUS** e no KaBuM!, segundo o Voxel. O pacote com óculos XREAL custa R$ 28.999."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "O que tem de novo?",
+      "destaque": "novo",
+      "texto": [
+        "São **7,4 polegadas**, 120 Hz e brilho de até 1.400 nits em HDR, segundo a ASUS."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Como é por dentro?",
+      "destaque": "dentro",
+      "texto": [
+        "Com processador **Ryzen AI Z2 Extreme**, segundo o Voxel e o Olhar Digital."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 4",
+      "titulo": "Por que é especial?",
+      "destaque": "especial",
+      "texto": [
+        "Chassi **preto translúcido** com detalhes dourados, segundo o Voxel."
+      ]
+    }
+  ],
+  "final": "Você pagaria isso num portátil?",
+  "legenda": {
+    "gancho": "O ROG Xbox Ally X20 chegou ao Brasil por R$ 15.999.",
+    "corpo": [
+      "É uma edição limitada de 20 anos da ROG e o primeiro Ally com tela OLED, segundo o Voxel e o Olhar Digital.",
+      "O pacote com óculos XREAL R1 e acessórios custa R$ 28.999 e é vendido só na Loja ASUS. Ele também traz dois meses de Xbox Game Pass Premium, segundo o Olhar Digital, e dá para testar o aparelho na loja do KaBuM! na Galeria Magalu, em São Paulo, desde 4 de novembro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#rogally",
+      "#xbox",
+      "#asus"
+    ]
+  },
+  "alt": [
+    "Slide 1: ROG Xbox Ally X20 chega ao Brasil",
+    "Slide 2: Quanto custa?",
+    "Slide 3: O que tem de novo?",
+    "Slide 4: Como é por dentro?",
+    "Slide 5: Por que é especial?",
+    "Slide 6: Você pagaria isso num portátil?"
+  ],
+  "status": "pronto"
+}

@@ -1,0 +1,78 @@
+{
+  "slug": "zelda-ocarina-remake-elenco-vozes-detalhes",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Zelda OoT",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-elenco-vozes-ingles-ganondorf-mercer",
+  "criado": "2026-11-06T07:55:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/04/thelegendofzeldaocarinaoftime-31-1793835431077.jpg?width=1280&format=jpg&auto=webp",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e Insider Gaming",
+  "capa": {
+    "titulo": "Quem dubla Ganondorf no remake de Zelda?",
+    "destaque": "Ganondorf",
+    "apoio": "O elenco em inglês foi confirmado. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Ganondorf",
+      "titulo": "Matthew Mercer volta",
+      "destaque": "Mercer",
+      "texto": [
+        "Ele já era a voz do vilão em **Tears of the Kingdom**, segundo o IGN."
+      ]
+    },
+    {
+      "rotulo": "Zelda",
+      "titulo": "Erica Mendez é Zelda",
+      "destaque": "Zelda",
+      "texto": [
+        "Dubladora de **Retsuko** em Aggretsuko, segundo o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "Navi",
+      "titulo": "Lisa Reimold é a Navi",
+      "destaque": "Navi",
+      "texto": [
+        "Também dubla **Aira Shiratori** em Dandadan, segundo o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "Novidade",
+      "titulo": "O original não tinha vozes",
+      "destaque": "vozes",
+      "texto": [
+        "O jogo de 1998 só tinha texto. Agora há **voz nas cenas**, e Link segue mudo, segundo o IGN."
+      ]
+    }
+  ],
+  "final": "Qual voz você mais queria ouvir?",
+  "legenda": {
+    "gancho": "O remake de Zelda: Ocarina of Time agora tem vozes em inglês.",
+    "corpo": [
+      "Segundo o IGN, Matthew Mercer volta como Ganondorf, Erica Mendez é Zelda e Lisa Reimold dá voz à Navi. A lista foi verificada pelos créditos.",
+      "O original de 1998 não tinha diálogos falados, e Link continua em silêncio, de acordo com o IGN e o Insider Gaming."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#ocarinaoftime",
+      "#nintendoswitch2"
+    ]
+  },
+  "alt": [
+    "Slide 1: Quem dubla Ganondorf no remake de Zelda?",
+    "Slide 2: Matthew Mercer volta",
+    "Slide 3: Erica Mendez é Zelda",
+    "Slide 4: Lisa Reimold é a Navi",
+    "Slide 5: O original não tinha vozes",
+    "Slide 6: Qual voz você mais queria ouvir?"
+  ],
+  "status": "pronto"
+}
