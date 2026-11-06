@@ -1,0 +1,78 @@
+{
+  "slug": "gta-6-extended-look-detalhes",
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-extended-look-26-minutos-de-gameplay-explicados",
+  "criado": "2026-11-06T15:55:00-03:00",
+  "imagem": {
+    "url": "https://insider-gaming.com/wp-content/uploads/2026/10/GTA6Screen13.webp",
+    "credito": "Insider Gaming",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, Push Square e GamesRadar",
+  "capa": {
+    "titulo": "O Extended Look de GTA 6, trecho a trecho",
+    "destaque": "trecho a trecho",
+    "apoio": "26 minutos de jogo explicados. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O vídeo",
+      "titulo": "Do tiroteio à festa",
+      "destaque": "tiroteio",
+      "texto": [
+        "Tiroteio na abertura, festa de **Brian Heder**, assaltos, fuga com **Raul Bautista** e segurança em evento de Andrés de León, segundo PC Gamer e Engadget."
+      ]
+    },
+    {
+      "rotulo": "Novidade",
+      "titulo": "Criminal Profile",
+      "destaque": "Criminal Profile",
+      "texto": [
+        "Um carinho num cachorro mostra um **ícone de anjo**, sinal do novo sistema de reputação, segundo o Push Square."
+      ]
+    },
+    {
+      "rotulo": "Polícia",
+      "titulo": "Volta a seis estrelas",
+      "destaque": "seis estrelas",
+      "texto": [
+        "GTA 5 parava em cinco, e a polícia **não aparece no minimapa**, segundo Push Square e GameSpot."
+      ]
+    },
+    {
+      "rotulo": "Audiência",
+      "titulo": "31,1 milhões na Netflix",
+      "destaque": "31,1 milhões",
+      "texto": [
+        "O vídeo foi o **título mais visto** da plataforma em sua semana de estreia, segundo o Push Square."
+      ]
+    }
+  ],
+  "final": "Qual cena do vídeo te empolgou mais?",
+  "legenda": {
+    "gancho": "Os 26 minutos do Extended Look de GTA 6, explicados trecho a trecho.",
+    "corpo": [
+      "O vídeo mostra tiroteio, festa, assaltos e uma fuga com seis estrelas de procurado, segundo PC Gamer, Engadget e GamesRadar. Também revela o novo sistema de reputação, chamado Criminal Profile, de acordo com o Push Square.",
+      "O vídeo teve 31,1 milhões de visualizações na Netflix e GTA 6 chega em 19 de novembro, segundo o Push Square e a Rockstar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: O Extended Look de GTA 6, trecho a trecho",
+    "Slide 2: Do tiroteio à festa",
+    "Slide 3: Criminal Profile",
+    "Slide 4: Volta a seis estrelas",
+    "Slide 5: 31,1 milhões na Netflix",
+    "Slide 6: Qual cena do vídeo te empolgou mais?"
+  ],
+  "status": "pronto"
+}

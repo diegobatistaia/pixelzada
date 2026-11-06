@@ -1,0 +1,148 @@
+{
+  "lang": "pt",
+  "slug": "nier-automata-atualizacao-366-gb-steam-square-enix",
+  "story_id": "f2b0d99c657aee0e",
+  "title": "NieR: Automata pede 366 GB na Steam depois de update",
+  "dek": "Uma atualização de idiomas fez a instalação saltar de 50 GB para 366 GB. A Square Enix investiga.",
+  "meta_description": "Uma pequena atualização fez NieR: Automata exigir 366 GB na Steam, contra 50 GB. A Square Enix pediu desculpas e há um jeito de contornar. Veja o que se sabe.",
+  "keyword": "NieR Automata 366 GB Steam",
+  "category": "industria",
+  "tags": [
+    "nier automata",
+    "steam",
+    "square enix",
+    "atualização"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "Uma pequena atualização de NieR: Automata no PC fez o jogo exigir 366 GB de espaço na Steam, contra os 50 GB de antes. A Square Enix pediu desculpas, disse que investiga a causa e indicou um jeito de contornar o problema, segundo a GamesRadar, o Kotaku e o Insider Gaming. Ninguém explicou oficialmente o que aconteceu.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que aconteceu",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O patch deveria apenas adicionar três idiomas, chinês simplificado, chinês tradicional e coreano, segundo a GamesRadar. A Insider Gaming cita a nota de atualização de 5 de novembro na Steam, e a GamesRadar fala em um patch de 6 de novembro, então as datas divergem entre as publicações. Depois da atualização, quem tentava reinstalar o jogo via Steam recebia o aviso de que eram necessários 366,56 GB, segundo a GamesRadar, que confirmou o número por conta própria.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O download do patch em si, relatado por usuários na discussão da Steam, é de cerca de 8 GB, um valor considerado normal pela GamesRadar. A página do jogo na loja ainda recomenda 50 GB de espaço livre nos requisitos, de acordo com a mesma publicação.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "As notas do patch são curtas e só falam dos novos idiomas. Segundo a GamesRadar, nada nelas menciona mais conteúdo ou arquivos novos, e, fora o suporte aos idiomas, o jogo continua igual nas primeiras análises. Isso reforça a impressão de que o salto de tamanho é um erro, e não uma mudança planejada, embora a Square Enix ainda não tenha confirmado a causa.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que os jogadores dizem",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Kotaku reproduz reclamações de jogadores. Um deles, com mais de 100 horas de jogo, escreveu que cada DLC da edição YoRHa ficou do mesmo tamanho que o jogo principal. Outro criticou a ideia de que o tamanho viesse de incluir todos os pacotes de idiomas na instalação. A GamesRadar relata que usuários especulam que o jogo inteiro tenha sido duplicado junto às pastas dos DLCs, mas isso é só suspeita.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "A resposta da Square Enix",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A conta oficial da série no X publicou que a empresa confirmou o fenômeno em que a instalação pede mais espaço que o esperado depois da atualização, que investiga a causa e que pede desculpas pelo transtorno, segundo o Kotaku. O Kotaku diz que, na noite anterior, a empresa ainda investigava. A Insider Gaming informa que os desenvolvedores prometem uma solução e compartilharam um contorno temporário.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Como contornar o problema",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "abra a Steam e vá em Propriedades do jogo;",
+        "entre na aba DLC;",
+        "desmarque os DLCs, o que permite baixar o jogo principal sem o peso extra."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "O Insider Gaming explica que, assim, dá para continuar jogando a versão base por enquanto. Quem estava no meio dos DLCs pode ter que pausar a jornada até a correção, segundo o Kotaku.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Não é um problema de segurança",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Kotaku destaca que o aumento não parece ser resultado de código malicioso colocado no pacote da atualização. A causa exata, porém, não foi confirmada: a GamesRadar diz não saber o que não foi comprimido, o que foi duplicado ou o que entrou por engano.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Um jogo ainda muito jogado",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o Insider Gaming, o último DLC de NieR: Automata saiu em 2024, mas a base de jogadores continua grande. Em fevereiro de 2026, o jogo passou de 10 milhões de cópias distribuídas e vendidas. A GamesRadar compara o caso ao da pré-carga de Phantom Blade Zero, que ficou em torno de 300 GB.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que ainda não se sabe",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "o que causou o aumento do tamanho da instalação;",
+        "quando a Square Enix publica a correção;",
+        "se o problema afeta outras lojas além da Steam, já que as fontes tratam apenas do PC pela Steam."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A Pixelzada atualiza esta matéria quando a Square Enix ou a Platinum Games explicarem o caso.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "NieR Automata",
+    "alt": "Arte de NieR: Automata",
+    "url": "https://kotaku.com/app/uploads/2026/02/nier-automata-1200x675.jpg",
+    "credit": "Imagem: Kotaku"
+  },
+  "sources": [
+    {
+      "name": "GamesRadar+",
+      "owner": "future-plc",
+      "url": "https://www.gamesradar.com/games/action-rpg/nier-automata-is-now-a-366gb-install-on-steam-after-a-small-update-up-from-50gb/",
+      "title": "Nier: Automata is now a 366GB install on Steam after a small update, up from 50GB"
+    },
+    {
+      "name": "Kotaku",
+      "owner": "keleops",
+      "url": "https://kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623",
+      "title": "Mandatory Nier: Automata update accidentally requires 366GB"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/nier-automata-devs-address-366-gb-update/",
+      "title": "NieR: Automata devs address 366 GB update"
+    }
+  ],
+  "status": "draft"
+}
