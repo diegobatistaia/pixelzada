@@ -1,0 +1,78 @@
+{
+  "slug": "megs-monster-ps5-marco-2027-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Meg's Monster",
+  "gta6": false,
+  "materia": "megs-monster-ps5-1-de-marco-2027-odencat",
+  "criado": "2026-11-06T13:55:00-03:00",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Megs-Monster-PS5_11-04-26.jpg",
+    "credito": "Gematsu",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Gematsu e GameBlast",
+  "capa": {
+    "titulo": "Meg's Monster chega ao PS5 em março de 2027",
+    "destaque": "PS5",
+    "apoio": "O RPG em que o chorão é o perigo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pergunta 1",
+      "titulo": "Quando sai no PS5?",
+      "destaque": "PS5",
+      "texto": [
+        "A Odencat confirmou o lançamento no **PlayStation 5**, segundo a Gematsu e o GameBlast."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 2",
+      "titulo": "Quem é Roy?",
+      "destaque": "Roy",
+      "texto": [
+        "Roy começa com **99.999 de vida**, segundo a descrição da Odencat divulgada pela Gematsu."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 3",
+      "titulo": "Qual é o perigo?",
+      "destaque": "perigo",
+      "texto": [
+        "As lágrimas da menina podem provocar o **apocalipse**, segundo a Odencat."
+      ]
+    },
+    {
+      "rotulo": "Pergunta 4",
+      "titulo": "Tem conteúdo extra?",
+      "destaque": "extra",
+      "texto": [
+        "O conteúdo extra e o pacote chegam também ao PS5, segundo a **Gematsu**."
+      ]
+    }
+  ],
+  "final": "Você jogaria um RPG curto e fofo assim?",
+  "legenda": {
+    "gancho": "Meg's Monster, um RPG em pixel art, chega ao PS5 em 1º de março de 2027.",
+    "corpo": [
+      "Segundo a Gematsu, o jogo saiu em 2023 para Xbox One, Switch e PC, e em maio de 2026 para iOS e Android. O conteúdo Lost Memories e o pacote completo também virão para o PS5.",
+      "Na história, o jogador controla um ogro com 99.999 de vida que precisa proteger uma menina, porque as lágrimas dela podem provocar o apocalipse, de acordo com a Odencat."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#megsmonster",
+      "#ps5",
+      "#rpg"
+    ]
+  },
+  "alt": [
+    "Slide 1: Meg's Monster chega ao PS5 em março de 2027",
+    "Slide 2: Quando sai no PS5?",
+    "Slide 3: Quem é Roy?",
+    "Slide 4: Qual é o perigo?",
+    "Slide 5: Tem conteúdo extra?",
+    "Slide 6: Você jogaria um RPG curto e fofo assim?"
+  ],
+  "status": "pronto"
+}
