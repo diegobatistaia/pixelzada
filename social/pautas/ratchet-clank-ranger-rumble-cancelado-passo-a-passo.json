@@ -1,0 +1,80 @@
+{
+  "slug": "ratchet-clank-ranger-rumble-cancelado-passo-a-passo",
+  "tipo": "noticia",
+  "formato": "passo-a-passo",
+  "assunto": "Ranger Rumble",
+  "gta6": false,
+  "materia": "ratchet-clank-ranger-rumble-cancelado-servidores-maio-2027",
+  "criado": "2026-11-07T09:45:00-03:00",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Ranger-Rumble-Cancelled_11-06-27.jpg",
+    "credito": "Gematsu",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, Gematsu e GameBlast",
+  "capa": {
+    "titulo": "Ranger Rumble vai fechar: o que fazer agora",
+    "destaque": "o que fazer agora",
+    "apoio": "Datas e passos para quem joga. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Passo a passo",
+      "titulo": "Antes de o jogo fechar",
+      "destaque": "fechar",
+      "passos": [
+        "Baixe o app até 21 de novembro, quando sai das lojas.",
+        "Gaste moeda e resgate recompensas até 1º de maio de 2027.",
+        "Dúvida sobre reembolso? Fale com a App Store ou a Google Play."
+      ]
+    },
+    {
+      "rotulo": "O que muda",
+      "titulo": "Compras já foram removidas",
+      "destaque": "removidas",
+      "texto": [
+        "As compras dentro do app saíram, e o Super Pass agora é **gratuito**, segundo a Gematsu."
+      ]
+    },
+    {
+      "rotulo": "Progresso",
+      "titulo": "Nada é transferido",
+      "destaque": "transferido",
+      "texto": [
+        "Progresso e itens não passam para outro jogo, e os dados são apagados em 1º de maio de 2027, segundo a Gematsu."
+      ]
+    },
+    {
+      "rotulo": "Franquia",
+      "titulo": "Outros jogos seguem iguais",
+      "destaque": "seguem",
+      "texto": [
+        "O cancelamento não afeta os outros jogos de Ratchet & Clank nem os serviços do PlayStation, segundo a GameBlast."
+      ]
+    }
+  ],
+  "final": "Você chegou a jogar Ranger Rumble?",
+  "legenda": {
+    "gancho": "Ratchet & Clank: Ranger Rumble vai fechar. Veja o que fazer antes das datas finais.",
+    "corpo": [
+      "O app sai das lojas em 21 de novembro e os servidores fecham em 1º de maio de 2027, segundo a Gematsu e a IGN.",
+      "Quem já instalou pode jogar até o fim do serviço, e o cancelamento não afeta os outros jogos da série, de acordo com a GameBlast."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#ratchetandclank",
+      "#playstation",
+      "#mobilegames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Ranger Rumble vai fechar: o que fazer agora",
+    "Slide 2: Antes de o jogo fechar",
+    "Slide 3: Compras já foram removidas",
+    "Slide 4: Nada é transferido",
+    "Slide 5: Outros jogos seguem iguais",
+    "Slide 6: Você chegou a jogar Ranger Rumble?"
+  ],
+  "status": "pronto"
+}
