@@ -1,0 +1,82 @@
+{
+  "slug": "gta-6-policia-seis-estrelas-contra-gta-5",
+  "tipo": "noticia",
+  "formato": "comparativo",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-policia-procurado-seis-estrelas-como-fugir",
+  "criado": "2026-11-07T13:50:00-03:00",
+  "imagem": {
+    "url": "https://insider-gaming.com/wp-content/uploads/2026/11/Brian_Heder_landscape-scaled.jpg",
+    "credito": "Insider Gaming",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Push Square, GameSpot e GamesRadar+",
+  "capa": {
+    "titulo": "A polícia de GTA 6 contra a de GTA 5",
+    "destaque": "GTA 6",
+    "apoio": "Seis estrelas e memória de rosto. Arrasta.",
+    "lados": [
+      "GTA 5",
+      "GTA 6"
+    ]
+  },
+  "slides": [
+    {
+      "rotulo": "Estrelas",
+      "titulo": "Cinco contra seis",
+      "destaque": "seis",
+      "texto": [
+        "O nível máximo era de cinco estrelas em GTA 5 e volta a ser de **seis** em GTA 6, segundo o Push Square."
+      ]
+    },
+    {
+      "rotulo": "O que a polícia sabe",
+      "titulo": "Rosto, roupa e carro",
+      "destaque": "Rosto",
+      "texto": [
+        "Ícones mostram o que a polícia sabe, como rosto, roupa, veículo e câmeras, segundo a GameSpot."
+      ]
+    },
+    {
+      "rotulo": "Minimapa",
+      "titulo": "Policiais fora do radar",
+      "destaque": "fora do radar",
+      "texto": [
+        "Os policiais não aparecem no minimapa, e o modo Focus ajuda a vê-los, segundo o Push Square."
+      ]
+    },
+    {
+      "rotulo": "Disfarce",
+      "titulo": "Trocar de carro e de roupa",
+      "destaque": "de roupa",
+      "texto": [
+        "Trocar de carro tira o ícone do veículo, e o barbeiro apaga a descrição física, segundo a GamesRadar+."
+      ]
+    }
+  ],
+  "final": "Qual polícia você prefere enfrentar?",
+  "legenda": {
+    "gancho": "A polícia de GTA 6 contra a de GTA 5: seis estrelas e memória de rosto.",
+    "corpo": [
+      "O teto de procurado volta a ser de seis estrelas, e ícones mostram o que a polícia sabe sobre rosto, roupa e carro, segundo o Push Square e a GameSpot.",
+      "Trocar de carro tira o ícone do veículo, e o barbeiro apaga a descrição física, de acordo com a GamesRadar+. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: A polícia de GTA 6 contra a de GTA 5",
+    "Slide 2: Cinco contra seis",
+    "Slide 3: Rosto, roupa e carro",
+    "Slide 4: Policiais fora do radar",
+    "Slide 5: Trocar de carro e de roupa",
+    "Slide 6: Qual polícia você prefere enfrentar?"
+  ],
+  "status": "pronto"
+}

@@ -429,5 +429,264 @@
         }
       ]
     }
-  ]
+  ],
+  "especial_gta6": {
+    "id": "especial-gta6-policia-procurado",
+    "tema": "Polícia e sistema de procurado em GTA 6: o que já foi mostrado",
+    "categoria": "gta-6",
+    "angulo": "Um guia do que muda na fuga da polícia em GTA 6 para quem está acostumado a GTA 5: seis estrelas, polícia que lembra rosto, roupa e carro, e como despistar os policiais em Vice City.",
+    "fatos": [
+      {
+        "texto": "O nível máximo de procurado volta a ser de seis estrelas; em GTA 5 o limite era cinco.",
+        "fontes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "A polícia só entra em ação se o crime for testemunhado por alguém que liga para a polícia ou se disparar um alarme.",
+        "fontes": [
+          1,
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "texto": "Abaixo das estrelas, ícones mostram o que a polícia sabe: rosto, roupa, veículo, se Jason e Lucia estão juntos, a arma usada e se você foi filmado por câmeras de segurança.",
+        "fontes": [
+          2,
+          1,
+          4
+        ]
+      },
+      {
+        "texto": "A cor e o formato das estrelas indicam o estado da perseguição: brancas sólidas quando a polícia te vê, piscando quando você saiu do campo de visão, vermelhas quando ela procura na região sem saber onde você está e vazadas quando ainda não tem descrição sua.",
+        "fontes": [
+          2,
+          4
+        ]
+      },
+      {
+        "texto": "Os policiais não aparecem no minimapa; para enxergá-los, inclusive através de paredes, é preciso usar o modo Focus.",
+        "fontes": [
+          0,
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "texto": "Cortar o cabelo no barbeiro apaga a descrição física; chapéu ou óculos não bastam, e para despistar a identificação pela roupa é preciso trocar o traje inteiro. A GameSpot, porém, cita máscaras e óculos escuros como disfarce — as fontes divergem sobre os acessórios.",
+        "fontes": [
+          7,
+          5,
+          6,
+          2
+        ]
+      },
+      {
+        "texto": "Usar máscara durante o crime e tirá-la depois pode impedir que a polícia conheça seu rosto, mesmo com câmeras por perto.",
+        "fontes": [
+          7,
+          5,
+          3
+        ]
+      },
+      {
+        "texto": "Trocar de carro tira o ícone de veículo; no Extended Look, uma viatura passa direto pelo novo carro do casal sem reconhecê-lo.",
+        "fontes": [
+          1,
+          7,
+          6
+        ]
+      },
+      {
+        "texto": "Se a polícia sabe que Jason e Lucia estão juntos, os dois podem se separar para dividir os policiais; um pode até atrair a perseguição enquanto o outro foge.",
+        "fontes": [
+          1,
+          3,
+          8,
+          7
+        ]
+      },
+      {
+        "texto": "Rob Nelson, da Rockstar North, disse ao IGN que com três estrelas é difícil fugir de carro, a não ser com um carro muito rápido ou uma moto esportiva; o melhor costuma ser fugir a pé pelos becos.",
+        "fontes": [
+          1,
+          8,
+          3
+        ]
+      },
+      {
+        "texto": "A Rockstar refez corrida, salto e escalada para que fugir a pé seja viável mesmo com três estrelas ou mais.",
+        "fontes": [
+          1,
+          7,
+          5
+        ]
+      },
+      {
+        "texto": "Depois da fuga, o local do crime continua sendo área de busca por um tempo; com seis estrelas, a polícia procura no mapa inteiro.",
+        "fontes": [
+          7,
+          5,
+          2,
+          4
+        ]
+      },
+      {
+        "texto": "Andar armado sem apontar para ninguém não gera denúncia; apontar a arma para as pessoas faz elas fugirem ou chamarem a polícia.",
+        "fontes": [
+          2,
+          9
+        ]
+      },
+      {
+        "texto": "Alguns carros têm rastreador que avisa a polícia onde você está; é preciso manter velocidade alta para escapar do sinal ou abandonar o veículo.",
+        "fontes": [
+          7,
+          5,
+          10,
+          8
+        ]
+      },
+      {
+        "texto": "A oficina Pay 'n' Spray volta para consertar, mudar a cor do carro e reduzir a atenção da polícia.",
+        "fontes": [
+          4,
+          11
+        ]
+      },
+      {
+        "texto": "Além das estrelas, o novo Criminal Profile registra o comportamento do jogador em mundo aberto: violência e destruição sem necessidade pesam contra, e a violência exigida em missões não conta.",
+        "fontes": [
+          7,
+          12,
+          6,
+          0
+        ]
+      },
+      {
+        "texto": "O sistema chamado Heat faz a polícia reunir informações sobre o jogador — aparência, roupa, arma, carro e onde ele estava na hora do crime —, e cada pista pode ser resolvida separadamente.",
+        "fontes": [
+          13,
+          4
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "Push Square",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
+        "title": "Watch GTA 6 Extended Look Here - 17 Things We've Learned"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wanted-system-goes-up-to-6-stars-and-lets-police-track-your-face-your-clothes-and-your-car/",
+        "title": "GTA 6 wanted system goes up to 6 stars and lets police track your face, your clothes, and your car"
+      },
+      {
+        "name": "GameSpot",
+        "owner": "fandom",
+        "kind": "press",
+        "url": "https://www.gamespot.com/articles/gta-6-wanted-levels/",
+        "title": "Here's How Wanted Levels And Crime Work In GTA 6"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/15-new-things-we-just-learned-about-gta-6-2000728941",
+        "title": "20 Big New Things We Just Learned About GTA 6"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
+        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
+      },
+      {
+        "name": "TechSpot",
+        "owner": "techspot",
+        "kind": "press",
+        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
+        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
+      },
+      {
+        "name": "Gulf News",
+        "owner": "al-nisr",
+        "kind": "press",
+        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
+        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
+        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/gta-6-interview-reveals-new-details-about-the-game/",
+        "title": "GTA 6 Interview Reveals New Details About The Game"
+      },
+      {
+        "name": "Beebom",
+        "owner": "beebom",
+        "kind": "press",
+        "url": "https://beebom.com/gta-6-gunplay-overhauled-with-free-aim-more-recoil-and-tactical-shooting/",
+        "title": "GTA 6 Is Overhauling Gunplay with Free Aim, More Recoil, and Tactical Shooting"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
+        "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard"
+      },
+      {
+        "name": "Khel Now",
+        "owner": "khel-now",
+        "kind": "press",
+        "url": "https://khelnow.com/gaming/gta-6-reportedly-features-vehicle-trackers-garages-nitrous-fuel-system-202608",
+        "title": "GTA 6 reportedly features vehicle trackers, garages, nitrous, fuel system & more"
+      },
+      {
+        "name": "GamingBolt",
+        "owner": "gamingbolt",
+        "kind": "press",
+        "url": "https://gamingbolt.com/grand-theft-auto-6-will-use-6-star-wanted-system-criminal-profiles-to-track-player-behaviour",
+        "title": "Grand Theft Auto 6 Will Use Criminal Profiles to Track Player Behaviour"
+      },
+      {
+        "name": "Pure Xbox",
+        "owner": "ziff-davis",
+        "kind": "press",
+        "url": "https://www.purexbox.com/news/2026/09/five-key-things-we-learned-about-gta-6-from-the-game-informer-cover-story",
+        "title": "Five Key Things We Learned About GTA 6 From The Game Informer Cover Story"
+      }
+    ],
+    "imagem": {
+      "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/4k138k8okkk483/ffebf733f7e03ff9ec9467471cc25a6c1117c5be.jpg",
+      "credito": "Rockstar Games",
+      "descricao": "Imagem oficial do post 'Grand Theft Auto VI: An Extended Look — Now Playing' no Rockstar Newswire, vídeo em que o novo sistema de procurado aparece"
+    },
+    "formatos_carrossel": [
+      "passo-a-passo",
+      "comparativo",
+      "detalhes"
+    ]
+  },
+  "especiais_gta6_hoje": 0
 }
