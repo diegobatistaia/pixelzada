@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:56:54+00:00",
+  "generated_at": "2026-11-07T16:28:54+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 1,
@@ -48,15 +48,13 @@
       "owners": [
         "future-plc",
         "insider-gaming",
-        "microsoft",
-        "ziff-davis"
+        "microsoft"
       ],
       "primary_owners": [
         "microsoft"
       ],
       "fingerprints": [
         "ff33f06b9193888c",
-        "867546ffa3ac1c32",
         "007118bfbba00a11",
         "bd3d07a7c6ddb129",
         "dbc9519f0da34350"
@@ -71,16 +69,6 @@
           "kind": "primary",
           "text": "",
           "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/k4ak9okk485712/81e58e08369adca0d68a17dac9b12c3a63848fc3.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
-          "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-          "published_at": "2026-11-05T16:18:40+00:00",
-          "kind": "press",
-          "text": "Rockstar Games have released 38 new screenshots of Grand Theft Auto 6 , ahead of its release later this month. These screenshots, found on a dedicated launch gallery website Rockstar has created , prompts viewers to scroll down and take in the sights of several high quality in-game screenshots snapshotting all kinds of people, places, and events. These include, but are not limited to, a DJ set in-action, a man and his pitbull looking tough to the camera, a tattooed man getting his hair done (machine gun on hand), and a daring motorbike escape. However, my personal favourite has got to be a lively shot of a dive bar. A band - seemingly called The Rusty Anchor is playing - and some older ladies appear to be having a friendly chat with an open-shirt-wearing geezer enjoying a beer. You can find all the new images in an image gallery below. So look through them at your pleasure: Grand Theft Auto 6 is due to release on the 19th November on PS5, and Xbox Series X/S. A few days prior, Rockstar employees are voting on whether or not they'd like to officially recognise a developer union , as the Rockstar vs IWBG union employment tribunal comes to a close on the eve of GTA 6's release date.",
-          "image": "https://assetsio.gnwcdn.com/Jason-GTA-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
           "name": "GamesRadar",
@@ -159,6 +147,54 @@
           "kind": "press",
           "text": "Square Enix is 'working to resolve the issue'. Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to added localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. \"We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended,\" wrote Square Enix in a Steam post . \"We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience.\" It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. \"As a temporary workaround, you can download the base game using the intended amount of storage space by going to \"Properties\" à \"DLC\" in Steam and unchecking each DLC item.\" While 366 gigabytes is obviously a ridiculous size for a game, what's frightening to me is that games are on track to become that massive in the coming years. Big budget games regularly exceed the 100 gigabytes in file size these days, while several major titles like Call of Duty: Modern Warfare and Call of Duty: Black Ops Cold War, have surpassed 200GB. One of the largest reported installations to date is for the combat simulator DCS World , which had a maximum file size of 250GB back in 2021 . So although Nier: Automata's SSD-choking file-size is an accidental anomaly, it might also be an ominous glimpse into the future of PC gaming. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
           "image": "https://cdn.mos.cms.futurecdn.net/k598NBBJiCSKJrL33QJRvC-1920-80.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "859a55c2ce8989b5",
+      "title": "Costco Members Can Score a Digital Copy of The Legend of Zelda: Ocarina of Time for $55",
+      "summary": "Costco members can grab a digital copy of The Legend of Zelda: Ocarina of Time on Switch 2 for $54.99 from the retailer, saving $5 compared to paying its digital list price.",
+      "owners": [
+        "keleops",
+        "vox-media",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "62255af071b5754b",
+        "7fd9dc8a5ddcd662",
+        "131c7319af2c42f1"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/costco-members-can-score-a-digital-copy-of-the-legend-of-zelda-ocarina-of-time-for-55",
+          "title": "Costco Members Can Score a Digital Copy of The Legend of Zelda: Ocarina of Time for $55",
+          "published_at": "2026-11-06T16:52:36+00:00",
+          "kind": "press",
+          "text": "The Legend of Zelda: Ocarina of Time remake is officially out in the world (and we really loved it ). If you don't have a copy yet for your Nintendo Switch 2 and are dying to jump in, Costco can help you out as it's currently offering digital copies for $54.99 . There's a catch, though: this offer is only available to Costco members. But if that's you, then you can score a nice little $5 discount on this game right after launch day. Just make sure you're logged into your account before you head to checkout so you can take advantage of this offer while it's still available. No matter if you have fond memories of the original or if it's your first time playing, you're in for a wonderful time with this remake if you decide to buy it. IGN's Logan Plant had heaps of praise for it in his 9/10 review , writing that \"Nintendo skillfully melds the world and dungeon design of classic Zeldas with the movement and presentation of its more recent games, creating both a beautiful retelling of a legend and a rich adventure that stands on its own.\" If you're a Costco member, this is a nice way to save a little cash on this brand new launch. And if you're on the hunt for more video game discounts right now, you're in luck: Early Black Friday deals are already starting to drop, with Best Buy and Target both launching their own early sales ahead of the weekend. The whole month of November is full of different sale events from various retailers in the lead-up to Black Friday, though. If you're curious when you'll be able to find some more game deals during this seasonal sale, check out our rundown of sale dates and what to expect to learn more about what retailer's plans are for this year. Hannah Hoolihan is a freelancer who writes with the commerce team here at IGN.",
+          "image": "https://assets-prd.ignimgs.com/2026/11/03/zelda-ocarinaoftime-review-blogroll-1793749976079.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/you-cant-cheat-at-the-chicken-game-anymore-in-zelda-ocarina-of-time-2000754711",
+          "title": "You Can’t Cheat At The Chicken Game Anymore In Zelda: Ocarina Of Time",
+          "published_at": "2026-11-06T19:30:19+00:00",
+          "kind": "press",
+          "text": "Nintendo Switch 2 The Legend of Zelda The Legend of Zelda: Ocarina Of Time I’d forgotten already (despite playing the original very recently) that Ocarina of Time has aÂ lot of minigames all over the place. There’s Bombchu Bowling (which everyone remembers for its apparently very hot attendant), a game about guessing which chest has a rupee in it, a fishing game, a shooting gallery, and some other stuff. There’s also a simplistic chicken game that rewards you with a precious bottle filled with Lon Lon Milk. You used to be able to very easily cheat at this game and win it on the first go. Now, in the remake, you can’t. It’s easy to cheat at the Cucco minigame at Lon Lon Ranch in the original Ocarina of Time . The goal of the game is to find three special Cuccos in a big flock of identical ones inside Talon’s house. Playing normally can take a couple of tries, as you’re given a time limit, and there’s no way of knowing which Cucco is which. And it costs money to play each time, which early in the game can hurt Link’s little baby wallet. But you can cheat by picking up each Cucco in the houseÂ before the minigame starts, and dumping it into the corner behind Talon next to the stairs. The Cuccos will stay back there, so when Talon releases his three special ones, they just sit in the middle of the floor alone and it’s obvious which ones are which. In the remake, this cheat is gone. Not only can you not get the Cuccos stuck back in that corner anymore (I tried chucking every single one up the stairs, that didn’t work either, they just slid down), but Talon actively shuffles the Cuccos in the whole room when you prompt him to start the game, putting each one back on the floor again. Fortunately, picking up and putting down Cuccos is much faster with the Switch 2 version’s smooth controls, so it’s easier than ever to just…win at this game the first time, no cheating required. I’ve noticed some other little changes, too, that get rid of well-known little “exploits” if you will. You can’t climb the chains on the drawbridge of Hyrule Castle to collect rupees anymoreâyou just fall straight through them. On the other hand, some little tricks are still in place. For instance, you can apparently still hit butterflies with a Deku stick to turn them into fairies. I didn’t even know you could do that in the original: Yessss!! they kept one of my favorite feature from the OG Ocarina of Time. You can turn butterflies into fairies if you hit them with a deku stick!!! pic.twitter.com/yYszJuB58A — Riz. ðµð¸ (@Rizkhalifa449) November 5, 2026 And, I hear tell you can still do some of the dungeons out of order: [OoTHD] I tested the remake to see if it was still possible to do [SPOILERS] by u/Hal_Keaton in zelda I haven’t gotten there yet, but I’m assuming you’ll still be able to use the Lens of Truth (or Goggles, as I guess they are now) to cheat at the Chest Minigame. Now if only I could also somehow cheat at the shooting gallery… Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Could a remake of the other (better) Nintendo 64 Zelda also be on the way? The titular instrument accepts all kinds of inputs, including just straight up yelling 28 years of muscle memory going right down the drain",
+          "image": "https://kotaku.com/app/uploads/2026/11/cucco.jpg"
+        },
+        {
+          "name": "The Verge Games",
+          "owner": "vox-media",
+          "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+          "published_at": "2026-11-07T16:00:00+00:00",
+          "kind": "press",
+          "text": "Nintendo has lovingly updated the legendary ’98 title with new visuals, modern mechanics, and on-demand jumping. Nintendo has lovingly updated the legendary ’98 title with new visuals, modern mechanics, and on-demand jumping. If you buy something from a link, The Verge may earn a commission. See our ethics statement. While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time , it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65 , that discount almost offsets one month of your plan — a prime example of “gamer math.” My colleague Andrew Webster recently shared his thoughts on Nintendo’s latest Switch 2 exclusive, noting how impressed he was with how much impact a few modern quality-of-life changes had on what is otherwise a classic experience. The updated graphics are as thoughtful as they are beautiful, pairing realistic scenery with puppet-like characters. Perhaps, more importantly, Link can now jump anytime he likes, rather than being limited to specific ledges.",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
         }
       ]
     },
@@ -390,42 +426,6 @@
           "kind": "press",
           "text": "Epic Games Store Free Humble Bundle Steam It’s Friday! Welcome to the weekend. We made it. Halloween. Election day. The launch of The Legend of Zelda: Ocarina of Time remake. We survived. I’m about to go pick up Chinese takeout for my family, but before I do, here are some good deals on PC games to kick things off in November. First, we have games that are temporarily free on Steam. Payday 3 , which remains in recovery mode after its terrible launch, is yours to try risk-free until November 9. You can go download it, grab some friends, and try to pull off a few heists without spending a dime. “Launched badly, but it’s slowly taking a turn for the better,” one Steam reviewer recently posted. “To me personally, I love it now, but I can also see that it needs some more spice to give it enough kick for everyone. Will keep supporting and keep genuinely hoping that it could pull a Cyberpunk 2077 moment.” Second, we have Age of Wonders 4 , a generally quite good 4X strategy RPG. It’s also available to play for free until November 9. If you want a fantasy game that mixes empire building with fun tactical battles, Age of Wonders 4 strikes a pretty good balance. Players are still encountering bugs and multiplayer issues, but if you just want to settle in for some cozy city building and battles and have a PC with an Nvidia GeForce GTX 670 card or better, it’s a good deal. Moving over to the Epic Games Store, floating city management sim Flotsam is free to claim until November 12. It’s a feel-good post-apocalyptic game about salvaging debris, meeting fellow survivors, and combing through skill trees to help rebuild civilization. It’s vibrant, chill, and normally $25. And unlike Age of Wonders 4 and Payday 3 , it’ll be yours to keep. If you haven’t already played it, this one’s worth having in your library. Finally, a bonus round. I don’t usually recommend Humble Bundle’s monthly subscription , but the games for November are wroth a look. If you’re willing to sign-up, members this month are getting PC keys for Mafia: The Old Country , The Outer Worlds 2 , Shinobi: Art of Vengeance , and a bunch more games. Those three alone are well worth it, but horror shooter Crisol: Theater of Idols , which only released back in February, is also part of the mix. You can read our review of it here . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. 'Oh no, we are not releasing on the same day as Zelda ' CEO Joe Brammer added, 'Go play GTA 6 , we need to detox' The developers say a community manager acted without authorization The debut action-RPG from S-Game is living up to its pre-release hype",
           "image": "https://kotaku.com/app/uploads/2026/11/flotsam-1200x675.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "7fd5175cf7bc53bb",
-      "title": "Japanese Rural Life Adventure now available for PS4",
-      "summary": "Publisher G-MODE Corporation and developer GAME START LLC have released a PlayStation 4 version of …",
-      "owners": [
-        "gameblast",
-        "gematsu"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "1dfaeadac8a3074f",
-        "957285544520178e"
-      ],
-      "sources": [
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
-          "title": "Japanese Rural Life Adventure now available for PS4",
-          "published_at": "2026-11-06T05:02:27+00:00",
-          "kind": "press",
-          "text": "Publisher G-MODE Corporation and developer GAME START LLC have released a PlayStation 4 version of slow life simulation game Japanese Rural Life Adventure via PlayStation Store for $19.99 / £15.49 / €18.99 / ¥2,750, the companies announced . PlayStation Plus users can purchase it at a 20 percent-off discount price of $15.99 / £12.39 / €15.19 / ¥2,200 until November 20. Japanese Rural Life Adventure first launched for Apple Arcade on September 15, 2023, followed by Switch and PC via Steam on March 3, 2026. Here is an overview of the game, via G-MODE Corporation: A relaxing slow-life simulation game where you can experience the charm of traditional Japanese countryside living, all in a beautifully crafted pixel-art world. Japanese Rural Life Adventure is a relaxing slow-life simulation where you can experience the charm of traditional Japanese countryside living, all in a beautifully crafted pixel-art world. Live in the Japanese Countryside Surrounded by Nature Fix up an old house, make the yard nice, grow your own crops, and become self-sufficient. View the cherry blossoms in the spring; attend the festival in the summer; eat roasted sweet potatoes in the fall; hear the temple bell ring in winter, and then it’s time for the first shrine visit of the New Year. Rice—the essential source of energy for the people in Japan. Salt, soy sauce, miso—seasonings no Japanese kitchen can do without. In this countryside, many things city dwellers take for granted must be made by hand. By standing in the kitchen or cooking around the traditional irori hearth of your heritage home, you can simulate preparing a wide variety of dishes and seasonings. Food made through your own effort tastes extra special. Don’t be surprised if the game makes you hungry! Bring Back Life to the Village Through Various Events Many events unfold depending on the season, location, and time of day. A villager might ask you to repair an old waterwheel, or to help reopen a shuttered candy shop. Strengthen your relationships with the locals and restore the liveliness the village once had. As you complete requests and interact with the villagers, you may earn useful items or unlock new areas to explore. Your journey begins as the protagonist, a newcomer from the city, starts a solitary life in an old countryside house. Start by clearing the overgrown weeds, cleaning the floors, and repairing the “shoji” paper screens. By the time you’ve completed the tutorial, you’ll have learned the basics of village life. Each morning, an elderly woman visits to sell daily necessities, and each afternoon, a man arrives to buy items you no longer need. Buy and sell goods as you steadily gather everything required to thrive in the village and complete your missions.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Japanese-Rural-Life-PS4_11-06-26.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/japanese-rural-life-adventure-esta-disponivel-para-playstation-4.html",
-          "title": "Japanese Rural Life Adventure está disponível para PlayStation 4",
-          "published_at": "2026-11-06T15:22:51+00:00",
-          "kind": "press",
-          "text": "Simulador de vida no campo japonês chega ao PS4 com atividades sazonais, cultivo, pesca, missões e mais de 100 horas de conteúdo.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTkU9lSH1hjtJlUTWiOG8cLeaquzxcelENlnSXweXqJ_6sm9w7SibDgMWaCp7FXOm_UGqCNaC2ySkpBIS6k1uHUJzyPzHcCh2UYjCNZPRG5xxBCB9D7AXXJRFJhy8CIuk7E1N5ElyTX4K4GRyrP_wWpglRxiPIqPodw7K7GZ0nTKCGnYlAXE9JLFQpZhc/w1200-h630-p-k-no-nu/gameblast-japanese-rural-life-adventure-playstation-4-ps4.jpg"
         }
       ]
     }
