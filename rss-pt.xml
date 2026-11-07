@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 07 Nov 2026 16:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:39:43 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Armas e combate em GTA 6: mira livre, câmera lenta e tiro que não mata</title>
+      <link>https://pixelzada.com.br/pt/gta-6-armas-combate-mira-livre-camera-lenta/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-armas-combate-mira-livre-camera-lenta/</guid>
+      <description>Mira livre, câmera lenta, tiro que não mata e as armas já vistas: o que a imprensa levantou do combate de GTA 6 antes do lançamento em 19 de novembro.</description>
+      <category>GTA 6</category>
+      <pubDate>Sat, 07 Nov 2026 18:39:42 +0000</pubDate>
+    </item>
     <item>
       <title>Free Play Days: PAYDAY 3, BALL x PIT e DMZ de MW4 grátis no Xbox</title>
       <link>https://pixelzada.com.br/pt/free-play-days-xbox-payday-3-ball-x-pit-dmz-mw4-fim-de-semana/</link>
@@ -238,14 +246,6 @@
       <description>Nintendo explica as mudanças no Templo da Água de Zelda: Ocarina of Time para o Switch 2 e no botão de pulo. O remake sai em 5 de novembro. Veja o que muda.</description>
       <category>Lançamentos</category>
       <pubDate>Wed, 04 Nov 2026 10:40:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Game Pass de novembro: Escape Academy 2, Thronefall e Warhammer Survivors</title>
-      <link>https://pixelzada.com.br/pt/xbox-game-pass-novembro-2026-escape-academy-2-thronefall-warhammer-survivors/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-game-pass-novembro-2026-escape-academy-2-thronefall-warhammer-survivors/</guid>
-      <description>Game Pass de novembro: Escape Academy 2, Thronefall e Warhammer Survivors chegam na primeira leva. Veja datas, jogos do Essential e o que sai em 15 de novembro.</description>
-      <category>Lançamentos</category>
-      <pubDate>Wed, 04 Nov 2026 10:40:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

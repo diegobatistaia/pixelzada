@@ -1059,5 +1059,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-07T18:39:42+00:00",
+    "id": "gta-6-armas-combate-mira-livre-camera-lenta",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
