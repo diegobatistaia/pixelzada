@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T16:28:54+00:00",
-  "posts_per_language_today": 2,
+  "generated_at": "2026-11-07T21:07:03+00:00",
+  "posts_per_language_today": 3,
   "daily_cap_per_language": 10,
-  "already_written_today": 3,
+  "already_written_today": 4,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -47,8 +47,8 @@
       "summary": "The post Grand Theft Auto VI: pré-download inicia em 10 de novembro appeared first on Xbox Wire em Português .",
       "owners": [
         "future-plc",
-        "insider-gaming",
-        "microsoft"
+        "microsoft",
+        "valnet"
       ],
       "primary_owners": [
         "microsoft"
@@ -57,7 +57,7 @@
         "ff33f06b9193888c",
         "007118bfbba00a11",
         "bd3d07a7c6ddb129",
-        "dbc9519f0da34350"
+        "9e83391019dc0e63"
       ],
       "sources": [
         {
@@ -91,14 +91,14 @@
           "image": "https://cdn.mos.cms.futurecdn.net/Ga8N8nrBc2G2kBQqNRkFSG-1920-80.jpg"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
-          "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
-          "published_at": "2026-11-07T08:55:36+00:00",
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/gta-6-grand-theft-auto-physical-copies-retail/",
+          "title": "Grand Theft Auto 6 Physical Copies Are Officially in the Wild",
+          "published_at": "2026-11-07T17:26:29+00:00",
           "kind": "press",
-          "text": "Grand Theft Auto 6 season is upon us, and what a wonderful time it is to be a fan of open-world action titles. This monumental title from Rockstar Games is arguably the most hotly anticipated game ever made, and it’s sure to shatter sales records worldwide from the minute it hits the market. That said, some folks out there are wondering exactly when GTA 6 hits the market. If you’re only just stumbling onto the concept of Grand Theft Auto 6 or you’re sitting on the edge of your seat waiting for the exact minute when GTA 6 launches in your country, you’re not alone. And with that said, I’ve put together a little something to answer all your questions. It’s November 7th, 2026, and that means that Grand Theft Auto 6 is not out yet. Grand Theft Auto 6 launches on XBOX and PlayStation 5 on November 19, 2026. Make sure to bookmark this page and check back for the latest coverage, and better yet, to prepare for what happens when Grand Theft Auto 6 does hit the market. Grand Theft Auto 6 is scheduled to hit a staggered launch pattern worldwide, which means it’ll launch at midnight local time around the world. It starts in New Zealand and works its way around the world, slowly taking over the entire planet and capturing the attention of tens of millions of gamers. If you want to get GTA 6 as early as possible, here are the guides you need: And in terms of exactly when the New Zealand trick goes live… It’s pretty simple, as there are only two versions of Grand Theft Auto 6. You’ve got the Standard Edition , which costs around $79.99, and the Ultimate Edition , which costs around $99.99 If you’re on the fence about which to choose, I can firmly advocate for picking up the Ultimate Edition. Here’s a guide explaining why the Ultimate Edition is worth the extra $20 . And I’d also recommend pre-ordering to get some exclusive goodies. Here’s yet another guide explaining how to access those GTA 6 pre-order bonuses . Our coverage campaign for Grand Theft Auto 6 is just starting, but to whet your appetite, you can start by checking out all the confirmed locations in GTA 6. It’s one hell of a map, and you’ll need a lot of time to figure out everything hidden within it. What platform are you buying GTA 6 on? Let us know your plans for this incredible game on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Borderlands has hit 100 million sales . And for even more Insider Gaming delivered directly to your inbox, sign up for our newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Brian_Heder_landscape-scaled.jpg"
+          "text": "Code in box editions have started to arrive With preloads for Grand Theft Auto 6 just around the corner, Rockstar Games has sent the code-in-box editions to retailers, so stores can deliver them to customers on time. Shipments have started to arrive, giving us a first look at the physical edition of Grand Theft Auto 6 . Fans who have pre-ordered Grand Theft Auto 6 can preload the game starting next week to ensure that they're able to launch it as soon as it's released in their region. PlayStation 5 and Xbox Series X players who bought GTA 6 through their console's digital storefront can preload it starting Nov. 10 at midnight. However, those who ordered the code-in-box edition will have to wait until Thursday. As players get ready to pick up their physical editions of GTA 6 , local retailers have started preparing for the onslaught of gamers bound to rush to stores on Nov. 12. Shipments have seemingly arrived at MediaMarkt stores in Germany, and the retailer was quick to show the physical edition of Grand Theft Auto 6 on its Instagram stories . Thanks to this, we were able to get a first look at the poster that will be given to those who pre-ordered the game. An employee also shared a close-up of the exterior of the box, revealing the official game description, screenshots of Jason, Lucia, and Leonida, and labels such as online support and in-game purchases. Players perked up at the thought of online support, though at this point, it likely refers to mini-game leaderboards rather than GTA Online . We've known for months that GTA 6 is set to release on Nov. 19. Nevertheless, it's still hard for some to believe that launch day is nearly, finally here. The fact that people are now able to hold Grand Theft Auto 6 in their hands (even though physical editions don't actually include a disc ) makes this whole thing feel even more real.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_electric_fang_02.jpg?w=1600&h=900&fit=crop"
         }
       ]
     },
@@ -145,558 +145,286 @@
           "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
           "published_at": "2026-11-07T11:15:54+00:00",
           "kind": "press",
-          "text": "Square Enix is 'working to resolve the issue'. Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to added localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. \"We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended,\" wrote Square Enix in a Steam post . \"We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience.\" It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. \"As a temporary workaround, you can download the base game using the intended amount of storage space by going to \"Properties\" à \"DLC\" in Steam and unchecking each DLC item.\" While 366 gigabytes is obviously a ridiculous size for a game, what's frightening to me is that games are on track to become that massive in the coming years. Big budget games regularly exceed the 100 gigabytes in file size these days, while several major titles like Call of Duty: Modern Warfare and Call of Duty: Black Ops Cold War, have surpassed 200GB. One of the largest reported installations to date is for the combat simulator DCS World , which had a maximum file size of 250GB back in 2021 . So although Nier: Automata's SSD-choking file-size is an accidental anomaly, it might also be an ominous glimpse into the future of PC gaming. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "text": "Square Enix is 'working to resolve the issue'. Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to add localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. \"We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended,\" wrote Square Enix in a Steam post . \"We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience.\" It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. \"As a temporary workaround, you can download the base game using the intended amount of storage space by going to \"Properties\" à \"DLC\" in Steam and unchecking each DLC item.\" While 366 gigabytes is obviously a ridiculous size for a game, what's frightening to me is that games are on track to become that massive in the coming years. Big budget games regularly exceed the 100 gigabytes in file size these days, while several major titles like Call of Duty: Modern Warfare and Call of Duty: Black Ops Cold War, have surpassed 200GB. One of the largest reported installations to date is for the combat simulator DCS World , which had a maximum file size of 250GB back in 2021 . So although Nier: Automata's SSD-choking file-size is an accidental anomaly, it might also be an ominous glimpse into the future of PC gaming. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
           "image": "https://cdn.mos.cms.futurecdn.net/k598NBBJiCSKJrL33QJRvC-1920-80.jpg"
         }
       ]
     },
     {
-      "story_id": "859a55c2ce8989b5",
-      "title": "Costco Members Can Score a Digital Copy of The Legend of Zelda: Ocarina of Time for $55",
-      "summary": "Costco members can grab a digital copy of The Legend of Zelda: Ocarina of Time on Switch 2 for $54.99 from the retailer, saving $5 compared to paying its digital list price.",
+      "story_id": "b1d5eda9ac19e701",
+      "title": "Call of Duty: Warzone Temporada 1 – tudo o que você precisa saber",
+      "summary": "The post Call of Duty: Warzone Temporada 1 – tudo o que você precisa saber appeared first on Xbox Wire em Português .",
       "owners": [
-        "keleops",
-        "vox-media",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "62255af071b5754b",
-        "7fd9dc8a5ddcd662",
-        "131c7319af2c42f1"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/costco-members-can-score-a-digital-copy-of-the-legend-of-zelda-ocarina-of-time-for-55",
-          "title": "Costco Members Can Score a Digital Copy of The Legend of Zelda: Ocarina of Time for $55",
-          "published_at": "2026-11-06T16:52:36+00:00",
-          "kind": "press",
-          "text": "The Legend of Zelda: Ocarina of Time remake is officially out in the world (and we really loved it ). If you don't have a copy yet for your Nintendo Switch 2 and are dying to jump in, Costco can help you out as it's currently offering digital copies for $54.99 . There's a catch, though: this offer is only available to Costco members. But if that's you, then you can score a nice little $5 discount on this game right after launch day. Just make sure you're logged into your account before you head to checkout so you can take advantage of this offer while it's still available. No matter if you have fond memories of the original or if it's your first time playing, you're in for a wonderful time with this remake if you decide to buy it. IGN's Logan Plant had heaps of praise for it in his 9/10 review , writing that \"Nintendo skillfully melds the world and dungeon design of classic Zeldas with the movement and presentation of its more recent games, creating both a beautiful retelling of a legend and a rich adventure that stands on its own.\" If you're a Costco member, this is a nice way to save a little cash on this brand new launch. And if you're on the hunt for more video game discounts right now, you're in luck: Early Black Friday deals are already starting to drop, with Best Buy and Target both launching their own early sales ahead of the weekend. The whole month of November is full of different sale events from various retailers in the lead-up to Black Friday, though. If you're curious when you'll be able to find some more game deals during this seasonal sale, check out our rundown of sale dates and what to expect to learn more about what retailer's plans are for this year. Hannah Hoolihan is a freelancer who writes with the commerce team here at IGN.",
-          "image": "https://assets-prd.ignimgs.com/2026/11/03/zelda-ocarinaoftime-review-blogroll-1793749976079.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/you-cant-cheat-at-the-chicken-game-anymore-in-zelda-ocarina-of-time-2000754711",
-          "title": "You Can’t Cheat At The Chicken Game Anymore In Zelda: Ocarina Of Time",
-          "published_at": "2026-11-06T19:30:19+00:00",
-          "kind": "press",
-          "text": "Nintendo Switch 2 The Legend of Zelda The Legend of Zelda: Ocarina Of Time I’d forgotten already (despite playing the original very recently) that Ocarina of Time has aÂ lot of minigames all over the place. There’s Bombchu Bowling (which everyone remembers for its apparently very hot attendant), a game about guessing which chest has a rupee in it, a fishing game, a shooting gallery, and some other stuff. There’s also a simplistic chicken game that rewards you with a precious bottle filled with Lon Lon Milk. You used to be able to very easily cheat at this game and win it on the first go. Now, in the remake, you can’t. It’s easy to cheat at the Cucco minigame at Lon Lon Ranch in the original Ocarina of Time . The goal of the game is to find three special Cuccos in a big flock of identical ones inside Talon’s house. Playing normally can take a couple of tries, as you’re given a time limit, and there’s no way of knowing which Cucco is which. And it costs money to play each time, which early in the game can hurt Link’s little baby wallet. But you can cheat by picking up each Cucco in the houseÂ before the minigame starts, and dumping it into the corner behind Talon next to the stairs. The Cuccos will stay back there, so when Talon releases his three special ones, they just sit in the middle of the floor alone and it’s obvious which ones are which. In the remake, this cheat is gone. Not only can you not get the Cuccos stuck back in that corner anymore (I tried chucking every single one up the stairs, that didn’t work either, they just slid down), but Talon actively shuffles the Cuccos in the whole room when you prompt him to start the game, putting each one back on the floor again. Fortunately, picking up and putting down Cuccos is much faster with the Switch 2 version’s smooth controls, so it’s easier than ever to just…win at this game the first time, no cheating required. I’ve noticed some other little changes, too, that get rid of well-known little “exploits” if you will. You can’t climb the chains on the drawbridge of Hyrule Castle to collect rupees anymoreâyou just fall straight through them. On the other hand, some little tricks are still in place. For instance, you can apparently still hit butterflies with a Deku stick to turn them into fairies. I didn’t even know you could do that in the original: Yessss!! they kept one of my favorite feature from the OG Ocarina of Time. You can turn butterflies into fairies if you hit them with a deku stick!!! pic.twitter.com/yYszJuB58A — Riz. ðµð¸ (@Rizkhalifa449) November 5, 2026 And, I hear tell you can still do some of the dungeons out of order: [OoTHD] I tested the remake to see if it was still possible to do [SPOILERS] by u/Hal_Keaton in zelda I haven’t gotten there yet, but I’m assuming you’ll still be able to use the Lens of Truth (or Goggles, as I guess they are now) to cheat at the Chest Minigame. Now if only I could also somehow cheat at the shooting gallery… Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Could a remake of the other (better) Nintendo 64 Zelda also be on the way? The titular instrument accepts all kinds of inputs, including just straight up yelling 28 years of muscle memory going right down the drain",
-          "image": "https://kotaku.com/app/uploads/2026/11/cucco.jpg"
-        },
-        {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-          "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-          "published_at": "2026-11-07T16:00:00+00:00",
-          "kind": "press",
-          "text": "Nintendo has lovingly updated the legendary ’98 title with new visuals, modern mechanics, and on-demand jumping. Nintendo has lovingly updated the legendary ’98 title with new visuals, modern mechanics, and on-demand jumping. If you buy something from a link, The Verge may earn a commission. See our ethics statement. While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time , it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65 , that discount almost offsets one month of your plan — a prime example of “gamer math.” My colleague Andrew Webster recently shared his thoughts on Nintendo’s latest Switch 2 exclusive, noting how impressed he was with how much impact a few modern quality-of-life changes had on what is otherwise a classic experience. The updated graphics are as thoughtful as they are beautiful, pairing realistic scenery with puppet-like characters. Perhaps, more importantly, Link can now jump anytime he likes, rather than being limited to specific ledges.",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ocarina-of-Time-Press-Image.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
-        }
-      ]
-    },
-    {
-      "story_id": "df642f32900d50a6",
-      "title": "Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais",
-      "summary": "The post Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais appeared first on Xbox Wire em Português .",
-      "owners": [
-        "meups",
+        "insider-gaming",
         "microsoft"
       ],
       "primary_owners": [
         "microsoft"
       ],
       "fingerprints": [
-        "7b326949f538b12b",
-        "7e258a614b8e9ddd"
+        "d72adcf2bc9411cf",
+        "1786c43177b35202"
       ],
       "sources": [
         {
           "name": "Xbox Wire BR",
           "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/05/assassins-creed-valhalla-a-atualizacao-com-novo-jogo-novo-recurso-e-muito-mais/",
-          "title": "Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais",
-          "published_at": "2026-11-05T14:09:22+00:00",
+          "url": "https://www.callofduty.com/br/pt/blog/2026/11/call-of-duty-modern-warfare-4-warzone-season-1#new_tab",
+          "title": "Call of Duty: Warzone Temporada 1 – tudo o que você precisa saber",
+          "published_at": "2026-11-03T17:09:58+00:00",
           "kind": "primary",
-          "text": "A atualização mais pedida de Assassin’s Creed Valhalla já está disponível no XBOX Series X|S e no XBOX One. A atualização traz diversas novidades empolgantes ao jogo, oferecendo novas maneiras de aproveitar sua aventura viking. O grande destaque é a chegada do Novo Jogo+, um dos recursos mais pedidos pelos fãs de Assassin’s Creed Valhalla . As demais novidades do patch garantem que sua experiência após o fim da campanha e no Novo Jogo+ seja renovada e desafiadora, com recompensas que fazem tudo valer a pena. Confira o que esperar da atualização mais pedida: Conversamos com o designer-chefe de jogo, David Larouche, para saber mais sobre a atualização e como a equipe coloca os jogadores no centro de tudo o que faz. Quais novidades desta atualização são uma resposta direta aos comentários da comunidade? David Larouche : o Novo Jogo+ foi, sem dúvida, o recurso mais pedido pelos fãs. Assassin’s Creed Valhalla é um jogo imenso, mas, para algumas pessoas, jogar uma vez só não basta. Com esta atualização, estamos muito empolgados em permitir que nossos vikings mais dedicados vivam essa aventura novamente, mas, desta vez, com o personagem que tinham ao final da campanha. Como a equipe garantiu que os recursos pedidos atendessem às expectativas dos jogadores? DL : queríamos que a experiência do Novo Jogo+ não fosse apenas jogar tudo de novo; queríamos permitir que os jogadores continuassem aumentando seu poder, percebessem uma progressão em etapas menores e seguissem aprimorando seus personagens. Por todos esses motivos, adicionamos um modo de progressão estendida, mais melhorias para todas as peças de equipamento divino, uma nova categoria de runas e mais de 300 novas opções de bônus de runas que podem ser gravados na Forja de Runas — e todos esses recursos também estão disponíveis fora do Novo Jogo+. Com todas essas novidades, acreditamos que a experiência do Novo Jogo+ incentivará os jogadores a explorar todo o potencial de Eivor. Houve algum desafio inesperado na implementação dessas novidades? DL : acho que o mais surpreendente para nós foi justamente não termos encontrado nenhum grande desafio que nos deixasse sem saber como avançar. Conseguimos reunir uma equipe muito competente de desenvolvedores com experiência em adicionar o Novo Jogo+ a jogos já existentes; o processo de produção foi incrivelmente tranquilo. Há algum recurso que você esteja especialmente empolgado para ver no jogo? DL : com a atualização, transformamos praticamente todos os bônus presentes em itens em runas que podem ser gravadas na Forja de Runas, independentemente de terem sido lançados na experiência estendida, em uma expansão ou até mesmo na Loja. Mal posso esperar para ver como os jogadores vão combinar todos esses bônus e criar os mais variados tipos de sinergia. Tenho certeza de que há muitas combinações poderosíssimas a serem descobertas! Assassin’s Creed Valhalla recebeu sua última atualização de conteúdo há anos. Por que lançar a atualização mais pedida para os jogadores agora? DL : Valhalla pode ter recebido sua última atualização de conteúdo há anos, mas isso não significa que os jogadores deixaram de se importar com o jogo — e nós também não. Sabemos que o Novo Jogo+ é algo que a comunidade deseja há muito tempo e, quando surgiu a oportunidade de finalmente torná-lo realidade, mal podíamos esperar para seguir em frente. No fim das contas, trata-se de dar aos jogadores de longa data mais um motivo para voltar a um mundo ao qual dedicaram tanto tempo e reviver a jornada de Eivor sob uma nova perspectiva, levando consigo boa parte do que conquistaram pelo caminho. O fato de algum tempo ter passado não torna essa experiência menos significativa para nós nem, esperamos, para nossos jogadores. Qual é a importância da comunidade de Assassin’s Creed para a equipe da franquia? DL : a comunidade é extremamente importante para mim e para a equipe. Pessoalmente, acompanho as redes sociais com frequência para ver sobre o que os jogadores estão conversando e, como equipe, prestamos muita atenção aos comentários e às conversas pela internet. Adoramos ver o que os jogadores criam e compartilham sobre nossos jogos. Essa conexão com a comunidade é incrivelmente gratificante e é uma das principais razões pelas quais fazemos o que fazemos. Jogue hoje mesmo Assassin’s Creed Valhalla com a atualização mais pedida no XBOX Series X|S e no XBOX One.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/Helix_ARISE_Sshot01_MainVisual_NG_Final-acd5108ba796dcd4a82b.jpg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/assassins-creed-valhalla-novo-jogo-suporte-ps5-pro/",
-          "title": "Assassin’s Creed Valhalla recebe Novo Jogo+ e suporte ao PSSR 2",
-          "published_at": "2026-11-05T17:26:50+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2022/02/Assassins-Creed-Valhalla-2.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "9b132f6dc56e60eb",
-      "title": "Novo pacote de 007 First Light permite jogar a primeira missão de graça",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Pacote ficará disponível para download no dia 10 de novembro na PS Store O post Novo pacote de 007 First Light permite jogar a primeira missão de graça apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
-      "owners": [
-        "gameblast",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "c3b13d813d3ec261",
-        "e830cbc561834faa"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/pacote-007-first-light-jogar-1a-missao-graca/",
-          "title": "Novo pacote de 007 First Light permite jogar a primeira missão de graça",
-          "published_at": "2026-11-05T16:35:37+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/05/007-First-Light.webp"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/007-first-light-primeira-missao-do-jogo-esta-disponivel-gratuitamente-em-nova-demonstracao.html",
-          "title": "007 First Light: primeira missão do jogo está disponível gratuitamente em nova demonstração",
-          "published_at": "2026-11-06T14:15:01+00:00",
-          "kind": "press",
-          "text": "Demonstração gratuita permite jogar a missão de abertura na Islândia e transferir o progresso para a versão completa. Your first assignment starts here. The Free Starter Pack is available now! PlayStation Plus Premium members can now get a taste of 007 First Light with the trial that includes one hour of gameplay. Tag a friend who you think needs to experience a globetrotting adventure. Play now and #EarnTheNumber. https://t.co/t8j5t6ykWC #007FirstLight #007FreeStarterPack",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0tWJqrm9J-_Ko2QaWqFUFM6vslabERRtfUyDo0GJ5dIQQmswhKpiEdL3OV8WNVoZVHA6NufUseyvPG3Dgl5aBB665pvvViEYREvT0hfeOnS-ugm5ji1xz8LwMGpvsL8ArIM7vThYlwsMbz6AT4KGAV6TdAJkqMjVGXnPmlZPfbECybPkmb7QUJqqovU/w1200-h630-p-k-no-nu/gameblast-007-first-light-against-all-odds-demo.webp"
-        }
-      ]
-    },
-    {
-      "story_id": "3011388b38da202c",
-      "title": "Switch 2 Won’t Get Another Price Hike, At Least Not Soon, Nintendo Says",
-      "summary": "As part of Nintendo's latest earnings briefing, the company said it has no plans to increase the Switch 2 price again, or at least not anytime soon. VGC reported that management said Nintendo has enough memory stockpiled to shield itself and thus not need to implement another price hike. Nintendo raised the price of the Switch 2 in September, bringing it up from $450 to $500. This followed price...",
-      "owners": [
-        "fandom",
-        "vox-media"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "0e58e5c7b674a9d3",
-        "56561248c6bfc2ce"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/switch-2-wont-get-another-price-hike-at-least-not-soon-nintendo-says/",
-          "title": "Switch 2 Won’t Get Another Price Hike, At Least Not Soon, Nintendo Says",
-          "published_at": "2026-11-05T18:08:03+00:00",
-          "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
-          "title": "Nintendo says it’s not planning another Switch 2 price hike",
-          "published_at": "2026-11-05T17:24:39+00:00",
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/call-of-duty-warzone-switch-2-release/",
+          "title": "Call of Duty: Warzone Is Out Now on Nintendo Switch 2",
+          "published_at": "2026-11-07T19:48:12+00:00",
           "kind": "press",
-          "text": "Nintendo’s president says it will have ‘sufficient’ RAM as shortages drive up console prices.﻿ Nintendo’s president says it will have ‘sufficient’ RAM as shortages drive up console prices.﻿ Nintendo president Shuntaro Furukawa said during the company’s latest earnings call that it’s “not considering additional changes” to the Switch 2’s price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday’s earnings report that Switch 2 sales have dropped 37.4 percent year-over-year. According to Reuters , Furukawa also gave an update on the RAM shortage, saying, “There has been no major change to the memory situation and Nintendo is in a position to secure sufficient quantities.” Earlier this week, one of Nintendo’s Switch 2 cartridge suppliers announced it plans to stop making ROM memory to focus on memory for data centers instead. Demand from AI data centers is driving the ongoing RAM shortages that’s leading to a wave of tech price increases. Microsoft has raised Xbox Series X / S prices multiple times now, increasing the Series S’s starting price from $299 to $499. The PS5 has also been hit with price hikes, taking its starting price up to $649 .",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257769_Switch_2_AKrales_0175.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+          "text": "Call of Duty: Warzone has arrived on Nintendo Switch 2 with a surprise launch. The game is now available on the Nintendo eShop. Players don’t need to buy Modern Warfare 4 to access it. The Battle Royale is free to play and marks the latest step in Call of Duty’s return to Nintendo platforms. Call of Duty: Modern Warfare 4 was the first game in the series to be released on Nintendo hardware since Call of Duty: Ghosts on the Wii U. While the launch of Warzone coincided with the first season of Modern Warfare 4, another change occurred in November 2026 regarding the free-to-play battle royale. Starting with this new season, Warzone no longer supports the Sony PlayStation 4 and XBOX One generation. Yesterday, November 6, the server for those consoles was permanently shut down. This is disappointing for players who haven’t yet upgraded to current-generation consoles, but they can keep their progress on any supported hardware as long as they use the same Activision account. There is good news, however. Players can try the Modern Warfare 4 DMZ for free until November 11. Learn more about that here . Call of Duty: Modern Warfare 4 has received widespread critical acclaim. Check out our review of Moden Warfare 4’s campaign here . Are you excited to try Warzone on the Nintendo Switch 2? Were you one of the players abandoned by the recent server shutdown? Share your thoughts on this story and others like it in our official Discord server. For more Insider Gaming coverage, check out the GTA 6 file size. Don’t forget to sign up for our weekly newsletter , too. I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2025/04/Best-Meta-Warzone-Verdansk-Loadout-For-Call-of-Duty-in-2025-guide.jpg"
         }
       ]
     },
     {
-      "story_id": "5dab38b026e6f52f",
-      "title": "Hard West II for PS5, Xbox Series launches November 10",
-      "summary": "Wild West-themed turn-based strategy game sequel Hard West II will launch for PlayStation 5 and …",
+      "story_id": "7fd5175cf7bc53bb",
+      "title": "Japanese Rural Life Adventure now available for PS4",
+      "summary": "Publisher G-MODE Corporation and developer GAME START LLC have released a PlayStation 4 version of …",
       "owners": [
         "gameblast",
         "gematsu"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "5d2321f9b015c018",
-        "e60b2d4851743926",
-        "8280126445f43ce4"
+        "1dfaeadac8a3074f",
+        "957285544520178e"
       ],
       "sources": [
         {
           "name": "Gematsu",
           "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/hard-west-ii-for-ps5-xbox-series-launches-november-10",
-          "title": "Hard West II for PS5, Xbox Series launches November 10",
-          "published_at": "2026-11-05T18:27:50+00:00",
+          "url": "https://www.gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
+          "title": "Japanese Rural Life Adventure now available for PS4",
+          "published_at": "2026-11-06T05:02:27+00:00",
           "kind": "press",
-          "text": "Wild West-themed turn-based strategy game sequel Hard West II will launch for PlayStation 5 and Xbox Series on November 10, publisher Klabater and developer Ice Code Games announced. Hard West II first launched for PC via Steam on August 4, 2022. Here is an overview of the game, via Klabater: Hard West II takes players deep into unforgiving wastelands, where revolver bullets collide with dark magic drawn straight from forgotten tales. Discover the story of Gin Carter, a legendary outlaw who sets out on a mission to rob the mysterious “Ghost Train.” However, it soon becomes clear that gold will not be your main objective—instead, you will face the task of reclaiming your own soul. To achieve this, together with your posse you will travel across the diverse lands of the Weird West , fighting a variety of enemies and taking part in duels, train robberies, and horseback chases. In Hard West II , the main focus is on tactical, turn-based combat, in which the player commands a group of gunslingers, each with unique abilities developed through creating special combinations of mysterious cards. An important gameplay element is the Bravado mechanic, which grants additional action points after defeating enemies and allows you to chain your companions’ actions into spectacular kill sequences.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Hard-West-2_11-05-26.jpg"
+          "text": "Publisher G-MODE Corporation and developer GAME START LLC have released a PlayStation 4 version of slow life simulation game Japanese Rural Life Adventure via PlayStation Store for $19.99 / £15.49 / €18.99 / ¥2,750, the companies announced . PlayStation Plus users can purchase it at a 20 percent-off discount price of $15.99 / £12.39 / €15.19 / ¥2,200 until November 20. Japanese Rural Life Adventure first launched for Apple Arcade on September 15, 2023, followed by Switch and PC via Steam on March 3, 2026. Here is an overview of the game, via G-MODE Corporation: A relaxing slow-life simulation game where you can experience the charm of traditional Japanese countryside living, all in a beautifully crafted pixel-art world. Japanese Rural Life Adventure is a relaxing slow-life simulation where you can experience the charm of traditional Japanese countryside living, all in a beautifully crafted pixel-art world. Live in the Japanese Countryside Surrounded by Nature Fix up an old house, make the yard nice, grow your own crops, and become self-sufficient. View the cherry blossoms in the spring; attend the festival in the summer; eat roasted sweet potatoes in the fall; hear the temple bell ring in winter, and then it’s time for the first shrine visit of the New Year. Rice—the essential source of energy for the people in Japan. Salt, soy sauce, miso—seasonings no Japanese kitchen can do without. In this countryside, many things city dwellers take for granted must be made by hand. By standing in the kitchen or cooking around the traditional irori hearth of your heritage home, you can simulate preparing a wide variety of dishes and seasonings. Food made through your own effort tastes extra special. Don’t be surprised if the game makes you hungry! Bring Back Life to the Village Through Various Events Many events unfold depending on the season, location, and time of day. A villager might ask you to repair an old waterwheel, or to help reopen a shuttered candy shop. Strengthen your relationships with the locals and restore the liveliness the village once had. As you complete requests and interact with the villagers, you may earn useful items or unlock new areas to explore. Your journey begins as the protagonist, a newcomer from the city, starts a solitary life in an old countryside house. Start by clearing the overgrown weeds, cleaning the floors, and repairing the “shoji” paper screens. By the time you’ve completed the tutorial, you’ll have learned the basics of village life. Each morning, an elderly woman visits to sell daily necessities, and each afternoon, a man arrives to buy items you no longer need. Buy and sell goods as you steadily gather everything required to thrive in the village and complete your missions.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Japanese-Rural-Life-PS4_11-06-26.jpg"
         },
         {
           "name": "GameBlast",
           "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/hard-west-ii-lancado-ps5-xbox-series-10-novembro.html",
-          "title": "Hard West II será lançado para PS5 e Xbox Series em 10 de novembro",
-          "published_at": "2026-11-05T21:32:09+00:00",
+          "url": "https://www.gameblast.com.br/2026/11/japanese-rural-life-adventure-esta-disponivel-para-playstation-4.html",
+          "title": "Japanese Rural Life Adventure está disponível para PlayStation 4",
+          "published_at": "2026-11-06T15:22:51+00:00",
           "kind": "press",
-          "text": "O jogo estava disponível para PC desde 2022.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj45C_7sf7awkl7wUp5DpZXpMv_ZQ3IU-vRfR89pX4NrIA-k2QGQQoV9Wwj_objlCiaZpls_XByIzznIE1-VS7_JVn2h4OXySsyXL6aQ2Cdn08CACcxUf741ka-0SIUjSASWnSOJZMNvuvt0i0ezbY5E-ByS0-PlqE2Vl2krXPMeKnJMSO-zjYfv153sOwo/w1200-h630-p-k-no-nu/image.png"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/hozy-simulador-limpeza-reforma-chegara-ps5-xbox-series-9-novembro.html",
-          "title": "Hozy, simulador de limpeza e reforma, chegará ao PS5 e Xbox Series em 9 de novembro",
-          "published_at": "2026-11-07T08:09:48+00:00",
-          "kind": "press",
-          "text": "Disponível no PC desde março, uma versão do jogo para Switch foi anteriormente anunciada para 2026.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiupBPjUKesf4_Y70YGXR6TlRV6U-XyddAjlbyqg__ourscCinzkedlGvO3fenMbvhmdj5zKoUWXP_4FxYJ1W-hsEmmHjlHHoMeNWspjaO8408ewpDJP6iAfVWkThdKbAIzzSpylPsqZ6BnINZx04qM8aM5qoS___j0jfsjkpz0VOS0A6-l5NHSF7gGwp_m/w1200-h630-p-k-no-nu/hozy_simulador_limpeza_reforma_chegara_ps5_xbox_series_9_novembro.jpg"
+          "text": "",
+          "image": ""
         }
       ]
     },
     {
-      "story_id": "2b4576d1d368e1e0",
-      "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
-      "summary": "If you're among the millions of Amazon Prime subscribers--maybe you use the platform to buy games--you're getting a new perk in the form of free delivery with Uber Eats. Amazon and Uber today announced a partnership where US Prime subscribers can get free delivery on orders of $25 or more. Orders can be placed on Amazon's website or through the app, as opposed to the Uber Eats app...",
+      "story_id": "0b97a731177c04e8",
+      "title": "EA relança 25 jogos clássicos no Steam",
+      "summary": "A Eletronic Arts relançou 25 jogos clássicos de seu catálogo no PC (via Steam ). Dentre os títulos, o game de corrida e combate Road Rash e seis entradas da franquia Wing Commander contam com passagens FMV redigitalizadas e “meticulosamente reeditadas”, além de diferentes melhorias de qualidade de vida, sendo disponibilizados em Edições de Aniversário . Graças à comunidade de fãs estar disposta a...",
       "owners": [
-        "fandom",
-        "keleops"
+        "gameblast",
+        "nzn"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "d430f7ca7ef43ef3",
-        "0df97eadb291d9be"
+        "c3526b02c6e3c8f7",
+        "2828a31218a5883e",
+        "7ccf5afe20c40dbe"
       ],
       "sources": [
         {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too/",
-          "title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
-          "published_at": "2026-11-05T20:03:32+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/ea-relancs-25-jogos-classicos-steam.html",
+          "title": "EA relança 25 jogos clássicos no Steam",
+          "published_at": "2026-11-06T06:17:35+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769",
-          "title": "Three Games You Can Play For Free This Weekend On PC",
-          "published_at": "2026-11-06T23:00:34+00:00",
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/ff7-rebirth-e-mais-jogos-para-switch-na-eshop-com-ate-90-off/",
+          "title": "FF7 Rebirth e mais jogos para Switch na eShop com até 90% OFF",
+          "published_at": "2026-11-06T22:30:00+00:00",
           "kind": "press",
-          "text": "Epic Games Store Free Humble Bundle Steam It’s Friday! Welcome to the weekend. We made it. Halloween. Election day. The launch of The Legend of Zelda: Ocarina of Time remake. We survived. I’m about to go pick up Chinese takeout for my family, but before I do, here are some good deals on PC games to kick things off in November. First, we have games that are temporarily free on Steam. Payday 3 , which remains in recovery mode after its terrible launch, is yours to try risk-free until November 9. You can go download it, grab some friends, and try to pull off a few heists without spending a dime. “Launched badly, but it’s slowly taking a turn for the better,” one Steam reviewer recently posted. “To me personally, I love it now, but I can also see that it needs some more spice to give it enough kick for everyone. Will keep supporting and keep genuinely hoping that it could pull a Cyberpunk 2077 moment.” Second, we have Age of Wonders 4 , a generally quite good 4X strategy RPG. It’s also available to play for free until November 9. If you want a fantasy game that mixes empire building with fun tactical battles, Age of Wonders 4 strikes a pretty good balance. Players are still encountering bugs and multiplayer issues, but if you just want to settle in for some cozy city building and battles and have a PC with an Nvidia GeForce GTX 670 card or better, it’s a good deal. Moving over to the Epic Games Store, floating city management sim Flotsam is free to claim until November 12. It’s a feel-good post-apocalyptic game about salvaging debris, meeting fellow survivors, and combing through skill trees to help rebuild civilization. It’s vibrant, chill, and normally $25. And unlike Age of Wonders 4 and Payday 3 , it’ll be yours to keep. If you haven’t already played it, this one’s worth having in your library. Finally, a bonus round. I don’t usually recommend Humble Bundle’s monthly subscription , but the games for November are wroth a look. If you’re willing to sign-up, members this month are getting PC keys for Mafia: The Old Country , The Outer Worlds 2 , Shinobi: Art of Vengeance , and a bunch more games. Those three alone are well worth it, but horror shooter Crisol: Theater of Idols , which only released back in February, is also part of the mix. You can read our review of it here . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. 'Oh no, we are not releasing on the same day as Zelda ' CEO Joe Brammer added, 'Go play GTA 6 , we need to detox' The developers say a community manager acted without authorization The debut action-RPG from S-Game is living up to its pre-release hype",
-          "image": "https://kotaku.com/app/uploads/2026/11/flotsam-1200x675.jpg"
+          "text": "The Legend of Zelda Ocarina of Time Remake vale a pena no Switch 2? Confira análise do jogo Ok, ok, sabemos boa parte dos fãs da Nintendo devem passar todo o final de semana curtindo o remake de Zelda Ocarina of Time . Mas precisamos apontar que também há vários outros títulos que merecem atenção entre os jogos em promoção na eShop , que nesta semana tem vários games legais para consoles Nintendo com até 90% de desconto . Por exemplo, entre as principais ofertas em destaque no Switch temos jogos como Final Fantasy VII Rebirth , Monster Hunter Wilds , Dragon Quest VII Reimagined , No Man’s Sky e Ys Origin , que está baratinho custando apenas R$ 11,99. Leia também GOTY? Remake de Zelda Ocarina of Time estreia no Metacritic com nota mais alta de 2026 GOTY? Remake de Zelda Ocarina of Time estreia no Metacritic com nota mais alta de 2026 Agora vem com a gente e prepara o backlog pois tem muito jogo bom com desconto na loja do Switch ! A seguir você confere a nossa lista com algumas das melhores promoções para Nintendo Switch na eShop brasileira nesta semana: Sabia que você pode adquirir seu Nintendo Switch mais baratinho? É possível descolar opções do console comum, Lite, OLED ou até o Nintendo Switch 2 com desconto usando o cupom KaBuM! para jogar Mario , Zelda , Pokémon e muito mais gastando bem menos. Sabia que é possível parcelar as compras da eShop em até 4x sem juros via PayPal ou até 6x sem juros no cartão de crédito ? Para isto, basta usar os gift cards da Nuuvem . No final da compra você ainda recebe cashback e resgata o valor total na loja digital da Nintendo, onde recebe o valor integral das moedas da eShop. Assim você garante mais descontos tanto na Nuuvem quanto na loja do Switch. Sem contar que é possível comprar gift cards da eShop, jogos e até assinaturas do Nintendo Switch Online , tudo com cashback, e você ainda pode usar cupons de desconto que a Nuuvem libera aqui e ali. Agora diz aí, vai aproveitar as promoções de jogos para Nintendo Switch para comprar algum título? Contra pra gente lá nas redes sociais do Voxl ! Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? Hackers atacam freezers na Europa; entenda o que motiva e como funcionam as invasões Que fim levou a Compaq, uma das primeiras sensações do mercado de PCs? TV com MiniLED Pro e SSD ultracompacto: confira os lançamentos da semana Cupom Black Friday: lista dos melhores cupons e ofertas de 2026",
+          "image": "https://www.estadao.com.br/resizer/v2/ESS7B2CIZBOZVJREMZZHEPDDZ4.jpg?quality=80&auth=7e00cbfafdbf143e9ce6524e511be00c8f08d5e640b5750c7bbe9478abee2373&width=1200&height=630&smart=true"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/control-resonant-e-mais-jogos-para-pc-na-steam-com-ate-90-off/",
+          "title": "Control Resonant e mais jogos para PC na Steam com até 90% OFF",
+          "published_at": "2026-11-07T14:30:00+00:00",
+          "kind": "press",
+          "text": "Lançamentos de games em NOVEMBRO de 2026 - Calendário VOXL Além do aguardado GTA 6, novembro traz remake de Ocarina of Time e mais de 30 jogos. Confira as estreias do mês. Crédito: Voxl Já planejou a gameplay do final de semana? Porque tem uma porção de coisa legal para aproveitar entre os jogos gratuitos disponibilizados recentemente e os jogos para PC em promoção na Steam , que nesta semana tem muitos games interessantes com até 90% de desconto . Entre as principais ofertas de jogos na Steam temos, por exemplo, títulos como Control Resonant , A Plague Tale: Requiem , Clair Obscur: Expedition 33 , Mixtape e For The King , que está custando apenas R$ 3,79 . Leia também Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (06) Steam recebe 5 jogos grátis nesta semana! Veja lista e resgate (06) Pare tudo, respire fundo e venha com a gente conferir algumas das melhores promoções da semana com jogos baratinhos na Steam ! A seguir, você confere a nossa seleção de ofertas com jogos para PC em promoção na Steam , então aproveite para economizar bastante enquanto os títulos não retornam aos seus preços regulares: Uma das grandes vantagens do computador é poder fazer upgrades e repor peças sem precisar comprar uma máquina completamente nova. Para economizar nessas comprinhas você pode usar o cupom Amazon e garantir componentes, periféricos e muito mais para o seu PC com desconto! Uma ótima dica para quem quer economizar ainda mais em jogos da Steam é dar uma olhada no site da Nuuvem . Lá é possível encontrar uma boa seleção de games para PC para comprar com desconto e jogar na Steam . Na Nuuvem você pode parcelar seus jogos em até 4x sem juros no PayPal ou até 6x sem juros no cartão de crédito e ainda receber cashback no final da compra. Depois é só acessar sua conta, ativar e copiar os códigos na plataforma e resgatar lá na Steam. E aí, animou de comprar algum dos jogos em promoção na Steam ? Conta pra gente nas redes sociais do Voxl ! Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? Hackers atacam freezers na Europa; entenda o que motiva e como funcionam as invasões Que fim levou a Compaq, uma das primeiras sensações do mercado de PCs? TV com MiniLED Pro e SSD ultracompacto: confira os lançamentos da semana Cupom Black Friday: lista dos melhores cupons e ofertas de 2026",
+          "image": "https://www.estadao.com.br/resizer/v2/XUVEQRC33FDGVPNAR6F44DWVFM.jpg?quality=80&auth=f4ac417e4322f2650a843a482490b887ea6fe44b633e41bc5b0e03a54ee858fc&width=1200&height=630&smart=true"
+        }
+      ]
+    },
+    {
+      "story_id": "bfeb39510c5031ed",
+      "title": "Ragnarok Console Project ‘A New Ragnarok Adventure Awaits’ trailer",
+      "summary": "Publishers Gravity and Daewon Media Game Lab, and developer Waycoder have released a new trailer …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "340cb5cd44af2dd3",
+        "3e385864a934e2d4"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/ragnarok-console-project-a-new-ragnarok-adventure-awaits-trailer",
+          "title": "Ragnarok Console Project ‘A New Ragnarok Adventure Awaits’ trailer",
+          "published_at": "2026-11-06T08:45:58+00:00",
+          "kind": "press",
+          "text": "Publishers Gravity and Daewon Media Game Lab , and developer Waycoder have released a new trailer for Ragnarok Console Project , its upcoming RPG based on the world of Ragnarok , due out for PlayStation 5 , Xbox Series , Switch 2 , and PC via Steam in the first half of 2027. Here is an overview of the game, via its Steam page : Ragnarok Console Project is a new RPG based on the world of Ragnarok , a legendary intellectual property enjoyed by over 100 million players worldwide. Set in a familiar yet completely reimagined world, players will confront a collapsing reality and the hidden truths buried within it. Choices and consequences. A journey from which there is no turning back. Currently in development, with a planned release in the first half of 2027.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Ragnarok-Console-PV_11-06-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/ragnarok-console-project-rpg-tatico-ambientado-universo-ragnarok-online-recebe-novo-trailer.html",
+          "title": "Ragnarok Console Project, RPG tático ambientado no universo de Ragnarok Online, recebe novo trailer",
+          "published_at": "2026-11-06T18:27:01+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "story_id": "8d774ad876f6265b",
+      "title": "Acornia: Mirror Worlds launches in spring 2027",
+      "summary": "“Dual-dimension, action-adventure shop manager” Acornia: Mirror Worlds will launch for PlayStation 5, Xbox Series, Switch …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "e27b9ea0299f9254",
+        "ffe12556ba0cd978"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/acornia-mirror-worlds-launches-in-spring-2027",
+          "title": "Acornia: Mirror Worlds launches in spring 2027",
+          "published_at": "2026-11-06T09:05:51+00:00",
+          "kind": "press",
+          "text": "“Dual-dimension, action-adventure shop manager” Acornia: Mirror Worlds will launch for PlayStation 5 , Xbox Series , Switch 2 , and PC via Steam in spring 2027, publisher The Arcade Crew and developer Splashteam announced. Here is an overview of the game, via The Arcade Crew: Acornia, once a prosperous tree village, now stands in ruins due to the Duramen’s influence – a dark mirror dimension teeming with angry spirits. You play as Alva: a determined squirrel returning to Acornia to reopen her family’s dessert shop. Travelling in and out of the Duramen, Alva works double-time to restore the village using her formidable cheek pouches: spitting treats on plates… or at a spirit’s face! Switch dimensions any time, anywhere, to play both sides of a complementary gameloop: In the light dimension, fill up display cases and plates with mouthwatering desserts – nothing like a sweet treat to brighten up a neighbor’s day! In the Duramen dimension, mow down angry spirits with a barrage of weaponized pastries carried in your cheek pouches! Cook up a multitude of decadent sweet treats and grow your shop’s reputation! Swallow new recipes and materials in your cheek pouches as you explore the Duramen’s dungeons. Scurry across multiple floors, dodge-roll past traps, and shoot enemies down with a relentless stream of pastries until you reach the boss! Run out of ammo? Swallow enemies whole and use them to topple the next! Befriend over 25 unique villagers, each with their own backstory, role, and daily routine in Acornia! Learn more about their personalities and relationship with Alva in their dedicated side quests. Enjoy the seasonal events they set up (bug catching, flower decorating, etc.) to unlock seasonal recipes and furniture sets!",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Acornia-Window_11-06-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/acornia-mirror-worlds-recebe-novo-trailer-foco-eventos-sazonais.html",
+          "title": "Acornia: Mirror Worlds recebe novo trailer com foco em eventos sazonais",
+          "published_at": "2026-11-06T12:19:09+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "story_id": "3133f0e6529e9488",
+      "title": "How to trade all the Masks from the Happy Mask Shop in Zelda Ocarina of Time Remake",
+      "summary": "The Skull Mask, the Spooky Mask, the Bunny Hood, and more are part of the Happy Mask Shop quest in OOT Remake",
+      "owners": [
+        "future-plc",
+        "valnet"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "c7814fee475f9a60",
+        "57bcfa8b4780ecbb"
+      ],
+      "sources": [
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-mask-shop/",
+          "title": "How to trade all the Masks from the Happy Mask Shop in Zelda Ocarina of Time Remake",
+          "published_at": "2026-11-06T13:05:16+00:00",
+          "kind": "press",
+          "text": "The Skull Mask, the Spooky Mask, the Bunny Hood, and more are part of the Happy Mask Shop quest in OOT Remake The Happy Mask Shop in Zelda Ocarina of Time has you run around Hyrule trading masks with characters for Rupees, including the Skull Mask, Spooky Mask, Bunny Hood, and the Keaton mask. Though these masks only serve as commodities to be traded with specific characters, if you can allocate all four to the right characters and complete this OOT quest, the Happy Mask Shop will give you access to four new masks that all have a very specific utility. Below I'll show you how to hand out all the Masks and the specific locations you need to look. Keep in mind that the Switch 2 version is the same as the original, in that the Happy Mask Shop won't open in The Legend of Zelda Ocarina of Time until you open the passage to the Goron City. Fortunately, the guard who opens the passage will actually tell you that the Mask Shop is now open, flagging that you can start this questline. Bought from the Mask Shop for 10 Rupees, you need to give this to the Guard in Kakariko Village who opens the passage for you, the same one who lets you know that the Mask Shop is open. He'll give you 15 Rupees in return. Bought for 20 Rupees, head back to the starting area of Kokiri Village, where you start off and get the first Shield and Sword in Zelda Ocarina of Time , and turn North into the Lost Woods. The moment you enter, head left through the hollow trunk to meet The Skull Kid, playing a tune on top of a log. He, understandably, will offer to take the Skull Mask from you, though only pay you ten for it. Cheapskate. After buying the Spooky Mask for 30 Rupees, head back to Kakariko Village, and this time take the East exit to the Graveyard, but do so during daytime. Here you'll find a boy wandering around. Speak to him to give him the Spooky Mask, for which he'll give you 30 Rupees back. The final mask in this sequence is bought for 50 Rupees. You can only sell it once you've progressed to the point where you have obtained the Three Spiritual Stones in the main story. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Once this happens, head to Hyrule Field. There'll be a man who runs in circles around the field, practicing his running. If you go during the night, he'll be sitting beside the road and you won't have to keep pace. Either way, if you give him the Bunny Hood, he will entirely fill your wallet with Rupees, so it's a good idea to have expanded it as much as possible prior to the trade to really capitalize on that. Having given these masks out, the Happy Mask Shop will now have four new masks in store that you can get, all of which serve a particular function. Here's what they do: It's really only the Mask of Truth that provides the major advantage to gameplay, though some of the dialogue options and reactions from NPCs can prompt interesting lore information. Likewise, the cash infusion delivered by the Bunny Hood NPC can make Link incredibly rich, a great reward in and of itself. © GamesRadar+. Not to be reproduced without permission. Joel Franey is a writer, journalist, podcaster and Very Tired Man with a BA from Brunel University, a Masters from Sussex University and a decade working in games journalism, often focused on guides coverage but also in reviews, features and news. His love of games is strongest when it comes to groundbreaking narratives like Disco Elysium, UnderTale and Baldur's Gate 3, as well as innovative or refined gameplay experiences like XCOM, Sifu, Arkham Asylum or Slay the Spire. He is a firm believer that the vast majority of games would be improved by adding a grappling hook, and if they already have one, they should probably add another just to be safe. You can find old work of his at Eurogamer, Gfinity, USgamer, SFX Magazine, RPS, Dicebreaker, VG247, and more. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/mmjn4is5H6VMx52NwjaZtD-1920-80.png"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/switchboard-zelda-ocarina-of-time-switch-2-remake/",
+          "title": "I Wouldn’t Dream of Playing the Zelda: Ocarina of Time Remake Right Now",
+          "published_at": "2026-11-07T18:00:17+00:00",
+          "kind": "press",
+          "text": "Some things are sacred. No, not like that! Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here . Unlike you, probably, I am not playing Nintendo's Switch 2 remake of The Legend of Zelda: Ocarina of Time right now. I even turned down a kind offer from my editor to review it. This despite the fact that it might be my favorite Zelda game (mostly by virtue of being the first one I played) and indubitably one of the greatest games ever — as close to a Citizen Kane as the medium has. I've read the ecstatic reviews , several of them by friends of mine, like Keza MacDonald and Christian Donlan, and of course Polygon's own Giovanni Colantonio, who I know to be people of good sense and great taste who share my reverence for this game and this series. I trust them. I also trust Nintendo, especially now it's clear the game was developed by the in-house Zelda team and not farmed out to an external studio. I trust producers Eiji Aonuma and Hidemaro Fujibayashi, veterans of Zelda's golden age and architects of its great Breath of the Wild renaissance, who Gio talked to this week. I trust their decision to pass Ocarina on to younger developers at Nintendo to train and inspire them, but also to inject the aging game with youth and life. I also know that Ocarina needs the work. I played a little of the Nintendo 64 original recently, and while I remained entranced by its strangely haunted vibe , I found that, like so many early 3D games, it is fighting a battle with clunky, barely-ready technology that it has been slowly losing over the last 28 years. I'm honestly not sure that it's still fun to play now. And this matters to me, because my 10-year-old son loves Zelda — which, to him, means Tears of the Kingdom . He thinks Tears is the best game ever, and I wouldn't necessarily disagree. He's read the Ocarina of Time manga and fiddled about with other games in the series, including the Link's Awakening remake and The Wind Waker , but never settled into any of them. Honestly, I warned him off trying to play the original Ocarina . So the Ocarina remake arrives at a perfect time for him. He is beyond excited about it. He will get it, and his own Switch 2 to play it on, for Christmas. Put yourself in his shoes. (Maybe you once were, and got the original Ocarina , or the 3DS version, as a childhood Christmas gift yourself.) Can you imagine anything better? I just know that if I played the game before him, even surreptitiously, I would be stealing the magic of that moment. As desperate as I am to see the work of Aonuma and Fujibayashi's team, I can't countenance it. So I'll wait with him. Also… If I'm honest, maybe I'm not just doing it for him. Because I'll be unwrapping my own copy on Christmas morning. I'll be playing this magical game away from work, out of step with the discourse, in the cozy, contented, quiet bubble of the holidays, surrounded by my family. Maybe I'll feel like I'm 10, too. Like I said: can you imagine anything better? ZA/UM, the makers of Disco Elysium — well, some of them; it's complicated — return with another wonderfully funny, dark, and emotionally complex narrative RPG that uses tabletop dice rolls to enumerate the failings of human beings. One in particular: a not good, very bad spy who is trying to atone for a terrible betrayal. This 1988 NES classic from Capcom is simply one of the all-time great action platformers. It's all the more remarkable since the developers basically had to cobble it together in their spare time after the original was deemed a sales disappointment. Now Mega Man is a treasured franchise, and due for a return next year. I'm not playing Ocarina , but I am allowed to listen to the eight-track soundtrack sample that just dropped on Nintendo Music, and it's absolutely delicious. The exquisitely produced and performed new arrangements of Koji Kondo's immortal tunes are both a massive upgrade and resounding proof that Kondo had loaded his music with all this drama, humor, and sophistication from the start. Impossible to pick a favorite from the full flamenco of \"Gerudo Valley,\" or the squawking penny whistles, accordions, oboes, and fiddles of \"Market,\" or \"Kakariko Village\"'s plangeant harmonica. But let's go with the 10-minute \"Hyrule Field Main Theme\" for sheer epic sweep.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-legend-of-zelda-ocarina-of-time-sheik-with-harp.png?w=1600&h=900&fit=crop"
+        }
+      ]
+    },
+    {
+      "story_id": "44e51e0268bd23da",
+      "title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
+      "summary": "We should acknowledge that Monolith Soft isn't just a Xenoblade developer, but also a major supporter of The Legend of Zelda franchise. The studio confirmed on X that it assisted with programming and graphics (per a machine translation) on the Ocarina of Time remake . This marks the fifth time the team has contributed to a mainline Zelda title, starting with 2011's Skyward Sword . There were a...",
+      "owners": [
+        "fandom",
+        "future-plc"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "a13c8bb3f0098310",
+        "d56bbd35b278d907",
+        "e147e20b86f868f0"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft/",
+          "title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
+          "published_at": "2026-11-06T14:02:51+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
+          "title": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
+          "published_at": "2026-11-06T11:43:06+00:00",
+          "kind": "press",
+          "text": "Visual and performance issues not quite ironed out yet, which will be music to Nintendo's ears. I've spent all night playing The Legend of Zelda: Ocarina of Time remake on the Switch 2, and it's a fantastic experience, but some would prefer to tinker and toil over an emulator than enjoy Link's new look. The game is already running on PC, but performance issues are aplenty. You can see progress is moving pretty fast from the emulator crowd, just from these two videos by Unreal Gaming PC on YouTube. Published on the game's official launch day, November 5, this video shows the game getting over the splash screen and running the cutscenes fairly well; however, it suffers from bad flickering, stuttering, and frame rates around the 20-30 fps mark during gameplay. 12 hours later, another video. This time showing the game running between 30–60 fps during gameplay, albeit with some persistent flickering and stutters throughout. There's undoubtedly still a long way to go to a playable experience to match the native Switch 2, but that's marked progress for half a day's work. Especially considering the game is designed for an Arm-powered handheld with very different hardware to what's running the emulator ( Ryzen 7 9800X3D , 64 GB of RAM, and RTX 4080). User akakevinvro on X also posted a video claiming a pretty steady 60 fps. Both are running on the Lichii emulator for the Nintendo Switch and Nintendo Switch 2. It's called the \"VERY experimental Nintendo Switch 2 emulator\" on its GitHub page. It's an open-source project that has similarities to projects of the same ilk, such as Yuzu. Yuzu's developers settled a legal dispute with Nintendo of America and shut down development of the emulator in 2024 . Nintendo has a long history of taking down projects it deems to infringe on its rights, while emulators such as the now defunct suyu often argue that they do not circumvent Nintendo's privacy measures. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. In this case, the files for Ocarina of Time's remake were reportedly dumped online ahead of its release, according to SrLinguicaVIVE on X. 2. Best budget 4K: Asus ROG Strix XG27UCG 3. Best budget OLED Alienware AW2726DM 👉 Check out our full gaming monitor guide 👈 Jacob has been writing about PC hardware and technology for over eight years. He earned his first byline at PCGamesN before joining PC Gamer. He spends most of his time building PCs, running benchmarks, and trying his best to learn Linux. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/GJBjS9vsYe7y6P8yspKN8f-2560-80.png"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-exec-says-new-games-and-remakes-both-have-a-place-following-zelda-ocarina-of-time-launch/",
+          "title": "Nintendo exec says \"new games and remakes both have a place\" following Zelda: Ocarina of Time launch",
+          "published_at": "2026-11-06T16:08:37+00:00",
+          "kind": "press",
+          "text": "The Legend of Zelda: Ocarina of Time remake is finally out in the wild a good 28 years after Nintendo's original gem dropped back in 1998, and is already proving to be the highest-rated game of 2026 thus far. Sure, it's a remake, but it slots in nicely between all the other new games – and it's still just as valuable, too, as Nintendo senior vice president of product development and publishing Nate Bihldorff explains to Polygon . \"I do think that new games and remakes both have a place in the Nintendo stable, of equal importance to be honest. There are fans of every single IP that we have out there,\" as he says. Remakes are very welcome to those fans, to say the least. \"Of course, having new games in those series is wonderful, and I look forward to them as much as anyone else does, but there's also a deep satisfaction in revisiting games that were very, very special, like Ocarina of Time\" – and that's evident in how well the remake is doing already, if you ask me. It made Metacritic's top 30 games of all time within a day, proving that the community is very much happy to enjoy remakes as it is entirely fresh titles. Longtime Legend of Zelda fans aren't the only people immersing themselves in Nintendo's revamped spin on Hyrule, either. As Bihldorff states, \"It's also important to think about how many people had never played the original, and for them, the remake of Ocarina of Time is going to be an absolutely brand-new, 2026 experience, and one that I just cannot wait for them to get their hands on.\" A quick look at social media proves his assertion here right. Remakes don't just cater to old fans, but they help introduce countless more to long-standing franchises and series like The Legend of Zelda. They certainly don't take away from new releases, either – every fellow Zelda stan I know is on the edge of their seat waiting for more announcements from Nintendo, especially after the likes of Breath of the Wild and Tears of the Kingdom . I don't see that changing, ever. While you're here, be sure to read our The Legend of Zelda: Ocarina of Time review. You can also check out our Legend of Zelda Switch 2 stock live blog if you want to grab one of Nintendo's highly-sought-after new consoles. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week After spending years with her head in various fantastical realms' clouds, Anna studied English Literature and then Medieval History at the University of Edinburgh, going on to specialize in narrative design and video game journalism as a writer. She has written for various publications since her postgraduate studies, including Dexerto, Fanbyte, GameSpot, IGN, PCGamesN, and more. When she's not frantically trying to form words into coherent sentences, she's probably daydreaming about becoming a fairy druid and befriending every animal or she's spending a thousand (more) hours traversing the Underdark in Baldur's Gate 3. If you spot her away from her PC, you'll always find Anna with a fantasy book, a handheld video game console of some sort, and a Tamagotchi or two on hand. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/eK2CgtBZvwiFgSPWKChZH8-1920-80.jpg"
         }
       ]
     }
-  ],
-  "especial_gta6": {
-    "id": "especial-gta6-armas-combate",
-    "tema": "Armas e combate em GTA 6: mira livre, câmera lenta e tiros que não matam",
-    "categoria": "gta-6",
-    "angulo": "O que muda na hora do tiroteio em GTA 6 em relação a GTA 5 e quais armas já foram vistas, para quem quer chegar no dia 19/11 sabendo como o combate funciona.",
-    "fatos": [
-      {
-        "texto": "A mira automática vem desligada por padrão; o jogo aposta na mira livre, com um leve 'grude' no alvo que pode ser ajustado nas configurações.",
-        "fontes": [
-          0,
-          1
-        ]
-      },
-      {
-        "texto": "As armas têm mais recuo e peso do que em GTA 5; fuzis pedem rajadas curtas para acertar.",
-        "fontes": [
-          0,
-          1
-        ]
-      },
-      {
-        "texto": "O tiroteio é baseado em cobertura: no Extended Look, Jason se protege atrás de paredes antes de atirar.",
-        "fontes": [
-          2,
-          3,
-          4
-        ]
-      },
-      {
-        "texto": "Há um modo de câmera lenta, no estilo do Dead Eye de Red Dead Redemption 2, que destaca pontos fracos do inimigo, como cabeça, mãos e articulações.",
-        "fontes": [
-          2,
-          0,
-          5,
-          6
-        ]
-      },
-      {
-        "texto": "Dá para incapacitar inimigos sem matar, atirando em braços e pernas, e até arrancar a arma da mão deles com um tiro.",
-        "fontes": [
-          7,
-          8,
-          9,
-          10
-        ]
-      },
-      {
-        "texto": "Atos muito violentos podem acionar câmeras cinematográficas em câmera lenta (kill cams), opcionais.",
-        "fontes": [
-          7,
-          0,
-          6
-        ]
-      },
-      {
-        "texto": "Dá para ameaçar alguém com a arma sem atirar e evitar que a situação escale.",
-        "fontes": [
-          7,
-          10,
-          11
-        ]
-      },
-      {
-        "texto": "Pedestres podem andar armados, reagir ao crime e até começar brigas sem provocação; Rob Nelson resumiu que o jogador não é o único com armas nem o único capaz de violência.",
-        "fontes": [
-          8,
-          10,
-          12,
-          7
-        ]
-      },
-      {
-        "texto": "Carregar um fuzil nas costas não assusta ninguém; apontar a arma para as pessoas faz elas fugirem ou chamarem a polícia.",
-        "fontes": [
-          1,
-          13
-        ]
-      },
-      {
-        "texto": "Jason usa a pistola Girardi ES9 e Lucia a Klose K17; versões personalizadas das duas vêm na Ultimate Edition.",
-        "fontes": [
-          14,
-          15,
-          16
-        ]
-      },
-      {
-        "texto": "A Ultimate Edition inclui os revólveres Hawk & Little Morgan e variantes personalizadas de armas; o pacote de pré-venda Vintage Vice City traz uma estampa exclusiva de arma.",
-        "fontes": [
-          17
-        ]
-      },
-      {
-        "texto": "Também já foram vistos o revólver Mustang .357, o pequeno revólver Nipper .38 (que Lucia segura na arte de capa) e um fuzil da marca Duke.",
-        "fontes": [
-          14,
-          16,
-          18
-        ]
-      },
-      {
-        "texto": "O Trailer 2 mostrou uma loja Ammu-Nation com metralhadoras, fuzis e pistolas nas prateleiras e uma arma inspirada na submetralhadora MP5; Lucia usa um lança-granadas numa perseguição policial.",
-        "fontes": [
-          19,
-          14
-        ]
-      },
-      {
-        "texto": "No Extended Look aparecem espingarda, pistolas e fuzis; Lucia atira com a espingarda usando uma mão só.",
-        "fontes": [
-          20,
-          18,
-          4
-        ]
-      },
-      {
-        "texto": "Na luta corpo a corpo da cena da festa, Lucia escapa de um agressor com comandos rápidos (quick-time events) e o fere com o salto do sapato.",
-        "fontes": [
-          5,
-          21,
-          4
-        ]
-      },
-      {
-        "texto": "Atirar nos pneus faz o motorista perder o controle e é uma das formas mais eficazes de parar perseguidores.",
-        "fontes": [
-          0,
-          3
-        ]
-      },
-      {
-        "texto": "O Criminal Profile leva em conta o contexto: se defender não te transforma em criminoso; pesa quem exagera na violência de forma repetida.",
-        "fontes": [
-          11,
-          7,
-          6
-        ]
-      }
-    ],
-    "fontes": [
-      {
-        "name": "VICE",
-        "owner": "vice-media",
-        "kind": "press",
-        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
-        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
-      },
-      {
-        "name": "Beebom",
-        "owner": "beebom",
-        "kind": "press",
-        "url": "https://beebom.com/gta-6-gunplay-overhauled-with-free-aim-more-recoil-and-tactical-shooting/",
-        "title": "GTA 6 Is Overhauling Gunplay with Free Aim, More Recoil, and Tactical Shooting"
-      },
-      {
-        "name": "Push Square",
-        "owner": "ziff-davis",
-        "kind": "press",
-        "url": "https://www.pushsquare.com/news/2026/08/watch-gta-6-extended-look-here-17-things-weve-learned",
-        "title": "Watch GTA 6 Extended Look Here - 17 Things We've Learned"
-      },
-      {
-        "name": "Red Bull",
-        "owner": "red-bull",
-        "kind": "press",
-        "url": "https://www.redbull.com/int-en/gta-6-extended-look-everything-revealed",
-        "title": "GTA 6 Extended Look: Everything we learned from the new footage"
-      },
-      {
-        "name": "GamesRadar+",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
-        "title": "Everything revealed from the GTA 6 extended look"
-      },
-      {
-        "name": "Consequence",
-        "owner": "consequence",
-        "kind": "press",
-        "url": "https://consequence.net/2026/08/gta-6-extended-look-netflix-breakdown-details/",
-        "title": "Here's Everything We Learned from the Grand Theft Auto VI Extended Look"
-      },
-      {
-        "name": "Gulf News",
-        "owner": "al-nisr",
-        "kind": "press",
-        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
-        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
-      },
-      {
-        "name": "VICE",
-        "owner": "vice-media",
-        "kind": "press",
-        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
-        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
-      },
-      {
-        "name": "Insider Gaming",
-        "owner": "insider-gaming",
-        "kind": "press",
-        "url": "https://insider-gaming.com/gta-6-interview-reveals-new-details-about-the-game/",
-        "title": "GTA 6 Interview Reveals New Details About The Game"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/15-new-things-we-just-learned-about-gta-6-2000728941",
-        "title": "20 Big New Things We Just Learned About GTA 6"
-      },
-      {
-        "name": "TechSpot",
-        "owner": "techspot",
-        "kind": "press",
-        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
-        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
-      },
-      {
-        "name": "GamingBolt",
-        "owner": "gamingbolt",
-        "kind": "press",
-        "url": "https://gamingbolt.com/grand-theft-auto-6-will-use-6-star-wanted-system-criminal-profiles-to-track-player-behaviour",
-        "title": "Grand Theft Auto 6 Will Use Criminal Profiles to Track Player Behaviour"
-      },
-      {
-        "name": "TROISCOULEURS",
-        "owner": "mk2",
-        "kind": "press",
-        "url": "https://www.troiscouleurs.fr/?p=74349",
-        "title": "We saw « GTAVI » running at Rockstar North: our exclusive preview and interview"
-      },
-      {
-        "name": "GameSpot",
-        "owner": "fandom",
-        "kind": "press",
-        "url": "https://www.gamespot.com/articles/gta-6-wanted-levels/",
-        "title": "Here's How Wanted Levels And Crime Work In GTA 6"
-      },
-      {
-        "name": "PC Gamer",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
-        "title": "I've hunted down every confirmed GTA 6 gun in its trailers and screenshots so far"
-      },
-      {
-        "name": "Push Square",
-        "owner": "ziff-davis",
-        "kind": "press",
-        "url": "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live",
-        "title": "GTA 6 Ultimate Edition and More Detailed Ahead of Pre-Orders Going Live"
-      },
-      {
-        "name": "Beebom",
-        "owner": "beebom",
-        "kind": "press",
-        "url": "https://beebom.com/gta-6-weapons/",
-        "title": "GTA 6 Weapons List: All Handguns, Shotguns, Assault Rifles and More"
-      },
-      {
-        "name": "Rockstar Store",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://store.rockstargames.com/game/buy-gta-vi",
-        "title": "Grand Theft Auto VI"
-      },
-      {
-        "name": "Engadget",
-        "owner": "static-media",
-        "kind": "press",
-        "url": "https://www.engadget.com/2246846/things-you-may-have-missed-gta-6-extended-look/",
-        "title": "20+ things you may have missed in the GTA 6 extended look"
-      },
-      {
-        "name": "Insider Gaming",
-        "owner": "insider-gaming",
-        "kind": "press",
-        "url": "https://insider-gaming.com/everything-revealed-gta-6-trailer-2/",
-        "title": "Everything Revealed in Grand Theft Auto 6 Trailer 2"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/grand-theft-auto-6-looks-incredible-in-netflixs-big-gameplay-reveal-2000728933",
-        "title": "Grand Theft Auto 6 Looks Incredible In Big Gameplay Reveal [Update: Now Available On YouTube]"
-      },
-      {
-        "name": "Engadget",
-        "owner": "static-media",
-        "kind": "press",
-        "url": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
-        "title": "Guns, cars and chihuahuas: Breaking down the GTA 6 extended look"
-      }
-    ],
-    "imagem": {
-      "url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Lock_And_Load_landscape.0l9s5w7ih9p~3.jpg",
-      "credito": "Rockstar Games",
-      "descricao": "Arte oficial 'Jason and Lucia Lock and Load', com os dois protagonistas armados"
-    },
-    "formatos_carrossel": [
-      "lista",
-      "comparativo",
-      "detalhes"
-    ]
-  },
-  "especiais_gta6_hoje": 1
+  ]
 }
