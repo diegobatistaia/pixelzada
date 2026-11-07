@@ -78,5 +78,17 @@
     "Slide 5: Trocar de carro e de roupa",
     "Slide 6: Qual polícia você prefere enfrentar?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-07",
+    "horario": "15:00",
+    "em": "2026-11-07T14:59:42-03:00",
+    "estilo": "versus",
+    "media_id": "18102852944066031",
+    "permalink": "https://www.instagram.com/p/Dfcxm60CTU7/"
+  },
+  "story": {
+    "em": "2026-11-07T15:00:13-03:00",
+    "media_id": "17905540482603213"
+  }
 }

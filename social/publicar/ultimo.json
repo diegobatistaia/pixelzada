@@ -1,10 +1,10 @@
 {
   "pedido": {
     "acao": "carrossel",
-    "slug": "ratchet-clank-ranger-rumble-cancelado-passo-a-passo",
-    "horario": "13:00",
+    "slug": "gta-6-policia-seis-estrelas-contra-gta-5",
+    "horario": "15:00",
     "data": "2026-11-07",
-    "estilo": "mapa",
+    "estilo": "versus",
     "slides": [
       "01.jpg",
       "02.jpg",
@@ -13,11 +13,15 @@
       "05.jpg",
       "06.jpg"
     ],
-    "story": null
+    "story": "story.jpg"
   },
-  "em": "2026-11-07T12:59:55-03:00",
+  "em": "2026-11-07T14:59:42-03:00",
   "ok": true,
-  "media_id": "18148780003600852",
-  "permalink": "https://www.instagram.com/p/Dfcj591FqJb/",
-  "chave": "a renovação devolveu uma chave nova (vale 60 dias); a atual continua valendo até vencer"
+  "media_id": "18102852944066031",
+  "permalink": "https://www.instagram.com/p/Dfcxm60CTU7/",
+  "story": {
+    "em": "2026-11-07T15:00:13-03:00",
+    "media_id": "17905540482603213"
+  },
+  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
