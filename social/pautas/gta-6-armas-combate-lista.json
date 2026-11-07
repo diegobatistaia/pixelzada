@@ -84,6 +84,7 @@
     "permalink": "https://www.instagram.com/p/DfdNGQjIzgL/"
   },
   "story": {
-    "erro": "HTTP 400 em 17841420505797110/media_publish: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with 18,138,829,240,683,527 cannot be found.\",\"fbtrace_id\":\"ABMsIxqkKQBDJ1L_fGQVsWU\"}}"
+    "em": "2026-11-07T19:06:35-03:00",
+    "media_id": "18144397570720022"
   }
 }
