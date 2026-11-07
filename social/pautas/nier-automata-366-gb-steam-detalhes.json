@@ -1,0 +1,78 @@
+{
+  "slug": "nier-automata-366-gb-steam-detalhes",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "NieR Automata",
+  "gta6": false,
+  "materia": "nier-automata-atualizacao-366-gb-steam-square-enix",
+  "criado": "2026-11-07T11:50:00-03:00",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/02/nier-automata-1200x675.jpg",
+    "credito": "Kotaku",
+    "pos": "58% 21%"
+  },
+  "fonte": "Fontes: GamesRadar, Kotaku e Insider Gaming",
+  "capa": {
+    "titulo": "O que se sabe do bug de 366 GB em NieR: Automata",
+    "destaque": "366 GB",
+    "apoio": "Um patch de idiomas inflou a instalação. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O patch",
+      "titulo": "Era só para três idiomas",
+      "destaque": "três idiomas",
+      "texto": [
+        "A atualização deveria adicionar chinês simplificado, chinês tradicional e coreano, segundo a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "O efeito",
+      "titulo": "De 50 GB para 366 GB",
+      "destaque": "366 GB",
+      "texto": [
+        "Na Steam, a reinstalação passou a pedir **366,56 GB**, número confirmado pela GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "A resposta",
+      "titulo": "A Square Enix investiga",
+      "destaque": "investiga",
+      "texto": [
+        "A conta oficial da série pediu desculpas e disse que investiga a causa, segundo o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Contorno",
+      "titulo": "Desmarque os DLCs",
+      "destaque": "DLCs",
+      "texto": [
+        "Em Propriedades, aba DLC, desmarcar os DLCs deixa baixar o jogo base, segundo o Insider Gaming."
+      ]
+    }
+  ],
+  "final": "Você já esbarrou em um patch gigante assim?",
+  "legenda": {
+    "gancho": "Um patch de idiomas fez NieR: Automata pedir 366 GB na Steam.",
+    "corpo": [
+      "A atualização deveria só adicionar três idiomas, e a instalação saltou de 50 GB para 366 GB, segundo a GamesRadar. A Square Enix pediu desculpas e investiga, de acordo com o Kotaku.",
+      "Desmarcar os DLCs na Steam é um contorno temporário, segundo o Insider Gaming."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#nierautomata",
+      "#squareenix",
+      "#steam"
+    ]
+  },
+  "alt": [
+    "Slide 1: O que se sabe do bug de 366 GB em NieR: Automata",
+    "Slide 2: Era só para três idiomas",
+    "Slide 3: De 50 GB para 366 GB",
+    "Slide 4: A Square Enix investiga",
+    "Slide 5: Desmarque os DLCs",
+    "Slide 6: Você já esbarrou em um patch gigante assim?"
+  ],
+  "status": "pronto"
+}
