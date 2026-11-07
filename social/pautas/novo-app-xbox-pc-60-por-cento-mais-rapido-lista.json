@@ -1,0 +1,78 @@
+{
+  "slug": "novo-app-xbox-pc-60-por-cento-mais-rapido-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Xbox no PC",
+  "gta6": false,
+  "materia": "novo-app-xbox-pc-abre-60-por-cento-mais-rapido-insiders",
+  "criado": "2026-11-07T07:50:00-03:00",
+  "imagem": {
+    "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-PC-App-1.jpg",
+    "credito": "The Verge",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Xbox Wire e The Verge",
+  "capa": {
+    "titulo": "O novo app do Xbox para PC, em 3 mudanças",
+    "destaque": "3 mudanças",
+    "apoio": "Mais rápido, mais simples e na nuvem. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Velocidade",
+      "titulo": "Abre até 60% mais rápido",
+      "destaque": "60% mais rápido",
+      "texto": [
+        "O app abre **até 60% mais rápido**, e Home, Loja e Game Pass carregam até 50% mais rápido, segundo a Microsoft."
+      ]
+    },
+    {
+      "rotulo": "Controle",
+      "titulo": "Navegação feita para o controle",
+      "destaque": "controle",
+      "texto": [
+        "A navegação ficou mais simples e a biblioteca ganhou filtros novos, segundo o The Verge."
+      ]
+    },
+    {
+      "rotulo": "Social",
+      "titulo": "Amigos na tela principal",
+      "destaque": "Amigos",
+      "texto": [
+        "Há botões rápidos para abrir um chat ou entrar em uma festa, segundo o The Verge."
+      ]
+    },
+    {
+      "rotulo": "Nuvem",
+      "titulo": "Cloud Gaming renovado",
+      "destaque": "Cloud Gaming",
+      "texto": [
+        "A versão web chega a mais jogadores nas próximas semanas, e TVs e headsets recebem o novo visual, segundo o Xbox Wire."
+      ]
+    }
+  ],
+  "final": "Você usaria o app do Xbox no PC?",
+  "legenda": {
+    "gancho": "O app do Xbox para PC foi reformulado e abre até 60% mais rápido, segundo a Microsoft.",
+    "corpo": [
+      "O teste começou para quem é Xbox Insider, segundo o Xbox Wire. A navegação ficou mais simples para o controle e a biblioteca ganhou filtros novos, de acordo com o The Verge.",
+      "O Cloud Gaming pela web chega a mais jogadores nas próximas semanas, segundo o Xbox Wire."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#xbox",
+      "#xboxpc",
+      "#cloudgaming"
+    ]
+  },
+  "alt": [
+    "Slide 1: O novo app do Xbox para PC, em 3 mudanças",
+    "Slide 2: Abre até 60% mais rápido",
+    "Slide 3: Navegação feita para o controle",
+    "Slide 4: Amigos na tela principal",
+    "Slide 5: Cloud Gaming renovado",
+    "Slide 6: Você usaria o app do Xbox no PC?"
+  ],
+  "status": "pronto"
+}
