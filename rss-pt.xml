@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 06 Nov 2026 22:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:40:17 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Novo app do Xbox para PC abre até 60% mais rápido e chega aos Insiders</title>
+      <link>https://pixelzada.com.br/pt/novo-app-xbox-pc-abre-60-por-cento-mais-rapido-insiders/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/novo-app-xbox-pc-abre-60-por-cento-mais-rapido-insiders/</guid>
+      <description>A Microsoft testa novo app do Xbox para PC que abre até 60% mais rápido. Veja o que muda no PC, na web, nas TVs e nos headsets, e como entrar no teste.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Sat, 07 Nov 2026 10:40:17 +0000</pubDate>
+    </item>
     <item>
       <title>Ratchet &amp; Clank: Ranger Rumble é cancelado e servidores fecham em maio de 2027</title>
       <link>https://pixelzada.com.br/pt/ratchet-clank-ranger-rumble-cancelado-servidores-maio-2027/</link>
@@ -238,14 +246,6 @@
       <description>Bethesda revelou o nome de The Elder Scrolls 6: Sentinel em vídeo dos 40 anos do estúdio. Veja o que se sabe sobre cenário, plataformas e data de lançamento.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 03 Nov 2026 20:40:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6: pré-carregamento começa em 10 de novembro e pede 212 GB</title>
-      <link>https://pixelzada.com.br/pt/gta-6-pre-carregamento-10-de-novembro-212-gb/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-pre-carregamento-10-de-novembro-212-gb/</guid>
-      <description>A Rockstar confirmou: o pré-carregamento de GTA 6 começa em 10 de novembro e o arquivo tem até 212 GB. Veja horários no PS5 e no Xbox e o pôster grátis.</description>
-      <category>GTA 6</category>
-      <pubDate>Tue, 03 Nov 2026 18:41:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
