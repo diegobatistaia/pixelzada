@@ -1,0 +1,78 @@
+{
+  "slug": "gta-6-armas-combate-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-armas-combate-mira-livre-camera-lenta",
+  "criado": "2026-11-07T15:50:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Jason_Lucia_Lock_And_Load_landscape.0l9s5w7ih9p~3.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: VICE, Beebom e GamesRadar+",
+  "capa": {
+    "titulo": "O combate de GTA 6, em 4 detalhes",
+    "destaque": "4 detalhes",
+    "apoio": "Mira, câmera lenta e tiro que não mata. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Mira",
+      "titulo": "Mira livre como padrão",
+      "destaque": "Mira livre",
+      "texto": [
+        "A mira automática vem desligada, com um leve grude no alvo ajustável, segundo a VICE e a Beebom."
+      ]
+    },
+    {
+      "rotulo": "Armas",
+      "titulo": "Mais recuo e mais peso",
+      "destaque": "recuo",
+      "texto": [
+        "Fuzis pedem rajadas curtas para acertar, segundo a VICE e a Beebom."
+      ]
+    },
+    {
+      "rotulo": "Câmera lenta",
+      "titulo": "Estilo Dead Eye",
+      "destaque": "Dead Eye",
+      "texto": [
+        "O modo destaca pontos fracos como cabeça, mãos e articulações, segundo a GamesRadar+."
+      ]
+    },
+    {
+      "rotulo": "Sem matar",
+      "titulo": "Dá para incapacitar",
+      "destaque": "incapacitar",
+      "texto": [
+        "É possível atirar em braços e pernas e até arrancar a arma da mão do inimigo, segundo a VICE e o Kotaku."
+      ]
+    }
+  ],
+  "final": "Qual detalhe do combate você mais espera?",
+  "legenda": {
+    "gancho": "O combate de GTA 6, em 4 detalhes que mudam em relação a GTA 5.",
+    "corpo": [
+      "A mira automática vem desligada e as armas têm mais recuo, segundo a VICE e a Beebom. A câmera lenta lembra o Dead Eye e destaca pontos fracos, de acordo com a GamesRadar+.",
+      "Também dá para incapacitar sem matar, segundo o Kotaku. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: O combate de GTA 6, em 4 detalhes",
+    "Slide 2: Mira livre como padrão",
+    "Slide 3: Mais recuo e mais peso",
+    "Slide 4: Estilo Dead Eye",
+    "Slide 5: Dá para incapacitar",
+    "Slide 6: Qual detalhe do combate você mais espera?"
+  ],
+  "status": "pronto"
+}
