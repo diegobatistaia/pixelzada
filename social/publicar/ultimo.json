@@ -1,14 +1,22 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "mortal-kombat-aposentados",
-    "pasta": "reel-mortal-kombat-aposentados",
-    "horario": "16:00",
-    "data": "2026-11-08"
+    "acao": "carrossel",
+    "slug": "mass-effect-3-multiplayer-mod-linha-do-tempo",
+    "horario": "17:00",
+    "data": "2026-11-08",
+    "estilo": "reprodutor",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg"
+    ],
+    "story": null
   },
-  "em": "2026-11-08T15:59:37-03:00",
+  "em": "2026-11-08T16:59:27-03:00",
   "ok": true,
-  "media_id": "18110220560261517",
-  "permalink": "https://www.instagram.com/reel/DffdOCQDNPc/",
+  "media_id": "18101229356418385",
+  "permalink": "https://www.instagram.com/p/DffkGXQCWua/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
