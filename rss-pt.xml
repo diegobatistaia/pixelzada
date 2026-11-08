@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:40:15 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Speedrunners já quebraram o remake de Zelda: Ocarina of Time</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-speedrunners-quebram-jogo/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-speedrunners-quebram-jogo/</guid>
+      <description>Speedrunners já quebraram o remake de Ocarina of Time: Link lançado ao ar, super pulo e atalhos. Veja os truques achados e o que a Nintendo ainda não corrigiu.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sun, 08 Nov 2026 22:40:14 +0000</pubDate>
+    </item>
     <item>
       <title>Estúdio de Star Wars Zero Company faz demissões após recontratar parte da equipe</title>
       <link>https://pixelzada.com.br/pt/bit-reactor-star-wars-zero-company-demissoes-apos-recontratar/</link>
@@ -238,14 +246,6 @@
       <description>O Xbox Cloud Gaming testa o celular como controle na smart TV e o Xbox Nano Controller com Wi-Fi direto na nuvem. Veja como ativar e o que ainda é teste.</description>
       <category>Indústria</category>
       <pubDate>Thu, 05 Nov 2026 00:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remedy tem receita 226% maior com Control Resonant</title>
-      <link>https://pixelzada.com.br/pt/remedy-receita-sobe-226-control-resonant/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/remedy-receita-sobe-226-control-resonant/</guid>
-      <description>A Remedy teve receita 226% maior no trimestre com Control Resonant, o jogo de venda mais rápida do estúdio. Veja números, jogadores e os próximos projetos.</description>
-      <category>Indústria</category>
-      <pubDate>Wed, 04 Nov 2026 22:40:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
