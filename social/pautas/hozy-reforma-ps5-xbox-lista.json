@@ -1,0 +1,78 @@
+{
+  "slug": "hozy-reforma-ps5-xbox-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Hozy",
+  "gta6": false,
+  "materia": "hozy-reforma-limpeza-ps5-xbox-series-9-de-novembro",
+  "criado": "2026-11-08T11:50:00-03:00",
+  "imagem": {
+    "url": "https://blog.playstation.com/tachyon/2048/11/e764de8347a5d741a749dd7bb7f43be000c90034.jpg",
+    "credito": "PlayStation Blog",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: PlayStation Blog e Gematsu",
+  "capa": {
+    "titulo": "Hozy chega ao PS5 e ao Xbox: 4 coisas para saber",
+    "destaque": "4 coisas",
+    "apoio": "Reforma sem pressa, a partir de 9 de novembro. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Sem pressão",
+      "titulo": "Nada de cronômetro",
+      "destaque": "cronômetro",
+      "texto": [
+        "Não há cronômetros, pontuações nem penalidades, segundo a tinyBuild, publicadora, via Gematsu."
+      ]
+    },
+    {
+      "rotulo": "Ferramentas",
+      "titulo": "Do esfregão ao pé de cabra",
+      "destaque": "pé de cabra",
+      "texto": [
+        "As ferramentas vão de um esfregão a um pé de cabra, segundo o blog do PlayStation."
+      ]
+    },
+    {
+      "rotulo": "DualSense",
+      "titulo": "Vibração do DualSense",
+      "destaque": "DualSense",
+      "texto": [
+        "O retorno tátil e os gatilhos adaptáveis simulam o chão e os móveis, segundo o blog do PlayStation."
+      ]
+    },
+    {
+      "rotulo": "Depois do final",
+      "titulo": "Game+ e Sandbox",
+      "destaque": "Sandbox",
+      "texto": [
+        "São nove fases, e depois há o modo Game+ e o Sandbox com todos os itens, segundo o blog do PlayStation."
+      ]
+    }
+  ],
+  "final": "Você jogaria um game de reforma sem pressa?",
+  "legenda": {
+    "gancho": "Hozy chega ao PS5 e ao Xbox Series em 9 de novembro.",
+    "corpo": [
+      "O jogo de reforma e limpeza não tem cronômetros nem pontuações, segundo a tinyBuild, via Gematsu. No PS5, o DualSense reforça a experiência com retorno tátil, de acordo com o blog do PlayStation.",
+      "São nove fases, com modo Game+ e Sandbox depois do final, segundo o blog do PlayStation."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#hozy",
+      "#ps5",
+      "#xboxseries"
+    ]
+  },
+  "alt": [
+    "Slide 1: Hozy chega ao PS5 e ao Xbox: 4 coisas para saber",
+    "Slide 2: Nada de cronômetro",
+    "Slide 3: Do esfregão ao pé de cabra",
+    "Slide 4: Vibração do DualSense",
+    "Slide 5: Game+ e Sandbox",
+    "Slide 6: Você jogaria um game de reforma sem pressa?"
+  ],
+  "status": "pronto"
+}
