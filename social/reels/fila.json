@@ -983,10 +983,15 @@
     "slug": "mortal-kombat-aposentados",
     "data": "2026-11-08",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Polaroid",
     "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#mortalkombat #memes #memesgamer #games #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-08T15:59:37-03:00",
+      "media_id": "18110220560261517",
+      "permalink": "https://www.instagram.com/reel/DffdOCQDNPc/"
+    }
   },
   {
     "slug": "trem-gta5-invicto",
