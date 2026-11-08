@@ -1,0 +1,77 @@
+# Motor de pesquisa de vídeos dos concorrentes: configuração da marca.
+#
+# O motor (scripts/social/pesquisa.py) é o mesmo para qualquer marca. Para usar
+# em outro perfil (ex.: Cortexplor), copie este arquivo, troque os campos e
+# rode com --config <arquivo>.
+
+marca: Pixelzada
+conta: pixelzada.br               # perfil do Instagram ligado à Página do Facebook
+segredo: META_TOKEN_PIXELZADA     # nome do secret no GitHub com a chave da API oficial
+api: https://graph.facebook.com/v23.0
+
+pasta: social/pesquisa            # onde ficam coletas, listas e o histórico
+entrada: social/reels/entrada     # onde caem os vídeos escolhidos (antes da moldura)
+
+janela_horas: 48                  # só entram vídeos publicados nas últimas X horas
+posts_por_perfil: 30              # quantos posts recentes ler de cada perfil
+lista_tamanho: 15                 # quantos vídeos vão na lista do dia
+max_por_perfil: 3                 # no máximo X vídeos do mesmo perfil na lista
+minimo_vezes_media: 1.2           # vídeo precisa ir X vezes melhor que a média do perfil
+horarios: ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
+
+# Coletas por dia (horário de Brasília). Antes do lançamento só a das 6h.
+coletas: ["06:00"]
+
+lancamento:
+  desde: "2026-11-19"             # GTA 6
+  coletas: ["06:00", "11:00", "15:00", "19:00"]
+  janela_horas: 24
+  lista_tamanho: 20
+  pesos: {gta6: 5}
+
+# Temas: palavras na legenda que identificam o jogo, e o peso na escolha.
+temas:
+  gta6:
+    nome: GTA 6
+    palavras: ["gta 6", "gta6", "gta vi", "gtavi", "vice city", "leonida", "lucia", "jason duval"]
+    peso: 2
+  battlefield6:
+    nome: Battlefield 6
+    palavras: ["battlefield 6", "battlefield6", "bf6", "battlefield"]
+    peso: 1.3
+  forza6:
+    nome: Forza Horizon 6
+    palavras: ["forza horizon 6", "forzahorizon6", "fh6", "forza"]
+    peso: 1.3
+  games:
+    nome: o universo dos games
+    palavras: []
+    peso: 1
+
+# Perfis concorrentes. "tema" vale quando a legenda não diz o jogo.
+# Lista inicial tirada da estratégia de Instagram (17/10); o teste mostra quais
+# a API enxerga (só perfis profissionais) e os que falharem saem.
+concorrentes:
+  - {perfil: gtacommunity, tema: gta6}
+  - {perfil: houseofgta6, tema: gta6}
+  - {perfil: grandtheftauto6, tema: gta6}
+  - {perfil: gtabase, tema: gta6}
+  - {perfil: gta6latest, tema: gta6}
+  - {perfil: gta6countdown2026, tema: gta6}
+  - {perfil: rockstargames, tema: gta6}
+  - {perfil: battlefield, tema: battlefield6}
+  - {perfil: theenemybr, tema: games}
+  - {perfil: gameviciobr, tema: games}
+  - {perfil: meups_oficial, tema: games}
+  - {perfil: flowgamestv, tema: games}
+  - {perfil: omelete, tema: games}
+  - {perfil: playstation_br, tema: games}
+  - {perfil: xboxbr, tema: games}
+  - {perfil: coisadenerd, tema: games}
+  - {perfil: cutgamesoficial, tema: games}
+  - {perfil: chernobyl.games, tema: games}
+  - {perfil: meugameusado, tema: games}
+  - {perfil: tag_games_, tema: games}
+  - {perfil: voxeloficial, tema: games}
+  - {perfil: adrenaline_oficial, tema: games}
+  - {perfil: gameblast, tema: games}

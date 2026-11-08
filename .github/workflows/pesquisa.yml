@@ -1,0 +1,88 @@
+name: Pesquisa de vídeos
+
+# Motor de pesquisa de vídeos dos concorrentes (scripts/social/pesquisa.py).
+# Todo dia às 6h (Brasília) lê os perfis concorrentes pela API oficial do
+# Instagram e grava a lista do dia em social/pesquisa/listas/. A partir do
+# lançamento do GTA 6 (19/11) coleta também às 11h, 15h e 19h. Os horários que
+# valem estão em social/pesquisa/config.yaml; as rodadas fora deles não fazem nada.
+#
+# Botão "Run workflow":
+#   teste    confere a chave (secret META_TOKEN_PIXELZADA) e lê 1 perfil
+#   coletar  faz a coleta e a lista agora, fora do horário
+#   baixar   baixa os vídeos escolhidos: data (AAAA-MM-DD) + números (ex.: 1,4,7)
+on:
+  schedule:
+    - cron: "5,35 9 * * *"     # 6h
+    - cron: "5,35 14 * * *"    # 11h (só no lançamento)
+    - cron: "5,35 18 * * *"    # 15h (só no lançamento)
+    - cron: "5,35 22 * * *"    # 19h (só no lançamento)
+  workflow_dispatch:
+    inputs:
+      acao:
+        description: "teste, coletar ou baixar"
+        type: choice
+        options: [teste, coletar, baixar]
+        default: teste
+      data:
+        description: "baixar: data da lista (AAAA-MM-DD)"
+        required: false
+      numeros:
+        description: "baixar: números da lista (ex.: 1,4,7)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pesquisa
+  cancel-in-progress: false
+
+jobs:
+  pesquisa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
+      ACAO: ${{ github.event.inputs.acao || 'agendada' }}
+      DATA: ${{ github.event.inputs.data }}
+      NUMEROS: ${{ github.event.inputs.numeros }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Teste da chave
+        if: env.ACAO == 'teste'
+        run: python -m scripts.social.pesquisa teste
+
+      - name: Coleta agendada
+        if: env.ACAO == 'agendada'
+        run: python -m scripts.social.pesquisa coletar
+
+      - name: Coleta agora
+        if: env.ACAO == 'coletar'
+        run: python -m scripts.social.pesquisa coletar --forcar
+
+      - name: Baixar os escolhidos
+        if: env.ACAO == 'baixar'
+        run: python -m scripts.social.pesquisa baixar "$DATA" "$NUMEROS"
+
+      - name: Registrar o resultado
+        if: always() && env.ACAO != 'teste'
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add social/pesquisa social/reels/entrada 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "pesquisa: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1
