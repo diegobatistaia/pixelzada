@@ -1,0 +1,78 @@
+{
+  "slug": "angry-birds-3-sonic-trailer-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Angry Birds 3",
+  "gta6": false,
+  "materia": "angry-birds-3-sonic-aparece-no-novo-trailer",
+  "criado": "2026-11-08T07:55:00-03:00",
+  "imagem": {
+    "url": "https://cdn.mos.cms.futurecdn.net/zDjUx4wPzhbzXbdfBAJDgQ-1920-80.jpg",
+    "credito": "GamesRadar",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar, Kotaku e GameBlast",
+  "capa": {
+    "titulo": "Por que o Sonic está no trailer de Angry Birds 3?",
+    "destaque": "Sonic",
+    "apoio": "O que se sabe sobre a aparição. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O trailer",
+      "titulo": "O que o Sonic faz ali?",
+      "destaque": "Sonic",
+      "texto": [
+        "Ele corre ao lado do Chuck em um plano curto, e ninguém explicou o motivo, segundo a GamesRadar e o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Hipótese",
+      "titulo": "Por que a Sega entraria?",
+      "destaque": "Sega",
+      "texto": [
+        "A GamesRadar lembra que a Sega comprou a Rovio em 2023, mas isso é leitura do veículo, não informação confirmada."
+      ]
+    },
+    {
+      "rotulo": "Distribuição",
+      "titulo": "Quem tem os direitos?",
+      "destaque": "direitos",
+      "texto": [
+        "O Kotaku nota que a Paramount tem os direitos de cinema de Sonic e de Angry Birds 3."
+      ]
+    },
+    {
+      "rotulo": "Estreia",
+      "titulo": "Quando o filme chega?",
+      "destaque": "chega",
+      "texto": [
+        "O GameBlast diz que o filme estreia em 1º de janeiro no Brasil, e as fontes divergem sobre a data nos Estados Unidos."
+      ]
+    }
+  ],
+  "final": "Você assistiria Sonic em Angry Birds 3?",
+  "legenda": {
+    "gancho": "O Sonic apareceu no trailer de Angry Birds 3 e ninguém explicou por quê.",
+    "corpo": [
+      "Ele corre ao lado do Chuck em um plano curto, segundo a GamesRadar e o Kotaku. A Sega comprou a Rovio em 2023, mas a ligação é só hipótese da GamesRadar.",
+      "No Brasil, o GameBlast informa que a estreia é em 1º de janeiro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#angrybirds",
+      "#sonic",
+      "#cinema"
+    ]
+  },
+  "alt": [
+    "Slide 1: Por que o Sonic está no trailer de Angry Birds 3?",
+    "Slide 2: O que o Sonic faz ali?",
+    "Slide 3: Por que a Sega entraria?",
+    "Slide 4: Quem tem os direitos?",
+    "Slide 5: Quando o filme chega?",
+    "Slide 6: Você assistiria Sonic em Angry Birds 3?"
+  ],
+  "status": "pronto"
+}

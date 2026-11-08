@@ -1,0 +1,78 @@
+{
+  "slug": "zelda-ocarina-remake-nota-96-manchete",
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Zelda Ocarina",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-nota-96-metacritic-melhor-do-ano",
+  "criado": "2026-11-08T07:50:00-03:00",
+  "imagem": {
+    "url": "https://www.videogameschronicle.com/files/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_06.jpg",
+    "credito": "Video Games Chronicle",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesRadar e VGC",
+  "capa": {
+    "titulo": "Zelda Ocarina of Time estreia com 96 no Metacritic",
+    "destaque": "96 no Metacritic",
+    "apoio": "A maior nota de 2026 até agora. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O fato",
+      "titulo": "A maior nota do ano",
+      "destaque": "maior nota",
+      "texto": [
+        "O remake para o Switch 2 chegou a **96** no Metacritic, a maior nota de 2026, segundo a GamesRadar e o VGC."
+      ]
+    },
+    {
+      "rotulo": "Contexto",
+      "titulo": "Atrás só do original",
+      "destaque": "original",
+      "texto": [
+        "O Ocarina de Nintendo 64 segue como o único com nota 99, e o remake supera o de 3DS, que tem 94, segundo a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "O que falta",
+      "titulo": "Sem Master Quest",
+      "destaque": "Master Quest",
+      "texto": [
+        "A Kotaku nota que não há o modo Master Quest nem um novo jogo mais, segundo análises citadas por ela."
+      ]
+    },
+    {
+      "rotulo": "Próximo teste",
+      "titulo": "GTA 6 ainda vem aí",
+      "destaque": "GTA 6",
+      "texto": [
+        "O VGC e a GamesRadar lembram que a liderança pode mudar com GTA 6, em 19 de novembro."
+      ]
+    }
+  ],
+  "final": "Você já jogou o remake de Ocarina of Time?",
+  "legenda": {
+    "gancho": "O remake de Zelda Ocarina of Time estreou com 96 no Metacritic.",
+    "corpo": [
+      "É a maior nota de 2026 até agora, segundo a GamesRadar e o VGC. O Ocarina original segue como o único com 99, de acordo com a GamesRadar.",
+      "A Kotaku nota que não há o modo Master Quest, e a liderança ainda pode mudar com GTA 6, em 19 de novembro, segundo o VGC."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#nintendoswitch2",
+      "#ocarinaoftime"
+    ]
+  },
+  "alt": [
+    "Slide 1: Zelda Ocarina of Time estreia com 96 no Metacritic",
+    "Slide 2: A maior nota do ano",
+    "Slide 3: Atrás só do original",
+    "Slide 4: Sem Master Quest",
+    "Slide 5: GTA 6 ainda vem aí",
+    "Slide 6: Você já jogou o remake de Ocarina of Time?"
+  ],
+  "status": "pronto"
+}
