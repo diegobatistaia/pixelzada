@@ -221,9 +221,11 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
 def salvar_reserva(cfg: dict, coleta: dict, agora: datetime, lista: list[dict]) -> None:
     """Reserva do piso: vídeos recentes COM arquivo que não passaram da média.
     Só são usados quando a lista principal não basta para os 6 Reels do dia."""
-    frouxo = {**cfg, "minimo_vezes_media": 0, "lista_tamanho": 80, "max_por_perfil": 6}
+    frouxo = {**cfg, "minimo_vezes_media": cfg.get("reserva_minimo", 0.6), "lista_tamanho": 80, "max_por_perfil": 6}
     na_lista = {c["id"] for c in lista}
-    reserva = [c for c in analisar(frouxo, coleta, agora) if c["tem_arquivo"] and c["id"] not in na_lista]
+    fora = {c["perfil"] for c in cfg["concorrentes"] if c.get("reserva") is False}
+    reserva = [c for c in analisar(frouxo, coleta, agora)
+               if c["tem_arquivo"] and c["id"] not in na_lista and c["perfil"] not in fora]
     for i, c in enumerate(reserva):
         c["numero"] = 100 + i + 1
     (cfg["_pasta"] / "listas" / f"{agora.date().isoformat()}-reserva.json").write_text(

@@ -34,7 +34,13 @@ plano_b:
 
 # Legenda com estas palavras não vira Reel (propaganda, venda, sorteio).
 bloquear: ["comenta quero", "desconto", "cupom", "#publi", "publicidade", "parceria paga",
-           "disney+", "assine", "sorteio", "link na bio", "frete grátis", "compre"]
+           "disney+", "assine", "sorteio", "link na bio", "frete grátis", "compre",
+           "free trial", "play now", "available now", "out now", "pre-order", "pré-venda",
+           "oferta", "#howto", "#dica", "configurações", "season 1", "battle pass"]
+
+# Reserva (vídeos abaixo da média, só quando a lista não basta): mínimo de X vezes
+# a média, e perfis com "reserva: false" ficam de fora (conteúdo que não vira meme).
+reserva_minimo: 0.6
 
 # Coletas por dia (horário de Brasília). Antes do lançamento só a das 6h.
 coletas: ["06:00"]
@@ -89,7 +95,7 @@ concorrentes:
   - {perfil: meugameusado, tema: games}
   - {perfil: tag_games_, tema: games}
   - {perfil: voxeloficial, tema: games}
-  - {perfil: adrenaline_oficial, tema: games}
+  - {perfil: adrenaline_oficial, tema: games, reserva: false}
   # 08/11: mais perfis grandes que costumam usar o áudio original (com arquivo pela API)
   - {perfil: ign, tema: games}
   - {perfil: gamespot, tema: games}
@@ -99,7 +105,7 @@ concorrentes:
   - {perfil: playstation, tema: games}
   - {perfil: xbox, tema: games}
   - {perfil: nintendoamerica, tema: games}
-  - {perfil: callofduty, tema: games}
+  - {perfil: callofduty, tema: games, reserva: false}
   - {perfil: fortnite, tema: games}
   - {perfil: ubisoft, tema: games}
   - {perfil: ignbrasil, tema: games}
