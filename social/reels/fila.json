@@ -997,9 +997,14 @@
     "slug": "trem-gta5-invicto",
     "data": "2026-11-08",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #gta #memesgamer #pixelzada",
-    "tentativas": 0
+    "tentativas": 0,
+    "publicado": {
+      "em": "2026-11-08T17:59:40-03:00",
+      "media_id": "18098224589663278",
+      "permalink": "https://www.instagram.com/reel/DffrD6_lP9c/"
+    }
   }
 ]

@@ -1,22 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "mass-effect-3-multiplayer-mod-linha-do-tempo",
-    "horario": "17:00",
-    "data": "2026-11-08",
-    "estilo": "reprodutor",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": null
+    "acao": "reel",
+    "slug": "trem-gta5-invicto",
+    "pasta": "reel-trem-gta5-invicto",
+    "horario": "18:00",
+    "data": "2026-11-08"
   },
-  "em": "2026-11-08T16:59:27-03:00",
+  "em": "2026-11-08T17:59:40-03:00",
   "ok": true,
-  "media_id": "18101229356418385",
-  "permalink": "https://www.instagram.com/p/DffkGXQCWua/",
+  "media_id": "18098224589663278",
+  "permalink": "https://www.instagram.com/reel/DffrD6_lP9c/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
