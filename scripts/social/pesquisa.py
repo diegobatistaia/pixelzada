@@ -309,9 +309,33 @@ def baixar(cfg: dict, dia: str, numeros: list[int]) -> int:
     return 1 if erros == len(escolhidos) else 0
 
 
+def diagnostico(cfg: dict, token: str) -> None:
+    """Tipo da chave e permissões concedidas (nunca imprime a chave)."""
+    try:
+        d = call(cfg["api"], "debug_token", token, input_token=token).get("data", {})
+        print(f"chave: tipo {d.get('type')}, app {d.get('application')}, "
+              f"expira {'nunca' if not d.get('expires_at') else d.get('expires_at')}, válida {d.get('is_valid')}")
+        print(f"permissões: {', '.join(sorted(d.get('scopes', [])))}")
+    except ApiError as e:
+        print(f"diagnóstico da chave falhou: {e}")
+
+
 def teste(cfg: dict) -> int:
+    token = os.environ.get(cfg["segredo"], "").strip()
+    if token:
+        diagnostico(cfg, token)
     token, ig_id = conta(cfg)
-    print(f"chave ok: dá acesso ao @{cfg['conta']}")
+    print(f"chave ok: dá acesso ao @{cfg['conta']} (id {ig_id})")
+    try:  # o próprio perfil: separa "sem permissão" de "perfil alheio bloqueado"
+        r = ler_perfil(cfg, token, ig_id, cfg["conta"])
+        print(f"business discovery no próprio perfil: ok, {len(r['posts'])} posts")
+    except ApiError as e:
+        print(f"business discovery no próprio perfil: falhou ({str(e)[:200]})")
+    try:
+        r = call(cfg["api"], ig_id, token, fields="username,media.limit(1){id,like_count}")
+        print(f"leitura direta do próprio perfil: ok ({r.get('username')})")
+    except ApiError as e:
+        print(f"leitura direta do próprio perfil: falhou ({str(e)[:200]})")
     perfil = cfg["concorrentes"][0]["perfil"]
     perf = ler_perfil(cfg, token, ig_id, perfil)
     posts = perf["posts"]
