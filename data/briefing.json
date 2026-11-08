@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:54:05+00:00",
+  "generated_at": "2026-11-08T16:06:09+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 2,
@@ -114,184 +114,6 @@
       ]
     },
     {
-      "story_id": "8b0f6dcab1f4b077",
-      "title": "Nier Automata’s File Size Now Reflects How Good It Is",
-      "summary": "Nier Automata is my favorite game of all time, and I've been telling everyone I know to play it for nearly a decade. On PC, however, Square Enix accidentally made that a little bit more difficult, because the game's latest patch ballooned the game's file size by more than 600%. The update, tested by RPG Site , takes what was a pretty reasonable 50GB file size and raises it to 366GB. It appears to...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "3b5c8c1537896804",
-        "1e385cb58714ffdc",
-        "effc4710d62990ff"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is/",
-          "title": "Nier Automata’s File Size Now Reflects How Good It Is",
-          "published_at": "2026-11-06T14:42:57+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-          "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
-          "published_at": "2026-11-06T12:28:10+00:00",
-          "kind": "press",
-          "text": "\"Do you think games are silly little things?\" Yesterday, Nier: Automata received a new patch on Steam, adding more language support to the title - it can now be played with Korean, Simplified Chinese, and Traditional Chinese options - but this new update also, somehow, inflated the file size of the game on PC from about 50GB to 366GB. D'oh! What's worse is, the update is not optional. The cause of this, reportedly, is a bug that caused all the DLC in the YoRHa Edition of the game to become the same size as the base game - and the new download stacks them all concurrently. \"Only SquareEnix can turn 40GB into 366GB with 8GB patch,\" says one dissatisfied Steam reviewer. If you don't have space for this massive new file on your PC (and I can't say I blame you, it's ridiculous), there is a workaround, as confirmed by Square Enix in a tweet via its Japanese Twitter account . \"We have confirmed an issue where, following the latest update to the Steam version of Nier: Automata, the installation process indicates that more storage space is required than expected,\" noted the publisher. \"We are currently investigating the cause and working on a solution. We sincerely apologize for the inconvenience. As a temporary workaround, you can download the base game by unchecking the DLC under Steam → Properties → DLC.\" It's quite ironic, really, that so many Steam reviewers are complaining about things like \"I just need to delete 90% of my computer to install this\" when a large part of the game is managing the software/programmes installed on your android protagonists in order to upgrade your abilities and stats. There's even an ending for uninstalling your OS on your mechanical main characters. I'd be inclined to suggest this is some sort of meta psy-op from creator Yoko Taro , but… nah, that's just fantasy, isn't it? Isn't it? Speaking of Taro, earlier this year we learned that \" Nier Automata will continue \", though we only heard back in 2025 tha t most of the projects the developer was working on were cancelled . One of these may have been the Tencent -backed Nier mobile game in 2024, which reportedly \"struggled to find a monetisation to offset its high costs .\"",
-          "image": "https://assetsio.gnwcdn.com/nier-update.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
-          "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
-          "published_at": "2026-11-07T11:15:54+00:00",
-          "kind": "press",
-          "text": "Square Enix is 'working to resolve the issue'. Usually, it's a good thing when a patch makes an already excellent game substantially larger. But in the case of Nier: Automata 's most recent update, bigger is most certainly not better. On Friday, the beloved action RPG from Square Enix received what should have been a straightforward update to add localisation support for Simplified Chinese, Traditional Chinese and Korean languages. But as reported by Automaton Media, the update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes. \"We have identified an issue following the latest update for Nier: Automata … where installation requires significantly more storage space than intended,\" wrote Square Enix in a Steam post . \"We are currently investigating the cause and working to resolve the issue. We apologise for the inconvenience.\" It isn't clear how this issue has occurred, but it may be related to Nier: Automata's DLC. When selected for download on Steam, each DLC appears to have the same file size as the base game. Weirdly though, this is only true for the initial download and installation. Once the game is installed, the file reportedly reverts to a more appropriate size of roughly 50 gigs. Indeed, as a temporary solution, Square Enix suggests that anyone who needs to download Nier: Automata deselects all eight DLC when they do so. \"As a temporary workaround, you can download the base game using the intended amount of storage space by going to \"Properties\" à \"DLC\" in Steam and unchecking each DLC item.\" While 366 gigabytes is obviously a ridiculous size for a game, what's frightening to me is that games are on track to become that massive in the coming years. Big budget games regularly exceed the 100 gigabytes in file size these days, while several major titles like Call of Duty: Modern Warfare and Call of Duty: Black Ops Cold War, have surpassed 200GB. One of the largest reported installations to date is for the combat simulator DCS World , which had a maximum file size of 250GB back in 2021 . So although Nier: Automata's SSD-choking file-size is an accidental anomaly, it might also be an ominous glimpse into the future of PC gaming. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/k598NBBJiCSKJrL33QJRvC-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "3133f0e6529e9488",
-      "title": "How to trade all the Masks from the Happy Mask Shop in Zelda Ocarina of Time Remake",
-      "summary": "The Skull Mask, the Spooky Mask, the Bunny Hood, and more are part of the Happy Mask Shop quest in OOT Remake",
-      "owners": [
-        "future-plc",
-        "vgc"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "c7814fee475f9a60",
-        "e64a480d68145c36",
-        "122ebc58b82da171"
-      ],
-      "sources": [
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-mask-shop/",
-          "title": "How to trade all the Masks from the Happy Mask Shop in Zelda Ocarina of Time Remake",
-          "published_at": "2026-11-06T13:05:16+00:00",
-          "kind": "press",
-          "text": "The Skull Mask, the Spooky Mask, the Bunny Hood, and more are part of the Happy Mask Shop quest in OOT Remake The Happy Mask Shop in Zelda Ocarina of Time has you run around Hyrule trading masks with characters for Rupees, including the Skull Mask, Spooky Mask, Bunny Hood, and the Keaton mask. Though these masks only serve as commodities to be traded with specific characters, if you can allocate all four to the right characters and complete this OOT quest, the Happy Mask Shop will give you access to four new masks that all have a very specific utility. Below I'll show you how to hand out all the Masks and the specific locations you need to look. Keep in mind that the Switch 2 version is the same as the original, in that the Happy Mask Shop won't open in The Legend of Zelda Ocarina of Time until you open the passage to the Goron City. Fortunately, the guard who opens the passage will actually tell you that the Mask Shop is now open, flagging that you can start this questline. Bought from the Mask Shop for 10 Rupees, you need to give this to the Guard in Kakariko Village who opens the passage for you, the same one who lets you know that the Mask Shop is open. He'll give you 15 Rupees in return. Bought for 20 Rupees, head back to the starting area of Kokiri Village, where you start off and get the first Shield and Sword in Zelda Ocarina of Time , and turn North into the Lost Woods. The moment you enter, head left through the hollow trunk to meet The Skull Kid, playing a tune on top of a log. He, understandably, will offer to take the Skull Mask from you, though only pay you ten for it. Cheapskate. After buying the Spooky Mask for 30 Rupees, head back to Kakariko Village, and this time take the East exit to the Graveyard, but do so during daytime. Here you'll find a boy wandering around. Speak to him to give him the Spooky Mask, for which he'll give you 30 Rupees back. The final mask in this sequence is bought for 50 Rupees. You can only sell it once you've progressed to the point where you have obtained the Three Spiritual Stones in the main story. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Once this happens, head to Hyrule Field. There'll be a man who runs in circles around the field, practicing his running. If you go during the night, he'll be sitting beside the road and you won't have to keep pace. Either way, if you give him the Bunny Hood, he will entirely fill your wallet with Rupees, so it's a good idea to have expanded it as much as possible prior to the trade to really capitalize on that. Having given these masks out, the Happy Mask Shop will now have four new masks in store that you can get, all of which serve a particular function. Here's what they do: It's really only the Mask of Truth that provides the major advantage to gameplay, though some of the dialogue options and reactions from NPCs can prompt interesting lore information. Likewise, the cash infusion delivered by the Bunny Hood NPC can make Link incredibly rich, a great reward in and of itself. © GamesRadar+. Not to be reproduced without permission. Joel Franey is a writer, journalist, podcaster and Very Tired Man with a BA from Brunel University, a Masters from Sussex University and a decade working in games journalism, often focused on guides coverage but also in reviews, features and news. His love of games is strongest when it comes to groundbreaking narratives like Disco Elysium, UnderTale and Baldur's Gate 3, as well as innovative or refined gameplay experiences like XCOM, Sifu, Arkham Asylum or Slay the Spire. He is a firm believer that the vast majority of games would be improved by adding a grappling hook, and if they already have one, they should probably add another just to be safe. You can find old work of his at Eurogamer, Gfinity, USgamer, SFX Magazine, RPS, Dicebreaker, VG247, and more. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/mmjn4is5H6VMx52NwjaZtD-1920-80.png"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-kakariko-village-cucco-locations/",
-          "title": "Zelda OOT Remake: All Kakariko Village Cucco locations",
-          "published_at": "2026-11-06T15:51:13+00:00",
-          "kind": "press",
-          "text": "All Kakariko Village Cucco locations in The Legend of Zelda: Ocarina of Time remake The Cucco Lady has lost her Cuccos, and itâs up to Link to get them back in The Legend of Zelda: Ocarina of Timeâs new remake. Cuccos are basically the chickens of Hyrule, and the Cucco Lady is allergic to them. An awful allergy to have considering what her name and job are. The Cuccos have escaped and are exploring Kakariko Village at their leisure. In this guide, weâre breaking down how to return them to the Cucco Lady and the rewards youâll get for it in The Legend of Zelda: Ocarina of Time âs Nintendo Switch 2 remake. All of the Cuccos are located outdoors, and within Kakariko Village â no need to head up Death Mountain Trail or into the Graveyard. When you find a Cucco, pick it up and carry it over to the Cucco Ladyâs pen. Throw the Cucco inside to bank it. If you need to throw or put down a Cucco outside of the pen, donât worry, it wonât move too far away from where you place it. Just donât attack them. There are seven Cuccos to find in total. The first Cucco is located near the entrance to Kakariko Village. It really is as simple as that. The second Cucco can be found near the Cucco Pen; itâs inside the building site. Near the building site is a pile of bricks, and a Cucco is sitting on top. When holding a Cucco above your head, you will glide through the air when jumping. While holding one of the Cuccos youâve already found, jump from the ledge up the stairs next to the Cucco Lady. Youâll be able to reach the bricks from there. Throw both Cuccos down before getting down from the bricks. Thereâs a single wooden crate near the house on the lowest level of the village, next to the path leading up toward the Death Mountain Trail gate. Break this crate by rolling into it to reveal a Cucco hidden inside. Grab a Cucco to glide with and carry it up to the windmill entrance. You can jump off the left side of the platform while holding a Cucco to clear the fence. Just beyond the fence, youâll find a Cucco on the ground. Climb the stairs and throw both the Cucco you carried over and the one on the floor here over toward the well, where you can take them back to the pen â but donât jump back over yet. From the point beyond the fence described in the fifth Cucco location, climb the ladder that leads up the hill and behind the windmill. Thereâs another Cucco up here that you can use to glide back down to safety and collect the Cuccos youâve used. The final Cucco you need is located near the buildings leading toward the Death Mountain Trail. Very easy to find. Once youâve finally collected all seven Cuccos and put them back in the pen, the Cucco Lady will reward you with an Empty Bottle. If you havenât played Ocarina of Time before, this might seem like a meagre reward, but trust us, itâs incredibly valuable, and youâll be happy to have it.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/Zelda-OOT-Remake-All-Kakariko-Village-Cucco-locations-24.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-all-masks-buyers-locations-profit/",
-          "title": "Zelda OOT Remake: All Masks and where to sell them",
-          "published_at": "2026-11-07T14:29:27+00:00",
-          "kind": "press",
-          "text": "All Happy Mask Shop masks and who will buy them in The Legend of Zelda: Ocarina of Time’s remake One of the trickiest side objectives in The Legend of Zelda: Ocarina of Time and the Switch 2 remake is the Happy Mask Salesman quest. After you open the Death Mountain Trail path in Kakariko Village, youâll be able to start renting and selling masks from a new shop in Castle Town Market. Thereâs a man outside the shop thatâll hint at who might want to buy the masks you sell, but his hints are vague and donât give the details youâll need. In this guide, weâre breaking down every mask in The Legend of Zelda: Ocarina of Time remake. Who buys them, how much they cost, and all the masks you can rent after quest completion. Each mask has one potential buyer and can only be sold once. You can rent the same mask repeatedly, but youâll only be able to sell each of the initial four once each. The Death Mountain Trail guard is the one you show Zeldaâs Letter to, and heâll ask you to go to the Happy Mask Shop after â this is the signal that the quest is now available, and the guard will be your very first customer. The first Skull Kid you meet in Kokiri Forestâs Lost Woods will buy the Skull Mask. We have detailed directions for navigating the Lost Woods , but the quick instructions are as follows: enter the Lost Woods, immediately turn left, and youâll find the Skull Kid standing atop a tree stump. Stand on the stump opposite while wearing the Skull Mask and talk to him to initiate the sale. He only has 10 Rupees, so youâll need to make up the difference. The small boy that plays in Kakariko Graveyard by day will happily buy the Spooky Mask so he can better imitate DampÃ© the Gravekeeper and his Grave Digging Tour . The boy is only around during the day, but will happily buy the Spooky Mask at cost. The Running Man will only appear on Hyrule Field after completing the third dungeon, Lord Jabu-Jabuâs Belly. When returning to Hyrule Field from Zora Domain, youâll likely see the Running Man jogging across the field. Talk to him while wearing the Bunny Hood, and heâll pay a whopping 200 Rupees for it before sprinting across the field far faster than ever before. Once you return to the Happy Mask Shop after selling all four masks, youâll be given access to the special reserve masks to rent. These masks cannot be sold; theyâre merely for cosmetic purposes. All except for one, that is. While wearing the Mask of Truth, youâll be able to hear the thoughts of the person youâre talking to before the conversation starts. In addition, youâll now be able to communicate with the Gossip Stones dotted around Hyrule â these are the mysterious stones with the Sheikah Eye symbol on them. Each Gossip Stone will share a hint or sometimes even some lore.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/Zelda-OOT-Remake-All-Masks-and-where-to-sell-them-3.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "44e51e0268bd23da",
-      "title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
-      "summary": "We should acknowledge that Monolith Soft isn't just a Xenoblade developer, but also a major supporter of The Legend of Zelda franchise. The studio confirmed on X that it assisted with programming and graphics (per a machine translation) on the Ocarina of Time remake . This marks the fifth time the team has contributed to a mainline Zelda title, starting with 2011's Skyward Sword . There were a...",
-      "owners": [
-        "fandom",
-        "future-plc"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "a13c8bb3f0098310",
-        "d56bbd35b278d907",
-        "e147e20b86f868f0"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft/",
-          "title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
-          "published_at": "2026-11-06T14:02:51+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
-          "title": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
-          "published_at": "2026-11-06T11:43:06+00:00",
-          "kind": "press",
-          "text": "Visual and performance issues not quite ironed out yet, which will be music to Nintendo's ears. I've spent all night playing The Legend of Zelda: Ocarina of Time remake on the Switch 2, and it's a fantastic experience, but some would prefer to tinker and toil over an emulator than enjoy Link's new look. The game is already running on PC, but performance issues are aplenty. You can see progress is moving pretty fast from the emulator crowd, just from these two videos by Unreal Gaming PC on YouTube. Published on the game's official launch day, November 5, this video shows the game getting over the splash screen and running the cutscenes fairly well; however, it suffers from bad flickering, stuttering, and frame rates around the 20-30 fps mark during gameplay. 12 hours later, another video. This time showing the game running between 30–60 fps during gameplay, albeit with some persistent flickering and stutters throughout. There's undoubtedly still a long way to go to a playable experience to match the native Switch 2, but that's marked progress for half a day's work. Especially considering the game is designed for an Arm-powered handheld with very different hardware to what's running the emulator ( Ryzen 7 9800X3D , 64 GB of RAM, and RTX 4080). User akakevinvro on X also posted a video claiming a pretty steady 60 fps. Both are running on the Lichii emulator for the Nintendo Switch and Nintendo Switch 2. It's called the \"VERY experimental Nintendo Switch 2 emulator\" on its GitHub page. It's an open-source project that has similarities to projects of the same ilk, such as Yuzu. Yuzu's developers settled a legal dispute with Nintendo of America and shut down development of the emulator in 2024 . Nintendo has a long history of taking down projects it deems to infringe on its rights, while emulators such as the now defunct suyu often argue that they do not circumvent Nintendo's privacy measures. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. In this case, the files for Ocarina of Time's remake were reportedly dumped online ahead of its release, according to SrLinguicaVIVE on X. 2. Best budget 4K: Asus ROG Strix XG27UCG 3. Best budget OLED Alienware AW2726DM 👉 Check out our full gaming monitor guide 👈 Jacob has been writing about PC hardware and technology for over eight years. He earned his first byline at PCGamesN before joining PC Gamer. He spends most of his time building PCs, running benchmarks, and trying his best to learn Linux. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/GJBjS9vsYe7y6P8yspKN8f-2560-80.png"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-exec-says-new-games-and-remakes-both-have-a-place-following-zelda-ocarina-of-time-launch/",
-          "title": "Nintendo exec says \"new games and remakes both have a place\" following Zelda: Ocarina of Time launch",
-          "published_at": "2026-11-06T16:08:37+00:00",
-          "kind": "press",
-          "text": "The Legend of Zelda: Ocarina of Time remake is finally out in the wild a good 28 years after Nintendo's original gem dropped back in 1998, and is already proving to be the highest-rated game of 2026 thus far. Sure, it's a remake, but it slots in nicely between all the other new games – and it's still just as valuable, too, as Nintendo senior vice president of product development and publishing Nate Bihldorff explains to Polygon . \"I do think that new games and remakes both have a place in the Nintendo stable, of equal importance to be honest. There are fans of every single IP that we have out there,\" as he says. Remakes are very welcome to those fans, to say the least. \"Of course, having new games in those series is wonderful, and I look forward to them as much as anyone else does, but there's also a deep satisfaction in revisiting games that were very, very special, like Ocarina of Time\" – and that's evident in how well the remake is doing already, if you ask me. It made Metacritic's top 30 games of all time within a day, proving that the community is very much happy to enjoy remakes as it is entirely fresh titles. Longtime Legend of Zelda fans aren't the only people immersing themselves in Nintendo's revamped spin on Hyrule, either. As Bihldorff states, \"It's also important to think about how many people had never played the original, and for them, the remake of Ocarina of Time is going to be an absolutely brand-new, 2026 experience, and one that I just cannot wait for them to get their hands on.\" A quick look at social media proves his assertion here right. Remakes don't just cater to old fans, but they help introduce countless more to long-standing franchises and series like The Legend of Zelda. They certainly don't take away from new releases, either – every fellow Zelda stan I know is on the edge of their seat waiting for more announcements from Nintendo, especially after the likes of Breath of the Wild and Tears of the Kingdom . I don't see that changing, ever. While you're here, be sure to read our The Legend of Zelda: Ocarina of Time review. You can also check out our Legend of Zelda Switch 2 stock live blog if you want to grab one of Nintendo's highly-sought-after new consoles. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week After spending years with her head in various fantastical realms' clouds, Anna studied English Literature and then Medieval History at the University of Edinburgh, going on to specialize in narrative design and video game journalism as a writer. She has written for various publications since her postgraduate studies, including Dexerto, Fanbyte, GameSpot, IGN, PCGamesN, and more. When she's not frantically trying to form words into coherent sentences, she's probably daydreaming about becoming a fairy druid and befriending every animal or she's spending a thousand (more) hours traversing the Underdark in Baldur's Gate 3. If you spot her away from her PC, you'll always find Anna with a fantasy book, a handheld video game console of some sort, and a Tamagotchi or two on hand. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/eK2CgtBZvwiFgSPWKChZH8-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "72141502fe57836f",
-      "title": "What to do in Goron City in the Ocarina of Time Remake",
-      "summary": "Goron City and Darunia in the OOT Remake have players try to cheer up the gloomy Goron",
-      "owners": [
-        "future-plc",
-        "keleops"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "36a165ab7d700020",
-        "469a1443e802e55e"
-      ],
-      "sources": [
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-goron-city/",
-          "title": "What to do in Goron City in the Ocarina of Time Remake",
-          "published_at": "2026-11-06T16:01:26+00:00",
-          "kind": "press",
-          "text": "Goron City and Darunia in the OOT Remake have players try to cheer up the gloomy Goron Goron City in Zelda Ocarina of Time Remake is a fiery mountain home, run by the equally fiery Darunia, who is miserable for a number of reasons and will need cheering up if you want his assistance. To do so will require a bit of a runaround, taking you all the way to the Lost Woods and back again, but it's worth it (and also mandatory if you want to progress the plot of the Switch 2 Remake). If you're having trouble working out what to do next, I'll explain how to solve the mystery of Goron City in a full walkthrough and guide, taking you through all the steps needed in this section of The Legend of Zelda Ocarina of Time. If you're approaching Goron City, you'll need to be prepared against fire. Find out how to get a metal, non-flammable shield in our guide on how to get a Shield and Sword in Zelda Ocarina of Time . When you first reach Goron City in the Ocarina of Time Remake, you'll discover that all the Gorons are miserable and that their leader, Darunia, has holed himself up in his room. The main goal here is to access Darunia and cheer him up . Here's how you do that: With Darunia placated, he'll be willing to give you Spiritual Stone of Fire... Except he doesn't have it. You'll have to go to the Dodongo Cavern and find it there. Fortunately, he will give you Goron Bracelet, which will allow you to pick up Bomb Flowers and throw them! Feel like some side quests? Find out where to trade all the Zelda Ocarina of Time Masks from the Happy Mask Shop! © GamesRadar+. Not to be reproduced without permission. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Joel Franey is a writer, journalist, podcaster and Very Tired Man with a BA from Brunel University, a Masters from Sussex University and a decade working in games journalism, often focused on guides coverage but also in reviews, features and news. His love of games is strongest when it comes to groundbreaking narratives like Disco Elysium, UnderTale and Baldur's Gate 3, as well as innovative or refined gameplay experiences like XCOM, Sifu, Arkham Asylum or Slay the Spire. He is a firm believer that the vast majority of games would be improved by adding a grappling hook, and if they already have one, they should probably add another just to be safe. You can find old work of his at Eurogamer, Gfinity, USgamer, SFX Magazine, RPS, Dicebreaker, VG247, and more. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/fk4hxsTJ5vsXvR73TQ549Q-1920-80.png"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
-          "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake",
-          "published_at": "2026-11-06T22:30:52+00:00",
-          "kind": "press",
-          "text": "The Legend of Zelda: Ocarina of Time is full of the usual intended goofiness the series has always had, but sometimes it was moments of unintentional goofiness that really elevated the original Nintendo 64 game. With the remake out on Switch 2 now, it would have been easy for Nintendo to scrub some of that stuff out, but as some players have found, some of the funnier opportunities for player-driven silliness are still included in the game, including the fact that the Iron Boots can ruin serious cutscenes. The Iron Boots are a piece of equipment Link can wear to walk under the surface of water, allowing him to reach places he wouldnât be able to swim to. Theyâre often paired with the Zora Tunic, which allows Link to breathe indefinitely, and these two items together are crucial for places like the Water Temple which has Link going in and out of fully submerged areas. However, because these Iron Boots weigh Link down, they also let out clanking sounds as he tries to walk with them. Still, the game lets you put them on anywhere you want, and if you don them when Link has to walk across an area for a serious moment, youâre gonna hear him coming. As players are discovering, this quirk is still in the remake, and somehow, the boots are even louder coming through the Switch 2âs speakers. [OoTHD] Oh boy.. shouldn't have equipped. by u/JeszicaJeanette in zelda Though fans are discovering the remake has sanded away some of the originalâs rough edges , and taken out some exploits that fans have taken advantage of for nearly 30 years, itâs nice to see that not everything has been completely polished this time around. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Could a remake of the other (better) Nintendo 64 Zelda also be on the way? The titular instrument accepts all kinds of inputs, including just straight up yelling 28 years of muscle memory going right down the drain",
-          "image": "https://kotaku.com/app/uploads/2026/11/linkgoron.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "f2b55c458679bf97",
       "title": "Próxima semana em XBOX: novos jogos de 9 a 13 de novembro",
       "summary": "The post Próxima semana em XBOX: novos jogos de 9 a 13 de novembro appeared first on Xbox Wire em Português .",
@@ -324,7 +146,7 @@
           "title": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
           "published_at": "2026-11-07T16:15:00+00:00",
           "kind": "press",
-          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de seis títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Em Pit of Goblin os jogadores assumem o papel de goblins que precisam explorar masmorras, escapar de armadilhas e fugir de monstros para alimentar o Rei-Rainha Goblin. O jogo aposta no terror cooperativo online, permitindo formar equipes com amigos ou encarar os desafios sozinho. Mas cuidado: se a missão falhar, você pode acabar virando a próxima refeição! Dos mesmos criadores de Vampire Survivors , Vampire Crawlers: The Turbo Wildcard from Vampire Survivors transforma a fórmula de ação do original em uma aventura de exploração de masmorras em primeira pessoa. Com elementos de roguelite e combate por turnos, o game permite montar baralhos de cartas e criar combinações poderosas para enfrentar inimigos e explorar cenários conhecidos da franquia. Void/Breaker é um FPS roguelite em que os jogadores precisam escapar de um ciclo interminável controlado por uma inteligência artificial hostil. Disponível na versão 1.0 para Xbox Series X|S e Cloud Gaming, o jogo traz combates contra máquinas, além de um sistema de modificações que permite criar diferentes combinações de armas e habilidades. Disponível no lançamento pelo Xbox Game Pass, Escape Academy 2: Back 2 School aposta em uma nova abordagem para os jogos de escape room ao apresentar um mundo aberto repleto de enigmas. A aventura pode ser aproveitada em modo cooperativo local ou online para dois jogadores, que precisam trabalhar juntos para solucionar desafios e escapar das salas. Em Firefighting Simulator: Ignite , os jogadores assumem o papel de bombeiros nos Estados Unidos e precisam enfrentar incêndios, lidar com situações de risco e salvar vidas. O simulador permite formar equipes com até três amigos no modo cooperativo ou contar com personagens controlados pela inteligência artificial para auxiliar nas operações. Por fim, MySims Cozy Bundle reúne versões retrabalhadas de dois jogos da franquia: MySims e MySims Kingdom . Os jogadores podem personalizar uma cidade, explorar um reino de fantasia, fazer amizades e participar de diferentes atividades, incluindo a resolução de quebra-cabeças e a construção e decoração de ambientes. O pacote está disponível nos consoles e no Cloud Gaming. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Void/Breaker , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? ‘Funcionário virtual’: Perplexity lança agente de IA que trabalha 24 horas por dia ‘Médico não merece título de doutor que nos é dado no Brasil’, diz cardiologista | Triturando Dados Ataques hackers ao setor de energia podem ser 'desastrosos' Que fim levou a Compaq, uma das primeiras sensações do mercado de PCs?",
+          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de seis títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Em Pit of Goblin os jogadores assumem o papel de goblins que precisam explorar masmorras, escapar de armadilhas e fugir de monstros para alimentar o Rei-Rainha Goblin. O jogo aposta no terror cooperativo online, permitindo formar equipes com amigos ou encarar os desafios sozinho. Mas cuidado: se a missão falhar, você pode acabar virando a próxima refeição! Dos mesmos criadores de Vampire Survivors , Vampire Crawlers: The Turbo Wildcard from Vampire Survivors transforma a fórmula de ação do original em uma aventura de exploração de masmorras em primeira pessoa. Com elementos de roguelite e combate por turnos, o game permite montar baralhos de cartas e criar combinações poderosas para enfrentar inimigos e explorar cenários conhecidos da franquia. Void/Breaker é um FPS roguelite em que os jogadores precisam escapar de um ciclo interminável controlado por uma inteligência artificial hostil. Disponível na versão 1.0 para Xbox Series X|S e Cloud Gaming, o jogo traz combates contra máquinas, além de um sistema de modificações que permite criar diferentes combinações de armas e habilidades. Disponível no lançamento pelo Xbox Game Pass, Escape Academy 2: Back 2 School aposta em uma nova abordagem para os jogos de escape room ao apresentar um mundo aberto repleto de enigmas. A aventura pode ser aproveitada em modo cooperativo local ou online para dois jogadores, que precisam trabalhar juntos para solucionar desafios e escapar das salas. Em Firefighting Simulator: Ignite , os jogadores assumem o papel de bombeiros nos Estados Unidos e precisam enfrentar incêndios, lidar com situações de risco e salvar vidas. O simulador permite formar equipes com até três amigos no modo cooperativo ou contar com personagens controlados pela inteligência artificial para auxiliar nas operações. Por fim, MySims Cozy Bundle reúne versões retrabalhadas de dois jogos da franquia: MySims e MySims Kingdom . Os jogadores podem personalizar uma cidade, explorar um reino de fantasia, fazer amizades e participar de diferentes atividades, incluindo a resolução de quebra-cabeças e a construção e decoração de ambientes. O pacote está disponível nos consoles e no Cloud Gaming. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Void/Breaker , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? A ‘Doença do Nobel’ e o risco da falácia de autoridade: por que grandes cientistas erram Samsung define data para iniciar a pré-venda de óculos inteligentes nos EUA Pornô gerado por IA: entenda os perigos por trás do DeepNude ‘Médico não merece título de doutor que nos é dado no Brasil’, diz cardiologista | Triturando Dados",
           "image": "https://www.estadao.com.br/resizer/v2/TWYBREIWABMGDNNFIKI7SLIG6M.jpg?quality=80&auth=409586bda5b708ecb1f456fb20ebc3672194753a07ce8a3a41d701250e4e0b70&width=1200&height=630&focal=955,488"
         }
       ]
@@ -400,8 +222,186 @@
           "image": "https://insider-gaming.com/wp-content/uploads/2026/11/MARVEL-Cosmic-Invasion-DLC-Shows-Off-Castle-Doom-Mode.jpg"
         }
       ]
+    },
+    {
+      "story_id": "8fd27d15a47e3fb2",
+      "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+      "summary": "\"While it stings, I'm really proud of what we built together.\"",
+      "owners": [
+        "future-plc",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "ed9448955574bb03",
+        "a76bd5a702717db5"
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
+          "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+          "published_at": "2026-11-07T12:18:55+00:00",
+          "kind": "press",
+          "text": "\"While it stings, I'm really proud of what we built together.\" Star Wars Zero Company developer Bit Reactor has laid of an unspecified number of developers, after furloughing its entire team and then hiring some of that staff back. As reported by the Star Wars website Bespin Bulletin, several designers of the acclaimed tactics game have taken to LinkedIn to announce that they have been let go by the studio. Among those affected are senior environment artist Ryan Lopez, who worked on the game for three and a half years and has been on furlough for the past three and a half months. \"While it stings, I'm really proud of what we built together,\" Lopez wrote in a LinkedIn post . Other designers who lost their jobs include UI Engineer Tyler Eichten and senior quality assurance analyst Ryan Mosher , who spent two years at Firaxis and a further two years at 1047 Games before joining Bit Reactor in October 2024. It's been a tumultuous few months for Bit Reactor. In September, it was reported that the studio had furloughed up to 80% of its staff in the weeks leading up to Zero Company's launch, with the studio having reportedly \"run out of most of its money\" ahead of the game's launch. At the time, former senior technical artist Zachariah Scott said the project was built with \"shocking austerity\". Scott also accused Bit Reactor of \"concealing the fact that the team was furloughed weeks ago\" after the company made the announcement. Within a month, Zero Company had sold one million copies and Bit Reactor subsequently announced it had hired back some of its staff. In a statement posted on Bluesky, CEO Greg Foertsch stated that the furlough had been a response to \"unexpected business developments outside of our control\" and \"necessary to help us eventually bring as many people back as we can\". Clearly, though, Zero Company's commercial performance hasn't been enough to bring back everybody. Which is a shame, considering that Zero Company is by all accounts a brilliant Star Wars adventure. Resident word Jedi Ted Litchfield called it \"one of the best games of 2026 and a new all-timer Star Wars videogame\" in his Star Wars Zero Company Review . Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Zero Company isn't the only knockout Star Wars game to release this year either, with Star Wars: Galactic Racer providing a similarly scintillating experience in a galaxy far, far away. Indeed, the performance of both games appears to have pleased Star Wars overlords Lucasfilm, and the company is keen to do more creative spins on the universe in the vein of Zero Company and Galactic Racer. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/QzGk2ZJyUzdTRQXxUM2RhW-2560-80.png"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
+          "title": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
+          "published_at": "2026-11-07T20:06:10+00:00",
+          "kind": "press",
+          "text": "\"While it stings, I'm really proud of what we built together.\" Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work. Several developers announced on LinkedIn on Friday, 6th November, that they had been let go, as first reported by Bespin Bulletin . Bit Reactor hasn't said how many people are affected. Among them is senior environment artist Ryan Lopez, who spent three and a half years working on Zero Company, from pre-production to launch, and was laid off after a three-month furlough. UI engineer Tyler Eichten, who worked on much of the on-screen UI for the game's tactical missions, and Ryan Mosher from the QA team have also confirmed they were let go. \"While it stings, I'm really proud of what we built together,\" Lopez wrote . \"It was a privilege to ship a game with you.\" Bit Reactor furloughed most of its staff in the weeks before Zero Company launched on 27th August, with one source putting the figure at roughly 80 percent. The studio appeared to have run out of money just short of release. The game did well regardless, and is thought to have sold more than a million copies within a month . Then, in a message shared on Bluesky on 7th October, CEO Greg Foertsch said the studio had \"started the process of returning more of our team back to work\". Asking staff to step away so close to launch was \"an incredibly difficult decision\", he said, \"but one that was necessary to help us eventually bring as many people back as possible\". It's thought more than half the studio returned, though not everyone went back on full pay. It's not clear whether any of those who returned were among the people laid off this week. In Eurogamer's Star Wars Zero Company review , we awarded the game four out of five stars, saying, \"an already winning genre is matched with the perfect setting in this earnest, heartfelt, smart and slightly ramshackle turn-based tactics gem\".",
+          "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
+    },
+    {
+      "story_id": "a1add77c402b7cc3",
+      "title": "Sony Indefinitely Delays Another PlayStation Accessory Just A Week Before Launch",
+      "summary": "Sony cites a 'production issue' as hardware shortages stymie what would have been an otherwise whirlwind holiday season for the console",
+      "owners": [
+        "keleops",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "36bfbc91c8b04478",
+        "a3f579ced6b7c7ff"
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+          "title": "Sony Indefinitely Delays Another PlayStation Accessory Just A Week Before Launch",
+          "published_at": "2026-11-07T15:59:42+00:00",
+          "kind": "press",
+          "text": "Hardware PlayStation 5 PlayStation Portal Sony One year ago, during PlayStationâs 2025 State of Play , Sony announced their Pulse Elevate speakers. A set of two, wireless gaming-focused speakers for the home console and desktop experience alike. Complementing their in-house line of earbuds, the speakers were to hit shelves this Thursday. With days to go, Sony updated the Pulseâs announcement page to say that they have been delayed. “As part of our ongoing quality testing of Pulse Elevate speakers, we have identified a production issue with the product and have made the decision to delay the launch,” reads the update . “The additional time will allow us to ensure the product will deliver the experience we intended for our players. We apologize for the delay and appreciate your patience and understanding. We look forward to bringing Pulse Elevate to players soon.” Similar to the Pulse brand of earbuds, the Pulse Elevate speakers were designed with the PlayStation 5 and Portal in mind, but could pair with PC, Mac and even mobile gaming experiences. The product promised to blast 3D audio from compatible PlayStation games and a built-in mic with AI-powered noise reduction. The original release date was November 12th, with pre-orders opening in September and hardware influencers seemingly receiving their copies . No new timeline, release date or refund policy has been announced from this delay. Sony pulled a similar move with the FlexStrike Wireless Fight Stick that was supposed to arrive alongside Marvel Token: Fighting Souls . The accessory was delayed in July and still hasn’t shipped or even received an updated release date. With Grand Theft Auto VI just a few blocks away, and the PlayStation the primary console to play it on, this should be an exceptionally stellar holiday season for Sony. Instead, between trade wars, component shortages, rising costs and AI RAM hoarding , Sony seems unable to keep up with demand . Just last week the company unveiled an unusual buyback program , an effort to keep these gizmos circulating amid difficult stock. What exactly spurred the Pulse delay is unspecified. Sony was traditionally a consumer tech, home entertainment focused company, so this isnât their first rodeo. In recent years, however, the company has seemingly drifted towards producing the media consumed on television instead of the television itself, following years of more affordable options in the industry. This is made most clear in their decision to abandon physical discs, printing that propriety format being the reason PlayStation exists in the first place . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Sony's Q2 2026 earnings report just released, and Logan is currently being outsold by Rhythm Heaven Groove Console makers are getting aggressive about trade-ins Don't expect Destiny 2 to feel whole again before 2028 The Prism Collection is going on sale in November One hacker is being accused of ruining everyone's chances of pirating GTA 6 after reporting a massive hypervisor exploit to Sony It's part of a larger push by the PlayStation maker to move away from making home electronics, like TVs",
+          "image": "https://kotaku.com/app/uploads/2026/11/pspulsespeaker-1200x675.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+          "title": "Sony delays PlayStation's Pulse Elevate speakers indefinitely, less than a week before launch",
+          "published_at": "2026-11-07T19:36:10+00:00",
+          "kind": "press",
+          "text": "Sony has delayed its Pulse Elevate wireless speakers indefinitely, less than a week before they were due to launch. The news came in a 6th November update to Sony’s original announcement on the PlayStation Blog , first spotted by IGN . Quality testing has turned up a \"production issue\", Sony said, and there's no new release date yet. \"As part of our ongoing quality testing of Pulse Elevate speakers, we have identified a production issue with the product and have made the decision to delay the launch,\" the statement reads. \"The additional time will allow us to ensure the product will deliver the experience we intended for our players. We apologise for the delay and appreciate your patience and understanding. We look forward to bringing Pulse Elevate to players soon.\" The speakers were set to go on sale worldwide on 12th November, and pre-orders opened in September. It's unclear what, exactly, happens to those orders, but we'll update as and when we find out more. Sony revealed Pulse Elevate in September 2025 as its first wireless speakers for desktop gaming. They sit alongside the Pulse Elite headset and Pulse Explore earbuds, and cost £199.99 ($219.99). They connect to PS5, PC, Mac, and PlayStation Portal via PlayStation Link, and can pair with a phone over Bluetooth at the same time. There's also a microphone in the right speaker with what Sony calls \"AI-enhanced noise rejection\". Midnight Black was due to be available everywhere, while the White version was limited to a handful of countries, including the UK. Alongside the Pulse Elevate speakers, Sony revealed a range of hardware in September 2025, including a 27-inch gaming monitor that's coming only to the US and Japan .",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-07-at-19.29.39.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
+    },
+    {
+      "story_id": "70f2edc901bf57bc",
+      "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+      "summary": "When the Mass Effect Legendary Edition came out in 2021, it included the single player campaign of all three original games, along with all the DLC. But while all the story content you could ever want was included, Mass Effect 3's multiplayer mode was conspicuously absent, despite having a dedicated fanbase.",
+      "owners": [
+        "keleops",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "2431af9662c052bd",
+        "567e807c3b5f5451"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+          "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+          "published_at": "2026-11-07T17:00:00+00:00",
+          "kind": "press",
+          "text": "When the Mass Effect Legendary Edition came out in 2021, it included the single player campaign of all three original games, along with all the DLC. But while all the story content you could ever want was included, Mass Effect 3's multiplayer mode was conspicuously absent, despite having a dedicated fanbase. Now, just a few weeks after EA's shutdown of BioWare , a team of modders has successfully ported Mass Effect 3 's multiplayer to the Legendary Edition, with all the graphics and engine improvements that came with that re-release. The mod will be coming out on N7 Day – November 7th – and will be free to play, as long as you already own Mass Effect Legendary Edition. I also got a chance to sit down with Mgamerz, who runs the ME3Tweaks team that created the mod, to talk about Mass Effect 3, and about the state of modding in 2026. And if you want to download the mod yourself, it's available now on Nexus Mods. IGN: So, tell me a little bit about the project, and how you got started on basically porting the Mass Effect 3 multiplayer over to the Legendary Edition. Mgamerz: Yeah, so my dev team, ME3Tweaks, and I run it. We ported Pinnacle Station back in 2021. Crazy effort. I don't know how we got that done in a two-month timeframe. And then we were doing other projects for two years, and then near the end of me working on LE2 Randomizer, which is a randomizer for legendary Mass Effect 2, someone discovered a copy of the Citadel in Mass Effect 2. There's an area from the wards. I can't remember which game it was, but they found an area of the game that nobody knew about before, and you could load into and you're like, 'Well, this was clearly supposed to be something, and then they just never finished it.' It was a very early prototype. And it was like, 'Man, what if we could port something like that into another level?' And so I made this project called Project Wardle, Ward being the first part of it. (We have a bunch of stupid internal code names.) And I eventually made it so we could port a Mass Effect 2 level into Mass Effect 3, and we fixed up the cover, because cover is just an unbelievable nightmare. It's very important for enemies to be able to use it. Gameplay's a huge component of why Mass Effect 3 is fun. And we got that working and then I was like, 'Well, man, what if we could port the multiplayer levels?' Because we did it for Pinnacle Station. We ported the old game. But Pinnacle Station is mostly just reused assets from Mass Effect 1. Like 90% of it was just existing assets that they just reused. But multiplayer was totally different. It's like, yeah, none of this content exists. So the scope of work is just huge. So at the end of 2023, right as we finished LE2 Randomizer, literally on N7 day, I spun up a new Discord. I invited a couple people and they're like, 'What's this Discord about?' I'm like, 'We're going to do something stupid. We're going to port [Mass Effect 3] Multiplayer.' And those were the first two messages I ever sent. I have some screenshots of it. And then people were like, 'Yeah, you're joking, right?' And I'm like, 'No.' And then the last three years we've been working on it. It hasn't been constant. Last year I broke my arm, which set us back six to eight months. But for the first two years, it was tons of prototyping. Within the first month of this project, we actually had multiplayer working. It was a proof of concept. And then we spent the next two years getting audio to port, from a different version of the audio engine because they upgraded it. It's like we got shaders building, which was a total nightmare because BioWare compiled the game with a bunch of sources that don't ship with the game. And so we had to figure out 'how do we replicate that?' So that took a long time. And then it's like textures. We have a bunch more people that know how to do texture upscaling. The first two years is almost all prototype and then asset generation. We want to make it look good. We're planning stuff out, that kind of stuff. So that's really not how it started. IGN: So, you basically built from scratch again? Did you take assets from the original Mass Effect 3? Mgamerz: Oh yeah, the whole thing ports from it. It's not a one-to-one port. We're not just taking Mass Effect 3 multiplayer and dumping it into Legendary Edition and then, 'Hey guys, check out it's multiplayer, [as] you remember it.' Where we took a lot of extra steps, the lighting actually gets re-baked in Unreal Engine 4's light solver. Essentially what that means is, imagine you have a light bulb in a room and if you wanted to project what the lights would look like, a light beam's going to hit your microphone and it's going to cast a shadow. And then that light bounces off for you, goes into your closet and it bounces off and illuminates the closet a little bit from the inside. Unreal Engine 3 had a solver and that's how all of the lighting for all the Unreal Engine 3 games worked. But in Unreal Engine 4, they added like, 'Oh, we can do additional light bounces or we found a better statistical way to do light bounces.' And so you get crisper shadow edges or the more soft, like a grate covering on some maps. The light bounces through the grate, and unless you have super high resolution textures, it looks terrible. Mass Effect 3 is full of terrible light maps. If you look at them, you're like, 'Wow, it's just a big stair step of shadows and it looks bad.' And so we spent a lot of time upgrading that kind of stuff. I modded Mass Effect 3 multiplayer for eight years before Legendary Edition came out, and there's a bunch of stuff I was like, 'Wow, I didn't even realize three of the character classes don't even use the highest-quality mesh.' So it's like BioWare made the Geth Infiltrator, and they made it at a high quality where it has all the polygons and triangles. And then as you get further away from the camera, it gets less triangles, because you can't see as much detail. But BioWare was just like, 'We'r",
+          "image": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-multiplayermod-interview-blogroll-1793999260678.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691",
+          "title": "How Modders Spent Three Years Remastering Mass Effect 3’s Fantastic Multiplayer For Legendary Edition: ‘Let’s Do Something Stupid’",
+          "published_at": "2026-11-07T17:00:29+00:00",
+          "kind": "press",
+          "text": "Mass Effect 3 Mass Effect: Legendary Edition Mass Effect: Universe N7 Day When the Mass Effect: Legendary Edition remasters launched in 2021, they had just about everything you could have wanted from a modern-day port of BioWareâs sci-fi RPGs. There were, however, two major exemptions: the original gameâs Pinnacle Station DLC , and Mass Effect 3 âs cooperative multiplayer mode. In 2021, the ME3Tweaks modding group brought back Pinnacle Station . Now, five years later, itâs back to finish the job, and is releasing a remastered mod of the multiplayer mode for those who have the Legendary Edition on PC. The project began in earnest three years ago, with modder Mgamerz coming up with the idea shortly after wrapping up a randomizer mod for the Mass Effect 2 remaster. Luckily, the ME3Tweaks group had a lot of the foundations set in place to bring the missing mode into the Legendary Edition after years of working in the Mass Effect modding space. âThere was somebody who had shown that they could port a level when they found an unused level in [ Mass Effect 1 âs remaster],â he tells Kotaku . âThere was like an extra Citadel area, and I was like, âOh man, what if I could port that to another game?â Sometimes I just get these crazy ideas, like, âWhat if I just did something crazy?â And so I tried porting it, and I was able to actually get it to port because we did Pinnacle Station , so we had a lot of the infrastructure to do it, and I was able to port it. I’m like, âman, what if we could do like a multiplayer level?â And I was able to port, I think it was [Firebase] Condor. It’s one of the first DLC maps. ItÂ looked terrible, but you didn’t immediately crash the game loading into it. And I had already ported multiplayer levels before in my Redemption map pack that I had made from single player to multiplayer, so I kind of knew everything that was needed. And then it was like, âOkay, well, I made this map, but there’s no game mode; you can’t do anything on it. Really, it looks terrible.â And so I kind of shelved it for a couple of months.â After some time, Mgamerz decided he wanted to make a multiplayer mod, and thus went back to the original Mass Effect 3 , and says he was struck by how much âfurther advancedâ the groupâs modding tools had become while working on the remaster.Â âLiterally probably about three hours into it, I’m like, âThese tools suck,â and I say that as someone who helped write most of them. Our tooling for the original trilogy is so bad compared to what we got in Legendary Edition .â Part of that is because, prior to the remasterâs launch, the ME3Tweaks group had meetings with folks at BioWare about making the Legendary Edition more modder-friendly, and although the company wasnât able to implement everything, it did give the group a better starting point. âIt was probably just like a month before the game release,â he recalls. âWe gave them a list of some of the most awful things we have to deal with, and we kind of didn’t expect them to do most of the changes. And they didn’t. I mean, it’s one month before launch, so you can’t really make big changes. But they snuck a few in right at the end of development for us, which has helped a lot of single-player development. They gave us some information that we couldn’t really leverage until we started working on stuff like this, like how does DLC mount work? When the game loads, DLC mounts into the game, but in ME3 , it loads single-player versus multiplayer, and we didn’t really have any idea how any of that worked. So they gave us information about that, and then we, you know, over the years we built on top of it.â Over two years later, on November 7, 2023, Mgamerz created a Discord server for Project Milan, what would become the Mass Effect 3 Legendary Edition multiplayer remaster mod, telling the rest of the ME3Tweaks modders, “Let’s do something stupid. Let’s port multiplayer.” He says that development was on and off over the course of three years, citing some personal matters that got in the way including breaking his arm at some point during the whole effort, but the group had a working prototype of the mode as early as December of 2023.Â “You could pick at least one kit, and the game didn’t crash until you got to wave three,” he recalls. “Enemies would spawn. Audio was totally broken. Like there was virtually no audio. The shaders were all broken, so you just got checkerboards all over the place. But you could actually play it, and enemies spawn. You could kill them. You get points. You know, the absolute bare bones were there.” From there, the team built the rest of the multiplayer mode back up, but it isnât just what BioWare created in 2012, as the mod includes new ways of play, as well as some alterations to the multiplayerâs progression system. What started as a scheme to bring the old multiplayer mode back to the masses became much more as Mgamerz says the team got âtoo ambitiousâ and decided to add more on top of the old bones. This includes new modes Coalition, which pivots between different enemy factions across a match with each wave hosting a different group, and Unified, which mixes enemies from all groups together. âit picks a quasi-random list of enemies,â Mgamerz says. âOriginally we had it fully random, and that was terrible. It was so bad, but now it draws from all of the different wavelist options and picks from those, so you get like a mix of the original compositions that we made, and that one actually is pretty fun.â One notable fact about the multiplayer mode is that it was one of the earliest examples of a game using modern-day loot boxes to let players unlock characters and acquire consumables. The progression system remains intact in the mod, but the ME3Tweaks modders wanted to give players options for whether they wanted to engage with the system or not. âThere’s going to be options for you to choose how much you want unloc",
+          "image": "https://kotaku.com/app/uploads/2026/11/me3mplead.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "621fb862bd4dfb7c",
+      "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
+      "summary": "Ubisoft is reportedly working on two new Assassin's Creed games , and one of them is set in ancient Rome. Read more",
+      "owners": [
+        "valnet",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "31f30617845428ab",
+        "254f46525a46914e"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
+          "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
+          "published_at": "2026-11-07T19:16:50+00:00",
+          "kind": "press",
+          "text": "Ubisoft is reportedly working on two new Assassin's Creed games , and one of them is set in ancient Rome. That's according to YouTuber Xj0nathan, who says the Rome game is codenamed Mars. He claims two sources with access to Ubisoft's backend systems backed up the information, and that the setting will likely be linked to the upcoming Assassin's Creed TV series. The second game, codenamed Pocket, is said to be a mobile title set in Jerusalem. Xj0nathan claims it'll play a bit like Assassin’s Creed Valhalla’s Mastery Challenge, and look similar to the most recent Prince of Persia. The hero's mentor is apparently a character called Myriam. Insider Gaming says it's heard the codenames too, but couldn't confirm them well enough to report them independently. It puts some of that down to the turbulence the franchise has gone through since former Assassin's Creed boss Marc-Alexis Côté left Ubisoft. Last month, the outlet's sources also claimed Assassin's Creed Hexe, the next mainline game, had been delayed internally by another year, likely to 2028. Other reports claim we'll see it next year. If Mars does move into full production, don't hold your breath - Insider Gaming doesn't expect us to hear anything about it until 2029 or 2030. Assassin's Creed has visited Rome before, in 2010’s Brotherhood, but that was the Renaissance version of the city. The leak comes less than a week after Ubisoft issued a statement about the future of the Assassin's Creed series , insisting there are currently no new remakes of the series' past games in the works.",
+          "image": "https://assetsio.gnwcdn.com/Assassins-Creed-Black-Flag-Resynced---Naval-Combat-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/assassins-creed-hexe-delay-leak/",
+          "title": "Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak",
+          "published_at": "2026-11-08T15:07:40+00:00",
+          "kind": "press",
+          "text": "Some new insider reporting has shed new light on the future of Assassin's Creed Some new reports regarding the Assassin's Creed series emerged last week, giving us a better idea of what to expect from Ubisoft's flagship series for the rest of the decade. While we learned about two Assassin's Creed titles for the first time, it has also been reported that the development of Assassin's Creed Hexe is taking longer than expected. On Nov. 6, Ubisoft insider j0nathan posted a YouTube video in which he teased two new Assassin's Creed games. One is codenamed Mars and is reportedly a traditional Assassin's Creed game set in Ancient Rome, the same era in which the show's upcoming Netflix adaptation is set. The other is Assassin's Creed Pocket , a mobile game inspired by Valhalla's Mastery Challenges that will be set in Jerusalem. Insider Gaming followed up the next day to say that it'd heard of Assassin's Creed games with similar codenames, although it was not able to verify the projects enough to report on them first. It then revealed some more verified information about Assassin's Creed Hexe : While it was expected to be released in 2027, it has internally been pushed back to 2028. Assassin's Creed Hexe was first teased by Ubisoft in 2022 , and is supposed to have a more magical edge and be set in the Holy Roman Empire during the 17th century. While Ubisoft has promised to reveal more about the game next year, we've yet to actually see the game in action. According to Insider Gaming, Hexe's development has \"had issues,\" with several high-level developers exiting Ubisoft during its development. Insider Gaming now does not expect Hexe to launch until 2028; in turn, it also reports that Mars likely wouldn't be released, or even revealed, until 2029 or 2030 at the earliest. For now, we'll just have to stick to playing Assassin's Creed Black Flag Resynced .",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assassin-s-creed-codename-hexe-official-announcement-trailer-_-ubisoft-forward-2022-0-18-screenshot.jpg?w=1600&h=900&fit=crop"
+        }
+      ]
+    },
+    {
+      "story_id": "8dc68e727073c2c1",
+      "title": "Sony volta a promover exclusividade e adiciona novo selo a jogos do PlayStation 5",
+      "summary": "A Sony começou a reintroduzir discretamente o selo de exclusividade em páginas oficiais de seus principais lançamentos para o PlayStation 5. Conforme notado nas redes sociais , páginas de jogos como Ghost of Yotei e Until Dawn 2 no portal oficial da marca agora exibem o logotipo \"Exclusivo para PlayStation\", indicando um retorno à valorização de títulos exclusivos em sua comunicação. A iniciativa...",
+      "owners": [
+        "gameblast",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "cf6e8a7c82ee30ae",
+        "78223012e381e9fd"
+      ],
+      "sources": [
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/sony-volta-a-promover-exclusividade-e-adiciona-novo-selo-a-jogos-do-playstation-5.html",
+          "title": "Sony volta a promover exclusividade e adiciona novo selo a jogos do PlayStation 5",
+          "published_at": "2026-11-08T03:45:31+00:00",
+          "kind": "press",
+          "text": "Empresa retoma comunicação focada no console com selo de exclusividade em grandes produções.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNYyx83OaY_qh0vkCIDfoHdS8Vf1b99sTlkI0s-j56TQO55e9nzIPf7SvQ9nolL5Y1NlIe77QRYpSGxRj_9jpT8Pc0YfM4B24bTAcj86AJyNJoRqHkz6QJ_xxKZhO6JloHblVei8C4I7LBPoIe2J3O4mb1Bw8OLMFYKtBh71ZabZxNsZQ230W384c7/w1200-h630-p-k-no-nu/only-on-playstation.png"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/sony-selo-playstation-exclusive-jogos/",
+          "title": "Sony volta a adicionar selo “PlayStation Exclusive” em alguns jogos",
+          "published_at": "2026-11-08T14:04:52+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2025/09/Sony-PlayStation-Studios.jpg"
+        }
+      ]
     }
-  ],
-  "especial_gta6": null,
-  "especiais_gta6_hoje": 1
+  ]
 }
