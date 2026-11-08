@@ -12,12 +12,29 @@ api: https://graph.facebook.com/v23.0
 pasta: social/pesquisa            # onde ficam coletas, listas e o histórico
 entrada: social/reels/entrada     # onde caem os vídeos escolhidos (antes da moldura)
 
-janela_horas: 48                  # só entram vídeos publicados nas últimas X horas
+janela_horas: 72                  # só entram vídeos publicados nas últimas X horas
 posts_por_perfil: 30              # quantos posts recentes ler de cada perfil
-lista_tamanho: 15                 # quantos vídeos vão na lista do dia
-max_por_perfil: 3                 # no máximo X vídeos do mesmo perfil na lista
-minimo_vezes_media: 1.2           # vídeo precisa ir X vezes melhor que a média do perfil
+lista_tamanho: 30                 # quantos vídeos vão na lista do dia
+max_por_perfil: 4                 # no máximo X vídeos do mesmo perfil na lista
+minimo_vezes_media: 1.0           # vídeo precisa ir pelo menos X vezes a média do perfil
 horarios: ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
+
+# Piso dos 6 Reels por dia: em toda rodada o robô confere a fila de hoje e dos
+# próximos 2 dias e baixa sozinho os melhores da lista até cobrir os horários
+# vazios (scripts/social/montagem.py monta e agenda). Os números que o Diego
+# escolher continuam valendo e entram antes.
+automatico:
+  max_por_rodada: 12
+
+# Plano B para vídeos que a API oficial não entrega o arquivo (música licenciada):
+# ScrapeCreators, 1 crédito por vídeo. Sem o secret, esses vídeos são pulados.
+plano_b:
+  segredo: SCRAPECREATORS_KEY
+  api: https://api.scrapecreators.com/v1/instagram/post
+
+# Legenda com estas palavras não vira Reel (propaganda, venda, sorteio).
+bloquear: ["comenta quero", "desconto", "cupom", "#publi", "publicidade", "parceria paga",
+           "disney+", "assine", "sorteio", "link na bio", "frete grátis", "compre"]
 
 # Coletas por dia (horário de Brasília). Antes do lançamento só a das 6h.
 coletas: ["06:00"]
@@ -25,8 +42,8 @@ coletas: ["06:00"]
 lancamento:
   desde: "2026-11-19"             # GTA 6
   coletas: ["06:00", "11:00", "15:00", "19:00"]
-  janela_horas: 24
-  lista_tamanho: 20
+  janela_horas: 48
+  lista_tamanho: 40
   pesos: {gta6: 5}
 
 # Temas: palavras na legenda que identificam o jogo, e o peso na escolha.
@@ -73,4 +90,17 @@ concorrentes:
   - {perfil: tag_games_, tema: games}
   - {perfil: voxeloficial, tema: games}
   - {perfil: adrenaline_oficial, tema: games}
-  - {perfil: gameblast, tema: games}
+  # 08/11: mais perfis grandes que costumam usar o áudio original (com arquivo pela API)
+  - {perfil: ign, tema: games}
+  - {perfil: gamespot, tema: games}
+  - {perfil: gamingbible, tema: games}
+  - {perfil: dexerto, tema: games}
+  - {perfil: gamerant, tema: games}
+  - {perfil: playstation, tema: games}
+  - {perfil: xbox, tema: games}
+  - {perfil: nintendoamerica, tema: games}
+  - {perfil: callofduty, tema: games}
+  - {perfil: fortnite, tema: games}
+  - {perfil: ubisoft, tema: games}
+  - {perfil: ignbrasil, tema: games}
+  - {perfil: jovemnerd, tema: games}

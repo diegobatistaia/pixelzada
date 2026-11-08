@@ -14,6 +14,11 @@ No GitHub Actions (.github/workflows/pesquisa.yml), que tem internet e a chave:
     python -m scripts.social.pesquisa teste             confere a chave e lê 1 perfil
     python -m scripts.social.pesquisa coletar [--forcar] coleta + lista do dia
     python -m scripts.social.pesquisa baixar DATA 1,4,7  baixa os escolhidos da lista
+    python -m scripts.social.pesquisa completar          baixa sozinho os melhores até cobrir
+                                                         os 6 Reels/dia de hoje e dos próximos 2 dias
+
+Vídeo sem arquivo pela API oficial (música licenciada) é baixado pelo plano B
+(ScrapeCreators, secret SCRAPECREATORS_KEY) quando a chave existir.
 
 Na sessão do Claude (sem chave, sem internet):
 
@@ -149,6 +154,12 @@ def tema_de(cfg: dict, legenda: str, padrao: str) -> str:
     return padrao if padrao in cfg["temas"] else "games"
 
 
+def bloqueado(cfg: dict, legenda: str) -> bool:
+    """Propaganda, sorteio, venda: não vira Reel."""
+    texto = (legenda or "").lower()
+    return any(w in texto for w in cfg.get("bloquear", []))
+
+
 def usados(cfg: dict) -> set[str]:
     f = cfg["_pasta"] / "usados.json"
     return set(json.loads(f.read_text(encoding="utf-8"))) if f.exists() else set()
@@ -177,6 +188,8 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
             vezes = v / base
             if vezes < cfg["minimo_vezes_media"]:
                 continue
+            if bloqueado(cfg, p.get("caption", "")):
+                continue
             tema = tema_de(cfg, p.get("caption", ""), padrao.get(perf["perfil"], "games"))
             candidatos.append({
                 "id": p["id"], "perfil": perf["perfil"], "link": p.get("permalink"),
@@ -188,6 +201,7 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
                 "nota": round(vezes * cfg["temas"][tema]["peso"], 2),
                 "tem_arquivo": bool(p.get("media_url")),
                 "legenda": re.sub(r"\s+", " ", (p.get("caption") or ""))[:160],
+                "legenda_completa": re.sub(r"\s+", " ", (p.get("caption") or ""))[:700],
             })
     candidatos.sort(key=lambda c: c["nota"], reverse=True)
     lista, por_perfil = [], {}
@@ -202,6 +216,19 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
         c["numero"] = i + 1
         c["horario_sugerido"] = cfg["horarios"][i] if i < len(cfg["horarios"]) else None
     return lista
+
+
+def salvar_reserva(cfg: dict, coleta: dict, agora: datetime, lista: list[dict]) -> None:
+    """Reserva do piso: vídeos recentes COM arquivo que não passaram da média.
+    Só são usados quando a lista principal não basta para os 6 Reels do dia."""
+    frouxo = {**cfg, "minimo_vezes_media": 0, "lista_tamanho": 80, "max_por_perfil": 6}
+    na_lista = {c["id"] for c in lista}
+    reserva = [c for c in analisar(frouxo, coleta, agora) if c["tem_arquivo"] and c["id"] not in na_lista]
+    for i, c in enumerate(reserva):
+        c["numero"] = 100 + i + 1
+    (cfg["_pasta"] / "listas" / f"{agora.date().isoformat()}-reserva.json").write_text(
+        json.dumps(reserva, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{len(reserva)} vídeo(s) com arquivo na reserva")
 
 
 def fmt(n) -> str:
@@ -274,7 +301,57 @@ def coletar(cfg: dict, forcar: bool = False) -> int:
     lista = analisar(cfg, coleta, agora)
     arq = escrever_lista(cfg, agora.date().isoformat(), lista, coleta)
     print(f"\n{len(lista)} vídeos na lista: {arq.relative_to(ROOT)}")
+    salvar_reserva(cfg, coleta, agora, lista)
     return 0 if coleta["perfis"] else 1
+
+
+def url_plano_b(cfg: dict, link: str) -> str | None:
+    """Link do mp4 pelo ScrapeCreators (1 crédito por vídeo). Só com o secret cadastrado."""
+    pb = cfg.get("plano_b") or {}
+    chave = os.environ.get(pb.get("segredo", "SCRAPECREATORS_KEY"), "").strip()
+    if not chave or not link:
+        return None
+    url = f"{pb.get('api', 'https://api.scrapecreators.com/v1/instagram/post')}?{urllib.parse.urlencode({'url': link, 'trim': 'true'})}"
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers={"x-api-key": chave}), timeout=90) as r:
+            dado = json.loads(r.read())
+    except (urllib.error.URLError, ValueError) as e:
+        print(f"   plano B falhou: {str(e)[:160]}")
+        return None
+    media = (dado.get("data") or {}).get("xdt_shortcode_media") or dado.get("data") or {}
+    return media.get("video_url") or None
+
+
+def baixar_um(cfg: dict, c: dict, destino: Path, token: str, ig_id: str, cache: dict) -> Path | None:
+    if c["perfil"] not in cache:
+        try:
+            cache[c["perfil"]] = ler_perfil(cfg, token, ig_id, c["perfil"])["posts"]
+        except ApiError as e:
+            print(f"   @{c['perfil']}: {str(e)[:160]}")
+            cache[c["perfil"]] = []
+    post = next((p for p in cache[c["perfil"]] if p["id"] == c["id"]), None)
+    url, via = (post or {}).get("media_url"), "API"
+    if not url:
+        url, via = url_plano_b(cfg, c.get("link")), "plano B"
+    if not url:
+        return None
+    destino.mkdir(parents=True, exist_ok=True)
+    nome = destino / f"{c['numero']:02d}-{c['tema']}-{re.sub(r'[^a-z0-9]+', '-', c['perfil'].lower())}.mp4"
+    try:
+        with urllib.request.urlopen(url, timeout=180) as r:
+            nome.write_bytes(r.read())
+    except urllib.error.URLError as e:
+        print(f"   download falhou: {e}")
+        return None
+    info = {k: c.get(k) for k in ("numero", "perfil", "link", "jogo", "tema", "legenda", "legenda_completa", "horario_sugerido")}
+    info["via"] = via
+    nome.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"{c['numero']}: baixado pela {via} {nome.relative_to(ROOT)} ({nome.stat().st_size // 1024} KB)")
+    return nome
+
+
+def salvar_usados(cfg: dict, ja: set[str]) -> None:
+    (cfg["_pasta"] / "usados.json").write_text(json.dumps(sorted(ja), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
 def baixar(cfg: dict, dia: str, numeros: list[int]) -> int:
@@ -284,29 +361,51 @@ def baixar(cfg: dict, dia: str, numeros: list[int]) -> int:
         print("nenhum dos números está na lista")
         return 1
     token, ig_id = conta(cfg)
-    destino = cfg["_entrada"] / dia
-    destino.mkdir(parents=True, exist_ok=True)
-    ja = usados(cfg)
-    erros = 0
-    cache: dict[str, list] = {}
+    ja, cache, erros = usados(cfg), {}, 0
     for c in escolhidos:
-        if c["perfil"] not in cache:
-            cache[c["perfil"]] = ler_perfil(cfg, token, ig_id, c["perfil"])["posts"]
-        post = next((p for p in cache[c["perfil"]] if p["id"] == c["id"]), None)
-        url = post and post.get("media_url")
-        if not url:
-            print(f"{c['numero']}: sem arquivo pela API; baixar pelo link {c['link']}")
+        if baixar_um(cfg, c, cfg["_entrada"] / dia, token, ig_id, cache):
+            ja.update({c["id"], c["link"]})
+        else:
+            print(f"{c['numero']}: sem arquivo; baixar pelo link {c['link']}")
             erros += 1
-            continue
-        nome = destino / f"{c['numero']:02d}-{c['tema']}-{re.sub(r'[^a-z0-9]+', '-', c['perfil'].lower())}.mp4"
-        with urllib.request.urlopen(url, timeout=120) as r:
-            nome.write_bytes(r.read())
-        info = {k: c[k] for k in ("numero", "perfil", "link", "jogo", "tema", "legenda", "horario_sugerido")}
-        nome.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        ja.update({c["id"], c["link"]})
-        print(f"{c['numero']}: baixado {nome.relative_to(ROOT)} ({nome.stat().st_size // 1024} KB)")
-    (cfg["_pasta"] / "usados.json").write_text(json.dumps(sorted(ja), ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    salvar_usados(cfg, ja)
     return 1 if erros == len(escolhidos) else 0
+
+
+def completar(cfg: dict) -> int:
+    """Piso dos 6 Reels/dia: baixa os melhores da lista até cobrir hoje e os próximos 2 dias."""
+    from . import montagem
+    falta = min(montagem.faltam(), (cfg.get("automatico") or {}).get("max_por_rodada", 12))
+    print(f"faltam {falta} vídeo(s) para cobrir hoje e os próximos 2 dias")
+    if falta <= 0:
+        return 0
+    if not os.environ.get(cfg["segredo"], "").strip():
+        print(f"o secret {cfg['segredo']} não está cadastrado; nada baixado")
+        return 0
+    hoje = datetime.now(TZ).date()
+    dias = [(hoje - timedelta(days=d)).isoformat() for d in range(3)]
+    listas = [cfg["_pasta"] / "listas" / f"{d}.json" for d in dias] + \
+             [cfg["_pasta"] / "listas" / f"{d}-reserva.json" for d in dias]
+    ja = usados(cfg)
+    vistos, candidatos = set(), []
+    for arq in listas:  # a de hoje primeiro; as de ontem e anteontem completam
+        for c in (json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else []):
+            if c["id"] not in ja and c["link"] not in ja and c["id"] not in vistos:
+                vistos.add(c["id"])
+                candidatos.append(c)
+    token, ig_id = conta(cfg)
+    cache, baixados = {}, 0
+    for c in candidatos:
+        if baixados >= falta:
+            break
+        if baixar_um(cfg, c, cfg["_entrada"] / hoje.isoformat(), token, ig_id, cache):
+            baixados += 1
+        ja.update({c["id"], c["link"]})  # sem arquivo também sai da fila de candidatos
+    salvar_usados(cfg, ja)
+    print(f"{baixados} vídeo(s) baixado(s) sozinho(s); ainda faltam {max(0, falta - baixados)}")
+    if baixados < falta:
+        print("AVISO: a lista não teve vídeos com arquivo suficientes para o piso dos 6 por dia")
+    return 0
 
 
 def diagnostico(cfg: dict, token: str) -> None:
@@ -357,6 +456,7 @@ def main(argv: list[str] | None = None) -> int:
     b = sub.add_parser("baixar")
     b.add_argument("data")
     b.add_argument("numeros", help="ex.: 1,4,7")
+    sub.add_parser("completar")
     l = sub.add_parser("lista")
     l.add_argument("data", nargs="?")
     a = sub.add_parser("analisar")
@@ -371,6 +471,8 @@ def main(argv: list[str] | None = None) -> int:
         if args.cmd == "baixar":
             nums = [int(n) for n in re.findall(r"\d+", args.numeros)]
             return baixar(cfg, args.data, nums)
+        if args.cmd == "completar":
+            return completar(cfg)
         if args.cmd == "lista":
             dia = args.data or datetime.now(TZ).date().isoformat()
             print((cfg["_pasta"] / "listas" / f"{dia}.md").read_text(encoding="utf-8"))
@@ -379,7 +481,9 @@ def main(argv: list[str] | None = None) -> int:
             coleta = json.loads(Path(args.arquivo).read_text(encoding="utf-8"))
             dia = Path(args.arquivo).name[:10]
             agora = datetime.fromisoformat(f"{dia}T12:00:00").replace(tzinfo=TZ)
-            arq = escrever_lista(cfg, dia, analisar(cfg, coleta, agora), coleta)
+            lista = analisar(cfg, coleta, agora)
+            arq = escrever_lista(cfg, dia, lista, coleta)
+            salvar_reserva(cfg, coleta, agora, lista)
             print(arq.read_text(encoding="utf-8"))
             return 0
     except ApiError as e:
