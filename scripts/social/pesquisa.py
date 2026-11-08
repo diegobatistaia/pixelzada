@@ -372,6 +372,50 @@ def baixar(cfg: dict, dia: str, numeros: list[int]) -> int:
     return 1 if erros == len(escolhidos) else 0
 
 
+def link(cfg: dict, url: str) -> int:
+    """Vídeo que o Diego mandou pelo link: acha o dono (oEmbed), pega o arquivo pela
+    API oficial ou pelo plano B e põe em social/reels/entrada/ para a montagem."""
+    m = re.search(r"instagram\.com/(?:[^/]+/)?(?:reel|reels|p|tv)/([A-Za-z0-9_-]+)", url)
+    if not m:
+        print(f"não reconheci o link: {url}")
+        return 1
+    codigo = m.group(1)
+    limpo = f"https://www.instagram.com/reel/{codigo}/"
+    token, ig_id = conta(cfg)
+    autor, post = None, None
+    try:
+        autor = call(cfg["api"], "instagram_oembed", token, url=limpo, fields="author_name").get("author_name")
+    except ApiError as e:
+        print(f"oEmbed não respondeu ({str(e)[:160]})")
+    if autor:
+        print(f"dono do vídeo: @{autor}")
+        try:
+            posts = ler_perfil({**cfg, "posts_por_perfil": 50}, token, ig_id, autor)["posts"]
+            post = next((p for p in posts if codigo in (p.get("permalink") or "")), None)
+        except ApiError as e:
+            print(f"@{autor}: {str(e)[:160]}")
+    legenda = re.sub(r"\s+", " ", (post or {}).get("caption") or "")
+    padrao = next((c.get("tema", "games") for c in cfg["concorrentes"] if c["perfil"] == autor), "games")
+    tema = tema_de(cfg, legenda, padrao)
+    c = {"id": (post or {}).get("id") or codigo, "numero": 0, "perfil": autor or "diego", "link": limpo,
+         "tema": tema, "jogo": cfg["temas"][tema]["nome"], "legenda": legenda[:160], "legenda_completa": legenda[:700],
+         "horario_sugerido": None}
+    cache = {c["perfil"]: [post] if post else []}
+    hoje = datetime.now(TZ).date().isoformat()
+    nome = baixar_um(cfg, c, cfg["_entrada"] / hoje, token, ig_id, cache)
+    if not nome:
+        print(f"SEM ARQUIVO: a API não entrega este vídeo (música licenciada ou download desligado). "
+              f"Baixar pelo link e subir: {limpo}")
+        return 1
+    final = nome.with_name(f"00-link-{codigo.lower()}.mp4")
+    nome.rename(final)
+    nome.with_suffix(".json").rename(final.with_suffix(".json"))
+    ja = usados(cfg)
+    ja.update({c["id"], limpo})
+    salvar_usados(cfg, ja)
+    return 0
+
+
 def completar(cfg: dict) -> int:
     """Piso dos 6 Reels/dia: baixa os melhores da lista até cobrir hoje e os próximos 2 dias."""
     from . import montagem
@@ -457,6 +501,8 @@ def main(argv: list[str] | None = None) -> int:
     b.add_argument("data")
     b.add_argument("numeros", help="ex.: 1,4,7")
     sub.add_parser("completar")
+    k = sub.add_parser("link")
+    k.add_argument("url")
     l = sub.add_parser("lista")
     l.add_argument("data", nargs="?")
     a = sub.add_parser("analisar")
@@ -471,6 +517,8 @@ def main(argv: list[str] | None = None) -> int:
         if args.cmd == "baixar":
             nums = [int(n) for n in re.findall(r"\d+", args.numeros)]
             return baixar(cfg, args.data, nums)
+        if args.cmd == "link":
+            return link(cfg, args.url)
         if args.cmd == "completar":
             return completar(cfg)
         if args.cmd == "lista":

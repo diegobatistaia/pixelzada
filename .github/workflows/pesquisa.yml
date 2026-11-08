@@ -11,6 +11,7 @@ name: Pesquisa de vídeos
 #   coletar  faz a coleta e a lista agora, fora do horário
 #   baixar   baixa os vídeos escolhidos: data (AAAA-MM-DD) + números (ex.: 1,4,7)
 #   completar  roda o piso agora (baixa, monta e agenda o que faltar)
+#   link     baixa e monta o Reel de um link que o Diego mandou
 #
 # PISO DOS 6 REELS POR DIA: toda rodada (agendada ou não) confere a fila de hoje
 # e dos próximos 2 dias; se faltar vídeo, baixa sozinho os melhores da lista
@@ -27,13 +28,16 @@ on:
       acao:
         description: "teste, coletar ou baixar"
         type: choice
-        options: [teste, coletar, baixar, completar]
+        options: [teste, coletar, baixar, completar, link]
         default: teste
       data:
         description: "baixar: data da lista (AAAA-MM-DD)"
         required: false
       numeros:
         description: "baixar: números da lista (ex.: 1,4,7)"
+        required: false
+      link:
+        description: "link: endereço do Reel que o Diego mandou"
         required: false
 
 permissions:
@@ -54,6 +58,7 @@ jobs:
       ACAO: ${{ github.event.inputs.acao || 'agendada' }}
       DATA: ${{ github.event.inputs.data }}
       NUMEROS: ${{ github.event.inputs.numeros }}
+      LINK: ${{ github.event.inputs.link }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -81,8 +86,12 @@ jobs:
         if: env.ACAO == 'baixar'
         run: python -m scripts.social.pesquisa baixar "$DATA" "$NUMEROS"
 
+      - name: Baixar o vídeo do link
+        if: env.ACAO == 'link'
+        run: python -m scripts.social.pesquisa link "$LINK"
+
       - name: Piso dos 6 Reels por dia (baixa o que faltar)
-        if: env.ACAO != 'teste' && env.ACAO != 'baixar'
+        if: env.ACAO != 'teste' && env.ACAO != 'baixar' && env.ACAO != 'link'
         run: python -m scripts.social.pesquisa completar
 
       - name: Registrar o resultado

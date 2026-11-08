@@ -176,9 +176,9 @@ def proximos_estilos(fila: list[dict], n: int) -> list[str]:
 # ---------------------------------------------------------------------------
 def automatico(agora: datetime | None = None) -> int:
     fila = R.carregar()
-    livres = horarios_livres(fila, agora)
-    videos = pendentes()
-    print(f"{len(videos)} vídeo(s) esperando montagem; {len(livres)} horário(s) livre(s) até daqui a {DIAS_RESERVA - 1} dias")
+    livres = horarios_livres(fila, agora, dias=14)
+    videos = sorted(pendentes(), key=lambda p: (not p.name.startswith("00-link"), str(p)))  # os do Diego primeiro
+    print(f"{len(videos)} vídeo(s) esperando montagem; {len(livres)} horário(s) livre(s) nos próximos 14 dias")
     if not videos or not livres:
         return 0
     videos = videos[:len(livres)]
