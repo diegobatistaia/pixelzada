@@ -248,6 +248,9 @@ def coletar(cfg: dict, forcar: bool = False) -> int:
         if (feitas / f"{agora.date().isoformat()}-{hora}.json").exists():
             print("a coleta deste horário já foi feita")
             return 0
+        if not os.environ.get(cfg["segredo"], "").strip():
+            print(f"o secret {cfg['segredo']} ainda não foi cadastrado; coleta pulada")
+            return 0
     else:
         hora = agora.strftime("%H%M")
     token, ig_id = conta(cfg)
