@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T16:42:57+00:00",
+  "generated_at": "2026-11-08T21:23:39+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 4,
+  "already_written_today": 7,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,94 +42,34 @@
   ],
   "stories": [
     {
-      "story_id": "8a5ac6dfb65a39a1",
-      "title": "Grand Theft Auto VI: pré-download inicia em 10 de novembro",
-      "summary": "The post Grand Theft Auto VI: pré-download inicia em 10 de novembro appeared first on Xbox Wire em Português .",
+      "story_id": "55a34f7c51074265",
+      "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+      "summary": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake.",
       "owners": [
-        "future-plc",
-        "insider-gaming",
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "ff33f06b9193888c",
-        "007118bfbba00a11",
-        "bd3d07a7c6ddb129",
-        "dc1e38128507aac5",
-        "dbc9519f0da34350"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://www.rockstargames.com/br/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10#new_tab",
-          "title": "Grand Theft Auto VI: pré-download inicia em 10 de novembro",
-          "published_at": "2026-11-03T20:43:14+00:00",
-          "kind": "primary",
-          "text": "",
-          "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/k4ak9okk485712/81e58e08369adca0d68a17dac9b12c3a63848fc3.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/a-bunch-of-grand-theft-auto-games-will-be-cheap-on-steam-until-gta-6-comes-out-and-only-one-of-them-sucks/",
-          "title": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one sucks",
-          "published_at": "2026-11-06T20:53:16+00:00",
-          "kind": "press",
-          "text": "In the run-up to GTA 6 's November 19 launch, Rockstar has multiple classic Grand Theft Auto games on sale on Steam – and, nearest I can tell, only on Steam. The Nintendo Switch eShop actually has a competing deal for the Grand Theft Auto Definitive Edition Trilogy, which is down 67% to $19.79, but that sale ends in 11 hours from the time of writing. On Steam, several GTA games are discounted until November 19 for an obviously timed special promotion. On Steam, you'll find four games on sale via two actual products: You can't argue with GTA 4 for $6, but you might argue with this version of, in particular, GTA 3. The Definitive Edition Trilogy was famously panned at launch for wonky graphics and poor technical performance that, for the most part, has been patched up in the years since. However, the PC port for GTA 3's Definitive Edition is uniquely poorly rated for reasons that will sound familiar. Here's how the three games in this trilogy compare in Steam reviews: The reception to the two other games in the trilogy improved over time while GTA 3 steadily declined. Much like the day-one reviews, today's Steam players complain of Rockstar launcher interference, bugs, shoddy art, broken cinematics, and performance dips. Weekly digests, tales from the communities you love, and more Curiously, perhaps unrelated to the quality of the port, some of today's gamers also don't seem to take too kindly to GTA 3's design sensibilities, it being slightly older than Vice City and San Andreas, and certainly a rawer open-world experience. Thomas Williamson, the CEO of the outsourced trilogy's original developer, Grove Street Games, said earlier this year that the criticism faced at launch was deserved. \"I agreed with most of the people's reactions,\" he said. \"But unfortunately, I feel like we did not agree with how the game was released and the response to it from a development side. And I think that would have changed the narrative significantly.\" However, he added, \"at the end of the day, looking at the behind-the-scenes metrics on those games, there were a lot of people who were playing them and really enjoying them.\" You won't find Grove Street Games listed on the store pages for these games anymore. Previously, Williamson called it a \"dick move\" for Rockstar to have Grove Street's name removed. GTA 6 being pirated is just \"a fact of life,\" says CEO of Rockstar owner, and lawyers are ready if it becomes a problem Austin has been a game journalist for 12 years, having freelanced for the likes of PC Gamer, Eurogamer, IGN, Sports Illustrated, and more while finishing his journalism degree. He's been with GamesRadar+ since 2019. They've yet to realize his position is a cover for his career-spanning Destiny column, and he's kept the ruse going with a lot of news and the occasional feature, all while playing as many roguelikes as possible. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/tjYKaWz5LQLU25LM4oNdwV-1920-80.jpg"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
-          "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
-          "published_at": "2026-11-06T23:11:50+00:00",
-          "kind": "press",
-          "text": "Grand Theft Auto 6 finally arrives on November 19, but not for us, no—the big day is only for gamers on PlayStation 5 and Xbox Series X/S. We're not being completely excluded, though: We can't have GTA 6 in November, but we can take advantage of pre-release discounts on a bunch of older GTA games—deals that, ironically, don't appear to be available on consoles. As noted by GamesRadar , there are four GTA games available in two releases: Grand Theft Auto 3, Vice City, and San Andreas bundled up in the GTA Trilogy for $19.79/£19.79/€19.79—67% off the regular price—and Grand Theft Auto 4: Complete Edition , which includes The Lost and Damned and The Ballad of Gay Tony expansions, for $6/£5.09/€6, a 70% discount. Those aren't the deepest discounts ever seen, but Grand Theft Auto games typically don't venture into the 90% off territory we all enjoy so much—and according to Isthereanydeal.com, this is as low as the GTA Trilogy has ever gone, and close to the mark for GTA 4 . You may recall that the GTA Trilogy Definitive Edition was a mess when it launched in 2021, but it seems to have turned that frown upside-down since then: On Steam, where the trilogy arrived in 2023, Vice City and San Andreas both hold \"very positive\" ratings. GTA 3 is stuck at a \"mixed\" rating, which is unfortunate: Glancing at user reviews, it sounds like the game still isn't in perfect shape, but it's also suffering from the fact that it's 25 years old, and was the first 3D game in the series—some jank and roughness was there right from the start. Grand Theft Auto 4: The Complete Edition, on the other hand, doesn't suffer from those shortcomings. It's getting pretty long in the tooth too—it came out in 2008—but represents a shift in design and tone that led the series into what it is today. If you're looking for just one older GTA game to horse around with, this is the one, especially given that it's less than half the cost of the trilogy. As mentioned, these sale prices are currently only being offered on Steam: There's currently no sign of any of them on either the Xbox or PlayStation stores (Fun fact: there actually is no digital version of GTA 4 on the PS Store because Sony didn't start selling full-priced games online until well after 2008). Maybe it's just coincidence, but they do appear to be intentional pre-GTA 6 sales: The discounts are on until November 19, when Grand Theft Auto 6 launches—except on PC. GTA 6 guide : Everything we know GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/Ga8N8nrBc2G2kBQqNRkFSG-1920-80.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum/",
-          "title": "Grand Theft Auto 6 Will Have 55 Trophies/Achievements",
-          "published_at": "2026-11-08T07:40:16+00:00",
-          "kind": "press",
-          "text": "Grand Theft Auto 6 is set to be a completionist’s dream. It has been racking up more side content promises than any game to come in the series thus far; there are indications it’s the longest single-player campaign in franchise history, and the world is absolutely gargantuan. That means we can expect a substantial array of GTA 6 Trophies and Achievements to surface, depending on your platform of choice. In fact, thanks to a recent comment on social media, we know how many are coming, and it’s more than Red Dead Redemption 2 and GTA 5 had at launch. Rockstar Games is all about the ultimate immersion in Grand Theft Auto 6. As they said in a recent interview, they want you to live a life inside GTA 6, which is set to drop in just 11 days, on November 19th. It’s likely the densest Grand Theft Auto title ever made . While you’re immersed, you’ll be able to chase a thick assortment of Trophies and Achievements. The former if you’re on PlayStation, and the latter if you’re an XBOX player, of course. What’s interesting is that Grand Theft Auto 6, with 55 Trophies/Achievements , beats both Grand Theft Auto 5 (51) and Red Dead Redemption 2 (52). It’s not a huge edge, but it’s an edge nonetheless. It’s also worth pointing out that GTA 5 eventually went on to get 78 Trophies/Achievements with the addition of GTA Online content over the years, so there’s every opportunity for GTA 6 to do the same thing. Hell, perhaps this will be the first Grand Theft Auto 6 title to get a single-player expansion since GTA 4. If you want to go the whole hog and 100% Grand Theft Auto 6, you’ll be pleased to know that data suggests there are both a Platinum Trophy and a Mythic Achievement. The latter is the new tier that XBOX put in place in recognition of players who have gone the distance with their games. Grand Theft Auto 6 launches November 19th on XBOX Series X|S and PlayStation 5, and pre-loading will start globally on November 10th. Are you looking forward to GTA 6? Let us know your thoughts on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Incursion Red River has hit a new all-time high , also, don’t forget to sign up for our weekly newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_07-scaled.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
-          "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
-          "published_at": "2026-11-08T07:43:14+00:00",
-          "kind": "press",
-          "text": "Grand Theft Auto 6 season is upon us, and what a wonderful time it is to be a fan of open-world action titles. This monumental title from Rockstar Games is arguably the most hotly anticipated game ever made, and it’s sure to shatter sales records worldwide from the minute it hits the market. That said, some folks out there are wondering exactly when GTA 6 hits the market. If you’re only just stumbling onto the concept of Grand Theft Auto 6 or you’re sitting on the edge of your seat waiting for the exact minute when GTA 6 launches in your country, you’re not alone. And with that said, I’ve put together a little something to answer all your questions. It’s November 8th, 2026, and that means that Grand Theft Auto 6 is not out yet. Grand Theft Auto 6 launches on XBOX and PlayStation 5 on November 19, 2026. Make sure to bookmark this page and check back for the latest coverage, and better yet, to prepare for what happens when Grand Theft Auto 6 does hit the market. Grand Theft Auto 6 is scheduled to hit a staggered launch pattern worldwide, which means it’ll launch at midnight local time around the world. It starts in New Zealand and works its way around the world, slowly taking over the entire planet and capturing the attention of tens of millions of gamers. If you want to get GTA 6 as early as possible, here are the guides you need: And in terms of exactly when the New Zealand trick goes live… It’s pretty simple, as there are only two versions of Grand Theft Auto 6. You’ve got the Standard Edition , which costs around $79.99, and the Ultimate Edition , which costs around $99.99 If you’re on the fence about which to choose, I can firmly advocate for picking up the Ultimate Edition. Here’s a guide explaining why the Ultimate Edition is worth the extra $20 . And I’d also recommend pre-ordering to get some exclusive goodies. Here’s yet another guide explaining how to access those GTA 6 pre-order bonuses . Our coverage campaign for Grand Theft Auto 6 is just starting, but to whet your appetite, you can start by checking out all the confirmed locations in GTA 6. It’s one hell of a map, and you’ll need a lot of time to figure out everything hidden within it. What platform are you buying GTA 6 on? Let us know your plans for this incredible game on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Borderlands has hit 100 million sales . And for even more Insider Gaming delivered directly to your inbox, sign up for our newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Brian_Heder_landscape-scaled.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "73d11d20ba671d18",
-      "title": "Zelda Ocarina of Time: All Empty Bottle locations",
-      "summary": "Every Empty Bottle you can earn in Zelda: Ocarina of Time on the N64 and Nintendo Switch Online",
-      "owners": [
-        "future-plc",
+        "keleops",
         "valnet",
-        "vgc"
+        "vgc",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
+        "8b7ce4eab86798b1",
         "24a8261490dbb159",
-        "10ee22692670b4d7",
-        "131d772e9718a594",
-        "ec0307898423e431"
+        "ec0307898423e431",
+        "d585626bf6598e8d",
+        "ce8eedbf908b6172"
       ],
       "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-speedrunners-have-already-found-new-ways-to-break-the-remake",
+          "title": "The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake",
+          "published_at": "2026-11-08T17:04:56+00:00",
+          "kind": "press",
+          "text": "From quicker movement to sending Link to space, The Legend of Zelda: Ocarina of Time speedrunners have already found a few ways to break the remake. One of the best things about a new Zelda game is seeing just how quickly players can speed through it, but Nintendo's latest video game being a remake presents a unique situation. The Legend of Zelda: Ocarina of Time has accumulated some of the most bizarre speedrunning strategies in its 28 years on the market, and in just a few days, the Nintendo Switch 2 remake looks like it will live up to that legacy. Creative players started peeling back the layers of the new version of Link and Zelda's classic adventure just hours after it launched November 5. Even just moments into its life, they've discovered some seemingly useful (and hilarious) ways to break the game, with more almost certainly to be discovered in the weeks, months, and years ahead. Let's start with what might be the most common tactic under investigation so far: sending Link hurdling into the air at high speed. Ocarina of Time Remake speedrunning has begun https://t.co/lnEvgaHgj0 Ocarina of Time speedrunner Zfg1 seems to be one of the first to discover that the Switch 2 Zelda remake has interesting physics, which, if pushed far enough, can toss Link into the air like a firework. Even at first glance, you can probably guess how a safe landing from that height opens the door for players to get creative and skip portions of the game. It seems relatively easy to replicate, too, with X/Twitter user @Vespher also sharing footage of them pulling off the same stunt in the same location. Other locations seem to be susceptible to Link's sudden weightlessness with some careful positioning, with a similar area highlighted by other players . You might think that Link will only be able to fling himself skyward in extremely specific locations, but fear not, as there are other ways to send him for a ride. Another popular glitch making the rounds in The Legend of Zelda: Ocarina of Time remake's first weekend in the public's hands only asks Hyrule's hero to stand in a chest. A few sudden movements (or even a well-placed bomb), and poof, ceiling. Nocturne skip with a normalized setup and a buffered ocarina actor jump (ez mode) https://t.co/QvtrVKYnC1 特定の宝箱の上でめっちゃ高く飛べるバグ ネタバレ注意 #NintendoSwitch2 #ゼルダの伝説 #時のオカリナ https://t.co/y2Y5htiSTd 時のオカリナリメイク完全に理解した https://t.co/AoSYzB33ob Like so many other frequently speedrunned games out there, Ocarina of Time players have picked it apart to find the fastest means of traversal. Whether it's walking backward, hopping, or rolling, there are plenty of different ways to get around Hyrule. Nintendo has done its best to make speed concerns a thing of the past in the Switch 2 remake thanks to Link's new sprint feature. Did that stop fans from finding faster alternatives? Of course not. In fact, hilariously, early speedrunning strats show that rolling, again, may have emerged victorious as the ultimate way to get to the final fight against Ganondorf as quickly as possible. There are two seemingly faster options so far: one involving hopping, and one without. The former, as outlined by YouTuber KnightPohtaytoe , requires players to target-hop forward into a roll and seems marginally faster than sprinting. The latter, shown by Reddit user Pomps8a , is a bit easier to get the hang of and simply asks Link to cancel his roll with a quick attack. As this story is being written, the Zelda community has already found even more ways to skip sections of the game. One that started being shared around earlier today lets players climb walls by simply switching items. デクの棒でジャンプ斬りする瞬間に他アイテムに切り替えることで高い足場にも届くバグが見つかった ほかの場所でも使えそう #NintendoSwitch2 #ゼルダの伝説 #時のオカリナ https://t.co/DuDoGidQu7 All the speedrunning stats are still coming in , but so far, it looks like it will take the average player about 20 hours or so to beat The Legend of Zelda: Ocarina of Time remake on Switch 2. Content creator @MrGymnast86 is one speedrunner who started gunning for the fastest time out of the gate and managed to complete an Any% run in a little less than four-and-a-half hours . It's a time that will almost surely shrink as more methods are developed by the community. The players looking to uncover sequence breaks – the ones who really want to get that game timer down just mere seconds if they can make it work – have found ways to allow Young Link to perform tasks only available to Adult Link and vice versa. As you might have guessed, the Ocarina of Time remake…doesn't really know how to tell the difference between the two if progress is made illegitimately. The results are almost impossible to describe, so you can see what some players have managed to capture below. Using a glitch to get a really big jump in the remake, its now possible to get the silver gauntlets chest as adult, which is supposed to be gotten as child. The cutscene that plays after tries to fit adult link into child link model, which ends up looking like this. https://t.co/un9DflnvxT This isn't possible with glitches yet, but if we can find a way to get into an adult only cutscene as child, we'll see this. https://t.co/0DC756ZLJV The Legend of Zelda: Ocarina of Time remake is out now for Switch 2. For more, you can see why IGN gave it a 9/10 review . You can also read about the developers who helped reimagine the Nintendo 64 classic for a modern audience. Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
+          "image": "https://assets-prd.ignimgs.com/2026/11/08/the-legend-of-zelda-ocarina-of-time-remake-glitch-1794157471719.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
         {
           "name": "Video Games Chronicle",
           "owner": "vgc",
@@ -141,26 +81,6 @@
           "image": "https://www.videogameschronicle.com/files/2026/06/zelda-oot-empty-bottle-locations-guide-1.jpg"
         },
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-devs-wanted-to-add-nods-to-the-series-notoriously-convoluted-timeline-but-series-boss-eiji-aonuma-shut-them-down/",
-          "title": "Zelda: Ocarina of Time remake devs wanted to nod to the series' notoriously convoluted timeline",
-          "published_at": "2026-11-08T15:17:31+00:00",
-          "kind": "press",
-          "text": "Developers behind The Legend of Zelda: Ocarina of Time's remake supposedly wanted to nod at the series' infamously twisty, hotly debated and convoluted timeline, but series producer Eiji Aonuma thought it would be better to instead focus purely on making the Switch 2 version the best it could be. Eiji Aonuma said as much in an interview with Game Informer , when asked if The Legend of Zelda canon was ever considered during development. \"It's funny because the staff would sometimes ask me about the possibility of including nods to the timeline or references to the other game,\" he recalls, \"and I actually, at the time, would say, 'No, let's focus on this game. Let's make this the best version of Ocarina of Time that we can.'\" The Zelda timeline notably diverges into three parallel branches after the events of Ocarina of Time - there's the Fallen Hero timeline (Link to the Past, Link's Awakening), the Child timeline (Majora's Mask and Twilight Princess), and the Adult timeline (Wind Waker, Phantom Hourglass). But Nintendo has never placed too much importance on directly connecting these games one way or another, as series creator Shigeru Miyamoto never thought it was \"that important.\" Breath of the Wild and Tears of the Kingdom's chronological placements have even been left a little ambiguous (they come after every other Zelda story falls into myth, sure, but are potentially set in an entirely separate Hyrule .) Needless to say, debates around the official timeline will likely persist as long as the series is still kicking. \"So, the timeline was in the back of our mind, but we didn't consider taking an approach to this game where we actually, explicitly included references like that,\" Aonuma adds. Things might get even more complicated with more Zelda on the way next year , though Breath of the Wild director Hidemaro Fujibayashi thinks it's important that new Zelda games don't simply re-use older ideas . Nintendo exec says \"new games and remakes both have a place\" following Zelda: Ocarina of Time launch Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Kaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/CpoU6ufoYBZiQzu8p9CdkQ-1920-80.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/ocarina-of-time-master-quest-switch-2/",
-          "title": "The Legend Of Zelda: Ocarina of Time For Switch 2 Could Bring Back A Classic Mode",
-          "published_at": "2026-11-08T15:38:32+00:00",
-          "kind": "press",
-          "text": "Master Quest might come to the Nintendo Switch 2 remake as DLC Now that The Legend of Zelda: Ocarina of Time's Nintendo Switch 2 remake has been out for a couple of days, people are already looking for secrets tucked away within the game through datamining. One of the biggest discoveries from that is that Master Quest, which was missing from the remake at release, could be in the works. As Nintendo Everything reported, Bluesky user MrCheeze first discovered references to Master Quest within the game's files on Nov. 6. Then, on Nov. 7, X user OatmealDome added fuel to the fire by claiming that the Master Quest game files needed to be unlocked with DLC, not a simple update. That suggests that Nintendo is planning DLC for this new version of Ocarina of Time , although nothing like that has been announced yet. The Legend of Zelda: Ocarina of Time Master Quest was first released as a bonus disc included with some copies of The Wind Waker on GameCube, and it makes the classic Nintendo 64 game substantially harder. Master Quest was unlockable after beating Ocarina of Time's 3DS remake once, but it was entirely missing from the Switch 2 remake at release. These datamines confirm that references to Master Quest exist within the remake's code, though, so it seems quite likely that Nintendo would like to bring it to this new remake at some point. Nintendo has not teased Master Quest publicly yet, though series producer Eiji Aonuma's response to IGN when asked about Master Quest certainly hinted at the possibility that it would be worked on post-launch. \"So certainly anytime that we release a game, if there’s an opportunity for the devs to consider what might come in the future, we want to leave that possibility open to them and support their interests,\" Aonuma teased. The remake of The Legend of Zelda: Ocarina of Time is available now on Nintendo Switch 2.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-goron-and-link.png?w=1600&h=900&fit=crop"
-        },
-        {
           "name": "Polygon",
           "owner": "valnet",
           "url": "https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping/",
@@ -169,6 +89,26 @@
           "kind": "press",
           "text": "The addition of jumping to The Legend of Zelda: Ocarina of Time has enabled a new speedrunning trick Speedrunners have had their hands on the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time for a couple of days now, and some funky tricks have already been discovered. In particular, the remake's addition of a jumping mechanic has enabled new speedrunning tactics that just weren't possible in the Nintendo 64 original or its 3DS remake. Videos from YouTubers like Kethaldo and Knightpohtayto , as well as Bluesky user Mircacle , show how actor jumping is essentially a glitched super jump that players can do with certain aimable tools in Ocarina of Time . To perform the trick, players have to find a movable object, or \"actor,\" in the game's environments, like a chest or movable tombstone. When standing on it, players then have to shoot, press the lock-on button (ZL by default) before it's done being used, and then jump as soon as the animation ends. By doing this, Link can jump much higher than he is supposed to. When used at certain parts of Ocarina of Time's levels, it's possible to jump even higher and skip massive swaths of the game. Right now, it's easiest to pull off when using the hookshot, so actor jumps are worth attempting once you get it. Nintendo has yet to patch this trick out of the remake, so the speedrunning community is avidly taking advantage of it less than a week after the game's launch. Compared to some other speedrunning tricks in the remake , action jumps are very easy to perform, too. When Nintendo decided to add jumping to Ocarina of Time , I'm not sure this is quite what it had in mind. Regardless, it will be very entertaining to see what new speedrunning tricks emerge and how Nintendo responds to or attempts to fix them, as speedrunners spend even more time playing and breaking the remake.",
           "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-happy-mask-bunny-hood.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+          "title": "Speedrunners Are Already Breaking The Legend Of Zelda: Ocarina Of Time Remake In Absurd Ways",
+          "published_at": "2026-11-08T16:52:15+00:00",
+          "kind": "press",
+          "text": "Nintendo Speedrunning The Legend of Zelda The Legend of Zelda: Ocarina Of Time The anticipated remake of the seminal Legend of Zelda: Ocarina of Time dropped this week. Lifelong fans are returning to a familiar but altered Hyrule. The world originally rendered in 1998 has greater fidelity, hunkier non-playable characters , wiser chickens and, most notably, a jump button . For the regular player itâs a marvel and an adjustment. For speedrunners, itâs a tantalizing playground of tech to be discovered. As the weekend rolls out, and runners dredge the kingdom for secret exploits, theyâre establishing a potential blueprint for record times. As well as uncovering some bizarre horrors along the way. To say The Legend of Zelda series has some abnormal tech is an understatement. Ever since Link stepped out of his treehouse into a 3D, polygonal world, it was clear the code that binds his reality had a soft underbelly. Ocarina âs boomerang can rewrite item placement. Wind Waker âs camera can launch little Toon Link into hyperspeed across the ocean. Skyward Sword âs opening menu seems to exist in some kind of temporal pocket dimension . Nintendoâs fine tuned games have always operated on peculiar physics, but for speedrunners, a return to Ocarina presents an opportunity to rewrite the playbook. Ladies and gentlemen, we have a speedrun pic.twitter.com/hRN97USavV The most obvious source for potential run-aiding glitches is Linkâs newfound ability to jump. Like in Breath of the Wild , Link no longer needs to run off a cliff to remember how to use his knees. In standard play, Link can go higher. Speedrunners want to see just how high he can go. Find unassuming geography that can act as shortcuts. Some of the classics, like the building-bounding ‘Hookshot Jump,’ appear to be viable. One of the most popular pieces of tech revolves around open chests. Now that Link can step into them, positioning his feet inside them at just the right angle seems to bristle the game, launching the player like a trampoline . Dropping a bomb in there seems to help as well . Like previous Zelda games, plenty of glitches lay dormant outside of realtime play. Remake runners are already stress testing start menus and inventory to see what will happen when spammed and agitated. And sure enough, flipping between items in your inventory midair seems to cause Link to float like a leaf in the wind. “This bug shouldn’t exist lol,” posted ORCinfo . “Once you get used to it, you can jump endlessly in midair. This is gonna break speedruns.” Defying gravity is obviously useful, but potential sequence breaking exploits is what plummets a runtime from hours into minutes. Stumbling across the proper tech could allow players to skip items, temples, plot beats or reroute them into a more convenient order. This is especially prescient in a game that swaps between two different periods. As runner Zfg1 is chronicling, messing with the hero of time does seem to have a bit of a butterfly effect. While sadly temporary, triggering cut adult Link cutscenes as child Link, and vice versa, momentarily confuses the remake, scrunching his texture files into a neanderthal, or the product of coming out the other end of Amigara Fault . We can now beat Shadow Temple as child, which automatically turns you into adult. We still have 1 roadblock to get past before this can be used in a speedrun, but it'll be huge assuming we can get past it. It also looks very funny. pic.twitter.com/s2aoTKCQyY The day is young as far as how any of this can be applied. Glitches can be awe inspiring, but if they donât contribute to faster runs theyâre just a party trick. Likewise seemingly benign exploits can sometimes pierce through to monumental discoveries, especially as run conditions become more niche. But things are moving fast, even for a scene preoccupied with being fast. The attention to a speedrunning classic means new glitches will be hitting hard and fast. And Link, poor Link, is along for the ride. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. 'He is expected to recover in a few days to a week' Could a remake of the other (better) Nintendo 64 Zelda also be on the way? The titular instrument accepts all kinds of inputs, including just straight up yelling",
+          "image": "https://kotaku.com/app/uploads/2026/11/zeldaocarinaspeedrunlunk-1200x675.jpg"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying/",
+          "title": "The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence",
+          "published_at": "2026-11-08T17:00:19+00:00",
+          "kind": "press",
+          "text": "Ocarina of Time sticks to the basics, and the remake is better for it This year in video games, I’ve swung a digital sword more times than I can count. Thrilling action games like Onimusha: Way of the Sword and Phantom Blade Zero have gotten the feel of a sword fight down to a science, as steel clashes and sparks fly in spectacular fashion. But my favorite duels of the year aren’t in any of this year’s most razor-sharp action games; they’re all in The Legend of Zelda: Ocarina of Time . The Switch 2 remake builds on the combat of Link’s 1998 adventure in careful but effective fashion. The Master Sword feels more powerful than ever thanks to killer sound design and a bit of visual pizazz on impact. What the remake doesn’t do, however, is change Link’s moves to give him the most widely used trick in modern action games: the parry. There’s no deflection to be found in Ocarina of Time ’s remake, and that makes a seemingly simple combat system stand out in an unexpectedly refreshing way. Compared to many modern games, Ocarina of Time ’s swordplay doesn’t require much mastery from players. Aside from a charged spin attack and a leaping slash, Link’s offensive options are limited. Lock on, swing the sword, hit the enemy, and that’s basically all you need to know. Sure, you can block attacks with your shield or use one of your items to switch it up, but you’re always going to follow the same motions to take out a Deku Baba with consistent strikes. One of my questions heading into the remake was about how much Nintendo would modernize that approach. After all, lots of remakes and remasters these days make reworked combat a priority; just this year, we’ve seen that in projects like The Witcher 3: Wild Hunt Remastered and Assassin’s Creed Black Flag Resynced . Rather than following that wave, Nintendo chose to keep Link’s offense relatively unchanged. That can take some getting used to if you play a lot of modern action games that all seem to have some version of a parry, or at least some kind of counterattack. The quicker you acclimate to Ocarina of Time ’s throwback action, though, the quicker you’ll come to appreciate its elegance. Fights aren’t meant to be long duels against evenly-matched opponents; Link is a master of his craft and can dispatch virtually any enemy in a few hits. Precision and timing are key as you patiently wait for your opening before lunging forward with a strike. The same goes for Link’s evasive maneuvers, which allow him to sidestep and backflip away from incoming attacks. It only takes a few Stalfos encounters to learn their attacks and lock down the right dodge and attack follow-up timing to take one out quickly. In my review, I compared that to the experience of playing Punch-Out!! . The classic NES game’s staying power comes from the fact that every fight hinges on you learning each enemy’s tells and reacting to them accordingly. Every boxing match is a dance, and you have to learn your half of it. Ocarina of Time functions the same way, pushing you to hit all your marks rather than rush through a careful fight. There are several fights in Ocarina of Time that test your ability to follow that flow, especially the late-game Iron Knuckles who hit like a truck if you fail to dodge their attacks. The best skill check, though, comes during a clash with Dark Link in the Water Temple. It’s the one time where you find yourself up against a fighter who is as efficient and precise as you, because it is you. Patience is your greatest skill in a battle that will taunt you for swinging wildly while your shadowy foe seemingly has an answer to every mistake you make. It plays out like a theatrically staged fencing match. Once you feel that, every other fight clicks into place, too. Though it may sound a little simple, Nintendo finds the right way to make every slash feel powerful. Every sword hit is accompanied by an impactful thwack and an explosion of colorful particles. Even slashing the weakest enemies as Young Link feels spectacular, as if your blade has busted them open like a pinata. Those small touches make every hit feel important and satisfying to execute, rather than futile hits against a sponge. I can’t say the same for something like GameFreak’s summer not-quite-a-Soulslike Beast of Reincarnation , where bosses fall to death by a thousand cuts. It may sound strange to call a combat system rooted in 1998 design fresh, but it really is in a world where so many action games I play feel like variations on a theme. Ocarina of Time may not impress modern players who look for expression in their combat, but you won’t hear anyone labeling it a Soulslike or dubbing it “parryslop.” The battles have an unmistakable texture to them, born out of a focused design philosophy that suits an equally focused swordsman. Who needs a parry when no blade can cross you?",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-attack-deflection.png?w=1600&h=900&fit=crop"
         }
       ]
     },
@@ -205,152 +145,55 @@
           "title": "Xbox Game Pass recebe 6 novos jogos esta semana! Veja os lançamentos (07)",
           "published_at": "2026-11-07T16:15:00+00:00",
           "kind": "press",
-          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de seis títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Em Pit of Goblin os jogadores assumem o papel de goblins que precisam explorar masmorras, escapar de armadilhas e fugir de monstros para alimentar o Rei-Rainha Goblin. O jogo aposta no terror cooperativo online, permitindo formar equipes com amigos ou encarar os desafios sozinho. Mas cuidado: se a missão falhar, você pode acabar virando a próxima refeição! Dos mesmos criadores de Vampire Survivors , Vampire Crawlers: The Turbo Wildcard from Vampire Survivors transforma a fórmula de ação do original em uma aventura de exploração de masmorras em primeira pessoa. Com elementos de roguelite e combate por turnos, o game permite montar baralhos de cartas e criar combinações poderosas para enfrentar inimigos e explorar cenários conhecidos da franquia. Void/Breaker é um FPS roguelite em que os jogadores precisam escapar de um ciclo interminável controlado por uma inteligência artificial hostil. Disponível na versão 1.0 para Xbox Series X|S e Cloud Gaming, o jogo traz combates contra máquinas, além de um sistema de modificações que permite criar diferentes combinações de armas e habilidades. Disponível no lançamento pelo Xbox Game Pass, Escape Academy 2: Back 2 School aposta em uma nova abordagem para os jogos de escape room ao apresentar um mundo aberto repleto de enigmas. A aventura pode ser aproveitada em modo cooperativo local ou online para dois jogadores, que precisam trabalhar juntos para solucionar desafios e escapar das salas. Em Firefighting Simulator: Ignite , os jogadores assumem o papel de bombeiros nos Estados Unidos e precisam enfrentar incêndios, lidar com situações de risco e salvar vidas. O simulador permite formar equipes com até três amigos no modo cooperativo ou contar com personagens controlados pela inteligência artificial para auxiliar nas operações. Por fim, MySims Cozy Bundle reúne versões retrabalhadas de dois jogos da franquia: MySims e MySims Kingdom . Os jogadores podem personalizar uma cidade, explorar um reino de fantasia, fazer amizades e participar de diferentes atividades, incluindo a resolução de quebra-cabeças e a construção e decoração de ambientes. O pacote está disponível nos consoles e no Cloud Gaming. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Void/Breaker , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? Pornô gerado por IA: entenda os perigos por trás do DeepNude ‘Funcionário virtual’: Perplexity lança agente de IA que trabalha 24 horas por dia Samsung define data para iniciar a pré-venda de óculos inteligentes nos EUA Play Store libera 4 apps pagos de graça para organizar e personalizar o celular",
+          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de seis títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Em Pit of Goblin os jogadores assumem o papel de goblins que precisam explorar masmorras, escapar de armadilhas e fugir de monstros para alimentar o Rei-Rainha Goblin. O jogo aposta no terror cooperativo online, permitindo formar equipes com amigos ou encarar os desafios sozinho. Mas cuidado: se a missão falhar, você pode acabar virando a próxima refeição! Dos mesmos criadores de Vampire Survivors , Vampire Crawlers: The Turbo Wildcard from Vampire Survivors transforma a fórmula de ação do original em uma aventura de exploração de masmorras em primeira pessoa. Com elementos de roguelite e combate por turnos, o game permite montar baralhos de cartas e criar combinações poderosas para enfrentar inimigos e explorar cenários conhecidos da franquia. Void/Breaker é um FPS roguelite em que os jogadores precisam escapar de um ciclo interminável controlado por uma inteligência artificial hostil. Disponível na versão 1.0 para Xbox Series X|S e Cloud Gaming, o jogo traz combates contra máquinas, além de um sistema de modificações que permite criar diferentes combinações de armas e habilidades. Disponível no lançamento pelo Xbox Game Pass, Escape Academy 2: Back 2 School aposta em uma nova abordagem para os jogos de escape room ao apresentar um mundo aberto repleto de enigmas. A aventura pode ser aproveitada em modo cooperativo local ou online para dois jogadores, que precisam trabalhar juntos para solucionar desafios e escapar das salas. Em Firefighting Simulator: Ignite , os jogadores assumem o papel de bombeiros nos Estados Unidos e precisam enfrentar incêndios, lidar com situações de risco e salvar vidas. O simulador permite formar equipes com até três amigos no modo cooperativo ou contar com personagens controlados pela inteligência artificial para auxiliar nas operações. Por fim, MySims Cozy Bundle reúne versões retrabalhadas de dois jogos da franquia: MySims e MySims Kingdom . Os jogadores podem personalizar uma cidade, explorar um reino de fantasia, fazer amizades e participar de diferentes atividades, incluindo a resolução de quebra-cabeças e a construção e decoração de ambientes. O pacote está disponível nos consoles e no Cloud Gaming. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Void/Breaker , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? A ‘Doença do Nobel’ e o risco da falácia de autoridade: por que grandes cientistas erram Usuários relatam falhas de Wi-Fi e 5G após atualização One UI 9 O que faz um notebook ser bom? A resposta muda dependendo do que você faz com ele Pornô gerado por IA: entenda os perigos por trás do DeepNude",
           "image": "https://www.estadao.com.br/resizer/v2/TWYBREIWABMGDNNFIKI7SLIG6M.jpg?quality=80&auth=409586bda5b708ecb1f456fb20ebc3672194753a07ce8a3a41d701250e4e0b70&width=1200&height=630&focal=955,488"
         }
       ]
     },
     {
-      "story_id": "99505db723aa3ee9",
-      "title": "Tomb Raider: Legacy of Atlantis \"não é só para fãs\", afirma diretor de experiência",
-      "summary": "A Crystal Dynamics e Flying Wild Hog já tinham falado sobre como Tomb Raider: Legacy of Atlantis está sendo desenvolvido como uma \"carta de amor dos fãs, para os fãs\", e o time de desenvolvimento reiterou que essa será uma ótima forma para os novatos entrarem na franquia. Em entrevista ao MP1st, o diretor de experiência Jeff Adams observou que esse não é apenas um simples remaster feito para fãs...",
+      "story_id": "95e5655106d09f2a",
+      "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+      "summary": "Are we being trolled here?",
       "owners": [
-        "gameblast",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "cc2e90ebcfc2260a",
-        "b1e9bef3f518b0b8"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/tomb-raider-legacy-of-atlantis-nao-e-so-para-fas-afirma-diretor-de-experiencia.html",
-          "title": "Tomb Raider: Legacy of Atlantis \"não é só para fãs\", afirma diretor de experiência",
-          "published_at": "2026-11-06T17:11:54+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/tomb-raider-legacy-of-atlantis-proxima-grande-fase/",
-          "title": "Tomb Raider: Legacy of Atlantis será a “próxima grande fase” da franquia, diz dev",
-          "published_at": "2026-11-07T22:42:53+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/Tomb-Raider-Legacy-of-Atlantis.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "2e2fc4716ef2fed6",
-      "title": "MARVEL Cosmic Invasion recebe vídeo de 18 minutos detalhando o DLC \"O Cerco no Castelo do Destino\"",
-      "summary": "A Tribute Games e a Dotemu divulgaram um vídeo de 18 minutos de gameplay de MARVEL Cosmic Invasion , mostrando em detalhes o DLC \"O Cerco no Castelo do Destino\". O material conta com comentários do produtor Rémi Lavoie and designer chefe Kevin Chiasson. No novo modo, que será lançado em 10 de novembro, os jogadores poderão explorar o Castelo do Doutor Destino para impedir que ele ative o Indutor...",
-      "owners": [
-        "gameblast",
+        "future-plc",
         "insider-gaming"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "b70b1813801aa504",
-        "e6c3210a9a56468a"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/marvel-cosmic-inavsion-recebe-video-18-minutos-detalhando-dlc-o-cerco-no-castelo-do-destino.html",
-          "title": "MARVEL Cosmic Invasion recebe vídeo de 18 minutos detalhando o DLC \"O Cerco no Castelo do Destino\"",
-          "published_at": "2026-11-06T17:48:00+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/marvel-cosmic-invasion-castle-doom-gameplay/",
-          "title": "MARVEL Cosmic Invasion DLC Shows Off Castle Doom Mode",
-          "published_at": "2026-11-07T20:43:43+00:00",
-          "kind": "press",
-          "text": "MARVEL Cosmic Invasion ’s Castle Doom mode gets extended gameplay ahead of its November 10 DLC launch, with branching paths and 12 perks. In Castle Doom mode, MARVEL Cosmic Invasion players must beat a rising Siege Gauge, choose buffs, and unlock equipment for future runs. DotEmu shared an extended look at the new mode on YouTube. The DLC launches simultaneously on PC via Steam, Nintendo Switch 1 and 2, PlayStation 4 and 5, and XBOX Series X|S. This is the second DLC for MARVEL Cosmic Invasion. The first launched on May 18, bringing X-Men’s Cyclops and Fantastic Four’s The Thing to the roster of the Beat ‘Em Up title. At launch, the roster included Wolverine, Spider-Man, Venom, Captain America, and Iron Man. The game initially launched in December 2025 and has since accumulated over 2 million players. In addition to the new game mode mentioned above, this next DLC pack will include new characters. The playable characters are Doctor Doom and The Invisible Woman. What do you think about this new DLC pack? Share your thoughts about this story and all others in our official Discord server. For more insider Gaming coverage, check out the new Walking Dead Beat ‘Em Up . Don’t forget to sign up for our weekly newsletter , too. I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/MARVEL-Cosmic-Invasion-DLC-Shows-Off-Castle-Doom-Mode.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "8fd27d15a47e3fb2",
-      "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
-      "summary": "\"While it stings, I'm really proud of what we built together.\"",
-      "owners": [
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "ed9448955574bb03",
-        "a76bd5a702717db5"
+        "bd3d07a7c6ddb129",
+        "dc1e38128507aac5",
+        "dbc9519f0da34350"
       ],
       "sources": [
         {
           "name": "PC Gamer",
           "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff/",
-          "title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
-          "published_at": "2026-11-07T12:18:55+00:00",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+          "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+          "published_at": "2026-11-06T23:11:50+00:00",
           "kind": "press",
-          "text": "\"While it stings, I'm really proud of what we built together.\" Star Wars Zero Company developer Bit Reactor has laid of an unspecified number of developers, after furloughing its entire team and then hiring some of that staff back. As reported by the Star Wars website Bespin Bulletin, several designers of the acclaimed tactics game have taken to LinkedIn to announce that they have been let go by the studio. Among those affected are senior environment artist Ryan Lopez, who worked on the game for three and a half years and has been on furlough for the past three and a half months. \"While it stings, I'm really proud of what we built together,\" Lopez wrote in a LinkedIn post . Other designers who lost their jobs include UI Engineer Tyler Eichten and senior quality assurance analyst Ryan Mosher , who spent two years at Firaxis and a further two years at 1047 Games before joining Bit Reactor in October 2024. It's been a tumultuous few months for Bit Reactor. In September, it was reported that the studio had furloughed up to 80% of its staff in the weeks leading up to Zero Company's launch, with the studio having reportedly \"run out of most of its money\" ahead of the game's launch. At the time, former senior technical artist Zachariah Scott said the project was built with \"shocking austerity\". Scott also accused Bit Reactor of \"concealing the fact that the team was furloughed weeks ago\" after the company made the announcement. Within a month, Zero Company had sold one million copies and Bit Reactor subsequently announced it had hired back some of its staff. In a statement posted on Bluesky, CEO Greg Foertsch stated that the furlough had been a response to \"unexpected business developments outside of our control\" and \"necessary to help us eventually bring as many people back as we can\". Clearly, though, Zero Company's commercial performance hasn't been enough to bring back everybody. Which is a shame, considering that Zero Company is by all accounts a brilliant Star Wars adventure. Resident word Jedi Ted Litchfield called it \"one of the best games of 2026 and a new all-timer Star Wars videogame\" in his Star Wars Zero Company Review . Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Zero Company isn't the only knockout Star Wars game to release this year either, with Star Wars: Galactic Racer providing a similarly scintillating experience in a galaxy far, far away. Indeed, the performance of both games appears to have pleased Star Wars overlords Lucasfilm, and the company is keen to do more creative spins on the universe in the vein of Zero Company and Galactic Racer. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/QzGk2ZJyUzdTRQXxUM2RhW-2560-80.png"
+          "text": "Grand Theft Auto 6 finally arrives on November 19, but not for us, no—the big day is only for gamers on PlayStation 5 and Xbox Series X/S. We're not being completely excluded, though: We can't have GTA 6 in November, but we can take advantage of pre-release discounts on a bunch of older GTA games—deals that, ironically, don't appear to be available on consoles. As noted by GamesRadar , there are four GTA games available in two releases: Grand Theft Auto 3, Vice City, and San Andreas bundled up in the GTA Trilogy for $19.79/£19.79/€19.79—67% off the regular price—and Grand Theft Auto 4: Complete Edition , which includes The Lost and Damned and The Ballad of Gay Tony expansions, for $6/£5.09/€6, a 70% discount. Those aren't the deepest discounts ever seen, but Grand Theft Auto games typically don't venture into the 90% off territory we all enjoy so much—and according to Isthereanydeal.com, this is as low as the GTA Trilogy has ever gone, and close to the mark for GTA 4 . You may recall that the GTA Trilogy Definitive Edition was a mess when it launched in 2021, but it seems to have turned that frown upside-down since then: On Steam, where the trilogy arrived in 2023, Vice City and San Andreas both hold \"very positive\" ratings. GTA 3 is stuck at a \"mixed\" rating, which is unfortunate: Glancing at user reviews, it sounds like the game still isn't in perfect shape, but it's also suffering from the fact that it's 25 years old, and was the first 3D game in the series—some jank and roughness was there right from the start. Grand Theft Auto 4: The Complete Edition, on the other hand, doesn't suffer from those shortcomings. It's getting pretty long in the tooth too—it came out in 2008—but represents a shift in design and tone that led the series into what it is today. If you're looking for just one older GTA game to horse around with, this is the one, especially given that it's less than half the cost of the trilogy. As mentioned, these sale prices are currently only being offered on Steam: There's currently no sign of any of them on either the Xbox or PlayStation stores (Fun fact: there actually is no digital version of GTA 4 on the PS Store because Sony didn't start selling full-priced games online until well after 2008). Maybe it's just coincidence, but they do appear to be intentional pre-GTA 6 sales: The discounts are on until November 19, when Grand Theft Auto 6 launches—except on PC. GTA 6 guide : Everything we know GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/Ga8N8nrBc2G2kBQqNRkFSG-1920-80.jpg"
         },
         {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/star-wars-zero-company-bit-reactor-layoffs",
-          "title": "Star Wars Zero Company studio Bit Reactor lays off staff, a month after bringing furloughed developers back",
-          "published_at": "2026-11-07T20:06:10+00:00",
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum/",
+          "title": "Grand Theft Auto 6 Will Have 55 Trophies/Achievements",
+          "published_at": "2026-11-08T07:40:16+00:00",
           "kind": "press",
-          "text": "\"While it stings, I'm really proud of what we built together.\" Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of staff, a month after bringing some of its furloughed team back to work. Several developers announced on LinkedIn on Friday, 6th November, that they had been let go, as first reported by Bespin Bulletin . Bit Reactor hasn't said how many people are affected. Among them is senior environment artist Ryan Lopez, who spent three and a half years working on Zero Company, from pre-production to launch, and was laid off after a three-month furlough. UI engineer Tyler Eichten, who worked on much of the on-screen UI for the game's tactical missions, and Ryan Mosher from the QA team have also confirmed they were let go. \"While it stings, I'm really proud of what we built together,\" Lopez wrote . \"It was a privilege to ship a game with you.\" Bit Reactor furloughed most of its staff in the weeks before Zero Company launched on 27th August, with one source putting the figure at roughly 80 percent. The studio appeared to have run out of money just short of release. The game did well regardless, and is thought to have sold more than a million copies within a month . Then, in a message shared on Bluesky on 7th October, CEO Greg Foertsch said the studio had \"started the process of returning more of our team back to work\". Asking staff to step away so close to launch was \"an incredibly difficult decision\", he said, \"but one that was necessary to help us eventually bring as many people back as possible\". It's thought more than half the studio returned, though not everyone went back on full pay. It's not clear whether any of those who returned were among the people laid off this week. In Eurogamer's Star Wars Zero Company review , we awarded the game four out of five stars, saying, \"an already winning genre is matched with the perfect setting in this earnest, heartfelt, smart and slightly ramshackle turn-based tactics gem\".",
-          "image": "https://assetsio.gnwcdn.com/star-wars-zero-company-screen.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
-      "story_id": "621fb862bd4dfb7c",
-      "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
-      "summary": "Ubisoft is reportedly working on two new Assassin's Creed games , and one of them is set in ancient Rome. Read more",
-      "owners": [
-        "valnet",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "31f30617845428ab",
-        "254f46525a46914e"
-      ],
-      "sources": [
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/assassins-creed-mars-ancient-rome-pocket-mobile-jerusalem-rumour",
-          "title": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
-          "published_at": "2026-11-07T19:16:50+00:00",
-          "kind": "press",
-          "text": "Ubisoft is reportedly working on two new Assassin's Creed games , and one of them is set in ancient Rome. That's according to YouTuber Xj0nathan, who says the Rome game is codenamed Mars. He claims two sources with access to Ubisoft's backend systems backed up the information, and that the setting will likely be linked to the upcoming Assassin's Creed TV series. The second game, codenamed Pocket, is said to be a mobile title set in Jerusalem. Xj0nathan claims it'll play a bit like Assassin’s Creed Valhalla’s Mastery Challenge, and look similar to the most recent Prince of Persia. The hero's mentor is apparently a character called Myriam. Insider Gaming says it's heard the codenames too, but couldn't confirm them well enough to report them independently. It puts some of that down to the turbulence the franchise has gone through since former Assassin's Creed boss Marc-Alexis Côté left Ubisoft. Last month, the outlet's sources also claimed Assassin's Creed Hexe, the next mainline game, had been delayed internally by another year, likely to 2028. Other reports claim we'll see it next year. If Mars does move into full production, don't hold your breath - Insider Gaming doesn't expect us to hear anything about it until 2029 or 2030. Assassin's Creed has visited Rome before, in 2010’s Brotherhood, but that was the Renaissance version of the city. The leak comes less than a week after Ubisoft issued a statement about the future of the Assassin's Creed series , insisting there are currently no new remakes of the series' past games in the works.",
-          "image": "https://assetsio.gnwcdn.com/Assassins-Creed-Black-Flag-Resynced---Naval-Combat-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "Grand Theft Auto 6 is set to be a completionist’s dream. It has been racking up more side content promises than any game to come in the series thus far; there are indications it’s the longest single-player campaign in franchise history, and the world is absolutely gargantuan. That means we can expect a substantial array of GTA 6 Trophies and Achievements to surface, depending on your platform of choice. In fact, thanks to a recent comment on social media, we know how many are coming, and it’s more than Red Dead Redemption 2 and GTA 5 had at launch. Rockstar Games is all about the ultimate immersion in Grand Theft Auto 6. As they said in a recent interview, they want you to live a life inside GTA 6, which is set to drop in just 11 days, on November 19th. It’s likely the densest Grand Theft Auto title ever made . While you’re immersed, you’ll be able to chase a thick assortment of Trophies and Achievements. The former if you’re on PlayStation, and the latter if you’re an XBOX player, of course. What’s interesting is that Grand Theft Auto 6, with 55 Trophies/Achievements , beats both Grand Theft Auto 5 (51) and Red Dead Redemption 2 (52). It’s not a huge edge, but it’s an edge nonetheless. It’s also worth pointing out that GTA 5 eventually went on to get 78 Trophies/Achievements with the addition of GTA Online content over the years, so there’s every opportunity for GTA 6 to do the same thing. Hell, perhaps this will be the first Grand Theft Auto 6 title to get a single-player expansion since GTA 4. If you want to go the whole hog and 100% Grand Theft Auto 6, you’ll be pleased to know that data suggests there are both a Platinum Trophy and a Mythic Achievement. The latter is the new tier that XBOX put in place in recognition of players who have gone the distance with their games. Grand Theft Auto 6 launches November 19th on XBOX Series X|S and PlayStation 5, and pre-loading will start globally on November 10th. Are you looking forward to GTA 6? Let us know your thoughts on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Incursion Red River has hit a new all-time high , also, don’t forget to sign up for our weekly newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Jason_and_Lucia_07-scaled.jpg"
         },
         {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/assassins-creed-hexe-delay-leak/",
-          "title": "Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak",
-          "published_at": "2026-11-08T15:07:40+00:00",
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
+          "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
+          "published_at": "2026-11-08T07:43:14+00:00",
           "kind": "press",
-          "text": "Some new insider reporting has shed new light on the future of Assassin's Creed Some new reports regarding the Assassin's Creed series emerged last week, giving us a better idea of what to expect from Ubisoft's flagship series for the rest of the decade. While we learned about two Assassin's Creed titles for the first time, it has also been reported that the development of Assassin's Creed Hexe is taking longer than expected. On Nov. 6, Ubisoft insider j0nathan posted a YouTube video in which he teased two new Assassin's Creed games. One is codenamed Mars and is reportedly a traditional Assassin's Creed game set in Ancient Rome, the same era in which the show's upcoming Netflix adaptation is set. The other is Assassin's Creed Pocket , a mobile game inspired by Valhalla's Mastery Challenges that will be set in Jerusalem. Insider Gaming followed up the next day to say that it'd heard of Assassin's Creed games with similar codenames, although it was not able to verify the projects enough to report on them first. It then revealed some more verified information about Assassin's Creed Hexe : While it was expected to be released in 2027, it has internally been pushed back to 2028. Assassin's Creed Hexe was first teased by Ubisoft in 2022 , and is supposed to have a more magical edge and be set in the Holy Roman Empire during the 17th century. While Ubisoft has promised to reveal more about the game next year, we've yet to actually see the game in action. According to Insider Gaming, Hexe's development has \"had issues,\" with several high-level developers exiting Ubisoft during its development. Insider Gaming now does not expect Hexe to launch until 2028; in turn, it also reports that Mars likely wouldn't be released, or even revealed, until 2029 or 2030 at the earliest. For now, we'll just have to stick to playing Assassin's Creed Black Flag Resynced .",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assassin-s-creed-codename-hexe-official-announcement-trailer-_-ubisoft-forward-2022-0-18-screenshot.jpg?w=1600&h=900&fit=crop"
+          "text": "Grand Theft Auto 6 season is upon us, and what a wonderful time it is to be a fan of open-world action titles. This monumental title from Rockstar Games is arguably the most hotly anticipated game ever made, and it’s sure to shatter sales records worldwide from the minute it hits the market. That said, some folks out there are wondering exactly when GTA 6 hits the market. If you’re only just stumbling onto the concept of Grand Theft Auto 6 or you’re sitting on the edge of your seat waiting for the exact minute when GTA 6 launches in your country, you’re not alone. And with that said, I’ve put together a little something to answer all your questions. It’s November 8th, 2026, and that means that Grand Theft Auto 6 is not out yet. Grand Theft Auto 6 launches on XBOX and PlayStation 5 on November 19, 2026. Make sure to bookmark this page and check back for the latest coverage, and better yet, to prepare for what happens when Grand Theft Auto 6 does hit the market. Grand Theft Auto 6 is scheduled to hit a staggered launch pattern worldwide, which means it’ll launch at midnight local time around the world. It starts in New Zealand and works its way around the world, slowly taking over the entire planet and capturing the attention of tens of millions of gamers. If you want to get GTA 6 as early as possible, here are the guides you need: And in terms of exactly when the New Zealand trick goes live… It’s pretty simple, as there are only two versions of Grand Theft Auto 6. You’ve got the Standard Edition , which costs around $79.99, and the Ultimate Edition , which costs around $99.99 If you’re on the fence about which to choose, I can firmly advocate for picking up the Ultimate Edition. Here’s a guide explaining why the Ultimate Edition is worth the extra $20 . And I’d also recommend pre-ordering to get some exclusive goodies. Here’s yet another guide explaining how to access those GTA 6 pre-order bonuses . Our coverage campaign for Grand Theft Auto 6 is just starting, but to whet your appetite, you can start by checking out all the confirmed locations in GTA 6. It’s one hell of a map, and you’ll need a lot of time to figure out everything hidden within it. What platform are you buying GTA 6 on? Let us know your plans for this incredible game on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Borderlands has hit 100 million sales . And for even more Insider Gaming delivered directly to your inbox, sign up for our newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Brian_Heder_landscape-scaled.jpg"
         }
       ]
     },
@@ -391,9 +234,61 @@
       ]
     },
     {
-      "story_id": "982bcb036672b690",
-      "title": "Call of Duty: Warzone Temporada 1 – tudo o que você precisa saber",
-      "summary": "The post Call of Duty: Warzone Temporada 1 – tudo o que você precisa saber appeared first on Xbox Wire em Português .",
+      "story_id": "d74cb53b097e2f0d",
+      "title": "Bringing Jin Sakai back to life for Ghost of Yōtei: Most Wanted",
+      "summary": "It’s been amazing to watch the response to Ghost of Yōtei Complete Edition, from photo mode shots to Echoes of Sekigahara* reactions to flawless fights against Nobushige and beyond. But some of our favorite videos we’ve seen since launch feature Jin Sakai in Most Wanted*, and we’ve loved watching people tear through bounties as the […]",
+      "owners": [
+        "sony"
+      ],
+      "primary_owners": [
+        "sony"
+      ],
+      "fingerprints": [
+        "8e04526d7a444959"
+      ],
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "owner": "sony",
+          "url": "https://blog.playstation.com/2026/11/04/bringing-jin-sakai-back-to-life-for-ghost-of-yotei-most-wanted/",
+          "title": "Bringing Jin Sakai back to life for Ghost of Yōtei: Most Wanted",
+          "published_at": "2026-11-04T13:00:36+00:00",
+          "kind": "primary",
+          "text": "Behind the scenes of the art, animation, and more that went into bringing back the Ghost of Tsushima as a playable character. It’s been amazing to watch the response to Ghost of Yōtei Complete Edition , from photo mode shots to Echoes of Sekigahara* reactions to flawless fights against Nobushige and beyond. But some of our favorite videos we’ve seen since launch feature Jin Sakai in Most Wanted*, and we’ve loved watching people tear through bounties as the returning Ghost of Tsushima. With all of these great new moments featuring Jin, we wanted to dive into a little bit of the process behind bringing him back for Ghost of Yōtei, including all the tiny details that help make him feel like himself. Here’s some insight from some members of our team who helped bring him back to life. With Most Wanted our goal was to create a new way to experience Ghost of Yotei’s combat. We were excited to focus on challenge and mastery in a highly replayable format. We wanted to give players new opportunities to grow stronger and master specific forms of combat, building on the foundation established in the main campaign. Very quickly the idea of a class-based, roguelike model emerged as a path to achieve these goals and as an opportunity to experience combat from perspectives other than only Atsu. As the team got excited about the idea, plenty of production and logistical questions emerged about what would be possible. We thought Jin Sakai would fit perfectly in this mode, but we wanted to make sure we could deliver an experience that was authentic to his character. During the initial prototyping of Most Wanted, we started with other characters to prove out the idea and get a better understanding of what would be necessary to bring Jin back. After an early playtest with Jin, I had a conversation with our Lead Combat Designer, Ted Fishman. The joy of playing with Jin again was undeniable, but something had become clearly apparent to Ted. There wasn’t a partial implementation that would deliver the fantasy of playing as Jin. No, if we were to push forward, we had to bring back all of Jin. The team understood that bringing back Jin would be an ambitious challenge. It would involve the creation of new art assets, adapting to the evolution of combat mechanics between Tsushima and Yōtei, and much, much more. The requirements grew as we discussed the ultimate fantasy of ensuring Jin could play with all his Stances and use his iconic sticky bomb. As the scope of the work became clearer, the team’s excitement only grew. Instead, everyone was so excited about the prospect of Jin’s return they continued to identify areas where we could deliver the best version possible, and we are so proud everyone can play that version today. Playing as Jin Sakai in Ghost of Tsushima, you feel like a master swordsman. It took a lot of collaboration across disciplines to recreate that feeling and bring it forward into Most Wanted. By the end of production though, we were having a blast doing runs as Jin. It was honestly a big relief! It was gratifying to see him finally come back to form after many months. Jin’s 60+ attack animations, most with their own bespoke kill animations, had to be retargeted to the new character rig, retouched (sorry Mark), and rebalanced for Ghost of Yōtei’s combat systems. Stone Stance’s Piercing Strike in particular decimated everything in Yōtei as originally implemented. In addition, Mark created custom strafe animations for each of Jin’s stances to support the new Focus Attack model (thank you Mark). We wanted Jin’s perks to play into his classic feel. For example, classic Jin would immediately interrupt enemy combos with a well-timed press of the Block button. The distinction between Parry Deflect and Parry Interrupt didn’t exist in Ghost of Tsushima. In Most Wanted, the Rattling Parry perk causes Jin to deal more Stagger damage on successful parries, causing Parry Interrupt to happen more often. He also has a basket of perks that encourage Perfect Parry. His unique fighting style is more than that though. Jin’s formally trained Stone Stance is complemented by his ability to dance between katana stances and scrappier tactics like his Quickfire. Empowering Quickfire even directly rewards following up Quickfire with melee. A bunch of team members including our QA department contributed to filling out his set of perks. As we continued experimenting with the possibilities of Most Wanted, we really embraced the chaos and had a great time finding creative ways of having a great time, even bringing back Jin’s connection with the wind in perks. Personally, I’m just glad people are having fun with Jin again out in the wild. I saw a clip that was something like, Jin flying through the air in bullet-time, head-shotting an enemy with a Tanegashima, following up with a Sticky Bomb, then a Water Stance flurry which triggered a lightning strike, and it had me beaming. When the Animation Team joined Most Wanted, we were ecstatic to bring Jin back into the game. The team was equally struck at the amount of effort we knew it would take to really bring back the whole essence of Jin, considering the amount of production time remaining. The Most Wanted team put an incredible amount of work into making it happen, and seeing Jin back again has been absolutely worth it. As well as reviving more than 60+ combat animations, the team brought back Jin’s idle actions, which are iconic to his character. Near the end of production, the team had a great idea to incorporate Jin’s rarely seen “bird hold idle” into the Most Wanted menu. The character selection menu gave us an additional way to showcase each character’s demeanor. Jin’s selection animation was inspired by the cinematic moment in Ghost of Tsushima when Jin first recovers the storm blade. Seeing all the fans’ reactions to Jin’s return has been absolutely awesome. Bringing Jin back to life has been a rewarding experience, and our team hopes everyone has as much fun playing Mo",
+          "image": "https://blog.playstation.com/tachyon/2048/11/358db084c61592f9526d21109dffa73f26468ff0-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "8a9edc7436350bc9",
+      "title": "PlayStation Store: October 2026’s top downloads",
+      "summary": "It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In October, Call of Duty: Modern Warfare 4 led the PS5 charts in the US and the EU, and BeamNG.drive landed in the top 3 on both charts. Meanwhile, Hard Bullet dominated the PS VR2 charts. Check out […]",
+      "owners": [
+        "sony"
+      ],
+      "primary_owners": [
+        "sony"
+      ],
+      "fingerprints": [
+        "6f1e998a1d53a296"
+      ],
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "owner": "sony",
+          "url": "https://blog.playstation.com/2026/11/04/playstation-store-october-2026s-top-downloads/",
+          "title": "PlayStation Store: October 2026’s top downloads",
+          "published_at": "2026-11-04T15:00:16+00:00",
+          "kind": "primary",
+          "text": "The open road and gunplay led the charts in October. It’s time to see which PS5, PS4, PS VR2, and free-to-play games topped last month’s download charts. In October, Call of Duty: Modern Warfare 4 led the PS5 charts in the US and the EU, and BeamNG.drive landed in the top 3 on both charts. Meanwhile, Hard Bullet dominated the PS VR2 charts. Check out the full listings below. What titles are you playing this month? *Naming of products may differ between regions *Upgrades not included *Naming of products may differ between regions *PlayStation Store purchases only. Game upgrades or games bundled with hardware not included",
+          "image": "https://blog.playstation.com/tachyon/2048/11/db0ccf9e2275bbdad4260dad515609c9d9c42616.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "c2ba90d693209db0",
+      "title": "From Polish Museums to XBOX: Bringing the World of The End of the Sun to Life",
+      "summary": "Some of the quests in The End of the Sun began in an unusual way – with objects we discovered in small museums across Poland. Sometimes, an old tool or a fascinating piece of traditional craftsmanship inspired us so much that we decided to build part of the game’s story around it. When we first […] The post From Polish Museums to XBOX: Bringing the World of The End of the Sun to Life appeared...",
       "owners": [
         "microsoft"
       ],
@@ -401,266 +296,72 @@
         "microsoft"
       ],
       "fingerprints": [
-        "d72adcf2bc9411cf"
+        "90a2694ae39962c8"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/04/from-polish-museums-to-xbox/",
+          "title": "From Polish Museums to XBOX: Bringing the World of The End of the Sun to Life",
+          "published_at": "2026-11-04T21:00:00+00:00",
+          "kind": "primary",
+          "text": "Some of the quests in The End of the Sun began in an unusual way – with objects we discovered in small museums across Poland. Sometimes, an old tool or a fascinating piece of traditional craftsmanship inspired us so much that we decided to build part of the game’s story around it. When we first started creating The End of the Sun , a first-person adventure inspired by Slavic folklore, we wanted to build a world that would do more than tell an engaging story. We wanted it to feel truly alive, with every building, object, and detail having its own history. As a Slavic sorcerer investigating the mystery of an abandoned village, you enter a world inspired by Polish culture, ancient beliefs, and traditions rarely explored in video games. To bring that world to life, we decided to look beyond our computer screens and explore the real places where pieces of this history are still preserved. One of the most important techniques we used was photogrammetry, which allowed us to bring real-world objects directly into the game as detailed 3D models. We partnered with local ethnographic museums in Poland, including the Open-Air Museum in Szymbark and the Grociarnia Ethnographic Museum in Jastrzębia. Thanks to their support, we were able to scan hundreds of historical objects, including entire buildings. We’ve always believed that we’re surrounded by remarkable cultural heritage worth sharing, and creating The End of the Sun gave us an opportunity to introduce some of it to players around the world. There’s also something special about preserving these objects digitally. Over time, some of the original artifacts may deteriorate or disappear, but their digital recreations can help preserve a record of them for future generations. After taking thousands of photographs during our research trips, we began recreating these objects and buildings inside the game. Even now, when we compare our original photographs with screenshots from The End of the Sun , we’re sometimes surprised by just how closely the virtual world resembles the real one. But creating authentic-looking environments was only the beginning. We wanted these objects to become something more than decorations. From the start, our goal was to make historical objects an integral part of the experience, rather than simply filling the environments with interesting props. We wanted you to interact with them, discover how they worked, and learn something about the everyday lives of the people who once used them. For example, one of the game’s quests introduces you to a traditional hand mill used for grinding grain into flour. You can examine its individual parts and discover how the mechanism works. Other quests involve using traditional tools for twisting rope or sharpening a knife. We also included optional “Learn More” points throughout the game world. When you encounter an unfamiliar object, you can discover what it was used for and learn a little about its history. This approach helped us introduce traditional crafts, customs, and Slavic beliefs naturally, without interrupting the adventure with lengthy historical explanations. Interestingly, the relationship between historical artifacts and gameplay sometimes worked in the opposite direction. Instead of looking for objects to fit a quest we had already designed, we occasionally discovered an artifact so fascinating that we adapted parts of the story around it. These objects also became an important part of environmental storytelling. A carpenter’s workshop or a collection of weaving tools can tell you something about a character’s profession, personality, and everyday life. Sometimes, the environment can tell a story more effectively than dialogue. All you need to do is slow down, look around, and pay attention to the details. In fact, approximately 80% of the objects you encounter while exploring the game’s locations were scanned from real-world originals. Each one carries small imperfections, signs of wear, and traces of its previous use – details that would be difficult to recreate with the same authenticity when modeling everything from scratch. Walking through one of our cottages can sometimes feel like exploring a small, interactive museum. But rather than presenting these objects behind glass, we’ve placed them in a world where you can discover their purpose and the stories behind them. Our world isn’t built exclusively from museum collections. We also wanted to capture the beauty of Poland’s natural landscapes and the richness of its traditional craftsmanship. While exploring the village and its surroundings, you will encounter rocks of different shapes and sizes that we scanned in local nature reserves. We also paid close attention to smaller decorative details. For example, the game features intricate bobbin lace from a local gallery, while cottage interiors and everyday objects are decorated with beautiful hand-painted floral patterns inspired by the village of Zalipie, famous for its colorful painted houses. These details might seem small individually, but together they give the world its identity. They help make the village feel like a place where people once lived, worked, and celebrated their traditions. We wanted you to experience this cultural heritage naturally, through exploration and curiosity, rather than feeling as though you were being given a history lesson. Our approach to environmental storytelling extends beyond individual objects to the buildings themselves. The cottages we scanned in open-air museums aren’t simply static 3D models placed into the game. Because The End of the Sun unfolds across all four seasons and different points in time, we carefully modified these buildings to reflect changes throughout the story. A cottage might show signs of damage or neglect at one point, only to appear renovated at another. We wanted you to notice these differences and experience the passage of time through the environment itself. Nature plays an equally important role in crea",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/01_HERO_Original_Screenshot_Official_Logo_1920x1080-6cf444c8f554817b4072.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "f3eb3e94ccf11691",
+      "title": "Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais",
+      "summary": "The post Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais appeared first on Xbox Wire em Português .",
+      "owners": [
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "7b326949f538b12b"
       ],
       "sources": [
         {
           "name": "Xbox Wire BR",
           "owner": "microsoft",
-          "url": "https://www.callofduty.com/br/pt/blog/2026/11/call-of-duty-modern-warfare-4-warzone-season-1#new_tab",
-          "title": "Call of Duty: Warzone Temporada 1 – tudo o que você precisa saber",
-          "published_at": "2026-11-03T17:09:58+00:00",
+          "url": "https://news.xbox.com/pt-br/2026/11/05/assassins-creed-valhalla-a-atualizacao-com-novo-jogo-novo-recurso-e-muito-mais/",
+          "title": "Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais",
+          "published_at": "2026-11-05T14:09:22+00:00",
           "kind": "primary",
-          "text": "",
-          "image": ""
+          "text": "A atualização mais pedida de Assassin’s Creed Valhalla já está disponível no XBOX Series X|S e no XBOX One. A atualização traz diversas novidades empolgantes ao jogo, oferecendo novas maneiras de aproveitar sua aventura viking. O grande destaque é a chegada do Novo Jogo+, um dos recursos mais pedidos pelos fãs de Assassin’s Creed Valhalla . As demais novidades do patch garantem que sua experiência após o fim da campanha e no Novo Jogo+ seja renovada e desafiadora, com recompensas que fazem tudo valer a pena. Confira o que esperar da atualização mais pedida: Conversamos com o designer-chefe de jogo, David Larouche, para saber mais sobre a atualização e como a equipe coloca os jogadores no centro de tudo o que faz. Quais novidades desta atualização são uma resposta direta aos comentários da comunidade? David Larouche : o Novo Jogo+ foi, sem dúvida, o recurso mais pedido pelos fãs. Assassin’s Creed Valhalla é um jogo imenso, mas, para algumas pessoas, jogar uma vez só não basta. Com esta atualização, estamos muito empolgados em permitir que nossos vikings mais dedicados vivam essa aventura novamente, mas, desta vez, com o personagem que tinham ao final da campanha. Como a equipe garantiu que os recursos pedidos atendessem às expectativas dos jogadores? DL : queríamos que a experiência do Novo Jogo+ não fosse apenas jogar tudo de novo; queríamos permitir que os jogadores continuassem aumentando seu poder, percebessem uma progressão em etapas menores e seguissem aprimorando seus personagens. Por todos esses motivos, adicionamos um modo de progressão estendida, mais melhorias para todas as peças de equipamento divino, uma nova categoria de runas e mais de 300 novas opções de bônus de runas que podem ser gravados na Forja de Runas — e todos esses recursos também estão disponíveis fora do Novo Jogo+. Com todas essas novidades, acreditamos que a experiência do Novo Jogo+ incentivará os jogadores a explorar todo o potencial de Eivor. Houve algum desafio inesperado na implementação dessas novidades? DL : acho que o mais surpreendente para nós foi justamente não termos encontrado nenhum grande desafio que nos deixasse sem saber como avançar. Conseguimos reunir uma equipe muito competente de desenvolvedores com experiência em adicionar o Novo Jogo+ a jogos já existentes; o processo de produção foi incrivelmente tranquilo. Há algum recurso que você esteja especialmente empolgado para ver no jogo? DL : com a atualização, transformamos praticamente todos os bônus presentes em itens em runas que podem ser gravadas na Forja de Runas, independentemente de terem sido lançados na experiência estendida, em uma expansão ou até mesmo na Loja. Mal posso esperar para ver como os jogadores vão combinar todos esses bônus e criar os mais variados tipos de sinergia. Tenho certeza de que há muitas combinações poderosíssimas a serem descobertas! Assassin’s Creed Valhalla recebeu sua última atualização de conteúdo há anos. Por que lançar a atualização mais pedida para os jogadores agora? DL : Valhalla pode ter recebido sua última atualização de conteúdo há anos, mas isso não significa que os jogadores deixaram de se importar com o jogo — e nós também não. Sabemos que o Novo Jogo+ é algo que a comunidade deseja há muito tempo e, quando surgiu a oportunidade de finalmente torná-lo realidade, mal podíamos esperar para seguir em frente. No fim das contas, trata-se de dar aos jogadores de longa data mais um motivo para voltar a um mundo ao qual dedicaram tanto tempo e reviver a jornada de Eivor sob uma nova perspectiva, levando consigo boa parte do que conquistaram pelo caminho. O fato de algum tempo ter passado não torna essa experiência menos significativa para nós nem, esperamos, para nossos jogadores. Qual é a importância da comunidade de Assassin’s Creed para a equipe da franquia? DL : a comunidade é extremamente importante para mim e para a equipe. Pessoalmente, acompanho as redes sociais com frequência para ver sobre o que os jogadores estão conversando e, como equipe, prestamos muita atenção aos comentários e às conversas pela internet. Adoramos ver o que os jogadores criam e compartilham sobre nossos jogos. Essa conexão com a comunidade é incrivelmente gratificante e é uma das principais razões pelas quais fazemos o que fazemos. Jogue hoje mesmo Assassin’s Creed Valhalla com a atualização mais pedida no XBOX Series X|S e no XBOX One.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/Helix_ARISE_Sshot01_MainVisual_NG_Final-acd5108ba796dcd4a82b.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "81cad1adc86ec7b2",
+      "title": "Hope in the City: Why This Detective Uses a Sketchbook Instead of a Badge",
+      "summary": "What if your greatest tool for solving the mystery of your parents’ disappearance wasn’t a badge, but a sketchbook? Launching November 11 on XBOX Series X|S, XBOX on PC, and Steam, and available day one with XBOX Game Pass, Hope in the City is a narrative mystery adventure where you play as Hope Song, a […] The post Hope in the City: Why This Detective Uses a Sketchbook Instead of a Badge...",
+      "owners": [
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "69035d2d7e03d8da"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/05/hope-in-the-city-detective-sketchbook/",
+          "title": "Hope in the City: Why This Detective Uses a Sketchbook Instead of a Badge",
+          "published_at": "2026-11-05T15:00:00+00:00",
+          "kind": "primary",
+          "text": "What if your greatest tool for solving the mystery of your parents’ disappearance wasn’t a badge, but a sketchbook? Launching November 11 on XBOX Series X|S, XBOX on PC, and Steam, and available day one with XBOX Game Pass, Hope in the City is a narrative mystery adventure where you play as Hope Song, a 17-year-old aspiring artist living in Shenyang, Northeast China. Just as she’s preparing to leave for art school overseas, she comes home to find her apartment ransacked and her parents missing. Hope isn’t a traditional detective. She has no authority to demand answers and people around her aren’t willing to talk. When we began designing the game, we asked ourselves: how would someone like Hope investigate? As Hope explores Shenyang, you’ll collect clues, engage in conversations, and discover observations that she records in her notebook. You can combine any two thoughts to see what connections they make. Successful combinations form insights and breakthroughs that unlock new dialogue, locations, and leads. You can also take what you’ve learned to other characters and decide what to ask them. But this mechanic grew from something more than our love of detective games. We wanted to explore what choice means when the world around you limits your options. Hope can’t always say what she’s thinking or convince others to help. In her notebook, however, she can question anything, make unexpected connections, and consider ideas she would never say out loud. Her actions may be constrained, but her thoughts are not. That’s where we gave players the greatest freedom. During early prototyping, I noticed something frustrating: whenever players combined unrelated observations, Hope gave the same generic response. After seeing it a few times, it became boring! So, our writers created individual responses for every combination, even when they don’t advance the investigation. Hope might make a joke, reveal a little of her personality, or stumble toward a subtle hint. We wanted you to feel encouraged to experiment rather than worry about getting things wrong. Finding the right balance still took extensive playtesting. Some connections we thought were obvious proved surprisingly difficult for players, so we repeatedly refined the notebook interface and clues. The goal was to preserve that satisfying moment when two ideas finally click, while making the “wrong” answers more enjoyable and engaging too. We also wanted the notebook to feel like something Hope would actually draw, rather than conventional game assets. Artist Calista Antonio created more than 100 hand-drawn sketches for the game. She approached each page as a quick visual impression, capturing what Hope notices and how she feels, rather than producing polished illustrations. Given that she’s also a 3D animator, Calista’s process combined 3D tools with drawing. She used the models and assets from the game to block out perspectives and pose characters in 3D, then developed the sketches with linework and digital watercolour. While the game features a sharp angular art style, Calista interpreted There’s also a little bit of Calista herself in Hope. She also has Chinese heritage and, like Hope, she left Asia at 17 to pursue her passion for art in Canada. Calista drew on that experience to capture the emotions of Hope’s journey. Some of Calista’s own paintings even hang on the walls of Hope’s bedroom, bringing a personal touch to the character and her world. We’re sharing original sketches and process artwork here for a closer look at how the notebook came to life. Hope in the City launches November 11 on XBOX Series X|S, XBOX on PC, and will be available day one with XBOX Game Pass.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/10/HopeintheCity_Xbox_Wire_HeroImage-20f2c83b4bb434b68b7d.jpg"
         }
       ]
     }
-  ],
-  "especial_gta6": {
-    "id": "especial-gta6-celular-redes-sociais",
-    "tema": "O celular de Jason e Lucia e as redes sociais dentro de GTA 6",
-    "categoria": "gta-6",
-    "angulo": "O celular vira ferramenta central em GTA 6 — banco, carona, roubo de carro e relacionamento —, mas o casal fugitivo não pode postar: o que já se sabe de cada app.",
-    "fatos": [
-      {
-        "texto": "O celular agora é um objeto físico no jogo: Jason ou Lucia tiram o aparelho do bolso e a câmera se aproxima da mão do personagem, em vez de um menu no canto da tela.",
-        "fontes": [
-          0,
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "texto": "Os apps vistos nas prévias são BuckMe (banco), RydeMe (corridas por aplicativo, a versão do jogo para o Uber), Scooter Bros (entrega o seu veículo), WhatUp (mensagens), WAiNK (scanner de carros), Snapmatic (rede social) e um app de condicionamento físico.",
-        "fontes": [
-          4,
-          5
-        ]
-      },
-      {
-        "texto": "O Snapmatic, paródia do Instagram, está de volta, mas Jason e Lucia não podem postar fotos por serem fugitivos; dá para navegar, seguir contas e acompanhar conversas — só 'espiar', nas palavras de Rob Nelson ao IGN.",
-        "fontes": [
-          6,
-          2,
-          0,
-          3,
-          1
-        ]
-      },
-      {
-        "texto": "Posts de NPCs nas redes sociais apontam onde estão acontecendo eventos que o jogador pode visitar.",
-        "fontes": [
-          4,
-          5
-        ]
-      },
-      {
-        "texto": "Dá para rolar o feed durante uma corrida de RydeMe, e as viagens podem ter conversas com o motorista e outros passageiros, uma alternativa à tela de carregamento da viagem rápida.",
-        "fontes": [
-          7,
-          2,
-          3
-        ]
-      },
-      {
-        "texto": "O WAiNK mostra, antes do roubo, quanto um carro vale, quanto custa registrá-lo como veículo pessoal e se tem trava, alarme ou rastreador.",
-        "fontes": [
-          8,
-          1,
-          0
-        ]
-      },
-      {
-        "texto": "O dinheiro se divide entre saldo no banco (gerenciado pelo BuckMe), dinheiro vivo — perdido se o personagem morrer antes de depositar num caixa eletrônico — e bolsas de itens roubados.",
-        "fontes": [
-          4,
-          9
-        ]
-      },
-      {
-        "texto": "O app de saúde mostra se o personagem está descansado; dormir pouco deixa mais lenta a recuperação de alguns atributos, segundo Rob Nelson.",
-        "fontes": [
-          10,
-          11
-        ]
-      },
-      {
-        "texto": "Pelo celular dá para chamar o outro protagonista para ajudar ou convidá-lo para um programa.",
-        "fontes": [
-          0,
-          2
-        ]
-      },
-      {
-        "texto": "Ignorar repetidamente as mensagens do parceiro prejudica a relação entre Jason e Lucia.",
-        "fontes": [
-          0,
-          2,
-          12
-        ]
-      },
-      {
-        "texto": "No Extended Look, um aliado chamado Nesto liga para avisar de uma batida policial e Lucia liga para Jason enquanto dirige; os dois também trocam mensagens.",
-        "fontes": [
-          13,
-          14
-        ]
-      },
-      {
-        "texto": "Influenciadores fazem parte do mundo: o Extended Look mostra o casal sequestrando um livestreamer.",
-        "fontes": [
-          13,
-          15,
-          16
-        ]
-      },
-      {
-        "texto": "Pelo site oficial, a dupla de rap Real Dimez vive de músicas e de presença nas redes sociais, buscando viralizar.",
-        "fontes": [
-          17
-        ]
-      }
-    ],
-    "fontes": [
-      {
-        "name": "VICE",
-        "owner": "vice-media",
-        "kind": "press",
-        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
-        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
-      },
-      {
-        "name": "Beebom",
-        "owner": "beebom",
-        "kind": "press",
-        "url": "https://beebom.com/your-in-game-phone-in-gta-6-does-more-than-youd-expect/",
-        "title": "Your In-Game Phone in GTA 6 Does More than You'd Expect"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/15-new-things-we-just-learned-about-gta-6-2000728941",
-        "title": "20 Big New Things We Just Learned About GTA 6"
-      },
-      {
-        "name": "TechSpot",
-        "owner": "techspot",
-        "kind": "press",
-        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
-        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
-      },
-      {
-        "name": "VICE",
-        "owner": "vice-media",
-        "kind": "press",
-        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
-        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
-      },
-      {
-        "name": "International Business Times UK",
-        "owner": "ibtimes",
-        "kind": "press",
-        "url": "https://www.ibtimes.co.uk/gta-6-preview-interactive-safehouses-larger-map-1819375",
-        "title": "GTA 6 Open-World Details Reportedly Reveal a Massive Vice City Map, Safehouses, and Phone Apps"
-      },
-      {
-        "name": "Insider Gaming",
-        "owner": "insider-gaming",
-        "kind": "press",
-        "url": "https://insider-gaming.com/gta-6-interview-reveals-new-details-about-the-game/",
-        "title": "GTA 6 Interview Reveals New Details About The Game"
-      },
-      {
-        "name": "Game & Guide",
-        "owner": "gamenguide",
-        "kind": "press",
-        "url": "https://www.gamenguide.com/articles/109028/20260930/gta-6-reveals-major-new-details-about-wildlife-npcs-side-activities-fast-travel-more.htm",
-        "title": "'GTA 6' Reveals Major New Details About Wildlife, NPCs, Side Activities, Fast Travel, and More"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
-        "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard"
-      },
-      {
-        "name": "TweakTown",
-        "owner": "tweaktown",
-        "kind": "press",
-        "url": "https://www.tweaktown.com/news/113368/gta-6s-illicit-criminal-economy-robberies-and-money-explained-by-rockstar/index.html",
-        "title": "GTA 6's illicit criminal economy: Robberies and money explained by Rockstar"
-      },
-      {
-        "name": "International Business Times UK",
-        "owner": "ibtimes",
-        "kind": "press",
-        "url": "https://www.ibtimes.co.uk/gta-6-driving-has-best-parts-gta-4-rockstar-will-now-make-you-refuel-cars-sleep-1818069",
-        "title": "GTA 6 Driving Has 'The Best Parts' of GTA 4, but Rockstar Will Now Make You Refuel Cars and Sleep"
-      },
-      {
-        "name": "GamesRadar+ (via Yahoo Tech)",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://tech.yahoo.com/gaming/articles/gta-6-bit-too-real-113605772.html",
-        "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\""
-      },
-      {
-        "name": "Gulf News",
-        "owner": "al-nisr",
-        "kind": "press",
-        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
-        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
-      },
-      {
-        "name": "GamesRadar+",
-        "owner": "future-plc",
-        "kind": "press",
-        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
-        "title": "Everything revealed from the GTA 6 extended look"
-      },
-      {
-        "name": "Red Bull",
-        "owner": "red-bull",
-        "kind": "press",
-        "url": "https://www.redbull.com/int-en/gta-6-extended-look-everything-revealed",
-        "title": "GTA 6 Extended Look: Everything we learned from the new footage"
-      },
-      {
-        "name": "Kotaku",
-        "owner": "keleops",
-        "kind": "press",
-        "url": "https://kotaku.com/grand-theft-auto-6-looks-incredible-in-netflixs-big-gameplay-reveal-2000728933",
-        "title": "Grand Theft Auto 6 Looks Incredible In Big Gameplay Reveal [Update: Now Available On YouTube]"
-      },
-      {
-        "name": "Engadget",
-        "owner": "static-media",
-        "kind": "press",
-        "url": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
-        "title": "Guns, cars and chihuahuas: Breaking down the GTA 6 extended look"
-      },
-      {
-        "name": "Rockstar Games (site oficial de GTA VI)",
-        "owner": "take-two",
-        "kind": "primary",
-        "url": "https://www.rockstargames.com/VI/only-in-leonida",
-        "title": "Only in Leonida - Grand Theft Auto VI"
-      }
-    ],
-    "imagem": {
-      "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0fw301vbqh4~b.jpg",
-      "credito": "Rockstar Games",
-      "descricao": "Quadro do vídeo da dupla Real Dimez, personagens ligados às redes sociais, no site oficial de GTA VI"
-    },
-    "formatos_carrossel": [
-      "lista",
-      "perguntas",
-      "detalhes"
-    ]
-  },
-  "especiais_gta6_hoje": 1
+  ]
 }
