@@ -416,5 +416,251 @@
         }
       ]
     }
-  ]
+  ],
+  "especial_gta6": {
+    "id": "especial-gta6-celular-redes-sociais",
+    "tema": "O celular de Jason e Lucia e as redes sociais dentro de GTA 6",
+    "categoria": "gta-6",
+    "angulo": "O celular vira ferramenta central em GTA 6 — banco, carona, roubo de carro e relacionamento —, mas o casal fugitivo não pode postar: o que já se sabe de cada app.",
+    "fatos": [
+      {
+        "texto": "O celular agora é um objeto físico no jogo: Jason ou Lucia tiram o aparelho do bolso e a câmera se aproxima da mão do personagem, em vez de um menu no canto da tela.",
+        "fontes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "Os apps vistos nas prévias são BuckMe (banco), RydeMe (corridas por aplicativo, a versão do jogo para o Uber), Scooter Bros (entrega o seu veículo), WhatUp (mensagens), WAiNK (scanner de carros), Snapmatic (rede social) e um app de condicionamento físico.",
+        "fontes": [
+          4,
+          5
+        ]
+      },
+      {
+        "texto": "O Snapmatic, paródia do Instagram, está de volta, mas Jason e Lucia não podem postar fotos por serem fugitivos; dá para navegar, seguir contas e acompanhar conversas — só 'espiar', nas palavras de Rob Nelson ao IGN.",
+        "fontes": [
+          6,
+          2,
+          0,
+          3,
+          1
+        ]
+      },
+      {
+        "texto": "Posts de NPCs nas redes sociais apontam onde estão acontecendo eventos que o jogador pode visitar.",
+        "fontes": [
+          4,
+          5
+        ]
+      },
+      {
+        "texto": "Dá para rolar o feed durante uma corrida de RydeMe, e as viagens podem ter conversas com o motorista e outros passageiros, uma alternativa à tela de carregamento da viagem rápida.",
+        "fontes": [
+          7,
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "O WAiNK mostra, antes do roubo, quanto um carro vale, quanto custa registrá-lo como veículo pessoal e se tem trava, alarme ou rastreador.",
+        "fontes": [
+          8,
+          1,
+          0
+        ]
+      },
+      {
+        "texto": "O dinheiro se divide entre saldo no banco (gerenciado pelo BuckMe), dinheiro vivo — perdido se o personagem morrer antes de depositar num caixa eletrônico — e bolsas de itens roubados.",
+        "fontes": [
+          4,
+          9
+        ]
+      },
+      {
+        "texto": "O app de saúde mostra se o personagem está descansado; dormir pouco deixa mais lenta a recuperação de alguns atributos, segundo Rob Nelson.",
+        "fontes": [
+          10,
+          11
+        ]
+      },
+      {
+        "texto": "Pelo celular dá para chamar o outro protagonista para ajudar ou convidá-lo para um programa.",
+        "fontes": [
+          0,
+          2
+        ]
+      },
+      {
+        "texto": "Ignorar repetidamente as mensagens do parceiro prejudica a relação entre Jason e Lucia.",
+        "fontes": [
+          0,
+          2,
+          12
+        ]
+      },
+      {
+        "texto": "No Extended Look, um aliado chamado Nesto liga para avisar de uma batida policial e Lucia liga para Jason enquanto dirige; os dois também trocam mensagens.",
+        "fontes": [
+          13,
+          14
+        ]
+      },
+      {
+        "texto": "Influenciadores fazem parte do mundo: o Extended Look mostra o casal sequestrando um livestreamer.",
+        "fontes": [
+          13,
+          15,
+          16
+        ]
+      },
+      {
+        "texto": "Pelo site oficial, a dupla de rap Real Dimez vive de músicas e de presença nas redes sociais, buscando viralizar.",
+        "fontes": [
+          17
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
+        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
+      },
+      {
+        "name": "Beebom",
+        "owner": "beebom",
+        "kind": "press",
+        "url": "https://beebom.com/your-in-game-phone-in-gta-6-does-more-than-youd-expect/",
+        "title": "Your In-Game Phone in GTA 6 Does More than You'd Expect"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/15-new-things-we-just-learned-about-gta-6-2000728941",
+        "title": "20 Big New Things We Just Learned About GTA 6"
+      },
+      {
+        "name": "TechSpot",
+        "owner": "techspot",
+        "kind": "press",
+        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
+        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
+        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
+      },
+      {
+        "name": "International Business Times UK",
+        "owner": "ibtimes",
+        "kind": "press",
+        "url": "https://www.ibtimes.co.uk/gta-6-preview-interactive-safehouses-larger-map-1819375",
+        "title": "GTA 6 Open-World Details Reportedly Reveal a Massive Vice City Map, Safehouses, and Phone Apps"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/gta-6-interview-reveals-new-details-about-the-game/",
+        "title": "GTA 6 Interview Reveals New Details About The Game"
+      },
+      {
+        "name": "Game & Guide",
+        "owner": "gamenguide",
+        "kind": "press",
+        "url": "https://www.gamenguide.com/articles/109028/20260930/gta-6-reveals-major-new-details-about-wildlife-npcs-side-activities-fast-travel-more.htm",
+        "title": "'GTA 6' Reveals Major New Details About Wildlife, NPCs, Side Activities, Fast Travel, and More"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
+        "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard"
+      },
+      {
+        "name": "TweakTown",
+        "owner": "tweaktown",
+        "kind": "press",
+        "url": "https://www.tweaktown.com/news/113368/gta-6s-illicit-criminal-economy-robberies-and-money-explained-by-rockstar/index.html",
+        "title": "GTA 6's illicit criminal economy: Robberies and money explained by Rockstar"
+      },
+      {
+        "name": "International Business Times UK",
+        "owner": "ibtimes",
+        "kind": "press",
+        "url": "https://www.ibtimes.co.uk/gta-6-driving-has-best-parts-gta-4-rockstar-will-now-make-you-refuel-cars-sleep-1818069",
+        "title": "GTA 6 Driving Has 'The Best Parts' of GTA 4, but Rockstar Will Now Make You Refuel Cars and Sleep"
+      },
+      {
+        "name": "GamesRadar+ (via Yahoo Tech)",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://tech.yahoo.com/gaming/articles/gta-6-bit-too-real-113605772.html",
+        "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\""
+      },
+      {
+        "name": "Gulf News",
+        "owner": "al-nisr",
+        "kind": "press",
+        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
+        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+        "title": "Everything revealed from the GTA 6 extended look"
+      },
+      {
+        "name": "Red Bull",
+        "owner": "red-bull",
+        "kind": "press",
+        "url": "https://www.redbull.com/int-en/gta-6-extended-look-everything-revealed",
+        "title": "GTA 6 Extended Look: Everything we learned from the new footage"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/grand-theft-auto-6-looks-incredible-in-netflixs-big-gameplay-reveal-2000728933",
+        "title": "Grand Theft Auto 6 Looks Incredible In Big Gameplay Reveal [Update: Now Available On YouTube]"
+      },
+      {
+        "name": "Engadget",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
+        "title": "Guns, cars and chihuahuas: Breaking down the GTA 6 extended look"
+      },
+      {
+        "name": "Rockstar Games (site oficial de GTA VI)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "title": "Only in Leonida - Grand Theft Auto VI"
+      }
+    ],
+    "imagem": {
+      "url": "https://www.rockstargames.com/VI/_next/static/media/poster.0fw301vbqh4~b.jpg",
+      "credito": "Rockstar Games",
+      "descricao": "Quadro do vídeo da dupla Real Dimez, personagens ligados às redes sociais, no site oficial de GTA VI"
+    },
+    "formatos_carrossel": [
+      "lista",
+      "perguntas",
+      "detalhes"
+    ]
+  },
+  "especiais_gta6_hoje": 1
 }
