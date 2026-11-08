@@ -1,14 +1,27 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "trem-gta5-invicto",
-    "pasta": "reel-trem-gta5-invicto",
-    "horario": "18:00",
-    "data": "2026-11-08"
+    "acao": "carrossel",
+    "slug": "gta-6-celular-snapmatic-perguntas",
+    "horario": "19:00",
+    "data": "2026-11-08",
+    "estilo": "celular",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-11-08T17:59:40-03:00",
+  "em": "2026-11-08T18:59:47-03:00",
   "ok": true,
-  "media_id": "18098224589663278",
-  "permalink": "https://www.instagram.com/reel/DffrD6_lP9c/",
+  "media_id": "18109509479214540",
+  "permalink": "https://www.instagram.com/p/Dffx381FHIQ/",
+  "story": {
+    "em": "2026-11-08T19:00:23-03:00",
+    "media_id": "18142008631616925"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
