@@ -27,6 +27,7 @@ import subprocess
 import sys
 import tempfile
 import unicodedata
+import urllib.error
 import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -120,10 +121,14 @@ def gerar_texto(info: dict) -> dict:
         req = urllib.request.Request("https://models.github.ai/inference/chat/completions",
                                      data=json.dumps(corpo).encode(), method="POST",
                                      headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
-                                              "Accept": "application/json"})
+                                              "Accept": "application/json", "X-GitHub-Api-Version": "2022-11-28"})
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
-                txt = json.loads(r.read())["choices"][0]["message"]["content"]
+                bruto = r.read().decode("utf-8", "replace")
+            try:
+                txt = json.loads(bruto)["choices"][0]["message"]["content"]
+            except (ValueError, KeyError, IndexError):
+                raise RuntimeError(f"resposta inesperada: {bruto[:200]!r}") from None
             dado = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
             titulo = limpar_titulo(dado.get("titulo", ""))
             if 8 <= len(re.sub(r"<[^>]+>", "", titulo)) <= 110:
@@ -131,8 +136,10 @@ def gerar_texto(info: dict) -> dict:
                         "hashtags": [h for h in dado.get("hashtags", []) if re.fullmatch(r"#[a-z0-9_]+", h)][:3],
                         "slug": slugify(dado.get("slug", "")), "fonte": "modelo"}
             print(f"  título do modelo fora do padrão: {titulo!r}")
+        except urllib.error.HTTPError as e:
+            print(f"  GitHub Models HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:200]}; título simples")
         except Exception as e:  # sem modelo, segue com o título simples
-            print(f"  GitHub Models indisponível ({str(e)[:120]}); título simples")
+            print(f"  GitHub Models indisponível ({str(e)[:200]}); título simples")
     jogo = info.get("jogo") or "o universo dos games"
     titulo = ("Esse vídeo está bombando hoje no <em>universo dos games</em>" if info.get("tema") == "games"
               else f"Esse vídeo de <em>{jogo}</em> está bombando hoje")
