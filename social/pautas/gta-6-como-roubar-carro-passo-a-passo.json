@@ -1,0 +1,81 @@
+{
+  "slug": "gta-6-como-roubar-carro-passo-a-passo",
+  "tipo": "noticia",
+  "formato": "passo-a-passo",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-veiculos-roubar-carro-combustivel-garagens",
+  "criado": "2026-11-08T09:50:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01.004m_8d1~qngy.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Kotaku, VICE e TechSpot",
+  "capa": {
+    "titulo": "Como roubar um carro em GTA 6, passo a passo",
+    "destaque": "passo a passo",
+    "apoio": "Não é mais um botão só. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Passo a passo",
+      "titulo": "Do alvo à fuga",
+      "destaque": "alvo",
+      "passos": [
+        "Escaneie o carro no app WAiNK antes do roubo.",
+        "Carro antigo: slim jim ou quebre o vidro.",
+        "Carro de luxo: use o clonador de chave.",
+        "Cuidado com o rastreador e fuja em alta velocidade."
+      ]
+    },
+    {
+      "rotulo": "Segurança",
+      "titulo": "Níveis de segurança",
+      "destaque": "Níveis",
+      "texto": [
+        "Alguns veículos ficam fora de alcance até certo ponto da história, segundo o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Receptador",
+      "titulo": "Carro batido vale menos",
+      "destaque": "vale menos",
+      "texto": [
+        "Os carros são vendidos em receptadores e chegam valendo menos se estiverem batidos, segundo a VICE e o TechSpot."
+      ]
+    },
+    {
+      "rotulo": "Combustível",
+      "titulo": "Abasteça antes de fugir",
+      "destaque": "Abasteça",
+      "texto": [
+        "Carros a gasolina precisam de posto, e os elétricos precisam de recarga, segundo a VICE e o Khel Now."
+      ]
+    }
+  ],
+  "final": "Você prefere roubar ou comprar o carro?",
+  "legenda": {
+    "gancho": "Roubar carro em GTA 6 deixou de ser um botão só.",
+    "corpo": [
+      "Os veículos têm níveis de segurança, e carros de luxo exigem um clonador de chave, segundo o Kotaku e a VICE. O app WAiNK escaneia o carro antes do roubo, de acordo com o Kotaku e a Beebom.",
+      "Os carros precisam de combustível, segundo a VICE e o Khel Now. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Como roubar um carro em GTA 6, passo a passo",
+    "Slide 2: Do alvo à fuga",
+    "Slide 3: Níveis de segurança",
+    "Slide 4: Carro batido vale menos",
+    "Slide 5: Abasteça antes de fugir",
+    "Slide 6: Você prefere roubar ou comprar o carro?"
+  ],
+  "status": "pronto"
+}

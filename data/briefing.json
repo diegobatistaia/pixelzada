@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-08T09:54:05+00:00",
-  "posts_per_language_today": 1,
+  "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 0,
   "min_independent_sources": 2,
@@ -440,6 +440,288 @@
       ]
     }
   ],
-  "especial_gta6": null,
+  "especial_gta6": {
+    "id": "especial-gta6-veiculos",
+    "tema": "Carros, motos, barcos e mais em GTA 6: o que já apareceu e como roubar um carro agora",
+    "categoria": "gta-6",
+    "angulo": "Para quem gosta de dirigir em GTA: os veículos já vistos, a nova direção, combustível, garagens e por que roubar carro ficou bem mais difícil do que em GTA 5.",
+    "fatos": [
+      {
+        "texto": "Roubar carro deixou de ser um botão só: os veículos são divididos em níveis de segurança e alguns ficam fora de alcance até certo ponto da história.",
+        "fontes": [
+          0,
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "Carros antigos abrem com uma chave mixa (slim jim) ou quebrando o vidro; carros de luxo modernos exigem um clonador de chave — dá para quebrar o vidro e entrar, mas não ligar o motor sem ele, disse Rob Nelson ao IGN.",
+        "fontes": [
+          0,
+          4,
+          2
+        ]
+      },
+      {
+        "texto": "Tirar o motorista de dentro de um carro parado continua possível, sem ferramenta.",
+        "fontes": [
+          0,
+          1
+        ]
+      },
+      {
+        "texto": "O app WAiNK, no celular, escaneia um carro antes do roubo e mostra valor de revenda, custo para registrá-lo como veículo pessoal, se tem trava, alarme e rastreador.",
+        "fontes": [
+          0,
+          5,
+          1,
+          2
+        ]
+      },
+      {
+        "texto": "Rastreadores mais avançados ficam quietos enquanto o carro anda rápido, mas avisam a polícia quando ele desacelera.",
+        "fontes": [
+          4,
+          6
+        ]
+      },
+      {
+        "texto": "Carros roubados são vendidos em receptadores especializados, e chegam valendo menos se estiverem batidos.",
+        "fontes": [
+          1,
+          2
+        ]
+      },
+      {
+        "texto": "Carros a gasolina precisam ser abastecidos em postos (cerca de 10 segundos segurando o botão), e elétricos precisam ser recarregados.",
+        "fontes": [
+          4,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "texto": "A física de direção foi refeita: a Rockstar diz que juntou o peso de GTA 4 com a facilidade de GTA 5, com controle mais preciso de tração, pneus, suspensão e direção.",
+        "fontes": [
+          7,
+          4,
+          6
+        ]
+      },
+      {
+        "texto": "A Rockstar consultou pilotos de corrida reais para ajustar a dirigibilidade.",
+        "fontes": [
+          9,
+          2
+        ]
+      },
+      {
+        "texto": "Dá para comprar garagens para guardar carros; a Pay 'n' Spray volta para consertos e pintura.",
+        "fontes": [
+          4,
+          6
+        ]
+      },
+      {
+        "texto": "O porta-malas guarda armas extras e uma troca de roupa, útil para despistar a polícia.",
+        "fontes": [
+          1,
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "O app Scooter Bros entrega o veículo pessoal onde o jogador estiver, e o app RydeMe chama uma corrida para quem não quer dirigir.",
+        "fontes": [
+          4,
+          10
+        ]
+      },
+      {
+        "texto": "Há transporte público: as prévias e o Extended Look mostram ônibus, trens, bondes e táxis.",
+        "fontes": [
+          10,
+          11
+        ]
+      },
+      {
+        "texto": "No Extended Look aparecem um conversível vermelho de capota retrátil, uma van, scooters, motos de trilha, jet skis, caiaques, aerobarcos no pântano e helicópteros da polícia.",
+        "fontes": [
+          11,
+          12,
+          13,
+          9
+        ]
+      },
+      {
+        "texto": "O vídeo também mostra corridas em circuito fechado e de rua, além de corridas de moto de trilha.",
+        "fontes": [
+          14,
+          2,
+          15,
+          12
+        ]
+      },
+      {
+        "texto": "Como de costume na série, os carros têm marcas fictícias, mas muitos são claramente inspirados em modelos reais, como Porsche, Lamborghini e Mercedes.",
+        "fontes": [
+          14,
+          16
+        ]
+      },
+      {
+        "texto": "A Ultimate Edition traz o '95 Grotti Cheetah, o barco Shitzu Squalo, o '67 Vapid Dominator Buggy, a picape Ganado (versão retrô), veículos na casa de Jason, uma coleção de carros clássicos e as oficinas Rideout Customs e One-Eyed Willie's.",
+        "fontes": [
+          17
+        ]
+      },
+      {
+        "texto": "Quem faz a pré-venda até 20/11/2026 ganha o sedã '55 Vapid Stanier com garagem, no pacote Vintage Vice City.",
+        "fontes": [
+          17
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/for-the-first-time-in-25-years-gta-6-will-make-stealing-cars-hard-2000729419",
+        "title": "For The First Time In 25+ Years, GTA 6 Will Make Stealing Cars Hard"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
+        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
+      },
+      {
+        "name": "TechSpot",
+        "owner": "techspot",
+        "kind": "press",
+        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
+        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
+      },
+      {
+        "name": "Gulf News",
+        "owner": "al-nisr",
+        "kind": "press",
+        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
+        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
+        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
+      },
+      {
+        "name": "Beebom",
+        "owner": "beebom",
+        "kind": "press",
+        "url": "https://beebom.com/your-in-game-phone-in-gta-6-does-more-than-youd-expect/",
+        "title": "Your In-Game Phone in GTA 6 Does More than You'd Expect"
+      },
+      {
+        "name": "Khel Now",
+        "owner": "khel-now",
+        "kind": "press",
+        "url": "https://khelnow.com/gaming/gta-6-reportedly-features-vehicle-trackers-garages-nitrous-fuel-system-202608",
+        "title": "GTA 6 reportedly features vehicle trackers, garages, nitrous, fuel system & more"
+      },
+      {
+        "name": "International Business Times UK",
+        "owner": "ibtimes",
+        "kind": "press",
+        "url": "https://www.ibtimes.co.uk/gta-6-driving-has-best-parts-gta-4-rockstar-will-now-make-you-refuel-cars-sleep-1818069",
+        "title": "GTA 6 Driving Has 'The Best Parts' of GTA 4, but Rockstar Will Now Make You Refuel Cars and Sleep"
+      },
+      {
+        "name": "GamesRadar+ (via Yahoo Tech)",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://tech.yahoo.com/gaming/articles/gta-6-bit-too-real-113605772.html",
+        "title": "GTA 6 is a bit too real for me - Rockstar will punish you if Jason and Lucia don't get a good night's sleep: \"We track lots of things\""
+      },
+      {
+        "name": "Red Bull",
+        "owner": "red-bull",
+        "kind": "press",
+        "url": "https://www.redbull.com/int-en/gta-6-extended-look-everything-revealed",
+        "title": "GTA 6 Extended Look: Everything we learned from the new footage"
+      },
+      {
+        "name": "International Business Times UK",
+        "owner": "ibtimes",
+        "kind": "press",
+        "url": "https://www.ibtimes.co.uk/gta-6-preview-interactive-safehouses-larger-map-1819375",
+        "title": "GTA 6 Open-World Details Reportedly Reveal a Massive Vice City Map, Safehouses, and Phone Apps"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+        "title": "Everything revealed from the GTA 6 extended look"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/grand-theft-auto-6-looks-incredible-in-netflixs-big-gameplay-reveal-2000728933",
+        "title": "Grand Theft Auto 6 Looks Incredible In Big Gameplay Reveal [Update: Now Available On YouTube]"
+      },
+      {
+        "name": "Engadget",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
+        "title": "Guns, cars and chihuahuas: Breaking down the GTA 6 extended look"
+      },
+      {
+        "name": "Jalopnik",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.jalopnik.com/2246499/cars-in-grand-theft-auto-gta-6-extended-look-trailer-real-life-counterparts/",
+        "title": "All The New Cars We Spotted In GTA VI's Extended Look Trailer, And Their Real-Life Counterparts"
+      },
+      {
+        "name": "Consequence",
+        "owner": "consequence",
+        "kind": "press",
+        "url": "https://consequence.net/2026/08/gta-6-extended-look-netflix-breakdown-details/",
+        "title": "Here's Everything We Learned from the Grand Theft Auto VI Extended Look"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/everything-revealed-gta-6-trailer-2/",
+        "title": "Everything Revealed in Grand Theft Auto 6 Trailer 2"
+      },
+      {
+        "name": "Rockstar Store",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://store.rockstargames.com/game/buy-gta-vi",
+        "title": "Grand Theft Auto VI"
+      }
+    ],
+    "imagem": {
+      "url": "https://www.rockstargames.com/VI/_next/static/media/VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01.004m_8d1~qngy.jpg",
+      "credito": "Rockstar Games",
+      "descricao": "Screenshot oficial do sedã '55 Vapid Stanier, carro do pacote de pré-venda Vintage Vice City"
+    },
+    "formatos_carrossel": [
+      "lista",
+      "passo-a-passo",
+      "detalhes"
+    ]
+  },
   "especiais_gta6_hoje": 0
 }
