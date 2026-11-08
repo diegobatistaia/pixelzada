@@ -10,6 +10,12 @@ name: Pesquisa de vídeos
 #   teste    confere a chave (secret META_TOKEN_PIXELZADA) e lê 1 perfil
 #   coletar  faz a coleta e a lista agora, fora do horário
 #   baixar   baixa os vídeos escolhidos: data (AAAA-MM-DD) + números (ex.: 1,4,7)
+#   completar  roda o piso agora (baixa, monta e agenda o que faltar)
+#
+# PISO DOS 6 REELS POR DIA: toda rodada (agendada ou não) confere a fila de hoje
+# e dos próximos 2 dias; se faltar vídeo, baixa sozinho os melhores da lista
+# (scripts/social/pesquisa.py completar) e o job "montar" põe na identidade e
+# agenda (scripts/social/montagem.py). Ninguém precisa responder nada.
 on:
   schedule:
     - cron: "5,35 9 * * *"     # 6h
@@ -21,7 +27,7 @@ on:
       acao:
         description: "teste, coletar ou baixar"
         type: choice
-        options: [teste, coletar, baixar]
+        options: [teste, coletar, baixar, completar]
         default: teste
       data:
         description: "baixar: data da lista (AAAA-MM-DD)"
@@ -32,6 +38,7 @@ on:
 
 permissions:
   contents: write
+  models: read      # GitHub Models escreve o título do Reel (montagem.py)
 
 concurrency:
   group: pesquisa
@@ -43,6 +50,7 @@ jobs:
     timeout-minutes: 20
     env:
       META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
+      SCRAPECREATORS_KEY: ${{ secrets.SCRAPECREATORS_KEY }}
       ACAO: ${{ github.event.inputs.acao || 'agendada' }}
       DATA: ${{ github.event.inputs.data }}
       NUMEROS: ${{ github.event.inputs.numeros }}
@@ -73,6 +81,10 @@ jobs:
         if: env.ACAO == 'baixar'
         run: python -m scripts.social.pesquisa baixar "$DATA" "$NUMEROS"
 
+      - name: Piso dos 6 Reels por dia (baixa o que faltar)
+        if: env.ACAO != 'teste' && env.ACAO != 'baixar'
+        run: python -m scripts.social.pesquisa completar
+
       - name: Registrar o resultado
         if: always() && env.ACAO != 'teste'
         run: |
@@ -82,6 +94,65 @@ jobs:
           if [ -d social/reels/entrada ]; then git add -A social/reels/entrada; fi
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "pesquisa: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1
+
+  # Monta na identidade e agenda tudo o que caiu em social/reels/entrada/.
+  # Mesmo grupo dos workflows Instagram e Reels para nunca mexer na fila junto.
+  montar:
+    needs: pesquisa
+    if: always() && github.event.inputs.acao != 'teste'
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    concurrency:
+      group: instagram
+      cancel-in-progress: false
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Tem vídeo esperando?
+        id: tem
+        run: |
+          n=$(ls social/reels/entrada/*/*.mp4 2>/dev/null | wc -l)
+          echo "videos=$n" >> "$GITHUB_OUTPUT"
+          echo "$n vídeo(s) esperando montagem"
+
+      - uses: actions/setup-python@v7
+        if: steps.tem.outputs.videos != '0'
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ffmpeg e o navegador do gerador
+        if: steps.tem.outputs.videos != '0'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          npm install --no-save --no-package-lock playwright@1
+          npx playwright install --with-deps chromium
+          pip install pyyaml
+
+      - name: Montar e agendar
+        if: steps.tem.outputs.videos != '0'
+        run: python -m scripts.social.montagem automatico
+
+      - name: Conferir a fila
+        if: steps.tem.outputs.videos != '0'
+        run: python -m scripts.social.reels check
+
+      - name: Registrar
+        if: always() && steps.tem.outputs.videos != '0'
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A social/reels
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "reels: montagem automática $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
           for tentativa in 1 2 3 4; do
             git pull --rebase origin main && git push origin HEAD:main && exit 0
             sleep $((tentativa * 4))
