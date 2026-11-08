@@ -1011,13 +1011,18 @@
     "slug": "mae-apareceu-na-live",
     "data": "2026-11-08",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Celular",
     "legenda": "É sua mãe? 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#memesgamer #live #gamer #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-08T19:59:12-03:00",
+      "media_id": "18119130098002674",
+      "permalink": "https://www.instagram.com/reel/Dff4pCyiuR9/"
     }
   },
   {
