@@ -1,0 +1,124 @@
+name: Telegram
+
+# Robô do Telegram (scripts/social/telegram.py): o Diego compartilha um Reel ou
+# um perfil do Instagram com o bot da Pixelzada e, a cada 10 minutos, este
+# workflow lê as mensagens novas:
+#   link de perfil  -> entra como concorrente em social/pesquisa/config.yaml
+#   link de vídeo   -> baixa para social/reels/entrada/ (montar.yml põe na fila)
+#   arquivo de vídeo -> mesmo caminho, sem depender da API
+# O bot responde o que fez e, depois da montagem, o dia e o horário do Reel.
+# Sem o secret TELEGRAM_TOKEN_PIXELZADA não faz nada.
+on:
+  schedule:
+    - cron: "*/10 10-23 * * *"   # 7h às 20h50 (Brasília)
+    - cron: "*/10 0-2 * * *"     # 21h às 23h50
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  models: read      # montar.yml usa o GitHub Models para o título
+
+concurrency:
+  group: telegram
+  cancel-in-progress: false
+
+jobs:
+  ler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    outputs:
+      videos: ${{ steps.tem.outputs.videos }}
+    env:
+      TELEGRAM_TOKEN_PIXELZADA: ${{ secrets.TELEGRAM_TOKEN_PIXELZADA }}
+      META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
+      SCRAPECREATORS_KEY: ${{ secrets.SCRAPECREATORS_KEY }}
+    steps:
+      - name: Tem chave?
+        id: chave
+        run: |
+          if [ -z "$TELEGRAM_TOKEN_PIXELZADA" ]; then
+            echo "o secret TELEGRAM_TOKEN_PIXELZADA não está cadastrado; nada a fazer"
+            echo "ok=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v7
+        if: steps.chave.outputs.ok == '1'
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        if: steps.chave.outputs.ok == '1'
+        with:
+          python-version: "3.12"
+
+      - name: Ler as mensagens novas
+        if: steps.chave.outputs.ok == '1'
+        run: |
+          pip install -q pyyaml
+          python -m scripts.social.telegram ler
+
+      - name: Contar o horário dos Reels já montados
+        if: steps.chave.outputs.ok == '1'
+        run: python -m scripts.social.telegram avisar
+
+      - name: Registrar
+        if: always() && steps.chave.outputs.ok == '1'
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A social/telegram social/pesquisa
+          if [ -d social/reels/entrada ]; then git add -A social/reels/entrada; fi
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "telegram: mensagens $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1
+
+      - name: Tem vídeo para montar?
+        id: tem
+        if: always()
+        run: |
+          n=$(ls social/reels/entrada/*/*.mp4 2>/dev/null | wc -l)
+          echo "videos=$n" >> "$GITHUB_OUTPUT"
+
+  montar:
+    needs: ler
+    if: needs.ler.outputs.videos != '' && needs.ler.outputs.videos != '0'
+    uses: ./.github/workflows/montar.yml
+
+  avisar:
+    needs: montar
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TELEGRAM_TOKEN_PIXELZADA: ${{ secrets.TELEGRAM_TOKEN_PIXELZADA }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Contar no Telegram o dia e o horário
+        run: |
+          pip install -q pyyaml
+          python -m scripts.social.telegram avisar
+
+      - name: Registrar
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A social/telegram
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "telegram: avisos $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1
