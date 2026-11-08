@@ -1,0 +1,72 @@
+{
+  "slug": "mass-effect-3-multiplayer-mod-linha-do-tempo",
+  "tipo": "noticia",
+  "formato": "linha-do-tempo",
+  "assunto": "Mass Effect 3",
+  "gta6": false,
+  "materia": "mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks",
+  "criado": "2026-11-08T15:50:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-multiplayermod-interview-blogroll-1793999260678.jpg",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e Kotaku",
+  "capa": {
+    "titulo": "O multiplayer de Mass Effect 3 volta em um mod",
+    "destaque": "volta em um mod",
+    "apoio": "Cinco anos de bastidores. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "A origem",
+      "titulo": "Da Pinnacle Station ao multiplayer",
+      "destaque": "multiplayer",
+      "passos": [
+        "2021: a Legendary Edition sai sem o multiplayer do ME3.",
+        "2021: o grupo ME3Tweaks traz a Pinnacle Station de volta.",
+        "7 nov 2023: nasce o servidor do projeto no Discord."
+      ]
+    },
+    {
+      "rotulo": "A estreia",
+      "titulo": "Do protótipo ao Dia N7",
+      "destaque": "Dia N7",
+      "passos": [
+        "Dez 2023: protótipo jogável, mas trava na terceira onda.",
+        "7 nov 2026: mod gratuito no Dia N7, no Nexus Mods."
+      ]
+    },
+    {
+      "rotulo": "Novidades",
+      "titulo": "Coalition e Unified",
+      "destaque": "Coalition",
+      "texto": [
+        "O mod traz dois modos novos e mexe na progressão, segundo o Kotaku."
+      ]
+    }
+  ],
+  "final": "Você jogou o multiplayer de Mass Effect 3?",
+  "legenda": {
+    "gancho": "O multiplayer de Mass Effect 3 voltou em um mod gratuito para a Legendary Edition.",
+    "corpo": [
+      "O mod foi liberado no Dia N7, em 7 de novembro, para quem tem a coleção no PC, segundo a IGN e o Kotaku. O projeto levou cerca de três anos.",
+      "Há dois modos novos, Coalition e Unified, de acordo com o Kotaku."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#masseffect",
+      "#legendaryedition",
+      "#mods"
+    ]
+  },
+  "alt": [
+    "Slide 1: O multiplayer de Mass Effect 3 volta em um mod",
+    "Slide 2: Da Pinnacle Station ao multiplayer",
+    "Slide 3: Do protótipo ao Dia N7",
+    "Slide 4: Coalition e Unified",
+    "Slide 5: Você jogou o multiplayer de Mass Effect 3?"
+  ],
+  "status": "pronto"
+}

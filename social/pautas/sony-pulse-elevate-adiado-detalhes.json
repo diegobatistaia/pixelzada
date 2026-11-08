@@ -1,0 +1,78 @@
+{
+  "slug": "sony-pulse-elevate-adiado-detalhes",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Pulse Elevate",
+  "gta6": false,
+  "materia": "sony-adia-pulse-elevate-caixas-de-som-problema-de-producao",
+  "criado": "2026-11-08T15:55:00-03:00",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2026/11/pspulsespeaker-1200x675.jpg",
+    "credito": "Kotaku",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Eurogamer e Kotaku",
+  "capa": {
+    "titulo": "Sony adia as caixas de som Pulse Elevate",
+    "destaque": "Pulse Elevate",
+    "apoio": "O que se sabe do atraso. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O motivo",
+      "titulo": "Problema de produção",
+      "destaque": "produção",
+      "texto": [
+        "A Sony diz ter achado um problema de produção em testes de qualidade, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "A data",
+      "titulo": "Sem nova data",
+      "destaque": "Sem nova data",
+      "texto": [
+        "O lançamento era em 12 de novembro e não há nova data, segundo a Eurogamer e o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "O produto",
+      "titulo": "Caixas de som para o PS5",
+      "destaque": "PS5",
+      "texto": [
+        "Elas conectam ao PS5, ao PC, ao Mac e ao Portal, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Pré-venda",
+      "titulo": "O que acontece com a reserva?",
+      "destaque": "reserva",
+      "texto": [
+        "A Sony não explicou o destino das pré-vendas, segundo a Eurogamer e o Kotaku."
+      ]
+    }
+  ],
+  "final": "Você tinha reservado as caixas de som?",
+  "legenda": {
+    "gancho": "A Sony adiou o Pulse Elevate por tempo indeterminado, a menos de uma semana do lançamento.",
+    "corpo": [
+      "O lançamento era em 12 de novembro, e a empresa cita um problema de produção, segundo a Eurogamer e o Kotaku.",
+      "Não há nova data nem informação sobre as pré-vendas, de acordo com a Eurogamer."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#playstation",
+      "#ps5",
+      "#sony"
+    ]
+  },
+  "alt": [
+    "Slide 1: Sony adia as caixas de som Pulse Elevate",
+    "Slide 2: Problema de produção",
+    "Slide 3: Sem nova data",
+    "Slide 4: Caixas de som para o PS5",
+    "Slide 5: O que acontece com a reserva?",
+    "Slide 6: Você tinha reservado as caixas de som?"
+  ],
+  "status": "pronto"
+}

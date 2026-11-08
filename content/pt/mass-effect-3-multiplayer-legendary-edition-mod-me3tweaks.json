@@ -1,0 +1,144 @@
+{
+ "lang": "pt",
+ "slug": "mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks",
+ "story_id": "70f2edc901bf57bc",
+ "title": "Mod leva o multiplayer de Mass Effect 3 para a Legendary Edition",
+ "dek": "Grupo ME3Tweaks libera mod gratuito no Dia N7, com novos modos e visual refeito.",
+ "meta_description": "Mod gratuito leva o multiplayer de Mass Effect 3 à Legendary Edition no PC. Veja quem fez, os novos modos Coalition e Unified e como baixar no Nexus Mods.",
+ "keyword": "Mass Effect 3 multiplayer mod",
+ "category": "industria",
+ "tags": [
+  "mass effect",
+  "legendary edition",
+  "mod",
+  "bioware",
+  "me3tweaks"
+ ],
+ "body": [
+  {
+   "type": "p",
+   "text": "A comunidade de modders do Mass Effect conseguiu o que a BioWare nunca entregou: o multiplayer cooperativo de Mass Effect 3 agora roda dentro da Legendary Edition. O mod foi liberado no sábado (7), Dia N7, é gratuito para quem já tem a coleção no PC e pode ser baixado no Nexus Mods, segundo a IGN e o Kotaku.",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "A novidade chega poucas semanas depois de a EA encerrar a BioWare, de acordo com a IGN.",
+   "items": []
+  },
+  {
+   "type": "h2",
+   "text": "O que é o mod",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "Quando a Mass Effect Legendary Edition saiu, em 2021, trouxe a campanha dos três jogos originais e todos os conteúdos extras, mas ficou sem o multiplayer de Mass Effect 3, mesmo com uma base de fãs dedicada, segundo a IGN. O Kotaku lembra que o conteúdo Pinnacle Station, do primeiro jogo, também não estava na coleção.",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "O mod que chega agora refaz o modo cooperativo dentro da edição remasterizada. A IGN conta que ele inclui os ganhos gráficos e de motor da Legendary Edition. O Kotaku acrescenta que o projeto não é uma cópia direta: a equipe adicionou novos modos e mudou partes do sistema de progressão.",
+   "items": []
+  },
+  {
+   "type": "h2",
+   "text": "Quem fez",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "O trabalho é do grupo ME3Tweaks, que tem à frente o modder Mgamerz. Em 2021, o mesmo time havia trazido de volta a Pinnacle Station para a Legendary Edition, segundo a IGN e o Kotaku.",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "Mgamerz contou à IGN que a ideia nasceu perto do fim do trabalho no LE2 Randomizer, um randomizador de Mass Effect 2, quando alguém achou uma área extra da Cidadela que nunca tinha sido vista. Isso o levou a pensar em portar fases de um jogo para outro. As versões do Kotaku e da IGN divergem sobre em qual jogo a área foi encontrada, e o texto não entra nesse detalhe.",
+   "items": []
+  },
+  {
+   "type": "h2",
+   "text": "Três anos de trabalho",
+   "items": []
+  },
+  {
+   "type": "list",
+   "text": "",
+   "items": [
+    "segundo o Kotaku, em 7 de novembro de 2023 ele criou um servidor no Discord para o projeto, chamado Project Milan, dizendo ao grupo que iam portar o multiplayer;",
+    "um protótipo já funcionava em dezembro de 2023, em que dava para escolher um kit e o jogo só travava na terceira onda, com áudio quebrado e shaders com defeito, segundo o Kotaku;",
+    "o desenvolvimento foi intermitente, e um braço quebrado atrasou o projeto de seis a oito meses, segundo a IGN;",
+    "os primeiros dois anos foram de protótipos e geração de recursos: áudio de uma versão diferente do motor, shaders e texturas, segundo a IGN."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A IGN explica que a BioWare compilou o jogo com fontes que não acompanham o produto final, o que obrigou o grupo a descobrir como reproduzir os shaders. Mgamerz também diz que a iluminação foi refeita no Unreal Engine 4, porque os mapas de luz de Mass Effect 3 têm sombras serrilhadas. Ele afirma ter modificado o multiplayer do jogo por oito anos antes de a Legendary Edition sair.",
+   "items": []
+  },
+  {
+   "type": "h2",
+   "text": "Novos modos e progressão",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "Segundo o Kotaku, o mod traz dois modos novos. No Coalition, cada onda de uma partida enfrenta uma facção inimiga diferente. No Unified, inimigos de todos os grupos se misturam em uma lista quase aleatória. Mgamerz diz que a versão totalmente aleatória foi ruim, então a equipe passou a sortear a partir das listas de ondas originais.",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "O Kotaku lembra que o multiplayer de Mass Effect 3 foi um dos primeiros jogos a usar caixas de itens no formato moderno, para liberar personagens e consumíveis. O sistema de progressão continua no mod, mas os modders querem dar a opção de usar ou não.",
+   "items": []
+  },
+  {
+   "type": "h2",
+   "text": "Como a BioWare entra na história",
+   "items": []
+  },
+  {
+   "type": "p",
+   "text": "O Kotaku conta que, antes do lançamento da Legendary Edition, o ME3Tweaks teve reuniões com o pessoal da BioWare para deixar a coleção mais amigável a mods. A empresa não conseguiu fazer tudo, já que faltava um mês para o lançamento, mas encaixou algumas mudanças no fim do desenvolvimento e passou informações sobre como o conteúdo extra é carregado, segundo Mgamerz.",
+   "items": []
+  },
+  {
+   "type": "h2",
+   "text": "O que ainda não sabemos",
+   "items": []
+  },
+  {
+   "type": "list",
+   "text": "",
+   "items": [
+    "se o mod chegará a versões do jogo fora do PC;",
+    "como ficará o suporte depois do lançamento;",
+    "como a comunidade vai receber os novos modos."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "O Pixelzada atualiza a matéria quando houver mais informações sobre o lançamento do mod.",
+   "items": []
+  }
+ ],
+ "image": {
+  "query": "Mass Effect 3 multiplayer mod",
+  "alt": "Arte do mod de multiplayer de Mass Effect 3 para a Legendary Edition",
+  "url": "https://assets-prd.ignimgs.com/2026/11/06/masseffect-multiplayermod-interview-blogroll-1793999260678.jpg",
+  "credit": "Imagem: IGN"
+ },
+ "sources": [
+  {
+   "name": "IGN",
+   "owner": "ziff-davis",
+   "url": "https://www.ign.com/articles/bioware-may-be-dead-but-a-modder-has-rebuilt-mass-effect-3s-multiplayer-into-the-legendary-edition",
+   "title": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition"
+  },
+  {
+   "name": "Kotaku",
+   "owner": "keleops",
+   "url": "https://kotaku.com/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks-2000754691",
+   "title": "Mass Effect 3 multiplayer Legendary Edition mod ME3Tweaks"
+  }
+ ],
+ "status": "draft"
+}
