@@ -74,5 +74,13 @@
     "Slide 5: Quando o filme chega?",
     "Slide 6: Você assistiria Sonic em Angry Birds 3?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-08",
+    "horario": "13:00",
+    "em": "2026-11-08T13:00:25-03:00",
+    "estilo": "chefao",
+    "media_id": "17913369960560837",
+    "permalink": "https://www.instagram.com/p/DffIwPtIIv7/"
+  }
 }
