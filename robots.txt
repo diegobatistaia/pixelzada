@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /painel/
 
 Sitemap: https://pixelzada.com.br/sitemap-pt.xml
 Sitemap: https://pixelzada.com.br/sitemap.xml
