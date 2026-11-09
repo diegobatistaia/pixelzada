@@ -20,7 +20,8 @@
   "media_id": "18130094602883479",
   "permalink": "https://www.instagram.com/p/DfiWtq-Hc0h/",
   "story": {
-    "erro": "HTTP 400 em 17841420505797110/media_publish: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with 18,139,326,496,683,527 cannot be found.\",\"fbtrace_id\":\"A3o7MqDBvsD5-OAaPWFddsA\"}}"
+    "em": "2026-11-09T19:08:07-03:00",
+    "media_id": "17965701924228586"
   },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
