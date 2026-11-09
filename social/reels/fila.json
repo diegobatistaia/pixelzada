@@ -1113,35 +1113,35 @@
     }
   },
   {
-    "slug": "gta-6-sougamergeek",
+    "slug": "quando-gta6-lancar",
     "data": "2026-11-10",
     "horario": "10:00",
     "status": "agendado",
-    "estilo": "Legenda",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "O que vai acontecer quando o GTA 6 lançar 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #fortnite #memesgamer #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/De4g4rrxdVw/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   },
   {
-    "slug": "gta-6-gta6clube",
+    "slug": "gta6-times-square",
     "data": "2026-11-10",
     "horario": "12:00",
     "status": "agendado",
-    "estilo": "Conversa",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Moldura",
+    "legenda": "GTA 6 toma a Times Square em Nova York 🗽\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #timessquare #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "gta6clube",
       "link": "https://www.instagram.com/reel/Dfe1T2yAkRK/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   }
 ]
