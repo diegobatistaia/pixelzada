@@ -27,6 +27,10 @@ DIAS = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
 LIMITE_BAIXA = POR_DIA * 2
 
 
+GRADE_TXT = ("Aquecimento para o GTA 6: até 09/11 são 6 Reels por dia; de 10 a 15/11, 15 por dia "
+             "(8h30 às 22h30, de hora em hora); a partir de 16/11, 25 por dia (9h15 às 21h15, de 30 em 30 minutos).")
+
+
 def _h(txt: str) -> str:
     return txt.replace(":00", "h").replace(":", "h")
 
@@ -69,7 +73,7 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
         if d == hoje:
             resumo = f"{len(saiu_hoje)} já saíram, {len(itens)} na fila"
         else:
-            resumo = f"{len(itens)} de {POR_DIA}"
+            resumo = f"{len(itens)} de {len(horarios(d))}"
         fila_html += f'    <div class="dia">\n      <header>{DIAS[d.weekday()]}, {d.day:02d}/{d.month:02d} <span>{resumo}</span></header>\n'
         for i in itens:
             atrasado = agora > _inicio(i) + DEPOIS
@@ -93,7 +97,7 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
     dias_restam = round(n / POR_DIA) if n else 0
     out = TEMPLATE
     out = out.replace("@@SUB@@", f"Vídeos aprovados esperando a hora de sair no @pixelzada.br. Posição em {quando}. "
-                      f"São {POR_DIA} Reels por dia: {horas}. Os Reels já publicados saem da lista e a página é atualizada todo dia à noite.")
+                      f"{GRADE_TXT} Os Reels já publicados saem da lista e a página é atualizada todo dia à noite.")
     out = out.replace("@@N@@", str(n)).replace("@@ULT_NUM@@", ult_num).replace("@@ULT_TXT@@", ult_txt)
     out = out.replace("@@FALTA@@", str(falta)).replace("@@SEMANA@@", str(SEMANA)).replace("@@FILA@@", fila_html)
     out = out.replace("@@POR_DIA@@", str(POR_DIA)).replace("@@HORAS@@", horas).replace("@@LIMITE@@", str(LIMITE_BAIXA))
@@ -171,12 +175,12 @@ p{max-width:65ch}
 
   <section class="conta">
     <h2>Quantos vídeos mandar</h2>
-    <p>O ritmo é de @@POR_DIA@@ Reels por dia, @@SEMANA@@ por semana, às @@HORAS@@.</p>
+    <p>O ritmo de amanhã é de @@POR_DIA@@ Reels por dia, @@SEMANA@@ por semana, às @@HORAS@@.</p>
     <ul>
       <li>Para a gaveta ficar com uma semana cheia, faltam <strong>@@FALTA@@ vídeos</strong>.</li>
       <li>Depois disso, mande <strong>@@POR_DIA@@ vídeos por dia</strong> (@@SEMANA@@ por semana) para ela não esvaziar.</li>
       <li>Eu aviso quando restarem menos de 2 dias de vídeos (menos de @@LIMITE@@). @@DURA@@</li>
-      <li>Vídeo recebido leva uns minutos para ser montado e entra no primeiro horário livre depois do seu OK.</li>
+      <li>Vídeo recebido leva uns minutos para ser montado e entra sozinho no primeiro horário livre.</li>
       <li>Se um Reel perder a hora, ele vai sozinho para o próximo horário livre.</li>
       <li>Perto do lançamento do GTA 6 (19/11) refazemos esse planejamento.</li>
     </ul>
