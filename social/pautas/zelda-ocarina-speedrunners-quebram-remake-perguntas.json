@@ -1,0 +1,78 @@
+{
+  "slug": "zelda-ocarina-speedrunners-quebram-remake-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Zelda Ocarina",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-speedrunners-quebram-jogo",
+  "criado": "2026-11-09T13:45:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/08/the-legend-of-zelda-ocarina-of-time-remake-glitch-1794157471719.png",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, Kotaku e Polygon",
+  "capa": {
+    "titulo": "Speedrunners já quebraram o remake de Zelda?",
+    "destaque": "quebraram",
+    "apoio": "Link voando e atalhos em poucos dias. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Link",
+      "titulo": "Link voa como foguete?",
+      "destaque": "foguete",
+      "texto": [
+        "Sim. Zfg1 mostrou o truque que lança Link ao ar, segundo a IGN."
+      ]
+    },
+    {
+      "rotulo": "Baú",
+      "titulo": "O baú vira trampolim?",
+      "destaque": "trampolim",
+      "texto": [
+        "Sim. Ao entrar no baú, Link pode ser arremessado ao teto, segundo a IGN e o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Super pulo",
+      "titulo": "Dá para pular trechos inteiros?",
+      "destaque": "trechos inteiros",
+      "texto": [
+        "O actor jumping pode pular grandes trechos, segundo a Polygon."
+      ]
+    },
+    {
+      "rotulo": "Nintendo",
+      "titulo": "A Nintendo já corrigiu?",
+      "destaque": "corrigiu",
+      "texto": [
+        "A Polygon diz que o truque ainda não foi corrigido."
+      ]
+    }
+  ],
+  "final": "Qual truque você tentaria primeiro?",
+  "legenda": {
+    "gancho": "Speedrunners já quebraram o remake de Zelda: Ocarina of Time em poucos dias.",
+    "corpo": [
+      "Segundo a IGN, o Kotaku e a Polygon, os jogadores já lançam Link ao ar, usam baús como trampolim e fazem super pulos que pulam trechos do jogo. A Polygon diz que a Nintendo ainda não corrigiu o truque.",
+      "O remake chegou ao Switch 2 em 5 de novembro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#ocarinaoftime",
+      "#nintendoswitch2"
+    ]
+  },
+  "alt": [
+    "Slide 1: Speedrunners já quebraram o remake de Zelda?",
+    "Slide 2: Link voa como foguete?",
+    "Slide 3: O baú vira trampolim?",
+    "Slide 4: Dá para pular trechos inteiros?",
+    "Slide 5: A Nintendo já corrigiu?",
+    "Slide 6: Qual truque você tentaria primeiro?"
+  ],
+  "status": "pronto"
+}
