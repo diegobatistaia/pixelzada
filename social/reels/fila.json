@@ -1066,13 +1066,18 @@
     "slug": "lances-call-of-duty",
     "data": "2026-11-09",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Fliperama",
     "legenda": "Os lances mais insanos de Call of Duty 💥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#callofduty #warzone #cod #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-09T13:59:38-03:00",
+      "media_id": "17941256988386087",
+      "permalink": "https://www.instagram.com/reel/Dfh0SJtFRz_/"
     }
   },
   {
