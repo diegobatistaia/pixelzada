@@ -1095,5 +1095,21 @@
       "titulo": "padrao",
       "revisado": false
     }
+  },
+  {
+    "slug": "o-universo-dos-games-gansofilmes",
+    "data": "2026-11-09",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Plantão",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gansofilmes",
+      "link": "https://www.instagram.com/reel/DemSBRKNyYq/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
