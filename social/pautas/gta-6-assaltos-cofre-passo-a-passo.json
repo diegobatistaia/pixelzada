@@ -1,0 +1,81 @@
+{
+  "slug": "gta-6-assaltos-cofre-passo-a-passo",
+  "tipo": "noticia",
+  "formato": "passo-a-passo",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-assaltos-cofres-receptadores-dinheiro",
+  "criado": "2026-11-09T15:50:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Hero_BG.0xs9poewzot23.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: VICE, TweakTown e Insider Gaming",
+  "capa": {
+    "titulo": "Como funciona um assalto em GTA 6",
+    "destaque": "assalto",
+    "apoio": "Do alvo ao cofre e ao receptador. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Passo a passo",
+      "titulo": "Do alvo ao dinheiro",
+      "destaque": "alvo",
+      "passos": [
+        "Escolha o alvo no mapa, com o valor estimado.",
+        "Abra o cofre: explodir ou achar a combinação.",
+        "Fuja antes que a polícia cerque o local.",
+        "Venda a mercadoria a um receptador."
+      ]
+    },
+    {
+      "rotulo": "Cofre",
+      "titulo": "Rápido ou completo",
+      "destaque": "completo",
+      "texto": [
+        "Explodir é mais rápido e pode estragar o que há dentro. A combinação rende o valor cheio, segundo a VICE e o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "Risco",
+      "titulo": "Tempo conta contra você",
+      "destaque": "Tempo",
+      "texto": [
+        "Quanto mais tempo no local, maior a chance de a polícia chegar, segundo a VICE e o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "Receptador",
+      "titulo": "Roubo só vira dinheiro depois",
+      "destaque": "depois",
+      "texto": [
+        "Joias, drogas e carros vão para uma bolsa e são vendidos em receptadores, segundo a TweakTown e a VICE."
+      ]
+    }
+  ],
+  "final": "Você assaltaria sozinho ou em dupla?",
+  "legenda": {
+    "gancho": "Como funciona um assalto em GTA 6, do alvo no mapa ao receptador.",
+    "corpo": [
+      "Os alvos maiores aparecem no mapa com o valor estimado, e o jogador escolhe entre explodir o cofre ou achar a combinação, segundo a VICE e o Insider Gaming. Quanto mais tempo no local, maior a chance de a polícia chegar.",
+      "O que se rouba só vira dinheiro em receptadores, segundo a TweakTown. GTA 6 chega em 19 de novembro."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Como funciona um assalto em GTA 6",
+    "Slide 2: Do alvo ao dinheiro",
+    "Slide 3: Rápido ou completo",
+    "Slide 4: Tempo conta contra você",
+    "Slide 5: Roubo só vira dinheiro depois",
+    "Slide 6: Você assaltaria sozinho ou em dupla?"
+  ],
+  "status": "pronto"
+}

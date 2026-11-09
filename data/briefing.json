@@ -297,6 +297,266 @@
       ]
     }
   ],
-  "especial_gta6": null,
+  "especial_gta6": {
+    "id": "especial-gta6-assaltos",
+    "tema": "Assaltos em GTA 6: de loja de conveniência a banco, o que a Rockstar mostrou",
+    "categoria": "gta-6",
+    "angulo": "Assaltar vira o principal jeito de ganhar dinheiro em GTA 6, e no mundo aberto, não só em missões: como funcionam os roubos, os cofres, os receptadores e por que o dinheiro pode travar a história.",
+    "fatos": [
+      {
+        "texto": "Na sinopse oficial, a história começa quando um golpe fácil dá errado e Jason e Lucia caem numa conspiração criminosa por Leonida.",
+        "fontes": [
+          0
+        ]
+      },
+      {
+        "texto": "Raul Bautista, segundo a Rockstar, é um ladrão de bancos experiente que vive procurando gente disposta a correr os riscos que dão mais dinheiro.",
+        "fontes": [
+          1
+        ]
+      },
+      {
+        "texto": "Rob Nelson, da Rockstar North, disse ao IGN que dá para roubar 'praticamente qualquer coisa' — até uma loja de fones de ouvido.",
+        "fontes": [
+          2,
+          3
+        ]
+      },
+      {
+        "texto": "Os alvos vão de lojas de conveniência e postos a joalherias, bancos, financeiras de empréstimo, carros-forte, complexos de gangues e assaltos maiores.",
+        "fontes": [
+          4,
+          5,
+          3,
+          2
+        ]
+      },
+      {
+        "texto": "Os alvos maiores aparecem no mapa com o valor estimado do roubo; quanto maior o alvo, maior o pagamento e mais difícil o serviço.",
+        "fontes": [
+          4,
+          5,
+          3
+        ]
+      },
+      {
+        "texto": "Na hora do cofre, dá para explodi-lo — mais rápido, mas pode estragar parte do que está dentro — ou achar a combinação, revistando o local ou pressionando funcionários, o que demora mais e rende o valor cheio.",
+        "fontes": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "texto": "Quanto mais tempo dentro do local, maior a chance de a polícia chegar e cercar o prédio; muitos lugares têm saídas secundárias.",
+        "fontes": [
+          6,
+          7
+        ]
+      },
+      {
+        "texto": "Lojas podem ter câmeras de segurança, e funcionários ou clientes podem reagir.",
+        "fontes": [
+          4,
+          10,
+          11
+        ]
+      },
+      {
+        "texto": "Joias, drogas e carros roubados vão para uma bolsa e só viram dinheiro em receptadores especializados, cada um num tipo de mercadoria.",
+        "fontes": [
+          4,
+          5,
+          6,
+          8
+        ]
+      },
+      {
+        "texto": "Receptadores também podem passar códigos de acesso a pátios de carros apreendidos cheios de veículos de luxo.",
+        "fontes": [
+          6,
+          8,
+          2
+        ]
+      },
+      {
+        "texto": "O dinheiro pesa mais do que em GTAs anteriores: partes da história só avançam depois que o jogador junta certa quantia.",
+        "fontes": [
+          6,
+          4,
+          8,
+          9
+        ]
+      },
+      {
+        "texto": "Rob Nelson disse que ganhar dinheiro assim, fora das missões, é parte importante do jogo.",
+        "fontes": [
+          4,
+          2
+        ]
+      },
+      {
+        "texto": "Jason e Lucia podem assaltar sozinhos ou juntos; roubar em dupla ajuda a relação dos dois.",
+        "fontes": [
+          6,
+          2
+        ]
+      },
+      {
+        "texto": "Assaltar sem matar ninguém não pesa contra o Criminal Profile; a violência exigida em missões e durante assaltos não conta como excesso.",
+        "fontes": [
+          6,
+          8
+        ]
+      },
+      {
+        "texto": "No Extended Look, o casal assalta lojas e postos de gasolina; em outra cena, Lucia rouba uma loja sozinha.",
+        "fontes": [
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "texto": "Nas prévias à imprensa, os assaltos a uma loja de conveniência, a um posto e a outras lojas tiveram reações diferentes de vendedores, clientes e polícia em cada caso.",
+        "fontes": [
+          11,
+          2
+        ]
+      },
+      {
+        "texto": "A Ultimate Edition inclui o 'PTT Youngin$ Compound', um complexo de gangue exclusivo dessa edição que pode ser roubado.",
+        "fontes": [
+          15,
+          4
+        ]
+      }
+    ],
+    "fontes": [
+      {
+        "name": "Rockstar Games (site oficial de GTA VI)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI",
+        "title": "Grand Theft Auto VI - Rockstar Games"
+      },
+      {
+        "name": "Rockstar Games (site oficial de GTA VI)",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://www.rockstargames.com/VI/raul",
+        "title": "Raul Bautista - Grand Theft Auto VI"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/rob-anything-in-gta-6-rockstar-reveals/",
+        "title": "'You Can Rob Pretty Much Anything' in GTA 6, Rockstar Reveals"
+      },
+      {
+        "name": "Game Rant (via OpenCritic)",
+        "owner": "valnet",
+        "kind": "press",
+        "url": "https://opencritic.com/news/36658/gta-6-how-store-robberies-work",
+        "title": "GTA 6: How Store Robberies Work"
+      },
+      {
+        "name": "TweakTown",
+        "owner": "tweaktown",
+        "kind": "press",
+        "url": "https://www.tweaktown.com/news/113368/gta-6s-illicit-criminal-economy-robberies-and-money-explained-by-rockstar/index.html",
+        "title": "GTA 6's illicit criminal economy: Robberies and money explained by Rockstar"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-gameplay-features-details-revealed/",
+        "title": "GTA 6 Just Revealed a Massive Number of New Gameplay Details"
+      },
+      {
+        "name": "VICE",
+        "owner": "vice-media",
+        "kind": "press",
+        "url": "https://www.vice.com/en/article/gta-6-new-details-netflix-extended-look-previews/",
+        "title": "150 New GTA 6 Details Revealed in Netflix Extended Look and Previews"
+      },
+      {
+        "name": "Insider Gaming",
+        "owner": "insider-gaming",
+        "kind": "press",
+        "url": "https://insider-gaming.com/gta-6-interview-reveals-new-details-about-the-game/",
+        "title": "GTA 6 Interview Reveals New Details About The Game"
+      },
+      {
+        "name": "TechSpot",
+        "owner": "techspot",
+        "kind": "press",
+        "url": "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html",
+        "title": "This is GTA 6: an 80-hour story, 3x bigger map than Red Dead 2, and cops that remember your face"
+      },
+      {
+        "name": "Gulf News",
+        "owner": "al-nisr",
+        "kind": "press",
+        "url": "https://gulfnews.com/entertainment/gta-6-is-five-weeks-away-10-features-to-expect-from-jason-and-lucias-romance-to-six-star-wanted-levels-1.500711520",
+        "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
+      },
+      {
+        "name": "GameSpot",
+        "owner": "fandom",
+        "kind": "press",
+        "url": "https://www.gamespot.com/articles/gta-6-wanted-levels/",
+        "title": "Here's How Wanted Levels And Crime Work In GTA 6"
+      },
+      {
+        "name": "TROISCOULEURS",
+        "owner": "mk2",
+        "kind": "press",
+        "url": "https://www.troiscouleurs.fr/?p=74349",
+        "title": "We saw « GTAVI » running at Rockstar North: our exclusive preview and interview"
+      },
+      {
+        "name": "GamesRadar+",
+        "owner": "future-plc",
+        "kind": "press",
+        "url": "https://www.gamesradar.com/news/live/gta-6-extended-look-showcase-live-coverage-2026-everything-announced/",
+        "title": "Everything revealed from the GTA 6 extended look"
+      },
+      {
+        "name": "Kotaku",
+        "owner": "keleops",
+        "kind": "press",
+        "url": "https://kotaku.com/grand-theft-auto-6-looks-incredible-in-netflixs-big-gameplay-reveal-2000728933",
+        "title": "Grand Theft Auto 6 Looks Incredible In Big Gameplay Reveal [Update: Now Available On YouTube]"
+      },
+      {
+        "name": "Engadget",
+        "owner": "static-media",
+        "kind": "press",
+        "url": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
+        "title": "Guns, cars and chihuahuas: Breaking down the GTA 6 extended look"
+      },
+      {
+        "name": "Rockstar Store",
+        "owner": "take-two",
+        "kind": "primary",
+        "url": "https://store.rockstargames.com/game/buy-gta-vi",
+        "title": "Grand Theft Auto VI"
+      }
+    ],
+    "imagem": {
+      "url": "https://www.rockstargames.com/VI/_next/static/media/Hero_BG.0xs9poewzot23.jpg",
+      "credito": "Rockstar Games",
+      "descricao": "Imagem de fundo do vídeo de Raul Bautista, o ladrão de bancos de GTA 6, no site oficial do jogo"
+    },
+    "formatos_carrossel": [
+      "passo-a-passo",
+      "lista",
+      "em-foco"
+    ]
+  },
   "especiais_gta6_hoje": 1
 }
