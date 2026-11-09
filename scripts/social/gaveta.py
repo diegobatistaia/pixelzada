@@ -16,7 +16,11 @@ import sys
 from datetime import date, datetime, timedelta
 
 from . import pauta as P
-from .reels import DEPOIS, HORARIOS, POR_DIA, carregar
+from .reels import DEPOIS, carregar, horarios
+
+# Grade de amanhã (15 Reels/dia de 10 a 15/11, 25/dia desde 16/11).
+HORARIOS = horarios(datetime.now(P.TZ).date() + timedelta(days=1))
+POR_DIA = len(HORARIOS)
 
 SEMANA = POR_DIA * 7
 DIAS = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
