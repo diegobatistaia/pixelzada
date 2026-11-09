@@ -124,7 +124,10 @@
     "query": "Fortnite Pirate Token",
     "alt": "Arte do Fortnite com o tesouro e o token que dá acesso à loja pirata",
     "url": "https://assets-prd.ignimgs.com/2026/11/08/fortnite-pirate-token-treasure-1794118797500.png",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/fortnite-pirate-token-chance-137500-epic-96b2a718.jpg",
+    "source_url": "",
+    "foco": "47% 30%"
   },
   "sources": [
     {
@@ -140,5 +143,7 @@
       "title": "Fortnite officially confirms Pirate Shop Access token drop rate as players hunt for item which makes entire shop free"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T12:41:32+00:00",
+  "updated_at": "2026-11-09T12:41:32+00:00"
 }

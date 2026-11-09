@@ -120,7 +120,10 @@
     "query": "GTA 6 Leonida pôr do sol",
     "alt": "Imagem de abertura da seção 'Only in Leonida' do site oficial de GTA VI, que acompanha o texto sobre o sol se pondo e o neon acendendo",
     "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.0jzys13fkqnae.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-clima-furacoes-dia-e-noite-leonida-e878e127.jpg",
+    "source_url": "",
+    "foco": "52% 50%"
   },
   "sources": [
     {
@@ -214,5 +217,7 @@
       "title": "GTA 6 is five weeks away: 10 features to expect, from Jason and Lucia's romance to six-star wanted levels"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T12:41:32+00:00",
+  "updated_at": "2026-11-09T12:41:32+00:00"
 }
