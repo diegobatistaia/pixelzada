@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:40:02 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Assaltos em GTA 6: do posto ao banco, o que a Rockstar mostrou</title>
+      <link>https://pixelzada.com.br/pt/gta-6-assaltos-cofres-receptadores-dinheiro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-assaltos-cofres-receptadores-dinheiro/</guid>
+      <description>Lojas, postos, bancos e carros-forte: veja como funcionam os assaltos de GTA 6, com cofres, receptadores e dinheiro que pode travar a história no jogo.</description>
+      <category>GTA 6</category>
+      <pubDate>Mon, 09 Nov 2026 18:40:01 +0000</pubDate>
+    </item>
     <item>
       <title>Fortnite: Epic revela a chance de achar o Pirate Token e ela é bem baixa</title>
       <link>https://pixelzada.com.br/pt/fortnite-pirate-token-chance-137500-epic-revela/</link>
@@ -238,14 +246,6 @@
       <description>Derelikt, terror espacial com visual de PSOne, chega ao PS5 em 13 de novembro. Veja a história, o jogo e como o dev solo recriou os gráficos da quinta geração.</description>
       <category>Lançamentos</category>
       <pubDate>Thu, 05 Nov 2026 16:54:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sonic aparece no trailer de Angry Birds 3 – O Filme</title>
-      <link>https://pixelzada.com.br/pt/angry-birds-3-sonic-aparece-no-novo-trailer/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/angry-birds-3-sonic-aparece-no-novo-trailer/</guid>
-      <description>Sonic aparece no segundo trailer de Angry Birds 3, correndo ao lado do Chuck. Veja o que se sabe da participação, as datas de estreia e por que ela surpreendeu.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 05 Nov 2026 14:41:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

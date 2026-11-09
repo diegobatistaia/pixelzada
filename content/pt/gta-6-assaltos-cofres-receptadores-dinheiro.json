@@ -118,7 +118,9 @@
     "query": "GTA 6 Raul Bautista",
     "alt": "Imagem de fundo do vídeo de Raul Bautista, o ladrão de bancos de GTA 6, no site oficial do jogo",
     "url": "https://www.rockstargames.com/VI/_next/static/media/Hero_BG.0xs9poewzot23.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-assaltos-cofres-receptadores-dinhe-d81356a8.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -218,5 +220,7 @@
       "title": "Grand Theft Auto VI"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T18:40:01+00:00",
+  "updated_at": "2026-11-09T18:40:01+00:00"
 }
