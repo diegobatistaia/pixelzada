@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 09 Nov 2026 18:40:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:40:34 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remake de Zelda: Ocarina of Time pode ganhar Master Quest em DLC, indica datamine</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-master-quest-datamine-dlc/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-master-quest-datamine-dlc/</guid>
+      <description>Dataminers acharam referências ao Master Quest nos arquivos do remake de Zelda: Ocarina of Time, possivelmente via DLC. A Nintendo não confirmou nada.</description>
+      <category>Lançamentos</category>
+      <pubDate>Mon, 09 Nov 2026 20:40:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>GTA 6: The Festival, em Miami, terá Travis Scott, Cardi B e Justice</title>
+      <link>https://pixelzada.com.br/pt/gta-6-the-festival-miami-21-de-novembro-travis-scott-cardi-b/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-the-festival-miami-21-de-novembro-travis-scott-cardi-b/</guid>
+      <description>Rockstar e Sony anunciam o GTA VI: The Festival, em Miami, em 21 de novembro, com Travis Scott, Cardi B e Justice. Veja a lista, o sorteio e as trilhas.</description>
+      <category>GTA 6</category>
+      <pubDate>Mon, 09 Nov 2026 20:40:32 +0000</pubDate>
+    </item>
     <item>
       <title>Assaltos em GTA 6: do posto ao banco, o que a Rockstar mostrou</title>
       <link>https://pixelzada.com.br/pt/gta-6-assaltos-cofres-receptadores-dinheiro/</link>
@@ -230,22 +246,6 @@
       <description>A Rockstar divulgou uma nova galeria de capturas de GTA 6 a duas semanas do lançamento, em 19/11. Veja o que aparece nas imagens e o que elas não mostram.</description>
       <category>GTA 6</category>
       <pubDate>Thu, 05 Nov 2026 18:39:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>O vazamento de GTA 6 em 2022: o que aconteceu</title>
-      <link>https://pixelzada.com.br/pt/vazamento-de-gta-6-em-2022-o-que-aconteceu/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/vazamento-de-gta-6-em-2022-o-que-aconteceu/</guid>
-      <description>Como foi o vazamento de GTA 6 em setembro de 2022: o que a Rockstar disse, quem era o autor e o que a Justiça britânica decidiu. Veja o caso sem spoilers.</description>
-      <category>GTA 6</category>
-      <pubDate>Thu, 05 Nov 2026 18:39:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Derelikt, terror espacial com visual de PS1, chega ao PS5</title>
-      <link>https://pixelzada.com.br/pt/derelikt-terror-espacial-estilo-ps1-ps5-13-de-novembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/derelikt-terror-espacial-estilo-ps1-ps5-13-de-novembro/</guid>
-      <description>Derelikt, terror espacial com visual de PSOne, chega ao PS5 em 13 de novembro. Veja a história, o jogo e como o dev solo recriou os gráficos da quinta geração.</description>
-      <category>Lançamentos</category>
-      <pubDate>Thu, 05 Nov 2026 16:54:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

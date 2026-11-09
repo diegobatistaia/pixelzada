@@ -119,7 +119,10 @@
     "query": "Ocarina of Time Master Quest",
     "alt": "Imagem do remake de The Legend of Zelda: Ocarina of Time para Switch 2",
     "url": "https://olhardigital.com.br/wp-content/uploads/2026/11/The-Legend-of-Zelda-Ocarina-of-Time-Tera-Time-1.jpg",
-    "credit": "Imagem: Olhar Digital"
+    "credit": "Imagem: Olhar Digital",
+    "path": "/assets/img/zelda-ocarina-of-time-remake-master-ques-48bbd876.jpg",
+    "source_url": "",
+    "foco": "42% 43%"
   },
   "sources": [
     {
@@ -141,5 +144,7 @@
       "title": "Zelda: Ocarina of Time pode ganhar Master Quest no Switch 2"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T20:40:33+00:00",
+  "updated_at": "2026-11-09T20:40:33+00:00"
 }

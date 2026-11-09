@@ -149,7 +149,9 @@
     "query": "GTA 6 The Festival Miami",
     "alt": "Arte do evento Grand Theft Auto VI: The Festival, em Miami",
     "url": "https://www.videogameschronicle.com/files/2026/11/gta-6-festival.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/gta-6-the-festival-miami-21-de-novembro--d774e74f.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -165,5 +167,7 @@
       "title": "Grand Theft Auto 6: The Festival will include Travis Scott, Cardi B and Justice among others"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T20:40:32+00:00",
+  "updated_at": "2026-11-09T20:40:32+00:00"
 }
