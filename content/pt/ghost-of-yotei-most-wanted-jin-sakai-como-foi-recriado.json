@@ -136,7 +136,10 @@
     "query": "Ghost of Yotei Most Wanted Jin Sakai",
     "alt": "Arte do PlayStation Blog sobre a volta de Jin Sakai em Ghost of Yōtei: Most Wanted",
     "url": "https://blog.playstation.com/tachyon/2048/11/358db084c61592f9526d21109dffa73f26468ff0-scaled.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/ghost-of-yotei-most-wanted-jin-sakai-com-168a8907.jpg",
+    "source_url": "",
+    "foco": "47% 17%"
   },
   "sources": [
     {
@@ -147,5 +150,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T00:54:26+00:00",
+  "updated_at": "2026-11-09T00:54:26+00:00"
 }
