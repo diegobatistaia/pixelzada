@@ -1048,13 +1048,18 @@
     "slug": "leon-ada-re4-chuva",
     "data": "2026-11-09",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Quadrinho",
     "legenda": "Leon e Ada numa noite de chuva em Resident Evil 4 🌧️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#residentevil4 #re4 #leonkennedy #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-09T11:59:36-03:00",
+      "media_id": "18112360661462631",
+      "permalink": "https://www.instagram.com/reel/DfhmoqxDIVV/"
     }
   },
   {
