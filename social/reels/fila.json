@@ -1572,35 +1572,35 @@
     }
   },
   {
-    "slug": "gta-6-sagamesbr",
+    "slug": "gta6-parece-gta5-cabelo",
     "data": "2026-11-11",
     "horario": "21:30",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Moldura",
+    "legenda": "A física de cabelo do GTA 5 contra a do GTA 6 💇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sagamesbr",
       "link": "https://www.instagram.com/reel/DdUecBwRsDq/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   },
   {
-    "slug": "o-universo-dos-games-espetacular",
+    "slug": "trailer-gta-san-andreas-2004",
     "data": "2026-11-11",
     "horario": "22:30",
     "status": "agendado",
-    "estilo": "Conversa",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "O ano era 2004, e foi assim que a Rockstar apresentou GTA San Andreas 🌉\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #ps2 #nostalgia #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "espetacular",
       "link": "https://www.instagram.com/reel/DfgTtAdNPeV/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   }
 ]
