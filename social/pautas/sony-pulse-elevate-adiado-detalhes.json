@@ -74,5 +74,13 @@
     "Slide 5: O que acontece com a reserva?",
     "Slide 6: Você tinha reservado as caixas de som?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-08",
+    "horario": "21:00",
+    "em": "2026-11-08T21:00:09-03:00",
+    "estilo": "mosaico",
+    "media_id": "18154431733524805",
+    "permalink": "https://www.instagram.com/p/Dff_qiQGf_Z/"
+  }
 }
