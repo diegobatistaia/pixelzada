@@ -1029,7 +1029,7 @@
     "slug": "mira-gta6-vs-gta5",
     "data": "2026-11-09",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Conquista",
     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #gta #pixelzada",
     "tentativas": 1,
@@ -1037,7 +1037,12 @@
       "motor": true,
       "revisado": true
     },
-    "erro": "o Instagram recusou a mídia: ERROR"
+    "erro": "o Instagram recusou a mídia: ERROR",
+    "publicado": {
+      "em": "2026-11-09T10:16:03-03:00",
+      "media_id": "18136977247679793",
+      "permalink": "https://www.instagram.com/reel/DfhawTADKHY/"
+    }
   },
   {
     "slug": "leon-ada-re4-chuva",

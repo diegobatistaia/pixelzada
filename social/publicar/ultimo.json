@@ -6,7 +6,9 @@
     "horario": "10:00",
     "data": "2026-11-09"
   },
-  "em": "2026-11-09T10:12:01-03:00",
-  "ok": false,
-  "erro": "o Instagram recusou a mídia: ERROR"
+  "em": "2026-11-09T10:16:03-03:00",
+  "ok": true,
+  "media_id": "18136977247679793",
+  "permalink": "https://www.instagram.com/reel/DfhawTADKHY/",
+  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
