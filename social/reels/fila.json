@@ -1241,35 +1241,35 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-neth-vane",
+    "slug": "nao-esqueca-onde-comecou",
     "data": "2026-11-10",
     "horario": "17:30",
     "status": "agendado",
-    "estilo": "Faixa",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "Moldura",
+    "legenda": "Não esqueça de onde você começou... 🌴\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #nostalgia #games #gamer #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "neth.vane",
       "link": "https://www.instagram.com/reel/DfdI3-6RKFr/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   },
   {
-    "slug": "o-universo-dos-games-syncvicebr",
+    "slug": "obrigado-los-santos",
     "data": "2026-11-10",
     "horario": "18:30",
     "status": "agendado",
-    "estilo": "Missão",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Obrigado por tudo, Los Santos. Até qualquer dia ❤️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #lossantos #nostalgia #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "syncvicebr",
       "link": "https://www.instagram.com/reel/Dff4eGousCF/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   }
 ]
