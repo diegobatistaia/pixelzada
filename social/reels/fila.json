@@ -1063,5 +1063,21 @@
       "motor": true,
       "revisado": true
     }
+  },
+  {
+    "slug": "o-universo-dos-games-sougamergeek",
+    "data": "2026-11-09",
+    "horario": "16:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfet31KxEbG/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
