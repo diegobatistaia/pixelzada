@@ -1127,5 +1127,21 @@
       "titulo": "padrao",
       "revisado": false
     }
+  },
+  {
+    "slug": "gta-6-gta6clube",
+    "data": "2026-11-10",
+    "horario": "12:00",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6clube",
+      "link": "https://www.instagram.com/reel/Dfe1T2yAkRK/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
