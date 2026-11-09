@@ -1,0 +1,69 @@
+{
+  "slug": "ghost-of-yotei-jin-sakai-most-wanted-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Ghost of Yōtei",
+  "gta6": false,
+  "materia": "ghost-of-yotei-most-wanted-jin-sakai-como-foi-recriado",
+  "criado": "2026-11-09T07:50:00-03:00",
+  "imagem": {
+    "url": "https://blog.playstation.com/tachyon/2048/11/358db084c61592f9526d21109dffa73f26468ff0-scaled.jpg",
+    "credito": "PlayStation Blog",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fonte: PlayStation Blog",
+  "capa": {
+    "titulo": "Como Jin Sakai voltou em Ghost of Yōtei",
+    "destaque": "Jin Sakai",
+    "apoio": "3 bastidores do Most Wanted. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Animação",
+      "titulo": "Mais de 60 ataques",
+      "destaque": "60 ataques",
+      "texto": [
+        "Os golpes de Jin foram adaptados ao novo esqueleto e reequilibrados, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "Perks",
+      "titulo": "Defesa que lembra Tsushima",
+      "destaque": "Defesa",
+      "texto": [
+        "O perk Rattling Parry causa mais atordoamento nas defesas, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "Menu",
+      "titulo": "Pose rara no menu",
+      "destaque": "Pose rara",
+      "texto": [
+        "A seleção de Jin traz a bird hold idle e lembra a espada da tempestade, segundo o PlayStation Blog."
+      ]
+    }
+  ],
+  "final": "Você já jogou com o Jin no Most Wanted?",
+  "legenda": {
+    "gancho": "Como a equipe trouxe Jin Sakai de volta em Ghost of Yōtei: Most Wanted.",
+    "corpo": [
+      "Segundo o PlayStation Blog, os mais de 60 ataques do samurai foram adaptados ao novo combate e os perks lembram o estilo de Tsushima.",
+      "A seleção de personagem também ganhou uma pose rara de Jin, inspirada em um momento de Ghost of Tsushima."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#ghostofyotei",
+      "#ghostoftsushima",
+      "#playstation"
+    ]
+  },
+  "alt": [
+    "Slide 1: Como Jin Sakai voltou em Ghost of Yōtei",
+    "Slide 2: Mais de 60 ataques",
+    "Slide 3: Defesa que lembra Tsushima",
+    "Slide 4: Pose rara no menu",
+    "Slide 5: Você já jogou com o Jin no Most Wanted?"
+  ],
+  "status": "pronto"
+}
