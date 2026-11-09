@@ -71,7 +71,7 @@ temas:
 # Lista inicial tirada da estratégia de Instagram (17/10); o teste mostra quais
 # a API enxerga (só perfis profissionais) e os que falharem saem.
 concorrentes:
-  - {perfil: sougamergeek, tema: gta6}      # links do Diego (09/11)
+  - {perfil: sougamergeek, tema: games}     # links do Diego (09/11); posta de tudo, não só GTA 6
   - {perfil: gta6clube, tema: gta6}
   - {perfil: gtacommunity, tema: gta6}
   - {perfil: houseofgta6, tema: gta6}
