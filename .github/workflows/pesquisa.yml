@@ -54,7 +54,6 @@ jobs:
     timeout-minutes: 20
     env:
       META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
-      SCRAPECREATORS_KEY: ${{ secrets.SCRAPECREATORS_KEY }}
       ACAO: ${{ github.event.inputs.acao || 'agendada' }}
       DATA: ${{ github.event.inputs.data }}
       NUMEROS: ${{ github.event.inputs.numeros }}
@@ -68,7 +67,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install pyyaml
+      - run: pip install pyyaml yt-dlp
 
       - name: Teste da chave
         if: env.ACAO == 'teste'
