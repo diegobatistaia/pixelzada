@@ -1,0 +1,267 @@
+{
+ "formato": "painel-marca/1",
+ "marca": {
+  "nome": "Pixelzada",
+  "slug": "pixelzada",
+  "instagram": "pixelzada.br",
+  "site": "https://pixelzada.com.br",
+  "repo": "diegobatistaia/pixelzada"
+ },
+ "atualizado": "2026-11-08T23:22-03:00",
+ "hoje": {
+  "data": "2026-11-08",
+  "reels": {
+   "meta": 6,
+   "publicados": 3,
+   "deviam_ter_saido": 6,
+   "atrasados": [],
+   "horarios_vazios_hoje": []
+  },
+  "carrosseis": {
+   "meta": 7,
+   "publicados": 7,
+   "deviam_ter_saido": 7,
+   "atrasados": [],
+   "pautas_esperando": 0
+  }
+ },
+ "fila_reels": {
+  "agendados": 21,
+  "meta_por_dia": 6,
+  "dias_de_reserva": 3.5,
+  "grade_cheia_ate": "2026-11-10",
+  "sem_revisao": 0,
+  "por_dia": [
+   {
+    "data": "2026-11-09",
+    "agendados": 6,
+    "meta": 6
+   },
+   {
+    "data": "2026-11-10",
+    "agendados": 15,
+    "meta": 15
+   }
+  ]
+ },
+ "site": {
+  "total": 159,
+  "hoje": 9,
+  "meta_dia": 8,
+  "ultima": {
+   "titulo": "Ghost of Yōtei: como a Sony trouxe Jin Sakai de volta no Most Wanted",
+   "url": "https://pixelzada.com.br/pt/ghost-of-yotei-most-wanted-jin-sakai-como-foi-recriado/",
+   "em": "2026-11-08T21:54:26-03:00"
+  }
+ },
+ "pesquisa": {
+  "ultima_coleta": "08/11/2026 18:27",
+  "perfis_lidos": 33,
+  "perfis_com_falha": 1
+ },
+ "instagram": {
+  "usuario": "pixelzada.br",
+  "seguidores": 10,
+  "seguindo": 5,
+  "posts": 204,
+  "alcance_7d": 3471,
+  "views_7d": 4444,
+  "reels_7d": {
+   "quantidade": 11,
+   "views_total": 4317,
+   "views_mediana": 172,
+   "acima_de_1000": 1,
+   "views_por_dia": {
+    "2026-11-08": 2788,
+    "2026-11-04": 537,
+    "2026-11-03": 992
+   },
+   "melhores": [
+    {
+     "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
+     "views": 2571,
+     "alcance": 2138,
+     "curtidas": 60,
+     "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
+     "em": "2026-11-08T16:00:09-03:00"
+    },
+    {
+     "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
+     "views": 217,
+     "alcance": 150,
+     "curtidas": 6,
+     "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
+     "em": "2026-11-08T18:01:04-03:00"
+    },
+    {
+     "legenda": "Assim é um encontro High Society no GTA Online sem MK2 💸",
+     "views": 190,
+     "alcance": 142,
+     "curtidas": 5,
+     "link": "https://www.instagram.com/reel/DfTAtzhjwdp/",
+     "em": "2026-11-03T20:00:11-03:00"
+    },
+    {
+     "legenda": "Evolução do Arthur Morgan em Red Dead Redemption 2, do primeiro capítulo até o último susp",
+     "views": 186,
+     "alcance": 149,
+     "curtidas": 2,
+     "link": "https://www.instagram.com/reel/DfUg7jCCWPZ/",
+     "em": "2026-11-04T10:00:57-03:00"
+    },
+    {
+     "legenda": "“Quando eu ficar rico não direi nada.” Eu chegando no novo Tesla: ✈️",
+     "views": 179,
+     "alcance": 144,
+     "curtidas": 3,
+     "link": "https://www.instagram.com/reel/DfU8Qw7CrFw/",
+     "em": "2026-11-04T13:59:39-03:00"
+    }
+   ]
+  }
+ },
+ "falhas": {
+  "rodadas_24h": 86,
+  "falhas_24h": 10,
+  "sem_resolver": 1,
+  "lista": [
+   {
+    "workflow": "Painel",
+    "em": "2026-11-08T23:19:36-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42550303483",
+    "resolvido": false
+   },
+   {
+    "workflow": "Deploy",
+    "em": "2026-11-08T22:49:58-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42547618453",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-08T22:38:33-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42546637089",
+    "resolvido": true
+   },
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-08T21:39:44-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42541394522",
+    "resolvido": true
+   },
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-08T21:39:35-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42541381267",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-08T21:31:13-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42540627158",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-08T18:40:41-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42526394294",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-08T12:39:28-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42495910091",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-08T12:32:54-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42495358370",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-08T12:23:50-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42494597632",
+    "resolvido": true
+   }
+  ]
+ },
+ "ultimos_dias": [
+  {
+   "data": "2026-11-02",
+   "reels": 0,
+   "reels_meta": 6,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-03",
+   "reels": 6,
+   "reels_meta": 6,
+   "carrosseis": 7,
+   "carrosseis_meta": 7,
+   "materias": 9,
+   "views_reels": 992
+  },
+  {
+   "data": "2026-11-04",
+   "reels": 3,
+   "reels_meta": 6,
+   "carrosseis": 7,
+   "carrosseis_meta": 7,
+   "materias": 10,
+   "views_reels": 537
+  },
+  {
+   "data": "2026-11-05",
+   "reels": 0,
+   "reels_meta": 6,
+   "carrosseis": 7,
+   "carrosseis_meta": 7,
+   "materias": 10,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-06",
+   "reels": 0,
+   "reels_meta": 6,
+   "carrosseis": 7,
+   "carrosseis_meta": 7,
+   "materias": 7,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-07",
+   "reels": 0,
+   "reels_meta": 6,
+   "carrosseis": 7,
+   "carrosseis_meta": 7,
+   "materias": 4,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-08",
+   "reels": 3,
+   "reels_meta": 6,
+   "carrosseis": 7,
+   "carrosseis_meta": 7,
+   "materias": 9,
+   "views_reels": 2788
+  }
+ ],
+ "seguidores_por_dia": [
+  {
+   "data": "2026-11-08",
+   "seguidores": 10
+  }
+ ],
+ "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "1 falha(s) no GitHub ainda sem resolver"
+  }
+ ]
+}
