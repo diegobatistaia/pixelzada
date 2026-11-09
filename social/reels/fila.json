@@ -1602,5 +1602,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "o-universo-dos-games-ointeligente",
+    "data": "2026-11-12",
+    "horario": "08:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ointeligente",
+      "link": "https://www.instagram.com/reel/DaVWVGFRS1c/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
