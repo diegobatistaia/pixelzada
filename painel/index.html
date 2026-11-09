@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0B0A10">
+<title>Painel das marcas</title>
+<link rel="icon" href="/assets/logo/favicon.svg">
+<!--
+  Painel das marcas do Diego. Página estática: cada marca grava um estado.json
+  (formato "painel-marca/1", feito por scripts/social/painel.py e pelo workflow
+  Painel) num ramo próprio do repositório público dela; esta página lê esses
+  arquivos direto do GitHub. Para ligar uma marca nova, preencha "estado" na
+  lista MARCAS abaixo.
+-->
+<style>
+  :root {
+    --fundo: #0B0A10; --painel: #17151F; --painel2: #1F1C29; --linha: #2A2733;
+    --texto: #F4F2FA; --apoio: #A7A3B5; --fraco: #6F6A80;
+    --lima: #C6FF1A; --ok: #3DDC84; --atencao: #FFB020; --problema: #FF4D4D;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--fundo); color: var(--texto); font: 15px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; padding-bottom: 40px; }
+  header { position: sticky; top: 0; z-index: 2; background: rgba(11,10,16,.94); backdrop-filter: blur(8px); border-bottom: 1px solid var(--linha); }
+  .topo { display: flex; align-items: center; justify-content: space-between; padding: 12px 16px 6px; max-width: 980px; margin: 0 auto; }
+  h1 { font-size: 18px; letter-spacing: .2px; }
+  button.atualizar { background: var(--painel2); color: var(--texto); border: 1px solid var(--linha); border-radius: 999px; padding: 6px 12px; font: inherit; font-size: 13px; }
+  nav { display: flex; gap: 6px; overflow-x: auto; padding: 6px 16px 10px; max-width: 980px; margin: 0 auto; scrollbar-width: none; }
+  nav a { flex: none; color: var(--apoio); text-decoration: none; border: 1px solid var(--linha); border-radius: 999px; padding: 6px 12px; font-size: 14px; white-space: nowrap; }
+  nav a.ativa { background: var(--texto); color: var(--fundo); border-color: var(--texto); font-weight: 600; }
+  main { max-width: 980px; margin: 0 auto; padding: 14px 16px; }
+  .grade { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .cartao { background: var(--painel); border: 1px solid var(--linha); border-radius: 14px; padding: 14px; }
+  .cartao h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .6px; color: var(--apoio); font-weight: 600; margin-bottom: 10px; }
+  .cartao h3 { font-size: 17px; margin-bottom: 2px; }
+  a.cartao { display: block; color: inherit; text-decoration: none; }
+  .sub { color: var(--apoio); font-size: 13px; }
+  .fraco { color: var(--fraco); font-size: 12px; }
+  .selo { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600; padding: 3px 10px; border-radius: 999px; background: var(--painel2); }
+  .selo::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+  .s-ok { color: var(--ok); } .s-atencao { color: var(--atencao); } .s-problema { color: var(--problema); } .s-off { color: var(--fraco); }
+  .numeros { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-top: 12px; }
+  .num b { display: block; font-size: 24px; line-height: 1.1; font-variant-numeric: tabular-nums; }
+  .num span { color: var(--apoio); font-size: 12px; }
+  .grande b { font-size: 34px; }
+  .barra { margin: 10px 0 2px; }
+  .barra .rotulo { display: flex; justify-content: space-between; font-size: 14px; margin-bottom: 4px; }
+  .barra .rotulo b { font-variant-numeric: tabular-nums; }
+  .trilho { height: 8px; background: var(--painel2); border-radius: 4px; overflow: hidden; }
+  .trilho i { display: block; height: 100%; background: var(--lima); border-radius: 4px; }
+  .alerta { display: flex; gap: 8px; align-items: flex-start; padding: 8px 10px; border-radius: 10px; background: var(--painel2); margin-top: 8px; font-size: 14px; }
+  .alerta .ic { flex: none; font-weight: 700; width: 18px; text-align: center; }
+  ul.lista { list-style: none; }
+  ul.lista li { padding: 8px 0; border-top: 1px solid var(--linha); font-size: 14px; display: flex; justify-content: space-between; gap: 10px; }
+  ul.lista li:first-child { border-top: 0; }
+  ul.lista a { color: var(--texto); }
+  .dias { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; align-items: end; height: 110px; margin-top: 6px; }
+  .dia { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; gap: 4px; }
+  .dia .col { width: 70%; max-width: 26px; background: var(--lima); border-radius: 4px 4px 0 0; min-height: 2px; }
+  .dia .col.vazio { background: var(--linha); }
+  .dia small { color: var(--apoio); font-size: 11px; }
+  .dia em { font-style: normal; font-size: 11px; font-variant-numeric: tabular-nums; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; font-variant-numeric: tabular-nums; }
+  th, td { text-align: right; padding: 6px 4px; border-top: 1px solid var(--linha); }
+  th:first-child, td:first-child { text-align: left; }
+  th { color: var(--apoio); font-weight: 500; border-top: 0; }
+  .falta { color: var(--atencao); }
+  svg.linha { width: 100%; height: 70px; display: block; margin-top: 8px; }
+  .aviso-topo { background: var(--painel2); border: 1px solid var(--linha); border-radius: 12px; padding: 10px 12px; margin-bottom: 12px; font-size: 14px; }
+  .ocultar { display: none; }
+  .vazio-marca { text-align: center; padding: 30px 14px; color: var(--apoio); }
+</style>
+</head>
+<body>
+<header>
+  <div class="topo">
+    <h1>Painel das marcas</h1>
+    <button class="atualizar" id="atualizar" type="button">Atualizar</button>
+  </div>
+  <nav id="abas"></nav>
+</header>
+<main id="conteudo"><p class="sub">Carregando…</p></main>
+
+<script>
+// Uma linha por marca. "estado" = endereço do estado.json da marca (ramo painel-dados do repositório dela).
+// Marca sem "estado" aparece como "ainda não ligada".
+const MARCAS = [
+  { id: "pixelzada", nome: "Pixelzada", estado: "https://raw.githubusercontent.com/diegobatistaia/pixelzada/painel-dados/estado.json" },
+  { id: "cortexplor", nome: "Cortexplor", nota: "Ainda não ligado. Ligar o Cortexplor ao painel precisa de uma mudança no repositório dele, que só faço com o seu OK." },
+  { id: "gta6", nome: "GTA 6 (nova)", nota: "Marca em planejamento. Entra aqui sozinha quando nascer do molde das marcas." },
+  { id: "carros", nome: "Carros", nota: "Marca em planejamento. Entra aqui sozinha quando nascer do molde das marcas." },
+  { id: "tecnologia", nome: "Tecnologia", nota: "Marca em planejamento. Entra aqui sozinha quando nascer do molde das marcas." },
+  { id: "financeiro", nome: "Mercado financeiro", nota: "Marca em planejamento. Entra aqui sozinha quando nascer do molde das marcas." },
+];
+
+const dados = {};      // id -> estado.json
+const erros = {};      // id -> mensagem
+const fmt = new Intl.NumberFormat("pt-BR");
+const n = (v) => (typeof v === "number" ? fmt.format(v) : "–");
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const DIAS_SEMANA = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+
+function dataCurta(iso) { const [a, m, d] = iso.split("-"); return `${d}/${m}`; }
+function diaSemana(iso) { return DIAS_SEMANA[new Date(iso + "T12:00:00").getDay()]; }
+function hora(iso) { const d = new Date(iso); return d.toLocaleString("pt-BR", { timeZone: "America/Sao_Paulo", day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" }); }
+function haQuanto(iso) {
+  const min = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+  if (min < 2) return "agora";
+  if (min < 60) return `há ${min} min`;
+  const h = Math.round(min / 60);
+  return h < 48 ? `há ${h} h` : `há ${Math.round(h / 24)} dias`;
+}
+
+function situacao(e) {
+  if (!e) return { cls: "s-off", txt: "Não ligada" };
+  const velho = (Date.now() - new Date(e.atualizado).getTime()) > 3 * 3600e3;
+  const verm = (e.alertas || []).filter((a) => a.nivel === "vermelho").length;
+  const amar = (e.alertas || []).filter((a) => a.nivel === "amarelo").length;
+  if (verm) return { cls: "s-problema", txt: verm === 1 ? "1 problema" : `${verm} problemas` };
+  if (velho) return { cls: "s-atencao", txt: "Dados atrasados" };
+  if (amar) return { cls: "s-atencao", txt: amar === 1 ? "1 ponto de atenção" : `${amar} pontos de atenção` };
+  return { cls: "s-ok", txt: "Tudo certo" };
+}
+
+function variacaoSeguidores(e) {
+  const s = e.seguidores_por_dia || [];
+  if (s.length < 2) return "";
+  const atual = s[s.length - 1].seguidores;
+  const base = s[Math.max(0, s.length - 8)];
+  const dif = atual - base.seguidores;
+  return `${dif >= 0 ? "+" : ""}${n(dif)} desde ${dataCurta(base.data)}`;
+}
+
+function barra(rotulo, feito, meta, extra) {
+  const pct = meta ? Math.min(100, Math.round((feito / meta) * 100)) : 0;
+  return `<div class="barra"><div class="rotulo"><span>${rotulo}</span><b>${n(feito)} de ${n(meta)}</b></div>
+    <div class="trilho" role="img" aria-label="${esc(rotulo)}: ${feito} de ${meta}"><i style="width:${pct}%"></i></div>
+    ${extra ? `<div class="fraco" style="margin-top:3px">${extra}</div>` : ""}</div>`;
+}
+
+function linhaSeguidores(pontos) {
+  if (!pontos || pontos.length < 2) return `<p class="fraco">O gráfico aparece depois de 2 dias de medição.</p>`;
+  const vals = pontos.map((p) => p.seguidores);
+  const min = Math.min(...vals), max = Math.max(...vals);
+  const W = 300, H = 60, pad = 4;
+  const x = (i) => pad + (i * (W - 2 * pad)) / (pontos.length - 1);
+  const y = (v) => (max === min ? H / 2 : H - pad - ((v - min) * (H - 2 * pad)) / (max - min));
+  const d = pontos.map((p, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(p.seguidores).toFixed(1)}`).join(" ");
+  const pts = pontos.map((p, i) => `<circle cx="${x(i).toFixed(1)}" cy="${y(p.seguidores).toFixed(1)}" r="6" fill="transparent"><title>${dataCurta(p.data)}: ${n(p.seguidores)} seguidores</title></circle>`).join("");
+  return `<svg class="linha" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Seguidores por dia">
+    <path d="${d}" fill="none" stroke="var(--lima)" stroke-width="2" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>${pts}</svg>
+    <div class="fraco" style="display:flex;justify-content:space-between"><span>${dataCurta(pontos[0].data)}</span><span>${dataCurta(pontos[pontos.length - 1].data)}</span></div>`;
+}
+
+function colunas(dias, campo, rotulo) {
+  const vals = dias.map((d) => d[campo]);
+  const max = Math.max(1, ...vals.filter((v) => typeof v === "number"));
+  return `<div class="dias" role="img" aria-label="${esc(rotulo)} por dia">${dias.map((d) => {
+    const v = d[campo];
+    const h = typeof v === "number" ? Math.max(2, Math.round((v / max) * 80)) : 2;
+    return `<div class="dia" title="${dataCurta(d.data)}: ${typeof v === "number" ? n(v) : "sem dado"}">
+      <em>${typeof v === "number" ? n(v) : "–"}</em><div class="col ${typeof v === "number" ? "" : "vazio"}" style="height:${h}px"></div>
+      <small>${diaSemana(d.data)}</small></div>`;
+  }).join("")}</div>`;
+}
+
+// ---------- Visão geral ----------
+function visaoGeral() {
+  const ligadas = MARCAS.filter((m) => dados[m.id]);
+  let html = "";
+  if (!ligadas.length && Object.keys(erros).length) {
+    html += `<div class="aviso-topo">Não consegui ler os dados agora. Confira a internet e toque em Atualizar.</div>`;
+  }
+  html += `<div class="grade">`;
+  for (const m of MARCAS) {
+    const e = dados[m.id];
+    const s = situacao(e);
+    if (!e) {
+      html += `<a class="cartao" href="#${m.id}"><h3>${esc(m.nome)}</h3>
+        <span class="selo ${erros[m.id] ? "s-problema" : "s-off"}">${erros[m.id] ? "Sem resposta" : "Não ligada"}</span>
+        <p class="sub" style="margin-top:10px">${esc(erros[m.id] || m.nota || "")}</p></a>`;
+      continue;
+    }
+    const ig = e.instagram || {}, h = e.hoje, f = e.fila_reels;
+    html += `<a class="cartao" href="#${m.id}">
+      <div style="display:flex;justify-content:space-between;align-items:center;gap:8px"><h3>${esc(m.nome)}</h3><span class="selo ${s.cls}">${s.txt}</span></div>
+      <div class="numeros">
+        <div class="num"><b>${n(ig.seguidores)}</b><span>seguidores</span></div>
+        <div class="num"><b>${n(f.dias_de_reserva)}</b><span>dias de Reels na fila</span></div>
+        <div class="num"><b>${n(h.reels.publicados)}/${n(h.reels.meta)}</b><span>Reels hoje</span></div>
+        <div class="num"><b>${n(ig.views_7d)}</b><span>views em 7 dias</span></div>
+      </div>
+      <p class="fraco" style="margin-top:10px">Atualizado ${haQuanto(e.atualizado)}</p></a>`;
+  }
+  html += `</div>`;
+  return html;
+}
+
+// ---------- Uma marca ----------
+function paginaMarca(m) {
+  const e = dados[m.id];
+  if (!e) {
+    return `<div class="cartao vazio-marca"><h3 style="color:var(--texto);margin-bottom:8px">${esc(m.nome)}</h3>
+      <p>${esc(erros[m.id] || m.nota || "Ainda não ligada.")}</p></div>`;
+  }
+  const s = situacao(e), ig = e.instagram || {}, h = e.hoje, f = e.fila_reels, site = e.site, fal = e.falhas || {}, pes = e.pesquisa || {};
+  const r7 = ig.reels_7d || {};
+  let html = `<div class="cartao" style="margin-bottom:12px">
+    <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap">
+      <div><h3>${esc(e.marca.nome)}</h3><span class="sub">@${esc(e.marca.instagram)} · atualizado ${haQuanto(e.atualizado)}</span></div>
+      <span class="selo ${s.cls}">${s.txt}</span></div>`;
+  for (const a of e.alertas || []) {
+    const cls = a.nivel === "vermelho" ? "s-problema" : "s-atencao";
+    html += `<div class="alerta"><span class="ic ${cls}">${a.nivel === "vermelho" ? "!" : "•"}</span><span>${esc(a.texto)}</span></div>`;
+  }
+  if (!(e.alertas || []).length) html += `<p class="sub" style="margin-top:8px">Nada pedindo atenção agora.</p>`;
+  html += `</div><div class="grade">`;
+
+  // Hoje
+  const atrR = h.reels.atrasados.length ? `<span class="falta">Atrasados: ${h.reels.atrasados.join(", ")}</span>` : `${n(h.reels.deviam_ter_saido)} já deviam ter saído`;
+  const atrC = h.carrosseis.atrasados.length ? `<span class="falta">Atrasados: ${h.carrosseis.atrasados.join(", ")}</span>` : `${n(h.carrosseis.deviam_ter_saido)} já deviam ter saído`;
+  html += `<div class="cartao"><h2>Hoje · ${dataCurta(h.data)}</h2>
+    ${barra("Reels publicados", h.reels.publicados, h.reels.meta, atrR)}
+    ${barra("Carrosséis publicados", h.carrosseis.publicados, h.carrosseis.meta, atrC)}
+    ${barra("Matérias no site", site.hoje, site.meta_dia, site.ultima ? `Última: ${esc(site.ultima.titulo)}` : "")}
+  </div>`;
+
+  // Instagram
+  if (ig.erro) {
+    html += `<div class="cartao"><h2>Instagram</h2><p class="sub">${ig.erro === "sem chave" ? "Os números do Instagram aparecem na próxima rodada do painel." : "Não consegui ler o Instagram nesta rodada: " + esc(ig.erro)}</p></div>`;
+  } else {
+    html += `<div class="cartao"><h2>Instagram · últimos 7 dias</h2>
+      <div class="numeros">
+        <div class="num grande"><b>${n(ig.seguidores)}</b><span>seguidores ${esc(variacaoSeguidores(e))}</span></div>
+        <div class="num grande"><b>${n(ig.posts)}</b><span>posts na conta</span></div>
+        <div class="num"><b>${n(ig.alcance_7d)}</b><span>contas alcançadas</span></div>
+        <div class="num"><b>${n(ig.views_7d)}</b><span>views (tudo)</span></div>
+        <div class="num"><b>${n(r7.quantidade)}</b><span>Reels publicados</span></div>
+        <div class="num"><b>${n(r7.views_mediana)}</b><span>views por Reel (mediana)</span></div>
+      </div>
+      ${linhaSeguidores(e.seguidores_por_dia)}
+    </div>`;
+  }
+
+  // Fila
+  const porDia = (f.por_dia || []).slice(0, 7).map((d) => `<li><span>${diaSemana(d.data)} ${dataCurta(d.data)}</span><span class="${d.agendados < d.meta ? "falta" : ""}">${n(d.agendados)} de ${n(d.meta)}</span></li>`).join("");
+  html += `<div class="cartao"><h2>Fila de Reels</h2>
+    <div class="numeros">
+      <div class="num grande"><b>${n(f.dias_de_reserva)}</b><span>dias de reserva</span></div>
+      <div class="num grande"><b>${n(f.agendados)}</b><span>vídeos prontos</span></div>
+    </div>
+    <p class="sub" style="margin:10px 0 6px">${f.grade_cheia_ate ? `Grade cheia até ${diaSemana(f.grade_cheia_ate)} ${dataCurta(f.grade_cheia_ate)}` : `<span class="falta">A grade de amanhã ainda não está cheia</span>`} · meta ${n(f.meta_por_dia)} por dia${f.sem_revisao ? ` · ${n(f.sem_revisao)} sem revisão` : ""}</p>
+    ${h.reels.horarios_vazios_hoje.length ? `<p class="falta" style="font-size:13px;margin-bottom:6px">Hoje ainda sem vídeo: ${h.reels.horarios_vazios_hoje.slice(0, 8).join(", ")}${h.reels.horarios_vazios_hoje.length > 8 ? "…" : ""}</p>` : ""}
+    <ul class="lista">${porDia || `<li><span class="falta">Nenhum vídeo agendado</span></li>`}</ul>
+  </div>`;
+
+  // Últimos dias
+  const linhas = e.ultimos_dias.map((d) => `<tr><td>${diaSemana(d.data)} ${dataCurta(d.data)}</td>
+    <td class="${d.reels < d.reels_meta ? "falta" : ""}">${d.reels}/${d.reels_meta}</td>
+    <td class="${d.carrosseis < d.carrosseis_meta ? "falta" : ""}">${d.carrosseis}/${d.carrosseis_meta}</td>
+    <td>${d.materias}</td><td>${typeof d.views_reels === "number" ? n(d.views_reels) : "–"}</td></tr>`).join("");
+  html += `<div class="cartao"><h2>Views dos Reels por dia de publicação</h2>
+    ${colunas(e.ultimos_dias, "views_reels", "Views dos Reels")}
+    <table style="margin-top:12px"><thead><tr><th>Dia</th><th>Reels</th><th>Carrosséis</th><th>Matérias</th><th>Views</th></tr></thead><tbody>${linhas}</tbody></table>
+  </div>`;
+
+  // Melhores Reels
+  if (r7.melhores && r7.melhores.length) {
+    html += `<div class="cartao"><h2>Reels que mais rodaram (7 dias)</h2><ul class="lista">${r7.melhores.map((r) =>
+      `<li><a href="${esc(r.link)}" target="_blank" rel="noopener">${esc(r.legenda || "Reel")}</a><b style="flex:none">${n(r.views)}</b></li>`).join("")}</ul></div>`;
+  }
+
+  // Falhas
+  if (fal.erro) {
+    html += `<div class="cartao"><h2>Falhas no GitHub</h2><p class="sub">Sem leitura nesta rodada.</p></div>`;
+  } else {
+    const itens = (fal.lista || []).slice(0, 8).map((x) => `<li><a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.workflow)}</a>
+      <span class="${x.resolvido ? "sub" : "s-problema"}" style="flex:none">${hora(x.em)} · ${x.resolvido ? "já voltou" : "sem resolver"}</span></li>`).join("");
+    html += `<div class="cartao"><h2>Falhas no GitHub · 24 horas</h2>
+      <p class="sub" style="margin-bottom:6px">${n(fal.falhas_24h)} falha(s) em ${n(fal.rodadas_24h)} rodadas${fal.sem_resolver ? `, <span class="s-problema">${n(fal.sem_resolver)} sem resolver</span>` : ", todas já voltaram a funcionar"}</p>
+      ${itens ? `<ul class="lista">${itens}</ul>` : ""}</div>`;
+  }
+
+  // Site e pesquisa
+  html += `<div class="cartao"><h2>Site e pesquisa</h2><ul class="lista">
+    <li><span>Matérias publicadas no total</span><b>${n(site.total)}</b></li>
+    ${site.ultima ? `<li><a href="${esc(site.ultima.url)}" target="_blank" rel="noopener">Última matéria</a><span class="sub" style="flex:none">${hora(site.ultima.em)}</span></li>` : ""}
+    ${pes.ultima_coleta ? `<li><span>Última pesquisa de vídeos</span><span class="sub" style="flex:none">${esc(pes.ultima_coleta)}</span></li>
+    <li><span>Concorrentes lidos</span><b>${n(pes.perfis_lidos)}${pes.perfis_com_falha ? ` <span class="falta">(${n(pes.perfis_com_falha)} falhou)</span>` : ""}</b></li>` : ""}
+    <li><a href="${esc(e.marca.site)}" target="_blank" rel="noopener">Abrir o site</a><a href="https://www.instagram.com/${esc(e.marca.instagram)}/" target="_blank" rel="noopener">Abrir o Instagram</a></li>
+  </ul></div>`;
+
+  html += `</div>`;
+  return html;
+}
+
+// ---------- Navegação ----------
+function atual() { const id = location.hash.slice(1); return MARCAS.some((m) => m.id === id) ? id : "geral"; }
+
+function desenhar() {
+  const aba = atual();
+  const abas = [{ id: "geral", nome: "Visão geral" }, ...MARCAS];
+  document.getElementById("abas").innerHTML = abas.map((m) => {
+    const e = dados[m.id];
+    const s = m.id === "geral" ? null : situacao(e);
+    const ponto = s && e ? `<span class="${s.cls}">●</span> ` : "";
+    return `<a href="#${m.id === "geral" ? "geral" : m.id}" class="${aba === m.id ? "ativa" : ""}">${ponto}${esc(m.nome)}</a>`;
+  }).join("");
+  const marca = MARCAS.find((m) => m.id === aba);
+  document.getElementById("conteudo").innerHTML = marca ? paginaMarca(marca) : visaoGeral();
+}
+
+async function carregar() {
+  const botao = document.getElementById("atualizar");
+  botao.textContent = "Atualizando…";
+  await Promise.all(MARCAS.filter((m) => m.estado).map(async (m) => {
+    try {
+      const r = await fetch(`${m.estado}?t=${Math.floor(Date.now() / 60000)}`, { cache: "no-store" });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      dados[m.id] = await r.json();
+      delete erros[m.id];
+    } catch (err) {
+      if (!dados[m.id]) erros[m.id] = "Não consegui ler os dados desta marca agora.";
+    }
+  }));
+  botao.textContent = "Atualizar";
+  desenhar();
+}
+
+window.addEventListener("hashchange", () => { desenhar(); window.scrollTo(0, 0); });
+document.getElementById("atualizar").addEventListener("click", carregar);
+carregar();
+setInterval(carregar, 5 * 60 * 1000);
+</script>
+</body>
+</html>
