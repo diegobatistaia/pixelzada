@@ -1271,5 +1271,53 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-vertigo-create",
+    "data": "2026-11-10",
+    "horario": "19:30",
+    "status": "agendado",
+    "estilo": "Inventário",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "vertigo.create",
+      "link": "https://www.instagram.com/reel/DdUB-VSuTD_/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-prismahub016",
+    "data": "2026-11-10",
+    "horario": "20:30",
+    "status": "agendado",
+    "estilo": "Cartaz",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "prismahub016",
+      "link": "https://www.instagram.com/reel/Dff1wPspuWl/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-bolamemes4584",
+    "data": "2026-11-10",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Figurinha",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "bolamemes4584",
+      "link": "https://www.instagram.com/reel/DZxN5HTOpWc/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
