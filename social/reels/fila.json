@@ -1255,5 +1255,37 @@
       "titulo": "padrao",
       "revisado": false
     }
+  },
+  {
+    "slug": "o-universo-dos-games-neth-vane",
+    "data": "2026-11-10",
+    "horario": "17:30",
+    "status": "agendado",
+    "estilo": "Faixa",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "neth.vane",
+      "link": "https://www.instagram.com/reel/DfdI3-6RKFr/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-syncvicebr",
+    "data": "2026-11-10",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "Missão",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "syncvicebr",
+      "link": "https://www.instagram.com/reel/Dff4eGousCF/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
