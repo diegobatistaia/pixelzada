@@ -541,7 +541,7 @@ def main(argv: list[str] | None = None) -> int:
     b.add_argument("numeros", help="ex.: 1,4,7")
     sub.add_parser("completar")
     k = sub.add_parser("link")
-    k.add_argument("url")
+    k.add_argument("url", nargs="+", help="um ou mais links (separados por espaço)")
     l = sub.add_parser("lista")
     l.add_argument("data", nargs="?")
     a = sub.add_parser("analisar")
@@ -557,7 +557,8 @@ def main(argv: list[str] | None = None) -> int:
             nums = [int(n) for n in re.findall(r"\d+", args.numeros)]
             return baixar(cfg, args.data, nums)
         if args.cmd == "link":
-            return link(cfg, args.url)
+            urls = [u for x in args.url for u in re.split(r"[\s,]+", x) if u]
+            return max([link(cfg, u) or 0 for u in urls] or [0])
         if args.cmd == "completar":
             return completar(cfg)
         if args.cmd == "lista":
