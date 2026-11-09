@@ -1501,5 +1501,101 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-sougamergeek",
+    "data": "2026-11-11",
+    "horario": "17:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DffZ2V8u0sG/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-meups-oficial",
+    "data": "2026-11-11",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/Dfg9Z1nBoIU/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-flowgamestv",
+    "data": "2026-11-11",
+    "horario": "19:30",
+    "status": "agendado",
+    "estilo": "Faixa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "flowgamestv",
+      "link": "https://www.instagram.com/reel/DfhYK_6E8cP/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "forza-horizon-6-sougamergeek",
+    "data": "2026-11-11",
+    "horario": "20:30",
+    "status": "agendado",
+    "estilo": "Missão",
+    "legenda": "Esse vídeo de Forza Horizon 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o Forza Horizon 6.\n\n#forzahorizon6 #forza #fh6 #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfdOwHaMvT2/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-voxeloficial",
+    "data": "2026-11-11",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Inventário",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "voxeloficial",
+      "link": "https://www.instagram.com/reel/DfhS2nWmpTl/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-grandtheftauto6",
+    "data": "2026-11-11",
+    "horario": "22:30",
+    "status": "agendado",
+    "estilo": "Cartaz",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/DfhEPg4OzV4/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
