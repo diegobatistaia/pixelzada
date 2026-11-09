@@ -1032,11 +1032,12 @@
     "status": "agendado",
     "estilo": "Conquista",
     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #gta #pixelzada",
-    "tentativas": 0,
+    "tentativas": 1,
     "origem": {
       "motor": true,
       "revisado": true
-    }
+    },
+    "erro": "o Instagram recusou a mídia: ERROR"
   },
   {
     "slug": "leon-ada-re4-chuva",

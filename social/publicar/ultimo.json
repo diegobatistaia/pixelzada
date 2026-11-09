@@ -1,22 +1,12 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "ghost-of-yotei-jin-sakai-most-wanted-lista",
-    "horario": "09:00",
-    "data": "2026-11-09",
-    "estilo": "fliperama",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg"
-    ],
-    "story": null
+    "acao": "reel",
+    "slug": "mira-gta6-vs-gta5",
+    "pasta": "reel-mira-gta6-vs-gta5",
+    "horario": "10:00",
+    "data": "2026-11-09"
   },
-  "em": "2026-11-09T08:59:56-03:00",
-  "ok": true,
-  "media_id": "18643327816003736",
-  "permalink": "https://www.instagram.com/p/DfhSBgVoF23/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "em": "2026-11-09T10:12:01-03:00",
+  "ok": false,
+  "erro": "o Instagram recusou a mídia: ERROR"
 }
