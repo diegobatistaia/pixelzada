@@ -17,8 +17,9 @@ Arquivos que acompanham este guia:
 
 | Arquivo | Para que serve |
 |---|---|
-| `docs/replicar/marca-modelo.yaml` | Ficha da marca nova: tudo o que muda, num lugar só |
-| `scripts/tools/onde_trocar.py` | Mostra onde o nome antigo ainda aparece no código (hoje: ~600 linhas em ~80 arquivos) |
+| Repositório **diegobatistaia/marca-modelo-sites** | O molde: o sistema inteiro pronto para uma marca nova |
+| `marca.yaml` (no molde) | Ficha da marca: nome, domínio, @, horários, CTA, aviso legal |
+| `scripts/tools/onde_trocar.py` | Mostra onde um nome antigo ainda aparece no código |
 
 ---
 
@@ -40,7 +41,7 @@ chaves sempre separadas.** Pense em "uma planta de casa, seis casas".
 ```
             ┌──────────────────────────────────────────┐
             │  REPOSITÓRIO MODELO  (diegobatistaia/    │
-            │  marca-modelo)  =  o "molde"             │
+            │  marca-modelo-sites) = o "molde"         │
             │  motor de pesquisa, download, montagem,  │
             │  fila, Gaveta, publicação, site, skills  │
             │  + marca.yaml em branco                  │
@@ -66,20 +67,17 @@ chaves sempre separadas.** Pense em "uma planta de casa, seis casas".
 
 **Como chegar lá, em duas fases:**
 
-- **Fase 1, o molde (trabalho do Claude, sem cliques seus).** Criar o
-  repositório `marca-modelo` a partir da Pixelzada, tirando dele tudo o que
-  está "escrito à mão" com o nome, os horários, o CTA e os temas da Pixelzada
-  (hoje são ~600 linhas em ~80 arquivos, ver Apêndice A) e fazendo o código ler
-  tudo de um arquivo só, `marca.yaml` (a ficha `marca-modelo.yaml` deste
-  guia). O molde fica marcado como **Template repository** no GitHub.
-  A Pixelzada **não muda** nessa fase.
+- **Fase 1, o molde (feita em 09/11/2026).** O repositório
+  `diegobatistaia/marca-modelo-sites` é a Pixelzada sem conteúdo, sem vídeos e
+  sem nada "escrito à mão": o código lê nome, domínio, @, horários, CTA e aviso
+  legal de um arquivo só, `marca.yaml`. Os secrets têm nomes fixos
+  (`INSTAGRAM_TOKEN`, `META_TOKEN`, `TELEGRAM_TOKEN`, `HOSTINGER_SSH_KEY`),
+  porque cada marca tem o próprio repositório. Testado com uma "Marca Exemplo":
+  site, carrosséis, Reel montado com o @ e o CTA da ficha e aviso legal.
+  A Pixelzada **não mudou**.
 - **Fase 2, as marcas.** Cada marca nova nasce do molde (seção 5). Depois
   que 2 ou 3 estiverem rodando, dá para avaliar se a Pixelzada e o Cortexplor
   também passam a seguir o molde (só com o seu OK, e sem pressa).
-
-Enquanto o molde não existe, este guia funciona do mesmo jeito copiando
-direto da Pixelzada (é o que a seção 5.3 descreve); só dá mais trabalho ao
-Claude.
 
 **O que é compartilhado entre as marcas** (pode ser o mesmo):
 
@@ -109,8 +107,8 @@ Claude.
   atividade regulada pela CVM (analista/consultor certificado).
 - Aviso fixo em todo lugar: bio do Instagram, legenda de cada post, rodapé
   de cada matéria e página "Sobre": *"Conteúdo informativo. Não é recomendação
-  de investimento."* O molde precisa de um campo `aviso_legal` na ficha que o
-  robô coloca sozinho.
+  de investimento."* No molde é o campo `marca.aviso_legal` do `marca.yaml`:
+  o robô põe sozinho no rodapé do site e na legenda de todo post e Reel.
 - Cotação e número sempre com **data, hora e fonte** (ex.: B3, Banco Central).
   Post com cotação velha é o erro mais comum.
 - Concorrentes "influenciadores de investimento" vendem curso e sinal: entram
@@ -122,12 +120,12 @@ Claude.
 **GTA 6 (marca nova, diferente da Pixelzada).**
 - Marca independente, com posicionamento e público próprios. Para não
   disputar com a Pixelzada: lista de concorrentes, temas e estilo de moldura
-  diferentes, e o robô **não** posta o mesmo vídeo nas duas contas (o Claude
-  liga um histórico de "já usados" que as duas marcas consultam, sem misturar
-  o resto).
+  diferentes, e o robô **não** deve postar o mesmo vídeo nas duas contas
+  (a fazer quando essa marca for criada: as duas consultam o histórico de
+  "já usados" uma da outra, sem misturar o resto).
 - O lançamento é 19/11/2026: depois dele o assunto muda de "trailer e
-  espera" para "guias, missões e segredos". Planejar o segundo momento já na
-  ficha.
+  espera" para "guias, missões e segredos". Dá para deixar a troca agendada
+  na ficha (`reels.grades` com data de início).
 
 **Notícias de carros.**
 - Vídeo de montadora e de canais de teste costuma ter música licenciada e
@@ -143,7 +141,8 @@ Claude.
 **Para todas.**
 - **Direitos autorais**: os Reels usam vídeos de outros perfis sem crédito
   (decisão sua na Pixelzada). Com 6 contas o risco de denúncia/strike cresce;
-  convém dar crédito nas marcas novas, ao menos na legenda.
+  no molde o crédito do perfil de origem já sai na legenda
+  (`reels.credito_origem: true`; dá para desligar).
 - **GitHub**: repositórios públicos têm minutos grátis ilimitados, mas a
   conta grátis roda no máximo 20 tarefas ao mesmo tempo. Com 6 marcas rodando
   de 10 em 10 minutos, o Claude escalona os horários (uma marca no :00, outra
@@ -183,6 +182,7 @@ Claude.
 | Robô do Telegram | `scripts/social/telegram.py` | `telegram.yml` |
 | Montagem na identidade | `scripts/social/montagem.py`, `scripts/social/gerador/` | `montar.yml` |
 | Fila e publicação de Reels | `scripts/social/reels.py`, `social/reels/fila.json` | `reels.yml` |
+| Painel das marcas | `scripts/social/painel.py` (grava `estado.json` no ramo `painel-dados`) | `painel.yml` |
 | Gaveta de Reels | `scripts/social/gaveta.py` | (o Claude publica a página) |
 | Carrosséis e Stories | `scripts/social/instagram.py`, `arte.py`, `pauta.py`, `templates/social/` | `instagram.yml` |
 | Site de matérias | `scripts/engine/`, `scripts/pipeline/`, `templates/`, `site.config.yaml` | `coletar.yml`, `finalizar.yml`, `deploy.yml`, `capas.yml`, `promover.yml`, `analytics.yml` |
@@ -197,7 +197,7 @@ site de matérias.
 
 ## 3. O que copiar e o que trocar
 
-Cole a ficha `marca-modelo.yaml` preenchida e o Claude troca tudo. Para você
+O Claude preenche a ficha `marca.yaml` com você e troca o resto. Para você
 saber o que está mudando:
 
 | O que | Na Pixelzada | Na marca nova |
@@ -206,9 +206,9 @@ saber o que está mudando:
 | Domínio e e-mail | pixelzada.com.br, contato@pixelzada.com.br | o seu |
 | Hospedagem (SSH) | Hostinger 82.112.247.46:65002, usuário u433721675 | mesma conta serve; pasta do domínio novo |
 | Instagram | @pixelzada.br | o seu |
-| Chave de publicar | secret `INSTAGRAM_TOKEN_PIXELZADA` | `INSTAGRAM_TOKEN_<MARCA>` |
-| Chave da pesquisa | secret `META_TOKEN_PIXELZADA` (app "Pixelzada Pesquisa") | `META_TOKEN_<MARCA>` (app "<Marca> Pesquisa") |
-| Chave do Telegram | secret `TELEGRAM_TOKEN_PIXELZADA` | `TELEGRAM_TOKEN_<MARCA>` |
+| Chave de publicar | secret `INSTAGRAM_TOKEN_PIXELZADA` | `INSTAGRAM_TOKEN` (no repositório da marca) |
+| Chave da pesquisa | secret `META_TOKEN_PIXELZADA` (app "Pixelzada Pesquisa") | `META_TOKEN` (app "<Marca> Pesquisa") |
+| Chave do Telegram | secret `TELEGRAM_TOKEN_PIXELZADA` | `TELEGRAM_TOKEN` |
 | Chave de deploy | secret `HOSTINGER_SSH_KEY` (chave só da Pixelzada) | chave nova, mesmo nome de secret |
 | Identidade | noite #0B0A10, lima #C6FF1A, magenta #FF3D8B; Anton, Archivo, Silkscreen; logos em `assets/logo/` e `scripts/social/gerador/` | sua paleta, fontes e logos |
 | Concorrentes e temas | 17 perfis de games; temas GTA 6, Battlefield 6, Forza Horizon 6 | os do seu nicho |
@@ -248,36 +248,40 @@ coletas e listas da pesquisa, pautas e resultados do Instagram.
 
 ### 5.2 [VOCÊ] Criar o repositório no GitHub (2 minutos)
 
-**Quando o molde já existir (Fase 1 pronta):**
+**Só uma vez, antes da primeira marca:** marcar o molde como modelo.
+Abra https://github.com/diegobatistaia/marca-modelo-sites/settings, logo no
+começo da página marque a caixa **Template repository** e pronto (salva sozinho).
+Sem isso o botão **Use this template** não aparece.
 
-1. Abra https://github.com/diegobatistaia/marca-modelo
+**Para cada marca:**
+
+
+1. Abra https://github.com/diegobatistaia/marca-modelo-sites
 2. Clique no botão verde **Use this template** (canto de cima, à direita) > **Create a new repository**.
-3. Siga do item 2 abaixo (nome, Public, Create repository).
-
-**Enquanto o molde não existir:**
-
-1. Abra https://github.com/new
-2. Em **Repository name**, escreva o nome da marca em minúsculas, sem espaço (ex.: `novamarca`).
-3. Marque **Public** (público). Motivo: repositório público tem minutos grátis
+3. Em **Repository name**, escreva o nome da marca em minúsculas, sem espaço (ex.: `novamarca`).
+4. Marque **Public** (público). Motivo: repositório público tem minutos grátis
    ilimitados no GitHub Actions. A Pixelzada parou de 20/10 a 31/10 quando era
    privada e estourou o limite. Não há chave no código: elas ficam nos Secrets.
-4. Não marque mais nada. Clique no botão verde **Create repository**.
-5. Avise o Claude: "criei o repositório novamarca".
+5. Não marque mais nada. Clique no botão verde **Create repository**.
+6. Avise o Claude: "criei o repositório novamarca".
 
 O app do Claude já está liberado para todos os seus repositórios, então ele
 enxerga o novo na hora.
 
-### 5.3 [CLAUDE] Copiar o sistema e trocar a marca
+### 5.3 [CLAUDE] Preencher a marca
 
-O Claude faz:
+O Claude faz, seguindo o `README.md` do molde:
 
-1. Copia o código da Pixelzada (sem matérias, vídeos, fila e históricos).
-2. Aplica a ficha `marca-modelo.yaml`: nome, domínio, @, nomes dos secrets,
-   cores, fontes, logos, concorrentes, temas, horários, CTA, hashtag.
-3. Renomeia as skills (`voz-pixelzada` → `voz-<marca>` etc.) e adapta o tom.
-4. Roda `python scripts/tools/onde_trocar.py pixelzada` até não sobrar nada.
-5. Deixa os robôs **desligados** até as chaves existirem (eles avisam e saem sem erro).
-6. Abre um PR e junta.
+1. Preenche `marca.yaml` (nome, domínio, @, hashtag, horários, CTA, aviso legal).
+2. Preenche `social/pesquisa/config.yaml` (concorrentes e temas do nicho) e
+   `site.config.yaml` (editorias, fontes de notícia, palavras).
+3. Aplica a identidade: cores e fontes em `templates/social/marca.css`,
+   `templates/site.css.j2` e `site.config.yaml` (brand); logos com os mesmos nomes
+   em `assets/logo/` (até o logo ficar pronto, `scripts/tools/logo_provisorio.py`
+   gera um provisório com o nome da marca).
+4. Reescreve as 3 skills (`.claude/skills/`) para o tom e o nicho da marca.
+5. Roda `python scripts/tools/selfcheck.py` e monta um Reel de teste.
+6. Deixa os robôs **desligados** até as chaves existirem (eles avisam e saem sem erro).
 
 ### 5.4 [VOCÊ] Instagram profissional (celular, 2 minutos)
 
@@ -313,7 +317,7 @@ Serve para o robô publicar carrosséis, Stories e Reels.
 4. Na seção **2. Gerar tokens de acesso**, clique em **Adicionar conta** (Add account).
 5. Entre com o **Instagram novo** e clique em **Permitir** (Allow).
 6. Ao lado da conta, clique em **Gerar token** (Generate token), marque o aviso e clique em **Copiar** (Copy).
-7. Cadastre no GitHub como `INSTAGRAM_TOKEN_<MARCA>` (passo 5.9).
+7. Cadastre no GitHub como `INSTAGRAM_TOKEN` (passo 5.9).
 
 Se der erro de permissão: **Funções do app** > **Funções** > **Adicionar pessoas** >
 **Testador do Instagram**, digite o @ novo; depois, logado no Instagram novo, abra
@@ -351,14 +355,14 @@ Esta é uma chave de Página do Facebook, que **nunca expira**.
 8. Na barra do meio, troque `me?fields=id,name` por `me/accounts?fields=name,access_token` e clique em **Enviar**.
 9. No bloco com o nome da sua Página, copie o texto entre aspas depois de `"access_token":`.
 10. Confira em https://developers.facebook.com/tools/debug/accesstoken > **Depurar**: "Expira" tem de dizer **Nunca**.
-11. Cadastre no GitHub como `META_TOKEN_<MARCA>` (passo 5.9).
+11. Cadastre no GitHub como `META_TOKEN` (passo 5.9).
 
 ### 5.8 [VOCÊ] Robô do Telegram (5 minutos)
 
 1. No Telegram, busque **BotFather** (selo azul) > **Iniciar**.
 2. Envie `/newbot`. Nome: o da marca. Usuário: algo como `<marca>_fila_bot` (tem de terminar em `bot`).
 3. Copie a linha parecida com `1234567890:AAH...` que ele responde.
-4. Cadastre no GitHub como `TELEGRAM_TOKEN_<MARCA>` (passo 5.9).
+4. Cadastre no GitHub como `TELEGRAM_TOKEN` (passo 5.9).
 5. Abra o link do seu bot (`t.me/<usuario_do_bot>`) e toque em **Iniciar**.
    A sua conversa vira a única que ele atende.
 
@@ -379,9 +383,9 @@ Link de vídeo vira Reel; link de perfil vira concorrente.
 | Secret | O que é | Passo |
 |---|---|---|
 | `HOSTINGER_SSH_KEY` | chave privada de deploy (só desta marca) | 5.5 |
-| `INSTAGRAM_TOKEN_<MARCA>` | publicar no Instagram | 5.6 |
-| `META_TOKEN_<MARCA>` | ler concorrentes (pesquisa) | 5.7 |
-| `TELEGRAM_TOKEN_<MARCA>` | robô do Telegram | 5.8 |
+| `INSTAGRAM_TOKEN` | publicar no Instagram | 5.6 |
+| `META_TOKEN` | ler concorrentes (pesquisa) | 5.7 |
+| `TELEGRAM_TOKEN` | robô do Telegram | 5.8 |
 | `UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY` | imagens de reserva do site (opcional) | – |
 | `GA_SEARCH_CONSOLE_CREDENTIALS` | métricas semanais (opcional, depois) | – |
 
@@ -405,6 +409,12 @@ O Claude cria, no projeto novo (em claude.ai/code/routines):
 - **Conferência dos posts** 5 min depois de cada horário, e disparo dos carrosséis no :58.
 - **Vigia de erros do GitHub** de hora em hora.
 - **Gaveta de Reels**: página nova, só desta marca, atualizada sempre que um Reel entra na fila.
+- **Painel das marcas** (https://pixelzada.com.br/painel/): o molde já traz o robô
+  **Painel** (`.github/workflows/painel.yml` + `scripts/social/painel.py`), que grava
+  de hora em hora o `estado.json` da marca no ramo `painel-dados` do repositório dela.
+  Para a marca aparecer no painel, o Claude preenche o campo `estado` dela na lista
+  `MARCAS` de `painel/index.html` (no repositório da Pixelzada) com
+  `https://raw.githubusercontent.com/diegobatistaia/<repositorio>/painel-dados/estado.json`.
 
 E salva na memória do projeto as regras da marca (CTA, horários, concorrentes, tom).
 
@@ -416,10 +426,11 @@ O Cortexplor já tem site e publicação de carrosséis (a Pixelzada nasceu de
 uma cópia dele). Falta só a máquina de Reels. Nada no Cortexplor muda até
 você pedir explicitamente no Claude.
 
-**O que levar** (do repositório da Pixelzada para o do Cortexplor):
+**O que levar** (do molde `marca-modelo-sites` para o Cortexplor; o molde já lê tudo de `marca.yaml`):
 
-- `scripts/social/pesquisa.py`, `telegram.py`, `montagem.py`, `reels.py`, `gaveta.py`, `scripts/social/gerador/`
-- `.github/workflows/pesquisa.yml`, `telegram.yml`, `montar.yml`, `reels.yml`
+- `scripts/marca.py` e um `marca.yaml` com os dados do Cortexplor
+- `scripts/social/pesquisa.py`, `telegram.py`, `montagem.py`, `reels.py`, `gaveta.py`, `painel.py`, `scripts/social/gerador/`
+- `.github/workflows/pesquisa.yml`, `telegram.yml`, `montar.yml`, `reels.yml`, `painel.yml`
 - `social/pesquisa/config.yaml` (com concorrentes e temas do Cortexplor)
 - `social/reels/fila.json` vazio (`[]`)
 
@@ -434,9 +445,11 @@ você pedir explicitamente no Claude.
    repositório **privado** isso gasta ~2.500 minutos por mês só nele, mais
    que o limite grátis (2.000). Opções: deixar o Cortexplor **público** (como a
    Pixelzada) ou trocar para disparo só nos horários (6 por dia).
-4. Os nomes dos secrets: `META_TOKEN_CORTEXPLOR` e `TELEGRAM_TOKEN_CORTEXPLOR`
-   (novos, passos 5.7 e 5.8); a chave de publicar do Cortexplor já existe.
-5. As molduras dos Reels com o logo, as cores e as fontes do Cortexplor.
+4. Os secrets: `META_TOKEN` e `TELEGRAM_TOKEN` (novos, passos 5.7 e 5.8);
+   a chave de publicar do Cortexplor já existe com outro nome, então o Claude
+   ajusta o `reels.py` copiado para ler o nome que o Cortexplor já usa.
+5. O painel: o Cortexplor fica "não ligado" em pixelzada.com.br/painel/ até você autorizar.
+6. As molduras dos Reels com o logo, as cores e as fontes do Cortexplor.
 
 **Seus cliques no caso Cortexplor:** só 5.7 (app "Cortexplor Pesquisa") e 5.8
 (robô do Telegram), e decidir o item 3.
@@ -451,14 +464,14 @@ Contas e chaves
 - [ ] Domínio com SSL e SSH ativos; IP/porta/usuário enviados ao Claude (5.5)
 - [ ] Chave pública de deploy colada na Hostinger (5.5)
 - [ ] `HOSTINGER_SSH_KEY` cadastrado (5.5)
-- [ ] `INSTAGRAM_TOKEN_<MARCA>` cadastrado (5.6)
+- [ ] `INSTAGRAM_TOKEN` cadastrado (5.6)
 - [ ] Página do Facebook ligada ao Instagram e app "<Marca> Pesquisa" criado (5.7)
-- [ ] `META_TOKEN_<MARCA>` cadastrado e "Expira: Nunca" conferido (5.7)
-- [ ] Robô do Telegram criado, `TELEGRAM_TOKEN_<MARCA>` cadastrado, /start enviado (5.8)
+- [ ] `META_TOKEN` cadastrado e "Expira: Nunca" conferido (5.7)
+- [ ] Robô do Telegram criado, `TELEGRAM_TOKEN` cadastrado, /start enviado (5.8)
 
 Montagem (Claude)
-- [ ] Ficha `marca-modelo.yaml` preenchida
-- [ ] `onde_trocar.py pixelzada` sem resultados
+- [ ] Ficha `marca.yaml` preenchida
+- [ ] `python scripts/tools/selfcheck.py` passando
 - [ ] Identidade aplicada no site, nos carrosséis e nas 20 molduras de Reel
 - [ ] Concorrentes, temas, horários e CTA da marca no `social/pesquisa/config.yaml` e no `reels.py`
 - [ ] Skills renomeadas e com o tom da marca
@@ -470,6 +483,7 @@ Testes
 - [ ] Link pelo Telegram virou Reel
 - [ ] Primeiro Reel publicado no horário
 - [ ] Rotinas criadas e Gaveta de Reels publicada
+- [ ] Robô **Painel** rodou uma vez e a marca aparece em pixelzada.com.br/painel/
 - [ ] Regras da marca salvas na memória do projeto
 
 ---
@@ -489,42 +503,40 @@ Como as marcas são separadas, uma melhoria numa delas (ex.: novo estilo de
 moldura) não aparece sozinha nas outras. O caminho é sempre passar pelo molde:
 
 1. Na marca onde a melhoria nasceu, peça: *"leve esta melhoria para o
-   repositório marca-modelo, sem nada específico desta marca"*.
-2. Em cada outra marca, peça: *"traga do marca-modelo a melhoria
+   repositório marca-modelo-sites, sem nada específico desta marca"*.
+2. Em cada outra marca, peça: *"traga do marca-modelo-sites a melhoria
    '<o que mudou>' para este projeto, adaptando a marca"*.
 
 Assim uma marca nunca mexe direto no repositório da outra.
-Enquanto o molde não existe, a origem é a própria Pixelzada:
+Melhoria que nasceu na Pixelzada (ela ainda não segue o molde):
 
-> Traga do repositório diegobatistaia/pixelzada a melhoria "<o que mudou>"
-> para este projeto, adaptando a marca. Não mexa em nada da Pixelzada.
+> Leve do repositório diegobatistaia/pixelzada a melhoria "<o que mudou>"
+> para o marca-modelo-sites. Não mexa em nada da Pixelzada.
 
 Mantenha este guia atualizado (ele mora na Pixelzada e, depois, no molde).
 Sempre que algo grande mudar, peça "atualize o GUIA-REPLICAR".
 
 ---
 
-## Apêndice A. Onde a marca está no código (para o Claude)
+## Apêndice A. Onde fica cada coisa no molde (para o Claude)
 
-Além do que o `onde_trocar.py` acha, estes pontos têm **regras da marca**
-(não só o nome) e precisam de decisão:
-
-| Arquivo | O que tem |
+| O quê | Onde |
 |---|---|
-| `site.config.yaml` | site, marca, cores, fontes, logos, social, bot, SEO, fontes RSS, deploy (host/porta/usuário/pasta) |
-| `social/pesquisa/config.yaml` | marca, conta, `segredo`, concorrentes, temas e pesos, palavras bloqueadas, coletas, modo lançamento |
-| `scripts/social/instagram.py` | `USUARIO`, `SECRET`, `CARROSSEIS` (horários e temas), `STORY_SO_GTA` |
-| `scripts/social/reels.py` | `HORARIOS`, `GRADE_15`, `GRADE_25` e as datas em `horarios()` (aquecimento GTA 6: tirar na marca nova) |
-| `scripts/social/montagem.py` | `SEGUE` (CTA por tema), `TAGS`, `CORES`, `PROMPT` do título, hashtag `#pixelzada` |
-| `scripts/social/pauta.py` | `MARCA` (hashtag obrigatória) |
-| `scripts/social/telegram.py` | `SEGREDO`, texto `AJUDA` |
-| `scripts/social/gerador/` | `estilos.js` (logo, @, 20 molduras), SVGs dos logos, `fonts/` |
-| `scripts/social/gaveta.py` | texto da página da Gaveta |
-| `templates/social/` | `marca.css`, `fontes/`, estilos dos carrosséis (rodapé com @ e domínio) |
-| `templates/site.css.j2`, `assets/logo/` | paleta e logos do site |
-| `.github/workflows/*.yml` | nomes dos secrets em `env:`, nome do passo "Enviar para <domínio>/ig/", `git config user.name/email` |
-| `.claude/skills/*` | voz da marca, redação diária, regras do Instagram |
-| `SETUP.md`, `README.md`, `social/INSTAGRAM.md` | textos com a marca |
+| Nome, slogan, "Sobre", nicho, aviso legal | `marca.yaml` > `marca` |
+| Domínio, e-mail | `marca.yaml` > `site` |
+| @, hashtag, horários e grupos dos carrosséis, Story | `marca.yaml` > `instagram` |
+| Horários dos Reels (e grades futuras), CTA, crédito, trocas no título | `marca.yaml` > `reels` |
+| Robô do Git, hospedagem (IP, porta, usuário, pasta, liga/desliga) | `marca.yaml` > `bot`, `deploy` |
+| Concorrentes, temas (nome, assunto do CTA, hashtags, palavras, peso), bloqueios, modo lançamento | `social/pesquisa/config.yaml` |
+| Editorias, fontes RSS, palavras da coleta, ritmo de matérias, regras de qualidade | `site.config.yaml` |
+| Cores do site e do Instagram | `site.config.yaml` > `brand`, `templates/site.css.j2`, `templates/social/marca.css`, `:root` de `scripts/social/gerador/estilos.js` |
+| Fontes | `templates/social/fontes/`, `assets/fonts/`, `scripts/social/gerador/fonts/` |
+| Logos (mesmos nomes de arquivo) | `assets/logo/` e `scripts/social/gerador/` (provisório: `scripts/tools/logo_provisorio.py`) |
+| Tom, procedimento da redação, regras das pautas | `.claude/skills/voz-da-marca`, `redacao-diaria`, `instagram` |
+| Secrets (nomes fixos) | `INSTAGRAM_TOKEN`, `META_TOKEN`, `TELEGRAM_TOKEN`, `HOSTINGER_SSH_KEY` |
+
+O código lê tudo isso sozinho (`scripts/marca.py` e `scripts/engine/config.py`,
+que junta `marca.yaml` ao `site.config.yaml`). Conferência: `python scripts/tools/selfcheck.py`.
 
 ## Apêndice B. Texto para as instruções do projeto novo no Claude
 
@@ -532,7 +544,7 @@ Além do que o `onde_trocar.py` acha, estes pontos têm **regras da marca**
 Projeto da marca <MARCA> (@<instagram>, <domínio>). Repositório:
 diegobatistaia/<repositorio>. Sistema copiado da Pixelzada
 (diegobatistaia/pixelzada, guia docs/replicar/GUIA-REPLICAR.md),
-ou do molde diegobatistaia/marca-modelo quando ele existir.
+ou do molde diegobatistaia/marca-modelo-sites.
 NÃO alterar o repositório da Pixelzada nem o do Cortexplor sem pedido explícito.
 Conversar sempre em português. O Diego usa Windows e não sabe GitHub:
 quando algo depender dele, passo a passo clique a clique.
@@ -547,8 +559,7 @@ seguir e acompanhar <assunto>". Agir sem pedir aprovação em coisas óbvias do 
 Quero replicar o sistema da Pixelzada nesta marca nova. Siga o guia
 docs/replicar/GUIA-REPLICAR.md do repositório diegobatistaia/pixelzada.
 Criei o repositório diegobatistaia/<repositorio> (público).
-Ficha da marca: <cole aqui a marca-modelo.yaml preenchida, ou diga
-"me ajude a preencher">.
+Ficha da marca: "me ajude a preencher o marca.yaml".
 Copie o sistema, troque a marca, deixe os robôs desligados até as chaves
 existirem e me diga quais passos [VOCÊ] do guia faltam.
 ```
