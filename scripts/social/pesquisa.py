@@ -316,10 +316,14 @@ def baixar_ytdlp(link: str, destino: Path) -> dict | None:
     r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "--no-playlist", "-f", "mp4/bv*+ba/b",
                         "--merge-output-format", "mp4", "--write-info-json", "-o", f"{base}.%(ext)s", link],
                        capture_output=True, text=True, timeout=300)
-    if r.returncode or not destino.exists():
-        print(f"   yt-dlp não conseguiu: {(r.stderr or r.stdout).strip()[-200:]}")
-        return None
     info = base.with_suffix(".info.json")
+    # Post /p/ (carrossel) às vezes sai com código de erro mesmo tendo baixado o vídeo: vale o arquivo.
+    if not destino.exists() or destino.stat().st_size < 20000:
+        print(f"   yt-dlp não conseguiu: {(r.stderr or r.stdout).strip()[-200:]}")
+        info.unlink(missing_ok=True)
+        return None
+    if r.returncode:
+        print(f"   yt-dlp avisou erro, mas o vídeo veio: {(r.stderr or r.stdout).strip()[-120:]}")
     dados = json.loads(info.read_text(encoding="utf-8")) if info.exists() else {}
     info.unlink(missing_ok=True)
     return {"perfil": dados.get("channel") or dados.get("uploader_id") or dados.get("uploader"),
