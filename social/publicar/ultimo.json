@@ -1,14 +1,27 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "lances-call-of-duty",
-    "pasta": "reel-lances-call-of-duty",
-    "horario": "14:00",
-    "data": "2026-11-09"
+    "acao": "carrossel",
+    "slug": "gta-6-clima-furacoes-lista",
+    "horario": "15:00",
+    "data": "2026-11-09",
+    "estilo": "inventario",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-11-09T13:59:38-03:00",
+  "em": "2026-11-09T15:00:21-03:00",
   "ok": true,
-  "media_id": "17941256988386087",
-  "permalink": "https://www.instagram.com/reel/Dfh0SJtFRz_/",
+  "media_id": "18111263060347077",
+  "permalink": "https://www.instagram.com/p/Dfh7Q_ClPKs/",
+  "story": {
+    "em": "2026-11-09T15:00:56-03:00",
+    "media_id": "18083415260360838"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
