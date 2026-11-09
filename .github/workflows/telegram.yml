@@ -31,7 +31,6 @@ jobs:
     env:
       TELEGRAM_TOKEN_PIXELZADA: ${{ secrets.TELEGRAM_TOKEN_PIXELZADA }}
       META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
-      SCRAPECREATORS_KEY: ${{ secrets.SCRAPECREATORS_KEY }}
     steps:
       - name: Tem chave?
         id: chave
@@ -56,7 +55,7 @@ jobs:
       - name: Ler as mensagens novas
         if: steps.chave.outputs.ok == '1'
         run: |
-          pip install -q pyyaml
+          pip install -q pyyaml yt-dlp
           python -m scripts.social.telegram ler
 
       - name: Contar o horário dos Reels já montados
@@ -107,7 +106,7 @@ jobs:
 
       - name: Contar no Telegram o dia e o horário
         run: |
-          pip install -q pyyaml
+          pip install -q pyyaml yt-dlp
           python -m scripts.social.telegram avisar
 
       - name: Registrar

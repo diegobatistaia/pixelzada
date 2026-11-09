@@ -26,11 +26,7 @@ horarios: ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
 automatico:
   max_por_rodada: 12
 
-# Plano B para vídeos que a API oficial não entrega o arquivo (música licenciada):
-# ScrapeCreators, 1 crédito por vídeo. Sem o secret, esses vídeos são pulados.
-plano_b:
-  segredo: SCRAPECREATORS_KEY
-  api: https://api.scrapecreators.com/v1/instagram/post
+# Vídeo sem arquivo pela API oficial: o robô tenta o yt-dlp (grátis, sem login).
 
 # Legenda com estas palavras não vira Reel (propaganda, venda, sorteio).
 bloquear: ["comenta quero", "desconto", "cupom", "#publi", "publicidade", "parceria paga",

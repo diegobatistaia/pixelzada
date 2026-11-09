@@ -17,8 +17,8 @@ No GitHub Actions (.github/workflows/pesquisa.yml), que tem internet e a chave:
     python -m scripts.social.pesquisa completar          baixa sozinho os melhores até cobrir
                                                          os 6 Reels/dia de hoje e dos próximos 2 dias
 
-Vídeo sem arquivo pela API oficial (música licenciada) é baixado pelo plano B
-(ScrapeCreators, secret SCRAPECREATORS_KEY) quando a chave existir.
+Vídeo sem arquivo pela API oficial (música licenciada) é tentado pelo yt-dlp
+(grátis, sem login). Se o Instagram recusar, fica sem arquivo.
 
 Na sessão do Claude (sem chave, sem internet):
 
@@ -307,21 +307,23 @@ def coletar(cfg: dict, forcar: bool = False) -> int:
     return 0 if coleta["perfis"] else 1
 
 
-def url_plano_b(cfg: dict, link: str) -> str | None:
-    """Link do mp4 pelo ScrapeCreators (1 crédito por vídeo). Só com o secret cadastrado."""
-    pb = cfg.get("plano_b") or {}
-    chave = os.environ.get(pb.get("segredo", "SCRAPECREATORS_KEY"), "").strip()
-    if not chave or not link:
+def baixar_ytdlp(link: str, destino: Path) -> dict | None:
+    """Plano B grátis: yt-dlp sem login. Devolve os dados do vídeo (dono, legenda) ou None."""
+    import subprocess
+    if not link:
         return None
-    url = f"{pb.get('api', 'https://api.scrapecreators.com/v1/instagram/post')}?{urllib.parse.urlencode({'url': link, 'trim': 'true'})}"
-    try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers={"x-api-key": chave}), timeout=90) as r:
-            dado = json.loads(r.read())
-    except (urllib.error.URLError, ValueError) as e:
-        print(f"   plano B falhou: {str(e)[:160]}")
+    base = destino.with_suffix("")
+    r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "--no-playlist", "-f", "mp4/bv*+ba/b",
+                        "--merge-output-format", "mp4", "--write-info-json", "-o", f"{base}.%(ext)s", link],
+                       capture_output=True, text=True, timeout=300)
+    if r.returncode or not destino.exists():
+        print(f"   yt-dlp não conseguiu: {(r.stderr or r.stdout).strip()[-200:]}")
         return None
-    media = (dado.get("data") or {}).get("xdt_shortcode_media") or dado.get("data") or {}
-    return media.get("video_url") or None
+    info = base.with_suffix(".info.json")
+    dados = json.loads(info.read_text(encoding="utf-8")) if info.exists() else {}
+    info.unlink(missing_ok=True)
+    return {"perfil": dados.get("channel") or dados.get("uploader_id") or dados.get("uploader"),
+            "legenda": dados.get("description") or dados.get("title") or ""}
 
 
 def baixar_um(cfg: dict, c: dict, destino: Path, token: str, ig_id: str, cache: dict) -> Path | None:
@@ -333,18 +335,27 @@ def baixar_um(cfg: dict, c: dict, destino: Path, token: str, ig_id: str, cache: 
             cache[c["perfil"]] = []
     post = next((p for p in cache[c["perfil"]] if p["id"] == c["id"]), None)
     url, via = (post or {}).get("media_url"), "API"
-    if not url:
-        url, via = url_plano_b(cfg, c.get("link")), "plano B"
-    if not url:
-        return None
     destino.mkdir(parents=True, exist_ok=True)
     nome = destino / f"{c['numero']:02d}-{c['tema']}-{re.sub(r'[^a-z0-9]+', '-', c['perfil'].lower())}.mp4"
-    try:
-        with urllib.request.urlopen(url, timeout=180) as r:
-            nome.write_bytes(r.read())
-    except urllib.error.URLError as e:
-        print(f"   download falhou: {e}")
-        return None
+    if url:
+        try:
+            with urllib.request.urlopen(url, timeout=180) as r:
+                nome.write_bytes(r.read())
+        except urllib.error.URLError as e:
+            print(f"   download falhou: {e}")
+            url = None
+    if not url:
+        via = "yt-dlp"
+        extra = baixar_ytdlp(c.get("link"), nome)
+        if extra is None:
+            return None
+        if not c.get("legenda_completa") and extra.get("legenda"):  # link solto: legenda e dono pelo yt-dlp
+            leg = re.sub(r"\s+", " ", extra["legenda"])
+            c.update(legenda=leg[:160], legenda_completa=leg[:700])
+            tema = tema_de(cfg, leg, c.get("tema", "games"))
+            c.update(tema=tema, jogo=cfg["temas"][tema]["nome"])
+        if c.get("perfil") == "diego" and extra.get("perfil"):
+            c["perfil"] = extra["perfil"]
     info = {k: c.get(k) for k in ("numero", "perfil", "link", "jogo", "tema", "legenda", "legenda_completa", "horario_sugerido")}
     info["via"] = via
     nome.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -427,7 +438,7 @@ def baixar_link(cfg: dict, url: str, token: str, ig_id: str) -> tuple[Path | Non
 
 def link(cfg: dict, url: str) -> int:
     """Vídeo que o Diego mandou pelo link: acha o dono (oEmbed), pega o arquivo pela
-    API oficial ou pelo plano B e põe em social/reels/entrada/ para a montagem."""
+    API oficial ou pelo yt-dlp e põe em social/reels/entrada/ para a montagem."""
     if not CODIGO_LINK.search(url):
         print(f"não reconheci o link: {url}")
         return 1
