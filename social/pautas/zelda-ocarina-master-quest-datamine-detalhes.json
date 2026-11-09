@@ -1,0 +1,78 @@
+{
+  "slug": "zelda-ocarina-master-quest-datamine-detalhes",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "Zelda Ocarina",
+  "gta6": false,
+  "materia": "zelda-ocarina-of-time-remake-master-quest-datamine-dlc",
+  "criado": "2026-11-09T17:55:00-03:00",
+  "imagem": {
+    "url": "https://olhardigital.com.br/wp-content/uploads/2026/11/The-Legend-of-Zelda-Ocarina-of-Time-Tera-Time-1.jpg",
+    "credito": "Olhar Digital",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Eurogamer e Olhar Digital",
+  "capa": {
+    "titulo": "Master Quest pode chegar ao remake de Zelda",
+    "destaque": "Master Quest",
+    "apoio": "Dataminers acharam pistas nos arquivos. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pistas",
+      "titulo": "Siglas MQ nas masmorras",
+      "destaque": "MQ",
+      "texto": [
+        "Entradas como HasMQ e NewGameMQ foram achadas por MrCheeze, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Como seria",
+      "titulo": "Liberado por DLC",
+      "destaque": "DLC",
+      "texto": [
+        "OatmealDome diz que o modo exige DLC e não só uma atualização, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "O modo",
+      "titulo": "Mundo espelhado",
+      "destaque": "espelhado",
+      "texto": [
+        "Ele também afirma que o mundo está espelhado e que as masmorras foram modificadas."
+      ]
+    },
+    {
+      "rotulo": "Oficial?",
+      "titulo": "Nintendo não confirmou",
+      "destaque": "não confirmou",
+      "texto": [
+        "Não há DLC anunciado, nem data ou preço, segundo a Eurogamer e o Olhar Digital."
+      ]
+    }
+  ],
+  "final": "Você jogaria o Master Quest no remake?",
+  "legenda": {
+    "gancho": "O Master Quest pode estar a caminho do remake de Zelda: Ocarina of Time, mas a Nintendo não confirmou nada.",
+    "corpo": [
+      "Segundo a Eurogamer, dataminers acharam nos arquivos referências ao modo, que seria liberado por DLC, com mundo espelhado e masmorras modificadas. Os dados estão incompletos.",
+      "Não há DLC anunciado, nem data ou preço, de acordo com a Eurogamer e o Olhar Digital."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#zelda",
+      "#ocarinaoftime",
+      "#nintendoswitch2"
+    ]
+  },
+  "alt": [
+    "Slide 1: Master Quest pode chegar ao remake de Zelda",
+    "Slide 2: Siglas MQ nas masmorras",
+    "Slide 3: Liberado por DLC",
+    "Slide 4: Mundo espelhado",
+    "Slide 5: Nintendo não confirmou",
+    "Slide 6: Você jogaria o Master Quest no remake?"
+  ],
+  "status": "pronto"
+}
