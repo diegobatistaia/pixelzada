@@ -40,15 +40,15 @@ jobs:
 
       - name: Abrir o ramo painel-dados
         run: |
+          mkdir painel-dados && cd painel-dados
+          git init -q -b painel-dados
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
-          if git fetch --depth 1 origin painel-dados; then
-            git worktree add painel-dados FETCH_HEAD
-            git -C painel-dados checkout -B painel-dados
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth 1 origin painel-dados; then
+            git reset -q --hard FETCH_HEAD
           else
-            git worktree add --detach painel-dados
-            git -C painel-dados checkout --orphan painel-dados
-            git -C painel-dados rm -rq .
+            echo "Ramo painel-dados ainda não existe; nasce nesta rodada."
           fi
 
       - name: Montar o estado
