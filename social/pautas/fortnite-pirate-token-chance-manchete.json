@@ -1,0 +1,76 @@
+{
+  "slug": "fortnite-pirate-token-chance-manchete",
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Fortnite",
+  "gta6": false,
+  "materia": "fortnite-pirate-token-chance-137500-epic-revela",
+  "criado": "2026-11-09T09:55:00-03:00",
+  "imagem": {
+    "url": "https://assets-prd.ignimgs.com/2026/11/08/fortnite-pirate-token-treasure-1794118797500.png",
+    "credito": "IGN",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN e VGC",
+  "capa": {
+    "titulo": "Fortnite revela a chance do Pirate Token",
+    "destaque": "Pirate Token",
+    "apoio": "A conta não é nada animadora. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Chance",
+      "titulo": "1 em 137.500",
+      "destaque": "137.500",
+      "texto": [
+        "É a chance de achar o Pirate Shop Access na maior parte do dia, segundo o VGC e a IGN."
+      ]
+    },
+    {
+      "rotulo": "Prêmio",
+      "titulo": "Loja grátis por 14 dias",
+      "destaque": "grátis",
+      "texto": [
+        "Todo item da loja que custa V-Bucks fica gratuito após a ativação, segundo a IGN e o VGC."
+      ]
+    },
+    {
+      "rotulo": "Treasure Hours",
+      "titulo": "Chance sobe nas horas especiais",
+      "destaque": "horas especiais",
+      "texto": [
+        "O VGC diz que a taxa sobe 1,5x e, em uma ocasião recente, chegou a 2x."
+      ]
+    },
+    {
+      "rotulo": "Igualdade",
+      "titulo": "Mesma chance para todos",
+      "destaque": "Mesma chance",
+      "texto": [
+        "A taxa não muda conforme o jogador, segundo o VGC."
+      ]
+    }
+  ],
+  "final": "Você tentaria a sorte nos baús?",
+  "legenda": {
+    "gancho": "A Epic revelou a chance de achar o Pirate Token do Fortnite: 1 em 137.500 na maior parte do dia.",
+    "corpo": [
+      "O item libera a loja inteira de graça por 14 dias, segundo a IGN e o VGC. Nas Treasure Hours a taxa sobe, e a Epic diz que a chance é igual para todos os jogadores, sem vantagem para quem é novo ou voltou ao jogo."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#fortnite",
+      "#epicgames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Fortnite revela a chance do Pirate Token",
+    "Slide 2: 1 em 137.500",
+    "Slide 3: Loja grátis por 14 dias",
+    "Slide 4: Chance sobe nas horas especiais",
+    "Slide 5: Mesma chance para todos",
+    "Slide 6: Você tentaria a sorte nos baús?"
+  ],
+  "status": "pronto"
+}
