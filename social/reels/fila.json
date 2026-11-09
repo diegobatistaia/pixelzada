@@ -1159,5 +1159,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "o-universo-dos-games-neetunomusic",
+    "data": "2026-11-10",
+    "horario": "11:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "neetunomusic",
+      "link": "https://www.instagram.com/reel/DfCa_4mtIOV/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
