@@ -1570,5 +1570,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-sagamesbr",
+    "data": "2026-11-11",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sagamesbr",
+      "link": "https://www.instagram.com/reel/DdUecBwRsDq/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
