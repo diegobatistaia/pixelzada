@@ -1175,5 +1175,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-thur7-ttk",
+    "data": "2026-11-10",
+    "horario": "12:30",
+    "status": "agendado",
+    "estilo": "Legenda",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "thur7.ttk",
+      "link": "https://www.instagram.com/reel/DcKE-GghYQ4/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
