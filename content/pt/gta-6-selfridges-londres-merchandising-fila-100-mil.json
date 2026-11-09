@@ -125,7 +125,9 @@
     "query": "GTA 6 Selfridges Londres",
     "alt": "Fachada da Selfridges, em Londres, com a ativação temática de GTA 6",
     "url": "https://insider-gaming.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-093312-1024x585.png",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/gta-6-selfridges-londres-merchandising-f-1a918252.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -141,5 +143,7 @@
       "title": "Selfridges GTA 6 merchandise includes a £2,500 jacket; some items reportedly already sold out online"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-09T10:44:00+00:00",
+  "updated_at": "2026-11-09T10:44:00+00:00"
 }
