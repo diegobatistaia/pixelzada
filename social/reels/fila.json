@@ -1126,7 +1126,7 @@
     "slug": "homem-aranha-chegar-em-casa",
     "data": "2026-11-09",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Plantão",
     "legenda": "Homem-Aranha: talvez eu chegue em casa 🕷️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#homemaranha #spiderman #memes #games #pixelzada",
     "tentativas": 0,
@@ -1136,6 +1136,11 @@
       "link": "https://www.instagram.com/reel/DemSBRKNyYq/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-09T19:59:37-03:00",
+      "media_id": "18083391491347905",
+      "permalink": "https://www.instagram.com/reel/Dfide8KGRDE/"
     }
   },
   {

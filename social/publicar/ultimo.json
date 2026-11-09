@@ -1,27 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "gta-6-assaltos-cofre-passo-a-passo",
-    "horario": "19:00",
-    "data": "2026-11-09",
-    "estilo": "missao",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg",
-      "06.jpg"
-    ],
-    "story": "story.jpg"
+    "acao": "reel",
+    "slug": "homem-aranha-chegar-em-casa",
+    "pasta": "reel-homem-aranha-chegar-em-casa",
+    "horario": "20:00",
+    "data": "2026-11-09"
   },
-  "em": "2026-11-09T19:00:04-03:00",
+  "em": "2026-11-09T19:59:37-03:00",
   "ok": true,
-  "media_id": "18130094602883479",
-  "permalink": "https://www.instagram.com/p/DfiWtq-Hc0h/",
-  "story": {
-    "em": "2026-11-09T19:08:07-03:00",
-    "media_id": "17965701924228586"
-  },
+  "media_id": "18083391491347905",
+  "permalink": "https://www.instagram.com/reel/Dfide8KGRDE/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
