@@ -73,7 +73,7 @@ def horarios_livres(fila: list[dict], agora: datetime | None = None, dias: int =
     livres = []
     for d in range(dias):
         dia = (agora + timedelta(days=d)).date().isoformat()
-        for h in R.HORARIOS:
+        for h in R.horarios(dia):
             t = datetime.fromisoformat(f"{dia}T{h}:00").replace(tzinfo=TZ)
             if t > agora + FOLGA and (dia, h) not in ocupados:
                 livres.append((dia, h))

@@ -20,7 +20,7 @@ import argparse
 import json
 import shutil
 import sys
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 
 from . import instagram as IG, pauta as P
 
@@ -29,11 +29,33 @@ FILA = PASTA / "fila.json"
 PEDIDO = P.SAIDA / "pedido-reel.json"
 # Horários fixos (Brasília): 6 por dia nas horas pares, entre os carrosséis
 # (9h, 11h, 13h, 15h, 17h, 19h e 21h).
-HORARIOS = ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
+HORARIOS = ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]  # grade antiga (até 09/11)
+
+# Aquecimento para o GTA 6 (Diego, 09/11): 15 Reels/dia de 10 a 15/11 (de hora em
+# hora, sempre no "e meia", longe dos carrosséis das horas cheias) e 25/dia a partir
+# de 16/11 (de 30 em 30 minutos, no :15 e no :45).
+GRADE_15 = [f"{h:02d}:30" for h in range(8, 23)]                                   # 08:30 .. 22:30
+GRADE_25 = [f"{9 + i // 2:02d}:{15 if i % 2 == 0 else 45}" for i in range(25)]     # 09:15 .. 21:15
+
+
+def horarios(dia: date | str) -> list[str]:
+    dia = date.fromisoformat(dia) if isinstance(dia, str) else dia
+    if dia >= date(2026, 11, 16):
+        return GRADE_25
+    if dia >= date(2026, 11, 10):
+        return GRADE_15
+    return HORARIOS
+
+
 POR_DIA = len(HORARIOS)
 # Mesma janela dos carrosséis (1h50): o GitHub atrasa os agendamentos, e a
 # janela fecha antes do Reel seguinte.
 ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)
+# Com 15 a 25 Reels por dia o GitHub atrasa mais que o intervalo entre eles. Então a
+# fila anda em ordem: cada rodada (de 10 em 10 min) publica o Reel agendado mais antigo
+# que já passou da hora, desde que o último tenha saído há pelo menos INTERVALO_MIN.
+INTERVALO_MIN = timedelta(minutes=20)
+ATRASO_MAX = timedelta(hours=6)   # passou disso sem sair: vai para o próximo horário livre
 TENTATIVAS = 3
 
 
@@ -54,11 +76,11 @@ def quando(item: dict) -> datetime:
 def reagendar(fila: list[dict], t: datetime) -> list[str]:
     """Reel cuja janela passou sem sair vai para o próximo horário livre (nunca se perde)."""
     avisos = []
-    for item in [i for i in fila if i["status"] == "agendado" and t > quando(i) + DEPOIS]:
+    for item in [i for i in fila if i["status"] == "agendado" and t > quando(i) + ATRASO_MAX]:
         ocupados = {(i["data"], i["horario"]) for i in fila if i is not item and i["status"] in ("agendado", "publicado")}
         dia = t.date()
         while True:
-            livre = next((h for h in HORARIOS if (dia.isoformat(), h) not in ocupados
+            livre = next((h for h in horarios(dia) if (dia.isoformat(), h) not in ocupados
                           and datetime.fromisoformat(f"{dia.isoformat()}T{h}:00").replace(tzinfo=P.TZ) > t), None)
             if livre:
                 break
@@ -73,8 +95,14 @@ def escolher(t: datetime | None = None, fila: list[dict] | None = None) -> dict 
     t = t or IG.agora()
     fila = fila if fila is not None else carregar()
     abertos = [i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS
-               and quando(i) - ANTES <= t <= quando(i) + DEPOIS]
-    return max(abertos, key=quando) if abertos else None  # só o horário mais recente que já abriu
+               and quando(i) - ANTES <= t <= quando(i) + ATRASO_MAX]
+    if not abertos:
+        return None
+    ultimos = [datetime.fromisoformat(i["publicado"]["em"]) for i in fila
+               if i.get("status") == "publicado" and (i.get("publicado") or {}).get("em")]
+    if ultimos and t - max(ultimos) < INTERVALO_MIN:
+        return None  # saiu um há pouco; o próximo espera a rodada seguinte
+    return min(abertos, key=quando)  # o mais antigo primeiro: a fila anda em ordem
 
 
 def pasta_saida(item: dict):
@@ -179,8 +207,8 @@ def cmd_check(args) -> int:
         for k in ("slug", "data", "horario", "legenda", "status"):
             if not i.get(k):
                 erros.append(f"{i.get('slug', '?')}: falta {k}")
-        if i.get("status") != "publicado" and i.get("horario") not in HORARIOS:  # os já publicados ficam na grade antiga
-            erros.append(f"{i['slug']}: horário {i.get('horario')} não é um dos {HORARIOS}")
+        if i.get("status") != "publicado" and i.get("horario") not in horarios(i["data"]):  # publicados ficam como saíram
+            erros.append(f"{i['slug']}: horário {i.get('horario')} não é da grade de {i['data']}")
         if (i["data"], i["horario"]) in vistos:
             erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")
         vistos.add((i["data"], i["horario"]))

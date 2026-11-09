@@ -24,7 +24,7 @@ horarios: ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
 # vazios (scripts/social/montagem.py monta e agenda). Os números que o Diego
 # escolher continuam valendo e entram antes.
 automatico:
-  max_por_rodada: 12
+  max_por_rodada: 30
 
 # Vídeo sem arquivo pela API oficial: o robô tenta o yt-dlp (grátis, sem login).
 
@@ -42,7 +42,7 @@ reserva_minimo: 0.6
 coletas: ["06:00"]
 
 lancamento:
-  desde: "2026-11-19"             # GTA 6
+  desde: "2026-11-09"             # aquecimento para o GTA 6 (Diego, 09/11: 15 Reels/dia, 25 desde 16/11)
   coletas: ["06:00", "11:00", "15:00", "19:00"]
   janela_horas: 48
   lista_tamanho: 40
@@ -71,6 +71,8 @@ temas:
 # Lista inicial tirada da estratégia de Instagram (17/10); o teste mostra quais
 # a API enxerga (só perfis profissionais) e os que falharem saem.
 concorrentes:
+  - {perfil: sougamergeek, tema: gta6}      # links do Diego (09/11)
+  - {perfil: gta6clube, tema: gta6}
   - {perfil: gtacommunity, tema: gta6}
   - {perfil: houseofgta6, tema: gta6}
   - {perfil: grandtheftauto6, tema: gta6}
