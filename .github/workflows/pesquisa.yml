@@ -37,7 +37,7 @@ on:
         description: "baixar: números da lista (ex.: 1,4,7)"
         required: false
       link:
-        description: "link: endereço do Reel que o Diego mandou"
+        description: "link: endereço do Reel que o Diego mandou (pode ser vários, separados por espaço)"
         required: false
 
 permissions:
