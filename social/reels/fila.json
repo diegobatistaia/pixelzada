@@ -1111,5 +1111,21 @@
       "titulo": "padrao",
       "revisado": false
     }
+  },
+  {
+    "slug": "gta-6-sougamergeek",
+    "data": "2026-11-10",
+    "horario": "10:00",
+    "status": "agendado",
+    "estilo": "Legenda",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/De4g4rrxdVw/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
