@@ -1161,19 +1161,19 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-neetunomusic",
+    "slug": "orquestra-gta-san-andreas",
     "data": "2026-11-10",
     "horario": "11:30",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Orquestra russa tocando a abertura de GTA San Andreas 🎻 Bateu a nostalgia?\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #gta #nostalgia #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "neetunomusic",
       "link": "https://www.instagram.com/reel/DfCa_4mtIOV/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     }
   }
 ]
