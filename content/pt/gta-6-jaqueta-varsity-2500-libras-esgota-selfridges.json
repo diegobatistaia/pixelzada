@@ -17,7 +17,10 @@
     "query": "GTA 6 Selfridges",
     "alt": "Loja da Selfridges, em Londres, com a ativação temática de GTA 6",
     "url": "https://assetsio.gnwcdn.com/shop-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/gta-6-jaqueta-varsity-2500-libras-esgota-4b17cd30.jpg",
+    "source_url": "",
+    "foco": "70% 26%"
   },
   "sources": [
     {
@@ -33,7 +36,7 @@
       "title": "GTA 6 jacket sold out"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -141,5 +144,7 @@
       "items": []
     }
   ],
-  "meta_description": "A jaqueta varsity de GTA 6 da Selfridges, de £ 2.500, esgotou. Veja as linhas da coleção, o carro da vitrine e o que as fontes dizem sobre os estoques."
+  "meta_description": "A jaqueta varsity de GTA 6 da Selfridges, de £ 2.500, esgotou. Veja as linhas da coleção, o carro da vitrine e o que as fontes dizem sobre os estoques.",
+  "published_at": "2026-11-09T22:40:35+00:00",
+  "updated_at": "2026-11-09T22:40:35+00:00"
 }

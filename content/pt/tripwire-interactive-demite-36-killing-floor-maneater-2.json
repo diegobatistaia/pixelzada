@@ -17,7 +17,9 @@
     "query": "Tripwire Interactive Killing Floor 3",
     "alt": "Arte de Killing Floor 3, da Tripwire Interactive",
     "url": "https://assetsio.gnwcdn.com/killing-floor-3_WcgSJ7n.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/tripwire-interactive-demite-36-killing-f-04779056.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -39,7 +41,7 @@
       "title": "A week after expanding its publishing division, Killing Floor studio Tripwire Interactive lays off 36 people"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -137,5 +139,7 @@
       "items": []
     }
   ],
-  "meta_description": "A Tripwire Interactive, de Killing Floor e Maneater, demitiu 36 pessoas, a segunda rodada do ano. Veja o que o estúdio disse e o impacto em Maneater 2."
+  "meta_description": "A Tripwire Interactive, de Killing Floor e Maneater, demitiu 36 pessoas, a segunda rodada do ano. Veja o que o estúdio disse e o impacto em Maneater 2.",
+  "published_at": "2026-11-09T22:40:35+00:00",
+  "updated_at": "2026-11-09T22:40:35+00:00"
 }
