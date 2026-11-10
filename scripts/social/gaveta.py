@@ -33,7 +33,7 @@ LIMITE_BAIXA = POR_DIA * 2
 
 
 GRADE_TXT = ("Aquecimento para o GTA 6: de 10 a 15/11 são 15 Reels por dia, de hora em hora (7h às 21h); "
-             "a partir de 16/11, 20 por dia, de 50 em 50 minutos (7h às 22h50). Janela de 7h às 23h (Diego, 10/11).")
+             "a partir de 16/11, 17 por dia, de hora em hora (7h às 23h). Janela de 7h às 23h (Diego, 10/11).")
 
 
 def _h(txt: str) -> str:
