@@ -1168,7 +1168,7 @@
     "slug": "gta6-times-square",
     "data": "2026-11-10",
     "horario": "09:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "GTA 6 toma a Times Square em Nova York 🗽\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #timessquare #rockstargames #pixelzada",
     "tentativas": 0,
@@ -1178,6 +1178,11 @@
       "link": "https://www.instagram.com/reel/Dfe1T2yAkRK/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T13:05:45-03:00",
+      "media_id": "18140994613715196",
+      "permalink": "https://www.instagram.com/reel/DfkS9QcEyWf/"
     }
   },
   {
