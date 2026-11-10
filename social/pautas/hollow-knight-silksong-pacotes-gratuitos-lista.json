@@ -74,5 +74,13 @@
     "Slide 5: Chega em 10 de novembro",
     "Slide 6: Qual pacote você quer ver primeiro?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-10",
+    "horario": "09:00",
+    "em": "2026-11-10T09:04:08-03:00",
+    "estilo": "carregando",
+    "media_id": "17998153191109956",
+    "permalink": "https://www.instagram.com/p/Dfj3S31leSJ/"
+  }
 }
