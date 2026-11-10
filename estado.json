@@ -7,36 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-09T19:22-03:00",
+ "atualizado": "2026-11-10T01:38-03:00",
  "hoje": {
-  "data": "2026-11-09",
+  "data": "2026-11-10",
   "reels": {
-   "meta": 6,
-   "publicados": 5,
-   "deviam_ter_saido": 5,
+   "meta": 15,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
-   "publicados": 6,
-   "deviam_ter_saido": 5,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
-   "pautas_esperando": 1
+   "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 37,
+  "agendados": 43,
   "meta_por_dia": 15,
-  "dias_de_reserva": 2.5,
+  "dias_de_reserva": 2.9,
   "grade_cheia_ate": "2026-11-11",
-  "sem_revisao": 0,
+  "sem_revisao": 3,
   "por_dia": [
-   {
-    "data": "2026-11-09",
-    "agendados": 1,
-    "meta": 6
-   },
    {
     "data": "2026-11-10",
     "agendados": 15,
@@ -49,81 +44,81 @@
    },
    {
     "data": "2026-11-12",
-    "agendados": 6,
+    "agendados": 13,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 165,
-  "hoje": 6,
+  "total": 169,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Remake de Zelda: Ocarina of Time pode ganhar Master Quest em DLC, indica datamine",
-   "url": "https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-master-quest-datamine-dlc/",
-   "em": "2026-11-09T17:40:33-03:00"
+   "titulo": "Hollow Knight: Silksong terá pacotes gratuitos, diz manual da edição física",
+   "url": "https://pixelzada.com.br/pt/hollow-knight-silksong-edicao-fisica-pacotes-gratuitos-sea-of-sorrow/",
+   "em": "2026-11-09T21:41:57-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "09/11/2026 15:42",
+  "ultima_coleta": "09/11/2026 19:47",
   "perfis_lidos": 35,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 22,
+  "seguidores": 36,
   "seguindo": 5,
-  "posts": 215,
-  "alcance_7d": 16013,
-  "views_7d": 21512,
+  "posts": 217,
+  "alcance_7d": 24596,
+  "views_7d": 32635,
   "reels_7d": {
-   "quantidade": 16,
-   "views_total": 22310,
-   "views_mediana": 181,
+   "quantidade": 17,
+   "views_total": 32855,
+   "views_mediana": 190,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-09": 1018,
-    "2026-11-08": 19729,
-    "2026-11-04": 551,
-    "2026-11-03": 1012
+    "2026-11-09": 1396,
+    "2026-11-08": 29860,
+    "2026-11-04": 574,
+    "2026-11-03": 1025
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 19502,
-     "alcance": 13830,
-     "curtidas": 567,
+     "views": 29627,
+     "alcance": 21957,
+     "curtidas": 832,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
-     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
-     "views": 298,
-     "alcance": 184,
-     "curtidas": 2,
-     "link": "https://www.instagram.com/reel/DfhawTADKHY/",
-     "em": "2026-11-09T10:17:06-03:00"
-    },
-    {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 228,
-     "alcance": 173,
-     "curtidas": 7,
+     "views": 364,
+     "alcance": 294,
+     "curtidas": 10,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
     },
     {
+     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
+     "views": 308,
+     "alcance": 189,
+     "curtidas": 3,
+     "link": "https://www.instagram.com/reel/DfhawTADKHY/",
+     "em": "2026-11-09T10:17:06-03:00"
+    },
+    {
      "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
-     "views": 227,
-     "alcance": 157,
+     "views": 233,
+     "alcance": 161,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
      "em": "2026-11-08T18:01:04-03:00"
     },
     {
      "legenda": "Eu indo pra casa no dia 19 de novembro pra jogar GTA 6 🏎️",
-     "views": 210,
-     "alcance": 173,
+     "views": 220,
+     "alcance": 178,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DfiCe19Enl0/",
      "em": "2026-11-09T16:04:13-03:00"
@@ -132,64 +127,25 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 84,
-  "falhas_24h": 7,
+  "rodadas_24h": 67,
+  "falhas_24h": 2,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-09T19:49:11-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42715234209",
+    "resolvido": true
+   },
    {
     "workflow": "Reels",
     "em": "2026-11-09T10:11:33-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42623299772",
     "resolvido": true
-   },
-   {
-    "workflow": "Painel",
-    "em": "2026-11-08T23:19:36-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42550303483",
-    "resolvido": true
-   },
-   {
-    "workflow": "Deploy",
-    "em": "2026-11-08T22:49:58-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42547618453",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-08T22:38:33-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42546637089",
-    "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-08T21:39:44-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42541394522",
-    "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-08T21:39:35-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42541381267",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-08T21:31:13-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42540627158",
-    "resolvido": true
    }
   ]
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-03",
-   "reels": 6,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 9,
-   "views_reels": 1012
-  },
   {
    "data": "2026-11-04",
    "reels": 3,
@@ -197,7 +153,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 551
+   "views_reels": 574
   },
   {
    "data": "2026-11-05",
@@ -233,16 +189,25 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 19729
+   "views_reels": 29860
   },
   {
    "data": "2026-11-09",
-   "reels": 5,
+   "reels": 6,
    "reels_meta": 6,
-   "carrosseis": 6,
+   "carrosseis": 7,
    "carrosseis_meta": 7,
-   "materias": 6,
-   "views_reels": 1018
+   "materias": 10,
+   "views_reels": 1396
+  },
+  {
+   "data": "2026-11-10",
+   "reels": 0,
+   "reels_meta": 15,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -253,6 +218,10 @@
   {
    "data": "2026-11-09",
    "seguidores": 22
+  },
+  {
+   "data": "2026-11-10",
+   "seguidores": 36
   }
  ],
  "alertas": []
