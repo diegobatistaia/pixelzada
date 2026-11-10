@@ -135,7 +135,10 @@
     "query": "GTA 6 Leonida",
     "alt": "Arte oficial de Leonida, o estado de GTA VI, do site oficial do jogo",
     "url": "https://www.rockstargames.com/VI/_next/static/media/outro.0e9ko9mexi~1m.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-game-informer-capa-welcome-to-leon-382eabe4.jpg",
+    "source_url": "",
+    "foco": "40% 40%"
   },
   "sources": [
     {
@@ -205,5 +208,7 @@
       "title": "GTA 6 verzichtet offenbar auf einige der berühmtesten Orte Floridas"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-10T12:41:06+00:00",
+  "updated_at": "2026-11-10T12:41:06+00:00"
 }

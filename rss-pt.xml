@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 10:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:41:07 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>O que a capa da Game Informer revelou sobre GTA 6 e Leonida</title>
+      <link>https://pixelzada.com.br/pt/gta-6-game-informer-capa-welcome-to-leonida-o-que-revelou/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-game-informer-capa-welcome-to-leonida-o-que-revelou/</guid>
+      <description>A reportagem de capa da Game Informer sobre GTA 6 mostrou o norte rural de Leonida, a pesquisa na Flórida real, moradores e atividades. Veja o que há de novo.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 10 Nov 2026 12:41:06 +0000</pubDate>
+    </item>
     <item>
       <title>Take-Two: pré-vendas de GTA 6 superam o esperado; reservas do trimestre caem 18%</title>
       <link>https://pixelzada.com.br/pt/take-two-balanco-q2-gta-6-pre-vendas-acima-do-esperado/</link>
@@ -238,14 +246,6 @@
       <description>Meg's Monster, RPG em pixel art da Odencat, chega ao PS5 em 1º de março de 2027. Veja a história, a jogabilidade e a edição completa com Lost Memories.</description>
       <category>Lançamentos</category>
       <pubDate>Fri, 06 Nov 2026 14:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quanto espaço GTA 6 ocupa e como preparar o PS5 e o Xbox</title>
-      <link>https://pixelzada.com.br/pt/quanto-espaco-gta-6-vai-ocupar-como-preparar-ps5-xbox-series/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/quanto-espaco-gta-6-vai-ocupar-como-preparar-ps5-xbox-series/</guid>
-      <description>GTA 6 pede 212 GB livres para o pré-carregamento, que começa em 10 de novembro. Veja quanto espaço o PS5 e o Xbox Series têm e como preparar o console.</description>
-      <category>Guias</category>
-      <pubDate>Fri, 06 Nov 2026 12:40:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
