@@ -1147,7 +1147,7 @@
     "slug": "quando-gta6-lancar",
     "data": "2026-11-10",
     "horario": "08:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "O que vai acontecer quando o GTA 6 lançar 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #fortnite #memesgamer #pixelzada",
     "tentativas": 0,
@@ -1157,6 +1157,11 @@
       "link": "https://www.instagram.com/reel/De4g4rrxdVw/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T09:10:27-03:00",
+      "media_id": "18023557469929587",
+      "permalink": "https://www.instagram.com/reel/Dfj3_g2An2t/"
     }
   },
   {
