@@ -17,7 +17,9 @@
     "query": "Hollow Knight Silksong Sea of Sorrow",
     "alt": "Arte da expansão Sea of Sorrow, de Hollow Knight: Silksong",
     "url": "https://assetsio.gnwcdn.com/silksong-sea-of-sorrows.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/hollow-knight-silksong-edicao-fisica-pac-73f6ab52.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -39,7 +41,7 @@
       "title": "Hollow Knight Silksong players jump at word of multiple free content packs"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -141,5 +143,7 @@
       "items": []
     }
   ],
-  "meta_description": "O manual da edição física de Hollow Knight: Silksong cita vários pacotes de conteúdo gratuitos e a Sea of Sorrow, sem data. Veja o que diz e o que falta saber."
+  "meta_description": "O manual da edição física de Hollow Knight: Silksong cita vários pacotes de conteúdo gratuitos e a Sea of Sorrow, sem data. Veja o que diz e o que falta saber.",
+  "published_at": "2026-11-10T00:41:57+00:00",
+  "updated_at": "2026-11-10T00:41:57+00:00"
 }

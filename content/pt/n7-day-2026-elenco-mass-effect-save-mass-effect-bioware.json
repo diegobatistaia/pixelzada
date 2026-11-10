@@ -17,7 +17,10 @@
     "query": "Mass Effect N7 Day",
     "alt": "Arte de Mass Effect usada pelo Kotaku na cobertura do N7 Day",
     "url": "https://kotaku.com/app/uploads/2024/03/ab7be0140108d75dfb05d247751184ee-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/n7-day-2026-elenco-mass-effect-save-mass-d8b80c6b.jpg",
+    "source_url": "",
+    "foco": "76% 24%"
   },
   "sources": [
     {
@@ -33,7 +36,7 @@
       "title": "Mass Effect cast Save BioWare N7 Day"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -140,5 +143,7 @@
       "items": []
     }
   ],
-  "meta_description": "No primeiro N7 Day sem a BioWare, o elenco de Mass Effect gravou um vídeo, fãs espalharam outdoors e políticos do Canadá apoiaram a campanha. Veja o caso."
+  "meta_description": "No primeiro N7 Day sem a BioWare, o elenco de Mass Effect gravou um vídeo, fãs espalharam outdoors e políticos do Canadá apoiaram a campanha. Veja o caso.",
+  "published_at": "2026-11-10T00:41:57+00:00",
+  "updated_at": "2026-11-10T00:41:57+00:00"
 }
