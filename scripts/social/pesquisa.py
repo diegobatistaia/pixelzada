@@ -68,6 +68,20 @@ def carregar_config(caminho: Path, hoje: date | None = None) -> dict:
                 cfg[chave] = lanc[chave]
         for tema, peso in (lanc.get("pesos") or {}).items():
             cfg["temas"][tema]["peso"] = peso
+    # Pico do lançamento (Diego, 10/11): de 18 a 22/11 a coleta roda de 30 em 30 min,
+    # olhando só as últimas horas, para a cena nova do jogo virar Reel rápido.
+    pico = cfg.get("pico") or {}
+    cfg["em_pico"] = bool(pico.get("de")) and \
+        date.fromisoformat(str(pico["de"])) <= hoje <= date.fromisoformat(str(pico["ate"]))
+    if cfg["em_pico"]:
+        cfg["coletas"] = [f"{h:02d}:{m:02d}" for h in range(24) for m in (0, 30)]
+        for chave in ("janela_horas", "lista_tamanho"):
+            if chave in pico:
+                cfg[chave] = pico[chave]
+        for tema, peso in (pico.get("pesos") or {}).items():
+            cfg["temas"][tema]["peso"] = peso
+        if "max_por_rodada" in pico:
+            cfg.setdefault("automatico", {})["max_por_rodada"] = pico["max_por_rodada"]
     cfg["_pasta"] = ROOT / cfg.get("pasta", "social/pesquisa")
     cfg["_entrada"] = ROOT / cfg.get("entrada", "social/reels/entrada")
     return cfg
