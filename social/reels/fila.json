@@ -1357,7 +1357,7 @@
     "slug": "lucia-gta6-tela-cheia",
     "data": "2026-11-10",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Tela cheia (só @pixelzada.br)",
     "legenda": "Lucia de GTA 6. WTF, Rockstar 😍🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #lucia #rockstargames #pixelzada",
     "tentativas": 0,
@@ -1368,6 +1368,11 @@
       "titulo": "claude",
       "revisado": true,
       "pedido": "Diego 10/11: igual ao original, tela cheia, só o @"
+    },
+    "publicado": {
+      "em": "2026-11-10T19:01:17-03:00",
+      "media_id": "18219189763359697",
+      "permalink": "https://www.instagram.com/reel/Dfk7mWPk4v_/"
     }
   },
   {

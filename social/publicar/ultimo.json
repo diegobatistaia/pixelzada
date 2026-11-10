@@ -1,78 +1,14 @@
 {
   "pedido": {
-    "acao": "conferir"
+    "acao": "reel",
+    "slug": "lucia-gta6-tela-cheia",
+    "pasta": "reel-lucia-gta6-tela-cheia",
+    "horario": "19:00",
+    "data": "2026-11-10"
   },
-  "em": "2026-11-10T18:43:58-03:00",
+  "em": "2026-11-10T19:01:17-03:00",
   "ok": true,
-  "ultimos": [
-    {
-      "quando": "2026-11-10T21:00:55+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/Dfk0oMnHNC1/",
-      "inicio": "Novo trailer da Rockstar: o download antecipado de GTA 6 já está liberado 🔥"
-    },
-    {
-      "quando": "2026-11-10T20:01:05+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/Dfktx5qFPDP/",
-      "inicio": "Eu tentando esquecer o lançamento de GTA 6. Ligo o som do carro: 😭"
-    },
-    {
-      "quando": "2026-11-10T19:13:25+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DfkoU-LiuCS/",
-      "inicio": "O marketing de GTA 6 tomou o mundo: prédios na França ganharam anúncios gigantes do jogo 🇫"
-    },
-    {
-      "quando": "2026-11-10T18:47:55+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DfklabOE64K/",
-      "inicio": "Nenhum gráfico moderno consegue reproduzir a sensação que esse som causava 🏁"
-    },
-    {
-      "quando": "2026-11-10T17:59:10+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/Dfkf1IjEYqv/",
-      "inicio": "Ele não aguentou meu bom dia, senhor policial 🚔😂"
-    },
-    {
-      "quando": "2026-11-10T17:15:30+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DfkazCNmRfD/",
-      "inicio": "GTA 6: o maior lançamento da história dos videogames 💀"
-    },
-    {
-      "quando": "2026-11-10T16:49:45+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DfkX4h7kbRK/",
-      "inicio": "Orquestra russa tocando a abertura de GTA San Andreas 🎻 Bateu a nostalgia?"
-    },
-    {
-      "quando": "2026-11-10T16:29:06+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DfkVijJgECi/",
-      "inicio": "Sensação de ter GTA 6 na sua conta e não poder jogar 😭"
-    },
-    {
-      "quando": "2026-11-10T16:06:40+0000",
-      "tipo": "VIDEO",
-      "link": "https://www.instagram.com/reel/DfkS9QcEyWf/",
-      "inicio": "GTA 6 toma a Times Square em Nova York 🗽"
-    },
-    {
-      "quando": "2026-11-10T16:04:17+0000",
-      "tipo": "CAROUSEL_ALBUM",
-      "link": "https://www.instagram.com/p/DfkSuCfkb2C/",
-      "inicio": "O primeiro N7 Day sem a BioWare virou campanha para salvar Mass Effect."
-    }
-  ],
-  "cota": [
-    {
-      "quota_usage": 18,
-      "config": {
-        "quota_total": 100,
-        "quota_duration": 86400
-      }
-    }
-  ]
+  "media_id": "18219189763359697",
+  "permalink": "https://www.instagram.com/reel/Dfk7mWPk4v_/",
+  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
