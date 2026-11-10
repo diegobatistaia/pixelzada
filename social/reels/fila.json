@@ -2117,5 +2117,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-tntsportsbr",
+    "data": "2026-11-14",
+    "horario": "07:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "tntsportsbr",
+      "link": "https://www.instagram.com/reel/Dfj7mnHDfMM/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
