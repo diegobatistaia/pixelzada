@@ -2042,5 +2042,69 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "o-universo-dos-games-gamespot",
+    "data": "2026-11-13",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/Dfidjf1Aax8/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-sougamergeek",
+    "data": "2026-11-13",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfj6epHPQa8/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-grandtheftauto6",
+    "data": "2026-11-13",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Faixa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/DfkGffph-z-/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-houseofgta6",
+    "data": "2026-11-13",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Missão",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "houseofgta6",
+      "link": "https://www.instagram.com/reel/DfkOLqwtocN/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
