@@ -73,5 +73,13 @@
     "Slide 5: De 40 a 50 ficam",
     "Slide 6: Maneater 2 continua no seu radar?"
   ],
-  "status": "pronto"
+  "status": "publicado",
+  "publicado": {
+    "data": "2026-11-10",
+    "horario": "17:00",
+    "em": "2026-11-10T17:29:00-03:00",
+    "estilo": "reprodutor",
+    "media_id": "18108224783248985",
+    "permalink": "https://www.instagram.com/p/DfkxGzIn7fU/"
+  }
 }
