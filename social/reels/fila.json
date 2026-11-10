@@ -2090,5 +2090,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "o-universo-dos-games-for4gamers",
+    "data": "2026-11-13",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "for4gamers",
+      "link": "https://www.instagram.com/reel/Dfkb6QBzNTl/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
