@@ -99,6 +99,8 @@ Recebe a legenda original de um vídeo de outro perfil (pode estar em inglês) e
 Regras do título:
 - português do Brasil, tom solto de meme, no máximo 90 caracteres;
 - diga o que acontece no vídeo usando SÓ o que a legenda diz; nada de inventar fato, número ou piada que não está lá;
+- prefira o molde de meme de identificação, que é o que mais viraliza no perfil: "Eu quando...",
+  "Eu indo...", "Como vou me sentir...", "Quando [personagem] não dá mais dinheiro..." (sem inventar o que não está no vídeo);
 - se a legenda não diz nada útil, escreva algo simples e verdadeiro sobre o jogo;
 - o nome do jogo principal vai entre <em> e </em> (uma vez só); "GTA 6" escrito assim, nunca "GTA VI";
 - sem emoji, sem hashtag, sem @, sem link, sem "comenta", sem pergunta no fim, sem aspas.
@@ -224,7 +226,10 @@ def automatico(agora: datetime | None = None) -> int:
                      "legenda": legenda(texto["titulo"], texto["emoji"], tema, texto["hashtags"]),
                      "tentativas": 0,
                      "origem": {"motor": True, "perfil": info.get("perfil"), "link": info.get("link"),
-                                "titulo": texto["fonte"], "revisado": False}})
+                                "titulo": texto["fonte"], "revisado": False},
+                     # etiquetas para a análise semanal (Diego, 10/11)
+                     "etiquetas": {"formato": info.get("formato") or "outro", "tema": info.get("tema") or "games",
+                                   "jogo": info.get("jogo") or ""}})
         mp4.unlink()
         mp4.with_suffix(".json").unlink()
         print(f"  {slug}: na fila {dia} {hora}")

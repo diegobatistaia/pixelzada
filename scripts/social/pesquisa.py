@@ -154,6 +154,20 @@ def tema_de(cfg: dict, legenda: str, padrao: str) -> str:
     return padrao if padrao in cfg["temas"] else "games"
 
 
+def formato_de(cfg: dict, legenda: str) -> str:
+    """Formato do vídeo pela legenda (Diego, 10/11: meme de identificação no lugar de notícia).
+    O primeiro formato do config com palavra na legenda vence; sem nenhuma, "outro"."""
+    texto = (legenda or "").lower()
+    for chave, f in (cfg.get("formatos") or {}).items():
+        if any(w in texto for w in f.get("palavras", [])):
+            return chave
+    return "outro"
+
+
+def peso_formato(cfg: dict, formato: str) -> float:
+    return float(((cfg.get("formatos") or {}).get(formato) or {}).get("peso", 1))
+
+
 def bloqueado(cfg: dict, legenda: str) -> bool:
     """Propaganda, sorteio, venda: não vira Reel."""
     texto = (legenda or "").lower()
@@ -191,14 +205,15 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
             if bloqueado(cfg, p.get("caption", "")):
                 continue
             tema = tema_de(cfg, p.get("caption", ""), padrao.get(perf["perfil"], "games"))
+            formato = formato_de(cfg, p.get("caption", ""))
             candidatos.append({
                 "id": p["id"], "perfil": perf["perfil"], "link": p.get("permalink"),
-                "tema": tema, "jogo": cfg["temas"][tema]["nome"],
+                "tema": tema, "jogo": cfg["temas"][tema]["nome"], "formato": formato,
                 "publicado": quando.strftime("%d/%m %H:%M"),
                 "views": p.get("view_count"), "curtidas": p.get("like_count"),
                 "comentarios": p.get("comments_count"),
                 "vezes_media": round(vezes, 1), "medida": tipo,
-                "nota": round(vezes * cfg["temas"][tema]["peso"], 2),
+                "nota": round(vezes * cfg["temas"][tema]["peso"] * peso_formato(cfg, formato), 2),
                 "tem_arquivo": bool(p.get("media_url")),
                 "legenda": re.sub(r"\s+", " ", (p.get("caption") or ""))[:160],
                 "legenda_completa": re.sub(r"\s+", " ", (p.get("caption") or ""))[:700],
@@ -251,7 +266,8 @@ def escrever_lista(cfg: dict, dia: str, lista: list[dict], coleta: dict) -> Path
         sug = f" · sugestão {c['horario_sugerido']}" if c.get("horario_sugerido") else ""
         num = f"{fmt(c['views'])} views" if c["medida"] == "views" else f"{fmt(c['curtidas'])} curtidas"
         arq = "" if c["tem_arquivo"] else " · **sem arquivo pela API, baixar pelo link**"
-        linhas += [f"{c['numero']}. **{c['jogo']}** · @{c['perfil']} · {num} ({c['vezes_media']}x a média) · {c['publicado']}{sug}{arq}",
+        fmt_ = {"cotidiano": " · 🔥 estilo MK", "meme": " · meme", "noticia": " · notícia"}.get(c.get("formato"), "")
+        linhas += [f"{c['numero']}. **{c['jogo']}**{fmt_} · @{c['perfil']} · {num} ({c['vezes_media']}x a média) · {c['publicado']}{sug}{arq}",
                    f"   {c['link']}", f"   _{c['legenda']}_" if c["legenda"] else "", ""]
     if coleta.get("falhas"):
         linhas += ["", "Perfis que a API não leu (não são profissionais, mudaram de nome ou não existem):",
@@ -357,10 +373,10 @@ def baixar_um(cfg: dict, c: dict, destino: Path, token: str, ig_id: str, cache: 
             leg = re.sub(r"\s+", " ", extra["legenda"])
             c.update(legenda=leg[:160], legenda_completa=leg[:700])
             tema = tema_de(cfg, leg, c.get("tema", "games"))
-            c.update(tema=tema, jogo=cfg["temas"][tema]["nome"])
+            c.update(tema=tema, jogo=cfg["temas"][tema]["nome"], formato=formato_de(cfg, leg))
         if c.get("perfil") == "diego" and extra.get("perfil"):
             c["perfil"] = extra["perfil"]
-    info = {k: c.get(k) for k in ("numero", "perfil", "link", "jogo", "tema", "legenda", "legenda_completa", "horario_sugerido")}
+    info = {k: c.get(k) for k in ("numero", "perfil", "link", "jogo", "tema", "formato", "legenda", "legenda_completa", "horario_sugerido")}
     info["via"] = via
     nome.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{c['numero']}: baixado pela {via} {nome.relative_to(ROOT)} ({nome.stat().st_size // 1024} KB)")
@@ -416,7 +432,8 @@ def dados_do_link(cfg: dict, url: str, token: str, ig_id: str) -> tuple[dict, di
     padrao = next((c.get("tema", "games") for c in cfg["concorrentes"] if c["perfil"] == autor), "games")
     tema = tema_de(cfg, legenda, padrao)
     c = {"id": (post or {}).get("id") or codigo, "numero": 0, "perfil": autor or "diego", "link": limpo,
-         "codigo": codigo, "tema": tema, "jogo": cfg["temas"][tema]["nome"], "legenda": legenda[:160],
+         "codigo": codigo, "tema": tema, "jogo": cfg["temas"][tema]["nome"], "formato": formato_de(cfg, legenda),
+         "legenda": legenda[:160],
          "legenda_completa": legenda[:700], "horario_sugerido": None}
     return c, {c["perfil"]: [post] if post else []}
 

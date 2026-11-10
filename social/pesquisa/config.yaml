@@ -67,6 +67,28 @@ temas:
     palavras: []
     peso: 1
 
+# Formatos (Diego, 10/11): o que mais fura a bolha é meme de identificação e, acima de
+# tudo, personagem de jogo em situação do dia a dia (o viral do Mortal Kombat: 35 mil
+# views). Notícia pura rende pouco em Reel e vai para o site. O peso multiplica a nota.
+# A ordem importa: o primeiro formato com palavra na legenda vence.
+formatos:
+  cotidiano:   # estilo MK: personagem de jogo no emprego, nas contas, na vida real
+    palavras: ["não dá mais dinheiro", "nao da mais dinheiro", "arrumar emprego", "arrumar outro emprego",
+               "primeiro dia de trabalho", "primeiro dia no trabalho", "entrevista de emprego", "carteira assinada",
+               "clt", "boleto", "salário", "salario", "aposentad", "na vida real", "vida adulta", "segunda-feira"]
+    peso: 3
+  meme:        # identificação: "eu quando", "como vou me sentir", "marca o amigo"
+    palavras: ["eu quando", "quando você", "quando voce", "quando o amigo", "eu indo", "eu tentando", "eu depois",
+               "eu esperando", "eu no dia", "como vou me sentir", "sensação de", "sensacao de", "marca o amigo",
+               "marque o amigo", "marca aquele", "pov", "ninguém:", "ninguem:", "kkkk", "😂", "🤣", "😅", "😭",
+               "meme", "when you", "me when", "nobody:"]
+    peso: 2
+  noticia:     # anúncio, trailer, data, vazamento: melhor no site
+    palavras: ["oficial", "anuncia", "anunciou", "confirmad", "confirma ", "revelou", "revela", "trailer",
+               "data de lançamento", "pré-venda", "rumor", "vazou", "vazamento", "notícia", "noticia",
+               "atualização", "update", "breaking", "announced", "official", "leak"]
+    peso: 0.4
+
 # Perfis concorrentes. "tema" vale quando a legenda não diz o jogo.
 # Lista inicial tirada da estratégia de Instagram (17/10); o teste mostra quais
 # a API enxerga (só perfis profissionais) e os que falharem saem.
