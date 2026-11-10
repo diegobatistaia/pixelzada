@@ -1,0 +1,79 @@
+{
+  "slug": "gta-6-pre-load-liberado-ps5-xbox-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-pre-load-disponivel-ps5-xbox-212-gb",
+  "criado": "2026-11-10T17:45:00-03:00",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/11/GTA6-Pre-Load_11-10-26.jpg",
+    "credito": "Gematsu",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: PlayStation Blog, IGN e Gematsu",
+  "capa": {
+    "titulo": "O pré-load de GTA 6 já está liberado",
+    "destaque": "pré-load",
+    "apoio": "O que você precisa saber. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Espaço",
+      "titulo": "Cerca de 212 GB livres",
+      "destaque": "212 GB",
+      "texto": [
+        "O IGN e o Olhar Digital informam que o pré-carregamento pede cerca de 212 GB no console."
+      ]
+    },
+    {
+      "rotulo": "Lançamento",
+      "titulo": "Meia-noite em cada país",
+      "destaque": "Meia-noite",
+      "texto": [
+        "A PlayStation diz que o jogo abre à meia-noite de cada país em 19 de novembro."
+      ]
+    },
+    {
+      "rotulo": "Edição física",
+      "titulo": "Caixa com um código",
+      "destaque": "código",
+      "texto": [
+        "Segundo o IGN, a versão física é uma caixa com código para resgatar na loja, sem disco."
+      ]
+    },
+    {
+      "rotulo": "PS5 Pro",
+      "titulo": "Sombras com ray tracing",
+      "destaque": "ray tracing",
+      "texto": [
+        "A PlayStation e o Gematsu citam PSSR e sombras com ray tracing no PS5 Pro, com meta de 30 FPS."
+      ]
+    }
+  ],
+  "final": "Já começou o seu download?",
+  "legenda": {
+    "gancho": "O pré-load de GTA 6 já está liberado no PS5 e no Xbox Series X|S.",
+    "corpo": [
+      "Segundo o PlayStation Blog, o IGN e o Gematsu, o pré-carregamento começou nove dias antes do lançamento e pede cerca de 212 GB livres. A PlayStation recomenda baixar o quanto antes para jogar no primeiro dia.",
+      "O jogo chega em 19 de novembro para PS5 e Xbox Series, à meia-noite de cada país, e a versão física é só uma caixa com um código para resgatar na loja digital."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#ps5",
+      "#xboxseries"
+    ]
+  },
+  "alt": [
+    "Slide 1: O pré-load de GTA 6 já está liberado",
+    "Slide 2: Cerca de 212 GB livres",
+    "Slide 3: Meia-noite em cada país",
+    "Slide 4: Caixa com um código",
+    "Slide 5: Sombras com ray tracing",
+    "Slide 6: Já começou o seu download?"
+  ],
+  "status": "pronto"
+}

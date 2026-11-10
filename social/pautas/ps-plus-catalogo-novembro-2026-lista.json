@@ -1,0 +1,79 @@
+{
+  "slug": "ps-plus-catalogo-novembro-2026-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "PS Plus",
+  "gta6": false,
+  "materia": "playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall",
+  "criado": "2026-11-10T17:45:00-03:00",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/11/PS-Plus-Game-Catalog_11-10-26.jpg",
+    "credito": "Gematsu",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: PlayStation Blog e Gematsu",
+  "capa": {
+    "titulo": "Os jogos do PS Plus em novembro",
+    "destaque": "PS Plus",
+    "apoio": "Catálogo com Death Stranding 2. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Destaque",
+      "titulo": "Death Stranding 2 chega",
+      "destaque": "Death Stranding 2",
+      "texto": [
+        "Sam segue a missão de conectar a Austrália à Rede Quiral, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "Mais jogos",
+      "titulo": "Atomfall e Dragon Quest III",
+      "destaque": "Dragon Quest III",
+      "texto": [
+        "Atomfall e Dragon Quest III HD-2D Remake também estão na lista, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "Piratão",
+      "titulo": "Like a Dragon pirata",
+      "destaque": "pirata",
+      "texto": [
+        "Pirate Yakuza in Hawaii traz Goro Majima como capitão pirata, segundo o PlayStation Blog."
+      ]
+    },
+    {
+      "rotulo": "Data",
+      "titulo": "A partir de 17 de novembro",
+      "destaque": "17 de novembro",
+      "texto": [
+        "A lista está disponível a partir de 17 de novembro, salvo exceções, segundo a PlayStation e o Gematsu."
+      ]
+    }
+  ],
+  "final": "Qual desses você vai jogar primeiro?",
+  "legenda": {
+    "gancho": "O catálogo do PlayStation Plus de novembro já foi anunciado.",
+    "corpo": [
+      "Segundo o PlayStation Blog e o Gematsu, a lista inclui Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall e Dragon Quest III HD-2D Remake, além de Soul Reaver 2 e Freedom Wars Remastered para a assinatura mais alta.",
+      "Os jogos ficam disponíveis a partir de 17 de novembro, com algumas datas diferentes por país, e a matéria traz a lista completa."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#playstationplus",
+      "#ps5",
+      "#deathstranding2",
+      "#atomfall"
+    ]
+  },
+  "alt": [
+    "Slide 1: Os jogos do PS Plus em novembro",
+    "Slide 2: Death Stranding 2 chega",
+    "Slide 3: Atomfall e Dragon Quest III",
+    "Slide 4: Like a Dragon pirata",
+    "Slide 5: A partir de 17 de novembro",
+    "Slide 6: Qual desses você vai jogar primeiro?"
+  ],
+  "status": "pronto"
+}
