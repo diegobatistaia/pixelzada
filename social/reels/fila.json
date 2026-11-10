@@ -1294,7 +1294,7 @@
     "slug": "gta6-predios-franca",
     "data": "2026-11-10",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "O marketing de GTA 6 tomou o mundo: prédios na França ganharam anúncios gigantes do jogo 🇫🇷\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #franca #pixelzada",
     "tentativas": 0,
@@ -1304,6 +1304,11 @@
       "link": "https://www.instagram.com/reel/DfIG2fktjwh/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T16:12:09-03:00",
+      "media_id": "18115523954466863",
+      "permalink": "https://www.instagram.com/reel/DfkoU-LiuCS/"
     }
   },
   {
