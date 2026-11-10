@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T20:48:04+00:00",
+  "generated_at": "2026-11-10T03:51:54+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 8,
+  "already_written_today": 0,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,98 +42,50 @@
   ],
   "stories": [
     {
-      "story_id": "1ff9e96bd5863adc",
-      "title": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\"",
-      "summary": "More than a year after its initial release, physical versions of Hollow Knight: Silksong are finally arriving on players' doorsteps. It's the same brilliant and sometimes thrillingly cruel Metroidvania Eurogamer gave five stars to , except this time a pack-in booklet seemingly reveals the existence of multiple \"free content packs\" alongside the Sea of Sorrow DLC. Read more",
+      "story_id": "43618c9cd2474eb0",
+      "title": "Warhammer 40,000: Dark Heresy, The Follow-Up To Rogue Trader, Gets Early 2027 Release Date",
+      "summary": "Warhammer: 40,000: Dark Heresy developer Owlcat Games has confirmed that the CRPG will officially launch on January 28, 2027, for PC, PS5, and Xbox Series X|S. A follow-up to the studio's previous—and lengthy—game, Warhammer 40,000: Rogue Trader, Dark Heresy will put players in the boots of an Inquisitor, one of the chosen few who work in the shadows to hunt down heretics and purge worlds of dark...",
       "owners": [
-        "future-plc",
-        "valnet",
+        "fandom",
+        "gameblast",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "4432ae508864de7b",
-        "aaa465e45789d29b",
-        "fa4cd4e1f70f0792"
-      ],
-      "sources": [
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow",
-          "title": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\"",
-          "published_at": "2026-11-09T17:51:10+00:00",
-          "kind": "press",
-          "text": "More than a year after its initial release, physical versions of Hollow Knight: Silksong are finally arriving on players' doorsteps. It's the same brilliant and sometimes thrillingly cruel Metroidvania Eurogamer gave five stars to , except this time a pack-in booklet seemingly reveals the existence of multiple \"free content packs\" alongside the Sea of Sorrow DLC. Hollow Knight: Silksong's physical editions were originally set to be delivered from 10th November, but some early handovers have given us a peek inside the box. Redditor Me_975 posted pictures of their Nintendo Switch 2 Edition, and there's a few interesting tidbits tucked away - most notably in the manual's chapter on Content Packs. \"The world of Hollow Knight: Silksong will expand with free content packs,\" the booklet reads. \"Prepare for even more adventures filled with new friends, new abilities, and new ferocious foes!\" Developer Team Cherry confirmed plans for post-launch Silksong support last year, but remained pretty tight-lipped about what exactly that would look like. The indie outfit then announced the nautically themed Sea of Sorrow expansion , though we now have proper confirmation there's more content packs still to come, which shouldn't be a huge shocker considering all the free post-launch love Hollow Knight (the first one) received. Speaking of Sea of Sorrow, that's mentioned here too: \"In the first giant expansion, voyage across and beneath a salt-stricken ocean brimming with mystery and menace.\" Sea of Sorrow's original release window was a vague 2026 - time's a-ticking, Team Cherry. Still no release date so far, but the booklet does say it's \"Coming Soon.\" Of course, Team Cherry are quite infamous for working on games until they balloon wildly out of control. After all, Silksong was once upon a time intended to be a Hollow Knight DLC, but with games this detailed, I can't really complain about waiting a little extra. If you are interested in owning Silksong physically, it comes with a big map of Pharloom and the rest of the booklet also includes some really lovely art seemingly ripped straight from the game, as well.",
-          "image": "https://assetsio.gnwcdn.com/silksong-sea-of-sorrows.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/hollow-knight-silksong-free-dlc-rumor/",
-          "title": "Even More Free DLC for Hollow Knight: Silksong Might Be on the Way",
-          "published_at": "2026-11-09T19:20:53+00:00",
-          "kind": "press",
-          "text": "Sea of Sorrow is also described as the game’s ‘first’ expansion After approximately 100 years of waiting, Hollow Knight: Silksong was released last fall. Players were eager to jump into it as Silksong hit a peak of nearly 600,000 concurrent players on Steam alone. Critics adored it too as Silksong was nominated for several end-of-year awards and won a handful of them, such as Best Action/Adventure Game at The Game Awards . Around that time, Team Cherry announced it was working on a new Silksong expansion called Sea of Sorrow . Physical editions of Silksong are out this week, and some players have gotten their hands on them early. Inside those copies are a map and a little booklet (remember those?), and that booklet has a section hinting at more free Silksong DLC. A Reddit user shared pictures of their physical Nintendo Switch 2 copy of Hollow Knight: Silksong , showcasing the booklet. \"The world of Hollow Knight: Silksong will expand with free content packs,\" it reads. \"Prepare for even more adventures filled with new friends, new abilities, and new ferocious foes!\" The wording of the \"Content Packs\" sections makes it seem like these \"free content packs\" are possibly considered separate from the Sea of Sorrow expansion, though that too will be free for players. The booklet also calls Sea of Sorrow the game's \"first giant expansion.\" The \"first\" here is interesting as Silksong fans will surely hope that means \"first of many\" as opposed to \"first and only.\" Sea of Sorrow was announced last December with a very vague 2026 release window. The booklet simply says it's \"coming soon,\" with some Reddit users wondering if that means it's been quietly delayed. However, it's possible the text for that booklet was written months ago and Team Cherry went with a generic \"coming soon\" descriptor and that the DLC is, in fact, coming soon. Of course, 2026 is almost wrapped, and Sea of Sorrow is without a firm release date. Team Cherry marches to the beat of its own drum, and announced Silksong 's release date two weeks before the game dropped, so who knows if Team Cherry is planning the same strategy for its expansion. After Silksong began as an expansion for the original Hollow Knight before blossoming into a full-on sequel, who knows if Sea of Sorrow will even remain an expansion when it comes out — whenever that is.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/action/hollow-knight-silksong-players-jump-at-word-of-multiple-free-content-packs-and-first-giant-expansion-then-crash-back-down-as-sea-of-sorrows-release-date-seemingly-vanishes/",
-          "title": "Hollow Knight: Silksong players jump at word of \"free content packs\" and \"first giant expansion\"",
-          "published_at": "2026-11-09T20:24:05+00:00",
-          "kind": "press",
-          "text": "We're still waiting for Team Cherry to say something, anything at all Hollow Knight: Silksong has a new physical edition, and early arrivals reveal a surprise message from developer Team Cherry regarding additional content coming to the game in the months and, seemingly, years ahead. Metroidvania marketing man Matthew Griffin reminds fans that \"Hollow Knight: Silksong (Standard Edition) is arriving soon on November 10th.\" It comes with a user manual, a hand-drawn map, and reversible cover art. We're most interested in that user manual, which ends with a section on \"Content Packs,\" per images shared online by fans who got their physical copy a smidge early. \"The world of Hollow Knight: Silksong will expand with free content packs,\" this page of the manual reads. \"Prepare for even more adventures filled with new friends, new abilities, and new ferocious foes!\" The plurality of this promise is what's raised some eyebrows. After the many DLCs Hollow Knight received, there was little doubt that Team Cherry would add a truckload of content to Silksong. This is not a studio known for restraint. But how would all those ideas be expressed? Official word of several \"free content packs\" containing multiple \"new abilities\" for protagonist Hornet has predictably excited fans. The manual continues: \"In the first giant expansion, voyage across and beneath a salt-stricken ocean brimming with mystery and menace.\" Here again, fans linger on this being the first giant expansion for Silksong. Hollow Knight also got multiple DLC packs – Hidden Dreams, The Grimm Troupe, Lifeblood, and Godmaster – adding bosses, items, areas, storylines, and exacting arena challenges. Previous comments from developers Ari Gibson and William Pellen suggested Silksong may receive a similar variety of additional content, with Sea of Sorrow expected to be a Grimm Troupe-like shotgun blast of experiences. The manual concludes with a Hollow Knight: Silksong - Sea of Sorrow emblem that reads, \"Coming soon.\" You'll note that this, like everything else Team Cherry has said, doesn't say when soon is. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Last year, Team Cherry announced Sea of Sorrow and charted a 2026 launch. Apart from a February update on a port for the original Hollow Knight and a March post confirming expanded Silksong language support, the studio hasn't said anything else on its blog or social feeds all year. Pellen previously said Team Cherry would be more communicative, and we can see how that panned out. Three blog posts in a year, dare we dream? In a read that's only slightly generous, it's possible that this blank phrasing, used in place of a definitive release date, is just generalist wording or an artifact of this physical edition's production. Maybe Team Cherry didn't want to announce anything major in such a limited product. But this does read like a step back from the 2026 target in the expansion's reveal trailer. Team Cherry is quiet and spontaneous enough that a Sea of Sorrow shadow drop, or at least a release date with very little notice, wouldn't surprise me. Silksong's launch also came out of nowhere, giving countless other games just two weeks to flee the blast radius . But 2026 is rapidly coming to a close and we haven't heard a peep from Team Cherry about the expansion, so I also wouldn't be surprised if this manual does, as players fear, herald a delay into 2027. Recent YouTube comments on Sea of Sorrow's trailer tell the whole story. \"Team Cherry...? Where are you...?\" wonders one viewer. The vibes are very similar to those around The Duskbloods , a Nintendo Switch 2-exclusive FromSoftware game long said to be releasing in 2026. As the months flew by without any official word, a delay seemed more and more likely, though FromSoftware also notably had some negative test feedback to respond to. Lo and behold, The Duskbloods was delayed. But much like FromSoftware, Team Cherry can pretty much do what it wants, when it wants, and millions of fans will show up anyway. Katana Zero pulls a Hollow Knight: Silksong - the beloved action game's DLC is now \"the size of a full sequel\" after 7 years of development Austin has been a game journalist for 12 years, having freelanced for the likes of PC Gamer, Eurogamer, IGN, Sports Illustrated, and more while finishing his journalism degree. He's been with GamesRadar+ since 2019. They've yet to realize his position is a cover for his career-spanning Destiny column, and he's kept the ruse going with a lot of news and the occasional feature, all while playing as many roguelikes as possible. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/dMHK7T7ccjFjyV5QbRHtCf-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "02de9cd245bd2548",
-      "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
-      "summary": "For fantasy nerds, it's hard to top The Legend of Zelda video game series and Lord of the Rings film trilogy. If that's you, like it is me, then X user Seven will probably give you goosebumps with his cover of \"Concerning Hobbits\" in-game with The Legend of Zelda: Ocarina of Time . Watching young Link recreate the iconic song from The Fellowship of the Ring movie just works perfectly as a...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "valnet"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "3b11feb67d125cf1",
-        "1828e3af95303cea",
-        "5c14f2a45562c8ce"
+        "3b03594cbb2bf525",
+        "88120cf797ce0d5e",
+        "e6b1a0d1ccb46dfd"
       ],
       "sources": [
         {
           "name": "GameSpot",
           "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-players-are-creating-incredible-cover-songs-in-the-game/",
-          "title": "Zelda: Ocarina Of Time Players Are Creating Incredible Cover Songs In The Game",
-          "published_at": "2026-11-09T18:00:46+00:00",
+          "url": "https://www.gamespot.com/articles/warhammer-40000-dark-heresy-the-follow-up-to-rogue-trader-gets-early-2027-release-date/",
+          "title": "Warhammer 40,000: Dark Heresy, The Follow-Up To Rogue Trader, Gets Early 2027 Release Date",
+          "published_at": "2026-11-09T16:00:00+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-treasure-chest-game-shop/",
-          "title": "How to beat the Treasure Chest Game in Zelda Ocarina of Time",
-          "published_at": "2026-11-09T10:32:25+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/warhammer-40k-dark-heresy-owlcat-crpg",
+          "title": "Anticipated Warhammer 40K tactical RPG Dark Heresy gets a release date",
+          "published_at": "2026-11-09T16:50:00+00:00",
           "kind": "press",
-          "text": "The Treasure Chest Shop in the OOT Remake can be beaten with luck - or a special item The Treasure Chest Game in the Zelda Ocarina of Time remake has Link forced to pick between a pair of chests five times in a row, with a heart container as the potential reward. If you pick incorrectly at any point you lose, but there is a way (two ways, in fact) to beat the system and get this substantial reward early in the Switch 2 OOT remake. If you want to know how, I'll explain where to find the Treasure Chest Shop in Ocarina of Time, and how to beat the treasure chest game easily. Around the corner, you can find the Zelda Ocarina of Time Happy Mask Shop . Check out our guide on the quest tied to it, and how you can hand out the masks to those who need them! The Treasure Chest Shop in OOT is located on the West Side of Hyrule Castle Town, at the spot shown above. However, it can only be accessed at Night. If it's daytime and you don't want to wait, head North along the alley to the building with the blue door, which will have a bed you can rest in to change the time of day. The Treasure Chest Game is simple: you'll be shown a pair of chests, one of which is right, and one of which is wrong. If you pick correctly, you move forward to the next round. If you pick wrong, you lose the game. If you can pass five rounds, you'll get a heart container. The problem is, the chests looks identical, and each attempt costs you 10 Rupees. Here are three methods that will give you a chance at success: Find out where to armor up with our guide on how to get the Shield and Sword in Zelda Ocarina of Time Remake , or check out how to cheer up Darunia and unlock explosive power in our walkthrough for Goron City in Zelda Ocarina of Time Remake . © GamesRadar+. Not to be reproduced without permission. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Joel Franey is a writer, journalist, podcaster and Very Tired Man with a BA from Brunel University, a Masters from Sussex University and a decade working in games journalism, often focused on guides coverage but also in reviews, features and news. His love of games is strongest when it comes to groundbreaking narratives like Disco Elysium, UnderTale and Baldur's Gate 3, as well as innovative or refined gameplay experiences like XCOM, Sifu, Arkham Asylum or Slay the Spire. He is a firm believer that the vast majority of games would be improved by adding a grappling hook, and if they already have one, they should probably add another just to be safe. You can find old work of his at Eurogamer, Gfinity, USgamer, SFX Magazine, RPS, Dicebreaker, VG247, and more. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/PnzRunHfAAfLoWzy97NiqW-1920-80.png"
+          "text": "Owlcat Games has revealed a release date for its tactical role-playing sequel Warhammer 40,000: Dark Heresy. The game arrives 28th January, 2027 on PC, PlayStation 5 and Xbox Series S/X. A Switch 2 release date will be provided \"at a later date\", a press release says. Warhammer 40,000: Dark Heresy follows the good work laid down by Warhammer 40,000: Rogue Trader a couple of years ago. \"Rogue Trader nails the 40k setting and provides an appropriately massive narrative filled with meaty tactical combat, though some bugs and poor performance hold it back,\" wrote Caeyln Ellis in Eurogamer's Warhammer 40,000 Rogue Trade review . Dark Heresy changes things by casting you as an Inquisitor and tasking you with hunting down heretics and purging the world of dark influences, as one is wont to do in the 41st century, it seems. And developer Owlcat has apparently overhauled many of the systems underpinning the adventure. There's a beta that's been running for a while that offers a complete first Act to try, and it's accessible if you buy a Founders edition of the game. This beta, incidentally, disappears 7th January, when Owlcat prepares the game for launch. Meanwhile, Owlcat is making a substantially different RPG based around the popular Expanse license - a game that's much more closely inspired by Mass Effect . That project recently recruited the help of former Dragon Age writer David Gaider , and it will no doubt hope to fill a much-lamented hole created recently by the cancellation of Mass Effect 5 .",
+          "image": "https://assetsio.gnwcdn.com/warhammer-40k-dark-heresy_rowA3Iz.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-horror/",
-          "title": "Zelda: Ocarina of Time Is Scarier Than Ever on Switch 2",
-          "published_at": "2026-11-09T18:30:17+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/warhammer-40000-dark-heresy-sera-lancado-28-janeiro-2027-consoles-pc.html",
+          "title": "Warhammer 40,000: Dark Heresy será lançado em 28 de janeiro de 2027 para consoles e PC",
+          "published_at": "2026-11-10T00:04:52+00:00",
           "kind": "press",
-          "text": "When I first encountered The Legend of Zelda: Ocarina of Time growing up, it scared the crap out of me. The screeching Redeads, the skittering spiders, the disembodied hands — it was basically a horror movie to a young kid’s eyes. I’m older and harder to spook now, of course, which means that I knew the Nintendo 64 game’s fresh Switch 2 remake was bound to hit differently. Surely I’d laugh at everything that used to creep me out and realize that I was scared of a glorified cartoon! How wrong I was. Ocarina of Time ’s remake is arguably even more of a horror show than its 1998 predecessor. Though some goofy voice acting might lure you into a false sense of security, the faithful remake uses the technical power of the Switch 2 for chaotic evil. Every creepy crawler that may have freaked you out in the ‘90s has gotten whatever the opposite of a glow-up is. The remake is terrifying — and I am in full support of that evil creative decision. The important thing to understand about Ocarina of Time if you're totally new to it is that it has the energy of a Grimms’ fairy tale . You know, the kind that revolves around an evil witch who cooks children alive. Kind of whimsical, kind of messed up. For every funny little moment in Ocarina of Time , like a scooting Zora king or a dancing Goron, you’ve also got a quest where you have to drop into a man’s grave after learning he died after Link traveled forward in time. It’s dark, though in a very family-friendly Nintendo way. That said, the remake really emphasizes just how unnerving the original game can be. Nintendo didn’t hold back when redesigning some of its scariest monsters. Take Redeads, for instance. The creatures are essentially zombies that lurch towards Link slowly, but can paralyze him with fear by letting out a blood-curdling screech. If they catch him, they can wrap around his little head and squeeze the life out of him, a traumatizing image for a ‘90s kid. That all holds true in the remake, except now you can also see every branch-like vein across the skin on their rotten, wooden bodies. Their faces are nightmare fuel too, with more detail put into the red mask that hides whatever is happening up there. Better if I don’t know, I reckon. Deku Babas? Those now have crooked, gnashing teeth and tongues that look like overgrown gourds. Gibdos? They went from looking like basic mummies to Curly from Mouthwashing , with a dead eye peeking out from rough bandages. Floormasters? The sentient hands now have protruding bones, just to screw with you. Moblins? They have butt cheeks now. (That part isn’t scary, it’s just kinda weird, I suppose.) Everything is a grotesque little freak that I would like to squash with a hammer. And then, there are the spiders. Be warned: Readers with arachnophobia might want to stop reading here. Ocarina of Time ’s Skulltulas have always been the series’ most skin-crawling monsters. They’re basically giant spiders with cracked skulls for bodies. Predictably, they are abominations here, thanks to their furry little legs that make them even grosser. Gold Skulltulas are equally disgusting, even though Nintendo toned down their loud skittering sounds that made them especially scary in 1998. But what’s really been brought to a whole new circle of hell is the House of Skulltula. It’s home to a cursed family who have been transformed into Skulltulas, turning each of them into a half-spider, half-man situation straight out of The Fly . They look so horrific in the remake that you will wish you could put them out of their misery. You can see their warped faces under their skull bodies. They each have a human arm dangling off their spider legs. It’s the most hellish sight I have ever seen in a kid’s game, and I am proud of Nintendo for allowing it to happen. Not everything about the remake is scarier. Like Likes are still slimy little freaks, but their additional detail makes them less scary than the unknowable blobs of the original game. Hyrule Castle Town is less unnerving post-time skip now that the original game’s Resident Evil-like fixed camera angles are no more. In general, the overall atmosphere of the remake skews more towards that of an animated cartoon, which takes some bite out of the N64 version. I still prefer the original game, with its low-poly textures and more muted colors, for that reason. Even so, the commitment to creepiness is just one of the reasons that Nintendo’s remake works so well. It understands what made the original game special, and works to amplify that vibe rather than wash it away. It’s similar to how developer Grezzo handled its Link’s Awakening remake, leaning on toy-like design and whimsy to retain the lightness of the original game. The most important — and hardest — thing to get right in a remake is aura, and Ocarina of Time nails the assignment in that respect.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-frozen-link.jpg?w=1600&h=900&fit=crop"
+          "text": "RPG levará os jogadores a investigar conspirações e combater ameaças no universo de Warhammer 40,000.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW4wxdJYgQxX55R6g3XCZvorJzvZIkoneosbV9tK4IKZLYB0kfS0FvUXuwhYK92CDTd_EEeHE6xPyENMjrVgW2a9ELenG7B7MaEpK8Y0SvJh6Q7fkf8AwdkSTEP2d-3njQYwtvWVerubrqwH6SWuXYcolGlErmaac9-jCt9cKp8H91jRuuNmfbSxiOSL46/w1200-h630-p-k-no-nu/DHblast.jpg"
         }
       ]
     },
@@ -186,6 +138,113 @@
       ]
     },
     {
+      "story_id": "18947414236fc44b",
+      "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+      "summary": "Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Read more",
+      "owners": [
+        "keleops",
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "f8fd91170130a0dd",
+        "183d484644b92e8e",
+        "fcc533697feda8d7",
+        "c598220fe98fac92"
+      ],
+      "sources": [
+        {
+          "name": "GamesIndustry.biz",
+          "owner": "ziff-davis",
+          "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+          "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+          "published_at": "2026-11-09T21:22:20+00:00",
+          "kind": "press",
+          "text": "Publisher reiterates full-year net bookings outlook of $8 billion to $8.2 billion ahead of GTA 6's launch next week Take-Two Interactive has published its financial results for its second fiscal quarter, with net bookings down 18% to $1.60 billion and net revenue down 16% to $1.50 billion. Net bookings came in slightly below the $1.62 billion to $1.67 billion the publisher had advised. Take-Two said NBA 2K27 had the second-highest net bookings launch in the series' history, but still fell short of its forecast for the period. The company has kept its full-year net bookings outlook at $8 billion to $8.2 billion, with Grand Theft Auto 6 due to launch on November 19. NBA 2K27 has sold over 4 million units since its September 4 launch. Take-Two said the launch window was \"unusually busy,\" and expects net bookings and engagement to pick up in the second half of the fiscal year as more post-launch content arrives. The Grand Theft Auto series beat the publisher's forecast for the quarter. Grand Theft Auto 5 has now sold nearly 235 million units, and both recurrent consumer spending and average monthly GTA+ members grew by a double-digit percentage. Take-Two said pre-orders for Grand Theft Auto 6 are \"tracking far in excess of our initial expectations.\" The company expects operating expenses to rise by around 21% year-on-year in the third quarter on a management basis, primarily due to marketing for the game. The Borderlands franchise has passed 100 million units sold. Mobile performed in line with Take-Two's plans. Net bookings for Color Block Jam fell by double digits against a peak in the same quarter last year, while Toon Blast grew 4% and Words With Friends grew 6%, helped by a collaboration with Wheel of Fortune. NBA 2K All-Star, released in China with Tencent, has passed 11 million registered users. \"The launch of Grand Theft Auto VI is ten days away and, with pre-orders continuing to reach unprecedented levels, we expect to deliver an historic year for our company,\" said Take-Two CEO Strauss Zelnick. Looking ahead, Take-Two expects third-quarter net bookings of $3.35 billion to $3.5 billion, compared to $1.76 billion in the same quarter last year. It has also raised its full-year GAAP net revenue guidance to between $7.98 billion and $8.18 billion (it was previously between $7.9 billion and $8.1 billion). In August, Take-Two Interactive subpoenaed Microsoft, Discord, and X regarding the ongoing Grand Theft Auto 6 leaks .",
+          "image": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/gta-6-pre-orders-are-coming-in-far-in-excess-of-what-take-two-expected-says-ceo-2000755171",
+          "title": "GTA 6 Pre-Orders Are Coming In ‘Far In Excess’ Of What Take-Two Expected, Says CEO",
+          "published_at": "2026-11-09T21:49:41+00:00",
+          "kind": "press",
+          "text": "There’s just over a week left before Grand Theft Auto 6 ‘s launch, and by all accounts it sounds like it’s going to be massive. It feels like GTA 6 is everywhere, and early reports have suggested that the $100 digital deluxe edition is outselling even the $80 regular version. Even the CEO of Rockstar owner Take-Two is saying he’s surprised by how well the game is selling already, claiming in the company’s quarterly earnings that its pre-orders are “tracking far above our initial expectations.” Pre-order incentives have been plentiful in recent weeks, with Walmart offering a “ surprise ” of some sort, and a lot of free bonus content bundled in no matter where you buy it . Digital pre-loads begin tomorrow , but physical pre-orders are a code in a box, so you won’t be able to redeem it until the day of. Physical discs won’t be available at launch . What’s more bonkers to me than a nebulous “exceeded expectations” on pre-orders is that GTA 5 is still selling roughly five million copies per quarter, reaching nearly 235 million copies sold in the last few months. I’ve been watching Take-Two’s earnings for years now, and I don’t think I can remember a time when GTA 5 wasn’t selling at least five million per quarter. But if there were a time for it to drop off, I’d say now would be it, given that a brand new game is coming out imminently. And yet! The franchise overall has sold nearly 480 million units. Overall, it wasn’t aÂ greatÂ quarter for Take-Two, with net bookings down 18 percent year-over-year and net revenue down as well. Take-Two is reiterating its guidance for the year, though, of net bookings of $8 to $8.2 billion: an absolutely bonkers amount of money that can only be explained by a new GTA (net bookings were $6.72 billion last year, and $5.56 billion the year prior). GTA 6 is, curiously, the only upcoming game in Take-Two’s pipeline that has a firm release date at the moment. 2K is preparing its slate of sports titles for next year, and Project ETHOS, BioShock , and Judas are all still in limbo. For now, everything (quite understandably) hangs on GTA 6 . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. 'This timing may have affected performance so far' The Switch 2 reimagining of the N64 classic is missing a lot of the originalâs friction The token that gives you free stuff in the item shop isn't even the rarest loot in the event They will be replaced by Marvel veteran Jeremy Latcham The soldier doesn't need to die in the alley for this moment to hurt",
+          "image": "https://kotaku.com/app/uploads/2026/10/gta-6-screen-booth-1200x675.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/gta-6-preorders-tracking-take-two-earnings-call",
+          "title": "GTA 6 pre-orders are tracking \"well above expectations\" and the game will \"set a new baseline\" for Take-Two, says CEO Strauss Zelnick",
+          "published_at": "2026-11-09T22:02:50+00:00",
+          "kind": "press",
+          "text": "Today, as part of Take-Two Interactive Software's Q2 2027 earnings call, Strauss Zelnick noted that pre-orders for Grand Theft Auto 6 are tracking \"far above expectations\", and is certain that soon \"numbers will speak for themselves\" when it comes to the game. Zelnick also promised GTA Online and GTA 5 will continue to receive updates in order to support the \"nearly 235 million\" units sold to date across \"an unprecedented three console generations\". The GTA series as a whole has, to date, sold over 480 million units. Karl Statoff, president at Take-Two, adds the launch of GTA 6 will be a \"defining moment for the company and global entertainment industry\". Zelnick adds, later in a question and answer session, that he expects GTA 6 to \"set a new baseline\" for Take-Two. \"The future's really bright across the board,\" he notes. For the next quarter, Take-Two expects to deliver $3.35 billion to $3.5 billion - with \"recurrent consumer spending\" to raise by 12 percent, driven by \"the groundbreaking release\" of Grand Theft Auto 6, and expects to see \"significant growth for the Grand Theft Auto series\", driven by sales of - specifically - Grand Theft Auto 6's Ultimate Edition , which includes add-on content, and that most people are pre-ordering at its $100 price point . That bonus $20 between the $80 base edition and the Ultimate Edition is counted as \"recurrent consumer spending\", as is part of that massive bump the company has seen. It also seems that we will see more GTA games - or content, at least - sooner than expected. \"We do think that the nature and velocity of the content we'll see from our iconic franchises, including GTA, will look dramatically different over the next decade.\" It's a vague comment, but assumedly the work done on the engine and backend of GTA 6 means we'll see more content arriving in shorter order than we're used to for the series. This is per an article published by IGN in line with the earning's call going live. Elsewhere in the earnings call, Take-Two referred to its current setup with its mobile, sports, 'core new IP' and 'core existing IP' as \"the strongest development pipeline in the company's history\". In terms of new IP, Zelnick directed investors to consider the launches of incoming projects like Ken Levine's mysterious Judas and Project Ethos (which we don't know too much about yet, other than it's billed as a \" roguelike hero shooter \"). For core IP, 8 sequels and 7 remakes, remasters, and platform extensions. Buoyed by these plans, Zelnick outlines that he believes that fiscal year 2027 \"will be a historic year for Take-Two\" as the company is buoyed by \"recent and upcoming releases\". No prizes for what that's referring to . If you're curious about what sort of numbers we may be looking at here, all you need to do is cast your mind back to 2014, where you will remember GTA 5 made $1bn in just three days .",
+          "image": "https://assetsio.gnwcdn.com/gta-earnings.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/pre-vendas-gta-vi-superaram-muito-expectativas-t2/",
+          "title": "Pré-vendas de GTA VI superaram “em muito” as expectativas da Take-Two",
+          "published_at": "2026-11-10T00:08:09+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2020/03/MeuPlayStation.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "b8ec4a83592a8604",
+      "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+      "summary": "For all of the changes in Nintendo's The Legend of Zelda: Ocarina of Time remake, there's one that's tripping players up more than any of the others: a jump button.",
+      "owners": [
+        "nzn",
+        "valnet",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "a718d9d40dff66a4",
+        "adb5ad5e8659f222",
+        "6bc3ad4c802166d0"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+          "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+          "published_at": "2026-11-09T23:46:42+00:00",
+          "kind": "press",
+          "text": "For all of the changes in Nintendo's The Legend of Zelda: Ocarina of Time remake , there's one that's tripping players up more than any of the others: a jump button. If you've played Metacritic 's all-time highest-rated game in the 28 years since its Nintendo 64 release (or most other 3D Zelda games, for that matter), you'll know Hyrule's courageous protector doesn't need a button press to cross small gaps. What was once intuitive for the time has since been rendered obsolete, as Nintendo opted to give players the freedom to send Link a short distance into the air with the simple press of a button in The Legend of Zelda: Ocarina of Time for Switch 2. What sounds like an innocuous change on its face is, really, revolutionary for the company's decades-old fantasy franchise. For proof, you needn't look further than social media, as the remake's first weekend in players' hands was filled with examples of those who just can't get a handle on that one extra step. What Nintendo maybe didn't consider, though, is that poor, little Young Link has to pay for it. \"I keep forgetting to press jump,\" one Reddit user said , sharing a clip of Link taking a dip in Kokiri Forest. \"Same,\" another replied . \"30 years of habit is hard to break.\" They're not alone; in fact, they're part of an ocean of players who turned on the Ocarina of Time remake and immediately started sending Link for a swim. As if there was ever any doubt, a fundamental change like this was bound to spawn disagreements. Considering it also happens to be a change for one of the most important game releases of all time, it's become a full-blown talking point for a good chunk of those who have picked up the remake since its Switch 2 launch last week. \"Same but different reason,\" one player replied , \"jump button being X feels unnatural to me.\" (Note: There is an option to switch jump from X to the B button in the settings.) \"I actually think the auto-jump was one of the most interesting features of the original,\" someone else said , \"particularly considering that people had barely figured out how to do 3D games. It is never not fun to just point Link towards a ledge and seeing him spontaneously do a little jump.\" Lo del salto manual en Ocarina of Time cómo lo llevan... https://t.co/bIoqEWLk1Y My muscle memory betrayed me and I forgot about the new jump button immediately 😭 https://t.co/85A2fQIpn5 the OoT remake experience https://t.co/lV7fb1SkkR Well, instead of doing a little jump, these days Link is taking little tumbles. Look, I feel everyone's pain. I'm not too far into the remake, but I've still had to watch Link plop into a river or fling himself into a boulder at least once after taking a break. Thankfully, Link usually won't take too much damage after a fall. Even if he does get caught tripping, the Ocarina of Time remake's new ragdoll physics at least make every mistake a little funny. Even if you're still upset there's no option for auto jump, you can't be nearly as bent out of shape as Link is. \"I love how he just f**kin eats the side of the platform,\" one player joked . \"The way he looked like he broke a rib and his jaw,\" another said . You can see some of what they're talking about below. Forgot there's a jump button now... https://t.co/ysdJA8CTTT Ocarina of Time 64 muscle memory kicked in https://t.co/Rbz6NMTnpr The Legend of Zelda: Ocarina of Time remake launched for Switch 2 November 5. For more, you can see why dataminers have fans hoping for Master Quest DLC – or maybe even a Majora's Mask remake . You can also read about the speedrunners who have managed to break the game in a few hilarious ways in less than a week . You can also read IGN's review of the game here , or check out our look at the Biggest Changes from the original 1998 game. Be sure to check out our expanding Ocarina of Time remake Walkthrough for comprehensive guides on each main quest area and dungeon, plus where to get Early Heart Pieces, Early Gold Skulltulas , and Early Item Bag Expansions . If you're looking for more, don't miss our complete guides to All Pieces of Heart , All Gold Skulltulas , and All Empty Bottles . Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
+          "image": "https://assets-prd.ignimgs.com/2026/11/09/the-legend-of-zelda-ocarina-of-time-remake-link-jump-1794266958644.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/the-legend-of-zelda-ocarina-of-time-remake-ja-roda-a-60-fps-e-ganha-ate-multiplayer-no-pc/",
+          "title": "The Legend of Zelda Ocarina of Time Remake já roda a 60 FPS e ganha até multiplayer no PC",
+          "published_at": "2026-11-09T12:24:00+00:00",
+          "kind": "press",
+          "text": "O remake de The Legend of Zelda: Ocarina of Time, lançado recentemente para Nintendo Switch 2, já está sendo executado em computadores por meio de emuladores. Poucas horas depois da estreia oficial, usuários conseguiram inicializar o jogo no PC, embora a experiência inicial fosse marcada por problemas gráficos, travamentos e desempenho instável. A situação, no entanto, mudou rapidamente. Apenas um dia depois das primeiras tentativas, atualizações dos emuladores Lichii e Eglantine já permitem executar o clássico da Nintendo a até 60 quadros por segundo (FPS), com melhorias significativas na qualidade visual e na estabilidade. Além disso, modders também já trabalham para trazer suporte para multiplayer ao game nos computadores. Até o momento, a Nintendo não comentou sobre o assunto, mas a situação pode levar a movimentações legais da companhia. De acordo com informações do DSOGaming , o emulador Lichii conseguiu corrigir boa parte dos problemas gráficos identificados no primeiro dia de testes. Regiões como a área inicial do jogo e a Árvore Deku já podem ser executadas a 60 FPS, contra os 20 a 30 FPS registrados nas primeiras tentativas. Relatos publicados por usuários também apontam resultados ainda melhores em algumas configurações. Um jogador afirmou ter conseguido executar o remake em 4K e 60 FPS estáveis, sem os principais problemas visuais observados anteriormente, embora pequenos travamentos e congelamentos ainda aconteçam. Outro teste, compartilhado na comunidade do emulador Eglantine, utilizou um processador Ryzen 7 5700X e uma placa de vídeo RTX 5070. O jogador conseguiu avançar até a obtenção da Espada Kokiri em um novo arquivo, mas ainda encontrou problemas de cintilação de texturas, iluminação e dessincronização de áudio em determinadas cenas. Parte da evolução aconteceu graças a mudanças específicas no funcionamento dos emuladores. O Lichii, que é baseado no Eglantine, recebeu correções para problemas que provocavam flashes brancos na tela, cenas completamente pretas e falhas na exibição da vegetação. Os desenvolvedores também trabalharam em otimizações de desempenho, incluindo melhorias no carregamento e armazenamento de shaders. Entre as mudanças estão o reaproveitamento de pipelines gráficos já compilados e a execução de determinadas tarefas em segundo plano durante a inicialização do jogo. O repositório do Eglantine mostra que a equipe publicou diferentes versões experimentais voltadas especificamente à compatibilidade com Ocarina of Time. Como resultado, o progresso tem sido bastante rápido, embora ainda existam limitações que podem variar conforme o hardware e a versão utilizada. Além de melhorar o desempenho do remake no PC, a comunidade de modders já começou a trabalhar em outro recurso: um modo multiplayer. Um vídeo publicado nesta segunda-feira (9) mostra uma versão preliminar da modificação em funcionamento no emulador Lichii, permitindo que jogadores compartilhem a aventura no clássico da Nintendo. O projeto ainda está em desenvolvimento e não possui previsão de lançamento. A expectativa é que a modificação também seja compatível com a versão não oficial do jogo para PC, embora isso ainda dependa de testes e ajustes dos responsáveis pelo projeto. O remake também chamou atenção por uma demonstração envolvendo tecnologias de upscaling. O canal ElAnalistaDeBits publicou uma comparação mostrando como o NVIDIA DLSS pode melhorar a qualidade da imagem do jogo em relação ao AMD FSR 1.0 utilizado originalmente. A demonstração utiliza uma técnica de injeção de DLSS via HDMI, em vez de alterar diretamente o funcionamento interno do jogo. Na comparação, a tecnologia da NVIDIA reduz efeitos de cintilação e melhora a definição de elementos da imagem. Vale lembrar que o Nintendo Switch 2 possui suporte ao DLSS, tecnologia que também já aparece em jogos de outras desenvolvedoras para o console. Mesmo assim, a Nintendo optou pelo FSR 1.0 em Ocarina of Time, uma escolha que chamou atenção diante das possibilidades oferecidas pelo hardware. A chegada do remake aos computadores com modificações também acontece em meio a uma nova onda de avanços na comunidade de emulação do Switch 2. Segundo os relatos, os arquivos do jogo começaram a circular antes do lançamento, após cópias físicas chegarem antecipadamente a alguns consumidores. The Legend of Zelda Ocarina of Time Remake vale a pena no Switch 2? Confira análise do jogo A extração dos arquivos estaria relacionada ao ns2jb, ferramenta de desbloqueio do console que se tornou pública recentemente. Pouco depois da divulgação do método, outros jogos exclusivos, como Mario Kart World, também começaram a inicializar em emuladores para PC e até mesmo em dispositivos da Apple. A Nintendo não comentou oficialmente sobre o caso, mas já estaria tomando medidas contra possíveis brechas utilizadas nesse processo. O aplicativo SmileBASIC 4, apontado como uma das portas de entrada para a exploração do sistema, foi removido da eShop. No passado, a empresa também tomou medidas legais contra desenvolvedores de emuladores em uma situação parecida. Após arquivos de Zelda Tears of the Kingdom vazarem antes do lançamento, a companhia iniciou movimentações contra o Yuzu em 2024 por pirataria . Logo, não seria surpreendente ver novas medidas contra ferramentas como Lichii e Eglantine. Em seu site, a Nintendo também deixa claro que é contra o uso de emuladores. A empresa vê os softwares como prejudiciais ao seu modelo de negócio. “Os emuladores não autorizados permitem que certos jogos sejam utilizados de formas não previstas originalmente pelos criadores e incentivam a utilização de cópias não autorizadas (ou seja, pirateadas) dos jogos”, diz a empresa. “Logo, os emuladores têm um impacto negativo na experiência de jogo dos usuários, nos investimentos realizados pelos criadores para desenvolver e publicar jogos únicos e inovadores e, assim, na indústria dos videogames em geral.” E aí, qual a sua opinião sobre o assunto? Comente nas redes sociais do VOXL. Ess",
+          "image": "https://www.estadao.com.br/resizer/v2/6CGFFXXZ5JGMJJ7AZRPUNP767U.jpg?quality=80&auth=b3768f7ab786b176c188ee6bcd2e087018e56bad9a0392adc1ffb172954db2d0&width=1200&height=630&smart=true"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-golden-scale-how-to-get-fishing-pond/",
+          "title": "How to get the Golden Scale in Zelda Ocarina of Time",
+          "published_at": "2026-11-09T21:05:23+00:00",
+          "kind": "press",
+          "text": "The Golden Scale is a unique item in The Legend of Zelda: Ocarina of Time remake that allows Link to dive deeper. You can consider it an upgrade to the Silver Scale, an item that you obtain as young Link as you try to find Princess Ruto . However, unlike the Silver Scale, you can only get the Golden Scale after becoming adult Link . If you would like to explore the depths of Hyrule and hunt for all the treasures hidden underwater, you should learn how to get the Golden Scale in the Ocarina of Time remake . You obtain the Golden Scale by catching a fish longer than 60 cm in the Fishing Pond . To complete the challenge, you must travel south of Hyrule Field to Lake Hylia as adult Link . You will see that the lake is dry, and you won't be able to reach the Fishing Pond, located on the right side of the map, on your own. You will need to either ride a magic bean plant (that you need to plant as child Link next to the laboratory) or play the Scarecrow Song near the bridge at the front of the building, and then use the Hookshot on to it. Lake Hylia will also be refilled once you clear the Water Temple , so you can come back after that, too. Once inside, talk to the Fishing-Pond Man and learn that you can earn a prize if \"you catch a big enough fish.\" Rent a fishing rod for 30 rupees , allowing you to fish as many times as you want until you tell the Fishing-Pond Man that you're done. When preparing to cast your bait, we suggest that you aim at the middle of the pond where you can usually find big fish. Big fish are more difficult to reel in because they resist for longer periods. Just be patient and keep moving the rod in the direction the fish is pulling. If you catch a fish that is smaller than 60 cm, you just need to toss it back and keep trying until you find the right fish. However, if you get a fish that meets the requirements, keep it, and then go talk to the Fishing-Pond Man . Select the \"I'm done\" option and he will examine your fish, and you will receive the Golden Scale. The Legend of Zelda: Ocarina of Time remake is a little bit different than the original game, so if you need guides to help you through, we don’t blame you. We have walkthroughs for all the dungeons, from the Deku Tree to Ganondorf's Castle . We also have guides for the sillier, in-between parts of the game, like when you have to find Richard (the dog) or Cuccos . For those going for 100% completion, we also have guides on where to find every Piece of Heart , every Gold Skulltula token , and where to plant every Magic Bean .",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zeldaootremake_guide_goldscale_lead.jpg?w=1600&h=900&fit=crop"
+        }
+      ]
+    },
+    {
       "story_id": "9a42eb0696a6c0db",
       "title": "Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais",
       "summary": "The post Assassin’s Creed Valhalla: a atualização com novo jogo+, novo recurso e muito mais appeared first on Xbox Wire em Português .",
@@ -224,114 +283,148 @@
       ]
     },
     {
-      "story_id": "72239cf6a1928307",
-      "title": "Everyone Spent N7 Day Fighting For Mass Effect’s Future",
-      "summary": "While previous years brought hope of updates on BioWare's beloved Mass Effect saga, this November had incensed fans pushing EA towards a course correction",
+      "story_id": "ce7b9126a15f4eba",
+      "title": "Sony adia lançamento das caixas de som Pulse Elevate a poucos dias da estreia",
+      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Acessório do PlayStation chegaria em 12 de novembro O post Sony adia lançamento das caixas de som Pulse Elevate a poucos dias da estreia apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
       "owners": [
-        "keleops",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "d510cad3d90d0317",
-        "5e22c81056b8b69a"
-      ],
-      "sources": [
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/this-years-n7-day-spent-fighting-for-mass-effects-future-2000754828",
-          "title": "Everyone Spent N7 Day Fighting For Mass Effect’s Future",
-          "published_at": "2026-11-07T22:12:46+00:00",
-          "kind": "press",
-          "text": "BioWare Electronic Arts Mass Effect Mass Effect: Universe Fourteen years ago, BioWare designated November 7th as N7 Day. Originally a commemoration for the original Mass Effect âs fifth anniversary, this yearâs festivities have become something of a funeral, with fans, developers, performers and even policy makers in attendance. Following the sudden closure of BioWare last month, and the subsequent materials about Mass Effect Universe that have surfaced , players are intensifying their push to do the series justice. Today is a very special day for Mass Effect fans. We've worked incredibly hard to bring together most of the original Mass Effect trilogy's voice cast to share a very important message with you. We need to #SaveMassEffect . pic.twitter.com/FOp0qp4wBI — We are Mass Effect – #SaveMassEffect (@WeAreMassEffect) November 7, 2026 âThe hardworking people who made Mass Effect deserve to see their vision through,â says Mass Effect composer Sam Hulick, joined by much of the gameâs cast in a video statement . âIâm not ready to see the story end either.â After years of quiet and conflict with the parent company, EA announced the unceremonious closure of BioWare, creators of Mass Effect , Dragon Age , and more. It comes amid a controversial acquisition of EA from a consortium of private equity holders, including the Saudi Arabia Public Investment Fund and Jared Kushnerâs Affinity Partners. Adding insult to injury, the shuttering dropped just a few weeks before N7 day, which in the past had fans awaiting for any news regarding the Mass Effect series . Obviously, no one was on standby for such a party this year, even though evidence suggests EA had already brought decorations . Instead, incensed stalwarts took the opportunity to intensify their campaign to save the series. After purchasing ad space in Times Square , more billboards and trucks for the “Save Mass Effect ” movement have emerged in Wales, Texas, California and Edmonton, the latter being BioWareâs stomping grounds. On top of the series’ own alumni, various other developers and voice performers have joined in. Five Nights At Freddy âs Kellen Goff shared his thoughts on the importance of the series and the movementâs efforts thus far. Owlcat Games released their own video reminiscing on the series, having just hired Dragon Age writer David Gaider to work on Osiris Reborn , their own RPG based on the sci-fi series The Expanse . One of the more unexpected fronts of support come from Canadaâs New Democratic Party. Newly elected party leader Avi Lewis expressed his frustrations with EA and private equity when the closure was first announced, suggesting stronger policy to protect Canadian businesses and even suggesting the federal government intervene in BioWareâs future. While there already is plenty of Canadian funding wrapped up in the gaming industry (see: Ubisoft), NDP member of parliament Don Davies boosted support for the petition, as well as photoshopping his head on Commander Sheppard . BioWare is an Edmonton-based video game studio that created acclaimed series like #MassEffect , Baldurâs Gate, and Dragon Age. Canadaâs video game industry creates some of our most important cultural exports, and #BioWare was among our greatest success stories. (1/3) pic.twitter.com/KeL6LeRzuW — Don Davies (@DonDavies) November 6, 2026 The major front for N7 day appears to be Mass Effect itself. If the petition signatures arenât convincing, theyâre hoping for a high count of simultaneous players on the original game will make a stronger case . Regardless of what course correction is even possible at this point , fans are making themselves unignorable, as billboard trucks roam outside of EAâs Redwood headquarters, Madrid offices are tagged and the announcement of massive back catalogue restoration, which would have been really cool if not for everything else, is drowned out by commenters . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The ME3Tweaks Legendary Edition mod is out today for N7 Day BioWare fans continue to take the fight to IRL spaces In a furious new screed, Spector lets rip at the c-suites who never take responsibility for failure Massive Effect: The BioWare Story will include interviews from developers, collaborators, and industry colleagues The #SaveMassEffect movement is taking its grievances to the Canadian House of Commons The Mass Effect studio was shuttered weeks before its annual celebration would have taken place",
-          "image": "https://kotaku.com/app/uploads/2024/03/ab7be0140108d75dfb05d247751184ee-1200x675.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/mass-effect-cast-save-bioware-n7-day",
-          "title": "\"Something's really possible\" - Mass Effect cast rally around efforts to save the franchise on the first N7 Day after BioWare's closure",
-          "published_at": "2026-11-09T20:09:50+00:00",
-          "kind": "press",
-          "text": "I'm Commander Shepard and this is my favorite video on the internet. This N7 Day was the first without developer BioWare around, but fans of the Mass Effect series didn't let 7th November go by quietly. The community managed to get several notable Mass Effect actors to lend their voice to the increasingly loud 'SaveMassEffect' movement. In the weeks since BioWare's shock closure and Mass Effect Universe's cancellation , the community-organised We Are Mass Effect group have put up billboards in Times Square , a mobile billboard outside BioWare Edmonton's former office and much more while directing attention to an online petition . Today is a very special day for Mass Effect fans. We've worked incredibly hard to bring together most of the original Mass Effect trilogy's voice cast to share a very important message with you. We need to #SaveMassEffect. https://t.co/FOp0qp4wBI And for the series' annual celebration, the group managed to get a sizable portion of the Mass Effect cast to join in. Commander Shepard actors Jennifer Hale and Mark Meer, original trilogy composer Sam Hulick, Garrus' Brandon Keener, Jack's Courtnay Taylor, Tali'Zorah's Ash Sroka, Thane's Keythe Farley and many more all showed up in a two-minute video to help potentially salvage the series - sometimes in character. \"When we heard about the formal closing of Boware, I felt weirdly hopeful,\" Hale said in a separate interview with IGN . \"I can't explain it. I just got so weirdly hopeful. My first thought, of course, was for the devs and all the people. And then I just closed my eyes and crossed my fingers and I said, 'I feel something's possible. You know, something's really possible.'\" The other half of Commander Shepard, Mark Meer, noted that \"this didn't all just happen in the last 10 days.\" Near yearly layoffs at EA had slowly trimmed multiple BioWare teams down, sometimes even affecting studio veterans who had been at the company for decades. \"A lot of senior writers within the last year or two were let go. People who had been there from the very beginning. Again, people who had built that company from the ground up, who built the bones of it, who made those games that had captured people so much right back from the 1990s,\" Meer said.",
-          "image": "https://assetsio.gnwcdn.com/maxresdefault_wbxErkr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
-      "story_id": "face71cbe7b4e477",
-      "title": "Shrek e Sonic agitam lançamentos da semana no PS5",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Shrek 2 Remastered e Sonic Pico Park são os destaques da semana O post Shrek e Sonic agitam lançamentos da semana no PS5 apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
-      "owners": [
-        "meups",
-        "nzn"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "5dd12f8c189c23e3",
-        "163d4904333ee0d7"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/lancamentos/shrek-e-sonic-agitam-lancamentos-da-semana-no-ps5/",
-          "title": "Shrek e Sonic agitam lançamentos da semana no PS5",
-          "published_at": "2026-11-07T23:03:42+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/Lancamentos-da-Semana.jpg"
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/sonic-pico-park-shrek-2-remastered-e-mais-veja-os-lancamentos-de-games-da-semana/",
-          "title": "Sonic Pico Park, Shrek 2 Remastered e mais! Veja os lançamentos de games da semana",
-          "published_at": "2026-11-08T22:30:00+00:00",
-          "kind": "press",
-          "text": "Mais uma semana que começa com a nossa lista de lançamentos para que você possa se programar para os próximos dias. O grande destaque dessa vez é Sonic Pico Park , game do icônico personagem em uma abordagem nunca antes vista, que mistura elementos de puzzle com cooperação entre os personagens. Outro destaque é Shrek 2 Remastered . Como o nome sugere, ele é uma remasterização de um dos games mais elogiados do famoso ogro dos cinemas, que conta com melhorias nos gráficos e no desempenho. Confira a lista completa de lançamentos da semana e os respectivos preços. Shrek 2 Remastered é uma versão remasterizada do jogo de aventura lançado originalmente para a geração 128 bits , no PlayStation 2 e Nintendo GameCube. O título acompanha o ogro e seus amigos em fases baseadas na história do segundo filme da franquia de animação, passando por locais como o pântano e o reino de Tão Tão Distante. A jogabilidade permite alternar entre quatro personagens durante as missões , cada um com habilidades específicas para resolver puzzles no cenário e avançar na história. O lançamento traz melhorias gráficas e suporte para resolução atualizada, além de manter o foco no modo cooperativo local para até quatro pessoas. O game já está em pré-venda a partir de R$ 87,29. Football Manager 27 é o novo capítulo da franquia anual de simulação e gerenciamento de futebol , que é desenvolvida pela Sports Interactive. O jogador assume o papel de treinador e gerente de um clube, e precisa lidar com as responsabilidades do cargo, d esde a montagem do elenco até o controle das finanças e o relacionamento com a imprensa. A edição deste ano atualiza os elencos, ligas e competições para a temporada atual do futebol mundial. O título oferece ferramentas de análise de dados para ajustar táticas antes e durante as partidas e traz sistemas de observação para contratar novos jogadores e desenvolver talentos nas categorias de base do time. OBS: Por motivos de licenciamento, o jogo não é vendido de forma oficial no Brasil. Warhammer Survivors é um jogo de ação com visão isométrica, inspirado no fenômeno Vampire Survivors. O formato segue o estilo de sobrevivência, no qual os ataques acontecem de forma automática e o foco está na movimentação pelo cenário, enquanto o jogador enfrenta hordas contínuas de inimigos em arenas fechadas. O título reúne mais de 40 campeões extraídos dos universos de Warhammer 40,000 e Warhammer Age of Sigmar. Durante as partidas, é necessário coletar recursos deixados pelos oponentes derrotados para subir de nível e escolher novas armas e habilidades. O game ainda não possui um preço definido, mas já conta com uma versão demo que pode ser baixada de forma gratuita. Sonic Pico Park é um jogo de ação e quebra-cabeça focado no modo multijogador cooperativo. A proposta une os personagens da franquia do ouriço da Sega com as mecânicas de colaboração em grupo vistas no título independente Pico Park original. Para completar cada fase, os participantes precisam coordenar seus movimentos e realizar ações conjuntas, como empilhar os personagens para alcançar locais mais altos ou ativar botões simultaneamente. O progresso exige comunicação constante entre os jogadores , pois falhas individuais resultam no reinício do nível atual. O jogo ainda não possui um preço definido. Barbie Rewind é uma coletânea focada na preservação histórica de títulos antigos da boneca da Mattel, desenvolvida pela Digital Eclipse e publicada pela Atari. O pacote conta com os seguintes jogos: Seguindo o modelo de outros projetos da desenvolvedora, a coleção funciona como um museu virtual interativo, trazendo artes conceituais, documentos de bastidores e materiais de acervo sobre o desenvolvimento dos jogos. O game ainda não possui um preço definido. E na sua opinião, qual o game mais esperado da semana? Conte para a gente nas redes sociais do Voxel! Home office: 55 vagas para trabalho remoto internacional [06/11] Cupom Black Friday: lista dos melhores cupons e ofertas de 2026 Apple lança iOS 27.2.1 e atualiza versões antigas do sistema; saiba o que muda Vivo Satélite: como verificar a compatibilidade do celular e usar a internet da Starlink? CEO da Nvidia vira meme após traição e possível caso de espionagem; veja reações da internet",
-          "image": "https://www.estadao.com.br/resizer/v2/NHCLIARGVZDYNHFEFQ3676G2SQ.jpg?quality=80&auth=aca844283010aae5b702a10069239c300464c883f6f704cb269fa5e3c0a274a1&width=1200&height=630&smart=true"
-        }
-      ]
-    },
-    {
-      "story_id": "8dc68e727073c2c1",
-      "title": "Sony volta a promover exclusividade e adiciona novo selo a jogos do PlayStation 5",
-      "summary": "A Sony começou a reintroduzir discretamente o selo de exclusividade em páginas oficiais de seus principais lançamentos para o PlayStation 5. Conforme notado nas redes sociais , páginas de jogos como Ghost of Yotei e Until Dawn 2 no portal oficial da marca agora exibem o logotipo \"Exclusivo para PlayStation\", indicando um retorno à valorização de títulos exclusivos em sua comunicação. A iniciativa...",
-      "owners": [
-        "gameblast",
+        "adrenaline",
         "meups"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "cf6e8a7c82ee30ae",
-        "78223012e381e9fd"
+        "4e7eae4755c6c190",
+        "f6947ed67b2be7a7"
       ],
       "sources": [
         {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/sony-volta-a-promover-exclusividade-e-adiciona-novo-selo-a-jogos-do-playstation-5.html",
-          "title": "Sony volta a promover exclusividade e adiciona novo selo a jogos do PlayStation 5",
-          "published_at": "2026-11-08T03:45:31+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
           "name": "MeuPlayStation",
           "owner": "meups",
-          "url": "https://meups.com.br/noticias/sony-selo-playstation-exclusive-jogos/",
-          "title": "Sony volta a adicionar selo “PlayStation Exclusive” em alguns jogos",
-          "published_at": "2026-11-08T14:04:52+00:00",
+          "url": "https://meups.com.br/noticias/sony-adia-lancamento-das-caixas-de-som-pulse-elevate-a-poucos-dias-da-estreia/",
+          "title": "Sony adia lançamento das caixas de som Pulse Elevate a poucos dias da estreia",
+          "published_at": "2026-11-08T13:00:34+00:00",
           "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2025/09/Sony-PlayStation-Studios.jpg"
+          "text": "Fundador do MeuPlayStation, formado em Ciência da Computação e especialista na indústria de games, com mais de 15 anos de experiência e ampla cobertura do ecossistema PlayStation.",
+          "image": "https://meups.com.br/wp-content/uploads/2025/09/maxresdefault-1-4.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/perifericos/sony-adia-speakers-pulse-elevate-do-playstation-que-ficam-sem-data-de-estreia/",
+          "title": "Sony adia speakers Pulse Elevate do PlayStation, que ficam sem data de estreia",
+          "published_at": "2026-11-08T18:06:47+00:00",
+          "kind": "press",
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/sony-adia-pulse-elevate-som-playstation.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "6f28d4f043d0c796",
+      "title": "Launcher da Epic Games terá versão oficial para o SteamOS",
+      "summary": "Epic Games confirma versão do seu Launcher para Linux com foco no SteamOS, mas não oferece janela de lançamento",
+      "owners": [
+        "adrenaline",
+        "vox-media"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "1c58a57ee2ee7f7e",
+        "0ada17149d25ce34"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/pc-games/launcher-da-epic-games-tera-versao-oficial-para-o-steamos/",
+          "title": "Launcher da Epic Games terá versão oficial para o SteamOS",
+          "published_at": "2026-11-08T14:08:17+00:00",
+          "kind": "press",
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/epic-games-linux-confirmado-steamos.jpg"
+        },
+        {
+          "name": "The Verge Games",
+          "owner": "vox-media",
+          "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+          "title": "Epic Games Launcher is coming to SteamOS",
+          "published_at": "2026-11-08T20:52:05+00:00",
+          "kind": "press",
+          "text": "Epic Games confirmed that its Linux launcher will officially support SteamOS and Steam Decks. Epic Games confirmed that its Linux launcher will officially support SteamOS and Steam Decks. In October, Epic Games said that it was “ investigating ” making Fortnite compatible with Valve’s Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux . In response to a question about the AppImage being replaced with Debian / Ubuntu .deb downloads, Jones said: “The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We’re testing and evaluating packaging formats for distribution, and we’ll restore AppImage this month.” That doesn’t necessarily mean Fortnite will come to SteamOS. Easy Anti-Cheat (EAC) Linux v2 support still remains an open question. When it announced its work to bring Fortnite to Linux, the company said that the Steam Deck “does not support the required features for our EAC v2 solution, but we are actively talking with Valve and hope to support it in the future.”",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK108_EPIC_GAMES_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        }
+      ]
+    },
+    {
+      "story_id": "e346f97c42364e11",
+      "title": "My Hero Ultra Rumble Mobile teaser trailer",
+      "summary": "Bandai Namco has released a teaser trailer for My Hero Ultra Rumble Mobile, its newly …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "c6d0a2f6e008add7",
+        "ff56440afa359750"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/my-hero-ultra-rumble-mobile-teaser-trailer",
+          "title": "My Hero Ultra Rumble Mobile teaser trailer",
+          "published_at": "2026-11-08T15:00:59+00:00",
+          "kind": "press",
+          "text": "Bandai Namco has released a teaser trailer for My Hero Ultra Rumble Mobile , its newly announced mobile version of the free-to-play battle royale coming. Pre-registration is available now for iOS via App Store and Android via Google Play . As previously detailed, the mobile version will operate as its own game, and will not support cross-play between the existing console and PC versions of My Hero Ultra Rumble . Cross-play between iOS and Android is supported. Here is an overview of the game, via its store pages: My Hero Ultra Rumble Mobile is finally here! Become your favorite My Hero Academia characters and fight to survive in an epic battle royale featuring eight teams of three players! Use your Quirks to team up with players online and fight your way to become the last team standing! An online multiplayer action game where you battle as My Hero Academia characters in an epic 24-player battle royale! Take on a vast battlefield and unleash each character’s unique Quirk! Team up with players online and fight your way to becoming the last team standing! Every new season will add content, including characters and costumes! Dive into a battle where the tide can turn in an instant! Watch the trailer below. Visit the official website here .",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/My-Hero-Ultra-Rumble-Mobile-Ann_11-08-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/my-hero-ultra-rumble-battle-royale-baseado-my-hero-academia-recebe-primeiro-trailer.html",
+          "title": "My Hero Ultra Rumble Mobile, battle royale baseado em My Hero Academia, recebe primeiro trailer",
+          "published_at": "2026-11-08T21:24:46+00:00",
+          "kind": "press",
+          "text": "A versão mobile não terá suporte cross-play com as versões para consoles e PC.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIClis8tT9r35LFstwMg2_OLMcE0P3Cdo5w7Im9ianHdQjfQdDW64B3AMcw6Canvmgd64IJlEU3ScoNQETj5abim24HYNJGE3m45i7F4aT-aakLMxj3vJqWNxnC9egl1j-osZqKY5mo93t-MFfnWsaX3nPIQGrjxPXATUsQOyd6ZDz9GhKHOJBA1Q4tTYY/w1200-h630-p-k-no-nu/myheroultrablast.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "2df3b18575b70466",
+      "title": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
+      "summary": "GTA 6 is due to release on the 19th November on PS5, and Xbox Series X/S, and ahead of the highly-anticipated launch of Rockstar's latest sandbox adventure, people just can't get enough information about the game. To that end, overnight, we saw our latest leak: the game will have 55 Trophies/Achievements. Read more",
+      "owners": [
+        "insider-gaming",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "7ed5f43198f2aa4e",
+        "6f93dc78bc746d42"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/gta-6-achievements-trophies-55",
+          "title": "GTA 6 reportedly has 55 Achievements/Trophies, more than both GTA 5 and Red Dead Redemption 2 had at launch",
+          "published_at": "2026-11-09T09:41:40+00:00",
+          "kind": "press",
+          "text": "GTA 6 is due to release on the 19th November on PS5, and Xbox Series X/S, and ahead of the highly-anticipated launch of Rockstar's latest sandbox adventure, people just can't get enough information about the game. To that end, overnight, we saw our latest leak: the game will have 55 Trophies/Achievements. In a now-deleted tweet from (in)famous Rockstar dataminer, TexFunz2 - re-posted by the Twitter account iGrandTheftAuto - it appears the game will have 55 individual rewards for completing certain tasks and missions. At the time of writing, we don't know specifically what these challenges are, but it seems none of them will be attached to the online version of the game; the base game launches without GTA Online , and so we can safely assume that all these rewards will be for the single-player only content. GTA Online will drop sometime in 2027, according to Twitch's CEO . If you've been paying attention to previous Rockstar titles, you'll know that Grand Theft Auto 5 launched with 51 Achievements/Trophies - again, all single-player - and Red Dead Redemption 2 launched with 52. So the latest game has more than either game got at launch - and I can tell you from experience, getting Platinum in either title was a very time-consuming experience. Expect the same to be true here, too. It's worth highlighting that GTA 5 did, eventually, get more Achievements and Trophies: the GTA Online content upped the complete total to 78, adding 27 new challenges to complete. I would expect GTA 6 to do the same… whenever the PC version of GTA comes out, or GTA Online lands in the new game (it's possible both could happen at the same time). Recently, we heard why a former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect (mostly thanks to AI clones), when we can expect the pre-load of the game (10th November), and how big the final game install is expected to be (210GB). The final game is expected to be so big and dense with detail that no single Rockstar employee has seen the entire game , meaning there are plenty of easter eggs and ridiculous things to discover.",
+          "image": "https://assetsio.gnwcdn.com/Lucia-trophies-achievements.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/red-dead-redemption-2-90m-sold/",
+          "title": "Red Dead Redemption 2 Approaches 90M Units Sold Since Launch",
+          "published_at": "2026-11-09T21:41:28+00:00",
+          "kind": "press",
+          "text": "Currently a bit overshadowed by the impending bombshell release of Grand Theft Auto 6 , its sister series at Rockstar, Red Dead Redemption, continues chugging along. According to Take-Two’s latest earnings report , RDR2 has nearly crossed the threshold of 90 million units sold since it was released in 2018. As it stands, the epic western RPG has sold a staggering 89 million units to date. This new sales number of 89 million units for Red Dead Redemption 2 is thoroughly impressive, as Rockstar is now nearing having two games that have broken into the extremely rare 100m+ copies sold category. In fact, in addition to GTA5, only two other titles have ever surpassed the nine-figure threshold in the history of video games: Tetris and Minecraft. While GTA5 itself sits well over 200 million copies sold to date and Red Dead Redemption 2 realistically won’t ever catch it, it’s still incredible for Rockstar to have captured this level of lightning in a bottle twice. Having the third and fourth best-selling games ever is no small feat. With Take-Two and Rockstar’s sights now firmly fixed on the release of Grand Theft Auto 6 on November 19th, there’s no telling how long Red Dead Redemption 2 can actually hold on to the fourth spot on the all-time best-selling games list. If GTA5 sales are an indicator of GTA6’s incoming popularity, it might not be long until it can catch RDR2. Still, what Red Dead Redemption 2 has managed to achieve since launch is impressive, and Rockstar doesn’t seem like they plan on slowing down any time soon. Are you one of the 89m+ who have bought RDR2, and would you theoretically be more excited for an RDR3 than GTA6? Let us know in the Insider Gaming Discord server . Getting ready for GTA6? Grow your hype and take a look at every map location revealed so far . For more news delivered to you weekly, sign up for the Insider Gaming newsletter . Ethan Krieger got started as a sports journalist covering the NBA, but video games have always been his main passion. Since then, he's edited and written for multiple gaming outlets,…",
+          "image": "https://insider-gaming.com/wp-content/uploads/2024/02/red-dead-redemption-2-games-like-indiana-jones.webp"
         }
       ]
     }
-  ],
-  "especial_gta6": null,
-  "especiais_gta6_hoje": 2
+  ]
 }
