@@ -143,3 +143,18 @@ concorrentes:
   - {perfil: ubisoft, tema: games}
   - {perfil: ignbrasil, tema: games}
   - {perfil: jovemnerd, tema: games}
+
+# Cortes das lives (Diego, 10/11): clipes de GTA 6 mais vistos na Twitch (API oficial)
+# e na Kick, só a imagem do jogo (scripts/social/rosto.py corta a câmera do streamer ou
+# descarta). Começa às 8h de 18/11, quando o jogo libera na Nova Zelândia; nada gravado
+# antes disso entra. Código: scripts/social/lives.py.
+lives:
+  inicio: "2026-11-18T08:00"
+  fim: "2026-11-22T23:59"
+  jogo_twitch: "Grand Theft Auto VI"
+  janela_horas: 3          # clipes criados nas últimas 3 horas
+  por_rodada: 2            # até 2 clipes prontos a cada rodada (de 30 em 30 min)
+  min_views: 20
+  duracao: [8, 60]         # segundos
+  canais_twitch: [alanzoka]   # favoritos do Diego: pesam 3x (login da Twitch)
+  canais_kick: []
