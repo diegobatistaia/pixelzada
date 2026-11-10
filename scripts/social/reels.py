@@ -31,11 +31,13 @@ PEDIDO = P.SAIDA / "pedido-reel.json"
 # (9h, 11h, 13h, 15h, 17h, 19h e 21h).
 HORARIOS = ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]  # grade antiga (até 09/11)
 
-# Aquecimento para o GTA 6 (Diego, 09/11): 15 Reels/dia de 10 a 15/11 (de hora em
-# hora, sempre no "e meia", longe dos carrosséis das horas cheias) e 25/dia a partir
-# de 16/11 (de 30 em 30 minutos, no :15 e no :45).
-GRADE_15 = [f"{h:02d}:30" for h in range(8, 23)]                                   # 08:30 .. 22:30
-GRADE_25 = [f"{9 + i // 2:02d}:{15 if i % 2 == 0 else 45}" for i in range(25)]     # 09:15 .. 21:15
+# Aquecimento para o GTA 6 (Diego, 09/11): 15 Reels/dia de 10 a 15/11 e 25/dia a partir
+# de 16/11. Sem carrosséis (pausados em 10/11), o Diego quer tudo SÓ entre 7h e 21h
+# (10/11), até ele liberar mais horários: 15/dia de hora em hora (7h, 8h ... 21h) e
+# 25/dia de 35 em 35 minutos (7h00, 7h35, 8h10 ... 21h00).
+JANELA = ("07:00", "21:00")
+GRADE_15 = [f"{h:02d}:00" for h in range(7, 22)]                                    # 07:00 .. 21:00
+GRADE_25 = [f"{(420 + 35 * i) // 60:02d}:{(420 + 35 * i) % 60:02d}" for i in range(25)]  # 07:00 .. 21:00
 
 
 def horarios(dia: date | str) -> list[str]:
