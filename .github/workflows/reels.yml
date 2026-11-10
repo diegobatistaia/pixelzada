@@ -13,6 +13,9 @@ on:
     # da hora, com pelo menos 1 hora depois do anterior (15/dia de 10 a 15/11, 17/dia desde 16/11).
     - cron: "*/10 10-23 * * *"
     - cron: "*/10 0-2 * * *"
+    # Lançamento do GTA 6 (Diego, 10/11): de 19 a 22/11 também de madrugada
+    # (0h às 6h50 de Brasília = 3h às 9h50 UTC), um Reel a cada 30 minutos.
+    - cron: "*/10 3-9 19-22 11 *"
   workflow_dispatch:
     inputs:
       acao:
