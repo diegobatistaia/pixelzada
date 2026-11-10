@@ -1,0 +1,78 @@
+{
+  "slug": "hollow-knight-silksong-pacotes-gratuitos-lista",
+  "tipo": "noticia",
+  "formato": "lista",
+  "assunto": "Silksong",
+  "gta6": false,
+  "materia": "hollow-knight-silksong-edicao-fisica-pacotes-gratuitos-sea-of-sorrow",
+  "criado": "2026-11-10T07:55:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/silksong-sea-of-sorrows.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Eurogamer",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Eurogamer, Polygon e GamesRadar",
+  "capa": {
+    "titulo": "O que o manual de Silksong revelou",
+    "destaque": "manual",
+    "apoio": "Pacotes gratuitos e uma expansão. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Pacotes",
+      "titulo": "Vários pacotes gratuitos",
+      "destaque": "gratuitos",
+      "texto": [
+        "O manual da edição física promete novos amigos, habilidades e inimigos, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Expansão",
+      "titulo": "Sea of Sorrow é a primeira",
+      "destaque": "primeira",
+      "texto": [
+        "O livreto a chama de primeira grande expansão, segundo a Polygon e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Data",
+      "titulo": "Só diz em breve",
+      "destaque": "em breve",
+      "texto": [
+        "Não há data para a Sea of Sorrow, segundo a Polygon e a GamesRadar."
+      ]
+    },
+    {
+      "rotulo": "Edição física",
+      "titulo": "Chega em 10 de novembro",
+      "destaque": "10 de novembro",
+      "texto": [
+        "A caixa traz manual, mapa desenhado à mão e capa reversível, segundo a GamesRadar."
+      ]
+    }
+  ],
+  "final": "Qual pacote você quer ver primeiro?",
+  "legenda": {
+    "gancho": "O manual da edição física de Hollow Knight: Silksong promete vários pacotes de conteúdo gratuitos.",
+    "corpo": [
+      "Segundo a Eurogamer, a Polygon e a GamesRadar, o livreto também chama a Sea of Sorrow de primeira grande expansão, mas só diz que ela chega em breve, sem data.",
+      "A Team Cherry ainda não comentou."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#hollowknight",
+      "#silksong",
+      "#teamcherry"
+    ]
+  },
+  "alt": [
+    "Slide 1: O que o manual de Silksong revelou",
+    "Slide 2: Vários pacotes gratuitos",
+    "Slide 3: Sea of Sorrow é a primeira",
+    "Slide 4: Só diz em breve",
+    "Slide 5: Chega em 10 de novembro",
+    "Slide 6: Qual pacote você quer ver primeiro?"
+  ],
+  "status": "pronto"
+}

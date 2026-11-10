@@ -1,0 +1,78 @@
+{
+  "slug": "take-two-balanco-gta-6-pre-vendas-manchete",
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "take-two-balanco-q2-gta-6-pre-vendas-acima-do-esperado",
+  "criado": "2026-11-10T07:55:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "GamesIndustry.biz",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesIndustry.biz, Kotaku e Eurogamer",
+  "capa": {
+    "titulo": "Pré-vendas de GTA 6 superam o esperado, diz Take-Two",
+    "destaque": "superam o esperado",
+    "apoio": "O balanço trouxe um recado duplo. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O fato",
+      "titulo": "Pré-vendas acima do esperado",
+      "destaque": "acima",
+      "texto": [
+        "A Take-Two diz que as reservas de GTA 6 vão bem além do previsto, segundo a GamesIndustry.biz, o Kotaku e a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Contexto",
+      "titulo": "Trimestre mais fraco",
+      "destaque": "fraco",
+      "texto": [
+        "As reservas líquidas caíram 18%, para US$ 1,60 bilhão, segundo a GamesIndustry.biz."
+      ]
+    },
+    {
+      "rotulo": "Previsão",
+      "titulo": "Até US$ 8,2 bilhões no ano",
+      "destaque": "US$ 8,2 bilhões",
+      "texto": [
+        "A empresa manteve a previsão de reservas de US$ 8 bilhões a US$ 8,2 bilhões, segundo a GamesIndustry.biz."
+      ]
+    },
+    {
+      "rotulo": "Próximo passo",
+      "titulo": "Pré-download em 10 de novembro",
+      "destaque": "Pré-download",
+      "texto": [
+        "O lançamento é em 19 de novembro, segundo o Kotaku."
+      ]
+    }
+  ],
+  "final": "Você já reservou GTA 6?",
+  "legenda": {
+    "gancho": "A Take-Two diz que as pré-vendas de GTA 6 estão bem acima do que esperava.",
+    "corpo": [
+      "Segundo a GamesIndustry.biz, o Kotaku e a Eurogamer, o balanço trouxe queda de 18% nas reservas do trimestre, mas a empresa manteve a previsão de até US$ 8,2 bilhões no ano.",
+      "GTA 6 chega em 19 de novembro para PS5 e Xbox Series."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Pré-vendas de GTA 6 superam o esperado, diz Take-Two",
+    "Slide 2: Pré-vendas acima do esperado",
+    "Slide 3: Trimestre mais fraco",
+    "Slide 4: Até US$ 8,2 bilhões no ano",
+    "Slide 5: Pré-download em 10 de novembro",
+    "Slide 6: Você já reservou GTA 6?"
+  ],
+  "status": "pronto"
+}
