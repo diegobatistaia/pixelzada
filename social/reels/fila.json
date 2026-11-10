@@ -1798,5 +1798,37 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-meups-oficial",
+    "data": "2026-11-12",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Missão",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/DfiWudADMCp/",
+      "titulo": "padrao",
+      "revisado": false
+    }
+  },
+  {
+    "slug": "gta-6-gta6clube-2",
+    "data": "2026-11-12",
+    "horario": "22:30",
+    "status": "agendado",
+    "estilo": "Inventário",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6clube",
+      "link": "https://www.instagram.com/reel/DfiR9qmDron/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
