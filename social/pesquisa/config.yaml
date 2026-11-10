@@ -72,6 +72,8 @@ temas:
 # a API enxerga (só perfis profissionais) e os que falharem saem.
 concorrentes:
   - {perfil: sougamergeek, tema: games}     # links do Diego (09/11); posta de tudo, não só GTA 6
+  - {perfil: brief_escape_, tema: games}    # link de perfil do Diego (10/11)
+  - {perfil: bruneygta, tema: gta6}         # link de perfil do Diego (10/11)
   - {perfil: gta6clube, tema: gta6}
   - {perfil: gtacommunity, tema: gta6}
   - {perfil: houseofgta6, tema: gta6}
