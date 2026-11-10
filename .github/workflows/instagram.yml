@@ -13,6 +13,8 @@ name: Instagram
 #
 # O GitHub atrasa os agendamentos, então cada horário tem três tentativas; a
 # primeira que roda publica e as outras saem em segundos.
+# PAUSA (Diego, 10/11): carrosséis e Stories pausados (CARROSSEL_ATIVO = False em
+# scripts/social/instagram.py); as rodadas saem como "nada" até ele mandar retomar.
 on:
   schedule:
     - cron: "2,22,47 12,14,16,18,20,22,0 * * *"   # 09, 11, 13, 15, 17, 19 e 21h
