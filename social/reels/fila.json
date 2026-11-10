@@ -1231,7 +1231,7 @@
     "slug": "gta6-maior-lancamento-da-historia",
     "data": "2026-11-10",
     "horario": "12:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Legenda",
     "legenda": "GTA 6: o maior lançamento da história dos videogames 💀\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #rockstargames #pixelzada",
     "tentativas": 0,
@@ -1241,6 +1241,11 @@
       "link": "https://www.instagram.com/reel/DcKE-GghYQ4/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T14:14:36-03:00",
+      "media_id": "18360758608223449",
+      "permalink": "https://www.instagram.com/reel/DfkazCNmRfD/"
     }
   },
   {
