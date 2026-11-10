@@ -1,14 +1,26 @@
 {
   "pedido": {
-    "acao": "reel",
-    "slug": "gta6-predios-franca",
-    "pasta": "reel-gta6-predios-franca",
-    "horario": "16:00",
-    "data": "2026-11-10"
+    "acao": "carrossel",
+    "slug": "take-two-balanco-gta-6-pre-vendas-manchete",
+    "horario": "15:00",
+    "data": "2026-11-10",
+    "estilo": "mapa",
+    "slides": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg",
+      "04.jpg",
+      "05.jpg",
+      "06.jpg"
+    ],
+    "story": "story.jpg"
   },
-  "em": "2026-11-10T16:12:09-03:00",
+  "em": "2026-11-10T16:29:26-03:00",
   "ok": true,
-  "media_id": "18115523954466863",
-  "permalink": "https://www.instagram.com/reel/DfkoU-LiuCS/",
+  "media_id": "17961208323014658",
+  "permalink": "https://www.instagram.com/p/DfkqRzlH-xT/",
+  "story": {
+    "erro": "HTTP 400 em 17841420505797110/media_publish: {\"error\":{\"message\":\"The requested resource does not exist\",\"type\":\"OAuthException\",\"code\":24,\"error_subcode\":2207006,\"is_transient\":false,\"error_user_title\":\"Media Not Found\",\"error_user_msg\":\"The media with 18,139,559,146,683,527 cannot be found.\",\"fbtrace_id\":\"AZ1VGs-1ldfrixVZ53V8jw1\"}}"
+  },
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
