@@ -1580,19 +1580,20 @@
     }
   },
   {
-    "slug": "zelda-ocarina-pc-multiplayer",
+    "slug": "gta6-ps5-recursos-exclusivos",
     "data": "2026-11-11",
     "horario": "19:00",
     "status": "agendado",
     "estilo": "Moldura",
-    "legenda": "Modders levam Zelda Ocarina of Time para o PC e criam até modo multiplayer 🗡️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #mods #pcgamer #pixelzada",
+    "legenda": "Do nada! Rockstar divulga novo vídeo mostrando os recursos exclusivos do GTA 6 no PlayStation 5 🎮🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #playstation #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "voxeloficial",
-      "link": "https://www.instagram.com/reel/DfhS2nWmpTl/",
+      "perfil": "for4gamers",
+      "link": "https://www.instagram.com/reel/Dfkb6QBzNTl/",
       "titulo": "claude",
-      "revisado": true
+      "revisado": true,
+      "pedido": "Diego 10/11: amanhã no melhor horário"
     }
   },
   {
@@ -2092,19 +2093,19 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-for4gamers",
+    "slug": "zelda-ocarina-pc-multiplayer",
     "data": "2026-11-13",
     "horario": "21:00",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "Moldura",
+    "legenda": "Modders levam Zelda Ocarina of Time para o PC e criam até modo multiplayer 🗡️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #mods #pcgamer #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "for4gamers",
-      "link": "https://www.instagram.com/reel/Dfkb6QBzNTl/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "voxeloficial",
+      "link": "https://www.instagram.com/reel/DfhS2nWmpTl/",
+      "titulo": "claude",
+      "revisado": true
     }
   }
 ]
