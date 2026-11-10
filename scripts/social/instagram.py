@@ -54,6 +54,9 @@ CARROSSEIS = [("09:00", "outros"), ("11:00", "gta"), ("13:00", "outros"), ("15:0
 # repensar). O código segue pronto: para religar, REEL_ATIVO = True.
 REEL_ATIVO = False
 STORY_SO_GTA = True
+# PAUSA (Diego, 10/11): carrosséis e Stories pausados; só os Reels de vídeo
+# (reels.yml) publicam. Para retomar quando o Diego mandar, CARROSSEL_ATIVO = True.
+CARROSSEL_ATIVO = False
 REEL = "18:00"
 # O GitHub atrasa os agendamentos. Um horário fica aberto de 2 min antes até
 # 1h50 depois (antes do carrossel seguinte); dentro da janela, cada tentativa vê
@@ -101,6 +104,8 @@ def candidatas(pautas: list[dict], t: datetime) -> list[dict]:
 
 def escolher(t: datetime | None = None, pautas: list[dict] | None = None) -> dict | None:
     """O pedido deste momento: carrossel, Reel ou nada."""
+    if not CARROSSEL_ATIVO:
+        return None  # pausa dos carrosséis (Diego, 10/11)
     t = t or agora()
     pautas = pautas if pautas is not None else P.todas()
     hoje = t.date().isoformat()
