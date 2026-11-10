@@ -7,34 +7,36 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-10T01:38-03:00",
+ "atualizado": "2026-11-10T10:29-03:00",
  "hoje": {
   "data": "2026-11-10",
   "reels": {
    "meta": 15,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "publicados": 1,
+   "deviam_ter_saido": 2,
+   "atrasados": [
+    "09:30"
+   ],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 1,
+   "deviam_ter_saido": 1,
    "atrasados": [],
-   "pautas_esperando": 0
+   "pautas_esperando": 2
   }
  },
  "fila_reels": {
-  "agendados": 43,
+  "agendados": 44,
   "meta_por_dia": 15,
   "dias_de_reserva": 2.9,
-  "grade_cheia_ate": "2026-11-11",
-  "sem_revisao": 3,
+  "grade_cheia_ate": "2026-11-12",
+  "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-10",
-    "agendados": 15,
+    "agendados": 13,
     "meta": 15
    },
    {
@@ -44,81 +46,87 @@
    },
    {
     "data": "2026-11-12",
-    "agendados": 13,
+    "agendados": 15,
+    "meta": 15
+   },
+   {
+    "data": "2026-11-13",
+    "agendados": 1,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 169,
-  "hoje": 0,
+  "total": 171,
+  "hoje": 2,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Hollow Knight: Silksong terá pacotes gratuitos, diz manual da edição física",
-   "url": "https://pixelzada.com.br/pt/hollow-knight-silksong-edicao-fisica-pacotes-gratuitos-sea-of-sorrow/",
-   "em": "2026-11-09T21:41:57-03:00"
+   "titulo": "O que a capa da Game Informer revelou sobre GTA 6 e Leonida",
+   "url": "https://pixelzada.com.br/pt/gta-6-game-informer-capa-welcome-to-leonida-o-que-revelou/",
+   "em": "2026-11-10T09:41:06-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "09/11/2026 19:47",
+  "ultima_coleta": "10/11/2026 06:22",
   "perfis_lidos": 35,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 36,
+  "seguidores": 42,
   "seguindo": 5,
-  "posts": 217,
-  "alcance_7d": 24596,
-  "views_7d": 32635,
+  "posts": 219,
+  "alcance_7d": 25656,
+  "views_7d": 34241,
   "reels_7d": {
    "quantidade": 17,
-   "views_total": 32855,
-   "views_mediana": 190,
+   "views_total": 35360,
+   "views_mediana": 196,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-09": 1396,
-    "2026-11-08": 29860,
-    "2026-11-04": 574,
-    "2026-11-03": 1025
+    "2026-11-10": 215,
+    "2026-11-09": 1477,
+    "2026-11-08": 32217,
+    "2026-11-04": 581,
+    "2026-11-03": 870
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 29627,
-     "alcance": 21957,
-     "curtidas": 832,
+     "views": 31980,
+     "alcance": 23476,
+     "curtidas": 929,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 364,
-     "alcance": 294,
-     "curtidas": 10,
+     "views": 417,
+     "alcance": 334,
+     "curtidas": 12,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
     },
     {
      "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
-     "views": 308,
-     "alcance": 189,
+     "views": 311,
+     "alcance": 191,
      "curtidas": 3,
      "link": "https://www.instagram.com/reel/DfhawTADKHY/",
      "em": "2026-11-09T10:17:06-03:00"
     },
     {
      "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
-     "views": 233,
-     "alcance": 161,
+     "views": 237,
+     "alcance": 163,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
      "em": "2026-11-08T18:01:04-03:00"
     },
     {
      "legenda": "Eu indo pra casa no dia 19 de novembro pra jogar GTA 6 🏎️",
-     "views": 220,
-     "alcance": 178,
+     "views": 226,
+     "alcance": 180,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DfiCe19Enl0/",
      "em": "2026-11-09T16:04:13-03:00"
@@ -127,20 +135,20 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 67,
+  "rodadas_24h": 70,
   "falhas_24h": 2,
   "sem_resolver": 0,
   "lista": [
    {
     "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-09T19:49:11-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42715234209",
+    "em": "2026-11-10T06:28:29-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42791002698",
     "resolvido": true
    },
    {
-    "workflow": "Reels",
-    "em": "2026-11-09T10:11:33-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42623299772",
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-09T19:49:11-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42715234209",
     "resolvido": true
    }
   ]
@@ -153,7 +161,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 574
+   "views_reels": 581
   },
   {
    "data": "2026-11-05",
@@ -189,7 +197,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 29860
+   "views_reels": 32217
   },
   {
    "data": "2026-11-09",
@@ -198,16 +206,16 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1396
+   "views_reels": 1477
   },
   {
    "data": "2026-11-10",
-   "reels": 0,
+   "reels": 1,
    "reels_meta": 15,
-   "carrosseis": 0,
+   "carrosseis": 1,
    "carrosseis_meta": 7,
-   "materias": 0,
-   "views_reels": null
+   "materias": 2,
+   "views_reels": 215
   }
  ],
  "seguidores_por_dia": [
@@ -221,8 +229,13 @@
   },
   {
    "data": "2026-11-10",
-   "seguidores": 36
+   "seguidores": 42
   }
  ],
- "alertas": []
+ "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "1 Reel(s) de hoje atrasado(s): 09:30"
+  }
+ ]
 }
