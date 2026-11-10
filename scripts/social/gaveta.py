@@ -6,7 +6,7 @@ diária conferir o que realmente saiu (campo `publicado` com media_id, gravado p
     python -m scripts.social.gaveta [saida.html]
     python -m scripts.social.gaveta --previas <pasta>   gera <pasta>/v/<slug>.mp4/.jpg (prévias)
 
-A página é publicada com os arquivos: index.html + v/<slug>.mp4 e v/<slug>.jpg de cada Reel
+A saída já é o index.html completo (com doctype). A página é publicada com os arquivos: index.html + v/<slug>.mp4 e v/<slug>.jpg de cada Reel
 que ainda vai sair (o botão "Assistir" toca a prévia). Prévias de Reels já publicados podem
 ser removidas na publicação seguinte.
 
@@ -167,7 +167,11 @@ def main() -> int:
     return 0
 
 
-TEMPLATE = """<title>Gaveta de Reels</title>
+TEMPLATE = """<!DOCTYPE html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gaveta de Reels</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600;800&display=swap">
 <style>
 /* Layout: resumo em 3 números no topo, depois a fila dia a dia e a conta de quantos vídeos mandar. */
