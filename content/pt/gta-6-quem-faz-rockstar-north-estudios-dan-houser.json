@@ -132,7 +132,10 @@
     "query": "GTA 6 Rockstar",
     "alt": "Imagem oficial de divulgação de Grand Theft Auto VI do site da Rockstar",
     "url": "https://www.rockstargames.com/VI/_next/static/media/meta.0t8ty~nlmxq2s.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-quem-faz-rockstar-north-estudios-d-3be7ab5c.jpg",
+    "source_url": "",
+    "foco": "50% 38%"
   },
   "sources": [
     {
@@ -220,5 +223,7 @@
       "title": "More Than 200 Employees Sign Letter Urging Rockstar To Reverse Firings"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-10T18:55:11+00:00",
+  "updated_at": "2026-11-10T18:55:11+00:00"
 }

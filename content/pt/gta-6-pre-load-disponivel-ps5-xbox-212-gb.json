@@ -124,7 +124,9 @@
     "query": "GTA 6 pre-load",
     "alt": "Imagem de divulgação do pré-load de Grand Theft Auto VI no PS5",
     "url": "https://blog.playstation.com/tachyon/2048/11/f1fb77ba440f1402ae155dc56989230e7a24c2f8-scaled.jpg",
-    "credit": "Imagem: PlayStation"
+    "credit": "Imagem: PlayStation",
+    "path": "/assets/img/gta-6-pre-load-disponivel-ps5-xbox-212-g-400559ab.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -165,5 +167,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-10T18:55:11+00:00",
+  "updated_at": "2026-11-10T18:55:11+00:00"
 }
