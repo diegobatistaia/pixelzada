@@ -1252,7 +1252,7 @@
     "slug": "bom-dia-senhor-policial",
     "data": "2026-11-10",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Ele não aguentou meu bom dia, senhor policial 🚔😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #ryder #memesgamer #games #pixelzada",
     "tentativas": 0,
@@ -1262,6 +1262,11 @@
       "link": "https://www.instagram.com/reel/DcbNJwdRGsX/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T14:58:37-03:00",
+      "media_id": "18133506004747922",
+      "permalink": "https://www.instagram.com/reel/Dfkf1IjEYqv/"
     }
   },
   {
