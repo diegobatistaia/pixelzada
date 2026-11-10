@@ -39,9 +39,25 @@ JANELA = ("07:00", "23:00")
 GRADE_15 = [f"{h:02d}:00" for h in range(7, 22)]   # 07:00 .. 21:00
 GRADE_17 = [f"{h:02d}:00" for h in range(7, 24)]   # 07:00 .. 23:00
 
+# LANÇAMENTO DO GTA 6 (Diego, 10/11): de quarta 18/11 às 8h (o jogo libera na Nova
+# Zelândia às 8h de Brasília) até domingo 22/11, um Reel a cada 30 minutos, 24 horas
+# por dia, madrugada incluída (lançamento + feriado de 20/11 + fim de semana). Na
+# segunda 23/11 volta a grade normal de 17/dia (7h às 23h).
+LANCAMENTO = (date(2026, 11, 18), date(2026, 11, 22))
+GRADE_30MIN = [f"{h:02d}:{m:02d}" for h in range(24) for m in (0, 30)]  # 00:00 .. 23:30
+GRADE_18_11 = ["07:00"] + [h for h in GRADE_30MIN if h >= "08:00"]     # 07:00, 08:00, 08:30 .. 23:30
+
+
+def lancamento(dia: date) -> bool:
+    return LANCAMENTO[0] <= dia <= LANCAMENTO[1]
+
 
 def horarios(dia: date | str) -> list[str]:
     dia = date.fromisoformat(dia) if isinstance(dia, str) else dia
+    if dia == LANCAMENTO[0]:
+        return GRADE_18_11
+    if lancamento(dia):
+        return GRADE_30MIN
     if dia >= date(2026, 11, 16):
         return GRADE_17
     if dia >= date(2026, 11, 10):
@@ -97,11 +113,15 @@ def _proximo_horario(minimo: datetime) -> tuple[str, str]:
 
 
 def _na_janela(t: datetime) -> bool:
+    if lancamento(t.date()) and t.date() != LANCAMENTO[0]:
+        return True  # 19 a 22/11: 24 horas por dia
     return JANELA[0] <= t.strftime("%H:%M") <= "23:30"
 
 
 def _proximo_inicio(t: datetime) -> datetime:
     dia = t.date() if t.strftime("%H:%M") < JANELA[0] else t.date() + timedelta(days=1)
+    if lancamento(dia) and dia != LANCAMENTO[0]:
+        return datetime.combine(dia, datetime.min.time()).replace(tzinfo=P.TZ)  # meia-noite
     return datetime.fromisoformat(f"{dia.isoformat()}T{JANELA[0]}:00").replace(tzinfo=P.TZ)
 
 
