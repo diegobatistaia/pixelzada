@@ -1,0 +1,78 @@
+{
+  "slug": "tripwire-demite-36-em-numeros",
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Tripwire",
+  "gta6": false,
+  "materia": "tripwire-interactive-demite-36-killing-floor-maneater-2",
+  "criado": "2026-11-10T13:45:00-03:00",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/killing-floor-3_WcgSJ7n.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "GamesIndustry.biz",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: GamesIndustry.biz e Insider Gaming",
+  "capa": {
+    "titulo": "Tripwire demite 36 pessoas, em 4 números",
+    "destaque": "4 números",
+    "apoio": "A segunda rodada de cortes do ano. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Demissões",
+      "titulo": "36 pessoas saem",
+      "destaque": "36",
+      "texto": [
+        "A Tripwire anunciou a redução no X, segundo a GamesIndustry.biz e o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "Em março",
+      "titulo": "23 já tinham saído",
+      "destaque": "23",
+      "texto": [
+        "Foi a primeira rodada do ano, segundo a GamesIndustry.biz."
+      ]
+    },
+    {
+      "rotulo": "Total",
+      "titulo": "59 em 2026",
+      "destaque": "59",
+      "texto": [
+        "É a soma das duas rodadas, segundo o Insider Gaming."
+      ]
+    },
+    {
+      "rotulo": "Equipe",
+      "titulo": "De 40 a 50 ficam",
+      "destaque": "40 a 50",
+      "texto": [
+        "Estimativa de uma fonte do estúdio à PC Gamer, não confirmada pela Tripwire."
+      ]
+    }
+  ],
+  "final": "Maneater 2 continua no seu radar?",
+  "legenda": {
+    "gancho": "A Tripwire, de Killing Floor e Maneater, demitiu 36 pessoas.",
+    "corpo": [
+      "É a segunda rodada de cortes do ano no estúdio, que antes tinha demitido 23 pessoas em março, segundo a GamesIndustry.biz e o Insider Gaming. Ao todo são 59 em 2026.",
+      "A Tripwire diz manter o desenvolvimento de Maneater 2 e o trabalho em Killing Floor 3."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#killingfloor",
+      "#maneater",
+      "#games"
+    ]
+  },
+  "alt": [
+    "Slide 1: Tripwire demite 36 pessoas, em 4 números",
+    "Slide 2: 36 pessoas saem",
+    "Slide 3: 23 já tinham saído",
+    "Slide 4: 59 em 2026",
+    "Slide 5: De 40 a 50 ficam",
+    "Slide 6: Maneater 2 continua no seu radar?"
+  ],
+  "status": "pronto"
+}
