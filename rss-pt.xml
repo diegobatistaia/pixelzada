@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:44:29 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>PS Plus em novembro: Death Stranding 2, Atomfall e Dragon Quest III no catálogo</title>
+      <link>https://pixelzada.com.br/pt/playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall/</guid>
+      <description>Veja os jogos do catálogo do PlayStation Plus em novembro de 2026: Death Stranding 2, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall e Dragon Quest III.</description>
+      <category>Lançamentos</category>
+      <pubDate>Tue, 10 Nov 2026 20:44:28 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: pré-load já está liberado no PS5 e no Xbox; veja o que saber</title>
       <link>https://pixelzada.com.br/pt/gta-6-pre-load-disponivel-ps5-xbox-212-gb/</link>
@@ -238,14 +246,6 @@
       <description>Análise de 303 estúdios diz que um em cada três comprados desde 2000 foi fechado. Veja quem mais fechou, quem não fechou nenhum e por que os números divergem.</description>
       <category>Indústria</category>
       <pubDate>Fri, 06 Nov 2026 20:40:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Extended Look de GTA 6: os 26 minutos de jogo explicados</title>
-      <link>https://pixelzada.com.br/pt/gta-6-extended-look-26-minutos-de-gameplay-explicados/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-extended-look-26-minutos-de-gameplay-explicados/</guid>
-      <description>O Extended Look de GTA 6 explicado: o que acontece em cada trecho dos 26 minutos de gameplay, os sistemas que aparecem e o que o vídeo indica sobre o jogo.</description>
-      <category>GTA 6</category>
-      <pubDate>Fri, 06 Nov 2026 18:40:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

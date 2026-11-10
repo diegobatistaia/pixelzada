@@ -101,7 +101,10 @@
     "query": "PlayStation Plus catálogo novembro",
     "alt": "Arte de divulgação do catálogo de jogos do PlayStation Plus de novembro",
     "url": "https://blog.playstation.com/tachyon/2026/11/6ae8af767f59801bb5a0ceabf7fe915f00eed004.jpg",
-    "credit": "Imagem: PlayStation"
+    "credit": "Imagem: PlayStation",
+    "path": "/assets/img/playstation-plus-catalogo-novembro-2026--eb0355c2.jpg",
+    "source_url": "",
+    "foco": "41% 63%"
   },
   "sources": [
     {
@@ -130,5 +133,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-10T20:44:28+00:00",
+  "updated_at": "2026-11-10T20:44:28+00:00"
 }
