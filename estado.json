@@ -7,36 +7,36 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-10T10:29-03:00",
+ "atualizado": "2026-11-10T17:51-03:00",
  "hoje": {
   "data": "2026-11-10",
   "reels": {
    "meta": 15,
-   "publicados": 1,
-   "deviam_ter_saido": 2,
-   "atrasados": [
-    "09:30"
-   ],
+   "publicados": 9,
+   "deviam_ter_saido": 11,
+   "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
-   "publicados": 1,
-   "deviam_ter_saido": 1,
-   "atrasados": [],
+   "publicados": 4,
+   "deviam_ter_saido": 5,
+   "atrasados": [
+    "11:00"
+   ],
    "pautas_esperando": 2
   }
  },
  "fila_reels": {
-  "agendados": 44,
+  "agendados": 50,
   "meta_por_dia": 15,
-  "dias_de_reserva": 2.9,
-  "grade_cheia_ate": "2026-11-12",
+  "dias_de_reserva": 3.3,
+  "grade_cheia_ate": "2026-11-13",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-10",
-    "agendados": 13,
+    "agendados": 4,
     "meta": 15
    },
    {
@@ -51,82 +51,87 @@
    },
    {
     "data": "2026-11-13",
+    "agendados": 15,
+    "meta": 15
+   },
+   {
+    "data": "2026-11-14",
     "agendados": 1,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 171,
-  "hoje": 2,
+  "total": 174,
+  "hoje": 5,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "O que a capa da Game Informer revelou sobre GTA 6 e Leonida",
-   "url": "https://pixelzada.com.br/pt/gta-6-game-informer-capa-welcome-to-leonida-o-que-revelou/",
-   "em": "2026-11-10T09:41:06-03:00"
+   "titulo": "PS Plus em novembro: Death Stranding 2, Atomfall e Dragon Quest III no catálogo",
+   "url": "https://pixelzada.com.br/pt/playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall/",
+   "em": "2026-11-10T17:44:28-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "10/11/2026 06:22",
-  "perfis_lidos": 35,
+  "ultima_coleta": "10/11/2026 15:47",
+  "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 42,
-  "seguindo": 5,
-  "posts": 219,
-  "alcance_7d": 25656,
-  "views_7d": 34241,
+  "seguidores": 56,
+  "seguindo": 4,
+  "posts": 230,
+  "alcance_7d": 29187,
+  "views_7d": 38547,
   "reels_7d": {
-   "quantidade": 17,
-   "views_total": 35360,
-   "views_mediana": 196,
+   "quantidade": 22,
+   "views_total": 39307,
+   "views_mediana": 192,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-10": 215,
-    "2026-11-09": 1477,
-    "2026-11-08": 32217,
-    "2026-11-04": 581,
-    "2026-11-03": 870
+    "2026-11-10": 1413,
+    "2026-11-09": 1504,
+    "2026-11-08": 35434,
+    "2026-11-04": 585,
+    "2026-11-03": 371
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 31980,
-     "alcance": 23476,
-     "curtidas": 929,
+     "views": 35195,
+     "alcance": 25991,
+     "curtidas": 1051,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 417,
-     "alcance": 334,
+     "views": 419,
+     "alcance": 335,
      "curtidas": 12,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
     },
     {
      "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
-     "views": 311,
-     "alcance": 191,
+     "views": 316,
+     "alcance": 192,
      "curtidas": 3,
      "link": "https://www.instagram.com/reel/DfhawTADKHY/",
      "em": "2026-11-09T10:17:06-03:00"
     },
     {
      "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
-     "views": 237,
-     "alcance": 163,
+     "views": 239,
+     "alcance": 164,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
      "em": "2026-11-08T18:01:04-03:00"
     },
     {
      "legenda": "Eu indo pra casa no dia 19 de novembro pra jogar GTA 6 🏎️",
-     "views": 226,
-     "alcance": 180,
+     "views": 228,
+     "alcance": 182,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DfiCe19Enl0/",
      "em": "2026-11-09T16:04:13-03:00"
@@ -135,10 +140,28 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 70,
-  "falhas_24h": 2,
+  "rodadas_24h": 90,
+  "falhas_24h": 5,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Analise temporaria (thread)",
+    "em": "2026-11-10T17:09:11-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42892411057",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-10T15:50:03-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42879171521",
+    "resolvido": true
+   },
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-10T15:41:37-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42877765650",
+    "resolvido": true
+   },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-10T06:28:29-03:00",
@@ -161,7 +184,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 581
+   "views_reels": 585
   },
   {
    "data": "2026-11-05",
@@ -197,7 +220,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 32217
+   "views_reels": 35434
   },
   {
    "data": "2026-11-09",
@@ -206,16 +229,16 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1477
+   "views_reels": 1504
   },
   {
    "data": "2026-11-10",
-   "reels": 1,
+   "reels": 9,
    "reels_meta": 15,
-   "carrosseis": 1,
+   "carrosseis": 4,
    "carrosseis_meta": 7,
-   "materias": 2,
-   "views_reels": 215
+   "materias": 5,
+   "views_reels": 1413
   }
  ],
  "seguidores_por_dia": [
@@ -229,13 +252,13 @@
   },
   {
    "data": "2026-11-10",
-   "seguidores": 42
+   "seguidores": 56
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "1 Reel(s) de hoje atrasado(s): 09:30"
+   "texto": "Carrossel atrasado hoje: 11:00"
   }
  ]
 }
