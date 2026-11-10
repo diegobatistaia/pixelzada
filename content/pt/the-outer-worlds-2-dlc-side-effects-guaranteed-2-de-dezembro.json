@@ -18,7 +18,9 @@
     "query": "The Outer Worlds 2 DLC",
     "alt": "Arte de divulgação da DLC Side Effects Guaranteed de The Outer Worlds 2",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_TOW-Expansion_KeyArt_Horizontal-3ff701b040bc3de8c709.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/the-outer-worlds-2-dlc-side-effects-guar-9d5a2cc5.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -41,7 +43,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -125,5 +127,7 @@
       "text": "Para quem já terminou a campanha principal, é um bom motivo para voltar à Eden. A Pixelzada acompanha as novidades do jogo e do estúdio e avisa quando houver data confirmada para os próximos conteúdos.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-10T22:41:39+00:00",
+  "updated_at": "2026-11-10T22:41:39+00:00"
 }

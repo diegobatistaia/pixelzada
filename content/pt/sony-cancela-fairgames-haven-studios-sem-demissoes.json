@@ -18,7 +18,9 @@
     "query": "Fairgames",
     "alt": "Imagem de divulgação de Fairgames, jogo cancelado da Haven Studios",
     "url": "https://assets-prd.ignimgs.com/2026/11/10/fairgames-1794344318033.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/sony-cancela-fairgames-haven-studios-sem-9372522b.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -58,7 +60,7 @@
       "title": "Sony cancels Fairgames"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -141,5 +143,7 @@
       "text": "Por ora, não existe data nem plano para o aproveitamento do que já foi feito em Fairgames, e não há anúncio dos próximos projetos em que a Haven vai atuar. Se a Sony confirmar mais detalhes, a Pixelzada atualiza esta matéria. Enquanto isso, o recado do cancelamento é claro para quem acompanha o mercado: fazer um jogo de tiro online de sucesso está cada vez mais difícil.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-10T22:41:38+00:00",
+  "updated_at": "2026-11-10T22:41:38+00:00"
 }
