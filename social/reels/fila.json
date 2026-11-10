@@ -1379,7 +1379,7 @@
     "slug": "gta6-vs-vida-real-miami",
     "data": "2026-11-10",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "GTA 6 contra a vida real: o trailer refeito com drone em Miami 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #vicecity #pixelzada",
     "tentativas": 0,
@@ -1389,6 +1389,11 @@
       "link": "https://www.instagram.com/reel/DdUB-VSuTD_/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T20:00:52-03:00",
+      "media_id": "17874728832639968",
+      "permalink": "https://www.instagram.com/reel/DflChdskhg6/"
     }
   },
   {
