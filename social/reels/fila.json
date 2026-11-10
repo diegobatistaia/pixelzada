@@ -1334,9 +1334,26 @@
     }
   },
   {
-    "slug": "gta6-vs-vida-real-miami",
+    "slug": "lucia-gta6-tela-cheia",
     "data": "2026-11-10",
     "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Tela cheia (só @pixelzada.br)",
+    "legenda": "Lucia de GTA 6. WTF, Rockstar 😍🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #lucia #rockstargames #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "oliverkill_",
+      "link": "https://www.instagram.com/reel/De7Vc6-KD7T/",
+      "titulo": "claude",
+      "revisado": true,
+      "pedido": "Diego 10/11: igual ao original, tela cheia, só o @"
+    }
+  },
+  {
+    "slug": "gta6-vs-vida-real-miami",
+    "data": "2026-11-10",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "Moldura",
     "legenda": "GTA 6 contra a vida real: o trailer refeito com drone em Miami 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #vicecity #pixelzada",
@@ -1352,7 +1369,7 @@
   {
     "slug": "gta6-nova-york-onibus",
     "data": "2026-11-10",
-    "horario": "20:00",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Legenda",
     "legenda": "GTA 6 tomou conta de Nova York 🗽\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #novayork #rockstargames #pixelzada",
@@ -1361,22 +1378,6 @@
       "motor": true,
       "perfil": "_yano4ka_8",
       "link": "https://www.instagram.com/reel/DfVogEnBsrw/",
-      "titulo": "claude",
-      "revisado": true
-    }
-  },
-  {
-    "slug": "nao-esqueca-onde-comecou",
-    "data": "2026-11-10",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Moldura",
-    "legenda": "Não esqueça de onde você começou... 🌴\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #nostalgia #games #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "neth.vane",
-      "link": "https://www.instagram.com/reel/DfdI3-6RKFr/",
       "titulo": "claude",
       "revisado": true
     }
@@ -2022,19 +2023,19 @@
     }
   },
   {
-    "slug": "gta-6-oliverkill",
+    "slug": "nao-esqueca-onde-comecou",
     "data": "2026-11-13",
     "horario": "17:00",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Moldura",
+    "legenda": "Não esqueça de onde você começou... 🌴\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #nostalgia #games #gamer #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "oliverkill_",
-      "link": "https://www.instagram.com/reel/De7Vc6-KD7T/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "neth.vane",
+      "link": "https://www.instagram.com/reel/DfdI3-6RKFr/",
+      "titulo": "claude",
+      "revisado": true
     }
   }
 ]
