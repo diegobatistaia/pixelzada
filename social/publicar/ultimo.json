@@ -1,23 +1,14 @@
 {
   "pedido": {
-    "acao": "carrossel",
-    "slug": "tripwire-demite-36-em-numeros",
-    "horario": "17:00",
-    "data": "2026-11-10",
-    "estilo": "reprodutor",
-    "slides": [
-      "01.jpg",
-      "02.jpg",
-      "03.jpg",
-      "04.jpg",
-      "05.jpg",
-      "06.jpg"
-    ],
-    "story": null
+    "acao": "reel",
+    "slug": "gta6-trailer-pre-download-liberado",
+    "pasta": "reel-gta6-trailer-pre-download-liberado",
+    "horario": "18:00",
+    "data": "2026-11-10"
   },
-  "em": "2026-11-10T17:29:00-03:00",
+  "em": "2026-11-10T18:00:21-03:00",
   "ok": true,
-  "media_id": "18108224783248985",
-  "permalink": "https://www.instagram.com/p/DfkxGzIn7fU/",
+  "media_id": "18124256258038782",
+  "permalink": "https://www.instagram.com/reel/Dfk0oMnHNC1/",
   "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }

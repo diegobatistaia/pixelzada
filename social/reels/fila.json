@@ -1336,7 +1336,7 @@
     "slug": "gta6-trailer-pre-download-liberado",
     "data": "2026-11-10",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "Novo trailer da Rockstar: o download antecipado de GTA 6 já está liberado 🔥\n\nQuem fez a pré-venda já pode baixar. O jogo chega em 19 de novembro.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #preload #pixelzada",
     "tentativas": 0,
@@ -1346,6 +1346,11 @@
       "link": "https://www.instagram.com/reel/DfkEaKvgeLz/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T18:00:21-03:00",
+      "media_id": "18124256258038782",
+      "permalink": "https://www.instagram.com/reel/Dfk0oMnHNC1/"
     }
   },
   {
