@@ -1273,7 +1273,7 @@
     "slug": "midnight-club-3-loading",
     "data": "2026-11-10",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Polaroid",
     "legenda": "Nenhum gráfico moderno consegue reproduzir a sensação que esse som causava 🏁\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#midnightclub3 #ps2 #nostalgia #games #pixelzada",
     "tentativas": 0,
@@ -1283,6 +1283,11 @@
       "link": "https://www.instagram.com/reel/DbcAC1RtRk0/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T15:47:19-03:00",
+      "media_id": "17915469843513736",
+      "permalink": "https://www.instagram.com/reel/DfklabOE64K/"
     }
   },
   {
