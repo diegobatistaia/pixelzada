@@ -236,9 +236,35 @@ def automatico(agora: datetime | None = None) -> int:
     for pasta in ENTRADA.glob("*"):
         if pasta.is_dir() and not any(pasta.iterdir()):
             pasta.rmdir()
+    novos_gta = [slug for (_, slug, _, _, tema, _) in itens if tema == "gta6"
+                 and any(i["slug"] == slug for i in fila)]
+    for a in furar_fila(fila, novos_gta, agora):
+        print(" ", a)
     R.salvar(fila)
     print(f"{usados} Reel(s) montado(s) e agendado(s)")
     return 0 if usados or not itens else 1
+
+
+def furar_fila(fila: list[dict], novos: list[str], agora: datetime | None = None) -> list[str]:
+    """Lançamento do GTA 6 (Diego, 10/11): de 18 a 22/11 a cena nova do jogo não pode
+    esperar 2 dias atrás do estoque. Os Reels novos de GTA 6 passam para os primeiros
+    horários livres e os do motor que já estavam agendados andam para trás, na mesma
+    ordem. Só mexe em Reels do motor: os que o Diego mandou ficam no horário combinado."""
+    agora = agora or datetime.now(TZ)
+    if not R.lancamento(agora.date()) or not novos:
+        return []
+    futuros = sorted((i for i in fila if i["status"] == "agendado" and (i.get("origem") or {}).get("motor")
+                      and R.quando(i) > agora + FOLGA), key=R.quando)
+    vagas = [(i["data"], i["horario"]) for i in futuros]
+    frente = [i for i in futuros if i["slug"] in novos]
+    ordem = frente + [i for i in futuros if i["slug"] not in novos]
+    avisos = []
+    for item, (d, h) in zip(ordem, vagas):
+        if (item["data"], item["horario"]) != (d, h):
+            if item["slug"] in novos:
+                avisos.append(f"{item['slug']}: furou a fila, sai {d} {h}")
+            item.update(data=d, horario=h)
+    return avisos
 
 
 def main(argv: list[str] | None = None) -> int:

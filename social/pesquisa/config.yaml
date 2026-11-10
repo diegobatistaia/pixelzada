@@ -48,6 +48,17 @@ lancamento:
   lista_tamanho: 40
   pesos: {gta6: 5}
 
+# Pico do lançamento do GTA 6 (Diego, 10/11): o jogo libera na Nova Zelândia às 8h de
+# 18/11 (Brasília) e no Brasil à 0h de 19/11. De 18 a 22/11 a coleta roda de 30 em 30
+# minutos (um Reel a cada 30 min, 24h por dia, na grade do reels.py), só com o que
+# saiu nas últimas horas, e GTA 6 pesa o dobro.
+pico:
+  de: "2026-11-18"
+  ate: "2026-11-22"
+  janela_horas: 12
+  lista_tamanho: 40
+  pesos: {gta6: 10}
+
 # Temas: palavras na legenda que identificam o jogo, e o peso na escolha.
 temas:
   gta6:

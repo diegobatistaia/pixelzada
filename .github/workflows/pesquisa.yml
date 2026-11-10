@@ -23,6 +23,9 @@ on:
     - cron: "5,35 14 * * *"    # 11h (só no lançamento)
     - cron: "5,35 18 * * *"    # 15h (só no lançamento)
     - cron: "5,35 22 * * *"    # 19h (só no lançamento)
+    # Pico do lançamento do GTA 6 (18 a 22/11): de 30 em 30 minutos, 24h por dia.
+    - cron: "5,35 * 18-22 11 *"
+    - cron: "5,35 0-2 23 11 *"  # 22/11 das 21h às 23h35 de Brasília
   workflow_dispatch:
     inputs:
       acao:
