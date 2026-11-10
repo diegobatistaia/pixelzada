@@ -1315,7 +1315,7 @@
     "slug": "esquecer-lancamento-gta6",
     "data": "2026-11-10",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Carregando",
     "legenda": "Eu tentando esquecer o lançamento de GTA 6. Ligo o som do carro: 😭\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #gta #pixelzada",
     "tentativas": 0,
@@ -1325,6 +1325,11 @@
       "link": "https://www.instagram.com/reel/DYqTsjHtAGG/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T17:00:19-03:00",
+      "media_id": "18141569128715112",
+      "permalink": "https://www.instagram.com/reel/Dfktx5qFPDP/"
     }
   },
   {
