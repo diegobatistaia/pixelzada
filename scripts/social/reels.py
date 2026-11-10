@@ -49,15 +49,19 @@ def horarios(dia: date | str) -> list[str]:
     return HORARIOS
 
 
+def intervalo(dia: date | str) -> timedelta:
+    """Espaço da grade do dia (menor distância entre dois horários seguidos)."""
+    hs = [datetime.strptime(h, "%H:%M") for h in horarios(dia)]
+    return min((b - a for a, b in zip(hs, hs[1:])), default=timedelta(hours=1))
+
+
 POR_DIA = len(HORARIOS)
-# Mesma janela dos carrosséis (1h50): o GitHub atrasa os agendamentos, e a
-# janela fecha antes do Reel seguinte.
-ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)
-# Com 15 a 25 Reels por dia o GitHub atrasa mais que o intervalo entre eles. Então a
-# fila anda em ordem: cada rodada (de 10 em 10 min) publica o Reel agendado mais antigo
-# que já passou da hora, desde que o último tenha saído há pelo menos INTERVALO_MIN.
-INTERVALO_MIN = timedelta(minutes=20)
-ATRASO_MAX = timedelta(hours=6)   # passou disso sem sair: vai para o próximo horário livre
+ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)  # DEPOIS: usado pela gaveta
+# REGRA do Diego (10/11): depois de uma falha (GitHub fora do ar etc.) os Reels parados
+# NUNCA saem em sequência. Entre dois Reels fica sempre o intervalo da grade (1 hora),
+# com FOLGA para o atraso normal do agendador do GitHub. Quando a fila atrasa, ela inteira
+# anda para a frente (reagendar), e o que não cabe até 23h passa para o dia seguinte.
+FOLGA = timedelta(minutes=10)
 TENTATIVAS = 3
 
 
@@ -75,35 +79,77 @@ def quando(item: dict) -> datetime:
     return datetime.fromisoformat(f"{item['data']}T{item['horario']}:00").replace(tzinfo=P.TZ)
 
 
+def _ultimo_publicado(fila: list[dict]) -> datetime | None:
+    em = [datetime.fromisoformat(i["publicado"]["em"]) for i in fila
+          if i.get("status") == "publicado" and (i.get("publicado") or {}).get("em")]
+    return max(em) if em else None
+
+
+def _proximo_horario(minimo: datetime) -> tuple[str, str]:
+    """Primeiro horário da grade a partir de `minimo` (com FOLGA), olhando os dias seguintes."""
+    dia = minimo.date()
+    while True:
+        for h in horarios(dia):
+            q = datetime.fromisoformat(f"{dia.isoformat()}T{h}:00").replace(tzinfo=P.TZ)
+            if q >= minimo - FOLGA:
+                return dia.isoformat(), h
+        dia += timedelta(days=1)
+
+
+def _na_janela(t: datetime) -> bool:
+    return JANELA[0] <= t.strftime("%H:%M") <= "23:30"
+
+
+def _proximo_inicio(t: datetime) -> datetime:
+    dia = t.date() if t.strftime("%H:%M") < JANELA[0] else t.date() + timedelta(days=1)
+    return datetime.fromisoformat(f"{dia.isoformat()}T{JANELA[0]}:00").replace(tzinfo=P.TZ)
+
+
 def reagendar(fila: list[dict], t: datetime) -> list[str]:
-    """Reel cuja janela passou sem sair vai para o próximo horário livre (nunca se perde)."""
+    """Fila em ordem, com pelo menos 1 intervalo da grade entre um Reel e o seguinte.
+
+    Parte do último Reel publicado: se o próximo da fila ficaria perto demais (porque a
+    fila atrasou), ele vai para o próximo horário da grade que respeita o intervalo, e todos
+    os seguintes andam junto. Ninguém volta para trás e nenhum vídeo se perde. Um Reel que
+    passou da hora e ainda não saiu fica onde está: sai na próxima rodada, e os de trás andam.
+    """
     avisos = []
-    for item in [i for i in fila if i["status"] == "agendado" and t > quando(i) + ATRASO_MAX]:
-        ocupados = {(i["data"], i["horario"]) for i in fila if i is not item and i["status"] in ("agendado", "publicado")}
-        dia = t.date()
-        while True:
-            livre = next((h for h in horarios(dia) if (dia.isoformat(), h) not in ocupados
-                          and datetime.fromisoformat(f"{dia.isoformat()}T{h}:00").replace(tzinfo=P.TZ) > t), None)
-            if livre:
-                break
-            dia += timedelta(days=1)
-        avisos.append(f"{item['slug']}: {item['data']} {item['horario']} passou; vai para {dia.isoformat()} {livre}")
-        item.update(data=dia.isoformat(), horario=livre, tentativas=0)
-        item.pop("erro", None)
+    anterior = _ultimo_publicado(fila)
+    pend = sorted((i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS), key=quando)
+    for item in pend:
+        q = quando(item)
+        minimo = anterior + intervalo(anterior.date()) if anterior else None
+        if q <= t:  # já passou da hora
+            base = t if _na_janela(t) else _proximo_inicio(t)
+            saida = max(base, minimo) if minimo else base
+            mover = saida - t > FOLGA  # não pode sair agora: vai para o próximo horário que respeita o intervalo
+        else:
+            saida = minimo
+            mover = minimo is not None and q < minimo - FOLGA
+        if mover:
+            d, h = _proximo_horario(saida)
+            avisos.append(f"{item['slug']}: {item['data']} {item['horario']} -> {d} {h}")
+            item.update(data=d, horario=h)
+            item.pop("erro", None)
+            q = quando(item)
+        elif q <= t:
+            q = saida
+        anterior = q
     return avisos
 
 
 def escolher(t: datetime | None = None, fila: list[dict] | None = None) -> dict | None:
     t = t or IG.agora()
     fila = fila if fila is not None else carregar()
+    if not _na_janela(t):
+        return None  # fora da janela (7h às 23h): o atrasado espera a manhã
     abertos = [i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS
-               and quando(i) - ANTES <= t <= quando(i) + ATRASO_MAX]
+               and quando(i) - ANTES <= t]
     if not abertos:
         return None
-    ultimos = [datetime.fromisoformat(i["publicado"]["em"]) for i in fila
-               if i.get("status") == "publicado" and (i.get("publicado") or {}).get("em")]
-    if ultimos and t - max(ultimos) < INTERVALO_MIN:
-        return None  # saiu um há pouco; o próximo espera a rodada seguinte
+    ultimo = _ultimo_publicado(fila)
+    if ultimo and t - ultimo < intervalo(t.date()) - FOLGA:
+        return None  # saiu um há menos de 1 hora; o próximo espera
     return min(abertos, key=quando)  # o mais antigo primeiro: a fila anda em ordem
 
 
