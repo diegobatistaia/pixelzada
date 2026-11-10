@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:40:59 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Take-Two: pré-vendas de GTA 6 superam o esperado; reservas do trimestre caem 18%</title>
+      <link>https://pixelzada.com.br/pt/take-two-balanco-q2-gta-6-pre-vendas-acima-do-esperado/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/take-two-balanco-q2-gta-6-pre-vendas-acima-do-esperado/</guid>
+      <description>A Take-Two diz que as pré-vendas de GTA 6 superam o esperado, mesmo com queda de 18% nas reservas do trimestre. Veja os números, as previsões e o que muda.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 10 Nov 2026 10:40:57 +0000</pubDate>
+    </item>
     <item>
       <title>Hollow Knight: Silksong terá pacotes gratuitos, diz manual da edição física</title>
       <link>https://pixelzada.com.br/pt/hollow-knight-silksong-edicao-fisica-pacotes-gratuitos-sea-of-sorrow/</link>
@@ -238,14 +246,6 @@
       <description>GTA 6 pede 212 GB livres para o pré-carregamento, que começa em 10 de novembro. Veja quanto espaço o PS5 e o Xbox Series têm e como preparar o console.</description>
       <category>Guias</category>
       <pubDate>Fri, 06 Nov 2026 12:40:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assassin's Creed Valhalla ganha New Game+ em update gratuito</title>
-      <link>https://pixelzada.com.br/pt/assassins-creed-valhalla-new-game-plus-the-most-requested-update/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/assassins-creed-valhalla-new-game-plus-the-most-requested-update/</guid>
-      <description>Assassin's Creed Valhalla ganhou New Game+ em atualização gratuita, com mithril, 300 runas novas e PSSR no PS5 Pro. Veja como liberar o modo e o que mudou.</description>
-      <category>Lançamentos</category>
-      <pubDate>Fri, 06 Nov 2026 10:39:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

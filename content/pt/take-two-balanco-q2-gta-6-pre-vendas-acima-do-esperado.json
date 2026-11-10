@@ -115,7 +115,10 @@
     "query": "Take-Two GTA 6 balanço",
     "alt": "Arte de GTA 6 usada pela GamesIndustry.biz na cobertura do balanço da Take-Two",
     "url": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/take-two-balanco-q2-gta-6-pre-vendas-aci-41123836.jpg",
+    "source_url": "",
+    "foco": "50% 15%"
   },
   "sources": [
     {
@@ -137,5 +140,7 @@
       "title": "GTA 6 pre-orders tracking Take-Two earnings call"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-10T10:40:57+00:00",
+  "updated_at": "2026-11-10T10:40:57+00:00"
 }
