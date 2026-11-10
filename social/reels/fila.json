@@ -2020,5 +2020,21 @@
       "titulo": "claude",
       "revisado": true
     }
+  },
+  {
+    "slug": "gta-6-oliverkill",
+    "data": "2026-11-13",
+    "horario": "17:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "oliverkill_",
+      "link": "https://www.instagram.com/reel/De7Vc6-KD7T/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
