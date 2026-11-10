@@ -1210,7 +1210,7 @@
     "slug": "orquestra-gta-san-andreas",
     "data": "2026-11-10",
     "horario": "11:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Orquestra russa tocando a abertura de GTA San Andreas 🎻 Bateu a nostalgia?\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #gta #nostalgia #games #pixelzada",
     "tentativas": 0,
@@ -1220,6 +1220,11 @@
       "link": "https://www.instagram.com/reel/DfCa_4mtIOV/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T13:49:12-03:00",
+      "media_id": "17982237933131874",
+      "permalink": "https://www.instagram.com/reel/DfkX4h7kbRK/"
     }
   },
   {
