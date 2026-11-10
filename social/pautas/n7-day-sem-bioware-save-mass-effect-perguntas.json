@@ -1,0 +1,78 @@
+{
+  "slug": "n7-day-sem-bioware-save-mass-effect-perguntas",
+  "tipo": "noticia",
+  "formato": "perguntas",
+  "assunto": "Mass Effect",
+  "gta6": false,
+  "materia": "n7-day-2026-elenco-mass-effect-save-mass-effect-bioware",
+  "criado": "2026-11-10T09:55:00-03:00",
+  "imagem": {
+    "url": "https://kotaku.com/app/uploads/2024/03/ab7be0140108d75dfb05d247751184ee-1200x675.jpg",
+    "credito": "Kotaku",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fontes: Kotaku e Eurogamer",
+  "capa": {
+    "titulo": "O que aconteceu no N7 Day sem a BioWare?",
+    "destaque": "N7 Day",
+    "apoio": "Elenco, outdoors e apoio de políticos. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Elenco",
+      "titulo": "Quem apareceu no vídeo?",
+      "destaque": "vídeo",
+      "texto": [
+        "Jennifer Hale, Mark Meer, Sam Hulick e outros atores da trilogia, segundo a Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Campanha",
+      "titulo": "Onde estão os outdoors?",
+      "destaque": "outdoors",
+      "texto": [
+        "Times Square, Edmonton e outros lugares, segundo a Eurogamer e o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "Política",
+      "titulo": "Houve apoio de políticos?",
+      "destaque": "políticos",
+      "texto": [
+        "O líder do NDP canadense, Avi Lewis, criticou a EA, segundo o Kotaku."
+      ]
+    },
+    {
+      "rotulo": "EA",
+      "titulo": "A EA respondeu?",
+      "destaque": "respondeu",
+      "texto": [
+        "As publicações não trazem resposta oficial da EA ao pedido dos fãs."
+      ]
+    }
+  ],
+  "final": "Você assinaria a campanha para salvar Mass Effect?",
+  "legenda": {
+    "gancho": "O primeiro N7 Day sem a BioWare virou campanha para salvar Mass Effect.",
+    "corpo": [
+      "Segundo a Eurogamer e o Kotaku, o elenco da trilogia gravou um vídeo, fãs espalharam outdoors e políticos canadenses apoiaram o movimento depois do fechamento do estúdio.",
+      "As publicações não trazem resposta oficial da EA."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#masseffect",
+      "#bioware",
+      "#n7day"
+    ]
+  },
+  "alt": [
+    "Slide 1: O que aconteceu no N7 Day sem a BioWare?",
+    "Slide 2: Quem apareceu no vídeo?",
+    "Slide 3: Onde estão os outdoors?",
+    "Slide 4: Houve apoio de políticos?",
+    "Slide 5: A EA respondeu?",
+    "Slide 6: Você assinaria a campanha para salvar Mass Effect?"
+  ],
+  "status": "pronto"
+}
