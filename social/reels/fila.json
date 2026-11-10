@@ -1750,5 +1750,21 @@
       "titulo": "padrao",
       "revisado": false
     }
+  },
+  {
+    "slug": "o-universo-dos-games-rockstargames",
+    "data": "2026-11-12",
+    "horario": "16:30",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "rockstargames",
+      "link": "https://www.instagram.com/reel/DcmuKhJAe3I/",
+      "titulo": "padrao",
+      "revisado": false
+    }
   }
 ]
