@@ -1728,7 +1728,7 @@
     "slug": "ocarina-glitch-dampe",
     "data": "2026-11-11",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "Diga adeus a esse glitch no remake de Ocarina of Time 👀\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
     "tentativas": 0,
@@ -1741,6 +1741,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-11T18:01:07-03:00",
+      "media_id": "18153894790558585",
+      "permalink": "https://www.instagram.com/reel/DfnZkObDMCq/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af4d7ddea20f5e010e5a8cd",
+        "em": "2026-11-11T18:02:20-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af4d7e93f78b0223bc87768",
+        "em": "2026-11-11T18:02:32-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=ZtHbFuUptN4"
+      }
     }
   },
   {
