@@ -2484,5 +2484,49 @@
       "jogo": "o universo dos games",
       "moldura": "identidade"
     }
+  },
+  {
+    "slug": "gta6-dia-19-meu-amigo",
+    "data": "2026-11-14",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Moldura",
+    "legenda": "O dia é 19 de novembro. Meu amigo: 😳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #games #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "cutgamesoficial",
+      "link": "https://www.instagram.com/reel/DflAD8gRwHg/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "unboxing-gta6",
+    "data": "2026-11-14",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Moldura",
+    "legenda": "Confira o unboxing de GTA 6 📦🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #unboxing #ps5 #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "flowgamestv",
+      "link": "https://www.instagram.com/reel/DfmhGXtHOal/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
   }
 ]
