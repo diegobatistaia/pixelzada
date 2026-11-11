@@ -197,6 +197,18 @@ def automatico(agora: datetime | None = None) -> int:
     fila = R.carregar()
     livres = horarios_livres(fila, agora, dias=14)
     videos = sorted(pendentes(), key=lambda p: (not p.name.startswith("00-link"), str(p)))  # os do Diego primeiro
+    # não remontar vídeo cujo link já está na fila (ex.: montado à mão antes; duplicou em 11/11)
+    na_fila = {(i.get("origem") or {}).get("link", "").rstrip("/").lower() for i in fila} - {""}
+    for mp4 in list(videos):
+        try:
+            link = json.loads(mp4.with_suffix(".json").read_text(encoding="utf-8")).get("link") or ""
+        except (OSError, ValueError):
+            continue
+        if link.rstrip("/").lower() in na_fila:
+            print(f"  {mp4.name}: já está na fila ({link}); bruto apagado")
+            videos.remove(mp4)
+            mp4.unlink()
+            mp4.with_suffix(".json").unlink()
     print(f"{len(videos)} vídeo(s) esperando montagem; {len(livres)} horário(s) livre(s) nos próximos 14 dias")
     if not videos or not livres:
         return 0
