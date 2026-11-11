@@ -1422,7 +1422,7 @@
     "data": "2026-11-11",
     "horario": "07:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "Trailer de GTA 6 passou em horário nobre na TV Globo 📺\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #tvglobo #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1431,6 +1431,10 @@
       "link": "https://www.instagram.com/reel/Dffxpp0k7yz/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1438,7 +1442,7 @@
     "data": "2026-11-11",
     "horario": "08:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples preta",
     "legenda": "Como meu pai ia pra escola segundo as histórias que ele conta 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#memesgamer #games #gamer #humor #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1447,6 +1451,10 @@
       "link": "https://www.instagram.com/reel/DfcZU06B8cA/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1463,6 +1471,9 @@
       "link": "https://www.instagram.com/reel/DffRKAtDw0L/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1479,6 +1490,9 @@
       "link": "https://www.instagram.com/reel/DfcmNJKhliV/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1486,7 +1500,7 @@
     "data": "2026-11-11",
     "horario": "11:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples preta",
     "legenda": "Obrigado por tudo, Los Santos. Até qualquer dia ❤️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #lossantos #nostalgia #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1495,6 +1509,10 @@
       "link": "https://www.instagram.com/reel/Dff4eGousCF/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1511,6 +1529,9 @@
       "link": "https://www.instagram.com/reel/DffK8rFBTkK/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1518,7 +1539,7 @@
     "data": "2026-11-11",
     "horario": "13:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "Por que não tem mais jogos do Ben 10 assim? 👽\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#ben10 #nostalgia #ps2 #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1527,6 +1548,10 @@
       "link": "https://www.instagram.com/reel/DfdiL9hRVWF/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1534,7 +1559,7 @@
     "data": "2026-11-11",
     "horario": "14:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples preta",
     "legenda": "Melhor coisa pra se fazer com um camper 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#callofduty #camper #memesgamer #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1543,6 +1568,10 @@
       "link": "https://www.instagram.com/reel/Dff4vrHRktJ/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1559,6 +1588,9 @@
       "link": "https://www.instagram.com/reel/DffnoRORFOa/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1566,7 +1598,7 @@
     "data": "2026-11-11",
     "horario": "16:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples branca",
     "legenda": "Eu depois de perder no basquete contra os NPCs no GTA 6: 🏀\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #npc #memesgamer #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1575,6 +1607,10 @@
       "link": "https://www.instagram.com/reel/DffZ2V8u0sG/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1582,7 +1618,7 @@
     "data": "2026-11-11",
     "horario": "17:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples preta",
     "legenda": "O mano não esperava essa resposta 😳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #lucia #jason #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1591,6 +1627,10 @@
       "link": "https://www.instagram.com/reel/DfhEPg4OzV4/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1607,6 +1647,9 @@
       "link": "https://www.instagram.com/reel/DfdOwHaMvT2/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1614,7 +1657,7 @@
     "data": "2026-11-11",
     "horario": "19:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples branca",
     "legenda": "Do nada! Rockstar divulga novo vídeo mostrando os recursos exclusivos do GTA 6 no PlayStation 5 🎮🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #playstation #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1624,6 +1667,10 @@
       "titulo": "claude",
       "revisado": true,
       "pedido": "Diego 10/11: amanhã no melhor horário"
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -1631,7 +1678,7 @@
     "data": "2026-11-11",
     "horario": "20:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "A física de cabelo do GTA 5 contra a do GTA 6 💇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #rockstargames #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1640,6 +1687,10 @@
       "link": "https://www.instagram.com/reel/DdUecBwRsDq/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -1656,6 +1707,9 @@
       "link": "https://www.instagram.com/reel/DfgTtAdNPeV/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1663,7 +1717,7 @@
     "data": "2026-11-12",
     "horario": "07:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples branca",
     "legenda": "Red Dead Redemption 2 alcança o top 3 dos jogos mais vendidos da história 🤠\n\nUm clássico eterno e uma das maiores obras de arte dos games.\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#reddeadredemption2 #rdr2 #rockstargames #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1672,6 +1726,10 @@
       "link": "https://www.instagram.com/reel/DaVWVGFRS1c/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1679,7 +1737,7 @@
     "data": "2026-11-12",
     "horario": "08:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples preta",
     "legenda": "Não acredito que o CJ esteve mesmo aqui 😮\n\nA Represa Hoover de verdade contra a versão de GTA San Andreas.\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #gta #rockstargames #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1688,6 +1746,10 @@
       "link": "https://www.instagram.com/reel/DffxTveR49P/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1704,6 +1766,9 @@
       "link": "https://www.instagram.com/reel/Dfh1_KvjNM3/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1720,6 +1785,9 @@
       "link": "https://www.instagram.com/reel/Dfc-hfiAOKx/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1727,7 +1795,7 @@
     "data": "2026-11-12",
     "horario": "11:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples preta",
     "legenda": "Com quem ele andou treinando? Eu já vi isso antes 💀\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #thelegendofzelda #nintendo #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1736,6 +1804,10 @@
       "link": "https://www.instagram.com/reel/DfgGfiQxPq5/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1752,6 +1824,9 @@
       "link": "https://www.instagram.com/reel/DffgG7jCvwC/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1759,7 +1834,7 @@
     "data": "2026-11-12",
     "horario": "13:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "Acho que baixei o remake de Zelda errado aqui 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1768,6 +1843,10 @@
       "link": "https://www.instagram.com/reel/DffpEnyOlnC/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1775,7 +1854,7 @@
     "data": "2026-11-12",
     "horario": "14:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples preta",
     "legenda": "Eu não sabia que estava vivendo os melhores dias da minha vida quando era criança 🥲❤️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #ps2 #nostalgia #games #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1784,6 +1863,10 @@
       "link": "https://www.instagram.com/reel/DfdGRJJxrI6/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1800,6 +1883,9 @@
       "link": "https://www.instagram.com/reel/DcmuKhJAe3I/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1807,7 +1893,7 @@
     "data": "2026-11-12",
     "horario": "16:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples branca",
     "legenda": "O trailer de lançamento de GTA 6, com Flower in a Hurricane 🌀\n\nGTA 6 chega em 19 de novembro.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #trailer #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1816,6 +1902,10 @@
       "link": "https://www.instagram.com/reel/DehBEbwgV1d/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1823,7 +1913,7 @@
     "data": "2026-11-12",
     "horario": "17:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples preta",
     "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liberado no seu console 🏃‍♂️💨\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #ps5 #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1832,6 +1922,10 @@
       "link": "https://www.instagram.com/reel/DfiR9qmDron/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1848,6 +1942,9 @@
       "link": "https://www.instagram.com/reel/DfieyOTB2xc/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1864,6 +1961,9 @@
       "link": "https://www.instagram.com/reel/DfiTZJnBvDF/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1871,7 +1971,7 @@
     "data": "2026-11-12",
     "horario": "20:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "Joel não é um vilão nessa história, ele é só um exemplo de quão longe um ser humano vai para proteger quem ama 🥀\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#thelastofus #joel #ellie #naughtydog #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1880,6 +1980,10 @@
       "link": "https://www.instagram.com/reel/Dfhycdeta9v/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -1896,6 +2000,9 @@
       "link": "https://www.instagram.com/reel/Dfe_PGMRWaq/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1903,7 +2010,7 @@
     "data": "2026-11-13",
     "horario": "07:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples branca",
     "legenda": "A Horse with No Name combina perfeitamente com uma viagem pelo deserto de Las Venturas 🌵🏜️\n\nA estrada vazia, o céu aberto e aquela sensação de estar indo para lugar nenhum.\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #lasventuras #ps2 #nostalgia #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1912,6 +2019,10 @@
       "link": "https://www.instagram.com/reel/Db_A0KoJCWR/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -1919,7 +2030,7 @@
     "data": "2026-11-13",
     "horario": "08:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "A diferença de gameplay do Jason e da Lúcia no GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #jason #lucia #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1928,6 +2039,10 @@
       "link": "https://www.instagram.com/reel/DfhY8UsBCWs/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -1944,6 +2059,9 @@
       "link": "https://www.instagram.com/reel/DfihfbxRD11/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1951,7 +2069,7 @@
     "data": "2026-11-13",
     "horario": "10:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "Como eu me senti chegando na firma hoje, falando pros rapazes que deixei o GTA 6 baixando no Play 5 😎\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #memes #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1960,6 +2078,10 @@
       "link": "https://www.instagram.com/reel/DfkDOV4xq6n/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -1967,7 +2089,7 @@
     "data": "2026-11-13",
     "horario": "11:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "A captura de movimento de Phantom Blade Zero 🗡️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#phantombladezero #mocap #games #gamedev #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -1976,6 +2098,10 @@
       "link": "https://www.instagram.com/reel/DfiWr8VCuWC/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -1992,6 +2118,9 @@
       "link": "https://www.instagram.com/reel/Dfh0XvMhdIa/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -1999,7 +2128,7 @@
     "data": "2026-11-13",
     "horario": "13:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "Quando o jogo coloca você pra enfrentar um gigante 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #memesgamer #boss #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2008,6 +2137,10 @@
       "link": "https://www.instagram.com/reel/Dfic8VjBqA4/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -2015,7 +2148,7 @@
     "data": "2026-11-13",
     "horario": "14:00",
     "status": "agendado",
-    "estilo": "Polaroid",
+    "estilo": "Simples preta",
     "legenda": "PS5 vai humilhar o Xbox Series S no GTA 6? 🤣\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #ps5 #xboxseriess #memes #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2024,6 +2157,10 @@
       "link": "https://www.instagram.com/reel/DfiCGZuBqzi/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Polaroid"
     }
   },
   {
@@ -2040,6 +2177,9 @@
       "link": "https://www.instagram.com/reel/Dff1wPspuWl/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -2056,6 +2196,9 @@
       "link": "https://www.instagram.com/reel/DZxN5HTOpWc/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -2063,7 +2206,7 @@
     "data": "2026-11-13",
     "horario": "17:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "Não esqueça de onde você começou... 🌴\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #nostalgia #games #gamer #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2072,6 +2215,10 @@
       "link": "https://www.instagram.com/reel/DfdI3-6RKFr/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -2088,6 +2235,9 @@
       "link": "https://www.instagram.com/reel/Dfidjf1Aax8/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -2095,7 +2245,7 @@
     "data": "2026-11-13",
     "horario": "19:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "A sensação de finalmente ver o GTA 6 sendo baixado no meu videogame 😭🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #preload #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2104,6 +2254,10 @@
       "link": "https://www.instagram.com/reel/Dfj6epHPQa8/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -2111,7 +2265,7 @@
     "data": "2026-11-13",
     "horario": "20:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "GTA 6 contra Watch Dogs 2 (2016): a diferença de gráfico 🤯\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #watchdogs #graficos #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2120,6 +2274,10 @@
       "link": "https://www.instagram.com/reel/DfkGffph-z-/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   },
   {
@@ -2136,6 +2294,9 @@
       "link": "https://www.instagram.com/reel/DfhS2nWmpTl/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "identidade"
     }
   },
   {
@@ -2143,7 +2304,7 @@
     "data": "2026-11-14",
     "horario": "07:00",
     "status": "agendado",
-    "estilo": "TV",
+    "estilo": "Simples branca",
     "legenda": "Baixei o GTA 6, mas ainda não posso jogar! 😭\n\nFalta muito pro dia 19?\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #preload #meme #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2152,6 +2313,10 @@
       "link": "https://www.instagram.com/reel/Dfj7mnHDfMM/",
       "titulo": "claude",
       "revisado": true
+    },
+    "etiquetas": {
+      "moldura": "simples-branca",
+      "estilo_antes": "TV"
     }
   },
   {
@@ -2159,7 +2324,7 @@
     "data": "2026-11-14",
     "horario": "08:00",
     "status": "agendado",
-    "estilo": "Moldura",
+    "estilo": "Simples preta",
     "legenda": "Quando meu amigo está sendo assaltado mas não posso arriscar minha vida antes de jogar GTA 6 😅\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -2172,7 +2337,9 @@
     "etiquetas": {
       "formato": "meme",
       "tema": "gta6",
-      "jogo": "GTA 6"
+      "jogo": "GTA 6",
+      "moldura": "simples-preta",
+      "estilo_antes": "Moldura"
     }
   }
 ]
