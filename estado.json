@@ -7,38 +7,35 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-10T17:51-03:00",
+ "atualizado": "2026-11-10T22:15-03:00",
  "hoje": {
   "data": "2026-11-10",
   "reels": {
    "meta": 15,
-   "publicados": 9,
-   "deviam_ter_saido": 11,
+   "publicados": 13,
+   "deviam_ter_saido": 15,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 4,
-   "deviam_ter_saido": 5,
+   "deviam_ter_saido": 7,
    "atrasados": [
-    "11:00"
+    "11:00",
+    "19:00",
+    "21:00"
    ],
    "pautas_esperando": 2
   }
  },
  "fila_reels": {
-  "agendados": 50,
+  "agendados": 46,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.3,
+  "dias_de_reserva": 3.1,
   "grade_cheia_ate": "2026-11-13",
   "sem_revisao": 0,
   "por_dia": [
-   {
-    "data": "2026-11-10",
-    "agendados": 4,
-    "meta": 15
-   },
    {
     "data": "2026-11-11",
     "agendados": 15,
@@ -62,77 +59,76 @@
   ]
  },
  "site": {
-  "total": 174,
-  "hoje": 5,
+  "total": 176,
+  "hoje": 7,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "PS Plus em novembro: Death Stranding 2, Atomfall e Dragon Quest III no catálogo",
-   "url": "https://pixelzada.com.br/pt/playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall/",
-   "em": "2026-11-10T17:44:28-03:00"
+   "titulo": "The Outer Worlds 2 ganha DLC Side Effects Guaranteed em 2 de dezembro",
+   "url": "https://pixelzada.com.br/pt/the-outer-worlds-2-dlc-side-effects-guaranteed-2-de-dezembro/",
+   "em": "2026-11-10T19:41:39-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "10/11/2026 15:47",
+  "ultima_coleta": "10/11/2026 20:07",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 56,
+  "seguidores": 65,
   "seguindo": 4,
-  "posts": 230,
-  "alcance_7d": 29187,
-  "views_7d": 38547,
+  "posts": 231,
+  "alcance_7d": 30840,
+  "views_7d": 40721,
   "reels_7d": {
-   "quantidade": 22,
-   "views_total": 39307,
-   "views_mediana": 192,
+   "quantidade": 23,
+   "views_total": 41120,
+   "views_mediana": 188,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-10": 1413,
-    "2026-11-09": 1504,
-    "2026-11-08": 35434,
-    "2026-11-04": 585,
-    "2026-11-03": 371
+    "2026-11-10": 1911,
+    "2026-11-09": 1517,
+    "2026-11-08": 37107,
+    "2026-11-04": 585
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 35195,
-     "alcance": 25991,
-     "curtidas": 1051,
+     "views": 36867,
+     "alcance": 27126,
+     "curtidas": 1121,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 419,
-     "alcance": 335,
-     "curtidas": 12,
+     "views": 422,
+     "alcance": 336,
+     "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
     },
     {
      "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
      "views": 316,
-     "alcance": 192,
+     "alcance": 193,
      "curtidas": 3,
      "link": "https://www.instagram.com/reel/DfhawTADKHY/",
      "em": "2026-11-09T10:17:06-03:00"
     },
     {
      "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
-     "views": 239,
-     "alcance": 164,
+     "views": 240,
+     "alcance": 165,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
      "em": "2026-11-08T18:01:04-03:00"
     },
     {
      "legenda": "Eu indo pra casa no dia 19 de novembro pra jogar GTA 6 🏎️",
-     "views": 228,
-     "alcance": 182,
-     "curtidas": 6,
+     "views": 234,
+     "alcance": 183,
+     "curtidas": 7,
      "link": "https://www.instagram.com/reel/DfiCe19Enl0/",
      "em": "2026-11-09T16:04:13-03:00"
     }
@@ -140,10 +136,16 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 90,
+  "rodadas_24h": 95,
   "falhas_24h": 5,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-10T17:42:16-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42897876662",
+    "resolvido": true
+   },
    {
     "workflow": "Analise temporaria (thread)",
     "em": "2026-11-10T17:09:11-03:00",
@@ -166,12 +168,6 @@
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-10T06:28:29-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42791002698",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-09T19:49:11-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42715234209",
     "resolvido": true
    }
   ]
@@ -220,7 +216,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 35434
+   "views_reels": 37107
   },
   {
    "data": "2026-11-09",
@@ -229,16 +225,16 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1504
+   "views_reels": 1517
   },
   {
    "data": "2026-11-10",
-   "reels": 9,
+   "reels": 13,
    "reels_meta": 15,
    "carrosseis": 4,
    "carrosseis_meta": 7,
-   "materias": 5,
-   "views_reels": 1413
+   "materias": 7,
+   "views_reels": 1911
   }
  ],
  "seguidores_por_dia": [
@@ -252,13 +248,13 @@
   },
   {
    "data": "2026-11-10",
-   "seguidores": 56
+   "seguidores": 65
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 11:00"
+   "texto": "Carrossel atrasado hoje: 11:00, 19:00, 21:00"
   }
  ]
 }
