@@ -1650,7 +1650,7 @@
     "slug": "ben-10-alien-force",
     "data": "2026-11-11",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Por que não tem mais jogos do Ben 10 assim? 👽\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#ben10 #nostalgia #ps2 #games #pixelzada",
     "tentativas": 0,
@@ -1664,6 +1664,25 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "TV"
+    },
+    "publicado": {
+      "em": "2026-11-11T16:02:28-03:00",
+      "media_id": "18117362072034298",
+      "permalink": "https://www.instagram.com/reel/DfnL75RCVCU/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af4bbfcf0d62ba60e2c4d5a",
+        "em": "2026-11-11T16:03:23-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af4bc07592a3bb919a7c532",
+        "em": "2026-11-11T16:03:35-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=oXICDbXKt_M"
+      }
     }
   },
   {
