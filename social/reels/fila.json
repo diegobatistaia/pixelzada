@@ -2341,5 +2341,159 @@
       "moldura": "simples-preta",
       "estilo_antes": "Moldura"
     }
+  },
+  {
+    "slug": "gta-6-meups-oficial",
+    "data": "2026-11-14",
+    "horario": "09:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/Dfi5ZgTNBFn/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-fortnite",
+    "data": "2026-11-14",
+    "horario": "10:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "fortnite",
+      "link": "https://www.instagram.com/reel/DfifH3vPJgJ/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-branca"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-adrenaline-oficial",
+    "data": "2026-11-14",
+    "horario": "11:00",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "adrenaline_oficial",
+      "link": "https://www.instagram.com/reel/DfiMamZBk9B/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-preta"
+    }
+  },
+  {
+    "slug": "gta-6-houseofgta6",
+    "data": "2026-11-14",
+    "horario": "12:00",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "houseofgta6",
+      "link": "https://www.instagram.com/reel/Dfk19QhPOIo/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-sougamergeek",
+    "data": "2026-11-14",
+    "horario": "13:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfk9Hv8Pk9U/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-branca"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-battlefield",
+    "data": "2026-11-14",
+    "horario": "14:00",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "battlefield",
+      "link": "https://www.instagram.com/reel/DfkEmiQkY3m/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-preta"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-gamespot",
+    "data": "2026-11-14",
+    "horario": "15:00",
+    "status": "agendado",
+    "estilo": "Faixa",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/Dfkt1sII0TI/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "identidade"
+    }
   }
 ]
