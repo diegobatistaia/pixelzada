@@ -1042,6 +1042,20 @@
       "em": "2026-11-09T10:16:03-03:00",
       "media_id": "18136977247679793",
       "permalink": "https://www.instagram.com/reel/DfhawTADKHY/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af466b2988094eb26e32f1e",
+        "em": "2026-11-11T09:59:29-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af466bd803e026988144fae",
+        "em": "2026-11-11T09:59:40-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=mlhP4S9BZCM"
+      }
     }
   },
   {
