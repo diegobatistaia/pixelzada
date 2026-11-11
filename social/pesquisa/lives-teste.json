@@ -1,13 +1,14 @@
 {
-  "em": "2026-11-11T09:07:58-03:00",
+  "em": "2026-11-11T09:13:36-03:00",
   "jogo": "Grand Theft Auto V",
   "twitch": 96,
   "kick": 0,
   "clipes": [
     {
+      "n": 1,
       "fonte": "twitch",
       "canal": "アジ吉",
-      "views": 1806,
+      "views": 2079,
       "duracao": 60,
       "titulo": "S2:レギオン前派出所がリフォームされ爆笑するあじかん",
       "link": "https://www.twitch.tv/ajikichi/clip/DarlingCautiousTruffleOhMyDog-ZxTpQB-A9n-KrR1i",
@@ -16,9 +17,10 @@
       "corte": null
     },
     {
+      "n": 2,
       "fonte": "twitch",
       "canal": "アジ吉",
-      "views": 260,
+      "views": 296,
       "duracao": 60,
       "titulo": "S2:手狭そうだったのでプレハブを追加してみたきの補佐",
       "link": "https://www.twitch.tv/ajikichi/clip/SweetEphemeralDadDBstyle-28CFne7hqwPgIF4e",
@@ -27,6 +29,31 @@
       "corte": null
     },
     {
+      "n": 3,
+      "fonte": "twitch",
+      "canal": "ごっちゃんマイキー",
+      "views": 176,
+      "duracao": 48.2,
+      "titulo": "ちょっとヴァンダーマーすぎて嫌かも",
+      "link": "https://www.twitch.tv/gocchanmikey/clip/AbstemiousExquisiteJamNotATK-qTKZfx2X82zshAc0",
+      "ok": true,
+      "motivo": "sem câmera de streamer",
+      "corte": null
+    },
+    {
+      "n": 4,
+      "fonte": "twitch",
+      "canal": "アジ吉",
+      "views": 157,
+      "duracao": 60,
+      "titulo": "S2:実験的なプレハブ派出所",
+      "link": "https://www.twitch.tv/ajikichi/clip/JollyMuddyCoyoteDatBoi-_nd7g0HRjZkLnT8d",
+      "ok": true,
+      "motivo": "sem câmera de streamer",
+      "corte": null
+    },
+    {
+      "n": 5,
       "fonte": "twitch",
       "canal": "わきをだ",
       "views": 156,
@@ -41,6 +68,17 @@
         1376,
         1080
       ]
+    },
+    {
+      "n": 6,
+      "fonte": "twitch",
+      "canal": "ごっちゃんマイキー",
+      "views": 93,
+      "duracao": 60,
+      "titulo": "れりあちゃんからのdmに長考するボス",
+      "link": "https://www.twitch.tv/gocchanmikey/clip/NurturingUglyCheetahPunchTrees-5jJx3Un3RdJJ9Pib",
+      "ok": false,
+      "motivo": "a câmera do streamer cobre jogo demais para cortar"
     }
   ]
 }
