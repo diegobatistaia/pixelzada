@@ -157,7 +157,9 @@ def _so_5_hashtags(texto: str) -> str:
 
 
 def texto_tiktok(item: dict) -> str:
-    return _so_5_hashtags(item["legenda"])[:2200]
+    # No TikTok o @ é outro (conta "pixelzadabr0"): a chamada fica sem o @ do Instagram.
+    t = re.sub(r"Segue @pixelzada\.br", "Segue o perfil", item["legenda"])
+    return _so_5_hashtags(t)[:2200]
 
 
 def texto_youtube(item: dict) -> str:
