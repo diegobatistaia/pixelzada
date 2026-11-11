@@ -1612,7 +1612,7 @@
     "slug": "cinema-pra-jogar-cod",
     "data": "2026-11-11",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Carregando",
     "legenda": "O amigo realmente alugou uma sala de cinema só pra jogar COD 🍿\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#callofduty #cod #gamer #games #pixelzada",
     "tentativas": 0,
@@ -1625,6 +1625,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-11T15:01:12-03:00",
+      "media_id": "18133457708308087",
+      "permalink": "https://www.instagram.com/reel/DfnE66Qj0ob/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af4ad9428e2cd1b31f7286a",
+        "em": "2026-11-11T15:01:55-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af4ada0b0d917511aad1c82",
+        "em": "2026-11-11T15:02:07-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=CS-N-V22TpU"
+      }
     }
   },
   {
