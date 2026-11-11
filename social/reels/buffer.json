@@ -1,5 +1,16 @@
 {
   "ativo": false,
   "modo": "shareNow",
-  "youtube_terceiros": false
+  "youtube_terceiros": false,
+  "organizacao": "6af45f9b509aa4975c405736",
+  "canais": {
+    "tiktok": {
+      "id": "6af4600e62b70b94b0f46442",
+      "nome": "pixelzadabr0"
+    },
+    "youtube": {
+      "id": "6af460dc62b70b94b0f46bef",
+      "nome": "PixelzadaBR"
+    }
+  }
 }
