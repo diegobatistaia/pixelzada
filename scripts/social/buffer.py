@@ -224,6 +224,12 @@ def enviar(item: dict, video: str, cfg: dict) -> dict:
         if not vai_para(item, rede, cfg):
             redes[rede] = {"pulado": "vídeo de outro perfil"}
             continue
+        usados = (cfg.get("uso") or {}).get(rede, 0) if (cfg.get("uso") or {}).get("mes") == IG.agora().strftime("%Y-%m") else 0
+        if usados >= cfg.get("limite_mes", 980):
+            # Plano grátis: 1.000 pedidos por rede a cada 30 dias. Para antes do teto e avisa no painel.
+            redes[rede] = {"pulado": f"limite do mês no Buffer ({usados} pedidos)"}
+            print(f"AVISO {rede}: limite do mês no Buffer ({usados})")
+            continue
         t = IG.agora().isoformat(timespec="seconds")
         try:
             contar(cfg, rede)

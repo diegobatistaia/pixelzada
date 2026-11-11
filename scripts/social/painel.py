@@ -255,6 +255,18 @@ def falhas(agora: datetime) -> dict:
             "sem_resolver": sum(1 for f in lista if not f["resolvido"]), "lista": lista[-15:][::-1]}
 
 
+def buffer_uso(fila: list[dict], agora: datetime) -> dict:
+    """Pedidos ao Buffer no mês (limite grátis: 1.000 por rede) e envios com erro hoje."""
+    cfg_p = R.PASTA / "buffer.json"
+    cfg = json.loads(cfg_p.read_text(encoding="utf-8")) if cfg_p.exists() else {}
+    uso = cfg.get("uso") or {}
+    if uso.get("mes") != agora.strftime("%Y-%m"):
+        uso = {}
+    hoje = agora.date().isoformat()
+    erros = sum(1 for i in fila if i.get("data") == hoje for r in (i.get("redes") or {}).values() if r.get("erro"))
+    return {"ativo": bool(cfg.get("ativo")), "uso": uso, "erros_hoje": erros}
+
+
 # ---------------------------------------------------------------------------
 def alertas(e: dict) -> list[dict]:
     a = []
@@ -276,6 +288,12 @@ def alertas(e: dict) -> list[dict]:
     ig = e.get("instagram") or {}
     if ig.get("erro") and ig["erro"] != "sem chave":
         a.append({"nivel": "amarelo", "texto": "Não consegui ler o Instagram nesta rodada"})
+    for rede, n in (e.get("buffer") or {}).get("uso", {}).items():
+        if rede != "mes" and n >= 800:
+            a.append({"nivel": "vermelho" if n >= 950 else "amarelo",
+                      "texto": f"Buffer: {n} de 1.000 pedidos do mês usados no {rede} (plano grátis)"})
+    if (e.get("buffer") or {}).get("erros_hoje"):
+        a.append({"nivel": "amarelo", "texto": f"Buffer: {e['buffer']['erros_hoje']} envio(s) para TikTok/YouTube com erro hoje"})
     if e["site"]["hoje"] == 0 and datetime.fromisoformat(e["atualizado"]).hour >= 12:
         a.append({"nivel": "amarelo", "texto": "Nenhuma matéria nova no site hoje"})
     return a
@@ -298,6 +316,7 @@ def montar(agora: datetime | None = None, historico: dict | None = None) -> tupl
         "pesquisa": pesquisa(),
         "instagram": instagram(agora),
         "falhas": falhas(agora),
+        "buffer": buffer_uso(fila, agora),
     }
     ig = estado["instagram"]
     views_dia = ((ig.get("reels_7d") or {}).get("views_por_dia")) or {}
