@@ -1497,7 +1497,7 @@
     "slug": "gta6-um-dia-normal-em-miami",
     "data": "2026-11-11",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "“A Rockstar vai exagerar Miami em GTA 6.” Um dia normal em Miami: 🐪\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #vicecity #pixelzada",
     "tentativas": 0,
@@ -1510,6 +1510,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-11T11:00:06-03:00",
+      "media_id": "17957609793277764",
+      "permalink": "https://www.instagram.com/reel/DfmpVKsoM-6/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af47511aca5fe01c4c2de28",
+        "em": "2026-11-11T11:00:47-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af4751e65ca8ad72d05d87a",
+        "em": "2026-11-11T11:01:00-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=7L0qznXup64"
+      }
     }
   },
   {
