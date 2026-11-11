@@ -5,11 +5,13 @@
 // pedido.json = [{ video, saida, estilo, cor, jogo, titulo, frase, crop?, max_seg? }, ...]
 //   video   caminho do vídeo bruto (mp4)
 //   saida   caminho final sem extensão (gera saida.mp4 e saida.jpg)
-//   estilo  uma das 20 molduras de estilos.js (moldura, polaroid, tv, ...)
+//   estilo  uma das 20 molduras de estilos.js (moldura, polaroid, tv, ...) ou
+//           simples-branca / simples-preta (simples.js, teste do Diego de 11/11)
 //   crop    {x,y,w,h} do pedaço do vídeo que entra na moldura; sem ele, tira as
 //           barras pretas sozinho (cropdetect)
 //   max_seg corta o vídeo nesse tamanho (padrão 45s)
 const { render, compor, chromium, S } = require('./estilos.js');
+const { ESTILOS: SIMPLES, montarSimples } = require('./simples.js');
 const { spawnSync } = require('child_process');
 const fs = require('fs'), path = require('path');
 
@@ -60,10 +62,10 @@ function recorte(f, info) {
       const tmp = path.join(S, tag + '-in.mp4');
       const info = preparar(path.resolve(v.video), tmp, v.max_seg || 45);
       const crop = v.crop || recorte(tmp, info);
-      const r = await render(p, { titulo: v.titulo, frase: v.frase, cor: v.cor, jogo: v.jogo }, v.estilo, crop.w, crop.h, tag);
       const mp4 = path.resolve(v.saida + '.mp4'), jpg = path.resolve(v.saida + '.jpg');
       fs.mkdirSync(path.dirname(mp4), { recursive: true });
-      compor(tmp, crop, r, mp4);
+      if (SIMPLES[v.estilo]) await montarSimples(p, S, v, tmp, crop, mp4);
+      else compor(tmp, crop, await render(p, { titulo: v.titulo, frase: v.frase, cor: v.cor, jogo: v.jogo }, v.estilo, crop.w, crop.h, tag), mp4);
       if (!fs.existsSync(mp4) || fs.statSync(mp4).size < 50000) throw new Error('vídeo final não saiu');
       const ss = Math.min(2.3, Math.max(0, (info.dur || 4) / 2));
       run('ffmpeg', ['-v', 'error', '-y', '-ss', String(ss), '-i', mp4, '-frames:v', '1', '-q:v', '2', jpg]);

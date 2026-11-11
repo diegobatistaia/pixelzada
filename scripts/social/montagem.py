@@ -62,6 +62,16 @@ NOME_ESTILO = {
     "conquista": "Conquista", "quadrinho": "Quadrinho", "figurinha": "Figurinha", "inventario": "Inventário",
     "carregando": "Carregando",
 }
+# Teste do Diego (11/11): 1/3 moldura simples branca, 1/3 simples preta, 1/3 estilo da
+# identidade (rodízio acima). Quem decide é a posição do horário na grade do dia.
+SIMPLES = {"simples-branca": "Simples branca", "simples-preta": "Simples preta"}
+TERCOS = ["simples-branca", "simples-preta", None]
+
+
+def estilo_do_horario(dia: str, hora: str) -> str | None:
+    """simples-branca / simples-preta, ou None para o rodízio da identidade."""
+    grade = R.horarios(dia)
+    return TERCOS[grade.index(hora) % 3] if hora in grade else None
 
 
 # ---------------------------------------------------------------------------
@@ -191,7 +201,10 @@ def automatico(agora: datetime | None = None) -> int:
     if not videos or not livres:
         return 0
     videos = videos[:len(livres)]
-    estilos = proximos_estilos(fila, len(videos))
+    vagas = livres[:len(videos)]  # cada vídeo já sabe o horário: o estilo depende dele
+    fixos = [estilo_do_horario(d, h) for d, h in vagas]
+    rodizio = iter(proximos_estilos(fila, fixos.count(None)))
+    estilos = [f or next(rodizio) for f in fixos]
     slugs = {i["slug"] for i in fila}
     pedido, itens = [], []
     for n, (mp4, estilo) in enumerate(zip(videos, estilos)):
@@ -219,17 +232,18 @@ def automatico(agora: datetime | None = None) -> int:
         if str(VIDEOS / slug) not in ok:
             print(f"  {slug}: a montagem falhou; o vídeo bruto fica em {mp4.relative_to(ROOT)}")
             continue
-        dia, hora = livres[usados]
+        dia, hora = vagas[itens.index((mp4, slug, estilo, texto, tema, info))]
         usados += 1
         fila.append({"slug": slug, "data": dia, "horario": hora, "status": "agendado",
-                     "estilo": NOME_ESTILO[estilo],
+                     "estilo": SIMPLES.get(estilo) or NOME_ESTILO[estilo],
                      "legenda": legenda(texto["titulo"], texto["emoji"], tema, texto["hashtags"]),
                      "tentativas": 0,
                      "origem": {"motor": True, "perfil": info.get("perfil"), "link": info.get("link"),
                                 "titulo": texto["fonte"], "revisado": False},
                      # etiquetas para a análise semanal (Diego, 10/11)
                      "etiquetas": {"formato": info.get("formato") or "outro", "tema": info.get("tema") or "games",
-                                   "jogo": info.get("jogo") or ""}})
+                                   "jogo": info.get("jogo") or "",
+                                   "moldura": estilo if estilo in SIMPLES else "identidade"}})
         mp4.unlink()
         mp4.with_suffix(".json").unlink()
         print(f"  {slug}: na fila {dia} {hora}")
