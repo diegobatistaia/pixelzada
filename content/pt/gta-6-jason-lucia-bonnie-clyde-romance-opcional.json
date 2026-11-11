@@ -120,7 +120,10 @@
     "query": "GTA 6 Jason e Lucia",
     "alt": "Jason e Lucia na imagem oficial do Trailer 2 de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-2.0l.7aqib91fz6.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-jason-lucia-bonnie-clyde-romance-o-602ac409.jpg",
+    "source_url": "",
+    "foco": "50% 42%"
   },
   "sources": [
     {
@@ -202,5 +205,7 @@
       "title": "Loading Leonida: what we learned from the 'Grand Theft Auto 6' Extended Look on Netflix"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-11T12:41:49+00:00",
+  "updated_at": "2026-11-11T12:41:49+00:00"
 }
