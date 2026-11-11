@@ -1,7 +1,7 @@
 {
   "ativo": true,
   "modo": "shareNow",
-  "youtube_terceiros": false,
+  "youtube_terceiros": true,
   "organizacao": "6af45f9b509aa4975c405736",
   "canais": {
     "tiktok": {
