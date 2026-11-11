@@ -106,7 +106,10 @@
     "query": "GTA 6 Trailer 1 Florida",
     "alt": "Imagem oficial do Trailer 1 de GTA VI, que trouxe as cenas inspiradas em vídeos virais da Flórida",
     "url": "https://www.rockstargames.com/VI/_next/static/media/trailer-1.06b6paykx247w.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-florida-man-memes-noticias-reais-l-5ad9b353.jpg",
+    "source_url": "",
+    "foco": "54% 42%"
   },
   "sources": [
     {
@@ -182,5 +185,7 @@
       "title": "Man Dubbed 'Florida Joker' Claims Character From 'GTA 6' Trailer Is Based on Him, Wants $1-$2 Million in Damages"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-11T18:41:51+00:00",
+  "updated_at": "2026-11-11T18:41:51+00:00"
 }

@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:41:52 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Florida Man em GTA 6: as notícias reais por trás dos trailers</title>
+      <link>https://pixelzada.com.br/pt/gta-6-florida-man-memes-noticias-reais-leonida/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-florida-man-memes-noticias-reais-leonida/</guid>
+      <description>Florida Man em GTA 6: veja as cenas do Trailer 1 ligadas a vídeos e notícias reais, o caso do Florida Joker e o que a Rockstar já disse sobre Leonida.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 11 Nov 2026 18:41:51 +0000</pubDate>
+    </item>
     <item>
       <title>Por que o remake de Zelda: Ocarina of Time cortou Mario e Yoshi</title>
       <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-mario-yoshi-easter-eggs-aonuma/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-veiculos-roubar-carro-combustivel-garagens/</guid>
       <description>Roubo de carro mais difícil, combustível, garagens e transporte público: o que a imprensa já levantou dos veículos de GTA 6 antes do lançamento em 19/11.</description>
       <category>GTA 6</category>
-      <pubDate>Sun, 08 Nov 2026 12:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hozy, jogo de reforma sem pressa, chega ao PS5 e ao Xbox em 9 de novembro</title>
-      <link>https://pixelzada.com.br/pt/hozy-reforma-limpeza-ps5-xbox-series-9-de-novembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/hozy-reforma-limpeza-ps5-xbox-series-9-de-novembro/</guid>
-      <description>Hozy, jogo de reforma e limpeza sem pressa, chega ao PS5 e ao Xbox Series em 9 de novembro. Veja como funciona, os recursos do DualSense e os modos extras.</description>
-      <category>Lançamentos</category>
       <pubDate>Sun, 08 Nov 2026 12:40:24 +0000</pubDate>
     </item>
   </channel>
