@@ -175,10 +175,17 @@ def titulo_youtube(item: dict) -> str:
     return f"{linha} #Shorts"
 
 
+def _gta6(item: dict) -> bool:
+    et = item.get("etiquetas") or {}
+    return et.get("tema") == "gta6" or "gta6" in item["slug"].replace("-", "") or "GTA 6" in str(et.get("jogo", ""))
+
+
 def vai_para(item: dict, rede: str, cfg: dict) -> bool:
-    if rede == "youtube" and (item.get("origem") or {}).get("link") and not cfg.get("youtube_terceiros"):
-        return False
-    return True
+    """youtube_terceiros: false = só vídeo próprio; "gta6" = próprios + de outros perfis só de GTA 6; true = todos."""
+    if rede != "youtube" or not (item.get("origem") or {}).get("link"):
+        return True
+    modo = cfg.get("youtube_terceiros")
+    return modo is True or (modo == "gta6" and _gta6(item))
 
 
 # ---------------------------------------------------------------- envio
