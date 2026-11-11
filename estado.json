@@ -7,30 +7,26 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-10T22:15-03:00",
+ "atualizado": "2026-11-11T04:47-03:00",
  "hoje": {
-  "data": "2026-11-10",
+  "data": "2026-11-11",
   "reels": {
    "meta": 15,
-   "publicados": 13,
-   "deviam_ter_saido": 15,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
-   "publicados": 4,
-   "deviam_ter_saido": 7,
-   "atrasados": [
-    "11:00",
-    "19:00",
-    "21:00"
-   ],
+   "publicados": 0,
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 2
   }
  },
  "fila_reels": {
-  "agendados": 46,
+  "agendados": 47,
   "meta_por_dia": 15,
   "dias_de_reserva": 3.1,
   "grade_cheia_ate": "2026-11-13",
@@ -53,14 +49,14 @@
    },
    {
     "data": "2026-11-14",
-    "agendados": 1,
+    "agendados": 2,
     "meta": 15
    }
   ]
  },
  "site": {
   "total": 176,
-  "hoje": 7,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "The Outer Worlds 2 ganha DLC Side Effects Guaranteed em 2 de dezembro",
@@ -75,28 +71,28 @@
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 65,
+  "seguidores": 69,
   "seguindo": 4,
   "posts": 231,
-  "alcance_7d": 30840,
-  "views_7d": 40721,
+  "alcance_7d": 31279,
+  "views_7d": 41249,
   "reels_7d": {
    "quantidade": 23,
-   "views_total": 41120,
-   "views_mediana": 188,
+   "views_total": 41573,
+   "views_mediana": 190,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-10": 1911,
-    "2026-11-09": 1517,
-    "2026-11-08": 37107,
+    "2026-11-10": 2001,
+    "2026-11-09": 1523,
+    "2026-11-08": 37464,
     "2026-11-04": 585
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 36867,
-     "alcance": 27126,
-     "curtidas": 1121,
+     "views": 37224,
+     "alcance": 27410,
+     "curtidas": 1142,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -126,8 +122,8 @@
     },
     {
      "legenda": "Eu indo pra casa no dia 19 de novembro pra jogar GTA 6 🏎️",
-     "views": 234,
-     "alcance": 183,
+     "views": 235,
+     "alcance": 184,
      "curtidas": 7,
      "link": "https://www.instagram.com/reel/DfiCe19Enl0/",
      "em": "2026-11-09T16:04:13-03:00"
@@ -174,15 +170,6 @@
  },
  "ultimos_dias": [
   {
-   "data": "2026-11-04",
-   "reels": 3,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 10,
-   "views_reels": 585
-  },
-  {
    "data": "2026-11-05",
    "reels": 0,
    "reels_meta": 6,
@@ -216,7 +203,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 37107
+   "views_reels": 37464
   },
   {
    "data": "2026-11-09",
@@ -225,7 +212,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1517
+   "views_reels": 1523
   },
   {
    "data": "2026-11-10",
@@ -234,7 +221,16 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 1911
+   "views_reels": 2001
+  },
+  {
+   "data": "2026-11-11",
+   "reels": 0,
+   "reels_meta": 15,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -249,12 +245,11 @@
   {
    "data": "2026-11-10",
    "seguidores": 65
+  },
+  {
+   "data": "2026-11-11",
+   "seguidores": 69
   }
  ],
- "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 11:00, 19:00, 21:00"
-  }
- ]
+ "alertas": []
 }
