@@ -1400,7 +1400,7 @@
     "slug": "gta6-nova-york-onibus",
     "data": "2026-11-10",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Legenda",
     "legenda": "GTA 6 tomou conta de Nova York 🗽\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #novayork #rockstargames #pixelzada",
     "tentativas": 0,
@@ -1410,6 +1410,11 @@
       "link": "https://www.instagram.com/reel/DfVogEnBsrw/",
       "titulo": "claude",
       "revisado": true
+    },
+    "publicado": {
+      "em": "2026-11-10T21:00:16-03:00",
+      "media_id": "18345342202258748",
+      "permalink": "https://www.instagram.com/reel/DflJN6ajiwn/"
     }
   },
   {
