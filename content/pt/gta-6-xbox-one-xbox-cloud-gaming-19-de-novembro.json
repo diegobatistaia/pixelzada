@@ -18,7 +18,10 @@
     "query": "GTA 6 Xbox Cloud Gaming",
     "alt": "Arte oficial de capa de Grand Theft Auto VI divulgada pelo Xbox Wire",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/gta-6-xbox-one-xbox-cloud-gaming-19-de-n-902f8ce8.jpg",
+    "source_url": "",
+    "foco": "46% 37%"
   },
   "sources": [
     {
@@ -47,7 +50,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -147,5 +150,7 @@
       "text": "Para quem ainda tem um Xbox One e não pretende trocar de console agora, é uma porta de entrada. O preço, no entanto, vai além do jogo: é preciso boa internet e, dependendo do plano, tempo de nuvem extra. A Pixelzada acompanha as novidades até 19 de novembro.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-11T14:44:22+00:00",
+  "updated_at": "2026-11-11T14:44:22+00:00"
 }

@@ -18,7 +18,10 @@
     "query": "Zelda Ocarina of Time remake",
     "alt": "Cena do remake de The Legend of Zelda: Ocarina of Time para Nintendo Switch 2",
     "url": "https://www.videogameschronicle.com/files/2026/11/NS2_TheLegendofZeldaOcarinaofTime_scrn_13.jpg",
-    "credit": "Imagem: Nintendo"
+    "credit": "Imagem: Nintendo",
+    "path": "/assets/img/zelda-ocarina-of-time-remake-mario-yoshi-38fe6c3c.jpg",
+    "source_url": "",
+    "foco": "49% 36%"
   },
   "sources": [
     {
@@ -40,7 +43,7 @@
       "title": "The Legend of Zelda: Ocarina of Time remake sales top 5.2 million in four days"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -122,5 +125,7 @@
       "text": "A decisão de retirar os easter eggs mostra uma Nintendo mais cuidadosa com a imersão. O jogo bateu recordes de venda, com mais de 5,2 milhões de unidades em quatro dias, e quem sentir falta dos retratos pode recorrer ao original. A Pixelzada continua acompanhando o remake e as curiosidades que a equipe revelar.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-11T14:44:23+00:00",
+  "updated_at": "2026-11-11T14:44:23+00:00"
 }

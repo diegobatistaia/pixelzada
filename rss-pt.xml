@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:44:24 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Por que o remake de Zelda: Ocarina of Time cortou Mario e Yoshi</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-mario-yoshi-easter-eggs-aonuma/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-mario-yoshi-easter-eggs-aonuma/</guid>
+      <description>O remake de Zelda: Ocarina of Time removeu os retratos de Mario e Yoshi do Castelo de Hyrule. Veja o que Eiji Aonuma explicou à Game Informer sobre a escolha.</description>
+      <category>Lançamentos</category>
+      <pubDate>Wed, 11 Nov 2026 14:44:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>GTA 6 no Xbox One: como jogar pelo Xbox Cloud Gaming no lançamento</title>
+      <link>https://pixelzada.com.br/pt/gta-6-xbox-one-xbox-cloud-gaming-19-de-novembro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-xbox-one-xbox-cloud-gaming-19-de-novembro/</guid>
+      <description>GTA 6 chega ao Xbox One pelo Xbox Cloud Gaming em 19 de novembro. Veja o horário, a qualidade, se precisa comprar o jogo e como funciona o tempo de nuvem.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 11 Nov 2026 14:44:22 +0000</pubDate>
+    </item>
     <item>
       <title>Jason e Lucia e Bonnie e Clyde: o que a Rockstar já disse sobre GTA 6</title>
       <link>https://pixelzada.com.br/pt/gta-6-jason-lucia-bonnie-clyde-romance-opcional/</link>
@@ -230,22 +246,6 @@
       <description>Hozy, jogo de reforma e limpeza sem pressa, chega ao PS5 e ao Xbox Series em 9 de novembro. Veja como funciona, os recursos do DualSense e os modos extras.</description>
       <category>Lançamentos</category>
       <pubDate>Sun, 08 Nov 2026 12:40:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Armas e combate em GTA 6: mira livre, câmera lenta e tiro que não mata</title>
-      <link>https://pixelzada.com.br/pt/gta-6-armas-combate-mira-livre-camera-lenta/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-armas-combate-mira-livre-camera-lenta/</guid>
-      <description>Mira livre, câmera lenta, tiro que não mata e as armas já vistas: o que a imprensa levantou do combate de GTA 6 antes do lançamento em 19 de novembro.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 07 Nov 2026 18:39:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Free Play Days: PAYDAY 3, BALL x PIT e DMZ de MW4 grátis no Xbox</title>
-      <link>https://pixelzada.com.br/pt/free-play-days-xbox-payday-3-ball-x-pit-dmz-mw4-fim-de-semana/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/free-play-days-xbox-payday-3-ball-x-pit-dmz-mw4-fim-de-semana/</guid>
-      <description>Free Play Days no Xbox até domingo (8): PAYDAY 3, BALL x PIT, Age of Wonders 4 e mais. Veja a lista completa, o acesso ao DMZ de MW4 e como baixar os jogos.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sat, 07 Nov 2026 16:40:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
