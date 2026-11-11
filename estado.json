@@ -7,37 +7,41 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-11T13:12-03:00",
+ "atualizado": "2026-11-11T19:43-03:00",
  "hoje": {
   "data": "2026-11-11",
   "reels": {
    "meta": 15,
-   "publicados": 4,
-   "deviam_ter_saido": 6,
+   "publicados": 10,
+   "deviam_ter_saido": 13,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 2,
+   "deviam_ter_saido": 6,
    "atrasados": [
     "09:00",
-    "11:00"
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00"
    ],
    "pautas_esperando": 4
   }
  },
  "fila_reels": {
-  "agendados": 48,
+  "agendados": 54,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.2,
-  "grade_cheia_ate": "2026-11-13",
+  "dias_de_reserva": 3.6,
+  "grade_cheia_ate": "2026-11-14",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-11",
-    "agendados": 8,
+    "agendados": 2,
     "meta": 15
    },
    {
@@ -52,57 +56,61 @@
    },
    {
     "data": "2026-11-14",
-    "agendados": 10,
+    "agendados": 15,
+    "meta": 15
+   },
+   {
+    "data": "2026-11-15",
+    "agendados": 7,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 180,
-  "hoje": 4,
+  "total": 181,
+  "hoje": 5,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Por que o remake de Zelda: Ocarina of Time cortou Mario e Yoshi",
-   "url": "https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-mario-yoshi-easter-eggs-aonuma/",
-   "em": "2026-11-11T11:44:23-03:00"
+   "titulo": "Florida Man em GTA 6: as notícias reais por trás dos trailers",
+   "url": "https://pixelzada.com.br/pt/gta-6-florida-man-memes-noticias-reais-leonida/",
+   "em": "2026-11-11T15:41:51-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "11/11/2026 11:07",
+  "ultima_coleta": "11/11/2026 19:06",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 72,
+  "seguidores": 75,
   "seguindo": 4,
-  "posts": 235,
-  "alcance_7d": 31501,
-  "views_7d": 41823,
+  "posts": 241,
+  "alcance_7d": 31979,
+  "views_7d": 43208,
   "reels_7d": {
-   "quantidade": 25,
-   "views_total": 42381,
-   "views_mediana": 187,
+   "quantidade": 30,
+   "views_total": 43555,
+   "views_mediana": 180,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-11": 703,
-    "2026-11-10": 2031,
-    "2026-11-09": 1527,
-    "2026-11-08": 37922,
-    "2026-11-04": 198
+    "2026-11-11": 1646,
+    "2026-11-10": 2039,
+    "2026-11-09": 1529,
+    "2026-11-08": 38341
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 37681,
-     "alcance": 27663,
-     "curtidas": 1160,
+     "views": 38100,
+     "alcance": 27748,
+     "curtidas": 1180,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 422,
+     "views": 423,
      "alcance": 336,
      "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
@@ -136,8 +144,8 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 100,
-  "falhas_24h": 6,
+  "rodadas_24h": 90,
+  "falhas_24h": 2,
   "sem_resolver": 0,
   "lista": [
    {
@@ -151,30 +159,6 @@
     "em": "2026-11-11T06:25:23-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42995040379",
     "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-10T17:42:16-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42897876662",
-    "resolvido": true
-   },
-   {
-    "workflow": "Analise temporaria (thread)",
-    "em": "2026-11-10T17:09:11-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42892411057",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-10T15:50:03-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42879171521",
-    "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-10T15:41:37-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42877765650",
-    "resolvido": true
    }
   ]
  },
@@ -182,8 +166,8 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 6,
-   "youtube": 3
+   "tiktok": 13,
+   "youtube": 10
   },
   "erros_hoje": 0
  },
@@ -222,7 +206,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 37922
+   "views_reels": 38341
   },
   {
    "data": "2026-11-09",
@@ -231,7 +215,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1527
+   "views_reels": 1529
   },
   {
    "data": "2026-11-10",
@@ -240,16 +224,16 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 2031
+   "views_reels": 2039
   },
   {
    "data": "2026-11-11",
-   "reels": 4,
+   "reels": 10,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 4,
-   "views_reels": 703
+   "materias": 5,
+   "views_reels": 1646
   }
  ],
  "seguidores_por_dia": [
@@ -267,13 +251,13 @@
   },
   {
    "data": "2026-11-11",
-   "seguidores": 72
+   "seguidores": 75
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
   }
  ]
 }
