@@ -2343,85 +2343,19 @@
     }
   },
   {
-    "slug": "gta-6-meups-oficial",
-    "data": "2026-11-14",
-    "horario": "09:00",
-    "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Dfi5ZgTNBFn/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "identidade"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-fortnite",
-    "data": "2026-11-14",
-    "horario": "10:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "fortnite",
-      "link": "https://www.instagram.com/reel/DfifH3vPJgJ/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-adrenaline-oficial",
-    "data": "2026-11-14",
-    "horario": "11:00",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "adrenaline_oficial",
-      "link": "https://www.instagram.com/reel/DfiMamZBk9B/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-preta"
-    }
-  },
-  {
-    "slug": "gta-6-houseofgta6",
+    "slug": "adeus-gta5-13-anos",
     "data": "2026-11-14",
     "horario": "12:00",
     "status": "agendado",
-    "estilo": "Conversa",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Moldura",
+    "legenda": "Adeus, GTA 5. Obrigado por 13 anos inesquecíveis em Los Santos 🥹\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #gtavi #lossantos #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "houseofgta6",
       "link": "https://www.instagram.com/reel/Dfk19QhPOIo/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "noticia",
@@ -2431,19 +2365,19 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-sougamergeek",
+    "slug": "flash-no-jogo-do-homem-aranha",
     "data": "2026-11-14",
     "horario": "13:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Adicionaram o Flash no jogo do Homem-Aranha. Imagina uma boss fight contra outro velocista ⚡\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#flash #homemaranha #spiderman #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/Dfk9Hv8Pk9U/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "outro",
@@ -2453,19 +2387,19 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-battlefield",
+    "slug": "battlefield6-nao-houve-marker",
     "data": "2026-11-14",
     "horario": "14:00",
     "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "HUD",
+    "legenda": "Battlefield 6: não houve evento. Não houve Marker 👁️\n\nSegue @pixelzada.br pra acompanhar o Battlefield 6.\n\n#battlefield6 #battlefield #fps #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "battlefield",
       "link": "https://www.instagram.com/reel/DfkEmiQkY3m/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "outro",
@@ -2475,19 +2409,19 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-gamespot",
+    "slug": "attack-on-titan-3-gameplay",
     "data": "2026-11-14",
     "horario": "15:00",
     "status": "agendado",
-    "estilo": "Faixa",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "HUD",
+    "legenda": "Prévia do gameplay de Attack on Titan 3: defendendo o Eren de uma onda de titãs ⚔️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#attackontitan #shingekinokyojin #anime #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "gamespot",
       "link": "https://www.instagram.com/reel/Dfkt1sII0TI/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "outro",
