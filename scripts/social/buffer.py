@@ -105,12 +105,15 @@ def _tipo(nome: str) -> str:
     def nome_tipo(x):
         if not x:
             return "?"
-        if x["kind"] == "NON_NULL":
+        if x.get("kind") == "NON_NULL":
             return nome_tipo(x.get("ofType")) + "!"
-        if x["kind"] == "LIST":
+        if x.get("kind") == "LIST":
             return "[" + nome_tipo(x.get("ofType")) + "]"
         return x.get("name") or "?"
-    return ", ".join(f"{c['name']}: {nome_tipo(c['type'])}" for c in t.get("inputFields") or [])
+    try:
+        return ", ".join(f"{c['name']}: {nome_tipo(c['type'])}" for c in t.get("inputFields") or [])
+    except Exception as e:  # o teste nunca para por causa do formato
+        return f"(erro ao ler: {e}) {json.dumps(t)[:400]}"
 
 
 def cmd_teste(args) -> int:
