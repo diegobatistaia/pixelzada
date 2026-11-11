@@ -1047,8 +1047,9 @@
       "tiktok": {
         "post_id": "6af466b2988094eb26e32f1e",
         "em": "2026-11-11T09:59:29-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7706897808057437461",
+        "saiu": "2026-11-11T13:10:45.388Z"
       },
       "youtube": {
         "post_id": "6af466bd803e026988144fae",
