@@ -1689,7 +1689,7 @@
     "slug": "castigo-pra-camper",
     "data": "2026-11-11",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Melhor coisa pra se fazer com um camper 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#callofduty #camper #memesgamer #games #pixelzada",
     "tentativas": 0,
@@ -1703,6 +1703,25 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-11T17:00:54-03:00",
+      "media_id": "18091670717698013",
+      "permalink": "https://www.instagram.com/reel/DfnSrkQDklO/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af4c9c0ceae26a3a50df9d5",
+        "em": "2026-11-11T17:02:07-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af4c9cbceae26a3a50dfeaa",
+        "em": "2026-11-11T17:02:19-03:00",
+        "status": "sending",
+        "link": null
+      }
     }
   },
   {
