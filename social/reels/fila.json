@@ -1535,7 +1535,7 @@
     "slug": "god-of-war-rainha-valquirias",
     "data": "2026-11-11",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Derrotar a rainha das Valquírias em God of War não é uma tarefa fácil ⚔️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#godofwar #kratos #playstation #games #pixelzada",
     "tentativas": 0,
@@ -1548,6 +1548,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-11T12:00:03-03:00",
+      "media_id": "17955291699321937",
+      "permalink": "https://www.instagram.com/reel/DfmwMHeFQwz/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af4831e3b4d19e0b80ef3c4",
+        "em": "2026-11-11T12:00:45-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af483295e84a1f10e5c4f4d",
+        "em": "2026-11-11T12:00:57-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=XewVKVYRnDM"
+      }
     }
   },
   {
