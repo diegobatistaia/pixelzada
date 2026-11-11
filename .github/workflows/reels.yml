@@ -97,12 +97,21 @@ jobs:
         if: steps.preparar.outputs.acao == 'reel'
         run: python -m scripts.social.reels publicar
 
+      # Diego (11/11): o mesmo vídeo vai para o TikTok e o YouTube Shorts pelo Buffer.
+      # Só depois do Instagram dar certo; erro aqui não derruba a rodada.
+      - name: TikTok e YouTube (Buffer)
+        if: steps.preparar.outputs.acao == 'reel'
+        continue-on-error: true
+        env:
+          BUFFER_TOKEN_PIXELZADA: ${{ secrets.BUFFER_TOKEN_PIXELZADA }}
+        run: python -m scripts.social.buffer publicar
+
       - name: Registrar o resultado
         if: always()
         run: |
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
-          git add social/reels/fila.json social/publicar 2>/dev/null || true
+          git add social/reels/fila.json social/reels/buffer.json social/publicar 2>/dev/null || true
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "reels: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
           for tentativa in 1 2 3 4; do

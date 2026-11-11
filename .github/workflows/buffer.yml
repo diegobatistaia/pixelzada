@@ -1,0 +1,68 @@
+name: Buffer
+
+# TikTok e YouTube Shorts pelo Buffer (Diego, 11/11). Código: scripts/social/buffer.py.
+# O envio normal acontece dentro do workflow Reels, logo depois do Instagram.
+# Aqui: teste (lista canais e grava ids), enviar um Reel à mão, e conferir links.
+on:
+  schedule:
+    # Confere os links dos posts 2 vezes por dia (12h e 23h de Brasília).
+    - cron: "7 15 * * *"
+    - cron: "7 2 * * *"
+  workflow_dispatch:
+    inputs:
+      acao:
+        description: "teste = lista canais; enviar = manda o Reel (slug); conferir = busca os links"
+        type: choice
+        options: [teste, enviar, conferir]
+        default: teste
+      slug:
+        description: "slug do Reel (só para enviar)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  buffer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      BUFFER_TOKEN_PIXELZADA: ${{ secrets.BUFFER_TOKEN_PIXELZADA }}
+      ACAO: ${{ github.event.inputs.acao || 'conferir' }}
+      SLUG: ${{ github.event.inputs.slug }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Buffer
+        run: |
+          pip install pyyaml
+          if [ "$ACAO" = "enviar" ]; then
+            python -m scripts.social.buffer enviar "$SLUG"
+          else
+            python -m scripts.social.buffer "$ACAO"
+          fi
+
+      - name: Registrar o resultado
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add social/reels/fila.json social/reels/buffer.json 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "buffer: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1
