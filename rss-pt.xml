@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:45:30 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remake de Zelda: Ocarina of Time vende 5,2 milhões em quatro dias</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-vende-5-2-milhoes-quatro-dias/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-vende-5-2-milhoes-quatro-dias/</guid>
+      <description>O remake de Zelda: Ocarina of Time vendeu 5,2 milhões de unidades em quatro dias, diz a Nintendo. Veja como o número se compara a outros jogos da série.</description>
+      <category>Lançamentos</category>
+      <pubDate>Wed, 11 Nov 2026 10:45:29 +0000</pubDate>
+    </item>
     <item>
       <title>The Outer Worlds 2 ganha DLC Side Effects Guaranteed em 2 de dezembro</title>
       <link>https://pixelzada.com.br/pt/the-outer-worlds-2-dlc-side-effects-guaranteed-2-de-dezembro/</link>
@@ -238,14 +246,6 @@
       <description>Seis estrelas, polícia que memoriza rosto, roupa e carro e jeitos de fugir: o que a Rockstar já mostrou do sistema de procurado de GTA 6, antes do lançamento.</description>
       <category>GTA 6</category>
       <pubDate>Sat, 07 Nov 2026 16:40:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Novo app do Xbox para PC abre até 60% mais rápido e chega aos Insiders</title>
-      <link>https://pixelzada.com.br/pt/novo-app-xbox-pc-abre-60-por-cento-mais-rapido-insiders/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/novo-app-xbox-pc-abre-60-por-cento-mais-rapido-insiders/</guid>
-      <description>A Microsoft testa novo app do Xbox para PC que abre até 60% mais rápido. Veja o que muda no PC, na web, nas TVs e nos headsets, e como entrar no teste.</description>
-      <category>Consoles e PC</category>
-      <pubDate>Sat, 07 Nov 2026 10:40:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
