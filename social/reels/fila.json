@@ -1460,7 +1460,7 @@
     "slug": "pai-ia-pra-escola",
     "data": "2026-11-11",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Como meu pai ia pra escola segundo as histórias que ele conta 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#memesgamer #games #gamer #humor #pixelzada",
     "tentativas": 0,
@@ -1474,6 +1474,11 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-11T10:01:31-03:00",
+      "media_id": "17917551807540121",
+      "permalink": "https://www.instagram.com/reel/Dfmin4VDLwE/"
     }
   },
   {
