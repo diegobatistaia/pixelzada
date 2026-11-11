@@ -24,6 +24,7 @@ import argparse
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -234,10 +235,17 @@ def teste(cfg: dict, jogo: str) -> int:
     fila = escolher(cfg, clipes + kick, set())
     resultado = {"em": agora.isoformat(timespec="seconds"), "jogo": jogo, "twitch": len(clipes), "kick": len(kick),
                  "clipes": []}
+    fotos = cfg["_pasta"] / "lives-teste"
+    shutil.rmtree(fotos, ignore_errors=True)
+    fotos.mkdir(parents=True)
     with tempfile.TemporaryDirectory() as tmp:
-        for c in fila[:3]:
-            r = baixar_e_limpar(c, Path(tmp) / "saida.mp4")
-            resultado["clipes"].append({**{k: c[k] for k in ("fonte", "canal", "views", "duracao", "titulo", "link")}, **r})
+        for n, c in enumerate(fila[:6], 1):
+            saida = Path(tmp) / f"saida-{n}.mp4"
+            r = baixar_e_limpar(c, saida)
+            if saida.exists():  # quadro do meio, para conferir o corte a olho
+                subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(max(1, (c["duracao"] or 10) / 2)),
+                                "-i", str(saida), "-frames:v", "1", "-vf", "scale=640:-2", str(fotos / f"{n}.jpg")])
+            resultado["clipes"].append({"n": n, **{k: c[k] for k in ("fonte", "canal", "views", "duracao", "titulo", "link")}, **r})
             print(f"  {c['canal']} ({c['views']} views): {r['motivo']}")
     (cfg["_pasta"] / "lives-teste.json").write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n",
                                                     encoding="utf-8")
