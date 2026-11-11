@@ -15,9 +15,9 @@ permissions:
 jobs:
   montar:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 25
     concurrency:
-      group: instagram
+      group: montar  # separado do instagram: montagem longa não pode travar a publicação dos Reels (11/11)
       cancel-in-progress: false
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
