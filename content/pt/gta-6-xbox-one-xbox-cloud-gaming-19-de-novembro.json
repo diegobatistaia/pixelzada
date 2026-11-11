@@ -1,0 +1,151 @@
+{
+  "lang": "pt",
+  "slug": "gta-6-xbox-one-xbox-cloud-gaming-19-de-novembro",
+  "story_id": "gta6-xbox-cloud-gaming",
+  "title": "GTA 6 no Xbox One: como jogar pelo Xbox Cloud Gaming no lançamento",
+  "dek": "A Microsoft confirmou o streaming em Xbox One e Series X|S a partir das 3h de Brasília de 19 de novembro.",
+  "meta_description": "GTA 6 chega ao Xbox One pelo Xbox Cloud Gaming em 19 de novembro. Veja o horário, a qualidade, se precisa comprar o jogo e como funciona o tempo de nuvem.",
+  "keyword": "GTA 6 Xbox One",
+  "category": "gta-6",
+  "tags": [
+    "gta 6",
+    "xbox one",
+    "xbox cloud gaming",
+    "xbox series",
+    "game pass"
+  ],
+  "image": {
+    "query": "GTA 6 Xbox Cloud Gaming",
+    "alt": "Arte oficial de capa de Grand Theft Auto VI divulgada pelo Xbox Wire",
+    "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg",
+    "credit": "Imagem: Xbox Wire"
+  },
+  "sources": [
+    {
+      "name": "Xbox Wire",
+      "owner": "microsoft",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+      "title": "Grand Theft Auto VI comes to Xbox Cloud Gaming on November 19"
+    },
+    {
+      "name": "Xbox Wire BR",
+      "owner": "microsoft",
+      "url": "https://news.xbox.com/pt-br/2026/11/10/grand-theft-auto-vi-chega-ao-xbox-one-e-xbox-series-xs-por-meio-do-xbox-cloud-gaming/",
+      "title": "Grand Theft Auto VI chega ao Xbox One e Xbox Series X|S por meio do Xbox Cloud Gaming"
+    },
+    {
+      "name": "The Verge",
+      "owner": "vox-media",
+      "url": "https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support",
+      "title": "GTA VI Xbox Cloud Gaming support"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/how-to-play-gta-6-on-xbox-one/",
+      "title": "How to play GTA 6 on Xbox One"
+    }
+  ],
+  "fonte_unica": "anuncio_oficial",
+  "status": "draft",
+  "body": [
+    {
+      "type": "p",
+      "text": "A Microsoft confirmou que GTA 6 poderá ser jogado no Xbox One. Não é uma versão nativa: o jogo chega ao console da geração passada por streaming, pelo Xbox Cloud Gaming, no dia do lançamento, 19 de novembro. O mesmo vale para o Xbox Series X|S, segundo o Xbox Wire.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Quando começa e em quais aparelhos",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com o anúncio, GTA 6 estará disponível desde o primeiro dia no Xbox Cloud Gaming, em Xbox One e Xbox Series X|S. A transmissão começa à 1h da manhã no horário da Costa Leste dos Estados Unidos, o que equivale a 3h da manhã em Brasília, conforme o Xbox Wire em português.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A The Verge ressalta um limite: embora o serviço costume funcionar em celulares, PCs, navegadores e TVs, a transmissão de GTA 6 parece restrita aos consoles Xbox Series X|S e Xbox One. O comunicado da Microsoft só cita esses aparelhos.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Qualidade e o que muda na prática",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Quando transmitido pela nuvem, o jogo usa as configurações gráficas do Xbox Series S, informa a Microsoft. Como em qualquer streaming, a conexão e outros fatores técnicos podem afetar o desempenho. O Insider Gaming lembra que o Xbox recomenda pelo menos 20 Mbps, e que mesmo com muito mais que isso o jogador pode perceber problemas de desempenho ou atraso.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Preciso comprar o jogo?",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Sim. O comunicado diz que GTA 6 deve ser adquirido separadamente. O Insider Gaming explica que o jogo não está no Game Pass: é preciso comprá-lo e registrá-lo na conta, e só então escolher a opção de jogar pela nuvem na hora do lançamento. O Xbox One não consegue rodar o jogo localmente.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Desempenho do jogo nos consoles",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A The Verge também registra que a Rockstar confirmou que GTA 6 roda a 30 quadros por segundo no PS5, no PS5 Pro e nos Xbox Series S e X. A principal vantagem do PS5 Pro, segundo a publicação, são as sombras com ray tracing e o suporte ao PSSR. Quem joga pela nuvem no Xbox, portanto, terá a mesma meta de 30 quadros, mas com o ajuste gráfico do Series S e a variação típica do streaming.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Tempo de nuvem sem Game Pass",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Outro anúncio vem junto: a partir de 11 de novembro, jogadores em mercados com suporte poderão comprar tempo de jogo na nuvem para transmitir jogos compatíveis sem assinatura do Game Pass. Segundo o Insider Gaming, quem depende do tempo incluído no próprio plano do Game Pass terá pouco tempo de jogo, o que é pouco para um mundo aberto enorme.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "A disponibilidade, as opções de compra, os aparelhos compatíveis e os recursos podem variar conforme o mercado e o aparelho, segundo a Microsoft.",
+        "A compra do tempo de nuvem é à parte do preço do jogo, que também é cobrado separadamente."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mais jogos da Rockstar no serviço",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A Microsoft também afirmou que, nos próximos meses, vai adicionar ao Xbox Cloud Gaming outros títulos da Rockstar, incluindo GTA V e Red Dead Redemption 2.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "E no PlayStation?",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A The Verge lembra que, segundo a Rockstar, GTA 6 também terá suporte total ao Remote Play no PlayStation e no Xbox, mas isso não é streaming pela nuvem. A publicação diz que, na prática, a Microsoft tem a transmissão pela nuvem do jogo no lançamento, só para consoles Xbox, e que a Sony pode anunciar algo no futuro. Por ora, nada foi confirmado.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Vale a pena?",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Para quem ainda tem um Xbox One e não pretende trocar de console agora, é uma porta de entrada. O preço, no entanto, vai além do jogo: é preciso boa internet e, dependendo do plano, tempo de nuvem extra. A Pixelzada acompanha as novidades até 19 de novembro.",
+      "items": []
+    }
+  ]
+}
