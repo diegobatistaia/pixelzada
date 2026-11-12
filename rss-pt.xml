@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 20:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:44:04 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Halo: Campaign Evolved vai ganhar o modo Firefight de graça neste inverno</title>
+      <link>https://pixelzada.com.br/pt/halo-campaign-evolved-firefight-atualizacao-gratuita-inverno/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/halo-campaign-evolved-firefight-atualizacao-gratuita-inverno/</guid>
+      <description>Halo: Campaign Evolved ganhará o modo Firefight, cooperativo para quatro jogadores, em atualização gratuita neste inverno. Veja o que o Xbox confirmou.</description>
+      <category>Lançamentos</category>
+      <pubDate>Thu, 12 Nov 2026 22:44:03 +0000</pubDate>
+    </item>
     <item>
       <title>Intergalactic está nas últimas etapas de produção, diz Druckmann</title>
       <link>https://pixelzada.com.br/pt/intergalactic-heretic-prophet-ultimas-etapas-producao-druckmann/</link>
@@ -238,14 +246,6 @@
       <description>Rockstar e Sony anunciam o GTA VI: The Festival, em Miami, em 21 de novembro, com Travis Scott, Cardi B e Justice. Veja a lista, o sorteio e as trilhas.</description>
       <category>GTA 6</category>
       <pubDate>Mon, 09 Nov 2026 20:40:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assaltos em GTA 6: do posto ao banco, o que a Rockstar mostrou</title>
-      <link>https://pixelzada.com.br/pt/gta-6-assaltos-cofres-receptadores-dinheiro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-assaltos-cofres-receptadores-dinheiro/</guid>
-      <description>Lojas, postos, bancos e carros-forte: veja como funcionam os assaltos de GTA 6, com cofres, receptadores e dinheiro que pode travar a história no jogo.</description>
-      <category>GTA 6</category>
-      <pubDate>Mon, 09 Nov 2026 18:40:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -105,7 +105,9 @@
     "query": "Halo Campaign Evolved Firefight",
     "alt": "Spartans enfrentam inimigos no modo Firefight de Halo: Campaign Evolved",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HCE_FF_XBFF-1-2273ec7fc27a458ce012.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/halo-campaign-evolved-firefight-atualiza-ccb03ec4.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -139,5 +141,7 @@
       "title": "Halo: Campaign Evolved is getting Firefight in a free update"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T22:44:03+00:00",
+  "updated_at": "2026-11-12T22:44:03+00:00"
 }
