@@ -1922,14 +1922,16 @@
       "tiktok": {
         "post_id": "6af5b160b9a34486aae4a150",
         "em": "2026-11-12T09:30:22-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707261388795694343",
+        "saiu": "2026-11-12T12:32:22.783Z"
       },
       "youtube": {
         "post_id": "6af5b16b149e475354811b15",
         "em": "2026-11-12T09:30:35-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
@@ -1961,8 +1963,9 @@
       "tiktok": {
         "post_id": "6af5c72c53c46c7311dce146",
         "em": "2026-11-12T11:03:23-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707285888463686932",
+        "saiu": "2026-11-12T14:06:35.394Z"
       },
       "youtube": {
         "post_id": "6af5c737d2a6e57bf9b973fc",
@@ -1999,8 +2002,9 @@
       "tiktok": {
         "post_id": "6af5d4f5b44ae54108f09768",
         "em": "2026-11-12T12:02:11-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707300866176339208",
+        "saiu": "2026-11-12T15:04:35.463Z"
       },
       "youtube": {
         "post_id": "6af5d500df65abceb03c7228",
@@ -2038,8 +2042,9 @@
       "tiktok": {
         "post_id": "6af5e32a981d02dd98fde66d",
         "em": "2026-11-12T13:02:49-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707316345226054919",
+        "saiu": "2026-11-12T16:04:45.135Z"
       },
       "youtube": {
         "post_id": "6af5e33633d2167bc66157ae",
@@ -2077,8 +2082,9 @@
       "tiktok": {
         "post_id": "6af5f116d95eb37c36f5c329",
         "em": "2026-11-12T14:02:12-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707331722991439125",
+        "saiu": "2026-11-12T17:04:29.585Z"
       },
       "youtube": {
         "post_id": "6af5f1216b041da72762009a",
@@ -2115,8 +2121,9 @@
       "tiktok": {
         "post_id": "6af5ff40740fc9765f9ee4fa",
         "em": "2026-11-12T15:02:39-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707347128900783381",
+        "saiu": "2026-11-12T18:05:03.230Z"
       },
       "youtube": {
         "post_id": "6af5ff4d0587f22eee0d45a2",
@@ -2153,8 +2160,9 @@
       "tiktok": {
         "post_id": "6af60dfdfef45f1cf3ad7a16",
         "em": "2026-11-12T16:05:31-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707363220343835924",
+        "saiu": "2026-11-12T19:06:19.609Z"
       },
       "youtube": {
         "post_id": "6af60e08262116da05510c35",
@@ -2192,8 +2200,9 @@
       "tiktok": {
         "post_id": "6af61b0ef2ce3e7376ddbe33",
         "em": "2026-11-12T17:01:17-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707377793167789318",
+        "saiu": "2026-11-12T20:03:22.432Z"
       },
       "youtube": {
         "post_id": "6af61b1aa4b3d60a98fb960b",
@@ -2230,14 +2239,16 @@
       "tiktok": {
         "post_id": "6af62930f8f0d4b8329e4c19",
         "em": "2026-11-12T18:01:35-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707393109683899666",
+        "saiu": "2026-11-12T21:03:44.048Z"
       },
       "youtube": {
         "post_id": "6af6293b48a8bf93e4254bd7",
         "em": "2026-11-12T18:01:46-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://www.youtube.com/shorts/CR3bbdg4HHI",
+        "saiu": "2026-11-12T21:02:15.882Z"
       }
     }
   },
