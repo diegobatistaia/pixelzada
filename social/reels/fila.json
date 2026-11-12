@@ -2053,7 +2053,7 @@
     "slug": "cj-esteve-aqui-represa-hoover",
     "data": "2026-11-12",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Não acredito que o CJ esteve mesmo aqui 😮\n\nA Represa Hoover de verdade contra a versão de GTA San Andreas.\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #gta #rockstargames #games #pixelzada",
     "tentativas": 0,
@@ -2067,6 +2067,25 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "TV"
+    },
+    "publicado": {
+      "em": "2026-11-12T14:01:19-03:00",
+      "media_id": "17919384246523427",
+      "permalink": "https://www.instagram.com/reel/Dfpi3WYiCll/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af5f116d95eb37c36f5c329",
+        "em": "2026-11-12T14:02:12-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af5f1216b041da72762009a",
+        "em": "2026-11-12T14:02:24-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=25x1kizw7Jg"
+      }
     }
   },
   {
