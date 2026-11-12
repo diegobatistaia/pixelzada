@@ -2908,22 +2908,22 @@
     }
   },
   {
-    "slug": "gta-6-fluidgame",
+    "slug": "gta-6-marketing-casamento",
     "data": "2026-11-15",
     "horario": "12:00",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Cartaz",
+    "legenda": "Agora o marketing de GTA 6 foi longe demais 💍\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #memesgamer #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "fluidgame",
       "link": "https://www.instagram.com/reel/DfmqGrch9bj/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "manual",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
+      "formato": "meme",
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
