@@ -477,7 +477,11 @@ def link(cfg: dict, url: str) -> int:
     if not CODIGO_LINK.search(url):
         print(f"não reconheci o link: {url}")
         return 1
-    token, ig_id = conta(cfg)
+    try:
+        token, ig_id = conta(cfg)
+    except ApiError as e:  # chave caída não pode travar o link do Diego: vai só pelo yt-dlp
+        print(f"chave da Meta indisponível ({str(e)[:160]}); seguindo só com o yt-dlp")
+        token, ig_id = "", ""
     nome, c = baixar_link(cfg, url, token, ig_id)
     if not nome:
         print(f"SEM ARQUIVO: a API não entrega este vídeo (música licenciada ou download desligado). "
