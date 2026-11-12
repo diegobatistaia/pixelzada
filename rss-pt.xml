@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:44:31 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ex-id Software criam o estúdio Hidden Horses e preparam o FPS Danger Pay</title>
+      <link>https://pixelzada.com.br/pt/hidden-horses-ex-id-software-estudio-danger-pay/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/hidden-horses-ex-id-software-estudio-danger-pay/</guid>
+      <description>Ex-desenvolvedores da id Software demitidos pelo Xbox criaram o estúdio Hidden Horses e vão ao Kickstarter com o FPS Danger Pay. Veja o que foi anunciado.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 12 Nov 2026 14:44:31 +0000</pubDate>
+    </item>
     <item>
       <title>Miami real x Vice City: os lugares que aparecem em GTA 6</title>
       <link>https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/</link>
@@ -238,14 +246,6 @@
       <description>Speedrunners já quebraram o remake de Ocarina of Time: Link lançado ao ar, super pulo e atalhos. Veja os truques achados e o que a Nintendo ainda não corrigiu.</description>
       <category>Lançamentos</category>
       <pubDate>Sun, 08 Nov 2026 22:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Estúdio de Star Wars Zero Company faz demissões após recontratar parte da equipe</title>
-      <link>https://pixelzada.com.br/pt/bit-reactor-star-wars-zero-company-demissoes-apos-recontratar/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/bit-reactor-star-wars-zero-company-demissoes-apos-recontratar/</guid>
-      <description>A Bit Reactor, de Star Wars Zero Company, demitiu parte da equipe um mês após recontratar funcionários. Veja o que se sabe, o histórico e o que falta saber.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 08 Nov 2026 18:40:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

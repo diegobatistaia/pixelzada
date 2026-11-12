@@ -1318,5 +1318,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-12T14:44:31+00:00",
+    "id": "hidden-horses-ex-id-software-estudio-danger-pay",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

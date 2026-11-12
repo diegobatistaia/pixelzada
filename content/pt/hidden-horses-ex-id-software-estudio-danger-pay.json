@@ -104,7 +104,9 @@
     "query": "Hidden Horses",
     "alt": "Imagem de divulgação do estúdio Hidden Horses, formado por ex-funcionários da id Software",
     "url": "https://www.videogameschronicle.com/files/2026/11/hidden-horses.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/hidden-horses-ex-id-software-estudio-dan-66491c27.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -126,5 +128,7 @@
       "title": "A group of developers laid off from id Software have formed new studio Hidden Horses"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T14:44:31+00:00",
+  "updated_at": "2026-11-12T14:44:31+00:00"
 }
