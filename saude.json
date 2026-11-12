@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T11:29-03:00",
+ "atualizado": "2026-11-12T12:29-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
@@ -15,21 +15,21 @@
    "erro": {
     "codigo": 190,
     "subcodigo": 460,
-    "mensagem": "HTTP 400 em debug_token: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AjJ2yFS15PT33dRugywYFu"
+    "mensagem": "HTTP 400 em debug_token: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AxFvzY9KvPS17x6C8GEdwN"
    }
   }
  },
  "fila_reels": {
-  "agendados": 51,
+  "agendados": 50,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.4,
+  "dias_de_reserva": 3.3,
   "grade_cheia_ate": "2026-11-14",
   "sem_revisao": 0
  },
  "reels_hoje": {
   "meta": 15,
-  "publicados": 2,
-  "deviam_ter_saido": 4,
+  "publicados": 3,
+  "deviam_ter_saido": 5,
   "atrasados": []
  },
  "problemas": [
