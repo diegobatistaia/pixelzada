@@ -139,7 +139,10 @@
     "query": "GTA VI The Album",
     "alt": "Arte oficial do anúncio de Grand Theft Auto VI: The Album",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/7599a881942544/50105de3da220dff6dd47fad6865b1912e7466ca.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-musicas-dos-trailers-album-tom-pet-8abf41be.jpg",
+    "source_url": "",
+    "foco": "72% 28%"
   },
   "sources": [
     {
@@ -209,5 +212,7 @@
       "title": "GTA 6: Spotify fuels speculation with massive billboards"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T18:41:34+00:00",
+  "updated_at": "2026-11-12T18:41:34+00:00"
 }

@@ -98,7 +98,10 @@
     "query": "GTA 6 Jason Lucia",
     "alt": "Cena de GTA 6 com os protagonistas Jason e Lucia",
     "url": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/gta-6-quase-sem-classificacao-coreia-do--24cd36c6.jpg",
+    "source_url": "",
+    "foco": "53% 39%"
   },
   "sources": [
     {
@@ -120,5 +123,7 @@
       "title": "GTA 6 was almost refused classification in South Korea due to the sheer amount of genitals shown"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T18:41:34+00:00",
+  "updated_at": "2026-11-12T18:41:34+00:00"
 }

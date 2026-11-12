@@ -101,7 +101,10 @@
     "query": "GTA 6 mapa",
     "alt": "Arte promocional de GTA 6 ligada ao mapa de Leonida",
     "url": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic01.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/gta-6-mapa-vaza-selfridges-leonida-colle-89f84b41.jpg",
+    "source_url": "",
+    "foco": "49% 36%"
   },
   "sources": [
     {
@@ -123,5 +126,7 @@
       "title": "Physical GTA 6 map leaks"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T18:41:33+00:00",
+  "updated_at": "2026-11-12T18:41:33+00:00"
 }
