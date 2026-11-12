@@ -40,6 +40,10 @@ from . import estilos as E, pauta as P
 USUARIO = "pixelzada.br"
 SECRET = "INSTAGRAM_TOKEN_PIXELZADA"
 API = "https://graph.instagram.com/v23.0"
+# Chave da Meta pelo login do Facebook (ex.: usuário do sistema do portfólio, que
+# não expira e não cai quando a senha do Facebook muda). conta() troca para esta API
+# sozinho quando a chave não é do login do Instagram (as do Instagram começam com "IG").
+API_FB = "https://graph.facebook.com/v23.0"
 PEDIDO = P.SAIDA / "pedido.json"
 RESULTADO = P.ROOT / "social" / "publicar" / "ultimo.json"
 
@@ -256,14 +260,46 @@ def conta() -> tuple[str, str]:
     token = os.environ.get(SECRET, "").strip()
     if not token:
         raise ApiError(f"o secret {SECRET} não está cadastrado no GitHub")
+    if not chave_do_instagram(token):
+        return token, _conta_facebook(token)
     me = call("GET", "me", token, fields="user_id,username")
     if me.get("username") != USUARIO:
         raise ApiError(f"a chave {SECRET} é da conta @{me.get('username')}, não de @{USUARIO}")
     return token, me["user_id"]
 
 
+def chave_do_instagram(token: str) -> bool:
+    """Chave do login do Instagram (graph.instagram.com, vale 60 dias e se renova)."""
+    return token.startswith("IG")
+
+
+def _conta_facebook(token: str) -> str:
+    """Chave do login do Facebook (Página, usuário ou usuário do sistema): acha o
+    @pixelzada.br nas Páginas que a chave enxerga e passa a usar graph.facebook.com."""
+    global API
+    API = API_FB
+    campos = "instagram_business_account{id,username}"
+    candidatos = []
+    try:  # chave de Página: a própria Página
+        me = call("GET", "me", token, fields=campos)
+        if me.get("instagram_business_account"):
+            candidatos.append(me["instagram_business_account"])
+    except ApiError:
+        pass
+    if not candidatos:  # chave de usuário ou de usuário do sistema: as Páginas dele
+        pags = call("GET", "me/accounts", token, fields="name," + campos)
+        candidatos = [p["instagram_business_account"] for p in pags.get("data", []) if p.get("instagram_business_account")]
+    for c in candidatos:
+        if c.get("username") == USUARIO:
+            return c["id"]
+    achados = ", ".join("@" + c.get("username", "?") for c in candidatos) or "nenhum"
+    raise ApiError(f"a chave {SECRET} não dá acesso ao @{USUARIO} (perfis encontrados: {achados})")
+
+
 def renovar(token: str) -> str:
     """Estica a validade da chave (60 dias a partir de agora)."""
+    if not chave_do_instagram(token):
+        return "chave do login do Facebook: não precisa renovar"
     try:
         r = call("GET", "https://graph.instagram.com/refresh_access_token", token, grant_type="ig_refresh_token")
     except ApiError as e:
