@@ -7,26 +7,30 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-12T00:50-03:00",
+ "atualizado": "2026-11-12T09:45-03:00",
  "hoje": {
   "data": "2026-11-12",
   "reels": {
    "meta": 15,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 1,
+   "deviam_ter_saido": 3,
    "atrasados": [],
-   "horarios_vazios_hoje": []
+   "horarios_vazios_hoje": [
+    "10:00"
+   ]
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
-   "pautas_esperando": 4
+   "deviam_ter_saido": 1,
+   "atrasados": [
+    "09:00"
+   ],
+   "pautas_esperando": 2
   }
  },
  "fila_reels": {
-  "agendados": 53,
+  "agendados": 52,
   "meta_por_dia": 15,
   "dias_de_reserva": 3.5,
   "grade_cheia_ate": "2026-11-14",
@@ -34,7 +38,7 @@
   "por_dia": [
    {
     "data": "2026-11-12",
-    "agendados": 15,
+    "agendados": 11,
     "meta": 15
    },
    {
@@ -49,19 +53,19 @@
    },
    {
     "data": "2026-11-15",
-    "agendados": 8,
+    "agendados": 11,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 184,
-  "hoje": 0,
+  "total": 186,
+  "hoje": 2,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Harada, de Tekken, diz que queria que o Xbox Series S não existisse",
-   "url": "https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/",
-   "em": "2026-11-11T21:41:18-03:00"
+   "titulo": "Miami real x Vice City: os lugares que aparecem em GTA 6",
+   "url": "https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/",
+   "em": "2026-11-12T09:41:35-03:00"
   }
  },
  "pesquisa": {
@@ -70,23 +74,95 @@
   "perfis_com_falha": 1
  },
  "instagram": {
-  "erro": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AKDhmC1XmpK6OsBLgI_bO31\"}}"
+  "usuario": "pixelzada.br",
+  "seguidores": 80,
+  "seguindo": 5,
+  "posts": 244,
+  "alcance_7d": 32796,
+  "views_7d": 44205,
+  "reels_7d": {
+   "quantidade": 33,
+   "views_total": 44555,
+   "views_mediana": 176,
+   "acima_de_1000": 1,
+   "views_por_dia": {
+    "2026-11-12": 0,
+    "2026-11-11": 2250,
+    "2026-11-10": 2042,
+    "2026-11-09": 1530,
+    "2026-11-08": 38733
+   },
+   "melhores": [
+    {
+     "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
+     "views": 38491,
+     "alcance": 28071,
+     "curtidas": 1195,
+     "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
+     "em": "2026-11-08T16:00:09-03:00"
+    },
+    {
+     "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
+     "views": 424,
+     "alcance": 337,
+     "curtidas": 13,
+     "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
+     "em": "2026-11-09T18:00:48-03:00"
+    },
+    {
+     "legenda": "Diga adeus a esse glitch no remake de Ocarina of Time 👀",
+     "views": 392,
+     "alcance": 327,
+     "curtidas": 11,
+     "link": "https://www.instagram.com/reel/DfnZkObDMCq/",
+     "em": "2026-11-11T18:02:11-03:00"
+    },
+    {
+     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
+     "views": 316,
+     "alcance": 193,
+     "curtidas": 3,
+     "link": "https://www.instagram.com/reel/DfhawTADKHY/",
+     "em": "2026-11-09T10:17:06-03:00"
+    },
+    {
+     "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
+     "views": 242,
+     "alcance": 167,
+     "curtidas": 6,
+     "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
+     "em": "2026-11-08T18:01:04-03:00"
+    }
+   ]
+  }
  },
  "falhas": {
-  "rodadas_24h": 90,
-  "falhas_24h": 2,
-  "sem_resolver": 0,
+  "rodadas_24h": 87,
+  "falhas_24h": 4,
+  "sem_resolver": 1,
   "lista": [
    {
-    "workflow": "Buffer",
-    "em": "2026-11-11T09:47:52-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43023445565",
+    "workflow": "Reels",
+    "em": "2026-11-12T09:19:21-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43216832598",
+    "resolvido": true
+   },
+   {
+    "workflow": "Reels",
+    "em": "2026-11-12T06:58:58-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43196251185",
     "resolvido": true
    },
    {
     "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-11T06:25:23-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/42995040379",
+    "em": "2026-11-12T06:04:19-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43188193998",
+    "resolvido": false
+   },
+   {
+    "workflow": "Buffer",
+    "em": "2026-11-11T09:47:52-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43023445565",
     "resolvido": true
    }
   ]
@@ -95,8 +171,8 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 15,
-   "youtube": 12
+   "tiktok": 17,
+   "youtube": 14
   },
   "erros_hoje": 0
  },
@@ -126,7 +202,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": null
+   "views_reels": 38733
   },
   {
    "data": "2026-11-09",
@@ -135,7 +211,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": null
+   "views_reels": 1530
   },
   {
    "data": "2026-11-10",
@@ -144,7 +220,7 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": null
+   "views_reels": 2042
   },
   {
    "data": "2026-11-11",
@@ -153,16 +229,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": null
+   "views_reels": 2250
   },
   {
    "data": "2026-11-12",
-   "reels": 0,
+   "reels": 1,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
-   "views_reels": null
+   "materias": 2,
+   "views_reels": 0
   }
  ],
  "seguidores_por_dia": [
@@ -181,12 +257,24 @@
   {
    "data": "2026-11-11",
    "seguidores": 75
+  },
+  {
+   "data": "2026-11-12",
+   "seguidores": 80
   }
  ],
  "alertas": [
   {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00"
+  },
+  {
    "nivel": "amarelo",
-   "texto": "Não consegui ler o Instagram nesta rodada"
+   "texto": "1 horário(s) de Reel ainda sem vídeo hoje"
+  },
+  {
+   "nivel": "vermelho",
+   "texto": "1 falha(s) no GitHub ainda sem resolver"
   }
  ]
 }
