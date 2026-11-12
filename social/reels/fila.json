@@ -1853,7 +1853,7 @@
     "slug": "forza6-robo-gigante",
     "data": "2026-11-11",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Apostar corrida com um robô gigante foi uma das ideias mais duvidosas de 2026 🤖\n\nSegue @pixelzada.br pra acompanhar o Forza Horizon 6.\n\n#forzahorizon6 #forza #fh6 #japao #pixelzada",
     "tentativas": 0,
@@ -1866,6 +1866,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-11T21:03:29-03:00",
+      "media_id": "18133424389809664",
+      "permalink": "https://www.instagram.com/reel/DfnufLnkSv2/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af502b08a1a2f52b50f4f28",
+        "em": "2026-11-11T21:05:02-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af502bc8a1a2f52b50f576d",
+        "em": "2026-11-11T21:05:15-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
