@@ -2092,7 +2092,7 @@
     "slug": "gta6-se-lancasse-como-cyberpunk",
     "data": "2026-11-12",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "GTA 6 se lançasse como Cyberpunk 2077 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #cyberpunk2077 #rockstargames #pixelzada",
     "tentativas": 0,
@@ -2105,6 +2105,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-12T15:01:44-03:00",
+      "media_id": "18080702444421281",
+      "permalink": "https://www.instagram.com/reel/DfppyFrn6Gi/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af5ff40740fc9765f9ee4fa",
+        "em": "2026-11-12T15:02:39-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af5ff4d0587f22eee0d45a2",
+        "em": "2026-11-12T15:02:51-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=tAlpWpXZWNw"
+      }
     }
   },
   {
