@@ -3152,5 +3152,27 @@
       "jogo": "F1",
       "moldura": "identidade"
     }
+  },
+  {
+    "slug": "gta-6-zilino",
+    "data": "2026-11-15",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "zilino_",
+      "link": "https://www.instagram.com/reel/DfngAKjP9Pz/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    }
   }
 ]
