@@ -7,43 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-11T19:43-03:00",
+ "atualizado": "2026-11-12T00:50-03:00",
  "hoje": {
-  "data": "2026-11-11",
+  "data": "2026-11-12",
   "reels": {
    "meta": 15,
-   "publicados": 10,
-   "deviam_ter_saido": 13,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 6,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 4
   }
  },
  "fila_reels": {
-  "agendados": 54,
+  "agendados": 53,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.6,
+  "dias_de_reserva": 3.5,
   "grade_cheia_ate": "2026-11-14",
   "sem_revisao": 0,
   "por_dia": [
-   {
-    "data": "2026-11-11",
-    "agendados": 2,
-    "meta": 15
-   },
    {
     "data": "2026-11-12",
     "agendados": 15,
@@ -61,19 +49,19 @@
    },
    {
     "data": "2026-11-15",
-    "agendados": 7,
+    "agendados": 8,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 181,
-  "hoje": 5,
+  "total": 184,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Florida Man em GTA 6: as notícias reais por trás dos trailers",
-   "url": "https://pixelzada.com.br/pt/gta-6-florida-man-memes-noticias-reais-leonida/",
-   "em": "2026-11-11T15:41:51-03:00"
+   "titulo": "Harada, de Tekken, diz que queria que o Xbox Series S não existisse",
+   "url": "https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/",
+   "em": "2026-11-11T21:41:18-03:00"
   }
  },
  "pesquisa": {
@@ -82,66 +70,7 @@
   "perfis_com_falha": 1
  },
  "instagram": {
-  "usuario": "pixelzada.br",
-  "seguidores": 75,
-  "seguindo": 4,
-  "posts": 241,
-  "alcance_7d": 31979,
-  "views_7d": 43208,
-  "reels_7d": {
-   "quantidade": 30,
-   "views_total": 43555,
-   "views_mediana": 180,
-   "acima_de_1000": 1,
-   "views_por_dia": {
-    "2026-11-11": 1646,
-    "2026-11-10": 2039,
-    "2026-11-09": 1529,
-    "2026-11-08": 38341
-   },
-   "melhores": [
-    {
-     "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 38100,
-     "alcance": 27748,
-     "curtidas": 1180,
-     "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
-     "em": "2026-11-08T16:00:09-03:00"
-    },
-    {
-     "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 423,
-     "alcance": 336,
-     "curtidas": 13,
-     "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
-     "em": "2026-11-09T18:00:48-03:00"
-    },
-    {
-     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
-     "views": 316,
-     "alcance": 193,
-     "curtidas": 3,
-     "link": "https://www.instagram.com/reel/DfhawTADKHY/",
-     "em": "2026-11-09T10:17:06-03:00"
-    },
-    {
-     "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
-     "views": 241,
-     "alcance": 166,
-     "curtidas": 6,
-     "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
-     "em": "2026-11-08T18:01:04-03:00"
-    },
-    {
-     "legenda": "Eu indo pra casa no dia 19 de novembro pra jogar GTA 6 🏎️",
-     "views": 237,
-     "alcance": 185,
-     "curtidas": 7,
-     "link": "https://www.instagram.com/reel/DfiCe19Enl0/",
-     "em": "2026-11-09T16:04:13-03:00"
-    }
-   ]
-  }
+  "erro": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AKDhmC1XmpK6OsBLgI_bO31\"}}"
  },
  "falhas": {
   "rodadas_24h": 90,
@@ -166,21 +95,12 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 13,
-   "youtube": 10
+   "tiktok": 15,
+   "youtube": 12
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-05",
-   "reels": 0,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 10,
-   "views_reels": null
-  },
   {
    "data": "2026-11-06",
    "reels": 0,
@@ -206,7 +126,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 38341
+   "views_reels": null
   },
   {
    "data": "2026-11-09",
@@ -215,7 +135,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1529
+   "views_reels": null
   },
   {
    "data": "2026-11-10",
@@ -224,16 +144,25 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 2039
+   "views_reels": null
   },
   {
    "data": "2026-11-11",
-   "reels": 10,
+   "reels": 12,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 5,
-   "views_reels": 1646
+   "materias": 8,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-12",
+   "reels": 0,
+   "reels_meta": 15,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -256,8 +185,8 @@
  ],
  "alertas": [
   {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
+   "nivel": "amarelo",
+   "texto": "Não consegui ler o Instagram nesta rodada"
   }
  ]
 }
