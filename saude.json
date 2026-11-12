@@ -1,16 +1,12 @@
 {
- "atualizado": "2026-11-12T09:25-03:00",
+ "atualizado": "2026-11-12T10:29-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
    "uso": "publicar os Reels",
-   "ok": false,
+   "ok": true,
    "tipo": "login do Instagram",
-   "erro": {
-    "codigo": 190,
-    "subcodigo": 0,
-    "mensagem": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A9subS2CaPR51qgjbvixiUS\"}}"
-   }
+   "vence_em_dias": 60.0
   },
   "meta": {
    "segredo": "META_TOKEN_PIXELZADA",
@@ -19,7 +15,7 @@
    "erro": {
     "codigo": 190,
     "subcodigo": 460,
-    "mensagem": "HTTP 400 em debug_token: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AwIT4TXGDhS4qrKDB7DW3i"
+    "mensagem": "HTTP 400 em debug_token: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AGcymUhNLWsf26OJWRPy0v"
    }
   }
  },
@@ -32,18 +28,11 @@
  },
  "reels_hoje": {
   "meta": 15,
-  "publicados": 0,
-  "deviam_ter_saido": 2,
-  "atrasados": [
-   "07:00"
-  ]
+  "publicados": 1,
+  "deviam_ter_saido": 3,
+  "atrasados": []
  },
  "problemas": [
-  {
-   "id": "chave_instagram",
-   "nivel": "vermelho",
-   "texto": "A chave INSTAGRAM_TOKEN_PIXELZADA (publicar os Reels) parou de funcionar: erro 190."
-  },
   {
    "id": "chave_meta",
    "nivel": "vermelho",
