@@ -108,7 +108,10 @@
     "query": "Intergalactic The Heretic Prophet",
     "alt": "Imagem de Intergalactic: The Heretic Prophet, da Naughty Dog",
     "url": "https://kotaku.com/app/uploads/2026/11/intergalactic-straw-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/intergalactic-heretic-prophet-ultimas-et-fd54dadc.jpg",
+    "source_url": "",
+    "foco": "42% 25%"
   },
   "sources": [
     {
@@ -124,5 +127,7 @@
       "title": "Neil Druckmann says Intergalactic: The Heretic Prophet is in the last stage of production"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T20:41:11+00:00",
+  "updated_at": "2026-11-12T20:41:11+00:00"
 }
