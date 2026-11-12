@@ -1899,7 +1899,7 @@
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Do nada! Rockstar divulga novo vídeo mostrando os recursos exclusivos do GTA 6 no PlayStation 5 🎮🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #playstation #rockstargames #pixelzada",
-    "tentativas": 0,
+    "tentativas": 1,
     "origem": {
       "motor": true,
       "perfil": "for4gamers",
@@ -1911,7 +1911,8 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "Moldura"
-    }
+    },
+    "erro": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AnewPXOOCvcSSy04uq7oCyd\"}}"
   },
   {
     "slug": "gta6-parece-gta5-cabelo",
