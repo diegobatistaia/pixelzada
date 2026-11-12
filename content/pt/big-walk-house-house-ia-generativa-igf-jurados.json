@@ -1,0 +1,118 @@
+{
+  "lang": "pt",
+  "slug": "big-walk-house-house-ia-generativa-igf-jurados",
+  "story_id": "d73db17b8d767533",
+  "title": "Big Walk usou IA 'com parcimônia', revela a House House após polêmica no IGF",
+  "dek": "O estúdio estima que bem menos de 0,1% do código teve relação com LLMs; 19 jurados disseram que não votariam em jogos com IA.",
+  "meta_description": "A House House, de Big Walk, revelou uso pontual de IA generativa após jurados do IGF se posicionarem. Veja o que o estúdio disse e o que os jurados responderam.",
+  "keyword": "Big Walk IA generativa",
+  "category": "industria",
+  "tags": [
+    "big walk",
+    "house house",
+    "ia generativa",
+    "igf",
+    "indie"
+  ],
+  "image": {
+    "query": "Big Walk House House",
+    "alt": "Cena de Big Walk, jogo cooperativo da House House",
+    "url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: Eurogamer"
+  },
+  "sources": [
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
+      "title": "House House used generative AI sparingly while making Big Walk"
+    },
+    {
+      "name": "The Verge",
+      "owner": "vox-media",
+      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "title": "Big Walk, IGF and AI"
+    }
+  ],
+  "status": "draft",
+  "body": [
+    {
+      "type": "p",
+      "text": "A House House, estúdio australiano de Untitled Goose Game, revelou que usou inteligência artificial generativa de forma pontual no desenvolvimento de Big Walk, um dos jogos independentes mais elogiados de 2026. A informação veio em comunicado enviado ao site Aftermath, depois de uma polêmica envolvendo jurados do Independent Games Festival (IGF), segundo Eurogamer e The Verge.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que a House House disse",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o estúdio, nos momentos finais do desenvolvimento, modelos de linguagem (LLMs) foram usados com parcimônia para ajudar a resolver desafios técnicos difíceis e bugs. Em alguns casos, trechos de respostas de LLMs foram copiados como ponto de partida e depois modificados para virar código do jogo. A House House estima que bem menos de 0,1% do código de Big Walk teve algo a ver com esse uso, e afirma que a IA generativa não foi usada em nenhum outro contexto.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O principal uso, de acordo com o comunicado, foi pesquisar, por meio de chatbots, problemas encontrados com código de terceiros. A The Verge cita o exemplo de um problema com sombras, resolvido com a modificação de um código sugerido por um LLM, depois de o estúdio pesquisar o assunto extensivamente e até conversar com um engenheiro da Unity.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "A polêmica no IGF",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O comunicado veio depois de 19 jurados do IGF divulgarem uma declaração dizendo que não votariam em nenhum jogo que tenha usado IA generativa durante o desenvolvimento. Segundo a Eurogamer, eles viram um aumento significativo de inscrições com uso de IA, o que gerou discussões intensas entre os jurados. A The Verge informa que a declaração diz que a IA generativa tem efeitos negativos e que o código gerado por IA não é exceção, e que seu uso não é uma conclusão inevitável para a indústria.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A declaração não fala em nome do IGF como organização nem de todos os jurados. Entre os signatários estão Sam Barlow, criador de Telling Lies e Immortality, e Lena Raine, compositora de Celeste, segundo a The Verge.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Sem aviso na Steam",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A House House não havia divulgado o uso de IA em Big Walk antes de informá-lo na inscrição para o IGF. O estúdio explica que não fez nenhum aviso na Steam porque a plataforma não pede a divulgação de uso de código ou de chatbots, e que decidiu falar agora porque o assunto virou de interesse público.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Pedido de desculpas e política de IA",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O estúdio deixou claro que o comunicado não é um endosso ao uso de ferramentas de IA, ainda que mínimo. Disse temer que divulgações voluntárias como essa contribuam para a normalização da tecnologia, apoiou quem tenta limitar os danos da IA generativa e pediu desculpas se o uso em Big Walk não atender aos padrões desses críticos.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Big Walk foi feito sem uma política interna de uso de IA, e a House House considera essa ausência uma falha.",
+        "O estúdio promete trabalhar para ter uma política mais completa daqui para frente."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "O que disseram os jurados",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo a The Verge, Sam Barlow afirmou depois que Big Walk não foi o estopim da discussão, mas se tornou o caso de borda complicado: e quando o uso de IA é mínimo, ou quando o seu jogo favorito a usa? Ele disse que a declaração não é um chamado ao boicote de um jogo nem para prejudicar economicamente uma equipe, e sim uma discussão sobre o que um prêmio específico deve significar como alternativa independente ao desenvolvimento de grande escala.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A Eurogamer observa que a revelação deve deixar uma sombra sobre um dos grandes destaques do ano, jogo ao qual o site deu cinco estrelas na análise. Por enquanto, não há decisão pública do IGF sobre o caso. A Pixelzada acompanha.",
+      "items": []
+    }
+  ]
+}
