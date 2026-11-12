@@ -6,7 +6,9 @@
     "horario": "07:00",
     "data": "2026-11-12"
   },
-  "em": "2026-11-12T09:21:10-03:00",
-  "ok": false,
-  "erro": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ABEso5QUtCLYyRRMVxpYbgO\"}}"
+  "em": "2026-11-12T09:29:20-03:00",
+  "ok": true,
+  "media_id": "18113045612240283",
+  "permalink": "https://www.instagram.com/reel/DfpDvIREmtx/",
+  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
 }
