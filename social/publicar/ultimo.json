@@ -6,7 +6,7 @@
     "horario": "07:00",
     "data": "2026-11-12"
   },
-  "em": "2026-11-12T07:01:00-03:00",
+  "em": "2026-11-12T09:21:10-03:00",
   "ok": false,
-  "erro": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AnewPXOOCvcSSy04uq7oCyd\"}}"
+  "erro": "HTTP 400 em me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ABEso5QUtCLYyRRMVxpYbgO\"}}"
 }
