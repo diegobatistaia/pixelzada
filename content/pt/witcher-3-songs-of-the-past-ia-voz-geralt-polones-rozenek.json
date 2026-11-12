@@ -104,7 +104,10 @@
     "query": "The Witcher 3 Songs of the Past",
     "alt": "Arte de The Witcher 3: Songs of the Past com Geralt de Rivia",
     "url": "https://www.videogameschronicle.com/files/2026/09/the-witcher-3-songs-of-the-past.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/witcher-3-songs-of-the-past-ia-voz-geral-1c962aa7.jpg",
+    "source_url": "",
+    "foco": "49% 27%"
   },
   "sources": [
     {
@@ -126,5 +129,7 @@
       "title": "CD Projekt Red used gen AI to adjust Geralt's Polish voice"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T16:42:31+00:00",
+  "updated_at": "2026-11-12T16:42:31+00:00"
 }

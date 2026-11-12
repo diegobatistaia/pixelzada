@@ -1325,5 +1325,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-12T16:42:31+00:00",
+    "id": "witcher-3-songs-of-the-past-ia-voz-geralt-polones-rozenek",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
