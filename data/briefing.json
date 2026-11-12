@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T18:23:37+00:00",
-  "posts_per_language_today": 2,
+  "generated_at": "2026-11-12T22:40:38+00:00",
+  "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
-  "already_written_today": 4,
+  "already_written_today": 8,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,6 +42,103 @@
   ],
   "stories": [
     {
+      "story_id": "6822858cd9ffd5bf",
+      "title": "Halo: Campaign Evolved Players Can Jump Into Firefight for Free This Winter",
+      "summary": "For nearly two decades, Firefight has been a Halo favorite, challenging Spartans to team up, hold the line, and survive wave after wave of enemies. The tradition continues this winter as we add the four-player cooperative PvE mode to Halo: Campaign Evolved in a free update. We’re kicking things off tonight at XBOX FanFest, where […] The post Halo: Campaign Evolved Players Can Jump Into Firefight...",
+      "owners": [
+        "gematsu",
+        "keleops",
+        "meups",
+        "microsoft",
+        "vgc",
+        "ziff-davis"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "5c484e84e37e06ff",
+        "a84d51af8e9dd8c0",
+        "efa65ca7c58a7197",
+        "1f11a646d76460e1",
+        "2c38858f141b4aa5",
+        "03258891e015a76f",
+        "5a136ddffdf14976"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/12/halo-campaign-evolved-firefight-free-update-this-winter/",
+          "title": "Halo: Campaign Evolved Players Can Jump Into Firefight for Free This Winter",
+          "published_at": "2026-11-12T17:00:00+00:00",
+          "kind": "primary",
+          "text": "For nearly two decades, Firefight has been a Halo favorite, challenging Spartans to team up, hold the line, and survive wave after wave of enemies. The tradition continues this winter as we add the four-player cooperative PvE mode to Halo: Campaign Evolved in a free update. We’re kicking things off tonight at XBOX FanFest, where attendees will be the first to jump in and experience Firefight across new maps and armed with plenty of weapons to help even the odds. And there’s more on the way. We’ll be sharing additional details about this free update at Halo Fest , happening December 12-13 in Seattle, WA, where fans attending the event will also have a chance to play Firefight throughout the weekend. We can’t wait to see you all at Halo Fest and to celebrate 25 years of Halo and XBOX together!",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/HCE_FF_XBFF-1-2273ec7fc27a458ce012.jpg"
+        },
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/pt-br/2026/11/12/halo-campaign-evolved-modo-cooperativo-firefight-chega-em-breve/",
+          "title": "Halo: Campaign Evolved – modo cooperativo Firefight chega em breve",
+          "published_at": "2026-11-12T17:08:52+00:00",
+          "kind": "primary",
+          "text": "Há quase duas décadas, Firefight é um dos modos favoritos dos fãs de Halo, desafiando os Spartans a unir forças, defender suas posições e sobreviver a ondas e mais ondas de inimigos. A tradição continua em breve, quando adicionaremos o modo cooperativo PvE para quatro jogadores a Halo: Campaign Evolved em uma atualização gratuita. E vem mais por aí. Compartilharemos mais detalhes sobre essa atualização gratuita no Halo Fest , que acontece nos dias 12 e 13 de dezembro em Seattle, nos EUA. Os fãs presentes no evento também poderão jogar Firefight durante todo o fim de semana. Mal podemos esperar para encontrar vocês no Halo Fest e celebrar juntos os 25 anos de Halo e XBOX!",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/HCE_FF_XBFF-1-2273ec7fc27a458ce012-6bbc0bdc38f2b5f64ec1.jpg"
+        },
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/halo-campaign-evolved-to-get-firefight-as-a-free-update",
+          "title": "Halo: Campaign Evolved to Get Firefight as a Free Update",
+          "published_at": "2026-11-12T17:52:30+00:00",
+          "kind": "press",
+          "text": "When Halo: Campaign Evolved first came out in July it did not include any multiplayer modes, but the first-person shooter remake will at least get Firefight as a free update this winter. Xbox CEO Asha Sharma announced the returning mode in a social media post Thursday, along with a graphic showing a team of Spartans shooting a mix of Covenant and Flood enemies with various guns. While Firefight isn't the arena competitive multiplayer that most fans had hoped from the Halo remake at launch, wave-based PvE has been a mainstay in the series since Halo 3: ODST in 2009. Essentially, you and your friends load into a map and fight increasingly difficult waves of enemies until you get overwhelmed. There's no reason to believe that this iteration is going to be any different. Regardless of whether or not Team Deathmatch comes to Halo: Campaign Evolved, this will be the first multiplayer mode to hit the remake, which was pitched primarily as a straight-up revival of the iconic Combat Evolved campaign. Multiplayer was the major piece missing from Campaign Evolved, and this could be a sign that more multiplayer modes will be added in the future. IGN's Halo: Combat Evolved remake gave it a 7 . We said: \"Halo: Campaign Evolved speaks to the series' timelessness and adds a decent set of new missions, but it's a mostly a lean retread that's more of a test run for its future with Unreal Engine.\" This Firefight announcement comes as Xbox celebrates its 25th anniversary. Earlier today, Sharma looked ahead, predicting \"a single person will soon be able to wield capabilities that once required entire nations.\" As for Halo, following the summer's drastic cuts at Microsoft's gaming business, Xbox announced a significant reshuffle that saw the next mainline Halo game handed to Call of Duty developer Activision , which is spinning up a new team to work on the franchise. Mass layoffs hit Halo Studios at the same time. Jackie Thomas is the Senior Tech Editor at IGN and the PC components queen. She's been covering gaming hardware for more than a decade for IGN, TechRadar, Gizmodo, PC Gamer and more. You can follow her @Jackiecobra",
+          "image": "https://assets-prd.ignimgs.com/2026/11/12/halo-1794505816407.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/halo-campaign-evolved-firefight-update-announced",
+          "title": "Halo: Campaign Evolved ‘Firefight’ update announced",
+          "published_at": "2026-11-12T17:26:23+00:00",
+          "kind": "press",
+          "text": "Publisher Xbox Game Studios and developer Halo Studios have announced a free update for Halo: Campaign Evolved , which will add the four-player cooperative player-versus-environment “Firefight” mode to the game. “For nearly two decades, Firefight has been a Halo favorite, challenging Spartans to team up, hold the line, and survive wave after wave of enemies. The tradition continues this winter as we add the four-player cooperative [player-versus-environment] mode to Halo: Campaign Evolved in a free update.,” Halo Studios director of competitive engagement Tahir Hasangjekaj said. Hasangjekaj continued, “We’re kicking things off tonight at Xbox FanFest [in Seattle] , where attendees will be the first to jump in and experience Firefight across new maps and armed with plenty of weapons to help even the odds.” Further information will be announced at Halo Fest, which will run from December 12 to 13 in Seattle, Washington. Halo: Campaign Evolved is available now for PlayStation 5 , Xbox Series , and PC via Steam and Microsoft Store . It is also available via Game Pass.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Halo-Campaign-Evolved-Update_11-12-26.jpg"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/halo-campaign-evolveds-next-big-update-will-add-a-free-horde-mode-2000756326",
+          "title": "Halo: Campaign Evolved’s Next Big Update Will Add A Free Horde Mode",
+          "published_at": "2026-11-12T18:30:12+00:00",
+          "kind": "press",
+          "text": "Firefight Halo Halo: Campaign Evolved Xbox Halo: Campaign Evolved is getting a free update later this year that will add Firefight, the franchise’s popular wave-based horde mode, to the game. It’s likely to be the last bit of Halo content to be developed by what remains of Halo Studios as the series moves under Activision. Earlier this year, Xbox launched Halo: Campaign Evolved , which is set to be the last major Halo game developed by longtime franchise stewards Halo Studios, formerly 343 Industries. While the remake was fine, the $50 price tag felt high considering it didn’t include any multiplayer deathmatch mode or anything else beyond the campaign and some bonus missions you could play alone or with pals. So when it was reported in October that Firefight was going to be added to Campaign Evolved, fans were hopeful. And now Xbox has confirmed that Firefight is indeed being added to the remake soon. On November 12, Xbox announced via its official website that Firefight is being added to the remake as part of a free update planned to arrive this winter. Folks going to Halo Fest in December will get a chance to play it early before it’s added to the remake. Firefight in Campaign Evolved will support up to four players, just like the campaign’s co-op mode. Xbox didn’t share any other details about what to expect, but hopefully this is a classic Firefight experience like what we had in Halo: Rea ch and Halo 3: ODST , the game that introduced the wave-based horde mode to the series nearly 20 years ago. The previous report that claimed Firefight was in the works for the remake also reported that Theater Mode was set to be added as part of this free update. However, the report claimed the skeleton crew working on Campaign Evolved’ s last big update might not be able to pull all of its plans off before the studio is fully closed up for good. So for now, we don’t know if Theater Mode, letting players look at past gameplay clips via replays, will arrive this winter. But at the very least, a pretty good remake will be even better with the addition of Firefight. Considering it might be a while until we get a new Halo from Activision, now in charge of the series , this is likely the last bit of new Halo content fans will get for some time. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Console makers are getting aggressive about trade-ins A French union is making demands amid an attempted sale of the studio Marty OâDonnell has been rejected by the voters again Xbox is trying to cut the studio loose without closing it",
+          "image": "https://kotaku.com/app/uploads/2026/07/Livestream_16x9_Go-Live_Clean_Waypoint.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update/",
+          "title": "Halo: Campaign Evolved is getting Firefight in a free update",
+          "published_at": "2026-11-12T18:46:55+00:00",
+          "kind": "press",
+          "text": "Firefight, a 4-player PvE mode, is coming to Halo: Campaign Evolved soon Xbox is adding Firefight mode to Halo: Campaign Evolved in a free update this winter. Firefight has appeared in several Halo games and will come to Halo: Campaign Evolved as a 4-player PvE mode. There’s no release date just yet, but Xbox FanFest attendees will be able to play it later today. We’re told that more details about this Firefight update will come during Halo Fest, which is set to take place from December 12 – 13. Until then, all we know is that the update will be free and out sometime in the winter. Halo: Campaign Evolved was released in July of this year. It is a remake of the first Halo game’s story mode, and it was also the first game released under 343 Industries’ new name, Halo Studios . However, it will now likely be the only game released under the Halo Studios name, as the team was severely impacted by the recent layoffs across Xbox. As part of this, Xbox transferred Halo over to Activision , leaving a smaller Halo Studios in charge of Halo games that are already out, including Campaign Evolved. This upcoming winter update indicates that Xbox isn’t ready to abandon past Halo games just yet, but the future of the series is still uncertain. We know that a new Halo game is being developed by Activision, but we’ve received no indication as to whether this will continue where previous titles like Halo Infinite left off, or if we’ll see a soft reboot of the series under the new developers. Halo’s previous creative director Frank OâConnor recently shared his thoughts on the matter , urging Activision to hire talent from both Bungie and Halo Studios, since both have suffered layoffs. Right now, it’s unclear if any former devs were brought over to Activision when the studio was handed the Halo series.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/Halo-Firefight-update.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/update-halo-campaign-evolved-modo-coop/",
+          "title": "Update de Halo: Campaign Evolved traz clássico modo coop de volta",
+          "published_at": "2026-11-12T19:11:21+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Halo-Campaign-Evolved.jpg"
+        }
+      ]
+    },
+    {
       "story_id": "5797e8140075a29d",
       "title": "The Legend of Zelda: Ocarina of Time remake sells in huge numbers, becoming the fastest-selling Switch 2 game",
       "summary": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days. Read more",
@@ -54,7 +151,6 @@
       "primary_owners": [],
       "fingerprints": [
         "345ee7a0e9649060",
-        "064107cb9c6e9c74",
         "4f588cfcbc1d05c4",
         "766d039c114c5cbc",
         "3eb212756f880c4b",
@@ -70,16 +166,6 @@
           "kind": "press",
           "text": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days. Nintendo announced the sales result this morning in a press release, specifying that the record relates only to Nintendo-published games. But since Nintendo's games are the most popular Switch 2 games, the fastest-selling-ever title presumably holds. It's an incredible result for a game that's been received with enormous enthusiasm. Christian Donlan awarded The Legend of Zelda: Ocarina of Time five golden stars in Eurogamer's review , saying: \"Alongside great judgement and clever tweaks, this astonishing remake has a proper ace up its sleeve.\" We've also already seen a jump in US Switch 2 sales because of the game's release. So much for not launching in November near GTA 6 , eh? This level of success begs the question of whether Nintendo would consider remaking more beloved old Zelda games - or Nintendo games - to replicate this nostalgia-driven effect. Are there other Zelda games that have the pull of Ocarina of Time that haven't been remade or remastered already in some capacity? If you're inspired to pick the game up because of this, or already have it, know that we've got a whole proverbial library shelf of The Legend of Zelda: Ocarina of Time guides to help you through the game.",
           "image": "https://assetsio.gnwcdn.com/Zelda_Ocarina_Of_Time_Songs_Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/remake-de-the-legend-of-zelda-ocarina-of-time-ja-vendeu-52-milhoes-de-copias/",
-          "title": "Remake de The Legend of Zelda: Ocarina of Time já vendeu 5,2 milhões de cópias",
-          "published_at": "2026-11-11T12:02:33+00:00",
-          "kind": "press",
-          "text": "Comparação mostra semelhanças entre Zelda: Ocarina of Time e Breath of the Wild",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Remake-Zelda-Ocarina-Time-Vendas.jpeg"
         },
         {
           "name": "Adrenaline",
@@ -136,7 +222,6 @@
       "primary_owners": [],
       "fingerprints": [
         "5f3d8cc39906e097",
-        "f67c82f224c38e6a",
         "b8be467a77c921ea",
         "b7c52916f651bf08",
         "5cd0e49a8b916798",
@@ -152,16 +237,6 @@
           "kind": "press",
           "text": "Capcom receives seven awards, including Studio of the Year and recognition for Pragmata and Onimusha: Way of the Sword The 44th Golden Joystick Awards took place last night, with Resident Evil Requiem winning four awards including Ultimate Game of the Year and Console Game of the Year. The ninth instalment in the franchise also received Best Game Trailer, in addition to Angela Sant'Albano winning Best Lead Performer for her role as Grace Ashcroft. Capcom received seven awards, including Studio of the Year, Best Audio Design for Onimusha: Way of the Sword, and Best Supporting Performer for Grace Saif’s role as Diana in Pragmata. AdHoc's Dispatch earned Best Storytelling and Best Soundtrack. Meccha Chameleon was recognised as Best Indie Game (self-published), Best Multiplayer Game, Streamer’s Choice, and Developer’s Choice. Elsewhere, Remedy received Best Visual Design for Control Resonant, Unknown Worlds' Subnautica 2 won Best Early Access Game, Pearl Abyss's Crimson Desert was named PC Game of the Year, and House House's Big Walk received Critics' Choice. Here is the full list of winners for the Golden Joystick Awards 2026:",
           "image": "https://assetsio.gnwcdn.com/grace-ashcroft-resident-evil.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/why-wasnt-gta-6-at-the-golden-joystick-awards/",
-          "title": "Why wasn't GTA 6 at the Golden Joystick Awards?",
-          "published_at": "2026-11-11T20:18:30+00:00",
-          "kind": "press",
-          "text": "You'll have to wait a little while for Leonidas The Golden Joystick Awards 2026 have drawn to an end, but one of this year's biggest games was entirely absent: GTA 6 . If you were watching the ceremony wondering where Rockstar might have been, the short answer is that GTA 6 was not eligible for entry at this year's show. To be nominated in one of the main categories, a title had to release between November 1, 2025 and September 25, 2026. For the main prize of Ultimate Game of the Year, that window was extended to October 25, and for jury-voted prizes, games are eligible up until the show itself, November 11. That means that games like Dispatch, which launched late last year, or Phantom Blade Zero, which only just released, were eligible to be included in the 2026 show. But GTA 6, which is set to release next week, arrives eight days after the eligibility window closed. It was technically eligible for the title of Most Wanted game, but given that Rockstar won that particular award in 2024 and 2025, and that the wait is so nearly over, GTA 6 wasn't nominated in that category. Adding to the potential confusion is the fact that GTA 6 is eligible for The Game Awards. Those take place on December 10, several weeks after launch, and the fact that they're jury-voted rather than public-voted means that any jurors with review access might have had copies of the game for some time before that show. The rest of the major awards shows - namely the DICE, GDC, and BAFTA ceremonies - take place at the start of 2027, so GTA 6 will likely be a major contender there. GTA 6 will be eligible for the 2027 Golden Joystick Awards, where I'd also expect it to pick up several prizes. That means that it will be able to complete the clean sweep of the Big 5 shows - repeating the feats of Clair Obscur: Expedition 33 and Baldur's Gate 3 - but it won't do so in the 2026/7 season. Check out all the winners at the Golden Joystick Awards 2026 . Weekly digests, tales from the communities you love, and more I'm GamesRadar's Managing Editor for news, shaping the news strategy across the team. I started my journalistic career while getting my degree in English Literature at the University of Warwick, where I also worked as Games Editor on the student newspaper, The Boar. Since then, I've run the news sections at PCGamesN and Kotaku UK, and also regularly contributed to PC Gamer. As you might be able to tell, PC is my platform of choice, so you can regularly find me playing League of Legends or Steam's latest indie hit. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/fauxF3UVUEucerkpFVot2e-1920-80.jpg"
         },
         {
           "name": "PC Gamer",
@@ -206,65 +281,6 @@
       ]
     },
     {
-      "story_id": "26edccb53946c29c",
-      "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
-      "summary": "Sony has canceled the upcoming live-service shooter Fairgame$, but there will be no job cuts connected to the game's closure. This is according to a report from Bloomberg today. The game was in the works at Haven Studios in Montreal, a team founded by former Assassin's Creed veteran Jade Raymond. She left the studio back in 2023 , and Fairgame$ was delayed to 2026 at the time. Now the game is...",
-      "owners": [
-        "fandom",
-        "vox-media",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "35845972ea6d941e",
-        "08a2906a917bb50f",
-        "f4bafe18667225c0",
-        "fc6c62dc15431a53"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs/",
-          "title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
-          "published_at": "2026-11-10T20:43:00+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "GamesIndustry.biz",
-          "owner": "ziff-davis",
-          "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
-          "title": "PlayStation cancels live-service shooter Fairgames",
-          "published_at": "2026-11-11T10:40:00+00:00",
-          "kind": "press",
-          "text": "Haven Games to \"shift focus to collaborating with other development teams across PlayStation\" PlayStation has cancelled Fairgames, the live-service shooter previously in development at its Montreal-based subsidiary Haven Studios. In a statement to Bloomberg , PlayStation said Haven Studios will \"shift focus to collaborating with other development teams across PlayStation Studios, while also exploring new creative opportunities.\" No jobs have been cut due to the cancellation. According to an email reviewed by Bloomberg, executives Sean Decker and John Doyle informed employees that a recent Fairgames playtest did not meet expectations. \"While the test demonstrated strong operational excellence, live ops readiness and community engagement, player feedback and retention results were mixed and fell short of the goals we had set,\" they said. \"Combined with challenging market conditions in the PVP shooter genre, we have made the difficult decision to cease development on the game.\" Haven Studios' debut game was announced in 2023, initially scheduled for release last year, and later delayed to Spring 2026. Jade Raymond founded Haven Studios in 2021, and PlayStation Studios acquired the studio in 2022. Following Raymond's departure in May 2025 , executive producer Marie-Eve Danis and Pierre-François Sapinski were appointed co-studio heads. PlayStation started focusing on the live-service market in 2022 by acquiring Bungie for $3.6 billion . Former Sony Interactive Entertainment head Jim Ryan said the company aimed to launch more than ten live-service games by 2026 . Sony reduced the value of its acquisition by $765 million in the 2025/26 fiscal year after Destiny 2 and Marathon underperformed. Earlier this year, Bungie laid off 292 employees and ended development on Destiny 2. Following the game's final update, Bungie announced plans to reinstate vaulted campaigns , raids, and destinations to restore player trust. One of Sony’s most publicised live-service failures was Concord in 2024 , which was withdrawn from sale two weeks after release. Sony subsequently closed its developer Firewalk Studios , along with Neon Koi. Koi. In 2025, Sony cancelled two unannounced live service titles from Bend Studio and Bluepoint Games. The following year, Sony closed Bluepoint, resulting in 70 job losses . Sony Interactive CEO Hideaki Nishino previously said he wanted to \"revitalise\" live-service projects through a combination of first- and third-party content following its string of failures. \"We believe that live service games are content that attracts users on a global level, so we want to continue to revitalise the market through both first-party and third-party content,\" Nishino said. \"We are not only focusing on promoting new releases, but also considering what we can do with older titles in the medium to long term.\" He continued: \"With live service games, it's important to continuously provide something. The genre itself is relatively new, and I think many people are trying various things, so we also want to continue to take on challenges within that context.\"",
-          "image": "https://assetsio.gnwcdn.com/Fairgames-Cancelled_11-10-26.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-          "title": "Sony cancels live-service shooter Fairgames",
-          "published_at": "2026-11-10T21:06:12+00:00",
-          "kind": "press",
-          "text": "Fairgames is PlayStation’s latest cancellation as it steps back from many of its live service efforts.﻿ Fairgames is PlayStation’s latest cancellation as it steps back from many of its live service efforts.﻿ Sony has canceled Fairgames , a heist game announced in 2023 , according to Bloomberg . Fairgames had once been part of Sony’s big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down Concord shortly after its failed launch . The Fairgames cancellation won’t result in job cuts, and developer Haven Studios will now support other PlayStation studios, Bloomberg reports. The game was canceled following a recent test where “player feedback and retention results were mixed and fell short of the goals we had set,” according to part of an executive memo published by Bloomberg , which also cited “challenging market conditions in the PVP shooter genre.” Sony acquired Haven Studios in 2022 . Sony’s live service efforts have seen some success with Helldivers 2 , which is also available on Xbox . Bungie’s Marathon , which launched this year, has had a rough start , but today the studio showed off some new features coming in a December update , including a new co-op PvE roguelite mode and a PvP deathmatch mode. Sony is also working on a live service Horizon spinoff, but recently rebooted it .",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK097_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/fairgames-playstation-heist-shooter-live-service-cancelled-haven",
-          "title": "PlayStation's embattled shooter Fairgames has finally been cancelled, a new report says, as live service push withers away",
-          "published_at": "2026-11-11T09:29:00+00:00",
-          "kind": "press",
-          "text": "After years of silence, we finally know the fate of PlayStation's embattled live service game Fairgames. The Haven-developed co-op heist shooter has been cancelled, with the silver lining that the studio is not closing down or laying off staff. According to a new Bloomberg report, the decision to cancel Fairgames was made following the results of a recent playtest. Sony told staff on Tuesday of the playtest's poor reception and of its decision to end development. \"While the test demonstrated strong operational excellence, live ops readiness and community engagement, player feedback and retention results were mixed and fell short of the goals we had set,\" executives Sean Decker and John Doyle reportedly wrote in an email to staff. \"Combined with challenging market conditions in the PvP shooter genre, we have made the difficult decision to cease development on the game.\" A PlayStation spokesperson later confirmed that developers at Haven will now support other teams within the PlayStation Studios group, as they continue to \"explore new creative opportunities\". Fairgames was initially announced in 2023 as one of several in-development live service games, as part of an initiative by former PlayStation boss Jim Ryan to create more than a dozen games that generate recurring revenue . Most of those titles were cancelled before they were even revealed, and those that made it out, such as Concord, flopped severely . Even Sony darling Guerrilla Games seemingly can't make it work, with recent reports saying the studio's Horizon Hunters Gathering - initially envisioned as a live service spin on the robo dinosaur series - will now shift into a more traditional co-op structure without live service elements. That's assuming the team can show a revamped version of the game to executives by December. The news of Fairgames' cancellation isn't surprising. The game has had a tumultuous development journey ever since its reveal. Initially set for release in 2025, the game was soon pushed back to 2026 , following the departure of studio founder Jade Raymond . Though Sony later reiterated its commitment to its remaining in-development live service titles , Fairgames was never shown to the public again. That same year, game director Daniel Drapeau left Haven - another key departure suggesting the game had difficulties and might not see release. Throughout that time, Fairgames has reportedly been reworked multiple times, with a plan for it to be re-revealed under a new name. That name is believed to be Break In, linked to a trademark Sony filed in May , but with the project cancelled, we may never know if that was the case.",
-          "image": "https://assetsio.gnwcdn.com/Fairgame%24---CGI-Reveal-Trailer-_-PS5-%26-PC-Games-1-31-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
       "story_id": "3acc85f4f619a019",
       "title": "Efeito GTA 6? Logitech cria dia de folga para funcionários jogarem videogame",
       "summary": "Lucia e Jason, os protagonistas de GTA 6.",
@@ -287,7 +303,7 @@
           "title": "Efeito GTA 6? Logitech cria dia de folga para funcionários jogarem videogame",
           "published_at": "2026-11-11T21:15:00+00:00",
           "kind": "press",
-          "text": "Lançamentos de games em NOVEMBRO de 2026 - Calendário VOXL Além do aguardado GTA 6, novembro traz remake de Ocarina of Time e mais de 30 jogos. Confira as estreias do mês. Crédito: Voxl A fabricante de acessórios para eletrônicos Logitech oficializou, nesta quarta-feira (10), um novo benefício curioso. A partir de agora, funcionários da companhia podem tirar um dia de folga remunerada apenas para se dedicar a videogames . A campanha se chama Gaming Time Off, ou GTO , e foi confirmada em um comunicado oficial pela própria CEO da companhia, Hanneke Faber. De forma bem humorada, ela mesma reconhece que o timing da revelação tem a ver com o lançamento de Grand Theft Auto 6 e com o provável número grande de ausências de pessoas no próprio emprego durante o primeiro dia de disponibilidade do game. “Para os funcionários da Logi que planejam uma viagem a Vice City, não é mais preciso pegar a “gripe GTA” — basta tirar o seu GTO”, brinca a executiva no LinkedIn . O GTO estará disponível para todos os funcionários da Logitech , mas o texto oficial não explica se há limitações sobre quando a folga pode ser tirada ou quantas pessoas da equipe conseguem sair no mesmo dia, por exemplo. De acordo com a fabricante, famosa por produtos como mouses, teclados e fones de ouvido, a folga é uma forma de reconhecer os “ benefícios cognitivos e profissionais ” da prática de jogos digitais. “É hora de deixar de lado o estereótipo de que jogar videogame é perda de tempo. Como uma empresa que desenvolve produtos tanto para o trabalho quanto para o lazer, observamos diariamente como o engajamento em uma dessas esferas favorece o desempenho na outra ”, complementa a CEO. O jogo da Rockstar sai em 19 de novembro deste ano e deve ser um dos maiores fenômenos recentes da indústria. O título já bateu recordes de pré-venda nos consoles e pode ser baixado antecipadamente por quem já fez a compra. Quer saber os detalhes técnicos de GTA 6, incluindo quantidade de FPS e recursos como ray-tracing? Confira nesta matéria ! Gov.br caiu? Serviços online do governo apresentam instabilidade nesta quinta (12) Caixa fora do ar? Pix do banco fica indisponível nesta quinta-feira (12) Caixa Vida e Previdência sofre ataque hacker e dados de 7,6 milhões são expostos Quem é Kimberly Powell, executiva da Nvidia que teve suposto caso extraconjugal com o CEO? Jensen Huang deixa Nvidia: confira linha do tempo da fundação até a saída da empresa",
+          "text": "Lançamentos de games em NOVEMBRO de 2026 - Calendário VOXL Além do aguardado GTA 6, novembro traz remake de Ocarina of Time e mais de 30 jogos. Confira as estreias do mês. Crédito: Voxl A fabricante de acessórios para eletrônicos Logitech oficializou, nesta quarta-feira (10), um novo benefício curioso. A partir de agora, funcionários da companhia podem tirar um dia de folga remunerada apenas para se dedicar a videogames . A campanha se chama Gaming Time Off, ou GTO , e foi confirmada em um comunicado oficial pela própria CEO da companhia, Hanneke Faber. De forma bem humorada, ela mesma reconhece que o timing da revelação tem a ver com o lançamento de Grand Theft Auto 6 e com o provável número grande de ausências de pessoas no próprio emprego durante o primeiro dia de disponibilidade do game. “Para os funcionários da Logi que planejam uma viagem a Vice City, não é mais preciso pegar a “gripe GTA” — basta tirar o seu GTO”, brinca a executiva no LinkedIn . O GTO estará disponível para todos os funcionários da Logitech , mas o texto oficial não explica se há limitações sobre quando a folga pode ser tirada ou quantas pessoas da equipe conseguem sair no mesmo dia, por exemplo. De acordo com a fabricante, famosa por produtos como mouses, teclados e fones de ouvido, a folga é uma forma de reconhecer os “ benefícios cognitivos e profissionais ” da prática de jogos digitais. “É hora de deixar de lado o estereótipo de que jogar videogame é perda de tempo. Como uma empresa que desenvolve produtos tanto para o trabalho quanto para o lazer, observamos diariamente como o engajamento em uma dessas esferas favorece o desempenho na outra ”, complementa a CEO. O jogo da Rockstar sai em 19 de novembro deste ano e deve ser um dos maiores fenômenos recentes da indústria. O título já bateu recordes de pré-venda nos consoles e pode ser baixado antecipadamente por quem já fez a compra. Quer saber os detalhes técnicos de GTA 6, incluindo quantidade de FPS e recursos como ray-tracing? Confira nesta matéria ! Microsoft Teams caiu? Outlook, 365 e outros serviços Microsoft instáveis nesta quinta (12) Caixa Vida e Previdência sofre ataque hacker e dados de 7,6 milhões são expostos Quem é Kimberly Powell, executiva da Nvidia que teve suposto caso extraconjugal com o CEO? Gov.br caiu? Serviços online do governo apresentam instabilidade nesta quinta (12) Caixa fora do ar? Pix do banco fica indisponível nesta quinta-feira (12)",
           "image": "https://www.estadao.com.br/resizer/v2/CGIVO6KO25ATTAK6YAQ5HJQW34.jpg?quality=80&auth=ea8ff9c2d54611794366025c04d2c55704447372dd20f47b6e4855bf1349d96c&width=1200&height=630&focal=711,354"
         },
         {
@@ -309,54 +325,6 @@
           "kind": "press",
           "text": "A Logitech anunciou uma iniciativa que promete agradar aos funcionários que gostam de videogames: um dia de folga dedicado exclusivamente aos jogos . Batizado de Logi Game Day , o benefício será oferecido aos colaboradores da empresa, incluindo os profissionais que trabalham no Brasil. A iniciativa marca o primeiro dia dedicado aos games em toda a história da Logitech e tem como objetivo reconhecer o papel dos videogames no desenvolvimento de habilidades que também podem ser utilizadas no ambiente profissional. O evento acontecerá em 19 de novembro de 2026 , mesma data prevista para o lançamento de GTA 6 . Segundo a empresa, a decisão está relacionada a pesquisas sobre a influência dos games no desenvolvimento de competências profissionais. Um levantamento da Logitech, chamado Ctrl Tomorrow , apontou que 81% dos jogadores entrevistados acreditam que os videogames contribuem para a autoconfiança, ajudam a reduzir a ansiedade e estão associados a um melhor desempenho nas atividades cotidianas. Outro estudo citado pela fabricante revelou que 98,8% dos profissionais responsáveis por decisões de tecnologia da informação consultados acreditam que habilidades desenvolvidas nos jogos podem ser aplicadas ao trabalho. Entre essas competências estão pensamento estratégico, resolução de problemas complexos e capacidade de atuar sob pressão. Os resultados representam percepções dos participantes das pesquisas e não comprovam, isoladamente, que jogar videogame melhora o desempenho profissional. “Chegou a hora de deixar para trás o estereótipo de que jogar é perda de tempo”, afirmou Hanneke Faber, CEO da Logitech. Para celebrar a iniciativa, a Logitech G realizará uma transmissão ao vivo diretamente de sua sede em San Jose, nos Estados Unidos, no dia 19 de novembro. O evento será apresentado por Robin Piispanen, gerente-geral da Logitech G e ex-jogador profissional. Segundo Piispanen, experiências em jogos como GTA 6 , Call of Duty e Forza podem estimular a colaboração e a resolução de problemas. A diretora de Recursos Humanos da Logitech, Elaine Laird, também destacou que reservar um período para atividades de lazer pode ajudar os colaboradores a retornar ao trabalho com novas perspectivas. Com o Logi Game Day, a fabricante passa a incorporar os videogames à sua política de benefícios, defendendo que jogar pode representar não apenas entretenimento, mas também uma oportunidade de desenvolver habilidades e fortalecer a integração entre equipes. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
           "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Logitech-Logitech-G-1.webp"
-        }
-      ]
-    },
-    {
-      "story_id": "f770404a8cfb9928",
-      "title": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
-      "summary": "A group of Id Software developers affected by Xbox's mass layoffs have formed an independent, employee-owned studio called Hidden Horses. Read more",
-      "owners": [
-        "future-plc",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "1721d2c71b62b075",
-        "e321aca1934ab797",
-        "9d6e503c3dbeacbb"
-      ],
-      "sources": [
-        {
-          "name": "GamesIndustry.biz",
-          "owner": "ziff-davis",
-          "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
-          "title": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
-          "published_at": "2026-11-12T10:17:40+00:00",
-          "kind": "press",
-          "text": "Developer is launching a Kickstarter campaign to fund its first project, FPS shooter Danger Pay A group of Id Software developers affected by Xbox's mass layoffs have formed an independent, employee-owned studio called Hidden Horses. The studio includes more than 20 former Id Software developers, artists, and designers, and aims to provide staff with an ownership stake in their work. \"We're creating a studio where the developers share in its success and have a commitment to it beyond just another job,\" said co-founder and executive producer Andrew Willis. \"I think that when people have a stake in something’s success, they are more committed to it.\" Hidden Horses wants to utilise this structure to \"empower individual developers while maintaining the focused decision-making necessary to build ambitious games.\" The developer is launching a Kickstarter campaign to fund its first project, the single-player FPS Danger Pay. Funds will support \"the typical things needed to start a business and finance game development, including licenses, hardware, and healthcare.\" The initial fundraising goal will reflect the timeline and costs of the first project. \"What excites me about this particular venture is we're taking the two kinds of risk that I was holding before,\" co-founder and rendering programmer Regan Carver said in a video documenting the studio's founding . \"One was, can we succeed, which was a given because we were an established company. We had money coming in. We were making good stuff. And the other was, does the company care about me? For a while, that was true, and then it stopped.\" \"Whereas with this venture, it's like trading one for the other. We know we all care about each other, but all we have to do now is succeed. I've done the former. It didn't work out. I'm ready to do the latter, being able to do what we want and talk through what our ideas are.\" In July, approximately 136 Id employees were laid off. The developer maintained it still had \" the crew we need to build the games and tech we're known for ,\" despite concerns about its ability to maintain its proprietary game engines with half a team. \"The team today is about the same size we were when making Doom (2016),\" the developer said in a statement. \"We have always had a flat studio where everyone is a maker, and we will remain true to that philosophy moving forward.\" \"We are focused on supporting each other and the team members impacted. We're going to keep building the great games and tech that have defined us for the past 35 years.\"",
-          "image": "https://assetsio.gnwcdn.com/hidden-horses.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/gaming-industry/former-id-software-developers-form-their-own-employee-owned-shooter-studio-in-the-wake-of-microsofts-mass-layoffs/",
-          "title": "Former id Software developers form their own employee-owned shooter studio in the wake of Microsoft's mass layoffs",
-          "published_at": "2026-11-11T20:09:58+00:00",
-          "kind": "press",
-          "text": "Hidden Horses, co-founded by \"approximately 20\" former id devs, is planning a Kickstarter campaign to help fund its first project. As part of its July 2026 wave of Xbox job cuts, Microsoft laid off a reported 136 developers from id Software, a studio whose name is synonymous with expertise in shooter design and engineering. Today, \"approximately 20\" of those former id developers announced the formation of Hidden Horses, an employee-owned game studio boasting \"over 250 collective years\" of game dev experience between its co-founders. \"This team has spent years building games together, and we realized that what made that experience special wasn't just the projects we worked on; it was the people we worked with,\" Hidden Horses engine programmer and co-founder Dustin Land said in a press release . \"Hidden Horses is an opportunity to keep that team together, build something of our own, and create the kind of old school shooters that we think people want more of.\" On its website , the studio says it was formed as a democratically governed, developer-owned company so it can prioritize \"long-term health over short-term growth, longevity over quarterly returns, and innovative gameplay over shady monetization\"—for the sake of its games, and the studio staff creating them. \"We're creating a studio where the developers share in its success and have a commitment to it beyond just another job,\" said co-founder and executive producer Andrew Willis, \"I think that when people have a stake in something’s success, they are more committed to it.” The studio is planning to launch a Kickstarter campaign to support the development of its first planned game: a singleplayer arena shooter called Danger Pay, in which players will participate in a televised ultraviolent game show inspired by works like The Running Man (the 1987 movie, not the 2025 one) and 1990's Smash TV—a game that, I've just now learned, got a novella adaptation in 1992 . So. Now I get to have that knowledge bouncing around. \"We've had the privilege of spending our careers making games for incredible communities of players,\" said Johnmichael Quinlin, studio co-founder and tools programmer. \"Now we have the chance to build something new together, and we're excited to invite those players along for the journey from the very beginning.\" If you want to stay posted on what Hidden Horses is up to, you can follow the studio on its Bluesky account . From the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Lincoln has been writing about games for 12 years—unless you include the essays about procedural storytelling in Dwarf Fortress he convinced his college professors to accept. Leveraging the brainworms from a youth spent in World of Warcraft to write for sites like Waypoint, Polygon, and Fanbyte, Lincoln spent three years freelancing for PC Gamer before joining on as a full-time News Writer in 2024, bringing an expertise in Caves of Qud bird diplomacy, getting sons killed in Crusader Kings, and hitting dinosaurs with hammers in Monster Hunter. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/3JdTywSbDrvngvG3ycgJm7-1920-80.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/a-group-of-developers-laid-off-from-id-software-have-formed-new-studio-hidden-horses/",
-          "title": "A group of developers laid off from id Software have formed new studio Hidden Horses",
-          "published_at": "2026-11-12T11:20:28+00:00",
-          "kind": "press",
-          "text": "The studio is Kickstarting its first game, an FPS called Danger Pay A team of developers who were recently laid off from id Software have formed a new studio, and plan to make a new FPS. Hidden Horses is an employee-owned studio consisting of more than 20 former id Software staff, and aims to “pursue fun and creativity in our games, unencumbered by short-term thinking or chasing market trends”. “As a group of developers who’ve dedicated their careers to making games, we believe this structure allows us to create the kind of company that values long-term health over short-term growth, longevity over quarterly returns, and innovative gameplay over shady monetization,” a statement from the studio reads. The studio has launched a short documentary video explaining how they were all laid off from id Software, how the layoffs affected them, and how they got together to form Hidden Horses. “Okay, you’ve got all these people that do this amazing thing at a high level, that really cannot be replicated, and they’re all out of a job now,” producer Andrew Willis said in the video. “You have all these people on the consumer side that love the games, want more of it, and want more of it than has even been produced in the past. “So, if the money’s out there to buy the stuff that we make, and the people who make that stuff are now free to make more of it, I just thought we should, we could do this. The demand is there, the supply side is there. There’s no reason that we can’t put a company together to continue this on. “Especially as I saw the [ Doom: The Dark Ages ] Revelations DLC critical reviews and player reviews roll in, of just loving it, a lot of them saying it’s the best entry in the whole Doom trilogy from 2016 on, I just became more and more convinced if we put together a company full of these veterans that hold all this immense institutional knowledge, I think the fans would want to buy what they would have to make.” The new studio has turned to Kickstarter in an attempt to get funding for its first game, a first-person shooter called Danger Pay set in a deadly gameshow, with inspiration taken from The Running Man and Smash TV. “Unlike a lot of potential startups, having a team that has already worked together for a decade, you already have those connections,” technical artist Todd Boyce said in the video. “You already all know what each other’s capabilities are. and you already know how to make a game together. To put together a team like the team that this tragedy has kind of spurned, is almost a one in a million opportunity that just doesn’t happen. “Having the ability to inject your own creativity into a project gives you so much more ownership. And this is an opportunity for an entire team to do that on a new project of their own creation. And that is the most exciting thing I could possibly imagine.”",
-          "image": "https://www.videogameschronicle.com/files/2026/11/hidden-horses.jpg"
         }
       ]
     },
@@ -409,157 +377,196 @@
       ]
     },
     {
-      "story_id": "246a901be05e9fc6",
-      "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
-      "summary": "GTA 6 was almost too much for South Korean ratings board GCRB, who struggled to agree whether the game should be approved or not. The board cited “out of context genital nudity” as the sticking point.",
+      "story_id": "2ccc169b73679e3f",
+      "title": "Nintendo announces Black Friday 2026 deals",
+      "summary": "Nintendo has announced its Black Friday 2026 deals, which include $50 in savings on a …",
       "owners": [
         "future-plc",
-        "keleops",
-        "ziff-davis"
+        "gematsu",
+        "keleops"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "d27ecd5494ae5308",
-        "462227478342353e",
-        "8097618c2b14a86c"
+        "57f359ee78a85132",
+        "d2f1c61f0410af92",
+        "77202cc7bdcb8720"
       ],
       "sources": [
         {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/gta-6-was-almost-refused-rating-in-south-korea",
-          "title": "GTA 6 Was Almost Refused a Rating in South Korea Due to 'Genital Nudity'",
-          "published_at": "2026-11-12T12:44:19+00:00",
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/nintendo-announces-black-friday-2026-deals",
+          "title": "Nintendo announces Black Friday 2026 deals",
+          "published_at": "2026-11-12T14:31:04+00:00",
           "kind": "press",
-          "text": "GTA 6 was almost too much for South Korean ratings board GCRB, who struggled to agree whether the game should be approved or not. The board cited “out of context genital nudity” as the sticking point. Rockstar sent an application for a South Korean rating on September 1. The initial vote, held on September 10, ended in a tie, with three votes for classification refusal and three for an Adults Only rating. InvenGlobal acquired the meeting minutes from the voting sessions, where some board members argued for classification refusal over in-game nudity. When voting resulted in a tie, they chose to postpone the decision while awaiting a playable build of the game. A GTA 6 build was delivered to the committee on September 28 and an initial revisit of the board was postponed twice for a more \"sufficient gameplay examination.” That’s one way to get to play it early. After being initially pushed from October 2 to October 8, it was pushed once more and the committee met again on October 18. The second review passed a vote for an Adults Only rating with eight voting in favor of the rating and one voting against classification. The content descriptors were assigned as “Sensuality, Violence, Crime, Drugs, and Language.” That first one, “Sensuality,” was the issue. According to the report, the committee took particular issue with male nudity without any sexual context. The South Korean ratings board revised its regulation rules in September 2025, but previously even a suggestion of nudity could land a game with an Adults Only rating. After the revision, this wording changed to \"cases where suggestive bodily exposure is directly and specifically depicted.\" GTA 6 was the first game to run into the new, apparently more relaxed, rules. No such rules exist for crime or drug depictions. A rating refusal would have blocked the release of GTA 6 in South Korea entirely. According to the report, the ratings board felt pressure with potentially being the sole country to refuse classification to the biggest game of the year. Last month, GTA 6 received an age rating of PEGI 18 , which included mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\" and much more. The rating, since deleted, described GTA 6's violence as \"bloody with a high degree of realism.\" Some weapons will be more brutal than others, with some said to be \"able to cause greater damage, such as detailed decapitation and dismemberment.\" Rockstar has made drug use \"frequent and prominent,\" with players able to partake in illicit substances. Cocaine is said to be especially important in Vice City, with the rating promising that Jason and Lucia will be able to use the substance directly from their inventory, as it can be \"snorted directly from their hand at any time.\" The GTA 6 PEGI description also touched on \" strong sexual themes ,\" which include \"nudity, scenes of intercourse, and occasional scenes of sexual fetishes.\" None of this should come as much of a surprise, given the GTA 6 launch trailer teases steamy shower scenes between Jason and Lucia . Not long now: GTA 6 is out on November 19 for PS5 and Xbox Series X and S. IGN's latest coverage includes speculation about a potential beloved legacy character from a previous game hiding in the latest GTA 6 trailer , and the release of new GTA 6 footage that looks so real fans actually thought it was real-life . Kirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
-          "image": "https://assets-prd.ignimgs.com/2026/11/12/vintage-vice-city-pack-exclusive-looks-01-1794487245980.jpg?width=1280&format=jpg&auto=webp&quality=80"
+          "text": "Nintendo has announced its Black Friday 2026 deals, which include $50 in savings on a “ Nintendo Switch 2 + Mario Kart World Bundle” and select games at $20-off the suggested retail price. Starting November 22 through December 5, rev up for Black Friday with the “Nintendo Switch 2 + Mario Kart World Bundle” featuring a Nintendo Switch 2 system, a full download of the Mario Kart World game and a three-month (90-day) Nintendo Switch Online Individual Membership for the suggested retail price of $499.99, a savings of $50. Plus, from November 22 through November 29, select games for Nintendo Switch 2 like Donkey Kong Bananza and Nintendo Switch games such as Super Mario Galaxy + Super Mario Galaxy 2 will be $20-off the suggested retail price. All offers available while supplies last. In addition to select retailers, these promotions will be available at the Nintendo New York and Nintendo San Francisco stores. The “Nintendo Switch 2 + Mario Kart World Bundle” promotion will also be available on the Nintendo Store website. The Nintendo New York and Nintendo San Francisco stores will feature festive window displays and seasonal decor and are a one-stop destination for holiday shopping for Nintendo Switch 2 and Nintendo Switch, plus games, gifts, exclusive items, and more. Share the joy of Nintendo this holiday with exclusive products, collectibles and apparel inspired by your favorite characters and games including Mario , The Legend of Zelda , Animal Crossing , Pikmin , and Splatoon . Holiday gift guides, festive shopping bags, and, for a limited time, a gift with purchase (requires minimum spend) will be available while supplies last. Holiday shoppers looking to get an early jump on enjoying some games can also check out a sale on Nintendo eShop and the Nintendo Store beginning November 19 through December 2.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Nintendo-Black-Friday_11-12-26_001.jpg"
         },
         {
           "name": "Kotaku",
           "owner": "keleops",
-          "url": "https://kotaku.com/gta-6-south-korea-for-featuring-too-many-out-of-context-penises-rockstar-2000756253",
-          "title": "GTA 6 Was Almost Refused Classification In South Korea For Featuring Too Many ‘Out-Of-Context’ Penises",
-          "published_at": "2026-11-12T15:30:38+00:00",
+          "url": "https://kotaku.com/nintendo-black-friday-sale-first-party-games-donkey-kong-metroid-prime-2000756243",
+          "title": "Nintendo Reveals Its Black Friday Sale Plans, With Its Own Games Getting Rare $20 Discounts",
+          "published_at": "2026-11-12T15:15:03+00:00",
           "kind": "press",
-          "text": "Grand Theft Auto IV GTA 6 Rockstar Games Take-Two Interactive Grand Theft Auto 6 came very close to being denied an age rating in South Korea, which would have effectively resulted in Rockstar Gamesâ release being banned in the country. But what could have possibly led the Game Content Rating Board to consider such a measure? Was it the drug use? Something gambling-related, maybe? Nope. In the words of GCRBâs committee members, it was because GTA 6 features too much âout-of-context genital nudityâ and a whole lot of âfrequent male genital exposure.â These quotes come directly from three separate GCRB reviews of GTA 6âs content, as outlined and translated in a report from Inven Global . According to Inven Global âs investigation, GCRBâs initial September 10 review ended in a tie, with three committee members voting in favor of refusing the game classification. Because the other three voters wished to classify GTA 6 as an âAdults Onlyâ title in South Korea (a 19+ rating), a second vote was held on October 2. However, the GCRBâs second vote was inconclusive, with committee members citing the lack of a fully playable build of GTA 6 as the reason. But by October 16, another vote took place, this time passing the game with an Adults Only rating by eight to one. Three more people showed up this time, it seems. And why did the mood change so much? It appears the previous rulings had been based on leaked footage showing Jason running around in the buff . O ne committee member, apparently after playing the official version of the game, stated that âit appears [Rockstar Games had] intentionally covered genital exposure in explicitly sexual scenes.â Inven Globalâs report specifically states that the GCRB was referring to âproblematic scenes featured in leaked overseas footageâ in this context. Considering thereâs only one high-profile GTA 6 leaker, this is presumably referencing Cyberleekâs videos published between August and October. More specifically, Cyberleek shared videos of Jason hanging dong and Lucia skydiving in the nude . However, the nudity in these clips was seemingly only made possible through the use of developer tools in the build of the game Cyberleek had acquired. It sounds like the GCRB was concerned that Jason and Lucia could strip down to their birthday suits in normal gameplay, and the committee members only chose to approve the Adults Only rating once they were able to confirm otherwise. This seems to indirectly imply that Jason cannot, in fact, hang dong in GTA 6 . Apologies in advance to the girls and gays. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. 'You spin me right 'round, baby, right 'round. Like a record, baby' The video fooled many online who thought it was real life Everybody will get to clock-out on November 19th How does Rockstar Games' seminal open-world sequel hold up 13 years later? Others are showing some grace to what could be the most detailed open-world game ever Grand Theft Auto VI's preload file size is slightly lighter in Australia and over 1GB smaller in Japan",
-          "image": "https://kotaku.com/app/uploads/2026/10/GTA-launch-trailer_0008_Hue_Saturation-3-1200x675.jpg"
+          "text": "Black Friday 2026 Nintendo Nintendo Switch 2 Nintendo discounts its in-house games about as often as it warmly encourages downloading ROMs, so it’s something of a big deal to see the announcement that come November 22, games like Donkey Kong Bananza ,Â Metroid Prime 4 , andÂ Kirby Air Riders will all be discounted by $20. The Thanksgiving season will also see the return of theÂ Mario Kart World Switch 2 bundle on November 22, priced at $500, which is the current price of a Switch 2 on its own. You may well remember that when the Switch 2 launched in June 2025, the version bundled with a download code forÂ Mario Kart World was then priced at $500. But in the 18 months since, the price of the Switch 2 has jumped up $50 thanks to the AI-driven component crisis and Trump’s inane tariffs. Thus, returning to the baseline represents something of a bargain in our upside-down times. That bundled deal, which also comes with three months of Nintendo Switch Online, will run from November 22 to December 5, and obviously depends on available stock. For a slightly shorter window, a handful of Nintendo’s own games will also get the Black Friday treatment via retailers like Amazon, Best Buy, GameStop and Walmart, as well as Nintendo’s own U.S. stores. From November 22 to 29, Switch 2 titles Donkey Kong Bananza ,Â Metroid Prime 4: Beyond , Kirby Air Riders , andÂ Super Mario Party Jamboree will all be $20 less, meaning the very splendid Donkey Kong game will be just $50 instead of $70. Meanwhile the Switch versions ofÂ Super Mario Party Jamboree andÂ Metroid Prime 4Â will also receive twenty-buck reductions. Running over yet another set of dates (Nintendo never wants anything to be straightforward), the eShop will be having its own Black Friday sale, this time from November 19 to December 2. So far there are no details about which games will be seeing price drops, but hopefully it’ll see the same titles getting similar discounts. But this is Nintendo, so who knows? Clearly the eShop’s sale will also encompass every other publisher’s games at lower prices too. (Presumably at this point Ubisoft will be paying us to get a copy of Mario vs. Rabbids .) Seeing Nintendo’s own games getting price cuts is not common, especially ones as recent asÂ DK Bananza andÂ Metroid Prime 4 , so if you were waiting on either, this’ll be the time to pounce. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The latest wave of Nintendo DMCAs on GitHub have targeted firmware for Nintendo Switch modchips and its old emulation-related nemesis, Yuzu We'll create...a constellation...of our very own... Nintendo's remake has already reached 70 percent of the first game's lifetime sales in just four days",
+          "image": "https://kotaku.com/app/uploads/2026/11/nintendo-black-friday.jpg"
         },
         {
           "name": "GamesRadar",
           "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-was-almost-refused-classification-in-south-korea-due-to-the-sheer-amount-of-genitals-shown/",
-          "title": "GTA 6 was almost refused classification in South Korea due to the sheer amount of genitals shown",
-          "published_at": "2026-11-12T16:47:39+00:00",
+          "url": "https://www.gamesradar.com/hardware/nintendo-announces-its-2026-black-friday-offers-with-a-free-game-and-usd20-discounts/",
+          "title": "Nintendo announces its 2026 Black Friday offers, with free games and $20 discounts",
+          "published_at": "2026-11-12T16:55:51+00:00",
           "kind": "press",
-          "text": "Also, the naked Jason seen in leaks seemingly isn't part of the final game GTA 6 was reportedly almost refused classification to release in South Korea, with the sheer amount of genitals being the sticking point for many. GTA 6 is almost guaranteed to get high age ratings from every ratings board. The series has historically received the highest ratings every time a new game releases, and as Rockstar continues to push that boundary and the fidelity of the acts in the games grows even more realistic, it's only natural that things will come under scrutiny from ratings boards. The European ratings board has already reported \"detailed decapitation and dismemberment\" as well as rampant drug use, while the Australian ratings board lists sex scenes. This has even raised concerns that the game will be censored in Japan due to its lack of certain disclaimers. Per Inven , GTA 6 reportedly came close to being refused by South Korea's Game Content Rating Board before it landed on an Adults Only rating. The big sticking point during these meetings was apparently due to frequent genital exposure \"without context\". We've already seen from leaks that the game will feature nudist beaches with all sorts on show. Over the course of three reviews by the ratings board, the decision had gone from a split vote, with three members each voting between adults-only and refused classification, to an eight-to-one vote in favor of an adults-only rating. Notably, it's mentioned that the leaked footage featuring Jason naked is not included in the final game. And that any sex scenes are only cutscenes rather than playable, like the infamous Hot Coffee incident of GTA San Andreas. GTA 6 won't run at 60fps even on PS5 Pro, but Sony's console does have an exclusive: ray-traced shadows and PSSR. 4. Best pro Xbox: Nacon Revolution X Unlimited Weekly digests, tales from the communities you love, and more Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/7GMWduYvHNCyQpEDcNjMch-1920-80.jpg"
+          "text": "Nintendo has unveiled its 2026 Black Friday plans Nintendo has officially unveiled its 2026 Black Friday offers today, with discounts across games and consoles landing on November 22. The headline here is that Mario Kart bundle, once again returning to the shelves back in September and now taking a $50 discount when Black Friday Nintendo Switch deals come into full effect at the end of the month. The package comprises the handheld itself ($499.99 MSRP), a copy of Mario Kart World ($79.99 MSRP), and three months of Nintendo Switch Online Individual ($7.99 MSRP), all for $499.99 total. That's not just a $50 discount on the existing bundle price ($549.99 today), but essentially scoring you one of the system's most expensive games for free, plus that NSO membership. Select games have also been highlighted, set to receive $20 discounts when Black Friday offers begin. Right now, we only know that Donkey Kong Bananza, Kirby Air Riders, Metroid Prime 4 Beyond, Super Mario Galaxy + Super Mario Galaxy 2, and Super Mario Party Jamboree are taking part in physical discounts across stores like Amazon , Best Buy , GameStop , Target , and Walmart . Digitally, Nintendo has also announced it will be running separate offers via the eShop beginning November 19. We've been tracking early Black Friday offers for a good few weeks now, these are the best discounts available right now. Nintendo Switch 2 | $469 (was $499) at Woot GameSir Super Nova | $29.99 (was $49.99) at Best Buy Metroid Ravenous | $59.88 (was $69.99) at Amazon What's missing here? It would have been a little naive to assume anything Zelda-shaped would be included in this year's Black Friday offers. After all, Legend of Zelda Switch 2 stock is still scarce, and Ocarina of Time has set records in just four days on the market . It is a little disheartening to see the Nintendo Switch 2 Pro Controller left out of proceedings, though. The $89 official gamepad leads the charge of the best Nintendo Switch 2 controllers on the market, but hasn't seen a single price cut since launch. It's a premium accessory, but I'm sure we weren't alone in hoping for a saving this holiday season. Nintendo's digital discounts will run through December 2, the reduced price on that Mario Kart World bundle runs through December 5, and those physical game deals will only be available November 22 - November 29. We're also getting you prepped for this year's Black Friday PS5 deals , or check out the best Nintendo Switch 2 accessories and best Nintendo Switch 2 controllers available now. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Managing Editor of Hardware at GamesRadar+, I originally landed in hardware at our sister site TechRadar before moving over to GamesRadar. In between, I've written for Tom’s Guide, Wireframe, The Indie Game Website and That Video Game Blog, covering everything from the PS5 launch to the Apple Pencil. Now, i'm focused on Nintendo Switch, gaming laptops (and the keyboards, headsets and mice that come with them), PS5, and trying to find the perfect projector. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/T7AFP5yQRnF6ncVAEd62Jg-1626-80.jpg"
         }
       ]
     },
     {
-      "story_id": "a98a2a4d84d30493",
-      "title": "Intergalactic: The Heretic Prophet in 'Last Stages of Production,' Neil Druckmann calls it a Mash-up of Jak and Daxter, Uncharted and The Last of Us",
-      "summary": "Naughty Dog boss Neil Druckmann has given a seemingly promising update on Intergalactic: The Heretic Prophet, and offered a fresh tease of what to expect.",
+      "story_id": "de48dc0a1a2c393e",
+      "title": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
+      "summary": "The post Fable – New Quest Gameplay for XBOX’s 25th Anniversary appeared first on XBOX Wire .",
       "owners": [
         "fandom",
+        "gematsu",
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "534d83d363b2be95",
+        "2c4abf55e0e9f1f1",
+        "0354495d4e79bcc5"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary/",
+          "title": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
+          "published_at": "2026-11-12T19:00:00+00:00",
+          "kind": "primary",
+          "text": "",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FABLE_Quest_Gameplay_Thumbnail-4c1fa52ad9c7121409ed.jpg"
+        },
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it/",
+          "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
+          "published_at": "2026-11-12T17:11:42+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/fable-xbox-25th-anniversary-quest-gameplay",
+          "title": "Fable Xbox 25th Anniversary ‘Quest’ gameplay",
+          "published_at": "2026-11-12T19:51:45+00:00",
+          "kind": "press",
+          "text": "Publisher Xbox Game Studios and developer Playground Games have released a new four-minute gameplay walkthrough of the Fable reboot as part of todays’ Xbox 25th anniversary celebrations. Here is an overview of the demo, via Xbox Game Studios: Celebrate 25 years of Xbox with an exclusive look at brand new Fable quest gameplay. The Hero of Briar Hill has entered the depths of Deepwood alongside Arden, a local Hero, to investigate why strange magical happenings have been troubling the people of Oakshire. Here, they cross a threshold where the natural magic of Deepwood appears corrupted by an outside force, and they discover hints as to who or what could be responsible… Fable is due out for PlayStation 5 , Xbox Series , and PC via Steam and Microsoft Store on February 23, 2027. It will also be available via Game Pass.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Fable-Gameplay_11-12-26.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "c2724b50174a3e64",
+      "title": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+      "summary": "At Xbox's 25th anniversary celebration at its Fan Fest event in Seattle, id Software confirmed that it is working on a new game, wrapping up last year's Doom: The Dark Ages with the release of the upcoming Slaughter Mode on November 16.",
+      "owners": [
         "keleops",
+        "vgc",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "aa67f61f1c9bb5cd",
-        "309fbea8495365c0",
-        "ed4419677298702c",
-        "b27979bee8a285cc"
+        "c0a96c146fb35d44",
+        "e44df22b573b5e6a",
+        "10dacd1ac3a4b33a"
       ],
       "sources": [
         {
           "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us",
-          "title": "Intergalactic: The Heretic Prophet in 'Last Stages of Production,' Neil Druckmann calls it a Mash-up of Jak and Daxter, Uncharted and The Last of Us",
-          "published_at": "2026-11-12T12:47:30+00:00",
+          "url": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
+          "title": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+          "published_at": "2026-11-12T20:00:25+00:00",
           "kind": "press",
-          "text": "Naughty Dog boss Neil Druckmann has given a seemingly promising update on the studio's long-awaited Intergalactic: The Heretic Prophet , and offered a fresh tease of what to expect. PlayStation's upcoming, under-wraps space blockbuster remains largely a mystery, despite being revealed almost two years ago at The Game Awards in December 2024. We know only fragments of its story, and still have no idea when it will launch. Speaking at the Comic Creators Block Party 2026 , Druckmann said Intergalactic was now moving into its \"last stages of production\" and that the game was playable, with work now focusing on \"refining and polishing.\" More intriguingly still, Druckmann described Intergalactic as an amalgamation of three other famous Naughty Dog franchises, with elements included from each. \"We used to have another game franchise called Jak and Daxter,\" Druckmann began. \"And with this one, we really wanted to take everything we learned from that franchise, which is sci-fi fantasy, the action-adventure stuff we learned with Uncharted, the more kind of serious drama we got for The Last of Us, and it really is a combination of those three franchises. \"We wanted to expand our deep gameplay systems,\" he added. \"Can we sustain the cinematic storytelling we're used to doing and go even deeper with gameplay systems?\" From the little that's been revealed of Intergalactic so far, we know that it will be an alternate universe sci-fi tale starring a bounty hunter stranded on a distant planet in the far future. This bounty hunter is Jordan A. Mun, played by Tati Gabrielle, with her bounty targets played by a roster of famous faces including Tony Dalton, Kumail Nanjiani and Ashley Scott. Naughty Dog regular Troy Baker is also set to appear. Back in 2025, Intergalactic was reported to still be a couple of years from release , though PlayStation and Naughty Dog have refrained from narrowing its release window officially. That said, Druckmann recently indicated that the game would get a full unveiling at some point in the next 12 months . If it feels like a while since you've played something new from Naughty Dog, arguably PlayStation's most high-profile studio, you're not wrong. Naughty Dog's last all-new release was The Last of Us Part 2, which released back in 2020. The intervening years have seen the studio launch various remasters, and scrap a multiplayer The Last of Us spinoff after years of work. Intergalactic is just one of several projects in development at Naughty Dog, however, and fans now widely believe a new installment of Uncharted is also in the works . Tom Phillips is IGN's News Editor. You can reach Tom at tom_phillips@ign.com or find him on Bluesky @tomphillipseg.bsky.social",
-          "image": "https://assets-prd.ignimgs.com/2025/11/05/intergalacticthumb-1762367380714.png?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-is-entering-its-final-stage-of-development-with-more-to-come-in-2027/",
-          "title": "Intergalactic: The Heretic Prophet Is Entering Its Final Stage Of Development, With More To Come In 2027",
-          "published_at": "2026-11-12T13:21:19+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences/",
-          "title": "Intergalactic: The Heretic Prophet Has Some Unexpected Anime Influences",
-          "published_at": "2026-11-12T13:55:00+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "At Xbox's 25th anniversary celebration at its Fan Fest event in Seattle, id Software confirmed that it is working on a new game, wrapping up last year's Doom: The Dark Ages with the release of the upcoming Slaughter Mode on November 16. Xbox CEO Asha Sharma made the announcement on her X account, posting , \"Few studios have shaped the first-person shooter genre as much as id Software. Slaughter Mode comes to DOOM: The Dark Ages | Revelations on November 16, and the team is already working on its next game.\" id itself also posted , saying, \"We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin. It'll be some time before we're ready to share more but we can't wait for you to see what we're working on.\" Whether that next project is more Doom, or perhaps id returning to its other big franchise, Quake, remains to be seen. Or it might be neither of those and could be something new entirely. Although it's worth noting that id Software is under Xbox's Bethesda arm, and Bethesda boss Jill Braff recently told its development teams that \"we are shifting from a planning model primarily centered on what's next for each independent studio to one that focuses on our strongest franchises and determining the content roadmap that best serves our players and Bethesda as a whole.\" So perhaps Quake or a fourth Doom game are the more likely options? That remains to be seen, but what the last decade has proven is that Martin and the id Software team are very good at what they do. Doom (2016) successfully rebooted a dormant franchise, while Doom Eternal stood on its shoulders , and then Doom: The Dark Ages brought the focus back to the ground . All three were excellent. Doom: The Dark Ages' Slaughter Mode, meanwhile, is an endless single-player mode that will be added as a free update for those who've purchased Doom: The Dark Ages - Revelations DLC, which we reviewed and loved . Ryan McCaffrey is IGN's executive editor of previews and host of IGN's weekly Xbox show, Podcast Unlocked , and a co-host of Next-Gen Console Watch . He's a North Jersey guy, so it's \"Taylor ham,\" not \"pork roll.\" Debate it with him on Twitter at @DMC_Ryan .",
+          "image": "https://assets-prd.ignimgs.com/2026/11/10/doom-1794350833795.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
           "name": "Kotaku",
           "owner": "keleops",
-          "url": "https://kotaku.com/neil-druckman-intergalactic-the-heretic-prophet-2027-playable-polish-2000756229",
-          "title": "Neil Druckmann Says Intergalactic: The Heretic Prophet Is Fully Playable, Already Being Polished",
-          "published_at": "2026-11-12T11:30:18+00:00",
+          "url": "https://kotaku.com/id-software-says-its-working-on-its-next-game-directed-by-dooms-hugo-martin-2000756358",
+          "title": "Id Software Says It’s Working On Its Next Game, Directed By Doom’s Hugo Martin",
+          "published_at": "2026-11-12T21:33:06+00:00",
           "kind": "press",
-          "text": "Intergalactic: The Heretic Prophet Naughty Dog Naughty Dog has been especially quiet onÂ Intergalactic: The Heretic Prophet since its original announcement in late 2024. We learned in August of this year that mo-cap filming had wrapped, but even then the Last of Us studio was especially tight-lipped about when we might hear anything new about the sci-fi game. Rumors were there thatÂ IntergalacticÂ was aiming for a 2027 release, with unfortunate reports that Naughty Dog employees were being crunched yet again to achieve this, but it’s not until now that these rumors seem more concrete. Speaking to Patton Oswalt during an interview at Comic Creators Block Party 2026 (thanks PushSquare ), Druckmann revealed that the game is in the “last stage of production,” and is already fully playable. During a livestream from Revenge of TV on November 7, Patton Oswalt attempted to get Neil Druckmann to spill some new information about the forthcoming science-fiction bounty-hunting game, the first new IP from Naughty Dog in something like 300,000 years. Druckmann remained resolutely on-message, refusing to divulge any actual information about what happens in the game beyond naming the actors we already know are in it. “We’ve only teased it, so I can’t talk too much about it,” Druckmann told Oswalt, “but we’re kind of like at the last stages of production, where we can play it, and we’re refining it and polishing it, and I can’t wait to show it to the world.” Neil Druckmann habla sobre #Intergalactic ð ðï¸ \"Estamos en la Ãºltima etapa de producciÃ³n\" ðï¸ \"Lo estamos perfeccionando y puliendo\" ðï¸ \"Es una combinaciÃ³n de las franquicias de Jak, Uncharted y TLOU\". ðï¸ \"EnseÃ±aremos GAMEPLAY e HISTORIA en 2027\" pic.twitter.com/NPpqVHtUd2 — Intergalacticâ¢ ES (@IntergalacticES) November 11, 2026 “We’re going to show a lot next year,” Druckmann continued. “We’re gonna show gameplay, more of the story- I think we’re going to really surprise people with what they think the game is and what it actually is.” He then adds that the game “has a really big cast,” but that Naughty Dog wants people to learn who’s in the game by playing, rather than from earlier reveals. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Naughty Dog isn't saying much more than that Naughty Dog's next game is staying dark for the rest of this year While they wonât be reprising their characters from the game, Laura Bailey and Ian Alexander join the rapidly growing cast for the award winning television adaptation The PS5 exclusive has been MIA since its original reveal in 2024 Back-to-back broadcasts will kick off September",
-          "image": "https://kotaku.com/app/uploads/2026/11/intergalactic-straw-1200x675.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "431ff25bb75e387d",
-      "title": "GTA 6 map seemingly leaks at Selfridges merch drop",
-      "summary": "An apparent GTA 6 map is being shared around online, having been spotted at Selfridges in the UK",
-      "owners": [
-        "future-plc",
-        "valnet",
-        "vgc"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "2a4731564acaefe7",
-        "7fddc53084f5aac5",
-        "0a630cca387a161f"
-      ],
-      "sources": [
+          "text": "Doom and Wolfenstein studio id Software has begun work on a new project, according to the studio’s official social account , and it’s being directed by Hugo Martin, who previously directed both Doom: The Dark Ages and Doom: Eternal. We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin. It'll be some time before we're ready to share more but we can't wait for you to see what we're working on. — id Software (@idSoftware) November 12, 2026 This news comes over a year after the release of Doom: The Dark Ages . An expansion for The Dark Ages , “Revelations,” was out this past July, and a new “Slaughter Mode” is being implemented on Monday. Martin’s involvement makes it likely that this is yet another Doom game even though that was not explicitly stated, which would be in keeping with Xbox head Asha Sharma’s ambitions to focus on the company’s biggest franchises. Id Software is also the developer of Rage , and Quake , and numerous WolfensteinÂ games (though not the most recent entries in the series). This reassurance as to id Software’s current activities comes on the heels of a mass restructuring at Xbox in July that saw massive swaths of the company cut: over 90 individuals across multiple offices, including a large amount of its id Tech team (claims have suggested only one person was left working on id Tech, but Microsoft has said that is false and that “dozens” of people are working on it). Sources speaking to Kotaku following these layoffs said that the studio didn’t have any new games greenlit at the time, and that concepts kept shifting, suggesting that whatever this new project is, it’s very, very early in development. In the wake of those layoffs, Martin attempted to reassure the public that id Software was in a good spot, noting that the team was now the same size as it was when they made Doom (2016). “Look, the fact that we made a game that people like and is critical and commercially successfulâlike I said, itâs doing very well related to the forecast and stuffâthatâs good for everyone, for the people at the studio, for the people who, unfortunately, we had to say goodbye to, I think that helps everyone and we really appreciate your support,â he said in a livestream. âBut what matters the most is that the the games are good and Iâm so happy that people, I donât knowâ¦ Itâs just a good thing for everybody, itâs going to help.” Just last month, studio co-director Marty Stratton said that id Software was “incredibly viable.” Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The studio is collaborating more closely than ever with MachineGames News of Richard Gray's death was shared online by his wife Commemorating three decades of the transformative 3D shooter, id Software releases a surprise new expansion and limited merch collection with composer Trent Reznor id Software vet Chris Hays says entire departments have been 'gutted' What comes next is hard to say due to Xbox laying off many id employees",
+          "image": "https://kotaku.com/app/uploads/2025/05/250cc967076310c00db170e16f5039a1-1200x675.jpg"
+        },
         {
           "name": "Video Games Chronicle",
           "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/gta-6-map-seemingly-leaks-at-selfridges-merch-drop/",
-          "title": "GTA 6 map seemingly leaks at Selfridges merch drop",
-          "published_at": "2026-11-12T15:40:43+00:00",
+          "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+          "title": "Id Software confirms it’s working on a new game after layoffs",
+          "published_at": "2026-11-12T21:38:33+00:00",
           "kind": "press",
-          "text": "An apparent GTA 6 map is being shared around online, having been spotted at Selfridges in the UK Grand Theft Auto 6’s map appears to have leaked early, thanks to a merch drop in the UK. Pictures coming out of the GTA 6 collection at Selfridges in London, England , show what appears to be a stylised version of the map used in GTA 6. If true, this reveals some locations from the game ahead of its November 19 release. The clearest image reportedly comes from an Instagram account that has since been deleted. However, someone else is sharing images of what appears to be the exact same map folded up, as we can spot similarities between the pictures of these maps from these two different sources. Selfridges in Manchester Exchange Square have got the #GTA6 Collectors Set on display and the Map folded up in the display too.. this means somebody who works there has seen it fully ð here what I snapped ð @RockstarGames #GTAVI pic.twitter.com/2qfyllsdqI An image of another map, also incredibly stylised, is being shared around, with some hypothesising that it will be on the other side of the map shared above. However, we do not currently have any other sources sharing images of this alternative map. Given that the map is folded up at the event itself, it would seem that it wasn’t supposed to be shared publicly at this stage. The map appears to be part of the GTA 6 Collector’s Edition, which is not being sold at Selfridges. Rather, it appears to have simply been a display item to accompany the outlet’s partnership with Rockstar . The Collector’s Edition will be shipped out in time for November 19, the game’s official release date. This all adds to what has been a marketing campaign full of leaks from start to finish. With a 13-year wait between GTA 5 and GTA 6, fans were left clamouring for information wherever they could find it. The worst of these leaks saw a group or individual going by the name Cyberleek seemingly gain access to a playable build of the game months before release. They then started sharing full gameplay leaks before Rockstar’s official gameplay reveal via Netflix .",
-          "image": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic01.jpg"
+          "text": "Asha Sharma says id Software is “already working on its next game”, despite recent layoffs Id Software is working on its next game, Xbox has confirmed. This was revealed as part of the ongoing Xbox FanFest. CEO Asha Sharma confirmed the news on social media, saying that the team at id Software is “already working on its next game” after Doom: The Dark Ages and its recent expansion. However, this also comes shortly after id Software was severely impacted by layoffs across Xbox . 136 workers lost their jobs in total, and it was claimed that id Software had been “ relegated to support studio size “. Xbox seems eager to dispel this claim, announcing a new game from the team before there’s anything to actually show for it. We're incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin. It'll be some time before we're ready to share more but we can't wait for you to see what we're working on. “We’re incredibly excited about our next project, a new game from our teams in Texas and Frankfurt, with game direction once again by Hugo Martin ” reads a post made by id Software in response to this announcement. “It’ll be some time before we’re ready to share more but we can’t wait for you to see what we’re working on.” This indicates that the game is in the very early stages of development, as id Software is already trying to ensure that no one expects a trailer anytime soon. That isn’t surprising given how much smaller the team is now, and the fact that it just shipped Doom: The Dark Age’s DLC, Revelations. Hugo Martin has been with id Software since 2013. He was the creative director for Doom (2016) and Doom: Eternal, and the game director for Doom: The Dark Ages. Incidentally, former id Software devs made their own announcement today: the founding of a new studio . Hidden Horses is crowdfunding for its first game, a single-player FPS called Danger Pay. The studio is made up of more than 20 former id Software developers who were caught up in the Xbox layoffs earlier this year.",
+          "image": "https://www.videogameschronicle.com/files/2021/06/id-software-sign.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "d029bf8dea1e1434",
+      "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
+      "summary": "It's no secret that the market for physical video games is drying up, but don't expect physical media for gaming to go away entirely anytime soon, or ever, according to Take-Two's Strauss Zelnick. He told The Game Business that it \"may not be the end\" for physical media entirely in games, even with Sony killing off PlayStation discs in 2028 . He said there will \"always be some physical business\"...",
+      "owners": [
+        "fandom",
+        "insider-gaming",
+        "keleops"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "6dc30af39b31021a",
+        "890dbabcc02ce5a9",
+        "e9a44ad2875e50ec"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small/",
+          "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
+          "published_at": "2026-11-12T20:12:18+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
         },
         {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-map-leonidas-leak-merch-drop/",
-          "title": "GTA 6 Map Seemingly Leaks at Merch Drop Event",
-          "published_at": "2026-11-12T17:14:54+00:00",
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/take-two-ceo-says-discs-will-become-gamings-vinyl-its-going-to-be-a-very-small-part-of-the-business-2000756312",
+          "title": "Take-Two CEO Says Discs Will Become Gaming’s Vinyl: ‘It’s Going To Be A Very Small Part Of The Business’",
+          "published_at": "2026-11-12T17:06:51+00:00",
           "kind": "press",
-          "text": "A physical map of the game appears to have been accidentally displayed With Grand Theft Auto 6 , Rockstar Games has already experienced some of the highest-profile leaks in gaming history, and it seems at least one more has snuck in before the game’s impending Nov. 19 release . Pictures are circulating of what appears to be a physical poster of GTA 6 ’s map . “The Goodtime State,” the top of the map reads. This refers to Leonida, the game’s fictionalized rendition of Florida. The map shows various counties that make up the game, with cartoonish characters highlighting each area’s defining characteristics. Two souped-up cars are shown racing to the west in Cellhorn, while a lowrider and an engine are shown in Cronstown to the east. Leonard County has what appears to be a cowboy with assless chaps playing golf, while Mariana County seems like it will be full of gators and fish. And of course, there’s Vice City — the main locale of Rockstar’s 2002 GTA 3 follow-up — which will be one of the main locations in GTA 6. The map appears to have leaked as part of the ongoing merch events at Selfridges stores in London. One user claimed that the map was shown in a display highlighting what will be included in GTA 6 ’s $399.99 Collector’s Box . Rockstar’s description of the box ( which doesn’t include a copy of the game ) lists a “Double-Sided Souvenir Poster with Map of Leonida.” While the map shown in the display isn't entirely visible , the image above shows it unfurled, with one user speculating the picture “originated from a naughty Selfridges employee.” Another image posted on Reddit shows the backside of the map, which offers a topographical view of the fictional state. Rockstar previously revealed that GTA 6 will let players freely explore Leonida beyond Vice City, where players can perform activities like kayaking, mini golf, street racing, jet skiing, parachuting, sunbathing, cave diving, nightclubbing, base-jumping, and more. The game has been in development for quite a while, with principal production extending back to 2018 after the launch of Red Dead Redemption 2. We've gone 13 years without a new Grand Theft Auto. As you might expect, GTA 6 seems like it will be huge: Rockstar previously revealed that the game’s map is around three times larger than Red Dead Redemption 2 . One employee said that it took them around 80 hours to get through the game’s main story.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg?w=1600&h=900&fit=crop"
+          "text": "Discs GTA 6 Physical Games PlayStation Rockstar Games Vinyl Grand Theft Auto 6 is the first major console game to release without a physical version. Take-Two CEO Strauss Zelnick doesn’t think it’ll be the last. Physical games will hang around, but not in any mass-market sort of way. He says they’ll become closer to the equivalent of vinyl records in music. âIt may not be the end, but listen, weâve been talking, you and I, for a long time,â he told The Game Business ‘ Christopher Dring in a new interview. âI predicted that digital distribution would be well over 90 percent of the business more than 10 years ago. I donât always get it right, but this one I got right. Will there always be some physical business? Yes, in the same way that thereâs still a vinyl business in recorded music. But itâs going to be a very small part of the business.â Physical music accounted for just over 10 percent of total music revenue in the first half of 2026, according to estimates by theÂ Recording Industry Association of America (RIAA) . That comes out to $581 million, roughly 80 percent of which was earned through sales of vinyl. According to Circana , physical game sales in the U.S. last year hit a 30-year low of $1.5 billion. That was about 2.5 percent of the $60.7 billion consumers spent on âvideo game hardware, content, and accessoriesâ in 2025. Physical game sales are already a smaller chunk of overall game spending than vinyl is for music, and that’s before PlayStation game discs go away entirely in 2028. Game discs becoming vinyl would actually be a rosier outlook than where things currently seem to be trending. We still don’t know how Microsoft will approach physical media with the launch of its Project Helix family of next-gen consoles, and Nintendo has confirmed it has no plans to abandon physical games during the Switch 2 era, even if it’s already taken a half-step in that direction with game key cards. Will GTA 6 ever get a disc version? Vinyl has been a way for music lovers to immortalize their favorite albums. Surely the biggest game launch ever deserves something similar? Zelnick previously shot down rumors that GTA 6 wasn’t coming to disc. He’s now demurred on whether it could get a physical release in the future. That sort of âinformation always comes from our labels,” he told Variety this week, leaving the ball in Rockstar’s court to decide. GTA 6 is getting a vinyl release for its soundtrack , however. Seem a bit hypocritical? It’s probably less surprising when, as revealed in Take-Two’s latest financials, only 2 percent of its current revenue comes from game discs . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Unfortunately, South Korea's GCRB may have just indirectly confirmed that GTA 6 's protagonists cannot get naked in the retail version of the game The video fooled many online who thought it was real life Everybody will get to clock-out on November 19th How does Rockstar Games' seminal open-world sequel hold up 13 years later? Sony's current console just crossed the 100 million mark Others are showing some grace to what could be the most detailed open-world game ever",
+          "image": "https://kotaku.com/app/uploads/2026/11/vinyl-gtat-6-1200x675.jpg"
         },
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/physical-gta-6-map-leaks-and-i-need-to-know-if-its-teasing-another-ufo-easter-egg/",
-          "title": "Physical GTA 6 map leaks, and I need to know if it's teasing another UFO Easter egg",
-          "published_at": "2026-11-12T18:19:00+00:00",
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/strauss-zelnick-physical-media-future/",
+          "title": "Take-Two CEO Says Physical Games Still Have a Future",
+          "published_at": "2026-11-12T21:28:50+00:00",
           "kind": "press",
-          "text": "Another map leak is teasing locations across Leonida One version of the GTA 6 map has apparently leaked. The low-detail map doesn't reveal the full network of roads and areas in the game, but it does give us early confirmation of some in-game locations and a general outline of Leonida's highway system. The GTA 6 map 's art matches preview images from the $400 GTA 6 Collector's Box , so it's likely the same \"double-sided souvenir poster\" included in that package. Images of the map started circulating on social media today, seemingly originating from a GTA 6 display at the Selfridges department store in the UK. Notably, images of another stylized poster map are also circulating , but it's much less clear if this one is real. Unlike the other map, there's only a single image of this one, and barring a better look I'd wager this one is either AI-generated or cleverly photoshopped. As for the likely real map, it names GTA 6 locations across Leonida, from Little Cuba on the outskirts of Vice City to Pelican Valley far to the south. Bits of art suggest the kinds of activities and characters that'll be at each location – personally, I want to know why there's a UFO hovering over Breakwater Quarry. Are we poised for a comeback for one of the big GTA 5 Easter eggs ? But my biggest question is whether this is the same map Rockstar will soon be selling for $1 . I hope not – the maps that had been included with previous GTA games were more realistic depictions of road networks, and did a lot to help build immersion in those games. This new map is fun, but it's just not the same. Check out our guide to the best headsets for GTA 6 if you want the best audio quality for Rockstar's latest 4. Best pro Xbox: Nacon Revolution X Unlimited Weekly digests, tales from the communities you love, and more Dustin Bailey joined the GamesRadar team as a Staff Writer in May 2022, and is currently based in Missouri. He's been covering games (with occasional dalliances in the worlds of anime and pro wrestling) since 2015, first as a freelancer, then as a news writer at PCGamesN for nearly five years. His love for games was sparked somewhere between Metal Gear Solid 2 and Knights of the Old Republic, and these days you can usually find him splitting his entertainment time between retro gaming, the latest big action-adventure title, or a long haul in American Truck Simulator. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/GrtqtSun9vQVcmcsb63nDh-1920-80.jpg"
+          "text": "Strauss Zelnick compares physical games to vinyl, saying a small market will remain even as digital makes up 98% of Take-Two ’s business. We are just a week away from the release of Grand Theft Auto 6, and while it is a highly anticipated game that is breaking pre-order records, it’s also controversial because it does not have a physical disc release. Despite this, Strauss Zelnick still believes physical media has a place in gaming, and he made his case in a recent interview. Speaking with Christopher Dring of The Game Business , Zelnick compared physical games to the vinyl industry, noting that a group of collectors will always want to own physical versions of the games they play. Still, he stresses that physical media will be a very small part of the video game industry moving forward. “It may not be the end, but listen, we’ve been talking, you and I, for a long time,” he said. “I predicted that digital distribution would be well over 90% of the business more than 10 years ago. I don’t always get it right, but this one I got right. Will there always be some physical business? Yes, in the same way that there’s still a vinyl business in recorded music. But it’s going to be a very small part of the business.” Grand Theft Auto 6 will release on November 19. It will be available on PlayStation 5 and XBOX Series consoles. For those who still have last-gen technology on the XBOX side, Microsoft’s gaming wing recently announced that cloud play is an option for them to experience GTA 6. What do you think? Will physical media always have a place in gaming? Share your thoughts about this story and all others in our official Discord server. For more coverage on Insider Gaming, check out the record-breaking pre-order sales information for Grand Theft Auto 6. Don’t forget to sign up for our weekly newsletter , too. I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/08/ZelnickFTD.jpg"
         }
       ]
     }
