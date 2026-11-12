@@ -1937,7 +1937,7 @@
     "slug": "gta6-parece-gta5-cabelo",
     "data": "2026-11-12",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "A física de cabelo do GTA 5 contra a do GTA 6 💇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #rockstargames #pixelzada",
     "tentativas": 0,
@@ -1951,6 +1951,25 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Moldura"
+    },
+    "publicado": {
+      "em": "2026-11-12T11:02:41-03:00",
+      "media_id": "18230680105328158",
+      "permalink": "https://www.instagram.com/reel/DfpOa0MDfNa/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af5c72c53c46c7311dce146",
+        "em": "2026-11-12T11:03:23-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af5c737d2a6e57bf9b973fc",
+        "em": "2026-11-12T11:03:34-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=Tq6YC-c_0UA"
+      }
     }
   },
   {
