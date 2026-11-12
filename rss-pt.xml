@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 10:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:41:36 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Miami real x Vice City: os lugares que aparecem em GTA 6</title>
+      <link>https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/</guid>
+      <description>Quais lugares reais de Miami aparecem em GTA 6? Veja Ocean Drive, Wynwood, Kaseya Center e mais, além de como a Rockstar pesquisou todo o sul da Flórida.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
+    </item>
     <item>
       <title>Black Forest Games deixa a THQ Nordic e vira independente</title>
       <link>https://pixelzada.com.br/pt/black-forest-games-deixa-thq-nordic-third-signal/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/bit-reactor-star-wars-zero-company-demissoes-apos-recontratar/</guid>
       <description>A Bit Reactor, de Star Wars Zero Company, demitiu parte da equipe um mês após recontratar funcionários. Veja o que se sabe, o histórico e o que falta saber.</description>
       <category>Indústria</category>
-      <pubDate>Sun, 08 Nov 2026 18:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>O celular de GTA 6: apps, Snapmatic e o que Jason e Lucia não podem postar</title>
-      <link>https://pixelzada.com.br/pt/gta-6-celular-apps-redes-sociais-snapmatic/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-celular-apps-redes-sociais-snapmatic/</guid>
-      <description>Jason e Lucia não podem postar no Snapmatic, mas o celular de GTA 6 tem banco, carona, scanner de carros e mensagens. Veja os apps vistos antes do lançamento.</description>
-      <category>GTA 6</category>
       <pubDate>Sun, 08 Nov 2026 18:40:08 +0000</pubDate>
     </item>
   </channel>

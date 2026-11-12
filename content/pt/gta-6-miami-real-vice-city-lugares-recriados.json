@@ -111,7 +111,9 @@
     "query": "GTA 6 Vice City",
     "alt": "Arte oficial de Vice City, a versão de Miami em GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/poster.03hy0_cb3li0-.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-miami-real-vice-city-lugares-recri-a85ce7b8.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -181,5 +183,7 @@
       "title": "All New GTA 6 Features Revealed By Game Informer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T12:41:35+00:00",
+  "updated_at": "2026-11-12T12:41:35+00:00"
 }
