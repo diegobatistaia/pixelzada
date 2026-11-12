@@ -2168,7 +2168,7 @@
     "slug": "link-ja-vi-isso-antes",
     "data": "2026-11-12",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Com quem ele andou treinando? Eu já vi isso antes 💀\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #thelegendofzelda #nintendo #games #pixelzada",
     "tentativas": 0,
@@ -2182,6 +2182,25 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-12T17:00:36-03:00",
+      "media_id": "18081508130415622",
+      "permalink": "https://www.instagram.com/reel/Dfp3YVmAQME/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af61b0ef2ce3e7376ddbe33",
+        "em": "2026-11-12T17:01:17-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af61b1aa4b3d60a98fb960b",
+        "em": "2026-11-12T17:01:29-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=01Y5zPCVB8s"
+      }
     }
   },
   {
