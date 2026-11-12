@@ -1976,7 +1976,7 @@
     "slug": "trailer-gta-san-andreas-2004",
     "data": "2026-11-12",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "O ano era 2004, e foi assim que a Rockstar apresentou GTA San Andreas 🌉\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #ps2 #nostalgia #rockstargames #pixelzada",
     "tentativas": 0,
@@ -1989,6 +1989,25 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-12T12:01:13-03:00",
+      "media_id": "18070477859787953",
+      "permalink": "https://www.instagram.com/reel/DfpVHY1FozJ/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af5d4f5b44ae54108f09768",
+        "em": "2026-11-12T12:02:11-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af5d500df65abceb03c7228",
+        "em": "2026-11-12T12:02:23-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=vbK2E_4gpic"
+      }
     }
   },
   {
