@@ -18,7 +18,9 @@
     "query": "Big Walk House House",
     "alt": "Cena de Big Walk, jogo cooperativo da House House",
     "url": "https://assetsio.gnwcdn.com/big-walk-house-house.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/big-walk-house-house-ia-generativa-igf-j-dfbb3eff.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "Big Walk, IGF and AI"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -114,5 +116,7 @@
       "text": "A Eurogamer observa que a revelação deve deixar uma sombra sobre um dos grandes destaques do ano, jogo ao qual o site deu cinco estrelas na análise. Por enquanto, não há decisão pública do IGF sobre o caso. A Pixelzada acompanha.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-12T00:41:17+00:00",
+  "updated_at": "2026-11-12T00:41:17+00:00"
 }

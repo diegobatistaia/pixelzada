@@ -18,7 +18,10 @@
     "query": "Harada Series S",
     "alt": "Katsuhiro Harada em painel na Console Game Developers Conference sobre o Xbox Series S",
     "url": "https://www.videogameschronicle.com/files/2026/11/harada-series-s.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/harada-tekken-xbox-series-s-filho-mais-f-13836cc9.jpg",
+    "source_url": "",
+    "foco": "21% 19%"
   },
   "sources": [
     {
@@ -40,7 +43,7 @@
       "title": "Tekken boss Katsuhiro Harada says developing for Xbox Series S feels like extra work"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -130,5 +133,7 @@
       "text": "Vale lembrar que o tom era de brincadeira, mas o recado técnico foi sério. A Pixelzada acompanha o assunto e avisa se a Microsoft responder.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-12T00:41:18+00:00",
+  "updated_at": "2026-11-12T00:41:18+00:00"
 }

@@ -18,7 +18,9 @@
     "query": "Marathon Symbiosis",
     "alt": "Arte de divulgação da atualização Symbiosis de Marathon",
     "url": "https://blog.playstation.com/tachyon/2048/11/475e02e6da09723fe2dd0469175d593a7c1fee39.jpg",
-    "credit": "Imagem: PlayStation"
+    "credit": "Imagem: PlayStation",
+    "path": "/assets/img/marathon-symbiosis-8-de-dezembro-novos-m-dfd063d2.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -35,7 +37,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -126,5 +128,7 @@
       "text": "Para quem se afastou do jogo, o modo PvE de Expedition e a semana de teste são os principais atrativos para voltar. A Bungie ainda não detalhou todas as mudanças, e a Pixelzada atualiza esta matéria quando houver novas informações.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-12T00:41:18+00:00",
+  "updated_at": "2026-11-12T00:41:18+00:00"
 }

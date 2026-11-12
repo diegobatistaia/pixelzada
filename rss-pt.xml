@@ -5,8 +5,32 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:41:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:41:19 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Harada, de Tekken, diz que queria que o Xbox Series S não existisse</title>
+      <link>https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/</guid>
+      <description>Katsuhiro Harada, ex-diretor de Tekken, criticou o Xbox Series S em painel na Coreia e brincou com um Helix S. Veja a resposta do dev de Cyberpunk 2077.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 12 Nov 2026 00:41:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Marathon: atualização Symbiosis chega em 8 de dezembro com PvE e Bishop</title>
+      <link>https://pixelzada.com.br/pt/marathon-symbiosis-8-de-dezembro-novos-modos-bishop/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/marathon-symbiosis-8-de-dezembro-novos-modos-bishop/</guid>
+      <description>A atualização Symbiosis de Marathon chega em 8 de dezembro com modo PvE Expedition, Deathmatch 3v3, o Runner Bishop, novas armas e semana de teste grátis.</description>
+      <category>Lançamentos</category>
+      <pubDate>Thu, 12 Nov 2026 00:41:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Walk usou IA 'com parcimônia', revela a House House após polêmica no IGF</title>
+      <link>https://pixelzada.com.br/pt/big-walk-house-house-ia-generativa-igf-jurados/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/big-walk-house-house-ia-generativa-igf-jurados/</guid>
+      <description>A House House, de Big Walk, revelou uso pontual de IA generativa após jurados do IGF se posicionarem. Veja o que o estúdio disse e o que os jurados responderam.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 12 Nov 2026 00:41:17 +0000</pubDate>
+    </item>
     <item>
       <title>Florida Man em GTA 6: as notícias reais por trás dos trailers</title>
       <link>https://pixelzada.com.br/pt/gta-6-florida-man-memes-noticias-reais-leonida/</link>
@@ -222,30 +246,6 @@
       <description>Rumor: a Ubisoft teria dois novos Assassin's Creed, um na Roma Antiga (Mars) e um mobile em Jerusalém (Pocket). Nada foi confirmado. Veja o que se sabe.</description>
       <category>Indústria</category>
       <pubDate>Sun, 08 Nov 2026 18:40:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mod leva o multiplayer de Mass Effect 3 para a Legendary Edition</title>
-      <link>https://pixelzada.com.br/pt/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/mass-effect-3-multiplayer-legendary-edition-mod-me3tweaks/</guid>
-      <description>Mod gratuito leva o multiplayer de Mass Effect 3 à Legendary Edition no PC. Veja quem fez, os novos modos Coalition e Unified e como baixar no Nexus Mods.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 08 Nov 2026 16:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sony adia o Pulse Elevate por tempo indeterminado a uma semana do lançamento</title>
-      <link>https://pixelzada.com.br/pt/sony-adia-pulse-elevate-caixas-de-som-problema-de-producao/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/sony-adia-pulse-elevate-caixas-de-som-problema-de-producao/</guid>
-      <description>A Sony adiou por tempo indeterminado o Pulse Elevate, que sairia em 12 de novembro, por um problema de produção. Veja o que se sabe sobre as pré-vendas.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 08 Nov 2026 16:39:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Veículos em GTA 6: roubar carro ficou mais difícil e tem combustível</title>
-      <link>https://pixelzada.com.br/pt/gta-6-veiculos-roubar-carro-combustivel-garagens/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-veiculos-roubar-carro-combustivel-garagens/</guid>
-      <description>Roubo de carro mais difícil, combustível, garagens e transporte público: o que a imprensa já levantou dos veículos de GTA 6 antes do lançamento em 19/11.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 08 Nov 2026 12:40:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
