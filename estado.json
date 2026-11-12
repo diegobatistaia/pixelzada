@@ -7,38 +7,40 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-12T09:45-03:00",
+ "atualizado": "2026-11-12T17:51-03:00",
  "hoje": {
   "data": "2026-11-12",
   "reels": {
    "meta": 15,
-   "publicados": 1,
-   "deviam_ter_saido": 3,
+   "publicados": 8,
+   "deviam_ter_saido": 11,
    "atrasados": [],
-   "horarios_vazios_hoje": [
-    "10:00"
-   ]
+   "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 1,
+   "deviam_ter_saido": 5,
    "atrasados": [
-    "09:00"
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00"
    ],
    "pautas_esperando": 2
   }
  },
  "fila_reels": {
-  "agendados": 52,
+  "agendados": 46,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.5,
+  "dias_de_reserva": 3.1,
   "grade_cheia_ate": "2026-11-14",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-12",
-    "agendados": 11,
+    "agendados": 4,
     "meta": 15
    },
    {
@@ -53,19 +55,19 @@
    },
    {
     "data": "2026-11-15",
-    "agendados": 11,
+    "agendados": 12,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 186,
-  "hoje": 2,
+  "total": 192,
+  "hoje": 8,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Miami real x Vice City: os lugares que aparecem em GTA 6",
-   "url": "https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/",
-   "em": "2026-11-12T09:41:35-03:00"
+   "titulo": "Intergalactic está nas últimas etapas de produção, diz Druckmann",
+   "url": "https://pixelzada.com.br/pt/intergalactic-heretic-prophet-ultimas-etapas-producao-druckmann/",
+   "em": "2026-11-12T17:41:11-03:00"
   }
  },
  "pesquisa": {
@@ -75,29 +77,29 @@
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 80,
+  "seguidores": 84,
   "seguindo": 5,
-  "posts": 244,
-  "alcance_7d": 32796,
-  "views_7d": 44205,
+  "posts": 251,
+  "alcance_7d": 33955,
+  "views_7d": 45888,
   "reels_7d": {
-   "quantidade": 33,
-   "views_total": 44555,
-   "views_mediana": 176,
+   "quantidade": 40,
+   "views_total": 46320,
+   "views_mediana": 173,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-12": 0,
-    "2026-11-11": 2250,
+    "2026-11-12": 1228,
+    "2026-11-11": 2268,
     "2026-11-10": 2042,
     "2026-11-09": 1530,
-    "2026-11-08": 38733
+    "2026-11-08": 39252
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 38491,
-     "alcance": 28071,
-     "curtidas": 1195,
+     "views": 39010,
+     "alcance": 28373,
+     "curtidas": 1223,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -111,8 +113,8 @@
     },
     {
      "legenda": "Diga adeus a esse glitch no remake de Ocarina of Time 👀",
-     "views": 392,
-     "alcance": 327,
+     "views": 393,
+     "alcance": 328,
      "curtidas": 11,
      "link": "https://www.instagram.com/reel/DfnZkObDMCq/",
      "em": "2026-11-11T18:02:11-03:00"
@@ -137,10 +139,34 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 87,
-  "falhas_24h": 4,
-  "sem_resolver": 1,
+  "rodadas_24h": 80,
+  "falhas_24h": 7,
+  "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-12T15:04:16-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43275984952",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-12T15:03:11-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43275794896",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-12T14:19:30-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43268206557",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-12T11:05:02-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43233533706",
+    "resolvido": true
+   },
    {
     "workflow": "Reels",
     "em": "2026-11-12T09:19:21-03:00",
@@ -157,12 +183,6 @@
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-12T06:04:19-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43188193998",
-    "resolvido": false
-   },
-   {
-    "workflow": "Buffer",
-    "em": "2026-11-11T09:47:52-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43023445565",
     "resolvido": true
    }
   ]
@@ -171,8 +191,8 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 17,
-   "youtube": 14
+   "tiktok": 24,
+   "youtube": 21
   },
   "erros_hoje": 0
  },
@@ -202,7 +222,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 38733
+   "views_reels": 39252
   },
   {
    "data": "2026-11-09",
@@ -229,16 +249,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2250
+   "views_reels": 2268
   },
   {
    "data": "2026-11-12",
-   "reels": 1,
+   "reels": 8,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 2,
-   "views_reels": 0
+   "materias": 8,
+   "views_reels": 1228
   }
  ],
  "seguidores_por_dia": [
@@ -260,21 +280,13 @@
   },
   {
    "data": "2026-11-12",
-   "seguidores": 80
+   "seguidores": 84
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00"
-  },
-  {
-   "nivel": "amarelo",
-   "texto": "1 horário(s) de Reel ainda sem vídeo hoje"
-  },
-  {
-   "nivel": "vermelho",
-   "texto": "1 falha(s) no GitHub ainda sem resolver"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
   }
  ]
 }
