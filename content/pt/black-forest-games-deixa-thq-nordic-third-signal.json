@@ -100,7 +100,9 @@
     "query": "Black Forest Games",
     "alt": "Imagem de divulgação do anúncio da independência da Black Forest Games",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Black-Forest-Games-Ann_11-11-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/black-forest-games-deixa-thq-nordic-thir-542d9049.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -122,5 +124,7 @@
       "title": "Destroy All Humans remake dev Black Forest has bought itself out from THQ Nordic"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-12T10:44:02+00:00",
+  "updated_at": "2026-11-12T10:44:02+00:00"
 }

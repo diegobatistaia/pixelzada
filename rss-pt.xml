@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:44:03 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Black Forest Games deixa a THQ Nordic e vira independente</title>
+      <link>https://pixelzada.com.br/pt/black-forest-games-deixa-thq-nordic-third-signal/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/black-forest-games-deixa-thq-nordic-third-signal/</guid>
+      <description>A Black Forest Games, dos remakes de Destroy All Humans, se separou da THQ Nordic após uma compra pela diretoria e fundou o grupo independente Third Signal.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 12 Nov 2026 10:44:02 +0000</pubDate>
+    </item>
     <item>
       <title>Harada, de Tekken, diz que queria que o Xbox Series S não existisse</title>
       <link>https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/</link>
@@ -238,14 +246,6 @@
       <description>Jason e Lucia não podem postar no Snapmatic, mas o celular de GTA 6 tem banco, carona, scanner de carros e mensagens. Veja os apps vistos antes do lançamento.</description>
       <category>GTA 6</category>
       <pubDate>Sun, 08 Nov 2026 18:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rumor: Assassin's Creed teria jogo na Roma Antiga e outro no celular, em Jerusalém</title>
-      <link>https://pixelzada.com.br/pt/assassins-creed-rumor-roma-antiga-mars-pocket-jerusalem/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/assassins-creed-rumor-roma-antiga-mars-pocket-jerusalem/</guid>
-      <description>Rumor: a Ubisoft teria dois novos Assassin's Creed, um na Roma Antiga (Mars) e um mobile em Jerusalém (Pocket). Nada foi confirmado. Veja o que se sabe.</description>
-      <category>Indústria</category>
-      <pubDate>Sun, 08 Nov 2026 18:40:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
