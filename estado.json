@@ -7,34 +7,38 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-13T06:32-03:00",
+ "atualizado": "2026-11-13T14:45-03:00",
  "hoje": {
   "data": "2026-11-13",
   "reels": {
    "meta": 15,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 6,
+   "deviam_ter_saido": 8,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 3,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 44,
+  "agendados": 54,
   "meta_por_dia": 15,
-  "dias_de_reserva": 2.9,
-  "grade_cheia_ate": "2026-11-14",
+  "dias_de_reserva": 3.6,
+  "grade_cheia_ate": "2026-11-16",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-13",
-    "agendados": 15,
+    "agendados": 7,
     "meta": 15
    },
    {
@@ -44,58 +48,64 @@
    },
    {
     "data": "2026-11-15",
-    "agendados": 14,
+    "agendados": 15,
     "meta": 15
+   },
+   {
+    "data": "2026-11-16",
+    "agendados": 17,
+    "meta": 17
    }
   ]
  },
  "site": {
-  "total": 194,
-  "hoje": 0,
+  "total": 199,
+  "hoje": 5,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "id Software confirma novo jogo dirigido por Hugo Martin",
-   "url": "https://pixelzada.com.br/pt/id-software-confirma-novo-jogo-hugo-martin-slaughter-mode/",
-   "em": "2026-11-12T21:40:34-03:00"
+   "titulo": "Resident Evil Requiem leva quatro prêmios no Golden Joystick Awards 2026",
+   "url": "https://pixelzada.com.br/pt/resident-evil-requiem-golden-joystick-awards-2026-jogo-do-ano/",
+   "em": "2026-11-13T13:52:05-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "11/11/2026 19:06",
+  "ultima_coleta": "13/11/2026 11:54",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 85,
+  "seguidores": 86,
   "seguindo": 5,
-  "posts": 255,
-  "alcance_7d": 34818,
-  "views_7d": 47214,
+  "posts": 261,
+  "alcance_7d": 35715,
+  "views_7d": 48368,
   "reels_7d": {
-   "quantidade": 44,
-   "views_total": 47629,
-   "views_mediana": 175,
+   "quantidade": 50,
+   "views_total": 48947,
+   "views_mediana": 173,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-12": 2092,
-    "2026-11-11": 2270,
-    "2026-11-10": 2045,
-    "2026-11-09": 1530,
-    "2026-11-08": 39692
+    "2026-11-13": 1014,
+    "2026-11-12": 2120,
+    "2026-11-11": 2274,
+    "2026-11-10": 2046,
+    "2026-11-09": 1532,
+    "2026-11-08": 39961
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 39450,
-     "alcance": 28552,
-     "curtidas": 1238,
+     "views": 39719,
+     "alcance": 28831,
+     "curtidas": 1254,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 424,
-     "alcance": 337,
+     "views": 426,
+     "alcance": 338,
      "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
@@ -117,26 +127,44 @@
      "em": "2026-11-09T10:17:06-03:00"
     },
     {
-     "legenda": "13 anos depois e o trem do GTA 5 continua invicto 🚂",
-     "views": 242,
+     "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liber",
+     "views": 259,
      "alcance": 167,
-     "curtidas": 6,
-     "link": "https://www.instagram.com/reel/DffrD6_lP9c/",
-     "em": "2026-11-08T18:01:04-03:00"
+     "curtidas": 9,
+     "link": "https://www.instagram.com/reel/DfrlTmNgoiO/",
+     "em": "2026-11-13T09:01:41-03:00"
     }
    ]
   }
  },
  "falhas": {
-  "rodadas_24h": 95,
-  "falhas_24h": 9,
-  "sem_resolver": 1,
+  "rodadas_24h": 100,
+  "falhas_24h": 6,
+  "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-13T13:46:57-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43466168879",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-13T11:56:36-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43447574813",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-13T07:52:21-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43412459256",
+    "resolvido": true
+   },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-13T06:04:20-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43398252953",
-    "resolvido": false
+    "resolvido": true
    },
    {
     "workflow": "Pesquisa de vídeos",
@@ -149,42 +177,6 @@
     "em": "2026-11-12T19:04:26-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43316427363",
     "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-12T15:04:16-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43275984952",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-12T15:03:11-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43275794896",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-12T14:19:30-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43268206557",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-12T11:05:02-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43233533706",
-    "resolvido": true
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-12T09:19:21-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43216832598",
-    "resolvido": true
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-12T06:58:58-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43196251185",
-    "resolvido": true
    }
   ]
  },
@@ -192,8 +184,8 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 30,
-   "youtube": 27
+   "tiktok": 33,
+   "youtube": 33
   },
   "erros_hoje": 0
  },
@@ -214,7 +206,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 39692
+   "views_reels": 39961
   },
   {
    "data": "2026-11-09",
@@ -223,7 +215,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1530
+   "views_reels": 1532
   },
   {
    "data": "2026-11-10",
@@ -232,7 +224,7 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 2045
+   "views_reels": 2046
   },
   {
    "data": "2026-11-11",
@@ -241,7 +233,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2270
+   "views_reels": 2274
   },
   {
    "data": "2026-11-12",
@@ -250,16 +242,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2092
+   "views_reels": 2120
   },
   {
    "data": "2026-11-13",
-   "reels": 0,
+   "reels": 6,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
-   "views_reels": null
+   "materias": 5,
+   "views_reels": 1014
   }
  ],
  "seguidores_por_dia": [
@@ -285,13 +277,13 @@
   },
   {
    "data": "2026-11-13",
-   "seguidores": 85
+   "seguidores": 86
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "1 falha(s) no GitHub ainda sem resolver"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
   }
  ]
 }
