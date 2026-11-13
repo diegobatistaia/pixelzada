@@ -103,7 +103,10 @@
     "query": "Wolfenstein 3",
     "alt": "Imagem de divulgação de Wolfenstein 3, da MachineGames",
     "url": "https://assets-prd.ignimgs.com/2026/11/10/image-2-1794348771186.png?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/wolfenstein-3-confirmado-machinegames-bj-2ff56908.jpg",
+    "source_url": "",
+    "foco": "45% 35%"
   },
   "sources": [
     {
@@ -125,5 +128,7 @@
       "title": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T10:43:33+00:00",
+  "updated_at": "2026-11-13T10:43:33+00:00"
 }
