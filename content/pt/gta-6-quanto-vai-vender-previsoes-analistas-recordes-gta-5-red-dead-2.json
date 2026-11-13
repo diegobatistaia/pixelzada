@@ -103,7 +103,10 @@
     "query": "GTA VI pré-venda",
     "alt": "Arte oficial de divulgação da pré-venda de Grand Theft Auto VI",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/5171972o3ak5oa/837b1fbc8f96dfa70c1aad939546cdbd85a32527.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-quanto-vai-vender-previsoes-analis-392054e5.jpg",
+    "source_url": "",
+    "foco": "46% 37%"
   },
   "sources": [
     {
@@ -173,5 +176,7 @@
       "title": "Red Dead Redemption 2 breaks multiple Sony records and makes $725 million in its opening weekend"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T18:41:19+00:00",
+  "updated_at": "2026-11-13T18:41:19+00:00"
 }

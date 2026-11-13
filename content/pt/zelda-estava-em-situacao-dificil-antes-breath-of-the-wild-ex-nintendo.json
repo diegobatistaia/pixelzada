@@ -95,7 +95,9 @@
     "query": "Zelda Breath of the Wild",
     "alt": "Link em cena de The Legend of Zelda: Breath of the Wild",
     "url": "https://assets-prd.ignimgs.com/2025/06/06/breathofthewild-switch2review-blogroll-1749187124784.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/zelda-estava-em-situacao-dificil-antes-b-b134ccd6.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -117,5 +119,7 @@
       "title": "Legend of Zelda series was in dire straits before Breath of the Wild"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T18:41:19+00:00",
+  "updated_at": "2026-11-13T18:41:19+00:00"
 }
