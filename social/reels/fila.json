@@ -2708,7 +2708,7 @@
     "slug": "homem-aranha-vira-homem-de-ferro",
     "data": "2026-11-13",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Um modder transformou o jogo do Homem-Aranha em um jogo do Homem de Ferro 🦾\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#homemaranha #homemdeferro #marvel #mods #pixelzada",
     "tentativas": 0,
@@ -2721,6 +2721,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-13T18:00:59-03:00",
+      "media_id": "18215205601315385",
+      "permalink": "https://www.instagram.com/reel/DfsjF7ikUDC/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af77ac99257ce33980ea04f",
+        "em": "2026-11-13T18:02:00-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=wdCVEIKaWXM"
+      }
     }
   },
   {
