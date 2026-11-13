@@ -2417,7 +2417,7 @@
     "slug": "gta6-trailer-de-lancamento",
     "data": "2026-11-13",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "O trailer de lançamento de GTA 6, com Flower in a Hurricane 🌀\n\nGTA 6 chega em 19 de novembro.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #trailer #pixelzada",
     "tentativas": 0,
@@ -2431,6 +2431,25 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-13T08:01:47-03:00",
+      "media_id": "18126845033512463",
+      "permalink": "https://www.instagram.com/reel/Dfrel38ltDn/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af6ee82d414da1f7d9d614d",
+        "em": "2026-11-13T08:03:29-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af6ee8dd414da1f7d9d6b82",
+        "em": "2026-11-13T08:03:40-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
