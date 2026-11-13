@@ -120,7 +120,9 @@
     "query": "Xbox original PC retrocompatibilidade",
     "alt": "Arte do Xbox sobre os jogos do Xbox original chegando ao PC",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/111226_XBOX-Wire_PCBackCompat-JPG-6d6dbed266e723ed4c62.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-original-21-jogos-pc-retrocompatibi-2ed33aa6.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -136,5 +138,7 @@
       "title": "21 original Xbox games are now on PC via backward compatibility"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T12:41:57+00:00",
+  "updated_at": "2026-11-13T12:41:57+00:00"
 }

@@ -125,7 +125,10 @@
     "query": "GTA VI Extended Look",
     "alt": "Imagem oficial do anúncio de Grand Theft Auto VI: An Extended Look",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k2kaa1o3297k9/4faf2f8d60cd657f09eb55707b31cc44008bfa4c.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-marketing-netflix-miami-vice-city--f6817cb3.jpg",
+    "source_url": "",
+    "foco": "62% 17%"
   },
   "sources": [
     {
@@ -177,5 +180,7 @@
       "title": "'GTA VI' Marketing Campaign Idea Criticized by Sheriff"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T12:41:56+00:00",
+  "updated_at": "2026-11-13T12:41:56+00:00"
 }
