@@ -3306,5 +3306,27 @@
       "jogo": "GTA 6",
       "moldura": "simples-preta"
     }
+  },
+  {
+    "slug": "gta-6-bruneygta",
+    "data": "2026-11-15",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "bruneygta",
+      "link": "https://www.instagram.com/reel/DfpVEyaBs7x/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
   }
 ]
