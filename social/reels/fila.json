@@ -2417,7 +2417,7 @@
     "slug": "gta6-trailer-de-lancamento",
     "data": "2026-11-13",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "O trailer de lançamento de GTA 6, com Flower in a Hurricane 🌀\n\nGTA 6 chega em 19 de novembro.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #trailer #pixelzada",
     "tentativas": 0,
@@ -2431,6 +2431,25 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-13T08:01:47-03:00",
+      "media_id": "18126845033512463",
+      "permalink": "https://www.instagram.com/reel/Dfrel38ltDn/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af6ee82d414da1f7d9d614d",
+        "em": "2026-11-13T08:03:29-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af6ee8dd414da1f7d9d6b82",
+        "em": "2026-11-13T08:03:40-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
@@ -3305,6 +3324,314 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "simples-preta"
+    }
+  },
+  {
+    "slug": "rockstar-recriou-miami-real-gta6",
+    "data": "2026-11-15",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A Rockstar recriou em GTA 6 este vídeo real de Miami 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #rockstar #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/DfpUCc3up0S/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "jantar-notificacao-gta6",
+    "data": "2026-11-16",
+    "horario": "07:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Estou no meio do jantar em família, mas o app do PlayStation mandou a notificação \"GTA 6 pronto para jogar\" 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #playstation #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfqHzJXSyeF/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "24-anos-vice-city-gta6",
+    "data": "2026-11-16",
+    "horario": "08:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "De 2002 a 2026: 24 anos entre Vice City e GTA 6 ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #vicecity #gtavi #rockstar #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/DfmjB--OlNn/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "pov-primeira-vez-em-monaco",
+    "data": "2026-11-16",
+    "horario": "09:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "POV: é sua primeira vez pilotando em Mônaco no jogo da Fórmula 1 🏎️😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#f1 #monaco #memesgamer #games #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfngU3sR2zK/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "F1",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "gta6-contra-vida-real",
+    "data": "2026-11-16",
+    "horario": "10:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "GTA 6 vs vida real: estão cada vez mais parecidos 👀\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #rockstar #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "bruneygta",
+      "link": "https://www.instagram.com/reel/Dfpl8mat6Dk/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "agua-zelda-contra-wolverine",
+    "data": "2026-11-16",
+    "horario": "11:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A diferença da água em Zelda e no jogo do Wolverine 🌊\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #wolverine #games #nintendo #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfp8nDuhBaJ/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "Zelda",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "mod-de-twingo-gta6",
+    "data": "2026-11-16",
+    "horario": "12:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Já tem mod de Twingo pro GTA 6 antes do GTA 6 😭\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #mods #memesgamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfqWL0OB8Y4/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "wesker-dias-dificeis",
+    "data": "2026-11-16",
+    "horario": "13:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Tem dias que não são fáceis pra ninguém ☕\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#residentevil #wesker #capcom #memesgamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "chernobyl.games",
+      "link": "https://www.instagram.com/reel/DfpRFwvhjBs/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "Resident Evil",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "rockstar-tres-jogos-mais-reservados",
+    "data": "2026-11-16",
+    "horario": "14:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Rockstar com três jogos na lista dos mais pré-encomendados da história 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #rockstar #rdr2 #gta5 #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfpFFmvR1m_/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "zelda-cucco-of-time",
+    "data": "2026-11-16",
+    "horario": "15:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "The Cucco of Time: Zelda, mas o herói é uma galinha 🐔\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/Dfp6x0DCvKr/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "Zelda",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "controles-dualsense-gta6",
+    "data": "2026-11-16",
+    "horario": "16:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Os controles DualSense de GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #dualsense #ps5 #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/DfpddY2ispj/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "viagem-de-moto-san-andreas",
+    "data": "2026-11-16",
+    "horario": "17:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A beleza das viagens de moto em San Andreas 🏍️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #sanandreas #nostalgia #rockstar #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "brief_escape_",
+      "link": "https://www.instagram.com/reel/DfphpN0NjaH/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "nostalgia",
+      "tema": "games",
+      "jogo": "GTA San Andreas",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "mapa-gta6-contra-gta5",
+    "data": "2026-11-16",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "GTA 6 vs GTA 5: a diferença no tamanho do mapa é absurda 🗺️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #mapa #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "cutgamesoficial",
+      "link": "https://www.instagram.com/reel/Dfno6Hwxyqm/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "xbox-360-22-de-novembro-2005",
+    "data": "2026-11-16",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Xbox 360: 22 de novembro de 2005 💚\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#xbox360 #xbox #nostalgia #games #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "xboxbr",
+      "link": "https://www.instagram.com/reel/Dfpf_G1xylP/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "nostalgia",
+      "tema": "games",
+      "jogo": "Xbox",
+      "moldura": "identidade"
     }
   }
 ]

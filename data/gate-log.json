@@ -1374,5 +1374,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-13T10:43:33+00:00",
+    "id": "wolfenstein-3-confirmado-machinegames-bj-blazkowicz",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:43:34 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Wolfenstein 3 está em produção na MachineGames, confirma o Xbox</title>
+      <link>https://pixelzada.com.br/pt/wolfenstein-3-confirmado-machinegames-bj-blazkowicz/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/wolfenstein-3-confirmado-machinegames-bj-blazkowicz/</guid>
+      <description>A MachineGames e o Xbox confirmaram que Wolfenstein 3 está em produção, com Brian Bloom e Debra Wilson de volta. Veja o que se sabe e o que ainda falta saber.</description>
+      <category>Lançamentos</category>
+      <pubDate>Fri, 13 Nov 2026 10:43:33 +0000</pubDate>
+    </item>
     <item>
       <title>id Software confirma novo jogo dirigido por Hugo Martin</title>
       <link>https://pixelzada.com.br/pt/id-software-confirma-novo-jogo-hugo-martin-slaughter-mode/</link>
@@ -238,14 +246,6 @@
       <description>A Tripwire Interactive, de Killing Floor e Maneater, demitiu 36 pessoas, a segunda rodada do ano. Veja o que o estúdio disse e o impacto em Maneater 2.</description>
       <category>Indústria</category>
       <pubDate>Mon, 09 Nov 2026 22:40:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remake de Zelda: Ocarina of Time pode ganhar Master Quest em DLC, indica datamine</title>
-      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-master-quest-datamine-dlc/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-master-quest-datamine-dlc/</guid>
-      <description>Dataminers acharam referências ao Master Quest nos arquivos do remake de Zelda: Ocarina of Time, possivelmente via DLC. A Nintendo não confirmou nada.</description>
-      <category>Lançamentos</category>
-      <pubDate>Mon, 09 Nov 2026 20:40:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
