@@ -2336,7 +2336,7 @@
     "slug": "melhores-dias-san-andreas",
     "data": "2026-11-12",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Eu não sabia que estava vivendo os melhores dias da minha vida quando era criança 🥲❤️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #ps2 #nostalgia #games #pixelzada",
     "tentativas": 0,
@@ -2350,6 +2350,25 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-12T21:00:17-03:00",
+      "media_id": "18078639266781113",
+      "permalink": "https://www.instagram.com/reel/DfqS0G-iDln/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af6533fe1d8eff6108c90c8",
+        "em": "2026-11-12T21:01:01-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af6534bfb90ccefdd09d068",
+        "em": "2026-11-12T21:01:14-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
