@@ -2636,7 +2636,7 @@
     "slug": "horse-with-no-name-las-venturas",
     "data": "2026-11-13",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "A Horse with No Name combina perfeitamente com uma viagem pelo deserto de Las Venturas 🌵🏜️\n\nA estrada vazia, o céu aberto e aquela sensação de estar indo para lugar nenhum.\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #lasventuras #ps2 #nostalgia #pixelzada",
     "tentativas": 0,
@@ -2650,6 +2650,22 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-13T16:07:20-03:00",
+      "media_id": "17914836315553198",
+      "permalink": "https://www.instagram.com/reel/DfsWFFKknQc/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af7602a4b28296eb10c56a9",
+        "em": "2026-11-13T16:08:24-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=zVFnRO0RzHg"
+      }
     }
   },
   {
