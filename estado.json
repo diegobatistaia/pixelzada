@@ -7,29 +7,21 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-12T22:51-03:00",
+ "atualizado": "2026-11-13T06:32-03:00",
  "hoje": {
-  "data": "2026-11-12",
+  "data": "2026-11-13",
   "reels": {
    "meta": 15,
-   "publicados": 12,
-   "deviam_ter_saido": 15,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 7,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00",
-    "21:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
@@ -59,7 +51,7 @@
  },
  "site": {
   "total": 194,
-  "hoje": 10,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "id Software confirma novo jogo dirigido por Hugo Martin",
@@ -74,29 +66,29 @@
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 84,
+  "seguidores": 85,
   "seguindo": 5,
   "posts": 255,
-  "alcance_7d": 34654,
-  "views_7d": 47005,
+  "alcance_7d": 34818,
+  "views_7d": 47214,
   "reels_7d": {
    "quantidade": 44,
-   "views_total": 47391,
+   "views_total": 47629,
    "views_mediana": 175,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-12": 1967,
+    "2026-11-12": 2092,
     "2026-11-11": 2270,
-    "2026-11-10": 2042,
+    "2026-11-10": 2045,
     "2026-11-09": 1530,
-    "2026-11-08": 39582
+    "2026-11-08": 39692
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 39340,
-     "alcance": 28527,
-     "curtidas": 1234,
+     "views": 39450,
+     "alcance": 28552,
+     "curtidas": 1238,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -136,21 +128,27 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 86,
+  "rodadas_24h": 95,
   "falhas_24h": 9,
-  "sem_resolver": 2,
+  "sem_resolver": 1,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-13T06:04:20-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43398252953",
+    "resolvido": false
+   },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-12T20:27:09-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43328969207",
-    "resolvido": false
+    "resolvido": true
    },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-12T19:04:26-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43316427363",
-    "resolvido": false
+    "resolvido": true
    },
    {
     "workflow": "Pesquisa de vídeos",
@@ -187,12 +185,6 @@
     "em": "2026-11-12T06:58:58-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43196251185",
     "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-12T06:04:19-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43188193998",
-    "resolvido": true
    }
   ]
  },
@@ -200,21 +192,12 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 29,
-   "youtube": 26
+   "tiktok": 30,
+   "youtube": 27
   },
-  "erros_hoje": 1
+  "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-06",
-   "reels": 0,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 7,
-   "views_reels": null
-  },
   {
    "data": "2026-11-07",
    "reels": 0,
@@ -231,7 +214,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 39582
+   "views_reels": 39692
   },
   {
    "data": "2026-11-09",
@@ -249,7 +232,7 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 2042
+   "views_reels": 2045
   },
   {
    "data": "2026-11-11",
@@ -267,7 +250,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1967
+   "views_reels": 2092
+  },
+  {
+   "data": "2026-11-13",
+   "reels": 0,
+   "reels_meta": 15,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -290,20 +282,16 @@
   {
    "data": "2026-11-12",
    "seguidores": 84
+  },
+  {
+   "data": "2026-11-13",
+   "seguidores": 85
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
-  },
-  {
-   "nivel": "vermelho",
-   "texto": "2 falha(s) no GitHub ainda sem resolver"
-  },
-  {
-   "nivel": "amarelo",
-   "texto": "Buffer: 1 envio(s) para TikTok/YouTube com erro hoje"
+   "texto": "1 falha(s) no GitHub ainda sem resolver"
   }
  ]
 }
