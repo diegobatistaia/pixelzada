@@ -3760,5 +3760,49 @@
       "jogo": "Bodycam",
       "moldura": "identidade"
     }
+  },
+  {
+    "slug": "macca-and-friends-serie-gta6",
+    "data": "2026-11-17",
+    "horario": "07:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Macca & Friends é uma das séries que vão passar dentro de GTA 6 🐊📺\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #weazel #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/Dfr_JWdzXmd/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "rockstar-fez-de-novo-vida-real-gta6",
+    "data": "2026-11-17",
+    "horario": "08:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A Rockstar fez de novo: vida real contra GTA 6 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #vicecity #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/DfrvHDFPhOF/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
   }
 ]
