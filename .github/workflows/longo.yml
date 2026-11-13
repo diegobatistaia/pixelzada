@@ -1,0 +1,59 @@
+name: Vídeo longo (prévia)
+
+# Série de listas "TOP Pixelzada" (plano de 13/11/2026). Monta o vídeo longo do YouTube,
+# o corte curto do item nº 1, 3 capas e a descrição com capítulos, e grava tudo em
+# previas/longo/<slug>/ no próprio ramo. NÃO publica nada: é só prévia para o Diego.
+#
+# Roda sozinho quando um episódio novo (scripts/longo/episodios/*.json) chega a um ramo
+# claude/**, ou pelo botão "Run workflow" (campo episodio = slug).
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/longo/**", ".github/workflows/longo.yml"]
+  workflow_dispatch:
+    inputs:
+      episodio:
+        description: "slug do episódio (arquivo em scripts/longo/episodios/)"
+        default: gta5-em-numeros
+
+permissions:
+  contents: write
+
+concurrency:
+  group: longo-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  previa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      EPISODIO: ${{ github.event.inputs.episodio || 'gta5-em-numeros' }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      TWITCH_CLIENT_ID_PIXELZADA: ${{ secrets.TWITCH_CLIENT_ID_PIXELZADA }}
+      TWITCH_CLIENT_SECRET_PIXELZADA: ${{ secrets.TWITCH_CLIENT_SECRET_PIXELZADA }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Ferramentas
+        run: |
+          pip install pyyaml yt-dlp "opencv-python-headless<5" pillow edge-tts
+          command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
+
+      - name: Montar a prévia
+        run: python -m scripts.longo.episodio tudo "scripts/longo/episodios/$EPISODIO.json" --altura 720
+
+      - name: Guardar no ramo
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add previas/longo || true
+          git diff --cached --quiet && exit 0
+          git commit -m "longo: prévia $EPISODIO"
+          for i in 1 2 3 4; do git pull --rebase -q origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
+          exit 1

@@ -1,0 +1,89 @@
+{
+  "slug": "gta5-em-numeros",
+  "serie": "TOP Pixelzada",
+  "titulo": "GTA 5 em NÚMEROS: os 10 recordes que o GTA 6 precisa bater",
+  "status": "previa",
+  "jogo_twitch": "Grand Theft Auto V",
+  "capa": {
+    "numero": "10",
+    "linha1": "GTA 5",
+    "linha2": "EM NÚMEROS",
+    "apoio": "o que o GTA 6 precisa bater"
+  },
+  "gancho": {
+    "texto": "Treze anos. Três gerações de console. E um recorde que até hoje nenhum jogo conseguiu repetir. O GTA 5 virou um monstro de números, e o GTA 6 chega dia 19 com a missão de bater tudo isso. Bora ver os dez números mais absurdos do GTA 5, do menor pro maior."
+  },
+  "abertura": {
+    "texto": "Eu sou a voz da Pixelzada. Se você curte GTA, já se inscreve, que até o lançamento vai ter vídeo novo toda semana."
+  },
+  "itens": [
+    {
+      "numero": 10,
+      "nome": "13 anos de vida",
+      "destaque": "2013 ATÉ 2026",
+      "texto": "Número dez: treze anos de vida. O GTA 5 saiu em setembro de 2013 e até hoje aparece entre os mais jogados. Pra ter ideia, quem tinha dez anos no lançamento hoje já tá terminando a faculdade. Nenhum outro GTA ficou tanto tempo como o principal da série."
+    },
+    {
+      "numero": 9,
+      "nome": "3 gerações de console",
+      "destaque": "PS3 · PS4 · PS5",
+      "texto": "Número nove: três gerações de console. Saiu no PlayStation 3 e no Xbox 360, voltou no PS4, no Xbox One e no PC, e depois ganhou versão de PS5 e Xbox Series. A piada de que a Rockstar relança o GTA 5 em tudo que tem tomada nasceu exatamente daqui."
+    },
+    {
+      "numero": 8,
+      "nome": "Três protagonistas",
+      "destaque": "Michael · Franklin · Trevor",
+      "texto": "Número oito: três protagonistas. Foi o primeiro GTA principal em que você troca de personagem a qualquer hora. Michael, Franklin e Trevor, cada um com a sua vida, os seus problemas e os seus golpes. O GTA 6 aposta numa dupla, Jason e Lucia."
+    },
+    {
+      "numero": 7,
+      "nome": "Sete recordes no Guinness",
+      "destaque": "7 RECORDES",
+      "texto": "Número sete: sete recordes mundiais no Guinness logo na semana do lançamento. Entre eles, produto de entretenimento que mais faturou em vinte e quatro horas e vídeo game que mais rápido chegou a um bilhão de dólares. Sim, isso tá no livro dos recordes."
+    },
+    {
+      "numero": 6,
+      "nome": "Rádio lotada",
+      "destaque": "+240 MÚSICAS",
+      "texto": "Número seis: a rádio. São mais de duzentas e quarenta músicas licenciadas espalhadas pelas estações do jogo. Tem gente que entra no carro só pra ouvir rádio e nem faz missão. Se você trocava de estação a cada esquina, esse item é seu."
+    },
+    {
+      "numero": 5,
+      "nome": "O mapa de Los Santos",
+      "destaque": "LOS SANTOS + BLAINE",
+      "texto": "Número cinco: o mapa. Los Santos e o condado de Blaine formaram o maior mapa da série naquela época, com cidade, deserto, montanha e mar pra mergulhar. O GTA 6 troca tudo isso por Leonida e Vice City, e a promessa é um mapa ainda maior."
+    },
+    {
+      "numero": 4,
+      "nome": "GTA Online",
+      "destaque": "ONLINE DESDE 2013",
+      "texto": "Número quatro: o GTA Online. Ele chegou em outubro de 2013 e até hoje recebe atualização. Virou praticamente um jogo à parte, com assalto, corrida, negócio e roleplay. Boa parte do dinheiro do GTA 5 veio daqui, e é por isso que ele demorou tanto pra ter sequência."
+    },
+    {
+      "numero": 3,
+      "nome": "Orçamento de cinema",
+      "destaque": "~US$ 265 MILHÕES",
+      "texto": "Número três: o orçamento. Na época, estimativas da imprensa falavam em cerca de duzentos e sessenta e cinco milhões de dólares somando produção e marketing. Era um dos jogos mais caros já feitos. O GTA 6, pelas estimativas de hoje, deve passar muito disso."
+    },
+    {
+      "numero": 2,
+      "nome": "1 bilhão em 3 dias",
+      "destaque": "US$ 1 BI EM 3 DIAS",
+      "texto": "Número dois: um bilhão de dólares em três dias. No primeiro dia foram oitocentos milhões, e em setenta e duas horas o jogo passou de um bilhão. Nenhum filme, livro ou disco tinha chegado nisso tão rápido. Foi esse o recorde que entrou pro Guinness."
+    },
+    {
+      "numero": 1,
+      "nome": "Mais de 215 milhões de cópias",
+      "destaque": "+215 MILHÕES",
+      "texto": "E o número um: mais de duzentos e quinze milhões de cópias vendidas. É o segundo jogo mais vendido da história, atrás só do Minecraft. Esse é o número que o GTA 6 vai ter que perseguir. Será que ele chega lá?"
+    }
+  ],
+  "fechamento": {
+    "texto": "Agora me conta nos comentários: qual desses números te surpreendeu mais? E qual recorde você acha que o GTA 6 quebra primeiro? Segue a Pixelzada pra acompanhar tudo do GTA 6, que o próximo vídeo já tá chegando."
+  },
+  "fontes_a_conferir": [
+    "Guinness World Records (2013): 7 recordes do GTA V, US$ 1 bilhão em 3 dias",
+    "Take-Two, relatório trimestral 2025/2026: vendas acumuladas do GTA V",
+    "Estimativa de orçamento US$ 265 mi: imprensa da época (The Scotsman, 2013)"
+  ]
+}
