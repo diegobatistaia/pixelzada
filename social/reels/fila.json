@@ -2530,7 +2530,7 @@
     "slug": "tripulacao-nem-viu",
     "data": "2026-11-13",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "A tripulação nem viu de onde isso veio 😭\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #memesgamer #gameplay #pixelzada",
     "tentativas": 0,
@@ -2543,6 +2543,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-13T13:04:29-03:00",
+      "media_id": "18102990944534789",
+      "permalink": "https://www.instagram.com/reel/DfsBJz4kbv2/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af735396c8fccfb78646ba0",
+        "em": "2026-11-13T13:05:12-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=bBoLJf3nCGo"
+      }
     }
   },
   {
