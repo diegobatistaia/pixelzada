@@ -3875,5 +3875,49 @@
       "jogo": "GTA 6",
       "moldura": "identidade"
     }
+  },
+  {
+    "slug": "gta6-99-baixado-era-so-um-sonho",
+    "data": "2026-11-17",
+    "horario": "09:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Baixando GTA 6: 99,6%... era só um sonho 😴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/DfqSxCDBTHF/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "viatura-vice-beach-vida-real-gta6",
+    "data": "2026-11-17",
+    "horario": "10:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Na vida real e em GTA 6: a viatura de Vice Beach 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #vicecity #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "bruneygta",
+      "link": "https://www.instagram.com/reel/DfsR-NKBGi5/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
   }
 ]
