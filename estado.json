@@ -7,42 +7,39 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-12T17:51-03:00",
+ "atualizado": "2026-11-12T22:51-03:00",
  "hoje": {
   "data": "2026-11-12",
   "reels": {
    "meta": 15,
-   "publicados": 8,
-   "deviam_ter_saido": 11,
+   "publicados": 12,
+   "deviam_ter_saido": 15,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 5,
+   "deviam_ter_saido": 7,
    "atrasados": [
     "09:00",
     "11:00",
     "13:00",
     "15:00",
-    "17:00"
+    "17:00",
+    "19:00",
+    "21:00"
    ],
-   "pautas_esperando": 2
+   "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 46,
+  "agendados": 44,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.1,
+  "dias_de_reserva": 2.9,
   "grade_cheia_ate": "2026-11-14",
   "sem_revisao": 0,
   "por_dia": [
-   {
-    "data": "2026-11-12",
-    "agendados": 4,
-    "meta": 15
-   },
    {
     "data": "2026-11-13",
     "agendados": 15,
@@ -55,19 +52,19 @@
    },
    {
     "data": "2026-11-15",
-    "agendados": 12,
+    "agendados": 14,
     "meta": 15
    }
   ]
  },
  "site": {
-  "total": 192,
-  "hoje": 8,
+  "total": 194,
+  "hoje": 10,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Intergalactic está nas últimas etapas de produção, diz Druckmann",
-   "url": "https://pixelzada.com.br/pt/intergalactic-heretic-prophet-ultimas-etapas-producao-druckmann/",
-   "em": "2026-11-12T17:41:11-03:00"
+   "titulo": "id Software confirma novo jogo dirigido por Hugo Martin",
+   "url": "https://pixelzada.com.br/pt/id-software-confirma-novo-jogo-hugo-martin-slaughter-mode/",
+   "em": "2026-11-12T21:40:34-03:00"
   }
  },
  "pesquisa": {
@@ -79,27 +76,27 @@
   "usuario": "pixelzada.br",
   "seguidores": 84,
   "seguindo": 5,
-  "posts": 251,
-  "alcance_7d": 33955,
-  "views_7d": 45888,
+  "posts": 255,
+  "alcance_7d": 34654,
+  "views_7d": 47005,
   "reels_7d": {
-   "quantidade": 40,
-   "views_total": 46320,
-   "views_mediana": 173,
+   "quantidade": 44,
+   "views_total": 47391,
+   "views_mediana": 175,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-12": 1228,
-    "2026-11-11": 2268,
+    "2026-11-12": 1967,
+    "2026-11-11": 2270,
     "2026-11-10": 2042,
     "2026-11-09": 1530,
-    "2026-11-08": 39252
+    "2026-11-08": 39582
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 39010,
-     "alcance": 28373,
-     "curtidas": 1223,
+     "views": 39340,
+     "alcance": 28527,
+     "curtidas": 1234,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -113,8 +110,8 @@
     },
     {
      "legenda": "Diga adeus a esse glitch no remake de Ocarina of Time 👀",
-     "views": 393,
-     "alcance": 328,
+     "views": 394,
+     "alcance": 329,
      "curtidas": 11,
      "link": "https://www.instagram.com/reel/DfnZkObDMCq/",
      "em": "2026-11-11T18:02:11-03:00"
@@ -139,10 +136,22 @@
   }
  },
  "falhas": {
-  "rodadas_24h": 80,
-  "falhas_24h": 7,
-  "sem_resolver": 0,
+  "rodadas_24h": 86,
+  "falhas_24h": 9,
+  "sem_resolver": 2,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-12T20:27:09-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43328969207",
+    "resolvido": false
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-12T19:04:26-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43316427363",
+    "resolvido": false
+   },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-12T15:04:16-03:00",
@@ -191,10 +200,10 @@
   "ativo": true,
   "uso": {
    "mes": "2026-11",
-   "tiktok": 24,
-   "youtube": 21
+   "tiktok": 29,
+   "youtube": 26
   },
-  "erros_hoje": 0
+  "erros_hoje": 1
  },
  "ultimos_dias": [
   {
@@ -222,7 +231,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 39252
+   "views_reels": 39582
   },
   {
    "data": "2026-11-09",
@@ -249,16 +258,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2268
+   "views_reels": 2270
   },
   {
    "data": "2026-11-12",
-   "reels": 8,
+   "reels": 12,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 8,
-   "views_reels": 1228
+   "materias": 10,
+   "views_reels": 1967
   }
  ],
  "seguidores_por_dia": [
@@ -286,7 +295,15 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
+  },
+  {
+   "nivel": "vermelho",
+   "texto": "2 falha(s) no GitHub ainda sem resolver"
+  },
+  {
+   "nivel": "amarelo",
+   "texto": "Buffer: 1 envio(s) para TikTok/YouTube com erro hoje"
   }
  ]
 }
