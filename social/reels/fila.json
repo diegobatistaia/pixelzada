@@ -2282,8 +2282,9 @@
       "tiktok": {
         "post_id": "6af6372bc0cd8f4345d9e3d2",
         "em": "2026-11-12T19:01:13-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707408395401465106",
+        "saiu": "2026-11-12T22:03:05.249Z"
       },
       "youtube": {
         "post_id": "6af63736889f9c338f602f58",
@@ -2321,8 +2322,9 @@
       "tiktok": {
         "post_id": "6af646b5e1d8eff61088a4e0",
         "em": "2026-11-12T20:07:32-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707425572418358548",
+        "saiu": "2026-11-12T23:08:17.091Z"
       },
       "youtube": {
         "post_id": "6af646c0c1a0010a5be519a6",
@@ -2360,14 +2362,16 @@
       "tiktok": {
         "post_id": "6af6533fe1d8eff6108c90c8",
         "em": "2026-11-12T21:01:01-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://tiktok.com/@pixelzadabr0/video/7707439709357706514",
+        "saiu": "2026-11-13T00:03:35.965Z"
       },
       "youtube": {
         "post_id": "6af6534bfb90ccefdd09d068",
         "em": "2026-11-12T21:01:14-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
