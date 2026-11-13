@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 15:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:52:06 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Resident Evil Requiem leva quatro prêmios no Golden Joystick Awards 2026</title>
+      <link>https://pixelzada.com.br/pt/resident-evil-requiem-golden-joystick-awards-2026-jogo-do-ano/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/resident-evil-requiem-golden-joystick-awards-2026-jogo-do-ano/</guid>
+      <description>Resident Evil Requiem venceu o Golden Joystick Awards 2026 com quatro prêmios, incluindo Ultimate Game of the Year. Veja os vencedores e o recorde da Capcom.</description>
+      <category>Indústria</category>
+      <pubDate>Fri, 13 Nov 2026 16:52:05 +0000</pubDate>
+    </item>
     <item>
       <title>QSSR chega a Spider-Man 2, Control Resonant, ARC Raiders e mais no PS5</title>
       <link>https://pixelzada.com.br/pt/qssr-ps5-spider-man-2-control-resonant-arc-raiders-the-finals/</link>
@@ -238,14 +246,6 @@
       <description>A Take-Two diz que as pré-vendas de GTA 6 superam o esperado, mesmo com queda de 18% nas reservas do trimestre. Veja os números, as previsões e o que muda.</description>
       <category>GTA 6</category>
       <pubDate>Tue, 10 Nov 2026 10:40:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hollow Knight: Silksong terá pacotes gratuitos, diz manual da edição física</title>
-      <link>https://pixelzada.com.br/pt/hollow-knight-silksong-edicao-fisica-pacotes-gratuitos-sea-of-sorrow/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/hollow-knight-silksong-edicao-fisica-pacotes-gratuitos-sea-of-sorrow/</guid>
-      <description>O manual da edição física de Hollow Knight: Silksong cita vários pacotes de conteúdo gratuitos e a Sea of Sorrow, sem data. Veja o que diz e o que falta saber.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 10 Nov 2026 00:41:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

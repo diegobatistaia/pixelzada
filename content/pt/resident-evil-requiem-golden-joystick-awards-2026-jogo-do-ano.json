@@ -116,7 +116,10 @@
     "query": "Resident Evil Requiem Grace Ashcroft",
     "alt": "Grace Ashcroft, protagonista de Resident Evil Requiem",
     "url": "https://assetsio.gnwcdn.com/grace-ashcroft-resident-evil.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/resident-evil-requiem-golden-joystick-aw-cdb84da5.jpg",
+    "source_url": "",
+    "foco": "53% 41%"
   },
   "sources": [
     {
@@ -138,5 +141,7 @@
       "title": "Quote of the day by Resident Evil Requiem actor after Golden Joystick Awards win"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T16:52:05+00:00",
+  "updated_at": "2026-11-13T16:52:05+00:00"
 }
