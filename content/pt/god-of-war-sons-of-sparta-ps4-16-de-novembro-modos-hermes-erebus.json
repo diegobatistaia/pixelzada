@@ -93,7 +93,9 @@
     "query": "God of War Sons of Sparta",
     "alt": "Arte de God of War: Sons of Sparta, spin-off em 2D com Kratos jovem",
     "url": "https://www.videogameschronicle.com/files/2026/02/god-of-war-sons-of-sparta.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/god-of-war-sons-of-sparta-ps4-16-de-nove-921bc10c.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -115,5 +117,7 @@
       "title": "PlayStation's God of War spin-off is coming to PS4 and getting new modes"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T20:42:21+00:00",
+  "updated_at": "2026-11-13T20:42:21+00:00"
 }
