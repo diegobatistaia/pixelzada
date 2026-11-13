@@ -3670,135 +3670,47 @@
     }
   },
   {
-    "slug": "gta-6-gta6countdown2026",
+    "slug": "notificacao-gta6-pronto-para-jogar",
     "data": "2026-11-16",
     "horario": "22:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "gta6countdown2026",
-      "link": "https://www.instagram.com/reel/DfngSyeOLpt/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "noticia",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-adrenaline-oficial",
-    "data": "2026-11-16",
-    "horario": "23:00",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "adrenaline_oficial",
-      "link": "https://www.instagram.com/reel/Dfp-NckPSgq/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-preta"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-sougamergeek",
-    "data": "2026-11-17",
-    "horario": "07:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "A vida quando essa notificação aparecer 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/DfpiAU6BlpN/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
     }
   },
   {
-    "slug": "o-universo-dos-games-xbox",
-    "data": "2026-11-17",
-    "horario": "08:00",
+    "slug": "modo-zumbi-bodycam",
+    "data": "2026-11-16",
+    "horario": "23:00",
     "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "xbox",
-      "link": "https://www.instagram.com/reel/Dfq5ytEs9x3/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-preta"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-sougamergeek-2",
-    "data": "2026-11-17",
-    "horario": "09:00",
-    "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Modo zumbi de Bodycam ficou real até demais 🧟\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#bodycam #zumbi #games #terror #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/DfqZn3dNt4K/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "noticia",
+      "formato": "meme",
       "tema": "games",
-      "jogo": "o universo dos games",
+      "jogo": "Bodycam",
       "moldura": "identidade"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-adrenaline-oficial-2",
-    "data": "2026-11-17",
-    "horario": "10:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "adrenaline_oficial",
-      "link": "https://www.instagram.com/reel/Dfr0G6MnODQ/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
     }
   }
 ]
