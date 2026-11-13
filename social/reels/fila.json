@@ -2601,7 +2601,7 @@
     "slug": "cj-no-remake-de-ocarina",
     "data": "2026-11-13",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Já colocaram o CJ no remake de Ocarina of Time 😂\n\nOs mods não perdoam.\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #zelda #ocarinaoftime #mods #pixelzada",
     "tentativas": 0,
@@ -2614,6 +2614,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-13T15:00:45-03:00",
+      "media_id": "18339403582275530",
+      "permalink": "https://www.instagram.com/reel/DfsOfumk-45/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af7508a1047b6144cb8cd0a",
+        "em": "2026-11-13T15:01:45-03:00",
+        "status": "sending",
+        "link": null
+      }
     }
   },
   {
