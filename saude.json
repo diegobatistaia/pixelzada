@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-11-13T00:28-03:00",
+ "atualizado": "2026-11-13T01:28-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
    "uso": "publicar os Reels",
    "ok": true,
    "tipo": "login do Instagram",
-   "vence_em_dias": 59.4
+   "vence_em_dias": 59.3
   },
   "meta": {
    "segredo": "META_TOKEN_PIXELZADA",
@@ -15,7 +15,7 @@
    "erro": {
     "codigo": 190,
     "subcodigo": 460,
-    "mensagem": "HTTP 400 em debug_token: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AMtwcFZxdI2yDv3LkcBcR8"
+    "mensagem": "HTTP 400 em debug_token: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"A6eZdlER99toh206Jou_db"
    }
   }
  },
