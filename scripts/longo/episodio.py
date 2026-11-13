@@ -164,38 +164,67 @@ def banco(ep: dict, trab: Path, quantos: int = 12) -> list[dict]:
 # ---------------------------------------------------------------------------
 # 2. Voz
 # ---------------------------------------------------------------------------
+_MODELO_TRAVADO: str | None = None
+
+
+def _pedir_tts(modelo: str, chave: str, texto: str) -> dict:
+    corpo = {"contents": [{"parts": [{"text": ESTILO + texto}]}],
+             "generationConfig": {"responseModalities": ["AUDIO"], "temperature": 0.4,
+                                  "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": VOZ_GEMINI}}}}}
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+    req = urllib.request.Request(url, data=json.dumps(corpo).encode(),
+                                 headers={"Content-Type": "application/json", "x-goog-api-key": chave})
+    with urllib.request.urlopen(req, timeout=240) as r:
+        return json.loads(r.read())
+
+
 def voz_gemini(texto: str, saida: Path) -> str:
+    """Um modelo e uma voz só no episódio inteiro (Diego, 13/11: a voz não pode trocar).
+    O primeiro modelo que responder fica travado; se o Google pedir para esperar (limite
+    da faixa grátis), espera e tenta de novo no MESMO modelo."""
+    global _MODELO_TRAVADO
+    import time
     chave = os.environ.get("GEMINI_API_KEY", "").strip()
     if not chave:
         raise RuntimeError("sem GEMINI_API_KEY")
-    corpo = {"contents": [{"parts": [{"text": ESTILO + texto}]}],
-             "generationConfig": {"responseModalities": ["AUDIO"],
-                                  "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": VOZ_GEMINI}}}}}
+    modelos = [_MODELO_TRAVADO] if _MODELO_TRAVADO else MODELOS_TTS
     erros = []
-    for modelo in MODELOS_TTS:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-        req = urllib.request.Request(url, data=json.dumps(corpo).encode(),
-                                     headers={"Content-Type": "application/json", "x-goog-api-key": chave})
-        try:
-            with urllib.request.urlopen(req, timeout=180) as r:
-                d = json.loads(r.read())
-            parte = d["candidates"][0]["content"]["parts"][0]["inlineData"]
-            pcm = base64.b64decode(parte["data"])
-            taxa = 24000
-            m = re.search(r"rate=(\d+)", parte.get("mimeType", ""))
-            if m:
-                taxa = int(m.group(1))
-            with wave.open(str(saida), "wb") as w:
-                w.setnchannels(1)
-                w.setsampwidth(2)
-                w.setframerate(taxa)
-                w.writeframes(pcm)
-            return f"Google Gemini TTS ({modelo}, voz {VOZ_GEMINI})"
-        except urllib.error.HTTPError as e:
-            erros.append(f"{modelo}: HTTP {e.code} {e.read().decode('utf-8', 'replace')[:200]}")
-        except Exception as e:  # noqa: BLE001
-            erros.append(f"{modelo}: {e}")
-    raise RuntimeError("; ".join(erros))
+    for modelo in modelos:
+        for tentativa in range(8):
+            try:
+                d = _pedir_tts(modelo, chave, texto)
+                parte = d["candidates"][0]["content"]["parts"][0]["inlineData"]
+                pcm = base64.b64decode(parte["data"])
+                taxa = 24000
+                m = re.search(r"rate=(\d+)", parte.get("mimeType", ""))
+                if m:
+                    taxa = int(m.group(1))
+                with wave.open(str(saida), "wb") as w:
+                    w.setnchannels(1)
+                    w.setsampwidth(2)
+                    w.setframerate(taxa)
+                    w.writeframes(pcm)
+                _MODELO_TRAVADO = modelo
+                return f"Google Gemini TTS ({modelo}, voz {VOZ_GEMINI})"
+            except urllib.error.HTTPError as e:
+                corpo = e.read().decode("utf-8", "replace")
+                if e.code in (429, 500, 503) and (_MODELO_TRAVADO or tentativa < 2):
+                    m = re.search(r'"retryDelay":\s*"(\d+)', corpo)
+                    espera = min(90, int(m.group(1)) + 3) if m else 20 * (tentativa + 1)
+                    if "PerDay" in corpo or "per day" in corpo.lower():
+                        erros.append(f"{modelo}: limite do DIA esgotado")
+                        break
+                    print(f"    Google pediu para esperar ({e.code}); {espera} s")
+                    time.sleep(espera)
+                    continue
+                erros.append(f"{modelo}: HTTP {e.code} {corpo[:200]}")
+                break
+            except Exception as e:  # noqa: BLE001
+                erros.append(f"{modelo}: {e}")
+                break
+        if _MODELO_TRAVADO:
+            break
+    raise RuntimeError("; ".join(erros) or "sem resposta")
 
 
 def voz_edge(texto: str, saida: Path) -> str:
@@ -206,7 +235,7 @@ def voz_edge(texto: str, saida: Path) -> str:
     return f"Microsoft Edge TTS ({VOZ_EDGE}), reserva"
 
 
-def narrar(segs: list[dict], trab: Path) -> str:
+def narrar(segs: list[dict], trab: Path, reserva: bool = False) -> str:
     pasta = trab / "voz"
     pasta.mkdir(parents=True, exist_ok=True)
     usadas = set()
@@ -217,12 +246,17 @@ def narrar(segs: list[dict], trab: Path) -> str:
             sh("ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", f"sine=frequency=220:duration={seg:.2f}",
                "-af", "volume=0.05", "-ar", "24000", "-ac", "1", wav)
             usadas.add("teste (sem voz)")
-        if not wav.exists():
+        if not wav.exists() and not reserva:
             try:
                 usadas.add(voz_gemini(s["texto"], wav))
             except Exception as e:  # noqa: BLE001
-                print(f"  voz do Google indisponível em {s['id']}: {e}")
-                usadas.add(voz_edge(s["texto"], wav))
+                # uma voz só: se o Google falhar no meio, refaz o episódio INTEIRO na reserva
+                print(f"  voz do Google indisponível em {s['id']}: {e}; refazendo tudo com a voz reserva")
+                for v in pasta.glob("*.wav"):
+                    v.unlink()
+                return narrar(segs, trab, reserva=True)
+        if not wav.exists():
+            usadas.add(voz_edge(s["texto"], wav))
         # respiro de 0,35 s no fim de cada trecho
         final = pasta / f"{s['id']}-final.wav"
         sh("ffmpeg", "-y", "-loglevel", "error", "-i", wav, "-af", "apad=pad_dur=0.35,loudnorm=I=-16:TP=-1.5",
