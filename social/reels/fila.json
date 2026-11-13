@@ -2672,7 +2672,7 @@
     "slug": "gameplay-jason-e-lucia",
     "data": "2026-11-13",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "A diferença de gameplay do Jason e da Lúcia no GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #jason #lucia #pixelzada",
     "tentativas": 0,
@@ -2686,6 +2686,22 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Moldura"
+    },
+    "publicado": {
+      "em": "2026-11-13T17:01:36-03:00",
+      "media_id": "18135074188706191",
+      "permalink": "https://www.instagram.com/reel/DfscSoXgIGJ/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af76cd478196a0a97194992",
+        "em": "2026-11-13T17:02:26-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=QSdS_z4eFHs"
+      }
     }
   },
   {
