@@ -17,5 +17,9 @@
     "mes": "2026-11",
     "tiktok": 33,
     "youtube": 30
-  }
+  },
+  "pausadas": [
+    "tiktok"
+  ],
+  "pausadas_motivo": "13/11/2026: aquecer a conta do TikTok (Diego posta à mão por ~1 semana); depois voltar com até 3 por dia"
 }

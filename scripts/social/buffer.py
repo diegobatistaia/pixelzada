@@ -221,6 +221,11 @@ def enviar(item: dict, video: str, cfg: dict) -> dict:
     for rede in REDES:
         if rede not in cfg.get("canais", {}) or (redes.get(rede) or {}).get("post_id"):
             continue
+        if rede in (cfg.get("pausadas") or []):
+            # Diego, 13/11: TikTok pausado para aquecer a conta (vídeos zerados com 16 envios/dia).
+            # Fica marcado como pulado para não despejar a fila atrasada quando a rede voltar.
+            redes[rede] = {"pulado": "rede pausada (buffer.json: pausadas)"}
+            continue
         if not vai_para(item, rede, cfg):
             redes[rede] = {"pulado": "vídeo de outro perfil"}
             continue
