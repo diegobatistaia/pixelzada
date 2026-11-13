@@ -109,7 +109,9 @@
     "query": "id Software Doom",
     "alt": "Arte de Doom: The Dark Ages, da id Software",
     "url": "https://assets-prd.ignimgs.com/2026/11/10/doom-1794350833795.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/id-software-confirma-novo-jogo-hugo-mart-3bac3343.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -131,5 +133,7 @@
       "title": "id Software confirms it's working on a new game after layoffs"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T00:40:34+00:00",
+  "updated_at": "2026-11-13T00:40:34+00:00"
 }

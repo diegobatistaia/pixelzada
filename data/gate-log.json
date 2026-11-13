@@ -1367,5 +1367,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-13T00:40:34+00:00",
+    "id": "id-software-confirma-novo-jogo-hugo-martin-slaughter-mode",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
