@@ -2456,7 +2456,7 @@
     "slug": "pov-quinta-gta6-liberado",
     "data": "2026-11-13",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liberado no seu console 🏃‍♂️💨\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #ps5 #pixelzada",
     "tentativas": 0,
@@ -2470,6 +2470,25 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-13T09:01:08-03:00",
+      "media_id": "18141611572539981",
+      "permalink": "https://www.instagram.com/reel/DfrlTmNgoiO/"
+    },
+    "redes": {
+      "tiktok": {
+        "post_id": "6af6fc2ed414da1f7da26898",
+        "em": "2026-11-13T09:01:49-03:00",
+        "status": "sending",
+        "link": null
+      },
+      "youtube": {
+        "post_id": "6af6fc397828e7ae1b09aafd",
+        "em": "2026-11-13T09:02:00-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
