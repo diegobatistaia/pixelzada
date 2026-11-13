@@ -101,7 +101,9 @@
     "query": "QSSR PS5 Spider-Man 2",
     "alt": "Imagem de Marvel's Spider-Man 2 com o upscaling QSSR no PS5",
     "url": "https://blog.playstation.com/tachyon/2026/11/84a6eb5f0831acb87ad7b548df366dcf10547aaf-scaled.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/qssr-ps5-spider-man-2-control-resonant-a-4bfac3d7.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -117,5 +119,7 @@
       "title": "PS5 QSSR support added to Marvel's Spider-Man 2, Control Resonant, ARC Raiders, The Finals, No Man's Sky, and Hell Let Loose: Vietnam"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T15:42:51+00:00",
+  "updated_at": "2026-11-13T15:42:51+00:00"
 }
