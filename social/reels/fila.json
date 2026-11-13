@@ -2750,7 +2750,7 @@
     "slug": "chegando-na-firma-gta6-baixando",
     "data": "2026-11-13",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Como eu me senti chegando na firma hoje, falando pros rapazes que deixei o GTA 6 baixando no Play 5 😎\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #ps5 #memes #pixelzada",
     "tentativas": 0,
@@ -2764,6 +2764,22 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "TV"
+    },
+    "publicado": {
+      "em": "2026-11-13T19:04:12-03:00",
+      "media_id": "18117165665598242",
+      "permalink": "https://www.instagram.com/reel/DfsqVzLDXJB/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af78994bb36d00909cf3542",
+        "em": "2026-11-13T19:05:07-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=somBXld3deQ"
+      }
     }
   },
   {
