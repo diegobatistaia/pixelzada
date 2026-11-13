@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:42:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:44:02 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Game Awards 2026 revela indicados na terça (17), dois dias antes de GTA 6</title>
+      <link>https://pixelzada.com.br/pt/the-game-awards-2026-indicados-terca-17-de-novembro-gta-6-elegivel/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-game-awards-2026-indicados-terca-17-de-novembro-gta-6-elegivel/</guid>
+      <description>O The Game Awards 2026 revela os indicados na terça, 17 de novembro, e GTA 6 é elegível. Veja horário, regras e a data da cerimônia, em 10 de dezembro.</description>
+      <category>Indústria</category>
+      <pubDate>Fri, 13 Nov 2026 22:44:01 +0000</pubDate>
+    </item>
     <item>
       <title>God of War: Sons of Sparta chega ao PS4 em 16 de novembro com dois modos novos</title>
       <link>https://pixelzada.com.br/pt/god-of-war-sons-of-sparta-ps4-16-de-novembro-modos-hermes-erebus/</link>
@@ -238,14 +246,6 @@
       <description>Veja os jogos do catálogo do PlayStation Plus em novembro de 2026: Death Stranding 2, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall e Dragon Quest III.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 10 Nov 2026 20:44:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6: pré-load já está liberado no PS5 e no Xbox; veja o que saber</title>
-      <link>https://pixelzada.com.br/pt/gta-6-pre-load-disponivel-ps5-xbox-212-gb/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-pre-load-disponivel-ps5-xbox-212-gb/</guid>
-      <description>O pré-load de GTA 6 já está liberado no PS5 e no Xbox Series X|S. Veja o espaço necessário, como funciona o lançamento à meia-noite e o que muda no PS5 Pro.</description>
-      <category>GTA 6</category>
-      <pubDate>Tue, 10 Nov 2026 18:55:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

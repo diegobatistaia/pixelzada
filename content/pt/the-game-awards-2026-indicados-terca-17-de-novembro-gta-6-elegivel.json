@@ -113,7 +113,9 @@
     "query": "The Game Awards 2026",
     "alt": "Arte-chave do The Game Awards",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/tga_key_art_side.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/the-game-awards-2026-indicados-terca-17--9dd01a3e.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -129,5 +131,7 @@
       "title": "The Game Awards nominees to be announced ahead of GTA 6 release"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-13T22:44:01+00:00",
+  "updated_at": "2026-11-13T22:44:01+00:00"
 }
