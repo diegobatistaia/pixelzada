@@ -2893,7 +2893,7 @@
     "slug": "ps5-contra-series-s-gta6",
     "data": "2026-11-14",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "PS5 vai humilhar o Xbox Series S no GTA 6? 🤣\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #ps5 #xboxseriess #memes #pixelzada",
     "tentativas": 0,
@@ -2907,6 +2907,22 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Polaroid"
+    },
+    "publicado": {
+      "em": "2026-11-14T08:01:40-03:00",
+      "media_id": "17919846228262264",
+      "permalink": "https://www.instagram.com/reel/DfuDS-sikR-/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af83fb4d16af15d4d0d14b9",
+        "em": "2026-11-14T08:02:11-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
