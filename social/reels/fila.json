@@ -3331,7 +3331,7 @@
     "slug": "battlefield6-nao-houve-marker",
     "data": "2026-11-14",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Battlefield 6: não houve evento. Não houve Marker 👁️\n\nSegue @pixelzada.br pra acompanhar o Battlefield 6.\n\n#battlefield6 #battlefield #fps #pixelzada",
     "tentativas": 0,
@@ -3347,6 +3347,22 @@
       "tema": "games",
       "jogo": "o universo dos games",
       "moldura": "simples-preta"
+    },
+    "publicado": {
+      "em": "2026-11-14T19:59:23-03:00",
+      "media_id": "18079770425760194",
+      "permalink": "https://www.instagram.com/reel/DfvVbW0lTzC/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8e7ece86a5789a6d7d95d",
+        "em": "2026-11-14T19:59:55-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
