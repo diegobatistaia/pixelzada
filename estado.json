@@ -7,25 +7,27 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-14T16:12-03:00",
+ "atualizado": "2026-11-14T19:58-03:00",
  "hoje": {
   "data": "2026-11-14",
   "reels": {
    "meta": 15,
-   "publicados": 10,
-   "deviam_ter_saido": 9,
+   "publicados": 13,
+   "deviam_ter_saido": 13,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 4,
+   "deviam_ter_saido": 6,
    "atrasados": [
     "09:00",
     "11:00",
     "13:00",
-    "15:00"
+    "15:00",
+    "17:00",
+    "19:00"
    ],
    "pautas_esperando": 0
   }
@@ -39,7 +41,7 @@
   "por_dia": [
    {
     "data": "2026-11-14",
-    "agendados": 5,
+    "agendados": 2,
     "meta": 15
    },
    {
@@ -54,53 +56,53 @@
    },
    {
     "data": "2026-11-17",
-    "agendados": 12,
+    "agendados": 15,
     "meta": 17
    }
   ]
  },
  "site": {
-  "total": 208,
-  "hoje": 4,
+  "total": 210,
+  "hoje": 6,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "GTA 6 em português: legendas e menus sim, dublagem não",
-   "url": "https://pixelzada.com.br/pt/gta-6-em-portugues-legendas-e-menus-sim-dublagem-nao/",
-   "em": "2026-11-14T15:41:44-03:00"
+   "titulo": "League of Legends New Dawn: Riot revela cliente novo e Summoner's Rift renovado",
+   "url": "https://pixelzada.com.br/pt/league-of-legends-new-dawn-riot-revela-cliente-novo-e-mapa-renovado/",
+   "em": "2026-11-14T19:39:35-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "14/11/2026 15:05",
+  "ultima_coleta": "14/11/2026 19:06",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 96,
+  "seguidores": 97,
   "seguindo": 5,
-  "posts": 278,
-  "alcance_7d": 38019,
-  "views_7d": 51394,
+  "posts": 281,
+  "alcance_7d": 38290,
+  "views_7d": 51786,
   "reels_7d": {
-   "quantidade": 67,
-   "views_total": 51938,
-   "views_mediana": 169,
+   "quantidade": 70,
+   "views_total": 52310,
+   "views_mediana": 168,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-14": 1161,
-    "2026-11-13": 2132,
+    "2026-11-14": 1407,
+    "2026-11-13": 2133,
     "2026-11-12": 2137,
     "2026-11-11": 2276,
     "2026-11-10": 2047,
     "2026-11-09": 1537,
-    "2026-11-08": 40648
+    "2026-11-08": 40773
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 40406,
-     "alcance": 29220,
-     "curtidas": 1296,
+     "views": 40531,
+     "alcance": 29251,
+     "curtidas": 1300,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -141,25 +143,18 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 1,
+  "falhas_24h": 0,
   "sem_resolver": 0,
-  "lista": [
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-13T19:08:19-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43516758239",
-    "resolvido": true
-   }
-  ]
+  "lista": []
  },
  "buffer": {
   "ativo": true,
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 52
+   "youtube": 56
   },
-  "erros_hoje": 0
+  "erros_hoje": 3
  },
  "ultimos_dias": [
   {
@@ -169,7 +164,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 40648
+   "views_reels": 40773
   },
   {
    "data": "2026-11-09",
@@ -214,16 +209,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2132
+   "views_reels": 2133
   },
   {
    "data": "2026-11-14",
-   "reels": 10,
+   "reels": 13,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 4,
-   "views_reels": 1161
+   "materias": 6,
+   "views_reels": 1407
   }
  ],
  "seguidores_por_dia": [
@@ -253,13 +248,17 @@
   },
   {
    "data": "2026-11-14",
-   "seguidores": 96
+   "seguidores": 97
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
+  },
+  {
+   "nivel": "amarelo",
+   "texto": "Buffer: 3 envio(s) para TikTok/YouTube com erro hoje"
   }
  ]
 }
