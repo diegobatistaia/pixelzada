@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T23:38:27+00:00",
-  "posts_per_language_today": 1,
+  "generated_at": "2026-11-14T03:40:19+00:00",
+  "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 9,
+  "already_written_today": 0,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,52 +42,62 @@
   ],
   "stories": [
     {
-      "story_id": "2d4257d68c73ac0e",
-      "title": "Vindictus: Defying Fate comes to PS5 next year",
-      "summary": "Hello, PlayStation players. I’m Dongseok Oh, lead director of the high-octane action-RPG Vindictus: Defying Fate. Our team is building a medieval fantasy adventure where heroes must stand against colossal foes in a world inspired by Celtic mythology and, today, we’re officially revealing that Vindictus: Defying Fate is coming to PS5. I’m honored to have this […]",
+      "story_id": "fc1de73bf37c4cd5",
+      "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
+      "summary": "Sony has confirmed Marvel's Spider-Man 2, Arc Raiders, and four more games are receiving QSSR support on base PS5s.",
       "owners": [
-        "gematsu",
-        "insider-gaming",
-        "sony"
+        "adrenaline",
+        "gameblast",
+        "vgc",
+        "ziff-davis"
       ],
-      "primary_owners": [
-        "sony"
-      ],
+      "primary_owners": [],
       "fingerprints": [
-        "0acf395c76f1e5ce",
-        "acaaafef929bd5a4",
-        "b2a50ccc5a86a525"
+        "1998def1221fe833",
+        "be01f7e910fc54b3",
+        "22da84472c98b4f8",
+        "a4e9d8ba4df37bc9"
       ],
       "sources": [
         {
-          "name": "PlayStation Blog",
-          "owner": "sony",
-          "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
-          "title": "Vindictus: Defying Fate comes to PS5 next year",
-          "published_at": "2026-11-12T13:07:48+00:00",
-          "kind": "primary",
-          "text": "Discover the world and core gameplay of Vindictus: Defying Fate. Hello, PlayStation players. I’m Dongseok Oh, lead director of the high-octane action-RPG Vindictus: Defying Fate . Our team is building a medieval fantasy adventure where heroes must stand against colossal foes in a world inspired by Celtic mythology and, today, we’re officially revealing that Vindictus: Defying Fate is coming to PS5. I’m honored to have this opportunity to introduce the core gameplay and world to the PlayStation community. Visceral, engaging combat is key to the Vindictus: Defying Fate experience. So much so, that weapons are the first step when we conceptualize our heroes. We carefully consider a wide range of weapons, from familiar ones players expect to see to more unconventional options that offer unique and exciting combat possibilities, and choose one as the foundation. Our teams behind narrative, combat actions, and appearance are given freedom to explore their own designs and express their creativity before the overall direction is established, crafting a hero with a distinct combat style. Who you choose to play will yield an entirely different experience. You can devote yourself to the one hero who captures your heart, or develop several heroes and choose the right one as the situation demands. Lann: Relies on dodging rather than guarding. Chain dodges to avoid attacks, then close in for a strike immediately after landing a hit. Fiona: Uses her shield to block and counterattack, balancing offense and defense. Deflect an enemy attack with precise timing to continue your own attack without interruption. If you hope to withstand combat in this harsh world, you will need intense focus and precise control. Survival means learning how your enemies move. Depending on your chosen hero’s abilities, you can parry a crushing blow, block a brutal barrage of attacks, or dodge at just the right moment. The key is to create an opening and strike back with a heavy counterattack. Delia: Builds up power to unleash a devastating blow. She can also evade attacks by piercing through an enemy as she strikes. Karok: Absorbs the impact of incoming attacks to stand his ground. Time your response to a powerful enemy attack to enter a contest of strength. You also craft your own weapons, customizing your outfits and appearance to make your hero uniquely yours. “The gates of paradise shall open when one race eradicates the other.” Ruled by this fateful prophecy, the Humans and Fomors of Taranúil have long soaked the land in each other’s blood. You must face your fate as a new recruit of the Kalbram Mercenaries, working under the Rocheste Order. As you set out on your journey, you’ll uncover a shadowy plot hiding beneath old conflicts. As you explore the world of Vindictus, you’ll encounter breathtaking lands still touched by the breath of ancient gods, and thriving centers of human culture that have blossomed even amid war. Every step across this uncharted continent reveals a new landscape, yet the same reality awaits: war against the Fomors. From Fomors hostile to humankind to ferocious beasts, all manner of enemies lie in wait. Colhen: A small farming village on the front line, where human and Fomor territories meet. Northern Ruins: Ancient ruins that once stood in neutral territory between humans and Fomors. Hoarfrost Hollow: A valley of snow-covered forests, ice mines, and glacial waterfalls. Ainle: A city destroyed overnight by a mysterious incident. This journey is, at its core, one you walk alone. We are also preparing multiplayer content that will let you face overwhelming threats alongside other players. Defy your fate The prophecy has already been spoken. Yet only a hero’s single step forward can rise above that fate. Now, it’s your turn to defy it. The PlayStation Store page for Vindictus: Defying Fate is now live and you can add the game to your wishlist .",
-          "image": "https://blog.playstation.com/tachyon/2026/11/0bfe897fc01044ee53ab7ea0a12dcd7164024df9.jpg"
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
+          "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
+          "published_at": "2026-11-13T23:48:37+00:00",
+          "kind": "press",
+          "text": "Sony has confirmed Marvel's Spider-Man 2 , Arc Raiders , and four more games are receiving QSSR support on base PS5s. The list of six newcomers joining the small-but-growing group of supported games was unveiled in a PlayStation.Blog post . In addition to confirmation that incoming updates will add QSSR (Quick Spectral Super Resolution), the post included testimonials from each of the studios' developers, who shared how the tech will impact visuals. When Sony pulled back the curtain on QSSR in October, it came with confirmation that it had already been implemented in Marvel's Wolverine and Ghost of Yōtei. Now, we know that Insomniac's Marvel's Spider-Man 2, Remedy Entertainment's Control Resonant , Embark Studios' Arc Raiders and The Finals , Hello Games' No Man's Sky , and Expression Games' Hell Let Loose: Vietnam will soon take advantage of the AI upscaling tech. In the case of Marvel's Spider-Man 2, QSSR is available as part of a new update that's out now. \"Having seen great results integrating QSSR in Marvel’s Wolverine, our team decided to bring it to Marvel’s Spider-Man 2 as well, in an update that’s live now!\" Insomniac head of technology Mike Fitzgerald said. \"We’re excited for players to swing back into our 2023 title and see QSSR’s exciting image stability and sharpness benefits in both Fidelity and Performance modes.\" Remedy said QSSR will bring noticeable improvements in image stability and fine detail when it launches in a new update in December. Hello Games founder Sean Murray, meanwhile, promised that players can look forward to No Man's Sky looking \"sharper, cleaner, and more beautiful\" at the \"best possible framerate\" in the next few weeks. When exactly The Finals, Arc Raiders, and Hell Let Loose: Vietnam will receive their updates has yet to be announced. \"With the new QSSR coming soon to ARC Raiders and The Finals, we can deliver increased sharpness, better environmental clarity, and overall visual improvements to even more PlayStation players,\" Embark said. \"We are very happy to see Sony’s continued investment in PlayStation technology translate into meaningful improvements for all players, bringing more immersive experiences across the PlayStation ecosystem.\" Sony then teased that developers interested in using QSSR are \"just getting started.\" More PS5 games are set to receive similar updates in the coming months, though which titles will join the list remains to be seen. Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
+          "image": "https://assets-prd.ignimgs.com/2025/01/30/pc-first-mins-br-1738277933414.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/vindictus-defying-fate-new-trailer-2027-release/",
-          "title": "Vindictus: Defying Fate Targets 2027 Release on PC and PS5",
-          "published_at": "2026-11-13T18:00:00+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/playstation-5-marvel-spider-man-2-control-resonant-the-finals-arc-riders-hell-let-loose-vietnam-receberao-suporte-ao-qssr.html",
+          "title": "PlayStation 5: Marvel's Spider-Man 2, Control Resonant, The Finals, ARC Raiders e Hell Let Loose: Vietnam receberão suporte ao QSSR",
+          "published_at": "2026-11-13T16:25:06+00:00",
           "kind": "press",
-          "text": "Nexon has released a new cinematic trailer for Vindictus: Defying Fate, giving players another look at the upcoming action RPG. Alongside the trailer, the company confirmed that the game is targeting a 2027 release on PC and PlayStation 5. The new trailer, titled “Let the Righteous Judge,” offers a glimpse at the game’s dark fantasy world and some of the mysteries surrounding its story. Now, the studio isn’t giving too much away just yet, but it does provide a better look at the setting players will eventually get to explore. If you’re unfamiliar with Vindictus: Defying Fate, it’s an action RPG set in a medieval fantasy world. Players will be able to control a “large roster of distinct characters”, each with their own abilities, combos, and fighting styles. Several familiar faces from the series are returning, including Lann, Fiona, Karok, and Delia. They’ll be going up against Fomorian creatures inspired by Celtic mythology, including some seriously massive enemies that will put players’ combat skills to the test. Nexon says the game will combine action-focused combat with RPG progression and character customization, giving players plenty of ways to approach its challenges. There’s still quite a bit we don’t know about Vindictus: Defying Fate, including its exact release date. The game is currently targeting 2027, though its Steam page is already live and its PlayStation Store listing went up on November 12. Players can wishlist the game now on Steam. What do you think of Vindictus: Defying Fate’s latest trailer? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . In other news, read about id Software confirming its next game is in development . Also, don’t forget to sign up for our weekly newsletter Mike has been covering the gaming industry since 2012, and has reported on some of the largest events in the industry while also working as an investigative reporter. Outside of…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/PS5_screen-1.jpg"
+          "text": "",
+          "image": ""
         },
         {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer",
-          "title": "Vindictus: Defying Fate ‘Let the Righteous Judge’ cinematic trailer",
-          "published_at": "2026-11-13T18:05:39+00:00",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/ps5-anuncia-qssr-em-marvels-spider-man-2-e-revela-lista-dos-proximos-jogos/",
+          "title": "PS5 anuncia QSSR em Marvel’s Spider-Man 2 e revela lista dos próximos jogos",
+          "published_at": "2026-11-13T16:31:42+00:00",
           "kind": "press",
-          "text": "NEXON has released a new cinematic trailer for medieval fantasy action RPG Vindictus: Defying Fate , dubbed “Let the Righteous Judge,” offering a deeper look at the hidden truths and events that shape its story, and at the world players will be able to explore. Here is a brief overview of the game, via NEXON: Vindictus: Defying Fate is a fast-paced medieval fantasy adventure that combines adrenaline-fueled combat with the depth and customization of RPGs. Play with a large roster of distinct characters, each boasting unique abilities and combos, including series favorites Lann, Fiona, Karok, and Delia. Face fearsome Fomorian creatures based on classic Celtic mythology and brace for cunning monsters that tower over your character, poised to challenge your prowess. Embrace the challenge, embark on your journey, and be part of the saga that defies fate! Vindictus: Defying Fate is due out for PlayStation 5 and PC via Steam in 2027.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Vindictus-PV_11-13-26.jpeg"
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/ps5-qssr-spider-man-2-mais-jogos.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
+          "title": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant",
+          "published_at": "2026-11-13T16:35:57+00:00",
+          "kind": "press",
+          "text": "No Man’s Sky, The Finals, and Hell Let Loose: Vietnam have been updated Six more games are getting graphics upgrades on standard PlayStation 5 consoles, including Arc Raiders, No Manâs Sky, and Control Resonant, via QSSR support. Announced last month, Quick Spectral Super Resolution (QSSR) is Sony âs new AI upscaling tech, which it claims will bring image improvements to compatible PS5 games. Digital Foundry has called the potential of the technology âremarkableâ. On Friday, Sony confirmed six new titles updated to support QSSR: Marvelâs Spider-Man 2 , Control Resonant , The Finals, ARC Raiders, and Hell Let Loose: Vietnam, No Manâs Sky . According to Insomniac , Spider-Man 2 has received âimage stability and sharpness benefitsâ in both Fidelity and Performance modes. Meanwhile, Remedy says Control Resonant has seen ânoticeable improvements” in image stability and fine detail. Arc Raiders is claimed to have benefited from âincreased sharpness, better environmental clarity and overall visual improvementsâ, while No Manâs Sky sees âsharper, cleaner and more beautiful detailâ. Finally, Hell Let Loose: Vietnam is said to have benefited from âsharper, cleaner image qualityâ thanks to the QSSR update. QSSR is built on the same foundation as PlayStation Spectral Super Resolution (PSSR) on PS5 Pro. The first titles to use the tech were Marvelâs Wolverine and Ghost of YÅtei, both of which offer QSSR as an additional graphics option on PS5. Digital Foundry said of the tech: âLow resolution and poor upscaling have impacted so many titles in this generation, but QSSR could make a big difference. In Marvelâs Wolverine especially, the quality boost can be exceptional.â",
+          "image": "https://www.videogameschronicle.com/files/2026/11/Screenshot-2026-11-13-163424.jpg"
         }
       ]
     },
@@ -260,54 +270,6 @@
       ]
     },
     {
-      "story_id": "539a01ae89ce097f",
-      "title": "The Blood of Dawnwalker is getting New Game+ next week",
-      "summary": "\"If you completed the Epilogue, you can dive right back into Vale Sangora with New Game+\"",
-      "owners": [
-        "future-plc",
-        "valnet",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "273a64ae7d8a0837",
-        "464ed34da97981aa",
-        "8096d0c63c292e0b"
-      ],
-      "sources": [
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/rpg/the-blood-of-dawnwalker-is-getting-new-game-next-week-with-patch-bringing-the-level-cap-for-the-ex-witcher-devs-vampire-rpg-up-to-100/",
-          "title": "The Blood of Dawnwalker is getting New Game+ next week",
-          "published_at": "2026-11-13T17:12:59+00:00",
-          "kind": "press",
-          "text": "\"If you completed the Epilogue, you can dive right back into Vale Sangora with New Game+\" Rebel Wolves has confirmed that The Blood of Dawnwalker is getting New Game+ as part of its 1.2 update next week. Despite a number of nominations and bringing out one of the best vampire games of the modern era , The Blood of Dawnwalker didn't pick up any awards at the Golden Joystick Awards this week. It did come close, with a second place finish in PC Game of the Year and Best Storytelling, and a fifth place finish in Ultimate Game of the Year. The ex- CD Projekt Red devs at Rebel Wolves were happy with their performance , and clearly haven't let the narrow losses faze them, as the game's next major patch is coming very soon. As announced by Rebel Wolves on Reddit , The Blood of Dawnwalker 1.2 update releases next week. This update will include balance changes with enemy health pools and ability use being tweaked as well as terrain adjustments to improve movement around the world. But the headline act of this new update is New Game+ finally arriving in the game. \"If you completed the Epilogue, you can dive right back into Vale Sangora with New Game+.\" the post reads. As part of this mode, the level cap is being raised to 100, with enemies balanced and scaled accordingly. On top of that, items will receive New Game+ versions with updated stats, too. The average playthrough of The Blood of Dawnwalker is around 25 hours according to HowLongToBeat , so this new addition should help you get even more out of what is considered \"short\" by RPG standards. 6 things I need from The Blood of Dawnwalker's sequel. Weekly digests, tales from the communities you love, and more Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/cMaAZ8TQB8E2P2XYjsEYZL-1920-80.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/blood-of-dawnwalker-update-new-game-plus-announced/",
-          "title": "Blood of Dawnwalker Finally Gets Its Most Requested Feature Next Week",
-          "published_at": "2026-11-13T20:35:18+00:00",
-          "kind": "press",
-          "text": "Rebel Wolves is giving fans what they’ve been asking for in update 1.2 It's been just over two months since The Blood of Dawnwalker was released and fans have been clamoring for one missing feature for basically that long. Now developer Rebel Wolves is set to appease that demand with the upcoming update 1.2. Yes, New Game Plus is going to be a reality for the vampire RPG. Rebel Wolves has already pushed several post-release updates to The Blood of Dawnwalker to address fan feedback. The game's first big patch, update 1.1 , added a new difficulty mode, tweaked combat, and introduced the all-important ability to pet animals. It crucially lacked New Game Plus. Back in September, director Konrad Tomaszkiewicz revealed that the studio was exploring the possibility but didn't want to speak about it yet. Staying tight-lipped was likely meant to not overexcite fans if the feature couldn't actually be delivered. Well, now it seems like Rebel Wolves has figured it out. As revealed on the game's social media accounts , New Game Plus will be added as part of update 1.2. The big patch will be released next week. A specific date was not shared, but update 1.1 was dropped on a Thursday. As detailed by the announcement, New Game Plus will be available once players have completed the game's epilogue. Your level, skills, and inventory will all carry over. Additionally, the level cap will be raised to 100 and enemies will be balanced and scaled across all regions. Items will be given New Game Plus versions with updated stats. Enjoy sinking your teeth back into Vale Sangora. New Game Plus isn't the only new feature coming to the game in update 1.2, though it is the biggest addition. If you purchased The Blood of Dawnwalker — Eclipse Edition , you'll notice that the in-game soundtrack will be extended with new songs. Streaming services will also get the new soundtrack material soon. As for general tweaks to The Blood of Dawnwalker , update 1.2 will make some balance changes to enemy health pools and how often they use their abilities during combat. Some terrain geometry has also been adjusted to allow for smoother movement during combat and exploration. The Blood of Dawnwalker has been one of 2026's great surprises, but it is unclear whether it will be able to shine through a crowded field as awards season kicks into full gear.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-blood-of-dawnwalker-how-long-to-beat.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/blood-of-dawnwalker-new-game-plus",
-          "title": "The Blood of Dawnwalker is getting a New Game Plus mode in next week's update",
-          "published_at": "2026-11-13T20:49:20+00:00",
-          "kind": "press",
-          "text": "A New Game Plus mode is coming to vampiric RPG The Blood of Dawnwalker next week. Developer Rebel Wolves has now detailed everything coming with The Blood of Dawnwalker's Update 1.2, currently planned to go live sometime next week, and top of the list of changes is a New Game Plus for players who have already rolled credits on the game. \"If you completed the Epilogue, you can dive right back into Vale Sangora with New Game+,\" the developer revealed earlier today. \"Your level, skills, and inventory will carry over.\" Rebel Wolves is upping the level cap to 100 for New Game Plus, which will also have items with updated stats and enemies \"balanced and scaled uniformly across all regions.\" Elsewhere in Update 1.2, the studio is making tweaks to \"enemy health pools and how often they use their abilities during combat,\" and improving terrain geometry to allow for \"smoother movement during combat and exploration.\" We'll need to wait for more comprehensive patch notes before finding out which enemies are getting spongier or flimsier, however. While the incoming patch doesn't seem to be as beefy as the last - the one that added animal petting and an easier Story mode - it'll be a good way to sink your teeth deeper into a game that's already begging to be replayed, thanks to a time management mechanic that can drastically change any given run. The new game from some former The Witcher 3 veterans came out in September and seems to have been a hit. Eurogamer's The Blood of Dawnwalker review called the game a \"familiar dark fantasy adventure, but one with bold and provocative ideas of its own, that's mostly, enormously successful.\"",
-          "image": "https://assetsio.gnwcdn.com/blood_of_dawnwalker_rescue_family_header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
       "story_id": "12b3cff7ffdba9b8",
       "title": "Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro",
       "summary": "The post Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro appeared first on Xbox Wire em Português .",
@@ -381,6 +343,44 @@
           "kind": "primary",
           "text": "Um sinal de socorro leva você e sua tripulação da Incognito até uma nave abandonada, onde vocês encontram os tripulantes em animação suspensa. Tudo indica que há algo de errado, especialmente a poça do que muito provavelmente já foi uma pessoa. Você recupera uma mensagem em vídeo deixada pela capitã da nave, que explica que a tripulação foi contaminada por algo durante um roubo e que, se não encontrarem uma cura, isso causará uma morte celular explosiva. E, por morte celular explosiva, ela quer dizer algo mais parecido com uma… “liquefação”. Pelo jeito da poça no chão: é liquefação mesmo. Esse é o cenário para o lançamento da primeira parte de uma expansão narrativa em DLC de The Outer Worlds 2 , dividida em duas partes, em 2 de dezembro. Em Side Effects Guaranteed, a mensagem em vídeo que você encontrou leva até Gordon Hazen, um dos principais agentes da Sub Rosa, uma organização criminosa formada por pessoas que compartilham dos mesmos ideais e escolheram viver roubando das diversas facções em vez de trabalhar para elas. Gordon, por sua vez, envia você para Elysium Valley, uma nova região de Eden que abriga um assentamento de antigos súditos do Protetorado, esquecidos por seus líderes. Ele acredita que eles podem ter as respostas para salvar sua tripulação. Embora prefira a diplomacia à violência, ele precisa que você faça o que for necessário para conseguir as informações de que precisa. Mas Gordon não é o único interessado em Elysium Valley. Outro agente da Sub Rosa, Algernon Lankester, quer recrutar você para ajudá-lo a explorar os súditos em benefício próprio. O destino dos súditos, dos agentes congelados da Sub Rosa e o futuro da própria organização estão nas suas mãos, nosso intrépido Comandante. No entanto, uma nova história não será a única novidade de Side Effects Guaranteed quando o DLC for lançado daqui a algumas semanas. Além de explorar a nova região de Elysium Valley, os jogadores vão encontrar novas ameaças, como canídeos ferozes e sprats primitivos. O que é um sprat primitivo? É só um sprat normal, mas cerca de 100 vezes maior. Com certeza, eles são tão amigáveis quanto seus primos bem menores e vão perdoar todas as vezes em que você atirou neles “sem querer” enquanto explorava Arcadia. Com essas novas ameaças, vem a possibilidade de deixar seu Comandante ainda mais forte e, é claro, com mais defeitos (mas no bom sentido). O limite de nível aumentará de 30 para 36, trazendo mais pontos de habilidade para diversificar sua configuração de personagem. Poder chegar ao nível 36 também significa que você poderá adquirir mais três vantagens, com 15 vantagens inéditas adicionadas às opções disponíveis. Também serão introduzidos quatro novos defeitos que podem mudar a forma de jogar com seu Comandante, como “Lethally Tolerant”, que reconhece sua resistência acumulada a substâncias químicas e aumenta sua toxicidade máxima. Isso é ótimo na hora, mas, se você sofrer um colapso de toxicidade, morrerá instantaneamente. Outro exemplo é “Must Have Been the Wind”, que marca um “alvo de assassinato” em um grupo de combate. Eliminar o alvo concede um bônus de 20% no dano e na velocidade até o fim do combate, mas não conseguir eliminá-lo ou atacar alguém que não seja o alvo aplica ao jogador uma penalidade de 10% no dano e na velocidade por 30 segundos. São recompensas que realmente vêm acompanhadas de grandes riscos. Side Effects Guaranteed também trará novas armas, novas armaduras e novos trajes para cada um dos companheiros, além de uma estação de rádio inédita comandada pela Sub Rosa, com 20 novas músicas para o jogo. Para quem quiser ir direto à ação no DLC, será adicionado um novo ponto de partida alternativo ao menu principal ao selecionar um novo jogo, permitindo começar com um arquivo de jogo salvo personalizado que coloca você no início do DLC. Inicie o jogo, distribua seus pontos de habilidade e de vantagem e aproveite Side Effects Guaranteed sem demora! Essa aventura repleta de conteúdo, com uma história profunda e sistemas para criar seu Comandante ideal, preparará o terreno para o próximo DLC de The Outer Worlds 2 , que chegará no segundo trimestre de 2027. As escolhas que você fizer terão impacto direto no próximo DLC. A primeira parte dessa história que se desenrola ao longo da expansão, Side Effects Guaranteed, será lançada em 2 de dezembro e também está incluída na Edição Premium ou no Upgrade para a Edição Premium de The Outer Worlds 2 .",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/XBOX_TOW-Expansion_KeyArt_Horizontal-40a501e42d9e45b033fd.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "2d4257d68c73ac0e",
+      "title": "Vindictus: Defying Fate comes to PS5 next year",
+      "summary": "Hello, PlayStation players. I’m Dongseok Oh, lead director of the high-octane action-RPG Vindictus: Defying Fate. Our team is building a medieval fantasy adventure where heroes must stand against colossal foes in a world inspired by Celtic mythology and, today, we’re officially revealing that Vindictus: Defying Fate is coming to PS5. I’m honored to have this […]",
+      "owners": [
+        "gematsu",
+        "sony"
+      ],
+      "primary_owners": [
+        "sony"
+      ],
+      "fingerprints": [
+        "0acf395c76f1e5ce",
+        "b2a50ccc5a86a525"
+      ],
+      "sources": [
+        {
+          "name": "PlayStation Blog",
+          "owner": "sony",
+          "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
+          "title": "Vindictus: Defying Fate comes to PS5 next year",
+          "published_at": "2026-11-12T13:07:48+00:00",
+          "kind": "primary",
+          "text": "Discover the world and core gameplay of Vindictus: Defying Fate. Hello, PlayStation players. I’m Dongseok Oh, lead director of the high-octane action-RPG Vindictus: Defying Fate . Our team is building a medieval fantasy adventure where heroes must stand against colossal foes in a world inspired by Celtic mythology and, today, we’re officially revealing that Vindictus: Defying Fate is coming to PS5. I’m honored to have this opportunity to introduce the core gameplay and world to the PlayStation community. Visceral, engaging combat is key to the Vindictus: Defying Fate experience. So much so, that weapons are the first step when we conceptualize our heroes. We carefully consider a wide range of weapons, from familiar ones players expect to see to more unconventional options that offer unique and exciting combat possibilities, and choose one as the foundation. Our teams behind narrative, combat actions, and appearance are given freedom to explore their own designs and express their creativity before the overall direction is established, crafting a hero with a distinct combat style. Who you choose to play will yield an entirely different experience. You can devote yourself to the one hero who captures your heart, or develop several heroes and choose the right one as the situation demands. Lann: Relies on dodging rather than guarding. Chain dodges to avoid attacks, then close in for a strike immediately after landing a hit. Fiona: Uses her shield to block and counterattack, balancing offense and defense. Deflect an enemy attack with precise timing to continue your own attack without interruption. If you hope to withstand combat in this harsh world, you will need intense focus and precise control. Survival means learning how your enemies move. Depending on your chosen hero’s abilities, you can parry a crushing blow, block a brutal barrage of attacks, or dodge at just the right moment. The key is to create an opening and strike back with a heavy counterattack. Delia: Builds up power to unleash a devastating blow. She can also evade attacks by piercing through an enemy as she strikes. Karok: Absorbs the impact of incoming attacks to stand his ground. Time your response to a powerful enemy attack to enter a contest of strength. You also craft your own weapons, customizing your outfits and appearance to make your hero uniquely yours. “The gates of paradise shall open when one race eradicates the other.” Ruled by this fateful prophecy, the Humans and Fomors of Taranúil have long soaked the land in each other’s blood. You must face your fate as a new recruit of the Kalbram Mercenaries, working under the Rocheste Order. As you set out on your journey, you’ll uncover a shadowy plot hiding beneath old conflicts. As you explore the world of Vindictus, you’ll encounter breathtaking lands still touched by the breath of ancient gods, and thriving centers of human culture that have blossomed even amid war. Every step across this uncharted continent reveals a new landscape, yet the same reality awaits: war against the Fomors. From Fomors hostile to humankind to ferocious beasts, all manner of enemies lie in wait. Colhen: A small farming village on the front line, where human and Fomor territories meet. Northern Ruins: Ancient ruins that once stood in neutral territory between humans and Fomors. Hoarfrost Hollow: A valley of snow-covered forests, ice mines, and glacial waterfalls. Ainle: A city destroyed overnight by a mysterious incident. This journey is, at its core, one you walk alone. We are also preparing multiplayer content that will let you face overwhelming threats alongside other players. Defy your fate The prophecy has already been spoken. Yet only a hero’s single step forward can rise above that fate. Now, it’s your turn to defy it. The PlayStation Store page for Vindictus: Defying Fate is now live and you can add the game to your wishlist .",
+          "image": "https://blog.playstation.com/tachyon/2026/11/0bfe897fc01044ee53ab7ea0a12dcd7164024df9.jpg"
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/vindictus-defying-fate-let-the-righteous-judge-cinematic-trailer",
+          "title": "Vindictus: Defying Fate ‘Let the Righteous Judge’ cinematic trailer",
+          "published_at": "2026-11-13T18:05:39+00:00",
+          "kind": "press",
+          "text": "NEXON has released a new cinematic trailer for medieval fantasy action RPG Vindictus: Defying Fate , dubbed “Let the Righteous Judge,” offering a deeper look at the hidden truths and events that shape its story, and at the world players will be able to explore. Here is a brief overview of the game, via NEXON: Vindictus: Defying Fate is a fast-paced medieval fantasy adventure that combines adrenaline-fueled combat with the depth and customization of RPGs. Play with a large roster of distinct characters, each boasting unique abilities and combos, including series favorites Lann, Fiona, Karok, and Delia. Face fearsome Fomorian creatures based on classic Celtic mythology and brace for cunning monsters that tower over your character, poised to challenge your prowess. Embrace the challenge, embark on your journey, and be part of the saga that defies fate! Vindictus: Defying Fate is due out for PlayStation 5 and PC via Steam in 2027.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Vindictus-PV_11-13-26.jpeg"
         }
       ]
     },
