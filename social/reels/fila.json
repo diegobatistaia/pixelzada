@@ -3293,7 +3293,7 @@
     "slug": "flash-no-jogo-do-homem-aranha",
     "data": "2026-11-14",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Adicionaram o Flash no jogo do Homem-Aranha. Imagina uma boss fight contra outro velocista ⚡\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#flash #homemaranha #spiderman #games #pixelzada",
     "tentativas": 0,
@@ -3309,6 +3309,22 @@
       "tema": "games",
       "jogo": "o universo dos games",
       "moldura": "simples-branca"
+    },
+    "publicado": {
+      "em": "2026-11-14T19:00:33-03:00",
+      "media_id": "18109539983249289",
+      "permalink": "https://www.instagram.com/reel/DfvOsrMCfl0/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8da42c5b364e0621bc9b1",
+        "em": "2026-11-14T19:01:36-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=M7yiOY7tHtw"
+      }
     }
   },
   {
