@@ -4340,68 +4340,68 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-sougamergeek",
+    "slug": "sensacao-todo-mundo-instalando-gta6",
     "data": "2026-11-17",
     "horario": "19:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/Dfs2OZdBhZm/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "gta-6-sougamergeek",
-    "data": "2026-11-17",
-    "horario": "20:00",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "A sensação de ver todo mundo instalando GTA 6 😭\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/Dfs689OBLNC/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "meme",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-preta"
+      "moldura": "identidade"
     }
   },
   {
-    "slug": "o-universo-dos-games-sougamergeek-2",
+    "slug": "musica-deu-superpoderes",
+    "data": "2026-11-17",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A música deu superpoderes pro cara 🎧🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #fps #gameplay #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfs2OZdBhZm/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "games",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "far-cry-3-missao-skrillex",
     "data": "2026-11-17",
     "horario": "21:00",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Quando Far Cry 3 entregou uma das missões mais icônicas da geração ao som de Skrillex 🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#farcry3 #farcry #ubisoft #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/Dft6XLxMVJH/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
+      "formato": "meme",
       "tema": "games",
-      "jogo": "o universo dos games",
+      "jogo": "Far Cry 3",
       "moldura": "identidade"
     }
   }
