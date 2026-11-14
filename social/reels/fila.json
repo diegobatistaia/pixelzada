@@ -3216,7 +3216,7 @@
     "slug": "gta-6-nogz11",
     "data": "2026-11-14",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Quando meu amigo está sendo assaltado mas não posso arriscar minha vida antes de jogar GTA 6 😅\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -3233,6 +3233,22 @@
       "jogo": "GTA 6",
       "moldura": "simples-preta",
       "estilo_antes": "Moldura"
+    },
+    "publicado": {
+      "em": "2026-11-14T17:00:40-03:00",
+      "media_id": "18083250971440351",
+      "permalink": "https://www.instagram.com/reel/DfvBA4YHOZC/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8be28b9a106584c683ed7",
+        "em": "2026-11-14T17:01:43-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=Qtb2wAUwufA"
+      }
     }
   },
   {
