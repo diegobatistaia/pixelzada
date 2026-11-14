@@ -2964,7 +2964,7 @@
     "slug": "pov-2042-nfs-underground-2",
     "data": "2026-11-14",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Carregando",
     "legenda": "POV: o ano é 2042 e você escuta isso vindo do quarto do seu filho mais novo 🎧\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#needforspeed #nfsunderground2 #nostalgia #games #pixelzada",
     "tentativas": 0,
@@ -2977,6 +2977,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-14T10:01:00-03:00",
+      "media_id": "18354519781270196",
+      "permalink": "https://www.instagram.com/reel/DfuQ8tcjRb6/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af85bb7e5a113497a8375b7",
+        "em": "2026-11-14T10:01:41-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=eaY96MJCZO4"
+      }
     }
   },
   {
