@@ -2857,7 +2857,7 @@
     "slug": "enfrentar-um-gigante",
     "data": "2026-11-14",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Quando o jogo coloca você pra enfrentar um gigante 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #memesgamer #boss #pixelzada",
     "tentativas": 0,
@@ -2871,6 +2871,22 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "TV"
+    },
+    "publicado": {
+      "em": "2026-11-14T07:01:18-03:00",
+      "media_id": "17887738647625218",
+      "permalink": "https://www.instagram.com/reel/Dft8YmRlBsm/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8319b78196a0a97561554",
+        "em": "2026-11-14T07:02:02-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
