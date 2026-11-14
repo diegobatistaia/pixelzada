@@ -2822,7 +2822,7 @@
     "slug": "gps-dia-19-gta6",
     "data": "2026-11-13",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Dia 19 o GPS já tem destino marcado no GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #vicecity #memes #pixelzada",
     "tentativas": 0,
@@ -2835,6 +2835,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-13T21:00:28-03:00",
+      "media_id": "18381038398241057",
+      "permalink": "https://www.instagram.com/reel/Dfs3oKwGQb8/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af7a4c89257ce33981c601f",
+        "em": "2026-11-13T21:01:12-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=oGUzahdtYBU"
+      }
     }
   },
   {
