@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:44:14 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vindictus: Defying Fate é confirmado para PS5 em 2027</title>
+      <link>https://pixelzada.com.br/pt/vindictus-defying-fate-ps5-2027-nexon-combate-herois/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/vindictus-defying-fate-ps5-2027-nexon-combate-herois/</guid>
+      <description>Vindictus: Defying Fate chega ao PS5 e ao PC em 2027. Veja como funciona o combate dos heróis, o cenário e o que já se sabe da história e do multiplayer.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sat, 14 Nov 2026 10:44:12 +0000</pubDate>
+    </item>
     <item>
       <title>The Blood of Dawnwalker ganha New Game+ e nível máximo 100 na semana que vem</title>
       <link>https://pixelzada.com.br/pt/the-blood-of-dawnwalker-new-game-plus-atualizacao-1-2-nivel-100/</link>
@@ -238,14 +246,6 @@
       <description>The Outer Worlds 2 ganha a DLC Side Effects Guaranteed em 2 de dezembro por US$ 14,99. Veja a história, a nova região, o nível 36 e os novos perks e flaws.</description>
       <category>Lançamentos</category>
       <pubDate>Tue, 10 Nov 2026 22:41:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sony cancela Fairgames, mas Haven Studios não terá demissões</title>
-      <link>https://pixelzada.com.br/pt/sony-cancela-fairgames-haven-studios-sem-demissoes/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/sony-cancela-fairgames-haven-studios-sem-demissoes/</guid>
-      <description>A Sony cancelou Fairgames, jogo de serviço da Haven Studios, segundo a Bloomberg. O teste ficou abaixo das metas e o estúdio não terá demissões, diz o relato.</description>
-      <category>Indústria</category>
-      <pubDate>Tue, 10 Nov 2026 22:41:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

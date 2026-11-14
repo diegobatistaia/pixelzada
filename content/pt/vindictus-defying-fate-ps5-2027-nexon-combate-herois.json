@@ -110,7 +110,10 @@
     "query": "Vindictus Defying Fate",
     "alt": "Arte de Vindictus: Defying Fate, RPG de ação medieval da Nexon",
     "url": "https://blog.playstation.com/tachyon/2026/11/0bfe897fc01044ee53ab7ea0a12dcd7164024df9.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/vindictus-defying-fate-ps5-2027-nexon-co-0e388bdc.jpg",
+    "source_url": "",
+    "foco": "53% 23%"
   },
   "sources": [
     {
@@ -126,5 +129,7 @@
       "title": "Vindictus: Defying Fate 'Let the Righteous Judge' cinematic trailer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-14T10:44:12+00:00",
+  "updated_at": "2026-11-14T10:44:12+00:00"
 }
