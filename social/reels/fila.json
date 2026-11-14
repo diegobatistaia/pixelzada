@@ -4227,5 +4227,49 @@
       "jogo": "GTA 5",
       "moldura": "simples-branca"
     }
+  },
+  {
+    "slug": "o-mundo-dia-18-gta6",
+    "data": "2026-11-17",
+    "horario": "17:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "\"Agora é só esperar o dia 19, a Rockstar não vai mais adiar GTA 6\". O mundo dia 18: 💥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfuKDA4xXnp/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "dia-19-batendo-o-ponto-gta6",
+    "data": "2026-11-17",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Eu dia 19, batendo o ponto e indo pra casa jogar GTA 6 🏃💨\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfuQ2S3R59H/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
   }
 ]
