@@ -110,7 +110,10 @@
     "query": "League of Legends New Dawn",
     "alt": "Cena do trailer de League of Legends New Dawn mostrando campeões do jogo",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/still002.png?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/league-of-legends-new-dawn-riot-revela-c-3405d2ee.jpg",
+    "source_url": "",
+    "foco": "36% 51%"
   },
   "sources": [
     {
@@ -132,5 +135,7 @@
       "title": "League of Legends New Dawn update revealed at Worlds"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-14T22:39:35+00:00",
+  "updated_at": "2026-11-14T22:39:35+00:00"
 }
