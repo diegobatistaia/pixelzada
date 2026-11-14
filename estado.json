@@ -7,22 +7,25 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-14T11:10-03:00",
+ "atualizado": "2026-11-14T16:12-03:00",
  "hoje": {
   "data": "2026-11-14",
   "reels": {
    "meta": 15,
-   "publicados": 5,
-   "deviam_ter_saido": 4,
+   "publicados": 10,
+   "deviam_ter_saido": 9,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 1,
+   "deviam_ter_saido": 4,
    "atrasados": [
-    "09:00"
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00"
    ],
    "pautas_esperando": 0
   }
@@ -36,7 +39,7 @@
   "por_dia": [
    {
     "data": "2026-11-14",
-    "agendados": 10,
+    "agendados": 5,
     "meta": 15
    },
    {
@@ -51,53 +54,53 @@
    },
    {
     "data": "2026-11-17",
-    "agendados": 7,
+    "agendados": 12,
     "meta": 17
    }
   ]
  },
  "site": {
-  "total": 206,
-  "hoje": 2,
+  "total": 208,
+  "hoje": 4,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Classificação indicativa de GTA 6: 18 anos no Brasil, M nos EUA e PEGI 18",
-   "url": "https://pixelzada.com.br/pt/gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos/",
-   "em": "2026-11-14T09:41:27-03:00"
+   "titulo": "GTA 6 em português: legendas e menus sim, dublagem não",
+   "url": "https://pixelzada.com.br/pt/gta-6-em-portugues-legendas-e-menus-sim-dublagem-nao/",
+   "em": "2026-11-14T15:41:44-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "14/11/2026 11:06",
+  "ultima_coleta": "14/11/2026 15:05",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 93,
+  "seguidores": 96,
   "seguindo": 5,
-  "posts": 273,
-  "alcance_7d": 37255,
-  "views_7d": 50579,
+  "posts": 278,
+  "alcance_7d": 38019,
+  "views_7d": 51394,
   "reels_7d": {
-   "quantidade": 62,
-   "views_total": 51095,
+   "quantidade": 67,
+   "views_total": 51938,
    "views_mediana": 169,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-14": 494,
-    "2026-11-13": 2127,
-    "2026-11-12": 2135,
+    "2026-11-14": 1161,
+    "2026-11-13": 2132,
+    "2026-11-12": 2137,
     "2026-11-11": 2276,
     "2026-11-10": 2047,
     "2026-11-09": 1537,
-    "2026-11-08": 40479
+    "2026-11-08": 40648
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 40237,
-     "alcance": 29135,
-     "curtidas": 1289,
+     "views": 40406,
+     "alcance": 29220,
+     "curtidas": 1296,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -138,25 +141,13 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 3,
+  "falhas_24h": 1,
   "sem_resolver": 0,
   "lista": [
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-13T19:08:19-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43516758239",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-13T15:09:13-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43479806305",
-    "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-13T13:46:57-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43466168879",
     "resolvido": true
    }
   ]
@@ -166,7 +157,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 47
+   "youtube": 52
   },
   "erros_hoje": 0
  },
@@ -178,7 +169,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 40479
+   "views_reels": 40648
   },
   {
    "data": "2026-11-09",
@@ -214,7 +205,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2135
+   "views_reels": 2137
   },
   {
    "data": "2026-11-13",
@@ -223,16 +214,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2127
+   "views_reels": 2132
   },
   {
    "data": "2026-11-14",
-   "reels": 5,
+   "reels": 10,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 2,
-   "views_reels": 494
+   "materias": 4,
+   "views_reels": 1161
   }
  ],
  "seguidores_por_dia": [
@@ -262,13 +253,13 @@
   },
   {
    "data": "2026-11-14",
-   "seguidores": 93
+   "seguidores": 96
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00"
   }
  ]
 }
