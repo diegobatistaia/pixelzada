@@ -2929,7 +2929,7 @@
     "slug": "grok-assalto-gta5",
     "data": "2026-11-14",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "O cara que enganou o Grok dizendo que ia assaltar uma loja no GTA 5 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #grok #memesgamer #pixelzada",
     "tentativas": 0,
@@ -2942,6 +2942,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-14T09:06:31-03:00",
+      "media_id": "18119459767815286",
+      "permalink": "https://www.instagram.com/reel/DfuKtwhkdoN/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af84f05d16af15d4d12beb1",
+        "em": "2026-11-14T09:07:32-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
