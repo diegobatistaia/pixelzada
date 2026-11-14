@@ -3142,7 +3142,7 @@
     "slug": "zelda-ocarina-pc-multiplayer",
     "data": "2026-11-14",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "Modders levam Zelda Ocarina of Time para o PC e criam até modo multiplayer 🗡️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #mods #pcgamer #pixelzada",
     "tentativas": 0,
@@ -3155,6 +3155,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-14T15:07:09-03:00",
+      "media_id": "18066514535567458",
+      "permalink": "https://www.instagram.com/reel/Dfuz_RyDgZg/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8a386e86a5789a6c36e8d",
+        "em": "2026-11-14T15:08:05-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=XFTji3kSzYE"
+      }
     }
   },
   {
