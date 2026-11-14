@@ -3035,7 +3035,7 @@
     "slug": "zelda-glitch-remake-ocarina",
     "data": "2026-11-14",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Quando você se arrepende de usar glitch no remake de Ocarina of Time 😳\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
     "tentativas": 0,
@@ -3048,6 +3048,22 @@
     },
     "etiquetas": {
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-14T12:00:28-03:00",
+      "media_id": "18061522598559414",
+      "permalink": "https://www.instagram.com/reel/Dfuet4siTrg/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af877eb918fe79d2e86dd49",
+        "em": "2026-11-14T12:02:02-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=OuO-uWEVcqY"
+      }
     }
   },
   {
