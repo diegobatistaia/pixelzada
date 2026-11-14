@@ -4338,5 +4338,71 @@
       "jogo": "GTA 6",
       "moldura": "identidade"
     }
+  },
+  {
+    "slug": "sensacao-todo-mundo-instalando-gta6",
+    "data": "2026-11-17",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A sensação de ver todo mundo instalando GTA 6 😭\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfs689OBLNC/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "musica-deu-superpoderes",
+    "data": "2026-11-17",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "A música deu superpoderes pro cara 🎧🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #fps #gameplay #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfs2OZdBhZm/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "games",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "far-cry-3-missao-skrillex",
+    "data": "2026-11-17",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Quando Far Cry 3 entregou uma das missões mais icônicas da geração ao som de Skrillex 🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#farcry3 #farcry #ubisoft #games #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dft6XLxMVJH/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "Far Cry 3",
+      "moldura": "identidade"
+    }
   }
 ]
