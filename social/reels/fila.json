@@ -3070,7 +3070,7 @@
     "slug": "sensacao-gta6-baixando",
     "data": "2026-11-14",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "A sensação de finalmente ver o GTA 6 sendo baixado no meu videogame 😭🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #preload #pixelzada",
     "tentativas": 0,
@@ -3084,6 +3084,22 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "TV"
+    },
+    "publicado": {
+      "em": "2026-11-14T13:00:39-03:00",
+      "media_id": "18153941890534186",
+      "permalink": "https://www.instagram.com/reel/DfuliJ8lRdz/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af885dfe86a5789a6b84650",
+        "em": "2026-11-14T13:01:33-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=qXwUauZr734"
+      }
     }
   },
   {
