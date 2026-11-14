@@ -7,34 +7,36 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-14T03:24-03:00",
+ "atualizado": "2026-11-14T11:10-03:00",
  "hoje": {
   "data": "2026-11-14",
   "reels": {
    "meta": 15,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 5,
+   "deviam_ter_saido": 4,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 1,
+   "atrasados": [
+    "09:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 51,
+  "agendados": 49,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.4,
+  "dias_de_reserva": 3.3,
   "grade_cheia_ate": "2026-11-16",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-14",
-    "agendados": 15,
+    "agendados": 10,
     "meta": 15
    },
    {
@@ -49,59 +51,60 @@
    },
    {
     "data": "2026-11-17",
-    "agendados": 4,
+    "agendados": 7,
     "meta": 17
    }
   ]
  },
  "site": {
-  "total": 204,
-  "hoje": 0,
+  "total": 206,
+  "hoje": 2,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "The Blood of Dawnwalker ganha New Game+ e nível máximo 100 na semana que vem",
-   "url": "https://pixelzada.com.br/pt/the-blood-of-dawnwalker-new-game-plus-atualizacao-1-2-nivel-100/",
-   "em": "2026-11-13T21:41:08-03:00"
+   "titulo": "Classificação indicativa de GTA 6: 18 anos no Brasil, M nos EUA e PEGI 18",
+   "url": "https://pixelzada.com.br/pt/gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos/",
+   "em": "2026-11-14T09:41:27-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "13/11/2026 19:06",
+  "ultima_coleta": "14/11/2026 11:06",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 92,
+  "seguidores": 93,
   "seguindo": 5,
-  "posts": 268,
-  "alcance_7d": 36930,
-  "views_7d": 50000,
+  "posts": 273,
+  "alcance_7d": 37255,
+  "views_7d": 50579,
   "reels_7d": {
-   "quantidade": 57,
-   "views_total": 50460,
-   "views_mediana": 170,
+   "quantidade": 62,
+   "views_total": 51095,
+   "views_mediana": 169,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-13": 2124,
+    "2026-11-14": 494,
+    "2026-11-13": 2127,
     "2026-11-12": 2135,
     "2026-11-11": 2276,
-    "2026-11-10": 2046,
-    "2026-11-09": 1535,
-    "2026-11-08": 40344
+    "2026-11-10": 2047,
+    "2026-11-09": 1537,
+    "2026-11-08": 40479
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 40102,
-     "alcance": 29096,
-     "curtidas": 1279,
+     "views": 40237,
+     "alcance": 29135,
+     "curtidas": 1289,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 427,
-     "alcance": 340,
+     "views": 429,
+     "alcance": 341,
      "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
@@ -135,7 +138,7 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 5,
+  "falhas_24h": 3,
   "sem_resolver": 0,
   "lista": [
    {
@@ -155,18 +158,6 @@
     "em": "2026-11-13T13:46:57-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43466168879",
     "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-13T11:56:36-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43447574813",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-13T07:52:21-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43412459256",
-    "resolvido": true
    }
   ]
  },
@@ -175,7 +166,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 41
+   "youtube": 47
   },
   "erros_hoje": 0
  },
@@ -187,7 +178,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 40344
+   "views_reels": 40479
   },
   {
    "data": "2026-11-09",
@@ -196,7 +187,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1535
+   "views_reels": 1537
   },
   {
    "data": "2026-11-10",
@@ -205,7 +196,7 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 2046
+   "views_reels": 2047
   },
   {
    "data": "2026-11-11",
@@ -232,16 +223,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2124
+   "views_reels": 2127
   },
   {
    "data": "2026-11-14",
-   "reels": 0,
+   "reels": 5,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
-   "views_reels": null
+   "materias": 2,
+   "views_reels": 494
   }
  ],
  "seguidores_por_dia": [
@@ -271,8 +262,13 @@
   },
   {
    "data": "2026-11-14",
-   "seguidores": 92
+   "seguidores": 93
   }
  ],
- "alertas": []
+ "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00"
+  }
+ ]
 }
