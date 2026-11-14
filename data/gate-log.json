@@ -1472,5 +1472,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-14T20:48:53+00:00",
+    "id": "chefe-da-take-two-nao-descarta-filme-de-gta-e-cobra-anthropic-e-openai",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

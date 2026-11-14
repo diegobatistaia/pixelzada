@@ -119,7 +119,10 @@
     "query": "Take-Two GTA filme",
     "alt": "Imagem de divulgação ligada à série Grand Theft Auto",
     "url": "https://cdn.mos.cms.futurecdn.net/kWw9FEwneArzWxypW9xKMh-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/chefe-da-take-two-nao-descarta-filme-de--3081a4ed.jpg",
+    "source_url": "",
+    "foco": "59% 15%"
   },
   "sources": [
     {
@@ -153,5 +156,7 @@
       "title": "Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-14T20:48:53+00:00",
+  "updated_at": "2026-11-14T20:48:53+00:00"
 }

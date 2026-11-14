@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 18:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:48:54 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Chefe da Take-Two não descarta filme de GTA e cobra Anthropic e OpenAI sobre clones</title>
+      <link>https://pixelzada.com.br/pt/chefe-da-take-two-nao-descarta-filme-de-gta-e-cobra-anthropic-e-openai/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/chefe-da-take-two-nao-descarta-filme-de-gta-e-cobra-anthropic-e-openai/</guid>
+      <description>Zelnick, da Take-Two, diz que não descarta filme ou série de GTA, mas é muito seletivo, e cobra Anthropic e OpenAI sobre clones de jogos feitos com IA.</description>
+      <category>GTA 6</category>
+      <pubDate>Sat, 14 Nov 2026 20:48:53 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6 em português: legendas e menus sim, dublagem não</title>
       <link>https://pixelzada.com.br/pt/gta-6-em-portugues-legendas-e-menus-sim-dublagem-nao/</link>
@@ -238,14 +246,6 @@
       <description>O remake de Zelda: Ocarina of Time removeu os retratos de Mario e Yoshi do Castelo de Hyrule. Veja o que Eiji Aonuma explicou à Game Informer sobre a escolha.</description>
       <category>Lançamentos</category>
       <pubDate>Wed, 11 Nov 2026 14:44:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 no Xbox One: como jogar pelo Xbox Cloud Gaming no lançamento</title>
-      <link>https://pixelzada.com.br/pt/gta-6-xbox-one-xbox-cloud-gaming-19-de-novembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-xbox-one-xbox-cloud-gaming-19-de-novembro/</guid>
-      <description>GTA 6 chega ao Xbox One pelo Xbox Cloud Gaming em 19 de novembro. Veja o horário, a qualidade, se precisa comprar o jogo e como funciona o tempo de nuvem.</description>
-      <category>GTA 6</category>
-      <pubDate>Wed, 11 Nov 2026 14:44:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
