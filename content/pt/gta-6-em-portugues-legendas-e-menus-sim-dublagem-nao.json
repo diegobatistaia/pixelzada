@@ -116,7 +116,10 @@
     "query": "GTA VI Lucia Caminos",
     "alt": "Imagem da personagem Lucia Caminos no site oficial de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/mobile.02k0a_sb5-8k7.jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-em-portugues-legendas-e-menus-sim--46267989.jpg",
+    "source_url": "",
+    "foco": "46% 47%"
   },
   "sources": [
     {
@@ -162,5 +165,7 @@
       "title": "Fãs lançam versão dublada do novo trailer de GTA 6 sem o uso de IA"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-14T18:41:44+00:00",
+  "updated_at": "2026-11-14T18:41:44+00:00"
 }

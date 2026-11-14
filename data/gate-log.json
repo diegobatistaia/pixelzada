@@ -1465,5 +1465,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-14T18:41:44+00:00",
+    "id": "gta-6-em-portugues-legendas-e-menus-sim-dublagem-nao",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]
