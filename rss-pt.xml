@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:41:10 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Blood of Dawnwalker ganha New Game+ e nível máximo 100 na semana que vem</title>
+      <link>https://pixelzada.com.br/pt/the-blood-of-dawnwalker-new-game-plus-atualizacao-1-2-nivel-100/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-blood-of-dawnwalker-new-game-plus-atualizacao-1-2-nivel-100/</guid>
+      <description>The Blood of Dawnwalker ganha New Game+ na atualização 1.2 da semana que vem, com nível máximo 100 e ajustes de combate. Veja o que muda no RPG da Rebel Wolves.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sat, 14 Nov 2026 00:41:08 +0000</pubDate>
+    </item>
     <item>
       <title>The Game Awards 2026 revela indicados na terça (17), dois dias antes de GTA 6</title>
       <link>https://pixelzada.com.br/pt/the-game-awards-2026-indicados-terca-17-de-novembro-gta-6-elegivel/</link>
@@ -238,14 +246,6 @@
       <description>A Sony cancelou Fairgames, jogo de serviço da Haven Studios, segundo a Bloomberg. O teste ficou abaixo das metas e o estúdio não terá demissões, diz o relato.</description>
       <category>Indústria</category>
       <pubDate>Tue, 10 Nov 2026 22:41:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>PS Plus em novembro: Death Stranding 2, Atomfall e Dragon Quest III no catálogo</title>
-      <link>https://pixelzada.com.br/pt/playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/playstation-plus-catalogo-novembro-2026-death-stranding-2-atomfall/</guid>
-      <description>Veja os jogos do catálogo do PlayStation Plus em novembro de 2026: Death Stranding 2, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall e Dragon Quest III.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 10 Nov 2026 20:44:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

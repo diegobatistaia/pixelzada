@@ -103,7 +103,10 @@
     "query": "The Blood of Dawnwalker",
     "alt": "Arte de The Blood of Dawnwalker, RPG de vampiros da Rebel Wolves",
     "url": "https://assetsio.gnwcdn.com/blood_of_dawnwalker_rescue_family_header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/the-blood-of-dawnwalker-new-game-plus-at-a0ca4c9e.jpg",
+    "source_url": "",
+    "foco": "50% 30%"
   },
   "sources": [
     {
@@ -125,5 +128,7 @@
       "title": "The Blood of Dawnwalker update 1.2 adds New Game Plus"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-14T00:41:08+00:00",
+  "updated_at": "2026-11-14T00:41:08+00:00"
 }
