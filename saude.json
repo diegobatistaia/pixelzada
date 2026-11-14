@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-11-13T22:28-03:00",
+ "atualizado": "2026-11-13T23:28-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
    "uso": "publicar os Reels",
    "ok": true,
    "tipo": "login do Instagram",
-   "vence_em_dias": 59.5
+   "vence_em_dias": 59.4
   },
   "meta": {
    "segredo": "META_TOKEN_PIXELZADA",
