@@ -106,7 +106,9 @@
     "query": "GDC State of the Game Industry 2026",
     "alt": "Arte do relatório State of the Game Industry 2026, da GDC",
     "url": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/gdc-state-of-the-game-industry-40-por-ce-c6c4ecec.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -134,5 +136,7 @@
       "title": "40% of game developers use generative AI, but more than half reckon it has a negative impact"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-14T14:43:47+00:00",
+  "updated_at": "2026-11-14T14:43:47+00:00"
 }
