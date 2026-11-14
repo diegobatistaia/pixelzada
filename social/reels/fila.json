@@ -2999,7 +2999,7 @@
     "slug": "nao-esqueca-onde-comecou",
     "data": "2026-11-14",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples preta",
     "legenda": "Não esqueça de onde você começou... 🌴\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #nostalgia #games #gamer #pixelzada",
     "tentativas": 0,
@@ -3013,6 +3013,22 @@
     "etiquetas": {
       "moldura": "simples-preta",
       "estilo_antes": "Moldura"
+    },
+    "publicado": {
+      "em": "2026-11-14T11:01:08-03:00",
+      "media_id": "17957487240303495",
+      "permalink": "https://www.instagram.com/reel/DfuX1E3FdiH/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af869cde86a5789a6aed07d",
+        "em": "2026-11-14T11:01:48-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=-LbBfiltOok"
+      }
     }
   },
   {
