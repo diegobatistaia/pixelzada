@@ -1451,5 +1451,12 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-14T12:41:27+00:00",
+    "id": "gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

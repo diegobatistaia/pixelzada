@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 14 Nov 2026 10:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:41:28 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Classificação indicativa de GTA 6: 18 anos no Brasil, M nos EUA e PEGI 18</title>
+      <link>https://pixelzada.com.br/pt/gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos/</guid>
+      <description>GTA 6 é 18 anos no Brasil, M (Mature 17+) nos EUA e PEGI 18 na Europa. Veja o que a ClassInd, a ESRB e o PEGI dizem sobre violência, drogas e conteúdo sexual.</description>
+      <category>GTA 6</category>
+      <pubDate>Sat, 14 Nov 2026 12:41:27 +0000</pubDate>
+    </item>
     <item>
       <title>Vindictus: Defying Fate é confirmado para PS5 em 2027</title>
       <link>https://pixelzada.com.br/pt/vindictus-defying-fate-ps5-2027-nexon-combate-herois/</link>
@@ -238,14 +246,6 @@
       <description>O remake de Zelda: Ocarina of Time vendeu 5,2 milhões de unidades em quatro dias, diz a Nintendo. Veja como o número se compara a outros jogos da série.</description>
       <category>Lançamentos</category>
       <pubDate>Wed, 11 Nov 2026 10:45:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Outer Worlds 2 ganha DLC Side Effects Guaranteed em 2 de dezembro</title>
-      <link>https://pixelzada.com.br/pt/the-outer-worlds-2-dlc-side-effects-guaranteed-2-de-dezembro/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-outer-worlds-2-dlc-side-effects-guaranteed-2-de-dezembro/</guid>
-      <description>The Outer Worlds 2 ganha a DLC Side Effects Guaranteed em 2 de dezembro por US$ 14,99. Veja a história, a nova região, o nível 36 e os novos perks e flaws.</description>
-      <category>Lançamentos</category>
-      <pubDate>Tue, 10 Nov 2026 22:41:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
