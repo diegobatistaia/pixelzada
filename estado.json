@@ -7,43 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-13T20:35-03:00",
+ "atualizado": "2026-11-14T03:24-03:00",
  "hoje": {
-  "data": "2026-11-13",
+  "data": "2026-11-14",
   "reels": {
    "meta": 15,
-   "publicados": 12,
-   "deviam_ter_saido": 14,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 6,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 52,
+  "agendados": 51,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.5,
+  "dias_de_reserva": 3.4,
   "grade_cheia_ate": "2026-11-16",
   "sem_revisao": 0,
   "por_dia": [
-   {
-    "data": "2026-11-13",
-    "agendados": 1,
-    "meta": 15
-   },
    {
     "data": "2026-11-14",
     "agendados": 15,
@@ -67,13 +55,13 @@
   ]
  },
  "site": {
-  "total": 203,
-  "hoje": 9,
+  "total": 204,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "The Game Awards 2026 revela indicados na terça (17), dois dias antes de GTA 6",
-   "url": "https://pixelzada.com.br/pt/the-game-awards-2026-indicados-terca-17-de-novembro-gta-6-elegivel/",
-   "em": "2026-11-13T19:44:01-03:00"
+   "titulo": "The Blood of Dawnwalker ganha New Game+ e nível máximo 100 na semana que vem",
+   "url": "https://pixelzada.com.br/pt/the-blood-of-dawnwalker-new-game-plus-atualizacao-1-2-nivel-100/",
+   "em": "2026-11-13T21:41:08-03:00"
   }
  },
  "pesquisa": {
@@ -83,30 +71,30 @@
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 91,
+  "seguidores": 92,
   "seguindo": 5,
-  "posts": 267,
-  "alcance_7d": 36607,
-  "views_7d": 49559,
+  "posts": 268,
+  "alcance_7d": 36930,
+  "views_7d": 50000,
   "reels_7d": {
-   "quantidade": 56,
-   "views_total": 50116,
-   "views_mediana": 171,
+   "quantidade": 57,
+   "views_total": 50460,
+   "views_mediana": 170,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-13": 1924,
-    "2026-11-12": 2124,
-    "2026-11-11": 2274,
+    "2026-11-13": 2124,
+    "2026-11-12": 2135,
+    "2026-11-11": 2276,
     "2026-11-10": 2046,
-    "2026-11-09": 1533,
-    "2026-11-08": 40215
+    "2026-11-09": 1535,
+    "2026-11-08": 40344
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 39973,
-     "alcance": 29008,
-     "curtidas": 1269,
+     "views": 40102,
+     "alcance": 29096,
+     "curtidas": 1279,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -147,7 +135,7 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 6,
+  "falhas_24h": 5,
   "sem_resolver": 0,
   "lista": [
    {
@@ -179,12 +167,6 @@
     "em": "2026-11-13T07:52:21-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43412459256",
     "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-13T06:04:20-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43398252953",
-    "resolvido": true
    }
   ]
  },
@@ -193,20 +175,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 40
+   "youtube": 41
   },
-  "erros_hoje": 3
+  "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-07",
-   "reels": 0,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 4,
-   "views_reels": null
-  },
   {
    "data": "2026-11-08",
    "reels": 3,
@@ -214,7 +187,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 40215
+   "views_reels": 40344
   },
   {
    "data": "2026-11-09",
@@ -223,7 +196,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1533
+   "views_reels": 1535
   },
   {
    "data": "2026-11-10",
@@ -241,7 +214,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2274
+   "views_reels": 2276
   },
   {
    "data": "2026-11-12",
@@ -250,16 +223,25 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2124
+   "views_reels": 2135
   },
   {
    "data": "2026-11-13",
-   "reels": 12,
+   "reels": 13,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 9,
-   "views_reels": 1924
+   "materias": 10,
+   "views_reels": 2124
+  },
+  {
+   "data": "2026-11-14",
+   "reels": 0,
+   "reels_meta": 15,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -286,16 +268,11 @@
   {
    "data": "2026-11-13",
    "seguidores": 91
-  }
- ],
- "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
   },
   {
-   "nivel": "amarelo",
-   "texto": "Buffer: 3 envio(s) para TikTok/YouTube com erro hoje"
+   "data": "2026-11-14",
+   "seguidores": 92
   }
- ]
+ ],
+ "alertas": []
 }
