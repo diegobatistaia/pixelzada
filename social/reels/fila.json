@@ -3177,7 +3177,7 @@
     "slug": "baixei-gta6-nao-posso-jogar",
     "data": "2026-11-14",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Baixei o GTA 6, mas ainda não posso jogar! 😭\n\nFalta muito pro dia 19?\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #preload #meme #pixelzada",
     "tentativas": 0,
@@ -3191,6 +3191,22 @@
     "etiquetas": {
       "moldura": "simples-branca",
       "estilo_antes": "TV"
+    },
+    "publicado": {
+      "em": "2026-11-14T16:00:39-03:00",
+      "media_id": "18212324344371098",
+      "permalink": "https://www.instagram.com/reel/Dfu6G20nUH1/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8affe76c23bf1c73518ec",
+        "em": "2026-11-14T16:01:17-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=PqmVOa1ZLGo"
+      }
     }
   },
   {
