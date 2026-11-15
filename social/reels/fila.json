@@ -3599,7 +3599,7 @@
     "slug": "quem-nao-joga-indo-trabalhar-dia-19",
     "data": "2026-11-15",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Quem não joga indo trabalhar no dia 19 de novembro: 🏙️😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #games #pixelzada",
     "tentativas": 0,
@@ -3615,6 +3615,22 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T11:59:51-03:00",
+      "media_id": "18004695951008782",
+      "permalink": "https://www.instagram.com/reel/DfxDWPWgP-S/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af9c924544d0574a9251a80",
+        "em": "2026-11-15T12:00:51-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=R1GbSMlCJdU"
+      }
     }
   },
   {
