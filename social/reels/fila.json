@@ -3675,7 +3675,7 @@
     "slug": "gta6-evoluiu-ate-no-mortal",
     "data": "2026-11-15",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "GTA 6 evoluiu até no mortal pra trás 🤸\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #trailer #rockstar #pixelzada",
     "tentativas": 0,
@@ -3691,6 +3691,22 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T14:00:00-03:00",
+      "media_id": "17884282518629123",
+      "permalink": "https://www.instagram.com/reel/DfxRGLgGYmC/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af9e539ee359588b53db0ad",
+        "em": "2026-11-15T14:00:40-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=TWEq926Y0UY"
+      }
     }
   },
   {
