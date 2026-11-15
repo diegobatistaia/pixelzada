@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:39:06+00:00",
+  "generated_at": "2026-11-15T16:28:23+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 1,
@@ -41,66 +41,6 @@
     160
   ],
   "stories": [
-    {
-      "story_id": "fc1de73bf37c4cd5",
-      "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
-      "summary": "Sony has confirmed Marvel's Spider-Man 2, Arc Raiders, and four more games are receiving QSSR support on base PS5s.",
-      "owners": [
-        "adrenaline",
-        "gameblast",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "1998def1221fe833",
-        "be01f7e910fc54b3",
-        "22da84472c98b4f8",
-        "a4e9d8ba4df37bc9"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
-          "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
-          "published_at": "2026-11-13T23:48:37+00:00",
-          "kind": "press",
-          "text": "Sony has confirmed Marvel's Spider-Man 2 , Arc Raiders , and four more games are receiving QSSR support on base PS5s. The list of six newcomers joining the small-but-growing group of supported games was unveiled in a PlayStation.Blog post . In addition to confirmation that incoming updates will add QSSR (Quick Spectral Super Resolution), the post included testimonials from each of the studios' developers, who shared how the tech will impact visuals. When Sony pulled back the curtain on QSSR in October, it came with confirmation that it had already been implemented in Marvel's Wolverine and Ghost of Yōtei. Now, we know that Insomniac's Marvel's Spider-Man 2, Remedy Entertainment's Control Resonant , Embark Studios' Arc Raiders and The Finals , Hello Games' No Man's Sky , and Expression Games' Hell Let Loose: Vietnam will soon take advantage of the AI upscaling tech. In the case of Marvel's Spider-Man 2, QSSR is available as part of a new update that's out now. \"Having seen great results integrating QSSR in Marvel’s Wolverine, our team decided to bring it to Marvel’s Spider-Man 2 as well, in an update that’s live now!\" Insomniac head of technology Mike Fitzgerald said. \"We’re excited for players to swing back into our 2023 title and see QSSR’s exciting image stability and sharpness benefits in both Fidelity and Performance modes.\" Remedy said QSSR will bring noticeable improvements in image stability and fine detail when it launches in a new update in December. Hello Games founder Sean Murray, meanwhile, promised that players can look forward to No Man's Sky looking \"sharper, cleaner, and more beautiful\" at the \"best possible framerate\" in the next few weeks. When exactly The Finals, Arc Raiders, and Hell Let Loose: Vietnam will receive their updates has yet to be announced. \"With the new QSSR coming soon to ARC Raiders and The Finals, we can deliver increased sharpness, better environmental clarity, and overall visual improvements to even more PlayStation players,\" Embark said. \"We are very happy to see Sony’s continued investment in PlayStation technology translate into meaningful improvements for all players, bringing more immersive experiences across the PlayStation ecosystem.\" Sony then teased that developers interested in using QSSR are \"just getting started.\" More PS5 games are set to receive similar updates in the coming months, though which titles will join the list remains to be seen. Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
-          "image": "https://assets-prd.ignimgs.com/2025/01/30/pc-first-mins-br-1738277933414.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/playstation-5-marvel-spider-man-2-control-resonant-the-finals-arc-riders-hell-let-loose-vietnam-receberao-suporte-ao-qssr.html",
-          "title": "PlayStation 5: Marvel's Spider-Man 2, Control Resonant, The Finals, ARC Raiders e Hell Let Loose: Vietnam receberão suporte ao QSSR",
-          "published_at": "2026-11-13T16:25:06+00:00",
-          "kind": "press",
-          "text": "Tecnologia de upscaling baseada no PSSR do PS5 Pro promete melhorias gráficas na versão base do console.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuwukjnsMDvh9HQa_mzMEL92JKaU2LXKE98d1ZsQLdJCJ7VB4Bik_HpeYEAGQosY7n3tA8kCvx3D7I-C9Wt84LeCD63_1M8XYhU-R5HRWwkwu8yVAzXiS_qrSWpLll2jyS-QX59LGbkP0W0I7dS1kohFk7xUw3Z6fAnLJrFiBc-yKc_NhREnkKGJtFJSM/w1200-h630-p-k-no-nu/playstation-5-marvel-spider-man-2-control-resonant-the-finals-arc-riders-hell-let-loose-vietnam-receberao-suporte-ao-qssr.png"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/ps5-anuncia-qssr-em-marvels-spider-man-2-e-revela-lista-dos-proximos-jogos/",
-          "title": "PS5 anuncia QSSR em Marvel’s Spider-Man 2 e revela lista dos próximos jogos",
-          "published_at": "2026-11-13T16:31:42+00:00",
-          "kind": "press",
-          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/ps5-qssr-spider-man-2-mais-jogos.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
-          "title": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant",
-          "published_at": "2026-11-13T16:35:57+00:00",
-          "kind": "press",
-          "text": "No Man’s Sky, The Finals, and Hell Let Loose: Vietnam have been updated Six more games are getting graphics upgrades on standard PlayStation 5 consoles, including Arc Raiders, No Manâs Sky, and Control Resonant, via QSSR support. Announced last month, Quick Spectral Super Resolution (QSSR) is Sony âs new AI upscaling tech, which it claims will bring image improvements to compatible PS5 games. Digital Foundry has called the potential of the technology âremarkableâ. On Friday, Sony confirmed six new titles updated to support QSSR: Marvelâs Spider-Man 2 , Control Resonant , The Finals, ARC Raiders, and Hell Let Loose: Vietnam, No Manâs Sky . According to Insomniac , Spider-Man 2 has received âimage stability and sharpness benefitsâ in both Fidelity and Performance modes. Meanwhile, Remedy says Control Resonant has seen ânoticeable improvements” in image stability and fine detail. Arc Raiders is claimed to have benefited from âincreased sharpness, better environmental clarity and overall visual improvementsâ, while No Manâs Sky sees âsharper, cleaner and more beautiful detailâ. Finally, Hell Let Loose: Vietnam is said to have benefited from âsharper, cleaner image qualityâ thanks to the QSSR update. QSSR is built on the same foundation as PlayStation Spectral Super Resolution (PSSR) on PS5 Pro. The first titles to use the tech were Marvelâs Wolverine and Ghost of YÅtei, both of which offer QSSR as an additional graphics option on PS5. Digital Foundry said of the tech: âLow resolution and poor upscaling have impacted so many titles in this generation, but QSSR could make a big difference. In Marvelâs Wolverine especially, the quality boost can be exceptional.â",
-          "image": "https://www.videogameschronicle.com/files/2026/11/Screenshot-2026-11-13-163424.jpg"
-        }
-      ]
-    },
     {
       "story_id": "3a7260be31dddf0c",
       "title": "Próxima semana em XBOX: novos jogos para 16 a 20 de novembro",
@@ -146,94 +86,56 @@
           "title": "Xbox Game Pass recebe 5 novos jogos esta semana! Veja os lançamentos (14)",
           "published_at": "2026-11-14T18:15:00+00:00",
           "kind": "press",
-          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de cinco títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Disponível no lançamento no Xbox Game Pass, Warhammer Survivors é um jogo de ação no estilo bullet heaven, inspirado em Vampire Survivors . Com visual em pixel art, o game coloca os jogadores contra grandes hordas de inimigos, utilizando armas, habilidades e personagens inspirados no universo de Warhammer . Também disponível no lançamento no Xbox Game Pass, Tanuki: Pon’s Summer coloca os jogadores no controle de Pon, um guaxinim que precisa restaurar um santuário antes do Festival Tanuki. Para cumprir a missão, será necessário entregar encomendas de bicicleta, fazer amizades e ajudar os moradores em atividades como preparar sushi e participar de lutas de sumô. Outro game a compor o Game Pass no lançamento, Hope in the City é uma aventura de mistério protagonizada por Hope Song, uma jovem de 17 anos que descobre o desaparecimento dos pais ao voltar para casa. Durante a investigação, os jogadores precisam transformar desenhos em pistas e desvendar segredos cada vez mais misteriosos sobre a família da protagonista. Thronefall é um jogo de estratégia minimalista em que os jogadores precisam construir e administrar um reino durante o dia e protegê-lo de invasores durante a noite. Para sobreviver às ondas de inimigos, será necessário equilibrar a economia, fortalecer as defesas, recrutar soldados e participar diretamente dos combates. Por fim, em John Carpenter’s Toxic Commando , até quatro jogadores podem se unir em uma aventura cooperativa de ação e sobrevivência contra hordas de zumbis. Ambientado em um mundo tomado por criaturas, o game apresenta missões em cenários semiabertos e coloca os jogadores em uma jornada para tentar salvar a humanidade. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Hope in the City , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história Galaxy S26: até quanto vale a pena pagar na Black Friday? One UI 9.5: confira 6 novidades do sistema encontradas até agora Musk e líderes do Vale do Silício se unem em apoio a Jensen Huang Nova falha no Windows transforma recurso de segurança em acesso total ao sistema",
+          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de cinco títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Disponível no lançamento no Xbox Game Pass, Warhammer Survivors é um jogo de ação no estilo bullet heaven, inspirado em Vampire Survivors . Com visual em pixel art, o game coloca os jogadores contra grandes hordas de inimigos, utilizando armas, habilidades e personagens inspirados no universo de Warhammer . Também disponível no lançamento no Xbox Game Pass, Tanuki: Pon’s Summer coloca os jogadores no controle de Pon, um guaxinim que precisa restaurar um santuário antes do Festival Tanuki. Para cumprir a missão, será necessário entregar encomendas de bicicleta, fazer amizades e ajudar os moradores em atividades como preparar sushi e participar de lutas de sumô. Outro game a compor o Game Pass no lançamento, Hope in the City é uma aventura de mistério protagonizada por Hope Song, uma jovem de 17 anos que descobre o desaparecimento dos pais ao voltar para casa. Durante a investigação, os jogadores precisam transformar desenhos em pistas e desvendar segredos cada vez mais misteriosos sobre a família da protagonista. Thronefall é um jogo de estratégia minimalista em que os jogadores precisam construir e administrar um reino durante o dia e protegê-lo de invasores durante a noite. Para sobreviver às ondas de inimigos, será necessário equilibrar a economia, fortalecer as defesas, recrutar soldados e participar diretamente dos combates. Por fim, em John Carpenter’s Toxic Commando , até quatro jogadores podem se unir em uma aventura cooperativa de ação e sobrevivência contra hordas de zumbis. Ambientado em um mundo tomado por criaturas, o game apresenta missões em cenários semiabertos e coloca os jogadores em uma jornada para tentar salvar a humanidade. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Hope in the City , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? Acer Aspire Go 16 chega com tela grande, teclado numérico e ficha técnica diversa Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história One UI 9.5: confira 6 novidades do sistema encontradas até agora Galaxy S26: até quanto vale a pena pagar na Black Friday?",
           "image": "https://www.estadao.com.br/resizer/v2/KWFRCY47Z5I37GTB4YRIWDRS6U.jpg?quality=80&auth=a25434098883a06e6282ffa876a46b775ee3d463d3f69387b327856997ce56b8&width=1200&height=630&focal=494,123"
         }
       ]
     },
     {
-      "story_id": "d406b4106f4ca651",
-      "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
-      "summary": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running from 23rd November. Read more",
+      "story_id": "fc1de73bf37c4cd5",
+      "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
+      "summary": "Sony has confirmed Marvel's Spider-Man 2, Arc Raiders, and four more games are receiving QSSR support on base PS5s.",
       "owners": [
-        "future-plc",
-        "insider-gaming",
+        "adrenaline",
+        "vgc",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "fd4a54098e8e866f",
-        "0f978d58ade92065",
-        "dbc9519f0da34350"
+        "1998def1221fe833",
+        "22da84472c98b4f8",
+        "a4e9d8ba4df37bc9"
       ],
       "sources": [
         {
-          "name": "Eurogamer",
+          "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/grand-theft-auto-gaming-memory-competition-gta-6-win",
-          "title": "Tell us your favourite Grand Theft Auto gaming memory and win a copy of GTA 6",
-          "published_at": "2026-11-13T15:54:30+00:00",
+          "url": "https://www.ign.com/articles/ps5-qssr-updates-revealed-for-marvels-spider-man-2-arc-raiders-and-more",
+          "title": "PS5 QSSR Updates Revealed for Marvel's Spider-Man 2, Arc Raiders, and More",
+          "published_at": "2026-11-13T23:48:37+00:00",
           "kind": "press",
-          "text": "Hello! This piece is part of our GTA Week coverage here on Eurogamer, as we explore all things Grand Theft Auto across the launch period of the wildly anticipated Grand Theft Auto 6 . For more like this, see our GTA Week hub - or for the exact opposite, look out for our Not-GTA week of counterprogramming, running from 23rd November. These are my favourite competitions to run on Eurogamer, so I'm glad to be able to announce a new one. We'd like you to share your favourite gaming memory related to playing a Grand Theft Auto game - any Grand Theft Auto game - in the comments below, and if we end up liking yours the most, we'll give you a copy of GTA 6. I love these competitions because they result in hundreds of funny, heartwarming and often poignant stories about playing games. We've done similar memory-offs for other major gaming franchises in the past: Street Fighter , The Legend of Zelda , Star Wars . We did one about Christmas . We even did one about Eurogamer for our 25th birthday. So it's only right that we do one for arguably the biggest franchise in video games: Grand Theft Auto. I'll let this run over the weekend and put a deadline of Monday, 16th November at noon UK time on entries. I'll comb through replies early next week in the interest of selecting a winner and giving them - you? - a copy of the game before (or as) GTA 6 releases next Thursday. I notify people using the email address associated with their Eurogamer commenting account, and reply in the comments as well, making it explicitly clear if you've won. Please keep an eye on this thread and your inbox because if I don't hear back, I'll offer the prize elsewhere. With that said, let's talk memories! I have a couple when it comes to Grand Theft Auto. My earliest memory is of a teenage me playing the first GTA at a friend's house. In a convoluted 90s way, one friend had taken their PC to another friend's house, where the three of us had assembled to play it. We'd take it in turns to burn around the top-down city, and when we weren't at the controls, we'd still be active in the experience, with the huge paper map unfolded, looking for spray shops the player could nip into when chased by the police. It was like being the passenger in a car. I can picture now, almost 30 years later, vividly. The other distinct GTA memory I have is of playing Vice City and San Andreas one summer after I'd broken my arm and leg. I jumped off a roof in Australia when I was drunk; I wouldn't recommend it. Anyway, upon returning home, there wasn't a lot I could do - the breaks were both on one side so I'd crutch around (they gave me a wooden crutch in Australia) like a pirate - so a friend and I spent that summer taking turns playing GTA. It's all those shared moments laughing at Tommy Vercetti driving up staircases on vintage scooters that I remember, or CJ flapping his wooden-block hands around like paddles while gesticulating in cutscenes. Us just messing around. Friendship. That's what remembering Vice City and San Andreas conjures for me. But what about you - what do you remember about playing GTA games? Let your mind wander, let your mind remember, and thank you in advance for sharing your stories with us and everyone else. Have a lovely weekend.",
-          "image": "https://assetsio.gnwcdn.com/lucia-dreams-about-gta-6-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "Sony has confirmed Marvel's Spider-Man 2 , Arc Raiders , and four more games are receiving QSSR support on base PS5s. The list of six newcomers joining the small-but-growing group of supported games was unveiled in a PlayStation.Blog post . In addition to confirmation that incoming updates will add QSSR (Quick Spectral Super Resolution), the post included testimonials from each of the studios' developers, who shared how the tech will impact visuals. When Sony pulled back the curtain on QSSR in October, it came with confirmation that it had already been implemented in Marvel's Wolverine and Ghost of Yōtei. Now, we know that Insomniac's Marvel's Spider-Man 2, Remedy Entertainment's Control Resonant , Embark Studios' Arc Raiders and The Finals , Hello Games' No Man's Sky , and Expression Games' Hell Let Loose: Vietnam will soon take advantage of the AI upscaling tech. In the case of Marvel's Spider-Man 2, QSSR is available as part of a new update that's out now. \"Having seen great results integrating QSSR in Marvel’s Wolverine, our team decided to bring it to Marvel’s Spider-Man 2 as well, in an update that’s live now!\" Insomniac head of technology Mike Fitzgerald said. \"We’re excited for players to swing back into our 2023 title and see QSSR’s exciting image stability and sharpness benefits in both Fidelity and Performance modes.\" Remedy said QSSR will bring noticeable improvements in image stability and fine detail when it launches in a new update in December. Hello Games founder Sean Murray, meanwhile, promised that players can look forward to No Man's Sky looking \"sharper, cleaner, and more beautiful\" at the \"best possible framerate\" in the next few weeks. When exactly The Finals, Arc Raiders, and Hell Let Loose: Vietnam will receive their updates has yet to be announced. \"With the new QSSR coming soon to ARC Raiders and The Finals, we can deliver increased sharpness, better environmental clarity, and overall visual improvements to even more PlayStation players,\" Embark said. \"We are very happy to see Sony’s continued investment in PlayStation technology translate into meaningful improvements for all players, bringing more immersive experiences across the PlayStation ecosystem.\" Sony then teased that developers interested in using QSSR are \"just getting started.\" More PS5 games are set to receive similar updates in the coming months, though which titles will join the list remains to be seen. Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
+          "image": "https://assets-prd.ignimgs.com/2025/01/30/pc-first-mins-br-1738277933414.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-gta-6-ceo-strauss-zelnick-we-believe-the-grand-theft-auto-franchise-is-probably-the-most-valuable-intellectual-property-in-the-entertainment-business/",
-          "title": "Quote of the Day by GTA 6 CEO: \"Grand Theft Auto franchise is probably the most valuable IP\"",
-          "published_at": "2026-11-13T18:00:00+00:00",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/ps5-anuncia-qssr-em-marvels-spider-man-2-e-revela-lista-dos-proximos-jogos/",
+          "title": "PS5 anuncia QSSR em Marvel’s Spider-Man 2 e revela lista dos próximos jogos",
+          "published_at": "2026-11-13T16:31:42+00:00",
           "kind": "press",
-          "text": "The CEO of the publishers behind GTA 6, Take-Two Interactive, isn't quite ready to go on his victory lap just yet, but he is once again enjoying what he thinks might be the most valuable entertainment IP in the world. Speaking to David Rubenstein, Take-Two CEO Strauss Zelnick was asked about the size of of GTA 6's impending launch. In traditional fashion, Zelnick remained pretty humble, telling Rubenstein that \"we never claim success before it occurs.\" In this instance, he notes, Take-Two and Rockstar have had plenty of success together. \"It's true that GTA 5 was a massive hit,\" he admits. \"It sold in over 230 million units, and we believe the Grand Theft Auto franchise as a whole is probably the most valuable intellectual property in the entertainment business, of any type, because of its enormous reach to consumers worldwide.\" Zelnick's argument is a potent one, but it's also a little hard to pin down. Off the top of my head, Pokémon and Marvel have certainly generated more money, but that's admittedly off the back of many hundreds more releases (and many more decades, in Marvel's case). Clearly, however, neither of those franchises can match the billions of dollars off a single launch that GTA 6 is set to make next week, or the other billions that the long tail of GTA Online is likely to secure. Pound-for-pound, GTA certainly sends those other heavyweights back to the corner, even if the 13-year gap between releases might be hurting a little. Despite his quiet confidence in the brand, however, Zelnick is still refusing to count his chickens before they hatch. \"The team at Rockstar has been working diligently to try to create something extraordinary with Grand Theft Auto 6,\" he says. \"I believe they will, I'm very optimistic, but as for success, we'll have to wait until November 19 and beyond.\" Weekly digests, tales from the communities you love, and more I'm GamesRadar's Managing Editor for news, shaping the news strategy across the team. I started my journalistic career while getting my degree in English Literature at the University of Warwick, where I also worked as Games Editor on the student newspaper, The Boar. Since then, I've run the news sections at PCGamesN and Kotaku UK, and also regularly contributed to PC Gamer. As you might be able to tell, PC is my platform of choice, so you can regularly find me playing League of Legends or Steam's latest indie hit. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1920-80.jpg"
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/ps5-qssr-spider-man-2-mais-jogos.jpg"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
-          "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
-          "published_at": "2026-11-15T08:14:07+00:00",
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/6-more-games-receive-ps5-performance-updates-via-qssr-including-arc-raiders-and-control-resonant/",
+          "title": "6 more games receive PS5 performance updates via QSSR, including Arc Raiders and Control Resonant",
+          "published_at": "2026-11-13T16:35:57+00:00",
           "kind": "press",
-          "text": "Grand Theft Auto 6 season is upon us, and what a wonderful time it is to be a fan of open-world action titles. This monumental title from Rockstar Games is arguably the most hotly anticipated game ever made, and it’s sure to shatter sales records worldwide from the minute it hits the market. That said, some folks out there are wondering exactly when GTA 6 hits the market. If you’re only just stumbling onto the concept of Grand Theft Auto 6 or you’re sitting on the edge of your seat waiting for the exact minute when GTA 6 launches in your country, you’re not alone. It’s November 15th, 2026, and that means that Grand Theft Auto 6 is not out yet – but you can pre-load it! Grand Theft Auto 6 launches on XBOX and PlayStation 5 on November 19, 2026. Make sure to bookmark this page and check back for the latest coverage, and better yet, to prepare for what happens when Grand Theft Auto 6 does hit the market. Grand Theft Auto 6 is scheduled to hit a staggered launch pattern worldwide, which means it’ll launch at midnight local time around the world. It starts in New Zealand and works its way around the world, slowly taking over the entire planet and capturing the attention of tens of millions of gamers. If you want to get GTA 6 as early as possible, here are the guides you need: And in terms of exactly when the New Zealand trick goes live… It’s pretty simple, as there are only two versions of Grand Theft Auto 6. You’ve got the Standard Edition , which costs around $79.99, and the Ultimate Edition , which costs around $99.99 If you’re on the fence about which to choose, I can firmly advocate for picking up the Ultimate Edition. Here’s a guide explaining why the Ultimate Edition is worth the extra $20 . And I’d also recommend pre-ordering to get some exclusive goodies. Here’s yet another guide explaining how to access those GTA 6 pre-order bonuses . Our coverage campaign for Grand Theft Auto 6 is just starting, but to whet your appetite, you can start by checking out all the confirmed locations in GTA 6. It’s one hell of a map, and you’ll need a lot of time to figure out everything hidden within it. What platform are you buying GTA 6 on? Let us know your plans for this incredible game on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Borderlands has hit 100 million sales . And for even more Insider Gaming delivered directly to your inbox, sign up for our newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Brian_Heder_landscape-scaled.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "12b3cff7ffdba9b8",
-      "title": "Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro",
-      "summary": "The post Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro appeared first on Xbox Wire em Português .",
-      "owners": [
-        "future-plc",
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "1850dac281b6b852",
-        "e30060ff4951ab57"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/10/grand-theft-auto-vi-chega-ao-xbox-one-e-xbox-series-xs-por-meio-do-xbox-cloud-gaming/",
-          "title": "Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro",
-          "published_at": "2026-11-10T15:45:44+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI , o título com o maior número de pré-vendas de todos os tempos na Microsoft Store, será lançado em 19 de novembro. Diante da demanda sem precedentes, recomendamos que todos iniciem a pré-instalação o quanto antes para garantir que estejam prontos para o dia do lançamento. Grand Theft Auto VI poderá ser jogado desde o primeiro dia pelo XBOX Cloud Gaming no XBOX One e no XBOX Series X|S, a partir da 3h da manhã (horário de Brasília). Isso significa que mais jogadores poderão aproveitar um dos jogos mais aguardados do ano nos consoles que já possuem. Ao ser jogado pela nuvem com o XBOX Cloud Gaming, o jogo utiliza as configurações gráficas do XBOX Series S. Estamos animados para levar Grand Theft Auto VI a mais jogadores de XBOX no lançamento. Nos próximos meses, também adicionaremos mais títulos da Rockstar Games ao XBOX Cloud Gaming, incluindo Grand Theft Auto V , Red Dead Redemption 2 e outros. A partir de 11 de novembro, jogadores nos mercados em que o serviço está disponível poderão comprar tempo de jogo na nuvem para jogar títulos compatíveis por streaming sem uma assinatura do Game Pass. A transmissão de Grand Theft Auto VI pela nuvem começa às 3h da manhã (horário de Brasília) de 19 de novembro. Garanta hoje mesmo Grand Theft Auto VI na pré-venda da Microsoft Store . A disponibilidade dos jogos na nuvem, as opções de compra, os dispositivos compatíveis, a elegibilidade das contas e os recursos podem variar de acordo com o mercado e o dispositivo. Grand Theft Auto VI deve ser adquirido separadamente.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
-          "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
-          "published_at": "2026-11-13T19:30:31+00:00",
-          "kind": "press",
-          "text": "Macca and Friends is coming to Weazel TV on November 19. Get ready for some wheels within wheels, as DiscussingFilm has revealed an animated trailer for a Grand Theft Auto 6 TV show—and I don't mean a trailer for a show about GTA 6, but a trailer for a show in GTA 6. Macca and Friends, as the show is known, follows the adventures of a gang of anthropomorphic Floridian—Leonidan, I suppose—animals as they try to find their way in the world, accompanied to some extent by a beefed-up cop. The animals are cops too. It's a bit like Scooby Doo, maybe, but more egalitarian. Rockstar hasn't said anything about the show, but this isn't the first appearance of Macca: A Macca and Friends mural appeared in a real-life BurgerShot that was set up in Miami's Kaseya Center in October, and a billboard for the show was erected in Miami as well. Both advertised Macca and Friends as \"coming November 19 on Weazel,\" a Fox-like television channel that exists within the GTA universe. How much of an actual, full-on show Rockstar has constructed here, I cannot say. Remedy has done similar things with its games, but those are just brief snippets delivering a little bit of meta narrative ; Rockstar, by comparison, gave us multiple stand-up comedy shows in GTA 5 and black-and-white films in Red Dead Redemption 2… not to mention, fully animated horse testicles . In that light, is it hard to believe they may have created an entire animated series for GTA 6? It might just be another blast from the GTA marketing machine—Rockstar is also literally renting the Miami Heat to promote its game, after all. At this point I don't think anything's off the table. PlayStation and Xbox owners will find out in less than a week: Grand Theft Auto 6 launches on November 19. A PC release date (or any kind of PC announcement at all) remains elusive. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. GTA 6 guide : Everything we know GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/6uAdn7tYNyji3HDiVVGeHR-2560-80.jpg"
+          "text": "No Man’s Sky, The Finals, and Hell Let Loose: Vietnam have been updated Six more games are getting graphics upgrades on standard PlayStation 5 consoles, including Arc Raiders, No Manâs Sky, and Control Resonant, via QSSR support. Announced last month, Quick Spectral Super Resolution (QSSR) is Sony âs new AI upscaling tech, which it claims will bring image improvements to compatible PS5 games. Digital Foundry has called the potential of the technology âremarkableâ. On Friday, Sony confirmed six new titles updated to support QSSR: Marvelâs Spider-Man 2 , Control Resonant , The Finals, ARC Raiders, and Hell Let Loose: Vietnam, No Manâs Sky . According to Insomniac , Spider-Man 2 has received âimage stability and sharpness benefitsâ in both Fidelity and Performance modes. Meanwhile, Remedy says Control Resonant has seen ânoticeable improvements” in image stability and fine detail. Arc Raiders is claimed to have benefited from âincreased sharpness, better environmental clarity and overall visual improvementsâ, while No Manâs Sky sees âsharper, cleaner and more beautiful detailâ. Finally, Hell Let Loose: Vietnam is said to have benefited from âsharper, cleaner image qualityâ thanks to the QSSR update. QSSR is built on the same foundation as PlayStation Spectral Super Resolution (PSSR) on PS5 Pro. The first titles to use the tech were Marvelâs Wolverine and Ghost of YÅtei, both of which offer QSSR as an additional graphics option on PS5. Digital Foundry said of the tech: âLow resolution and poor upscaling have impacted so many titles in this generation, but QSSR could make a big difference. In Marvelâs Wolverine especially, the quality boost can be exceptional.â",
+          "image": "https://www.videogameschronicle.com/files/2026/11/Screenshot-2026-11-13-163424.jpg"
         }
       ]
     },
@@ -277,150 +179,229 @@
       ]
     },
     {
-      "story_id": "7697189b2a94f4fa",
-      "title": "XBOX Playback chegou: reviva sua história com XBOX",
-      "summary": "The post XBOX Playback chegou: reviva sua história com XBOX appeared first on Xbox Wire em Português .",
-      "owners": [
-        "adrenaline",
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "620e78e668031e1e",
-        "a4a09784e4a33481"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/12/xbox-playback-chegou-reviva-sua-historia-com-xbox/",
-          "title": "XBOX Playback chegou: reviva sua história com XBOX",
-          "published_at": "2026-11-12T16:18:50+00:00",
-          "kind": "primary",
-          "text": "A partir de hoje, o XBOX Playback reúne os destaques do seu histórico disponível em XBOX, de todas as gerações, em uma experiência personalizada. Pela primeira vez, você pode relembrar e reviver o papel que teve na história de XBOX. Veja quando sua jornada começou, revisite os jogos aos quais você mais dedicou tempo e redescubra conquistas e momentos ao longo do caminho. Seu Playback inclui seu primeiro jogo de XBOX, o tempo total de jogo, o game que você mais jogou, seus anos de maior atividade, sua maior sequência de dias jogando e muito mais. Como não há dois jogadores iguais, cada pessoa terá um Playback diferente. Seja você um veterano que começou a jogar com um controle Duke ou alguém que ligou seu primeiro console neste ano, uma história personalizada estará esperando por você. A partir de hoje, você pode assistir ao seu Playback diretamente no console (procure a opção no painel) ou assistir ao seu vídeo personalizado na web, entrando com sua conta XBOX aqui . Quer se aprofundar um pouco mais? Acesse seu Arquivo do Playback na web para explorar mais do seu histórico disponível. Relembre alguns dos seus primeiros marcos, suas maiores conquistas e muito mais. O XBOX Playback será disponibilizado gradualmente ao longo do dia, então não se preocupe se ele não aparecer de imediato. Depois de assistir ao seu Playback, escaneie o QR code no final do vídeo no console ou selecione “compartilhar” na web para receber seu cartão personalizado do Playback. Compartilhe com amigos ou publique nas redes sociais com a hashtag #XBOXPlayback. O XBOX Playback reúne anos de história de XBOX de uma maneira totalmente nova. Esperamos que o Playback desperte algumas lembranças, surpreenda você ou traga à memória um jogo em que você não pensava há algum tempo. O Playback se baseia nos dados disponíveis da sua conta, por isso algumas partes do seu histórico podem estar incompletas ou demorar para aparecer. O Playback está disponível em 15 países* ( incluindo o Brasil ) a partir de hoje até 31 de dezembro de 2026. Seja você alguém que joga com a gente desde o início ou que está apenas começando, obrigado por fazer parte de XBOX. *Disponível até 31 de dezembro de 2026 na Argentina, Austrália, Brasil, Canadá, Colômbia, França, Alemanha, Hungria, Itália, México, Polônia, África do Sul, Espanha, Reino Unido e Estados Unidos. Requer pelo menos 1 ponto de Gamerscore (pontuação do jogador) em XBOX, 1 Conquista e 1 minuto de jogo válido vinculados ao seu perfil XBOX; o acesso pelo console requer pelo menos 1 minuto de jogo válido no console. Baseado nos dados disponíveis; alguns dados podem estar incompletos ou apresentar atrasos.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/XBOX-Wire-Playback-Logo-1-431a9b50384ec62fcd33-ca8616a3dddea271d63d.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/xbox-playback-traz-uma-retrospectiva-completa-de-sua-historia-com-a-marca/",
-          "title": "Xbox Playback traz uma retrospectiva completa de sua história com a marca",
-          "published_at": "2026-11-13T14:52:29+00:00",
-          "kind": "press",
-          "text": "Asha Sharma celebra 25 anos do Xbox falando sobre equipes pequenas e IA",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Xbox-Playback-Retrospectiva.jpeg"
-        }
-      ]
-    },
-    {
-      "story_id": "a90534dec47df7d6",
-      "title": "Modo Matança chega a DOOM: The Dark Ages | Revelações em 16 de novembro",
-      "summary": "The post Modo Matança chega a DOOM: The Dark Ages | Revelações em 16 de novembro appeared first on Xbox Wire em Português .",
-      "owners": [
-        "gameblast",
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "140420daeb43a0a8",
-        "baf5579da09f950f"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://slayersclub.bethesda.net/pt-BR/news/doom-the-dark-ages-revelations-slaughter-mode-release-date#new_tab",
-          "title": "Modo Matança chega a DOOM: The Dark Ages | Revelações em 16 de novembro",
-          "published_at": "2026-11-12T20:28:13+00:00",
-          "kind": "primary",
-          "text": "Leve suas habilidades de matança ao limite com o Modo Matança, um novo desafio de combate infinito disponível em 16 de novembro como uma atualização gratuita para quem possui DOOM: The Dark Ages | Revelações. Vença ondas implacáveis e imprevisíveis cada vez maiores de hordas demoníacas, conquistando seu recorde pessoal e desbloqueando recompensas usando os Crânios coletados da carnificina. Com cada ponto de controle alcançado, os jogadores devem se perguntar se querem resgatar seus lucros ou arriscar tudo para possivelmente aumentar as recompensas. Não existem duas partidas idênticas do MODO MATANÇA enquanto você enfrenta rodadas cada vez mais difíceis deconfrontos, chefes e arenas aleatórios, aumentando o ritmo conforme você avança. Conclua rodadas para ganhar Crânios, que desbloqueiam recompensas como visuais do Slayer exclusivos do Modo Matança, visuais de armas para todos os modos e ícones de perfil. Você também pode desbloquear faixas da Trilha Sonora de IDKFA de Andrew Hulshult para reproduzir no Modo Matança e no Estripatório! Enfrente desafios semanais para ter mais oportunidades de ganhar recompensas e exibir sua proeza de matança. Sobreviva o bastante para alcançar um Ponto de Controle da Rodada e terá a chance de Garantir seus Crânios atuais contra a morte. Ou escolha Arriscar para aumentar seu Multiplicador de Crânios, aumentando os Crânios que receberá durante a partida. Mas tem um porém: se você morrer enquanto Arriscar estiver ativa, todos os seus Crânios não garantidos serão perdidos! Mas a morte não é o fim: cada Ponto de Controle da Rodada que você conclui também desbloqueia outro ponto de início para partidas futuras, permitindo que você continue a carnificina nos confrontos posteriores mais cedo. O Modo Matança estará disponível em 16 de novembro para DOOM: The Dark Ages | Revelações. Este novo modo de jogo está incluso sem custo adicional para jogadores que já tem a DLC Revelações, a Edição Premium de DOOM: The Dark Ages ou a Atualização Premium de DOOM: The Dark Ages.",
-          "image": ""
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/doom-the-dark-ages-revelations-recebera-o-modo-slaughter-em-16-de-novembro-confira-o-trailer.html",
-          "title": "DOOM: The Dark Ages | Revelations receberá o modo Slaughter em 16 de novembro; confira o trailer",
-          "published_at": "2026-11-13T15:06:41+00:00",
-          "kind": "press",
-          "text": "Asha Sharma anuncia atualização gratuita e cita próximo jogo da id Software.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziRKHe9tBT1ra4toOrHviRFCPjN5s4LxYRdXPKKsx5HbUYK4he5FyJnQ5nxyF-4KCVy8R9qkGIUgfVb3iOaZH3c_fyK_S1MFqkcoz1o4kgDmvyIlahXfJ85WnwJTsfqlnFpN0Dc-CUT7-381JjF-oyK1XZWsThujsk5gyCXx2tuDhHZwY7uLP8F3J/w1200-h630-p-k-no-nu/doom.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "2a812364a3402bdf",
-      "title": "Halo: Campaign Evolved: modo cooperativo Firefight é anunciado",
-      "summary": "A CEO do XBOX, Asha Sharma, anunciou a chegada do modo cooperativo Firefight para Halo: Campaign Evolved . A revelação integra as comemorações do 25º aniversário do XBOX e da própria franquia, detalhando que a modalidade será lançada como uma atualização gratuita ainda neste inverno norte-americano (entre dezembro de 2026 e março de 2027). Presente na série há quase duas décadas, o tradicional...",
+      "story_id": "a7faac56f8d0bbd6",
+      "title": "Crimson Desert studio Pearl Abyss now implementing AI \"throughout our entire development pipeline\"",
+      "summary": "Gen-AI assets were removed from Crimson Desert in March",
       "owners": [
         "future-plc",
-        "gameblast"
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "78637ab7bffd3054",
-        "4a855f062c0332fa"
+        "1d9f7341633a7526",
+        "f1d7d9b94afa9431",
+        "0e943ed0a58cfea7"
       ],
       "sources": [
         {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/halo-campaign-evolved-modo-cooperativo-firefight-e-anunciado.html",
-          "title": "Halo: Campaign Evolved: modo cooperativo Firefight é anunciado",
-          "published_at": "2026-11-13T14:48:22+00:00",
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/open-world/despite-crimson-deserts-ai-backlash-pearl-abyss-is-now-implementing-the-tech-throughout-our-entire-development-pipeline-including-for-upcoming-pokemon-like-dokev/",
+          "title": "Crimson Desert studio Pearl Abyss now implementing AI \"throughout our entire development pipeline\"",
+          "published_at": "2026-11-13T16:33:47+00:00",
           "kind": "press",
-          "text": "Modo PvE gratuito para até quatro jogadores chega no fim do ano com novos mapas e armas.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiJDuAnMJaLSbpQnaNSnPMNjVHliWlfs6VjrdMRAA7Vf8-UMX-vnrtgSabWNbPzynkQ-M4g4zMLlNAXXWRAFCV3lia6_ielTqHnnNGWJk0MkNulasSpL7hiIiyDg97l-mpg818smjCExgRZDqaoowjMI5VC6eT3xVu031u-lP3Ut4xZBlYtoijkb8I/w1200-h630-p-k-no-nu/halo-ce.jpeg"
+          "text": "Gen-AI assets were removed from Crimson Desert in March It's a sad reality that several major games companies have either tried to use AI in development, or are actively doing so. Pearl Abyss, the studio behind this year's Crimson Desert , can now be counted among them, confirming the technology is being integrated across the business. The publisher and developer revealed this in a recent Earnings Letter . \"We are integrating AI technologies to enhance development productivity and overall quality,\" Pearl Abyss writes. \"AI is being utilized across various stages of development – including the automation of repetitive tasks, content creation support, and test optimization – and we are expanding its implementation throughout our entire development pipeline.\" It's worth remembering, Crimson Desert players dragged the game for having apparent generative-AI assets back in March. A subsequent update removed them, and Pearl Abyss issued an apology for allowing the game to ship with those elements still intact. Apparently that episode hasn't deterred leadership from incorporating the technology into even more facets of the design process. \"We view AI not as a substitute for human developers, but as a tool to elevate development efficiency and quality,\" Pearl Abyss adds. \"We will continue to expand our application of AI to deliver higher-fidelity games to the market more expeditiously.\" That much is good to hear, but my cynicism remains. The simple fact is AI is a poor substitute for creative iteration, and while it may speed up certain parts of game production, it's far too easy for audio, visual or mechanical elements to be among the corners that wound up cut as a result of the technology. For the time-being, fanbases are fervently against generative assets in their games. Whether they be Call of Duty , Battlefield 6 or Crimson Desert, once AI is noticed, you can't put the genie back in the bottle. Pearl Abyss confirms that the upcoming Pokemon-like creature-collecting game DokeV is being made using AI to an extent. \"AI serves strictly as a tool to support concept validation and pipeline productivity, while the core gameplay experience and actual content creation remain fully driven by our development team,\" the letter says. Not the most auspicious update, but we'll see what emerges when the project is on show. Weekly digests, tales from the communities you love, and more Crimson Desert is among the \"most technically ambitious games we’ve seen\" in 10 years but is overshadowed by \"the same safe, conventional AAA games,\" says Palworld lead. Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/Diz9EunMknKCPcmYpyFJcC-1920-80.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+          "title": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
+          "published_at": "2026-11-13T18:29:00+00:00",
+          "kind": "press",
+          "text": "\"This enables a more efficient allocation of development resources and enhances overall production speed.\" Crimson Desert and DokeV developer Pearl Abyss is planning to further integrate generative AI into its workflow. The South Korean studio said as much in its latest quarterly Earnings Letter , explaining that it had previously \"validated game systems only after implementing them manually.\" Now, Pearl Abyss is using AI \"to rapidly validate diverse design concepts prior to actual implementation,\" and argues the move \"enables a more efficient allocation of development resources and enhances overall production speed.\" \"However, AI serves strictly as a tool to support concept validation and pipeline productivity, while the core gameplay experience and actual content creation remain fully driven by our development team,\" the developer said. When Crimson Desert first launched, players spotted a crop of suspicious in-game images that looked like they were prompted into existence . Pearl Abyss soon explained that some \"2D visual props\" were generated with AI tools , but were always intended to be replaced with human-made art, before quickly patching them out of the hit open-world game. It seems Pearl Abyss is now even more keen on the controversial tech, however: \"We are integrating AI technologies to enhance development productivity and overall quality. AI is being utilized across various stages of development - including the automation of repetitive tasks, content creation support, and test optimization - and we are expanding its implementation throughout our entire development pipeline. We view AI not as a substitute for human developers, but as a tool to elevate development efficiency and quality. We will continue to expand our application of AI to deliver higher-fidelity games to the market more expeditiously.\" Elsewhere in the letter, the studio said its previously announced creature-collector DokeV is \"targeting a launch in the second half of 2028\" and we should hear more about it within the year. DokeV was initially targeting a 2023 launch a few years ago. Meanwhile, Crimson Desert is being prepped for a Nintendo Switch 2 launch \"in the first half of next year.\" The use of generative AI in game development has been a hot topic for years, though it's only become more prevalent in recent months as 'AI slop' floods Steam and big companies like Epic Games proudly adopt the tech . A recent report even estimated that around 40 percent of active developers use AI tools in their work.",
+          "image": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
           "name": "PC Gamer",
           "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes/",
-          "title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
-          "published_at": "2026-11-14T14:49:43+00:00",
+          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+          "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
+          "published_at": "2026-11-13T22:17:06+00:00",
           "kind": "press",
-          "text": "More info to be announced at Halo Fest in December. Xbox has announced the first update for Halo: Campaign Evolved since August, one which will add Firefight to the remake's overhaul of the original game's story. Firefight is Halo's cooperative PvE mode which debuted in Halo 3: ODST . It's a round-based defence affair where players must survive as long as possible against increasingly dangerous waves of enemies. Following ODST, the mode appeared in every subsequent Halo game with the exception of Halo 4, which featured a mode called Spartan Ops instead. In its announcement , Xbox was extremely light on details regarding the addition of Firefight. But the company said it'll share \"additional details\" about the Firefight update during Halo Fest, which takes place over the weekend commencing December 12. I'm pleased to see Campaign Evolved getting some more features, but the announcement also increases my sense that Xbox really doesn't know what to do with Halo at present. Campaign Evolved itself felt like a collective shrug from Halo Studios, a glossy but unambitious overhaul of the original game, with three new levels that nobody liked and shorn of the multiplayer that the PC version so enjoyable in the early 2000s. Morgan Park felt similarly in his Halo: Campaign Evolved Review . \"It was cool to see another interpretation of a game special to me, but the glitzy coat of paint primarily highlights how right Bungie got it in 2001, and how its modern stewards are nudging Halo in an unremarkable direction,\" he wrote back in July. A Firefight mode, coming nearly six months after launch with almost complete radio silence since August, smacks more of \"We need something for Halo Fest\" than the start of a bright new future for the remake. Not that I expected it to magically rejuvenate Halo. But that lack of expectation, of anticipation, is in itself part of the problem. I could be wrong, of course. As part of Xbox's \"reset\"—which has included laying off thousands of staff and saying sayonara to several studios—Xbox also handed control of Halo over to Activision . So perhaps bringing back Firefight is the first step in Activision 's plan—whatever that is. Some have suggested that Xbox wants Halo to be a more Call of Duty -like experience, which would certainly make sense from Xbox's perspective. Whether Halo can actually be that is, of course, another matter entirely. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/Pcbhgnm7v6JSwpbWkkXMaP-1920-80.jpg"
+          "text": "Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert earlier this year, but it's not slowing down. Earlier this year, Pearl Abyss apologized for the presence of AI-generated art in Crimson Desert—not because it had used generative AI, mind, but because players saw it. And it seems like the odds we might see more of it in the future are going up, as the studio said in its Q3 2026 earnings letter (via Eurogamer ) that it will be going even deeper on AI-powered development in the future. The first reference to AI comes midway through the letter: \"While we previously validated game systems only after implementing them manually, we now utilize AI to rapidly validate diverse design concepts prior to actual implementation,\" it states. \"This enables a more efficient allocation of development resources and enhances overall production speed.\" The studio immediately clarified, though, that AI \"serves strictly as a tool to support concept validation and pipeline productivity,\" and that gameplay and content development \"remain fully driven by our development team.\" The future will see more of the same, with the same caveats. \"We are integrating AI technologies to enhance development productivity and overall quality,\" Pearl Abyss writes. \"AI is being utilized across various stages of development—including the automation of repetitive tasks, content creation support, and test optimization—and we are expanding its implementation throughout our entire development pipeline. \"We view AI not as a substitute for human developers, but as a tool to elevate development efficiency and quality. We will continue to expand our application of AI to deliver higher-fidelity games to the market more expeditiously.\" That essentially repeats what Pearl Abyss said in February when players discovered the presence of generative AI art in Crimson Desert : It acknowledged that \"some 2D visual props\" had been created by AI during the early stages of development, but said they were supposed to be replaced \"following final work and review by our art and development teams, with work that aligned with our quality standards and creative direction.\" The studio also admitted that it had not \"clearly disclosed our use of AI\" in the development process, and promised to be more transparent about it in the future. This letter certainly could be seen as a step in that direction. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Pearl Abyss also said it aims to release DokeV, the \" weird GTA: Babies game \" revealed in 2021, sometime in the second half of 2028. GTA 6 guide : Everything we know GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/nLRUSe282Y7dBidATad2pm-2560-80.jpg"
         }
       ]
     },
     {
-      "story_id": "4eb6753cb77ad12f",
-      "title": "God of War: Sons of Sparta chega ao PS4 em 16 de dezembro com novo modo",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Título chegará com dois novos modos de gameplay: \"Erebus\" e \"Hermes\" O post God of War: Sons of Sparta chega ao PS4 em 16 de dezembro com novo modo apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
+      "story_id": "b8d232b0ebe03173",
+      "title": "Quote of the Day by GTA 6 CEO: \"Grand Theft Auto franchise is probably the most valuable IP\"",
+      "summary": "Just don't tell Pikachu",
       "owners": [
-        "adrenaline",
-        "meups"
+        "future-plc",
+        "insider-gaming"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "3e1d2deac04fdb97",
-        "89760fc2ae87c17e"
+        "0f978d58ade92065",
+        "dbc9519f0da34350"
+      ],
+      "sources": [
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/quote-of-the-day-by-gta-6-ceo-strauss-zelnick-we-believe-the-grand-theft-auto-franchise-is-probably-the-most-valuable-intellectual-property-in-the-entertainment-business/",
+          "title": "Quote of the Day by GTA 6 CEO: \"Grand Theft Auto franchise is probably the most valuable IP\"",
+          "published_at": "2026-11-13T18:00:00+00:00",
+          "kind": "press",
+          "text": "The CEO of the publishers behind GTA 6, Take-Two Interactive, isn't quite ready to go on his victory lap just yet, but he is once again enjoying what he thinks might be the most valuable entertainment IP in the world. Speaking to David Rubenstein, Take-Two CEO Strauss Zelnick was asked about the size of of GTA 6's impending launch. In traditional fashion, Zelnick remained pretty humble, telling Rubenstein that \"we never claim success before it occurs.\" In this instance, he notes, Take-Two and Rockstar have had plenty of success together. \"It's true that GTA 5 was a massive hit,\" he admits. \"It sold in over 230 million units, and we believe the Grand Theft Auto franchise as a whole is probably the most valuable intellectual property in the entertainment business, of any type, because of its enormous reach to consumers worldwide.\" Zelnick's argument is a potent one, but it's also a little hard to pin down. Off the top of my head, Pokémon and Marvel have certainly generated more money, but that's admittedly off the back of many hundreds more releases (and many more decades, in Marvel's case). Clearly, however, neither of those franchises can match the billions of dollars off a single launch that GTA 6 is set to make next week, or the other billions that the long tail of GTA Online is likely to secure. Pound-for-pound, GTA certainly sends those other heavyweights back to the corner, even if the 13-year gap between releases might be hurting a little. Despite his quiet confidence in the brand, however, Zelnick is still refusing to count his chickens before they hatch. \"The team at Rockstar has been working diligently to try to create something extraordinary with Grand Theft Auto 6,\" he says. \"I believe they will, I'm very optimistic, but as for success, we'll have to wait until November 19 and beyond.\" Weekly digests, tales from the communities you love, and more I'm GamesRadar's Managing Editor for news, shaping the news strategy across the team. I started my journalistic career while getting my degree in English Literature at the University of Warwick, where I also worked as Games Editor on the student newspaper, The Boar. Since then, I've run the news sections at PCGamesN and Kotaku UK, and also regularly contributed to PC Gamer. As you might be able to tell, PC is my platform of choice, so you can regularly find me playing League of Legends or Steam's latest indie hit. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1920-80.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/is-gta-6-out-now-launch-day-tracker/",
+          "title": "Is GTA 6 Out Now? Grand Theft Auto 6 Launch Day Tracker",
+          "published_at": "2026-11-15T08:14:07+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 season is upon us, and what a wonderful time it is to be a fan of open-world action titles. This monumental title from Rockstar Games is arguably the most hotly anticipated game ever made, and it’s sure to shatter sales records worldwide from the minute it hits the market. That said, some folks out there are wondering exactly when GTA 6 hits the market. If you’re only just stumbling onto the concept of Grand Theft Auto 6 or you’re sitting on the edge of your seat waiting for the exact minute when GTA 6 launches in your country, you’re not alone. It’s November 15th, 2026, and that means that Grand Theft Auto 6 is not out yet – but you can pre-load it! Grand Theft Auto 6 launches on XBOX and PlayStation 5 on November 19, 2026. Make sure to bookmark this page and check back for the latest coverage, and better yet, to prepare for what happens when Grand Theft Auto 6 does hit the market. Grand Theft Auto 6 is scheduled to hit a staggered launch pattern worldwide, which means it’ll launch at midnight local time around the world. It starts in New Zealand and works its way around the world, slowly taking over the entire planet and capturing the attention of tens of millions of gamers. If you want to get GTA 6 as early as possible, here are the guides you need: And in terms of exactly when the New Zealand trick goes live… It’s pretty simple, as there are only two versions of Grand Theft Auto 6. You’ve got the Standard Edition , which costs around $79.99, and the Ultimate Edition , which costs around $99.99 If you’re on the fence about which to choose, I can firmly advocate for picking up the Ultimate Edition. Here’s a guide explaining why the Ultimate Edition is worth the extra $20 . And I’d also recommend pre-ordering to get some exclusive goodies. Here’s yet another guide explaining how to access those GTA 6 pre-order bonuses . Our coverage campaign for Grand Theft Auto 6 is just starting, but to whet your appetite, you can start by checking out all the confirmed locations in GTA 6. It’s one hell of a map, and you’ll need a lot of time to figure out everything hidden within it. What platform are you buying GTA 6 on? Let us know your plans for this incredible game on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the news that Borderlands has hit 100 million sales . And for even more Insider Gaming delivered directly to your inbox, sign up for our newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Brian_Heder_landscape-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "a1ef844109fb07b9",
+      "title": "Novo Rainbow Six: Vegas estaria em desenvolvimento na Ubisoft",
+      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Com codinome \"Spades\", o novo Rainbow Six: Vegas estaria em produção na Ubisoft Montréal O post Novo Rainbow Six: Vegas estaria em desenvolvimento na Ubisoft apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
+      "owners": [
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "6b49c1e64911d0dc",
+        "19e563a267e1b55f"
       ],
       "sources": [
         {
           "name": "MeuPlayStation",
           "owner": "meups",
-          "url": "https://meups.com.br/noticias/god-of-war-sons-of-sparta-chega-ps4-16-dez/",
-          "title": "God of War: Sons of Sparta chega ao PS4 em 16 de dezembro com novo modo",
-          "published_at": "2026-11-13T15:33:22+00:00",
+          "url": "https://meups.com.br/noticias/novo-rainbow-six-vegas-desenvolvimento-na-ubisoft/",
+          "title": "Novo Rainbow Six: Vegas estaria em desenvolvimento na Ubisoft",
+          "published_at": "2026-11-13T18:01:00+00:00",
           "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/02/God-of-War-Sons-of-Sparta.jpg"
+          "text": "Vinícius Paráboa é redator no MeuPlayStation, com experiência na cobertura do universo PlayStation e da indústria de games. Acompanha a evolução da marca desde o PS1, com foco em notícias e tendências do mercado. Tem afinidade com clássicos como Crash Bandicoot, Sonic e Spyro, além de franquias como Persona, Assassin’s Creed e God of War.",
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Rainbow-Six-Vegas.jpg"
         },
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/god-of-war-sons-of-sparta-recebe-novo-conteudo-e-port-para-o-ps4-em-16-de-novembro/",
-          "title": "God of War: Sons of Sparta recebe novo conteúdo e port para o PS4 em 16 de novembro",
-          "published_at": "2026-11-13T19:29:27+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+          "title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
+          "published_at": "2026-11-14T12:19:50+00:00",
           "kind": "press",
-          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/god-of-war-sons-sparta-update-ps4.jpg"
+          "text": "Ubisoft is reportedly working on a new Rainbow Six Vegas game 18 years after the last entry in the series. According to Insider Gaming , the project is in early development at Ubisoft Montreal under the codename Spades. It’s one of three new projects reportedly in production at the studio, and sources suggest a second of those is also set in the Rainbow Six universe. Eurogamer hasn’t been able to verify the report. It’s not yet clear what form the new game will take, but Insider Gaming’s sources said it's \"likely Vegas 3 rather than a remake\" of an existing game. Insider Gaming expects it will be several years before Ubisoft officially announces a new Vegas game. Rainbow Six Vegas launched in 2006, followed by Rainbow Six Vegas 2 in 2008. Since then, the series has centred on 2015's Rainbow Six Siege, and in August, Ubisoft announced Rainbow Six Tactics, a single-player, turn-based spin-off from Ubisoft Paris due in 2027. Rainbow Six now sits under Vantage Studios, the Ubisoft subsidiary set up last year that also oversees Assassin’s Creed and Far Cry , and in which Tencent holds a 26.32 percent stake. Last week, we learned that Ubisoft is reportedly working on two new Assassin's Creed games : one set in ancient Rome, and a mobile spin-off set in Jerusalem. The leak came less than a week after Ubisoft issued a statement about the future of the Assassin's Creed series , insisting there are currently no new remakes of the series' past games in the works.",
+          "image": "https://assetsio.gnwcdn.com/0000003726.1920x1080.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
+    },
+    {
+      "story_id": "2db51433f318f5b1",
+      "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
+      "summary": "Macca and Friends is coming to Weazel TV on November 19.",
+      "owners": [
+        "future-plc",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "e30060ff4951ab57",
+        "f13cb85aa56d591d"
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/",
+          "title": "New Grand Theft Auto 6 trailer is for a TV show that exists within Grand Theft Auto 6",
+          "published_at": "2026-11-13T19:30:31+00:00",
+          "kind": "press",
+          "text": "Macca and Friends is coming to Weazel TV on November 19. Get ready for some wheels within wheels, as DiscussingFilm has revealed an animated trailer for a Grand Theft Auto 6 TV show—and I don't mean a trailer for a show about GTA 6, but a trailer for a show in GTA 6. Macca and Friends, as the show is known, follows the adventures of a gang of anthropomorphic Floridian—Leonidan, I suppose—animals as they try to find their way in the world, accompanied to some extent by a beefed-up cop. The animals are cops too. It's a bit like Scooby Doo, maybe, but more egalitarian. Rockstar hasn't said anything about the show, but this isn't the first appearance of Macca: A Macca and Friends mural appeared in a real-life BurgerShot that was set up in Miami's Kaseya Center in October, and a billboard for the show was erected in Miami as well. Both advertised Macca and Friends as \"coming November 19 on Weazel,\" a Fox-like television channel that exists within the GTA universe. How much of an actual, full-on show Rockstar has constructed here, I cannot say. Remedy has done similar things with its games, but those are just brief snippets delivering a little bit of meta narrative ; Rockstar, by comparison, gave us multiple stand-up comedy shows in GTA 5 and black-and-white films in Red Dead Redemption 2… not to mention, fully animated horse testicles . In that light, is it hard to believe they may have created an entire animated series for GTA 6? It might just be another blast from the GTA marketing machine—Rockstar is also literally renting the Miami Heat to promote its game, after all. At this point I don't think anything's off the table. PlayStation and Xbox owners will find out in less than a week: Grand Theft Auto 6 launches on November 19. A PC release date (or any kind of PC announcement at all) remains elusive. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. GTA 6 guide : Everything we know GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/6uAdn7tYNyji3HDiVVGeHR-2560-80.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/grand-theft-auto-vi-the-album-lista-completa-musicas/",
+          "title": "Grand Theft Auto VI: The Album tem lista completa de músicas divulgada",
+          "published_at": "2026-11-15T15:00:48+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/GTA-VI-The-Album.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "c333e886a7b45e7c",
+      "title": "The Game Awards 2026 Will Stream Live on Roblox for the First Time, Complete With Voting and Virtual Merch",
+      "summary": "The Game Awards is coming to Roblox for the first time this December, complete with live voting, virtual merchandise, and the opportunity to experience the whole thing alongside other players.",
+      "owners": [
+        "gameblast",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "0a301ebf764f3d49",
+        "d25def67e23c5e33"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/the-game-awards-2026-will-stream-live-on-roblox-for-the-first-time-complete-with-voting-and-virtual-merch",
+          "title": "The Game Awards 2026 Will Stream Live on Roblox for the First Time, Complete With Voting and Virtual Merch",
+          "published_at": "2026-11-13T20:07:50+00:00",
+          "kind": "press",
+          "text": "The Game Awards is coming to Roblox for the first time this December, giving fans another way to watch Geoff Keighley's annual gaming shindig, complete with live voting, virtual merchandise, and the opportunity to experience the whole thing alongside other players. The Game Awards 2026 will stream live on Roblox starting Thursday, December 10, marking the first time an external awards show has been livestreamed on the platform. The broadcast will take place in The Block, Roblox's virtual event venue, while the actual ceremony takes place at the Peacock Theater in Los Angeles. There's a catch, though. Only Roblox users aged 18 and older will be able to attend the virtual watch party. Those who are old and wizened enough to take part will be able to watch the entire broadcast, including the usual assortment of world premieres, new game announcements, awards, and musical performances. Fans will also be able to vote, interact with other viewers, and claim virtual merchandise, although exactly what that merchandise will look like remains to be seen. Official category voting will also be available ahead of the ceremony, with further details about the Roblox experience expected closer to the event. On December 10th, #TheGameAwards makes history as the show will stream live in @Roblox for the first time. Fans 18+ will be able to watch, vote and interact LIVE alongside gaming's biggest night. More details coming soon. https://t.co/ouVtxXt7yV The Block is no stranger to hosting major events. The virtual venue has previously been home to the Roblox Innovation Awards, alongside music experiences featuring artists including Billie Eilish, The Rolling Stones, and (K-pop fan hyperventilating) Stray Kids . The Game Awards 2026 takes place December 10, with Geoff Keighley once again at the helm. There's no word yet on exactly how the virtual merchandise or interactive elements will work, but more details are promised in the coming weeks. It will also be available to stream through Disney+ . At the very least, watching The Game Awards in Roblox should make for an interesting alternative to sitting through several hours of announcements while arguing about Game of the Year in a group chat. Now you can do it surrounded by avatars instead. Rachel Weber is the Head of Editorial Development at IGN and an elder millennial. She's been a professional nerd since 2006 when she got her start on Official PlayStation Magazine in the UK, and has since worked for GamesIndustry.Biz, Rolling Stone and GamesRadar. She loves horror, horror movies, horror games, Red Dead Redemption 2, and her Love and Deepspace boyfriends.",
+          "image": "https://assets-prd.ignimgs.com/2024/10/08/roblox-art-1728421654301.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/the-game-awards-2026-indicados-serao-revelados-no-dia-17.html",
+          "title": "The Game Awards 2026: indicados serão revelados no dia 17",
+          "published_at": "2026-11-14T00:24:47+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "story_id": "e007ac513d4856ec",
+      "title": "Nintendo Just Accidentally Got Every Zelda Nerd’s Hopes Up",
+      "summary": "A girl can dream, right?",
+      "owners": [
+        "future-plc",
+        "keleops"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "583065850ffae63b",
+        "c489fbbe9f77d7d4"
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/nintendo-official-website-erroneously-suggests-a-link-between-worlds-is-available-on-nso-2000756672",
+          "title": "Nintendo Just Accidentally Got Every Zelda Nerd’s Hopes Up",
+          "published_at": "2026-11-13T20:30:32+00:00",
+          "kind": "press",
+          "text": "Nintendo Switch Online The Legend of Zelda For the last two weeks, an official Nintendo website has erroneously suggested that The Legend of Zelda: A Link Between Worlds is available on Nintendo Switch Online. [ALBW] Found this on Nintendo's website today, probably doesn't mean anything though. by u/vertexjrpg in zelda This was shared today by Reddit user vertexjrpg , who posted a screenshot of what they saw. Kotaku was able to confirm that the NSO indicator was there as recently as this morning, and per Wayback Machine was there as far back as November 4, which is when the “History” section of the 40th anniversary website was first added. As of this afternoon, it has been removed . Kotaku has reached out to Nintendo for comment. Does this mean anything? Probably not. Most likely, this is a case of whoever made this website putting a button that should have gone somewhere else in the wrong place. It happens. But there’s always the minute possibility that this is somehow a sign of something to come. With GameCube and GBA games now viable fodder for NSO inclusion as of the Switch 2, next on the list would be Wii, Wii U, DS, and 3DS. Right now, the only way to (legally, officially) play games on any of these consoles is by owning the physical system, and either a physical copy of a given game or a digital one downloaded from back when their respective online shops were still active. So it’s not exactly easy for a Zelda fan, especially someone coming in more recently with Ocarina of Time , to experience excellent games like A Link Between Worlds . I’m not optimistic we’ll see 3DS games on NSO any time soon, but I want to believe it is an eventual inevitability, if only so I can go back at will to an awful lot of otherwise inaccessible PokÃ©mon games. As long as I don’t have to sign up for a third, more expensive subscription tier to make it happen. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. I'm not saying I *would* chew them, I'm just saying... We'll create...a constellation...of our very own...",
+          "image": "https://kotaku.com/app/uploads/2020/07/1124986508204159817.jpg"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-just-broke-the-zelda-timeline-by-10-000-years-as-it-reconfirms-a-contentious-tears-of-the-kingdom-theory/",
+          "title": "Nintendo just broke the Zelda timeline by 10,000 years",
+          "published_at": "2026-11-13T23:30:00+00:00",
+          "kind": "press",
+          "text": "As the refounding theory finally starts to settle in, now we've got a shifting Great Calamity to deal with The Legend of Zelda timeline has gotten yet another confusing new update, shifting the events leading to Breath of the Wild by 9,900 years and directly contradicting established lore. It's such an about-face for the existing story that series fans are pretty sure it's just a mistake, but the new word comes straight from Nintendo of America, which is often treated as gospel. The Zelda timeline splits into three different branches based on the end of Ocarina of Time, but those branches all converge in the misty history leading up to the events of Breath of the Wild and Tears of the Kingdom. Earlier this year, Nintendo updated the Japanese version of the timeline and made clear that the founding of Hyrule depicted in flashback during Tears of the Kingdom shows the start of a new Hyrule , well after the one depicted in Ocarina of Time and other games has faded into history. Now, Nintendo of America has updated the official English-language timeline to confirm the refounding – well, I say \"confirm\" but I'm sure it'll remain contentiously debated among the most dedicated purists. Either way, the update has made another curious tweak to the rest of the backstory. Up until now, we've understood the timeline depicted in Tears of the Kingdom's flashbacks like this: Hyrule is (re)founded, Ganondorf appears to invade, and is sealed away as part of the Imprisoning War. Untold generations pass, and the evil entity known as Calamity Ganon eventually emerges and ravages the kingdom before being pushed back by Sheikah technology. 10,000 years pass from that Great Calamity, and that brings us to Breath of the Wild. Calamity Ganon reemerges, Link hibernates for 100 years, and the game begins. According to the new timeline, the Imprisoning War happens, 9,900 years pass, and then the Great Calamity happens. Then it's just 100 years before Ganon reemerges – now referred to as \"the second Great Calamity\" – kicking off Link's century-long hibernation leading into Breath of the Wild. In other words, the first Great Calamity, which was originally placed 10,000 years before Breath of the Wild, now takes place just a century or two before the game's events. This is despite the fact that Breath of the Wild is full of people trying to unlock the secrets of a pre-Calamity world that's long since faded into myth. How are Zelda fans taking the sudden break in established lore? Well, you can read the Reddit threads for yourself, but I imagine you can already guess the tone of the responses. The Zelda timeline is notoriously convoluted, and while Nintendo has kept it up since at least 2003, Shigeru Miyamoto always maintained that it's \"not that important to us.\" Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Perhaps that's why Eiji Aonuma shut down attempts to add further nods to the timeline Ocarina of Time , and why a new official timeline update can so suddenly make an astronomical shift to established lore. Don't worry – regardless of how this detail shakes out, I'm sure the timeline will be broken in all-new ways soon enough. Nintendo pulled back the horror from one of The Legend of Zelda: Ocarina of Time remake's most terrifying enemies: \"Maybe we've gone a step too far.\" Dustin Bailey joined the GamesRadar team as a Staff Writer in May 2022, and is currently based in Missouri. He's been covering games (with occasional dalliances in the worlds of anime and pro wrestling) since 2015, first as a freelancer, then as a news writer at PCGamesN for nearly five years. His love for games was sparked somewhere between Metal Gear Solid 2 and Knights of the Old Republic, and these days you can usually find him splitting his entertainment time between retro gaming, the latest big action-adventure title, or a long haul in American Truck Simulator. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/FZ4RbQpnaUP5QTnVuno82k-1920-80.jpg"
         }
       ]
     }
