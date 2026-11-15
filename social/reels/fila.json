@@ -3831,7 +3831,7 @@
     "slug": "gta-6-marketing-casamento",
     "data": "2026-11-15",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Cartaz",
     "legenda": "Agora o marketing de GTA 6 foi longe demais 💍\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #memesgamer #pixelzada",
     "tentativas": 0,
@@ -3847,6 +3847,22 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T18:00:13-03:00",
+      "media_id": "18189932830417459",
+      "permalink": "https://www.instagram.com/reel/DfxsllvDoXI/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afa1d898e87c256a38f4cdd",
+        "em": "2026-11-15T18:00:56-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=R-OqKFrqZBo"
+      }
     }
   },
   {
