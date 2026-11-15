@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 16:54:24 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pearl Abyss, de Crimson Desert, diz que vai usar IA em toda a produção de jogos</title>
+      <link>https://pixelzada.com.br/pt/pearl-abyss-crimson-desert-vai-usar-ia-em-toda-a-producao-de-jogos/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/pearl-abyss-crimson-desert-vai-usar-ia-em-toda-a-producao-de-jogos/</guid>
+      <description>A Pearl Abyss, de Crimson Desert, diz que vai usar IA em toda a produção de jogos. Veja o que a carta de resultados afirma e o histórico de polêmica do estúdio.</description>
+      <category>Indústria</category>
+      <pubDate>Sun, 15 Nov 2026 16:54:22 +0000</pubDate>
+    </item>
     <item>
       <title>Golpes de GTA 6: download falso, beta, lojas clonadas e cripto — como não cair</title>
       <link>https://pixelzada.com.br/pt/golpes-de-gta-6-download-falso-beta-lojas-clonadas-e-cripto-como-nao-cair/</link>
@@ -238,14 +246,6 @@
       <description>A atualização Symbiosis de Marathon chega em 8 de dezembro com modo PvE Expedition, Deathmatch 3v3, o Runner Bishop, novas armas e semana de teste grátis.</description>
       <category>Lançamentos</category>
       <pubDate>Thu, 12 Nov 2026 00:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Big Walk usou IA 'com parcimônia', revela a House House após polêmica no IGF</title>
-      <link>https://pixelzada.com.br/pt/big-walk-house-house-ia-generativa-igf-jurados/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/big-walk-house-house-ia-generativa-igf-jurados/</guid>
-      <description>A House House, de Big Walk, revelou uso pontual de IA generativa após jurados do IGF se posicionarem. Veja o que o estúdio disse e o que os jurados responderam.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 12 Nov 2026 00:41:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

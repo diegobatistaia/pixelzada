@@ -94,7 +94,10 @@
     "query": "Crimson Desert Kliff",
     "alt": "Arte de Crimson Desert com o protagonista Kliff",
     "url": "https://assetsio.gnwcdn.com/crimson-deser-kliff.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/pearl-abyss-crimson-desert-vai-usar-ia-e-eb4ddff0.jpg",
+    "source_url": "",
+    "foco": "59% 36%"
   },
   "sources": [
     {
@@ -116,5 +119,7 @@
       "title": "Pearl Abyss is expanding AI use throughout our entire development pipeline"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-15T16:54:22+00:00",
+  "updated_at": "2026-11-15T16:54:22+00:00"
 }
