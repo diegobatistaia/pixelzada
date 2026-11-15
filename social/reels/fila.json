@@ -3751,7 +3751,7 @@
     "slug": "chegada-de-um-novo-gta",
     "data": "2026-11-15",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Em breve, vamos sentir essa sensação de novo. A chegada de um novo GTA é sempre um momento marcante 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #rockstar #pixelzada",
     "tentativas": 0,
@@ -3767,6 +3767,22 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T16:00:25-03:00",
+      "media_id": "18111102632187852",
+      "permalink": "https://www.instagram.com/reel/Dfxe63tGYCt/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afa018ae5a113497a091719",
+        "em": "2026-11-15T16:01:29-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=PAvBTbiitX8"
+      }
     }
   },
   {
