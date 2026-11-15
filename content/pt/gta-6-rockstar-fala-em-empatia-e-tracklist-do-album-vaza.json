@@ -94,7 +94,10 @@
     "query": "GTA 6 Jason e Lucia",
     "alt": "Jason e Lucia, protagonistas de GTA 6, em imagem de divulgação",
     "url": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-rockstar-fala-em-empatia-e-trackli-dfd94b9a.jpg",
+    "source_url": "",
+    "foco": "43% 30%"
   },
   "sources": [
     {
@@ -122,5 +125,7 @@
       "title": "GTA 6 tracklist leak"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-15T20:42:56+00:00",
+  "updated_at": "2026-11-15T20:42:56+00:00"
 }

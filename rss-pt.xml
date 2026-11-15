@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 18:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:42:58 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6: Rockstar fala em mecanismos de empatia e lista do álbum vaza</title>
+      <link>https://pixelzada.com.br/pt/gta-6-rockstar-fala-em-empatia-e-tracklist-do-album-vaza/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-rockstar-fala-em-empatia-e-tracklist-do-album-vaza/</guid>
+      <description>Rockstar diz que GTA 6 terá mecanismos que incentivam a empatia, pela primeira vez na série, e a lista de 34 músicas do álbum teria vazado. Veja o que se sabe.</description>
+      <category>GTA 6</category>
+      <pubDate>Sun, 15 Nov 2026 20:42:56 +0000</pubDate>
+    </item>
     <item>
       <title>Como GTA 6 roda: 30 fps, 1440p e o que se sabe do PS5 Pro</title>
       <link>https://pixelzada.com.br/pt/como-gta-6-roda-30-fps-1440p-e-o-que-se-sabe-do-ps5-pro/</link>
@@ -238,14 +246,6 @@
       <description>A Black Forest Games, dos remakes de Destroy All Humans, se separou da THQ Nordic após uma compra pela diretoria e fundou o grupo independente Third Signal.</description>
       <category>Indústria</category>
       <pubDate>Thu, 12 Nov 2026 10:44:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Harada, de Tekken, diz que queria que o Xbox Series S não existisse</title>
-      <link>https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/</guid>
-      <description>Katsuhiro Harada, ex-diretor de Tekken, criticou o Xbox Series S em painel na Coreia e brincou com um Helix S. Veja a resposta do dev de Cyberpunk 2077.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 12 Nov 2026 00:41:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
