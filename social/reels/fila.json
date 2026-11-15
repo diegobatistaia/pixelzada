@@ -4440,47 +4440,25 @@
     }
   },
   {
-    "slug": "gta-6-bruneygta",
+    "slug": "leon-com-uma-12-em-elden-ring",
     "data": "2026-11-17",
     "horario": "22:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Colocaram Leon com uma 12 no universo de Elden Ring 💥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#residentevil #eldenring #mods #games #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "bruneygta",
-      "link": "https://www.instagram.com/reel/DfscLwQBRqw/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "gta-6-bruneygta-2",
-    "data": "2026-11-17",
-    "horario": "23:00",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "bruneygta",
-      "link": "https://www.instagram.com/reel/DfsOAh8NmVv/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfvHyeDRmi3/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
+      "tema": "games",
+      "jogo": "Resident Evil",
+      "moldura": "identidade"
     }
   }
 ]
