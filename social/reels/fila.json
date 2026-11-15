@@ -4806,6 +4806,50 @@
     }
   },
   {
+    "slug": "tomb-raider-30-anos",
+    "data": "2026-11-18",
+    "horario": "10:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Há 30 anos, Lara Croft encarava perigos inesperados no Tomb Raider original 🎒🦖 Quem jogou?\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#tombraider #laracroft #playstation #retro #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "playstation",
+      "link": "https://www.instagram.com/reel/DfuhMeOkRyI/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "Tomb Raider",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "novos-vizinhos-nao-aceitam",
+    "data": "2026-11-18",
+    "horario": "10:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Quando você não é bem aceito pelos novos vizinhos 😭🏃\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #meme #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "chernobyl.games",
+      "link": "https://www.instagram.com/reel/DfxQOiktCzI/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "games",
+      "moldura": "identidade"
+    }
+  },
+  {
     "slug": "gta6-lancado-players-0001",
     "data": "2026-11-18",
     "horario": "23:30",
