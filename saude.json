@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-11-15T05:27-03:00",
+ "atualizado": "2026-11-15T06:27-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
    "uso": "publicar os Reels",
    "ok": true,
    "tipo": "login do Instagram",
-   "vence_em_dias": 59.2
+   "vence_em_dias": 59.1
   },
   "meta": {
    "segredo": "META_TOKEN_PIXELZADA",
@@ -18,7 +18,7 @@
   }
  },
  "fila_reels": {
-  "agendados": 47,
+  "agendados": 48,
   "meta_por_dia": 17,
   "dias_de_reserva": 2.8,
   "grade_cheia_ate": "2026-11-16",
