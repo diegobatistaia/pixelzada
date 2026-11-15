@@ -3869,7 +3869,7 @@
     "slug": "cyberpunk-sem-nenhum-bug",
     "data": "2026-11-15",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "\"Agora sim dá pra jogar Cyberpunk, o jogo não tem mais nenhum bug\" 😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#cyberpunk2077 #cyberpunk #memesgamer #games #pixelzada",
     "tentativas": 0,
@@ -3885,6 +3885,22 @@
       "tema": "games",
       "jogo": "Cyberpunk 2077",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T18:59:27-03:00",
+      "media_id": "18017189189968675",
+      "permalink": "https://www.instagram.com/reel/DfxzX7FEVrL/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afa2b6b60a910801c4e0314",
+        "em": "2026-11-15T19:00:10-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=NZxoAbm3ciA"
+      }
     }
   },
   {
