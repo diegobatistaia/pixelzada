@@ -3369,7 +3369,7 @@
     "slug": "attack-on-titan-3-gameplay",
     "data": "2026-11-14",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "HUD",
     "legenda": "Prévia do gameplay de Attack on Titan 3: defendendo o Eren de uma onda de titãs ⚔️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#attackontitan #shingekinokyojin #anime #games #pixelzada",
     "tentativas": 0,
@@ -3385,6 +3385,22 @@
       "tema": "games",
       "jogo": "o universo dos games",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-14T20:59:59-03:00",
+      "media_id": "18111947252354704",
+      "permalink": "https://www.instagram.com/reel/DfvcXpgkZQx/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af8f63fe86a5789a6dc1e8a",
+        "em": "2026-11-14T21:01:02-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
