@@ -3409,7 +3409,7 @@
     "slug": "rdr2-mano-zerou",
     "data": "2026-11-15",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Como encontrei meu mano quando zerou RDR2 depois de eu convencer ele a jogar 🤠\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#rdr2 #reddeadredemption2 #memesgamer #gamer #pixelzada",
     "tentativas": 0,
@@ -3425,6 +3425,22 @@
       "tema": "games",
       "jogo": "Red Dead Redemption 2",
       "moldura": "simples-branca"
+    },
+    "publicado": {
+      "em": "2026-11-15T07:07:22-03:00",
+      "media_id": "18100316975670671",
+      "permalink": "https://www.instagram.com/reel/Dfwh4P8gtOT/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af98482c5b364e0624a1267",
+        "em": "2026-11-15T07:08:01-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
