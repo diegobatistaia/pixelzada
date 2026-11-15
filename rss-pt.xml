@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 20:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 22:39:33 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Super Meat Boy Again+ é anunciado para PC com arte, fases e músicas novas</title>
+      <link>https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/</guid>
+      <description>Super Meat Boy Again+ foi anunciado para PC com arte, músicas, fases e segredos novos. A Team Meat ainda não deu data de lançamento. Veja o que se sabe.</description>
+      <category>Lançamentos</category>
+      <pubDate>Sun, 15 Nov 2026 22:39:32 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: Rockstar fala em mecanismos de empatia e lista do álbum vaza</title>
       <link>https://pixelzada.com.br/pt/gta-6-rockstar-fala-em-empatia-e-tracklist-do-album-vaza/</link>
@@ -238,14 +246,6 @@
       <description>Quais lugares reais de Miami aparecem em GTA 6? Veja Ocean Drive, Wynwood, Kaseya Center e mais, além de como a Rockstar pesquisou todo o sul da Flórida.</description>
       <category>GTA 6</category>
       <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Black Forest Games deixa a THQ Nordic e vira independente</title>
-      <link>https://pixelzada.com.br/pt/black-forest-games-deixa-thq-nordic-third-signal/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/black-forest-games-deixa-thq-nordic-third-signal/</guid>
-      <description>A Black Forest Games, dos remakes de Destroy All Humans, se separou da THQ Nordic após uma compra pela diretoria e fundou o grupo independente Third Signal.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 12 Nov 2026 10:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
