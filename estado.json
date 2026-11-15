@@ -7,38 +7,41 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-15T14:42-03:00",
+ "atualizado": "2026-11-15T19:48-03:00",
  "hoje": {
   "data": "2026-11-15",
   "reels": {
    "meta": 15,
-   "publicados": 8,
-   "deviam_ter_saido": 8,
+   "publicados": 13,
+   "deviam_ter_saido": 13,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 3,
+   "deviam_ter_saido": 6,
    "atrasados": [
     "09:00",
     "11:00",
-    "13:00"
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 43,
+  "agendados": 44,
   "meta_por_dia": 17,
-  "dias_de_reserva": 2.5,
+  "dias_de_reserva": 2.6,
   "grade_cheia_ate": "2026-11-17",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-15",
-    "agendados": 7,
+    "agendados": 2,
     "meta": 15
    },
    {
@@ -53,23 +56,23 @@
    },
    {
     "data": "2026-11-18",
-    "agendados": 2,
+    "agendados": 8,
     "meta": 33
    }
   ]
  },
  "site": {
-  "total": 212,
-  "hoje": 2,
+  "total": 215,
+  "hoje": 5,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Pearl Abyss, de Crimson Desert, diz que vai usar IA em toda a produção de jogos",
-   "url": "https://pixelzada.com.br/pt/pearl-abyss-crimson-desert-vai-usar-ia-em-toda-a-producao-de-jogos/",
-   "em": "2026-11-15T13:54:22-03:00"
+   "titulo": "Super Meat Boy Again+ é anunciado para PC com arte, fases e músicas novas",
+   "url": "https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/",
+   "em": "2026-11-15T19:39:32-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "15/11/2026 11:05",
+  "ultima_coleta": "15/11/2026 19:05",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
@@ -77,38 +80,29 @@
   "usuario": "pixelzada.br",
   "seguidores": 99,
   "seguindo": 5,
-  "posts": 290,
-  "alcance_7d": 37571,
-  "views_7d": 51455,
+  "posts": 295,
+  "alcance_7d": 38117,
+  "views_7d": 52491,
   "reels_7d": {
-   "quantidade": 79,
-   "views_total": 55204,
-   "views_mediana": 168,
-   "acima_de_1000": 2,
+   "quantidade": 82,
+   "views_total": 14652,
+   "views_mediana": 166,
+   "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-15": 2090,
-    "2026-11-14": 1606,
+    "2026-11-15": 2904,
+    "2026-11-14": 1608,
     "2026-11-13": 2137,
     "2026-11-12": 2139,
-    "2026-11-11": 2276,
+    "2026-11-11": 2278,
     "2026-11-10": 2048,
-    "2026-11-09": 1538,
-    "2026-11-08": 41370
+    "2026-11-09": 1538
    },
    "melhores": [
     {
-     "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 41128,
-     "alcance": 29582,
-     "curtidas": 1326,
-     "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
-     "em": "2026-11-08T16:00:09-03:00"
-    },
-    {
      "legenda": "O segredo da Máscara da Verdade em Zelda: os personagens veem a máscara do Link e reagem 🎭",
-     "views": 1096,
-     "alcance": 915,
-     "curtidas": 25,
+     "views": 1397,
+     "alcance": 1180,
+     "curtidas": 35,
      "link": "https://www.instagram.com/reel/Dfwn2EfDpBK/",
      "em": "2026-11-15T08:00:06-03:00"
     },
@@ -135,6 +129,14 @@
      "curtidas": 3,
      "link": "https://www.instagram.com/reel/DfhawTADKHY/",
      "em": "2026-11-09T10:17:06-03:00"
+    },
+    {
+     "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liber",
+     "views": 261,
+     "alcance": 168,
+     "curtidas": 9,
+     "link": "https://www.instagram.com/reel/DfrlTmNgoiO/",
+     "em": "2026-11-13T09:01:41-03:00"
     }
    ]
   }
@@ -157,9 +159,9 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 67
+   "youtube": 73
   },
-  "erros_hoje": 0
+  "erros_hoje": 3
  },
  "ultimos_dias": [
   {
@@ -187,7 +189,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2276
+   "views_reels": 2278
   },
   {
    "data": "2026-11-12",
@@ -214,16 +216,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1606
+   "views_reels": 1608
   },
   {
    "data": "2026-11-15",
-   "reels": 8,
+   "reels": 13,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 2,
-   "views_reels": 2090
+   "materias": 5,
+   "views_reels": 2904
   }
  ],
  "seguidores_por_dia": [
@@ -263,7 +265,11 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
+  },
+  {
+   "nivel": "amarelo",
+   "texto": "Buffer: 3 envio(s) para TikTok/YouTube com erro hoje"
   }
  ]
 }
