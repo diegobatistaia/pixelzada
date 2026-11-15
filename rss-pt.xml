@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:54:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:40:42 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Como GTA 6 roda: 30 fps, 1440p e o que se sabe do PS5 Pro</title>
+      <link>https://pixelzada.com.br/pt/como-gta-6-roda-30-fps-1440p-e-o-que-se-sabe-do-ps5-pro/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/como-gta-6-roda-30-fps-1440p-e-o-que-se-sabe-do-ps5-pro/</guid>
+      <description>GTA 6 nos consoles: 30 fps confirmado por enquanto, 1440p estimado pela Digital Foundry e o selo PS5 Pro Enhanced. Veja o que é oficial e o que é estimativa.</description>
+      <category>GTA 6</category>
+      <pubDate>Sun, 15 Nov 2026 18:40:41 +0000</pubDate>
+    </item>
     <item>
       <title>Pearl Abyss, de Crimson Desert, diz que vai usar IA em toda a produção de jogos</title>
       <link>https://pixelzada.com.br/pt/pearl-abyss-crimson-desert-vai-usar-ia-em-toda-a-producao-de-jogos/</link>
@@ -237,14 +245,6 @@
       <guid isPermaLink="true">https://pixelzada.com.br/pt/harada-tekken-xbox-series-s-filho-mais-fraco/</guid>
       <description>Katsuhiro Harada, ex-diretor de Tekken, criticou o Xbox Series S em painel na Coreia e brincou com um Helix S. Veja a resposta do dev de Cyberpunk 2077.</description>
       <category>Indústria</category>
-      <pubDate>Thu, 12 Nov 2026 00:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Marathon: atualização Symbiosis chega em 8 de dezembro com PvE e Bishop</title>
-      <link>https://pixelzada.com.br/pt/marathon-symbiosis-8-de-dezembro-novos-modos-bishop/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/marathon-symbiosis-8-de-dezembro-novos-modos-bishop/</guid>
-      <description>A atualização Symbiosis de Marathon chega em 8 de dezembro com modo PvE Expedition, Deathmatch 3v3, o Runner Bishop, novas armas e semana de teste grátis.</description>
-      <category>Lançamentos</category>
       <pubDate>Thu, 12 Nov 2026 00:41:18 +0000</pubDate>
     </item>
   </channel>
