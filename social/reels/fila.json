@@ -3361,7 +3361,8 @@
         "post_id": "6af8e7ece86a5789a6d7d95d",
         "em": "2026-11-14T19:59:55-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
@@ -3399,7 +3400,8 @@
         "post_id": "6af8f63fe86a5789a6dc1e8a",
         "em": "2026-11-14T21:01:02-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
