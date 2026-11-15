@@ -3789,7 +3789,7 @@
     "slug": "primeiro-trailer-gta5-2011",
     "data": "2026-11-15",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Em novembro de 2011, a Rockstar Games divulgou o primeiro trailer de GTA 5. O tempo voa ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta5 #gta6 #rockstar #nostalgia #pixelzada",
     "tentativas": 0,
@@ -3805,6 +3805,22 @@
       "tema": "gta6",
       "jogo": "GTA 5",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T17:02:25-03:00",
+      "media_id": "18084671942357216",
+      "permalink": "https://www.instagram.com/reel/Dfxl-QrjbC-/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afa101655ad64be505578b4",
+        "em": "2026-11-15T17:03:33-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=bG_f0I8g--4"
+      }
     }
   },
   {
