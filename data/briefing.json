@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T20:39:38+00:00",
+  "generated_at": "2026-11-15T22:08:36+00:00",
   "posts_per_language_today": 3,
   "daily_cap_per_language": 10,
-  "already_written_today": 3,
+  "already_written_today": 4,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,11 +42,10 @@
   ],
   "stories": [
     {
-      "story_id": "3a7260be31dddf0c",
+      "story_id": "40b08345fc25cec2",
       "title": "Próxima semana em XBOX: novos jogos para 16 a 20 de novembro",
       "summary": "The post Próxima semana em XBOX: novos jogos para 16 a 20 de novembro appeared first on Xbox Wire em Português .",
       "owners": [
-        "adrenaline",
         "microsoft",
         "nzn"
       ],
@@ -55,7 +54,6 @@
       ],
       "fingerprints": [
         "c8f411c237a992b3",
-        "9ca1ab11ec402f35",
         "5ea7401154c81e55"
       ],
       "sources": [
@@ -70,82 +68,14 @@
           "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/nwox-hero-52da60a845b9cd6d8944.jpg"
         },
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/lancamentos-da-semana-gta-6-e-mais-jogos/",
-          "title": "LANÇAMENTOS DA SEMANA | GTA 6 e mais jogos",
-          "published_at": "2026-11-13T21:05:00+00:00",
-          "kind": "press",
-          "text": "GTA V agora roda direto no navegador, sem precisar instalar o jogo no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/10/GTA-6-Rockstar-Tempo-Desenvolvimento.jpeg"
-        },
-        {
           "name": "Voxel",
           "owner": "nzn",
           "url": "https://www.estadao.com.br/tecmundo/voxel/xbox-game-pass-recebe-5-novos-jogos-esta-semana-veja-os-lancamentos-14/",
           "title": "Xbox Game Pass recebe 5 novos jogos esta semana! Veja os lançamentos (14)",
           "published_at": "2026-11-14T18:15:00+00:00",
           "kind": "press",
-          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de cinco títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Disponível no lançamento no Xbox Game Pass, Warhammer Survivors é um jogo de ação no estilo bullet heaven, inspirado em Vampire Survivors . Com visual em pixel art, o game coloca os jogadores contra grandes hordas de inimigos, utilizando armas, habilidades e personagens inspirados no universo de Warhammer . Também disponível no lançamento no Xbox Game Pass, Tanuki: Pon’s Summer coloca os jogadores no controle de Pon, um guaxinim que precisa restaurar um santuário antes do Festival Tanuki. Para cumprir a missão, será necessário entregar encomendas de bicicleta, fazer amizades e ajudar os moradores em atividades como preparar sushi e participar de lutas de sumô. Outro game a compor o Game Pass no lançamento, Hope in the City é uma aventura de mistério protagonizada por Hope Song, uma jovem de 17 anos que descobre o desaparecimento dos pais ao voltar para casa. Durante a investigação, os jogadores precisam transformar desenhos em pistas e desvendar segredos cada vez mais misteriosos sobre a família da protagonista. Thronefall é um jogo de estratégia minimalista em que os jogadores precisam construir e administrar um reino durante o dia e protegê-lo de invasores durante a noite. Para sobreviver às ondas de inimigos, será necessário equilibrar a economia, fortalecer as defesas, recrutar soldados e participar diretamente dos combates. Por fim, em John Carpenter’s Toxic Commando , até quatro jogadores podem se unir em uma aventura cooperativa de ação e sobrevivência contra hordas de zumbis. Ambientado em um mundo tomado por criaturas, o game apresenta missões em cenários semiabertos e coloca os jogadores em uma jornada para tentar salvar a humanidade. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Hope in the City , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? One UI 9.5: confira 6 novidades do sistema encontradas até agora Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história Quais tecnologias realmente fazem diferença na rotina da casa? Por que tanta gente quer mudar de carreira antes de chegar aos 30?",
+          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de cinco títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Disponível no lançamento no Xbox Game Pass, Warhammer Survivors é um jogo de ação no estilo bullet heaven, inspirado em Vampire Survivors . Com visual em pixel art, o game coloca os jogadores contra grandes hordas de inimigos, utilizando armas, habilidades e personagens inspirados no universo de Warhammer . Também disponível no lançamento no Xbox Game Pass, Tanuki: Pon’s Summer coloca os jogadores no controle de Pon, um guaxinim que precisa restaurar um santuário antes do Festival Tanuki. Para cumprir a missão, será necessário entregar encomendas de bicicleta, fazer amizades e ajudar os moradores em atividades como preparar sushi e participar de lutas de sumô. Outro game a compor o Game Pass no lançamento, Hope in the City é uma aventura de mistério protagonizada por Hope Song, uma jovem de 17 anos que descobre o desaparecimento dos pais ao voltar para casa. Durante a investigação, os jogadores precisam transformar desenhos em pistas e desvendar segredos cada vez mais misteriosos sobre a família da protagonista. Thronefall é um jogo de estratégia minimalista em que os jogadores precisam construir e administrar um reino durante o dia e protegê-lo de invasores durante a noite. Para sobreviver às ondas de inimigos, será necessário equilibrar a economia, fortalecer as defesas, recrutar soldados e participar diretamente dos combates. Por fim, em John Carpenter’s Toxic Commando , até quatro jogadores podem se unir em uma aventura cooperativa de ação e sobrevivência contra hordas de zumbis. Ambientado em um mundo tomado por criaturas, o game apresenta missões em cenários semiabertos e coloca os jogadores em uma jornada para tentar salvar a humanidade. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Hope in the City , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? Galaxy S26: até quanto vale a pena pagar na Black Friday? Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história SQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs Pornô gerado por IA: entenda os perigos por trás do DeepNude",
           "image": "https://www.estadao.com.br/resizer/v2/KWFRCY47Z5I37GTB4YRIWDRS6U.jpg?quality=80&auth=a25434098883a06e6282ffa876a46b775ee3d463d3f69387b327856997ce56b8&width=1200&height=630&focal=494,123"
-        }
-      ]
-    },
-    {
-      "story_id": "761226dbfd29c90f",
-      "title": "Jogos de Luta para PlayStation em oferta de Black Friday",
-      "summary": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Black Friday na PS Store, válida até 21 de novembro",
-      "owners": [
-        "adrenaline",
-        "valnet"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "473fd537c0568b5d",
-        "d4a113335320c562",
-        "e7028195f4e2ec00",
-        "ae0c68aa7217d66d"
-      ],
-      "sources": [
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-luta-para-playstation-em-oferta-de-black-friday/",
-          "title": "Jogos de Luta para PlayStation em oferta de Black Friday",
-          "published_at": "2026-11-13T21:00:00+00:00",
-          "kind": "press",
-          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/08/Street-Fighter-6-revela-gameplay-de-Terry-Bogard-de-Fatal-Fury.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-acao-para-playstation-em-oferta-de-black-friday/",
-          "title": "Jogos de Ação para PlayStation em oferta de Black Friday",
-          "published_at": "2026-11-14T12:04:00+00:00",
-          "kind": "press",
-          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/02/Marvel-Wolverine-Data-Insomniac-PlayStation-PS5-Sony.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/playstation-black-friday-hardware-deals/",
-          "title": "PlayStation Announces New Black Friday Deals On Hardware",
-          "published_at": "2026-11-15T15:56:06+00:00",
-          "kind": "press",
-          "text": "The PlayStation VR2 is discounted, but the PlayStation 5 is not Black Friday is fast approaching, so companies like Sony are already teasing the deals people can look forward to later this month. While PlayStation previously highlighted some of the games that will be discounted, it has now shared its official Black Friday hardware deals for the DualSense controller, PlayStation VR2, and more. On the PlayStation Blog , Sony Interactive Entertainment highlighted the upcoming hardware deals. The PlayStation 5 console itself isn't getting an official discount from Sony, which is disappointing given its recent price hikes . Still, the following peripherals, listed in alphabetical order, will see deep discounts come Black Friday: If you plan on buying directly from PlayStation, this Black Friday seems like a good time to stock up on additional controllers if you currently only have one DualSense. If you're still intrigued by the PlayStation VR2 despite its lack of first-party support, that deal isn't too shabby either. First-party games like Marvel's Wolverine , Saros, Ghost of Yotei Complete Edition , and Marvel Tokon: Fighting Souls will also get discounted at the same time as those peripherals, which will be at 12 a.m. in your local time on Nov. 16. The deals are then expected to be live through Nov. 30 or as long as the items are in stock. It's also worth keeping an eye on other retailers like Walmart , as they may have some additional Black Friday deals on top of the ones Sony is setting for PlayStation.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24018308/PSVR2_front.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-rpg-para-playstation-em-oferta-de-black-friday/",
-          "title": "Jogos de RPG para PlayStation em oferta de Black Friday",
-          "published_at": "2026-11-15T17:49:00+00:00",
-          "kind": "press",
-          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/11/Baldurs-Gate-3-e-o-grande-vencedor-do-Golden-Joystick-Awards-2023.jpg"
         }
       ]
     },
@@ -218,42 +148,6 @@
           "kind": "press",
           "text": "Team Meat has announced a new remake of its classic 2010 platformer: Super Meat Boy Again+, this time with a fresh coat of bloodsoaked paint and entirely new levels. The brutally tough platformer became a cult hit more than a decade ago and spawned one sequel, one 3D spin-off and a whole speedrunning community dedicated to beating its masocore levels without dying . Super Meat Boy Again+ is more or less the same game, but with much more bolted on top. \"This version is just like the original Super Meat Boy game but with new art, music, cutscenes, levels, secrets and unlockables...new everything,\" the game's Steam page says. \"Since 2010, millions of people [have] played Super Meat Boy, all the secrets are known, all the levels are mastered, all the characters unlocked, so we have to give fans familiar with the game something to pull their hair out over. That's the \"+\" in Again+, and no, we won't spoil it. You'll go into it blind like you did the first time you played Super Meat Boy.\" Original composer Danny Baranowsky - better known as Danny B - is also back with an expanded soundtrack. The reveal trailer up above shows off how drastically different the game's updated art looks, too. \"For our old fans, we want to present the game as you remember it through the wonderful lens of nostalgia. For our new fans, we want to give you a great looking, easy to pick up but difficult to master platformer that you may have missed because it came out like 4 years after YouTube was invented,\" the studio explains. There's no release date yet for Super Meat Boy Again+ and the only confirmed platform thus far is Steam. Be sure to keep an eye on all the exciting releases up next with our upcoming indie games of 2026 and beyond guide. Weekly digests, tales from the communities you love, and more Kaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
           "image": "https://cdn.mos.cms.futurecdn.net/zfN6tTXPGZ4ZsjuMHMJTJ4-1920-80.png"
-        }
-      ]
-    },
-    {
-      "story_id": "fb2d920b574781c3",
-      "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
-      "summary": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy.",
-      "owners": [
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "89264b78fb1f0af4",
-        "07609e2cb24faad9"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
-          "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
-          "published_at": "2026-11-14T17:19:13+00:00",
-          "kind": "press",
-          "text": "Rockstar has confirmed GTA 6 features something the franchise has never had before: mechanisms that encourage empathy. Rockstar North co-studio head Rob Nelson and head of publishing Jennifer Kolbe talked about how next week's Grand Theft Auto changes the formula the series is known for during an interview with The Guardian (via @GameRoll_ ). Jason and Lucia will surely be able to cause a fair amount of chaos when players take control in Vice City, but in a post- Red Dead Redemption 2 world, they'll have the freedom to be kind, too. \"Crime is a fundamental part of GTA – at least up until now, it has been,\" Nelson said. \"We're trying to make sure we're not punishing people for playing the game they are used to … [but] your actions will have some effect on how the game plays out.\" Games like GTA 5 have given players playgrounds and characters that can maximize the mayhem. Trevor, one of that game's three protagonists, is a great example of this chaotic energy, but in GTA 6, there doesn't seem to be a direct equivalent. Sure, Rockstar's trademark tone and instantly recognizable characters can be seen all over what few trailers we've received thus far, but everything seems a bit more grounded, too. Falling in line with this is the news that GTA 6 will feature a world that might actually reward those who take the citizens of Leonida into consideration. Of course, that doesn't mean those who prefer to wreak havoc won't be able to play their way, too. It just means that, at least based on Nelson's words, there's some room to be a normal or even good person, too. \"I would say so,\" he replied when asked if the new game would encourage empathy in some capacity. \"I would say that it's a product of the story we're trying to tell. We've tried for the first time in a GTA to provide mechanisms that encourage it, for those who want to.\" Elsewhere in the interview, Nelson described Jason and Lucia as a \"younger couple with their backs against the wall,\" which is why it doesn't make sense for them to \"go out and cause as much carnage and make as much noise as they can.\" This isn't Michael, Franklin, or Trevor, nor is it Niko Bellic. Thankfully, we won't have to wait too much longer to find out just what kind of criminals Jason and Lucia are, or who they can be. GTA 6 launches November 19, 2026, for PS5 and Xbox Series X | S. With more grounded in-game mechanisms and NPCs that react to weapons, it's clear we're staring down what will likely be the most realistic Grand Theft Auto game so far. It's something that has plenty of fans excited and others nervous . Recent footage shared by Rockstar has highlighted the game's unbelievable graphics . It's something that has IGN writer Jacqueline Thomas excited , even if it does run at 30 fps . Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
-          "image": "https://assets-prd.ignimgs.com/2026/11/05/jason-and-lucia-14-1793891731334.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-knows-people-want-to-play-gta-6-for-the-chaos-but-the-studio-will-also-provide-mechanisms-that-encourage-empathy-for-the-first-time-in-a-gta/",
-          "title": "GTA 6 will \"provide mechanisms that encourage\" empathy \"for the first time in a GTA\"",
-          "published_at": "2026-11-14T18:24:35+00:00",
-          "kind": "press",
-          "text": "Certain things are synonymous with Grand Theft Auto - crime, cars, corruption, guns, mayhem and murder. You normally might not expect empathy from a game like GTA 6 with the series' past in mind, then, but Rockstar Games have added \"mechanisms\" to create empathy anyway. GTA has always been somewhat of a cynical and comically rude franchise, but it seems Rockstar's now borrowing some lessons from its more grown-up Red Dead Redemption 2. Unrestrained violence and city-wide chaos will still be possible in Leonida - this is a GTA game, after all - but that's not all there is anymore. Speaking to The Guardian (good spot, IGN ), co-studio head Rob Nelson said \"crime is a fundamental part of GTA - at least up until now, it has been.\" Rockstar is \"trying to make sure we're not punishing people for playing the game they are used to,\" so you can still expect the freedom to get into car jams and push passerbys unprovoked (or worse). \"[But] your actions will have some effect on how the game plays out.\" When asked if GTA 6 is encouraging empathy in any way, Nelson agrees: \"I would say that it's a product of the story we're trying to tell. We've tried for the first time in a GTA to provide mechanisms that encourage it, for those who want to.\" GTA 6 notably is the story of two people, Lucia and Jason. In a series full of protagonists who often care very little about anyone outside of their own interests, Lucia and Jason are almost the solar opposite - and quite fittingly, the upcoming game seems to nudge you into behaving differently because of this relationship. GTA 6: The Album seemingly leaks with Dua Lipa and Lana Del Rey as part of the full 34-song tracklist Weekly digests, tales from the communities you love, and more Kaan freelances for various websites including Rock Paper Shotgun, Eurogamer, and this one, Gamesradar. He particularly enjoys writing about spooky indies, throwback RPGs, and anything that's vaguely silly. Also has an English Literature and Film Studies degree that he'll soon forget. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/WCUSnDP6CwC78uviCLYwfU-1920-80.jpg"
         }
       ]
     },
@@ -379,6 +273,58 @@
           "kind": "primary",
           "text": "The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories , and a whole slate of fun news for our players. We know that many of our longtime fans first learned about the original XBOX by reading about it in a magazine back in the day. For you, we created XBOX – The 25th Anniversary Magazine, a special publication designed not only to look back at 25 years of play, but also to celebrate the present and future of XBOX. We printed copies to share with community members at XBOX FanFest in Seattle this past week, and today, it’s available for all to read right here: Protip: you can go full screen for easier reading by clicking the arrows in the lower right of the player. The magazine explores games, hardware, and moments, past and present, told through the teams who are building them. You’ll revisit memories from your favorite franchises, learn some lore about XBOX’s storied history, and read new details about games that haven’t yet released; want to know more about Fable’s capital city of Bowerstone? Turn to page 38! We hope you enjoy this decidedly analog celebration of the last quarter century and a first look at what’s ahead. XBOX’s story has always been written alongside our players. Thanks for reading, and for being part of what comes next.",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Magazine_mockup_perspective-37cf15975daed19bb5dd.png"
+        }
+      ]
+    },
+    {
+      "story_id": "ec593b1e26cf9156",
+      "title": "Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16",
+      "summary": "The post Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16 appeared first on XBOX Wire .",
+      "owners": [
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "7537c742536607da"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16/",
+          "title": "Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16",
+          "published_at": "2026-11-12T20:00:00+00:00",
+          "kind": "primary",
+          "text": "",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Slaughtermode_Red_Band-6dd39a71103b0e785277.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "7532356d378d963d",
+      "title": "Modo Matança chega a DOOM: The Dark Ages | Revelações em 16 de novembro",
+      "summary": "The post Modo Matança chega a DOOM: The Dark Ages | Revelações em 16 de novembro appeared first on Xbox Wire em Português .",
+      "owners": [
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "140420daeb43a0a8"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://slayersclub.bethesda.net/pt-BR/news/doom-the-dark-ages-revelations-slaughter-mode-release-date#new_tab",
+          "title": "Modo Matança chega a DOOM: The Dark Ages | Revelações em 16 de novembro",
+          "published_at": "2026-11-12T20:28:13+00:00",
+          "kind": "primary",
+          "text": "Leve suas habilidades de matança ao limite com o Modo Matança, um novo desafio de combate infinito disponível em 16 de novembro como uma atualização gratuita para quem possui DOOM: The Dark Ages | Revelações. Vença ondas implacáveis e imprevisíveis cada vez maiores de hordas demoníacas, conquistando seu recorde pessoal e desbloqueando recompensas usando os Crânios coletados da carnificina. Com cada ponto de controle alcançado, os jogadores devem se perguntar se querem resgatar seus lucros ou arriscar tudo para possivelmente aumentar as recompensas. Não existem duas partidas idênticas do MODO MATANÇA enquanto você enfrenta rodadas cada vez mais difíceis deconfrontos, chefes e arenas aleatórios, aumentando o ritmo conforme você avança. Conclua rodadas para ganhar Crânios, que desbloqueiam recompensas como visuais do Slayer exclusivos do Modo Matança, visuais de armas para todos os modos e ícones de perfil. Você também pode desbloquear faixas da Trilha Sonora de IDKFA de Andrew Hulshult para reproduzir no Modo Matança e no Estripatório! Enfrente desafios semanais para ter mais oportunidades de ganhar recompensas e exibir sua proeza de matança. Sobreviva o bastante para alcançar um Ponto de Controle da Rodada e terá a chance de Garantir seus Crânios atuais contra a morte. Ou escolha Arriscar para aumentar seu Multiplicador de Crânios, aumentando os Crânios que receberá durante a partida. Mas tem um porém: se você morrer enquanto Arriscar estiver ativa, todos os seus Crânios não garantidos serão perdidos! Mas a morte não é o fim: cada Ponto de Controle da Rodada que você conclui também desbloqueia outro ponto de início para partidas futuras, permitindo que você continue a carnificina nos confrontos posteriores mais cedo. O Modo Matança estará disponível em 16 de novembro para DOOM: The Dark Ages | Revelações. Este novo modo de jogo está incluso sem custo adicional para jogadores que já tem a DLC Revelações, a Edição Premium de DOOM: The Dark Ages ou a Atualização Premium de DOOM: The Dark Ages.",
+          "image": ""
         }
       ]
     }
