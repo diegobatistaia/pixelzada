@@ -7,43 +7,39 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-14T19:58-03:00",
+ "atualizado": "2026-11-14T23:39-03:00",
  "hoje": {
   "data": "2026-11-14",
   "reels": {
    "meta": 15,
-   "publicados": 13,
-   "deviam_ter_saido": 13,
+   "publicados": 15,
+   "deviam_ter_saido": 15,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 6,
+   "deviam_ter_saido": 7,
    "atrasados": [
     "09:00",
     "11:00",
     "13:00",
     "15:00",
     "17:00",
-    "19:00"
+    "19:00",
+    "21:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 49,
+  "agendados": 47,
   "meta_por_dia": 15,
-  "dias_de_reserva": 3.3,
+  "dias_de_reserva": 3.1,
   "grade_cheia_ate": "2026-11-16",
   "sem_revisao": 0,
   "por_dia": [
-   {
-    "data": "2026-11-14",
-    "agendados": 2,
-    "meta": 15
-   },
    {
     "data": "2026-11-15",
     "agendados": 15,
@@ -80,36 +76,36 @@
   "usuario": "pixelzada.br",
   "seguidores": 97,
   "seguindo": 5,
-  "posts": 281,
-  "alcance_7d": 38290,
-  "views_7d": 51786,
+  "posts": 282,
+  "alcance_7d": 38422,
+  "views_7d": 52058,
   "reels_7d": {
-   "quantidade": 70,
-   "views_total": 52310,
+   "quantidade": 71,
+   "views_total": 52583,
    "views_mediana": 168,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-14": 1407,
-    "2026-11-13": 2133,
-    "2026-11-12": 2137,
+    "2026-11-14": 1579,
+    "2026-11-13": 2134,
+    "2026-11-12": 2138,
     "2026-11-11": 2276,
     "2026-11-10": 2047,
-    "2026-11-09": 1537,
-    "2026-11-08": 40773
+    "2026-11-09": 1538,
+    "2026-11-08": 40871
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 40531,
-     "alcance": 29251,
-     "curtidas": 1300,
+     "views": 40629,
+     "alcance": 29277,
+     "curtidas": 1308,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 429,
-     "alcance": 341,
+     "views": 430,
+     "alcance": 342,
      "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
@@ -152,7 +148,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 56
+   "youtube": 58
   },
   "erros_hoje": 3
  },
@@ -164,7 +160,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 9,
-   "views_reels": 40773
+   "views_reels": 40871
   },
   {
    "data": "2026-11-09",
@@ -173,7 +169,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1537
+   "views_reels": 1538
   },
   {
    "data": "2026-11-10",
@@ -200,7 +196,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2137
+   "views_reels": 2138
   },
   {
    "data": "2026-11-13",
@@ -209,16 +205,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2133
+   "views_reels": 2134
   },
   {
    "data": "2026-11-14",
-   "reels": 13,
+   "reels": 15,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1407
+   "views_reels": 1579
   }
  ],
  "seguidores_por_dia": [
@@ -254,7 +250,7 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
    "nivel": "amarelo",
