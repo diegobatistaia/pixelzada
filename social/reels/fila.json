@@ -3907,7 +3907,7 @@
     "slug": "corridas-vencidas-nas-curvas",
     "data": "2026-11-15",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Eu depois de falar que \"as corridas são vencidas nas curvas, na reta qualquer um sabe acelerar\" 🏎️😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#f1 #f125 #memesgamer #games #pixelzada",
     "tentativas": 0,
@@ -3923,6 +3923,22 @@
       "tema": "games",
       "jogo": "F1",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T20:00:56-03:00",
+      "media_id": "18121193182997795",
+      "permalink": "https://www.instagram.com/reel/Dfx6Zlgmr0T/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afa39d360a910801c53207f",
+        "em": "2026-11-15T20:01:38-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
