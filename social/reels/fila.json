@@ -3439,7 +3439,8 @@
         "post_id": "6af98482c5b364e0624a1267",
         "em": "2026-11-15T07:08:01-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
@@ -3477,7 +3478,8 @@
         "post_id": "6af990c0e5a113497ae04385",
         "em": "2026-11-15T08:00:13-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
@@ -3515,7 +3517,8 @@
         "post_id": "6af99eec76c23bf1c77924f6",
         "em": "2026-11-15T09:00:42-03:00",
         "status": "error",
-        "link": null
+        "link": null,
+        "erro": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
       }
     }
   },
@@ -3742,8 +3745,9 @@
       "youtube": {
         "post_id": "6af9f34c4f0276ab945368a8",
         "em": "2026-11-15T15:00:43-03:00",
-        "status": "sending",
-        "link": null
+        "status": "sent",
+        "link": "https://www.youtube.com/shorts/ncYtLZd8Gxo",
+        "saiu": "2026-11-15T18:00:55.395Z"
       }
     }
   },
