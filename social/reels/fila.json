@@ -3713,7 +3713,7 @@
     "slug": "xbox-original-15-de-novembro-2001",
     "data": "2026-11-15",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "O Xbox original. 15 de novembro de 2001: onde tudo começou 💚\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#xbox #nostalgia #games #retro #pixelzada",
     "tentativas": 0,
@@ -3729,6 +3729,22 @@
       "tema": "games",
       "jogo": "Xbox",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T14:59:51-03:00",
+      "media_id": "18122259971062763",
+      "permalink": "https://www.instagram.com/reel/DfxX-nRAJSV/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af9f34c4f0276ab945368a8",
+        "em": "2026-11-15T15:00:43-03:00",
+        "status": "sending",
+        "link": null
+      }
     }
   },
   {
