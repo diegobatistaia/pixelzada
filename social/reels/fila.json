@@ -4542,135 +4542,69 @@
     }
   },
   {
-    "slug": "gta-6-bruneygta",
+    "slug": "por-que-ele-ainda-mirou",
     "data": "2026-11-17",
     "horario": "23:00",
     "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "bruneygta",
-      "link": "https://www.instagram.com/reel/Dfr52zLBLQy/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-xboxbr",
-    "data": "2026-11-18",
-    "horario": "07:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "xboxbr",
-      "link": "https://www.instagram.com/reel/DfsAB1lh_LT/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-xboxbr-2",
-    "data": "2026-11-18",
-    "horario": "08:00",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "xboxbr",
-      "link": "https://www.instagram.com/reel/DftSm0tht-k/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-preta"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-meups-oficial",
-    "data": "2026-11-18",
-    "horario": "08:30",
-    "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/DfvcbGqBOgU/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "identidade"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-meugameusado",
-    "data": "2026-11-18",
-    "horario": "09:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "meugameusado",
-      "link": "https://www.instagram.com/reel/DfvyInnurlG/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-sougamergeek",
-    "data": "2026-11-18",
-    "horario": "09:30",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Eu me pergunto por que ele ainda mirou 😭\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #meme #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
       "link": "https://www.instagram.com/reel/Dfwnnwhhn_m/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "meme",
       "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-preta"
+      "jogo": "games",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "rockstar-mesmo-narrador-20-anos",
+    "data": "2026-11-18",
+    "horario": "07:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "20 anos depois e a Rockstar ainda usa o mesmo narrador 🎙️ Vice City, San Andreas, GTA IV, GTA V... e agora GTA 6.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/DfvcbGqBOgU/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "gta6-lancado-players-0001",
+    "data": "2026-11-18",
+    "horario": "23:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "GTA 6 é lançado. Os players às 00:01... 🚗💥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meugameusado",
+      "link": "https://www.instagram.com/reel/DfvyInnurlG/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
     }
   }
 ]
