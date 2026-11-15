@@ -4650,91 +4650,91 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-chernobyl-games",
+    "slug": "semana-mais-esperada-da-decada-gta6",
     "data": "2026-11-18",
     "horario": "08:00",
     "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "chernobyl.games",
-      "link": "https://www.instagram.com/reel/Dfuo_tvhWth/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-preta"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-ignbrasil",
-    "data": "2026-11-18",
-    "horario": "08:30",
-    "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "ignbrasil",
-      "link": "https://www.instagram.com/reel/DfvH0h-xaYO/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "identidade"
-    }
-  },
-  {
-    "slug": "gta-6-sougamergeek",
-    "data": "2026-11-18",
-    "horario": "09:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/Dfw7-IJRX8E/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    }
-  },
-  {
-    "slug": "gta-6-meups-oficial",
-    "data": "2026-11-18",
-    "horario": "09:30",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "A semana mais esperada da década começou 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "meups_oficial",
       "link": "https://www.instagram.com/reel/DfwuwuAhjc-/",
-      "titulo": "padrao",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
+      "formato": "meme",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-preta"
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "musica-na-intro-de-gta6",
+    "data": "2026-11-18",
+    "horario": "08:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Se essa música tocasse na intro de GTA 6, seria épico 😭🎶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Dfw7-IJRX8E/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "13-anos-completos-gta5",
+    "data": "2026-11-18",
+    "horario": "09:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "13 anos, mano... 13 anos completos 🥲 E agora? GTA 7 só em 2039?\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "chernobyl.games",
+      "link": "https://www.instagram.com/reel/Dfuo_tvhWth/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 5",
+      "moldura": "identidade"
+    }
+  },
+  {
+    "slug": "mapa-hyrule-remake-ocarina",
+    "data": "2026-11-18",
+    "horario": "09:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "O mapa de Hyrule no remake de Ocarina of Time tá lindo demais 😍\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/DfvH0h-xaYO/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "Zelda",
+      "moldura": "identidade"
     }
   },
   {
