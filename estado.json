@@ -7,34 +7,38 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-15T07:52-03:00",
+ "atualizado": "2026-11-15T14:42-03:00",
  "hoje": {
   "data": "2026-11-15",
   "reels": {
    "meta": 15,
-   "publicados": 1,
-   "deviam_ter_saido": 1,
+   "publicados": 8,
+   "deviam_ter_saido": 8,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 3,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 47,
+  "agendados": 43,
   "meta_por_dia": 17,
-  "dias_de_reserva": 2.8,
-  "grade_cheia_ate": "2026-11-16",
+  "dias_de_reserva": 2.5,
+  "grade_cheia_ate": "2026-11-17",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-15",
-    "agendados": 14,
+    "agendados": 7,
     "meta": 15
    },
    {
@@ -44,56 +48,69 @@
    },
    {
     "data": "2026-11-17",
-    "agendados": 16,
+    "agendados": 17,
     "meta": 17
+   },
+   {
+    "data": "2026-11-18",
+    "agendados": 2,
+    "meta": 33
    }
   ]
  },
  "site": {
-  "total": 210,
-  "hoje": 0,
+  "total": 212,
+  "hoje": 2,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "League of Legends New Dawn: Riot revela cliente novo e Summoner's Rift renovado",
-   "url": "https://pixelzada.com.br/pt/league-of-legends-new-dawn-riot-revela-cliente-novo-e-mapa-renovado/",
-   "em": "2026-11-14T19:39:35-03:00"
+   "titulo": "Pearl Abyss, de Crimson Desert, diz que vai usar IA em toda a produção de jogos",
+   "url": "https://pixelzada.com.br/pt/pearl-abyss-crimson-desert-vai-usar-ia-em-toda-a-producao-de-jogos/",
+   "em": "2026-11-15T13:54:22-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "15/11/2026 06:05",
+  "ultima_coleta": "15/11/2026 11:05",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 97,
+  "seguidores": 99,
   "seguindo": 5,
-  "posts": 283,
-  "alcance_7d": 35966,
-  "views_7d": 49164,
+  "posts": 290,
+  "alcance_7d": 37571,
+  "views_7d": 51455,
   "reels_7d": {
-   "quantidade": 72,
-   "views_total": 52823,
+   "quantidade": 79,
+   "views_total": 55204,
    "views_mediana": 168,
-   "acima_de_1000": 1,
+   "acima_de_1000": 2,
    "views_por_dia": {
-    "2026-11-15": 150,
-    "2026-11-14": 1587,
-    "2026-11-13": 2135,
+    "2026-11-15": 2090,
+    "2026-11-14": 1606,
+    "2026-11-13": 2137,
     "2026-11-12": 2139,
     "2026-11-11": 2276,
     "2026-11-10": 2048,
     "2026-11-09": 1538,
-    "2026-11-08": 40950
+    "2026-11-08": 41370
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 40708,
-     "alcance": 29325,
-     "curtidas": 1310,
+     "views": 41128,
+     "alcance": 29582,
+     "curtidas": 1326,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
+    },
+    {
+     "legenda": "O segredo da Máscara da Verdade em Zelda: os personagens veem a máscara do Link e reagem 🎭",
+     "views": 1096,
+     "alcance": 915,
+     "curtidas": 25,
+     "link": "https://www.instagram.com/reel/Dfwn2EfDpBK/",
+     "em": "2026-11-15T08:00:06-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
@@ -118,30 +135,29 @@
      "curtidas": 3,
      "link": "https://www.instagram.com/reel/DfhawTADKHY/",
      "em": "2026-11-09T10:17:06-03:00"
-    },
-    {
-     "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liber",
-     "views": 260,
-     "alcance": 168,
-     "curtidas": 9,
-     "link": "https://www.instagram.com/reel/DfrlTmNgoiO/",
-     "em": "2026-11-13T09:01:41-03:00"
     }
    ]
   }
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 0,
+  "falhas_24h": 1,
   "sem_resolver": 0,
-  "lista": []
+  "lista": [
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-15T13:39:04-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43736660789",
+    "resolvido": true
+   }
+  ]
  },
  "buffer": {
   "ativo": true,
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 60
+   "youtube": 67
   },
   "erros_hoje": 0
  },
@@ -189,7 +205,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2135
+   "views_reels": 2137
   },
   {
    "data": "2026-11-14",
@@ -198,16 +214,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1587
+   "views_reels": 1606
   },
   {
    "data": "2026-11-15",
-   "reels": 1,
+   "reels": 8,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
-   "views_reels": 150
+   "materias": 2,
+   "views_reels": 2090
   }
  ],
  "seguidores_por_dia": [
@@ -241,8 +257,13 @@
   },
   {
    "data": "2026-11-15",
-   "seguidores": 97
+   "seguidores": 99
   }
  ],
- "alertas": []
+ "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
+  }
+ ]
 }
