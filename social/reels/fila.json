@@ -3637,7 +3637,7 @@
     "slug": "rdr2-sempre-vai-ser-especial",
     "data": "2026-11-15",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "GTA 6 pode estar chegando, mas jamais esqueceremos desse jogo. Red Dead Redemption 2 é especial 🤠\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#rdr2 #reddeadredemption2 #gta6 #rockstar #pixelzada",
     "tentativas": 0,
@@ -3653,6 +3653,22 @@
       "tema": "games",
       "jogo": "Red Dead Redemption 2",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T13:00:11-03:00",
+      "media_id": "17918254140551274",
+      "permalink": "https://www.instagram.com/reel/DfxKP3mD4iz/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af9d740544d0574a92a24f2",
+        "em": "2026-11-15T13:01:03-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=7RZe-wdauQg"
+      }
     }
   },
   {
