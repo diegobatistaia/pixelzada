@@ -7,42 +7,34 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-14T23:39-03:00",
+ "atualizado": "2026-11-15T07:52-03:00",
  "hoje": {
-  "data": "2026-11-14",
+  "data": "2026-11-15",
   "reels": {
    "meta": 15,
-   "publicados": 15,
-   "deviam_ter_saido": 15,
+   "publicados": 1,
+   "deviam_ter_saido": 1,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 7,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00",
-    "21:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
   "agendados": 47,
-  "meta_por_dia": 15,
-  "dias_de_reserva": 3.1,
+  "meta_por_dia": 17,
+  "dias_de_reserva": 2.8,
   "grade_cheia_ate": "2026-11-16",
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-15",
-    "agendados": 15,
+    "agendados": 14,
     "meta": 15
    },
    {
@@ -52,14 +44,14 @@
    },
    {
     "data": "2026-11-17",
-    "agendados": 15,
+    "agendados": 16,
     "meta": 17
    }
   ]
  },
  "site": {
   "total": 210,
-  "hoje": 6,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "League of Legends New Dawn: Riot revela cliente novo e Summoner's Rift renovado",
@@ -68,7 +60,7 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "14/11/2026 19:06",
+  "ultima_coleta": "15/11/2026 06:05",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
@@ -76,29 +68,30 @@
   "usuario": "pixelzada.br",
   "seguidores": 97,
   "seguindo": 5,
-  "posts": 282,
-  "alcance_7d": 38422,
-  "views_7d": 52058,
+  "posts": 283,
+  "alcance_7d": 35966,
+  "views_7d": 49164,
   "reels_7d": {
-   "quantidade": 71,
-   "views_total": 52583,
+   "quantidade": 72,
+   "views_total": 52823,
    "views_mediana": 168,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-14": 1579,
-    "2026-11-13": 2134,
-    "2026-11-12": 2138,
+    "2026-11-15": 150,
+    "2026-11-14": 1587,
+    "2026-11-13": 2135,
+    "2026-11-12": 2139,
     "2026-11-11": 2276,
-    "2026-11-10": 2047,
+    "2026-11-10": 2048,
     "2026-11-09": 1538,
-    "2026-11-08": 40871
+    "2026-11-08": 40950
    },
    "melhores": [
     {
      "legenda": "Quando Mortal Kombat não dá mais dinheiro e os lutadores precisam arrumar outro emprego 😅",
-     "views": 40629,
-     "alcance": 29277,
-     "curtidas": 1308,
+     "views": 40708,
+     "alcance": 29325,
+     "curtidas": 1310,
      "link": "https://www.instagram.com/reel/DffdOCQDNPc/",
      "em": "2026-11-08T16:00:09-03:00"
     },
@@ -148,20 +141,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 58
+   "youtube": 60
   },
-  "erros_hoje": 3
+  "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-08",
-   "reels": 3,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 9,
-   "views_reels": 40871
-  },
   {
    "data": "2026-11-09",
    "reels": 6,
@@ -178,7 +162,7 @@
    "carrosseis": 4,
    "carrosseis_meta": 7,
    "materias": 7,
-   "views_reels": 2047
+   "views_reels": 2048
   },
   {
    "data": "2026-11-11",
@@ -196,7 +180,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2138
+   "views_reels": 2139
   },
   {
    "data": "2026-11-13",
@@ -205,7 +189,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2134
+   "views_reels": 2135
   },
   {
    "data": "2026-11-14",
@@ -214,7 +198,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1579
+   "views_reels": 1587
+  },
+  {
+   "data": "2026-11-15",
+   "reels": 1,
+   "reels_meta": 15,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": 150
   }
  ],
  "seguidores_por_dia": [
@@ -245,16 +238,11 @@
   {
    "data": "2026-11-14",
    "seguidores": 97
-  }
- ],
- "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
-   "nivel": "amarelo",
-   "texto": "Buffer: 3 envio(s) para TikTok/YouTube com erro hoje"
+   "data": "2026-11-15",
+   "seguidores": 97
   }
- ]
+ ],
+ "alertas": []
 }
