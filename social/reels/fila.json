@@ -3561,7 +3561,7 @@
     "slug": "unboxing-gta6",
     "data": "2026-11-15",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Moldura",
     "legenda": "Confira o unboxing de GTA 6 📦🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #unboxing #ps5 #pixelzada",
     "tentativas": 0,
@@ -3577,6 +3577,22 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T10:59:37-03:00",
+      "media_id": "17979862758160769",
+      "permalink": "https://www.instagram.com/reel/Dfw8c_cm7N4/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af9bb06b9a106584cb11137",
+        "em": "2026-11-15T11:00:37-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=k_vhDDbRxfI"
+      }
     }
   },
   {
