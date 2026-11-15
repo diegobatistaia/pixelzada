@@ -3485,7 +3485,7 @@
     "slug": "pes-e-tv-de-tubo",
     "data": "2026-11-15",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Esse jogo e uma TV de tubo eram tudo o que a gente precisava pra fazer a nossa alegria ⚽📺\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#pes #nostalgia #futebol #games #pixelzada",
     "tentativas": 0,
@@ -3501,6 +3501,22 @@
       "tema": "games",
       "jogo": "PES",
       "moldura": "identidade"
+    },
+    "publicado": {
+      "em": "2026-11-15T08:59:33-03:00",
+      "media_id": "18118274801028677",
+      "permalink": "https://www.instagram.com/reel/Dfwuu77jrbY/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6af99eec76c23bf1c77924f6",
+        "em": "2026-11-15T09:00:42-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
