@@ -4540,5 +4540,27 @@
       "jogo": "Resident Evil",
       "moldura": "identidade"
     }
+  },
+  {
+    "slug": "gta-6-bruneygta",
+    "data": "2026-11-17",
+    "horario": "23:00",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "bruneygta",
+      "link": "https://www.instagram.com/reel/Dfr52zLBLQy/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-preta"
+    }
   }
 ]
