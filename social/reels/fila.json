@@ -4029,7 +4029,7 @@
     "slug": "rockstar-recriou-miami-real-gta6",
     "data": "2026-11-16",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "A Rockstar recriou em GTA 6 este vídeo real de Miami 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #rockstar #pixelzada",
     "tentativas": 0,
@@ -4051,6 +4051,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T08:38:13-03:00",
+      "media_id": "18104969963056892",
+      "permalink": "https://www.instagram.com/reel/DfzRELAFBsx/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afaeb4f0b49b20d0d0dfea0",
+        "em": "2026-11-16T08:38:54-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
