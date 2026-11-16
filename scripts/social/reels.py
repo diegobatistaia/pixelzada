@@ -217,6 +217,12 @@ def cmd_publicar(args) -> int:
     try:
         if item["status"] != "agendado":
             raise IG.ApiError(f"{item['slug']} está {item['status']}; nada publicado")
+        # Última barreira de nudez (Diego, 16/11): legenda com palavra de risco ou checagem
+        # visual ruim não sai (scripts/social/seguranca.py).
+        from .seguranca import barrar, risco_texto
+        if risco_texto(item.get("legenda", "")) or barrar((item.get("checagem") or {}).get("risco", "")):
+            raise IG.ApiError(f"{item['slug']}: risco de violação de nudez; nada publicado "
+                              f"(python -m scripts.social.seguranca varrer)")
         token, ig = IG.conta()
         video, capa = IG.url_publica(pedido["pasta"], "video.mp4"), IG.url_publica(pedido["pasta"], "capa.jpg")
         IG.conferir_urls([video, capa])

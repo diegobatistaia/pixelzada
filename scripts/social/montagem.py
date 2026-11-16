@@ -32,7 +32,7 @@ import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from . import reels as R
+from . import reels as R, seguranca as SEG
 from .pauta import ROOT, TZ
 
 ENTRADA = ROOT / "social" / "reels" / "entrada"
@@ -212,7 +212,9 @@ def automatico(agora: datetime | None = None) -> int:
     print(f"{len(videos)} vídeo(s) esperando montagem; {len(livres)} horário(s) livre(s) nos próximos 14 dias")
     if not videos or not livres:
         return 0
-    videos = videos[:len(livres)]
+    videos = [v for v in videos if passa_na_checagem(v)][:len(livres)]
+    if not videos:
+        return 0
     vagas = livres[:len(videos)]  # cada vídeo já sabe o horário: o estilo depende dele
     fixos = [estilo_do_horario(d, h) for d, h in vagas]
     rodizio = iter(proximos_estilos(fila, fixos.count(None)))
@@ -255,7 +257,8 @@ def automatico(agora: datetime | None = None) -> int:
                      # etiquetas para a análise semanal (Diego, 10/11)
                      "etiquetas": {"formato": info.get("formato") or "outro", "tema": info.get("tema") or "games",
                                    "jogo": info.get("jogo") or "",
-                                   "moldura": estilo if estilo in SIMPLES else "identidade"}})
+                                   "moldura": estilo if estilo in SIMPLES else "identidade"},
+                     "checagem": info.get("checagem")})
         mp4.unlink()
         mp4.with_suffix(".json").unlink()
         print(f"  {slug}: na fila {dia} {hora}")
@@ -269,6 +272,27 @@ def automatico(agora: datetime | None = None) -> int:
     R.salvar(fila)
     print(f"{usados} Reel(s) montado(s) e agendado(s)")
     return 0 if usados or not itens else 1
+
+
+def passa_na_checagem(mp4: Path) -> bool:
+    """Barreira de nudez (Diego, 16/11): o Reel do Eren com titãs levou violação de "Nudez
+    ou atividade sexual" em 15/11. Vídeo com risco médio ou alto não entra na fila: o bruto
+    é apagado e o motivo fica em social/reels/barrados.json. Grava o resultado no .json do
+    bruto para a fila guardar (item["checagem"])."""
+    meta = mp4.with_suffix(".json")
+    info = json.loads(meta.read_text(encoding="utf-8"))
+    chk = SEG.checagem(mp4, info.get("legenda_completa") or info.get("legenda") or "")
+    print(f"  {mp4.name}: risco de nudez {chk['risco']} ({chk['por']}): {chk['motivo']}")
+    if SEG.barrar(chk["risco"]):
+        SEG.registrar_barrado({"slug": None, "bruto": mp4.name, "link": info.get("link"),
+                               "perfil": info.get("perfil"), "legenda": info.get("legenda") or "", **chk})
+        print(f"  AVISO: {mp4.name} barrado (risco de violação de nudez); bruto apagado")
+        mp4.unlink()
+        meta.unlink()
+        return False
+    info["checagem"] = chk
+    meta.write_text(json.dumps(info, ensure_ascii=False, indent=2), encoding="utf-8")
+    return True
 
 
 def furar_fila(fila: list[dict], novos: list[str], agora: datetime | None = None) -> list[str]:
