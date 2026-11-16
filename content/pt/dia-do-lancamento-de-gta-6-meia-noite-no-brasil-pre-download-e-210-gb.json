@@ -133,7 +133,10 @@
     "query": "GTA VI trailer de lançamento",
     "alt": "Imagem oficial do post do trailer de lançamento de GTA VI no Newswire da Rockstar",
     "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/517572321a549a/0637b4bb19438399bc5b3e7bbdfe6936f79cdbf3.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/dia-do-lancamento-de-gta-6-meia-noite-no-c04200c0.jpg",
+    "source_url": "",
+    "foco": "32% 15%"
   },
   "sources": [
     {
@@ -335,5 +338,7 @@
       "title": "Grand Theft Auto VI chega ao XBOX One e XBOX Series X|S por meio do XBOX Cloud Gaming em 19 de novembro"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-16T12:40:32+00:00",
+  "updated_at": "2026-11-16T12:40:32+00:00"
 }

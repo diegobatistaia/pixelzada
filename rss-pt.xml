@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 10:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:40:33 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dia do lançamento de GTA 6: meia-noite no Brasil, pré-download em 12/11 e os 210 GB que ainda não são oficiais</title>
+      <link>https://pixelzada.com.br/pt/dia-do-lancamento-de-gta-6-meia-noite-no-brasil-pre-download-e-210-gb/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/dia-do-lancamento-de-gta-6-meia-noite-no-brasil-pre-download-e-210-gb/</guid>
+      <description>GTA 6 libera à meia-noite no Brasil em 19/11. Veja horário por região, pré-download, caixa com código, o tamanho não oficial de 210 GB e o que não vem no dia.</description>
+      <category>Guias</category>
+      <pubDate>Mon, 16 Nov 2026 12:40:32 +0000</pubDate>
+    </item>
     <item>
       <title>Xbox diz que Project Helix é um console que joga jogos de PC, e não um PC</title>
       <link>https://pixelzada.com.br/pt/xbox-project-helix-e-um-console-que-joga-jogos-de-pc-diz-jason-ronald/</link>
@@ -238,14 +246,6 @@
       <description>A CD Projekt Red usou IA para ajustar a voz em polonês de Geralt em Songs of the Past, de The Witcher 3, após o AVC do ator Jacek Rozenek. Entenda o caso.</description>
       <category>Indústria</category>
       <pubDate>Thu, 12 Nov 2026 16:42:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ex-id Software criam o estúdio Hidden Horses e preparam o FPS Danger Pay</title>
-      <link>https://pixelzada.com.br/pt/hidden-horses-ex-id-software-estudio-danger-pay/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/hidden-horses-ex-id-software-estudio-danger-pay/</guid>
-      <description>Ex-desenvolvedores da id Software demitidos pelo Xbox criaram o estúdio Hidden Horses e vão ao Kickstarter com o FPS Danger Pay. Veja o que foi anunciado.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 12 Nov 2026 14:44:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
