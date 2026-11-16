@@ -7,6 +7,11 @@ name: Montar Reels
 on:
   workflow_call:
   workflow_dispatch:
+    inputs:
+      testar:
+        description: "Só relatório da checagem de nudez destes Reels (slugs separados por vírgula)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -34,28 +39,41 @@ jobs:
           echo "$n vídeo(s) esperando montagem"
 
       - uses: actions/setup-python@v7
-        if: steps.tem.outputs.videos != '0'
         with:
           python-version: "3.12"
 
-      - name: Instalar ffmpeg e o navegador do gerador
-        if: steps.tem.outputs.videos != '0'
+      - name: Instalar ffmpeg
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          pip install pyyaml
+
+      - name: Instalar o navegador do gerador
+        if: steps.tem.outputs.videos != '0'
+        run: |
           npm install --no-save --no-package-lock playwright@1
           npx playwright install --with-deps chromium
-          pip install pyyaml
 
       - name: Montar e agendar
         if: steps.tem.outputs.videos != '0'
         run: python -m scripts.social.montagem automatico
 
+      # Barreira de nudez (Diego, 16/11): todo Reel agendado que ainda não passou pela
+      # checagem visual é conferido; risco médio/alto sai da fila (scripts/social/seguranca.py).
+      - name: Checagem de nudez na fila
+        if: inputs.testar == ''
+        run: python -m scripts.social.seguranca varrer
+
+      - name: Checagem de nudez (só relatório)
+        if: inputs.testar != ''
+        env:
+          TESTAR: ${{ inputs.testar }}
+        run: python -m scripts.social.seguranca varrer --slugs "$TESTAR"
+
       - name: Conferir a fila
-        if: steps.tem.outputs.videos != '0'
         run: python -m scripts.social.reels check
 
       - name: Registrar
-        if: always() && steps.tem.outputs.videos != '0'
+        if: always()
         run: |
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
