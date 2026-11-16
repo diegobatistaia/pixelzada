@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:43:49 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xbox diz que Project Helix é um console que joga jogos de PC, e não um PC</title>
+      <link>https://pixelzada.com.br/pt/xbox-project-helix-e-um-console-que-joga-jogos-de-pc-diz-jason-ronald/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/xbox-project-helix-e-um-console-que-joga-jogos-de-pc-diz-jason-ronald/</guid>
+      <description>O executivo Jason Ronald diz que o Project Helix é um console que joga jogos de PC, e não um PC que joga jogos de console. Veja o que mais ele revelou.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Mon, 16 Nov 2026 10:43:47 +0000</pubDate>
+    </item>
     <item>
       <title>Super Meat Boy Again+ é anunciado para PC com arte, fases e músicas novas</title>
       <link>https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/</link>
@@ -238,14 +246,6 @@
       <description>Ex-desenvolvedores da id Software demitidos pelo Xbox criaram o estúdio Hidden Horses e vão ao Kickstarter com o FPS Danger Pay. Veja o que foi anunciado.</description>
       <category>Indústria</category>
       <pubDate>Thu, 12 Nov 2026 14:44:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Miami real x Vice City: os lugares que aparecem em GTA 6</title>
-      <link>https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-miami-real-vice-city-lugares-recriados/</guid>
-      <description>Quais lugares reais de Miami aparecem em GTA 6? Veja Ocean Drive, Wynwood, Kaseya Center e mais, além de como a Rockstar pesquisou todo o sul da Flórida.</description>
-      <category>GTA 6</category>
-      <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -99,7 +99,9 @@
     "query": "Xbox Project Helix",
     "alt": "Arte do Project Helix, próximo console do Xbox",
     "url": "https://insider-gaming.com/wp-content/uploads/2026/11/XBOX-Project-Helix.jpg",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/xbox-project-helix-e-um-console-que-joga-653efba0.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -115,5 +117,7 @@
       "title": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-16T10:43:47+00:00",
+  "updated_at": "2026-11-16T10:43:47+00:00"
 }
