@@ -7,34 +7,40 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-16T08:16-03:00",
+ "atualizado": "2026-11-16T18:06-03:00",
  "hoje": {
   "data": "2026-11-16",
   "reels": {
    "meta": 17,
-   "publicados": 1,
-   "deviam_ter_saido": 1,
+   "publicados": 10,
+   "deviam_ter_saido": 11,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 5,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 43,
+  "agendados": 42,
   "meta_por_dia": 17,
   "dias_de_reserva": 2.5,
   "grade_cheia_ate": "2026-11-17",
-  "sem_revisao": 0,
+  "sem_revisao": 3,
   "por_dia": [
    {
     "data": "2026-11-16",
-    "agendados": 15,
+    "agendados": 5,
     "meta": 17
    },
    {
@@ -44,64 +50,56 @@
    },
    {
     "data": "2026-11-18",
-    "agendados": 11,
+    "agendados": 20,
     "meta": 33
    }
   ]
  },
  "site": {
-  "total": 216,
-  "hoje": 1,
+  "total": 221,
+  "hoje": 6,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Xbox diz que Project Helix é um console que joga jogos de PC, e não um PC",
-   "url": "https://pixelzada.com.br/pt/xbox-project-helix-e-um-console-que-joga-jogos-de-pc-diz-jason-ronald/",
-   "em": "2026-11-16T07:43:47-03:00"
+   "titulo": "Star Wars: Galactic Racer terá tela dividida para até 4 jogadores em 2027",
+   "url": "https://pixelzada.com.br/pt/star-wars-galactic-racer-tela-dividida-ate-4-jogadores-modo-free-play-2027/",
+   "em": "2026-11-16T17:40:38-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "16/11/2026 06:05",
-  "perfis_lidos": 37,
+  "ultima_coleta": "16/11/2026 15:05",
+  "perfis_lidos": 38,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
   "seguidores": 100,
-  "seguindo": 5,
-  "posts": 298,
-  "alcance_7d": 17753,
-  "views_7d": 25033,
+  "seguindo": 6,
+  "posts": 307,
+  "alcance_7d": 18437,
+  "views_7d": 26361,
   "reels_7d": {
-   "quantidade": 85,
-   "views_total": 15268,
-   "views_mediana": 168,
+   "quantidade": 89,
+   "views_total": 14858,
+   "views_mediana": 160,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-16": 178,
-    "2026-11-15": 3322,
-    "2026-11-14": 1610,
-    "2026-11-13": 2139,
-    "2026-11-12": 2145,
-    "2026-11-11": 2283,
+    "2026-11-16": 1043,
+    "2026-11-15": 3363,
+    "2026-11-14": 1616,
+    "2026-11-13": 2140,
+    "2026-11-12": 2152,
+    "2026-11-11": 2288,
     "2026-11-10": 2048,
-    "2026-11-09": 1543
+    "2026-11-09": 208
    },
    "melhores": [
     {
      "legenda": "O segredo da Máscara da Verdade em Zelda: os personagens veem a máscara do Link e reagem 🎭",
-     "views": 1593,
-     "alcance": 1320,
+     "views": 1597,
+     "alcance": 1322,
      "curtidas": 41,
      "link": "https://www.instagram.com/reel/Dfwn2EfDpBK/",
      "em": "2026-11-15T08:00:06-03:00"
-    },
-    {
-     "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 435,
-     "alcance": 344,
-     "curtidas": 13,
-     "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
-     "em": "2026-11-09T18:00:48-03:00"
     },
     {
      "legenda": "Diga adeus a esse glitch no remake de Ocarina of Time 👀",
@@ -112,33 +110,65 @@
      "em": "2026-11-11T18:02:11-03:00"
     },
     {
-     "legenda": "A mira do GTA 6 contra a do GTA 5 🎯",
-     "views": 316,
-     "alcance": 193,
-     "curtidas": 3,
-     "link": "https://www.instagram.com/reel/DfhawTADKHY/",
-     "em": "2026-11-09T10:17:06-03:00"
-    },
-    {
      "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liber",
      "views": 261,
      "alcance": 168,
      "curtidas": 9,
      "link": "https://www.instagram.com/reel/DfrlTmNgoiO/",
      "em": "2026-11-13T09:01:41-03:00"
+    },
+    {
+     "legenda": "A física de cabelo do GTA 5 contra a do GTA 6 💇",
+     "views": 241,
+     "alcance": 142,
+     "curtidas": 1,
+     "link": "https://www.instagram.com/reel/DfpOa0MDfNa/",
+     "em": "2026-11-12T11:03:15-03:00"
+    },
+    {
+     "legenda": "Eu depois de falar que \"as corridas são vencidas nas curvas, na reta qualquer um sabe acel",
+     "views": 231,
+     "alcance": 193,
+     "curtidas": 2,
+     "link": "https://www.instagram.com/reel/Dfx6Zlgmr0T/",
+     "em": "2026-11-15T20:01:30-03:00"
     }
    ]
   }
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 1,
-  "sem_resolver": 0,
+  "falhas_24h": 5,
+  "sem_resolver": 1,
   "lista": [
    {
-    "workflow": "Finalizar",
-    "em": "2026-11-15T13:39:04-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43736660789",
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-16T15:26:19-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43928796703",
+    "resolvido": true
+   },
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-16T14:15:30-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43916451769",
+    "resolvido": true
+   },
+   {
+    "workflow": "Vídeo longo (sonda de material)",
+    "em": "2026-11-16T14:15:30-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43916451469",
+    "resolvido": false
+   },
+   {
+    "workflow": "Vídeo longo (sonda de material)",
+    "em": "2026-11-16T13:53:35-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43912472615",
+    "resolvido": true
+   },
+   {
+    "workflow": "Reels",
+    "em": "2026-11-16T07:58:59-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43853648634",
     "resolvido": true
    }
   ]
@@ -148,7 +178,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 77
+   "youtube": 86
   },
   "erros_hoje": 0
  },
@@ -169,7 +199,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2283
+   "views_reels": 2288
   },
   {
    "data": "2026-11-12",
@@ -178,7 +208,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2145
+   "views_reels": 2152
   },
   {
    "data": "2026-11-13",
@@ -187,7 +217,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2139
+   "views_reels": 2140
   },
   {
    "data": "2026-11-14",
@@ -196,7 +226,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1610
+   "views_reels": 1616
   },
   {
    "data": "2026-11-15",
@@ -205,16 +235,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
-   "views_reels": 3322
+   "views_reels": 3363
   },
   {
    "data": "2026-11-16",
-   "reels": 1,
+   "reels": 10,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 1,
-   "views_reels": 178
+   "materias": 6,
+   "views_reels": 1043
   }
  ],
  "seguidores_por_dia": [
@@ -255,5 +285,14 @@
    "seguidores": 100
   }
  ],
- "alertas": []
+ "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
+  },
+  {
+   "nivel": "vermelho",
+   "texto": "1 falha(s) no GitHub ainda sem resolver"
+  }
+ ]
 }
