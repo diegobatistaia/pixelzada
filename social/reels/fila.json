@@ -4425,7 +4425,7 @@
     "slug": "zelda-cucco-of-time",
     "data": "2026-11-16",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "The Cucco of Time: Zelda, mas o herói é uma galinha 🐔\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
     "tentativas": 0,
@@ -4447,6 +4447,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T19:00:39-03:00",
+      "media_id": "18645020266006167",
+      "permalink": "https://www.instagram.com/reel/Df0YS9kCShi/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb7d4746180f25aa692c5f",
+        "em": "2026-11-16T19:01:41-03:00",
+        "status": "sending",
+        "link": null
+      }
     }
   },
   {
