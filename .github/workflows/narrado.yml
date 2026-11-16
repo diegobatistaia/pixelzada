@@ -38,10 +38,12 @@ jobs:
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu > /dev/null
           ffmpeg -hide_banner -filters | grep -q subtitles && echo "libass ok"
       - name: Material oficial e mapa
+        timeout-minutes: 15
         run: |
-          python -u -m scripts.longo.oficial
+          python -u -m scripts.longo.oficial --episodio "scripts/longo/narrados/$EPISODIO.json"
           curl -sfL -o trabalho/florida.geojson https://raw.githubusercontent.com/glynnbird/usstatesgeojson/master/florida.geojson || rm -f trabalho/florida.geojson
       - name: Montar
+        timeout-minutes: 35
         run: python -u -m scripts.longo.narrado tudo "scripts/longo/narrados/$EPISODIO.json"
       - name: Guardar no ramo
         if: always()

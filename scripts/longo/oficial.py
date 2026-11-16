@@ -54,24 +54,22 @@ def coletar() -> dict:
     return {"paginas": sorted(vistos), "midia": midia}
 
 
-def baixar(ind: dict) -> list[dict]:
+def baixar(ind: dict, so: list[str] | None = None) -> list[dict]:
+    """Baixa em paralelo com curl (tempo máximo por arquivo). so = prefixos de nome que interessam."""
     TRAB.mkdir(parents=True, exist_ok=True)
-    itens, total = [], 0
-    for url, pag in ind["midia"].items():
-        if total > 1_600_000_000:
-            print("limite de 900 MB atingido")
-            break
-        nome = url.rsplit("/", 1)[1]
-        dest = TRAB / nome
-        if not dest.exists():
-            try:
-                dest.write_bytes(get(url))
-            except Exception as e:  # noqa: BLE001
-                print("não baixou", nome, e)
-                continue
-        total += dest.stat().st_size
-        print(f"  {nome} {dest.stat().st_size // 1000} KB", flush=True)
-        itens.append({"nome": nome, "url": url, "pagina": pag, "bytes": dest.stat().st_size})
+    alvos = [(u, p) for u, p in ind["midia"].items()
+             if not so or any(u.rsplit("/", 1)[1].startswith(x) for x in so)]
+    lista = TRAB / "_urls.txt"
+    lista.write_text("".join(f"{u}\n" for u, _ in alvos if not (TRAB / u.rsplit("/", 1)[1]).exists()))
+    print(f"baixando {len(alvos)} arquivos", flush=True)
+    subprocess.run(f"xargs -P 8 -I{{}} sh -c 'curl -sfL --retry 3 --connect-timeout 20 --max-time 600 "
+                   f"-A \"{UA['User-Agent']}\" -o \"{TRAB}/$(basename {{}})\" {{}} || echo FALHOU {{}}' < {lista}",
+                   shell=True)
+    itens = []
+    for url, pag in alvos:
+        dest = TRAB / url.rsplit("/", 1)[1]
+        if dest.exists() and dest.stat().st_size > 1000:
+            itens.append({"nome": dest.name, "url": url, "pagina": pag, "bytes": dest.stat().st_size})
     return itens
 
 
@@ -94,7 +92,12 @@ def folhas(itens: list[dict]) -> None:
 
 def main() -> int:
     ind = coletar()
-    itens = baixar(ind)
+    so = None
+    if "--episodio" in sys.argv:
+        ep = json.loads(Path(sys.argv[sys.argv.index("--episodio") + 1]).read_text(encoding="utf-8"))
+        so = sorted({p["v"][2:] for c in ep["cenas"] for p in c["planos"] if p["v"].startswith("o:")}
+                    | {ep["capa"]["imagem"], "GTAVI_Launch_Trailer", "GTAVI_Pre-Load_Now"})
+    itens = baixar(ind, so)
     print(f"{len(itens)} arquivos oficiais baixados")
     if "--folhas" in sys.argv:
         folhas(itens)
