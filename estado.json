@@ -7,43 +7,39 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-15T19:48-03:00",
+ "atualizado": "2026-11-15T23:44-03:00",
  "hoje": {
   "data": "2026-11-15",
   "reels": {
    "meta": 15,
-   "publicados": 13,
-   "deviam_ter_saido": 13,
+   "publicados": 15,
+   "deviam_ter_saido": 15,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 6,
+   "deviam_ter_saido": 7,
    "atrasados": [
     "09:00",
     "11:00",
     "13:00",
     "15:00",
     "17:00",
-    "19:00"
+    "19:00",
+    "21:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 44,
+  "agendados": 41,
   "meta_por_dia": 17,
-  "dias_de_reserva": 2.6,
+  "dias_de_reserva": 2.4,
   "grade_cheia_ate": "2026-11-17",
-  "sem_revisao": 0,
+  "sem_revisao": 1,
   "por_dia": [
-   {
-    "data": "2026-11-15",
-    "agendados": 2,
-    "meta": 15
-   },
    {
     "data": "2026-11-16",
     "agendados": 17,
@@ -56,7 +52,7 @@
    },
    {
     "data": "2026-11-18",
-    "agendados": 8,
+    "agendados": 7,
     "meta": 33
    }
   ]
@@ -78,38 +74,38 @@
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 99,
+  "seguidores": 100,
   "seguindo": 5,
-  "posts": 295,
-  "alcance_7d": 38117,
-  "views_7d": 52491,
+  "posts": 297,
+  "alcance_7d": 38387,
+  "views_7d": 53019,
   "reels_7d": {
-   "quantidade": 82,
-   "views_total": 14652,
+   "quantidade": 84,
+   "views_total": 14967,
    "views_mediana": 166,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-15": 2904,
+    "2026-11-15": 3205,
     "2026-11-14": 1608,
-    "2026-11-13": 2137,
-    "2026-11-12": 2139,
-    "2026-11-11": 2278,
+    "2026-11-13": 2138,
+    "2026-11-12": 2143,
+    "2026-11-11": 2283,
     "2026-11-10": 2048,
-    "2026-11-09": 1538
+    "2026-11-09": 1542
    },
    "melhores": [
     {
      "legenda": "O segredo da Máscara da Verdade em Zelda: os personagens veem a máscara do Link e reagem 🎭",
-     "views": 1397,
-     "alcance": 1180,
-     "curtidas": 35,
+     "views": 1495,
+     "alcance": 1245,
+     "curtidas": 38,
      "link": "https://www.instagram.com/reel/Dfwn2EfDpBK/",
      "em": "2026-11-15T08:00:06-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 430,
-     "alcance": 342,
+     "views": 434,
+     "alcance": 343,
      "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
@@ -159,7 +155,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 73
+   "youtube": 75
   },
   "erros_hoje": 3
  },
@@ -171,7 +167,7 @@
    "carrosseis": 7,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 1538
+   "views_reels": 1542
   },
   {
    "data": "2026-11-10",
@@ -189,7 +185,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
-   "views_reels": 2278
+   "views_reels": 2283
   },
   {
    "data": "2026-11-12",
@@ -198,7 +194,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2139
+   "views_reels": 2143
   },
   {
    "data": "2026-11-13",
@@ -207,7 +203,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2137
+   "views_reels": 2138
   },
   {
    "data": "2026-11-14",
@@ -220,12 +216,12 @@
   },
   {
    "data": "2026-11-15",
-   "reels": 13,
+   "reels": 15,
    "reels_meta": 15,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
-   "views_reels": 2904
+   "views_reels": 3205
   }
  ],
  "seguidores_por_dia": [
@@ -259,13 +255,13 @@
   },
   {
    "data": "2026-11-15",
-   "seguidores": 99
+   "seguidores": 100
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
    "nivel": "amarelo",
