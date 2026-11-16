@@ -4205,7 +4205,7 @@
     "slug": "gta6-contra-vida-real",
     "data": "2026-11-16",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "GTA 6 vs vida real: estão cada vez mais parecidos 👀\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #rockstar #pixelzada",
     "tentativas": 0,
@@ -4227,6 +4227,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T14:01:05-03:00",
+      "media_id": "17918186004513969",
+      "permalink": "https://www.instagram.com/reel/Dfz2AxAmvib/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb36efe4e68dc2183472b6",
+        "em": "2026-11-16T14:01:33-03:00",
+        "status": "sending",
+        "link": null
+      }
     }
   },
   {
