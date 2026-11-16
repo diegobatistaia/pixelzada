@@ -27,6 +27,7 @@ jobs:
     env:
       EPISODIO: ${{ github.event.inputs.episodio || 'leonida-e-a-florida' }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      TTS_MODELO: gemini-3.1-flash-tts-preview
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7

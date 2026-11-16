@@ -259,9 +259,16 @@ def narrar(segs: list[dict], trab: Path, reserva: bool = False) -> str:
                 usadas.add(voz_gemini(s["texto"], wav))
             except Exception as e:  # noqa: BLE001
                 # uma voz só: se o Google falhar no meio, refaz o episódio INTEIRO na reserva
-                print(f"  voz do Google indisponível em {s['id']}: {e}; refazendo tudo com a voz reserva")
+                global _MODELO_TRAVADO
                 for v in pasta.glob("*.wav"):
                     v.unlink()
+                if _MODELO_TRAVADO and len(MODELOS_TTS) > 1:
+                    # limite do dia no modelo: refaz o episódio INTEIRO no próximo modelo do Google
+                    MODELOS_TTS.remove(_MODELO_TRAVADO)
+                    print(f"  {_MODELO_TRAVADO} parou em {s['id']} ({e}); refazendo tudo com {MODELOS_TTS[0]}")
+                    _MODELO_TRAVADO = None
+                    return narrar(segs, trab)
+                print(f"  voz do Google indisponível em {s['id']}: {e}; refazendo tudo com a voz reserva")
                 return narrar(segs, trab, reserva=True)
         if not wav.exists():
             usadas.add(voz_edge(s["texto"], wav))
