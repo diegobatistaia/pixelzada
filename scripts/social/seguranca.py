@@ -102,7 +102,8 @@ MODELO = os.environ.get("MODELO_VISAO", "openai/gpt-4.1-mini")
 
 
 def folha_quadros(video: Path, destino: Path, n: int = 8) -> Path | None:
-    """Folha 4x2 com n quadros espalhados pelo vídeo (1024 px de largura)."""
+    """Folha 4x2 com n quadros espalhados pelo vídeo (640 px de largura, leve: o GitHub
+    Models respondeu "OK" sem JSON para a folha de 1024 px em 16/11)."""
     ff = shutil.which("ffmpeg")
     fp = shutil.which("ffprobe")
     if not ff or not fp:
@@ -116,7 +117,7 @@ def folha_quadros(video: Path, destino: Path, n: int = 8) -> Path | None:
         return None
     fps = n / dur
     r = subprocess.run([ff, "-v", "error", "-y", "-i", str(video), "-vf",
-                        f"fps={fps:.5f},scale=256:-2,tile=4x2", "-frames:v", "1", "-q:v", "4", str(destino)],
+                        f"fps={fps:.5f},scale=160:-2,tile=4x2", "-frames:v", "1", "-q:v", "6", str(destino)],
                        capture_output=True)
     return destino if r.returncode == 0 and destino.exists() else None
 
@@ -137,7 +138,7 @@ def conferir_visual(video: Path) -> dict:
             {"role": "system", "content": PROMPT_VISUAL},
             {"role": "user", "content": [
                 {"type": "text", "text": "Classifique o risco desta folha de quadros."},
-                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img}", "detail": "high"}},
+                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img}", "detail": os.environ.get("DETALHE_VISAO", "low")}},
             ]},
         ],
     }
