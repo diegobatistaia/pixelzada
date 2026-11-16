@@ -4073,7 +4073,7 @@
     "slug": "jantar-notificacao-gta6",
     "data": "2026-11-16",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Estou no meio do jantar em família, mas o app do PlayStation mandou a notificação \"GTA 6 pronto para jogar\" 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #memesgamer #playstation #pixelzada",
     "tentativas": 0,
@@ -4095,6 +4095,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T10:02:19-03:00",
+      "media_id": "18237486979325603",
+      "permalink": "https://www.instagram.com/reel/DfzasNdAAez/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afaff054a8979ce14f3757f",
+        "em": "2026-11-16T10:02:59-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=8cH5N5kvITw"
+      }
     }
   },
   {
