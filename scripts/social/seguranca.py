@@ -8,8 +8,8 @@ monetização. Daqui para a frente nenhum vídeo desse tipo entra na fila:
 1. Texto (sem internet): legenda do concorrente, título e legenda do Reel não podem ter
    palavras de risco (titãs, biquíni, sem camisa, sensual, twerk...). Usado na lista da
    pesquisa (pesquisa.py), na montagem e de novo na hora de publicar (reels.py).
-2. Imagem: 8 quadros do vídeo vão para o modelo de visão do GitHub Models (o mesmo
-   GITHUB_TOKEN que escreve os títulos), que diz se há corpo nu ou quase nu, roupa de
+2. Imagem: 8 quadros do vídeo vão para o Gemini (segredo GEMINI_API_KEY; o GitHub
+   Models fica de reserva), que diz se há corpo nu ou quase nu, roupa de
    banho ou íntima em destaque, torso nu em close, dança ou pose sexual. Risco médio
    ou alto = o vídeo não entra (montagem.py) ou sai da fila (varrer), com registro em
    social/reels/barrados.json.
@@ -102,8 +102,7 @@ MODELO = os.environ.get("MODELO_VISAO", "openai/gpt-4.1-mini")
 
 
 def folha_quadros(video: Path, destino: Path, n: int = 8) -> Path | None:
-    """Folha 4x2 com n quadros espalhados pelo vídeo (640 px de largura, leve: o GitHub
-    Models respondeu "OK" sem JSON para a folha de 1024 px em 16/11)."""
+    """Folha 4x2 com n quadros espalhados pelo vídeo (960 px de largura)."""
     ff = shutil.which("ffmpeg")
     fp = shutil.which("ffprobe")
     if not ff or not fp:
@@ -117,51 +116,108 @@ def folha_quadros(video: Path, destino: Path, n: int = 8) -> Path | None:
         return None
     fps = n / dur
     r = subprocess.run([ff, "-v", "error", "-y", "-i", str(video), "-vf",
-                        f"fps={fps:.5f},scale=160:-2,tile=4x2", "-frames:v", "1", "-q:v", "6", str(destino)],
+                        f"fps={fps:.5f},scale=240:-2,tile=4x2", "-frames:v", "1", "-q:v", "5", str(destino)],
                        capture_output=True)
     return destino if r.returncode == 0 and destino.exists() else None
 
 
 def conferir_visual(video: Path) -> dict:
-    """{"risco": alto|medio|baixo|desconhecido, "motivo": ...}"""
-    token = os.environ.get("GITHUB_TOKEN", "").strip()
-    if not token:
-        return {"risco": "desconhecido", "motivo": "sem GITHUB_TOKEN (GitHub Models)"}
+    """{"risco": alto|medio|baixo|desconhecido, "motivo": ...}
+
+    Usa o Gemini (segredo GEMINI_API_KEY, o mesmo da voz dos vídeos longos). O GitHub
+    Models responde só "OK" para este repositório (16/11; os títulos automáticos também
+    nunca saíram dele), então fica como segunda opção."""
     with tempfile.TemporaryDirectory() as tmp:
         folha = folha_quadros(video, Path(tmp) / "folha.jpg")
         if not folha:
             return {"risco": "desconhecido", "motivo": "não deu para tirar quadros do vídeo"}
         img = base64.b64encode(folha.read_bytes()).decode()
+    if os.environ.get("GEMINI_API_KEY", "").strip():
+        r = _gemini(img)
+        if r["risco"] != "desconhecido" or not os.environ.get("GITHUB_TOKEN", "").strip():
+            return r
+        print(f"  Gemini: {r['motivo']}; tentando o GitHub Models")
+    if os.environ.get("GITHUB_TOKEN", "").strip():
+        return _github_models(img)
+    return {"risco": "desconhecido", "motivo": "sem GEMINI_API_KEY nem GITHUB_TOKEN"}
+
+
+def _ler_json(txt: str) -> dict:
+    dado = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
+    risco = _sem_acento(str(dado.get("risco", ""))).strip()
+    if risco not in ("alto", "medio", "baixo"):
+        return {"risco": "desconhecido", "motivo": f"resposta fora do padrão: {txt[:120]!r}"}
+    return {"risco": risco, "motivo": str(dado.get("motivo", ""))[:200]}
+
+
+def _post(url: str, corpo: dict, headers: dict) -> str:
+    req = urllib.request.Request(url, data=json.dumps(corpo).encode(), method="POST",
+                                 headers={"Content-Type": "application/json", "Accept": "application/json", **headers})
+    with urllib.request.urlopen(req, timeout=90) as r:
+        return r.read().decode("utf-8", "replace")
+
+
+def _gemini(img: str) -> dict:
+    modelo = os.environ.get("MODELO_GEMINI", "gemini-2.5-flash")
+    corpo = {
+        "systemInstruction": {"parts": [{"text": PROMPT_VISUAL}]},
+        "contents": [{"role": "user", "parts": [
+            {"text": "Classifique o risco desta folha de quadros."},
+            {"inline_data": {"mime_type": "image/jpeg", "data": img}},
+        ]}],
+        "generationConfig": {"temperature": 0, "responseMimeType": "application/json"},
+        "safetySettings": [{"category": c, "threshold": "BLOCK_NONE"} for c in
+                           ("HARM_CATEGORY_SEXUALLY_EXPLICIT", "HARM_CATEGORY_HARASSMENT",
+                            "HARM_CATEGORY_HATE_SPEECH", "HARM_CATEGORY_DANGEROUS_CONTENT")],
+    }
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+    for tentativa in range(3):
+        try:
+            bruto = _post(url, corpo, {"x-goog-api-key": os.environ["GEMINI_API_KEY"].strip()})
+            dado = json.loads(bruto)
+            bloqueio = (dado.get("promptFeedback") or {}).get("blockReason")
+            cand = (dado.get("candidates") or [{}])[0]
+            if bloqueio or cand.get("finishReason") in ("SAFETY", "PROHIBITED_CONTENT", "IMAGE_SAFETY"):
+                # o próprio filtro do Google recusou a imagem: trata como risco alto
+                return {"risco": "alto", "motivo": f"filtro do Gemini recusou a imagem ({bloqueio or cand.get('finishReason')})"}
+            txt = "".join(p.get("text", "") for p in (cand.get("content") or {}).get("parts", []))
+            return _ler_json(txt)
+        except urllib.error.HTTPError as e:
+            msg = e.read().decode("utf-8", "replace")[:150]
+            if e.code in (429, 500, 503) and tentativa < 2:
+                time.sleep(20 * (tentativa + 1))
+                continue
+            return {"risco": "desconhecido", "motivo": f"Gemini HTTP {e.code}: {msg}"}
+        except Exception as e:
+            return {"risco": "desconhecido", "motivo": f"Gemini indisponível ({str(e)[:150]})"}
+    return {"risco": "desconhecido", "motivo": "Gemini sem resposta"}
+
+
+def _github_models(img: str) -> dict:
     corpo = {
         "model": MODELO, "temperature": 0,
         "messages": [
             {"role": "system", "content": PROMPT_VISUAL},
             {"role": "user", "content": [
                 {"type": "text", "text": "Classifique o risco desta folha de quadros."},
-                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img}", "detail": os.environ.get("DETALHE_VISAO", "low")}},
+                {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{img}",
+                                                    "detail": os.environ.get("DETALHE_VISAO", "low")}},
             ]},
         ],
     }
-    req = urllib.request.Request("https://models.github.ai/inference/chat/completions",
-                                 data=json.dumps(corpo).encode(), method="POST",
-                                 headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
-                                          "Accept": "application/json", "X-GitHub-Api-Version": "2022-11-28"})
     try:
-        with urllib.request.urlopen(req, timeout=90) as r:
-            bruto = r.read().decode("utf-8", "replace")
+        bruto = _post("https://models.github.ai/inference/chat/completions", corpo,
+                      {"Authorization": f"Bearer {os.environ['GITHUB_TOKEN'].strip()}",
+                       "X-GitHub-Api-Version": "2022-11-28"})
         try:
             txt = json.loads(bruto)["choices"][0]["message"]["content"]
         except (ValueError, KeyError, IndexError, TypeError):
-            return {"risco": "desconhecido", "motivo": f"resposta inesperada ({len(bruto)} bytes): {bruto[:200]!r}"}
-        dado = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
-        risco = _sem_acento(str(dado.get("risco", ""))).strip()
-        if risco not in ("alto", "medio", "baixo"):
-            return {"risco": "desconhecido", "motivo": f"resposta fora do padrão: {txt[:120]!r}"}
-        return {"risco": risco, "motivo": str(dado.get("motivo", ""))[:200]}
+            return {"risco": "desconhecido", "motivo": f"GitHub Models: resposta inesperada ({len(bruto)} bytes): {bruto[:120]!r}"}
+        return _ler_json(txt)
     except urllib.error.HTTPError as e:
         return {"risco": "desconhecido", "motivo": f"GitHub Models HTTP {e.code}: "
                                                    f"{e.read().decode('utf-8', 'replace')[:150]}"}
-    except Exception as e:  # rede, JSON etc.
+    except Exception as e:
         return {"risco": "desconhecido", "motivo": f"GitHub Models indisponível ({str(e)[:150]})"}
 
 
