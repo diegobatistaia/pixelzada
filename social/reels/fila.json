@@ -4249,7 +4249,7 @@
     "slug": "agua-zelda-contra-wolverine",
     "data": "2026-11-16",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "A diferença da água em Zelda e no jogo do Wolverine 🌊\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #wolverine #games #nintendo #pixelzada",
     "tentativas": 0,
@@ -4271,6 +4271,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T15:00:10-03:00",
+      "media_id": "17871679317660119",
+      "permalink": "https://www.instagram.com/reel/Dfz8xzYGYo8/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb44e83393e02ff104b1a9",
+        "em": "2026-11-16T15:01:10-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=dRWchV_q9Hg"
+      }
     }
   },
   {
