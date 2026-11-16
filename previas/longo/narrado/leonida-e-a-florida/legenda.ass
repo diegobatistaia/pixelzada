@@ -215,6 +215,7 @@ Dialogue: 0,0:04:25.43,0:04:27.22,Legenda,,0,0,0,,de vista e muita lama.
 Dialogue: 1,0:04:00.24,0:04:02.01,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
 Dialogue: 1,0:04:02.26,0:04:11.92,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
 Dialogue: 1,0:04:12.17,0:04:16.89,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:04:17.14,0:04:21.85,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
 Dialogue: 1,0:04:22.10,0:04:27.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
 Dialogue: 1,0:04:00.09,0:04:27.59,Capitulo,,0,0,0,,{\fad(300,300)}AMBROSIA = INTERIOR
 Dialogue: 2,0:04:00.24,0:04:03.84,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}AMBROSIA
@@ -235,7 +236,6 @@ Dialogue: 0,0:04:50.36,0:04:52.94,Legenda,,0,0,0,,florestas do norte da Flórida
 Dialogue: 0,0:04:52.96,0:04:54.35,Legenda,,0,0,0,,outros estados do sul.
 Dialogue: 1,0:04:27.74,0:04:31.08,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
 Dialogue: 1,0:04:31.33,0:04:34.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:04:47.91,0:04:54.62,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
 Dialogue: 1,0:04:27.59,0:04:54.72,Capitulo,,0,0,0,,{\fad(300,300)}MOUNT KALAGA
 Dialogue: 2,0:04:27.74,0:04:31.34,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}MOUNT KALAGA
 Dialogue: 2,0:04:27.94,0:04:31.34,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}parque nacional
