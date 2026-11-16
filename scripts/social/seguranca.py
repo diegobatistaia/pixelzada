@@ -148,7 +148,10 @@ def conferir_visual(video: Path) -> dict:
     try:
         with urllib.request.urlopen(req, timeout=90) as r:
             bruto = r.read().decode("utf-8", "replace")
-        txt = json.loads(bruto)["choices"][0]["message"]["content"]
+        try:
+            txt = json.loads(bruto)["choices"][0]["message"]["content"]
+        except (ValueError, KeyError, IndexError, TypeError):
+            return {"risco": "desconhecido", "motivo": f"resposta inesperada ({len(bruto)} bytes): {bruto[:200]!r}"}
         dado = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
         risco = _sem_acento(str(dado.get("risco", ""))).strip()
         if risco not in ("alto", "medio", "baixo"):
@@ -199,14 +202,15 @@ def tirar_da_fila(fila: list[dict], item: dict, motivo: dict) -> None:
                        **motivo})
 
 
-def varrer(slugs: list[str] | None = None) -> int:
+def varrer(slugs: list[str] | None = None, so_imagem: bool = False) -> int:
     from . import reels as R
     fila = R.carregar()
     videos = R.PASTA / "videos"
     if slugs:  # só relatório
         for s in slugs:
             item = next((i for i in fila if i["slug"] == s), {"slug": s, "legenda": ""})
-            c = checagem(videos / f"{s}.mp4", item.get("legenda", ""))
+            c = ({**conferir_visual(videos / f"{s}.mp4"), "por": "imagem"} if so_imagem
+                 else checagem(videos / f"{s}.mp4", item.get("legenda", "")))
             time.sleep(4)
             print(f"{s}: risco {c['risco']} ({c['por']}): {c['motivo']}")
         return 0
@@ -240,6 +244,7 @@ def main(argv: list[str] | None = None) -> int:
     c.add_argument("videos", nargs="+")
     v = sub.add_parser("varrer")
     v.add_argument("--slugs", default="")
+    v.add_argument("--so-imagem", action="store_true", help="com --slugs: pula o texto e testa só a imagem")
     a = ap.parse_args(argv)
     if a.cmd == "texto":
         p = risco_texto(*a.texto)
@@ -249,7 +254,7 @@ def main(argv: list[str] | None = None) -> int:
         for f in a.videos:
             print(f"{f}: {conferir_visual(Path(f))}")
         return 0
-    return varrer([s for s in a.slugs.split(",") if s.strip()] or None)
+    return varrer([s for s in a.slugs.split(",") if s.strip()] or None, a.so_imagem)
 
 
 if __name__ == "__main__":

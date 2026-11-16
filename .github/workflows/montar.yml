@@ -67,7 +67,7 @@ jobs:
         if: inputs.testar != ''
         env:
           TESTAR: ${{ inputs.testar }}
-        run: python -m scripts.social.seguranca varrer --slugs "$TESTAR"
+        run: python -m scripts.social.seguranca varrer --slugs "$TESTAR" --so-imagem
 
       - name: Conferir a fila
         run: python -m scripts.social.reels check
