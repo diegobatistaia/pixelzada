@@ -5454,6 +5454,90 @@
     }
   },
   {
+    "slug": "gta-6-meugameusado",
+    "data": "2026-11-18",
+    "horario": "15:30",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meugameusado",
+      "link": "https://www.instagram.com/reel/Dfz81B5mTNS/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-preta"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "personagens vestidos em cenas de prisão e festa",
+      "por": "imagem",
+      "em": "2026-11-16T16:35:39-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-voxeloficial",
+    "data": "2026-11-18",
+    "horario": "16:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "voxeloficial",
+      "link": "https://www.instagram.com/reel/Dfz1wlxAtaK/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apresentador vestido e telas de interface de jogo",
+      "por": "imagem",
+      "em": "2026-11-16T16:35:50-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-gamespot",
+    "data": "2026-11-18",
+    "horario": "16:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/DfxuccNCv3S/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram gameplay de Halo: Combat Evolved com armas e combates, sem nudez ou conteúdo sexual",
+      "por": "imagem",
+      "em": "2026-11-16T16:35:53-03:00"
+    }
+  },
+  {
     "slug": "gta6-lancado-players-0001",
     "data": "2026-11-18",
     "horario": "23:30",
