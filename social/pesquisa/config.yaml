@@ -104,6 +104,7 @@ formatos:
 # Lista inicial tirada da estratégia de Instagram (17/10); o teste mostra quais
 # a API enxerga (só perfis profissionais) e os que falharem saem.
 concorrentes:
+  - {perfil: diskvice, tema: games}         # link de perfil do Diego (16/11)
   - {perfil: sougamergeek, tema: games}     # links do Diego (09/11); posta de tudo, não só GTA 6
   - {perfil: brief_escape_, tema: games}    # link de perfil do Diego (10/11)
   - {perfil: bruneygta, tema: gta6}         # link de perfil do Diego (10/11)
