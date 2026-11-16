@@ -33,7 +33,7 @@ jobs:
           command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
       - name: Sondar
         run: |
-          python -m scripts.longo.oficial --folhas
+          python -u -m scripts.longo.oficial --folhas
           curl -sL -o previas/longo/_oficial/us-states.json https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json || true
       - name: Guardar no ramo
         if: always()

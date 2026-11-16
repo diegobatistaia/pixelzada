@@ -56,8 +56,11 @@ def coletar() -> dict:
 
 def baixar(ind: dict) -> list[dict]:
     TRAB.mkdir(parents=True, exist_ok=True)
-    itens = []
+    itens, total = [], 0
     for url, pag in ind["midia"].items():
+        if total > 900_000_000:
+            print("limite de 900 MB atingido")
+            break
         nome = url.rsplit("/", 1)[1]
         dest = TRAB / nome
         if not dest.exists():
@@ -66,6 +69,8 @@ def baixar(ind: dict) -> list[dict]:
             except Exception as e:  # noqa: BLE001
                 print("não baixou", nome, e)
                 continue
+        total += dest.stat().st_size
+        print(f"  {nome} {dest.stat().st_size // 1000} KB", flush=True)
         itens.append({"nome": nome, "url": url, "pagina": pag, "bytes": dest.stat().st_size})
     return itens
 
