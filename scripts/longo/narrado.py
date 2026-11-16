@@ -413,8 +413,15 @@ def render_plano(p: dict, dur: float, saida: Path, trab: Path, i: int) -> str:
         return "GTA 6 · OFICIAL"
     if k == "r":
         n = int(p.get("n", 0))
-        kenburns(commons(v, trab / "reais", n), dur, saida, i)
-        return "VIDA REAL"
+        pal = v.split()
+        for corte in range(len(pal), 1, -1):  # sem resultado: tenta com menos palavras
+            try:
+                kenburns(commons(" ".join(pal[:corte]), trab / "reais", n), dur, saida, i)
+                return "VIDA REAL"
+            except Exception as e:  # noqa: BLE001
+                print(f"    Commons: {e}")
+        kenburns(fundo_vice(), dur, saida, 0)
+        return ""
     if k == "m":
         kenburns(arte_mapa(None if v == "todas" else v), dur, saida, 0)
         return "MAPA"
