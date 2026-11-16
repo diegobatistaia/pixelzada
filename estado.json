@@ -7,42 +7,34 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-15T23:44-03:00",
+ "atualizado": "2026-11-16T08:16-03:00",
  "hoje": {
-  "data": "2026-11-15",
+  "data": "2026-11-16",
   "reels": {
-   "meta": 15,
-   "publicados": 15,
-   "deviam_ter_saido": 15,
+   "meta": 17,
+   "publicados": 1,
+   "deviam_ter_saido": 1,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 7,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00",
-    "21:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 41,
+  "agendados": 43,
   "meta_por_dia": 17,
-  "dias_de_reserva": 2.4,
+  "dias_de_reserva": 2.5,
   "grade_cheia_ate": "2026-11-17",
-  "sem_revisao": 1,
+  "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-16",
-    "agendados": 17,
+    "agendados": 15,
     "meta": 17
    },
    {
@@ -52,23 +44,23 @@
    },
    {
     "data": "2026-11-18",
-    "agendados": 7,
+    "agendados": 11,
     "meta": 33
    }
   ]
  },
  "site": {
-  "total": 215,
-  "hoje": 5,
+  "total": 216,
+  "hoje": 1,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Super Meat Boy Again+ é anunciado para PC com arte, fases e músicas novas",
-   "url": "https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/",
-   "em": "2026-11-15T19:39:32-03:00"
+   "titulo": "Xbox diz que Project Helix é um console que joga jogos de PC, e não um PC",
+   "url": "https://pixelzada.com.br/pt/xbox-project-helix-e-um-console-que-joga-jogos-de-pc-diz-jason-ronald/",
+   "em": "2026-11-16T07:43:47-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "15/11/2026 19:05",
+  "ultima_coleta": "16/11/2026 06:05",
   "perfis_lidos": 37,
   "perfis_com_falha": 1
  },
@@ -76,36 +68,37 @@
   "usuario": "pixelzada.br",
   "seguidores": 100,
   "seguindo": 5,
-  "posts": 297,
-  "alcance_7d": 38387,
-  "views_7d": 53019,
+  "posts": 298,
+  "alcance_7d": 17753,
+  "views_7d": 25033,
   "reels_7d": {
-   "quantidade": 84,
-   "views_total": 14967,
-   "views_mediana": 166,
+   "quantidade": 85,
+   "views_total": 15268,
+   "views_mediana": 168,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-15": 3205,
-    "2026-11-14": 1608,
-    "2026-11-13": 2138,
-    "2026-11-12": 2143,
+    "2026-11-16": 178,
+    "2026-11-15": 3322,
+    "2026-11-14": 1610,
+    "2026-11-13": 2139,
+    "2026-11-12": 2145,
     "2026-11-11": 2283,
     "2026-11-10": 2048,
-    "2026-11-09": 1542
+    "2026-11-09": 1543
    },
    "melhores": [
     {
      "legenda": "O segredo da Máscara da Verdade em Zelda: os personagens veem a máscara do Link e reagem 🎭",
-     "views": 1495,
-     "alcance": 1245,
-     "curtidas": 38,
+     "views": 1593,
+     "alcance": 1320,
+     "curtidas": 41,
      "link": "https://www.instagram.com/reel/Dfwn2EfDpBK/",
      "em": "2026-11-15T08:00:06-03:00"
     },
     {
      "legenda": "Como vou me sentir desinstalando o GTA 5 pra instalar o GTA 6 😔",
-     "views": 434,
-     "alcance": 343,
+     "views": 435,
+     "alcance": 344,
      "curtidas": 13,
      "link": "https://www.instagram.com/reel/DfiP0cCHOcQ/",
      "em": "2026-11-09T18:00:48-03:00"
@@ -155,20 +148,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 75
+   "youtube": 77
   },
-  "erros_hoje": 3
+  "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-09",
-   "reels": 6,
-   "reels_meta": 6,
-   "carrosseis": 7,
-   "carrosseis_meta": 7,
-   "materias": 10,
-   "views_reels": 1542
-  },
   {
    "data": "2026-11-10",
    "reels": 13,
@@ -194,7 +178,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2143
+   "views_reels": 2145
   },
   {
    "data": "2026-11-13",
@@ -203,7 +187,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2138
+   "views_reels": 2139
   },
   {
    "data": "2026-11-14",
@@ -212,7 +196,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1608
+   "views_reels": 1610
   },
   {
    "data": "2026-11-15",
@@ -221,7 +205,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
-   "views_reels": 3205
+   "views_reels": 3322
+  },
+  {
+   "data": "2026-11-16",
+   "reels": 1,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 1,
+   "views_reels": 178
   }
  ],
  "seguidores_por_dia": [
@@ -256,16 +249,11 @@
   {
    "data": "2026-11-15",
    "seguidores": 100
-  }
- ],
- "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
-   "nivel": "amarelo",
-   "texto": "Buffer: 3 envio(s) para TikTok/YouTube com erro hoje"
+   "data": "2026-11-16",
+   "seguidores": 100
   }
- ]
+ ],
+ "alertas": []
 }
