@@ -4117,7 +4117,7 @@
     "slug": "24-anos-vice-city-gta6",
     "data": "2026-11-16",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "De 2002 a 2026: 24 anos entre Vice City e GTA 6 ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #vicecity #gtavi #rockstar #pixelzada",
     "tentativas": 0,
@@ -4139,6 +4139,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T11:00:08-03:00",
+      "media_id": "17966611494252802",
+      "permalink": "https://www.instagram.com/reel/DfzhTtFGTaI/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb0ca8ff577551c74168ce",
+        "em": "2026-11-16T11:01:11-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=40gf9-e4pvg"
+      }
     }
   },
   {
