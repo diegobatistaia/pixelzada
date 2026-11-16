@@ -1,0 +1,46 @@
+name: Vídeo longo (sonda de material)
+
+# Baixa e transcreve o Reel de referência e testa as fontes oficiais da Rockstar.
+# Grava em previas/longo/_sonda/ no próprio ramo. Não publica nada.
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/longo/sondar.py", ".github/workflows/sonda-longo.yml"]
+  workflow_dispatch:
+    inputs:
+      link:
+        description: "link do Reel de referência"
+        default: "https://www.instagram.com/reel/DfxD2TXCsFD/"
+
+permissions:
+  contents: write
+
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
+      LINK: ${{ github.event.inputs.link || 'https://www.instagram.com/reel/DfxD2TXCsFD/' }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Ferramentas
+        run: |
+          pip install -q pyyaml yt-dlp "opencv-python-headless<5" pillow faster-whisper
+          command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
+      - name: Sondar
+        run: python -m scripts.longo.sondar "$LINK"
+      - name: Guardar no ramo
+        if: always()
+        run: |
+          rm -rf previas/longo/_sonda/tmp
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -f previas/longo/_sonda || true
+          git diff --cached --quiet && exit 0
+          git commit -q -m "longo: sonda de material [skip ci]"
+          for i in 1 2 3 4; do git pull --rebase -q origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
+          exit 1
