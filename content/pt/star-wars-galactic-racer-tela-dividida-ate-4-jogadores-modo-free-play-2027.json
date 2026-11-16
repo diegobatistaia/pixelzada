@@ -94,7 +94,9 @@
     "query": "Star Wars Galactic Racer",
     "alt": "Nave se preparando para uma corrida em Star Wars: Galactic Racer",
     "url": "https://assetsio.gnwcdn.com/Star-Wars-Galactic-Racer-ship-getting-ready-for-a-race.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/star-wars-galactic-racer-tela-dividida-a-d027e288.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -110,5 +112,7 @@
       "title": "Star Wars: Galactic Racer is getting local split-screen multiplayer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-16T20:40:38+00:00",
+  "updated_at": "2026-11-16T20:40:38+00:00"
 }

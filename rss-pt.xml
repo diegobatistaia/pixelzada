@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:40:39 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Star Wars: Galactic Racer terá tela dividida para até 4 jogadores em 2027</title>
+      <link>https://pixelzada.com.br/pt/star-wars-galactic-racer-tela-dividida-ate-4-jogadores-modo-free-play-2027/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/star-wars-galactic-racer-tela-dividida-ate-4-jogadores-modo-free-play-2027/</guid>
+      <description>Star Wars: Galactic Racer ganhará tela dividida para até 4 jogadores no início de 2027, com o novo modo Free Play. Veja o que a Fuse anunciou e o que falta.</description>
+      <category>Lançamentos</category>
+      <pubDate>Mon, 16 Nov 2026 20:40:38 +0000</pubDate>
+    </item>
     <item>
       <title>Hacker do vazamento de GTA 6 em 2022 se declara culpado</title>
       <link>https://pixelzada.com.br/pt/hacker-do-vazamento-de-gta-6-em-2022-se-declara-culpado/</link>
@@ -238,14 +246,6 @@
       <description>Neil Druckmann diz que Intergalactic: The Heretic Prophet está nas últimas etapas de produção e promete mostrar jogabilidade e história no ano que vem. Veja.</description>
       <category>Indústria</category>
       <pubDate>Thu, 12 Nov 2026 20:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>As músicas dos trailers de GTA 6 e o álbum: de Tom Petty a Justice</title>
-      <link>https://pixelzada.com.br/pt/gta-6-musicas-dos-trailers-album-tom-petty-justice/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-musicas-dos-trailers-album-tom-petty-justice/</guid>
-      <description>Todas as músicas dos trailers de GTA 6, do Extended Look e do álbum oficial com 34 faixas inéditas, de Tom Petty a Justice. Monte a playlist antes de 19/11.</description>
-      <category>GTA 6</category>
-      <pubDate>Thu, 12 Nov 2026 18:41:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
