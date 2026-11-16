@@ -157,8 +157,37 @@ def _post(url: str, corpo: dict, headers: dict) -> str:
         return r.read().decode("utf-8", "replace")
 
 
+_MODELO_GEMINI: list[str] = []
+
+
+def _modelo_gemini() -> str:
+    """Modelo com visão: MODELO_GEMINI, senão o "flash" mais novo que a chave enxerga
+    (o gemini-2.5-flash já não aceita contas novas, 16/11). Fica em cache na execução."""
+    if os.environ.get("MODELO_GEMINI"):
+        return os.environ["MODELO_GEMINI"]
+    if _MODELO_GEMINI:
+        return _MODELO_GEMINI[0]
+    escolhido = "gemini-flash-latest"
+    try:
+        req = urllib.request.Request("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                                     headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"].strip()})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            nomes = [m["name"].split("/", 1)[1] for m in json.loads(r.read()).get("models", [])
+                     if "generateContent" in m.get("supportedGenerationMethods", [])]
+        ruins = ("tts", "image", "audio", "live", "embedding", "exp", "preview", "lite", "thinking")
+        bons = [n for n in nomes if n.startswith("gemini-") and "flash" in n and not any(r in n for r in ruins)]
+        if "gemini-flash-latest" not in nomes and bons:
+            escolhido = sorted(bons, key=lambda n: [float(x) if x.replace(".", "", 1).isdigit() else 0
+                                                   for x in n.split("-")[1:2]], reverse=True)[0]
+        print(f"  Gemini: modelo {escolhido} (de {len(nomes)} disponíveis)")
+    except Exception as e:
+        print(f"  Gemini: lista de modelos indisponível ({str(e)[:120]}); usando {escolhido}")
+    _MODELO_GEMINI.append(escolhido)
+    return escolhido
+
+
 def _gemini(img: str) -> dict:
-    modelo = os.environ.get("MODELO_GEMINI", "gemini-2.5-flash")
+    modelo = _modelo_gemini()
     corpo = {
         "systemInstruction": {"parts": [{"text": PROMPT_VISUAL}]},
         "contents": [{"role": "user", "parts": [
