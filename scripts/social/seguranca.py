@@ -150,10 +150,10 @@ def _ler_json(txt: str) -> dict:
     return {"risco": risco, "motivo": str(dado.get("motivo", ""))[:200]}
 
 
-def _post(url: str, corpo: dict, headers: dict) -> str:
+def _post(url: str, corpo: dict, headers: dict, timeout: int = 90) -> str:
     req = urllib.request.Request(url, data=json.dumps(corpo).encode(), method="POST",
                                  headers={"Content-Type": "application/json", "Accept": "application/json", **headers})
-    with urllib.request.urlopen(req, timeout=90) as r:
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", "replace")
 
 
@@ -176,7 +176,10 @@ def _modelo_gemini() -> str:
                      if "generateContent" in m.get("supportedGenerationMethods", [])]
         ruins = ("tts", "image", "audio", "live", "embedding", "exp", "preview", "lite", "thinking")
         bons = [n for n in nomes if n.startswith("gemini-") and "flash" in n and not any(r in n for r in ruins)]
-        if "gemini-flash-latest" not in nomes and bons:
+        print("  Gemini: modelos flash: " + ", ".join(n for n in nomes if "flash" in n))
+        if "gemini-flash-lite-latest" in nomes:  # rápido: o flash-latest passou de 90 s (16/11)
+            escolhido = "gemini-flash-lite-latest"
+        elif "gemini-flash-latest" not in nomes and bons:
             escolhido = sorted(bons, key=lambda n: [float(x) if x.replace(".", "", 1).isdigit() else 0
                                                    for x in n.split("-")[1:2]], reverse=True)[0]
         print(f"  Gemini: modelo {escolhido} (de {len(nomes)} disponíveis)")
@@ -202,7 +205,7 @@ def _gemini(img: str) -> dict:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
     for tentativa in range(3):
         try:
-            bruto = _post(url, corpo, {"x-goog-api-key": os.environ["GEMINI_API_KEY"].strip()})
+            bruto = _post(url, corpo, {"x-goog-api-key": os.environ["GEMINI_API_KEY"].strip()}, timeout=180)
             dado = json.loads(bruto)
             bloqueio = (dado.get("promptFeedback") or {}).get("blockReason")
             cand = (dado.get("candidates") or [{}])[0]
