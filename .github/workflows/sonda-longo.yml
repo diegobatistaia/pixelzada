@@ -5,7 +5,7 @@ name: Vídeo longo (sonda de material)
 on:
   push:
     branches: ["claude/**"]
-    paths: ["scripts/longo/sondar.py", ".github/workflows/sonda-longo.yml"]
+    paths: ["scripts/longo/oficial.py", ".github/workflows/sonda-longo.yml"]
   workflow_dispatch:
     inputs:
       link:
@@ -29,18 +29,20 @@ jobs:
           python-version: "3.12"
       - name: Ferramentas
         run: |
-          pip install -q pyyaml yt-dlp "opencv-python-headless<5" pillow faster-whisper
+          pip install -q pyyaml yt-dlp "opencv-python-headless<5" pillow
           command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
       - name: Sondar
-        run: python -m scripts.longo.sondar "$LINK"
+        run: |
+          python -m scripts.longo.oficial --folhas
+          curl -sL -o previas/longo/_oficial/us-states.json https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json || true
       - name: Guardar no ramo
         if: always()
         run: |
-          rm -rf previas/longo/_sonda/tmp
+          rm -rf previas/longo/_sonda/tmp trabalho
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
-          git add -f previas/longo/_sonda || true
+          git add -f previas/longo/_oficial || true
           git diff --cached --quiet && exit 0
-          git commit -q -m "longo: sonda de material [skip ci]"
+          git commit -q -m "longo: banco oficial [skip ci]"
           for i in 1 2 3 4; do git pull --rebase -q origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
           exit 1
