@@ -4337,7 +4337,7 @@
     "slug": "wesker-dias-dificeis",
     "data": "2026-11-16",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Tem dias que não são fáceis pra ninguém ☕\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#residentevil #wesker #capcom #memesgamer #pixelzada",
     "tentativas": 0,
@@ -4359,6 +4359,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T17:00:07-03:00",
+      "media_id": "18160366513518911",
+      "permalink": "https://www.instagram.com/reel/Df0KgKZFIhU/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb60f15c671a37dd57cd3f",
+        "em": "2026-11-16T17:00:48-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=rZZuDwHKOFA"
+      }
     }
   },
   {
