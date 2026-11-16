@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T10:40:14+00:00",
+  "generated_at": "2026-11-16T14:40:58+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 0,
+  "already_written_today": 2,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,6 +42,198 @@
   ],
   "stories": [
     {
+      "story_id": "ddaa9d19d914bf2c",
+      "title": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
+      "summary": "Xbox has revealed more details about its next-gen device, Project Helix , describing it as a \"console capable of playing games from your PC.\" Prominently featured in the Xbox 25th Anniversary Magazine , VP of next-gen Jason Ronald said the Xbox Series X|S successor is designed to build on the successes — and hard lessons — of previous Xbox generations, with fewer barriers to play. \"When we think...",
+      "owners": [
+        "fandom",
+        "future-plc",
+        "keleops",
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "3d917cda124ba27d",
+        "80720d792f515b12",
+        "42782dcac9c43b1c",
+        "980d65d0c34e9122",
+        "1bc8c7131311503f",
+        "65c5ff79fcadaa10"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/xbox-project-helix-is-a-console-that-plays-pc-games-not-the-other-way-around/",
+          "title": "Xbox Project Helix Is A Console That Plays PC Games, Not The Other Way Around",
+          "published_at": "2026-11-16T10:48:53+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/hardware/xbox-project-helix-is-a-console-that-is-also-capable-of-playing-games-from-your-pc-lead-dev-says-its-really-designed-to-be-the-ultimate-gaming-machine/",
+          "title": "Xbox Project Helix is \"a console that is also capable of playing games from your PC,\" says lead dev",
+          "published_at": "2026-11-16T11:04:45+00:00",
+          "kind": "press",
+          "text": "The Helix is reportedly expected to launch in 2028 Jason Ronald – vice president of Xbox's gaming devices and ecosystem team – has spoken in more detail about what Project Helix actually is. Namely, it doesn't sound like it's a Steam Machine. To celebrate the 25th anniversary since the original Xbox was released and Halo arrived in our lives (and almost 26 since The Rock revealed the console ), Microsoft has released a magazine about the platform online . While a lot of it is about the history of the console, some details about the future of Xbox are sprinkled in there, with news about future releases like Fable, and a hint that there's maybe something going on with games like Crash Bandicoot and Tony Hawk. But the most significant bit of info is some more details about what Project Helix is. Ronald – who Microsoft describes as the vice president of next generation – says \"it's really designed to be the ultimate gaming machine – one that removes all the barriers of play that have historically existed,\" while touting its backwards compatibility capabilities, mentioning that he's \"able to bring four generations of my Xbox library and progression with me and have it available instantly.\" He also speaks about removing \"the arbitrary constraints between console and PC games,\" while explaining more about what Project Helix's rumored PC connection actually is. \"We're very clear on the design goal\" Ronald explains, \"Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games.\" Of course, the real question is how all-encompassing is the PC integration going to be. Presumably the Xbox Store is a sure bet, and probably Battle.net too. But the idea of having your Steam library available on console would be a pretty unassailable win for the console, but sadly I really don't see that happening in the age of Steam Machines. Xbox Project Helix console could cost as much as $1,800 and is reportedly set to launch by Christmas 2028. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/Ew33GdR66JGHopZ39KxuST-1920-80.jpg"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
+          "title": "Microsoft Says Of The Next Xbox: ‘Helix Is A Console Capable Of Playing PC Games’",
+          "published_at": "2026-11-16T11:41:48+00:00",
+          "kind": "press",
+          "text": "Microsoft has put out an online magazine to celebrate 25 years of Xbox , and unquestionably to attempt even more damage control after a gruesome year of studio closures and mass layoffs. Within all the huff and puff lies a surprise: seven pages’ coverage of Project Helix, the codename for the next Xbox console. Within this is revealed the plan for Helix to be able to play games and even progress from every previous Xbox generation, as well as removing “the arbitrary constraints between console and PC games.” So, asks the magazine and indeed us, “is Project Helix a console or a PC?” The answer is very definitively: a console. Sort of. The current generation of consoles were notably described ahead of launch as being far more like PCs in a sealed box than the traditional console designs of yore, and this appears to be something Microsoft is looking to get away from this time out. The emphasis here is on the so-called instantaneous nature of a console. Jason Ronald is Xbox’s VP of “next generation,” and is quoted saying, “When I think about what makes a console magical, it’s that it just makes my games instantly accessible and ready to play in an instant. I don’t have to worry about updating my operating system, updating drivers, configuring different settings.” Which is…a bold claim, given anyone who owns an Xbox will know about having to install the latest updates, waiting for game patches to excruciatingly slowly download without taking advantage of your 1TB ethernet connection, or that unbearable pause each time you load it up for it to fill in the dashboard. But of Project Helix, Ronald says, “it’s really designed to be the ultimate gaming machineâone that removes all the barriers of play that have historically existed. My entire library is accessible to me. I’m able to bring four generations of my Xbox library and progression with me and have it available instantly,” adding, “We’re very clear on the design goal: Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games.” However, it’s hard to know just how clear this distinction is from Ronald’s very next words. “But if you’re a hardcore gamer or a power user who wants to have that deeper level of customizability across settings and performance options, you can absolutely go do it.” So it is a PC then? So confused. Other comments from Ronald include that “We don’t think the next generation is defined by 8K or 240 hertz, or some of the traditional metricsâit’s really about gameplay innovation.” He adds, “It is about leveraging new technical advancements such as neural rendering, to deliver a new level of visual fidelity in more efficient and innovative ways.” Which all rather seems to be laying the ground for a machine that’s not focusing on the very latest and most expensive chipsets, but rather one that’ll take advantage of the more recent progress in upscaling and the like, perhaps to prevent the machine costing an absolute fortune? This topic isn’t ignored. Describing it as a factor “the team couldn’t have foreseen when Project Helix began,” the component crisis gets a mention. “Meeting this challenge has become a primary driver of Helix’s innovation,” says the article. Ronald is quoted once more. “It’s definitely a challenging time, but as a system and a platform designer, it’s also one of the most exciting times because we have to invent entirely new technology to continue to advance the state-of-the-art while also continuing to make things accessible and affordable.” This, he says, is why there’s the focus on neural rendering, adding, “I think you’re going to see more innovation over the next three to five years than you’ve seen in the last 10 years.” It’s all a lot of words to avoid pointing out that Microsoft itself is one of the primary causes of the crisis in the first place, one arm taking all the available components from the other in order to power its AI hubris. Beyond this, the piece delivers some very confusing messaging regarding Xbox’s current desperate rebranding. After a disastrous attempt to call everything from your console to your toaster “an Xbox,” the recent emphasis has been to return to the core idea of the Xbox itself, yet that message gets very lost in Microsoft’s own marketing. We’re told at once that this is all about “the Return of Xboxâthe return of a console,” and then that “Project Helix aims to take a wrecking ball to the dividers currently keeping players and their games apart,” quoting Ronald saying Helix is about “enabling [players] to experience those games wherever they choose to play. It’s about removing barriers to play, removing friction, and those arbitrary boundaries that have existed in the past.” So which is it? There are claims the new UI will adapt to whether the Xbox is being played on the living room TV, or streamed to a mobile device or a PC with mouse and keyboard. This really does sound like a confusion of previous messaging crashing into the current reverse-ferret. There’s no word one when we can expect to see Project Helix in more detail, and certainly nothing on an intended release date. It seems that Microsoft and Sony are currently playing chicken on revealing whether they’re aiming for 2027 or 2028, or perhaps even later given the tumult in the hardware industry. But at least we know it’s a console, not a PC, but also like a PC, and can be streamed to your mobile, or played on PC, and has all of the annoying complexity of PCs taken away, but also still there. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Microsoft's online services are in a complete state, all over the world, affecting governments, flights and more Brian Bloom and Debra Wilson will return as BJ Blazkowicz and Grace Walker for the first mainline game in a decade And some of them are getting achievements Firefight is coming to the recently released Xbox remake sometime later this winter",
+          "image": "https://kotaku.com/app/uploads/2026/11/project-helix.jpg"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/hardware/xbox-project-helix-lead-says-its-one-of-the-most-exciting-times-to-be-making-a-new-console-because-the-challenging-component-crisis-means-finding-new-ways-to-balance-innovation-and-accessibility/",
+          "title": "Xbox Project Helix lead says it's \"one of the most exciting times\" to be making a new console",
+          "published_at": "2026-11-16T11:56:31+00:00",
+          "kind": "press",
+          "text": "Xbox is all-in on neural rendering to keep costs down A lead developer on Xbox Project Helix says that rising hardware costs are a primary driver of the upcoming console's development. As part of the console brand's 25th anniversary, Microsoft has released a magazine about Xbox's past, present, and future . This online magazine includes an interview with Jason Ronald, vice president of next-generation console development at Microsoft and the lead for Project Helix. In this interview, he clarifies that Xbox Project Helix is \"a console that is also capable of playing games from your PC,\" rather than the other way around. Obviously, the biggest conversations about the Xbox Project Helix – and the PS6 – are cost. Hardware prices are rising thanks to the ongoing global RAM shortages brought on by AI companies who just need to let your weird uncle generate what he looks like as a Simpson to post on Facebook. The Xbox Series X|S , PS5 , and Nintendo Switch 2 have all had price increases over the past year, but Ronald says keeping the price down is a crucial motivator in the console's design. \"It's definitely a challenging time,\" Ronald says, adding, \"it’s also one of the most exciting times, because we have to invent entirely new technology to continue to advance the state-of-the-art while also continuing to make things accessible and affordable.\" He explains the cost factor is why the team behind Project Helix is \"really focused on advancements like neural rendering, because it’s an entirely new way to generate a frame without requiring more computational horsepower, additional memory, and things like that.\" Obviously AI-assisted tech was a big talking point within games before the memory crisis, but it feels like it's only going to become more prominent. Sony has been implementing QSSR frame generation tech into its PS5 games , likely in part because nobody can afford a PS5 Pro now that it's almost $1,000. And with things going like they are, it's probably going to be the norm heading forward… let's just hope Xbox puts its money where its mouth is and actually makes the Helix affordable. But given the current rumor is it's going to be $1,800, I'm not too hopeful. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. If PS6 and Xbox Project Helix are $1,000, 5-year sales could drop by 40%, analyst says Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/aCfUoFdkJ9owhAj3Skiu7Y-1920-80.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+          "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
+          "published_at": "2026-11-16T12:08:40+00:00",
+          "kind": "press",
+          "text": "\"It is about leveraging new technical advancements such as neural rendering.\" Microsoft has stressed that its next-generation Xbox console, Project Helix, \"is not a PC that can also play console games\", but rather \"a console that is also capable of playing games from your PC\". The company has also underlined the importance of using gen-AI-adjacent \"neural rendering\" technology going forwards, and a desire to remove \"all the barriers of play that have historically existed\" - notably in making the past generations of games playable. The details come from a Microsoft-produced Xbox magazine made available digitally yesterday , and a Helix-related feature speaking to Xbox vice president of next generation, Jason Ronald. \"When we think about Project Helix, it's really designed to be the ultimate gaming machine,\" Ronald said, \"one that removes all the barriers of play that have historically existed. My entire library is accessible to me. I'm able to bring four generations of my Xbox library and progression with me and have it available instantly. And we remove the arbitrary constraints between console and PC games. \"We're very clear on the design goal,\" Ronald later added. \"Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games. The goal is making it easy, intuitive, and instant to access my games. But if you're a hardcore gamer or a power user who wants to have that deeper level of customisability across settings and performance options, you can absolutely go do it.\" Notably, Ronald seemed to suggest that Helix - the console, not the handheld; \"Helix\" refers to a couple of machines - isn't solely focused on computational grunt. Indeed, he said the next generation wasn't about hitting 8K resolutions and 240 hertz frame-rates, but instead leaning on technologies like \"neural rendering\" - i.e. generative-AI - and encouraging innovation. \"It's about deeper immersion,\" Ronald said. \"It is about leveraging new technical advancements such as neural rendering to deliver a new level of visual fidelity in more efficient and innovative ways. It's about new kinds of games and new game experiences that we haven't been able to do before. What excites me about the future is the idea of entirely new types of games that have never been possible before, delivered through all the innovation in the silicon and the hardware and the platform that we're delivering.\" While referencing the global component shortage and exorbitant prices of computer hardware, he added: \"This is a big reason why we're really focused on advancements like neural rendering because it's an entirely new way to generate a frame without requiring more computational horsepower, additional memory, and things like that. I think you're going to see more innovation over the next three to five years than you've seen in the last 10 years.\" Xbox boss Asha Sharma also recently talked up the importance of generative-AI-sounding technology in Xbox's future , saying \"too many ideas never become games\", and that \"a single person will soon be able to wield capabilities that once required entire nations\". Another key part of Xbox's Helix vision is compatibility and game preservation. \"Game preservation is core to Xbox,\" Ronald went as far as to say. \"Not only do we feel like it's the right thing for the industry, we feel a deep responsibility as one of its biggest platforms and publishers. For the first 30 years of game development, nobody really thought about game preservation when they were designing their hardware, when they were building their games.\" Xbox is apparently working with game-makers to ensure games can not only be played now but also 20 to 30 years into the future. The other key facet of Microsoft's push the familiar Play Anywhere mantra, whereby one game can be played across multiple devices, maintaining your game-progress as you go. This is fundamental to Microsoft's handheld-and-console Helix plan, and something we've seen the company dry-run with the Xbox ROG Ally X handheld . \"It's this notion that not only does my library move with me, but my progress moves with me as well,\" Ronald said. \"Because I fully expect that when I'm in the middle of an 80-hour RPG, if I'm 25 hours into that and I want to play it on another device, I should be able to instantly resume from where I was. Those are things that today are becoming more common, but I think in the future it's going to be a baseline expectation of all players.\" Ronald wouldn't be drawn on the issue of price regarding Project Helix - a recent report suggested Helix could be priced up to $1800 - referring to it only as both \"a challenging time\" but an \"exciting one\", because \"we have to invent entirely new technology to continue to advance the state-of-the-art while also continuing to make things accessible and affordable\". Ronald also wouldn't reference a release date, though the report referenced above suggested the handheld Helix machine will release next holiday, 2027, and the console Helix machine the year after. The next generation, then, seems to be around the corner.",
+          "image": "https://assetsio.gnwcdn.com/Project-Helix-logo-and-name-written-in-white-on-a-black-background.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/project-helix-primeiramente-um-console-nao-pc/",
+          "title": "Project Helix é primeiramente um console, não um PC, diz Xbox",
+          "published_at": "2026-11-16T12:49:05+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/03/Xbox-Helix.webp"
+        }
+      ]
+    },
+    {
+      "story_id": "dded3afcdaeac5ab",
+      "title": "Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
+      "summary": "Marvel’s Wolverine drops to $49.99 on PS5 during PlayStation’s Black Friday sale, marking the first $20 discount since the game’s September launch.",
+      "owners": [
+        "adrenaline",
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "73495ff0582653f7",
+        "bd69fb7ed33054cc",
+        "ae0c68aa7217d66d",
+        "55568f8e3584e7c0"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/marvels-wolverine-ps5-black-friday-deal",
+          "title": "Marvel’s Wolverine Drops to $50 on PS5 for Black Friday in First Sale Since Launch",
+          "published_at": "2026-11-16T10:20:35+00:00",
+          "kind": "press",
+          "text": "PlayStation's Black Friday sale is officially live now , and there's a big inclusion in the form of Marvel's Wolverine. Released only a few months ago in September, reception to Wolverine has been mixed at best ( we gave it a 6/10 in our review ), but the game still has its enthusiastic defenders despite some tepid reviews from critics and fans alike. The game has dropped from its MSRP of $69.99 to just $49.99 in the Black Friday sale . That's a $20 discount on a fairly recent game for PS5, and might just be worth considering if you're after something to play after GTA 6, or even as an easy Christmas present for any Marvel obsessives in your life. Yeah, yeah, as I said, the reviews were fairly middling for Wolverine. But it's still a fairly new game, getting a decent discount in the sale. If you were interested in playing it but didn't want to pay full price, then this is a great opportunity to pick it up at a much more reasonable price. Just like you, I probably would feel a lot more inclined to pick this up at, say, $30, rather than $50. But, hey, you take what you can get. $20 off is $20 off. There are loads of other games that have been heavily discounted in the sale as well , including plenty of other big games from the past 12 months. That's alongside DualSense controllers which are also $20 off right now as well. I'd recommend checking out the whole sale at any relevant retailer like Amazon or Best Buy. There are some real hot deals to consider, and we've got access to them earlier than we ever have before. Robert Anderson is a Senior Commerce Editor for IGN. Based in London, UK, he is a qualified journalist with a Bachelor of Arts in Journalism (First Class Degree) and over seven years of professional writing and editing experience. You can usually find Robert lost in open-world RPG games like Elden Ring and Cyberpunk 2077. Outside of gaming, his passions include reading comics (especially Superman, Batman, and Spider-Man), taking photos, and keeping up with the latest in film and TV. His primary coverage focuses on tracking down the best gaming deals and diving into the fast-paced world of Trading Card Games (TCGs). He regularly covers everything from the latest releases in Pokémon TCG and the most expensive cards to comprehensive Magic: The Gathering buying guides .",
+          "image": "https://assets-prd.ignimgs.com/2026/10/29/wolverine-on-sale-for-black-friday-ps5-ign-2026-1793280790704.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-playstation-black-friday-sale-uk",
+          "title": "Ghost of Yotei Drops to £28 in PlayStation’s UK Black Friday Sale",
+          "published_at": "2026-11-16T11:30:11+00:00",
+          "kind": "press",
+          "text": "PlayStation has kicked off its Black Friday 2026 with a whole raft of deals in the UK this week. Among the best of those is the deal to pick up Ghost of Yotei for £28 from Amazon, down from its RRP of £54.99. This is the best price we've found across UK retailers. If you're after the complete edition (including the DLC), it's also down to £39.99 at Smyths . If you haven’t picked up a copy of this game yet, the Black Friday sales season could be your best chance at this excellent price. Just one caveat to make you aware of: this deal is only available on the physical copy of the game, so if you’re hoping to pick it up on the PlayStation Store at the same price, you won’t be able to. We gave this game an 8/10 , praising its stunning visuals and new lead character, Atsu. Set in 1603 in Ezo (modern-day Hokkaido), the story follows Atsu, a mercenary on a quest for vengeance against a group of outlaws known as the “Yōtei Six” who brutally murdered her family 16 years prior to the events of the game. The game is completely standalone, taking place 300 years after Ghost of Tsushima and featuring a whole new cast of characters and set in a different location. So if you never got round to playing Ghost of Tsushima, rest assured that you don’t need to play it first before you give into Ghost of Yōtei. Our reviewer, Michael Higham, said this about this game: “Sequels are opportunities to either build upon a predecessor and push boundaries, or refine what was already great and deliver that again with a stronger focus. With Ghost of Yotei, developer Sucker Punch leaned heavily into the latter approach, and the result is more captivating open-world action and unbelievably striking visuals at every turn. It doesn't try to revolutionize things, sticking pretty close to 2020's Ghost of Tsushima in general, but I don’t necessarily mind when that means it can expand in aspects that matter and offer a tighter distillation of the samurai fantasy that was originally promised. Not many games in recent memory can hang their hat on having combat as fluid and satisfying as this, and it's packed into a revenge tale that makes for a more human story.” The savings in PlayStation goodies don’t end with this deal. DualSense controllers are £20 off, as are physical copies of Marvel’s Wolverine. You can also get £90 off a PlayStation VR2, and, to top it all off, PlayStation Plus subscribers can get an additional 5% off accessories purchased directly through PlayStation, on top of the standard promotional discounts. That’s right, we’ve got deals on top of deals. You can keep track of all the best PlayStation deals here over the Black Friday period . And, of course, keep following us for the best deals on games and tech. Joe O'Neill-Parker is a freelance writer and audio producer. He is the owner of O'Neill Multimedia. He writes commerce, sports, and audio-related tech articles for IGN.",
+          "image": "https://assets-prd.ignimgs.com/2026/10/08/ghostthumb-1791467524351.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-rpg-para-playstation-em-oferta-de-black-friday/",
+          "title": "Jogos de RPG para PlayStation em oferta de Black Friday",
+          "published_at": "2026-11-15T17:49:00+00:00",
+          "kind": "press",
+          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/11/Baldurs-Gate-3-e-o-grande-vencedor-do-Golden-Joystick-Awards-2023.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/promocoes/ps-plus-recebe-desconto-black-friday-playstation/",
+          "title": "Assinaturas PS Plus recebem desconto na Black Friday da PlayStation",
+          "published_at": "2026-11-16T13:47:42+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/01/PS-PLUS.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "1de383f122c74e5c",
+      "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX",
+      "summary": "Some may know me as DJ Khaled. Some may know me as a hitmaker, a major key provider. But today, I want you to call me Dr. XBOX. Why? Because I’ve been seeing something out there. And the symptoms? They are REAL. I’m talking twitchy thumbs. Controller cramps. Late-night gaming dreams. Uncontrollable excitement every time […] The post A Message From Dr. XBOX: It’s Time to Take the Day Off and Play...",
+      "owners": [
+        "fandom",
+        "insider-gaming",
+        "microsoft"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "c0a05183633a0509",
+        "178299e5ac3710c4",
+        "ca84d43e5a84f880"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/16/dr-xbox-its-time-to-take-the-day-off-and-play-xbox/",
+          "title": "A Message From Dr. XBOX: It’s Time to Take the Day Off and Play XBOX",
+          "published_at": "2026-11-16T14:00:00+00:00",
+          "kind": "primary",
+          "text": "Some may know me as DJ Khaled. Some may know me as a hitmaker, a major key provider. But today, I want you to call me Dr. XBOX. Why? Because I’ve been seeing something out there. And the symptoms? They are REAL. I’m talking twitchy thumbs. Controller cramps. Late-night gaming dreams. Uncontrollable excitement every time a new game drops. And don’t even get me started on release-date restlessness. MAJOR. After extensive research (and a whole lot of gaming), I’ve come to one conclusion: there’s a serious case of Vitamin G deficiency around the world. And I’m here to tell you that the cure is simple. That’s right. A BIG week in gaming is coming, and I don’t want anybody missing a single moment. We’ve got games to play, worlds to explore, achievements to unlock and victories to celebrate. This is not the week to be distracted by emails, meetings or somebody asking you to do something that isn’t gaming. You have to prioritize YOU. And by YOU, I mean your XBOX. Now, I know what you’re thinking. “Dr. XBOX, how can I possibly get the day off?” Don’t worry. I’ve got the MAJOR KEY. I’m officially prescribing a day dedicated to doing what you love: staying home, picking up that controller and playing XBOX. No distractions. No interruptions. Just you, your favorite games and the freedom to experience the biggest week in gaming the way it was meant to be experienced. And because I believe in taking care of my people, I’ve made it official. Head over to DrXBOX.com to get your very own personalized doctor’s note, from the sunny shores of tropical Miami. That’s right. Your very own prescription for more gaming. Put it on your fridge. Show your boss. Send it to your group chat. Let the people know that Dr. XBOX has spoken. Now, before anybody asks, is this doctor’s note* medically certified? Let’s be clear. My degree from XBOX University may be unofficial, my medical credentials may be questionable, but one thing is undeniable: gaming is MAJOR. The diagnosis is in. The prescription is written. The only thing left to do is take the day off. *Doctor’s note is not real. XBOX is not responsible if your employer doesn’t have a sense of humor. Please game responsibly.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/DrXBOX_Hero-ff346cf4ed4093811e3f.jpg"
+        },
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/gta-6-promo-at-kfc-is-a-fake-funeral-so-you-can-take-the-day-off-to-play/",
+          "title": "GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play",
+          "published_at": "2026-11-16T13:42:12+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick/",
+          "title": "How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained",
+          "published_at": "2026-11-16T08:13:19+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 is a generational video game with an aura that is unparalleled. It has the gaming world in an iron grip right now, and it’s set to be the fastest-selling, most record-breaking game of all time. It drops on November 19th, but there’s a trick you can do to ensure you can play it as early as possible . If you’re trying to figure out how to do the New Zealand trick on XBOX to play GTA 6 early, you need to look no further than this guide . I’ve broken down the simple steps to follow to unlock GTA 6 early on XBOX with this account trick, and it only takes around 30 seconds to complete the guide. If you’re a PlayStation gamer, you need to head to the other guide that details how to do the New Zealand trick on PS5 . Heads up: it’s a lot tougher than doing it on XBOX, that’s for sure. But if you have an XBOX Series X or XBOX Series S console and you want to buy GTA 6 and play it early via the New Zealand method, you’re in the right place. Here are the steps required to play GTA 6 early on XBOX: That’s all you need to do. But in case you’re confused about timings , I’ve got you covered there as well… Here’s a helpful table that explains when the New Zealand trick will work on XBOX in your respective territory: Are you going to use the New Zealand trick to play GTA 6 earlier on XBOX? Let us know what you’ve got planned over on the Insider Gaming Discord server . For more Insider Gaming coverage, check out whether it’s better to buy the Ultimate Edition of GTA 6 . And for even more Insider Gaming delivered directly to your inbox, sign up for our newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Port_Gellhorn_03-scaled.jpg"
+        }
+      ]
+    },
+    {
       "story_id": "40b08345fc25cec2",
       "title": "Próxima semana em XBOX: novos jogos para 16 a 20 de novembro",
       "summary": "The post Próxima semana em XBOX: novos jogos para 16 a 20 de novembro appeared first on Xbox Wire em Português .",
@@ -74,7 +266,7 @@
           "title": "Xbox Game Pass recebe 5 novos jogos esta semana! Veja os lançamentos (14)",
           "published_at": "2026-11-14T18:15:00+00:00",
           "kind": "press",
-          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de cinco títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Disponível no lançamento no Xbox Game Pass, Warhammer Survivors é um jogo de ação no estilo bullet heaven, inspirado em Vampire Survivors . Com visual em pixel art, o game coloca os jogadores contra grandes hordas de inimigos, utilizando armas, habilidades e personagens inspirados no universo de Warhammer . Também disponível no lançamento no Xbox Game Pass, Tanuki: Pon’s Summer coloca os jogadores no controle de Pon, um guaxinim que precisa restaurar um santuário antes do Festival Tanuki. Para cumprir a missão, será necessário entregar encomendas de bicicleta, fazer amizades e ajudar os moradores em atividades como preparar sushi e participar de lutas de sumô. Outro game a compor o Game Pass no lançamento, Hope in the City é uma aventura de mistério protagonizada por Hope Song, uma jovem de 17 anos que descobre o desaparecimento dos pais ao voltar para casa. Durante a investigação, os jogadores precisam transformar desenhos em pistas e desvendar segredos cada vez mais misteriosos sobre a família da protagonista. Thronefall é um jogo de estratégia minimalista em que os jogadores precisam construir e administrar um reino durante o dia e protegê-lo de invasores durante a noite. Para sobreviver às ondas de inimigos, será necessário equilibrar a economia, fortalecer as defesas, recrutar soldados e participar diretamente dos combates. Por fim, em John Carpenter’s Toxic Commando , até quatro jogadores podem se unir em uma aventura cooperativa de ação e sobrevivência contra hordas de zumbis. Ambientado em um mundo tomado por criaturas, o game apresenta missões em cenários semiabertos e coloca os jogadores em uma jornada para tentar salvar a humanidade. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Hope in the City , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025 Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? 3 apps pagos e vários pacotes de ícones ficam grátis na Play Store por tempo limitado SQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs Home office: 60 vagas para trabalho remoto internacional [15/11]",
+          "text": "O Xbox Game Pass é um dos serviços de assinatura de games mais democráticos da atualidade, já que é possível acessá-lo de diferentes plataformas — incluindo os próprios, consoles da Microsoft, assim como no PC, nuvem, celulares, tablets e até Smart TVs Samsung e LG com modelos de 2022 para cá. Felizmente, seu catálogo também é atualizado quase que semanalmente, trazendo inúmeras opções para os assinantes aproveitarem — e o melhor de tudo: gastando pouco em comparação às novas tendências de preços da indústria. Se veio em busca de novos jogos para jogar através do Xbox Game Pass , está no lugar certo. O serviço ganhou um reforço de peso esta semana com a chegada de cinco títulos para os assinantes aproveitarem. Confira abaixo mais informações sobre as novas aventuras! Disponível no lançamento no Xbox Game Pass, Warhammer Survivors é um jogo de ação no estilo bullet heaven, inspirado em Vampire Survivors . Com visual em pixel art, o game coloca os jogadores contra grandes hordas de inimigos, utilizando armas, habilidades e personagens inspirados no universo de Warhammer . Também disponível no lançamento no Xbox Game Pass, Tanuki: Pon’s Summer coloca os jogadores no controle de Pon, um guaxinim que precisa restaurar um santuário antes do Festival Tanuki. Para cumprir a missão, será necessário entregar encomendas de bicicleta, fazer amizades e ajudar os moradores em atividades como preparar sushi e participar de lutas de sumô. Outro game a compor o Game Pass no lançamento, Hope in the City é uma aventura de mistério protagonizada por Hope Song, uma jovem de 17 anos que descobre o desaparecimento dos pais ao voltar para casa. Durante a investigação, os jogadores precisam transformar desenhos em pistas e desvendar segredos cada vez mais misteriosos sobre a família da protagonista. Thronefall é um jogo de estratégia minimalista em que os jogadores precisam construir e administrar um reino durante o dia e protegê-lo de invasores durante a noite. Para sobreviver às ondas de inimigos, será necessário equilibrar a economia, fortalecer as defesas, recrutar soldados e participar diretamente dos combates. Por fim, em John Carpenter’s Toxic Commando , até quatro jogadores podem se unir em uma aventura cooperativa de ação e sobrevivência contra hordas de zumbis. Ambientado em um mundo tomado por criaturas, o game apresenta missões em cenários semiabertos e coloca os jogadores em uma jornada para tentar salvar a humanidade. Curtiu as indicações para jogar no Xbox Game Pass? Vale a pena dar uma conferida em Hope in the City , hein? Jogue e conte pra gente o que achou nas redes sociais do VOXL ! SQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? PlayStation 5 e Switch 2 lideram vendas de tecnologia no 11.11 da Shopee Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história Empresa brasileira de IA policial entra em programa de segurança da OpenAI",
           "image": "https://www.estadao.com.br/resizer/v2/KWFRCY47Z5I37GTB4YRIWDRS6U.jpg?quality=80&auth=a25434098883a06e6282ffa876a46b775ee3d463d3f69387b327856997ce56b8&width=1200&height=630&focal=494,123"
         }
       ]
@@ -146,206 +338,116 @@
           "title": "GTA 6 e mais! Veja os lançamentos de games da semana",
           "published_at": "2026-11-15T22:30:00+00:00",
           "kind": "press",
-          "text": "TecMundo fará lives diárias de GTA 6 até a Black Friday! Veja como acompanhar Mais uma semana começa com a nossa lista de lançamentos, para te ajudar a se programar para os próximos dias. O grande destaque desta vez não poderia ser outro além de Grand Theft Auto VI , o novo jogo de mundo aberto da Rockstar Games ambientado em Vice City, que promete ser um dos títulos mais vendidos da história. Outro destaque é Spirit Crossing . O game cooperativo permite que você se junte a outros jogadores para povoar vilas, decorando casas e seus ambientes, em uma jogabilidade divertida e aconchegante. Confira a lista completa de lançamentos da semana e seus preços. Motocross The Game é um simulador de corrida que busca reproduzir a física do esporte sobre duas rodas. No game, a motocicleta e o piloto funcionam como corpos físicos separados, exigindo que o jogador controle a transferência de peso, o acelerador, a embreagem e a inclinação no ar para encarar diferentes tipos de terreno e pistas. O título chega em acesso antecipado para PC e conta com modos para um jogador e partidas multiplayer online em servidores dedicados. Além de permitir personalizar os equipamentos do piloto e os gráficos da moto, o game inclui assistências ajustáveis para iniciantes e rankings globais de contra-relógio. O jogo ainda não tem preço definido no Brasil. Spirit Crossing é um jogo multiplayer online desenvolvido pela Spry Fox, estúdio responsável por títulos como Cozy Grove . Ambientada na região conhecida como Crosslands, a experiência foca na cooperação entre jogadores para construir e decorar tanto casas próprias quanto espaços comunitários compartilhados pelo mapa. Durante a exploração, os jogadores interagem com habitantes locais, incluindo humanos, ursos falantes e espíritos. É preciso ajudá-los a resolver tarefas e acompanhar o desenvolvimento de suas histórias ao longo do tempo. O título aposta em uma abordagem voltada para a convivência e o progresso gradual, sem foco em combate. O game ainda não tem preço definido Depois de 13 anos de espera, GTA 6 será finalmente lançado. O novo jogo de ação e aventura em mundo aberto da Rockstar Games marca o retorno da franquia para o estado de Leonida e as ruas de Vice City. A história acompanha a dupla de protagonistas Lucia Caminos e Jason Duval em uma trama que envolve assaltos, perseguições e atividades criminosas pela região. Além de expandir a escala do mapa e a quantidade de atividades paralelas disponíveis para exploração, o título apresenta melhorias técnicas voltadas para os consoles da atual geração. O jogo já está em pré-venda a partir de R$ 449,90. E na sua opinião, qual o game mais esperado da semana? Conte para a gente nas redes sociais do Voxel! Megaspeed afirma que Alice Huang deixou a empresa em agosto de 2025 SQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? Novo Amazon Fire TV Stick com 40% de desconto Galaxy S26: até quanto vale a pena pagar na Black Friday?",
+          "text": "TecMundo fará lives diárias de GTA 6 até a Black Friday! Veja como acompanhar Mais uma semana começa com a nossa lista de lançamentos, para te ajudar a se programar para os próximos dias. O grande destaque desta vez não poderia ser outro além de Grand Theft Auto VI , o novo jogo de mundo aberto da Rockstar Games ambientado em Vice City, que promete ser um dos títulos mais vendidos da história. Outro destaque é Spirit Crossing . O game cooperativo permite que você se junte a outros jogadores para povoar vilas, decorando casas e seus ambientes, em uma jogabilidade divertida e aconchegante. Confira a lista completa de lançamentos da semana e seus preços. Motocross The Game é um simulador de corrida que busca reproduzir a física do esporte sobre duas rodas. No game, a motocicleta e o piloto funcionam como corpos físicos separados, exigindo que o jogador controle a transferência de peso, o acelerador, a embreagem e a inclinação no ar para encarar diferentes tipos de terreno e pistas. O título chega em acesso antecipado para PC e conta com modos para um jogador e partidas multiplayer online em servidores dedicados. Além de permitir personalizar os equipamentos do piloto e os gráficos da moto, o game inclui assistências ajustáveis para iniciantes e rankings globais de contra-relógio. O jogo ainda não tem preço definido no Brasil. Spirit Crossing é um jogo multiplayer online desenvolvido pela Spry Fox, estúdio responsável por títulos como Cozy Grove . Ambientada na região conhecida como Crosslands, a experiência foca na cooperação entre jogadores para construir e decorar tanto casas próprias quanto espaços comunitários compartilhados pelo mapa. Durante a exploração, os jogadores interagem com habitantes locais, incluindo humanos, ursos falantes e espíritos. É preciso ajudá-los a resolver tarefas e acompanhar o desenvolvimento de suas histórias ao longo do tempo. O título aposta em uma abordagem voltada para a convivência e o progresso gradual, sem foco em combate. O game ainda não tem preço definido Depois de 13 anos de espera, GTA 6 será finalmente lançado. O novo jogo de ação e aventura em mundo aberto da Rockstar Games marca o retorno da franquia para o estado de Leonida e as ruas de Vice City. A história acompanha a dupla de protagonistas Lucia Caminos e Jason Duval em uma trama que envolve assaltos, perseguições e atividades criminosas pela região. Além de expandir a escala do mapa e a quantidade de atividades paralelas disponíveis para exploração, o título apresenta melhorias técnicas voltadas para os consoles da atual geração. O jogo já está em pré-venda a partir de R$ 449,90. E na sua opinião, qual o game mais esperado da semana? Conte para a gente nas redes sociais do Voxel! SQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história Tudo que você precisa saber antes de comprar uma Air Fryer 3 apps pagos e vários pacotes de ícones ficam grátis na Play Store por tempo limitado",
           "image": "https://www.estadao.com.br/resizer/v2/FIE7AKJTPVETNCQNUHYJY6RDQM.jpg?quality=80&auth=5f66b7d76763fcc5942bfdb2353879ef7b7cc1f2a8a2cecbdfed9927b01c5ba6&width=1200&height=630&smart=true"
         }
       ]
     },
     {
-      "story_id": "c0809a514050c799",
-      "title": "Project Helix Is a Console First, Not a PC, XBOX Says",
-      "summary": "XBOX’s Jason Ronald says Project Helix is a console that plays PC games, not a PC that plays console games. Here’s more on the design goal. The post Project Helix Is a Console First, Not a PC, XBOX Says appeared first on Insider Gaming .",
+      "story_id": "1c4dd244c1f94ccd",
+      "title": "The Game Awards 2026 vai revelar seus indicados no dia 17 de novembro",
+      "summary": "Anúncio do The Game Awards também revela novas plataformas onde evento será transmitido",
       "owners": [
-        "insider-gaming",
-        "vgc"
+        "adrenaline",
+        "nzn"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "ae3660c5160ea433",
-        "f37bc4219f84e6b6",
-        "0597a4a4703d65de"
+        "320705f0f6bbdd13",
+        "aa325d9a329eecc5"
       ],
       "sources": [
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/xbox-project-helix-console-first-not-pc/",
-          "title": "Project Helix Is a Console First, Not a PC, XBOX Says",
-          "published_at": "2026-11-15T19:20:25+00:00",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/the-game-awards-2026-vai-revelar-seus-indicados-no-dia-17-de-novembro/",
+          "title": "The Game Awards 2026 vai revelar seus indicados no dia 17 de novembro",
+          "published_at": "2026-11-15T14:32:01+00:00",
           "kind": "press",
-          "text": "XBOX’s Jason Ronald says Project Helix is a console that plays PC games, not a PC that plays console games. Here’s more on the design goal. As XBOX celebrates 25 years since the original Microsoft console launched in 2001, attention is shifting to the next generation of XBOX hardware, code-named Project Helix. In Microsoft’s special 25 Years of Play magazine, VP of Next Generation Jason Ronald outlines the philosophy behind the next XBOX console. Courtesy of a breakdown of Destin’s article on YouTube, scanned quotes from Jason Rowland highlight the mindset behind the console. It has long been known that Helix was meant to bridge console and PC gaming, but XBOX is now clarifying that Helix will be console-first and can play users’ PC games—not the other way around. Specifically, XBOX singled out Generation Alpha as a target audience, noting that this generation has grown up with multiple touchscreen devices and is used to accessing everything across platforms. We’re very clear on the design goal: Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games. The goal is making it easy, intuitive, and instant to access my games. But if you’re a hardcore gamer or a power user who wants to have that deeper level of customizability across settings and performance options, you can absolutely go do it. I think player behaviors are fundamentally changing. Historically, people would define themselves: ‘I’m primarily a console gamer,’ or ‘I’m a PC gamer,’ or later, ‘I’m a mobile gamer, a handheld gamer.’ And now, the reality is that players expect their experiences to work across many different screens. When you think about Generation Alpha, those players grew up in a world with smartphones, touchscreens, multiple devices, and streaming services. So this idea that their content is locked to any one individual device is completely foreign to them; when you look at that generation, they apply those same expectations to games. Ronald also noted that the next generation will focus heavily on curated, creator-led game development. Today, we have mods or user-generated content. But I think the barriers of creation are going to come down; moving forward, we’re really going to move into [a world where] the players are going to have much more agency, and they’re going to have much more control over the experiences. They’ll create stories in these worlds, and they’ll share them with other players. And I think that’s just going to be a new way that people play. There is still no set release window for the next generation of XBOX hardware. However, rumors suggest XBOX could launch a new handheld in 2027, with the new console arriving in 2028. What are your thoughts on everything we’ve heard so far about this being the next generation of XBOX? Share your thoughts about this story and all others in our official Discord server. For more coverage on Insider Gaming, check out how long it will take to complete Grand Theft Auto 6. Don’t forget to sign up for our weekly newsletter , too. I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/XBOX-Project-Helix.jpg"
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/the-game-awards-2026-revela-indicados.jpg"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/xbox-game-preservation-project-helix/",
-          "title": "Game Preservation Is Core to XBOX Project Helix",
-          "published_at": "2026-11-15T21:53:00+00:00",
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/the-game-awards-2026-anunciara-indicados-antes-do-lancamento-de-gta-6-veja-onde-assistir/",
+          "title": "The Game Awards 2026 anunciará indicados antes do lançamento de GTA 6! Veja onde assistir",
+          "published_at": "2026-11-16T14:15:00+00:00",
           "kind": "press",
-          "text": "XBOX’s Jason Ronald says Project Helix has a core goal rooted in game preservation. Why? Because a shiny new console shouldn’t leave your old games behind. Game preservation is an increasingly important topic in the industry as the world moves toward an all-digital landscape. Nintendo and PlayStation have made certain classic games available through digital storefronts, but digital purchases raise ownership concerns, as PlayStation has made it clear in recent months that users are only renting a digital license that can be revoked at any time. XBOX is trying to combat this with a disc-to-digital system, and it now seems that game preservation will be a core element of their next console. In Microsoft’s special 25 Years of Play magazine, VP of Next Generation Jason Ronald explained why game preservation matters to XBOX and the deep responsibility they feel to keep the past three decades of video games available for years to come. Game preservation is core to XBOX. Not only do we feel like it’s the right thing for the industry, we feel a deep responsibility as one of its biggest platforms and publishers. For the first 30 years of game development, nobody really thought about game preservation when they were designing their hardware, when they were building their games. A great example of where that’s already starting to happen today came earlier this year. For the first time ever, I can now play original XBOX games on my PC and a handheld. When those games were originally designed, and when we designed the original XBOX, we never envisioned a future where that could actually be true. [Compatibility is] really informing how we design the platform and how we work with our partners to make sure that these games can not only be played, but they can also be played better than ever before in the future. Not only are we preserving those games from the past, but it’s actually informing how we’re designing and building the platform and games today – so that they can be preserved 20 years, 30 years in the future. It’s still unknown whether Project Helix will have a dedicated disc drive. However, XBOX is making it clear that although it intends to bridge the gap between PC and console gaming, Helix is a game console, not a PC What are your thoughts on everything we’ve heard so far about the next generation of XBOX? Share your thoughts about this story and all others in our official Discord server. For more Insider Gaming coverage, check out Nintendo’s recent efforts to preserve its history . Don’t forget to sign up for our weekly newsletter , too. I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/04/Xbox-Discord.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/xbox-says-project-helix-is-a-console-that-can-play-pc-games-not-a-pc-that-can-play-console-games/",
-          "title": "Xbox says Project Helix is a console that can play PC games, not a PC that can play console games",
-          "published_at": "2026-11-16T09:54:09+00:00",
-          "kind": "press",
-          "text": "A focus on neural rendering is also intended to offset constantly increasing costs Xbox has shared more information on its upcoming Project Helix, stressing that it sees the device as a console first and foremost. In an interview in a special in-house magazine designed to celebrate 25 years of Xbox , Jason Ronald â Xbox’s vice president of next generation â was asked about the vision behind project Helix. Ronald confirmed again that Helix would be able to play PC games , but stressed that it is designed to be a console with the ability to play PC games, rather than a PC which offers backwards compatibility to play old console games. “We’re very clear on the design goal,” Ronald said. “Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games. “The goal is making it easy, intuitive, and instant to access my games. But if you’re a hardcore gamer or a power user who wants to have that deeper level of customizability across settings and performance options, you can absolutely go do it.” He added: “When we think about Project Helix, it’s really designed to be the ultimate gaming machine â one that removes all the barriers of play that have historically existed. “My entire library is accessible to me. I’m able to bring four generations of my Xbox library and progression with me and have it available instantly. And we remove the arbitrary constraints between console and PC games.” Ronald explained that the console experience is one of the most important aspects of getting Helix right, saying: “When I think about what makes a console magical, it’s that it just makes my games instantly accessible and ready to play in an instant. “I don’t have to worry about updating my operating system, updating drivers, configuring different settings â things like that. The hardware and the experience is entirely designed around playing games.” Elsewhere in the interview, Ronald addressed the ongoing component crisis, explaining that Xbox was looking to techniques like neural rendering to produce better performance while trying to keep costs as low as possible. “It’s definitely a challenging time, but as a system and a platform designer, it’s also one of the most exciting times, because we have to invent entirely new technology to continue to advance the state-of-the-art while also continuing to make things accessible and affordable,” he explained. “This is a big reason why we’re really focused on advancements like neural rendering, because it’s an entirely new way to generate a frame without requiring more computational horsepower, additional memory, and things like that. I think you’re going to see more innovation over the next three to five years than you’ve seen in the last 10 years.” While the term ‘neural rendering’ has seen headlines in recent months due to the controversial feature introduced with Nvidia ‘s DLSS 5 which changes the appearance of in-game characters, the term can also be used to cover other forms of post-processing such as upscaling, frame generation or ray tracing.",
-          "image": "https://www.videogameschronicle.com/files/2026/03/HCq_qMNa4AANvrQ.jpg"
+          "text": "O The Game Awards 2026 revelará os indicados de todas as categorias, incluindo Jogo do Ano, na próxima terça (17), em uma transmissão especial ao vivo. O anúncio será feito apenas dois dias antes do lançamento de GTA 6 , um dos jogos mais aguardados de todos os tempos e também um potencial concorrente de peso na cerimônia. Apresentada por Geoff Keighley, a transmissão começará às 14h (horário de Brasília) e poderá ser acompanhada pelo YouTube e pela Twitch. Após a revelação, o público também poderá conferir a lista completa de indicados e votar nos favoritos pelo site oficial do evento. Em entrevista à Variety , Geoff Keighley comentou sobre a expectativa em torno da participação de GTA 6 no The Game Awards 2026. Como as indicações ainda não foram divulgadas, o produtor afirmou que não sabe exatamente qual será o espaço ocupado pelo jogo na premiação. “Cada ano é diferente no evento”, explicou Keighley, lembrando que Clair Obscur: Expedition 33 teve grande destaque na edição anterior, conquistando diversos prêmios. Segundo ele, a organização busca manter um equilíbrio entre os diferentes jogos reconhecidos pela indústria. O apresentador também destacou que GTA 6 deve ser um dos grandes acontecimentos culturais do ano, não apenas para os videogames, mas para o entretenimento em geral. “Tenho certeza de que GTA terá um papel importante na premiação, precisa ter, e o que a Rockstar preparou é incrível e algo a ser celebrado”, declarou. Apesar disso, Keighley ressaltou que existem diversas categorias nas quais GTA 6 não poderá concorrer, como as voltadas a jogos independentes. Ele também lembrou que metade da cerimônia é dedicada a anúncios e novidades sobre o futuro da indústria, que vão além do jogo da Rockstar. A lista de indicados será definida por um júri internacional formado por veículos de imprensa e publicações especializadas em games — incluindo o VOXL . A cerimônia principal acontecerá em 10 de dezembro, no Peacock Theater, em Los Angeles, com entrega de prêmios, anúncios inéditos e apresentações musicais. A transmissão do The Game Awards 2026 estará disponível em diversas plataformas oficiais. Entre as novidades deste ano estão as estreias do Disney+, Roblox e da transmissão pela Live TV no PS5 — serviço que não está disponível no Brasil. “Estamos muito, muito animados este ano por termos vários novos parceiros importantes”, afirmou Keighley. Segundo o produtor, a proposta é disponibilizar a cerimônia no maior número possível de plataformas para alcançar jogadores em diferentes regiões e dispositivos. E você, está ansioso para conhecer os concorrentes ao prêmio de Jogo do Ano? Comente nas redes sociais do VOXL se gostaria de ver GTA 6 dominando a edição de 2026! SQD‑Mini LED: a tecnologia que inaugura uma nova era na imagem das TVs Aviões em terra, apagão da Microsoft e caos no Vale do Silício: tudo está quebrando? PlayStation 5 e Switch 2 lideram vendas de tecnologia no 11.11 da Shopee Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história Empresa brasileira de IA policial entra em programa de segurança da OpenAI",
+          "image": "https://www.estadao.com.br/resizer/v2/WEL7XWWCJFAZDMRUR4BLADXKRQ.jpg?quality=80&auth=670b0cc071d92c0d5e2f28cd46befa7af3c2b476e61e7e288aac5024ef5f83f6&width=1200&height=630&focal=1412,588"
         }
       ]
     },
     {
-      "story_id": "986fc4326731d8d2",
-      "title": "Rivals of Aether II adds Burnette on December 1",
-      "summary": "Platform fighting game Rivals of Aether II will add Burnette, “The Scorched Shield,” as its …",
+      "story_id": "e11e50c8a0e93938",
+      "title": "Dragon Ball FighterZ balance update announced",
+      "summary": "Publisher Bandai Namco and developer Arc System Works will release a new balance update for …",
       "owners": [
-        "gameblast",
-        "gematsu"
+        "gematsu",
+        "meups"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "a2ade472a8bb0dfe",
-        "ede8bf9d05f35449"
+        "5f6689c31cef3c6b",
+        "deb2896150be443e"
       ],
       "sources": [
         {
           "name": "Gematsu",
           "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/rivals-of-aether-ii-adds-burnette-on-december-1",
-          "title": "Rivals of Aether II adds Burnette on December 1",
-          "published_at": "2026-11-15T21:00:31+00:00",
+          "url": "https://www.gematsu.com/2026/11/dragon-ball-fighterz-balance-update-announced",
+          "title": "Dragon Ball FighterZ balance update announced",
+          "published_at": "2026-11-15T15:15:02+00:00",
           "kind": "press",
-          "text": "Platform fighting game Rivals of Aether II will add Burnette, “The Scorched Shield,” as its next free additional character update on December 1, developer Aether Studios announced . Voiced by Hololive Virtual YouTuber Elizabeth Rose Bloodflame , Burnette is the eighth free character update since the game’s launch. The patch will also introduce a new in-game event, a new ranked season, cosmetics, and more. Rivals of Aether II is available now for PC via Steam .",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/RoA2-Burnette_11-15-26.jpg"
+          "text": "Publisher Bandai Namco and developer Arc System Works will release a new balance update for Dragon Ball FighterZ , the companies announced. Further details, including a release date, was not announced. Dragon Ball FighterZ is available now for PlayStation 5 , Xbox Series , PlayStation 4 , Xbox One , Switch , and PC via Steam .",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Dragon-Ball-FighterZ-Update_11-15-26.jpg"
         },
         {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/rivals-of-aether-ii-jogo-luta-recebera-burnette-1-dezembro.html",
-          "title": "Rivals of Aether II, jogo de luta, receberá Burnette em 1 de dezembro",
-          "published_at": "2026-11-16T08:34:43+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/dragon-ball-fighterz-atualizacao-balanceamento/",
+          "title": "Dragon Ball FighterZ terá atualização de balanceamento, anuncia Bandai Namco",
+          "published_at": "2026-11-16T14:03:47+00:00",
           "kind": "press",
-          "text": "Além da personagem, novo evento, temporada ranqueada, cosméticos e outros recursos serão adicionados.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrk4F39ssvGyBfW3qr4QO-o-MUzzl9XLJ4sf5UksWabP29u_2V_wHmjFXXZlBQRJcM60GPM3ZtFdKqRUjUpgrGBFm6wqm3AXlyAqyTjSVKzgpQLchod0ck9NBpt32IjZV9GFx8g5PU9lhrPB8SKsylIxmigovLP2qto_3N95SpDoOU_JN5XBV31P15sgg/w1200-h630-p-k-no-nu/rivals_of_aether_ii_jogo_luta_recebera_burnette_1_dezembro.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "c54aa189d16f8fac",
-      "title": "XBOX Playback chegou: reviva sua história com XBOX",
-      "summary": "The post XBOX Playback chegou: reviva sua história com XBOX appeared first on Xbox Wire em Português .",
-      "owners": [
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "620e78e668031e1e"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/12/xbox-playback-chegou-reviva-sua-historia-com-xbox/",
-          "title": "XBOX Playback chegou: reviva sua história com XBOX",
-          "published_at": "2026-11-12T16:18:50+00:00",
-          "kind": "primary",
-          "text": "A partir de hoje, o XBOX Playback reúne os destaques do seu histórico disponível em XBOX, de todas as gerações, em uma experiência personalizada. Pela primeira vez, você pode relembrar e reviver o papel que teve na história de XBOX. Veja quando sua jornada começou, revisite os jogos aos quais você mais dedicou tempo e redescubra conquistas e momentos ao longo do caminho. Seu Playback inclui seu primeiro jogo de XBOX, o tempo total de jogo, o game que você mais jogou, seus anos de maior atividade, sua maior sequência de dias jogando e muito mais. Como não há dois jogadores iguais, cada pessoa terá um Playback diferente. Seja você um veterano que começou a jogar com um controle Duke ou alguém que ligou seu primeiro console neste ano, uma história personalizada estará esperando por você. A partir de hoje, você pode assistir ao seu Playback diretamente no console (procure a opção no painel) ou assistir ao seu vídeo personalizado na web, entrando com sua conta XBOX aqui . Quer se aprofundar um pouco mais? Acesse seu Arquivo do Playback na web para explorar mais do seu histórico disponível. Relembre alguns dos seus primeiros marcos, suas maiores conquistas e muito mais. O XBOX Playback será disponibilizado gradualmente ao longo do dia, então não se preocupe se ele não aparecer de imediato. Depois de assistir ao seu Playback, escaneie o QR code no final do vídeo no console ou selecione “compartilhar” na web para receber seu cartão personalizado do Playback. Compartilhe com amigos ou publique nas redes sociais com a hashtag #XBOXPlayback. O XBOX Playback reúne anos de história de XBOX de uma maneira totalmente nova. Esperamos que o Playback desperte algumas lembranças, surpreenda você ou traga à memória um jogo em que você não pensava há algum tempo. O Playback se baseia nos dados disponíveis da sua conta, por isso algumas partes do seu histórico podem estar incompletas ou demorar para aparecer. O Playback está disponível em 15 países* ( incluindo o Brasil ) a partir de hoje até 31 de dezembro de 2026. Seja você alguém que joga com a gente desde o início ou que está apenas começando, obrigado por fazer parte de XBOX. *Disponível até 31 de dezembro de 2026 na Argentina, Austrália, Brasil, Canadá, Colômbia, França, Alemanha, Hungria, Itália, México, Polônia, África do Sul, Espanha, Reino Unido e Estados Unidos. Requer pelo menos 1 ponto de Gamerscore (pontuação do jogador) em XBOX, 1 Conquista e 1 minuto de jogo válido vinculados ao seu perfil XBOX; o acesso pelo console requer pelo menos 1 minuto de jogo válido no console. Baseado nos dados disponíveis; alguns dados podem estar incompletos ou apresentar atrasos.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/XBOX-Wire-Playback-Logo-1-431a9b50384ec62fcd33-ca8616a3dddea271d63d.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "217e7c1128eabd2a",
-      "title": "Dias para Jogar de Graça: Sumerian Six, Hypnospace Outlaw, Sunderfolk e mais",
-      "summary": "The post Dias para Jogar de Graça: Sumerian Six, Hypnospace Outlaw, Sunderfolk e mais appeared first on Xbox Wire em Português .",
-      "owners": [
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "197328c89a411b74"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/12/dias-para-jogar-de-graca-sumerian-six-hypnospace-outlaw-sunderfolk-e-mais/",
-          "title": "Dias para Jogar de Graça: Sumerian Six, Hypnospace Outlaw, Sunderfolk e mais",
-          "published_at": "2026-11-12T16:31:12+00:00",
-          "kind": "primary",
-          "text": "Ouse jogar de um jeito diferente com os Dias para Jogar de Graça! Sumerian Six , Hypnospace Outlaw , Sunderfolk e STUFFED estão disponíveis neste fim de semana para assinantes do XBOX Game Pass Ultimate, Premium e Essential jogarem de quinta-feira, 12 de novembro, até domingo, 15 de novembro. Vá até as páginas de cada jogo em XBOX.com . Ao clicar, você será enviado para a Microsoft Store, onde você deve estar conectado para ver a opção de instalação com sua assinatura XBOX. Para fazer o download no console, clique na guia “assinaturas” na página inicial da XBOX Store para jogos e navegue até a coleção “Dias Para Jogar de Graça”. Compre os jogos e outras edições com um desconto por tempo limitado e continue jogando mantendo seu Gamerscore e Conquistas durante o evento! Observe que os descontos, porcentagens e disponibilidade de títulos podem variar de acordo com o título e a região. Dias para Jogar de Graça (necessário Game Pass) Lidere uma equipe improvável de cientistas de elite por trás das linhas inimigas para combater nazistas, desvendar mistérios arcanos e usar tecnologia experimental para mudar o rumo da Segunda Guerra Mundial nesta aventura de ação furtiva e tática em tempo real. Juntos, vocês buscam frustrar os planos sinistros do ex-integrante Hans Kammler, que envolvem uma poderosa substância mística chamada Geiststoff. Experimente Hypnospace Outlaw DE GRAÇA neste fim de semana como parte dos Dias para Jogar de Graça de XBOX e adquira o jogo completo com 75% DE DESCONTO! Hypnospace Outlaw é um simulador da internet dos anos 90 no qual você vasculha uma grande variedade de sites estranhos e incríveis do Hypnospace em busca de infratores, enquanto fica de olho na sua caixa de entrada, evita vírus e adware e baixa uma infinidade de aplicativos que podem ou não ser úteis. Redescubra a noite de jogos com Sunderfolk , um RPG tático cooperativo criado para reunir as pessoas. Embarque em uma aventura compartilhada em que seu celular se transforma em guia, controle* e ficha de personagem. Uma única cópia é tudo de que você precisa para o grupo inteiro jogar! Seja no sofá, em diferentes partes do mundo ou com todo mundo reunido em volta de um notebook, o grupo é seu, o plano é seu e a história é sua para contar. *É necessário usar o aplicativo gratuito para dispositivos móveis para jogar. Um jogo de tiro em primeira pessoa com geração procedural que se passa nos sonhos de uma garotinha. Defenda a porta do quarto da sua dona e enfrente uma variedade de pesadelos em ondas intermináveis. Ganhe pontos ao derrotar pesadelos e use-os para desbloquear novas áreas do mapa e armas. Jogue solo ou junte-se aos seus amigos no modo cooperativo online para até quatro jogadores. Não perca estes emocionantes jogos do Dias para Jogar de Graça para assinantes do XBOX Game Pass! Saiba mais sobre os Dias para Jogar de Graça aqui e fique ligado no XBOX Wire para saber mais sobre todas as últimas notícias sobre jogos de XBOX.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/FY26-Social-FPD_11-12-26_1920x1080-47be720494969a24e64c.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "0d56e332203adc57",
-      "title": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
-      "summary": "The post Fable – New Quest Gameplay for XBOX’s 25th Anniversary appeared first on XBOX Wire .",
-      "owners": [
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "534d83d363b2be95",
-        "226cba8c064e07a6"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/12/fable-new-quest-gameplay-for-xboxs-25th-anniversary/",
-          "title": "Fable – New Quest Gameplay for XBOX’s 25th Anniversary",
-          "published_at": "2026-11-12T19:00:00+00:00",
-          "kind": "primary",
           "text": "",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FABLE_Quest_Gameplay_Thumbnail-4c1fa52ad9c7121409ed.jpg"
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Dragon-Ball-FighterZ.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "9869fa308d00c1ef",
+      "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+      "summary": "EA has added a \"don't delete\" pop-up message to Madden NFL 27, and players can't help but feel the company is begging them not to make room for Grand Theft Auto 6.",
+      "owners": [
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "1581f80f7b66c45d",
+        "bf8807ee1e4f517e"
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/ea-adds-dont-delete-message-to-madden-nfl-27-in-bid-to-keep-players-from-making-room-ahead-of-gta-6",
+          "title": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+          "published_at": "2026-11-15T17:22:20+00:00",
+          "kind": "press",
+          "text": "EA has added a \"don't delete\" pop-up message to Madden NFL 27 , and players can't help but feel the company is begging them not to make room for Grand Theft Auto 6 . Reports of the new in-game notice began cropping up over the weekend, with CharlieIntel relaying their findings online. EA doesn't explicitly mention GTA 6 in the new message, but considering the pop-up features some familiar pink-and-purple colors and sun-kissed palm trees, it's pretty easy to put two and two together. The message encourages Madden NFL 27 users to refrain from uninstalling the game from their devices, promising that those who stick around can look forward to a new update coming Tuesday, November 17. It's a bit beside the point, but we should also mention that, at least based on early screenshots, EA's message includes a typo, writing \"awating signal\" instead of \"awaiting signal.\" Newer posts suggest it was fixed pretty quickly. Whoops! EA has added a 'Don't Delete!' message to EA Madden NFL 27 ahead of Grand Theft Auto VI's launch The in-game ad says there's an update on Nov 17 for the title, before GTA VI https://t.co/P00NPUVveK \"Don't Delete!\" the Madden pop-up says. \"[ENCRYPTED SIGNAL] The target is locked. The crew is assembling for a high-stakes run. Await the signal from our insider on 11/17… do not leak this transmission!\" There's just no getting around it; the next week is going to be very, very weird for the gaming industry. GTA 6, a decade-in-the-making video game said to bring the biggest launch of all time , has mostly seen every other game clear the calendar just to make room for it. The atmosphere surrounding Rockstar Games' latest is something to behold, and with millions of players still turning up for live-service titles, one can wonder if any of their developers are worried about GTA 6 taking a chunk of their attention. That at least seems to be the case for EA and Madden NFL 27. If a Vice City-themed pop-up in this year's annual football game release wasn't enough to convince you, its official X/Twitter account actually recently doubled down. A November 10 post promoting a November 18 update referenced GTA 6's massive file size by saying, \"Don't let 210GB get between you and Your League.\" It all seems in good fun, but fans say they can't help but feel like EA is doing everything in its power to keep players interested. Some even say it feels like the company is begging them to stay. When one Reddit user asked what the message was related to, one user replied , \"It means that EA is terrified of GTA VI's launch.\" Another said it felt like the pop-up was the publisher's way of saying, \"'PLEASE DON'T DELETE MADDEN TO CLEAR SPACE FOR GTA. PLEASE PLEASE PLEASE!'\" \"EA begging us not to delete Madden is so funny,\" one X user said . \"Respectfully I might never play your game again after GTA comes out,\" another added . @EAMaddenNFL Mf thinks we’re gonna be on Madden 😭✌️ https://t.co/q4YY8i7IGw @EAMaddenNFL Just deleted madden to create more space for my GTA6 https://t.co/qLUsaG9604 Madden NFL 27 launched for PC, Nintendo Switch 2, PlayStation 5, and Xbox Series X/S August 13, 2026. GTA 6 launches for PS5 and Xbox Series X/S November 19, this week . For more on Rockstar's new game, you can read about the official album's leaked track list . For more on Madden, you can read about the open-world football game EA is cooking up behind the scenes . Michael Cripe is a freelance writer with IGN. He's best known for his work at sites like The Pitch, The Escapist, and OnlySP. Be sure to give him a follow on Bluesky (@mikecripe.bsky.social) and Twitter (@MikeCripe).",
+          "image": "https://assets-prd.ignimgs.com/2026/11/15/madden-nfl-27-1794762344457.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/15/xbox-25th-anniversary-the-magazine/",
-          "title": "XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories",
-          "published_at": "2026-11-15T17:01:00+00:00",
-          "kind": "primary",
-          "text": "The 25th Anniversary of XBOX has given fans much to celebrate: the milestones, the memories , and a whole slate of fun news for our players. We know that many of our longtime fans first learned about the original XBOX by reading about it in a magazine back in the day. For you, we created XBOX – The 25th Anniversary Magazine, a special publication designed not only to look back at 25 years of play, but also to celebrate the present and future of XBOX. We printed copies to share with community members at XBOX FanFest in Seattle this past week, and today, it’s available for all to read right here: Protip: you can go full screen for easier reading by clicking the arrows in the lower right of the player. The magazine explores games, hardware, and moments, past and present, told through the teams who are building them. You’ll revisit memories from your favorite franchises, learn some lore about XBOX’s storied history, and read new details about games that haven’t yet released; want to know more about Fable’s capital city of Bowerstone? Turn to page 38! We hope you enjoy this decidedly analog celebration of the last quarter century and a first look at what’s ahead. XBOX’s story has always been written alongside our players. Thanks for reading, and for being part of what comes next.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_Magazine_mockup_perspective-37cf15975daed19bb5dd.png"
-        }
-      ]
-    },
-    {
-      "story_id": "ec593b1e26cf9156",
-      "title": "Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16",
-      "summary": "The post Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16 appeared first on XBOX Wire .",
-      "owners": [
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "7537c742536607da"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/12/slaughter-mode-arrives-to-doom-the-dark-ages-revelations-on-november-16/",
-          "title": "Slaughter Mode Arrives to DOOM: The Dark Ages | Revelations on November 16",
-          "published_at": "2026-11-12T20:00:00+00:00",
-          "kind": "primary",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/ea-implora-nao-desinstale-madden-nfl-por-gta-vi/",
+          "title": "EA implora: não desinstale Madden NFL por causa dos 212 GB de GTA VI",
+          "published_at": "2026-11-16T12:05:03+00:00",
+          "kind": "press",
           "text": "",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Slaughtermode_Red_Band-6dd39a71103b0e785277.jpg"
+          "image": "https://meups.com.br/wp-content/uploads/2020/03/MeuPlayStation.jpg"
         }
       ]
     }
