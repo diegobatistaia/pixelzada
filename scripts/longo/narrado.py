@@ -21,6 +21,7 @@ import re
 import shutil
 import subprocess
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -147,7 +148,16 @@ def commons(consulta: str, pasta: Path, n: int = 0) -> Path:
          "gsrsearch": f"{consulta} filetype:bitmap", "gsrlimit": "20", "prop": "imageinfo",
          "iiprop": "url|size|extmetadata|mime", "iiurlwidth": "2200"}
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(q)
-    d = json.loads(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40).read())
+    import time
+    for tent in range(5):  # o Commons devolve 429 se pedir rápido demais
+        try:
+            time.sleep(1.5)
+            d = json.loads(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40).read())
+            break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or tent == 4:
+                raise
+            time.sleep(8 * (tent + 1))
     paginas = sorted((d.get("query") or {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
     bons = []
     for p in paginas:
@@ -269,7 +279,7 @@ def arte_mapa(destaque: str | None, todas: bool = True) -> Image.Image:
         d.line([(x, 0), (x, H)], fill=(255, 255, 255, 10))
     for y in range(0, H, 60):
         d.line([(0, y), (W, y)], fill=(255, 255, 255, 10))
-    caixa = (540, 55, 148)
+    caixa = (560, 28, 140)
     polis = contorno_florida()
     brilho = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     bd = ImageDraw.Draw(brilho)

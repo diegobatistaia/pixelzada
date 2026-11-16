@@ -6,11 +6,11 @@
  "capa": {"imagem": "k4ak9okk485712", "linhas": [["LEONIDA", 150], ["É A FLÓRIDA", 104]], "etiqueta": "O MAPA DE GTA 6 EXPLICADO"},
  "cenas": [
   {"id": "gancho", "planos": [
-     {"v": "t:22"}, {"v": "o:Vice_City_15", "f": 1}, {"v": "t:52", "f": 2}, {"v": "m:todas", "f": 3}, {"v": "r:Miami Beach aerial", "f": 4}],
+     {"v": "t:25.7"}, {"v": "o:Vice_City_15", "f": 1}, {"v": "t:55.7", "f": 2}, {"v": "m:todas", "f": 3}, {"v": "r:Miami Beach aerial", "f": 4}],
    "destaques": [{"t": "19 de novembro", "s": "PS5 e Xbox Series X|S", "f": 1, "cor": "laranja"},
                  {"t": "Leonida = Flórida", "f": 3, "pos": "centro", "tam": 170, "dur": 2.6}]},
   {"id": "abertura", "capitulo": "Abertura", "planos": [
-     {"v": "o:Jason_Lucia_Rooftop"}, {"v": "t:7.5", "f": 1}, {"v": "o:k4ak9okk485712"}, {"v": "c:Pixelzada|O mapa de GTA 6 explicado", "f": 3}]},
+     {"v": "o:Jason_Lucia_Rooftop"}, {"v": "t:11.2", "f": 1}, {"v": "o:k4ak9okk485712"}, {"v": "c:Pixelzada|O mapa de GTA 6 explicado", "f": 3}]},
   {"id": "vice-city-volta", "capitulo": "Vice City está de volta", "planos": [
      {"v": "r:Ocean Drive Miami Beach night neon"}, {"v": "c:2002|GTA Vice City, anos 80", "f": 2}, {"v": "o:VINTAGE_VICE_CITY_PACK_01", "f": 3},
      {"v": "o:Vice_City_27", "f": 4}, {"v": "o:Vice_City_24", "f": 5}],
@@ -24,18 +24,18 @@
      {"v": "m:gellhorn", "f": 4}, {"v": "m:ambrosia", "f": 5}, {"v": "m:kalaga", "f": 6}, {"v": "m:todas", "f": 7}],
    "destaques": [{"t": "6 regiões", "f": 0, "pos": "centro", "tam": 170, "dur": 2.4, "cor": "laranja"}]},
   {"id": "vice-city", "capitulo": "Vice City = Miami", "planos": [
-     {"v": "o:Vice_City_26"}, {"v": "t:52", "f": 1}, {"v": "r:Art Deco Historic District Miami Beach", "f": 2},
-     {"v": "r:Colony Hotel Miami Beach night", "f": 2}, {"v": "t:44", "f": 3}, {"v": "o:Vice_City_13", "f": 3}],
+     {"v": "o:Vice_City_26"}, {"v": "t:55.7", "f": 1}, {"v": "r:Art Deco Historic District Miami Beach", "f": 2},
+     {"v": "r:Colony Hotel Miami Beach night", "f": 2}, {"v": "t:47.7", "f": 3}, {"v": "o:Vice_City_13", "f": 3}],
    "destaques": [{"t": "Vice City", "s": "Miami na vida real", "f": 0, "cor": "rosa"},
                  {"t": "Vice Beach", "s": "Miami Beach", "f": 1, "cor": "laranja", "atraso": 1.0},
                  {"t": "+800 prédios", "s": "art déco em Miami Beach", "f": 2, "cor": "ciano", "atraso": 1.8}]},
   {"id": "vice-city-2", "planos": [
-     {"v": "t:7.5"}, {"v": "r:PortMiami cruise ships", "f": 1}, {"v": "o:Vice_City_15", "f": 1}, {"v": "t:14.8", "f": 2},
+     {"v": "t:11.2"}, {"v": "r:PortMiami cruise ships", "f": 1}, {"v": "o:Vice_City_15", "f": 1}, {"v": "t:18.5", "f": 2},
      {"v": "o:desktop.0iky3x6", "f": 3}],
    "destaques": [{"t": "Capital mundial dos cruzeiros", "f": 1, "cor": "ciano", "tam": 110}]},
   {"id": "keys", "capitulo": "Leonida Keys = Florida Keys", "planos": [
      {"v": "m:keys"}, {"v": "r:Seven Mile Bridge Florida Keys aerial", "f": 1}, {"v": "r:Overseas Highway Florida Keys", "f": 2},
-     {"v": "o:Leonida_Keys_07", "f": 3}, {"v": "t:0", "f": 4}, {"v": "t:29.6", "f": 4}],
+     {"v": "o:Leonida_Keys_07", "f": 3}, {"v": "t:3.7", "f": 4}, {"v": "t:33.3", "f": 4}],
    "destaques": [{"t": "Leonida Keys", "s": "Florida Keys na vida real", "f": 0, "cor": "rosa"},
                  {"t": "42 pontes", "s": "Overseas Highway", "f": 1, "cor": "laranja", "atraso": 2.5},
                  {"t": "11 km", "s": "Seven Mile Bridge", "f": 2, "cor": "ciano"}]},
@@ -50,7 +50,7 @@
    "destaques": [{"t": "Port Gellhorn", "s": "costa do Golfo", "f": 0, "cor": "rosa"},
                  {"t": "Panhandle", "s": "norte da costa do Golfo", "f": 3, "cor": "ciano", "atraso": 2.0}]},
   {"id": "ambrosia", "capitulo": "Ambrosia = interior", "planos": [
-     {"v": "m:ambrosia"}, {"v": "r:sugar mill Clewiston", "f": 1}, {"v": "r:Clewiston Florida", "f": 3},
+     {"v": "m:ambrosia"}, {"v": "r:sugarcane burning Florida", "f": 1}, {"v": "r:Lake Okeechobee Clewiston", "f": 3},
      {"v": "r:sugarcane field Florida", "f": 3}, {"v": "o:Jason_Duval_18", "f": 4}],
    "destaques": [{"t": "Ambrosia", "s": "o interior industrial", "f": 0, "cor": "rosa"},
                  {"t": "Clewiston", "s": "\"a cidade mais doce dos EUA\"", "f": 3, "cor": "laranja", "atraso": 1.0}]},
@@ -70,15 +70,15 @@
    "destaques": [{"t": "Grotti Cheetah", "s": "superesportivo clássico", "f": 2, "cor": "laranja"},
                  {"t": "Vapid Stanier", "s": "viatura e táxi", "f": 3, "cor": "ciano"}]},
   {"id": "personagens", "capitulo": "Jason e Lucia", "planos": [
-     {"v": "o:Jason_Lucia_Lock_And_Load"}, {"v": "t:37", "f": 1}, {"v": "o:Jason_and_Lucia_17", "f": 1},
+     {"v": "o:Jason_Lucia_Lock_And_Load"}, {"v": "t:40.7", "f": 1}, {"v": "o:Jason_and_Lucia_17", "f": 1},
      {"v": "o:Lucia_Caminos_13", "f": 2}, {"v": "o:Jason_and_Lucia_19", "f": 2}],
    "destaques": [{"t": "Jason e Lucia", "s": "os protagonistas", "f": 0, "cor": "rosa"},
                  {"t": "\"O lado mais sombrio do lugar mais ensolarado\"", "f": 1, "pos": "centro", "tam": 88, "cor": "laranja", "atraso": 3.0, "dur": 4.2}]},
   {"id": "nao-anunciado", "capitulo": "O que ainda não foi confirmado", "planos": [
-     {"v": "c:Ainda sem confirmação|tamanho do mapa"}, {"v": "m:todas", "f": 1}, {"v": "t:67", "f": 2}, {"v": "o:Vice_City_26", "f": 3}],
+     {"v": "c:Ainda sem confirmação|tamanho do mapa"}, {"v": "m:todas", "f": 1}, {"v": "t:70.7", "f": 2}, {"v": "o:Vice_City_26", "f": 3}],
    "destaques": [{"t": "???", "s": "tamanho oficial do mapa", "f": 2, "cor": "lima", "pos": "centro", "tam": 200}]},
   {"id": "fechamento", "capitulo": "Quarta-feira tem GTA 6", "planos": [
-     {"v": "p:0"}, {"v": "o:GTAVI_Pre_Load", "f": 1}, {"v": "t:81", "f": 2}, {"v": "c:Inscreva-se|e comente: qual região primeiro?", "f": 3}],
+     {"v": "p:0"}, {"v": "o:GTAVI_Pre_Load", "f": 1}, {"v": "t:84.7", "f": 2}, {"v": "c:Inscreva-se|e comente: qual região primeiro?", "f": 3}],
    "destaques": [{"t": "Quarta, 8h", "s": "horário de Brasília (Nova Zelândia)", "f": 1, "cor": "laranja", "atraso": 1.0}]}
  ]
 }

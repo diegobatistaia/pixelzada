@@ -219,6 +219,14 @@ def voz_gemini(texto: str, saida: Path) -> str:
                     continue
                 erros.append(f"{modelo}: HTTP {e.code} {corpo[:200]}")
                 break
+            except (KeyError, IndexError, TypeError) as e:
+                # resposta sem áudio (acontece de vez em quando): tenta de novo no mesmo modelo
+                if tentativa < 5:
+                    print(f"    Google devolveu resposta sem áudio ({e}); tentando de novo")
+                    time.sleep(4 + 3 * tentativa)
+                    continue
+                erros.append(f"{modelo}: sem áudio {e}")
+                break
             except Exception as e:  # noqa: BLE001
                 erros.append(f"{modelo}: {e}")
                 break
