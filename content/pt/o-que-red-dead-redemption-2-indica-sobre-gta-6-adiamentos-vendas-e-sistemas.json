@@ -124,9 +124,10 @@
   ],
   "image": {
     "query": "Red Dead Redemption 2",
-    "alt": "Capa oficial de Red Dead Redemption 2 no site da Rockstar Games",
+    "alt": "Arte em pixel art da Pixelzada, no tema GTA 6, para a matéria: O que Red Dead Redemption 2 indica sobre GTA 6: adiamentos, vendas e sistemas que voltam",
     "url": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/640/reddeadredemption2.jpg",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Arte: Pixelzada",
+    "path": "/assets/img/o-que-red-dead-redemption-2-indica-sobre-ad65ff47.jpg"
   },
   "sources": [
     {
@@ -244,5 +245,7 @@
       "title": "GTA 6 story draws inspiration from Red Dead Redemption 2 rather than GTA 5, Bloomberg reporter claims"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-16T18:41:58+00:00",
+  "updated_at": "2026-11-16T18:41:58+00:00"
 }

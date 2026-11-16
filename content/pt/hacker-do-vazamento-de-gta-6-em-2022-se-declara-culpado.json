@@ -17,7 +17,10 @@
     "query": "GTA 6 Jason e Lucia",
     "alt": "Jason e Lucia em imagem oficial de GTA 6",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_lock_and_load_landscape.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/hacker-do-vazamento-de-gta-6-em-2022-se--d3bbbc69.jpg",
+    "source_url": "",
+    "foco": "32% 16%"
   },
   "sources": [
     {
@@ -39,7 +42,7 @@
       "title": "GTA 6 leak hacker Arion Kurtaj pleads guilty"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -126,5 +129,7 @@
       "items": []
     }
   ],
-  "meta_description": "Arion Kurtaj, hacker do vazamento de GTA 6 em 2022, se declarou culpado em Londres. Veja o que ele admitiu, o caso do hospital e quando sai a sentença."
+  "meta_description": "Arion Kurtaj, hacker do vazamento de GTA 6 em 2022, se declarou culpado em Londres. Veja o que ele admitiu, o caso do hospital e quando sai a sentença.",
+  "published_at": "2026-11-16T18:41:58+00:00",
+  "updated_at": "2026-11-16T18:41:58+00:00"
 }

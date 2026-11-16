@@ -17,7 +17,10 @@
     "query": "NBA 2K27 Vice City",
     "alt": "Arte do crossover NBA 2K27 com GTA 6 em Vice City",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/11/NBA-2K27-Vice-City_11-16-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/nba-2k27-vice-city-season-3-gta-6-edicao-be1ae473.jpg",
+    "source_url": "",
+    "foco": "23% 21%"
   },
   "sources": [
     {
@@ -45,7 +48,7 @@
       "title": "GTA 6 x NBA 2K27 Vice City crossover announced"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -112,5 +115,7 @@
       "items": []
     }
   ],
-  "meta_description": "NBA 2K27 terá Vice City, Season 3 de GTA 6 a partir de 27/11, edição por US$ 39,99 e jogo grátis para assinantes do GTA+. Veja o que muda no crossover."
+  "meta_description": "NBA 2K27 terá Vice City, Season 3 de GTA 6 a partir de 27/11, edição por US$ 39,99 e jogo grátis para assinantes do GTA+. Veja o que muda no crossover.",
+  "published_at": "2026-11-16T18:41:58+00:00",
+  "updated_at": "2026-11-16T18:41:58+00:00"
 }
