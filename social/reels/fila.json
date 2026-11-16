@@ -4469,7 +4469,7 @@
     "slug": "controles-dualsense-gta6",
     "data": "2026-11-16",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Os controles DualSense de GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #dualsense #ps5 #pixelzada",
     "tentativas": 0,
@@ -4491,6 +4491,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T20:01:18-03:00",
+      "media_id": "17948667897388745",
+      "permalink": "https://www.instagram.com/reel/Df0fPQHiUCi/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb8b7edf36f4d82552a042",
+        "em": "2026-11-16T20:02:21-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=MDelTew6bAk"
+      }
     }
   },
   {
@@ -5586,34 +5602,6 @@
     }
   },
   {
-    "slug": "ultimos-segundos-antes-de-liberar-gta6",
-    "data": "2026-11-18",
-    "horario": "23:00",
-    "status": "agendado",
-    "estilo": "TV",
-    "legenda": "Os últimos segundos antes de liberar o GTA 6 ⏳😭 POV: 18 de novembro, 23:59\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Df0KjpzB7Ea/",
-      "titulo": "claude",
-      "revisado": true
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "identidade"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 16/11",
-      "por": "revisão manual",
-      "em": "2026-11-16T19:20:00-03:00"
-    }
-  },
-  {
     "slug": "gta-6-meups-oficial",
     "data": "2026-11-18",
     "horario": "17:00",
@@ -5807,6 +5795,34 @@
       "motivo": "mostra apenas cenas de gameplay de carro e pessoas vestidas",
       "por": "imagem",
       "em": "2026-11-16T19:11:17-03:00"
+    }
+  },
+  {
+    "slug": "ultimos-segundos-antes-de-liberar-gta6",
+    "data": "2026-11-18",
+    "horario": "23:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Os últimos segundos antes de liberar o GTA 6 ⏳😭 POV: 18 de novembro, 23:59\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/Df0KjpzB7Ea/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 16/11",
+      "por": "revisão manual",
+      "em": "2026-11-16T19:20:00-03:00"
     }
   },
   {
