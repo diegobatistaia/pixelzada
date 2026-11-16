@@ -4161,7 +4161,7 @@
     "slug": "pov-primeira-vez-em-monaco",
     "data": "2026-11-16",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "POV: é sua primeira vez pilotando em Mônaco no jogo da Fórmula 1 🏎️😂\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#f1 #monaco #memesgamer #games #pixelzada",
     "tentativas": 0,
@@ -4183,12 +4183,28 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T12:51:56-03:00",
+      "media_id": "18146977543578750",
+      "permalink": "https://www.instagram.com/reel/DfzuGupkV_U/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb26bc56f128f114f82120",
+        "em": "2026-11-16T12:52:27-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=RHPqsJlRDz0"
+      }
     }
   },
   {
     "slug": "gta6-contra-vida-real",
     "data": "2026-11-16",
-    "horario": "13:00",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "GTA 6 vs vida real: estão cada vez mais parecidos 👀\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #miami #rockstar #pixelzada",
@@ -4216,7 +4232,7 @@
   {
     "slug": "agua-zelda-contra-wolverine",
     "data": "2026-11-16",
-    "horario": "14:00",
+    "horario": "15:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A diferença da água em Zelda e no jogo do Wolverine 🌊\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #wolverine #games #nintendo #pixelzada",
@@ -4244,7 +4260,7 @@
   {
     "slug": "mod-de-twingo-gta6",
     "data": "2026-11-16",
-    "horario": "15:00",
+    "horario": "16:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Já tem mod de Twingo pro GTA 6 antes do GTA 6 😭\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #mods #memesgamer #pixelzada",
@@ -4272,7 +4288,7 @@
   {
     "slug": "wesker-dias-dificeis",
     "data": "2026-11-16",
-    "horario": "16:00",
+    "horario": "17:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Tem dias que não são fáceis pra ninguém ☕\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#residentevil #wesker #capcom #memesgamer #pixelzada",
@@ -4300,7 +4316,7 @@
   {
     "slug": "rockstar-tres-jogos-mais-reservados",
     "data": "2026-11-16",
-    "horario": "17:00",
+    "horario": "18:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Rockstar com três jogos na lista dos mais pré-encomendados da história 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #rockstar #rdr2 #gta5 #pixelzada",
@@ -4328,7 +4344,7 @@
   {
     "slug": "zelda-cucco-of-time",
     "data": "2026-11-16",
-    "horario": "18:00",
+    "horario": "19:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "The Cucco of Time: Zelda, mas o herói é uma galinha 🐔\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
@@ -4356,7 +4372,7 @@
   {
     "slug": "controles-dualsense-gta6",
     "data": "2026-11-16",
-    "horario": "19:00",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Os controles DualSense de GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #dualsense #ps5 #pixelzada",
@@ -4384,7 +4400,7 @@
   {
     "slug": "viagem-de-moto-san-andreas",
     "data": "2026-11-16",
-    "horario": "20:00",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A beleza das viagens de moto em San Andreas 🏍️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #sanandreas #nostalgia #rockstar #pixelzada",
@@ -4412,7 +4428,7 @@
   {
     "slug": "mapa-gta6-contra-gta5",
     "data": "2026-11-16",
-    "horario": "21:00",
+    "horario": "22:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "GTA 6 vs GTA 5: a diferença no tamanho do mapa é absurda 🗺️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gta5 #gtavi #mapa #pixelzada",
@@ -4440,7 +4456,7 @@
   {
     "slug": "xbox-360-22-de-novembro-2005",
     "data": "2026-11-16",
-    "horario": "22:00",
+    "horario": "23:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Xbox 360: 22 de novembro de 2005 💚\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#xbox360 #xbox #nostalgia #games #pixelzada",
@@ -4467,8 +4483,8 @@
   },
   {
     "slug": "notificacao-gta6-pronto-para-jogar",
-    "data": "2026-11-16",
-    "horario": "23:00",
+    "data": "2026-11-17",
+    "horario": "07:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A vida quando essa notificação aparecer 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #games #pixelzada",
@@ -4496,7 +4512,7 @@
   {
     "slug": "modo-zumbi-bodycam",
     "data": "2026-11-17",
-    "horario": "07:00",
+    "horario": "08:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Modo zumbi de Bodycam ficou real até demais 🧟\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#bodycam #zumbi #games #terror #pixelzada",
@@ -4524,7 +4540,7 @@
   {
     "slug": "macca-and-friends-serie-gta6",
     "data": "2026-11-17",
-    "horario": "08:00",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Macca & Friends é uma das séries que vão passar dentro de GTA 6 🐊📺\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #weazel #pixelzada",
@@ -4552,7 +4568,7 @@
   {
     "slug": "rockstar-fez-de-novo-vida-real-gta6",
     "data": "2026-11-17",
-    "horario": "09:00",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A Rockstar fez de novo: vida real contra GTA 6 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #vicecity #pixelzada",
@@ -4580,7 +4596,7 @@
   {
     "slug": "gta6-99-baixado-era-so-um-sonho",
     "data": "2026-11-17",
-    "horario": "10:00",
+    "horario": "11:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Baixando GTA 6: 99,6%... era só um sonho 😴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
@@ -4608,7 +4624,7 @@
   {
     "slug": "viatura-vice-beach-vida-real-gta6",
     "data": "2026-11-17",
-    "horario": "11:00",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Na vida real e em GTA 6: a viatura de Vice Beach 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #vicecity #pixelzada",
@@ -4636,7 +4652,7 @@
   {
     "slug": "gta1-levou-bilhoes-de-anos",
     "data": "2026-11-17",
-    "horario": "12:00",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "GTA 6 não foi o que mais demorou: GTA 1 levou bilhões de anos 😅\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
@@ -4664,7 +4680,7 @@
   {
     "slug": "san-andreas-com-hud-de-gta6",
     "data": "2026-11-17",
-    "horario": "13:00",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Já tem um GTA San Andreas modificado com o HUD de GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta6 #mods #rockstargames #pixelzada",
@@ -4692,7 +4708,7 @@
   {
     "slug": "rockstar-gta6-em-realidade-miami",
     "data": "2026-11-17",
-    "horario": "14:00",
+    "horario": "15:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A Rockstar está transformando GTA 6 em realidade antes do lançamento 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #miami #pixelzada",
@@ -4720,7 +4736,7 @@
   {
     "slug": "policia-na-cola-musica-na-radio-gta6",
     "data": "2026-11-17",
-    "horario": "15:00",
+    "horario": "16:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Quando a polícia tá na sua cola no GTA 6 e começa a tocar aquela música na rádio 🚓🎶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
@@ -4748,7 +4764,7 @@
   {
     "slug": "1-2-vamos-pausar",
     "data": "2026-11-17",
-    "horario": "16:00",
+    "horario": "17:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "1, 2... vamos pausar 🕺\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#counterstrike #cs2 #games #meme #pixelzada",
@@ -4776,7 +4792,7 @@
   {
     "slug": "briga-npcs-gta5",
     "data": "2026-11-17",
-    "horario": "17:00",
+    "horario": "18:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Uma briga de NPCs no GTA 5 que saiu do controle 👊\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gta5 #gtav #games #memesgamer #gamer #pixelzada",
@@ -4804,7 +4820,7 @@
   {
     "slug": "o-mundo-dia-18-gta6",
     "data": "2026-11-17",
-    "horario": "18:00",
+    "horario": "19:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "\"Agora é só esperar o dia 19, a Rockstar não vai mais adiar GTA 6\". O mundo dia 18: 💥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
@@ -4832,7 +4848,7 @@
   {
     "slug": "dia-19-batendo-o-ponto-gta6",
     "data": "2026-11-17",
-    "horario": "19:00",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Eu dia 19, batendo o ponto e indo pra casa jogar GTA 6 🏃💨\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
@@ -4860,7 +4876,7 @@
   {
     "slug": "sensacao-todo-mundo-instalando-gta6",
     "data": "2026-11-17",
-    "horario": "20:00",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A sensação de ver todo mundo instalando GTA 6 😭\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
@@ -4888,7 +4904,7 @@
   {
     "slug": "musica-deu-superpoderes",
     "data": "2026-11-17",
-    "horario": "21:00",
+    "horario": "22:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A música deu superpoderes pro cara 🎧🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #fps #gameplay #gamer #pixelzada",
@@ -4916,7 +4932,7 @@
   {
     "slug": "far-cry-3-missao-skrillex",
     "data": "2026-11-17",
-    "horario": "22:00",
+    "horario": "23:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Quando Far Cry 3 entregou uma das missões mais icônicas da geração ao som de Skrillex 🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#farcry3 #farcry #ubisoft #games #pixelzada",
@@ -4943,8 +4959,8 @@
   },
   {
     "slug": "leon-com-uma-12-em-elden-ring",
-    "data": "2026-11-17",
-    "horario": "23:00",
+    "data": "2026-11-18",
+    "horario": "07:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Colocaram Leon com uma 12 no universo de Elden Ring 💥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#residentevil #eldenring #mods #games #pixelzada",
@@ -4972,7 +4988,7 @@
   {
     "slug": "por-que-ele-ainda-mirou",
     "data": "2026-11-18",
-    "horario": "07:00",
+    "horario": "08:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Eu me pergunto por que ele ainda mirou 😭\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #meme #pixelzada",
@@ -5000,7 +5016,7 @@
   {
     "slug": "rockstar-mesmo-narrador-20-anos",
     "data": "2026-11-18",
-    "horario": "08:00",
+    "horario": "08:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "20 anos depois e a Rockstar ainda usa o mesmo narrador 🎙️ Vice City, San Andreas, GTA IV, GTA V... e agora GTA 6.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5028,7 +5044,7 @@
   {
     "slug": "julgam-por-pagar-450-no-gta6",
     "data": "2026-11-18",
-    "horario": "08:30",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Quando me julgam por pagar 450 reais no GTA 6 🫣 Vou jogar por mais de uma década!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5056,7 +5072,7 @@
   {
     "slug": "musica-na-intro-de-gta6",
     "data": "2026-11-18",
-    "horario": "09:00",
+    "horario": "09:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Se essa música tocasse na intro de GTA 6, seria épico 😭🎶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5084,7 +5100,7 @@
   {
     "slug": "13-anos-completos-gta5",
     "data": "2026-11-18",
-    "horario": "09:30",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "13 anos, mano... 13 anos completos 🥲 E agora? GTA 7 só em 2039?\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5112,7 +5128,7 @@
   {
     "slug": "mapa-hyrule-remake-ocarina",
     "data": "2026-11-18",
-    "horario": "10:00",
+    "horario": "10:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "O mapa de Hyrule no remake de Ocarina of Time tá lindo demais 😍\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
@@ -5140,7 +5156,7 @@
   {
     "slug": "tomb-raider-30-anos",
     "data": "2026-11-18",
-    "horario": "10:30",
+    "horario": "11:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Há 30 anos, Lara Croft encarava perigos inesperados no Tomb Raider original 🎒🦖 Quem jogou?\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#tombraider #laracroft #playstation #retro #pixelzada",
@@ -5168,7 +5184,7 @@
   {
     "slug": "novos-vizinhos-nao-aceitam",
     "data": "2026-11-18",
-    "horario": "11:00",
+    "horario": "11:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Quando você não é bem aceito pelos novos vizinhos 😭🏃\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #meme #pixelzada",
@@ -5196,7 +5212,7 @@
   {
     "slug": "rdr2-sacrificado-pelo-gta6",
     "data": "2026-11-18",
-    "horario": "11:30",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Eu precisando de espaço pra instalar GTA 6, sabendo que Red Dead Redemption 2 tem mais de 100 GB 😔\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5224,7 +5240,7 @@
   {
     "slug": "gta5-tem-mais-de-13-anos",
     "data": "2026-11-18",
-    "horario": "12:00",
+    "horario": "12:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Quando eu lembro que GTA 5 tem mais de 13 anos 🥲 E agora, cá estamos no lançamento do GTA 6!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5252,7 +5268,7 @@
   {
     "slug": "trama-do-tempo-ocarina",
     "data": "2026-11-18",
-    "horario": "12:30",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "É assim que a Trama do Tempo fica quando você completa todas as missões em Ocarina of Time 😍\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#zelda #ocarinaoftime #nintendo #games #pixelzada",
@@ -5280,7 +5296,7 @@
   {
     "slug": "abertura-gta6-referencia-big-smoke",
     "data": "2026-11-18",
-    "horario": "13:00",
+    "horario": "13:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "A abertura do novo desenho de GTA 6 é uma referência à intro do Big Smoke em San Andreas 📺🔥 \"You picked the wrong house, fool!\"\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #sanandreas #bigsmoke #pixelzada",
