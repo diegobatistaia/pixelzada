@@ -4381,7 +4381,7 @@
     "slug": "rockstar-tres-jogos-mais-reservados",
     "data": "2026-11-16",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Rockstar com três jogos na lista dos mais pré-encomendados da história 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #rockstar #rdr2 #gta5 #pixelzada",
     "tentativas": 0,
@@ -4403,6 +4403,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T18:00:14-03:00",
+      "media_id": "18127227898902186",
+      "permalink": "https://www.instagram.com/reel/Df0RYsmkWKH/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb6f0c9bf8f900343e4baa",
+        "em": "2026-11-16T18:00:59-03:00",
+        "status": "sent",
+        "link": "https://www.youtube.com/watch?v=xdLGGSX1ilo"
+      }
     }
   },
   {
