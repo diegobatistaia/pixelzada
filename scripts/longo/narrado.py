@@ -151,7 +151,7 @@ def commons(consulta: str, pasta: Path, n: int = 0) -> Path:
     import time
     for tent in range(5):  # o Commons devolve 429 se pedir rápido demais
         try:
-            time.sleep(1.5)
+            time.sleep(4)
             d = json.loads(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=40).read())
             break
         except urllib.error.HTTPError as e:

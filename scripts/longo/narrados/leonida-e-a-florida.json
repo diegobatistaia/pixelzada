@@ -24,7 +24,7 @@
      {"v": "m:gellhorn", "f": 4}, {"v": "m:ambrosia", "f": 5}, {"v": "m:kalaga", "f": 6}, {"v": "m:todas", "f": 7}],
    "destaques": [{"t": "6 regiões", "f": 0, "pos": "centro", "tam": 170, "dur": 2.4, "cor": "laranja"}]},
   {"id": "vice-city", "capitulo": "Vice City = Miami", "planos": [
-     {"v": "o:Vice_City_26"}, {"v": "t:55.7", "f": 1}, {"v": "r:Art Deco Historic District Miami Beach", "f": 2},
+     {"v": "o:Vice_City_26"}, {"v": "o:Vice_City_25", "f": 1}, {"v": "r:Art Deco Historic District Miami Beach", "f": 2},
      {"v": "r:Colony Hotel Miami Beach night", "f": 2}, {"v": "t:47.7", "f": 3}, {"v": "o:Vice_City_13", "f": 3}],
    "destaques": [{"t": "Vice City", "s": "Miami na vida real", "f": 0, "cor": "rosa"},
                  {"t": "Vice Beach", "s": "Miami Beach", "f": 1, "cor": "laranja", "atraso": 1.0},
