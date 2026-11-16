@@ -134,3 +134,4 @@ jobs:
     needs: pesquisa
     if: always() && github.event.inputs.acao != 'teste'
     uses: ./.github/workflows/montar.yml
+    secrets: inherit  # GEMINI_API_KEY da checagem de nudez
