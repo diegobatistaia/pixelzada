@@ -5502,87 +5502,115 @@
     }
   },
   {
-    "slug": "gta-6-meugameusado",
+    "slug": "gta6-como-comecou-como-esta-indo",
     "data": "2026-11-18",
     "horario": "15:30",
     "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "GTA 6: como começou e como está indo 🥹 Da lista de desejos pra biblioteca!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "meugameusado",
-      "link": "https://www.instagram.com/reel/Dfz81B5mTNS/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/Dfz59Bcpd_a/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "personagens vestidos em cenas de prisão e festa",
-      "por": "imagem",
-      "em": "2026-11-16T16:35:39-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-voxeloficial",
-    "data": "2026-11-18",
-    "horario": "16:00",
-    "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "voxeloficial",
-      "link": "https://www.instagram.com/reel/Dfz1wlxAtaK/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "noticia",
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "apresentador vestido e telas de interface de jogo",
-      "por": "imagem",
-      "em": "2026-11-16T16:35:50-03:00"
+      "motivo": "quadros conferidos à mão em 16/11",
+      "por": "revisão manual",
+      "em": "2026-11-16T19:20:00-03:00"
     }
   },
   {
-    "slug": "o-universo-dos-games-gamespot",
+    "slug": "uma-ultima-volta-por-gta5",
     "data": "2026-11-18",
-    "horario": "16:30",
+    "horario": "16:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Uma última volta por GTA 5 antes de ir pra Vice City 🥲🚗\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "gamespot",
-      "link": "https://www.instagram.com/reel/DfxuccNCv3S/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/DfzuqCZBdOm/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "imagens mostram gameplay de Halo: Combat Evolved com armas e combates, sem nudez ou conteúdo sexual",
-      "por": "imagem",
-      "em": "2026-11-16T16:35:53-03:00"
+      "motivo": "quadros conferidos à mão em 16/11",
+      "por": "revisão manual",
+      "em": "2026-11-16T19:20:00-03:00"
+    }
+  },
+  {
+    "slug": "gta6-horas-sem-tocar-numa-missao",
+    "data": "2026-11-18",
+    "horario": "16:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "O que GTA 6 precisa ter pra você passar horas sem nem tocar numa missão? Comenta aí 👇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "brief_escape_",
+      "link": "https://www.instagram.com/reel/Dfz6_0CNK7B/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 16/11",
+      "por": "revisão manual",
+      "em": "2026-11-16T19:20:00-03:00"
+    }
+  },
+  {
+    "slug": "ultimos-segundos-antes-de-liberar-gta6",
+    "data": "2026-11-18",
+    "horario": "23:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Os últimos segundos antes de liberar o GTA 6 ⏳😭 POV: 18 de novembro, 23:59\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/Df0KjpzB7Ea/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 16/11",
+      "por": "revisão manual",
+      "em": "2026-11-16T19:20:00-03:00"
     }
   },
   {
