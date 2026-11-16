@@ -4680,6 +4680,34 @@
     }
   },
   {
+    "slug": "gta-6-bruneygta",
+    "data": "2026-11-17",
+    "horario": "15:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "bruneygta",
+      "link": "https://www.instagram.com/reel/DfxDZHsBsjM/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "cenas de gameplay com personagens vestidos e uso de armas em ambiente urbano",
+      "por": "imagem",
+      "em": "2026-11-15T22:40:26-03:00"
+    }
+  },
+  {
     "slug": "briga-npcs-gta5",
     "data": "2026-11-17",
     "horario": "16:00",
