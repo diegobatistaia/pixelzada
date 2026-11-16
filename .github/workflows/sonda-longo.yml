@@ -5,7 +5,7 @@ name: Vídeo longo (sonda de material)
 on:
   push:
     branches: ["claude/**"]
-    paths: ["scripts/longo/oficial.py", ".github/workflows/sonda-longo.yml"]
+    paths: [".github/workflows/sonda-longo.yml"]
   workflow_dispatch:
     inputs:
       link:

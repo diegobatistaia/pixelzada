@@ -58,7 +58,7 @@ def baixar(ind: dict) -> list[dict]:
     TRAB.mkdir(parents=True, exist_ok=True)
     itens, total = [], 0
     for url, pag in ind["midia"].items():
-        if total > 900_000_000:
+        if total > 1_600_000_000:
             print("limite de 900 MB atingido")
             break
         nome = url.rsplit("/", 1)[1]
