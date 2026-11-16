@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T23:28-03:00",
+ "atualizado": "2026-11-16T00:27-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
@@ -25,9 +25,9 @@
   "sem_revisao": 1
  },
  "reels_hoje": {
-  "meta": 15,
-  "publicados": 15,
-  "deviam_ter_saido": 15,
+  "meta": 17,
+  "publicados": 0,
+  "deviam_ter_saido": 0,
   "atrasados": []
  },
  "problemas": []
