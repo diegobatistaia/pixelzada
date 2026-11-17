@@ -6044,5 +6044,33 @@
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
     }
+  },
+  {
+    "slug": "gta-6-meups-oficial-3",
+    "data": "2026-11-19",
+    "horario": "00:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "meups_oficial",
+      "link": "https://www.instagram.com/reel/Df07tkXhgDd/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram paisagens urbanas, carros e pessoas vestidas",
+      "por": "imagem",
+      "em": "2026-11-17T06:11:12-03:00"
+    }
   }
 ]
