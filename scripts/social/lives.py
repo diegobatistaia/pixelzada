@@ -94,7 +94,7 @@ class Twitch:
         return self.get("streams", **p).get("data", [])[:limite]
 
     def clipes(self, desde: datetime, game_id: str, canais: list[str], idiomas: list[str] | None = None,
-               descobrir: int = 0) -> list[dict]:
+               descobrir: int = 0, idiomas_descobrir: list[str] | None = None) -> list[dict]:
         """Clipes do jogo desde `desde`.
 
         - geral: os 100 mais vistos da categoria, só nos `idiomas` (vazio = todos);
@@ -110,7 +110,7 @@ class Twitch:
         logins = [x.lower() for x in canais[:100]]
         favoritos = set(logins)
         if descobrir:
-            for idioma in (idiomas or [None]):
+            for idioma in (idiomas_descobrir or idiomas or [None]):
                 try:
                     for s in self.ao_vivo(game_id, idioma, descobrir):
                         if s["user_login"].lower() not in logins:
@@ -165,15 +165,33 @@ def nota(c: dict) -> float:
     return c["views"] * (3 if c.get("favorito") else 1) * (2 if (c.get("idioma") or "").startswith("pt") else 1)
 
 
+def _idiomas_busca(lv: dict) -> list[str]:
+    """Idiomas aceitos na busca geral: os principais (pt) e, se houver, os de reserva (en...)."""
+    principais = lv.get("idiomas") or []
+    return (principais + (lv.get("idiomas_reserva") or [])) if principais else []
+
+
+def eh_reserva(lv: dict, c: dict) -> bool:
+    """Clipe em idioma de reserva (não está nos `idiomas` principais e não é favorito)."""
+    principais = [i.lower() for i in (lv.get("idiomas") or [])]
+    if not principais or c.get("favorito"):
+        return False
+    return not any((c.get("idioma") or "").lower().startswith(i) for i in principais)
+
+
 def escolher(cfg: dict, clipes: list[dict], ja: set[str]) -> list[dict]:
+    """Ordem: primeiro TODOS os clipes nos idiomas principais (pt) e dos favoritos; os de
+    reserva (en...) só entram depois, para completar a rodada quando falta clipe em português."""
     lv = cfg["lives"]
     dmin, dmax = lv.get("duracao", [8, 60])
     bons = [c for c in clipes if c["id"] not in ja and c["link"] not in ja
             and dmin <= (c["duracao"] or dmin) <= dmax and c["views"] >= lv.get("min_views", 0)]
-    return sorted(bons, key=nota, reverse=True)
+    return sorted(bons, key=lambda c: (not eh_reserva(lv, c), nota(c)), reverse=True)
 
 
-def baixar_e_limpar(c: dict, destino: Path) -> dict:
+def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False) -> dict:
+    """Baixa, tira a câmera do streamer e, se `mutar`, tira o áudio (clipe de reserva em
+    outro idioma: fica só a imagem do jogo; a montagem põe trilha muda)."""
     with tempfile.TemporaryDirectory() as tmp:
         bruto = Path(tmp) / "bruto.mp4"
         r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "-f", "mp4/bv*+ba/b", "--merge-output-format", "mp4",
@@ -181,7 +199,17 @@ def baixar_e_limpar(c: dict, destino: Path) -> dict:
         if not bruto.exists() or bruto.stat().st_size < 20000:
             return {"ok": False, "motivo": f"download falhou: {(r.stderr or r.stdout).strip()[-160:]}"}
         destino.parent.mkdir(parents=True, exist_ok=True)
-        return rosto.limpar(bruto, destino)
+        res = rosto.limpar(bruto, destino)
+        if res.get("ok") and mutar and destino.exists():
+            mudo = Path(tmp) / "mudo.mp4"
+            m = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(destino), "-c:v", "copy", "-an", str(mudo)],
+                               capture_output=True, text=True)
+            if m.returncode != 0 or not mudo.exists():
+                destino.unlink(missing_ok=True)
+                return {"ok": False, "motivo": f"tirar o áudio falhou: {m.stderr.strip()[-160:]}"}
+            shutil.move(str(mudo), str(destino))
+            res = {**res, "motivo": f"{res.get('motivo', '')} (sem áudio: clipe em {c.get('idioma')})".strip()}
+        return res
 
 
 def nome_arquivo(pasta: Path, n: int, c: dict) -> Path:
@@ -215,8 +243,8 @@ def procurar(cfg: dict, agora: datetime, jogo: str) -> list[dict]:
         tw = Twitch()
         gid = tw.jogo(jogo)
         if gid:
-            clipes += tw.clipes(desde, gid, lv.get("canais_twitch") or [], lv.get("idiomas") or [],
-                                lv.get("descobrir_ao_vivo", 0))
+            clipes += tw.clipes(desde, gid, lv.get("canais_twitch") or [], _idiomas_busca(lv),
+                                lv.get("descobrir_ao_vivo", 0), lv.get("idiomas") or [])
         else:
             print(f"a Twitch ainda não tem a categoria '{jogo}'")
     except Falha as e:
@@ -241,7 +269,7 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
             break
         tentados += 1
         destino = nome_arquivo(pasta, 90 + tentados, c)
-        r = baixar_e_limpar(c, destino)
+        r = baixar_e_limpar(c, destino, mutar=lv.get("mutar_reserva", True) and eh_reserva(lv, c))
         ja.update({c["id"], c["link"]})  # descartado também não volta
         print(f"  {c['fonte']} {c['canal']} ({c['views']} views): {r['motivo']}")
         if r["ok"]:
@@ -262,7 +290,7 @@ def teste(cfg: dict, jogo: str) -> int:
         tw = Twitch()
         gid = tw.jogo(jogo)
         clipes = tw.clipes(agora - timedelta(hours=lv.get("janela_horas", 3)), gid, lv.get("canais_twitch") or [],
-                           lv.get("idiomas") or [], lv.get("descobrir_ao_vivo", 0)) if gid else []
+                           _idiomas_busca(lv), lv.get("descobrir_ao_vivo", 0), lv.get("idiomas") or []) if gid else []
     except Falha as e:
         print(f"twitch: {e}")
     kick = clipes_kick(lv.get("canais_kick") or [], jogo, agora - timedelta(days=1))
@@ -275,7 +303,7 @@ def teste(cfg: dict, jogo: str) -> int:
     with tempfile.TemporaryDirectory() as tmp:
         for n, c in enumerate(fila[:6], 1):
             saida = Path(tmp) / f"saida-{n}.mp4"
-            r = baixar_e_limpar(c, saida)
+            r = baixar_e_limpar(c, saida, mutar=lv.get("mutar_reserva", True) and eh_reserva(lv, c))
             if saida.exists():  # quadro do meio, para conferir o corte a olho
                 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", str(max(1, (c["duracao"] or 10) / 2)),
                                 "-i", str(saida), "-frames:v", "1", "-vf", "scale=640:-2", str(fotos / f"{n}.jpg")])
