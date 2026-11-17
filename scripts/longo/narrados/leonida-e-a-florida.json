@@ -137,7 +137,7 @@
      "f": 5
     },
     {
-     "v": "v:trailer1:52.3"
+     "v": "v:trailer1:47.6"
     }
    ],
    "destaques": [
@@ -170,7 +170,7 @@
      "v": "v:extended:750.4"
     },
     {
-     "v": "v:trailer1:18.6",
+     "v": "o:Vice_City_03",
      "f": 2
     },
     {
@@ -378,7 +378,7 @@
      "v": "o:Leonida_Keys_01"
     },
     {
-     "v": "r:Seven Mile Bridge Florida Keys aerial",
+     "v": "v:trailer2:140.4",
      "f": 1
     },
     {
@@ -391,9 +391,6 @@
     {
      "v": "o:Leonida_Keys_03",
      "f": 3
-    },
-    {
-     "v": "v:extended:1550.9"
     },
     {
      "v": "v:launch:14.4"
@@ -525,11 +522,8 @@
      "v": "o:Port_Gellhorn_03"
     },
     {
-     "v": "r:Panama City Beach Florida",
+     "v": "v:trailer2:83.3",
      "f": 3
-    },
-    {
-     "v": "v:trailer2:83.3"
     }
    ],
    "destaques": [
@@ -876,14 +870,14 @@
    "capitulo": "Quarta-feira tem GTA 6",
    "planos": [
     {
-     "v": "p:0"
+     "v": "v:launch:63.4"
     },
     {
      "v": "o:GTAVI_Pre_Load",
      "f": 1
     },
     {
-     "v": "v:launch:63.4"
+     "v": "v:launch:67.3"
     },
     {
      "v": "v:extended:840.3",
