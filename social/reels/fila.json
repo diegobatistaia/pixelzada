@@ -5654,47 +5654,19 @@
     }
   },
   {
-    "slug": "gta-6-meups-oficial",
+    "slug": "falta-1-dia-gta6",
     "data": "2026-11-18",
     "horario": "17:00",
     "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Falta 1 dia pro GTA 6 ⏳🔥 Meia-noite do dia 19 tá cada vez mais perto!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Df0KjpzB7Ea/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "apresenta apenas pessoas vestidas e cenas de jogo sem nudez",
-      "por": "imagem",
-      "em": "2026-11-16T19:10:13-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-bruneygta",
-    "data": "2026-11-18",
-    "horario": "17:30",
-    "status": "agendado",
-    "estilo": "Conversa",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "bruneygta",
-      "link": "https://www.instagram.com/reel/Df0Kl9OB7Ea/",
-      "titulo": "padrao",
-      "revisado": false
+      "link": "https://www.instagram.com/reel/Df07tkXhgDd/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
       "formato": "meme",
@@ -5704,289 +5676,9 @@
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "personagens vestidos dentro de um carro conversando",
-      "por": "imagem",
-      "em": "2026-11-16T19:10:16-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-diskvice",
-    "data": "2026-11-18",
-    "horario": "18:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "diskvice",
-      "link": "https://www.instagram.com/reel/Dfztf2iCfWF/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "cenas de gameplay com personagens vestidos e armas",
-      "por": "imagem",
-      "em": "2026-11-16T19:10:38-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-meups-oficial-2",
-    "data": "2026-11-18",
-    "horario": "18:30",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Dfz59Bcpd_a/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens de menu de jogo de videogame com personagens vestidos e armas sem conteudo inadequado",
-      "por": "imagem",
-      "em": "2026-11-16T19:10:46-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-brief-escape",
-    "data": "2026-11-18",
-    "horario": "19:00",
-    "status": "agendado",
-    "estilo": "Faixa",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "brief_escape_",
-      "link": "https://www.instagram.com/reel/Dfz6_0CNK7B/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "identidade"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens mostram apenas jogabilidade de GTA com carros e paisagens, sem qualquer elemento de nudez ou conteúdo adulto",
-      "por": "imagem",
-      "em": "2026-11-16T19:11:12-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-flowgamestv",
-    "data": "2026-11-18",
-    "horario": "19:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "flowgamestv",
-      "link": "https://www.instagram.com/reel/Dfz7VTBDKkV/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "noticia",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "Os quadros mostram gameplay de basquete e personagens vestidos, sem conteúdo de nudez ou apelo sexual.",
-      "por": "imagem",
-      "em": "2026-11-16T19:11:15-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-grandtheftauto6",
-    "data": "2026-11-18",
-    "horario": "20:00",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "grandtheftauto6",
-      "link": "https://www.instagram.com/reel/DfzuqCZBdOm/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "mostra apenas cenas de gameplay de carro e pessoas vestidas",
-      "por": "imagem",
-      "em": "2026-11-16T19:11:17-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-gta6countdown2026",
-    "data": "2026-11-18",
-    "horario": "20:30",
-    "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "gta6countdown2026",
-      "link": "https://www.instagram.com/reel/Dfxzb4purH4/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "noticia",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "identidade"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "A imagem mostra cenas genéricas de videogame com personagens vestidos, sem conteúdo de nudez ou apelo sexual.",
-      "por": "imagem",
-      "em": "2026-11-16T20:28:02-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-sougamergeek",
-    "data": "2026-11-18",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/DfzVTJDBfuu/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "apenas carros dirigindo em ruas de jogo, sem nudez ou pessoas em destaque",
-      "por": "imagem",
-      "em": "2026-11-17T00:37:26-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-adrenaline-oficial",
-    "data": "2026-11-18",
-    "horario": "21:30",
-    "status": "agendado",
-    "estilo": "Simples preta",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "adrenaline_oficial",
-      "link": "https://www.instagram.com/reel/Df0YSwnB6RT/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-preta"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "apresentador vestido e falando sobre games",
-      "por": "imagem",
-      "em": "2026-11-17T00:37:30-03:00"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-xboxbr",
-    "data": "2026-11-18",
-    "horario": "22:00",
-    "status": "agendado",
-    "estilo": "Missão",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "xboxbr",
-      "link": "https://www.instagram.com/reel/DfwCLM8RyJY/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "identidade"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "apresenta rostos e pessoas totalmente vestidas",
-      "por": "imagem",
-      "em": "2026-11-17T00:37:57-03:00"
-    }
-  },
-  {
-    "slug": "o-universo-dos-games-sougamergeek",
-    "data": "2026-11-18",
-    "horario": "22:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/Df0lsQDtlox/",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "games",
-      "jogo": "o universo dos games",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens mostram apenas o rosto e tronco vestido de um personagem de filme",
-      "por": "imagem",
-      "em": "2026-11-17T00:38:03-03:00"
+      "motivo": "quadros conferidos à mão em 17/11",
+      "por": "revisão manual",
+      "em": "2026-11-17T06:40:00-03:00"
     }
   },
   {
@@ -6046,31 +5738,59 @@
     }
   },
   {
-    "slug": "gta-6-meups-oficial-3",
+    "slug": "virando-a-noite-jogando-gta6",
     "data": "2026-11-19",
     "horario": "00:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Eu virando a noite jogando GTA 6 no lançamento (não fazia isso desde a época do Play 2) 😂🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Df07tkXhgDd/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df0lsQDtlox/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
+      "formato": "meme",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-branca"
+      "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "imagens mostram paisagens urbanas, carros e pessoas vestidas",
-      "por": "imagem",
-      "em": "2026-11-17T06:11:12-03:00"
+      "motivo": "quadros conferidos à mão em 17/11",
+      "por": "revisão manual",
+      "em": "2026-11-17T06:40:00-03:00"
+    }
+  },
+  {
+    "slug": "dia-19-dirigindo-por-vice-city",
+    "data": "2026-11-19",
+    "horario": "00:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "É dia 19 de novembro, e estou dirigindo por Vice City ouvindo minha playlist dos anos 80. A vida é boa 🌴🚗\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfzVTJDBfuu/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 17/11",
+      "por": "revisão manual",
+      "em": "2026-11-17T06:40:00-03:00"
     }
   }
 ]
