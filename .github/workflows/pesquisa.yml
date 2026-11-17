@@ -67,6 +67,7 @@ jobs:
       LINK: ${{ github.event.inputs.link }}
       TWITCH_CLIENT_ID_PIXELZADA: ${{ secrets.TWITCH_CLIENT_ID_PIXELZADA }}
       TWITCH_CLIENT_SECRET_PIXELZADA: ${{ secrets.TWITCH_CLIENT_SECRET_PIXELZADA }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # confere câmera do streamer nos clipes (camera_ia.py)
     steps:
       - uses: actions/checkout@v7
         with:
