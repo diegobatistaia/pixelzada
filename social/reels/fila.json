@@ -4741,7 +4741,7 @@
     "slug": "macca-and-friends-serie-gta6",
     "data": "2026-11-17",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Macca & Friends é uma das séries que vão passar dentro de GTA 6 🐊📺\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #weazel #pixelzada",
     "tentativas": 0,
@@ -4763,6 +4763,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T09:01:15-03:00",
+      "media_id": "18026503118928336",
+      "permalink": "https://www.instagram.com/reel/Df14fyaAfXr/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afc422d65882b4e0bd5f35b",
+        "em": "2026-11-17T09:01:47-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
