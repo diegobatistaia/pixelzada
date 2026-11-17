@@ -4605,7 +4605,7 @@
     "slug": "xbox-360-22-de-novembro-2005",
     "data": "2026-11-16",
     "horario": "23:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Xbox 360: 22 de novembro de 2005 💚\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#xbox360 #xbox #nostalgia #games #pixelzada",
     "tentativas": 0,
@@ -4627,6 +4627,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T23:00:24-03:00",
+      "media_id": "18036772802854973",
+      "permalink": "https://www.instagram.com/reel/Df0zxTNDtzA/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afbb56b3e42cd001e4557dd",
+        "em": "2026-11-16T23:01:14-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
