@@ -1,7 +1,7 @@
 {
-  "em": "2026-11-16T23:45:06-03:00",
+  "em": "2026-11-16T23:51:57-03:00",
   "jogo": "Grand Theft Auto V",
-  "twitch": 82,
+  "twitch": 135,
   "kick": 0,
   "clipes": [
     {
@@ -13,7 +13,7 @@
       "titulo": "area safe",
       "link": "https://www.twitch.tv/anthonylfxp777/clip/YawningSuccessfulChipmunkDuDudu-TPSwvkzS8bwcm_hu",
       "ok": true,
-      "motivo": "sem câmera de streamer",
+      "motivo": "sem câmera de streamer; IA: sem pessoa real (Apenas gameplay do jogo, sem webcam ou pessoa real.)",
       "corte": null
     },
     {
@@ -25,8 +25,14 @@
       "titulo": "pms mataram sendo que nem estavam na escalação do bc",
       "link": "https://www.twitch.tv/piveteeefps/clip/AffluentNaivePeachUWot-6ut9yYaZcrE9zyAj",
       "ok": true,
-      "motivo": "sem câmera de streamer",
-      "corte": null
+      "motivo": "sem câmera de streamer; IA cortou a câmera (Câmera do streamer visível no canto superior esquerdo.)",
+      "corte": null,
+      "corte_ia": [
+        532,
+        0,
+        1388,
+        1080
+      ]
     },
     {
       "n": 3,
@@ -48,7 +54,7 @@
       "titulo": "kkkkkkkkkkkkkk",
       "link": "https://www.twitch.tv/bobbyzera/clip/CrypticProtectiveCobblerDerp-hKSkZ23hwExp5ksq",
       "ok": true,
-      "motivo": "câmera cortada",
+      "motivo": "câmera cortada; IA: sem pessoa real (Apenas gameplay de GTA V com personagens 3D visíveis)",
       "corte": [
         472,
         0,
@@ -65,19 +71,19 @@
       "titulo": "POLICIALRETARDADO",
       "link": "https://www.twitch.tv/antonio_carlosss/clip/DreamyEnthusiasticYogurtDBstyle-XB8Y36FkUfV32wKV",
       "ok": true,
-      "motivo": "sem câmera de streamer",
+      "motivo": "sem câmera de streamer; IA: sem pessoa real (apenas elementos do jogo e interface visíveis)",
       "corte": null
     },
     {
       "n": 6,
       "fonte": "twitch",
-      "canal": "Dubalafps",
-      "views": 12,
-      "duracao": 17.4,
-      "titulo": "40 moedas de conhecimento",
-      "link": "https://www.twitch.tv/dubalafps/clip/GleamingFantasticReindeerBCWarrior-p5TmX4rdv6oue35q",
+      "canal": "vemmcaju",
+      "views": 14,
+      "duracao": 33,
+      "titulo": "Já joga o bombarda, já bombarda",
+      "link": "https://www.twitch.tv/vemmcaju/clip/AntediluvianTrustworthyRadicchioVoteNay-rIWbZOjUzeCExUe7",
       "ok": true,
-      "motivo": "sem câmera de streamer",
+      "motivo": "sem câmera de streamer; IA: sem pessoa real (Apenas personagens virtuais e interface do jogo estão visíveis.)",
       "corte": null
     }
   ]
