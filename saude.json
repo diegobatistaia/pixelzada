@@ -1,12 +1,12 @@
 {
- "atualizado": "2026-11-17T18:28-03:00",
+ "atualizado": "2026-11-17T19:27-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
    "uso": "publicar os Reels",
    "ok": true,
    "tipo": "login do Instagram",
-   "vence_em_dias": 59.7
+   "vence_em_dias": 59.6
   },
   "meta": {
    "segredo": "META_TOKEN_PIXELZADA",
@@ -22,12 +22,12 @@
   "meta_por_dia": 33,
   "dias_de_reserva": 1.0,
   "grade_cheia_ate": null,
-  "sem_revisao": 1
+  "sem_revisao": 0
  },
  "reels_hoje": {
   "meta": 17,
-  "publicados": 12,
-  "deviam_ter_saido": 11,
+  "publicados": 13,
+  "deviam_ter_saido": 12,
   "atrasados": []
  },
  "problemas": [
