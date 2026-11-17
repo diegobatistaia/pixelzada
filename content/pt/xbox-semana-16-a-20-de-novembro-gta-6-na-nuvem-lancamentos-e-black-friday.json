@@ -107,7 +107,10 @@
     "query": "GTA 6 Xbox",
     "alt": "Arte oficial de capa de GTA 6 divulgada pela Xbox Wire",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/xbox-semana-16-a-20-de-novembro-gta-6-na-52fadf21.jpg",
+    "source_url": "",
+    "foco": "46% 37%"
   },
   "sources": [
     {
@@ -123,6 +126,8 @@
       "title": "XBOX Black Friday Sale 2026"
     }
   ],
-  "status": "draft",
-  "fonte_unica": "anuncio_oficial"
+  "status": "published",
+  "fonte_unica": "anuncio_oficial",
+  "published_at": "2026-11-17T12:41:22+00:00",
+  "updated_at": "2026-11-17T12:41:22+00:00"
 }
