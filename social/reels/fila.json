@@ -5871,6 +5871,34 @@
     }
   },
   {
+    "slug": "experiencia-gta6-base-e-nao-ultimate",
+    "data": "2026-11-18",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Experiência de quem comprar o GTA 6 Base e não o Ultimate 😂🛍️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6clube",
+      "link": "https://www.instagram.com/reel/Df14thLDoXY/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 17/11",
+      "por": "revisão manual",
+      "em": "2026-11-17T15:20:00-03:00"
+    }
+  },
+  {
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-18",
     "horario": "23:00",
