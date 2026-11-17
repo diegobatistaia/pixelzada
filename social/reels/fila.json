@@ -5075,7 +5075,7 @@
     "slug": "1-2-vamos-pausar",
     "data": "2026-11-17",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "1, 2... vamos pausar 🕺\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#counterstrike #cs2 #games #meme #pixelzada",
     "tentativas": 0,
@@ -5097,6 +5097,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T06:45:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T17:01:57-03:00",
+      "media_id": "18001761644822625",
+      "permalink": "https://www.instagram.com/reel/Df2vgoOofxX/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
