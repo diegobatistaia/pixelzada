@@ -1,22 +1,22 @@
 {
  "voz": "Google Gemini TTS (gemini-3.1-flash-tts-preview, voz Charon)",
- "duracao": 391.6,
+ "duracao": 387.2,
  "cenas": [
   {
    "id": "gancho",
-   "dur": 25.07,
+   "dur": 20.67,
    "frases": [
     [
      0.0,
-     3.08
+     2.53
     ],
     [
-     3.08,
-     14.7
+     2.53,
+     11.45
     ],
     [
-     14.7,
-     24.72
+     11.45,
+     20.32
     ]
    ]
   },
