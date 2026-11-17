@@ -32,6 +32,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -195,7 +196,7 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False) -> dict:
     with tempfile.TemporaryDirectory() as tmp:
         bruto = Path(tmp) / "bruto.mp4"
         r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "-f", "mp4/bv*+ba/b", "--merge-output-format", "mp4",
-                            "-o", str(bruto), c["link"]], capture_output=True, text=True, timeout=300)
+                            "-o", str(bruto), c["link"]], capture_output=True, text=True, timeout=120)
         if not bruto.exists() or bruto.stat().st_size < 20000:
             return {"ok": False, "motivo": f"download falhou: {(r.stderr or r.stdout).strip()[-160:]}"}
         destino.parent.mkdir(parents=True, exist_ok=True)
@@ -271,8 +272,12 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
     fila = escolher(cfg, procurar(cfg, agora, lv["jogo_twitch"]), ja)
     pasta = cfg["_entrada"] / agora.date().isoformat()
     feitos, tentados = 0, 0
+    limite = time.monotonic() + 60 * lv.get("orcamento_min", 9)
     for c in fila:
         if feitos >= lv.get("por_rodada", 2) or tentados >= 3 * lv.get("por_rodada", 2):
+            break
+        if time.monotonic() > limite:
+            print(f"  tempo da rodada esgotado ({lv.get('orcamento_min', 9)} min): o resto fica para a próxima")
             break
         tentados += 1
         destino = nome_arquivo(pasta, 90 + tentados, c)
@@ -283,6 +288,7 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
             destino.with_suffix(".json").write_text(json.dumps(info_entrada(cfg, c), ensure_ascii=False, indent=2) + "\n",
                                                     encoding="utf-8")
             feitos += 1
+        Q.salvar_usados(cfg, ja)  # a cada clipe: se o job for cortado, o que já foi tentado não volta
     Q.salvar_usados(cfg, ja)
     print(f"{feitos} clipe(s) de live pronto(s) para a montagem")
     return 0
@@ -308,7 +314,11 @@ def teste(cfg: dict, jogo: str) -> int:
     shutil.rmtree(fotos, ignore_errors=True)
     fotos.mkdir(parents=True)
     with tempfile.TemporaryDirectory() as tmp:
+        limite = time.monotonic() + 60 * lv.get("orcamento_min", 9)
         for n, c in enumerate(fila[:6], 1):
+            if time.monotonic() > limite:
+                print("  tempo do ensaio esgotado")
+                break
             saida = Path(tmp) / f"saida-{n}.mp4"
             r = baixar_e_limpar(c, saida, mutar=lv.get("mutar_reserva", True) and eh_reserva(lv, c))
             if saida.exists():  # quadro do meio, para conferir o corte a olho
