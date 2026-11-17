@@ -103,10 +103,18 @@ def main() -> int:
         for nome in {p["v"].split(":")[1] for c in ep["cenas"] for p in c["planos"] if p["v"].startswith("v:")}:
             url = VIDEOS.get(nome)
             dest = TRAB / url.rsplit("/", 1)[1] if url else None
-            if dest and not dest.exists():
-                print("baixando", nome, flush=True)
-                subprocess.run(["curl", "-sfL", "--retry", "3", "--max-time", "900", "-A", UA["User-Agent"],
-                                "-o", str(dest), url])
+            if not dest:
+                continue
+            for tent in range(5):  # download às vezes vem cortado (sem "moov"): confere e tenta de novo
+                if dest.exists() and subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                                     "-of", "csv=p=0", str(dest)], capture_output=True).returncode == 0:
+                    break
+                dest.unlink(missing_ok=True)
+                print("baixando", nome, f"(tentativa {tent + 1})", flush=True)
+                subprocess.run(["curl", "-sfL", "--retry", "5", "--retry-all-errors", "--max-time", "900",
+                                "-A", UA["User-Agent"], "-o", str(dest), url])
+            else:
+                raise SystemExit(f"vídeo {nome} não baixou inteiro")
     print(f"{len(itens)} arquivos oficiais baixados")
     if "--folhas" in sys.argv:
         folhas(itens)
