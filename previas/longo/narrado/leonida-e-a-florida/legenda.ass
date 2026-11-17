@@ -1,0 +1,416 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Legenda,Archivo SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00240612,&H96000000,0,0,0,0,100,100,0.5,0,1,2.2,1.5,2,200,200,62,1
+Style: Grande,Anton,150,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,0,100,100,1,0,1,4,6,1,110,110,250,1
+Style: Apoio,Archivo SemiBold,44,&H00D6E62E,&H00FFFFFF,&H00240612,&HC8240612,0,0,0,0,100,100,0.5,0,3,10,0,1,118,110,190,1
+Style: Etiqueta,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,&H008B3DFF,&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,52,52,48,1
+Style: EtiquetaReal,Silkscreen,24,&H00240612,&H00FFFFFF,&H00D6E62E,&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,52,52,48,1
+Style: Capitulo,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,0,100,100,1,0,3,7,0,9,52,190,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.93,Legenda,,0,0,0,,Falta muito pouco.
+Dialogue: 0,0:00:01.95,0:00:04.83,Legenda,,0,0,0,,Na quinta-feira, 19 de novembro, GTA 6 chega
+Dialogue: 0,0:00:04.85,0:00:07.11,Legenda,,0,0,0,,ao PlayStation 5 e ao Xbox Series.
+Dialogue: 0,0:00:07.13,0:00:10.24,Legenda,,0,0,0,,E o lugar onde você vai passar as próximas
+Dialogue: 0,0:00:10.26,0:00:13.50,Legenda,,0,0,0,,centenas de horas não foi inventado do zero.
+Dialogue: 0,0:00:13.52,0:00:15.81,Legenda,,0,0,0,,Leonida é a Flórida.
+Dialogue: 0,0:00:15.83,0:00:17.62,Legenda,,0,0,0,,E dá para provar, pedaço por pedaço.
+Dialogue: 1,0:00:00.15,0:00:01.85,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:02.10,0:00:07.03,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:07.28,0:00:10.23,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:10.48,0:00:13.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:13.67,0:00:15.73,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:00:15.98,0:00:17.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 2,0:00:02.10,0:00:05.70,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}19 DE NOVEMBRO
+Dialogue: 2,0:00:02.30,0:00:05.70,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}PS5 e Xbox Series X|S
+Dialogue: 2,0:00:13.67,0:00:16.27,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H008B3DFF\shad6\4c&H40240612}LEONIDA = FLÓRIDA
+Dialogue: 0,0:00:17.99,0:00:19.65,Legenda,,0,0,0,,Aqui é a Pixelzada.
+Dialogue: 0,0:00:19.67,0:00:22.43,Legenda,,0,0,0,,Neste vídeo a gente atravessa o mapa de GTA 6
+Dialogue: 0,0:00:22.45,0:00:24.98,Legenda,,0,0,0,,de ponta a ponta: a cidade, as praias, as
+Dialogue: 0,0:00:25.00,0:00:27.36,Legenda,,0,0,0,,ilhas, o pântano e até a tal montanha.
+Dialogue: 0,0:00:27.38,0:00:30.58,Legenda,,0,0,0,,E em cada parada eu te mostro o que a Rockstar
+Dialogue: 0,0:00:30.60,0:00:32.09,Legenda,,0,0,0,,copiou da vida real.
+Dialogue: 0,0:00:32.11,0:00:34.38,Legenda,,0,0,0,,Se você vai jogar no lançamento, já se
+Dialogue: 0,0:00:34.40,0:00:36.77,Legenda,,0,0,0,,inscreve, porque essa semana o canal vai
+Dialogue: 0,0:00:36.79,0:00:37.33,Legenda,,0,0,0,,ferver.
+Dialogue: 1,0:00:21.35,0:00:22.34,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:22.59,0:00:23.57,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:00:23.82,0:00:24.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:25.06,0:00:26.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:00:26.29,0:00:27.28,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:27.53,0:00:29.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:29.89,0:00:32.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:32.26,0:00:34.80,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:35.05,0:00:37.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:00:17.99,0:00:37.70,Capitulo,,0,0,0,,{\fad(300,300)}ABERTURA
+Dialogue: 0,0:00:37.70,0:00:39.55,Legenda,,0,0,0,,Primeiro, um pouco de história.
+Dialogue: 0,0:00:39.57,0:00:41.80,Legenda,,0,0,0,,Vice City não é novidade na série.
+Dialogue: 0,0:00:41.82,0:00:45.06,Legenda,,0,0,0,,Ela apareceu em 2002, em GTA Vice City, presa
+Dialogue: 0,0:00:45.08,0:00:48.12,Legenda,,0,0,0,,nos anos oitenta, com terno pastel, neon e
+Dialogue: 0,0:00:48.14,0:00:49.89,Legenda,,0,0,0,,trilha de sintetizador.
+Dialogue: 0,0:00:49.91,0:00:51.93,Legenda,,0,0,0,,Era a Miami dos filmes de crime.
+Dialogue: 0,0:00:51.95,0:00:55.08,Legenda,,0,0,0,,Mais de vinte anos depois, a cidade volta.
+Dialogue: 0,0:00:55.10,0:00:57.99,Legenda,,0,0,0,,Só que agora nos dias de hoje, com celular na
+Dialogue: 0,0:00:58.01,0:01:00.84,Legenda,,0,0,0,,mão, rede social e todo mundo filmando tudo.
+Dialogue: 1,0:00:37.85,0:00:39.47,Etiqueta,,0,0,0,,{\fad(200,150)}GTA VICE CITY · 2002
+Dialogue: 1,0:00:39.72,0:00:41.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA VICE CITY · 2002
+Dialogue: 1,0:00:41.97,0:00:44.41,Etiqueta,,0,0,0,,{\fad(200,150)}GTA VICE CITY · 2002
+Dialogue: 1,0:00:44.66,0:00:47.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA VICE CITY · 2002
+Dialogue: 1,0:00:47.36,0:00:49.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA VICE CITY
+Dialogue: 1,0:00:52.10,0:00:55.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:55.25,0:00:58.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:58.30,0:01:01.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:37.70,0:01:01.21,Capitulo,,0,0,0,,{\fad(300,300)}VICE CITY ESTÁ DE VOLTA
+Dialogue: 2,0:00:41.97,0:00:45.57,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}2002
+Dialogue: 2,0:00:42.17,0:00:45.57,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}GTA Vice City
+Dialogue: 2,0:00:52.10,0:00:55.70,Grande,,0,0,0,,{\an1\fs120\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}MAIS DE 20 ANOS DEPOIS
+Dialogue: 0,0:01:01.21,0:01:04.72,Legenda,,0,0,0,,E desta vez a Rockstar não fez só uma cidade.
+Dialogue: 0,0:01:04.74,0:01:07.86,Legenda,,0,0,0,,Ela fez um estado inteiro, chamado Leonida.
+Dialogue: 0,0:01:07.88,0:01:10.67,Legenda,,0,0,0,,A inspiração é óbvia: a Flórida, o terceiro
+Dialogue: 0,0:01:10.69,0:01:13.54,Legenda,,0,0,0,,estado mais populoso dos Estados Unidos, com
+Dialogue: 0,0:01:13.56,0:01:16.18,Legenda,,0,0,0,,mais de vinte e três milhões de pessoas.
+Dialogue: 0,0:01:16.20,0:01:18.61,Legenda,,0,0,0,,Em GTA 5, a gente tinha Los Santos e o
+Dialogue: 0,0:01:18.63,0:01:19.85,Legenda,,0,0,0,,interior em volta.
+Dialogue: 0,0:01:19.87,0:01:23.01,Legenda,,0,0,0,,Em GTA 6, a promessa é um estado com várias
+Dialogue: 0,0:01:23.03,0:01:26.02,Legenda,,0,0,0,,regiões, cada uma com cara, clima e gente
+Dialogue: 0,0:01:26.04,0:01:26.91,Legenda,,0,0,0,,diferente.
+Dialogue: 1,0:01:01.36,0:01:04.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:04.89,0:01:06.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:06.46,0:01:07.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:08.03,0:01:11.94,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:01:12.19,0:01:16.10,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:16.35,0:01:19.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:01:20.02,0:01:22.24,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:22.49,0:01:24.71,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:24.96,0:01:27.18,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:01.21,0:01:27.28,Capitulo,,0,0,0,,{\fad(300,300)}UM ESTADO INTEIRO: LEONIDA
+Dialogue: 2,0:01:04.89,0:01:08.49,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LEONIDA
+Dialogue: 2,0:01:05.09,0:01:08.49,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}o estado de GTA 6
+Dialogue: 2,0:01:09.38,0:01:12.98,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}23 MILHÕES
+Dialogue: 2,0:01:09.58,0:01:12.98,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}habitantes na Flórida real
+Dialogue: 2,0:01:16.35,0:01:19.95,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}GTA 5
+Dialogue: 2,0:01:16.55,0:01:19.95,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Los Santos
+Dialogue: 0,0:01:27.28,0:01:30.61,Legenda,,0,0,0,,Até agora, a Rockstar mostrou seis regiões.
+Dialogue: 0,0:01:30.63,0:01:33.08,Legenda,,0,0,0,,Vice City, a capital do neon.
+Dialogue: 0,0:01:33.10,0:01:36.12,Legenda,,0,0,0,,Leonida Keys, o colar de ilhas no sul.
+Dialogue: 0,0:01:36.14,0:01:38.15,Legenda,,0,0,0,,Grassrivers, o pântano.
+Dialogue: 0,0:01:38.17,0:01:40.48,Legenda,,0,0,0,,Port Gellhorn, na costa do Golfo.
+Dialogue: 0,0:01:40.50,0:01:42.26,Legenda,,0,0,0,,Ambrosia, no interior.
+Dialogue: 0,0:01:42.28,0:01:45.41,Legenda,,0,0,0,,E o Mount Kalaga, um parque nacional no norte.
+Dialogue: 0,0:01:45.43,0:01:47.06,Legenda,,0,0,0,,Vamos uma por uma.
+Dialogue: 1,0:01:27.43,0:01:30.53,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:30.78,0:01:33.00,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:33.25,0:01:36.04,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:36.29,0:01:38.07,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:38.32,0:01:40.40,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:40.65,0:01:42.18,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:42.43,0:01:45.33,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:45.58,0:01:47.33,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:27.28,0:01:47.43,Capitulo,,0,0,0,,{\fad(300,300)}AS 6 REGIÕES
+Dialogue: 2,0:01:27.43,0:01:29.83,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}6 REGIÕES
+Dialogue: 0,0:01:47.43,0:01:50.41,Legenda,,0,0,0,,Vice City é Miami, sem disfarce.
+Dialogue: 0,0:01:50.43,0:01:53.40,Legenda,,0,0,0,,E o melhor exemplo é Vice Beach, a versão do
+Dialogue: 0,0:01:53.42,0:01:55.00,Legenda,,0,0,0,,jogo para Miami Beach.
+Dialogue: 0,0:01:55.02,0:01:57.72,Legenda,,0,0,0,,Na vida real, o distrito histórico de Miami
+Dialogue: 0,0:01:57.74,0:02:00.27,Legenda,,0,0,0,,Beach tem cerca de oitocentos prédios em
+Dialogue: 0,0:02:00.29,0:02:02.40,Legenda,,0,0,0,,estilo art déco, aquelas fachadas
+Dialogue: 0,0:02:02.42,0:02:05.07,Legenda,,0,0,0,,arredondadas, pintadas em tons pastel, com
+Dialogue: 0,0:02:05.09,0:02:06.26,Legenda,,0,0,0,,letreiro de neon.
+Dialogue: 0,0:02:06.28,0:02:09.27,Legenda,,0,0,0,,E é exatamente isso que aparece nos trailers:
+Dialogue: 0,0:02:09.29,0:02:12.22,Legenda,,0,0,0,,hotéis iluminados, carro esportivo parado na
+Dialogue: 0,0:02:12.24,0:02:15.17,Legenda,,0,0,0,,avenida e gente na calçada até de madrugada.
+Dialogue: 1,0:01:47.58,0:01:48.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:49.08,0:01:50.33,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:50.58,0:01:52.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:52.87,0:01:54.92,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:55.17,0:01:58.67,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:01:58.92,0:02:02.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:02:02.67,0:02:06.18,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:02:06.43,0:02:09.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:02:09.51,0:02:12.35,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:12.60,0:02:15.44,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:47.43,0:02:15.54,Capitulo,,0,0,0,,{\fad(300,300)}VICE CITY = MIAMI
+Dialogue: 2,0:01:47.58,0:01:51.18,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}VICE CITY
+Dialogue: 2,0:01:47.78,0:01:51.18,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Miami na vida real
+Dialogue: 2,0:01:51.43,0:01:55.03,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}VICE BEACH
+Dialogue: 2,0:01:51.63,0:01:55.03,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Miami Beach
+Dialogue: 2,0:01:56.82,0:02:00.42,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}+800 PRÉDIOS
+Dialogue: 2,0:01:57.02,0:02:00.42,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}art déco em Miami Beach
+Dialogue: 0,0:02:15.54,0:02:15.65,Legenda,,0,0,0,,Tem mais.
+Dialogue: 0,0:02:15.67,0:02:18.79,Legenda,,0,0,0,,Miami é conhecida como a capital mundial dos
+Dialogue: 0,0:02:18.81,0:02:22.06,Legenda,,0,0,0,,cruzeiros, e Vice City tem porto, iate, lancha
+Dialogue: 0,0:02:22.08,0:02:23.94,Legenda,,0,0,0,,e jet ski para todo lado.
+Dialogue: 0,0:02:23.96,0:02:26.85,Legenda,,0,0,0,,Os prédios espelhados do centro, as pontes
+Dialogue: 0,0:02:26.87,0:02:29.89,Legenda,,0,0,0,,ligando a cidade à praia, as festas na beira
+Dialogue: 0,0:02:29.91,0:02:30.54,Legenda,,0,0,0,,do mar.
+Dialogue: 0,0:02:30.56,0:02:33.45,Legenda,,0,0,0,,Quem já viu Miami de perto vai reconhecer a
+Dialogue: 0,0:02:33.47,0:02:34.84,Legenda,,0,0,0,,cidade em segundos.
+Dialogue: 1,0:02:15.69,0:02:17.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:17.37,0:02:18.81,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:02:19.06,0:02:20.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:02:20.74,0:02:22.17,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:22.42,0:02:23.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:02:24.11,0:02:26.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:26.31,0:02:28.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:28.51,0:02:30.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:30.71,0:02:32.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:33.04,0:02:35.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 2,0:02:15.82,0:02:19.42,Grande,,0,0,0,,{\an1\fs110\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}CAPITAL MUNDIAL DOS CRUZEIROS
+Dialogue: 0,0:02:35.21,0:02:38.34,Legenda,,0,0,0,,Descendo para o sul, chegamos em Leonida Keys.
+Dialogue: 0,0:02:38.36,0:02:41.31,Legenda,,0,0,0,,Na vida real, as Florida Keys são uma corrente
+Dialogue: 0,0:02:41.33,0:02:44.28,Legenda,,0,0,0,,de ilhas ligadas por uma única estrada sobre o
+Dialogue: 0,0:02:44.30,0:02:47.12,Legenda,,0,0,0,,mar, a Overseas Highway, com quarenta e duas
+Dialogue: 0,0:02:47.14,0:02:47.73,Legenda,,0,0,0,,pontes.
+Dialogue: 0,0:02:47.75,0:02:50.88,Legenda,,0,0,0,,Uma delas tem quase onze quilômetros.
+Dialogue: 0,0:02:50.90,0:02:53.92,Legenda,,0,0,0,,É água azul-turquesa dos dois lados, barco de
+Dialogue: 0,0:02:53.94,0:02:56.90,Legenda,,0,0,0,,pesca, bar de praia e muita gente fugindo da
+Dialogue: 0,0:02:56.92,0:02:57.53,Legenda,,0,0,0,,cidade.
+Dialogue: 0,0:02:57.55,0:03:00.54,Legenda,,0,0,0,,Nos trailers, essa vibe aparece em festa em
+Dialogue: 0,0:03:00.56,0:03:03.35,Legenda,,0,0,0,,barco, passeio de lancha e areia branca.
+Dialogue: 1,0:02:35.36,0:02:36.69,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:02:36.94,0:02:38.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:38.51,0:02:42.96,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:02:43.21,0:02:47.65,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:02:47.90,0:02:50.80,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:02:51.05,0:02:52.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:52.71,0:02:54.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:54.38,0:02:55.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:02:56.04,0:02:57.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:02:57.70,0:02:59.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:02:59.25,0:03:00.54,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:00.79,0:03:02.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:02.33,0:03:03.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:02:35.21,0:03:03.72,Capitulo,,0,0,0,,{\fad(300,300)}LEONIDA KEYS = FLORIDA KEYS
+Dialogue: 2,0:02:35.36,0:02:38.96,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LEONIDA KEYS
+Dialogue: 2,0:02:35.56,0:02:38.96,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Florida Keys na vida real
+Dialogue: 2,0:02:40.86,0:02:44.46,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}42 PONTES
+Dialogue: 2,0:02:41.06,0:02:44.46,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Overseas Highway
+Dialogue: 2,0:02:47.90,0:02:51.50,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}11 KM
+Dialogue: 2,0:02:48.10,0:02:51.50,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Seven Mile Bridge
+Dialogue: 0,0:03:03.72,0:03:06.58,Legenda,,0,0,0,,Agora sobe um pouco, para o meio do mapa.
+Dialogue: 0,0:03:06.60,0:03:09.62,Legenda,,0,0,0,,Grassrivers é o Everglades, o maior pântano
+Dialogue: 0,0:03:09.64,0:03:11.68,Legenda,,0,0,0,,tropical dos Estados Unidos.
+Dialogue: 0,0:03:11.70,0:03:14.40,Legenda,,0,0,0,,Na vida real, é um mar de capim e água rasa,
+Dialogue: 0,0:03:14.42,0:03:17.17,Legenda,,0,0,0,,cortado por aqueles barcos com hélice gigante
+Dialogue: 0,0:03:17.19,0:03:18.04,Legenda,,0,0,0,,na traseira.
+Dialogue: 0,0:03:18.06,0:03:20.21,Legenda,,0,0,0,,E, claro, cheio de jacaré.
+Dialogue: 0,0:03:20.23,0:03:22.81,Legenda,,0,0,0,,Os trailers de GTA 6 não esconderam: tem
+Dialogue: 0,0:03:22.83,0:03:25.72,Legenda,,0,0,0,,jacaré no pântano, na estrada e até dentro de
+Dialogue: 0,0:03:25.74,0:03:27.18,Legenda,,0,0,0,,loja de conveniência.
+Dialogue: 0,0:03:27.20,0:03:30.06,Legenda,,0,0,0,,Sim, isso é uma referência a vídeos reais que
+Dialogue: 0,0:03:30.08,0:03:31.62,Legenda,,0,0,0,,viralizaram na Flórida.
+Dialogue: 1,0:03:03.87,0:03:06.50,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:03:06.75,0:03:09.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:09.30,0:03:11.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:13.97,0:03:15.84,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:16.09,0:03:17.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:18.21,0:03:20.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:20.38,0:03:22.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:22.70,0:03:24.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:25.02,0:03:27.10,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:03:27.35,0:03:29.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:29.74,0:03:31.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:03.72,0:03:31.99,Capitulo,,0,0,0,,{\fad(300,300)}GRASSRIVERS = EVERGLADES
+Dialogue: 2,0:03:06.75,0:03:10.35,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}GRASSRIVERS
+Dialogue: 2,0:03:06.95,0:03:10.35,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Everglades na vida real
+Dialogue: 2,0:03:18.21,0:03:20.01,Grande,,0,0,0,,{\an5\pos(960,470)\fs190\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H001AFFC6\shad6\4c&H40240612}JACARÉ!
+Dialogue: 0,0:03:31.99,0:03:34.95,Legenda,,0,0,0,,Do outro lado do estado, na costa do Golfo,
+Dialogue: 0,0:03:34.97,0:03:36.38,Legenda,,0,0,0,,fica Port Gellhorn.
+Dialogue: 0,0:03:36.40,0:03:38.94,Legenda,,0,0,0,,Se Vice City é o cartão-postal, Port Gellhorn
+Dialogue: 0,0:03:38.96,0:03:40.70,Legenda,,0,0,0,,é a praia que ficou para trás.
+Dialogue: 0,0:03:40.72,0:03:43.83,Legenda,,0,0,0,,Cidade portuária, motel de beira de estrada,
+Dialogue: 0,0:03:43.85,0:03:47.10,Legenda,,0,0,0,,casa noturna com letreiro piscando e bem menos
+Dialogue: 0,0:03:47.12,0:03:47.83,Legenda,,0,0,0,,glamour.
+Dialogue: 0,0:03:47.85,0:03:50.30,Legenda,,0,0,0,,Tudo indica que a inspiração vem do norte da
+Dialogue: 0,0:03:50.32,0:03:52.66,Legenda,,0,0,0,,costa do Golfo da Flórida, a região que os
+Dialogue: 0,0:03:52.68,0:03:54.45,Legenda,,0,0,0,,americanos chamam de Panhandle.
+Dialogue: 1,0:03:32.14,0:03:34.10,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:03:34.35,0:03:36.30,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:36.55,0:03:40.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:40.87,0:03:43.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:43.25,0:03:45.38,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:45.63,0:03:47.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:48.00,0:03:51.24,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:03:51.49,0:03:54.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:03:31.99,0:03:54.82,Capitulo,,0,0,0,,{\fad(300,300)}PORT GELLHORN = GOLFO
+Dialogue: 2,0:03:32.14,0:03:35.74,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}PORT GELLHORN
+Dialogue: 2,0:03:32.34,0:03:35.74,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}costa do Golfo
+Dialogue: 2,0:03:49.85,0:03:53.45,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}PANHANDLE
+Dialogue: 2,0:03:50.05,0:03:53.45,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}norte da costa do Golfo
+Dialogue: 0,0:03:54.82,0:03:57.28,Legenda,,0,0,0,,No interior fica Ambrosia.
+Dialogue: 0,0:03:57.30,0:04:01.76,Legenda,,0,0,0,,Aqui o clima muda de vez: menos praia e mais
+Dialogue: 0,0:04:01.78,0:04:03.76,Legenda,,0,0,0,,fumaça de fábrica.
+Dialogue: 0,0:04:03.78,0:04:08.02,Legenda,,0,0,0,,Ambrosia gira em torno de uma refinaria de
+Dialogue: 0,0:04:08.04,0:04:11.91,Legenda,,0,0,0,,açúcar, e isso também tem origem real.
+Dialogue: 0,0:04:11.93,0:04:16.39,Legenda,,0,0,0,,No interior da Flórida existe uma cidade,
+Dialogue: 0,0:04:16.41,0:04:21.38,Legenda,,0,0,0,,Clewiston, que se apresenta como a cidade mais
+Dialogue: 0,0:04:21.40,0:04:26.27,Legenda,,0,0,0,,doce dos Estados Unidos, justamente por causa
+Dialogue: 0,0:04:26.29,0:04:30.04,Legenda,,0,0,0,,das plantações de cana e da usina.
+Dialogue: 0,0:04:30.06,0:04:33.80,Legenda,,0,0,0,,Estrada reta, caminhonete, plantação a perder
+Dialogue: 0,0:04:33.82,0:04:35.76,Legenda,,0,0,0,,de vista e muita lama.
+Dialogue: 1,0:03:54.97,0:03:55.96,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:03:56.21,0:03:57.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:57.45,0:04:00.44,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:00.69,0:04:03.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:03.93,0:04:07.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:08.00,0:04:11.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:04:12.08,0:04:20.90,EtiquetaReal,,0,0,0,,{\fad(200,150)}VIDA REAL
+Dialogue: 1,0:04:21.15,0:04:29.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:30.21,0:04:31.98,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:04:32.23,0:04:34.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:34.26,0:04:36.03,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:54.82,0:04:36.13,Capitulo,,0,0,0,,{\fad(300,300)}AMBROSIA = INTERIOR
+Dialogue: 2,0:03:54.97,0:03:58.57,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}AMBROSIA
+Dialogue: 2,0:03:55.17,0:03:58.57,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}o interior industrial
+Dialogue: 2,0:04:12.93,0:04:16.53,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}CLEWISTON
+Dialogue: 2,0:04:13.13,0:04:16.53,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}"a cidade mais doce dos EUA"
+Dialogue: 0,0:04:36.13,0:04:39.30,Legenda,,0,0,0,,E a última região é o Mount Kalaga, um parque
+Dialogue: 0,0:04:39.32,0:04:42.55,Legenda,,0,0,0,,nacional com trilhas, rios, mata fechada, caça
+Dialogue: 0,0:04:42.57,0:04:43.95,Legenda,,0,0,0,,e fora de estrada.
+Dialogue: 0,0:04:43.97,0:04:46.97,Legenda,,0,0,0,,Aqui vai uma curiosidade: a Flórida de verdade
+Dialogue: 0,0:04:46.99,0:04:48.57,Legenda,,0,0,0,,quase não tem montanha.
+Dialogue: 0,0:04:48.59,0:04:51.16,Legenda,,0,0,0,,O ponto mais alto do estado tem só cento e
+Dialogue: 0,0:04:51.18,0:04:52.65,Legenda,,0,0,0,,cinco metros de altura.
+Dialogue: 0,0:04:52.67,0:04:55.30,Legenda,,0,0,0,,Ou seja, nessa parte a Rockstar tomou uma
+Dialogue: 0,0:04:55.32,0:04:56.63,Legenda,,0,0,0,,liberdade criativa.
+Dialogue: 0,0:04:56.65,0:04:59.05,Legenda,,0,0,0,,O que tudo indica é que o parque mistura as
+Dialogue: 0,0:04:59.07,0:05:01.47,Legenda,,0,0,0,,florestas do norte da Flórida com relevo de
+Dialogue: 0,0:05:01.49,0:05:02.79,Legenda,,0,0,0,,outros estados do sul.
+Dialogue: 1,0:04:36.28,0:04:37.99,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:04:38.24,0:04:39.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:40.20,0:04:41.91,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:42.16,0:04:43.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:44.12,0:04:48.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:52.82,0:04:54.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:54.81,0:04:56.55,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:56.80,0:04:59.80,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:00.05,0:05:03.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:36.13,0:05:03.16,Capitulo,,0,0,0,,{\fad(300,300)}MOUNT KALAGA
+Dialogue: 2,0:04:36.28,0:04:39.88,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}MOUNT KALAGA
+Dialogue: 2,0:04:36.48,0:04:39.88,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}parque nacional
+Dialogue: 2,0:04:48.74,0:04:52.34,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}105 METROS
+Dialogue: 2,0:04:48.94,0:04:52.34,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}ponto mais alto da Flórida
+Dialogue: 0,0:05:03.16,0:05:05.41,Legenda,,0,0,0,,Agora, o detalhe que deixa Leonida tão
+Dialogue: 0,0:05:05.43,0:05:06.69,Legenda,,0,0,0,,Flórida: as pessoas.
+Dialogue: 0,0:05:06.71,0:05:09.99,Legenda,,0,0,0,,Na internet existe até um meme, o famoso Homem
+Dialogue: 0,0:05:10.01,0:05:13.28,Legenda,,0,0,0,,da Flórida, para as manchetes mais absurdas do
+Dialogue: 0,0:05:13.30,0:05:13.95,Legenda,,0,0,0,,estado.
+Dialogue: 0,0:05:13.97,0:05:15.85,Legenda,,0,0,0,,E a Rockstar abraçou isso.
+Dialogue: 0,0:05:15.87,0:05:18.09,Legenda,,0,0,0,,Os trailers mostram vídeos de rede social
+Dialogue: 0,0:05:18.11,0:05:20.44,Legenda,,0,0,0,,dentro do jogo, com gente fazendo as coisas
+Dialogue: 0,0:05:20.46,0:05:22.53,Legenda,,0,0,0,,mais sem noção que você pode imaginar.
+Dialogue: 0,0:05:22.55,0:05:25.77,Legenda,,0,0,0,,O próprio site oficial tem uma seção chamada
+Dialogue: 0,0:05:25.79,0:05:28.74,Legenda,,0,0,0,,Only in Leonida, ou seja, só em Leonida.
+Dialogue: 1,0:05:03.31,0:05:04.84,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:05.09,0:05:06.61,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:06.86,0:05:10.24,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:10.49,0:05:13.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:14.12,0:05:15.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:16.02,0:05:18.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:18.25,0:05:20.22,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:20.47,0:05:22.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:22.70,0:05:29.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:03.16,0:05:29.11,Capitulo,,0,0,0,,{\fad(300,300)}SÓ EM LEONIDA
+Dialogue: 2,0:05:06.86,0:05:10.46,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}FLORIDA MAN
+Dialogue: 2,0:05:07.06,0:05:10.46,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}o "Homem da Flórida"
+Dialogue: 2,0:05:22.70,0:05:26.30,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}ONLY IN LEONIDA
+Dialogue: 2,0:05:22.90,0:05:26.30,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}só em Leonida
+Dialogue: 0,0:05:29.11,0:05:31.97,Legenda,,0,0,0,,E Leonida sem carro não seria GTA.
+Dialogue: 0,0:05:31.99,0:05:33.87,Legenda,,0,0,0,,Pelo material oficial, já dá para ver um
+Dialogue: 0,0:05:33.89,0:05:34.80,Legenda,,0,0,0,,pedaço da garagem.
+Dialogue: 0,0:05:34.82,0:05:37.48,Legenda,,0,0,0,,O Grotti Cheetah, superesportivo clássico da
+Dialogue: 0,0:05:37.50,0:05:38.85,Legenda,,0,0,0,,série, está de volta.
+Dialogue: 0,0:05:38.87,0:05:41.63,Legenda,,0,0,0,,Tem o Vapid Stanier, o sedã que todo mundo
+Dialogue: 0,0:05:41.65,0:05:43.60,Legenda,,0,0,0,,conhece de viatura e de táxi.
+Dialogue: 0,0:05:43.62,0:05:46.18,Legenda,,0,0,0,,Tem buggy para a areia, lancha para o mar e
+Dialogue: 0,0:05:46.20,0:05:48.64,Legenda,,0,0,0,,muscle car para fazer barulho na avenida.
+Dialogue: 0,0:05:48.66,0:05:51.33,Legenda,,0,0,0,,E isso combina com a Flórida real, um estado
+Dialogue: 0,0:05:51.35,0:05:54.08,Legenda,,0,0,0,,onde quase tudo depende de carro e onde barco
+Dialogue: 0,0:05:54.10,0:05:56.65,Legenda,,0,0,0,,na garagem é quase tão comum quanto carro.
+Dialogue: 1,0:05:29.26,0:05:30.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:30.70,0:05:31.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:05:32.14,0:05:34.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:34.97,0:05:38.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:39.02,0:05:41.15,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:41.40,0:05:43.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:43.77,0:05:45.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:45.45,0:05:46.88,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:47.13,0:05:48.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:48.81,0:05:51.35,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:51.60,0:05:54.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:54.38,0:05:56.92,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:05:29.11,0:05:57.02,Capitulo,,0,0,0,,{\fad(300,300)}OS CARROS
+Dialogue: 2,0:05:34.97,0:05:38.57,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}GROTTI CHEETAH
+Dialogue: 2,0:05:35.17,0:05:38.57,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}superesportivo clássico
+Dialogue: 2,0:05:39.02,0:05:42.62,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}VAPID STANIER
+Dialogue: 2,0:05:39.22,0:05:42.62,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}viatura e táxi
+Dialogue: 0,0:05:57.02,0:05:59.90,Legenda,,0,0,0,,E no meio de tudo isso estão Jason e Lucia.
+Dialogue: 0,0:05:59.92,0:06:03.02,Legenda,,0,0,0,,A Rockstar resume a história assim: um golpe
+Dialogue: 0,0:06:03.04,0:06:06.28,Legenda,,0,0,0,,fácil dá errado, e os dois acabam no lado mais
+Dialogue: 0,0:06:06.30,0:06:09.41,Legenda,,0,0,0,,sombrio do lugar mais ensolarado da América,
+Dialogue: 0,0:06:09.43,0:06:12.07,Legenda,,0,0,0,,presos numa conspiração criminosa que
+Dialogue: 0,0:06:12.09,0:06:14.27,Legenda,,0,0,0,,atravessa o estado de Leonida.
+Dialogue: 0,0:06:14.29,0:06:16.91,Legenda,,0,0,0,,Lucia é a primeira protagonista mulher da
+Dialogue: 0,0:06:16.93,0:06:19.78,Legenda,,0,0,0,,série principal na era moderna, e a dupla vai
+Dialogue: 0,0:06:19.80,0:06:22.60,Legenda,,0,0,0,,ter que depender um do outro para sair viva.
+Dialogue: 1,0:05:57.17,0:05:58.37,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:58.62,0:05:59.82,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:06:00.07,0:06:03.41,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:03.66,0:06:07.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:06:07.25,0:06:10.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:06:10.85,0:06:14.19,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:14.44,0:06:17.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:17.33,0:06:19.98,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:06:20.23,0:06:22.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:57.02,0:06:22.97,Capitulo,,0,0,0,,{\fad(300,300)}JASON E LUCIA
+Dialogue: 2,0:05:57.17,0:06:00.77,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}JASON E LUCIA
+Dialogue: 2,0:05:57.37,0:06:00.77,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}os protagonistas
+Dialogue: 2,0:06:02.92,0:06:07.12,Grande,,0,0,0,,{\an5\pos(960,470)\fs88\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}"O LADO MAIS SOMBRIO DO LUGAR MAIS ENSOLARADO"
+Dialogue: 0,0:06:22.97,0:06:25.95,Legenda,,0,0,0,,Agora, o que a Rockstar ainda não confirmou.
+Dialogue: 0,0:06:25.97,0:06:28.62,Legenda,,0,0,0,,O tamanho exato do mapa, quantos quilômetros
+Dialogue: 0,0:06:28.64,0:06:31.00,Legenda,,0,0,0,,ele tem e se dá para entrar em todos os
+Dialogue: 0,0:06:31.02,0:06:31.62,Legenda,,0,0,0,,prédios.
+Dialogue: 0,0:06:31.64,0:06:34.76,Legenda,,0,0,0,,Tem muita estimativa rodando na internet, mas
+Dialogue: 0,0:06:34.78,0:06:37.44,Legenda,,0,0,0,,número oficial, até agora, não existe.
+Dialogue: 0,0:06:37.46,0:06:39.54,Legenda,,0,0,0,,Então desconfie de quem cravar.
+Dialogue: 0,0:06:39.56,0:06:42.37,Legenda,,0,0,0,,A gente só vai saber de verdade quando o jogo
+Dialogue: 0,0:06:42.39,0:06:43.43,Legenda,,0,0,0,,estiver na mão.
+Dialogue: 1,0:06:23.12,0:06:25.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:26.12,0:06:28.71,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:06:28.96,0:06:31.54,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:31.79,0:06:37.36,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:37.61,0:06:39.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:39.71,0:06:43.70,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:22.97,0:06:43.80,Capitulo,,0,0,0,,{\fad(300,300)}O QUE AINDA NÃO FOI CONFIRMADO
+Dialogue: 2,0:06:31.79,0:06:35.39,Grande,,0,0,0,,{\an5\pos(960,470)\fs200\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H001AFFC6\shad6\4c&H40240612}???
+Dialogue: 2,0:06:32.04,0:06:35.39,Apoio,,0,0,0,,{\an5\pos(960,630)\fad(150,250)}tamanho oficial do mapa
+Dialogue: 0,0:06:43.80,0:06:43.92,Legenda,,0,0,0,,E isso está muito perto.
+Dialogue: 0,0:06:43.94,0:06:47.15,Legenda,,0,0,0,,Na quarta-feira, a partir das oito da manhã no
+Dialogue: 0,0:06:47.17,0:06:49.86,Legenda,,0,0,0,,horário de Brasília, quem joga na Nova
+Dialogue: 0,0:06:49.88,0:06:52.83,Legenda,,0,0,0,,Zelândia já vai estar andando por Leonida.
+Dialogue: 0,0:06:52.85,0:06:55.01,Legenda,,0,0,0,,E a Pixelzada vai trazer tudo aqui:
+Dialogue: 0,0:06:55.03,0:06:57.65,Legenda,,0,0,0,,curiosidades, segredos e os primeiros bugs.
+Dialogue: 0,0:06:57.67,0:06:59.85,Legenda,,0,0,0,,Se inscreve no canal, ativa o sininho e
+Dialogue: 0,0:06:59.87,0:07:02.21,Legenda,,0,0,0,,comenta aqui embaixo: qual região você vai
+Dialogue: 0,0:07:02.23,0:07:03.26,Legenda,,0,0,0,,visitar primeiro?
+Dialogue: 0,0:07:03.28,0:07:04.86,Legenda,,0,0,0,,Até o próximo vídeo.
+Dialogue: 1,0:06:43.95,0:06:46.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:46.97,0:06:49.74,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:49.99,0:06:52.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:06:53.00,0:06:55.16,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:55.41,0:06:57.57,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:06:57.82,0:07:03.18,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:07:03.43,0:07:05.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:43.80,0:07:05.23,Capitulo,,0,0,0,,{\fad(300,300)}QUARTA-FEIRA TEM GTA 6
+Dialogue: 2,0:06:44.94,0:06:48.54,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}QUARTA, 8H
+Dialogue: 2,0:06:45.14,0:06:48.54,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}horário de Brasília (Nova Zelândia)
+Dialogue: 2,0:06:57.82,0:07:01.42,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}INSCREVA-SE
+Dialogue: 2,0:06:58.02,0:07:01.42,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}e comente: qual região primeiro?
