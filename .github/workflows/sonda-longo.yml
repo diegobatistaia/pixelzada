@@ -32,7 +32,7 @@ jobs:
           pip install -q pyyaml yt-dlp "opencv-python-headless<5" pillow
           command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
       - name: Sondar
-        run: python -u -m scripts.longo.cenas
+        run: python -u -m scripts.longo.cenas gta5
       - name: Guardar no ramo
         if: always()
         run: |

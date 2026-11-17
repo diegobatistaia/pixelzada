@@ -1,0 +1,79 @@
+name: Vídeo longo no Instagram (teste)
+
+# Teste do Diego (17/11/2026): o vídeo longo horizontal inteiro também no Instagram.
+# Dispara quando o arquivo de pedido muda: scripts/longo/publicar-ig.pedido
+# (linha 1 = slug do episódio, linha 2 = pasta no site, linha 3 = arquivo da legenda).
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/longo/publicar-ig.pedido"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      INSTAGRAM_TOKEN_PIXELZADA: ${{ secrets.INSTAGRAM_TOKEN_PIXELZADA }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Preparar o vídeo
+        id: prep
+        run: |
+          pip install -q pyyaml
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          SLUG=$(sed -n 1p scripts/longo/publicar-ig.pedido); PASTA=$(sed -n 2p scripts/longo/publicar-ig.pedido)
+          LEG=$(sed -n 3p scripts/longo/publicar-ig.pedido)
+          echo "pasta=$PASTA" >> $GITHUB_OUTPUT; echo "leg=$LEG" >> $GITHUB_OUTPUT
+          P="previas/longo/narrado/$SLUG"; mkdir -p "social/saida/$PASTA"
+          cat "$P"/final-1080p.mp4.parte* > /tmp/final.mp4
+          (cd /tmp && sed "s#  .*#  final.mp4#" "$GITHUB_WORKSPACE/$P/final-1080p.sha256" | sha256sum -c)
+          # Instagram: H.264 + AAC 48 kHz, até 25 Mbps e 300 MB
+          ffmpeg -y -loglevel error -i /tmp/final.mp4 -c:v libx264 -preset medium -crf 21 -maxrate 8M -bufsize 16M \
+            -pix_fmt yuv420p -r 30 -c:a aac -ar 48000 -b:a 160k -movflags +faststart "social/saida/$PASTA/video.mp4"
+          ffmpeg -y -loglevel error -i "$P/capa.jpg" -q:v 2 "social/saida/$PASTA/capa.jpg"
+          ls -la "social/saida/$PASTA"
+      - name: Enviar para pixelzada.com.br/ig/
+        env:
+          PASTA: ${{ steps.prep.outputs.pasta }}
+        run: |
+          eval "$(python - <<'PY'
+          import yaml
+          d = yaml.safe_load(open("site.config.yaml"))["deploy"]
+          for k in ("host", "port", "user", "remote_path"):
+              print(f'DESTINO_{k.upper()}="{d[k]}"')
+          PY
+          )"
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.HOSTINGER_SSH_KEY }}" > ~/.ssh/deploy_key
+          chmod 600 ~/.ssh/deploy_key
+          for tentativa in 1 2 3 4 5; do
+            if ssh -i ~/.ssh/deploy_key -p $DESTINO_PORT -o StrictHostKeyChecking=accept-new -o BatchMode=yes -o ConnectTimeout=20 \
+                 "$DESTINO_USER@$DESTINO_HOST" "mkdir -p '${DESTINO_REMOTE_PATH%/}/ig/$PASTA'" && \
+               rsync -rlz \
+                 -e "ssh -i ~/.ssh/deploy_key -p $DESTINO_PORT -o StrictHostKeyChecking=accept-new -o BatchMode=yes -o ConnectTimeout=20" \
+                 "social/saida/$PASTA/" "$DESTINO_USER@$DESTINO_HOST:${DESTINO_REMOTE_PATH%/}/ig/$PASTA/"; then
+              rm -f ~/.ssh/deploy_key; exit 0
+            fi
+            sleep $((tentativa * 15))
+          done
+          rm -f ~/.ssh/deploy_key; exit 1
+      - name: Publicar
+        run: python -u -m scripts.longo.publicar_ig "${{ steps.prep.outputs.pasta }}" "${{ steps.prep.outputs.leg }}"
+      - name: Guardar o resultado
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add previas/longo/instagram-*.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "longo: resultado do Instagram [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && break; sleep 5; done

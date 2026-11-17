@@ -83,6 +83,8 @@ def carregar(arq: Path) -> dict:
 # ---------------------------------------------------------------------------
 def narrar(ep: dict, trab: Path) -> str:
     segs = [{"id": c["id"], "texto": c["texto"]} for c in ep["cenas"]]
+    if ep.get("voz"):  # voz do Gemini escolhida no episódio (teste do Diego, 17/11)
+        EP.VOZ_GEMINI = ep["voz"]
     voz = EP.narrar(segs, trab)
     for c, s in zip(ep["cenas"], segs):
         c["audio"], c["dur"] = s["audio"], s["dur"]
@@ -412,12 +414,27 @@ def trecho(video: Path, ss: float, dur: float, saida: Path):
 
 VIDEOS = {"extended": "GTAVI_An_Extended_Look", "trailer1": "GTAVI_Trailer_1", "trailer2": "GTAVI_Trailer_2",
           "launch": "GTAVI_Launch_Trailer", "preload": "GTAVI_Pre-Load_Now"}
-ROTULO_VIDEO = {"extended": "GTA 6 · GAMEPLAY", "trailer1": "GTA 6 · TRAILER 1", "trailer2": "GTA 6 · TRAILER 2",
+ROTULO_VIDEO = {"gta5fp": "GTA 5", "gta5historia": "GTA 5", "gta5teaser": "GTA 5", "extended": "GTA 6 · GAMEPLAY", "trailer1": "GTA 6 · TRAILER 1", "trailer2": "GTA 6 · TRAILER 2",
                 "launch": "GTA 6 · TRAILER"}
 STEAM_IDS = {"vicecity2002": 12110, "vicecity_de": 1546990, "gta5": 271590, "sanandreas": 12120, "gta3": 12100}
 ROTULO_STEAM = {"vicecity2002": "GTA VICE CITY · 2002", "vicecity_de": "GTA VICE CITY", "gta5": "GTA 5",
                 "sanandreas": "GTA SAN ANDREAS", "gta3": "GTA III"}
 _MAPA_ANT: str | None = None
+
+
+GTA5_FILMES = {"gta5fp": 29, "gta5historia": 30, "gta5teaser": 31}  # trailers do GTA 5 na Steam (HLS)
+
+
+def video_de(nome: str) -> Path:
+    if nome in VIDEOS:
+        return oficial(VIDEOS[nome])
+    dest = OFICIAL / f"{nome}.mp4"
+    if not dest.exists():
+        steam("gta5", 0)  # garante o cache do appdetails
+        d = json.loads((RAIZ / "trabalho/steam/gta5.json").read_text())
+        url = next(iter(d.values()))["data"]["movies"][GTA5_FILMES[nome]]["hls_h264"]
+        sh("ffmpeg", "-y", "-loglevel", "error", "-i", url, "-c", "copy", dest)
+    return dest
 
 
 def steam(jogo: str, n: int) -> Path:
@@ -462,7 +479,7 @@ def render_plano(p: dict, dur: float, saida: Path, trab: Path, i: int) -> str:
         return ""
     if k == "v":  # v:<video>:<segundo>  (extended, trailer1, trailer2, launch, preload)
         nome, _, ss = v.partition(":")
-        trecho(oficial(VIDEOS[nome]), float(ss), dur, saida)
+        trecho(video_de(nome), float(ss), dur, saida)
         return ROTULO_VIDEO.get(nome, "GTA 6 · OFICIAL")
     if k == "s":  # s:<jogo>:<n>  tela oficial da Steam de jogo antigo
         jogo, _, n = v.partition(":")
@@ -476,7 +493,8 @@ def render_plano(p: dict, dur: float, saida: Path, trab: Path, i: int) -> str:
         from scripts.longo import motion as M
         global _MAPA_ANT
         dest = None if v == "todas" else v
-        M.mapa_anim(saida, dur, dest, anterior=_MAPA_ANT if _MAPA_ANT in REGIOES else None, entrada=_MAPA_ANT is None and not p.get("sem_entrada"))
+        p["_entrada"] = _MAPA_ANT is None and not p.get("sem_entrada")
+        M.mapa_anim(saida, dur, dest, anterior=_MAPA_ANT if _MAPA_ANT in REGIOES else None, entrada=p["_entrada"])
         _MAPA_ANT = dest or "todas"
         return "MAPA"
     if k == "c":
@@ -542,8 +560,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Legenda,Archivo SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00240612,&H96000000,0,0,0,0,100,100,0.5,0,1,2.2,1.5,2,200,200,62,1
 Style: Grande,Anton,150,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,0,100,100,1,0,1,4,6,1,110,110,250,1
 Style: Apoio,Archivo SemiBold,44,{ciano},&H00FFFFFF,&H00240612,&HC8240612,0,0,0,0,100,100,0.5,0,3,10,0,1,118,110,190,1
-Style: Etiqueta,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,{rosa},&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,52,52,48,1
-Style: EtiquetaReal,Silkscreen,24,&H00240612,&H00FFFFFF,{ciano},&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,52,52,48,1
+Style: Etiqueta,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,{rosa},&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,252,52,46,1
+Style: EtiquetaReal,Silkscreen,24,&H00240612,&H00FFFFFF,{ciano},&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,252,52,46,1
 Style: Capitulo,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,0,100,100,1,0,3,7,0,9,52,190,48,1
 
 [Events]
@@ -575,6 +593,18 @@ def escapa(t: str) -> str:
     return t.replace("{", "(").replace("}", ")").replace("\n", "\\N")
 
 
+def transicao(t: float, dur: float = 0.62) -> list[str]:
+    """Transição de troca de tema: faixas diagonais (ciano, rosa, roxo) varrem a tela e cobrem o corte."""
+    forma = "m 400 0 l 3000 0 l 2600 1080 l 0 1080"
+    linhas = []
+    for atraso, cor, larg in ((0.0, CIANO, 1.0), (0.04, ROSA, 1.0), (0.09, ROXO, 1.0)):
+        a = t - dur / 2 + atraso
+        b = a + dur
+        linhas.append(f"Dialogue: 5,{ass_t(a)},{ass_t(b)},Legenda,,0,0,0,,"
+                      f"{{\\an7\\bord0\\shad0\\1c{ass_cor(cor)}\\move(-3100,0,2000,0)\\p1}}{forma}{{\\p0}}")
+    return linhas
+
+
 def legenda_ass(ep: dict, saida: Path, inicio_cena: dict) -> None:
     ev = []
     for c in ep["cenas"]:
@@ -589,6 +619,8 @@ def legenda_ass(ep: dict, saida: Path, inicio_cena: dict) -> None:
             est = "EtiquetaReal" if et == "VIDA REAL" else "Etiqueta"
             ev.append(f"Dialogue: 1,{ass_t(t0 + a + .15)},{ass_t(t0 + b - .1)},{est},,0,0,0,,"
                       f"{{\\fad(200,150)}}{escapa(et)}")
+        if c.get("capitulo") and t0 > 0:
+            ev += transicao(t0)
         if c.get("capitulo"):
             ev.append(f"Dialogue: 1,{ass_t(t0)},{ass_t(t0 + c['dur'])},Capitulo,,0,0,0,,"
                       f"{{\\fad(300,300)}}{escapa(c['capitulo'].upper())}")
@@ -620,10 +652,55 @@ def legenda_ass(ep: dict, saida: Path, inicio_cena: dict) -> None:
 # ---------------------------------------------------------------------------
 # montagem
 # ---------------------------------------------------------------------------
+def som_do_plano(p: dict, dur: float, saida: Path) -> Path:
+    """Áudio original da cena (gameplay, trailer, pré-load); silêncio para fotos e artes."""
+    k, v = p["v"].split(":", 1)
+    video = None
+    ss = 0.0
+    if k == "v":
+        nome, _, seg = v.partition(":")
+        video, ss = video_de(nome), float(seg)
+    elif k == "t":
+        video, ss = oficial("GTAVI_Launch_Trailer"), float(v)
+    elif k == "p":
+        video, ss = oficial("GTAVI_Pre-Load_Now"), float(v)
+    if video is not None:
+        r = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", f"{ss:.2f}", "-i", str(video), "-t", f"{dur:.3f}",
+                            "-vn", "-ac", "2", "-ar", "44100", "-af",
+                            f"apad,atrim=0:{dur:.3f},afade=t=in:d=0.08,afade=t=out:st={max(0, dur - 0.12):.3f}:d=0.12",
+                            "-c:a", "pcm_s16le", str(saida)], capture_output=True)
+        if r.returncode == 0 and saida.exists():
+            return saida
+    sh("ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo", "-t", f"{dur:.3f}",
+       "-c:a", "pcm_s16le", saida)
+    return saida
+
+
+def eventos_sonoros(ep: dict, inicio: dict) -> list[tuple[float, str, float]]:
+    """Onde entram os efeitos: troca de tema (whoosh), destaques (impacto/swoosh), mapa (pops), vinheta."""
+    ev = []
+    for c in ep["cenas"]:
+        t0 = inicio[c["id"]]
+        if c.get("capitulo") and t0 > 0:
+            ev.append((t0 - 0.35, "whoosh", 0.9))
+        for (a, b), p in zip(c["t_planos"], c["planos"]):
+            k = p["v"].split(":", 1)[0]
+            if k == "i":
+                ev += [(t0 + a - 1.5, "riser", 0.7), (t0 + a + 0.25, "glitch", 0.8), (t0 + a + 0.5, "impacto", 1.0)]
+            elif k == "m":
+                ev.append((t0 + a + 0.6, "pop", 0.8))
+                if p.get("_entrada"):
+                    ev += [(t0 + a + 0.9 + j * 0.25, "blip", 0.9) for j in range(len(REGIOES))]
+        for dq in c.get("destaques", []):
+            ini = t0 + c["t_frases"][dq.get("f", 0)][0] + dq.get("atraso", 0.15)
+            ev.append((ini, "impacto" if dq.get("pos") == "centro" else "swoosh", 0.6 if dq.get("pos") == "centro" else 0.7))
+    return ev
+
+
 def montar(ep: dict, trab: Path, saida: Path) -> Path:
     pl_dir = trab / "planos"
     pl_dir.mkdir(parents=True, exist_ok=True)
-    lista, inicio, t = [], {}, 0.0
+    lista, sons, inicio, t = [], [], {}, 0.0
     for c in ep["cenas"]:
         inicio[c["id"]] = t
         c["t_planos"] = tempos_planos(c)
@@ -635,6 +712,7 @@ def montar(ep: dict, trab: Path, saida: Path) -> Path:
             print(f"  plano {c['id']}#{i} {p['v']} {n / FPS:.1f}s", flush=True)
             c["etiquetas"].append(render_plano(p, n / FPS, arq, trab, i + len(lista)))
             lista.append(arq)
+            sons.append(som_do_plano(p, n / FPS, arq.with_suffix(".wav")))
         t += c["dur"]
     concat = trab / "planos.txt"
     concat.write_text("".join(f"file '{p}'\n" for p in lista))
@@ -650,23 +728,34 @@ def montar(ep: dict, trab: Path, saida: Path) -> Path:
     shutil.copy(ass, saida.with_suffix(".ass"))
     lg = trab / "logo-canto.png"
     l = Image.open(LOGO).convert("RGBA")
-    l = l.resize((int(l.width * 46 / l.height), 46), Image.LANCZOS)
+    l = l.resize((int(l.width * 40 / l.height), 40), Image.LANCZOS)
     l.save(lg)
     fontes = trab / "fontes"
     fontes.mkdir(exist_ok=True)
     for f in ("f1.ttf", "f2.ttf", "f4.ttf"):
         shutil.copy(FONTES / f, fontes / f)
-    trilha = ep.get("trilha")
-    entradas = ["-i", mudo, "-i", voz, "-i", lg]
-    filtro = (f"[0:v][2:v]overlay=W-w-52:H-h-44:format=auto[v1];"
+    # som: ambiente das cenas (áudio original dos vídeos), trilha própria e efeitos (scripts/longo/som.py)
+    from scripts.longo import som as S
+    ambiente = trab / "ambiente.wav"
+    alista2 = trab / "ambiente.txt"
+    alista2.write_text("".join(f"file '{a}'\n" for a in sons))
+    sh("ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", alista2, "-c", "pcm_s16le", ambiente)
+    total = sum(c["dur"] for c in ep["cenas"])
+    trilha = S.trilha(total, trab / "trilha.wav")
+    fx = S.linha_de_efeitos(eventos_sonoros(ep, inicio), total, trab / "efeitos.wav")
+    entradas = ["-i", mudo, "-i", voz, "-i", lg, "-i", trilha, "-i", ambiente, "-i", fx]
+    filtro = (f"[0:v][2:v]overlay=52:40:format=auto[v1];"
               f"[v1]subtitles={ass}:fontsdir={fontes}[v]")
-    amix = "[1:a]anull[a]"
-    if trilha and (RAIZ / trilha).exists():
-        entradas += ["-stream_loop", "-1", "-i", RAIZ / trilha]
-        amix = "[3:a]volume=0.07[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]"
+    amix = ("[1:a]aresample=44100,aformat=channel_layouts=stereo,volume=1.6,asplit[v1][v2];"
+            f"[3:a]volume={ep.get('vol_trilha', 0.30)}[mus];[4:a]volume={ep.get('vol_cena', 0.85)}[amb];"
+            "[mus][amb]amix=inputs=2:normalize=0[bg];"
+            "[bg][v1]sidechaincompress=threshold=0.025:ratio=5:attack=25:release=450:makeup=1[bgd];"
+            "[5:a]volume=0.8[fx];"
+            "[bgd][v2][fx]amix=inputs=3:normalize=0:duration=longest,"
+            "loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]")
     sh("ffmpeg", "-y", "-loglevel", "error", *entradas, "-filter_complex", f"{filtro};{amix}",
        "-map", "[v]", "-map", "[a]", "-c:v", "libx264", "-preset", ep.get("preset", "veryfast"), "-crf", "21",
-       "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-shortest", saida)
+       "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-t", f"{total:.3f}", saida)
     return saida
 
 

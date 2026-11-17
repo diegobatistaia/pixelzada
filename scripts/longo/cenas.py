@@ -94,9 +94,45 @@ def steam():
     (OUT / "steam.json").write_text(json.dumps(res, ensure_ascii=False, indent=1))
 
 
+GTA5_FILMES = {"gta5fp": 29, "gta5historia": 30, "gta5teaser": 31}  # trailers do modo história (Steam)
+
+
+def gta5():
+    """Telas e trailers do GTA 5 (modo história) da loja Steam, com folhas de cenas."""
+    d = json.loads((OUT / "steam.json").read_text())["gta5"]
+    mini = OUT / "steam"
+    for i, u in enumerate(d["telas"]):
+        alvo = mini / f"gta5_{i:02d}.jpg"
+        if alvo.exists():
+            continue
+        tmp = Path(f"/tmp/g5_{i}.jpg")
+        subprocess.run(["curl", "-sfL", "--max-time", "60", "-o", str(tmp), u])
+        if tmp.exists():
+            im = Image.open(tmp).convert("RGB")
+            im.thumbnail((360, 220))
+            im.save(alvo, quality=75)
+    todos = json.loads((OUT / "cenas.json").read_text()) if (OUT / "cenas.json").exists() else {}
+    for nome, i in GTA5_FILMES.items():
+        dest = OFI / f"{nome}.mp4"
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", d["filmes"][i]["hls"], "-c", "copy", str(dest)])
+        if not dest.exists():
+            print("não baixou", nome)
+            continue
+        ts = cortes(dest)
+        dur = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of",
+                                    "default=nw=1:nk=1", str(dest)], capture_output=True, text=True).stdout or 0)
+        todos[nome] = {"arquivo": dest.name, "dur": dur, "cortes": ts}
+        print(nome, f"{dur:.0f}s", len(ts), "cenas", flush=True)
+        folha(nome, dest, ts)
+    (OUT / "cenas.json").write_text(json.dumps(todos, indent=1))
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     OFI.mkdir(parents=True, exist_ok=True)
+    if "gta5" in sys.argv:
+        gta5()
+        return 0
     steam()
     todos = {}
     for nome, url in VIDEOS.items():

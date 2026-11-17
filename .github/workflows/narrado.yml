@@ -6,7 +6,7 @@ name: Vídeo longo narrado (prévia)
 on:
   push:
     branches: ["claude/**"]
-    paths: ["scripts/longo/narrado.py", "scripts/longo/narrados/**", "scripts/longo/doc/**", ".github/workflows/narrado.yml"]
+    paths: ["scripts/longo/narrado.py", "scripts/longo/som.py", "scripts/longo/motion.py", "scripts/longo/narrados/**", "scripts/longo/doc/**", ".github/workflows/narrado.yml"]
   workflow_dispatch:
     inputs:
       episodio:
@@ -16,16 +16,32 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: narrado-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
+  lista:
+    runs-on: ubuntu-latest
+    outputs:
+      eps: ${{ steps.l.outputs.eps }}
+    steps:
+      - uses: actions/checkout@v7
+      - id: l
+        run: |
+          # episódios a montar: o do disparo manual ou os listados em scripts/longo/narrados/alvo.txt
+          if [ -n "${{ github.event.inputs.episodio }}" ]; then E="${{ github.event.inputs.episodio }}"; else E=$(grep -v '^#' scripts/longo/narrados/alvo.txt | xargs); fi
+          echo "eps=$(python3 -c 'import json,sys; print(json.dumps(sys.argv[1:]))' $E)" >> $GITHUB_OUTPUT
+
   video:
+    needs: lista
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        episodio: ${{ fromJSON(needs.lista.outputs.eps) }}
+    concurrency:
+      group: narrado-${{ github.ref }}-${{ matrix.episodio }}
+      cancel-in-progress: true
     env:
-      EPISODIO: ${{ github.event.inputs.episodio || 'leonida-e-a-florida' }}
+      EPISODIO: ${{ matrix.episodio }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       TTS_MODELO: gemini-3.1-flash-tts-preview
     steps:
@@ -35,7 +51,7 @@ jobs:
           python-version: "3.12"
       - name: Ferramentas
         run: |
-          pip install -q pyyaml pillow edge-tts
+          pip install -q pyyaml pillow edge-tts numpy
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu > /dev/null
           ffmpeg -hide_banner -filters | grep -q subtitles && echo "libass ok"
       - name: Material oficial e mapa
@@ -50,7 +66,8 @@ jobs:
         if: always()
         run: |
           T="trabalho/narrado/$EPISODIO"; P="previas/longo/narrado/$EPISODIO"
-          mkdir -p "$P"; rm -f "$P"/*
+          mkdir -p "$P"
+          [ -f "$T/$EPISODIO.mp4" ] && rm -f "$P"/*
           cp "$T"/capa.jpg "$T"/descricao.txt "$T"/relatorio.json "$P"/ 2>/dev/null || true
           cp "$T"/$EPISODIO.ass "$P"/legenda.ass 2>/dev/null || true
           if [ -f "$T/$EPISODIO.mp4" ]; then
