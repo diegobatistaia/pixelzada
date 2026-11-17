@@ -146,7 +146,7 @@ def _base_mapa():
     for txt, lo, la in [("GOLFO DO MÉXICO", -86.6, 27.4), ("OCEANO ATLÂNTICO", -79.9, 29.6)]:
         x, y = N.projetar(lo, la, caixa)
         fd.text((x, y), txt, font=fp, fill=(255, 255, 255, 70))
-    fd.text((60, 40), "FLÓRIDA REAL · REGIÕES DE LEONIDA EM POSIÇÃO APROXIMADA", font=N.fonte(N.PIXEL, 18),
+    fd.text((60, H - 135), "FLÓRIDA REAL · REGIÕES DE LEONIDA EM POSIÇÃO APROXIMADA", font=N.fonte(N.PIXEL, 18),
             fill=(255, 255, 255, 110))
     pos = {k: N.projetar(lo, la, caixa) for k, (_, lo, la, _) in N.REGIOES.items()}
     # máscara de "desenho" do contorno: revela da esquerda para a direita e de cima para baixo
@@ -164,6 +164,8 @@ def _rotulo(d, N, chave, x, y, ativo, alpha, desliza=0.0):
         lx, ly = x - tl / 2 - 12, y + 36
     elif chave == "keys":
         lx, ly = x - tl - 50, y - 40
+    elif chave == "kalaga":  # ponta oeste do Panhandle: rótulo à esquerda, abaixo da faixa do logo
+        lx, ly = x - tl - 50, y + 24
     else:
         lx, ly = x + 28, y
     lx += desliza

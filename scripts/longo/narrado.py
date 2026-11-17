@@ -317,7 +317,7 @@ REGIOES = {  # posição aproximada (equivalente real) no mapa da Flórida
     "grassrivers": ("GRASSRIVERS", -80.95, 25.95, "Everglades"),
     "gellhorn": ("PORT GELLHORN", -85.66, 30.16, "Panhandle"),
     "ambrosia": ("AMBROSIA", -80.93, 26.75, "Clewiston"),
-    "kalaga": ("MOUNT KALAGA", -81.75, 29.25, "Ocala"),
+    "kalaga": ("MOUNT KALAGA", -86.85, 30.85, "Panhandle"),
 }
 
 
@@ -756,6 +756,33 @@ def eventos_sonoros(ep: dict, inicio: dict) -> list[tuple[float, str, float]]:
     return ev
 
 
+MUSICAS = AQUI / "musicas"  # músicas do Diego (17/11): trilha de fundo bem suave, sem o som original das cenas
+
+
+def trilha_musicas(ep: dict, total: float, trab: Path) -> Path | None:
+    """Músicas próprias em sequência (cruzando 3 s), no tamanho exato do vídeo, com fade no fim."""
+    nomes = ep.get("musicas") or sorted(p.name for p in MUSICAS.glob("*.mp3"))
+    arqs = [MUSICAS / n for n in nomes if (MUSICAS / n).exists()]
+    if not arqs:
+        return None
+    seq = []
+    while sum(duracao(a) for a in seq) - 3 * max(0, len(seq) - 1) < total + 2:
+        seq.append(arqs[len(seq) % len(arqs)])
+    entradas, filtros = [], []
+    for i, a in enumerate(seq):
+        entradas += ["-i", a]
+        filtros.append(f"[{i}:a]aresample=44100,aformat=channel_layouts=stereo,loudnorm=I=-14:TP=-1.5[m{i}]")
+    ult = "m0"
+    for i in range(1, len(seq)):
+        filtros.append(f"[{ult}][m{i}]acrossfade=d=3[x{i}]")
+        ult = f"x{i}"
+    filtros.append(f"[{ult}]atrim=0:{total:.3f},afade=t=in:d=1.5,afade=t=out:st={max(0, total - 4):.3f}:d=4[out]")
+    saida = trab / "trilha.wav"
+    sh("ffmpeg", "-y", "-loglevel", "error", *entradas, "-filter_complex", ";".join(filtros), "-map", "[out]",
+       "-c:a", "pcm_s16le", saida)
+    return saida
+
+
 def montar(ep: dict, trab: Path, saida: Path) -> Path:
     pl_dir = trab / "planos"
     pl_dir.mkdir(parents=True, exist_ok=True)
@@ -800,7 +827,7 @@ def montar(ep: dict, trab: Path, saida: Path) -> Path:
     alista2.write_text("".join(f"file '{a}'\n" for a in sons))
     sh("ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-safe", "0", "-i", alista2, "-c", "pcm_s16le", ambiente)
     total = sum(c["dur"] for c in ep["cenas"])
-    trilha = S.trilha(total, trab / "trilha.wav")
+    trilha = trilha_musicas(ep, total, trab) or S.trilha(total, trab / "trilha.wav")
     fx = S.linha_de_efeitos(eventos_sonoros(ep, inicio), total, trab / "efeitos.wav")
     entradas = ["-reinit_filter", "0", "-i", mudo, "-i", voz, "-framerate", str(FPS), "-loop", "1", "-i", lg, "-i", trilha, "-i", ambiente, "-i", fx]
     # reinit_filter 0: os planos mudam de formato no meio; sem isso o filtro reinicia e o logo some por instantes
@@ -808,7 +835,7 @@ def montar(ep: dict, trab: Path, saida: Path) -> Path:
               f"[base][2:v]overlay=52:40:format=auto:shortest=1:repeatlast=1[comlogo];"
               f"[comlogo]subtitles={ass}:fontsdir={fontes}[v]")
     amix = ("[1:a]aresample=44100,aformat=channel_layouts=stereo,volume=1.6,asplit[voz1][voz2];"
-            f"[3:a]volume={ep.get('vol_trilha', 0.30)}[mus];[4:a]volume={ep.get('vol_cena', 0.85)}[amb];"
+            f"[3:a]volume={ep.get('vol_trilha', 0.16)}[mus];[4:a]volume={ep.get('vol_cena', 0.0)}[amb];"
             "[mus][amb]amix=inputs=2:normalize=0[bg];"
             "[bg][voz1]sidechaincompress=threshold=0.025:ratio=5:attack=25:release=450:makeup=1[bgd];"
             "[5:a]volume=0.8[fx];"
