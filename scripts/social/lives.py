@@ -17,6 +17,10 @@ No GitHub Actions:
     python -m scripts.social.lives teste [JOGO]      ensaio: procura clipes (padrão GTA 5),
                                                      baixa e corta 3, sem pôr na fila; grava
                                                      o resultado em social/pesquisa/lives-teste.json
+    python -m scripts.social.lives canais [LOGINS]   confere os canais (existe, ao vivo, clipes de
+                                                     GTA nos últimos 30 dias) e lista quem faz mais
+                                                     clipes de GTA em português; grava
+                                                     social/pesquisa/lives-canais.json
 """
 from __future__ import annotations
 
@@ -82,16 +86,43 @@ class Twitch:
         d = self.get("games", name=nome).get("data") or []
         return d[0]["id"] if d else None
 
-    def clipes(self, desde: datetime, game_id: str, canais: list[str]) -> list[dict]:
+    def ao_vivo(self, game_id: str, idioma: str | None, limite: int = 40) -> list[dict]:
+        """Lives no ar agora nesse jogo (filtradas por idioma), da maior para a menor plateia."""
+        p = {"game_id": game_id, "first": 100}
+        if idioma:
+            p["language"] = idioma
+        return self.get("streams", **p).get("data", [])[:limite]
+
+    def clipes(self, desde: datetime, game_id: str, canais: list[str], idiomas: list[str] | None = None,
+               descobrir: int = 0) -> list[dict]:
+        """Clipes do jogo desde `desde`.
+
+        - geral: os 100 mais vistos da categoria, só nos `idiomas` (vazio = todos);
+        - favoritos (`canais`): sempre entram e pesam 3x;
+        - descobrir: até N canais no idioma que estão AO VIVO no jogo agora entram na busca
+          (assim um streamer brasileiro fora da lista também é achado).
+        """
+        idiomas = [i.lower() for i in (idiomas or [])]
         achados = {}
         for c in self.get("clips", game_id=game_id, started_at=_rfc(desde), first=100).get("data", []):
-            achados[c["id"]] = c
-        if canais:
-            ids = self.get("users", login=canais[:100]).get("data", [])
-            for u in ids:
+            if not idiomas or (c.get("language") or "").lower() in idiomas:
+                achados[c["id"]] = c
+        logins = [x.lower() for x in canais[:100]]
+        favoritos = set(logins)
+        if descobrir:
+            for idioma in (idiomas or [None]):
+                try:
+                    for s in self.ao_vivo(game_id, idioma, descobrir):
+                        if s["user_login"].lower() not in logins:
+                            logins.append(s["user_login"].lower())
+                except Falha as e:
+                    print(f"   lives ao vivo: {e}")
+        for i in range(0, len(logins), 100):
+            for u in self.get("users", login=logins[i:i + 100]).get("data", []):
+                fav = u["login"].lower() in favoritos
                 for c in self.get("clips", broadcaster_id=u["id"], started_at=_rfc(desde), first=50).get("data", []):
                     if c.get("game_id") == game_id:
-                        achados[c["id"]] = {**c, "_favorito": True}
+                        achados[c["id"]] = {**c, "_favorito": fav}
         return [{"id": f"twitch:{c['id']}", "fonte": "twitch", "link": c["url"], "canal": c["broadcaster_name"],
                  "titulo": c.get("title") or "", "views": c.get("view_count", 0), "duracao": c.get("duration", 0),
                  "idioma": c.get("language"), "criado": c.get("created_at"), "favorito": bool(c.get("_favorito"))}
@@ -183,7 +214,8 @@ def procurar(cfg: dict, agora: datetime, jogo: str) -> list[dict]:
         tw = Twitch()
         gid = tw.jogo(jogo)
         if gid:
-            clipes += tw.clipes(desde, gid, lv.get("canais_twitch") or [])
+            clipes += tw.clipes(desde, gid, lv.get("canais_twitch") or [], lv.get("idiomas") or [],
+                                lv.get("descobrir_ao_vivo", 0))
         else:
             print(f"a Twitch ainda não tem a categoria '{jogo}'")
     except Falha as e:
@@ -228,7 +260,8 @@ def teste(cfg: dict, jogo: str) -> int:
     try:
         tw = Twitch()
         gid = tw.jogo(jogo)
-        clipes = tw.clipes(agora - timedelta(hours=lv.get("janela_horas", 3)), gid, lv.get("canais_twitch") or []) if gid else []
+        clipes = tw.clipes(agora - timedelta(hours=lv.get("janela_horas", 3)), gid, lv.get("canais_twitch") or [],
+                           lv.get("idiomas") or [], lv.get("descobrir_ao_vivo", 0)) if gid else []
     except Falha as e:
         print(f"twitch: {e}")
     kick = clipes_kick(lv.get("canais_kick") or [], jogo, agora - timedelta(days=1))
@@ -252,6 +285,102 @@ def teste(cfg: dict, jogo: str) -> int:
     return 0 if resultado["clipes"] else 1
 
 
+def canais(cfg: dict, logins: list[str], jogos: list[str], dias: int = 30) -> int:
+    """Confere na API oficial cada canal da lista: existe? está ao vivo? quantos clipes fez
+    nos últimos `dias` dias nos `jogos` (ex.: GTA 5) e quantas views. Também lista quem faz
+    mais clipes em português nesses jogos (para achar canais que faltam).
+    Resultado em social/pesquisa/lives-canais.json."""
+    agora = datetime.now(TZ)
+    desde = agora - timedelta(days=dias)
+    lv = cfg["lives"]
+    logins = [x.strip().lower().lstrip("@") for x in (logins or lv.get("canais_twitch") or []) if x.strip()]
+    tw = Twitch()
+    gids = {}
+    for j in jogos:
+        gid = tw.jogo(j)
+        gids[j] = gid
+        print(f"categoria '{j}': {gid or 'não existe ainda'}")
+    usuarios = {}
+    for i in range(0, len(logins), 100):
+        for u in tw.get("users", login=logins[i:i + 100]).get("data", []):
+            usuarios[u["login"].lower()] = u
+    no_ar = {}
+    ids = [u["id"] for u in usuarios.values()]
+    for i in range(0, len(ids), 100):
+        for s in tw.get("streams", user_id=ids[i:i + 100], first=100).get("data", []):
+            no_ar[s["user_login"].lower()] = s
+    linhas = []
+    for login in logins:
+        u = usuarios.get(login)
+        if not u:
+            linhas.append({"login": login, "existe": False})
+            print(f"  {login}: NÃO EXISTE na Twitch")
+            continue
+        info = (tw.get("channels", broadcaster_id=u["id"]).get("data") or [{}])[0]
+        seguidores = None
+        try:
+            seguidores = tw.get("channels/followers", broadcaster_id=u["id"], first=1).get("total")
+        except Falha:
+            pass
+        clipes, cursor = [], None
+        for _ in range(5):  # até 500 clipes do período
+            p = {"broadcaster_id": u["id"], "started_at": _rfc(desde), "first": 100}
+            if cursor:
+                p["after"] = cursor
+            d = tw.get("clips", **p)
+            clipes += d.get("data", [])
+            cursor = (d.get("pagination") or {}).get("cursor")
+            if not cursor:
+                break
+        por_jogo = {j: [c for c in clipes if gid and c.get("game_id") == gid] for j, gid in gids.items()}
+        s = no_ar.get(login)
+        linha = {"login": login, "existe": True, "nome": u["display_name"], "tipo": u.get("broadcaster_type"),
+                 "criado": u.get("created_at", "")[:10], "descricao": (u.get("description") or "")[:160], "titulo_live": (info.get("title") or "")[:100], "idioma": info.get("broadcaster_language"),
+                 "ultimo_jogo": info.get("game_name"), "seguidores": seguidores,
+                 "ao_vivo": bool(s), "ao_vivo_jogo": s and s.get("game_name"), "ao_vivo_plateia": s and s.get("viewer_count"),
+                 "clipes_periodo": len(clipes), "views_clipes_periodo": sum(c.get("view_count", 0) for c in clipes),
+                 "por_jogo": {j: {"clipes": len(v), "views": sum(c.get("view_count", 0) for c in v),
+                                  "melhor": max((c.get("view_count", 0) for c in v), default=0)}
+                              for j, v in por_jogo.items()}}
+        linhas.append(linha)
+        print(f"  {login}: {linha['clipes_periodo']} clipes em {dias}d; "
+              + "; ".join(f"{j}: {v['clipes']} clipes/{v['views']} views" for j, v in linha["por_jogo"].items())
+              + f"; último jogo: {linha['ultimo_jogo']}; ao vivo: {linha['ao_vivo_jogo'] or '-'}")
+    # Descoberta: quem mais gera clipes em português nesses jogos (últimos 7 dias) e quem está no ar agora
+    descoberta = {}
+    for j, gid in gids.items():
+        if not gid:
+            continue
+        cont, cursor = {}, None
+        for _ in range(10):  # até 1.000 clipes mais vistos da semana
+            p = {"game_id": gid, "started_at": _rfc(agora - timedelta(days=7)), "first": 100}
+            if cursor:
+                p["after"] = cursor
+            d = tw.get("clips", **p)
+            for c in d.get("data", []):
+                if (c.get("language") or "").lower() != "pt":
+                    continue
+                k = c["broadcaster_name"]
+                x = cont.setdefault(k, {"canal": k, "clipes": 0, "views": 0})
+                x["clipes"] += 1
+                x["views"] += c.get("view_count", 0)
+            cursor = (d.get("pagination") or {}).get("cursor")
+            if not cursor:
+                break
+        try:
+            vivos = [{"canal": s["user_login"], "plateia": s["viewer_count"], "titulo": s["title"][:80]}
+                     for s in tw.ao_vivo(gid, "pt", 30)]
+        except Falha as e:
+            vivos = [{"erro": str(e)[:120]}]
+        descoberta[j] = {"clipes_pt_7d": sorted(cont.values(), key=lambda x: x["views"], reverse=True)[:40],
+                         "ao_vivo_pt_agora": vivos}
+    resultado = {"em": agora.isoformat(timespec="seconds"), "dias": dias, "jogos": gids, "canais": linhas,
+                 "descoberta": descoberta}
+    (cfg["_pasta"] / "lives-canais.json").write_text(json.dumps(resultado, ensure_ascii=False, indent=2) + "\n",
+                                                     encoding="utf-8")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--config", default=str(Q.CONFIG_PADRAO))
@@ -260,10 +389,16 @@ def main(argv: list[str] | None = None) -> int:
     r.add_argument("--forcar", action="store_true")
     t = sub.add_parser("teste")
     t.add_argument("jogo", nargs="?", default="Grand Theft Auto V")
+    k = sub.add_parser("canais")
+    k.add_argument("logins", nargs="*", help="logins da Twitch (vazio = favoritos do config)")
+    k.add_argument("--jogos", default="Grand Theft Auto V|Grand Theft Auto VI")
+    k.add_argument("--dias", type=int, default=30)
     args = ap.parse_args(argv)
     cfg = Q.carregar_config(Path(args.config))
     if args.cmd == "rodada":
         return rodada(cfg, args.forcar)
+    if args.cmd == "canais":
+        return canais(cfg, args.logins, [j for j in args.jogos.split("|") if j], args.dias)
     return teste(cfg, args.jogo)
 
 
