@@ -1,0 +1,34 @@
+name: Sonda vídeo do mapa (temporária)
+# Baixa o Reel de referência e procura imagens de mapa no site oficial. Não publica nada.
+on:
+  push:
+    branches: ["claude/project-thread-bbktm1"]
+    paths: [".github/workflows/sonda-mapa.yml", "scripts/mapa/sonda.txt"]
+permissions:
+  contents: write
+jobs:
+  sonda:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with: { lfs: false }
+      - run: |
+          pip install -q yt-dlp
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          P=previas/mapa/orig; mkdir -p $P
+          yt-dlp --no-playlist -f "mp4/bv*+ba/b" -o "$P/orig.%(ext)s" --write-info-json "https://www.instagram.com/reel/DftCNL-zgdx/" || echo YTDLP_FALHOU
+          ls -la $P
+          if [ -f $P/orig.mp4 ]; then
+            ffprobe -v error -show_entries format=duration:stream=width,height -of json $P/orig.mp4 > $P/probe.json
+            D=$(ffprobe -v error -show_entries format=duration -of default=nw=1:nk=1 $P/orig.mp4)
+            ffmpeg -y -v error -i $P/orig.mp4 -vf "fps=1,scale=360:-2" $P/q%03d.jpg
+          fi
+          # site oficial: lista de mídia com "map" no nome
+          for pg in VI VI/places VI/only-in-leonida VI/media VI/launch-gallery VI/map; do
+            curl -sL -A "Mozilla/5.0 Chrome/130" "https://www.rockstargames.com/$pg" -o /tmp/p.html -w "$pg %{http_code} %{size_download}\n" >> $P/site.txt
+            grep -oiE '[^"\\ ]*(map|mapa)[^"\\ ]*\.(jpg|png|webp|svg)' /tmp/p.html | sort -u >> $P/site.txt || true
+          done
+          git config user.name pixelzada-bot; git config user.email bot@pixelzada.com.br
+          git add -f $P; git commit -qm "sonda mapa [skip ci]" || exit 0
+          git push -q origin HEAD:$GITHUB_REF_NAME
