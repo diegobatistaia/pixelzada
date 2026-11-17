@@ -1,6 +1,7 @@
 name: Buffer
 
 # TikTok e YouTube Shorts pelo Buffer (Diego, 11/11). Código: scripts/social/buffer.py.
+# PAUSADOS: TikTok desde 13/11 e YouTube Shorts desde 17/11 (social/reels/buffer.json: pausadas).
 # O envio normal acontece dentro do workflow Reels, logo depois do Instagram.
 # Aqui: teste (lista canais e grava ids), enviar um Reel à mão, e conferir links.
 on:
