@@ -25,6 +25,13 @@ jobs:
           pip install -q pyyaml pillow numpy
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu > /dev/null
           curl -sfL -o trabalho/florida.geojson --create-dirs https://raw.githubusercontent.com/glynnbird/usstatesgeojson/master/florida.geojson || true
+      - name: Arte oficial do GTA 5 (Steam)
+        run: |
+          mkdir -p previas/longo/capas/g5art
+          for app in 271590 3240220; do for f in library_hero.jpg header.jpg library_600x900_2x.jpg capsule_616x353.jpg page_bg_raw.jpg; do
+            curl -sfL -o "previas/longo/capas/g5art/${app}_$f" "https://cdn.akamai.steamstatic.com/steam/apps/$app/$f" || true
+          done; done
+          ls -la previas/longo/capas/g5art
       - name: Capas
         run: python -u -m scripts.longo.capas_teste previas/longo/capas scripts/longo/capas/g5-michael.png
       - name: Guardar no ramo
