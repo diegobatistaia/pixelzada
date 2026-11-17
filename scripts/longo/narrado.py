@@ -802,8 +802,10 @@ def montar(ep: dict, trab: Path, saida: Path) -> Path:
     total = sum(c["dur"] for c in ep["cenas"])
     trilha = S.trilha(total, trab / "trilha.wav")
     fx = S.linha_de_efeitos(eventos_sonoros(ep, inicio), total, trab / "efeitos.wav")
-    entradas = ["-i", mudo, "-i", voz, "-loop", "1", "-i", lg, "-i", trilha, "-i", ambiente, "-i", fx]
-    filtro = (f"[0:v][2:v]overlay=52:40:format=auto:shortest=1[comlogo];"
+    entradas = ["-reinit_filter", "0", "-i", mudo, "-i", voz, "-framerate", str(FPS), "-loop", "1", "-i", lg, "-i", trilha, "-i", ambiente, "-i", fx]
+    # reinit_filter 0: os planos mudam de formato no meio; sem isso o filtro reinicia e o logo some por instantes
+    filtro = (f"[0:v]format=yuv420p,fps={FPS}[base];"
+              f"[base][2:v]overlay=52:40:format=auto:shortest=1:repeatlast=1[comlogo];"
               f"[comlogo]subtitles={ass}:fontsdir={fontes}[v]")
     amix = ("[1:a]aresample=44100,aformat=channel_layouts=stereo,volume=1.6,asplit[voz1][voz2];"
             f"[3:a]volume={ep.get('vol_trilha', 0.30)}[mus];[4:a]volume={ep.get('vol_cena', 0.85)}[amb];"
