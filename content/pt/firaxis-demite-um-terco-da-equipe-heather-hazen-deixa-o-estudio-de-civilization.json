@@ -99,7 +99,9 @@
     "query": "Civilization 7",
     "alt": "Arte de Civilization 7, jogo da Firaxis",
     "url": "https://www.videogameschronicle.com/files/2026/11/Civilization-7.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/firaxis-demite-um-terco-da-equipe-heathe-52c55061.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -133,5 +135,7 @@
       "title": "Civilization and XCOM studio Firaxis lays off a third of staff"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-17T20:41:06+00:00",
+  "updated_at": "2026-11-17T20:41:06+00:00"
 }

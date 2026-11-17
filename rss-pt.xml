@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:41:06 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Firaxis, de Civilization e XCOM, demite um terço da equipe e a chefe do estúdio deixa o cargo</title>
+      <link>https://pixelzada.com.br/pt/firaxis-demite-um-terco-da-equipe-heather-hazen-deixa-o-estudio-de-civilization/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/firaxis-demite-um-terco-da-equipe-heather-hazen-deixa-o-estudio-de-civilization/</guid>
+      <description>A Firaxis, de Civilization e XCOM, demitiu cerca de 60 pessoas, um terço da equipe, e Heather Hazen deixa o comando. Novo XCOM seria afetado, diz a Bloomberg.</description>
+      <category>Indústria</category>
+      <pubDate>Tue, 17 Nov 2026 20:41:06 +0000</pubDate>
+    </item>
     <item>
       <title>Easter eggs de GTA 6: as referências aos GTAs antigos escondidas nos trailers</title>
       <link>https://pixelzada.com.br/pt/easter-eggs-de-gta-6-referencias-aos-gtas-antigos-nos-trailers/</link>
@@ -238,14 +246,6 @@
       <description>Ex-funcionários da Nintendo dizem que Zelda vendia pouco antes de Breath of the Wild e que a mudança foi necessária. Veja a fala e os números do remake.</description>
       <category>Indústria</category>
       <pubDate>Fri, 13 Nov 2026 18:41:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Resident Evil Requiem leva quatro prêmios no Golden Joystick Awards 2026</title>
-      <link>https://pixelzada.com.br/pt/resident-evil-requiem-golden-joystick-awards-2026-jogo-do-ano/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/resident-evil-requiem-golden-joystick-awards-2026-jogo-do-ano/</guid>
-      <description>Resident Evil Requiem venceu o Golden Joystick Awards 2026 com quatro prêmios, incluindo Ultimate Game of the Year. Veja os vencedores e o recorde da Capcom.</description>
-      <category>Indústria</category>
-      <pubDate>Fri, 13 Nov 2026 16:52:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
