@@ -16,11 +16,9 @@ jobs:
           P=previas/mapa/sat; mkdir -p $P
           sudo apt-get install -y -qq p7zip-full imagemagick > /dev/null
           git clone -q --depth 1 https://github.com/Flamm64/GTA-V-World-Map /tmp/w
-          cd /tmp/w/Satellite && 7z x -y Satellite.7z > /dev/null; ls -la /tmp/w/Satellite > $GITHUB_WORKSPACE/$P/lista.txt; cd $GITHUB_WORKSPACE
-          F=$(ls -S /tmp/w/Satellite/* | grep -vi 7z | head -1); echo "$F" >> $P/lista.txt
-          identify -limit memory 4GiB "$F" >> $P/lista.txt || true
-          convert -limit memory 6GiB "$F" -resize 8000x8000\> -quality 88 $P/satelite-8000.jpg
-          convert $P/satelite-8000.jpg -resize 1000x1000 $P/mini.jpg
+          cd /tmp/w/Satellite && 7z x -y Satellite.7z > /dev/null; true; cd $GITHUB_WORKSPACE
+          pip install -q pillow
+          python3 scripts/mapa/costurar.py /tmp/w/Satellite 6 $P/satelite-z6.jpg | tee $P/lista.txt
           ls -la $P >> $P/lista.txt
           git config user.name pixelzada-bot; git config user.email bot@pixelzada.com.br
           git add -f $P; git commit -qm "sonda mapa 2 [skip ci]" || exit 0
