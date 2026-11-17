@@ -53,3 +53,4 @@ for voz in R["vozes"]:
         print(time.strftime("%H:%M:%S"), voz, s["id"], dest.exists(), flush=True)
 (OUT / "log.txt").write_text("\n".join(log))
 print("\n".join(log))
+# rodada 3: completar trechos que falharam
