@@ -114,7 +114,10 @@
     "query": "Shigeru Miyamoto",
     "alt": "Shigeru Miyamoto, criador de Mario e Zelda e diretor da Nintendo",
     "url": "https://www.videogameschronicle.com/files/2026/11/unnamed-13.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/shigeru-miyamoto-recebera-primeiro-legen-83452acb.jpg",
+    "source_url": "",
+    "foco": "25% 34%"
   },
   "sources": [
     {
@@ -136,5 +139,7 @@
       "title": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th D.I.C.E. Awards"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-17T14:47:27+00:00",
+  "updated_at": "2026-11-17T14:47:27+00:00"
 }
