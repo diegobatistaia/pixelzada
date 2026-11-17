@@ -4517,7 +4517,7 @@
     "slug": "viagem-de-moto-san-andreas",
     "data": "2026-11-16",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "A beleza das viagens de moto em San Andreas 🏍️\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gtasanandreas #sanandreas #nostalgia #rockstar #pixelzada",
     "tentativas": 0,
@@ -4539,6 +4539,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-16T21:00:14-03:00",
+      "media_id": "17928479958199688",
+      "permalink": "https://www.instagram.com/reel/Df0l-6anLcR/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afb994bdf36f4d825578fd9",
+        "em": "2026-11-16T21:01:14-03:00",
+        "status": "sending",
+        "link": null
+      }
     }
   },
   {
