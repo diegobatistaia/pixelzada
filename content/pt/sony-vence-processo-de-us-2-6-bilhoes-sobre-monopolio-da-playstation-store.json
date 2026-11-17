@@ -99,7 +99,9 @@
     "query": "PlayStation Store",
     "alt": "Tela da PlayStation Store",
     "url": "https://www.videogameschronicle.com/files/2021/03/PlayStation-Store-b.jpg",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/sony-vence-processo-de-us-2-6-bilhoes-so-c5e1259c.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -121,5 +123,7 @@
       "title": "London court tosses $2.6 billion Sony lawsuit"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-17T22:53:49+00:00",
+  "updated_at": "2026-11-17T22:53:49+00:00"
 }
