@@ -84,9 +84,9 @@ def perguntar(video: Path) -> dict:
     ultimo = "Gemini sem resposta"
     for modelo in modelos:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
-        for tentativa in range(3):
+        for tentativa in range(2):
             try:
-                dado = json.loads(SEG._post(url, corpo, {"x-goog-api-key": chave}, timeout=180))
+                dado = json.loads(SEG._post(url, corpo, {"x-goog-api-key": chave}, timeout=int(os.environ.get("CAMERA_IA_TIMEOUT", "50"))))
                 cand = (dado.get("candidates") or [{}])[0]
                 txt = "".join(p.get("text", "") for p in (cand.get("content") or {}).get("parts", []))
                 j = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
@@ -95,8 +95,8 @@ def perguntar(video: Path) -> dict:
                         "motivo": str(j.get("motivo", ""))[:160], "modelo": modelo}
             except urllib.error.HTTPError as e:
                 ultimo = f"Gemini {modelo} HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:120]}"
-                if e.code in (429, 500, 503) and tentativa < 2:
-                    time.sleep(15 * (tentativa + 1))
+                if e.code in (429, 500, 503) and tentativa < 1:
+                    time.sleep(10)
                     continue
                 break
             except Exception as e:

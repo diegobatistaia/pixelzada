@@ -58,7 +58,7 @@ concurrency:
 jobs:
   pesquisa:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 28
     env:
       META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
       ACAO: ${{ github.event.inputs.acao || 'agendada' }}
@@ -105,6 +105,7 @@ jobs:
 
       # Cortes das lives (lançamento do GTA 6): só age de 18/11 8h a 22/11 (config.yaml, bloco lives).
       - name: Clipes das lives (Twitch e Kick)
+        timeout-minutes: 14       # a rodada para de tentar clipes aos 7 min (lives.orcamento_min)
         continue-on-error: true   # se a Twitch falhar, o piso de Reels segue
         if: env.ACAO == 'agendada' || env.ACAO == 'completar' || env.ACAO == 'lives' || env.ACAO == 'lives-teste'
         run: |
