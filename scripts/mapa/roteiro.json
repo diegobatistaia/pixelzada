@@ -1,0 +1,19 @@
+{
+ "estilo": "Leia em português do Brasil, como um criador de conteúdo de games animado e próximo do público, ritmo dinâmico e natural, sem soar robótico. Texto: ",
+ "vozes": ["Charon", "Kore"],
+ "segmentos": [
+  {"id": "00-abertura", "texto": "Antes do GTA 6 chegar, Los Santos merece uma despedida. Salva esse mapa pra fazer esse trajeto com a galera."},
+  {"id": "01-grove", "texto": "O ponto de encontro é a Grove Street, às duas e meia da tarde no relógio do jogo. Escolhe seu carro favorito e chama o comboio."},
+  {"id": "02-rodovia", "texto": "Pega a rodovia rumo ao norte e liga aquela rádio que marcou suas jogatinas."},
+  {"id": "03-sandy", "texto": "A primeira parada é Sandy Shores, no deserto do Trevor, na beira do Alamo Sea."},
+  {"id": "04-paleto", "texto": "Depois, sobe até Paleto Bay, lá no extremo norte. É ali que começa a volta."},
+  {"id": "05-costa", "texto": "Desce pela costa oeste, na Great Ocean Highway, vendo o sol baixar sobre o mar."},
+  {"id": "06-delperro", "texto": "A próxima passagem é pela praia de Del Perro, já de volta a Los Santos."},
+  {"id": "07-aeroporto", "texto": "E segue direto pro aeroporto. Tenta chegar perto das sete e meia da noite no jogo."},
+  {"id": "08-conta", "texto": "A conta é simples: uma hora no jogo dura dois minutos reais. Das duas e meia às sete e meia são cinco horas no jogo, uns dez minutos de volante."},
+  {"id": "09-jatinho", "texto": "No aeroporto, pega um jatinho e decola pro leste."},
+  {"id": "10-vice", "texto": "Próximo destino: Vice City."},
+  {"id": "11-resumo", "texto": "No total são uns vinte e oito quilômetros, de dez a catorze minutos de percurso, dependendo do carro."},
+  {"id": "12-final", "texto": "Salva esse percurso e segue a Pixelzada pra acompanhar o GTA 6."}
+ ]
+}

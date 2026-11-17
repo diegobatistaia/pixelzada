@@ -1,0 +1,22 @@
+name: Voz do vídeo do mapa (temporária)
+on:
+  push:
+    branches: ["claude/project-thread-bbktm1"]
+    paths: ["scripts/mapa/roteiro.json", "scripts/mapa/voz.py", ".github/workflows/voz-mapa.yml"]
+permissions:
+  contents: write
+concurrency: { group: voz-mapa, cancel-in-progress: true }
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          P=previas/mapa/voz; rm -rf $P; mkdir -p $P
+          python3 -u scripts/mapa/voz.py scripts/mapa/roteiro.json $P
+          git config user.name pixelzada-bot; git config user.email bot@pixelzada.com.br
+          git add -f $P; git commit -qm "voz mapa [skip ci]" || exit 0
+          for i in 1 2 3; do git pull -q --rebase origin $GITHUB_REF_NAME && git push -q origin HEAD:$GITHUB_REF_NAME && exit 0; sleep 5; done
