@@ -13,14 +13,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          P=previas/mapa/sonda2; mkdir -p $P
-          for r in CreepPork/GTAV-Maps Flamm64/GTA-V-World-Map gta5-map/gta5-map.github.io VIRUXE/gtav-map-tiles; do
-            d=/tmp/$(basename $r)
-            git clone -q --depth 1 https://github.com/$r $d || continue
-            echo "== $r" >> $P/arvore.txt
-            (cd $d && find . -path ./.git -prune -o -type d -print | awk -F/ 'NF<=5' | head -80) >> $P/arvore.txt
-            (cd $d && find . -path ./.git -prune -o -type f -size +1M -printf "%s %p\n" | sort -rn | head -30) >> $P/arvore.txt
-          done
+          P=previas/mapa/sat; mkdir -p $P
+          sudo apt-get install -y -qq p7zip-full imagemagick > /dev/null
+          git clone -q --depth 1 https://github.com/Flamm64/GTA-V-World-Map /tmp/w
+          cd /tmp/w/Satellite && 7z x -y Satellite.7z > /dev/null; ls -la /tmp/w/Satellite > $GITHUB_WORKSPACE/$P/lista.txt; cd $GITHUB_WORKSPACE
+          F=$(ls -S /tmp/w/Satellite/* | grep -vi 7z | head -1); echo "$F" >> $P/lista.txt
+          identify -limit memory 4GiB "$F" >> $P/lista.txt || true
+          convert -limit memory 6GiB "$F" -resize 8000x8000\> -quality 88 $P/satelite-8000.jpg
+          convert $P/satelite-8000.jpg -resize 1000x1000 $P/mini.jpg
+          ls -la $P >> $P/lista.txt
           git config user.name pixelzada-bot; git config user.email bot@pixelzada.com.br
           git add -f $P; git commit -qm "sonda mapa 2 [skip ci]" || exit 0
           git push -q origin HEAD:$GITHUB_REF_NAME
