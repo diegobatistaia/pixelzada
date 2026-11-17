@@ -4952,7 +4952,7 @@
     "slug": "san-andreas-com-hud-de-gta6",
     "data": "2026-11-17",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Já tem um GTA San Andreas modificado com o HUD de GTA 6 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gtasanandreas #gta6 #mods #rockstargames #pixelzada",
     "tentativas": 0,
@@ -4974,6 +4974,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T14:00:42-03:00",
+      "media_id": "18098809763445829",
+      "permalink": "https://www.instagram.com/reel/Df2a3G5jODk/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
