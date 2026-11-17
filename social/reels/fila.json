@@ -5951,31 +5951,59 @@
     }
   },
   {
-    "slug": "o-universo-dos-games-playstation-br",
+    "slug": "hoje-ultimo-dia-sem-gta6",
     "data": "2026-11-18",
     "horario": "19:00",
     "status": "agendado",
-    "estilo": "Gigante",
-    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "estilo": "TV",
+    "legenda": "Hoje é o nosso último dia sem GTA 6 😍 Amanhã a gente já tá em Vice City.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "playstation_br",
-      "link": "https://www.instagram.com/reel/Df0RdNDpKkx/",
-      "titulo": "padrao",
-      "revisado": false
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df2l9oAvUak/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "games",
-      "jogo": "o universo dos games",
+      "formato": "meme",
+      "tema": "espera",
+      "jogo": "gta6",
       "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "Personagens totalmente vestidos conversando em cena de jogo.",
-      "por": "imagem",
-      "em": "2026-11-17T15:35:19-03:00"
+      "motivo": "quadros conferidos à mão em 17/11",
+      "por": "revisão manual",
+      "em": "2026-11-17T22:11:07.286278+00:00"
+    }
+  },
+  {
+    "slug": "vice-city-chega-ao-nba-2k27",
+    "data": "2026-11-18",
+    "horario": "19:30",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Vice City chegou ao NBA 2K27! 🏀🌴 A colaboração entre os jogos da Take-Two foi anunciada com novidades para os fãs de basquete.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/Df0ktrATwwt/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "noticia",
+      "jogo": "gta6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 17/11",
+      "por": "revisão manual",
+      "em": "2026-11-17T22:11:07.286278+00:00"
     }
   },
   {
