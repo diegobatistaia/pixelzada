@@ -1,0 +1,23 @@
+{
+ "voz": "Google Gemini TTS (gemini-3.1-flash-tts-preview, voz Charon)",
+ "pedida": "Charon",
+ "cenas": {
+  "gancho": "884f039aa7643b2c",
+  "abertura": "1ab95c1f8bfbfc15",
+  "vice-city-volta": "ffb3fb97db3dc5c8",
+  "estado": "df9e7949c8e4c3cf",
+  "mapa": "5ac44e8907d497a1",
+  "vice-city": "9ba6b8396baaf99a",
+  "vice-city-2": "37b32c1e10610d48",
+  "keys": "51ae6d15506f34bb",
+  "grassrivers": "ce7f65167ac6f6b8",
+  "gellhorn": "0731455731a2bc53",
+  "ambrosia": "20f13d9db4068580",
+  "kalaga": "3a36eaff1d19d2ba",
+  "only-in-leonida": "36d8627ffd819e4b",
+  "carros": "ffa1a55a79c29371",
+  "personagens": "a893ef7eafa97e1d",
+  "nao-anunciado": "2119e0cd12b102ae",
+  "fechamento": "4c81ec1f9163070f"
+ }
+}

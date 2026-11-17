@@ -228,6 +228,11 @@ def voz_gemini(texto: str, saida: Path) -> str:
                 erros.append(f"{modelo}: sem áudio {e}")
                 break
             except Exception as e:  # noqa: BLE001
+                # tempo esgotado / conexão caiu: tenta de novo no mesmo modelo antes de desistir
+                if ("timed out" in str(e) or isinstance(e, (TimeoutError, urllib.error.URLError))) and tentativa < 3:
+                    print(f"    Google demorou demais ({e}); tentando de novo")
+                    time.sleep(10 * (tentativa + 1))
+                    continue
                 erros.append(f"{modelo}: {e}")
                 break
         if _MODELO_TRAVADO:

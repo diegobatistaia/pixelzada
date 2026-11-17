@@ -78,7 +78,8 @@ jobs:
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
           git add -f "$P"
+          [ -d "previas/longo/vozes/$EPISODIO" ] && git add -f "previas/longo/vozes/$EPISODIO"
           git diff --cached --quiet && exit 0
           git commit -q -m "longo narrado: prévia $EPISODIO [skip ci]"
-          for i in 1 2 3 4; do git pull --rebase -q origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
+          for i in 1 2 3 4; do { git pull --rebase -X theirs -q origin "$GITHUB_REF_NAME" || { git rebase --abort; false; }; } && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
           exit 1

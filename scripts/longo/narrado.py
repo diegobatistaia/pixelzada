@@ -13,6 +13,7 @@ Saída em trabalho/narrado/<slug>/ (vídeo final, capa, descrição). Não publi
 """
 from __future__ import annotations
 
+import hashlib
 import json
 import math
 import os
@@ -81,11 +82,59 @@ def carregar(arq: Path) -> dict:
 # ---------------------------------------------------------------------------
 # voz: um trecho por cena, uma voz só; tempo de cada frase pelos silêncios
 # ---------------------------------------------------------------------------
-def narrar(ep: dict, trab: Path) -> str:
+VOZES = RAIZ / "previas/longo/vozes"
+
+
+def _hash(texto: str) -> str:
+    return hashlib.sha1(texto.strip().encode("utf-8")).hexdigest()[:16]
+
+
+def _voz_guardada(ep: dict, slug: str, trab: Path) -> str | None:
+    """Voz já aprovada fica guardada no repositório: remontar o vídeo não muda a voz nem gasta cota.
+    Só vale se TODAS as cenas tiverem o mesmo texto e a mesma voz pedida."""
+    idx = VOZES / slug / "vozes.json"
+    if not idx.exists() or os.environ.get("VOZ_NOVA"):
+        return None
+    d = json.loads(idx.read_text())
+    if d.get("pedida") != (ep.get("voz") or EP.VOZ_GEMINI):
+        return None
+    if any(d["cenas"].get(c["id"]) != _hash(c["texto"]) for c in ep["cenas"]):
+        print("  voz guardada não confere com o roteiro; narrando de novo")
+        return None
+    pasta = trab / "voz"
+    pasta.mkdir(parents=True, exist_ok=True)
+    for c in ep["cenas"]:
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(VOZES / slug / f"{c['id']}.flac"),
+                        "-ar", "24000", "-ac", "1", str(pasta / f"{c['id']}.wav")], check=True)
+    print(f"  voz guardada: {d['voz']}")
+    return d["voz"]
+
+
+def _guardar_voz(ep: dict, slug: str, trab: Path, voz: str) -> None:
+    if "Gemini" not in voz or "+" in voz:  # só guarda voz do Google, inteira e de um modelo só
+        return
+    pasta = VOZES / slug
+    pasta.mkdir(parents=True, exist_ok=True)
+    for c in ep["cenas"]:
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(trab / "voz" / f"{c['id']}.wav"),
+                        "-ac", "1", "-ar", "24000", str(pasta / f"{c['id']}.flac")], check=True)
+    (pasta / "vozes.json").write_text(json.dumps(
+        {"voz": voz, "pedida": ep.get("voz") or EP.VOZ_GEMINI,
+         "cenas": {c["id"]: _hash(c["texto"]) for c in ep["cenas"]}}, ensure_ascii=False, indent=1))
+
+
+def narrar(ep: dict, trab: Path, slug: str = "") -> str:
     segs = [{"id": c["id"], "texto": c["texto"]} for c in ep["cenas"]]
     if ep.get("voz"):  # voz do Gemini escolhida no episódio (teste do Diego, 17/11)
         EP.VOZ_GEMINI = ep["voz"]
+    guardada = _voz_guardada(ep, slug, trab) if slug else None
     voz = EP.narrar(segs, trab)
+    if not guardada and ep.get("so_gemini") and "Gemini" not in voz:
+        raise RuntimeError(f"episódio pede voz do Google ({ep.get('voz')}), mas saiu: {voz}")
+    if guardada:
+        voz = guardada
+    elif slug:
+        _guardar_voz(ep, slug, trab, voz)
     for c, s in zip(ep["cenas"], segs):
         c["audio"], c["dur"] = s["audio"], s["dur"]
         c["t_frases"] = tempos_frases(s["audio"], c["frases"], s["dur"])
@@ -129,8 +178,18 @@ def tempos_frases(audio: Path, fr: list[str], dur: float) -> list[tuple[float, f
 # material
 # ---------------------------------------------------------------------------
 def oficial(prefixo: str) -> Path:
+    OFICIAL.mkdir(parents=True, exist_ok=True)
     achados = sorted(p for p in OFICIAL.iterdir() if p.name.startswith(prefixo))
-    if not achados:
+    if not achados:  # não veio na coleta: busca no índice do site oficial (previas/longo/_lista)
+        idx = RAIZ / "previas/longo/_lista/indice.json"
+        urls = json.loads(idx.read_text()).get("itens", {}) if idx.exists() else {}
+        for url in sorted(urls):
+            nome = url.rsplit("/", 1)[-1]
+            if nome.startswith(prefixo + ".") or nome.startswith(prefixo + "_") or nome.split(".")[0] == prefixo:
+                dest = OFICIAL / nome
+                dest.write_bytes(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=90).read())
+                print(f"  oficial baixada do índice: {nome}")
+                return dest
         raise RuntimeError(f"imagem oficial não encontrada: {prefixo}")
     return achados[0]
 
@@ -809,7 +868,7 @@ def tudo(arq: Path) -> int:
     trab = RAIZ / "trabalho/narrado" / slug
     trab.mkdir(parents=True, exist_ok=True)
     print("== voz", flush=True)
-    voz = narrar(ep, trab)
+    voz = narrar(ep, trab, slug)
     print("voz:", voz)
     print("== planos e montagem", flush=True)
     final = trab / f"{slug}.mp4"
