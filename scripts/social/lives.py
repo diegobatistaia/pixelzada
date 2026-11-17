@@ -39,7 +39,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import pesquisa as Q
-from . import rosto
+from . import camera_ia, rosto
 
 TZ = Q.TZ
 UA = "Mozilla/5.0 (compatible; pixelzada-bot)"
@@ -200,6 +200,13 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False) -> dict:
             return {"ok": False, "motivo": f"download falhou: {(r.stderr or r.stdout).strip()[-160:]}"}
         destino.parent.mkdir(parents=True, exist_ok=True)
         res = rosto.limpar(bruto, destino)
+        if res.get("ok") and destino.exists():
+            # 2ª barreira: o Gemini confere se sobrou câmera/pessoa real (na dúvida, descarta)
+            ia = camera_ia.limpar(destino)
+            if not ia["ok"]:
+                destino.unlink(missing_ok=True)
+                return {"ok": False, "motivo": f"{res.get('motivo', '')}; {ia['motivo']}"}
+            res = {**res, "motivo": f"{res.get('motivo', '')}; {ia['motivo']}", **{k: v for k, v in ia.items() if k == "corte_ia"}}
         if res.get("ok") and mutar and destino.exists():
             mudo = Path(tmp) / "mudo.mp4"
             m = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(destino), "-c:v", "copy", "-an", str(mudo)],
