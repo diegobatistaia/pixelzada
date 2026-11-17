@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:44:46 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Remake de Zelda Ocarina of Time é o jogo físico mais vendido de 2026 nos EUA</title>
+      <link>https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-jogo-fisico-mais-vendido-de-2026-nos-eua/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/zelda-ocarina-of-time-remake-jogo-fisico-mais-vendido-de-2026-nos-eua/</guid>
+      <description>O remake de Zelda: Ocarina of Time vendeu mais de 1 milhão de cópias físicas na primeira semana nos EUA e é o jogo físico mais vendido de 2026, diz a Circana.</description>
+      <category>Indústria</category>
+      <pubDate>Tue, 17 Nov 2026 10:44:45 +0000</pubDate>
+    </item>
     <item>
       <title>Star Wars: Galactic Racer terá tela dividida para até 4 jogadores em 2027</title>
       <link>https://pixelzada.com.br/pt/star-wars-galactic-racer-tela-dividida-ate-4-jogadores-modo-free-play-2027/</link>
@@ -238,14 +246,6 @@
       <description>Halo: Campaign Evolved ganhará o modo Firefight, cooperativo para quatro jogadores, em atualização gratuita neste inverno. Veja o que o Xbox confirmou.</description>
       <category>Lançamentos</category>
       <pubDate>Thu, 12 Nov 2026 22:44:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Intergalactic está nas últimas etapas de produção, diz Druckmann</title>
-      <link>https://pixelzada.com.br/pt/intergalactic-heretic-prophet-ultimas-etapas-producao-druckmann/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/intergalactic-heretic-prophet-ultimas-etapas-producao-druckmann/</guid>
-      <description>Neil Druckmann diz que Intergalactic: The Heretic Prophet está nas últimas etapas de produção e promete mostrar jogabilidade e história no ano que vem. Veja.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 12 Nov 2026 20:41:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
