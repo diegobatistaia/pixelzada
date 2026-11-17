@@ -7,41 +7,45 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-17T10:26-03:00",
+ "atualizado": "2026-11-17T19:23-03:00",
  "hoje": {
   "data": "2026-11-17",
   "reels": {
    "meta": 17,
-   "publicados": 4,
-   "deviam_ter_saido": 3,
+   "publicados": 13,
+   "deviam_ter_saido": 12,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 1,
+   "deviam_ter_saido": 5,
    "atrasados": [
-    "09:00"
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 37,
+  "agendados": 33,
   "meta_por_dia": 33,
-  "dias_de_reserva": 1.1,
+  "dias_de_reserva": 1.0,
   "grade_cheia_ate": null,
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-17",
-    "agendados": 13,
+    "agendados": 4,
     "meta": 17
    },
    {
     "data": "2026-11-18",
-    "agendados": 22,
+    "agendados": 27,
     "meta": 33
    },
    {
@@ -52,41 +56,41 @@
   ]
  },
  "site": {
-  "total": 224,
-  "hoje": 3,
+  "total": 229,
+  "hoje": 8,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Xbox na semana de 16 a 20 de novembro: GTA 6 na nuvem, lançamentos e Black Friday",
-   "url": "https://pixelzada.com.br/pt/xbox-semana-16-a-20-de-novembro-gta-6-na-nuvem-lancamentos-e-black-friday/",
-   "em": "2026-11-17T09:41:22-03:00"
+   "titulo": "Firaxis, de Civilization e XCOM, demite um terço da equipe e a chefe do estúdio deixa o cargo",
+   "url": "https://pixelzada.com.br/pt/firaxis-demite-um-terco-da-equipe-heather-hazen-deixa-o-estudio-de-civilization/",
+   "em": "2026-11-17T17:41:06-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "17/11/2026 06:06",
+  "ultima_coleta": "17/11/2026 19:05",
   "perfis_lidos": 38,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
   "seguidores": 102,
-  "seguindo": 6,
-  "posts": 316,
-  "alcance_7d": 13302,
-  "views_7d": 18531,
+  "seguindo": 7,
+  "posts": 325,
+  "alcance_7d": 14438,
+  "views_7d": 19976,
   "reels_7d": {
    "quantidade": 96,
-   "views_total": 15688,
-   "views_mediana": 158,
+   "views_total": 15516,
+   "views_mediana": 159,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-17": 225,
-    "2026-11-16": 2060,
-    "2026-11-15": 3377,
-    "2026-11-14": 1618,
-    "2026-11-13": 2140,
-    "2026-11-12": 2158,
+    "2026-11-17": 1446,
+    "2026-11-16": 2165,
+    "2026-11-15": 3381,
+    "2026-11-14": 1625,
+    "2026-11-13": 2151,
+    "2026-11-12": 2161,
     "2026-11-11": 2288,
-    "2026-11-10": 1822
+    "2026-11-10": 299
    },
    "melhores": [
     {
@@ -107,24 +111,24 @@
     },
     {
      "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liber",
-     "views": 261,
-     "alcance": 168,
+     "views": 262,
+     "alcance": 169,
      "curtidas": 9,
      "link": "https://www.instagram.com/reel/DfrlTmNgoiO/",
      "em": "2026-11-13T09:01:41-03:00"
     },
     {
-     "legenda": "A física de cabelo do GTA 5 contra a do GTA 6 💇",
-     "views": 242,
-     "alcance": 143,
-     "curtidas": 1,
-     "link": "https://www.instagram.com/reel/DfpOa0MDfNa/",
-     "em": "2026-11-12T11:03:15-03:00"
+     "legenda": "GTA 6 vs GTA 5: a diferença no tamanho do mapa é absurda 🗺️",
+     "views": 256,
+     "alcance": 175,
+     "curtidas": 5,
+     "link": "https://www.instagram.com/reel/Df0s1yBlDHl/",
+     "em": "2026-11-16T22:00:42-03:00"
     },
     {
      "legenda": "Xbox 360: 22 de novembro de 2005 💚",
-     "views": 241,
-     "alcance": 210,
+     "views": 244,
+     "alcance": 212,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/Df0zxTNDtzA/",
      "em": "2026-11-16T23:01:07-03:00"
@@ -134,9 +138,15 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 4,
+  "falhas_24h": 5,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Coletar",
+    "em": "2026-11-17T15:39:51-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44150275203",
+    "resolvido": true
+   },
    {
     "workflow": "Vídeo longo narrado (prévia)",
     "em": "2026-11-17T06:31:34-03:00",
@@ -189,7 +199,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2158
+   "views_reels": 2161
   },
   {
    "data": "2026-11-13",
@@ -198,7 +208,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2140
+   "views_reels": 2151
   },
   {
    "data": "2026-11-14",
@@ -207,7 +217,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1618
+   "views_reels": 1625
   },
   {
    "data": "2026-11-15",
@@ -216,7 +226,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
-   "views_reels": 3377
+   "views_reels": 3381
   },
   {
    "data": "2026-11-16",
@@ -225,16 +235,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 2060
+   "views_reels": 2165
   },
   {
    "data": "2026-11-17",
-   "reels": 4,
+   "reels": 13,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 3,
-   "views_reels": 225
+   "materias": 8,
+   "views_reels": 1446
   }
  ],
  "seguidores_por_dia": [
@@ -282,11 +292,11 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
   },
   {
    "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,1 dia(s) de reserva"
+   "texto": "Fila de Reels com só 1,0 dia(s) de reserva"
   },
   {
    "nivel": "amarelo",
