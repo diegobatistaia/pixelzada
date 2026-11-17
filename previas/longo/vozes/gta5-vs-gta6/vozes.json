@@ -1,0 +1,19 @@
+{
+ "voz": "Google Gemini TTS (gemini-3.1-flash-tts-preview, voz Puck)",
+ "pedida": "Puck",
+ "cenas": {
+  "gancho": "ae55fd96023247fe",
+  "abertura": "3069898b6577bfc5",
+  "d1": "4988a0a7fa23e66a",
+  "d2": "3005afa7fcdff73b",
+  "d3": "2046b7f87897dd6a",
+  "d4": "5c5549f04fd962db",
+  "d5": "92a21ba8f982d270",
+  "d6": "6521512009a67ccc",
+  "d7": "8df41a3abeff5806",
+  "d8": "0ac4a60f6dee3337",
+  "d9": "a1146b37a76d7333",
+  "d10": "45cdd576cb389f46",
+  "fechamento": "d8d8bf0a8053b420"
+ }
+}

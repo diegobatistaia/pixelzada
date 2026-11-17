@@ -16,365 +16,365 @@ Style: Capitulo,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:02.86,Legenda,,0,0,0,,Você passou treze anos jogando GTA 5.
-Dialogue: 0,0:00:02.88,0:00:05.58,Legenda,,0,0,0,,Pode esquecer metade do que aprendeu.
-Dialogue: 0,0:00:05.60,0:00:08.57,Legenda,,0,0,0,,Na quinta-feira, GTA 6 chega ao PlayStation 5
-Dialogue: 0,0:00:08.59,0:00:11.37,Legenda,,0,0,0,,e ao Xbox Series, e pelo que a Rockstar já
-Dialogue: 0,0:00:11.39,0:00:14.42,Legenda,,0,0,0,,mostrou, o jogo muda coisas que pareciam regra
-Dialogue: 0,0:00:14.44,0:00:15.17,Legenda,,0,0,0,,da série.
-Dialogue: 0,0:00:15.19,0:00:19.30,Legenda,,0,0,0,,Separei dez diferenças entre GTA 5 e GTA 6.
-Dialogue: 0,0:00:19.32,0:00:22.13,Legenda,,0,0,0,,E a última é a que mais vai doer.
-Dialogue: 1,0:00:00.15,0:00:02.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:00:03.03,0:00:05.50,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:00:05.75,0:00:10.30,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:00:10.55,0:00:15.09,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:00:15.34,0:00:19.22,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:00:19.47,0:00:22.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 2,0:00:15.34,0:00:17.94,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H008B3DFF\shad6\4c&H40240612}GTA 5 VS GTA 6
-Dialogue: 2,0:00:15.59,0:00:17.94,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}10 diferenças
-Dialogue: 0,0:00:22.50,0:00:24.18,Legenda,,0,0,0,,Aqui é a Pixelzada.
-Dialogue: 0,0:00:24.20,0:00:27.10,Legenda,,0,0,0,,Antes de começar, um combinado: tudo o que eu
-Dialogue: 0,0:00:27.12,0:00:29.96,Legenda,,0,0,0,,falar sobre GTA 6 vem dos trailers, do vídeo
-Dialogue: 0,0:00:29.98,0:00:31.97,Legenda,,0,0,0,,de gameplay e do site oficial.
-Dialogue: 0,0:00:31.99,0:00:34.95,Legenda,,0,0,0,,Na quinta, com o jogo na mão, a gente confere
-Dialogue: 0,0:00:34.97,0:00:36.31,Legenda,,0,0,0,,o que se confirmou.
-Dialogue: 0,0:00:36.33,0:00:38.09,Legenda,,0,0,0,,Bora para a lista.
-Dialogue: 0,0:00:38.11,0:00:41.17,Legenda,,0,0,0,,E fica até o fim, porque a diferença número
-Dialogue: 0,0:00:41.19,0:00:44.18,Legenda,,0,0,0,,dez mexe com quem joga GTA Online há anos.
-Dialogue: 1,0:00:24.35,0:00:28.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:00:28.25,0:00:31.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:00:32.14,0:00:36.23,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:00:36.48,0:00:44.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
-Dialogue: 5,0:00:22.19,0:00:22.81,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:00:22.23,0:00:22.85,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:00:22.28,0:00:22.90,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:00:22.50,0:00:44.55,Capitulo,,0,0,0,,{\fad(300,300)}ABERTURA
-Dialogue: 0,0:00:44.55,0:00:47.42,Legenda,,0,0,0,,Diferença número um: os protagonistas.
-Dialogue: 0,0:00:47.44,0:00:50.45,Legenda,,0,0,0,,Em GTA 5, você trocava entre três criminosos
-Dialogue: 0,0:00:50.47,0:00:53.48,Legenda,,0,0,0,,que mal se suportavam: Michael, o aposentado
-Dialogue: 0,0:00:53.50,0:00:56.58,Legenda,,0,0,0,,em crise, Franklin, o jovem querendo subir na
-Dialogue: 0,0:00:56.60,0:00:58.91,Legenda,,0,0,0,,vida, e Trevor, o caos em pessoa.
-Dialogue: 0,0:00:58.93,0:01:00.37,Legenda,,0,0,0,,Em GTA 6, são dois.
-Dialogue: 0,0:01:00.39,0:01:01.54,Legenda,,0,0,0,,Jason e Lucia, um casal.
-Dialogue: 0,0:01:01.56,0:01:03.99,Legenda,,0,0,0,,A Rockstar resume assim: um golpe fácil dá
-Dialogue: 0,0:01:04.01,0:01:06.38,Legenda,,0,0,0,,errado, e os dois precisam depender um do
-Dialogue: 0,0:01:06.40,0:01:07.73,Legenda,,0,0,0,,outro para sair vivos.
-Dialogue: 0,0:01:07.75,0:01:12.15,Legenda,,0,0,0,,E Lucia é a primeira protagonista mulher da
-Dialogue: 0,0:01:12.17,0:01:16.66,Legenda,,0,0,0,,série principal desde a era dos jogos em 3D.
-Dialogue: 0,0:01:16.68,0:01:19.04,Legenda,,0,0,0,,Isso muda o ritmo da história.
-Dialogue: 0,0:01:19.06,0:01:21.59,Legenda,,0,0,0,,Em vez de três vidas separadas que se cruzam
-Dialogue: 0,0:01:21.61,0:01:24.14,Legenda,,0,0,0,,de vez em quando, a promessa é uma dupla que
-Dialogue: 0,0:01:24.16,0:01:26.53,Legenda,,0,0,0,,divide o mesmo problema do começo ao fim.
-Dialogue: 0,0:01:26.55,0:01:29.57,Legenda,,0,0,0,,E se um lado errar, o outro paga junto.
-Dialogue: 0,0:01:29.59,0:01:32.47,Legenda,,0,0,0,,É a primeira vez que a série principal coloca
-Dialogue: 0,0:01:32.49,0:01:34.28,Legenda,,0,0,0,,um casal no centro de tudo.
-Dialogue: 1,0:00:44.70,0:00:47.34,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:00:47.59,0:00:50.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:00:50.46,0:00:53.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:00:53.33,0:00:55.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:00:56.20,0:00:58.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:00:59.08,0:01:00.29,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:01:00.54,0:01:03.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:01:04.22,0:01:07.65,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:07.90,0:01:12.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:01:12.37,0:01:16.58,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:01:16.83,0:01:18.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:01:19.21,0:01:26.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:01:26.70,0:01:29.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:29.74,0:01:34.55,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:00:44.24,0:00:44.86,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:00:44.28,0:00:44.90,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:00:44.33,0:00:44.95,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:00:44.55,0:01:34.65,Capitulo,,0,0,0,,{\fad(300,300)}1. OS PROTAGONISTAS
-Dialogue: 2,0:00:59.08,0:01:01.68,Grande,,0,0,0,,{\an5\pos(960,470)\fs200\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}3 → 2
-Dialogue: 2,0:00:59.33,0:01:01.68,Apoio,,0,0,0,,{\an5\pos(960,630)\fad(150,250)}Michael, Franklin e Trevor → Jason e Lucia
-Dialogue: 2,0:01:07.90,0:01:11.50,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LUCIA
-Dialogue: 2,0:01:08.10,0:01:11.50,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}primeira protagonista mulher na era 3D
-Dialogue: 0,0:01:34.65,0:01:37.93,Legenda,,0,0,0,,Diferença número dois: o tamanho da ambição.
-Dialogue: 0,0:01:37.95,0:01:40.97,Legenda,,0,0,0,,GTA 5 tinha Los Santos, a versão do jogo para
-Dialogue: 0,0:01:40.99,0:01:44.02,Legenda,,0,0,0,,Los Angeles, e o interior em volta, no estado
-Dialogue: 0,0:01:44.04,0:01:45.17,Legenda,,0,0,0,,de San Andreas.
-Dialogue: 0,0:01:45.19,0:01:47.20,Legenda,,0,0,0,,GTA 6 vai para um estado inteiro, Leonida,
-Dialogue: 0,0:01:47.22,0:01:48.29,Legenda,,0,0,0,,inspirado na Flórida.
-Dialogue: 0,0:01:48.31,0:01:51.42,Legenda,,0,0,0,,Tem Vice City, a cidade, e mais regiões com
-Dialogue: 0,0:01:51.44,0:01:54.42,Legenda,,0,0,0,,cara própria: as ilhas de Leonida Keys, o
-Dialogue: 0,0:01:54.44,0:01:57.28,Legenda,,0,0,0,,pântano de Grassrivers, a costa de Port
-Dialogue: 0,0:01:57.30,0:02:00.62,Legenda,,0,0,0,,Gellhorn, o interior de Ambrosia e o parque do
-Dialogue: 0,0:02:00.64,0:02:01.71,Legenda,,0,0,0,,Mount Kalaga.
-Dialogue: 0,0:02:01.73,0:02:04.37,Legenda,,0,0,0,,Ou seja: em vez de uma cidade grande com um
-Dialogue: 0,0:02:04.39,0:02:07.09,Legenda,,0,0,0,,quintal em volta, o mapa de GTA 6 é feito de
-Dialogue: 0,0:02:07.11,0:02:09.87,Legenda,,0,0,0,,vários lugares diferentes, cada um com clima,
-Dialogue: 0,0:02:09.89,0:02:11.55,Legenda,,0,0,0,,gente e problema próprios.
-Dialogue: 0,0:02:11.57,0:02:14.25,Legenda,,0,0,0,,Quem já atravessou San Andreas de carro sabe
-Dialogue: 0,0:02:14.27,0:02:15.74,Legenda,,0,0,0,,que a viagem era longa.
-Dialogue: 0,0:02:15.76,0:02:19.01,Legenda,,0,0,0,,Agora a viagem promete ter muito mais coisa no
-Dialogue: 0,0:02:19.03,0:02:19.75,Legenda,,0,0,0,,caminho.
-Dialogue: 1,0:01:34.80,0:01:37.85,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:01:38.10,0:01:41.47,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:01:41.72,0:01:45.09,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:01:45.34,0:01:48.21,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:01:48.46,0:01:50.45,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:01:50.70,0:01:52.68,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:01:52.93,0:01:54.92,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:01:55.17,0:01:57.16,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:01:57.41,0:01:59.40,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:01:59.65,0:02:01.63,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
-Dialogue: 1,0:02:01.88,0:02:06.55,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:02:06.80,0:02:11.47,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:02:11.72,0:02:15.66,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:02:15.91,0:02:20.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:01:34.34,0:01:34.96,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:01:34.38,0:01:35.00,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:01:34.43,0:01:35.05,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:01:34.65,0:02:20.12,Capitulo,,0,0,0,,{\fad(300,300)}2. CIDADE VS ESTADO
-Dialogue: 2,0:01:38.10,0:01:41.70,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}LOS SANTOS
-Dialogue: 2,0:01:38.30,0:01:41.70,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}GTA 5
-Dialogue: 2,0:01:45.34,0:01:48.94,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LEONIDA
-Dialogue: 2,0:01:45.54,0:01:48.94,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}um estado inteiro
-Dialogue: 0,0:02:20.12,0:02:22.66,Legenda,,0,0,0,,Diferença número três: gente.
-Dialogue: 0,0:02:22.68,0:02:24.22,Legenda,,0,0,0,,Muita gente.
-Dialogue: 0,0:02:24.24,0:02:26.52,Legenda,,0,0,0,,As ruas de GTA 5 eram vivas para 2013, mas os
-Dialogue: 0,0:02:26.54,0:02:28.62,Legenda,,0,0,0,,trailers de GTA 6 mostram calçada lotada,
-Dialogue: 0,0:02:28.64,0:02:30.67,Legenda,,0,0,0,,festa na beira da piscina, boate cheia e
-Dialogue: 0,0:02:30.69,0:02:32.10,Legenda,,0,0,0,,trânsito parado de verdade.
-Dialogue: 0,0:02:32.12,0:02:35.98,Legenda,,0,0,0,,Parece pouco, mas é o tipo de coisa que faz a
-Dialogue: 0,0:02:36.00,0:02:39.53,Legenda,,0,0,0,,cidade parecer habitada, e não um cenário
-Dialogue: 0,0:02:39.55,0:02:41.54,Legenda,,0,0,0,,esperando você passar.
-Dialogue: 0,0:02:41.56,0:02:44.09,Legenda,,0,0,0,,No vídeo de gameplay da Rockstar dá para ver
-Dialogue: 0,0:02:44.11,0:02:46.68,Legenda,,0,0,0,,pessoas conversando em mesa de bar, dançando,
-Dialogue: 0,0:02:46.70,0:02:49.22,Legenda,,0,0,0,,gravando vídeo e reagindo ao que acontece em
-Dialogue: 0,0:02:49.24,0:02:49.71,Legenda,,0,0,0,,volta.
-Dialogue: 0,0:02:49.73,0:02:52.66,Legenda,,0,0,0,,Se isso se confirmar no jogo, andar a pé por
-Dialogue: 0,0:02:52.68,0:02:55.61,Legenda,,0,0,0,,Vice City vai ser bem diferente de andar por
-Dialogue: 0,0:02:55.63,0:02:56.48,Legenda,,0,0,0,,Los Santos.
-Dialogue: 1,0:02:20.27,0:02:24.14,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:02:24.39,0:02:28.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:02:28.33,0:02:32.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:32.27,0:02:36.74,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:36.99,0:02:41.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:41.71,0:02:45.55,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:45.80,0:02:49.63,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:49.88,0:02:56.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
-Dialogue: 5,0:02:19.81,0:02:20.43,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:19.85,0:02:20.47,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:19.90,0:02:20.52,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:02:20.12,0:02:56.85,Capitulo,,0,0,0,,{\fad(300,300)}3. MULTIDÕES
-Dialogue: 2,0:02:22.83,0:02:24.83,Grande,,0,0,0,,{\an5\pos(960,470)\fs180\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}MUITA GENTE
-Dialogue: 0,0:02:56.85,0:02:59.38,Legenda,,0,0,0,,Diferença número quatro: a água.
-Dialogue: 0,0:02:59.40,0:03:01.61,Legenda,,0,0,0,,Em GTA 5, o mar era bonito, mas era
-Dialogue: 0,0:03:01.63,0:03:04.42,Legenda,,0,0,0,,basicamente um lugar para atravessar de barco
-Dialogue: 0,0:03:04.44,0:03:06.35,Legenda,,0,0,0,,ou mergulhar atrás de tesouro.
-Dialogue: 0,0:03:06.37,0:03:10.25,Legenda,,0,0,0,,Em GTA 6, a água parece ser metade do mapa.
-Dialogue: 0,0:03:10.27,0:03:13.24,Legenda,,0,0,0,,Tem pântano com barco de hélice, canal, marina
-Dialogue: 0,0:03:13.26,0:03:15.98,Legenda,,0,0,0,,lotada de iate, jet ski entre os prédios e
-Dialogue: 0,0:03:16.00,0:03:17.86,Legenda,,0,0,0,,ilha atrás de ilha nas Keys.
-Dialogue: 0,0:03:17.88,0:03:20.88,Legenda,,0,0,0,,Leonida é um estado que vive dentro da água.
-Dialogue: 0,0:03:20.90,0:03:23.91,Legenda,,0,0,0,,E isso tem tudo a ver com a Flórida real, onde
-Dialogue: 0,0:03:23.93,0:03:26.64,Legenda,,0,0,0,,barco na garagem é quase tão comum quanto
-Dialogue: 0,0:03:26.66,0:03:27.19,Legenda,,0,0,0,,carro.
-Dialogue: 1,0:02:57.00,0:02:59.30,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:02:59.55,0:03:06.27,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:03:06.52,0:03:10.17,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:10.42,0:03:12.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:12.33,0:03:13.98,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:14.23,0:03:15.88,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:16.13,0:03:17.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:18.03,0:03:20.80,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:21.05,0:03:27.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 5,0:02:56.54,0:02:57.16,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:56.58,0:02:57.20,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:56.63,0:02:57.25,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:02:56.85,0:03:27.56,Capitulo,,0,0,0,,{\fad(300,300)}4. A ÁGUA
-Dialogue: 2,0:03:06.52,0:03:10.12,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}METADE DO MAPA
-Dialogue: 2,0:03:06.72,0:03:10.12,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}pântano, canais, marinas e ilhas
-Dialogue: 0,0:03:27.56,0:03:30.75,Legenda,,0,0,0,,Diferença número cinco: as redes sociais.
-Dialogue: 0,0:03:30.77,0:03:34.04,Legenda,,0,0,0,,GTA 5 já brincava com isso, com a Lifeinvader,
-Dialogue: 0,0:03:34.06,0:03:37.26,Legenda,,0,0,0,,a paródia do Facebook, e o Bleeter, a paródia
-Dialogue: 0,0:03:37.28,0:03:38.20,Legenda,,0,0,0,,do Twitter.
-Dialogue: 0,0:03:38.22,0:03:40.81,Legenda,,0,0,0,,Mas era coisa de menu no celular.
-Dialogue: 0,0:03:40.83,0:03:43.84,Legenda,,0,0,0,,Nos trailers de GTA 6, os vídeos verticais de
-Dialogue: 0,0:03:43.86,0:03:46.49,Legenda,,0,0,0,,rede social estão por toda parte: gente
-Dialogue: 0,0:03:46.51,0:03:49.14,Legenda,,0,0,0,,filmando briga, dancinha, perseguição e
-Dialogue: 0,0:03:49.16,0:03:49.77,Legenda,,0,0,0,,jacaré.
-Dialogue: 0,0:03:49.79,0:03:52.35,Legenda,,0,0,0,,A internet virou parte do mundo.
-Dialogue: 0,0:03:52.37,0:03:55.18,Legenda,,0,0,0,,E faz sentido: a Flórida é famosa justamente
-Dialogue: 0,0:03:55.20,0:03:57.59,Legenda,,0,0,0,,pelos vídeos absurdos que circulam na
-Dialogue: 0,0:03:57.61,0:03:58.31,Legenda,,0,0,0,,internet.
-Dialogue: 0,0:03:58.33,0:04:01.51,Legenda,,0,0,0,,A Rockstar pegou essa fama e colocou dentro do
-Dialogue: 0,0:04:01.53,0:04:02.03,Legenda,,0,0,0,,jogo.
-Dialogue: 0,0:04:02.05,0:04:04.75,Legenda,,0,0,0,,Ainda não se sabe se você vai poder postar
-Dialogue: 0,0:04:04.77,0:04:07.48,Legenda,,0,0,0,,seus próprios vídeos, mas o mundo de GTA 6
-Dialogue: 0,0:04:07.50,0:04:09.59,Legenda,,0,0,0,,claramente está sempre filmando.
-Dialogue: 1,0:03:27.71,0:03:30.67,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:03:30.92,0:03:38.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:03:38.37,0:03:40.73,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:40.98,0:03:43.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:03:43.97,0:03:46.71,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:03:46.96,0:03:49.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:03:49.94,0:03:52.27,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:52.52,0:03:58.23,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:03:58.48,0:04:01.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:04:02.20,0:04:09.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:03:27.25,0:03:27.87,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:03:27.29,0:03:27.91,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:03:27.34,0:03:27.96,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:03:27.56,0:04:09.96,Capitulo,,0,0,0,,{\fad(300,300)}5. REDES SOCIAIS
-Dialogue: 2,0:03:31.77,0:03:35.37,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}LIFEINVADER
-Dialogue: 2,0:03:31.97,0:03:35.37,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}a rede social de GTA 5
-Dialogue: 2,0:03:40.98,0:03:44.58,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}VÍDEOS VIRAIS
-Dialogue: 2,0:03:41.18,0:03:44.58,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}dentro do jogo
-Dialogue: 0,0:04:09.96,0:04:12.60,Legenda,,0,0,0,,Diferença número seis: a polícia.
-Dialogue: 0,0:04:12.62,0:04:15.80,Legenda,,0,0,0,,Em GTA 5, você conhece o esquema: estrelas na
-Dialogue: 0,0:04:15.82,0:04:18.87,Legenda,,0,0,0,,tela, viatura chegando e helicóptero no seu
-Dialogue: 0,0:04:18.89,0:04:19.27,Legenda,,0,0,0,,pé.
-Dialogue: 0,0:04:19.29,0:04:21.98,Legenda,,0,0,0,,Nos trailers de GTA 6, a polícia aparece em
-Dialogue: 0,0:04:22.00,0:04:24.76,Legenda,,0,0,0,,imagem de câmera corporal, de helicóptero de
-Dialogue: 0,0:04:24.78,0:04:27.36,Legenda,,0,0,0,,jornal e de câmera de segurança, como num
-Dialogue: 0,0:04:27.38,0:04:28.96,Legenda,,0,0,0,,programa de TV policial.
-Dialogue: 0,0:04:28.98,0:04:31.47,Legenda,,0,0,0,,Como o sistema de procurado funciona por
-Dialogue: 0,0:04:31.49,0:04:33.75,Legenda,,0,0,0,,dentro, a Rockstar ainda não contou.
-Dialogue: 0,0:04:33.77,0:04:36.04,Legenda,,0,0,0,,Na quinta a gente descobre.
-Dialogue: 0,0:04:36.06,0:04:38.94,Legenda,,0,0,0,,O que dá para afirmar é que a polícia de GTA 6
-Dialogue: 0,0:04:38.96,0:04:41.49,Legenda,,0,0,0,,parece mais presente na cidade, e não só
-Dialogue: 0,0:04:41.51,0:04:44.09,Legenda,,0,0,0,,quando você aparece com estrelas na tela.
-Dialogue: 1,0:04:10.11,0:04:12.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:04:12.77,0:04:19.19,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:04:19.44,0:04:22.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:04:22.67,0:04:25.65,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:04:25.90,0:04:28.88,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:29.13,0:04:33.67,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:33.92,0:04:35.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:36.21,0:04:44.36,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 5,0:04:09.65,0:04:10.27,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:09.69,0:04:10.31,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:09.74,0:04:10.36,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:04:09.96,0:04:44.46,Capitulo,,0,0,0,,{\fad(300,300)}6. A POLÍCIA
-Dialogue: 2,0:04:20.79,0:04:24.39,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}CÂMERA CORPORAL
-Dialogue: 2,0:04:20.99,0:04:24.39,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}a polícia como programa de TV
-Dialogue: 0,0:04:44.46,0:04:47.21,Legenda,,0,0,0,,Diferença número sete: a garagem.
-Dialogue: 0,0:04:47.23,0:04:50.14,Legenda,,0,0,0,,Muitos nomes clássicos voltam, como o Grotti
-Dialogue: 0,0:04:50.16,0:04:51.95,Legenda,,0,0,0,,Cheetah e o Vapid Stanier.
-Dialogue: 0,0:04:51.97,0:04:54.46,Legenda,,0,0,0,,Só que a Flórida pede outro tipo de veículo:
-Dialogue: 0,0:04:54.48,0:04:57.03,Legenda,,0,0,0,,buggy para a areia, picape para a lama, barco
-Dialogue: 0,0:04:57.05,0:04:59.44,Legenda,,0,0,0,,de hélice para o pântano e muscle car para
-Dialogue: 0,0:04:59.46,0:05:00.94,Legenda,,0,0,0,,fazer barulho na avenida.
-Dialogue: 0,0:05:00.96,0:05:03.97,Legenda,,0,0,0,,O vídeo de gameplay também mostra corrida de
-Dialogue: 0,0:05:03.99,0:05:05.52,Legenda,,0,0,0,,rua e moto de trilha.
-Dialogue: 1,0:04:44.61,0:04:47.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:04:47.38,0:04:49.50,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:04:49.75,0:04:51.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:04:52.12,0:04:54.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:04:54.37,0:04:56.36,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
-Dialogue: 1,0:04:56.61,0:04:58.61,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:04:58.86,0:05:00.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:01.11,0:05:02.50,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:02.75,0:05:04.14,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:04.39,0:05:05.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:04:44.15,0:04:44.77,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:44.19,0:04:44.81,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:44.24,0:04:44.86,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:04:44.46,0:05:05.89,Capitulo,,0,0,0,,{\fad(300,300)}7. A GARAGEM
-Dialogue: 2,0:04:47.38,0:04:50.98,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}GROTTI CHEETAH
-Dialogue: 2,0:04:47.58,0:04:50.98,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}de volta
-Dialogue: 0,0:05:05.89,0:05:08.80,Legenda,,0,0,0,,Diferença número oito: os animais.
-Dialogue: 0,0:05:08.82,0:05:12.02,Legenda,,0,0,0,,GTA 5 tinha cachorro, puma, tubarão e até a
-Dialogue: 0,0:05:12.04,0:05:13.90,Legenda,,0,0,0,,vaca no meio da estrada.
-Dialogue: 0,0:05:13.92,0:05:16.98,Legenda,,0,0,0,,GTA 6 aposta no que a Flórida tem de mais
-Dialogue: 0,0:05:17.00,0:05:18.24,Legenda,,0,0,0,,famoso: jacaré.
-Dialogue: 0,0:05:18.26,0:05:21.22,Legenda,,0,0,0,,No pântano, na estrada e, sim, dentro de loja
-Dialogue: 0,0:05:21.24,0:05:24.09,Legenda,,0,0,0,,de conveniência, igual àqueles vídeos reais
-Dialogue: 0,0:05:24.11,0:05:25.70,Legenda,,0,0,0,,que viralizam todo ano.
-Dialogue: 0,0:05:25.72,0:05:28.76,Legenda,,0,0,0,,Os trailers também mostram cervos, iguanas e
-Dialogue: 0,0:05:28.78,0:05:30.46,Legenda,,0,0,0,,pássaros por todo lado.
-Dialogue: 0,0:05:30.48,0:05:34.13,Legenda,,0,0,0,,Em GTA 5, os animais eram quase decoração.
-Dialogue: 0,0:05:34.15,0:05:37.52,Legenda,,0,0,0,,Em Leonida, eles parecem fazer parte do caos
-Dialogue: 0,0:05:37.54,0:05:38.67,Legenda,,0,0,0,,do dia a dia.
-Dialogue: 1,0:05:06.04,0:05:08.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:08.97,0:05:11.27,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:11.52,0:05:13.82,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:14.07,0:05:18.16,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:18.41,0:05:21.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:05:22.14,0:05:25.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:25.87,0:05:27.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:27.46,0:05:28.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:29.04,0:05:30.38,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:05:30.63,0:05:34.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:34.30,0:05:38.94,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:05:05.58,0:05:06.20,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:05:05.62,0:05:06.24,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:05:05.67,0:05:06.29,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:05:05.89,0:05:39.04,Capitulo,,0,0,0,,{\fad(300,300)}8. OS ANIMAIS
-Dialogue: 2,0:05:14.07,0:05:15.87,Grande,,0,0,0,,{\an5\pos(960,470)\fs190\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H001AFFC6\shad6\4c&H40240612}JACARÉ!
-Dialogue: 0,0:05:39.04,0:05:42.20,Legenda,,0,0,0,,Diferença número nove: o salto visual.
-Dialogue: 0,0:05:42.22,0:05:45.25,Legenda,,0,0,0,,GTA 5 nasceu em 2013, no PlayStation 3 e no
-Dialogue: 0,0:05:45.27,0:05:47.91,Legenda,,0,0,0,,Xbox 360, e foi relançado três vezes.
-Dialogue: 0,0:05:47.93,0:05:50.12,Legenda,,0,0,0,,GTA 6 foi feito só para a geração atual.
-Dialogue: 0,0:05:50.14,0:05:53.88,Legenda,,0,0,0,,Repare na luz do pôr do sol, no reflexo da
-Dialogue: 0,0:05:53.90,0:05:57.81,Legenda,,0,0,0,,água, no suor e na pele dos personagens e na
-Dialogue: 0,0:05:57.83,0:06:01.23,Legenda,,0,0,0,,quantidade de detalhe em cada esquina.
-Dialogue: 0,0:06:01.25,0:06:04.33,Legenda,,0,0,0,,São treze anos de diferença, e dá para ver em
-Dialogue: 0,0:06:04.35,0:06:05.29,Legenda,,0,0,0,,cada quadro.
-Dialogue: 0,0:06:05.31,0:06:08.24,Legenda,,0,0,0,,E isso também explica a espera: um jogo desse
-Dialogue: 0,0:06:08.26,0:06:11.24,Legenda,,0,0,0,,tamanho, com esse nível de detalhe, levou mais
-Dialogue: 0,0:06:11.26,0:06:13.39,Legenda,,0,0,0,,de uma década para ficar pronto.
-Dialogue: 1,0:05:39.19,0:05:42.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:42.37,0:05:44.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:45.22,0:05:47.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:05:48.08,0:05:50.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:05:50.29,0:05:53.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:05:54.00,0:05:57.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:57.70,0:06:01.15,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:01.40,0:06:05.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:06:05.46,0:06:13.66,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:05:38.73,0:05:39.35,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:05:38.77,0:05:39.39,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:05:38.82,0:05:39.44,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:05:39.04,0:06:13.76,Capitulo,,0,0,0,,{\fad(300,300)}9. O SALTO VISUAL
-Dialogue: 2,0:06:01.40,0:06:03.80,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}2013 → 2026
-Dialogue: 2,0:06:01.65,0:06:03.80,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}13 anos de diferença
-Dialogue: 0,0:06:13.76,0:06:16.75,Legenda,,0,0,0,,E a diferença número dez, a que mais dói: o
-Dialogue: 0,0:06:16.77,0:06:19.37,Legenda,,0,0,0,,que GTA 5 tem e que talvez não volte.
-Dialogue: 0,0:06:19.39,0:06:22.21,Legenda,,0,0,0,,A troca entre três personagens com um botão,
-Dialogue: 0,0:06:22.23,0:06:24.87,Legenda,,0,0,0,,por exemplo, não deve existir com só dois
-Dialogue: 0,0:06:24.89,0:06:25.89,Legenda,,0,0,0,,protagonistas.
-Dialogue: 0,0:06:25.91,0:06:28.84,Legenda,,0,0,0,,E a grande pergunta: o que acontece com o GTA
-Dialogue: 0,0:06:28.86,0:06:31.55,Legenda,,0,0,0,,Online que você joga há mais de dez anos?
-Dialogue: 0,0:06:31.57,0:06:34.31,Legenda,,0,0,0,,A Rockstar ainda não contou como vai ser a
-Dialogue: 0,0:06:34.33,0:06:37.08,Legenda,,0,0,0,,parte online de GTA 6, nem o que muda para
-Dialogue: 0,0:06:37.10,0:06:39.47,Legenda,,0,0,0,,quem tem anos de progresso no GTA 5.
-Dialogue: 1,0:06:13.91,0:06:19.29,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:19.54,0:06:22.55,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:22.80,0:06:25.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:26.06,0:06:28.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:28.89,0:06:31.47,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:31.72,0:06:35.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:35.85,0:06:39.74,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:06:13.45,0:06:14.07,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:13.49,0:06:14.11,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:13.54,0:06:14.16,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:06:13.76,0:06:39.84,Capitulo,,0,0,0,,{\fad(300,300)}10. O QUE PODE NÃO VOLTAR
-Dialogue: 2,0:06:26.06,0:06:28.66,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H001AFFC6\shad6\4c&H40240612}GTA ONLINE?
-Dialogue: 2,0:06:26.31,0:06:28.66,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}a Rockstar ainda não contou
-Dialogue: 0,0:06:39.84,0:06:42.10,Legenda,,0,0,0,,Essas foram as dez diferenças.
-Dialogue: 0,0:06:42.12,0:06:45.08,Legenda,,0,0,0,,GTA 5 vendeu mais de duzentos milhões de
-Dialogue: 0,0:06:45.10,0:06:48.14,Legenda,,0,0,0,,cópias, e GTA 6 vai ter que superar isso.
-Dialogue: 0,0:06:48.16,0:06:50.62,Legenda,,0,0,0,,Na quarta, a partir das oito da manhã no
-Dialogue: 0,0:06:50.64,0:06:53.44,Legenda,,0,0,0,,horário de Brasília, a Nova Zelândia já começa
-Dialogue: 0,0:06:53.46,0:06:55.52,Legenda,,0,0,0,,a jogar, e na quinta é a sua vez.
-Dialogue: 0,0:06:55.54,0:06:57.93,Legenda,,0,0,0,,Se inscreve no canal, ativa o sininho e
-Dialogue: 0,0:06:57.95,0:07:00.62,Legenda,,0,0,0,,comenta aqui embaixo: qual dessas diferenças
-Dialogue: 0,0:07:00.64,0:07:02.57,Legenda,,0,0,0,,você mais quer ver funcionando?
-Dialogue: 0,0:07:02.59,0:07:04.92,Legenda,,0,0,0,,Até o próximo vídeo.
-Dialogue: 1,0:06:39.99,0:06:42.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:42.27,0:06:48.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
-Dialogue: 1,0:06:48.31,0:06:55.44,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:06:55.69,0:07:02.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:07:02.74,0:07:05.19,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:06:39.53,0:06:40.15,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:39.57,0:06:40.19,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:39.62,0:06:40.24,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:06:39.84,0:07:05.29,Capitulo,,0,0,0,,{\fad(300,300)}QUINTA TEM GTA 6
-Dialogue: 2,0:06:42.27,0:06:45.87,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}+200 MILHÕES
-Dialogue: 2,0:06:42.47,0:06:45.87,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}cópias de GTA 5 vendidas
-Dialogue: 2,0:06:55.69,0:06:59.29,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}INSCREVA-SE
-Dialogue: 2,0:06:55.89,0:06:59.29,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}e comente: qual diferença você quer ver?
+Dialogue: 0,0:00:00.00,0:00:03.22,Legenda,,0,0,0,,Você passou treze anos jogando GTA 5.
+Dialogue: 0,0:00:03.24,0:00:05.50,Legenda,,0,0,0,,Pode esquecer metade do que aprendeu.
+Dialogue: 0,0:00:05.52,0:00:08.59,Legenda,,0,0,0,,Na quinta-feira, GTA 6 chega ao PlayStation 5
+Dialogue: 0,0:00:08.61,0:00:11.49,Legenda,,0,0,0,,e ao Xbox Series, e pelo que a Rockstar já
+Dialogue: 0,0:00:11.51,0:00:14.64,Legenda,,0,0,0,,mostrou, o jogo muda coisas que pareciam regra
+Dialogue: 0,0:00:14.66,0:00:15.42,Legenda,,0,0,0,,da série.
+Dialogue: 0,0:00:15.44,0:00:19.48,Legenda,,0,0,0,,Separei dez diferenças entre GTA 5 e GTA 6.
+Dialogue: 0,0:00:19.50,0:00:21.94,Legenda,,0,0,0,,E a última é a que mais vai doer.
+Dialogue: 1,0:00:00.15,0:00:03.14,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:00:03.39,0:00:05.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:00:05.67,0:00:10.38,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:10.63,0:00:15.34,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:15.59,0:00:19.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:19.65,0:00:22.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 2,0:00:15.59,0:00:18.19,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H008B3DFF\shad6\4c&H40240612}GTA 5 VS GTA 6
+Dialogue: 2,0:00:15.84,0:00:18.19,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}10 diferenças
+Dialogue: 0,0:00:22.31,0:00:24.10,Legenda,,0,0,0,,Aqui é a Pixelzada.
+Dialogue: 0,0:00:24.12,0:00:26.96,Legenda,,0,0,0,,Antes de começar, um combinado: tudo o que eu
+Dialogue: 0,0:00:26.98,0:00:29.76,Legenda,,0,0,0,,falar sobre GTA 6 vem dos trailers, do vídeo
+Dialogue: 0,0:00:29.78,0:00:31.72,Legenda,,0,0,0,,de gameplay e do site oficial.
+Dialogue: 0,0:00:31.74,0:00:34.30,Legenda,,0,0,0,,Na quinta, com o jogo na mão, a gente confere
+Dialogue: 0,0:00:34.32,0:00:35.48,Legenda,,0,0,0,,o que se confirmou.
+Dialogue: 0,0:00:35.50,0:00:36.69,Legenda,,0,0,0,,Bora para a lista.
+Dialogue: 0,0:00:36.71,0:00:39.60,Legenda,,0,0,0,,E fica até o fim, porque a diferença número
+Dialogue: 0,0:00:39.62,0:00:42.45,Legenda,,0,0,0,,dez mexe com quem joga GTA Online há anos.
+Dialogue: 1,0:00:24.27,0:00:27.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:28.08,0:00:31.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:31.89,0:00:35.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:35.65,0:00:42.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 5,0:00:22.00,0:00:22.62,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:22.04,0:00:22.66,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:22.09,0:00:22.71,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:00:22.31,0:00:42.82,Capitulo,,0,0,0,,{\fad(300,300)}ABERTURA
+Dialogue: 0,0:00:42.82,0:00:45.82,Legenda,,0,0,0,,Diferença número um: os protagonistas.
+Dialogue: 0,0:00:45.84,0:00:48.51,Legenda,,0,0,0,,Em GTA 5, você trocava entre três criminosos
+Dialogue: 0,0:00:48.53,0:00:51.20,Legenda,,0,0,0,,que mal se suportavam: Michael, o aposentado
+Dialogue: 0,0:00:51.22,0:00:53.94,Legenda,,0,0,0,,em crise, Franklin, o jovem querendo subir na
+Dialogue: 0,0:00:53.96,0:00:56.00,Legenda,,0,0,0,,vida, e Trevor, o caos em pessoa.
+Dialogue: 0,0:00:56.02,0:00:57.17,Legenda,,0,0,0,,Em GTA 6, são dois.
+Dialogue: 0,0:00:57.19,0:00:59.01,Legenda,,0,0,0,,Jason e Lucia, um casal.
+Dialogue: 0,0:00:59.03,0:01:01.30,Legenda,,0,0,0,,A Rockstar resume assim: um golpe fácil dá
+Dialogue: 0,0:01:01.32,0:01:03.55,Legenda,,0,0,0,,errado, e os dois precisam depender um do
+Dialogue: 0,0:01:03.57,0:01:04.83,Legenda,,0,0,0,,outro para sair vivos.
+Dialogue: 0,0:01:04.85,0:01:07.89,Legenda,,0,0,0,,E Lucia é a primeira protagonista mulher da
+Dialogue: 0,0:01:07.91,0:01:11.01,Legenda,,0,0,0,,série principal desde a era dos jogos em 3D.
+Dialogue: 0,0:01:11.03,0:01:13.21,Legenda,,0,0,0,,Isso muda o ritmo da história.
+Dialogue: 0,0:01:13.23,0:01:16.10,Legenda,,0,0,0,,Em vez de três vidas separadas que se cruzam
+Dialogue: 0,0:01:16.12,0:01:18.98,Legenda,,0,0,0,,de vez em quando, a promessa é uma dupla que
+Dialogue: 0,0:01:19.00,0:01:21.69,Legenda,,0,0,0,,divide o mesmo problema do começo ao fim.
+Dialogue: 0,0:01:21.71,0:01:24.37,Legenda,,0,0,0,,E se um lado errar, o outro paga junto.
+Dialogue: 0,0:01:24.39,0:01:26.80,Legenda,,0,0,0,,É a primeira vez que a série principal coloca
+Dialogue: 0,0:01:26.82,0:01:28.32,Legenda,,0,0,0,,um casal no centro de tudo.
+Dialogue: 1,0:00:42.97,0:00:45.74,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:45.99,0:00:48.29,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:00:48.54,0:00:50.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:00:51.08,0:00:53.37,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:00:53.62,0:00:55.92,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:00:56.17,0:00:57.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:00:57.67,0:00:58.93,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:00:59.18,0:01:04.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:05.00,0:01:07.84,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:08.09,0:01:10.93,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:01:11.18,0:01:13.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:01:13.38,0:01:21.61,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:01:21.86,0:01:24.29,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:24.54,0:01:28.59,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:00:42.51,0:00:43.13,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:42.55,0:00:43.17,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:42.60,0:00:43.22,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:00:42.82,0:01:28.69,Capitulo,,0,0,0,,{\fad(300,300)}1. OS PROTAGONISTAS
+Dialogue: 2,0:00:56.17,0:00:58.77,Grande,,0,0,0,,{\an5\pos(960,470)\fs200\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}3 → 2
+Dialogue: 2,0:00:56.42,0:00:58.77,Apoio,,0,0,0,,{\an5\pos(960,630)\fad(150,250)}Michael, Franklin e Trevor → Jason e Lucia
+Dialogue: 2,0:01:05.00,0:01:08.60,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LUCIA
+Dialogue: 2,0:01:05.20,0:01:08.60,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}primeira protagonista mulher na era 3D
+Dialogue: 0,0:01:28.69,0:01:32.32,Legenda,,0,0,0,,Diferença número dois: o tamanho da ambição.
+Dialogue: 0,0:01:32.34,0:01:34.97,Legenda,,0,0,0,,GTA 5 tinha Los Santos, a versão do jogo para
+Dialogue: 0,0:01:34.99,0:01:37.61,Legenda,,0,0,0,,Los Angeles, e o interior em volta, no estado
+Dialogue: 0,0:01:37.63,0:01:38.60,Legenda,,0,0,0,,de San Andreas.
+Dialogue: 0,0:01:38.62,0:01:41.55,Legenda,,0,0,0,,GTA 6 vai para um estado inteiro, Leonida,
+Dialogue: 0,0:01:41.57,0:01:43.12,Legenda,,0,0,0,,inspirado na Flórida.
+Dialogue: 0,0:01:43.14,0:01:46.04,Legenda,,0,0,0,,Tem Vice City, a cidade, e mais regiões com
+Dialogue: 0,0:01:46.06,0:01:48.84,Legenda,,0,0,0,,cara própria: as ilhas de Leonida Keys, o
+Dialogue: 0,0:01:48.86,0:01:51.51,Legenda,,0,0,0,,pântano de Grassrivers, a costa de Port
+Dialogue: 0,0:01:51.53,0:01:54.62,Legenda,,0,0,0,,Gellhorn, o interior de Ambrosia e o parque do
+Dialogue: 0,0:01:54.64,0:01:55.63,Legenda,,0,0,0,,Mount Kalaga.
+Dialogue: 0,0:01:55.65,0:01:58.40,Legenda,,0,0,0,,Ou seja: em vez de uma cidade grande com um
+Dialogue: 0,0:01:58.42,0:02:01.23,Legenda,,0,0,0,,quintal em volta, o mapa de GTA 6 é feito de
+Dialogue: 0,0:02:01.25,0:02:04.11,Legenda,,0,0,0,,vários lugares diferentes, cada um com clima,
+Dialogue: 0,0:02:04.13,0:02:05.85,Legenda,,0,0,0,,gente e problema próprios.
+Dialogue: 0,0:02:05.87,0:02:08.47,Legenda,,0,0,0,,Quem já atravessou San Andreas de carro sabe
+Dialogue: 0,0:02:08.49,0:02:09.91,Legenda,,0,0,0,,que a viagem era longa.
+Dialogue: 0,0:02:09.93,0:02:12.85,Legenda,,0,0,0,,Agora a viagem promete ter muito mais coisa no
+Dialogue: 0,0:02:12.87,0:02:13.51,Legenda,,0,0,0,,caminho.
+Dialogue: 1,0:01:28.84,0:01:32.24,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:01:32.49,0:01:35.38,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:01:35.63,0:01:38.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:01:38.77,0:01:43.04,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:43.29,0:01:45.13,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:45.38,0:01:47.21,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:47.46,0:01:49.30,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:49.55,0:01:51.38,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:51.63,0:01:53.47,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:53.72,0:01:55.55,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:55.80,0:02:00.66,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:00.91,0:02:05.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:06.02,0:02:09.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:02:10.08,0:02:13.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:01:28.38,0:01:29.00,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:28.42,0:01:29.04,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:28.47,0:01:29.09,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:01:28.69,0:02:13.88,Capitulo,,0,0,0,,{\fad(300,300)}2. CIDADE VS ESTADO
+Dialogue: 2,0:01:32.49,0:01:36.09,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}LOS SANTOS
+Dialogue: 2,0:01:32.69,0:01:36.09,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}GTA 5
+Dialogue: 2,0:01:38.77,0:01:42.37,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LEONIDA
+Dialogue: 2,0:01:38.97,0:01:42.37,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}um estado inteiro
+Dialogue: 0,0:02:13.88,0:02:15.83,Legenda,,0,0,0,,Diferença número três: gente.
+Dialogue: 0,0:02:15.85,0:02:16.81,Legenda,,0,0,0,,Muita gente.
+Dialogue: 0,0:02:16.83,0:02:19.69,Legenda,,0,0,0,,As ruas de GTA 5 eram vivas para 2013, mas os
+Dialogue: 0,0:02:19.71,0:02:22.33,Legenda,,0,0,0,,trailers de GTA 6 mostram calçada lotada,
+Dialogue: 0,0:02:22.35,0:02:24.91,Legenda,,0,0,0,,festa na beira da piscina, boate cheia e
+Dialogue: 0,0:02:24.93,0:02:26.71,Legenda,,0,0,0,,trânsito parado de verdade.
+Dialogue: 0,0:02:26.73,0:02:29.66,Legenda,,0,0,0,,Parece pouco, mas é o tipo de coisa que faz a
+Dialogue: 0,0:02:29.68,0:02:32.35,Legenda,,0,0,0,,cidade parecer habitada, e não um cenário
+Dialogue: 0,0:02:32.37,0:02:33.89,Legenda,,0,0,0,,esperando você passar.
+Dialogue: 0,0:02:33.91,0:02:36.99,Legenda,,0,0,0,,No vídeo de gameplay da Rockstar dá para ver
+Dialogue: 0,0:02:37.01,0:02:40.15,Legenda,,0,0,0,,pessoas conversando em mesa de bar, dançando,
+Dialogue: 0,0:02:40.17,0:02:43.25,Legenda,,0,0,0,,gravando vídeo e reagindo ao que acontece em
+Dialogue: 0,0:02:43.27,0:02:43.84,Legenda,,0,0,0,,volta.
+Dialogue: 0,0:02:43.86,0:02:46.41,Legenda,,0,0,0,,Se isso se confirmar no jogo, andar a pé por
+Dialogue: 0,0:02:46.43,0:02:48.98,Legenda,,0,0,0,,Vice City vai ser bem diferente de andar por
+Dialogue: 0,0:02:49.00,0:02:49.74,Legenda,,0,0,0,,Los Santos.
+Dialogue: 1,0:02:14.03,0:02:16.73,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:02:16.98,0:02:21.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:02:21.93,0:02:26.63,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:26.88,0:02:30.22,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:30.47,0:02:33.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:34.06,0:02:38.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:39.04,0:02:43.76,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:44.01,0:02:50.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 5,0:02:13.57,0:02:14.19,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:13.61,0:02:14.23,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:13.66,0:02:14.28,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:02:13.88,0:02:50.11,Capitulo,,0,0,0,,{\fad(300,300)}3. MULTIDÕES
+Dialogue: 2,0:02:16.00,0:02:18.00,Grande,,0,0,0,,{\an5\pos(960,470)\fs180\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}MUITA GENTE
+Dialogue: 0,0:02:50.11,0:02:51.97,Legenda,,0,0,0,,Diferença número quatro: a água.
+Dialogue: 0,0:02:51.99,0:02:54.38,Legenda,,0,0,0,,Em GTA 5, o mar era bonito, mas era
+Dialogue: 0,0:02:54.40,0:02:57.43,Legenda,,0,0,0,,basicamente um lugar para atravessar de barco
+Dialogue: 0,0:02:57.45,0:02:59.52,Legenda,,0,0,0,,ou mergulhar atrás de tesouro.
+Dialogue: 0,0:02:59.54,0:03:02.44,Legenda,,0,0,0,,Em GTA 6, a água parece ser metade do mapa.
+Dialogue: 0,0:03:02.46,0:03:06.16,Legenda,,0,0,0,,Tem pântano com barco de hélice, canal, marina
+Dialogue: 0,0:03:06.18,0:03:09.58,Legenda,,0,0,0,,lotada de iate, jet ski entre os prédios e
+Dialogue: 0,0:03:09.60,0:03:11.93,Legenda,,0,0,0,,ilha atrás de ilha nas Keys.
+Dialogue: 0,0:03:11.95,0:03:15.15,Legenda,,0,0,0,,Leonida é um estado que vive dentro da água.
+Dialogue: 0,0:03:15.17,0:03:18.21,Legenda,,0,0,0,,E isso tem tudo a ver com a Flórida real, onde
+Dialogue: 0,0:03:18.23,0:03:20.97,Legenda,,0,0,0,,barco na garagem é quase tão comum quanto
+Dialogue: 0,0:03:20.99,0:03:21.53,Legenda,,0,0,0,,carro.
+Dialogue: 1,0:02:50.26,0:02:51.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:02:52.14,0:02:59.44,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:02:59.69,0:03:02.36,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:02.61,0:03:04.74,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:04.99,0:03:07.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:07.36,0:03:09.48,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:09.73,0:03:11.85,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:12.10,0:03:15.07,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:15.32,0:03:21.80,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 5,0:02:49.80,0:02:50.42,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:49.84,0:02:50.46,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:49.89,0:02:50.51,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:02:50.11,0:03:21.90,Capitulo,,0,0,0,,{\fad(300,300)}4. A ÁGUA
+Dialogue: 2,0:02:59.69,0:03:03.29,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}METADE DO MAPA
+Dialogue: 2,0:02:59.89,0:03:03.29,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}pântano, canais, marinas e ilhas
+Dialogue: 0,0:03:21.90,0:03:25.55,Legenda,,0,0,0,,Diferença número cinco: as redes sociais.
+Dialogue: 0,0:03:25.57,0:03:28.52,Legenda,,0,0,0,,GTA 5 já brincava com isso, com a Lifeinvader,
+Dialogue: 0,0:03:28.54,0:03:31.42,Legenda,,0,0,0,,a paródia do Facebook, e o Bleeter, a paródia
+Dialogue: 0,0:03:31.44,0:03:32.27,Legenda,,0,0,0,,do Twitter.
+Dialogue: 0,0:03:32.29,0:03:34.55,Legenda,,0,0,0,,Mas era coisa de menu no celular.
+Dialogue: 0,0:03:34.57,0:03:37.85,Legenda,,0,0,0,,Nos trailers de GTA 6, os vídeos verticais de
+Dialogue: 0,0:03:37.87,0:03:40.73,Legenda,,0,0,0,,rede social estão por toda parte: gente
+Dialogue: 0,0:03:40.75,0:03:43.61,Legenda,,0,0,0,,filmando briga, dancinha, perseguição e
+Dialogue: 0,0:03:43.63,0:03:44.30,Legenda,,0,0,0,,jacaré.
+Dialogue: 0,0:03:44.32,0:03:46.40,Legenda,,0,0,0,,A internet virou parte do mundo.
+Dialogue: 0,0:03:46.42,0:03:49.23,Legenda,,0,0,0,,E faz sentido: a Flórida é famosa justamente
+Dialogue: 0,0:03:49.25,0:03:51.64,Legenda,,0,0,0,,pelos vídeos absurdos que circulam na
+Dialogue: 0,0:03:51.66,0:03:52.37,Legenda,,0,0,0,,internet.
+Dialogue: 0,0:03:52.39,0:03:55.35,Legenda,,0,0,0,,A Rockstar pegou essa fama e colocou dentro do
+Dialogue: 0,0:03:55.37,0:03:55.84,Legenda,,0,0,0,,jogo.
+Dialogue: 0,0:03:55.86,0:03:58.58,Legenda,,0,0,0,,Ainda não se sabe se você vai poder postar
+Dialogue: 0,0:03:58.60,0:04:01.31,Legenda,,0,0,0,,seus próprios vídeos, mas o mundo de GTA 6
+Dialogue: 0,0:04:01.33,0:04:03.44,Legenda,,0,0,0,,claramente está sempre filmando.
+Dialogue: 1,0:03:22.05,0:03:25.47,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:03:25.72,0:03:32.19,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:03:32.44,0:03:34.47,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:34.72,0:03:37.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:37.97,0:03:40.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:41.22,0:03:44.22,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:44.47,0:03:46.32,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:46.57,0:03:52.29,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:52.54,0:03:55.76,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:03:56.01,0:04:03.71,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:03:21.59,0:03:22.21,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:21.63,0:03:22.25,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:21.68,0:03:22.30,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:03:21.90,0:04:03.81,Capitulo,,0,0,0,,{\fad(300,300)}5. REDES SOCIAIS
+Dialogue: 2,0:03:26.57,0:03:30.17,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}LIFEINVADER
+Dialogue: 2,0:03:26.77,0:03:30.17,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}a rede social de GTA 5
+Dialogue: 2,0:03:34.72,0:03:38.32,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}VÍDEOS VIRAIS
+Dialogue: 2,0:03:34.92,0:03:38.32,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}dentro do jogo
+Dialogue: 0,0:04:03.81,0:04:05.74,Legenda,,0,0,0,,Diferença número seis: a polícia.
+Dialogue: 0,0:04:05.76,0:04:09.25,Legenda,,0,0,0,,Em GTA 5, você conhece o esquema: estrelas na
+Dialogue: 0,0:04:09.27,0:04:12.63,Legenda,,0,0,0,,tela, viatura chegando e helicóptero no seu
+Dialogue: 0,0:04:12.65,0:04:13.07,Legenda,,0,0,0,,pé.
+Dialogue: 0,0:04:13.09,0:04:15.71,Legenda,,0,0,0,,Nos trailers de GTA 6, a polícia aparece em
+Dialogue: 0,0:04:15.73,0:04:18.41,Legenda,,0,0,0,,imagem de câmera corporal, de helicóptero de
+Dialogue: 0,0:04:18.43,0:04:20.93,Legenda,,0,0,0,,jornal e de câmera de segurança, como num
+Dialogue: 0,0:04:20.95,0:04:22.48,Legenda,,0,0,0,,programa de TV policial.
+Dialogue: 0,0:04:22.50,0:04:24.84,Legenda,,0,0,0,,Como o sistema de procurado funciona por
+Dialogue: 0,0:04:24.86,0:04:26.99,Legenda,,0,0,0,,dentro, a Rockstar ainda não contou.
+Dialogue: 0,0:04:27.01,0:04:28.77,Legenda,,0,0,0,,Na quinta a gente descobre.
+Dialogue: 0,0:04:28.79,0:04:31.43,Legenda,,0,0,0,,O que dá para afirmar é que a polícia de GTA 6
+Dialogue: 0,0:04:31.45,0:04:33.76,Legenda,,0,0,0,,parece mais presente na cidade, e não só
+Dialogue: 0,0:04:33.78,0:04:36.15,Legenda,,0,0,0,,quando você aparece com estrelas na tela.
+Dialogue: 1,0:04:03.96,0:04:05.66,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:04:05.91,0:04:12.99,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:04:13.24,0:04:16.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:04:16.37,0:04:19.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:04:19.51,0:04:22.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:22.65,0:04:26.91,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:27.16,0:04:28.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:28.94,0:04:36.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 5,0:04:03.50,0:04:04.12,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:03.54,0:04:04.16,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:03.59,0:04:04.21,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:03.81,0:04:36.52,Capitulo,,0,0,0,,{\fad(300,300)}6. A POLÍCIA
+Dialogue: 2,0:04:14.59,0:04:18.19,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}CÂMERA CORPORAL
+Dialogue: 2,0:04:14.79,0:04:18.19,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}a polícia como programa de TV
+Dialogue: 0,0:04:36.52,0:04:38.47,Legenda,,0,0,0,,Diferença número sete: a garagem.
+Dialogue: 0,0:04:38.49,0:04:41.85,Legenda,,0,0,0,,Muitos nomes clássicos voltam, como o Grotti
+Dialogue: 0,0:04:41.87,0:04:43.94,Legenda,,0,0,0,,Cheetah e o Vapid Stanier.
+Dialogue: 0,0:04:43.96,0:04:46.70,Legenda,,0,0,0,,Só que a Flórida pede outro tipo de veículo:
+Dialogue: 0,0:04:46.72,0:04:49.53,Legenda,,0,0,0,,buggy para a areia, picape para a lama, barco
+Dialogue: 0,0:04:49.55,0:04:52.18,Legenda,,0,0,0,,de hélice para o pântano e muscle car para
+Dialogue: 0,0:04:52.20,0:04:53.82,Legenda,,0,0,0,,fazer barulho na avenida.
+Dialogue: 0,0:04:53.84,0:04:56.60,Legenda,,0,0,0,,O vídeo de gameplay também mostra corrida de
+Dialogue: 0,0:04:56.62,0:04:58.02,Legenda,,0,0,0,,rua e moto de trilha.
+Dialogue: 1,0:04:36.67,0:04:38.39,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:04:38.64,0:04:41.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:41.38,0:04:43.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:44.11,0:04:46.33,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:46.58,0:04:48.80,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:04:49.05,0:04:51.27,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:51.52,0:04:53.74,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:04:53.99,0:04:55.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:55.51,0:04:56.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:57.02,0:04:58.29,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:04:36.21,0:04:36.83,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:36.25,0:04:36.87,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:36.30,0:04:36.92,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:36.52,0:04:58.39,Capitulo,,0,0,0,,{\fad(300,300)}7. A GARAGEM
+Dialogue: 2,0:04:38.64,0:04:42.24,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}GROTTI CHEETAH
+Dialogue: 2,0:04:38.84,0:04:42.24,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}de volta
+Dialogue: 0,0:04:58.39,0:05:00.12,Legenda,,0,0,0,,Diferença número oito: os animais.
+Dialogue: 0,0:05:00.14,0:05:04.05,Legenda,,0,0,0,,GTA 5 tinha cachorro, puma, tubarão e até a
+Dialogue: 0,0:05:04.07,0:05:06.36,Legenda,,0,0,0,,vaca no meio da estrada.
+Dialogue: 0,0:05:06.38,0:05:08.73,Legenda,,0,0,0,,GTA 6 aposta no que a Flórida tem de mais
+Dialogue: 0,0:05:08.75,0:05:09.70,Legenda,,0,0,0,,famoso: jacaré.
+Dialogue: 0,0:05:09.72,0:05:12.97,Legenda,,0,0,0,,No pântano, na estrada e, sim, dentro de loja
+Dialogue: 0,0:05:12.99,0:05:16.11,Legenda,,0,0,0,,de conveniência, igual àqueles vídeos reais
+Dialogue: 0,0:05:16.13,0:05:17.88,Legenda,,0,0,0,,que viralizam todo ano.
+Dialogue: 0,0:05:17.90,0:05:20.59,Legenda,,0,0,0,,Os trailers também mostram cervos, iguanas e
+Dialogue: 0,0:05:20.61,0:05:22.08,Legenda,,0,0,0,,pássaros por todo lado.
+Dialogue: 0,0:05:22.10,0:05:24.89,Legenda,,0,0,0,,Em GTA 5, os animais eram quase decoração.
+Dialogue: 0,0:05:24.91,0:05:27.40,Legenda,,0,0,0,,Em Leonida, eles parecem fazer parte do caos
+Dialogue: 0,0:05:27.42,0:05:28.25,Legenda,,0,0,0,,do dia a dia.
+Dialogue: 1,0:04:58.54,0:05:00.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:00.29,0:05:03.16,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:03.41,0:05:06.28,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:06.53,0:05:09.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:09.87,0:05:13.71,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:13.96,0:05:17.80,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:18.05,0:05:19.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:19.45,0:05:20.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:20.85,0:05:22.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:05:22.25,0:05:24.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:25.06,0:05:28.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:04:58.08,0:04:58.70,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:58.12,0:04:58.74,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:58.17,0:04:58.79,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:58.39,0:05:28.62,Capitulo,,0,0,0,,{\fad(300,300)}8. OS ANIMAIS
+Dialogue: 2,0:05:06.53,0:05:08.33,Grande,,0,0,0,,{\an5\pos(960,470)\fs190\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H001AFFC6\shad6\4c&H40240612}JACARÉ!
+Dialogue: 0,0:05:28.62,0:05:31.84,Legenda,,0,0,0,,Diferença número nove: o salto visual.
+Dialogue: 0,0:05:31.86,0:05:35.28,Legenda,,0,0,0,,GTA 5 nasceu em 2013, no PlayStation 3 e no
+Dialogue: 0,0:05:35.30,0:05:38.26,Legenda,,0,0,0,,Xbox 360, e foi relançado três vezes.
+Dialogue: 0,0:05:38.28,0:05:39.41,Legenda,,0,0,0,,GTA 6 foi feito só para a geração atual.
+Dialogue: 0,0:05:39.43,0:05:42.98,Legenda,,0,0,0,,Repare na luz do pôr do sol, no reflexo da
+Dialogue: 0,0:05:43.00,0:05:46.70,Legenda,,0,0,0,,água, no suor e na pele dos personagens e na
+Dialogue: 0,0:05:46.72,0:05:49.95,Legenda,,0,0,0,,quantidade de detalhe em cada esquina.
+Dialogue: 0,0:05:49.97,0:05:53.89,Legenda,,0,0,0,,São treze anos de diferença, e dá para ver em
+Dialogue: 0,0:05:53.91,0:05:55.12,Legenda,,0,0,0,,cada quadro.
+Dialogue: 0,0:05:55.14,0:05:57.90,Legenda,,0,0,0,,E isso também explica a espera: um jogo desse
+Dialogue: 0,0:05:57.92,0:06:00.73,Legenda,,0,0,0,,tamanho, com esse nível de detalhe, levou mais
+Dialogue: 0,0:06:00.75,0:06:02.76,Legenda,,0,0,0,,de uma década para ficar pronto.
+Dialogue: 1,0:05:28.77,0:05:31.76,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:32.01,0:05:34.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:35.22,0:05:38.18,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:05:38.43,0:05:41.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:05:41.36,0:05:44.03,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:05:44.28,0:05:46.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:47.20,0:05:49.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:50.12,0:05:55.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:55.29,0:06:03.03,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:05:28.31,0:05:28.93,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:28.35,0:05:28.97,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:28.40,0:05:29.02,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:05:28.62,0:06:03.13,Capitulo,,0,0,0,,{\fad(300,300)}9. O SALTO VISUAL
+Dialogue: 2,0:05:50.12,0:05:52.52,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H00428CFF\shad6\4c&H40240612}2013 → 2026
+Dialogue: 2,0:05:50.37,0:05:52.52,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}13 anos de diferença
+Dialogue: 0,0:06:03.13,0:06:06.46,Legenda,,0,0,0,,E a diferença número dez, a que mais dói: o
+Dialogue: 0,0:06:06.48,0:06:09.38,Legenda,,0,0,0,,que GTA 5 tem e que talvez não volte.
+Dialogue: 0,0:06:09.40,0:06:11.92,Legenda,,0,0,0,,A troca entre três personagens com um botão,
+Dialogue: 0,0:06:11.94,0:06:14.31,Legenda,,0,0,0,,por exemplo, não deve existir com só dois
+Dialogue: 0,0:06:14.33,0:06:15.23,Legenda,,0,0,0,,protagonistas.
+Dialogue: 0,0:06:15.25,0:06:18.31,Legenda,,0,0,0,,E a grande pergunta: o que acontece com o GTA
+Dialogue: 0,0:06:18.33,0:06:21.14,Legenda,,0,0,0,,Online que você joga há mais de dez anos?
+Dialogue: 0,0:06:21.16,0:06:23.74,Legenda,,0,0,0,,A Rockstar ainda não contou como vai ser a
+Dialogue: 0,0:06:23.76,0:06:26.34,Legenda,,0,0,0,,parte online de GTA 6, nem o que muda para
+Dialogue: 0,0:06:26.36,0:06:28.59,Legenda,,0,0,0,,quem tem anos de progresso no GTA 5.
+Dialogue: 1,0:06:03.28,0:06:09.30,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:09.55,0:06:12.22,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:12.47,0:06:15.15,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:15.40,0:06:18.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:18.36,0:06:21.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:21.31,0:06:24.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:25.21,0:06:28.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:06:02.82,0:06:03.44,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:02.86,0:06:03.48,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:02.91,0:06:03.53,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:06:03.13,0:06:28.96,Capitulo,,0,0,0,,{\fad(300,300)}10. O QUE PODE NÃO VOLTAR
+Dialogue: 2,0:06:15.40,0:06:18.00,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H001AFFC6\shad6\4c&H40240612}GTA ONLINE?
+Dialogue: 2,0:06:15.65,0:06:18.00,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}a Rockstar ainda não contou
+Dialogue: 0,0:06:28.96,0:06:31.28,Legenda,,0,0,0,,Essas foram as dez diferenças.
+Dialogue: 0,0:06:31.30,0:06:34.04,Legenda,,0,0,0,,GTA 5 vendeu mais de duzentos milhões de
+Dialogue: 0,0:06:34.06,0:06:36.87,Legenda,,0,0,0,,cópias, e GTA 6 vai ter que superar isso.
+Dialogue: 0,0:06:36.89,0:06:39.19,Legenda,,0,0,0,,Na quarta, a partir das oito da manhã no
+Dialogue: 0,0:06:39.21,0:06:41.83,Legenda,,0,0,0,,horário de Brasília, a Nova Zelândia já começa
+Dialogue: 0,0:06:41.85,0:06:43.77,Legenda,,0,0,0,,a jogar, e na quinta é a sua vez.
+Dialogue: 0,0:06:43.79,0:06:45.91,Legenda,,0,0,0,,Se inscreve no canal, ativa o sininho e
+Dialogue: 0,0:06:45.93,0:06:48.32,Legenda,,0,0,0,,comenta aqui embaixo: qual dessas diferenças
+Dialogue: 0,0:06:48.34,0:06:50.05,Legenda,,0,0,0,,você mais quer ver funcionando?
+Dialogue: 0,0:06:50.07,0:06:51.42,Legenda,,0,0,0,,Até o próximo vídeo.
+Dialogue: 1,0:06:29.11,0:06:31.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:31.45,0:06:36.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 5
+Dialogue: 1,0:06:37.04,0:06:43.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:43.94,0:06:49.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:50.22,0:06:51.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:06:28.65,0:06:29.27,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:28.69,0:06:29.31,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:28.74,0:06:29.36,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:06:28.96,0:06:51.79,Capitulo,,0,0,0,,{\fad(300,300)}QUINTA TEM GTA 6
+Dialogue: 2,0:06:31.45,0:06:35.05,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}+200 MILHÕES
+Dialogue: 2,0:06:31.65,0:06:35.05,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}cópias de GTA 5 vendidas
+Dialogue: 2,0:06:43.94,0:06:47.54,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}INSCREVA-SE
+Dialogue: 2,0:06:44.14,0:06:47.54,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}e comente: qual diferença você quer ver?
