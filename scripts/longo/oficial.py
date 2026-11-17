@@ -98,6 +98,15 @@ def main() -> int:
         so = sorted({p["v"][2:] for c in ep["cenas"] for p in c["planos"] if p["v"].startswith("o:")}
                     | {ep["capa"]["imagem"], "GTAVI_Launch_Trailer", "GTAVI_Pre-Load_Now"})
     itens = baixar(ind, so)
+    if "--episodio" in sys.argv:  # vídeos longos citados como v:<nome>:<segundo>
+        from scripts.longo.cenas import VIDEOS
+        for nome in {p["v"].split(":")[1] for c in ep["cenas"] for p in c["planos"] if p["v"].startswith("v:")}:
+            url = VIDEOS.get(nome)
+            dest = TRAB / url.rsplit("/", 1)[1] if url else None
+            if dest and not dest.exists():
+                print("baixando", nome, flush=True)
+                subprocess.run(["curl", "-sfL", "--retry", "3", "--max-time", "900", "-A", UA["User-Agent"],
+                                "-o", str(dest), url])
     print(f"{len(itens)} arquivos oficiais baixados")
     if "--folhas" in sys.argv:
         folhas(itens)

@@ -3,82 +3,910 @@
  "roteiro": "scripts/longo/doc/roteiro-leonida.txt",
  "descricao": "GTA 6 chega em 19 de novembro e o mapa já tem nome: Leonida. Neste vídeo a gente atravessa o estado de ponta a ponta (Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga) e mostra o que cada região copia da Flórida de verdade.",
  "tags": "#GTA6 #GTAVI #Leonida #ViceCity #Rockstar #Pixelzada",
- "capa": {"imagem": "k4ak9okk485712", "linhas": [["LEONIDA", 150], ["É A FLÓRIDA", 104]], "etiqueta": "O MAPA DE GTA 6 EXPLICADO"},
+ "capa": {
+  "imagem": "k4ak9okk485712",
+  "linhas": [
+   [
+    "LEONIDA",
+    150
+   ],
+   [
+    "É A FLÓRIDA",
+    104
+   ]
+  ],
+  "etiqueta": "O MAPA DE GTA 6 EXPLICADO"
+ },
  "cenas": [
-  {"id": "gancho", "planos": [
-     {"v": "t:25.7"}, {"v": "o:Vice_City_15", "f": 1}, {"v": "t:55.7", "f": 2}, {"v": "m:todas", "f": 3}, {"v": "r:Miami Beach aerial", "f": 4}],
-   "destaques": [{"t": "19 de novembro", "s": "PS5 e Xbox Series X|S", "f": 1, "cor": "laranja"},
-                 {"t": "Leonida = Flórida", "f": 3, "pos": "centro", "tam": 170, "dur": 2.6}]},
-  {"id": "abertura", "capitulo": "Abertura", "planos": [
-     {"v": "o:Jason_Lucia_Rooftop"}, {"v": "t:11.2", "f": 1}, {"v": "o:k4ak9okk485712"}, {"v": "c:Pixelzada|O mapa de GTA 6 explicado", "f": 3}]},
-  {"id": "vice-city-volta", "capitulo": "Vice City está de volta", "planos": [
-     {"v": "r:Ocean Drive Miami Beach night neon"}, {"v": "c:2002|GTA Vice City, anos 80", "f": 2}, {"v": "o:VINTAGE_VICE_CITY_PACK_01", "f": 3},
-     {"v": "o:Vice_City_27", "f": 4}, {"v": "o:Vice_City_24", "f": 5}],
-   "destaques": [{"t": "Mais de 20 anos depois", "f": 4, "cor": "rosa", "tam": 120}]},
-  {"id": "estado", "capitulo": "Um estado inteiro: Leonida", "planos": [
-     {"v": "o:Vice_City_17"}, {"v": "m:todas", "f": 1}, {"v": "r:Miami skyline", "f": 2}, {"v": "o:Vice_City_22", "f": 3}, {"v": "o:Jason_and_Lucia_16", "f": 4}],
-   "destaques": [{"t": "Leonida", "s": "o estado de GTA 6", "f": 1, "cor": "rosa"},
-                 {"t": "23 milhões", "s": "habitantes na Flórida real", "f": 2, "cor": "laranja", "atraso": 1.5}]},
-  {"id": "mapa", "capitulo": "As 6 regiões", "planos": [
-     {"v": "m:todas"}, {"v": "m:vice-city", "f": 1}, {"v": "m:keys", "f": 2}, {"v": "m:grassrivers", "f": 3},
-     {"v": "m:gellhorn", "f": 4}, {"v": "m:ambrosia", "f": 5}, {"v": "m:kalaga", "f": 6}, {"v": "m:todas", "f": 7}],
-   "destaques": [{"t": "6 regiões", "f": 0, "pos": "centro", "tam": 170, "dur": 2.4, "cor": "laranja"}]},
-  {"id": "vice-city", "capitulo": "Vice City = Miami", "planos": [
-     {"v": "o:Vice_City_26"}, {"v": "o:Vice_City_25", "f": 1}, {"v": "r:Art Deco Historic District Miami Beach", "f": 2},
-     {"v": "r:Colony Hotel Miami Beach night", "f": 2}, {"v": "t:47.7", "f": 3}, {"v": "o:Vice_City_13", "f": 3}],
-   "destaques": [{"t": "Vice City", "s": "Miami na vida real", "f": 0, "cor": "rosa"},
-                 {"t": "Vice Beach", "s": "Miami Beach", "f": 1, "cor": "laranja", "atraso": 1.0},
-                 {"t": "+800 prédios", "s": "art déco em Miami Beach", "f": 2, "cor": "ciano", "atraso": 1.8}]},
-  {"id": "vice-city-2", "planos": [
-     {"v": "t:11.2"}, {"v": "r:PortMiami cruise ships", "f": 1}, {"v": "o:Vice_City_15", "f": 1}, {"v": "t:18.5", "f": 2},
-     {"v": "o:desktop.0iky3x6", "f": 3}],
-   "destaques": [{"t": "Capital mundial dos cruzeiros", "f": 1, "cor": "ciano", "tam": 110}]},
-  {"id": "keys", "capitulo": "Leonida Keys = Florida Keys", "planos": [
-     {"v": "m:keys"}, {"v": "r:Seven Mile Bridge Florida Keys aerial", "f": 1}, {"v": "r:Overseas Highway Florida Keys", "f": 2},
-     {"v": "o:Leonida_Keys_07", "f": 3}, {"v": "t:3.7", "f": 4}, {"v": "t:33.3", "f": 4}],
-   "destaques": [{"t": "Leonida Keys", "s": "Florida Keys na vida real", "f": 0, "cor": "rosa"},
-                 {"t": "42 pontes", "s": "Overseas Highway", "f": 1, "cor": "laranja", "atraso": 2.5},
-                 {"t": "11 km", "s": "Seven Mile Bridge", "f": 2, "cor": "ciano"}]},
-  {"id": "grassrivers", "capitulo": "Grassrivers = Everglades", "planos": [
-     {"v": "m:grassrivers"}, {"v": "r:Everglades National Park sawgrass aerial", "f": 1}, {"v": "r:Everglades airboat", "f": 2},
-     {"v": "r:American alligator Everglades", "f": 3}, {"v": "o:Grassrivers_07", "f": 4}, {"v": "o:Grassrivers_08", "f": 5}],
-   "destaques": [{"t": "Grassrivers", "s": "Everglades na vida real", "f": 1, "cor": "rosa"},
-                 {"t": "Jacaré!", "f": 3, "pos": "centro", "tam": 190, "dur": 1.8, "cor": "lima"}]},
-  {"id": "gellhorn", "capitulo": "Port Gellhorn = Golfo", "planos": [
-     {"v": "m:gellhorn"}, {"v": "r:Panama City Beach Florida", "f": 1}, {"v": "r:Florida motel neon sign", "f": 2},
-     {"v": "o:Jason_Duval_14", "f": 3}],
-   "destaques": [{"t": "Port Gellhorn", "s": "costa do Golfo", "f": 0, "cor": "rosa"},
-                 {"t": "Panhandle", "s": "norte da costa do Golfo", "f": 3, "cor": "ciano", "atraso": 2.0}]},
-  {"id": "ambrosia", "capitulo": "Ambrosia = interior", "planos": [
-     {"v": "m:ambrosia"}, {"v": "r:sugarcane burning Florida", "f": 1}, {"v": "r:Lake Okeechobee Clewiston", "f": 3},
-     {"v": "r:sugarcane field Florida", "f": 3}, {"v": "o:Jason_Duval_18", "f": 4}],
-   "destaques": [{"t": "Ambrosia", "s": "o interior industrial", "f": 0, "cor": "rosa"},
-                 {"t": "Clewiston", "s": "\"a cidade mais doce dos EUA\"", "f": 3, "cor": "laranja", "atraso": 1.0}]},
-  {"id": "kalaga", "capitulo": "Mount Kalaga", "planos": [
-     {"v": "m:kalaga"}, {"v": "o:Jason_and_Lucia_16"}, {"v": "c:Montanha?", "f": 1},
-     {"v": "r:Britton Hill Florida highest point", "f": 2}, {"v": "r:Ocala National Forest", "f": 4}],
-   "destaques": [{"t": "Mount Kalaga", "s": "parque nacional", "f": 0, "cor": "rosa"},
-                 {"t": "105 metros", "s": "ponto mais alto da Flórida", "f": 2, "cor": "laranja"}]},
-  {"id": "only-in-leonida", "capitulo": "Só em Leonida", "planos": [
-     {"v": "o:Vice_City_19"}, {"v": "c:Homem da Flórida|o meme mais famoso dos EUA", "f": 1}, {"v": "o:Vice_City_16", "f": 2},
-     {"v": "o:Vice_City_20", "f": 3}, {"v": "o:onlyInLeonidaDesktop", "f": 4}],
-   "destaques": [{"t": "Only in Leonida", "s": "só em Leonida", "f": 4, "cor": "rosa"}]},
-  {"id": "carros", "capitulo": "Os carros", "planos": [
-     {"v": "o:Vice_City_24"}, {"v": "o:ULTIMATE_EDITION_GROTTI_CHEETAH_01", "f": 2}, {"v": "o:VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01", "f": 3},
-     {"v": "o:ULTIMATE_EDITION_VAPID_BUGGY_01", "f": 4}, {"v": "o:ULTIMATE_EDITION_SQUALO_01", "f": 4},
-     {"v": "o:ULTIMATE_EDITION_STOCK_305_01", "f": 4}, {"v": "o:desktop.0iky3x6", "f": 5}],
-   "destaques": [{"t": "Grotti Cheetah", "s": "superesportivo clássico", "f": 2, "cor": "laranja"},
-                 {"t": "Vapid Stanier", "s": "viatura e táxi", "f": 3, "cor": "ciano"}]},
-  {"id": "personagens", "capitulo": "Jason e Lucia", "planos": [
-     {"v": "o:Jason_Lucia_Lock_And_Load"}, {"v": "t:40.7", "f": 1}, {"v": "o:Jason_and_Lucia_17", "f": 1},
-     {"v": "o:Lucia_Caminos_13", "f": 2}, {"v": "o:Jason_and_Lucia_19", "f": 2}],
-   "destaques": [{"t": "Jason e Lucia", "s": "os protagonistas", "f": 0, "cor": "rosa"},
-                 {"t": "\"O lado mais sombrio do lugar mais ensolarado\"", "f": 1, "pos": "centro", "tam": 88, "cor": "laranja", "atraso": 3.0, "dur": 4.2}]},
-  {"id": "nao-anunciado", "capitulo": "O que ainda não foi confirmado", "planos": [
-     {"v": "c:Ainda sem confirmação|tamanho do mapa"}, {"v": "m:todas", "f": 1}, {"v": "t:70.7", "f": 2}, {"v": "o:Vice_City_26", "f": 3}],
-   "destaques": [{"t": "???", "s": "tamanho oficial do mapa", "f": 2, "cor": "lima", "pos": "centro", "tam": 200}]},
-  {"id": "fechamento", "capitulo": "Quarta-feira tem GTA 6", "planos": [
-     {"v": "p:0"}, {"v": "o:GTAVI_Pre_Load", "f": 1}, {"v": "t:84.7", "f": 2}, {"v": "c:Inscreva-se|e comente: qual região primeiro?", "f": 3}],
-   "destaques": [{"t": "Quarta, 8h", "s": "horário de Brasília (Nova Zelândia)", "f": 1, "cor": "laranja", "atraso": 1.0}]}
+  {
+   "id": "gancho",
+   "planos": [
+    {
+     "v": "v:trailer1:2.9"
+    },
+    {
+     "v": "o:GTAVI_Official_Cover_Art_Landscape",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1127.8",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:36.0"
+    },
+    {
+     "v": "m:todas",
+     "f": 3
+    },
+    {
+     "v": "v:trailer2:140.2",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "19 de novembro",
+     "s": "PS5 e Xbox Series X|S",
+     "f": 1,
+     "cor": "laranja"
+    },
+    {
+     "t": "Leonida = Flórida",
+     "f": 3,
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "id": "abertura",
+   "capitulo": "Abertura",
+   "planos": [
+    {
+     "v": "i:O MAPA DE GTA 6 EXPLICADO",
+     "peso": 2.6
+    },
+    {
+     "v": "v:extended:735.3"
+    },
+    {
+     "v": "v:launch:55.5"
+    },
+    {
+     "v": "o:Leonida_Keys_02"
+    },
+    {
+     "v": "v:launch:28.0"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_02"
+    },
+    {
+     "v": "v:extended:1104.2",
+     "f": 2
+    },
+    {
+     "v": "v:extended:1083.5"
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 3
+    },
+    {
+     "v": "v:launch:40.6"
+    }
+   ],
+   "destaques": []
+  },
+  {
+   "id": "vice-city-volta",
+   "capitulo": "Vice City está de volta",
+   "planos": [
+    {
+     "v": "s:vicecity2002:7"
+    },
+    {
+     "v": "s:vicecity2002:4",
+     "f": 1
+    },
+    {
+     "v": "s:vicecity2002:3",
+     "f": 2
+    },
+    {
+     "v": "s:vicecity2002:5"
+    },
+    {
+     "v": "s:vicecity_de:4"
+    },
+    {
+     "v": "s:vicecity2002:2",
+     "f": 3
+    },
+    {
+     "v": "s:vicecity_de:1"
+    },
+    {
+     "v": "v:trailer1:40.0",
+     "f": 4
+    },
+    {
+     "v": "v:trailer1:41.5",
+     "f": 5
+    },
+    {
+     "v": "v:trailer1:44.0"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "2002",
+     "s": "GTA Vice City",
+     "f": 2,
+     "cor": "laranja"
+    },
+    {
+     "t": "Mais de 20 anos depois",
+     "f": 4,
+     "cor": "rosa",
+     "tam": 120
+    }
+   ]
+  },
+  {
+   "id": "estado",
+   "capitulo": "Um estado inteiro: Leonida",
+   "planos": [
+    {
+     "v": "o:Vice_City_17"
+    },
+    {
+     "v": "o:Leonida_Keys_01",
+     "f": 1
+    },
+    {
+     "v": "v:extended:750.4"
+    },
+    {
+     "v": "v:trailer1:18.6",
+     "f": 2
+    },
+    {
+     "v": "o:Vice_City_10"
+    },
+    {
+     "v": "s:gta5:16",
+     "f": 3
+    },
+    {
+     "v": "o:Grassrivers_04",
+     "f": 4
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_04"
+    },
+    {
+     "v": "o:Ambrosia_04"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Leonida",
+     "s": "o estado de GTA 6",
+     "f": 1,
+     "cor": "rosa"
+    },
+    {
+     "t": "23 milhões",
+     "s": "habitantes na Flórida real",
+     "f": 2,
+     "cor": "laranja",
+     "atraso": 1.5
+    },
+    {
+     "t": "GTA 5",
+     "s": "Los Santos",
+     "f": 3,
+     "cor": "ciano"
+    }
+   ]
+  },
+  {
+   "id": "mapa",
+   "capitulo": "As 6 regiões",
+   "planos": [
+    {
+     "v": "m:todas"
+    },
+    {
+     "v": "m:vice-city",
+     "f": 1
+    },
+    {
+     "v": "m:keys",
+     "f": 2
+    },
+    {
+     "v": "m:grassrivers",
+     "f": 3
+    },
+    {
+     "v": "m:gellhorn",
+     "f": 4
+    },
+    {
+     "v": "m:ambrosia",
+     "f": 5
+    },
+    {
+     "v": "m:kalaga",
+     "f": 6
+    },
+    {
+     "v": "m:todas",
+     "f": 7
+    }
+   ],
+   "destaques": [
+    {
+     "t": "6 regiões",
+     "f": 0,
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.4,
+     "cor": "laranja"
+    }
+   ]
+  },
+  {
+   "id": "vice-city",
+   "capitulo": "Vice City = Miami",
+   "planos": [
+    {
+     "v": "o:Vice_City_27"
+    },
+    {
+     "v": "v:extended:735.6"
+    },
+    {
+     "v": "v:extended:1083.8",
+     "f": 1
+    },
+    {
+     "v": "o:Vice_City_26"
+    },
+    {
+     "v": "r:Art Deco Historic District Miami Beach",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:32.7"
+    },
+    {
+     "v": "v:trailer2:126.0"
+    },
+    {
+     "v": "v:launch:47.2",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_22"
+    },
+    {
+     "v": "o:Vice_City_24"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Vice City",
+     "s": "Miami na vida real",
+     "f": 0,
+     "cor": "rosa"
+    },
+    {
+     "t": "Vice Beach",
+     "s": "Miami Beach",
+     "f": 1,
+     "cor": "laranja",
+     "atraso": 1.0
+    },
+    {
+     "t": "+800 prédios",
+     "s": "art déco em Miami Beach",
+     "f": 2,
+     "cor": "ciano",
+     "atraso": 1.8
+    }
+   ]
+  },
+  {
+   "id": "vice-city-2",
+   "planos": [
+    {
+     "v": "o:Vice_City_15"
+    },
+    {
+     "v": "r:PortMiami cruise ships",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:11.0"
+    },
+    {
+     "v": "v:extended:1045.2"
+    },
+    {
+     "v": "v:launch:10.1"
+    },
+    {
+     "v": "o:Vice_City_10",
+     "f": 2
+    },
+    {
+     "v": "v:extended:539.0"
+    },
+    {
+     "v": "o:Vice_City_11"
+    },
+    {
+     "v": "v:extended:1122.6",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_08"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Capital mundial dos cruzeiros",
+     "f": 1,
+     "cor": "ciano",
+     "tam": 110
+    }
+   ]
+  },
+  {
+   "id": "keys",
+   "capitulo": "Leonida Keys = Florida Keys",
+   "planos": [
+    {
+     "v": "m:keys"
+    },
+    {
+     "v": "o:Leonida_Keys_01"
+    },
+    {
+     "v": "r:Seven Mile Bridge Florida Keys aerial",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:35.8"
+    },
+    {
+     "v": "r:Overseas Highway Florida Keys",
+     "f": 2
+    },
+    {
+     "v": "o:Leonida_Keys_03",
+     "f": 3
+    },
+    {
+     "v": "v:extended:1550.9"
+    },
+    {
+     "v": "v:launch:14.4"
+    },
+    {
+     "v": "v:trailer2:8.3"
+    },
+    {
+     "v": "v:trailer1:23.4",
+     "f": 4
+    },
+    {
+     "v": "o:Leonida_Keys_04"
+    },
+    {
+     "v": "o:Leonida_Keys_06"
+    },
+    {
+     "v": "v:launch:3.0"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Leonida Keys",
+     "s": "Florida Keys na vida real",
+     "f": 0,
+     "cor": "rosa"
+    },
+    {
+     "t": "42 pontes",
+     "s": "Overseas Highway",
+     "f": 1,
+     "cor": "laranja",
+     "atraso": 2.5
+    },
+    {
+     "t": "11 km",
+     "s": "Seven Mile Bridge",
+     "f": 2,
+     "cor": "ciano"
+    }
+   ]
+  },
+  {
+   "id": "grassrivers",
+   "capitulo": "Grassrivers = Everglades",
+   "planos": [
+    {
+     "v": "m:grassrivers"
+    },
+    {
+     "v": "o:Grassrivers_04",
+     "f": 1
+    },
+    {
+     "v": "o:Grassrivers_05"
+    },
+    {
+     "v": "r:Everglades airboat",
+     "f": 2
+    },
+    {
+     "v": "v:extended:1030.1"
+    },
+    {
+     "v": "o:Grassrivers_03"
+    },
+    {
+     "v": "o:Grassrivers_08",
+     "f": 3
+    },
+    {
+     "v": "v:trailer1:42.5",
+     "f": 4
+    },
+    {
+     "v": "o:Grassrivers_01"
+    },
+    {
+     "v": "v:trailer2:138.3"
+    },
+    {
+     "v": "v:trailer1:55.2",
+     "f": 5
+    },
+    {
+     "v": "o:Grassrivers_02"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Grassrivers",
+     "s": "Everglades na vida real",
+     "f": 1,
+     "cor": "rosa"
+    },
+    {
+     "t": "Jacaré!",
+     "f": 3,
+     "pos": "centro",
+     "tam": 190,
+     "dur": 1.8,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "gellhorn",
+   "capitulo": "Port Gellhorn = Golfo",
+   "planos": [
+    {
+     "v": "m:gellhorn"
+    },
+    {
+     "v": "o:Port_Gellhorn_06"
+    },
+    {
+     "v": "o:Port_Gellhorn_01",
+     "f": 1
+    },
+    {
+     "v": "o:Port_Gellhorn_04",
+     "f": 2
+    },
+    {
+     "v": "o:Port_Gellhorn_02"
+    },
+    {
+     "v": "o:Port_Gellhorn_03"
+    },
+    {
+     "v": "r:Panama City Beach Florida",
+     "f": 3
+    },
+    {
+     "v": "v:trailer2:83.3"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Port Gellhorn",
+     "s": "costa do Golfo",
+     "f": 0,
+     "cor": "rosa"
+    },
+    {
+     "t": "Panhandle",
+     "s": "norte da costa do Golfo",
+     "f": 3,
+     "cor": "ciano",
+     "atraso": 2.0
+    }
+   ]
+  },
+  {
+   "id": "ambrosia",
+   "capitulo": "Ambrosia = interior",
+   "planos": [
+    {
+     "v": "m:ambrosia"
+    },
+    {
+     "v": "o:Ambrosia_01"
+    },
+    {
+     "v": "o:Ambrosia_02",
+     "f": 1
+    },
+    {
+     "v": "o:Ambrosia_04"
+    },
+    {
+     "v": "o:Ambrosia_05",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:70.5"
+    },
+    {
+     "v": "r:sugarcane field Florida",
+     "f": 3
+    },
+    {
+     "v": "o:Ambrosia_03"
+    },
+    {
+     "v": "v:trailer2:10.0",
+     "f": 4
+    },
+    {
+     "v": "v:extended:1115.0"
+    },
+    {
+     "v": "o:Ambrosia_06"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Ambrosia",
+     "s": "o interior industrial",
+     "f": 0,
+     "cor": "rosa"
+    },
+    {
+     "t": "Clewiston",
+     "s": "\"a cidade mais doce dos EUA\"",
+     "f": 3,
+     "cor": "laranja",
+     "atraso": 1.0
+    }
+   ]
+  },
+  {
+   "id": "kalaga",
+   "capitulo": "Mount Kalaga",
+   "planos": [
+    {
+     "v": "m:kalaga"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_04"
+    },
+    {
+     "v": "v:extended:464.7"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_05"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_02",
+     "f": 1
+    },
+    {
+     "v": "r:Britton Hill Florida highest point",
+     "f": 2
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_01",
+     "f": 3
+    },
+    {
+     "v": "v:extended:467.8"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_06",
+     "f": 4
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_03"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Mount Kalaga",
+     "s": "parque nacional",
+     "f": 0,
+     "cor": "rosa"
+    },
+    {
+     "t": "105 metros",
+     "s": "ponto mais alto da Flórida",
+     "f": 2,
+     "cor": "laranja"
+    }
+   ]
+  },
+  {
+   "id": "only-in-leonida",
+   "capitulo": "Só em Leonida",
+   "planos": [
+    {
+     "v": "o:Vice_City_19"
+    },
+    {
+     "v": "o:Vice_City_04"
+    },
+    {
+     "v": "v:trailer1:44.0",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:52.3"
+    },
+    {
+     "v": "v:trailer1:47.6",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:57.4",
+     "f": 3
+    },
+    {
+     "v": "v:trailer1:65.7"
+    },
+    {
+     "v": "v:trailer1:43.9"
+    },
+    {
+     "v": "o:onlyInLeonidaDesktop",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Florida Man",
+     "s": "o \"Homem da Flórida\"",
+     "f": 1,
+     "cor": "lima"
+    },
+    {
+     "t": "Only in Leonida",
+     "s": "só em Leonida",
+     "f": 4,
+     "cor": "rosa"
+    }
+   ]
+  },
+  {
+   "id": "carros",
+   "capitulo": "Os carros",
+   "planos": [
+    {
+     "v": "v:extended:369.5"
+    },
+    {
+     "v": "v:launch:47.2"
+    },
+    {
+     "v": "o:Vice_City_24",
+     "f": 1
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_GROTTI_CHEETAH_01",
+     "f": 2
+    },
+    {
+     "v": "o:VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01",
+     "f": 3
+    },
+    {
+     "v": "v:extended:943.5"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_VAPID_BUGGY_01",
+     "f": 4
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_SQUALO_01"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_STOCK_305_01"
+    },
+    {
+     "v": "v:extended:1062.0",
+     "f": 5
+    },
+    {
+     "v": "v:extended:1119.4"
+    },
+    {
+     "v": "v:trailer2:34.8"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Grotti Cheetah",
+     "s": "superesportivo clássico",
+     "f": 2,
+     "cor": "laranja"
+    },
+    {
+     "t": "Vapid Stanier",
+     "s": "viatura e táxi",
+     "f": 3,
+     "cor": "ciano"
+    }
+   ]
+  },
+  {
+   "id": "personagens",
+   "capitulo": "Jason e Lucia",
+   "planos": [
+    {
+     "v": "o:Jason_Lucia_Lock_And_Load"
+    },
+    {
+     "v": "v:launch:26.6"
+    },
+    {
+     "v": "v:extended:694.6",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:62.6"
+    },
+    {
+     "v": "v:launch:40.8"
+    },
+    {
+     "v": "o:Jason_and_Lucia_17"
+    },
+    {
+     "v": "o:Lucia_Caminos_13",
+     "f": 2
+    },
+    {
+     "v": "v:launch:72.9"
+    },
+    {
+     "v": "v:extended:1013.4"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Jason e Lucia",
+     "s": "os protagonistas",
+     "f": 0,
+     "cor": "rosa"
+    },
+    {
+     "t": "\"O lado mais sombrio do lugar mais ensolarado\"",
+     "f": 1,
+     "pos": "centro",
+     "tam": 88,
+     "cor": "laranja",
+     "atraso": 3.0,
+     "dur": 4.2
+    }
+   ]
+  },
+  {
+   "id": "nao-anunciado",
+   "capitulo": "O que ainda não foi confirmado",
+   "planos": [
+    {
+     "v": "v:extended:571.0"
+    },
+    {
+     "v": "m:todas",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1080.2"
+    },
+    {
+     "v": "o:Vice_City_03",
+     "f": 2
+    },
+    {
+     "v": "v:extended:1175.9",
+     "f": 3
+    },
+    {
+     "v": "o:GTAVI_Official_Cover_Art_Landscape",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "???",
+     "s": "tamanho oficial do mapa",
+     "f": 2,
+     "cor": "lima",
+     "pos": "centro",
+     "tam": 200
+    }
+   ]
+  },
+  {
+   "id": "fechamento",
+   "capitulo": "Quarta-feira tem GTA 6",
+   "planos": [
+    {
+     "v": "p:0"
+    },
+    {
+     "v": "o:GTAVI_Pre_Load",
+     "f": 1
+    },
+    {
+     "v": "v:launch:63.4"
+    },
+    {
+     "v": "v:extended:840.3",
+     "f": 2
+    },
+    {
+     "v": "v:trailer2:142.0"
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_01",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Quarta, 8h",
+     "s": "horário de Brasília (Nova Zelândia)",
+     "f": 1,
+     "cor": "laranja",
+     "atraso": 1.0
+    },
+    {
+     "t": "Inscreva-se",
+     "s": "e comente: qual região primeiro?",
+     "f": 3,
+     "cor": "rosa"
+    }
+   ]
+  }
  ]
 }

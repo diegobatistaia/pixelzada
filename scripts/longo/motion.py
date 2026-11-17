@@ -38,7 +38,7 @@ def ease_back(t: float) -> float:
 # ---------------------------------------------------------------------------
 def intro_logo(saida: Path, dur: float = 3.2, apoio: str = "") -> None:
     from scripts.longo import narrado as N
-    n = int(dur * FPS)
+    n = max(1, int(round(dur * FPS)))
     fundo = N.fundo_vice().convert("RGB")
     escuro = Image.new("RGB", (W, H), N.NOITE)
     logo = Image.open(N.LOGO).convert("RGBA")

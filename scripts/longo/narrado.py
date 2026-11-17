@@ -410,6 +410,34 @@ def trecho(video: Path, ss: float, dur: float, saida: Path):
        "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", FPS, saida)
 
 
+VIDEOS = {"extended": "GTAVI_An_Extended_Look", "trailer1": "GTAVI_Trailer_1", "trailer2": "GTAVI_Trailer_2",
+          "launch": "GTAVI_Launch_Trailer", "preload": "GTAVI_Pre-Load_Now"}
+ROTULO_VIDEO = {"extended": "GTA 6 · GAMEPLAY", "trailer1": "GTA 6 · TRAILER 1", "trailer2": "GTA 6 · TRAILER 2",
+                "launch": "GTA 6 · TRAILER"}
+STEAM_IDS = {"vicecity2002": 12110, "vicecity_de": 1546990, "gta5": 271590, "sanandreas": 12120, "gta3": 12100}
+ROTULO_STEAM = {"vicecity2002": "GTA VICE CITY · 2002", "vicecity_de": "GTA VICE CITY", "gta5": "GTA 5",
+                "sanandreas": "GTA SAN ANDREAS", "gta3": "GTA III"}
+_MAPA_ANT: str | None = None
+
+
+def steam(jogo: str, n: int) -> Path:
+    """Tela oficial do jogo na loja Steam (cache em trabalho/steam)."""
+    pasta = RAIZ / "trabalho/steam"
+    pasta.mkdir(parents=True, exist_ok=True)
+    arq = pasta / f"{jogo}-{n:02d}.jpg"
+    if arq.exists():
+        return arq
+    info = pasta / f"{jogo}.json"
+    if not info.exists():
+        url = f"https://store.steampowered.com/api/appdetails?appids={STEAM_IDS[jogo]}&l=portuguese"
+        info.write_bytes(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read())
+    d = json.loads(info.read_text())
+    telas = next(iter(d.values()))["data"]["screenshots"]
+    url = telas[n % len(telas)]["path_full"]
+    arq.write_bytes(urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=60).read())
+    return arq
+
+
 def render_plano(p: dict, dur: float, saida: Path, trab: Path, i: int) -> str:
     k, v = p["v"].split(":", 1)
     if k == "o":
@@ -432,8 +460,24 @@ def render_plano(p: dict, dur: float, saida: Path, trab: Path, i: int) -> str:
                 print(f"    Commons: {e}")
         kenburns(fundo_vice(), dur, saida, 0)
         return ""
+    if k == "v":  # v:<video>:<segundo>  (extended, trailer1, trailer2, launch, preload)
+        nome, _, ss = v.partition(":")
+        trecho(oficial(VIDEOS[nome]), float(ss), dur, saida)
+        return ROTULO_VIDEO.get(nome, "GTA 6 · OFICIAL")
+    if k == "s":  # s:<jogo>:<n>  tela oficial da Steam de jogo antigo
+        jogo, _, n = v.partition(":")
+        kenburns(steam(jogo, int(n)), dur, saida, i)
+        return ROTULO_STEAM.get(jogo, "")
+    if k == "i":  # vinheta de entrada do logo
+        from scripts.longo import motion as M
+        M.intro_logo(saida, dur, v)
+        return ""
     if k == "m":
-        kenburns(arte_mapa(None if v == "todas" else v), dur, saida, 0)
+        from scripts.longo import motion as M
+        global _MAPA_ANT
+        dest = None if v == "todas" else v
+        M.mapa_anim(saida, dur, dest, anterior=_MAPA_ANT if _MAPA_ANT in REGIOES else None, entrada=_MAPA_ANT is None and not p.get("sem_entrada"))
+        _MAPA_ANT = dest or "todas"
         return "MAPA"
     if k == "c":
         titulo, _, apoio = v.partition("|")
@@ -464,9 +508,12 @@ def tempos_planos(c: dict) -> list[tuple[float, float]]:
         while j < len(pl) and ancora[j] is None:
             j += 1
         fim = ancora[j] if j < len(pl) else dur
-        passo = (fim - ancora[i]) / (j - i)
+        pesos = [float(pl[k].get("peso", 1)) for k in range(i, j)]  # "peso": plano mais longo que os vizinhos
+        passo = (fim - ancora[i]) / sum(pesos)
+        acum = ancora[i]
         for k in range(i, j):
-            out[k] = ancora[i] + passo * (k - i)
+            out[k] = acum
+            acum += passo * pesos[k - i]
         i = j
     return [(out[k], out[k + 1] if k + 1 < len(pl) else dur) for k in range(len(pl))]
 
