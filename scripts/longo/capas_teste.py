@@ -13,7 +13,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter
 
-from scripts.longo.narrado import ANTON, CIANO, LOGO, NOITE, OFICIAL, ROSA, fonte
+from scripts.longo.narrado import ANTON, CIANO, LOGO, NOITE, ROSA, fonte
 
 W, H = 1280, 720
 AMARELO = (255, 221, 51)
@@ -21,8 +21,10 @@ BRANCO = (255, 255, 255)
 
 
 def img(prefixo: str) -> Image.Image:
-    arq = sorted(p for p in OFICIAL.iterdir() if p.name.startswith(prefixo))[0]
-    return Image.open(arq).convert("RGB")
+    from scripts.longo.narrado import oficial
+    im = Image.open(oficial(prefixo)).convert("RGB")
+    print(f"  {prefixo}: {im.size[0]}x{im.size[1]}")
+    return im
 
 
 def cobrir(im: Image.Image, w: int, h: int, fx: float = 0.5, fy: float = 0.5) -> Image.Image:
@@ -50,11 +52,22 @@ def degrade(im: Image.Image, lado: str = "esq", largura: int = 760, forca: int =
     im.alpha_composite(g)
 
 
-def texto(im: Image.Image, xy, s: str, tam: int, cor=AMARELO, contorno=12, ancora="la", rot: float = 0) -> None:
+def texto(im: Image.Image, xy, s: str, tam: int, cor=AMARELO, contorno=12, ancora="la", rot: float = 0,
+          brilho=None) -> None:
     f = fonte(ANTON, tam)
+    contorno = int(contorno * 1.35)
+    x, y = xy
+    # brilho neon atrás da letra (identidade Vice): chama atenção na miniatura
+    if brilho is None:
+        brilho = CIANO if cor == ROSA else ROSA
+    g = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(g).text((x, y), s, font=f, fill=(*brilho, 255), anchor=ancora, stroke_width=contorno + 16,
+                           stroke_fill=(*brilho, 255))
+    g = g.filter(ImageFilter.GaussianBlur(22))
+    for _ in range(2):
+        im.alpha_composite(g)
     camada = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(camada)
-    x, y = xy
     # sombra dura deslocada + contorno grosso (leitura no celular)
     d.text((x + 8, y + 10), s, font=f, fill=(0, 0, 0, 170), anchor=ancora, stroke_width=contorno,
            stroke_fill=(0, 0, 0, 170))
@@ -71,6 +84,23 @@ def pilula(im: Image.Image, xy, s: str, tam: int = 46, fundo=ROSA, cor=BRANCO) -
     tl = f.getlength(s)
     d.rounded_rectangle([x, y, x + tl + 40, y + tam + 24], radius=14, fill=fundo, outline=NOITE, width=5)
     d.text((x + 20, y + 8), s, font=f, fill=cor)
+
+
+def selo(im: Image.Image, xy, tam: int = 84, ancora: str = "esq", s: str = "GTA 6", fundo=ROSA) -> None:
+    """Selo grande "GTA 6" em todas as capas (pedido do Diego, 17/11)."""
+    f = fonte(ANTON, tam)
+    tl = f.getlength(s)
+    w, h = int(tl + 56), tam + 36
+    x, y = xy
+    if ancora == "dir":
+        x -= w
+    g = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(g).rounded_rectangle([x - 6, y - 6, x + w + 6, y + h + 6], radius=22, fill=(*fundo, 255))
+    im.alpha_composite(g.filter(ImageFilter.GaussianBlur(18)))
+    d = ImageDraw.Draw(im)
+    d.rounded_rectangle([x + 6, y + 10, x + w + 6, y + h + 10], radius=20, fill=(0, 0, 0))
+    d.rounded_rectangle([x, y, x + w, y + h], radius=20, fill=fundo, outline=BRANCO, width=7)
+    d.text((x + 28, y + 10), s, font=f, fill=BRANCO, stroke_width=4, stroke_fill=NOITE)
 
 
 def logo(im: Image.Image, canto: str = "dir") -> None:
@@ -111,81 +141,104 @@ def mapa_florida(alt: int = 640) -> Image.Image:
 
 
 # ---------------------------------------------------------------------------
+# REGRA (Diego, 17/11): TODA capa tem Jason e Lucia (os protagonistas) + selo "GTA 6" grande,
+# para quem rola o feed saber na hora que é GTA 6. Rosto nunca cortado nem coberto por texto.
+JL_TRAILER = "GTAVI_Launch_Trailer_poster"   # Jason ~0.35, Lucia ~0.62 (pôr do sol, carro vermelho)
+JL_TELHADO = "Jason_Lucia_Rooftop_landscape"  # Jason ~0.55, Lucia ~0.72, Vice City ao fundo
+JL_POSTO = "GTAVI_An_Extended_Look_poster"   # Lucia ~0.38, Jason ~0.55 andando
+JL_CARRO = "Jason_and_Lucia_17"              # Lucia ~0.4, Jason ~0.65 saindo do carro
+JL_ARMAS = "Jason_Lucia_Lock_And_Load_landscape"  # Jason ~0.2, Lucia ~0.43
+JL_ASSALTO = "Jason_and_Lucia_15"            # Jason ~0.55 de máscara, Lucia ~0.65
+
+
+def fundo(prefixo: str, fx: float = .5, fy: float = .5, zoom: float = 1.0) -> Image.Image:
+    im = img(prefixo)
+    s = max(W / im.width, H / im.height) * zoom
+    im = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
+    return realce(cobrir(im, W, H, fx, fy)).convert("RGBA")
+
+
 def leonida(pasta: Path) -> None:
-    # A: mapa + cidade real do jogo, "É A FLÓRIDA"
-    m = mapa_florida()
+    # A: painel do mapa da Flórida (com o texto) à esquerda + Jason e Lucia à direita
     im = Image.new("RGBA", (W, H), NOITE)
-    cid = realce(cobrir(img("Vice_City_27"), W, H, .5, .5)).convert("RGBA")
-    im.alpha_composite(cid)
-    degrade(im, "dir", 900, 240)
-    mp = m.crop((400, 0, 1740, 1000)).resize((965, 720), Image.LANCZOS).convert("RGBA")
-    mask = Image.new("L", mp.size, 0)
-    ImageDraw.Draw(mask).rectangle([60, 0, mp.width, mp.height], fill=255)
-    mask = mask.filter(ImageFilter.GaussianBlur(40))
-    im.paste(mp, (W - mp.width, 0), mask)
-    texto(im, (40, 60), "O MAPA", 130, BRANCO)
-    texto(im, (40, 200), "É A", 130, AMARELO)
-    texto(im, (40, 340), "FLÓRIDA", 130, ROSA)
-    pilula(im, (44, 560), "6 REGIÕES", 52, CIANO, NOITE)
+    m = mapa_florida()
+    mp = m.crop((560, 0, 1720, 1000)).resize((696, 600), Image.LANCZOS).convert("RGBA")
+    im.alpha_composite(mp, (-30, 110))
+    jl = img(JL_TRAILER)
+    sc = max(680 / jl.width, H / jl.height) * 1.25
+    jl = jl.resize((round(jl.width * sc), round(jl.height * sc)), Image.LANCZOS)
+    dirr = realce(cobrir(jl, 700, H, .50, .45)).convert("RGBA")
+    mask = Image.new("L", (700, H), 0)
+    ImageDraw.Draw(mask).polygon([(70, 0), (700, 0), (700, H), (0, H)], fill=255)
+    im.paste(dirr, (580, 0), mask)
+    ImageDraw.Draw(im).line([(650, 0), (580, H)], fill=ROSA, width=12)
+    texto(im, (48, 50), "O MAPA", 116, BRANCO)
+    texto(im, (48, 180), "É A", 116, AMARELO, brilho=NOITE)
+    texto(im, (48, 310), "FLÓRIDA", 116, ROSA)
+    selo(im, (40, 580), 70)
     borda(im)
     logo(im, "dir")
     im.convert("RGB").save(pasta / "leonida-capa-A.jpg", quality=92)
 
-    # B: vista aérea de Vice City com seta: "ISSO É MIAMI"
-    im = realce(cobrir(img("Vice_City_15"), W, H, .5, .55)).convert("RGBA")
-    degrade(im, "esq", 700, 200)
-    texto(im, (40, 70), "ISSO É", 140, BRANCO)
-    texto(im, (40, 220), "MIAMI!", 210, AMARELO)
-    seta(im, (720, 560), (1000, 430))
-    pilula(im, (44, 560), "GTA 6 = VIDA REAL", 50, ROSA)
+    # B: Jason e Lucia no telhado com Vice City atrás: "ISSO É MIAMI!"
+    im = fundo(JL_TELHADO, .62, .45, 1.1)
+    degrade(im, "esq", 760, 235)
+    texto(im, (36, 50), "ISSO É", 140, BRANCO)
+    texto(im, (36, 200), "MIAMI!", 200, AMARELO)
+    selo(im, (40, 560), 66, s="GTA 6 = VIDA REAL")
     borda(im, CIANO)
     logo(im, "dir")
     im.convert("RGB").save(pasta / "leonida-capa-B.jpg", quality=92)
 
-    # C: rosto da Lucia + "6 REGIÕES"
-    im = realce(cobrir(img("Grassrivers_07"), W, H, .4, .45)).convert("RGBA")
-    degrade(im, "dir", 640, 230)
-    texto(im, (W - 40, 90), "6", 330, AMARELO, 16, "ra")
-    texto(im, (W - 40, 430), "REGIÕES", 130, BRANCO, 12, "ra")
-    pilula(im, (W - 420, 590), "LEONIDA", 48, ROSA)
+    # C: Jason e Lucia andando + "6 REGIÕES"
+    im = fundo(JL_POSTO, .40, .45, 1.15)
+    degrade(im, "dir", 640, 235)
+    texto(im, (W - 36, 30), "6", 320, AMARELO, 16, "ra")
+    texto(im, (W - 36, 365), "REGIÕES", 130, BRANCO, 12, "ra")
+    selo(im, (W - 40, 575), 70, "dir")
     borda(im)
     logo(im, "esq")
     im.convert("RGB").save(pasta / "leonida-capa-C.jpg", quality=92)
 
 
 def h48(pasta: Path) -> None:
-    # A: Lucia encarando + "48H" gigante
-    im = realce(cobrir(img("Lucia_Caminos_13"), W, H, .35, .45)).convert("RGBA")
-    degrade(im, "dir", 700, 235)
-    texto(im, (W - 40, 40), "48H", 300, AMARELO, 16, "ra")
-    texto(im, (W - 40, 380), "FAÇA ISSO", 110, BRANCO, 12, "ra")
-    texto(im, (W - 40, 510), "HOJE", 110, ROSA, 12, "ra")
+    # A: Jason e Lucia no telhado + "48H"
+    im = fundo(JL_TELHADO, .62, .45, 1.1)
+    degrade(im, "esq", 700, 240)
+    selo(im, (36, 26), 62)
+    texto(im, (36, 120), "48H", 260, AMARELO, 16)
+    texto(im, (36, 420), "FAÇA ISSO", 100, BRANCO, 12)
+    texto(im, (36, 545), "HOJE", 104, ROSA, 12)
     borda(im)
-    logo(im, "esq")
+    logo(im, "dir")
     im.convert("RGB").save(pasta / "48h-capa-A.jpg", quality=92)
 
-    # B: arte oficial + barra de download
-    im = realce(cobrir(img("GTAVI_Pre_Load"), W, H, .6, .4)).convert("RGBA")
-    degrade(im, "esq", 760, 235)
-    texto(im, (40, 60), "BAIXE", 170, BRANCO)
-    texto(im, (40, 240), "AGORA", 170, AMARELO)
+    # B: Jason e Lucia armados + barra de download
+    im = fundo(JL_ARMAS, .30, .45, 1.1)
+    degrade(im, "dir", 700, 240)
+    texto(im, (W - 36, 40), "BAIXE", 160, BRANCO, 12, "ra")
+    texto(im, (W - 36, 215), "AGORA", 160, AMARELO, 12, "ra")
     d = ImageDraw.Draw(im)
-    d.rounded_rectangle([44, 470, 620, 540], radius=18, fill=NOITE, outline=BRANCO, width=5)
-    d.rounded_rectangle([56, 482, 470, 528], radius=12, fill=CIANO)
-    d.text((490, 478), "73%", font=fonte(ANTON, 52), fill=BRANCO)
-    pilula(im, (44, 580), "PRÉ-DOWNLOAD", 46, ROSA)
+    x0 = W - 620
+    d.rounded_rectangle([x0, 455, W - 44, 525], radius=18, fill=NOITE, outline=BRANCO, width=5)
+    d.rounded_rectangle([x0 + 12, 467, x0 + 420, 513], radius=12, fill=CIANO)
+    d.text((x0 + 440, 463), "73%", font=fonte(ANTON, 52), fill=BRANCO)
+    selo(im, (W - 40, 572), 66, "dir", s="GTA 6 PRÉ-DOWNLOAD")
     borda(im, CIANO)
-    logo(im, "dir")
+    logo(im, "esq")
     im.convert("RGB").save(pasta / "48h-capa-B.jpg", quality=92)
 
-    # C: personagem assustado + "SPOILER" (Nova Zelândia joga antes)
-    im = realce(cobrir(img("Vice_City_16"), W, H, .55, .4)).convert("RGBA")
-    degrade(im, "esq", 700, 225)
-    texto(im, (40, 70), "CUIDADO", 150, BRANCO)
-    texto(im, (40, 240), "SPOILER!", 170, ROSA)
-    pilula(im, (44, 470), "QUARTA, 8H", 64, AMARELO, NOITE)
+    # C: Jason e Lucia saindo do carro + "CUIDADO: SPOILER!" embaixo (rostos livres em cima)
+    im = fundo(JL_CARRO, .5, .35, 1.0)
+    g = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    dg = ImageDraw.Draw(g)
+    for i in range(300):
+        dg.line([(0, H - i), (W, H - i)], fill=(*NOITE, int(235 * (1 - i / 300) ** 1.2)))
+    im.alpha_composite(g)
+    texto(im, (W // 2, H - 95), "CUIDADO: SPOILER!", 150, ROSA, 12, "mm")
+    pilula(im, (36, 30), "QUARTA, 8H", 60, AMARELO, NOITE)
+    selo(im, (W - 36, 26), 70, "dir")
     borda(im)
-    logo(im, "dir")
     im.convert("RGB").save(pasta / "48h-capa-C.jpg", quality=92)
 
 
@@ -193,39 +246,40 @@ def g5g6(pasta: Path, quadro_gta5: Path) -> None:
     g5 = Image.open(quadro_gta5).convert("RGB")
     g5 = g5.crop((560, 100, 1480, 960))  # Michael no GTA 5, sem legenda e etiquetas
 
-    def dividido(dir_img: Image.Image, nome: str, cima: str, baixo: str, corb=AMARELO) -> None:
+    def dividido(prefixo: str, nome: str, cima: str, fx: float, zoom: float) -> None:
         im = Image.new("RGBA", (W, H), NOITE)
-        esq = realce(cobrir(g5, 660, H, .5, .45)).convert("RGBA")
         from PIL import ImageEnhance
-        esq = ImageEnhance.Color(esq.convert("RGB")).enhance(0.55).convert("RGBA")  # GTA 5 "velho"
+        esq = realce(cobrir(g5, 660, H, .5, .45))
+        esq = ImageEnhance.Color(esq).enhance(0.55).convert("RGBA")  # GTA 5 "velho"
         im.alpha_composite(esq, (0, 0))
-        dirr = realce(cobrir(dir_img, 660, H, .5, .45)).convert("RGBA")
-        mask = Image.new("L", (660, H), 0)
-        ImageDraw.Draw(mask).polygon([(60, 0), (660, 0), (660, H), (0, H)], fill=255)
-        im.paste(dirr, (620, 0), mask)
+        dj = img(prefixo)
+        sc = max(660 / dj.width, H / dj.height) * zoom
+        dj = dj.resize((round(dj.width * sc), round(dj.height * sc)), Image.LANCZOS)
+        dirr = realce(cobrir(dj, 680, H, fx, .45)).convert("RGBA")  # Jason e Lucia inteiros no painel
+        mask = Image.new("L", (680, H), 0)
+        ImageDraw.Draw(mask).polygon([(60, 0), (680, 0), (680, H), (0, H)], fill=255)
+        im.paste(dirr, (600, 0), mask)
         d = ImageDraw.Draw(im)
-        d.line([(680, 0), (620, H)], fill=BRANCO, width=14)
-        pilula(im, (30, 30), "GTA 5", 54, (90, 90, 110))
-        pilula(im, (W - 250, 30), "GTA 6", 54, ROSA)
-        texto(im, (W // 2, H // 2 - 30), "VS", 170, AMARELO, 14, "mm")
-        texto(im, (W // 2, H - 150), cima, 96, BRANCO, 12, "mm")
-        if baixo:
-            texto(im, (W // 2, H - 60), baixo, 70, corb, 10, "mm")
+        d.line([(660, 0), (600, H)], fill=BRANCO, width=14)
+        selo(im, (28, 26), 84, s="GTA 5", fundo=(70, 120, 70))
+        selo(im, (W - 28, 26), 84, "dir")
+        texto(im, (W // 2 - 20, H // 2 - 40), "VS", 190, AMARELO, 14, "mm")
+        texto(im, (W // 2, H - 95), cima, 112, BRANCO, 12, "mm")
         borda(im, CIANO)
         im.convert("RGB").save(pasta / nome, quality=92)
 
-    dividido(img("Jason_Duval_17"), "gta5-vs-gta6-capa-A.jpg", "10 DIFERENÇAS", "")
-    dividido(img("Lucia_Caminos_13"), "gta5-vs-gta6-capa-B.jpg", "MUDOU TUDO", "")
+    dividido(JL_TRAILER, "gta5-vs-gta6-capa-A.jpg", "10 DIFERENÇAS", .45, 1.25)
+    dividido(JL_TELHADO, "gta5-vs-gta6-capa-B.jpg", "MUDOU TUDO", .66, 1.0)
 
-    # C: casal de GTA 6 + "3 → 2"
-    im = realce(cobrir(img("Jason_and_Lucia_17"), W, H, .5, .45)).convert("RGBA")
-    degrade(im, "esq", 640, 235)
-    texto(im, (40, 60), "3", 190, AMARELO)
-    seta(im, (150, 170), (300, 170), BRANCO, 22)
-    texto(im, (330, 60), "2", 190, AMARELO)
-    texto(im, (40, 280), "ADEUS", 120, BRANCO)
-    texto(im, (40, 410), "TREVOR?", 120, ROSA)
-    pilula(im, (44, 590), "GTA 5 vs GTA 6", 46, CIANO, NOITE)
+    # C: Jason e Lucia + "3 → 2"
+    im = fundo(JL_POSTO, .45, .45, 1.15)
+    degrade(im, "esq", 640, 240)
+    texto(im, (36, 40), "3", 190, AMARELO)
+    seta(im, (150, 150), (300, 150), BRANCO, 22)
+    texto(im, (330, 40), "2", 190, AMARELO)
+    texto(im, (36, 260), "ADEUS", 120, BRANCO)
+    texto(im, (36, 390), "TREVOR?", 120, ROSA)
+    selo(im, (40, 572), 66, s="GTA 5 vs GTA 6")
     borda(im)
     logo(im, "dir")
     im.convert("RGB").save(pasta / "gta5-vs-gta6-capa-C.jpg", quality=92)

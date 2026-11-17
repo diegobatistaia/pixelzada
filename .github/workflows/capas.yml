@@ -1,56 +1,38 @@
-name: Capas
+name: Capas do YouTube (teste)
 
-# Refaz o recorte das capas publicadas a partir da imagem original (sem cortar
-# rosto) e troca a capa genérica pela imagem de divulgação das fontes. Roda na
-# mão (Actions > Capas > Run workflow); precisa de internet.
+# Gera as capas A/B/C dos vídeos longos com as imagens oficiais em resolução cheia
+# e grava em previas/longo/capas/. NÃO publica nada.
 on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/longo/capas_teste.py", ".github/workflows/capas.yml"]
   workflow_dispatch:
 
 permissions:
   contents: write
 
-concurrency:
-  group: finalizar
-  cancel-in-progress: false
-
 jobs:
   capas:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v7
-        with:
-          ref: main
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-          cache: pip
-      - run: pip install -r requirements.txt
-      - name: Refazer as capas e o site, commitar
-        # A redação e as outras rotinas commitam no main enquanto isto roda
-        # (foi o que derrubou a execução #3: "rejected, fetch first"). Se o
-        # push for recusado, pega o main novo e refaz tudo em cima dele.
+      - name: Ferramentas
+        run: |
+          pip install -q pyyaml pillow numpy
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu > /dev/null
+          curl -sfL -o trabalho/florida.geojson --create-dirs https://raw.githubusercontent.com/glynnbird/usstatesgeojson/master/florida.geojson || true
+      - name: Capas
+        run: python -u -m scripts.longo.capas_teste previas/longo/capas scripts/longo/capas/g5-michael.png
+      - name: Guardar no ramo
         run: |
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
-          for tentativa in 1 2 3; do
-            git fetch origin main
-            git reset --hard origin/main
-            python -m scripts.tools.recortar_capas
-            python -m scripts.tools.capas_oficiais
-            python -m scripts.pipeline.run build
-            git add -A
-            if git diff --cached --quiet; then
-              echo "Nada mudou."
-              exit 0
-            fi
-            git commit -m "site: capas oficiais"
-            if git push origin HEAD:main; then exit 0; fi
-            sleep 10
-          done
+          git add -f previas/longo/capas
+          git diff --cached --quiet && exit 0
+          git commit -q -m "longo: capas do YouTube [skip ci]"
+          for i in 1 2 3 4; do { git pull --rebase -X theirs -q origin "$GITHUB_REF_NAME" || { git rebase --abort; false; }; } && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
           exit 1
-
-  publicar:
-    needs: capas
-    uses: ./.github/workflows/deploy.yml
-    secrets: inherit
