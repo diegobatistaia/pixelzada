@@ -5116,7 +5116,7 @@
     "slug": "briga-npcs-gta5",
     "data": "2026-11-17",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Uma briga de NPCs no GTA 5 que saiu do controle 👊\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#gta5 #gtav #games #memesgamer #gamer #pixelzada",
     "tentativas": 0,
@@ -5138,6 +5138,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T18:01:47-03:00",
+      "media_id": "17920550628536270",
+      "permalink": "https://www.instagram.com/reel/Df22XKzjqr2/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
