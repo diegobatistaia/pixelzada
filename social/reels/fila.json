@@ -5899,6 +5899,34 @@
     }
   },
   {
+    "slug": "o-universo-dos-games-playstation-br",
+    "data": "2026-11-18",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "playstation_br",
+      "link": "https://www.instagram.com/reel/Df0RdNDpKkx/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Personagens totalmente vestidos conversando em cena de jogo.",
+      "por": "imagem",
+      "em": "2026-11-17T15:35:19-03:00"
+    }
+  },
+  {
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-18",
     "horario": "23:00",
