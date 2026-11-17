@@ -223,6 +223,7 @@ def enviar(item: dict, video: str, cfg: dict) -> dict:
             continue
         if rede in (cfg.get("pausadas") or []):
             # Diego, 13/11: TikTok pausado para aquecer a conta (vídeos zerados com 16 envios/dia).
+            # Diego, 17/11: YouTube Shorts pausado (só vídeos longos no YouTube por enquanto).
             # Fica marcado como pulado para não despejar a fila atrasada quando a rede voltar.
             redes[rede] = {"pulado": "rede pausada (buffer.json: pausadas)"}
             continue
