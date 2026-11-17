@@ -122,7 +122,9 @@
     "query": "The Game Awards 2026",
     "alt": "Arte do The Game Awards 2026",
     "url": "https://www.videogameschronicle.com/files/2026/11/56601a04-2026_tga_keyart_16x9-copy-scaled-1.webp",
-    "credit": "Imagem: Video Games Chronicle"
+    "credit": "Imagem: Video Games Chronicle",
+    "path": "/assets/img/the-game-awards-2026-gta-6-lidera-indica-82c0adc2.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -162,5 +164,7 @@
       "title": "GTA 6 Lucia actress officially revealed during 2026 Game Awards nominations"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-17T18:45:11+00:00",
+  "updated_at": "2026-11-17T18:45:11+00:00"
 }

@@ -118,7 +118,10 @@
     "query": "GTA 6 trailer de lançamento",
     "alt": "Pôster oficial do trailer de lançamento de Grand Theft Auto VI (15/10/2026), na página de mídia do site oficial",
     "url": "https://www.rockstargames.com/VI/_next/static/media/GTAVI_Launch_Trailer_poster.0_q-sdrgufc.s.jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/easter-eggs-de-gta-6-referencias-aos-gta-5ed57411.jpg",
+    "source_url": "",
+    "foco": "50% 17%"
   },
   "sources": [
     {
@@ -284,5 +287,7 @@
       "title": "GTA 6's Launch Trailer Analyzed – Here's What You Need to Know"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-17T18:45:11+00:00",
+  "updated_at": "2026-11-17T18:45:11+00:00"
 }
