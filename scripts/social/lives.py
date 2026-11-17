@@ -130,7 +130,8 @@ def clipes_kick(canais: list[str], jogo: str, desde: datetime) -> list[dict]:
 # Escolha, download e corte
 # ---------------------------------------------------------------------------
 def nota(c: dict) -> float:
-    return c["views"] * (3 if c.get("favorito") else 1)
+    # favorito do Diego pesa 3x; clipe de live em português pesa 2x (público brasileiro)
+    return c["views"] * (3 if c.get("favorito") else 1) * (2 if (c.get("idioma") or "").startswith("pt") else 1)
 
 
 def escolher(cfg: dict, clipes: list[dict], ja: set[str]) -> list[dict]:
