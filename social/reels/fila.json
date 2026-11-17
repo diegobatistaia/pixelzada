@@ -5157,7 +5157,7 @@
     "slug": "o-mundo-dia-18-gta6",
     "data": "2026-11-17",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "\"Agora é só esperar o dia 19, a Rockstar não vai mais adiar GTA 6\". O mundo dia 18: 💥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
     "tentativas": 0,
@@ -5179,6 +5179,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T18:59:57-03:00",
+      "media_id": "17967672051241735",
+      "permalink": "https://www.instagram.com/reel/Df29AqdjqEc/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
