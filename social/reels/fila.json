@@ -5763,6 +5763,62 @@
     }
   },
   {
+    "slug": "gta-6-gta6clube",
+    "data": "2026-11-18",
+    "horario": "17:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6clube",
+      "link": "https://www.instagram.com/reel/Df1q7qwkRus/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "pessoas vestidas em cenário urbano, sem conteúdo de nudez ou sexualidade",
+      "por": "imagem",
+      "em": "2026-11-17T11:11:16-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-chernobyl-games",
+    "data": "2026-11-18",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "chernobyl.games",
+      "link": "https://www.instagram.com/reel/Df0tIZqsfA1/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Personagens de GTA VI totalmente vestidos e cenas de meme com Chaves, sem conteúdo impróprio.",
+      "por": "imagem",
+      "em": "2026-11-17T11:11:20-03:00"
+    }
+  },
+  {
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-18",
     "horario": "23:00",
