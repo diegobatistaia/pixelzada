@@ -13,6 +13,7 @@ name: Pesquisa de vídeos
 #   completar  roda o piso agora (baixa, monta e agenda o que faltar)
 #   link     baixa e monta o Reel de um link que o Diego mandou
 #   lives    pega agora os clipes de GTA 6 mais vistos da Twitch/Kick (scripts/social/lives.py)
+#   lives-canais confere os canais da Twitch (campo link = logins separados por espaço; vazio = favoritos)
 #   lives-teste  ensaio com outro jogo (campo link = nome do jogo na Twitch; padrão GTA 5),
 #            sem pôr na fila; resultado em social/pesquisa/lives-teste.json
 #
@@ -34,7 +35,7 @@ on:
       acao:
         description: "teste, coletar ou baixar"
         type: choice
-        options: [teste, coletar, baixar, completar, link, lives, lives-teste]
+        options: [teste, coletar, baixar, completar, link, lives, lives-teste, lives-canais]
         default: teste
       data:
         description: "baixar: data da lista (AAAA-MM-DD)"
@@ -97,6 +98,10 @@ jobs:
         if: env.ACAO == 'link'
         run: python -m scripts.social.pesquisa link "$LINK"
 
+      - name: Conferir canais da Twitch
+        if: env.ACAO == 'lives-canais'
+        run: python -m scripts.social.lives canais $LINK
+
       # Cortes das lives (lançamento do GTA 6): só age de 18/11 8h a 22/11 (config.yaml, bloco lives).
       - name: Clipes das lives (Twitch e Kick)
         continue-on-error: true   # se a Twitch falhar, o piso de Reels segue
@@ -110,7 +115,7 @@ jobs:
           esac
 
       - name: Piso dos 6 Reels por dia (baixa o que faltar)
-        if: env.ACAO != 'teste' && env.ACAO != 'baixar' && env.ACAO != 'link' && env.ACAO != 'lives-teste'
+        if: env.ACAO != 'teste' && env.ACAO != 'baixar' && env.ACAO != 'link' && env.ACAO != 'lives-teste' && env.ACAO != 'lives-canais'
         run: python -m scripts.social.pesquisa completar
 
       - name: Registrar o resultado
@@ -132,6 +137,6 @@ jobs:
   # (workflow reutilizável montar.yml, o mesmo que o robô do Telegram usa).
   montar:
     needs: pesquisa
-    if: always() && github.event.inputs.acao != 'teste'
+    if: always() && github.event.inputs.acao != 'teste' && github.event.inputs.acao != 'lives-canais'
     uses: ./.github/workflows/montar.yml
     secrets: inherit  # GEMINI_API_KEY da checagem de nudez

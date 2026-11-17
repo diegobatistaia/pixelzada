@@ -159,3 +159,5 @@ lives:
   duracao: [8, 60]         # segundos
   canais_twitch: [alanzoka]   # favoritos do Diego: pesam 3x (login da Twitch)
   canais_kick: []
+  idiomas: [pt]            # clipes gerais só em português (favoritos entram sempre)
+  descobrir_ao_vivo: 25    # + até 25 canais em português ao vivo no jogo entram na busca a cada rodada
