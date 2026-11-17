@@ -202,5 +202,7 @@ lives:
     - chapo_dizona
     - saninplay
   canais_kick: []
-  idiomas: [pt]            # clipes gerais só em português (favoritos entram sempre)
+  idiomas: [pt]            # clipes gerais em português primeiro (favoritos entram sempre)
+  idiomas_reserva: [en, es]  # só completam a rodada quando falta clipe em português
+  mutar_reserva: true      # clipe de reserva sai SEM o áudio (sem a voz do streamer gringo)
   descobrir_ao_vivo: 40    # + até 40 canais em português ao vivo no jogo entram na busca a cada rodada
