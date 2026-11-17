@@ -7,55 +7,62 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-17T00:54-03:00",
+ "atualizado": "2026-11-17T10:26-03:00",
  "hoje": {
   "data": "2026-11-17",
   "reels": {
    "meta": 17,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 4,
+   "deviam_ter_saido": 3,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 1,
+   "atrasados": [
+    "09:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 50,
+  "agendados": 37,
   "meta_por_dia": 33,
-  "dias_de_reserva": 1.5,
-  "grade_cheia_ate": "2026-11-18",
-  "sem_revisao": 12,
+  "dias_de_reserva": 1.1,
+  "grade_cheia_ate": null,
+  "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-17",
-    "agendados": 17,
+    "agendados": 13,
     "meta": 17
    },
    {
     "data": "2026-11-18",
-    "agendados": 33,
+    "agendados": 22,
     "meta": 33
+   },
+   {
+    "data": "2026-11-19",
+    "agendados": 2,
+    "meta": 48
    }
   ]
  },
  "site": {
-  "total": 221,
-  "hoje": 0,
+  "total": 224,
+  "hoje": 3,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Star Wars: Galactic Racer terá tela dividida para até 4 jogadores em 2027",
-   "url": "https://pixelzada.com.br/pt/star-wars-galactic-racer-tela-dividida-ate-4-jogadores-modo-free-play-2027/",
-   "em": "2026-11-16T17:40:38-03:00"
+   "titulo": "Xbox na semana de 16 a 20 de novembro: GTA 6 na nuvem, lançamentos e Black Friday",
+   "url": "https://pixelzada.com.br/pt/xbox-semana-16-a-20-de-novembro-gta-6-na-nuvem-lancamentos-e-black-friday/",
+   "em": "2026-11-17T09:41:22-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "17/11/2026 00:33",
+  "ultima_coleta": "17/11/2026 06:06",
   "perfis_lidos": 38,
   "perfis_com_falha": 1
  },
@@ -63,22 +70,23 @@
   "usuario": "pixelzada.br",
   "seguidores": 102,
   "seguindo": 6,
-  "posts": 312,
-  "alcance_7d": 19269,
-  "views_7d": 27300,
+  "posts": 316,
+  "alcance_7d": 13302,
+  "views_7d": 18531,
   "reels_7d": {
-   "quantidade": 93,
-   "views_total": 15449,
-   "views_mediana": 157,
+   "quantidade": 96,
+   "views_total": 15688,
+   "views_mediana": 158,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-16": 1820,
-    "2026-11-15": 3376,
+    "2026-11-17": 225,
+    "2026-11-16": 2060,
+    "2026-11-15": 3377,
     "2026-11-14": 1618,
     "2026-11-13": 2140,
     "2026-11-12": 2158,
     "2026-11-11": 2288,
-    "2026-11-10": 2049
+    "2026-11-10": 1822
    },
    "melhores": [
     {
@@ -114,12 +122,12 @@
      "em": "2026-11-12T11:03:15-03:00"
     },
     {
-     "legenda": "Eu depois de falar que \"as corridas são vencidas nas curvas, na reta qualquer um sabe acel",
-     "views": 237,
-     "alcance": 198,
-     "curtidas": 2,
-     "link": "https://www.instagram.com/reel/Dfx6Zlgmr0T/",
-     "em": "2026-11-15T20:01:30-03:00"
+     "legenda": "Xbox 360: 22 de novembro de 2005 💚",
+     "views": 241,
+     "alcance": 210,
+     "curtidas": 6,
+     "link": "https://www.instagram.com/reel/Df0zxTNDtzA/",
+     "em": "2026-11-16T23:01:07-03:00"
     }
    ]
   }
@@ -131,26 +139,26 @@
   "lista": [
    {
     "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-16T15:26:19-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43928796703",
+    "em": "2026-11-17T06:31:34-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44056356938",
     "resolvido": true
    },
    {
     "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-16T14:15:30-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43916451769",
+    "em": "2026-11-17T06:23:07-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44055078949",
     "resolvido": true
    },
    {
-    "workflow": "Vídeo longo (sonda de material)",
-    "em": "2026-11-16T14:15:30-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43916451469",
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-17T00:16:29-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44009028113",
     "resolvido": true
    },
    {
-    "workflow": "Vídeo longo (sonda de material)",
-    "em": "2026-11-16T13:53:35-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43912472615",
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-17T00:11:53-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44008462202",
     "resolvido": true
    }
   ]
@@ -160,9 +168,9 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 92
+   "youtube": 97
   },
-  "erros_hoje": 0
+  "erros_hoje": 1
  },
  "ultimos_dias": [
   {
@@ -208,7 +216,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
-   "views_reels": 3376
+   "views_reels": 3377
   },
   {
    "data": "2026-11-16",
@@ -217,16 +225,16 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1820
+   "views_reels": 2060
   },
   {
    "data": "2026-11-17",
-   "reels": 0,
+   "reels": 4,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
-   "views_reels": null
+   "materias": 3,
+   "views_reels": 225
   }
  ],
  "seguidores_por_dia": [
@@ -273,8 +281,16 @@
  ],
  "alertas": [
   {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00"
+  },
+  {
    "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,5 dia(s) de reserva"
+   "texto": "Fila de Reels com só 1,1 dia(s) de reserva"
+  },
+  {
+   "nivel": "amarelo",
+   "texto": "Buffer: 1 envio(s) para TikTok/YouTube com erro hoje"
   }
  ]
 }
