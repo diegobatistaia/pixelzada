@@ -5,7 +5,7 @@ name: Vídeo longo (sonda de material)
 on:
   push:
     branches: ["claude/**"]
-    paths: [".github/workflows/sonda-longo.yml", "scripts/longo/listar_oficial.py"]
+    paths: [".github/workflows/sonda-longo.yml", "scripts/longo/cenas.py"]
   workflow_dispatch:
     inputs:
       link:
@@ -18,7 +18,7 @@ permissions:
 jobs:
   sonda:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 50
     env:
       META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
       LINK: ${{ github.event.inputs.link || 'https://www.instagram.com/reel/DfxD2TXCsFD/' }}
@@ -32,15 +32,15 @@ jobs:
           pip install -q pyyaml yt-dlp "opencv-python-headless<5" pillow
           command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
       - name: Sondar
-        run: python -u -m scripts.longo.listar_oficial
+        run: python -u -m scripts.longo.cenas
       - name: Guardar no ramo
         if: always()
         run: |
           rm -rf previas/longo/_sonda/tmp trabalho
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
-          git add -f previas/longo/_lista || true
+          git add -f previas/longo/_cenas || true
           git diff --cached --quiet && exit 0
-          git commit -q -m "longo: lista oficial [skip ci]"
+          git commit -q -m "longo: mapa de cenas [skip ci]"
           for i in 1 2 3 4; do git pull --rebase -q origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
           exit 1
