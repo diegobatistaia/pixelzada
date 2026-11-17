@@ -1,0 +1,653 @@
+{
+ "titulo": "GTA 5 vs GTA 6: 10 diferenças que vão mudar o jeito que você joga",
+ "voz": "Puck",
+ "roteiro": "scripts/longo/doc/roteiro-gta5-vs-gta6.txt",
+ "descricao": "13 anos separam GTA 5 de GTA 6. Protagonistas, mapa, multidões, água, redes sociais, polícia, carros, animais, gráficos e o que pode não voltar: as 10 diferenças pelo que a Rockstar já mostrou.",
+ "tags": "#GTA6 #GTA5 #GTAVI #Rockstar #ViceCity #Pixelzada",
+ "capa": {
+  "imagem": "Jason_and_Lucia_01",
+  "linhas": [
+   [
+    "GTA 5 vs 6",
+    150
+   ],
+   [
+    "10 DIFERENÇAS",
+    104
+   ]
+  ],
+  "etiqueta": "O QUE MUDA"
+ },
+ "cenas": [
+  {
+   "id": "gancho",
+   "planos": [
+    {
+     "v": "v:gta5historia:4.9"
+    },
+    {
+     "v": "v:gta5teaser:50.9",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1127.8",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:2.9"
+    },
+    {
+     "v": "o:Vice_City_27",
+     "f": 3
+    },
+    {
+     "v": "v:launch:26.6",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "GTA 5 vs GTA 6",
+     "s": "10 diferenças",
+     "f": 3,
+     "cor": "rosa",
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.6
+    }
+   ]
+  },
+  {
+   "id": "abertura",
+   "planos": [
+    {
+     "v": "i:10 DIFERENÇAS",
+     "peso": 2.6
+    },
+    {
+     "v": "v:extended:1083.8",
+     "f": 1
+    },
+    {
+     "v": "o:GTAVI_An_Extended_Look_poster"
+    },
+    {
+     "v": "v:extended:735.3",
+     "f": 2
+    },
+    {
+     "v": "v:trailer2:140.2",
+     "f": 3
+    }
+   ],
+   "destaques": [],
+   "capitulo": "Abertura"
+  },
+  {
+   "id": "d1",
+   "planos": [
+    {
+     "v": "o:Jason_Lucia_Lock_And_Load"
+    },
+    {
+     "v": "v:gta5historia:18.1",
+     "f": 1
+    },
+    {
+     "v": "v:gta5historia:12.9"
+    },
+    {
+     "v": "v:gta5historia:30.8"
+    },
+    {
+     "v": "v:gta5historia:24.6"
+    },
+    {
+     "v": "o:Jason_and_Lucia_01",
+     "f": 2
+    },
+    {
+     "v": "v:launch:26.6",
+     "f": 3
+    },
+    {
+     "v": "v:extended:694.6",
+     "f": 4
+    },
+    {
+     "v": "o:Lucia_Caminos_13",
+     "f": 5
+    },
+    {
+     "v": "v:trailer1:5.2"
+    },
+    {
+     "v": "o:Jason_and_Lucia_17",
+     "f": 6
+    },
+    {
+     "v": "v:launch:67.3",
+     "f": 7
+    },
+    {
+     "v": "v:extended:686.0",
+     "f": 8
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 9
+    }
+   ],
+   "destaques": [
+    {
+     "t": "3 → 2",
+     "s": "Michael, Franklin e Trevor → Jason e Lucia",
+     "f": 2,
+     "cor": "laranja",
+     "pos": "centro",
+     "tam": 200,
+     "dur": 2.6
+    },
+    {
+     "t": "Lucia",
+     "s": "primeira protagonista mulher na era 3D",
+     "f": 5,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "1. Os protagonistas"
+  },
+  {
+   "id": "d2",
+   "planos": [
+    {
+     "v": "v:gta5teaser:50.9"
+    },
+    {
+     "v": "v:gta5teaser:43.5",
+     "f": 1
+    },
+    {
+     "v": "v:gta5teaser:29.4"
+    },
+    {
+     "v": "m:todas",
+     "f": 2
+    },
+    {
+     "v": "m:vice-city",
+     "f": 3
+    },
+    {
+     "v": "m:keys"
+    },
+    {
+     "v": "m:grassrivers"
+    },
+    {
+     "v": "m:gellhorn"
+    },
+    {
+     "v": "m:ambrosia"
+    },
+    {
+     "v": "m:kalaga"
+    },
+    {
+     "v": "o:Vice_City_10",
+     "f": 4
+    },
+    {
+     "v": "o:Grassrivers_04"
+    },
+    {
+     "v": "v:gta5teaser:31.2",
+     "f": 5
+    },
+    {
+     "v": "v:extended:750.4",
+     "f": 6
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Los Santos",
+     "s": "GTA 5",
+     "f": 1,
+     "cor": "ciano"
+    },
+    {
+     "t": "Leonida",
+     "s": "um estado inteiro",
+     "f": 2,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "2. Cidade vs estado"
+  },
+  {
+   "id": "d3",
+   "planos": [
+    {
+     "v": "v:gta5historia:9.8"
+    },
+    {
+     "v": "v:gta5fp:16.7",
+     "f": 2
+    },
+    {
+     "v": "v:extended:1083.8"
+    },
+    {
+     "v": "v:extended:572.9",
+     "f": 3
+    },
+    {
+     "v": "v:extended:639.5"
+    },
+    {
+     "v": "v:extended:653.6",
+     "f": 4
+    },
+    {
+     "v": "v:extended:1147.5"
+    },
+    {
+     "v": "v:trailer2:125.9",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Muita gente",
+     "f": 1,
+     "cor": "laranja",
+     "pos": "centro",
+     "tam": 180,
+     "dur": 2.0
+    }
+   ],
+   "capitulo": "3. Multidões"
+  },
+  {
+   "id": "d4",
+   "planos": [
+    {
+     "v": "v:gta5historia:20.9"
+    },
+    {
+     "v": "v:gta5historia:29.5",
+     "f": 1
+    },
+    {
+     "v": "o:Grassrivers_03",
+     "f": 2
+    },
+    {
+     "v": "v:extended:1030.1",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_15"
+    },
+    {
+     "v": "v:extended:1045.2"
+    },
+    {
+     "v": "o:Leonida_Keys_01"
+    },
+    {
+     "v": "v:extended:1048.9",
+     "f": 4
+    },
+    {
+     "v": "v:launch:10.1",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Metade do mapa",
+     "s": "pântano, canais, marinas e ilhas",
+     "f": 2,
+     "cor": "ciano"
+    }
+   ],
+   "capitulo": "4. A água"
+  },
+  {
+   "id": "d5",
+   "planos": [
+    {
+     "v": "v:gta5fp:16.7"
+    },
+    {
+     "v": "v:gta5fp:19.2",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1104.2",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:43.9",
+     "f": 3
+    },
+    {
+     "v": "v:trailer1:45.7"
+    },
+    {
+     "v": "v:trailer1:57.4"
+    },
+    {
+     "v": "o:onlyInLeonidaDesktop",
+     "f": 4
+    },
+    {
+     "v": "v:trailer1:65.7",
+     "f": 5
+    },
+    {
+     "v": "v:trailer1:48.6",
+     "f": 6
+    },
+    {
+     "v": "v:extended:1104.4",
+     "f": 7
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Lifeinvader",
+     "s": "a rede social de GTA 5",
+     "f": 1,
+     "cor": "ciano",
+     "atraso": 1.0
+    },
+    {
+     "t": "Vídeos virais",
+     "s": "dentro do jogo",
+     "f": 3,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "5. Redes sociais"
+  },
+  {
+   "id": "d6",
+   "planos": [
+    {
+     "v": "v:gta5teaser:33.2"
+    },
+    {
+     "v": "v:gta5fp:60.4",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:63.6",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:47.6"
+    },
+    {
+     "v": "v:extended:943.3"
+    },
+    {
+     "v": "v:extended:840.3",
+     "f": 3
+    },
+    {
+     "v": "v:extended:874.0",
+     "f": 4
+    },
+    {
+     "v": "v:launch:47.2",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Câmera corporal",
+     "s": "a polícia como programa de TV",
+     "f": 2,
+     "cor": "laranja",
+     "atraso": 1.5
+    }
+   ],
+   "capitulo": "6. A polícia"
+  },
+  {
+   "id": "d7",
+   "planos": [
+    {
+     "v": "v:gta5teaser:44.8"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_GROTTI_CHEETAH_01",
+     "f": 1
+    },
+    {
+     "v": "o:VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_VAPID_BUGGY_01",
+     "f": 2
+    },
+    {
+     "v": "v:trailer2:9.9"
+    },
+    {
+     "v": "o:Grassrivers_03"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_STOCK_305_01"
+    },
+    {
+     "v": "v:extended:1062.0",
+     "f": 3
+    },
+    {
+     "v": "v:extended:1114.9"
+    },
+    {
+     "v": "v:extended:369.5"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Grotti Cheetah",
+     "s": "de volta",
+     "f": 1,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "7. A garagem"
+  },
+  {
+   "id": "d8",
+   "planos": [
+    {
+     "v": "v:gta5historia:16.7"
+    },
+    {
+     "v": "v:gta5historia:45.0",
+     "f": 1
+    },
+    {
+     "v": "v:gta5historia:29.5"
+    },
+    {
+     "v": "o:Grassrivers_08",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:42.5",
+     "f": 3
+    },
+    {
+     "v": "o:Grassrivers_01"
+    },
+    {
+     "v": "v:extended:464.7",
+     "f": 4
+    },
+    {
+     "v": "o:Leonida_Keys_06"
+    },
+    {
+     "v": "v:launch:21.3"
+    },
+    {
+     "v": "v:gta5teaser:8.7",
+     "f": 5
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_05",
+     "f": 6
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Jacaré!",
+     "f": 2,
+     "cor": "lima",
+     "pos": "centro",
+     "tam": 190,
+     "dur": 1.8
+    }
+   ],
+   "capitulo": "8. Os animais"
+  },
+  {
+   "id": "d9",
+   "planos": [
+    {
+     "v": "v:gta5teaser:14.2"
+    },
+    {
+     "v": "v:gta5teaser:24.4",
+     "f": 1
+    },
+    {
+     "v": "v:gta5teaser:55.4"
+    },
+    {
+     "v": "v:launch:63.2",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:2.9",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_27"
+    },
+    {
+     "v": "v:extended:1045.0"
+    },
+    {
+     "v": "o:Vice_City_26",
+     "f": 4
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_04",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "2013 → 2026",
+     "s": "13 anos de diferença",
+     "f": 4,
+     "cor": "laranja",
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.4
+    }
+   ],
+   "capitulo": "9. O salto visual"
+  },
+  {
+   "id": "d10",
+   "planos": [
+    {
+     "v": "v:gta5historia:24.6"
+    },
+    {
+     "v": "v:gta5historia:18.1",
+     "f": 1
+    },
+    {
+     "v": "v:gta5historia:12.9"
+    },
+    {
+     "v": "v:gta5fp:47.7",
+     "f": 2
+    },
+    {
+     "v": "v:gta5fp:72.4"
+    },
+    {
+     "v": "v:gta5teaser:50.9",
+     "f": 3
+    },
+    {
+     "v": "o:GTAVI_Official_Cover_Art_Landscape",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "GTA Online?",
+     "s": "a Rockstar ainda não contou",
+     "f": 2,
+     "cor": "lima",
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.6
+    }
+   ],
+   "capitulo": "10. O que pode não voltar"
+  },
+  {
+   "id": "fechamento",
+   "planos": [
+    {
+     "v": "v:extended:1122.6"
+    },
+    {
+     "v": "v:gta5teaser:55.4",
+     "f": 1
+    },
+    {
+     "v": "o:GTAVI_Pre_Load",
+     "f": 2
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_01",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "+200 milhões",
+     "s": "cópias de GTA 5 vendidas",
+     "f": 1,
+     "cor": "laranja"
+    },
+    {
+     "t": "Inscreva-se",
+     "s": "e comente: qual diferença você quer ver?",
+     "f": 3,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "Quinta tem GTA 6"
+  }
+ ]
+}

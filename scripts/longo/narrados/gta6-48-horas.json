@@ -1,0 +1,570 @@
+{
+ "titulo": "GTA 6 SAI EM 48 HORAS: tudo que você precisa saber antes de jogar",
+ "roteiro": "scripts/longo/doc/roteiro-gta6-48-horas.txt",
+ "descricao": "GTA 6 chega na quinta, 19 de novembro. Horário no Brasil, Nova Zelândia jogando antes, pré-download, plataformas, edições, Jason e Lucia, o mapa de Leonida e o que a Rockstar ainda não contou.",
+ "tags": "#GTA6 #GTAVI #Rockstar #ViceCity #Leonida #Pixelzada",
+ "capa": {
+  "imagem": "Jason_Lucia_Rooftop",
+  "linhas": [
+   [
+    "GTA 6",
+    160
+   ],
+   [
+    "EM 48 HORAS",
+    110
+   ]
+  ],
+  "etiqueta": "TUDO ANTES DE JOGAR"
+ },
+ "cenas": [
+  {
+   "id": "gancho",
+   "planos": [
+    {
+     "v": "v:launch:2.9"
+    },
+    {
+     "v": "o:GTAVI_Pre_Load",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1119.4"
+    },
+    {
+     "v": "v:extended:1127.8",
+     "f": 2
+    },
+    {
+     "v": "o:Vice_City_27"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "48 horas",
+     "s": "para GTA 6 chegar",
+     "f": 0,
+     "cor": "rosa",
+     "pos": "centro",
+     "tam": 190,
+     "dur": 2.2
+    }
+   ]
+  },
+  {
+   "id": "abertura",
+   "planos": [
+    {
+     "v": "i:TUDO ANTES DE JOGAR",
+     "peso": 2.6
+    },
+    {
+     "v": "v:extended:1083.8",
+     "f": 1
+    },
+    {
+     "v": "v:trailer2:140.2"
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 2
+    }
+   ],
+   "destaques": [],
+   "capitulo": "Abertura"
+  },
+  {
+   "id": "horario",
+   "planos": [
+    {
+     "v": "v:extended:1122.6"
+    },
+    {
+     "v": "o:Vice_City_08",
+     "f": 1
+    },
+    {
+     "v": "v:launch:63.4"
+    },
+    {
+     "v": "v:extended:1175.9",
+     "f": 2
+    },
+    {
+     "v": "o:Vice_City_22",
+     "f": 3
+    },
+    {
+     "v": "v:trailer2:34.8",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "0h de quinta",
+     "s": "19/11, horário de Brasília",
+     "f": 1,
+     "cor": "laranja",
+     "atraso": 1.0
+    },
+    {
+     "t": "Fuso local",
+     "s": "Amazonas e Acre entram depois",
+     "f": 3,
+     "cor": "ciano",
+     "atraso": 1.5
+    }
+   ],
+   "capitulo": "O horário no Brasil"
+  },
+  {
+   "id": "nova-zelandia",
+   "planos": [
+    {
+     "v": "o:Leonida_Keys_01"
+    },
+    {
+     "v": "v:extended:1042.4",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1045.2",
+     "f": 2
+    },
+    {
+     "v": "v:trailer1:11.0"
+    },
+    {
+     "v": "v:extended:1104.2",
+     "f": 3
+    },
+    {
+     "v": "o:Vice_City_15",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "+16 horas",
+     "s": "Nova Zelândia na frente",
+     "f": 1,
+     "cor": "rosa",
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.4
+    },
+    {
+     "t": "Quarta, 8h",
+     "s": "já tem gente jogando",
+     "f": 2,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "Nova Zelândia e spoilers"
+  },
+  {
+   "id": "download",
+   "planos": [
+    {
+     "v": "o:GTAVI_Pre_Load"
+    },
+    {
+     "v": "v:extended:750.4",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1062.0",
+     "f": 2
+    },
+    {
+     "v": "v:extended:840.3",
+     "f": 3
+    },
+    {
+     "v": "o:GTAVI_Official_Cover_Art_Landscape",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Pré-download",
+     "s": "faça até amanhã",
+     "f": 0,
+     "cor": "rosa",
+     "atraso": 1.5
+    }
+   ],
+   "capitulo": "Pré-download"
+  },
+  {
+   "id": "plataformas",
+   "planos": [
+    {
+     "v": "v:launch:47.2"
+    },
+    {
+     "v": "o:Vice_City_24",
+     "f": 1
+    },
+    {
+     "v": "o:Vice_City_10",
+     "f": 2
+    },
+    {
+     "v": "v:gta5fp:10",
+     "f": 4
+    },
+    {
+     "v": "v:gta5teaser:5"
+    },
+    {
+     "v": "o:Vice_City_17",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "PS5 e Xbox Series",
+     "f": 0,
+     "cor": "ciano",
+     "atraso": 0.8
+    },
+    {
+     "t": "PC?",
+     "s": "sem data anunciada",
+     "f": 2,
+     "cor": "lima",
+     "pos": "centro",
+     "tam": 200,
+     "dur": 2.2
+    }
+   ],
+   "capitulo": "Plataformas"
+  },
+  {
+   "id": "edicoes",
+   "planos": [
+    {
+     "v": "o:GTAVI_FOB_StandardEdition_Desktop"
+    },
+    {
+     "v": "o:GTAVI_FOB_UltimateEdition_Desktop_en_us",
+     "f": 1
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_GROTTI_CHEETAH_01",
+     "f": 2
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_VAPID_BUGGY_01"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_SQUALO_01"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_STOCK_305_01"
+    },
+    {
+     "v": "o:VINTAGE_VICE_CITY_PACK_01",
+     "f": 3
+    },
+    {
+     "v": "o:VINTAGE_VICE_CITY_PACK_VAPID_STANIER_01"
+    },
+    {
+     "v": "o:Vice_City_09",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Edição Ultimate",
+     "s": "veículos extras no começo",
+     "f": 2,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "Edições"
+  },
+  {
+   "id": "trailers",
+   "planos": [
+    {
+     "v": "o:GTAVI_Trailer1_poster"
+    },
+    {
+     "v": "v:trailer1:2.9",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:24.9"
+    },
+    {
+     "v": "o:GTAVI_Trailer2_poster",
+     "f": 2
+    },
+    {
+     "v": "v:trailer2:111.4"
+    },
+    {
+     "v": "v:trailer2:118.9"
+    },
+    {
+     "v": "o:GTAVI_An_Extended_Look_poster",
+     "f": 3
+    },
+    {
+     "v": "v:extended:365.2"
+    },
+    {
+     "v": "v:extended:1030.1"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Recorde",
+     "s": "mais visto em 24h no YouTube (fora música)",
+     "f": 1,
+     "cor": "rosa",
+     "atraso": 1.5
+    }
+   ],
+   "capitulo": "O que a Rockstar mostrou"
+  },
+  {
+   "id": "personagens",
+   "planos": [
+    {
+     "v": "o:Jason_Lucia_Lock_And_Load"
+    },
+    {
+     "v": "o:Jason_and_Lucia_01",
+     "f": 1
+    },
+    {
+     "v": "v:trailer1:5.2",
+     "f": 2
+    },
+    {
+     "v": "o:Lucia_Caminos_13"
+    },
+    {
+     "v": "o:Jason_Duval_14",
+     "f": 3
+    },
+    {
+     "v": "v:extended:694.6",
+     "f": 4
+    },
+    {
+     "v": "v:launch:26.6"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Jason e Lucia",
+     "s": "os protagonistas",
+     "f": 1,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "Jason e Lucia"
+  },
+  {
+   "id": "vice-city-2002",
+   "planos": [
+    {
+     "v": "s:vicecity2002:7"
+    },
+    {
+     "v": "s:vicecity2002:5",
+     "f": 1
+    },
+    {
+     "v": "s:vicecity2002:3"
+    },
+    {
+     "v": "s:vicecity_de:4"
+    },
+    {
+     "v": "s:vicecity2002:4",
+     "f": 2
+    },
+    {
+     "v": "o:Vice_City_01",
+     "f": 3
+    },
+    {
+     "v": "v:extended:1104.4"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "2002",
+     "s": "GTA Vice City",
+     "f": 1,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "Vice City, 2002"
+  },
+  {
+   "id": "mapa",
+   "planos": [
+    {
+     "v": "m:todas"
+    },
+    {
+     "v": "m:vice-city",
+     "f": 1
+    },
+    {
+     "v": "v:extended:735.3"
+    },
+    {
+     "v": "m:keys",
+     "f": 2
+    },
+    {
+     "v": "m:grassrivers"
+    },
+    {
+     "v": "m:gellhorn"
+    },
+    {
+     "v": "m:ambrosia"
+    },
+    {
+     "v": "m:kalaga"
+    },
+    {
+     "v": "o:Vice_City_26",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Leonida",
+     "s": "o estado de GTA 6",
+     "f": 0,
+     "cor": "rosa",
+     "atraso": 1.0
+    }
+   ],
+   "capitulo": "Leonida"
+  },
+  {
+   "id": "primeira-hora",
+   "planos": [
+    {
+     "v": "v:extended:686.0"
+    },
+    {
+     "v": "o:Jason_and_Lucia_17",
+     "f": 1
+    },
+    {
+     "v": "v:extended:1013.4",
+     "f": 2
+    },
+    {
+     "v": "v:extended:1026.3",
+     "f": 3
+    },
+    {
+     "v": "v:extended:1083.9",
+     "f": 4
+    },
+    {
+     "v": "o:Vice_City_03",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Sem pressa",
+     "s": "não pule o tutorial",
+     "f": 0,
+     "cor": "ciano",
+     "atraso": 0.6
+    }
+   ],
+   "capitulo": "A primeira hora"
+  },
+  {
+   "id": "segredos",
+   "planos": [
+    {
+     "v": "o:Vice_City_17"
+    },
+    {
+     "v": "m:todas",
+     "f": 2
+    },
+    {
+     "v": "v:extended:571.0"
+    },
+    {
+     "v": "v:extended:639.5",
+     "f": 3
+    },
+    {
+     "v": "o:Grassrivers_04",
+     "f": 4
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_04"
+    },
+    {
+     "v": "v:extended:1114.9",
+     "f": 5
+    },
+    {
+     "v": "o:GTAVI_Official_Cover_Art_Landscape",
+     "f": 6
+    }
+   ],
+   "destaques": [
+    {
+     "t": "???",
+     "s": "tamanho oficial do mapa",
+     "f": 2,
+     "cor": "lima",
+     "pos": "centro",
+     "tam": 200,
+     "atraso": 0.8
+    }
+   ],
+   "capitulo": "O que ainda é segredo"
+  },
+  {
+   "id": "fechamento",
+   "planos": [
+    {
+     "v": "v:launch:67.3"
+    },
+    {
+     "v": "v:extended:1045.4",
+     "f": 1
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 2
+    },
+    {
+     "v": "o:Vice_City_01",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Inscreva-se",
+     "s": "e comente: vai virar a noite?",
+     "f": 2,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "Quinta tem GTA 6"
+  }
+ ]
+}
