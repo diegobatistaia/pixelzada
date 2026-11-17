@@ -1,0 +1,35 @@
+name: YouTube - enviar vídeo longo (API)
+
+# Sobe o vídeo final de previas/longo/narrado/<slug>/ com título, descrição, tags e capa de
+# scripts/longo/publicar/<slug>.json. "teste" = privado sem agendamento. Só roda quando disparado.
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "slug do vídeo (scripts/longo/publicar/<slug>.json)"
+        required: true
+      teste:
+        description: "teste privado (sem agendar)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  enviar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Enviar
+        env:
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+        run: |
+          if [ "${{ inputs.teste }}" = "true" ]; then T=--teste; else T=; fi
+          python -u -m scripts.longo.youtube_api "${{ inputs.slug }}" $T
