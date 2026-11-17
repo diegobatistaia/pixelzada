@@ -4649,7 +4649,7 @@
     "slug": "notificacao-gta6-pronto-para-jogar",
     "data": "2026-11-17",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "A vida quando essa notificação aparecer 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #games #pixelzada",
     "tentativas": 0,
@@ -4671,6 +4671,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T07:03:37-03:00",
+      "media_id": "18381445885245703",
+      "permalink": "https://www.instagram.com/reel/Df1rCPzEt3c/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afc26a254b9dc9e0726b5d1",
+        "em": "2026-11-17T07:04:17-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
