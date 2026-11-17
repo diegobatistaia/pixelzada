@@ -857,9 +857,9 @@ def montar(ep: dict, trab: Path, saida: Path) -> Path:
               f"[base][2:v]overlay=52:40:format=auto:shortest=1:repeatlast=1[comlogo];"
               f"[comlogo]subtitles={ass}:fontsdir={fontes}[v]")
     amix = ("[1:a]aresample=44100,aformat=channel_layouts=stereo,volume=1.6,asplit[voz1][voz2];"
-            f"[3:a]volume={ep.get('vol_trilha', 0.16)}[mus];[4:a]volume={ep.get('vol_cena', 0.0)}[amb];"
+            f"[3:a]volume={ep.get('vol_trilha', 0.32)}[mus];[4:a]volume={ep.get('vol_cena', 0.0)}[amb];"
             "[mus][amb]amix=inputs=2:normalize=0[bg];"
-            "[bg][voz1]sidechaincompress=threshold=0.025:ratio=5:attack=25:release=450:makeup=1[bgd];"
+            "[bg][voz1]sidechaincompress=threshold=0.05:ratio=3:attack=40:release=600:makeup=1[bgd];"
             "[5:a]volume=0.8[fx];"
             "[bgd][voz2][fx]amix=inputs=3:normalize=0:duration=longest,"
             "loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]")
