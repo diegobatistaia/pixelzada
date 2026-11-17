@@ -4697,7 +4697,7 @@
     "slug": "modo-zumbi-bodycam",
     "data": "2026-11-17",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Modo zumbi de Bodycam ficou real até demais 🧟\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#bodycam #zumbi #games #terror #pixelzada",
     "tentativas": 0,
@@ -4719,6 +4719,22 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T08:00:00-03:00",
+      "media_id": "18140291794632430",
+      "permalink": "https://www.instagram.com/reel/Df1xfduiiQH/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "post_id": "6afc33dc1d0c352aa69e027c",
+        "em": "2026-11-17T08:00:43-03:00",
+        "status": "error",
+        "link": null
+      }
     }
   },
   {
