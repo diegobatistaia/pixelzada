@@ -91,23 +91,33 @@ def _hash(texto: str) -> str:
 
 def _voz_guardada(ep: dict, slug: str, trab: Path) -> str | None:
     """Voz já aprovada fica guardada no repositório: remontar o vídeo não muda a voz nem gasta cota.
-    Só vale se TODAS as cenas tiverem o mesmo texto e a mesma voz pedida."""
+    Reaproveita cada cena cujo texto e voz pedida batem; só as outras são narradas de novo."""
     idx = VOZES / slug / "vozes.json"
     if not idx.exists() or os.environ.get("VOZ_NOVA"):
         return None
     d = json.loads(idx.read_text())
     if d.get("pedida") != (ep.get("voz") or EP.VOZ_GEMINI):
         return None
-    if any(d["cenas"].get(c["id"]) != _hash(c["texto"]) for c in ep["cenas"]):
-        print("  voz guardada não confere com o roteiro; narrando de novo")
-        return None
     pasta = trab / "voz"
     pasta.mkdir(parents=True, exist_ok=True)
+    usadas = 0
     for c in ep["cenas"]:
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(VOZES / slug / f"{c['id']}.flac"),
-                        "-ar", "24000", "-ac", "1", str(pasta / f"{c['id']}.wav")], check=True)
-    print(f"  voz guardada: {d['voz']}")
-    return d["voz"]
+        flac = VOZES / slug / f"{c['id']}.flac"
+        if d["cenas"].get(c["id"]) == _hash(c["texto"]) and flac.exists():
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(flac),
+                            "-ar", "24000", "-ac", "1", str(pasta / f"{c['id']}.wav")], check=True)
+            usadas += 1
+        else:
+            print(f"  cena {c['id']}: narrando de novo")
+    print(f"  voz guardada: {usadas}/{len(ep['cenas'])} cenas ({d['voz']})")
+    return d["voz"] if usadas else None
+
+
+def _ritmo_ruim(c: dict, wav: Path) -> bool:
+    """A voz do Google às vezes repete um trecho ou pula frase: ritmo fora do normal denuncia."""
+    pal = len(c["texto"].split())
+    ps = pal / max(0.5, duracao(wav))
+    return ps < 2.35 or ps > 3.9
 
 
 def _guardar_voz(ep: dict, slug: str, trab: Path, voz: str) -> None:
@@ -128,7 +138,19 @@ def narrar(ep: dict, trab: Path, slug: str = "") -> str:
     if ep.get("voz"):  # voz do Gemini escolhida no episódio (teste do Diego, 17/11)
         EP.VOZ_GEMINI = ep["voz"]
     guardada = _voz_guardada(ep, slug, trab) if slug else None
-    voz = EP.narrar(segs, trab)
+    pasta = trab / "voz"
+    pasta.mkdir(parents=True, exist_ok=True)
+    novas = {c["id"] for c in ep["cenas"] if not (pasta / f"{c['id']}.wav").exists()}
+    for tentativa in range(3):
+        voz = EP.narrar(segs, trab)
+        ruins = [c for c in ep["cenas"] if c["id"] in novas and _ritmo_ruim(c, pasta / f"{c['id']}.wav")]
+        if not ruins or "Gemini" not in voz:
+            break
+        for c in ruins:  # repetição ou corte na fala: pede a cena de novo
+            print(f"  cena {c['id']}: ritmo fora do normal, narrando de novo")
+            (pasta / f"{c['id']}.wav").unlink()
+    if guardada and novas:
+        guardada = None  # houve cena nova: guarda o conjunto atualizado
     if not guardada and ep.get("so_gemini") and "Gemini" not in voz:
         raise RuntimeError(f"episódio pede voz do Google ({ep.get('voz')}), mas saiu: {voz}")
     if guardada:
