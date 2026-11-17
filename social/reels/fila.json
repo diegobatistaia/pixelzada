@@ -5979,6 +5979,174 @@
     }
   },
   {
+    "slug": "gta-6-adrenaline-oficial",
+    "data": "2026-11-18",
+    "horario": "19:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "adrenaline_oficial",
+      "link": "https://www.instagram.com/reel/Df2udB-hqXr/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "mostra capas de jogos e um rosto coberto por uma mão, sem nudez ou conteúdo impróprio",
+      "por": "imagem",
+      "em": "2026-11-17T19:09:43-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-gta6clube",
+    "data": "2026-11-18",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6clube",
+      "link": "https://www.instagram.com/reel/Df0Ybc8ERM9/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-preta"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Personagens vestidos e cenas de jogo sem conteúdo sexual",
+      "por": "imagem",
+      "em": "2026-11-17T19:09:50-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-gta6countdown2026",
+    "data": "2026-11-18",
+    "horario": "20:30",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6countdown2026",
+      "link": "https://www.instagram.com/reel/Df0YPUwuIIG/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apenas texto promocional e personagens vestidos em cenas cotidianas de jogo",
+      "por": "imagem",
+      "em": "2026-11-17T19:09:54-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-ignbrasil",
+    "data": "2026-11-18",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/Df0ktrATwwt/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram jogadores de basquete vestidos e artes promocionais de jogo",
+      "por": "imagem",
+      "em": "2026-11-17T19:09:57-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-gamespot",
+    "data": "2026-11-18",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/Df2Qu3mD_9H/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-preta"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram o lançamento do PlayStation 3 com pessoas vestidas e consoles",
+      "por": "imagem",
+      "em": "2026-11-17T19:10:03-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-sougamergeek",
+    "data": "2026-11-18",
+    "horario": "22:00",
+    "status": "agendado",
+    "estilo": "Faixa",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df0c487vEoI/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Os quadros mostram apenas cenas de gameplay de jogo de corrida com carros e cenários urbanos, sem pessoas ou elementos de nudez.",
+      "por": "imagem",
+      "em": "2026-11-17T19:10:10-03:00"
+    }
+  },
+  {
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-18",
     "horario": "23:00",
