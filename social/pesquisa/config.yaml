@@ -153,11 +153,54 @@ lives:
   inicio: "2026-11-18T08:00"
   fim: "2026-11-22T23:59"
   jogo_twitch: "Grand Theft Auto VI"
-  janela_horas: 3          # clipes criados nas últimas 3 horas
+  janela_horas: 4          # clipes criados nas últimas 4 horas
   por_rodada: 3            # até 3 clipes prontos a cada rodada (de 30 em 30 min): folga para cron que falha
-  min_views: 20
+  min_views: 10
   duracao: [8, 60]         # segundos
-  canais_twitch: [alanzoka]   # favoritos do Diego: pesam 3x (login da Twitch)
+  # Favoritos (pesam 3x). Conferidos na API oficial em 16/11 23h41 (social/pesquisa/lives-canais.json).
+  # Pesquisa da thread "Escolher streamers para 50 Reels de GTA" (17/11).
+  canais_twitch:
+    # 10 maiores do Brasil por seguidores (alanzoka confirmou live de GTA 6 às 8h de 18/11)
+    - alanzoka
+    - gaules
+    - casimito
+    - nobru
+    - paulinholokobr
+    - cellbit
+    - neymarjr
+    - yoda
+    - jonvlogs
+    - bisteconee
+    # grandes que podem jogar GTA 6 (davyjones: live antecipada citada pela imprensa)
+    - davyjones
+    - luquet4
+    - felps
+    - mount
+    - baiano
+    - rakin
+    - piuzinho
+    - gabepeixe
+    # 10 de GTA (GTA RP ao vivo ou GTA 6 no lançamento)
+    - move_mind
+    - rafaao
+    - spkclb
+    - brunablince
+    - stolenbr
+    - italiazeta
+    - nabrizarp
+    - moitaofc
+    - quinnyrp
+    - falamicatv
+    # reserva de GTA
+    - enriquemachado_
+    - jeffaocs
+    - pipokinhagta
+    - metropolegg
+    - nickymitravam
+    - albertobzm
+    - lucroft
+    - chapo_dizona
+    - saninplay
   canais_kick: []
   idiomas: [pt]            # clipes gerais só em português (favoritos entram sempre)
-  descobrir_ao_vivo: 25    # + até 25 canais em português ao vivo no jogo entram na busca a cada rodada
+  descobrir_ao_vivo: 40    # + até 40 canais em português ao vivo no jogo entram na busca a cada rodada
