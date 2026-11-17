@@ -4993,7 +4993,7 @@
     "slug": "rockstar-gta6-em-realidade-miami",
     "data": "2026-11-17",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "A Rockstar está transformando GTA 6 em realidade antes do lançamento 🔥\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #miami #pixelzada",
     "tentativas": 0,
@@ -5015,6 +5015,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T15:00:00-03:00",
+      "media_id": "18082040270756245",
+      "permalink": "https://www.instagram.com/reel/Df2hjcAk6Bk/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
