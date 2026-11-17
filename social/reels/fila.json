@@ -4870,7 +4870,7 @@
     "slug": "viatura-vice-beach-vida-real-gta6",
     "data": "2026-11-17",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Na vida real e em GTA 6: a viatura de Vice Beach 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #vicecity #pixelzada",
     "tentativas": 0,
@@ -4892,6 +4892,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T12:00:10-03:00",
+      "media_id": "18082569419545944",
+      "permalink": "https://www.instagram.com/reel/Df2M-QAnB_t/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
