@@ -33,7 +33,7 @@
      "f": 2
     },
     {
-     "v": "v:trailer1:36.0"
+     "v": "o:Leonida_Keys_01"
     },
     {
      "v": "m:todas",
@@ -133,11 +133,11 @@
      "f": 4
     },
     {
-     "v": "v:trailer1:41.5",
+     "v": "v:trailer1:43.9",
      "f": 5
     },
     {
-     "v": "v:trailer1:44.0"
+     "v": "v:trailer1:52.3"
     }
    ],
    "destaques": [
@@ -382,10 +382,10 @@
      "f": 1
     },
     {
-     "v": "v:trailer1:35.8"
+     "v": "v:extended:1042.4"
     },
     {
-     "v": "r:Overseas Highway Florida Keys",
+     "v": "o:Leonida_Keys_02",
      "f": 2
     },
     {
@@ -412,7 +412,7 @@
      "v": "o:Leonida_Keys_06"
     },
     {
-     "v": "v:launch:3.0"
+     "v": "v:trailer2:81.6"
     }
    ],
    "destaques": [
@@ -452,7 +452,7 @@
      "v": "o:Grassrivers_05"
     },
     {
-     "v": "r:Everglades airboat",
+     "v": "r:Everglades National Park",
      "f": 2
     },
     {
@@ -577,7 +577,16 @@
      "f": 3
     },
     {
+     "v": "v:extended:976.8"
+    },
+    {
+     "v": "v:extended:750.6"
+    },
+    {
      "v": "o:Ambrosia_03"
+    },
+    {
+     "v": "v:launch:28.2"
     },
     {
      "v": "v:trailer2:10.0",
@@ -627,7 +636,7 @@
      "f": 1
     },
     {
-     "v": "r:Britton Hill Florida highest point",
+     "v": "o:Mount_Kalaga_National_Park_03",
      "f": 2
     },
     {
@@ -642,7 +651,7 @@
      "f": 4
     },
     {
-     "v": "o:Mount_Kalaga_National_Park_03"
+     "v": "v:extended:1115.0"
     }
    ],
    "destaques": [
