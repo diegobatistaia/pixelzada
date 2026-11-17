@@ -4829,7 +4829,7 @@
     "slug": "gta6-99-baixado-era-so-um-sonho",
     "data": "2026-11-17",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Baixando GTA 6: 99,6%... era só um sonho 😴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #meme #pixelzada",
     "tentativas": 0,
@@ -4851,6 +4851,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T11:00:12-03:00",
+      "media_id": "18018300056996394",
+      "permalink": "https://www.instagram.com/reel/Df2GHEUD8kp/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
