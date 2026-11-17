@@ -5878,6 +5878,118 @@
     }
   },
   {
+    "slug": "gta-6-sougamergeek",
+    "data": "2026-11-18",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfzVTJDBfuu/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apenas carros dirigindo em ruas de jogo, sem nudez ou pessoas em destaque",
+      "por": "imagem",
+      "em": "2026-11-17T00:37:26-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-adrenaline-oficial",
+    "data": "2026-11-18",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "adrenaline_oficial",
+      "link": "https://www.instagram.com/reel/Df0YSwnB6RT/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-preta"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apresentador vestido e falando sobre games",
+      "por": "imagem",
+      "em": "2026-11-17T00:37:30-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-xboxbr",
+    "data": "2026-11-18",
+    "horario": "22:00",
+    "status": "agendado",
+    "estilo": "Missão",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "xboxbr",
+      "link": "https://www.instagram.com/reel/DfwCLM8RyJY/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apresenta rostos e pessoas totalmente vestidas",
+      "por": "imagem",
+      "em": "2026-11-17T00:37:57-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-sougamergeek",
+    "data": "2026-11-18",
+    "horario": "22:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df0lsQDtlox/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram apenas o rosto e tronco vestido de um personagem de filme",
+      "por": "imagem",
+      "em": "2026-11-17T00:38:03-03:00"
+    }
+  },
+  {
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-18",
     "horario": "23:00",
