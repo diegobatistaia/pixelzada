@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:41:12 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Truque da Nova Zelândia: como jogar GTA 6 antes no Xbox e no PS5</title>
+      <link>https://pixelzada.com.br/pt/gta-6-truque-da-nova-zelandia-como-jogar-antes-no-xbox-e-no-ps5/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-truque-da-nova-zelandia-como-jogar-antes-no-xbox-e-no-ps5/</guid>
+      <description>Como funciona o truque da Nova Zelândia para jogar GTA 6 antes no Xbox e no PS5, que liberam às 8h de 18/11 em Brasília, e quais cuidados a imprensa recomenda.</description>
+      <category>Guias</category>
+      <pubDate>Tue, 17 Nov 2026 16:41:10 +0000</pubDate>
+    </item>
     <item>
       <title>Shigeru Miyamoto vai receber o primeiro Legend Award do D.I.C.E. Awards</title>
       <link>https://pixelzada.com.br/pt/shigeru-miyamoto-recebera-primeiro-legend-award-do-dice-awards/</link>
@@ -238,14 +246,6 @@
       <description>O Xbox adicionou 21 jogos do Xbox original à retrocompatibilidade no PC, chegando a 25 títulos, e liberou conquistas em quatro clássicos. Veja o que mudou.</description>
       <category>Consoles e PC</category>
       <pubDate>Fri, 13 Nov 2026 12:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Como a Rockstar está divulgando GTA 6: Netflix, Miami e parcerias</title>
-      <link>https://pixelzada.com.br/pt/gta-6-marketing-netflix-miami-vice-city-outdoors-parcerias/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-marketing-netflix-miami-vice-city-outdoors-parcerias/</guid>
-      <description>Do Extended Look na Netflix aos contratos com Miami, passando por controles da Sony e outdoors, veja como a Rockstar divulga GTA 6 e a reação dos políticos.</description>
-      <category>GTA 6</category>
-      <pubDate>Fri, 13 Nov 2026 12:41:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
