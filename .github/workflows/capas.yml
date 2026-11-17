@@ -33,7 +33,7 @@ jobs:
           done; done
           ls -la previas/longo/capas/g5art
       - name: Capas
-        run: python -u -m scripts.longo.capas_teste previas/longo/capas scripts/longo/capas/g5-michael.png
+        run: python -u -m scripts.longo.capas_teste previas/longo/capas previas/longo/capas/g5art/3240220_library_hero.jpg
       - name: Guardar no ramo
         run: |
           git config user.name "pixelzada-bot"

@@ -57,20 +57,12 @@ def texto(im: Image.Image, xy, s: str, tam: int, cor=AMARELO, contorno=12, ancor
     f = fonte(ANTON, tam)
     contorno = int(contorno * 1.35)
     x, y = xy
-    # brilho neon atrás da letra (identidade Vice): chama atenção na miniatura
-    if brilho is None:
-        brilho = CIANO if cor == ROSA else ROSA
-    g = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(g).text((x, y), s, font=f, fill=(*brilho, 255), anchor=ancora, stroke_width=contorno + 16,
-                           stroke_fill=(*brilho, 255))
-    g = g.filter(ImageFilter.GaussianBlur(22))
-    for _ in range(2):
-        im.alpha_composite(g)
+    # Diego (17/11): brilho neon borrava a leitura. Só contorno escuro grosso + sombra dura.
     camada = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(camada)
     # sombra dura deslocada + contorno grosso (leitura no celular)
-    d.text((x + 8, y + 10), s, font=f, fill=(0, 0, 0, 170), anchor=ancora, stroke_width=contorno,
-           stroke_fill=(0, 0, 0, 170))
+    d.text((x + 9, y + 11), s, font=f, fill=(0, 0, 0, 200), anchor=ancora, stroke_width=contorno,
+           stroke_fill=(0, 0, 0, 200))
     d.text((x, y), s, font=f, fill=cor, anchor=ancora, stroke_width=contorno, stroke_fill=NOITE)
     if rot:
         camada = camada.rotate(rot, resample=Image.BICUBIC, center=(x, y))
@@ -173,7 +165,7 @@ def leonida(pasta: Path) -> None:
     im.paste(dirr, (580, 0), mask)
     ImageDraw.Draw(im).line([(650, 0), (580, H)], fill=ROSA, width=12)
     texto(im, (48, 50), "O MAPA", 116, BRANCO)
-    texto(im, (48, 180), "É A", 116, AMARELO, brilho=NOITE)
+    texto(im, (48, 180), "É A", 116, AMARELO)
     texto(im, (48, 310), "FLÓRIDA", 116, ROSA)
     selo(im, (40, 580), 70)
     borda(im)
@@ -243,14 +235,15 @@ def h48(pasta: Path) -> None:
 
 
 def g5g6(pasta: Path, quadro_gta5: Path) -> None:
+    # arte oficial do GTA 5 (Steam): Michael e Trevor de frente (Diego: personagem tem que ser conhecido)
     g5 = Image.open(quadro_gta5).convert("RGB")
-    g5 = g5.crop((560, 100, 1480, 960))  # Michael no GTA 5, sem legenda e etiquetas
+    if g5.size == (1920, 620):
+        g5 = g5.crop((1080, 0, 1700, 620))
 
     def dividido(prefixo: str, nome: str, cima: str, fx: float, zoom: float) -> None:
         im = Image.new("RGBA", (W, H), NOITE)
         from PIL import ImageEnhance
-        esq = realce(cobrir(g5, 660, H, .5, .45))
-        esq = ImageEnhance.Color(esq).enhance(0.55).convert("RGBA")  # GTA 5 "velho"
+        esq = realce(cobrir(g5, 660, H, .5, .45)).convert("RGBA")
         im.alpha_composite(esq, (0, 0))
         dj = img(prefixo)
         sc = max(660 / dj.width, H / dj.height) * zoom
