@@ -7,42 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-16T18:06-03:00",
+ "atualizado": "2026-11-17T00:54-03:00",
  "hoje": {
-  "data": "2026-11-16",
+  "data": "2026-11-17",
   "reels": {
    "meta": 17,
-   "publicados": 10,
-   "deviam_ter_saido": 11,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 5,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 42,
-  "meta_por_dia": 17,
-  "dias_de_reserva": 2.5,
-  "grade_cheia_ate": "2026-11-17",
-  "sem_revisao": 3,
+  "agendados": 50,
+  "meta_por_dia": 33,
+  "dias_de_reserva": 1.5,
+  "grade_cheia_ate": "2026-11-18",
+  "sem_revisao": 12,
   "por_dia": [
-   {
-    "data": "2026-11-16",
-    "agendados": 5,
-    "meta": 17
-   },
    {
     "data": "2026-11-17",
     "agendados": 17,
@@ -50,14 +39,14 @@
    },
    {
     "data": "2026-11-18",
-    "agendados": 20,
+    "agendados": 33,
     "meta": 33
    }
   ]
  },
  "site": {
   "total": 221,
-  "hoje": 6,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "Star Wars: Galactic Racer terá tela dividida para até 4 jogadores em 2027",
@@ -66,31 +55,30 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "16/11/2026 15:05",
+  "ultima_coleta": "17/11/2026 00:33",
   "perfis_lidos": 38,
   "perfis_com_falha": 1
  },
  "instagram": {
   "usuario": "pixelzada.br",
-  "seguidores": 100,
+  "seguidores": 102,
   "seguindo": 6,
-  "posts": 307,
-  "alcance_7d": 18437,
-  "views_7d": 26361,
+  "posts": 312,
+  "alcance_7d": 19269,
+  "views_7d": 27300,
   "reels_7d": {
-   "quantidade": 89,
-   "views_total": 14858,
-   "views_mediana": 160,
+   "quantidade": 93,
+   "views_total": 15449,
+   "views_mediana": 157,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-16": 1043,
-    "2026-11-15": 3363,
-    "2026-11-14": 1616,
+    "2026-11-16": 1820,
+    "2026-11-15": 3376,
+    "2026-11-14": 1618,
     "2026-11-13": 2140,
-    "2026-11-12": 2152,
+    "2026-11-12": 2158,
     "2026-11-11": 2288,
-    "2026-11-10": 2048,
-    "2026-11-09": 208
+    "2026-11-10": 2049
    },
    "melhores": [
     {
@@ -119,16 +107,16 @@
     },
     {
      "legenda": "A física de cabelo do GTA 5 contra a do GTA 6 💇",
-     "views": 241,
-     "alcance": 142,
+     "views": 242,
+     "alcance": 143,
      "curtidas": 1,
      "link": "https://www.instagram.com/reel/DfpOa0MDfNa/",
      "em": "2026-11-12T11:03:15-03:00"
     },
     {
      "legenda": "Eu depois de falar que \"as corridas são vencidas nas curvas, na reta qualquer um sabe acel",
-     "views": 231,
-     "alcance": 193,
+     "views": 237,
+     "alcance": 198,
      "curtidas": 2,
      "link": "https://www.instagram.com/reel/Dfx6Zlgmr0T/",
      "em": "2026-11-15T20:01:30-03:00"
@@ -138,8 +126,8 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 5,
-  "sem_resolver": 1,
+  "falhas_24h": 4,
+  "sem_resolver": 0,
   "lista": [
    {
     "workflow": "Vídeo longo narrado (prévia)",
@@ -157,18 +145,12 @@
     "workflow": "Vídeo longo (sonda de material)",
     "em": "2026-11-16T14:15:30-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43916451469",
-    "resolvido": false
+    "resolvido": true
    },
    {
     "workflow": "Vídeo longo (sonda de material)",
     "em": "2026-11-16T13:53:35-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43912472615",
-    "resolvido": true
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-16T07:58:59-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/43853648634",
     "resolvido": true
    }
   ]
@@ -178,20 +160,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 86
+   "youtube": 92
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-10",
-   "reels": 13,
-   "reels_meta": 15,
-   "carrosseis": 4,
-   "carrosseis_meta": 7,
-   "materias": 7,
-   "views_reels": 2048
-  },
   {
    "data": "2026-11-11",
    "reels": 12,
@@ -208,7 +181,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 10,
-   "views_reels": 2152
+   "views_reels": 2158
   },
   {
    "data": "2026-11-13",
@@ -226,7 +199,7 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1616
+   "views_reels": 1618
   },
   {
    "data": "2026-11-15",
@@ -235,16 +208,25 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
-   "views_reels": 3363
+   "views_reels": 3376
   },
   {
    "data": "2026-11-16",
-   "reels": 10,
+   "reels": 15,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 1043
+   "views_reels": 1820
+  },
+  {
+   "data": "2026-11-17",
+   "reels": 0,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -283,16 +265,16 @@
   {
    "data": "2026-11-16",
    "seguidores": 100
+  },
+  {
+   "data": "2026-11-17",
+   "seguidores": 102
   }
  ],
  "alertas": [
   {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
-  },
-  {
-   "nivel": "vermelho",
-   "texto": "1 falha(s) no GitHub ainda sem resolver"
+   "nivel": "amarelo",
+   "texto": "Fila de Reels com só 1,5 dia(s) de reserva"
   }
  ]
 }
