@@ -6238,7 +6238,7 @@
     "slug": "gta-6-twitch-alanzoka-15",
     "data": "2026-11-18",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Desfocado + título + legenda (modelo 3)",
     "legenda": "Goulart joga GTA 6 e cai na treta do barco 🚤\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6261,6 +6261,19 @@
       "motivo": "streamer jogando e cenas de gameplay com personagens vestidos e armas de jogo",
       "por": "imagem",
       "em": "2026-11-18T17:16:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T18:01:19-03:00",
+      "media_id": "18071682422788771",
+      "permalink": "https://www.instagram.com/reel/Df5bNfwmfIe/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
