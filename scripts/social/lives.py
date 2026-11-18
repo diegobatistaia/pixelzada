@@ -204,13 +204,69 @@ def escolher(cfg: dict, clipes: list[dict], ja: set[str]) -> list[dict]:
     return ([melhor_jogo] + [c for c in bons if c is not melhor_jogo]) if melhor_jogo else bons
 
 
+def gravar_live(canal: str, saida: Path, segundos: int = 40):
+    """Grava `segundos` da live agora (canal só de jogo sem clipes da plateia, ex.: gta6news).
+    Pula o começo (onde a Twitch costuma pôr propaganda)."""
+    u = subprocess.run(["yt-dlp", "-g", "-f", "best[height<=1080]/best", f"https://www.twitch.tv/{canal}"],
+                       capture_output=True, text=True, timeout=60)
+    url = (u.stdout or "").strip().splitlines()[-1:] or [""]
+    if not url[0]:
+        return u
+    return subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", url[0], "-ss", "20", "-t", str(segundos),
+                           "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", str(saida)],
+                          capture_output=True, text=True, timeout=segundos + 120)
+
+
+def ao_vivo_jogo(cfg: dict, pasta: Path, ja: set[str]) -> int:
+    """Canais só de jogo (lives.canais_jogo) que estão ao vivo no GTA 6: 1 trecho por rodada."""
+    lv = cfg["lives"]
+    canais = lv.get("canais_jogo") or []
+    if not canais or not lv.get("gravar_ao_vivo", True):
+        return 0
+    try:
+        tw = Twitch()
+        gid = tw.jogo(lv["jogo_twitch"])
+        vivos = {s["user_login"].lower(): s for s in tw.get("streams", user_login=canais).get("data", [])
+                 if s.get("game_id") == gid}
+    except Falha as e:
+        print(f"  ao vivo (canais de jogo): {e}")
+        return 0
+    feitos = 0
+    for canal in canais:
+        s = vivos.get(canal.lower())
+        if not s:
+            print(f"  {canal}: não está ao vivo no GTA 6 agora")
+            continue
+        agora = datetime.now(TZ)
+        c = {"id": f"twitch-live:{canal}:{agora:%Y%m%d%H%M}", "fonte": "twitch", "canal": s["user_name"],
+             "link": f"https://www.twitch.tv/{canal}#ao-vivo-{agora:%Y%m%d-%H%M}", "titulo": "",
+             "views": s.get("viewer_count", 0), "duracao": 40, "idioma": s.get("language"), "ao_vivo": True,
+             "so_jogo": True}
+        destino = nome_arquivo(pasta, 80 + feitos, c)
+        r = baixar_e_limpar(c, destino, mutar=not (c["idioma"] or "").startswith("pt"))
+        ja.add(c["id"])
+        print(f"  {canal} ao vivo ({c['views']} assistindo): {r['motivo']}")
+        if r["ok"]:
+            info = info_entrada(cfg, c)
+            info["perfil"] = f"twitch-jogo/{s['user_name']}"
+            info["legenda"] = "Cena de gameplay do GTA 6"
+            info["legenda_completa"] = "Cena de gameplay do GTA 6 (só imagem do jogo, sem streamer)"
+            info["etiqueta_modelo"] = "jogo-branca"
+            destino.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            feitos += 1
+    return feitos
+
+
 def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool = False) -> dict:
     """Baixa, tira a câmera do streamer e, se `mutar`, tira o áudio (clipe de reserva em
     outro idioma: fica só a imagem do jogo; a montagem põe trilha muda)."""
     with tempfile.TemporaryDirectory() as tmp:
         bruto = Path(tmp) / "bruto.mp4"
-        r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "-f", "mp4/bv*+ba/b", "--merge-output-format", "mp4",
-                            "-o", str(bruto), c["link"]], capture_output=True, text=True, timeout=120)
+        if c.get("ao_vivo"):
+            r = gravar_live(c["canal"], bruto, int(c.get("segundos") or 40))
+        else:
+            r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "-f", "mp4/bv*+ba/b", "--merge-output-format", "mp4",
+                                "-o", str(bruto), c["link"]], capture_output=True, text=True, timeout=120)
         if not bruto.exists() or bruto.stat().st_size < 20000:
             return {"ok": False, "motivo": f"download falhou: {(r.stderr or r.stdout).strip()[-160:]}"}
         destino.parent.mkdir(parents=True, exist_ok=True)
@@ -425,6 +481,8 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
             por_canal[c["canal"].lower()] = por_canal.get(c["canal"].lower(), 0) + 1
         Q.salvar_usados(cfg, ja)  # a cada clipe: se o job for cortado, o que já foi tentado não volta
     Q.salvar_usados(cfg, ja)
+    feitos += ao_vivo_jogo(cfg, pasta, ja)
+    Q.salvar_usados(cfg, ja)
     print(f"{feitos} clipe(s) de live pronto(s) para a montagem")
     return 0
 
@@ -575,12 +633,19 @@ def main(argv: list[str] | None = None) -> int:
     k.add_argument("--jogos", default="Grand Theft Auto V|Grand Theft Auto VI")
     k.add_argument("--dias", type=int, default=30)
     sub.add_parser("refazer", help="refaz no formato dividido os cortes da Twitch que estão na fila")
+    sub.add_parser("gravar", help="grava agora 1 trecho de cada canal só de jogo ao vivo (lives.canais_jogo)")
     mo = sub.add_parser("modelo", help="prévias do formato com clipes da Twitch (não mexe na fila)")
     mo.add_argument("links", nargs="+")
     args = ap.parse_args(argv)
     cfg = Q.carregar_config(Path(args.config))
     if args.cmd == "rodada":
         return rodada(cfg, args.forcar)
+    if args.cmd == "gravar":
+        pasta = cfg["_entrada"] / datetime.now(TZ).date().isoformat()
+        ja = Q.usados(cfg)
+        n = ao_vivo_jogo(cfg, pasta, ja)
+        Q.salvar_usados(cfg, ja)
+        return 0 if n else 1
     if args.cmd == "modelo":
         return modelo(args.links)
     if args.cmd == "refazer":
