@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:46:27 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rob Nelson, da Rockstar North, conta como GTA 6 foi feito: equipe gigante, 30 fps e um casal no centro</title>
+      <link>https://pixelzada.com.br/pt/rob-nelson-como-gta-6-foi-feito-equipe-30-fps-e-o-casal-jason-e-lucia/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/rob-nelson-como-gta-6-foi-feito-equipe-30-fps-e-o-casal-jason-e-lucia/</guid>
+      <description>Rob Nelson, da Rockstar North, conta como GTA 6 foi feito: equipe do dobro de RDR2, 30 fps, casal no lugar de três protagonistas e montanhas na Flórida.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 18 Nov 2026 20:46:25 +0000</pubDate>
+    </item>
     <item>
       <title>Leonida Penitentiary: o que os trailers mostram do passado de Lucia na prisão</title>
       <link>https://pixelzada.com.br/pt/gta-6-leonida-penitentiary-passado-de-lucia-na-prisao-e-a-tornozeleira/</link>
@@ -238,14 +246,6 @@
       <description>League of Legends New Dawn: Riot revela cliente novo, Summoner's Rift renovado e calendário de 2027 na final do Mundial. Veja tudo o que já se sabe sobre ela.</description>
       <category>Lançamentos</category>
       <pubDate>Sat, 14 Nov 2026 22:39:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chefe da Take-Two não descarta filme de GTA e cobra Anthropic e OpenAI sobre clones</title>
-      <link>https://pixelzada.com.br/pt/chefe-da-take-two-nao-descarta-filme-de-gta-e-cobra-anthropic-e-openai/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/chefe-da-take-two-nao-descarta-filme-de-gta-e-cobra-anthropic-e-openai/</guid>
-      <description>Zelnick, da Take-Two, diz que não descarta filme ou série de GTA, mas é muito seletivo, e cobra Anthropic e OpenAI sobre clones de jogos feitos com IA.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 14 Nov 2026 20:48:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

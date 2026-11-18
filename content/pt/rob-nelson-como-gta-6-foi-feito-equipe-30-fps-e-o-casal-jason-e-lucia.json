@@ -110,7 +110,10 @@
     "query": "GTA 6 Rockstar North",
     "alt": "Cena de GTA 6 divulgada pela IGN",
     "url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-35-1794999194461.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/rob-nelson-como-gta-6-foi-feito-equipe-3-408e5088.jpg",
+    "source_url": "",
+    "foco": "49% 20%"
   },
   "sources": [
     {
@@ -132,5 +135,7 @@
       "title": "GTA 6 takes some liberties with its world around Vice City"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-18T20:46:25+00:00",
+  "updated_at": "2026-11-18T20:46:25+00:00"
 }
