@@ -161,9 +161,10 @@ lives:
   inicio: "2026-11-18T08:00"
   fim: "2026-11-22T23:59"
   jogo_twitch: "Grand Theft Auto VI"
-  janela_horas: 4          # clipes criados nas últimas 4 horas
+  janela_horas: 6          # clipes criados nas últimas 6 horas (clipe mais velho já tem views: dá para escolher os melhores)
   por_rodada: 3            # até 3 clipes prontos a cada rodada (de 30 em 30 min): folga para cron que falha
-  min_views: 3             # clipe novo de GTA 6 tem poucas views nas 1as horas (18/11: média 8)
+  min_views: 10            # Diego (18/11): só os melhores clipes
+  peso_favorito: 1.5       # favorito ajuda um pouco, mas quem manda é a view (os melhores primeiro)
   max_por_canal: 99        # sem limite por streamer (Diego, 18/11)
   orcamento_min: 7         # para de tentar clipes novos depois de 7 min (o passo tem 14, o job 28)
   duracao: [8, 60]         # segundos
