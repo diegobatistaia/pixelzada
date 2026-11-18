@@ -7,81 +7,94 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-18T10:59-03:00",
+ "atualizado": "2026-11-18T18:58-03:00",
  "hoje": {
   "data": "2026-11-18",
   "reels": {
    "meta": 33,
-   "publicados": 6,
-   "deviam_ter_saido": 6,
+   "publicados": 23,
+   "deviam_ter_saido": 22,
    "atrasados": [],
-   "horarios_vazios_hoje": [
-    "16:00",
-    "16:30",
-    "17:00",
-    "17:30",
-    "18:00",
-    "18:30",
-    "19:00",
-    "23:00"
-   ]
+   "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 1,
+   "deviam_ter_saido": 5,
    "atrasados": [
-    "09:00"
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 21,
+  "agendados": 37,
   "meta_por_dia": 48,
-  "dias_de_reserva": 0.4,
+  "dias_de_reserva": 0.8,
   "grade_cheia_ate": null,
-  "sem_revisao": 4,
+  "sem_revisao": 18,
   "por_dia": [
    {
     "data": "2026-11-18",
-    "agendados": 18,
+    "agendados": 10,
     "meta": 33
    },
    {
     "data": "2026-11-19",
-    "agendados": 3,
+    "agendados": 27,
     "meta": 48
    }
   ]
  },
  "site": {
-  "total": 233,
-  "hoje": 2,
+  "total": 239,
+  "hoje": 8,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Méndez, Andrés de León, Raymond e mais: os novos personagens do Extended Look e do trailer de lançamento de GTA 6",
-   "url": "https://pixelzada.com.br/pt/gta-6-novos-personagens-mendez-andres-de-leon-ray-extended-look-e-trailer/",
-   "em": "2026-11-18T09:40:30-03:00"
+   "titulo": "Rob Nelson, da Rockstar North, conta como GTA 6 foi feito: equipe gigante, 30 fps e um casal no centro",
+   "url": "https://pixelzada.com.br/pt/rob-nelson-como-gta-6-foi-feito-equipe-30-fps-e-o-casal-jason-e-lucia/",
+   "em": "2026-11-18T17:46:25-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "18/11/2026 07:29",
+  "ultima_coleta": "18/11/2026 15:00",
   "perfis_lidos": 38,
   "perfis_com_falha": 1
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"ApHUy5__CYGJUfPnUPdYR0_\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AZWKcJQmFxP71fwWvWGpODE\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 1,
+  "falhas_24h": 4,
   "sem_resolver": 0,
   "lista": [
    {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-18T15:29:26-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44370264628",
+    "resolvido": true
+   },
+   {
     "workflow": "Finalizar",
-    "em": "2026-11-17T19:38:59-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44192093822",
+    "em": "2026-11-18T13:53:06-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44352359766",
+    "resolvido": true
+   },
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-18T13:46:26-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44351089737",
+    "resolvido": true
+   },
+   {
+    "workflow": "Reels",
+    "em": "2026-11-18T12:09:14-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44332285822",
     "resolvido": true
    }
   ]
@@ -152,11 +165,11 @@
   },
   {
    "data": "2026-11-18",
-   "reels": 6,
+   "reels": 23,
    "reels_meta": 33,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 2,
+   "materias": 8,
    "views_reels": null
   }
  ],
@@ -209,15 +222,11 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00"
-  },
-  {
-   "nivel": "amarelo",
-   "texto": "8 horário(s) de Reel ainda sem vídeo hoje"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
   },
   {
    "nivel": "vermelho",
-   "texto": "Fila de Reels com menos de 1 dia de reserva (21 vídeos)"
+   "texto": "Fila de Reels com menos de 1 dia de reserva (37 vídeos)"
   },
   {
    "nivel": "amarelo",
