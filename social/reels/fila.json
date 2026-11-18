@@ -5778,7 +5778,7 @@
   },
   {
     "slug": "teste-modelo3-bisteconee-armadilha",
-    "status": "agendado",
+    "status": "publicado",
     "origem": {
       "motor": true,
       "perfil": "twitch/Bisteconee",
@@ -5805,7 +5805,12 @@
     "fixo": true,
     "estilo": "Desfocado + título + legenda (modelo 3)",
     "tentativas": 0,
-    "legenda": "O dinheiro no chão do GTA 6 era uma ARMADILHA 😱\n\n🎥 Clipe da live de Bisteconee (twitch.tv/bisteconee)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada"
+    "legenda": "O dinheiro no chão do GTA 6 era uma ARMADILHA 😱\n\n🎥 Clipe da live de Bisteconee (twitch.tv/bisteconee)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "publicado": {
+      "em": "2026-11-18T12:12:14-03:00",
+      "permalink": "https://www.instagram.com/reel/Df4zEbfkqRw/",
+      "nota": "saiu na rodada 549; o registro falhou por conflito e foi corrigido à mão"
+    }
   },
   {
     "slug": "gta-6-chernobyl-games",
