@@ -1,4 +1,2293 @@
 {
- "cortes": [],
- "atualizado": "2026-11-18T18:50-03:00"
+ "cortes": [
+  {
+   "id": "alanzoka-2932200023-03703",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 3853,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=1h4m13s",
+   "cena": "tiroteio em área rural",
+   "camera": [
+    [
+     706,
+     775,
+     996,
+     992
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-03703-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-03703-live.mp4",
+   "motivo_ia": "A câmera do streamer está visível no canto inferior direito.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-03703-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-03703-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-05852",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 6002,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=1h40m2s",
+   "cena": "andando de barco na água",
+   "camera": [
+    [
+     13,
+     762,
+     305,
+     981
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-05852-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-05852-live.mp4",
+   "motivo_ia": "há uma webcam do streamer no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-05852-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-05852-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-08001",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 8151,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=2h15m51s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     237,
+     765,
+     532,
+     989
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-08001-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-08001-live.mp4",
+   "motivo_ia": "Há uma webcam no canto inferior direito mostrando o streamer.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-08001-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-08001-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-10150",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 10150,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=2h49m10s",
+   "cena": "dirigindo carro na rua",
+   "camera": [
+    [
+     242,
+     775,
+     513,
+     974
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-10150-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-10150-live.mp4",
+   "motivo_ia": "Há uma webcam do streamer visível no canto direito superior.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-10150-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-10150-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-12298",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 12298,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=3h24m58s",
+   "cena": "personagem pintando a parede",
+   "camera": [
+    [
+     253,
+     775,
+     520,
+     994
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-12298-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-12298-live.mp4",
+   "motivo_ia": "webcam do streamer visível no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-12298-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-12298-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-14447",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 14447,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=4h0m47s",
+   "cena": "personagem andando na praia e piscina",
+   "camera": [
+    [
+     242,
+     771,
+     483,
+     966
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-14447-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-14447-live.mp4",
+   "motivo_ia": "há uma webcam mostrando a pessoa real no canto da tela",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-14447-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-14447-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-16596",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 16746,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=4h39m6s",
+   "cena": "personagem abrindo geladeira em casa",
+   "camera": [
+    [
+     249,
+     773,
+     542,
+     981
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-16596-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-16596-live.mp4",
+   "motivo_ia": "há uma webcam com a pessoa real no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-16596-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-16596-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-18745",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 18745,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=5h12m25s",
+   "cena": "guardando compras no porta-malas",
+   "camera": [
+    [
+     253,
+     775,
+     560,
+     992
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-18745-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-18745-live.mp4",
+   "motivo_ia": "Há uma webcam visível do streamer no canto direito da tela.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-18745-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-18745-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-20894",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 20894,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=5h48m14s",
+   "cena": "personagem correndo à noite",
+   "camera": [
+    [
+     250,
+     774,
+     545,
+     966
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-20894-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-20894-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-20894-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-20894-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-25192",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 25192,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=6h59m52s",
+   "cena": "personagem conversando no bar",
+   "camera": [
+    [
+     267,
+     781,
+     513,
+     979
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-25192-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-25192-live.mp4",
+   "motivo_ia": "webcam visível no canto direito com o streamer",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-25192-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-25192-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-27341",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 27341,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=7h35m41s",
+   "cena": "personagem pegando bebida e banho",
+   "camera": [
+    [
+     250,
+     772,
+     542,
+     995
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-27341-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-27341-live.mp4",
+   "motivo_ia": "há uma webcam mostrando a pessoa real no canto direito da tela",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-27341-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-27341-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-29490",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 29490,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=8h11m30s",
+   "cena": "usando celular no jogo",
+   "camera": [
+    [
+     242,
+     770,
+     508,
+     976
+    ]
+   ],
+   "jogo": null,
+   "sem_jogo_motivo": "ainda há pessoa real depois do corte (Aparece a mão de uma pessoa real segurando o celular exibindo menus do jogo.)",
+   "live_mp4": "alanzoka-2932200023-29490-live.mp4",
+   "motivo_ia": "camera do streamer presente no canto superior direito",
+   "url_jogo": null,
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-29490-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-31638",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 31638,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=8h47m18s",
+   "cena": "comprando roupas na loja",
+   "camera": [
+    [
+     253,
+     775,
+     526,
+     968
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-31638-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-31638-live.mp4",
+   "motivo_ia": "A facecam do streamer está visível no canto inferior direito.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-31638-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-31638-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-35936",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 35936,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=9h58m56s",
+   "cena": "tiroteio na estrada",
+   "camera": [
+    [
+     242,
+     752,
+     513,
+     987
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-35936-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-35936-live.mp4",
+   "motivo_ia": "webcam visível no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-35936-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-35936-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-38085",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 38235,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=10h37m15s",
+   "cena": "tiroteio no pátio externo",
+   "camera": [
+    [
+     249,
+     755,
+     624,
+     992
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-38085-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-38085-live.mp4",
+   "motivo_ia": "presença de facecam visível no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-38085-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-38085-live.mp4"
+  },
+  {
+   "id": "alanzoka-2932200023-40234",
+   "canal": "alanzoka",
+   "login": "alanzoka",
+   "vod": "2932200023",
+   "live": "2026-11-18T07:24-03:00",
+   "titulo_live": "VICE CITY BABYYYYYYYYYYY",
+   "t": 40234,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932200023?t=11h10m34s",
+   "cena": "tiroteio perto de rio",
+   "camera": [
+    [
+     290,
+     773,
+     502,
+     995
+    ]
+   ],
+   "jogo": "alanzoka-2932200023-40234-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "alanzoka-2932200023-40234-live.mp4",
+   "motivo_ia": "há uma webcam do streamer visível no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-40234-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/alanzoka-2932200023-40234-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-03119",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 3119,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=0h51m59s",
+   "cena": "personagem andando na rua e cutscene",
+   "camera": [
+    [
+     185,
+     804,
+     425,
+     992
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-03119-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-03119-live.mp4",
+   "motivo_ia": "A câmera do streamer está visível no canto superior direito da tela.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-03119-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-03119-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-03873",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 4023,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=1h7m3s",
+   "cena": "personagem explorando área externa",
+   "camera": [
+    [
+     179,
+     786,
+     428,
+     960
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-03873-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-03873-live.mp4",
+   "motivo_ia": "há uma webcam do streamer visível no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-03873-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-03873-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-04627",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 4777,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=1h19m37s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     162,
+     789,
+     425,
+     992
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-04627-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-04627-live.mp4",
+   "motivo_ia": "há uma webcam do streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-04627-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-04627-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-05381",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 5381,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=1h29m41s",
+   "cena": "personagem andando em casa",
+   "camera": [
+    [
+     181,
+     789,
+     424,
+     995
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-05381-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-05381-live.mp4",
+   "motivo_ia": "ha uma webcam mostrando o streamer no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-05381-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-05381-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-06135",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 6135,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=1h42m15s",
+   "cena": "dirigindo caminhonete na rua",
+   "camera": [
+    [
+     222,
+     790,
+     463,
+     1000
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-06135-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-06135-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto direito superior",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-06135-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-06135-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-06889",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 6889,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=1h54m49s",
+   "cena": "dirigindo caminhonete na rua",
+   "camera": [
+    [
+     200,
+     775,
+     469,
+     999
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-06889-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-06889-live.mp4",
+   "motivo_ia": "há uma facecam do streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-06889-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-06889-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-07643",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 7643,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=2h7m23s",
+   "cena": "dirigindo caminhonete na rua",
+   "camera": [
+    [
+     222,
+     790,
+     463,
+     999
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-07643-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-07643-live.mp4",
+   "motivo_ia": "webcam do streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-07643-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-07643-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-08397",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 8397,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=2h19m57s",
+   "cena": "personagem andando pela rua",
+   "camera": [
+    [
+     221,
+     789,
+     465,
+     999
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-08397-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-08397-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-08397-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-08397-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-09152",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 9152,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=2h32m32s",
+   "cena": "dirigindo carro vermelho",
+   "camera": [
+    [
+     220,
+     786,
+     467,
+     1000
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-09152-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-09152-live.mp4",
+   "motivo_ia": "A câmera do streamer está visível no canto inferior direito.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-09152-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-09152-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-09906",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 9906,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=2h45m6s",
+   "cena": "dirigindo caminhão em estacionamento",
+   "camera": [
+    [
+     222,
+     790,
+     463,
+     999
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-09906-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-09906-live.mp4",
+   "motivo_ia": "há uma facecam visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-09906-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-09906-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-10660",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 10660,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=2h57m40s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     220,
+     789,
+     464,
+     999
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-10660-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-10660-live.mp4",
+   "motivo_ia": "webcam visível no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-10660-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-10660-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-11414",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 11414,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=3h10m14s",
+   "cena": "dirigindo caminhonete perseguindo moto",
+   "camera": [
+    [
+     227,
+     789,
+     464,
+     953
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-11414-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-11414-live.mp4",
+   "motivo_ia": "A facecam do streamer está visível no canto superior direito.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-11414-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-11414-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-12168",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 12168,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=3h22m48s",
+   "cena": "personagem andando pela casa",
+   "camera": [
+    [
+     221,
+     789,
+     464,
+     989
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-12168-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-12168-live.mp4",
+   "motivo_ia": "há uma facecam com o streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-12168-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-12168-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-12922",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 12922,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=3h35m22s",
+   "cena": "andando de barco no mar",
+   "camera": [
+    [
+     226,
+     790,
+     464,
+     951
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-12922-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-12922-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-12922-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-12922-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-13676",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 13676,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=3h47m56s",
+   "cena": "personagem na praia",
+   "camera": [
+    [
+     216,
+     785,
+     471,
+     981
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-13676-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-13676-live.mp4",
+   "motivo_ia": "facecam visivel no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-13676-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-13676-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-14430",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 14430,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=4h0m30s",
+   "cena": "personagem fazendo supino",
+   "camera": [
+    [
+     225,
+     788,
+     464,
+     982
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-14430-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-14430-live.mp4",
+   "motivo_ia": "há uma facecam com o streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-14430-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-14430-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-15184",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 15184,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=4h13m4s",
+   "cena": "andando de moto na estrada",
+   "camera": [
+    [
+     222,
+     789,
+     464,
+     988
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-15184-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-15184-live.mp4",
+   "motivo_ia": "há uma webcam com o streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-15184-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-15184-live.mp4"
+  },
+  {
+   "id": "bisteconee-2932201544-15938",
+   "canal": "Bisteconee",
+   "login": "bisteconee",
+   "vod": "2932201544",
+   "live": "2026-11-18T07:28-03:00",
+   "titulo_live": "TAMO VOLTANDO A ATIVA",
+   "t": 15938,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932201544?t=4h25m38s",
+   "cena": "explorando área de pântano à noite",
+   "camera": [
+    [
+     207,
+     789,
+     465,
+     951
+    ]
+   ],
+   "jogo": "bisteconee-2932201544-15938-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "bisteconee-2932201544-15938-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-15938-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/bisteconee-2932201544-15938-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-02024",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 2354,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=0h39m14s",
+   "cena": "pilotando barco seguindo avião",
+   "camera": [
+    [
+     535,
+     687,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932235501-02024-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-02024-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-02024-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-02024-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-03053",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 3053,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=0h50m53s",
+   "cena": "tiroteio na área rural",
+   "camera": [
+    [
+     532,
+     683,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932235501-03053-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-03053-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-03053-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-03053-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-04082",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 4232,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=1h10m32s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     543,
+     686,
+     1000,
+     996
+    ]
+   ],
+   "jogo": "brino-2932235501-04082-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-04082-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-04082-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-04082-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-05112",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 5262,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=1h27m42s",
+   "cena": "personagem andando na rua",
+   "camera": [
+    [
+     593,
+     712,
+     1000,
+     990
+    ]
+   ],
+   "jogo": null,
+   "sem_jogo_motivo": "ainda há pessoa real depois do corte (o vídeo inteiro mostra um streamer com webcam em tela cheia jogando GTA)",
+   "live_mp4": "brino-2932235501-05112-live.mp4",
+   "motivo_ia": "Há uma webcam no canto inferior direito mostrando uma pessoa real jogando.",
+   "url_jogo": null,
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-05112-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-06141",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 6141,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=1h42m21s",
+   "cena": "analisando fotos antigas",
+   "camera": [
+    [
+     585,
+     680,
+     1000,
+     966
+    ]
+   ],
+   "jogo": "brino-2932235501-06141-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-06141-live.mp4",
+   "motivo_ia": "camera do streamer visivel no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-06141-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-06141-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-07170",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 7170,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=1h59m30s",
+   "cena": "fugindo da policia de carro",
+   "camera": [
+    [
+     642,
+     690,
+     1000,
+     946
+    ]
+   ],
+   "jogo": "brino-2932235501-07170-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-07170-live.mp4",
+   "motivo_ia": "A câmera do streamer aparece no canto inferior direito.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-07170-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-07170-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-08200",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 8200,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=2h16m40s",
+   "cena": "personagem empurrando viatura policial",
+   "camera": [
+    [
+     653,
+     725,
+     1000,
+     996
+    ]
+   ],
+   "jogo": "brino-2932235501-08200-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-08200-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-08200-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-08200-live.mp4"
+  },
+  {
+   "id": "brino-2932235501-09229",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932235501",
+   "live": "2026-11-18T08:11-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 9229,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932235501?t=2h33m49s",
+   "cena": "dirigindo carro vermelho na rodovia",
+   "camera": [
+    [
+     656,
+     725,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932235501-09229-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932235501-09229-live.mp4",
+   "motivo_ia": "há uma facecam com o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-09229-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932235501-09229-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-00999",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 999,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=0h16m39s",
+   "cena": "explorando mapa e mundo aberto",
+   "camera": [
+    [
+     557,
+     693,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-00999-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-00999-live.mp4",
+   "motivo_ia": "camera do streamer presente no canto inferior direito da tela",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-00999-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-00999-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-02037",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 2037,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=0h33m57s",
+   "cena": "dirigindo caminhonete na rua",
+   "camera": [
+    [
+     564,
+     680,
+     1000,
+     994
+    ]
+   ],
+   "jogo": "brino-2932343708-02037-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-02037-live.mp4",
+   "motivo_ia": "camera do streamer presente no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-02037-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-02037-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-03076",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 3076,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=0h51m16s",
+   "cena": "personagem tomando banho em casa",
+   "camera": [
+    [
+     550,
+     670,
+     1000,
+     990
+    ]
+   ],
+   "jogo": "brino-2932343708-03076-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-03076-live.mp4",
+   "motivo_ia": "há uma webcam do streamer visível no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-03076-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-03076-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-04115",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 4115,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=1h8m35s",
+   "cena": "mergulho no fundo do mar",
+   "camera": [
+    [
+     549,
+     680,
+     1000,
+     998
+    ]
+   ],
+   "jogo": "brino-2932343708-04115-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-04115-live.mp4",
+   "motivo_ia": "camera do streamer presente no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-04115-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-04115-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-05153",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 5153,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=1h25m53s",
+   "cena": "explorando a vizinhança de bicicleta",
+   "camera": [
+    [
+     563,
+     707,
+     1000,
+     998
+    ]
+   ],
+   "jogo": "brino-2932343708-05153-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-05153-live.mp4",
+   "motivo_ia": "webcam do streamer visível no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-05153-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-05153-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-07231",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 7231,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=2h0m31s",
+   "cena": "personagem andando em mercado",
+   "camera": [
+    [
+     724,
+     739,
+     1000,
+     963
+    ]
+   ],
+   "jogo": null,
+   "sem_jogo_motivo": "ainda há pessoa real depois do corte (webcam do streamer visivel no canto superior direito)",
+   "live_mp4": "brino-2932343708-07231-live.mp4",
+   "motivo_ia": "Aparece a webcam do streamer no canto inferior direito.",
+   "url_jogo": null,
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-07231-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-08269",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 8269,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=2h17m49s",
+   "cena": "jogando e olhando o mapa",
+   "camera": [
+    [
+     535,
+     680,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-08269-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-08269-live.mp4",
+   "motivo_ia": "webcam visivel no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-08269-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-08269-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-09308",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 9638,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=2h40m38s",
+   "cena": "personagem andando em casa",
+   "camera": [
+    [
+     549,
+     679,
+     999,
+     989
+    ]
+   ],
+   "jogo": "brino-2932343708-09308-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-09308-live.mp4",
+   "motivo_ia": "há uma facecam com o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-09308-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-09308-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-10346",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 10496,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=2h54m56s",
+   "cena": "dirigindo caminhonete e nadando",
+   "camera": [
+    [
+     537,
+     701,
+     1000,
+     992
+    ]
+   ],
+   "jogo": "brino-2932343708-10346-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-10346-live.mp4",
+   "motivo_ia": "webcam visível no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-10346-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-10346-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-11385",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 11385,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=3h9m45s",
+   "cena": "personagem conversa com pedestre",
+   "camera": [
+    [
+     554,
+     680,
+     1000,
+     995
+    ]
+   ],
+   "jogo": "brino-2932343708-11385-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-11385-live.mp4",
+   "motivo_ia": "streamer visivel no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-11385-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-11385-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-12424",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 12424,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=3h27m4s",
+   "cena": "personagem andando à noite",
+   "camera": [
+    [
+     535,
+     688,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-12424-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-12424-live.mp4",
+   "motivo_ia": "webcam visível no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-12424-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-12424-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-13462",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 13792,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=3h49m52s",
+   "cena": "personagem entrando em caminhonete",
+   "camera": [
+    [
+     535,
+     701,
+     1000,
+     999
+    ]
+   ],
+   "jogo": "brino-2932343708-13462-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-13462-live.mp4",
+   "motivo_ia": "há uma webcam com o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-13462-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-13462-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-14501",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 14501,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=4h1m41s",
+   "cena": "andando a pé com pacote",
+   "camera": [
+    [
+     556,
+     703,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-14501-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-14501-live.mp4",
+   "motivo_ia": "há uma webcam com o streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-14501-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-14501-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-15539",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 15869,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=4h24m29s",
+   "cena": "personagem no banheiro conversando",
+   "camera": [
+    [
+     543,
+     693,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-15539-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-15539-live.mp4",
+   "motivo_ia": "há uma webcam visível no canto inferior direito com o streamer",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-15539-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-15539-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-18655",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 18655,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=5h10m55s",
+   "cena": "personagem fugindo de jacaré na ponte",
+   "camera": [
+    [
+     549,
+     703,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-18655-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-18655-live.mp4",
+   "motivo_ia": "presença de webcam do streamer no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-18655-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-18655-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-19694",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 19844,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=5h30m44s",
+   "cena": "andando de barco no rio",
+   "camera": [
+    [
+     532,
+     706,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-19694-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-19694-live.mp4",
+   "motivo_ia": "streamer visível no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-19694-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-19694-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-20733",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 20733,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=5h45m33s",
+   "cena": "dirigindo carro na ponte",
+   "camera": [
+    [
+     541,
+     681,
+     1000,
+     1000
+    ]
+   ],
+   "jogo": "brino-2932343708-20733-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-20733-live.mp4",
+   "motivo_ia": "há uma webcam do streamer visível no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-20733-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-20733-live.mp4"
+  },
+  {
+   "id": "brino-2932343708-21771",
+   "canal": "brino",
+   "login": "brino",
+   "vod": "2932343708",
+   "live": "2026-11-18T10:55-03:00",
+   "titulo_live": "GTA 6 - O PIOR STREAMER DO MUNDO",
+   "t": 21921,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932343708?t=6h5m21s",
+   "cena": "personagem andando e pegando scooter",
+   "camera": [
+    [
+     549,
+     693,
+     1000,
+     995
+    ]
+   ],
+   "jogo": "brino-2932343708-21771-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "brino-2932343708-21771-live.mp4",
+   "motivo_ia": "há uma webcam com a pessoa real no canto inferior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-21771-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/brino-2932343708-21771-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-01269",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 1599,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=0h26m39s",
+   "cena": "personagens conversando na prisao",
+   "camera": [
+    [
+     31,
+     18,
+     339,
+     203
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-01269-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-01269-live.mp4",
+   "motivo_ia": "ha uma webcam do streamer no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-01269-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-01269-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-01795",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 1945,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=0h32m25s",
+   "cena": "assalto a banco e tiro",
+   "camera": [
+    [
+     36,
+     18,
+     342,
+     201
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-01795-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-01795-live.mp4",
+   "motivo_ia": "A câmera do streamer está visível no canto superior esquerdo.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-01795-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-01795-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-02321",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 2471,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=0h41m11s",
+   "cena": "andando de barco no rio",
+   "camera": [
+    [
+     34,
+     11,
+     338,
+     201
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-02321-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-02321-live.mp4",
+   "motivo_ia": "há uma webcam com uma pessoa real no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-02321-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-02321-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-02848",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 2848,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=0h47m28s",
+   "cena": "explorando pântano a pé",
+   "camera": [
+    [
+     20,
+     25,
+     342,
+     206
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-02848-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-02848-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto superior esquerdo em todos os quadros",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-02848-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-02848-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-03374",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 3374,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=0h56m14s",
+   "cena": "pilotando hidroavião na chuva",
+   "camera": [
+    [
+     16,
+     20,
+     339,
+     203
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-03374-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-03374-live.mp4",
+   "motivo_ia": "webcam visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-03374-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-03374-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-03900",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 3900,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=1h5m0s",
+   "cena": "dirigindo caminhonete a noite",
+   "camera": [
+    [
+     16,
+     17,
+     342,
+     203
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-03900-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-03900-live.mp4",
+   "motivo_ia": "webcam do streamer visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-03900-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-03900-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-04426",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 4576,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=1h16m16s",
+   "cena": "personagem andando em casa",
+   "camera": [
+    [
+     16,
+     17,
+     340,
+     203
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-04426-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-04426-live.mp4",
+   "motivo_ia": "há uma webcam com o streamer visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-04426-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-04426-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-04952",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 4952,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=1h22m32s",
+   "cena": "olhando fotos de personagens",
+   "camera": [
+    [
+     19,
+     804,
+     332,
+     981
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-04952-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-04952-live.mp4",
+   "motivo_ia": "webcam do streamer visível no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-04952-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-04952-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-05479",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 5629,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=1h33m49s",
+   "cena": "dirigindo caminhonete na rua",
+   "camera": [
+    [
+     19,
+     804,
+     335,
+     988
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-05479-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-05479-live.mp4",
+   "motivo_ia": "A câmera do streamer está visível no canto superior direito.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-05479-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-05479-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-06005",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 6005,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=1h40m5s",
+   "cena": "andando pela calçada",
+   "camera": [
+    [
+     15,
+     804,
+     335,
+     990
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-06005-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-06005-live.mp4",
+   "motivo_ia": "há uma webcam com streamer no canto superior direito",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-06005-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-06005-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-06531",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 6531,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=1h48m51s",
+   "cena": "dirigindo carro na praia",
+   "camera": [
+    [
+     8,
+     8,
+     331,
+     193
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-06531-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-06531-live.mp4",
+   "motivo_ia": "A webcam do streamer está visível no canto superior esquerdo da tela.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-06531-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-06531-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-07057",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 7387,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h3m7s",
+   "cena": "abrindo mapa e dirigindo",
+   "camera": [
+    [
+     45,
+     14,
+     334,
+     196
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-07057-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-07057-live.mp4",
+   "motivo_ia": "A câmera do streamer aparece no canto superior esquerdo dos quadros",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-07057-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-07057-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-07584",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 7734,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h8m54s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     10,
+     8,
+     335,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-07584-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-07584-live.mp4",
+   "motivo_ia": "Há uma webcam visível no canto superior esquerdo mostrando o streamer.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-07584-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-07584-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-08110",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 8110,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h15m10s",
+   "cena": "dirigindo carro vermelho à noite",
+   "camera": [
+    [
+     10,
+     8,
+     332,
+     193
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-08110-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-08110-live.mp4",
+   "motivo_ia": "há uma webcam mostrando o streamer no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-08110-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-08110-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-08636",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 8786,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h26m26s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     11,
+     8,
+     332,
+     194
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-08636-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-08636-live.mp4",
+   "motivo_ia": "há uma facecam visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-08636-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-08636-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-09162",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 9162,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h32m42s",
+   "cena": "explorando loja com personagem",
+   "camera": [
+    [
+     15,
+     8,
+     331,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-09162-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-09162-live.mp4",
+   "motivo_ia": "webcam visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-09162-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-09162-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-09689",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 9689,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h41m29s",
+   "cena": "jogando sinuca no bar",
+   "camera": [
+    [
+     20,
+     8,
+     332,
+     194
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-09689-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-09689-live.mp4",
+   "motivo_ia": "A câmera do streamer está visível no canto superior esquerdo e o jogo é GTA.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-09689-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-09689-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-10215",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 10215,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h50m15s",
+   "cena": "dirigindo caminhonete à noite",
+   "camera": [
+    [
+     8,
+     8,
+     335,
+     191
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-10215-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-10215-live.mp4",
+   "motivo_ia": "há uma webcam do streamer visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-10215-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-10215-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-10741",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 10741,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=2h59m1s",
+   "cena": "personagem armado em sala",
+   "camera": [
+    [
+     13,
+     8,
+     331,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-10741-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-10741-live.mp4",
+   "motivo_ia": "webcam visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-10741-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-10741-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-11267",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 11417,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=3h10m17s",
+   "cena": "personagem andando pela casa",
+   "camera": [
+    [
+     15,
+     8,
+     335,
+     193
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-11267-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-11267-live.mp4",
+   "motivo_ia": "webcam do streamer visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-11267-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-11267-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-11794",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 11794,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=3h16m34s",
+   "cena": "comprando rum na loja",
+   "camera": [
+    [
+     8,
+     9,
+     329,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-11794-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-11794-live.mp4",
+   "motivo_ia": "facecam visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-11794-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-11794-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-12320",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 12320,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=3h25m20s",
+   "cena": "dirigindo caminhonete na estrada",
+   "camera": [
+    [
+     10,
+     8,
+     335,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-12320-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-12320-live.mp4",
+   "motivo_ia": "há uma facecam com o streamer visível no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-12320-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-12320-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-12846",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 12846,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=3h34m6s",
+   "cena": "personagem conversa com refém caido",
+   "camera": [
+    [
+     8,
+     8,
+     331,
+     193
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-12846-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-12846-live.mp4",
+   "motivo_ia": "há uma webcam com uma pessoa real no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-12846-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-12846-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-13372",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 13372,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=3h42m52s",
+   "cena": "personagem malhando com pesos",
+   "camera": [
+    [
+     10,
+     8,
+     335,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-13372-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-13372-live.mp4",
+   "motivo_ia": "A câmera do streamer aparece no canto superior esquerdo.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-13372-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-13372-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-13898",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 13898,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=3h51m38s",
+   "cena": "personagem em quarto de casa",
+   "camera": [
+    [
+     8,
+     8,
+     332,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-13898-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-13898-live.mp4",
+   "motivo_ia": "ha uma webcam no canto superior esquerdo mostrando uma cadeira de stream",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-13898-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-13898-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-14951",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 15101,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=4h11m41s",
+   "cena": "navegando de barco no mar",
+   "camera": [
+    [
+     20,
+     20,
+     335,
+     193
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-14951-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-14951-live.mp4",
+   "motivo_ia": "há uma webcam do streamer no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-14951-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-14951-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-15477",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 15477,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=4h17m57s",
+   "cena": "mergulho no fundo do mar",
+   "camera": [
+    [
+     15,
+     10,
+     335,
+     196
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-15477-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-15477-live.mp4",
+   "motivo_ia": "ha uma webcam com o streamer visivel no canto superior esquerdo",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-15477-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-15477-live.mp4"
+  },
+  {
+   "id": "paulinholokobr-2932209117-16003",
+   "canal": "PaulinhoLOKObr",
+   "login": "paulinholokobr",
+   "vod": "2932209117",
+   "live": "2026-11-18T07:43-03:00",
+   "titulo_live": "Stream via RTMP (OBS, Vmix, Zoom) with Restream",
+   "t": 16003,
+   "dur": 40,
+   "link": "https://www.twitch.tv/videos/2932209117?t=4h26m43s",
+   "cena": "andando de moto na cidade",
+   "camera": [
+    [
+     10,
+     8,
+     331,
+     192
+    ]
+   ],
+   "jogo": "paulinholokobr-2932209117-16003-jogo.mp4",
+   "sem_jogo_motivo": null,
+   "live_mp4": "paulinholokobr-2932209117-16003-live.mp4",
+   "motivo_ia": "A câmera do streamer aparece no canto superior esquerdo.",
+   "url_jogo": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-16003-jogo.mp4",
+   "url_live": "https://github.com/diegobatistaia/pixelzada/releases/download/banco-gta6/paulinholokobr-2932209117-16003-live.mp4"
+  }
+ ],
+ "atualizado": "2026-11-18T19:48-03:00"
 }
