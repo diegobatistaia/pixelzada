@@ -5405,7 +5405,7 @@
     "slug": "por-que-ele-ainda-mirou",
     "data": "2026-11-18",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Eu me pergunto por que ele ainda mirou 😭\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #gamer #meme #pixelzada",
     "tentativas": 0,
@@ -5427,6 +5427,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T07:59:58-03:00",
+      "media_id": "18124486423946123",
+      "permalink": "https://www.instagram.com/reel/Df4WRqhCb4M/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
