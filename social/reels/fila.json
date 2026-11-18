@@ -6322,7 +6322,7 @@
     "slug": "gta-6-twitch-alanzoka-17",
     "data": "2026-11-18",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Desfocado + título + legenda (modelo 3)",
     "legenda": "Goulart avisa que vai dar uma pausa no GTA ⏸️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6345,6 +6345,19 @@
       "motivo": "streamer vestido e gameplay normal",
       "por": "imagem",
       "em": "2026-11-18T18:14:29-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T19:01:30-03:00",
+      "media_id": "18159194656519687",
+      "permalink": "https://www.instagram.com/reel/Df5h_T7Aqux/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
