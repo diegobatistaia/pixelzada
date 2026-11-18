@@ -5525,9 +5525,37 @@
     }
   },
   {
-    "slug": "musica-na-intro-de-gta6",
+    "slug": "gta-6-twitch-bisteconee",
     "data": "2026-11-18",
     "horario": "09:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/bisteconee/clip/SmilingBlightedCaribouBIRB-j3twTrGxdMgRRzl_",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "gameplay de perseguição policial, sem nudez nem rosto de streamer",
+      "por": "revisão manual",
+      "em": "2026-11-18T09:21:54-03:00"
+    }
+  },
+  {
+    "slug": "musica-na-intro-de-gta6",
+    "data": "2026-11-18",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Se essa música tocasse na intro de GTA 6, seria épico 😭🎶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
