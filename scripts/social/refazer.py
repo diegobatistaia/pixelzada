@@ -32,6 +32,50 @@ def titulo_da_legenda(legenda: str) -> str:
     return re.sub(r"\s+", " ", linha).strip(" .")
 
 
+def _maior_trecho(perfil) -> tuple[int, int]:
+    melhor, ini = (0, 0), None
+    for k, v in enumerate(list(perfil) + [False]):
+        if v and ini is None:
+            ini = k
+        elif not v and ini is not None:
+            if k - ini > melhor[1] - melhor[0]:
+                melhor = (ini, k)
+            ini = None
+    return melhor
+
+
+def recorte_branco(img) -> dict | None:
+    """Vídeo que já vem num modelo de "post" branco de outra página (cabeçalho, texto e o
+    vídeo pequeno no meio): devolve o retângulo só do vídeo; senão None."""
+    import numpy as np
+    cinza = img.mean(axis=2) if img.ndim == 3 else img
+    h, w = cinza.shape
+    escuro = cinza < 225
+    y0, y1 = _maior_trecho(escuro.mean(axis=1) > 0.3)
+    if y1 - y0 < h * 0.15:
+        return None
+    x0, x1 = _maior_trecho(escuro[y0:y1].mean(axis=0) > 0.5)
+    cw, ch = x1 - x0, y1 - y0
+    if cw * ch > 0.85 * w * h or cw < w * 0.3:
+        return None
+    fora = np.ones_like(escuro)
+    fora[y0:y1, x0:x1] = False
+    if cinza[fora].mean() < 238:   # em volta tem que ser fundo branco liso (com pouco texto)
+        return None
+    m = 4  # folga da borda
+    x0, y0, cw, ch = x0 + m, y0 + m, cw - 2 * m, ch - 2 * m
+    return {"x": x0 - x0 % 2, "y": y0 - y0 % 2, "w": cw - cw % 2, "h": ch - ch % 2}
+
+
+def quadro_do_meio(mp4: Path):
+    import cv2
+    cap = cv2.VideoCapture(str(mp4))
+    cap.set(cv2.CAP_PROP_POS_FRAMES, max(0, int(cap.get(cv2.CAP_PROP_FRAME_COUNT) // 2)))
+    ok, q = cap.read()
+    cap.release()
+    return q if ok else None
+
+
 def eh_streamer(item: dict) -> bool:
     return ((item.get("origem") or {}).get("perfil") or "").lower().startswith(("twitch/", "kick/"))
 
@@ -61,12 +105,17 @@ def main(argv: list[str]) -> int:
             if not baixar_ytdlp(item["origem"]["link"], bruto) or not bruto.exists():
                 print(f"  {item['slug']}: não baixou ({item['origem']['link']}); fica como está")
                 continue
+            quadro = quadro_do_meio(bruto)
+            crop = recorte_branco(quadro) if quadro is not None else None
+            if crop:
+                print(f"  {item['slug']}: veio em modelo branco de outra página; uso só o vídeo {crop}")
             tema = (item.get("etiquetas") or {}).get("tema")
             tema = tema if tema in M.CTA else "gta6"
             saida = tmp / "saida" / item["slug"]
             pedido.append({"video": str(bruto), "saida": str(saida), "estilo": "simples-branca",
                            "cor": M.CORES[n % len(M.CORES)], "jogo": (item.get("etiquetas") or {}).get("jogo", ""),
-                           "titulo": titulo_da_legenda(item.get("legenda", "")), "frase": M.CTA[tema], "max_seg": 40})
+                           "titulo": titulo_da_legenda(item.get("legenda", "")), "frase": M.CTA[tema], "max_seg": 40,
+                           **({"crop": crop} if crop else {})})
             por_saida[str(saida)] = item
         if not pedido:
             return 0
