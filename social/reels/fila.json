@@ -6196,7 +6196,7 @@
     "slug": "gta-6-twitch-cellbit-2",
     "data": "2026-11-18",
     "horario": "17:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Cellbit achou o Pé Grande no GTA 6 🦶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6219,6 +6219,19 @@
       "motivo": "apenas streamer e gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-18T16:43:22-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T17:31:06-03:00",
+      "media_id": "18134162596838365",
+      "permalink": "https://www.instagram.com/reel/Df5Xu8ugW0p/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
