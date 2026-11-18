@@ -1,0 +1,116 @@
+name: Banco de cortes das lives
+
+# Diego, 18/11: banco de cortes de gameplay do GTA 6 tirados das lives gravadas (VODs) dos
+# streamers BR, já cortados e guardados, para os vídeos longos do YouTube e os Reels.
+# Vídeos na release "banco-gta6"; lista em social/banco/indice.json (scripts/social/banco.py).
+on:
+  workflow_dispatch:
+    inputs:
+      canais:
+        description: "Logins da Twitch separados por espaço"
+        required: false
+        default: "brino bisteconee cellbit paulinholokobr alanzoka"
+      por_canal:
+        description: "Máximo de cortes por canal"
+        required: false
+        default: "30"
+      desde:
+        description: "Lives desde (AAAA-MM-DD ou AAAA-MM-DDTHH:MM, horário de Brasília); vazio = ontem 18h"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  preparar:
+    runs-on: ubuntu-latest
+    outputs:
+      canais: ${{ steps.m.outputs.canais }}
+    steps:
+      - id: m
+        env:
+          CANAIS: ${{ inputs.canais }}
+        run: echo "canais=$(python3 -c 'import json,os;print(json.dumps(os.environ["CANAIS"].split()))')" >> "$GITHUB_OUTPUT"
+      - name: Release do banco
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view banco-gta6 -R "$GITHUB_REPOSITORY" >/dev/null 2>&1 || \
+            gh release create banco-gta6 -R "$GITHUB_REPOSITORY" --prerelease --title "Banco de cortes GTA 6" \
+              --notes "Cortes de gameplay do GTA 6 das lives (lista em social/banco/indice.json)."
+
+  coletar:
+    needs: preparar
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 5
+      matrix:
+        canal: ${{ fromJSON(needs.preparar.outputs.canais) }}
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      TWITCH_CLIENT_ID_PIXELZADA: ${{ secrets.TWITCH_CLIENT_ID_PIXELZADA }}
+      TWITCH_CLIENT_SECRET_PIXELZADA: ${{ secrets.TWITCH_CLIENT_SECRET_PIXELZADA }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: |
+          bash scripts/instalar_ffmpeg.sh
+          pip install pyyaml yt-dlp "opencv-python-headless<5"
+      - name: Cortar as lives gravadas
+        env:
+          DESDE: ${{ inputs.desde }}
+        run: python -m scripts.social.banco coletar ${{ matrix.canal }} --max ${{ inputs.por_canal }} --saida saida --desde "$DESDE"
+      - name: Guardar os vídeos na release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ls saida/*.mp4 >/dev/null 2>&1 || exit 0
+          for f in saida/*.mp4; do
+            for t in 1 2 3; do gh release upload banco-gta6 "$f" --clobber -R "$GITHUB_REPOSITORY" && break; sleep 5; done
+          done
+      - uses: actions/upload-artifact@v5
+        with:
+          name: indice-${{ matrix.canal }}
+          path: |
+            saida/indice-*.json
+            saida/mini/*.jpg
+          if-no-files-found: ignore
+
+  juntar:
+    needs: coletar
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml "opencv-python-headless<5"
+      - uses: actions/download-artifact@v5
+        with:
+          path: pedacos
+      - name: Juntar no índice
+        run: |
+          mkdir -p pedacos
+          python -m scripts.social.banco juntar pedacos
+      - name: Registrar
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A social/banco
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "banco: cortes das lives $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1

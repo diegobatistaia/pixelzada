@@ -39,7 +39,10 @@ Diga também o que o clipe mostra (conteudo):
   do console, logo/créditos na maior parte dos quadros.
 
 Você recebe 3 quadros do mesmo clipe. Responda SÓ um JSON:
-{"pessoa_real": true|false, "caixas": [[ymin, xmin, ymax, xmax], ...], "conteudo": "jogo"|"cutscene"|"menu", "motivo": "frase curta"}
+{"pessoa_real": true|false, "caixas": [[ymin, xmin, ymax, xmax], ...], "conteudo": "jogo"|"cutscene"|"menu", "gta": true|false, "cena": "2 a 5 palavras do que acontece", "motivo": "frase curta"}
+
+gta: true se o jogo na tela é GTA (false para outro jogo ou live só de conversa).
+cena: em português, ex. "perseguição policial de carro", "tiroteio na praia", "andando de moto na cidade".
 
 caixas: uma por câmera/pessoa real, em coordenadas de 0 a 1000 do quadro (iguais nos 3
 quadros), cobrindo a moldura inteira da câmera com folga. Lista vazia se pessoa_real=false.
@@ -100,6 +103,7 @@ def perguntar(video: Path) -> dict:
                 caixas = [[int(v) for v in c][:4] for c in (j.get("caixas") or []) if len(c) >= 4]
                 return {"pessoa_real": bool(j.get("pessoa_real")), "caixas": caixas,
                         "conteudo": str(j.get("conteudo") or "jogo").lower(),
+                        "gta": j.get("gta", True) is not False, "cena": str(j.get("cena") or "")[:60],
                         "motivo": str(j.get("motivo", ""))[:160], "modelo": modelo}
             except urllib.error.HTTPError as e:
                 ultimo = f"Gemini {modelo} HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:120]}"
