@@ -6028,7 +6028,7 @@
     "slug": "gta-6-twitch-alanzoka-2",
     "data": "2026-11-18",
     "horario": "15:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Alan achou a Anitta no GTA 6 🎵\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6051,6 +6051,19 @@
       "motivo": "streamer com camisa preta e gameplay de jogo de carro",
       "por": "imagem",
       "em": "2026-11-18T13:52:31-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T15:32:17-03:00",
+      "media_id": "18291382546293960",
+      "permalink": "https://www.instagram.com/reel/Df5KHX7iZcO/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
