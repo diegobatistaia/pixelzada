@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:40:36 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dr. Xbox receita atestado para a semana de GTA 6, e quase metade dos leitores da IGN vai faltar</title>
+      <link>https://pixelzada.com.br/pt/dr-xbox-receita-atestado-para-gta-6-e-quase-metade-dos-leitores-da-ign-vai-faltar/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/dr-xbox-receita-atestado-para-gta-6-e-quase-metade-dos-leitores-da-ign-vai-faltar/</guid>
+      <description>Dr. Xbox, o DJ Khaled, receita atestado de mentira para jogar GTA 6, e enquete da IGN mostra que 46,5% dos leitores vão tirar folga para o lançamento.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 18 Nov 2026 00:40:34 +0000</pubDate>
+    </item>
     <item>
       <title>Sony vence processo de US$ 2,6 bilhões sobre monopólio da PlayStation Store no Reino Unido</title>
       <link>https://pixelzada.com.br/pt/sony-vence-processo-de-us-2-6-bilhoes-sobre-monopolio-da-playstation-store/</link>
@@ -238,14 +246,6 @@
       <description>God of War: Sons of Sparta chega ao PS4 em 16 de novembro com atualização gratuita que traz os modos Hermes e Erebus. Veja como desbloquear e o que muda.</description>
       <category>Lançamentos</category>
       <pubDate>Fri, 13 Nov 2026 20:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quanto GTA 6 deve vender: previsões de analistas e os recordes a bater</title>
-      <link>https://pixelzada.com.br/pt/gta-6-quanto-vai-vender-previsoes-analistas-recordes-gta-5-red-dead-2/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-quanto-vai-vender-previsoes-analistas-recordes-gta-5-red-dead-2/</guid>
-      <description>Quanto GTA 6 deve vender? Veja as projeções da Newzoo e da Sensor Tower e os recordes de GTA 5 e Red Dead Redemption 2 que o jogo precisa superar no lançamento.</description>
-      <category>GTA 6</category>
-      <pubDate>Fri, 13 Nov 2026 18:41:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

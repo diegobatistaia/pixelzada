@@ -108,7 +108,10 @@
     "query": "Dr. Xbox DJ Khaled",
     "alt": "Imagem da campanha Dr. Xbox, com DJ Khaled",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/DrXBOX_Hero-ff346cf4ed4093811e3f.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/dr-xbox-receita-atestado-para-gta-6-e-qu-d2a74e92.jpg",
+    "source_url": "",
+    "foco": "48% 9%"
   },
   "sources": [
     {
@@ -124,5 +127,7 @@
       "title": "Nearly half of polled IGN readers are taking time off to play GTA 6"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-18T00:40:34+00:00",
+  "updated_at": "2026-11-18T00:40:34+00:00"
 }
