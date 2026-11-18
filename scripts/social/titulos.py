@@ -45,13 +45,14 @@ REGRAS
    que imaginar o vídeo. Se o título serve para qualquer outro vídeo, está errado.
 2. Use um destes ganchos (os que mais renderam no perfil e nos concorrentes):
    - situação de identificação: "Eu quando...", "Eu indo...", "Quando você..."
-   - humor com a cena: "Mal saiu o jogo e o Alan já tretou com uma iguana"
+   - humor com a cena: "Mal saiu o jogo e o Alan já levou 3 estrelas"
    - curiosidade específica: "Os NPCs de GTA 6 desviam da poça quando chove"
    - comparação concreta: "A mira do GTA 6 contra a do GTA 5"
    - pergunta sobre algo concreto: "O Series S vai aguentar GTA 6?"
-3. Português do Brasil, solto, de conversa. De 25 a 70 caracteres. "GTA 6" sempre assim.
+3. Português do Brasil com acentos corretos (já, não, movimentação), solto, de conversa. De 25 a 70
+   caracteres. "GTA 6" sempre assim.
 4. Só o que dá para ver ou ouvir no vídeo, ou o que está no texto recebido. Nada de inventar fato,
-   número, nome ou fala. Streamer: use o apelido conhecido (alanzoka = Alan, Bisteconee = Bistecone,
+   número, nome, bicho ou fala. Não copie os exemplos abaixo: eles só mostram o tom. Streamer: use o apelido conhecido (alanzoka = Alan, Bisteconee = Bistecone,
    PaulinhoLOKObr = Paulinho) quando o vídeo for dele.
 5. PROIBIDO (títulos genéricos que o Diego reprovou): "está bombando", "o caos começou",
    "olha isso", "olha esse vídeo", "isso é insano", "você precisa ver", "esse vídeo de GTA 6",

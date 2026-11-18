@@ -6222,40 +6222,12 @@
     }
   },
   {
-    "slug": "gta-6-twitch-alanzoka-5",
-    "data": "2026-11-18",
-    "horario": "19:30",
-    "status": "agendado",
-    "estilo": "Dividido",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/DarlingFunFiddleheadsStinkyCheese-y4_RanvCrDILQko5",
-      "titulo": "padrao",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo com personagens vestidos",
-      "por": "imagem",
-      "em": "2026-11-18T10:57:25-03:00"
-    }
-  },
-  {
     "slug": "gta-6-twitch-alanzoka-6",
     "data": "2026-11-18",
     "horario": "20:00",
     "status": "agendado",
     "estilo": "Dividido",
-    "legenda": "Mal saiu o GTA 6 e o Alan ja ficou confuso com o cachorro pulando 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "legenda": "Mal saiu o GTA 6 e o Alan já ficou confuso com o cachorro pulando 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
@@ -6276,65 +6248,6 @@
       "motivo": "streamer com headset e gameplay de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-18T11:05:49-03:00"
-    }
-  },
-  {
-    "slug": "movimentacao-npcs-gta6",
-    "data": "2026-11-18",
-    "horario": "20:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "A movimentacao dos NPCs de GTA 6 na prisao 🚨\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "flowgamestv",
-      "link": "https://www.instagram.com/reel/Df4aypkGdnp/",
-      "titulo": "gemini-regra",
-      "revisado": true,
-      "titulo_antes": "Isso aqui é simplesmente de outro mundo: olha a movimentação dos NPCs de GTA 6 🤯🚨"
-    },
-    "etiquetas": {
-      "formato": "noticia",
-      "tema": "gameplay",
-      "jogo": "gta6",
-      "moldura": "simples-branca",
-      "estilo_antes": "Simples branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 18/11",
-      "por": "revisão manual",
-      "em": "2026-11-18T14:14:09.109542+00:00"
-    }
-  },
-  {
-    "slug": "gta-6-twitch-alanzoka-2",
-    "data": "2026-11-18",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Dividido",
-    "legenda": "Mal saiu o jogo e o Alan já tretou com uma iguana 🐊\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/AgitatedGrotesqueCrowPeoplesChamp-dGq1aNrjgKh29Jrm",
-      "titulo": "gemini-regra",
-      "revisado": false,
-      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo com personagens vestidos",
-      "por": "imagem",
-      "em": "2026-11-18T10:54:37-03:00"
     }
   },
   {
