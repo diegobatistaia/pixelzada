@@ -1,12 +1,32 @@
 {
- "_como_usar": "plano {\"v\": \"w:gta6news/<arquivo sem .mp4>\"} no episódio. Trechos de 8 s, sem áudio. Gravado 18/11/2026 da live de gta6news (jogo limpo, sem câmera). EVITAR: t000 (intervalo comercial), t001, t002, t004, t005, t008 (cenas/diálogos da história).",
+ "_como_usar": "plano {\"v\": \"w:gta6news/<arquivo sem .mp4>\"} no episódio. Trechos de 8 s, sem áudio. Gravado 18/11/2026 da live de gta6news (jogo limpo, sem câmera). EVITAR: t000 (intervalo comercial), t001, t002, t004, t005, t008 (cenas/diálogos da história). 2ª gravação (t030-t082): EVITAR t030, t031 (intervalo), t038 (cena da história).",
  "mundo_aberto": {
   "t003": "picape Vapid na frente de casa, dia",
   "t021": "moto na estrada com GPS e celular na tela",
   "t022": "andando até uma moto em rua de bairro",
   "t026": "andando na rua com carros, dia",
   "t027": "chegando no carro estacionado",
-  "t028": "dirigindo picape em avenida com palmeiras"
+  "t028": "dirigindo picape em avenida com palmeiras",
+  "t032": "ponte sobre a água com picape",
+  "t034": "ponte com cabine de pedágio",
+  "t035": "picape na areia à beira d'água",
+  "t036": "picape em avenida larga",
+  "t037": "picape em avenida com outdoor",
+  "t052": "carro em rua com ônibus escolar",
+  "t053": "carro ao lado de caminhão",
+  "t054": "carro em rua de bairro",
+  "t059": "carro em rua com barco",
+  "t065": "carro esportivo vermelho fugindo, estrelas de procurado",
+  "t066": "esportivo vermelho em rua com palmeiras",
+  "t067": "esportivo vermelho em avenida",
+  "t068": "esportivo vermelho no asfalto",
+  "t069": "esportivo vermelho, pôr do sol",
+  "t070": "esportivo vermelho em obras com cones",
+  "t071": "esportivo vermelho em estrada com placa",
+  "t072": "esportivo vermelho em avenida, fim de tarde",
+  "t073": "esportivo vermelho, céu dramático",
+  "t074": "esportivo vermelho ao lado de trem",
+  "t079": "rua com palmeiras ao pôr do sol"
  },
  "atividades": {
   "t009": "treino com kettlebell no deck à beira d'água",
@@ -19,7 +39,11 @@
   "t007": "guarda-roupa / trocar de roupa",
   "t017": "mapa do jogo (Vice City / praia) com missão",
   "t019": "mapa com menu de história",
-  "t020": "mapa de Leonida, ilhas e costa"
+  "t020": "mapa de Leonida, ilhas e costa",
+  "t033": "menu de rádio (desfocado)",
+  "t045": "celular do jogo",
+  "t075": "oficina de pintura (Respray) trocando a cor do carro",
+  "t076": "menu de pausa com logo VI"
  },
  "lugares": {
   "t006": "interior de casa",
@@ -29,6 +53,14 @@
   "t023": "entrando em loja",
   "t024": "bar / loja Pindayho com cardápio",
   "t025": "bar à beira-mar com gente",
-  "t029": "Ammu-Nation (loja de armas) por dentro"
+  "t029": "Ammu-Nation (loja de armas) por dentro",
+  "t043": "pátio de apreensão da polícia (Police Impound)",
+  "t044": "viaturas da polícia de Leonida",
+  "t049": "pátio com guinchos",
+  "t062": "galpão com empilhadeira",
+  "t063": "pátio com carros",
+  "t064": "guincho Roadside Assistance",
+  "t080": "galpão ao anoitecer",
+  "t081": "estacionamento com palmeiras ao pôr do sol"
  }
 }
