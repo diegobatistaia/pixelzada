@@ -6431,35 +6431,6 @@
     }
   },
   {
-    "slug": "gta-6-twitch-jogo-gta6news-2",
-    "data": "2026-11-18",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Eu na primeira hora de GTA 6 só andando de quadriciclo 🏍️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch-jogo/GTA6NEWS",
-      "link": "https://www.twitch.tv/gta6news#ao-vivo-20261118-2008",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca",
-      "modelo_streamer": "jogo-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens mostram gameplay de jogo com personagem pilotando quadriciclo na estrada, sem conteúdo impróprio",
-      "por": "imagem",
-      "em": "2026-11-18T20:14:39-03:00"
-    }
-  },
-  {
     "slug": "hoje-ultimo-dia-sem-gta6",
     "data": "2026-11-18",
     "horario": "21:30",
