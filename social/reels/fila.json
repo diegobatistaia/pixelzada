@@ -5692,7 +5692,7 @@
     "slug": "gta-6-twitch-paulinholokobr",
     "data": "2026-11-18",
     "horario": "11:40",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Paulinho já saiu pilotando lancha no GTA 6 🚤\n\n🎥 Clipe da live de PaulinhoLOKObr (twitch.tv/paulinholokobr)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -5717,7 +5717,20 @@
       "em": "2026-11-18T10:57:42-03:00"
     },
     "teste_modelo": true,
-    "fixo": true
+    "fixo": true,
+    "publicado": {
+      "em": "2026-11-18T11:45:31-03:00",
+      "media_id": "17916646917503398",
+      "permalink": "https://www.instagram.com/reel/Df4wF_LnOyF/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
+    }
   },
   {
     "slug": "gta-6-twitch-alanzoka-4",
