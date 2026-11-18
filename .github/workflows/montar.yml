@@ -16,6 +16,10 @@ on:
         description: "Refazer em moldura simples branca: 'todos' ou slugs separados por vírgula (Diego, 18/11)"
         required: false
         default: ""
+      titulos:
+        description: "Refazer títulos genéricos pela regra de 18/11: 'todos' ou slugs separados por vírgula"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -53,7 +57,7 @@ jobs:
           pip install pyyaml
 
       - name: Instalar o navegador do gerador
-        if: steps.tem.outputs.videos != '0' || inputs.refazer != ''
+        if: steps.tem.outputs.videos != '0' || inputs.refazer != '' || inputs.titulos != ''
         run: |
           npm install --no-save --no-package-lock playwright@1
           npx playwright install --with-deps chromium
@@ -69,6 +73,14 @@ jobs:
         run: |
           pip install yt-dlp "opencv-python-headless<5"
           python -m scripts.social.refazer "$REFAZER"
+
+      - name: Refazer títulos genéricos
+        if: inputs.titulos != ''
+        env:
+          TITULOS: ${{ inputs.titulos }}
+        run: |
+          pip install yt-dlp "opencv-python-headless<5"
+          python -m scripts.social.titulos refazer "$TITULOS"
 
       # Barreira de nudez (Diego, 16/11): todo Reel agendado que ainda não passou pela
       # checagem visual é conferido; risco médio/alto sai da fila (scripts/social/seguranca.py).
