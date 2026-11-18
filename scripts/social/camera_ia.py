@@ -155,7 +155,84 @@ def limpar(video: Path) -> dict:
     return {"ok": True, "motivo": f"IA cortou a câmera ({r['motivo']})", "corte_ia": [x, y, cw, ch]}
 
 
+# ---------------------------------------------------------------------------
+# Formato dividido (Diego, 18/11, com print de referência): tela 9:16 sem moldura, a câmera
+# do streamer em cima (40%) e o jogo embaixo (60%), preenchendo tudo. Substitui o corte que
+# tirava a câmera.
+LARG, ALT_CAM, ALT_JOGO = 1080, 768, 1152
+APERTO = 12  # (de 1000) o Gemini devolve a caixa com folga; aperta um pouco para não pegar jogo
+
+
+def _par(v: int) -> int:
+    return max(2, v - v % 2)
+
+
+def caixas_divididas(w: int, h: int, caixa: list[int] | None) -> tuple[tuple, tuple | None]:
+    """(recorte do jogo, recorte da câmera ou None), cada um (x, y, largura, altura) em pixels."""
+    gh = h
+    gw = min(w, int(h * LARG / ALT_JOGO))
+    cam = None
+    if caixa:
+        y0, x0, y1, x1 = caixa
+        cx0, cy0 = max(0, int((x0 + APERTO) * w / 1000)), max(0, int((y0 + APERTO) * h / 1000))
+        cx1, cy1 = min(w, int((x1 - APERTO) * w / 1000)), min(h, int((y1 - APERTO) * h / 1000))
+        if cx1 - cx0 > 40 and cy1 - cy0 > 40:
+            cam = (cx0, cy0, _par(cx1 - cx0), _par(cy1 - cy0))
+    gx = (w - gw) // 2
+    if cam:  # afasta o recorte do jogo da câmera, se der (câmera costuma ficar no canto)
+        a0, a1 = cam[0], cam[0] + cam[2]
+        if gx < a1 and gx + gw > a0:
+            esq, dir_ = a0 - gw, a1  # jogo todo à esquerda ou à direita da câmera
+            opcoes = [x for x in (esq, dir_) if 0 <= x <= w - gw]
+            if opcoes:
+                gx = min(opcoes, key=lambda x: abs(x - (w - gw) // 2))
+    return (gx, 0, _par(gw), _par(gh)), cam
+
+
+def montar_dividido(video: Path, saida: Path, caixa: list[int] | None, max_seg: int = 59) -> dict:
+    w, h = _tamanho(video)
+    jogo, cam = caixas_divididas(w, h, caixa)
+    gx, gy, gw, gh = jogo
+    baixo = f"crop={gw}:{gh}:{gx}:{gy},scale={LARG}:{ALT_JOGO}:force_original_aspect_ratio=increase,crop={LARG}:{ALT_JOGO}"
+    if cam:
+        x, y, cw, ch = cam
+        filtro = (f"[0:v]split[a][b];[a]crop={cw}:{ch}:{x}:{y},scale={LARG}:{ALT_CAM}:force_original_aspect_ratio=increase,"
+                  f"crop={LARG}:{ALT_CAM},setsar=1[cima];[b]{baixo},setsar=1[baixo];[cima][baixo]vstack,fps=30,format=yuv420p[v]")
+    else:  # sem câmera: o jogo preenche a tela inteira
+        filtro = (f"[0:v]crop={_par(min(w, int(h * 9 / 16)))}:{h}:{(w - min(w, int(h * 9 / 16))) // 2}:0,"
+                  f"scale={LARG}:1920,setsar=1,fps=30,format=yuv420p[v]")
+    f = subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(video), "-t", str(max_seg),
+                        "-filter_complex", filtro, "-map", "[v]", "-map", "0:a?", "-c:v", "libx264", "-preset", "veryfast",
+                        "-crf", "21", "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(saida)],
+                       capture_output=True, text=True)
+    if f.returncode or not saida.exists():
+        return {"ok": False, "motivo": f"ffmpeg falhou: {f.stderr.strip()[-160:]}"}
+    return {"ok": True, "jogo": list(jogo), "camera": list(cam) if cam else None}
+
+
+def dividir(bruto: Path, saida: Path) -> dict:
+    """Confere o clipe (cutscene/menu = descarta) e monta no formato dividido."""
+    r = perguntar(bruto)
+    if r["pessoa_real"] is None:
+        return {"ok": False, "motivo": f"checagem da IA indisponível ({r['motivo']}): descartado por segurança"}
+    if r.get("conteudo") in ("cutscene", "menu"):
+        return {"ok": False, "motivo": f"IA: {r['conteudo']}, não é gameplay ({r['motivo']})"}
+    caixa = None
+    if r["pessoa_real"] and r["caixas"]:
+        caixa = max(r["caixas"], key=lambda c: (c[2] - c[0]) * (c[3] - c[1]))
+        if (caixa[2] - caixa[0]) * (caixa[3] - caixa[1]) > 600_000:
+            return {"ok": False, "motivo": f"IA: câmera ocupa a tela quase toda, não é jogo ({r['motivo']})"}
+    m = montar_dividido(bruto, saida, caixa)
+    if not m["ok"]:
+        return m
+    tipo = "câmera em cima, jogo embaixo" if m["camera"] else "sem câmera: só o jogo"
+    return {"ok": True, "motivo": f"formato dividido ({tipo}; {r['motivo']})", "dividido": m}
+
+
 if __name__ == "__main__":
     ent, sai = Path(sys.argv[1]), Path(sys.argv[2])
-    shutil.copy(ent, sai)
-    print(json.dumps(limpar(sai), ensure_ascii=False))
+    if len(sys.argv) > 3 and sys.argv[3] == "dividido":
+        print(json.dumps(dividir(ent, sai), ensure_ascii=False))
+    else:
+        shutil.copy(ent, sai)
+        print(json.dumps(limpar(sai), ensure_ascii=False))

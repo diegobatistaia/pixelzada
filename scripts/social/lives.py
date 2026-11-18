@@ -3,9 +3,9 @@
 A plateia de cada live cria "clipes" dos melhores momentos. A partir das 8h de 18/11
 (o jogo libera na Nova Zelândia), toda rodada da pesquisa (de 30 em 30 min) pega os
 clipes de GTA 6 mais vistos das últimas horas na Twitch (API oficial, grátis) e, quando
-der, na Kick. Cada clipe passa pelo recorte da câmera do streamer (scripts/social/rosto.py:
-só a imagem do jogo; se não der para tirar o rosto, o clipe é descartado) e cai em
-social/reels/entrada/, de onde a montagem de sempre põe na identidade e agenda. No pico
+der, na Kick. Com lives.formato = dividido (Diego, 18/11) o clipe já sai pronto: câmera do
+streamer em cima, jogo embaixo, sem moldura (camera_ia.dividir); sem isso, passa pelo recorte
+da câmera (rosto.py + camera_ia.limpar). Cai em social/reels/entrada/ e a montagem agenda. No pico
 (18 a 22/11) o Reel novo de GTA 6 fura a fila (montagem.furar_fila).
 
 Tudo fica no bloco `lives` de social/pesquisa/config.yaml. Chave da Twitch: secrets
@@ -21,6 +21,7 @@ No GitHub Actions:
                                                      GTA nos últimos 30 dias) e lista quem faz mais
                                                      clipes de GTA em português; grava
                                                      social/pesquisa/lives-canais.json
+    python -m scripts.social.lives refazer           refaz no formato dividido os cortes da fila
 """
 from __future__ import annotations
 
@@ -196,7 +197,7 @@ def escolher(cfg: dict, clipes: list[dict], ja: set[str]) -> list[dict]:
     return sorted(bons, key=lambda c: (not eh_reserva(lv, c), nota(c)), reverse=True)
 
 
-def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False) -> dict:
+def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool = False) -> dict:
     """Baixa, tira a câmera do streamer e, se `mutar`, tira o áudio (clipe de reserva em
     outro idioma: fica só a imagem do jogo; a montagem põe trilha muda)."""
     with tempfile.TemporaryDirectory() as tmp:
@@ -206,8 +207,15 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False) -> dict:
         if not bruto.exists() or bruto.stat().st_size < 20000:
             return {"ok": False, "motivo": f"download falhou: {(r.stderr or r.stdout).strip()[-160:]}"}
         destino.parent.mkdir(parents=True, exist_ok=True)
-        res = rosto.limpar(bruto, destino)
-        if res.get("ok") and destino.exists():
+        if dividido:
+            # Diego, 18/11: câmera do streamer em cima, jogo embaixo, sem moldura (Reel já pronto)
+            res = camera_ia.dividir(bruto, destino)
+            if not res["ok"]:
+                destino.unlink(missing_ok=True)
+                return res
+        else:
+            res = rosto.limpar(bruto, destino)
+        if not dividido and res.get("ok") and destino.exists():
             # 2ª barreira: o Gemini confere se sobrou câmera/pessoa real (na dúvida, descarta)
             ia = camera_ia.limpar(destino)
             if not ia["ok"]:
@@ -224,6 +232,46 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False) -> dict:
             shutil.move(str(mudo), str(destino))
             res = {**res, "motivo": f"{res.get('motivo', '')} (sem áudio: clipe em {c.get('idioma')})".strip()}
         return res
+
+
+def eh_dividido(lv: dict) -> bool:
+    return (lv.get("formato") or "") == "dividido"
+
+
+def refazer(cfg: dict) -> int:
+    """Refaz no formato dividido os cortes da Twitch que já estão na fila e ainda não saíram
+    (Diego, 18/11). Baixa de novo o clipe original pelo link guardado na fila."""
+    from . import reels as R
+    fila = R.carregar()
+    agora = datetime.now(TZ)
+    feitos = 0
+    for item in fila:
+        o = item.get("origem") or {}
+        link = o.get("link") or ""
+        if item.get("status") != "agendado" or "twitch.tv" not in link or item.get("estilo") == "Dividido":
+            continue
+        quando = datetime.fromisoformat(f"{item['data']}T{item['horario']}:00").replace(tzinfo=TZ)
+        if quando < agora + timedelta(minutes=4):
+            print(f"  {item['slug']}: sai agora ({item['horario']}), não dá tempo")
+            continue
+        mp4 = R.PASTA / "videos" / f"{item['slug']}.mp4"
+        with tempfile.TemporaryDirectory() as tmp:
+            novo = Path(tmp) / "novo.mp4"
+            c = {"link": link, "idioma": None}
+            r = baixar_e_limpar(c, novo, dividido=True)
+            print(f"  {item['slug']} ({item['data']} {item['horario']}): {r['motivo']}")
+            if not r["ok"] or not novo.exists():
+                continue
+            shutil.copy(novo, mp4)
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", "1", "-i", str(mp4), "-frames:v", "1", "-q:v", "2",
+                            str(mp4.with_suffix(".jpg"))], check=False)
+        item["estilo"] = "Dividido"
+        item.setdefault("etiquetas", {})["moldura"] = "dividido"
+        item["checagem"] = None  # a barreira de nudez confere o vídeo novo
+        feitos += 1
+    R.salvar(fila)
+    print(f"{feitos} corte(s) refeito(s) no formato dividido")
+    return 0
 
 
 def nome_arquivo(pasta: Path, n: int, c: dict) -> Path:
@@ -290,11 +338,15 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
             break
         tentados += 1
         destino = nome_arquivo(pasta, 90 + tentados, c)
-        r = baixar_e_limpar(c, destino, mutar=lv.get("mutar_reserva", True) and eh_reserva(lv, c))
+        r = baixar_e_limpar(c, destino, mutar=lv.get("mutar_reserva", True) and eh_reserva(lv, c),
+                            dividido=eh_dividido(lv))
         ja.update({c["id"], c["link"]})  # descartado também não volta
         print(f"  {c['fonte']} {c['canal']} ({c['views']} views): {r['motivo']}")
         if r["ok"]:
-            destino.with_suffix(".json").write_text(json.dumps(info_entrada(cfg, c), ensure_ascii=False, indent=2) + "\n",
+            info = info_entrada(cfg, c)
+            if eh_dividido(lv):
+                info["pronto"] = "dividido"  # a montagem não põe moldura nem título por cima
+            destino.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n",
                                                     encoding="utf-8")
             feitos += 1
             por_canal[c["canal"].lower()] = por_canal.get(c["canal"].lower(), 0) + 1
@@ -449,10 +501,13 @@ def main(argv: list[str] | None = None) -> int:
     k.add_argument("logins", nargs="*", help="logins da Twitch (vazio = favoritos do config)")
     k.add_argument("--jogos", default="Grand Theft Auto V|Grand Theft Auto VI")
     k.add_argument("--dias", type=int, default=30)
+    sub.add_parser("refazer", help="refaz no formato dividido os cortes da Twitch que estão na fila")
     args = ap.parse_args(argv)
     cfg = Q.carregar_config(Path(args.config))
     if args.cmd == "rodada":
         return rodada(cfg, args.forcar)
+    if args.cmd == "refazer":
+        return refazer(cfg)
     if args.cmd == "canais":
         return canais(cfg, args.logins, [j for j in args.jogos.split("|") if j], args.dias)
     return teste(cfg, args.jogo)
