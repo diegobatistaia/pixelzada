@@ -213,6 +213,12 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool 
             if not res["ok"]:
                 destino.unlink(missing_ok=True)
                 return res
+            # Diego aprovou 3 modelos (18/11): o original e as falas ficam ao lado para a montagem
+            # escolher o modelo 3 (desfocado + título + fala). Clipe de reserva (outro idioma) não.
+            if not mutar:
+                shutil.copy(bruto, original_de(destino))
+                res["falas"] = camera_ia.transcrever(bruto)
+            res["camera"] = bool((res.get("dividido") or {}).get("camera"))
         else:
             res = rosto.limpar(bruto, destino)
         if not dividido and res.get("ok") and destino.exists():
@@ -232,6 +238,10 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool 
             shutil.move(str(mudo), str(destino))
             res = {**res, "motivo": f"{res.get('motivo', '')} (sem áudio: clipe em {c.get('idioma')})".strip()}
         return res
+
+
+def original_de(mp4: Path) -> Path:
+    return mp4.with_name(mp4.stem + "-original.mp4")
 
 
 def eh_dividido(lv: dict) -> bool:
@@ -390,7 +400,10 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
         if r["ok"]:
             info = info_entrada(cfg, c)
             if eh_dividido(lv):
-                info["pronto"] = "dividido"  # a montagem não põe moldura nem título por cima
+                info["pronto"] = "dividido"  # a montagem escolhe um dos 3 modelos do Diego
+                info["camera"] = r.get("camera", True)
+                if r.get("falas"):
+                    info["falas"] = r["falas"]
             destino.with_suffix(".json").write_text(json.dumps(info, ensure_ascii=False, indent=2) + "\n",
                                                     encoding="utf-8")
             feitos += 1
