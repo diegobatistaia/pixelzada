@@ -6070,7 +6070,7 @@
     "slug": "gta-6-twitch-alanzoka-5",
     "data": "2026-11-18",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "Alan se diverte olhando as redes sociais bizarras do GTA 6 📱\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6093,6 +6093,19 @@
       "motivo": "apresenta apenas um streamer com fones de ouvido segurando um celular mostrando capturas de tela e publicações",
       "por": "imagem",
       "em": "2026-11-18T13:52:51-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T16:01:00-03:00",
+      "media_id": "17934819123163508",
+      "permalink": "https://www.instagram.com/reel/Df5NVB7oBSL/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
