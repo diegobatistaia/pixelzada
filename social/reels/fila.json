@@ -6431,33 +6431,6 @@
     }
   },
   {
-    "slug": "gta6-12-curiosidades-video-longo",
-    "data": "2026-11-18",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Vídeo longo horizontal",
-    "legenda": "12 coisas que GTA 6 tem e nenhum trailer mostrou\n\nGTA 6 já está nas mãos dos jogadores e a gente separou 12 curiosidades do mapa e do mundo aberto de Leonida, tudo com imagens reais do jogo e sem spoiler da história.\n\n#gta6 #gtavi #leonida #pixelzada",
-    "tentativas": 0,
-    "fixo": true,
-    "origem": {
-      "motor": false,
-      "pedido_diego": "18/11: postar o vídeo longo de 6 min no Instagram, na horizontal",
-      "perfil": "pixelzada",
-      "titulo": "youtube"
-    },
-    "etiquetas": {
-      "formato": "video-longo",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "horizontal"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
-      "por": "manual"
-    }
-  },
-  {
     "slug": "hoje-ultimo-dia-sem-gta6",
     "data": "2026-11-18",
     "horario": "21:30",
@@ -6486,35 +6459,6 @@
       "em": "2026-11-17T22:11:07.286278+00:00"
     },
     "fixo": true
-  },
-  {
-    "slug": "gta6-corte-alanzoka",
-    "data": "2026-11-18",
-    "horario": "22:00",
-    "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/BadBoldWeaselBabyRage-tbhs_f-k40WXDdwM",
-      "titulo": "canal",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo de corrida",
-      "por": "imagem",
-      "em": "2026-11-18T20:14:41-03:00"
-    }
   },
   {
     "slug": "faltam-algumas-horas-gta6",
