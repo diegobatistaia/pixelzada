@@ -1,0 +1,476 @@
+{
+ "titulo": "GTA 6 JÁ ESTÁ NAS RUAS: 12 curiosidades das primeiras horas (imagens reais)",
+ "so_gemini": true,
+ "musicas": [
+  "balance-wheel.mp3",
+  "breaking-point.mp3"
+ ],
+ "roteiro": "scripts/longo/doc/roteiro-gta6-12-curiosidades.txt",
+ "descricao": "GTA 6 já está nas mãos dos jogadores e a gente separou 12 curiosidades do mundo aberto de Leonida com imagens reais do jogo: academia com contador de repetições, pedágio na ponte, carro na areia, trânsito vivo, estrelas de procurado, pátio da polícia, oficina de pintura, Ammu-Nation, lojas, bares e o pôr do sol. Sem spoiler da história.",
+ "tags": "#GTA6 #GTAVI #Leonida #ViceCity #Pixelzada",
+ "capa": {
+  "imagem": "Jason_Lucia_Rooftop",
+  "linhas": [
+   [
+    "GTA 6",
+    160
+   ],
+   [
+    "12 CURIOSIDADES",
+    100
+   ]
+  ],
+  "etiqueta": "IMAGENS REAIS"
+ },
+ "cenas": [
+  {
+   "id": "gancho",
+   "planos": [
+    {
+     "v": "w:gta6news/t069"
+    },
+    {
+     "v": "w:gta6news/t010",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t034",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t065",
+     "f": 4
+    },
+    {
+     "v": "o:Vice_City_01",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "GTA 6",
+     "s": "imagens reais do jogo",
+     "f": 0,
+     "cor": "rosa",
+     "pos": "centro",
+     "tam": 190,
+     "dur": 2.2
+    },
+    {
+     "t": "12 curiosidades",
+     "s": "do mundo de Leonida",
+     "f": 5,
+     "cor": "laranja"
+    }
+   ]
+  },
+  {
+   "id": "abertura",
+   "planos": [
+    {
+     "v": "i:12 CURIOSIDADES",
+     "peso": 2.6
+    },
+    {
+     "v": "w:gta6news/t079",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t028",
+     "f": 3
+    }
+   ],
+   "destaques": [],
+   "capitulo": "Abertura"
+  },
+  {
+   "id": "academia",
+   "planos": [
+    {
+     "v": "w:gta6news/t009"
+    },
+    {
+     "v": "w:gta6news/t010",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t012",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t014"
+    },
+    {
+     "v": "w:gta6news/t015",
+     "f": 3
+    },
+    {
+     "v": "w:gta6news/t016",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Contador de repetições",
+     "s": "na tela",
+     "f": 2,
+     "cor": "ciano"
+    }
+   ],
+   "capitulo": "1. A academia voltou"
+  },
+  {
+   "id": "mapa",
+   "planos": [
+    {
+     "v": "w:gta6news/t020"
+    },
+    {
+     "v": "w:gta6news/t017",
+     "f": 1
+    },
+    {
+     "v": "m:todas",
+     "f": 3
+    },
+    {
+     "v": "w:gta6news/t021",
+     "f": 4
+    },
+    {
+     "v": "w:gta6news/t022",
+     "f": 6
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Leonida",
+     "s": "o estado inteiro no menu",
+     "f": 0,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "2. Leonida no mapa"
+  },
+  {
+   "id": "pedagio",
+   "planos": [
+    {
+     "v": "w:gta6news/t032"
+    },
+    {
+     "v": "w:gta6news/t034",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t036",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t037",
+     "f": 4
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Pedágio",
+     "s": "muito Flórida",
+     "f": 0,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "3. Pedágio na ponte"
+  },
+  {
+   "id": "areia",
+   "planos": [
+    {
+     "v": "w:gta6news/t035"
+    },
+    {
+     "v": "w:gta6news/t011",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t018",
+     "f": 3
+    },
+    {
+     "v": "w:gta6news/t016",
+     "f": 4
+    }
+   ],
+   "destaques": [],
+   "capitulo": "4. Carro na areia"
+  },
+  {
+   "id": "transito",
+   "planos": [
+    {
+     "v": "w:gta6news/t052"
+    },
+    {
+     "v": "w:gta6news/t053",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t059",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t074",
+     "f": 3
+    },
+    {
+     "v": "w:gta6news/t054",
+     "f": 4
+    },
+    {
+     "v": "w:gta6news/t026",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Ônibus, caminhão e trem",
+     "f": 1,
+     "cor": "ciano"
+    }
+   ],
+   "capitulo": "5. Trânsito vivo"
+  },
+  {
+   "id": "policia",
+   "planos": [
+    {
+     "v": "w:gta6news/t065"
+    },
+    {
+     "v": "w:gta6news/t066",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t070",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t074",
+     "f": 3
+    },
+    {
+     "v": "w:gta6news/t068",
+     "f": 4
+    },
+    {
+     "v": "w:gta6news/t071",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Procurado",
+     "s": "perseguição de cinema",
+     "f": 0,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "6. Estrelas de procurado"
+  },
+  {
+   "id": "patio",
+   "planos": [
+    {
+     "v": "w:gta6news/t043"
+    },
+    {
+     "v": "w:gta6news/t044",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t049",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t063",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Police Impound",
+     "s": "pátio de apreensão",
+     "f": 0,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "7. Pátio da polícia"
+  },
+  {
+   "id": "guincho",
+   "planos": [
+    {
+     "v": "w:gta6news/t064"
+    },
+    {
+     "v": "w:gta6news/t049",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t053",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Roadside Assistance",
+     "f": 1,
+     "cor": "ciano"
+    }
+   ],
+   "capitulo": "8. Assistência na estrada"
+  },
+  {
+   "id": "pintura",
+   "planos": [
+    {
+     "v": "w:gta6news/t075"
+    },
+    {
+     "v": "w:gta6news/t067",
+     "f": 2
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Troca de cor",
+     "s": "o clássico da série",
+     "f": 1,
+     "cor": "lima"
+    }
+   ],
+   "capitulo": "9. Oficina de pintura"
+  },
+  {
+   "id": "armas",
+   "planos": [
+    {
+     "v": "w:gta6news/t029"
+    },
+    {
+     "v": "w:gta6news/t062",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t080",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Ammu-Nation",
+     "f": 0,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "10. Ammu-Nation"
+  },
+  {
+   "id": "lojas",
+   "planos": [
+    {
+     "v": "w:gta6news/t023"
+    },
+    {
+     "v": "w:gta6news/t024",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t025",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t007",
+     "f": 3
+    },
+    {
+     "v": "w:gta6news/t045",
+     "f": 4
+    },
+    {
+     "v": "w:gta6news/t027",
+     "f": 5
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Pindayho",
+     "s": "bar na beira do mar",
+     "f": 1,
+     "cor": "laranja"
+    }
+   ],
+   "capitulo": "11. Lojas e bares"
+  },
+  {
+   "id": "por-do-sol",
+   "planos": [
+    {
+     "v": "w:gta6news/t079"
+    },
+    {
+     "v": "w:gta6news/t081",
+     "f": 1
+    },
+    {
+     "v": "w:gta6news/t069",
+     "f": 2
+    },
+    {
+     "v": "w:gta6news/t072"
+    },
+    {
+     "v": "w:gta6news/t073",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Pôr do sol",
+     "s": "o clima dos trailers",
+     "f": 0,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "12. O pôr do sol"
+  },
+  {
+   "id": "fechamento",
+   "planos": [
+    {
+     "v": "w:gta6news/t066"
+    },
+    {
+     "v": "w:gta6news/t079",
+     "f": 1
+    },
+    {
+     "v": "o:Jason_Lucia_Rooftop",
+     "f": 2
+    },
+    {
+     "v": "o:Vice_City_01",
+     "f": 3
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Inscreva-se",
+     "s": "e comente: qual você vai testar?",
+     "f": 2,
+     "cor": "rosa"
+    }
+   ],
+   "capitulo": "Até o próximo"
+  }
+ ]
+}
