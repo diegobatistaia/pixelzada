@@ -1,0 +1,21 @@
+{
+ "voz": "Google Gemini TTS (gemini-3.1-flash-tts-preview, voz Charon)",
+ "pedida": "Charon",
+ "cenas": {
+  "gancho": "e0e2e85fd3b8decc",
+  "abertura": "6f5fb8fddf07cc06",
+  "academia": "a37eb5e75fead37c",
+  "mapa": "f8721e094ad28a85",
+  "pedagio": "aed17f4e7ef53e9f",
+  "areia": "b3da159d2a95c67a",
+  "transito": "8ebe4bc96a19f563",
+  "policia": "4b32fe9850403560",
+  "patio": "b7319b038fab6981",
+  "guincho": "ae188359084147c2",
+  "pintura": "f8c2ad46881d361c",
+  "armas": "91644aa5b75356d4",
+  "lojas": "c699759f8624c966",
+  "por-do-sol": "63c3607634c2a38f",
+  "fechamento": "c27cc0b2ccdda227"
+ }
+}

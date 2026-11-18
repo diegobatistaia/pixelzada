@@ -1,0 +1,323 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Legenda,Archivo SemiBold,40,&H00FFFFFF,&H00FFFFFF,&H00240612,&H96000000,0,0,0,0,100,100,0.5,0,1,2.2,1.5,2,200,200,62,1
+Style: Grande,Anton,150,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,0,100,100,1,0,1,4,6,1,110,110,250,1
+Style: Apoio,Archivo SemiBold,44,&H00D6E62E,&H00FFFFFF,&H00240612,&HC8240612,0,0,0,0,100,100,0.5,0,3,10,0,1,118,110,190,1
+Style: Etiqueta,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,&H008B3DFF,&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,252,52,46,1
+Style: EtiquetaReal,Silkscreen,24,&H00240612,&H00FFFFFF,&H00D6E62E,&H00000000,0,0,0,0,100,100,1,0,3,7,0,7,252,52,46,1
+Style: Capitulo,Silkscreen,24,&H00FFFFFF,&H00FFFFFF,&H00240612,&H00000000,0,0,0,0,100,100,1,0,3,7,0,9,52,190,48,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.26,Legenda,,0,0,0,,GTA 6 finalmente saiu dos trailers e caiu na
+Dialogue: 0,0:00:03.28,0:00:04.72,Legenda,,0,0,0,,mão dos jogadores.
+Dialogue: 0,0:00:04.74,0:00:07.26,Legenda,,0,0,0,,E nas primeiras horas já deu para ver coisas
+Dialogue: 0,0:00:07.28,0:00:08.89,Legenda,,0,0,0,,que nenhum trailer mostrou.
+Dialogue: 0,0:00:08.91,0:00:11.58,Legenda,,0,0,0,,Uma academia em que o jogo conta as suas
+Dialogue: 0,0:00:11.60,0:00:12.46,Legenda,,0,0,0,,repetições.
+Dialogue: 0,0:00:12.48,0:00:14.13,Legenda,,0,0,0,,Pedágio no meio da ponte.
+Dialogue: 0,0:00:14.15,0:00:16.51,Legenda,,0,0,0,,E uma polícia que não deixa você em paz.
+Dialogue: 0,0:00:16.53,0:00:19.50,Legenda,,0,0,0,,Neste vídeo eu separei doze curiosidades do
+Dialogue: 0,0:00:19.52,0:00:22.42,Legenda,,0,0,0,,mundo de Leonida, todas com imagem real do
+Dialogue: 0,0:00:22.44,0:00:22.94,Legenda,,0,0,0,,jogo.
+Dialogue: 1,0:00:00.15,0:00:04.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:04.89,0:00:08.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:09.06,0:00:14.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:14.30,0:00:16.43,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:16.68,0:00:23.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 2,0:00:00.15,0:00:02.35,Grande,,0,0,0,,{\an5\pos(960,470)\fs190\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H008B3DFF\shad6\4c&H40240612}GTA 6
+Dialogue: 2,0:00:00.40,0:00:02.35,Apoio,,0,0,0,,{\an5\pos(960,625)\fad(150,250)}imagens reais do jogo
+Dialogue: 2,0:00:16.68,0:00:20.28,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}12 CURIOSIDADES
+Dialogue: 2,0:00:16.88,0:00:20.28,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}do mundo de Leonida
+Dialogue: 0,0:00:23.31,0:00:25.17,Legenda,,0,0,0,,Aqui é a Pixelzada.
+Dialogue: 0,0:00:25.19,0:00:27.30,Legenda,,0,0,0,,Se você ainda não começou a jogar, fica
+Dialogue: 0,0:00:27.32,0:00:29.69,Legenda,,0,0,0,,tranquilo: aqui não tem spoiler da história.
+Dialogue: 0,0:00:29.71,0:00:32.38,Legenda,,0,0,0,,É só o mundo aberto, as ruas e os detalhes que
+Dialogue: 0,0:00:32.40,0:00:34.53,Legenda,,0,0,0,,a Rockstar escondeu em cada esquina.
+Dialogue: 0,0:00:34.55,0:00:35.97,Legenda,,0,0,0,,Bora para a lista.
+Dialogue: 1,0:00:25.34,0:00:34.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:34.70,0:00:36.24,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:00:23.00,0:00:23.62,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:23.04,0:00:23.66,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:23.09,0:00:23.71,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:00:23.31,0:00:36.34,Capitulo,,0,0,0,,{\fad(300,300)}ABERTURA
+Dialogue: 0,0:00:36.34,0:00:39.52,Legenda,,0,0,0,,Primeira curiosidade: a academia voltou, e
+Dialogue: 0,0:00:39.54,0:00:41.22,Legenda,,0,0,0,,muito mais detalhada.
+Dialogue: 0,0:00:41.24,0:00:43.67,Legenda,,0,0,0,,Num deck de madeira, bem na beira da água, dá
+Dialogue: 0,0:00:43.69,0:00:46.02,Legenda,,0,0,0,,para treinar com kettlebell, fazer supino e
+Dialogue: 0,0:00:46.04,0:00:47.34,Legenda,,0,0,0,,até levantamento terra.
+Dialogue: 0,0:00:47.36,0:00:50.13,Legenda,,0,0,0,,E o jogo mostra um contador de repetições na
+Dialogue: 0,0:00:50.15,0:00:52.92,Legenda,,0,0,0,,tela, como se fosse um aplicativo de treino.
+Dialogue: 0,0:00:52.94,0:00:55.44,Legenda,,0,0,0,,Quem jogou San Andreas lembra que o personagem
+Dialogue: 0,0:00:55.46,0:00:57.24,Legenda,,0,0,0,,ganhava músculo indo à academia.
+Dialogue: 0,0:00:57.26,0:01:00.02,Legenda,,0,0,0,,Se o treino muda alguma coisa em GTA 6, a
+Dialogue: 0,0:01:00.04,0:01:03.12,Legenda,,0,0,0,,gente ainda vai descobrir, mas a vista da baía
+Dialogue: 0,0:01:03.14,0:01:05.96,Legenda,,0,0,0,,enquanto você puxa ferro já vale a visita.
+Dialogue: 1,0:00:36.49,0:00:41.14,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:41.39,0:00:47.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:47.51,0:00:50.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:50.30,0:00:52.84,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:53.09,0:00:57.16,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:00:57.41,0:01:06.23,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:00:36.03,0:00:36.65,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:36.07,0:00:36.69,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:00:36.12,0:00:36.74,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:00:36.34,0:01:06.33,Capitulo,,0,0,0,,{\fad(300,300)}1. A ACADEMIA VOLTOU
+Dialogue: 2,0:00:47.51,0:00:51.11,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}CONTADOR DE REPETIÇÕES
+Dialogue: 2,0:00:47.71,0:00:51.11,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}na tela
+Dialogue: 0,0:01:06.33,0:01:07.14,Legenda,,0,0,0,,Segunda: o mapa.
+Dialogue: 0,0:01:07.16,0:01:10.44,Legenda,,0,0,0,,No menu do jogo, Leonida aparece inteira, com
+Dialogue: 0,0:01:10.46,0:01:13.20,Legenda,,0,0,0,,Vice City, a costa e as ilhas do sul.
+Dialogue: 0,0:01:13.22,0:01:15.47,Legenda,,0,0,0,,É a primeira vez que dá para ver o estado
+Dialogue: 0,0:01:15.49,0:01:17.90,Legenda,,0,0,0,,completo de dentro do jogo, e não só em arte
+Dialogue: 0,0:01:17.92,0:01:18.78,Legenda,,0,0,0,,de divulgação.
+Dialogue: 0,0:01:18.80,0:01:21.28,Legenda,,0,0,0,,Vice City fica no litoral, cercada de água, e
+Dialogue: 0,0:01:21.30,0:01:23.78,Legenda,,0,0,0,,as ilhas se espalham para baixo, do jeito que
+Dialogue: 0,0:01:23.80,0:01:26.33,Legenda,,0,0,0,,a Rockstar tinha mostrado antes do lançamento.
+Dialogue: 0,0:01:26.35,0:01:29.28,Legenda,,0,0,0,,E repara no tamanho: só a parte da cidade já
+Dialogue: 0,0:01:29.30,0:01:31.41,Legenda,,0,0,0,,ocupa um pedaço enorme da tela.
+Dialogue: 0,0:01:31.43,0:01:33.94,Legenda,,0,0,0,,E o melhor: o mapa não fica só no menu.
+Dialogue: 0,0:01:33.96,0:01:36.35,Legenda,,0,0,0,,Na hora de dirigir, o GPS desenha a rota na
+Dialogue: 0,0:01:36.37,0:01:38.67,Legenda,,0,0,0,,tela e o celular do personagem aparece no
+Dialogue: 0,0:01:38.69,0:01:41.19,Legenda,,0,0,0,,canto, do jeito que a gente usa no dia a dia.
+Dialogue: 1,0:01:06.48,0:01:12.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:12.71,0:01:18.70,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:18.95,0:01:26.25,Etiqueta,,0,0,0,,{\fad(200,150)}MAPA
+Dialogue: 1,0:01:26.50,0:01:33.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:34.11,0:01:41.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:01:06.02,0:01:06.64,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:06.06,0:01:06.68,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:06.11,0:01:06.73,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:01:06.33,0:01:41.56,Capitulo,,0,0,0,,{\fad(300,300)}2. LEONIDA NO MAPA
+Dialogue: 2,0:01:06.48,0:01:10.08,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LEONIDA
+Dialogue: 2,0:01:06.68,0:01:10.08,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}o estado inteiro no menu
+Dialogue: 0,0:01:41.56,0:01:44.49,Legenda,,0,0,0,,Terceira: ponte com cabine de pedágio.
+Dialogue: 0,0:01:44.51,0:01:46.82,Legenda,,0,0,0,,Atravessando a água de picape, aparece uma
+Dialogue: 0,0:01:46.84,0:01:48.84,Legenda,,0,0,0,,praça de pedágio no meio do caminho.
+Dialogue: 0,0:01:48.86,0:01:51.12,Legenda,,0,0,0,,Parece um detalhe pequeno, mas é muito
+Dialogue: 0,0:01:51.14,0:01:53.84,Legenda,,0,0,0,,Flórida: por lá, um monte de estradas e pontes
+Dialogue: 0,0:01:53.86,0:01:54.57,Legenda,,0,0,0,,são pagas.
+Dialogue: 0,0:01:54.59,0:01:56.76,Legenda,,0,0,0,,A Rockstar copiou até isso.
+Dialogue: 0,0:01:56.78,0:01:59.40,Legenda,,0,0,0,,Agora fica a pergunta que todo jogador de GTA
+Dialogue: 0,0:01:59.42,0:02:01.87,Legenda,,0,0,0,,vai fazer: alguém vai parar para pagar, ou
+Dialogue: 0,0:02:01.89,0:02:03.74,Legenda,,0,0,0,,todo mundo vai furar a cancela?
+Dialogue: 1,0:01:41.71,0:01:44.41,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:44.66,0:01:48.76,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:49.01,0:01:56.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:56.93,0:02:04.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:01:41.25,0:01:41.87,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:41.29,0:01:41.91,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:41.34,0:01:41.96,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:01:41.56,0:02:04.11,Capitulo,,0,0,0,,{\fad(300,300)}3. PEDÁGIO NA PONTE
+Dialogue: 2,0:01:41.71,0:01:45.31,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}PEDÁGIO
+Dialogue: 2,0:01:41.91,0:01:45.31,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}muito Flórida
+Dialogue: 0,0:02:04.11,0:02:06.94,Legenda,,0,0,0,,Quarta: dá para descer com o carro na areia,
+Dialogue: 0,0:02:06.96,0:02:08.40,Legenda,,0,0,0,,bem na beira da água.
+Dialogue: 0,0:02:08.42,0:02:11.35,Legenda,,0,0,0,,A picape perde velocidade, o pneu afunda e a
+Dialogue: 0,0:02:11.37,0:02:13.10,Legenda,,0,0,0,,direção fica mais pesada.
+Dialogue: 0,0:02:13.12,0:02:15.98,Legenda,,0,0,0,,Em GTA 5, a praia era quase só cenário.
+Dialogue: 0,0:02:16.00,0:02:18.89,Legenda,,0,0,0,,Aqui ela vira caminho, e já tem gente usando a
+Dialogue: 0,0:02:18.91,0:02:21.80,Legenda,,0,0,0,,areia para cortar trajeto e fugir do trânsito.
+Dialogue: 0,0:02:21.82,0:02:23.16,Legenda,,0,0,0,,E não é só a praia.
+Dialogue: 0,0:02:23.18,0:02:25.99,Legenda,,0,0,0,,Na beira da água tem casa de madeira, deck e
+Dialogue: 0,0:02:26.01,0:02:28.82,Legenda,,0,0,0,,garagem com barco guardado, aquele visual de
+Dialogue: 0,0:02:28.84,0:02:30.81,Legenda,,0,0,0,,quem mora na costa da Flórida.
+Dialogue: 1,0:02:04.26,0:02:13.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:13.27,0:02:15.90,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:16.15,0:02:21.72,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:21.97,0:02:31.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:02:03.80,0:02:04.42,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:03.84,0:02:04.46,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:03.89,0:02:04.51,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:02:04.11,0:02:31.18,Capitulo,,0,0,0,,{\fad(300,300)}4. CARRO NA AREIA
+Dialogue: 0,0:02:31.18,0:02:34.65,Legenda,,0,0,0,,Quinta: o trânsito está vivo de verdade.
+Dialogue: 0,0:02:34.67,0:02:36.87,Legenda,,0,0,0,,Ônibus escolar amarelo, caminhão de carga,
+Dialogue: 0,0:02:36.89,0:02:39.03,Legenda,,0,0,0,,carro puxando barco no reboque e até trem
+Dialogue: 0,0:02:39.05,0:02:40.12,Legenda,,0,0,0,,cruzando a avenida.
+Dialogue: 0,0:02:40.14,0:02:43.61,Legenda,,0,0,0,,Cada bairro tem um tipo de movimento
+Dialogue: 0,0:02:43.63,0:02:44.77,Legenda,,0,0,0,,diferente.
+Dialogue: 0,0:02:44.79,0:02:47.20,Legenda,,0,0,0,,Isso faz Leonida parecer uma cidade cheia
+Dialogue: 0,0:02:47.22,0:02:49.79,Legenda,,0,0,0,,mesmo quando você só está passando de carro,
+Dialogue: 0,0:02:49.81,0:02:51.00,Legenda,,0,0,0,,sem missão nenhuma.
+Dialogue: 0,0:02:51.02,0:02:53.95,Legenda,,0,0,0,,Tem rua de bairro tranquila, com casa baixa e
+Dialogue: 0,0:02:53.97,0:02:56.84,Legenda,,0,0,0,,gramado na frente, e tem avenida larga cheia
+Dialogue: 0,0:02:56.86,0:02:57.70,Legenda,,0,0,0,,de outdoor.
+Dialogue: 0,0:02:57.72,0:03:00.40,Legenda,,0,0,0,,Você muda de região e sente que mudou de
+Dialogue: 0,0:03:00.42,0:03:02.16,Legenda,,0,0,0,,lugar, não só de cenário.
+Dialogue: 1,0:02:31.33,0:02:34.57,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:34.82,0:02:40.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:40.29,0:02:44.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:44.94,0:02:50.92,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:51.17,0:02:57.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:57.87,0:03:02.43,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:02:30.87,0:02:31.49,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:30.91,0:02:31.53,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:30.96,0:02:31.58,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:02:31.18,0:03:02.53,Capitulo,,0,0,0,,{\fad(300,300)}5. TRÂNSITO VIVO
+Dialogue: 2,0:02:34.82,0:02:38.42,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}ÔNIBUS, CAMINHÃO E TREM
+Dialogue: 0,0:03:02.53,0:03:05.32,Legenda,,0,0,0,,Sexta: as estrelas de procurado continuam lá.
+Dialogue: 0,0:03:05.34,0:03:07.86,Legenda,,0,0,0,,Nas primeiras horas já teve muita fuga de
+Dialogue: 0,0:03:07.88,0:03:10.17,Legenda,,0,0,0,,carro esportivo vermelho pela cidade:
+Dialogue: 0,0:03:10.19,0:03:12.82,Legenda,,0,0,0,,desviando de cone em obra, cortando avenida
+Dialogue: 0,0:03:12.84,0:03:15.25,Legenda,,0,0,0,,com palmeira e passando colado no trem.
+Dialogue: 0,0:03:15.27,0:03:18.01,Legenda,,0,0,0,,Na tela, o sistema de estrelas parece o de
+Dialogue: 0,0:03:18.03,0:03:18.62,Legenda,,0,0,0,,sempre.
+Dialogue: 0,0:03:18.64,0:03:20.49,Legenda,,0,0,0,,Mas a perseguição ficou muito mais
+Dialogue: 0,0:03:20.51,0:03:22.97,Legenda,,0,0,0,,cinematográfica, com o pôr do sol no fundo e a
+Dialogue: 0,0:03:22.99,0:03:24.34,Legenda,,0,0,0,,cidade inteira reagindo.
+Dialogue: 0,0:03:24.36,0:03:26.91,Legenda,,0,0,0,,E repara como o carro reage: o esportivo
+Dialogue: 0,0:03:26.93,0:03:29.78,Legenda,,0,0,0,,derrapa nas curvas, perde traseira no asfalto
+Dialogue: 0,0:03:29.80,0:03:32.06,Legenda,,0,0,0,,e balança quando passa pelas obras.
+Dialogue: 0,0:03:32.08,0:03:35.51,Legenda,,0,0,0,,Dirigir em GTA 6 tem peso, e isso muda o jeito
+Dialogue: 0,0:03:35.53,0:03:36.35,Legenda,,0,0,0,,de fugir.
+Dialogue: 1,0:03:02.68,0:03:05.24,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:05.49,0:03:15.17,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:15.42,0:03:18.54,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:18.79,0:03:24.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:24.51,0:03:31.98,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:32.23,0:03:36.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:03:02.22,0:03:02.84,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:02.26,0:03:02.88,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:02.31,0:03:02.93,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:03:02.53,0:03:36.72,Capitulo,,0,0,0,,{\fad(300,300)}6. ESTRELAS DE PROCURADO
+Dialogue: 2,0:03:02.68,0:03:06.28,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}PROCURADO
+Dialogue: 2,0:03:02.88,0:03:06.28,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}perseguição de cinema
+Dialogue: 0,0:03:36.72,0:03:39.90,Legenda,,0,0,0,,Sétima: o pátio de apreensão da polícia.
+Dialogue: 0,0:03:39.92,0:03:42.42,Legenda,,0,0,0,,Tem um lugar inteiro com viaturas da polícia
+Dialogue: 0,0:03:42.44,0:03:45.04,Legenda,,0,0,0,,de Leonida, guinchos e carros parados atrás da
+Dialogue: 0,0:03:45.06,0:03:45.52,Legenda,,0,0,0,,cerca.
+Dialogue: 0,0:03:45.54,0:03:48.28,Legenda,,0,0,0,,Em GTA 5, quando você perdia o carro, ele ia
+Dialogue: 0,0:03:48.30,0:03:49.93,Legenda,,0,0,0,,parar num pátio parecido.
+Dialogue: 0,0:03:49.95,0:03:52.87,Legenda,,0,0,0,,Tudo indica que a ideia continua aqui, agora
+Dialogue: 0,0:03:52.89,0:03:55.82,Legenda,,0,0,0,,com muito mais detalhe e muito mais viatura.
+Dialogue: 1,0:03:36.87,0:03:39.82,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:40.07,0:03:45.44,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:45.69,0:03:49.85,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:50.10,0:03:56.09,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:03:36.41,0:03:37.03,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:36.45,0:03:37.07,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:36.50,0:03:37.12,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:03:36.72,0:03:56.19,Capitulo,,0,0,0,,{\fad(300,300)}7. PÁTIO DA POLÍCIA
+Dialogue: 2,0:03:36.87,0:03:40.47,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}POLICE IMPOUND
+Dialogue: 2,0:03:37.07,0:03:40.47,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}pátio de apreensão
+Dialogue: 0,0:03:56.19,0:03:58.86,Legenda,,0,0,0,,Oitava: assistência na estrada.
+Dialogue: 0,0:03:58.88,0:04:01.20,Legenda,,0,0,0,,Aparece um guincho com o nome Roadside
+Dialogue: 0,0:04:01.22,0:04:03.47,Legenda,,0,0,0,,Assistance, o famoso socorro de carro
+Dialogue: 0,0:04:03.49,0:04:04.16,Legenda,,0,0,0,,quebrado.
+Dialogue: 0,0:04:04.18,0:04:06.26,Legenda,,0,0,0,,Em Leonida até o trânsito tem gente
+Dialogue: 0,0:04:06.28,0:04:08.85,Legenda,,0,0,0,,trabalhando para resolver os problemas dele.
+Dialogue: 0,0:04:08.87,0:04:11.28,Legenda,,0,0,0,,É o tipo de coisa que você não percebe na
+Dialogue: 0,0:04:11.30,0:04:13.99,Legenda,,0,0,0,,primeira volta, mas que deixa o mundo com cara
+Dialogue: 0,0:04:14.01,0:04:14.93,Legenda,,0,0,0,,de lugar real.
+Dialogue: 1,0:03:56.34,0:03:58.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:59.03,0:04:08.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:09.02,0:04:15.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:03:55.88,0:03:56.50,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:55.92,0:03:56.54,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:55.97,0:03:56.59,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:03:56.19,0:04:15.30,Capitulo,,0,0,0,,{\fad(300,300)}8. ASSISTÊNCIA NA ESTRADA
+Dialogue: 2,0:03:59.03,0:04:02.63,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}ROADSIDE ASSISTANCE
+Dialogue: 0,0:04:15.30,0:04:18.31,Legenda,,0,0,0,,Nona: a oficina de pintura voltou.
+Dialogue: 0,0:04:18.33,0:04:20.64,Legenda,,0,0,0,,Dá para entrar com o carro e trocar a cor,
+Dialogue: 0,0:04:20.66,0:04:22.09,Legenda,,0,0,0,,aquele clássico da série.
+Dialogue: 0,0:04:22.11,0:04:24.46,Legenda,,0,0,0,,Serve para deixar o carro do seu jeito ou,
+Dialogue: 0,0:04:24.48,0:04:26.79,Legenda,,0,0,0,,como manda a tradição de GTA, para tentar
+Dialogue: 0,0:04:26.81,0:04:28.00,Legenda,,0,0,0,,despistar a polícia.
+Dialogue: 1,0:04:15.45,0:04:22.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:22.26,0:04:28.27,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:04:14.99,0:04:15.61,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:15.03,0:04:15.65,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:15.08,0:04:15.70,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:15.30,0:04:28.37,Capitulo,,0,0,0,,{\fad(300,300)}9. OFICINA DE PINTURA
+Dialogue: 2,0:04:18.48,0:04:22.08,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}TROCA DE COR
+Dialogue: 2,0:04:18.68,0:04:22.08,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}o clássico da série
+Dialogue: 0,0:04:28.37,0:04:31.39,Legenda,,0,0,0,,Décima: a Ammu-Nation também está lá.
+Dialogue: 0,0:04:31.41,0:04:34.09,Legenda,,0,0,0,,A loja de armas que aparece em quase todo GTA
+Dialogue: 0,0:04:34.11,0:04:36.85,Legenda,,0,0,0,,tem interior completo, com balcão, prateleiras
+Dialogue: 0,0:04:36.87,0:04:38.15,Legenda,,0,0,0,,e espaço para andar.
+Dialogue: 0,0:04:38.17,0:04:40.70,Legenda,,0,0,0,,Para quem joga a série há anos, entrar ali é
+Dialogue: 0,0:04:40.72,0:04:42.39,Legenda,,0,0,0,,quase como voltar para casa.
+Dialogue: 0,0:04:42.41,0:04:45.14,Legenda,,0,0,0,,E tem mais: logo na entrada da cidade dá para
+Dialogue: 0,0:04:45.16,0:04:47.43,Legenda,,0,0,0,,ver lojas, galpões e até empilhadeira
+Dialogue: 0,0:04:47.45,0:04:50.18,Legenda,,0,0,0,,trabalhando nos pátios, mostrando que Leonida
+Dialogue: 0,0:04:50.20,0:04:52.99,Legenda,,0,0,0,,tem uma economia funcionando em volta de você.
+Dialogue: 1,0:04:28.52,0:04:31.31,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:31.56,0:04:42.31,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:42.56,0:04:53.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:04:28.06,0:04:28.68,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:28.10,0:04:28.72,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:28.15,0:04:28.77,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:28.37,0:04:53.36,Capitulo,,0,0,0,,{\fad(300,300)}10. AMMU-NATION
+Dialogue: 2,0:04:28.52,0:04:32.12,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}AMMU-NATION
+Dialogue: 0,0:04:53.36,0:04:56.27,Legenda,,0,0,0,,Décima primeira: dá para entrar em lojas e
+Dialogue: 0,0:04:56.29,0:04:56.86,Legenda,,0,0,0,,bares.
+Dialogue: 0,0:04:56.88,0:04:58.97,Legenda,,0,0,0,,Um dos bares na beira do mar se chama
+Dialogue: 0,0:04:58.99,0:05:01.25,Legenda,,0,0,0,,Pindayho, tem cardápio na parede e gente
+Dialogue: 0,0:05:01.27,0:05:02.46,Legenda,,0,0,0,,sentada conversando.
+Dialogue: 0,0:05:02.48,0:05:05.00,Legenda,,0,0,0,,Junta isso com o guarda-roupa para trocar de
+Dialogue: 0,0:05:05.02,0:05:07.64,Legenda,,0,0,0,,roupa e o celular do jogo, e você tem um mundo
+Dialogue: 0,0:05:07.66,0:05:10.12,Legenda,,0,0,0,,pensado para viver, não só para atravessar.
+Dialogue: 0,0:05:10.14,0:05:12.84,Legenda,,0,0,0,,Em GTA 5, a maior parte das lojas era só
+Dialogue: 0,0:05:12.86,0:05:13.53,Legenda,,0,0,0,,fachada.
+Dialogue: 0,0:05:13.55,0:05:16.16,Legenda,,0,0,0,,Em Leonida, a sensação é de que quase toda
+Dialogue: 0,0:05:16.18,0:05:17.33,Legenda,,0,0,0,,porta pode abrir.
+Dialogue: 0,0:05:17.35,0:05:19.74,Legenda,,0,0,0,,E isso dá um motivo a mais para sair do carro
+Dialogue: 0,0:05:19.76,0:05:20.54,Legenda,,0,0,0,,e andar a pé.
+Dialogue: 1,0:04:53.51,0:04:56.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:57.03,0:05:02.38,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:02.63,0:05:10.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:10.29,0:05:13.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:13.70,0:05:17.25,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:17.50,0:05:20.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:04:53.05,0:04:53.67,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:53.09,0:04:53.71,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:53.14,0:04:53.76,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:53.36,0:05:20.91,Capitulo,,0,0,0,,{\fad(300,300)}11. LOJAS E BARES
+Dialogue: 2,0:04:57.03,0:05:00.63,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}PINDAYHO
+Dialogue: 2,0:04:57.23,0:05:00.63,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}bar na beira do mar
+Dialogue: 0,0:05:20.91,0:05:24.44,Legenda,,0,0,0,,Décima segunda, e talvez a mais bonita: o pôr
+Dialogue: 0,0:05:24.46,0:05:25.18,Legenda,,0,0,0,,do sol.
+Dialogue: 0,0:05:25.20,0:05:27.78,Legenda,,0,0,0,,Rua com palmeira, céu roxo e laranja,
+Dialogue: 0,0:05:27.80,0:05:30.64,Legenda,,0,0,0,,estacionamento com a luz baixa batendo no
+Dialogue: 0,0:05:30.66,0:05:31.36,Legenda,,0,0,0,,asfalto.
+Dialogue: 0,0:05:31.38,0:05:34.51,Legenda,,0,0,0,,É exatamente aquele clima dos trailers, só que
+Dialogue: 0,0:05:34.53,0:05:37.08,Legenda,,0,0,0,,agora rodando no console, com você no
+Dialogue: 0,0:05:37.10,0:05:37.85,Legenda,,0,0,0,,controle.
+Dialogue: 0,0:05:37.87,0:05:41.06,Legenda,,0,0,0,,Se você só quiser dirigir sem rumo no fim da
+Dialogue: 0,0:05:41.08,0:05:43.65,Legenda,,0,0,0,,tarde, GTA 6 já cumpriu a promessa.
+Dialogue: 1,0:05:21.06,0:05:25.10,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:25.35,0:05:31.28,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:31.53,0:05:34.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:34.77,0:05:37.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:38.02,0:05:43.92,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:05:20.60,0:05:21.22,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:20.64,0:05:21.26,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:20.69,0:05:21.31,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:05:20.91,0:05:44.02,Capitulo,,0,0,0,,{\fad(300,300)}12. O PÔR DO SOL
+Dialogue: 2,0:05:21.06,0:05:24.66,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}PÔR DO SOL
+Dialogue: 2,0:05:21.26,0:05:24.66,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}o clima dos trailers
+Dialogue: 0,0:05:44.02,0:05:44.17,Legenda,,0,0,0,,E isso é só o começo.
+Dialogue: 0,0:05:44.19,0:05:47.70,Legenda,,0,0,0,,Nos próximos dias eu trago bugs, carros,
+Dialogue: 0,0:05:47.72,0:05:51.47,Legenda,,0,0,0,,segredos e o tamanho real do mapa, tudo com
+Dialogue: 0,0:05:51.49,0:05:52.95,Legenda,,0,0,0,,imagem do jogo.
+Dialogue: 0,0:05:52.97,0:05:55.72,Legenda,,0,0,0,,Se inscreve, ativa o sininho e comenta aqui:
+Dialogue: 0,0:05:55.74,0:05:58.26,Legenda,,0,0,0,,qual dessas curiosidades você vai testar
+Dialogue: 0,0:05:58.28,0:05:58.96,Legenda,,0,0,0,,primeiro?
+Dialogue: 0,0:05:58.98,0:06:00.48,Legenda,,0,0,0,,Até o próximo vídeo.
+Dialogue: 1,0:05:44.17,0:05:48.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:48.65,0:05:52.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:53.12,0:05:58.88,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:59.13,0:06:00.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:05:43.71,0:05:44.33,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:43.75,0:05:44.37,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:43.80,0:05:44.42,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:05:44.02,0:06:00.85,Capitulo,,0,0,0,,{\fad(300,300)}ATÉ O PRÓXIMO
+Dialogue: 2,0:05:53.12,0:05:56.72,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}INSCREVA-SE
+Dialogue: 2,0:05:53.32,0:05:56.72,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}e comente: qual você vai testar?
