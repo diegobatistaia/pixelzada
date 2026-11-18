@@ -5899,7 +5899,7 @@
     "slug": "gta-6-twitch-alanzoka-10",
     "data": "2026-11-18",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Desfocado + título + legenda (modelo 3)",
     "legenda": "Alan atropela todo mundo no GTA 6 e a polícia chega 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -5922,6 +5922,19 @@
       "motivo": "streamer com camisa e gameplay de jogo com carros e trânsito",
       "por": "imagem",
       "em": "2026-11-18T13:12:17-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T14:01:38-03:00",
+      "media_id": "18647555827056279",
+      "permalink": "https://www.instagram.com/reel/Df4_rCjjHsF/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
