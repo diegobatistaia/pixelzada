@@ -5736,7 +5736,7 @@
     "slug": "gta-6-twitch-alanzoka-4",
     "data": "2026-11-18",
     "horario": "11:50",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Branca + frase (modelo 2)",
     "legenda": "O Alan conferindo se o GTA 6 é igual ao trailer 🌊\n\n🎥 Clipe da live de alanzoka (twitch.tv/alanzoka)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -5761,7 +5761,20 @@
       "em": "2026-11-18T11:30:31-03:00"
     },
     "teste_modelo": true,
-    "fixo": true
+    "fixo": true,
+    "publicado": {
+      "em": "2026-11-18T11:58:42-03:00",
+      "media_id": "18032637086919234",
+      "permalink": "https://www.instagram.com/reel/Df4xmTKFGY5/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
+    }
   },
   {
     "slug": "teste-modelo3-bisteconee-armadilha",
