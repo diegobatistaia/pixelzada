@@ -79,7 +79,13 @@ jobs:
             echo "Nada mudou."
           else
             git commit -m "site: publicação de $(date -u +%Y-%m-%d)"
-            git push
+            # Outras rotinas (Reels, Pesquisa, Coletar) também salvam no main;
+            # se alguém salvou antes, puxa por cima e tenta de novo.
+            for tentativa in 1 2 3 4 5; do
+              git pull --rebase origin main && git push origin HEAD:main && exit 0
+              sleep $((tentativa * 5))
+            done
+            exit 1
           fi
 
       - name: Resumo
