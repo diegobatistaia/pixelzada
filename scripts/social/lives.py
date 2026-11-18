@@ -274,6 +274,26 @@ def refazer(cfg: dict) -> int:
     return 0
 
 
+def modelo(links: list[str]) -> int:
+    """Prévias para o Diego escolher o formato: guarda o clipe original e o dividido em
+    social/reels/modelos/ (não mexe na fila)."""
+    pasta = Q.ROOT / "social" / "reels" / "modelos"
+    pasta.mkdir(parents=True, exist_ok=True)
+    for n, link in enumerate(links, 1):
+        bruto = pasta / f"clipe{n}-original.mp4"
+        r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "-f", "mp4/bv*+ba/b", "--merge-output-format", "mp4",
+                            "-o", str(bruto), link], capture_output=True, text=True, timeout=120)
+        if not bruto.exists():
+            print(f"  {link}: download falhou {(r.stderr or '')[-160:]}")
+            continue
+        ia = camera_ia.perguntar(bruto)
+        (pasta / f"clipe{n}.json").write_text(json.dumps({"link": link, **ia}, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  {link}: {ia}")
+        d = camera_ia.dividir(bruto, pasta / f"clipe{n}-dividido.mp4")
+        print(f"  dividido: {d['motivo']}")
+    return 0
+
+
 def nome_arquivo(pasta: Path, n: int, c: dict) -> Path:
     canal = re.sub(r"[^a-z0-9]+", "-", c["canal"].lower()).strip("-") or "live"
     return pasta / f"{n:02d}-gta6-{c['fonte']}-{canal}.mp4"
@@ -502,10 +522,14 @@ def main(argv: list[str] | None = None) -> int:
     k.add_argument("--jogos", default="Grand Theft Auto V|Grand Theft Auto VI")
     k.add_argument("--dias", type=int, default=30)
     sub.add_parser("refazer", help="refaz no formato dividido os cortes da Twitch que estão na fila")
+    mo = sub.add_parser("modelo", help="prévias do formato com clipes da Twitch (não mexe na fila)")
+    mo.add_argument("links", nargs="+")
     args = ap.parse_args(argv)
     cfg = Q.carregar_config(Path(args.config))
     if args.cmd == "rodada":
         return rodada(cfg, args.forcar)
+    if args.cmd == "modelo":
+        return modelo(args.links)
     if args.cmd == "refazer":
         return refazer(cfg)
     if args.cmd == "canais":
