@@ -41,7 +41,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import pesquisa as Q
-from . import camera_ia, rosto
+from . import camera_ia, qualidade, rosto
 
 TZ = Q.TZ
 UA = "Mozilla/5.0 (compatible; pixelzada-bot)"
@@ -269,6 +269,9 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool 
                                 "-o", str(bruto), c["link"]], capture_output=True, text=True, timeout=120)
         if not bruto.exists() or bruto.stat().st_size < 20000:
             return {"ok": False, "motivo": f"download falhou: {(r.stderr or r.stdout).strip()[-160:]}"}
+        ruim = qualidade.tela_ruim(bruto)  # tela "Commercial break" da Twitch (Reel de 18/11 19h30)
+        if ruim:
+            return {"ok": False, "motivo": ruim}
         destino.parent.mkdir(parents=True, exist_ok=True)
         if dividido:
             # Diego, 18/11: câmera do streamer em cima, jogo embaixo, sem moldura (Reel já pronto)
