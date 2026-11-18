@@ -5282,7 +5282,7 @@
     "slug": "musica-deu-superpoderes",
     "data": "2026-11-17",
     "horario": "22:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "A música deu superpoderes pro cara 🎧🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #fps #gameplay #gamer #pixelzada",
     "tentativas": 0,
@@ -5304,6 +5304,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T21:59:35-03:00",
+      "media_id": "17913253743579746",
+      "permalink": "https://www.instagram.com/reel/Df3RkjhiTWI/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
