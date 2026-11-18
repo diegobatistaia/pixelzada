@@ -5651,7 +5651,7 @@
     "slug": "gta-6-twitch-alanzoka-3",
     "data": "2026-11-18",
     "horario": "11:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -5673,6 +5673,19 @@
       "motivo": "Pessoas vestidas com uniformes de prisão dentro de uma cela",
       "por": "imagem",
       "em": "2026-11-18T10:40:08-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T11:30:56-03:00",
+      "media_id": "18142834645726144",
+      "permalink": "https://www.instagram.com/reel/Df4ubYJGZQP/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
