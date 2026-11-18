@@ -5984,7 +5984,7 @@
     "slug": "gta-6-loudgg",
     "data": "2026-11-18",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Gabe achou um avião caído no meio do GTA 6 ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6009,7 +6009,20 @@
       "por": "imagem",
       "em": "2026-11-18T14:00:05-03:00"
     },
-    "fixo": true
+    "fixo": true,
+    "publicado": {
+      "em": "2026-11-18T15:01:24-03:00",
+      "media_id": "17916968634512944",
+      "permalink": "https://www.instagram.com/reel/Df5GgeqI7md/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
+    }
   },
   {
     "slug": "gta-6-twitch-alanzoka-2",
