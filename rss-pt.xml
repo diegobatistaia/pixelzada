@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:40:32 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Méndez, Andrés de León, Raymond e mais: os novos personagens do Extended Look e do trailer de lançamento de GTA 6</title>
+      <link>https://pixelzada.com.br/pt/gta-6-novos-personagens-mendez-andres-de-leon-ray-extended-look-e-trailer/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-novos-personagens-mendez-andres-de-leon-ray-extended-look-e-trailer/</guid>
+      <description>Méndez, Andrés de León, Ray e mais: os novos personagens do Extended Look e do trailer de lançamento de GTA 6, com o que se sabe antes de 19 de novembro.</description>
+      <category>GTA 6</category>
+      <pubDate>Wed, 18 Nov 2026 12:40:30 +0000</pubDate>
+    </item>
     <item>
       <title>Game Pass de novembro de 2026: segunda leva traz High on Life 2, The Outlast Trials e Sniper Ghost Warrior Contracts 2</title>
       <link>https://pixelzada.com.br/pt/game-pass-novembro-2026-segunda-leva-high-on-life-2-outlast-trials-e-sniper-ghost-warrior/</link>
@@ -238,14 +246,6 @@
       <description>The Blood of Dawnwalker ganha New Game+ na atualização 1.2 da semana que vem, com nível máximo 100 e ajustes de combate. Veja o que muda no RPG da Rebel Wolves.</description>
       <category>Lançamentos</category>
       <pubDate>Sat, 14 Nov 2026 00:41:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Game Awards 2026 revela indicados na terça (17), dois dias antes de GTA 6</title>
-      <link>https://pixelzada.com.br/pt/the-game-awards-2026-indicados-terca-17-de-novembro-gta-6-elegivel/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/the-game-awards-2026-indicados-terca-17-de-novembro-gta-6-elegivel/</guid>
-      <description>O The Game Awards 2026 revela os indicados na terça, 17 de novembro, e GTA 6 é elegível. Veja horário, regras e a data da cerimônia, em 10 de dezembro.</description>
-      <category>Indústria</category>
-      <pubDate>Fri, 13 Nov 2026 22:44:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
