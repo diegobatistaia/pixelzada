@@ -220,6 +220,8 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
             if bloqueado(cfg, p.get("caption", "")):
                 continue
             tema = tema_de(cfg, p.get("caption", ""), padrao.get(perf["perfil"], "games"))
+            if cfg.get("somente_temas") and tema not in cfg["somente_temas"]:
+                continue   # Diego, 18/11: só vídeo de GTA na fila
             formato = formato_de(cfg, p.get("caption", ""))
             candidatos.append({
                 "id": p["id"], "perfil": perf["perfil"], "link": p.get("permalink"),
@@ -509,6 +511,8 @@ def completar(cfg: dict) -> int:
     vistos, candidatos = set(), []
     for arq in listas:  # a de hoje primeiro; as de ontem e anteontem completam
         for c in (json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else []):
+            if cfg.get("somente_temas") and c.get("tema") not in cfg["somente_temas"]:
+                continue   # Diego, 18/11: só GTA (listas antigas ainda têm outros jogos)
             if c["id"] not in ja and c["link"] not in ja and c["id"] not in vistos:
                 vistos.add(c["id"])
                 candidatos.append(c)
