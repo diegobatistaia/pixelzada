@@ -1,5 +1,5 @@
 {
-  "em": "2026-11-18T12:14:05-03:00",
+  "em": "2026-11-18T12:56:05-03:00",
   "dias": 30,
   "jogos": {
     "Grand Theft Auto V": "32982",
@@ -7,1701 +7,19 @@
   },
   "canais": [
     {
-      "login": "alanzoka",
+      "login": "gta6news",
       "existe": true,
-      "nome": "alanzoka",
-      "tipo": "partner",
-      "criado": "2012-12-05",
-      "descricao": "To sempre jogando alguma coisa aí.  -   alanzoka@vandep.ag",
-      "titulo_live": "VICE CITY BABYYYYYYYYYYY - JOGANDO NO PS5 PRO",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 8242490,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 277059,
-      "clipes_periodo": 429,
-      "views_clipes_periodo": 18616,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "gaules",
-      "existe": true,
-      "nome": "Gaules",
-      "tipo": "partner",
-      "criado": "2017-11-09",
-      "descricao": "Mais um guerreiro da Maior Tribo do Mundo! Atuei como jogador profissional de CS por quase uma década, fui o primeiro treinador a ser campeão do mundo em 2007 c",
-      "titulo_live": "RERUN: Lobby do Alastro! - Siga @Gaules nas redes sociais!",
-      "idioma": "pt",
-      "ultimo_jogo": "Counter-Strike",
-      "seguidores": 4307530,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Counter-Strike",
-      "ao_vivo_plateia": 242,
-      "clipes_periodo": 3,
-      "views_clipes_periodo": 92,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "casimito",
-      "existe": true,
-      "nome": "casimito",
-      "tipo": "partner",
-      "criado": "2018-09-03",
-      "descricao": "Live quase nunca, mas as vezes tem! ",
-      "titulo_live": "o homem live está on.",
-      "idioma": "pt",
-      "ultimo_jogo": "Just Chatting",
-      "seguidores": 3930662,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "nobru",
-      "existe": true,
-      "nome": "NOBRU",
+      "nome": "GTA6NEWS",
       "tipo": "affiliate",
-      "criado": "2020-03-31",
-      "descricao": "Olá, meu nome é Bruno, moro em São Paulo Capital, e venho por meio desta plataforma interagir com vocês alegrando os nossos dias! ",
-      "titulo_live": "KINGS LEAGUE BR - FLUXO X NYVELADOS",
-      "idioma": "pt",
-      "ultimo_jogo": "Kings League",
-      "seguidores": 3789748,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 1,
-      "views_clipes_periodo": 12,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "paulinholokobr",
-      "existe": true,
-      "nome": "PaulinhoLOKObr",
-      "tipo": "partner",
-      "criado": "2020-05-15",
-      "descricao": "Oi, sou o Paulinho o LOKO ",
-      "titulo_live": "GTA 6 O ÍNICIO!",
-      "idioma": "pt",
+      "criado": "2022-11-10",
+      "descricao": "@GTA6CEO - TELEGRAM | CEO - @ceoigame",
+      "titulo_live": "GTA 6 | РОЗЫГРЫШ PS5 + GTA VI | !yohohobet !tg",
+      "idioma": "ru",
       "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 3723406,
+      "seguidores": 25354,
       "ao_vivo": true,
       "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 17569,
-      "clipes_periodo": 2,
-      "views_clipes_periodo": 654,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "cellbit",
-      "existe": true,
-      "nome": "Cellbit",
-      "tipo": "partner",
-      "criado": "2012-02-28",
-      "descricao": "criador de Ordem Paranormal",
-      "titulo_live": "GTA 6. (jogando no PS5)",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 3636327,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 14866,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "neymarjr",
-      "existe": true,
-      "nome": "neymarjr",
-      "tipo": "",
-      "criado": "2017-07-10",
-      "descricao": "O Pai ta ON! @neymarjr",
-      "titulo_live": "Neymar Jr.",
-      "idioma": "pt",
-      "ultimo_jogo": "",
-      "seguidores": 2522402,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "yoda",
-      "existe": true,
-      "nome": "YoDa",
-      "tipo": "partner",
-      "criado": "2013-08-03",
-      "descricao": "CEO da SehLoiro, apresentador do PlaYlist, CEO Bazar do YoDismo, cupido CASOS de TRABSON, artilheiro FUT DOS STREAMERS, 1 CBLOL, invicto no MSI, viciado em MMO,",
-      "titulo_live": "CBLOW EXCLUSIVO NA VERDINHA !YODA",
-      "idioma": "pt",
-      "ultimo_jogo": "League of Legends",
-      "seguidores": 2457371,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 1,
-      "views_clipes_periodo": 189,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "jonvlogs",
-      "existe": true,
-      "nome": "JonVlogs",
-      "tipo": "partner",
-      "criado": "2015-10-09",
-      "descricao": "Meu nome é Luan Kovarik, mais conhecido como \"Jon Vlogs\", tenho 25 anos e escolhi como profissão de vida fazer o que eu amo. Meus viewers são minha família na T",
-      "titulo_live": "IRL - A CAMINHO DE ORLANDO points !loja !mapa",
-      "idioma": "pt",
-      "ultimo_jogo": "IRL",
-      "seguidores": 2396306,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 2,
-      "views_clipes_periodo": 66,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "bisteconee",
-      "existe": true,
-      "nome": "Bisteconee",
-      "tipo": "partner",
-      "criado": "2020-04-11",
-      "descricao": "Salve, Meu nome é Davi rodrigues , faço live todos os dias as 19:00 Contato comercia: bisteconelive@gmail.com",
-      "titulo_live": "GTA 6 NADA DEMAIS",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 2056861,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 19634,
-      "clipes_periodo": 371,
-      "views_clipes_periodo": 8509,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "davyjones",
-      "existe": true,
-      "nome": "DavyJones",
-      "tipo": "partner",
-      "criado": "2013-01-29",
-      "descricao": "Seja bem vindo ao canal de lives do Davy Jones aqui na Twitch! Lives divertidas dos Piratas é aqui! ",
-      "titulo_live": "CONFERINDO END OF ABYSS #publi #EndofAbyss @section9interactive @EpicPublishing",
-      "idioma": "pt",
-      "ultimo_jogo": "End of Abyss",
-      "seguidores": 1351930,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "luquet4",
-      "existe": true,
-      "nome": "LuquEt4",
-      "tipo": "partner",
-      "criado": "2018-10-17",
-      "descricao": "",
-      "titulo_live": "CHEGOU O ADESIVO DO DENDELE NO CS!",
-      "idioma": "pt",
-      "ultimo_jogo": "Counter-Strike",
-      "seguidores": 2035203,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 4,
-      "views_clipes_periodo": 348,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "felps",
-      "existe": true,
-      "nome": "Felps",
-      "tipo": "partner",
-      "criado": "2012-05-20",
-      "descricao": "oi. '-' | Faço lives! :D | contato: felps@grupofarol.com",
-      "titulo_live": "Desonline",
-      "idioma": "pt",
-      "ultimo_jogo": "Just Chatting",
-      "seguidores": 1510899,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 213,
-      "views_clipes_periodo": 5759,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "mount",
-      "existe": true,
-      "nome": "mount",
-      "tipo": "partner",
-      "criado": "2014-03-03",
-      "descricao": "lives de segunda a sexta a tarde // contato: contato@moount.com",
-      "titulo_live": "182 / GTA 6 VAMOS NESSA UIA",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 1264210,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1471,
-      "clipes_periodo": 27,
-      "views_clipes_periodo": 1300,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "baiano",
-      "existe": true,
-      "nome": "Baiano",
-      "tipo": "partner",
-      "criado": "2016-11-30",
-      "descricao": "Ex-proplayer de LOL e primeiro jogador Brasileiro a jogar fora do país. Criei o CBOLÃO, Baianalista e a maior comunidade do League of Legends: O ILHA DAS LENDAS",
-      "titulo_live": "🟢 Red Bull Ladeira Abaixo Edição Geek 🟢 🌴 !cupom !sadia !status !grupo !kbmidl",
-      "idioma": "pt",
-      "ultimo_jogo": "League of Legends",
-      "seguidores": 1062918,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 27,
-      "views_clipes_periodo": 1781,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "rakin",
-      "existe": true,
-      "nome": "Rakin",
-      "tipo": "partner",
-      "criado": "2013-05-29",
-      "descricao": "Live todo dia das 09:00 as 14:00",
-      "titulo_live": "+18 SPEEDRUN DE GTA VI - !exitlag",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 1692776,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 2267,
-      "clipes_periodo": 10,
-      "views_clipes_periodo": 517,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "piuzinho",
-      "existe": true,
-      "nome": "Piuzinho",
-      "tipo": "partner",
-      "criado": "2022-06-23",
-      "descricao": "opa blz ? ✉️: Piuzinho@kr3w.gg",
-      "titulo_live": "BETA TESTE DO MISTURE UM MONSTRO !!",
-      "idioma": "pt",
-      "ultimo_jogo": "ROBLOX",
-      "seguidores": 847789,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "gabepeixe",
-      "existe": true,
-      "nome": "gabepeixe",
-      "tipo": "partner",
-      "criado": "2014-03-28",
-      "descricao": "Estamos de volta e agora na Loud para trazer o melhor conteudo para vcs! S2 - Contato: gabepeixe@gabepeixe.com",
-      "titulo_live": "SAGA MARVEL E SERIE  - !CINEFY !APP",
-      "idioma": "pt",
-      "ultimo_jogo": "Just Chatting",
-      "seguidores": 1903689,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "move_mind",
-      "existe": true,
-      "nome": "Move_Mind",
-      "tipo": "partner",
-      "criado": "2015-10-13",
-      "descricao": "Sou um rapaz simpático, fofo, humilde , querido e leal, gosto muito de jogar coisas e relatar enquanto o faço. Irrito-me às vezes mas raramente enquanto pratico",
-      "titulo_live": "PICKS DE CS COM MALTA E Última live antes do GTA :o !streamersdeouro AGORA É QUE É ! AMANHÃ GRANDE D",
-      "idioma": "pt",
-      "ultimo_jogo": "Counter-Strike",
-      "seguidores": 336626,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 134,
-      "views_clipes_periodo": 5020,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 92,
-          "views": 2848,
-          "melhor": 948
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "rafaao",
-      "existe": true,
-      "nome": "rafaao",
-      "tipo": "partner",
-      "criado": "2018-12-01",
-      "descricao": "Email: rafaocontato@gmail.com ",
-      "titulo_live": "❗️TRAVESSIA ELEMENTS❗️  !opera !west !oeste !pix",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 384998,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 9,
-      "views_clipes_periodo": 309,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 9,
-          "views": 309,
-          "melhor": 109
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "spkclb",
-      "existe": true,
-      "nome": "spkclb",
-      "tipo": "partner",
-      "criado": "2017-01-03",
-      "descricao": "Contato: jtapefo@hotmail.com",
-      "titulo_live": "GOAT LAST DANCE! - 15/11 15:00H",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 382866,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 65,
-      "views_clipes_periodo": 414,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 65,
-          "views": 414,
-          "melhor": 78
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "brunablince",
-      "existe": true,
-      "nome": "brunablince",
-      "tipo": "partner",
-      "criado": "2017-04-09",
-      "descricao": "Gamer, Atriz e Apresentadora - By @Furia - Contato: contatobrunablince@hotmail.com / Telegram: BrunaBlincee",
-      "titulo_live": "Dragona no GTA VI",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 243422,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 718,
-      "clipes_periodo": 22,
-      "views_clipes_periodo": 606,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 22,
-          "views": 606,
-          "melhor": 266
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "stolenbr",
-      "existe": true,
-      "nome": "StolenBR",
-      "tipo": "partner",
-      "criado": "2013-01-26",
-      "descricao": "Stolen El Monxtro é streamer há +9 anos e segue sua caminhada nos games de FPS/Battle Royale. Sou bastante fan da franquia Call of Duty desde de 2007 e jogo o C",
-      "titulo_live": "LANÇAMENTO GRAND THEFT AUTO VI (MARATONA)💪🤠🥹🌴- !Monster !Eneba !Grupo",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 359414,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 403,
-      "clipes_periodo": 5,
-      "views_clipes_periodo": 167,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "italiazeta",
-      "existe": true,
-      "nome": "Italiazeta",
-      "tipo": "partner",
-      "criado": "2020-03-26",
-      "descricao": "✉️ Email pessoal: Laianecostabernardes@outlook.com l italiazeta@smt.social ",
-      "titulo_live": "Vagas Elite - Itália LÍDER da BAIRRO TREZE ( TRAVESSIA ) Gtavrp",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 142828,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "nabrizarp",
-      "existe": true,
-      "nome": "nabrizarp",
-      "tipo": "partner",
-      "criado": "2020-07-15",
-      "descricao": "Entra, só ñ repara na bagunça....",
-      "titulo_live": "✦ [ProjetoX]  FALTA 1 DIA!!!! + super att - !onestate !ptx !social !fac !uniforme",
-      "idioma": "pt",
-      "ultimo_jogo": "Just Chatting",
-      "seguidores": 210050,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 8,
-      "views_clipes_periodo": 156,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 8,
-          "views": 156,
-          "melhor": 30
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "moitaofc",
-      "existe": true,
-      "nome": "moitaofc",
-      "tipo": "partner",
-      "criado": "2021-09-01",
-      "descricao": "📬 Contato: moitaofc@hotmail.com🔹28 Anos 🔹RP 🔹 Streamer de Games🔹 01 YKZ",
-      "titulo_live": "[HYPE +18] 01 YKZ - NOITE DE REUNIÃO ! WIPE NO HYPE ! A ÚLTIMA DANÇA INICIA ! 🎌 !YKZ 🎌 !PIX 🎌",
-      "idioma": "pt",
-      "ultimo_jogo": "Hogwarts Legacy",
-      "seguidores": 32046,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 11,
-      "views_clipes_periodo": 104,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 11,
-          "views": 104,
-          "melhor": 24
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "quinnyrp",
-      "existe": true,
-      "nome": "QuinnyRP",
-      "tipo": "partner",
-      "criado": "2013-07-07",
-      "descricao": "",
-      "titulo_live": "SIGAAA STAFF ATLANTIC RP |  OBRIGADO GTA 5   | DIA 18 AS 23H30 LIVE 24H  |  !LASTKILLPVP  |",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 39188,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 2,
-      "views_clipes_periodo": 241,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 2,
-          "views": 241,
-          "melhor": 201
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "falamicatv",
-      "existe": true,
-      "nome": "FalaMicaTV",
-      "tipo": "",
-      "criado": "2026-10-03",
-      "descricao": "🎮 Como é que tá seu hype hoje? Eu sou o Bruno Micali, ou simplesmente Mica, criador do Fala, Mica! no YouTube. Por aqui tem gameplay ao vivo, lançamentos, cláss",
-      "titulo_live": "Bora rever e reagir a TODOS os trailers de GTA 6! CHEGOU!",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 1192,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "enriquemachado_",
-      "existe": true,
-      "nome": "enriquemachado_",
-      "tipo": "affiliate",
-      "criado": "2014-07-25",
-      "descricao": "galoskins.com.br",
-      "titulo_live": "GTA 6 VAMOOO +18❤️! -> !GALOSKINS !LOJA",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 4441,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 37,
-      "clipes_periodo": 2,
-      "views_clipes_periodo": 26,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "jeffaocs",
-      "existe": true,
-      "nome": "JEFFAOCS",
-      "tipo": "partner",
-      "criado": "2013-03-29",
-      "descricao": "E-mail para contato: Jeffaocsgo@gmail.com - Telegram: @Jeffaocs ",
-      "titulo_live": "🎮🚨 Finalmente o GTA VI chegou! BORA CONHECER TUDO! 😱 🎮",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 395388,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "pipokinhagta",
-      "existe": true,
-      "nome": "pipokinhagta",
-      "tipo": "partner",
-      "criado": "2024-04-25",
-      "descricao": "GTA RP às 22h (quase) todos os dias, na companhia do melhor chat de toda a Twitch                                                            ✉️ Contato: kaiquey",
-      "titulo_live": "CONTRATADA? Space RP",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 23170,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 4,
-      "views_clipes_periodo": 247,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 4,
-          "views": 247,
-          "melhor": 100
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "metropolegg",
-      "existe": true,
-      "nome": "Metropolegg",
-      "tipo": "affiliate",
-      "criado": "2023-12-04",
-      "descricao": "Bem-vindos à Metrópole e Metroville! A sua cidade de GTA RP 🏠",
-      "titulo_live": "🔥 METRÓPOLE - LIVE DE ATT - QG'S? METRONEWS, ROUBOS E MUITO MAIS",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 23089,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 12,
-      "views_clipes_periodo": 166,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 12,
-          "views": 166,
-          "melhor": 39
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "nickymitravam",
-      "existe": true,
-      "nome": "NickyMitravam",
-      "tipo": "partner",
-      "criado": "2017-03-21",
-      "descricao": "Lives de segunda à sexta, a partir das 18h. 💜",
-      "titulo_live": "pink demons na travessia luxo e poder❗pixthon❗discord❗sub ❗pink ❗travessia❗voucher❗epic",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 39120,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 10,
-      "views_clipes_periodo": 296,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 10,
-          "views": 296,
-          "melhor": 100
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "albertobzm",
-      "existe": true,
-      "nome": "Albertobzm",
-      "tipo": "partner",
-      "criado": "2021-03-24",
-      "descricao": "É aqui o lar das mentirosas, das fanfiqueiras e das que gostam de GTA RP!! ",
-      "titulo_live": "[Bloodlines RP] Dália Flores ajuda e empodera mulheres! - !cidade !pix",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 22774,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 27,
-      "views_clipes_periodo": 606,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 27,
-          "views": 606,
-          "melhor": 93
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "lucroft",
-      "existe": true,
-      "nome": "LuCroft",
-      "tipo": "partner",
-      "criado": "2018-01-02",
-      "descricao": "Oiee, meu nome é Luanny, amo jogos e tô sempre tentando trazer novidades para vocês tanto no canal quanto nas lives.  Founder - @evilparty @westvillagerp, RP de",
-      "titulo_live": "Madrugo so pras FIEIS❗cinefy ❗eneba ❗crofthon ❗pix ❗insta ❗discord ❗servidor",
-      "idioma": "pt",
-      "ultimo_jogo": "Red Dead Redemption II",
-      "seguidores": 28092,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 6,
-      "views_clipes_periodo": 194,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "chapo_dizona",
-      "existe": true,
-      "nome": "Chapo_Dizona",
-      "tipo": "partner",
-      "criado": "2020-06-15",
-      "descricao": "For business inquiries: chapodizonabusiness@gmail.com / Telegram: @Chapo_Dizona",
-      "titulo_live": "+18 AMANHÃ É O FIM ???❗ATLANTIC RP❗!ENEBA❗!MBWAY❗!PAYPAL❗!TELEGRAM❗!DISCORD❗!RAID❗!WATCHTIME❗!FOLLOW",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 65925,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "saninplay",
-      "existe": true,
-      "nome": "SanInPlay",
-      "tipo": "",
-      "criado": "2012-09-27",
-      "descricao": "Sou SanInPlay, Produtor de vídeos pro youtube a 7 anos, Um dos maiores canais de GTA V do Brasil agora também na TwitchTV.",
-      "titulo_live": "LIVE🔴: JOGANDO FORZA HORIZON 5 com Volante! SÓ VEM!!",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto V",
-      "seguidores": 1189,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "ricfazeres",
-      "existe": true,
-      "nome": "RicFazeres",
-      "tipo": "partner",
-      "criado": "2012-07-23",
-      "descricao": "Canal Oficial do RicFazeres. 15 Anos depois o RIC está de volta às LIVES na Twitch. Acompanha as próximas LIVES em simultâneo na Twitch e no YouTube 🤩 *As VODS ",
-      "titulo_live": "✳️ DROPS ON ➡️ GTA 6 O INICIO DA AVENTURA HOJE ➡️ !loja ➡️ LIVE E VÍDEOS NO CANAL",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 128164,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 9528,
-      "clipes_periodo": 8,
-      "views_clipes_periodo": 541,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "blackoutz",
-      "existe": true,
-      "nome": "blackoutz",
-      "tipo": "partner",
-      "criado": "2017-05-15",
-      "descricao": "Salve família, sou o Blackoutz, tenho 27 anos e sou streamer, influenciador e pro player de Fortnite! Mas na live você também vai me ver fazendo react e jogando",
-      "titulo_live": "GTA VI VAMOOOO SE SABE",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 1966990,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 5806,
-      "clipes_periodo": 196,
-      "views_clipes_periodo": 2185,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "snopey",
-      "existe": true,
-      "nome": "Snopey",
-      "tipo": "partner",
-      "criado": "2019-01-18",
-      "descricao": "• Email: jurandirribeiro508@gmail.com",
-      "titulo_live": "JOGANDO GTA 6 !cinefy !howstore",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 847754,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 3285,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "meikodrj",
-      "existe": true,
-      "nome": "MeikodRJ",
-      "tipo": "partner",
-      "criado": "2017-12-26",
-      "descricao": "Ainda vou ser muito famoso fazendo live ",
-      "titulo_live": "🔥 JOGANDO GTA 6!!! 🔥 HOJE É O GRANDE DIA!!! 🔥 PIXATHON ATIVADO! 🔥",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 927297,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 2864,
-      "clipes_periodo": 25,
-      "views_clipes_periodo": 871,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "thimagroo",
-      "existe": true,
-      "nome": "thimagroo",
-      "tipo": "partner",
-      "criado": "2015-10-31",
-      "descricao": "LIVES TODOS OS DIAS   - telegram @Thimagrocontact",
-      "titulo_live": "LANÇAMENTO DO GTA VI 🏝️ - LIVE INFINITA  |❗PIX ❗️DC ͏",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 320973,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1442,
-      "clipes_periodo": 193,
-      "views_clipes_periodo": 15371,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "hayashii",
-      "existe": true,
-      "nome": "Hayashii",
-      "tipo": "partner",
-      "criado": "2012-03-18",
-      "descricao": "Youtuber desde 2011 e Streamer desde 2015. Sou conhecido pelo COD mas costumo jogar de tudo aqui nas lives, com bastante interação, bom humor e alguns rages. Li",
-      "titulo_live": "LANÇAMENTO DO GTA 6, GAMEPLAY do INÍCIO! | !Sorteios !2e67 !Alura !Monster !Pix !Vods",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 467652,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1794,
-      "clipes_periodo": 44,
-      "views_clipes_periodo": 1827,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "suetam1v4",
-      "existe": true,
-      "nome": "suetam1v4",
-      "tipo": "partner",
-      "criado": "2018-06-03",
-      "descricao": "Oi, sou jogador profissional, influenciador e streamer, fazendo live pelo sorriso e entretenimento do público. Todos os dias as 17:00 contato: suetam@alcanceplu",
-      "titulo_live": "LANÇAMENTO DO GTA 6 | !pix !zap",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 1041354,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1455,
-      "clipes_periodo": 160,
-      "views_clipes_periodo": 3431,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "burgaofps",
-      "existe": true,
-      "nome": "BURGAOfps",
-      "tipo": "partner",
-      "criado": "2014-05-09",
-      "descricao": "◉ RECORDISTA EM SER RECORDISTA◉ Todos os meus links https://linktr.ee/burgaofps◉ Email comercial: contatoburgao@gmail.com",
-      "titulo_live": "+18🟢 GTA 6 - LIVE DOS APRECIADORES DE GAMEPLAY AVANÇADA🟢 !LINKS🟢",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 323296,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1163,
-      "clipes_periodo": 94,
-      "views_clipes_periodo": 1565,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "marinho",
-      "existe": true,
-      "nome": "Marinho",
-      "tipo": "partner",
-      "criado": "2022-09-01",
-      "descricao": "LIVE TODOS OS DIAS A PARTIR DAS 17:00 Partnership Contacts | 📧Email: parcerias@marinholive.com  | Telegram: @Marinho77x | Discord: @Marinho77x",
-      "titulo_live": "PRIMEIRO STREAMER DO BRASIL JOGANDO GTA 6! SUBATHON: PIX +3MIN | SUB +12MIN | SORTEIO DE PIX DIÁRIO",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 28052,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 623,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "heitir",
-      "existe": true,
-      "nome": "Heitir",
-      "tipo": "partner",
-      "criado": "2017-11-22",
-      "descricao": "Tá precisando rir? Então é só vir aqui! \\o/  Produtor de conteúdo dono de 3 canais no YouTube (HeitorGames, VcSeLembra e Canal 7 Coisas)",
-      "titulo_live": "GTA 6 - O INÍCIO (JOGO COMPLETO)",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 216256,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 55,
-      "clipes_periodo": 25,
-      "views_clipes_periodo": 415,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "rubini",
-      "existe": true,
-      "nome": "Rubini",
-      "tipo": "partner",
-      "criado": "2016-01-18",
-      "descricao": "Me chamo Felipe Rubini Pereira, tenho 34 anos e jogo MMORPG desde 2005. Faz 10 anos que a Twitch é a minha profissão. Aqui o jogo é só o começo, o resto é conve",
-      "titulo_live": "@Rubini - GTA VI - !loja !rubinot !transfer !reidoscoins",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 212771,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1232,
-      "clipes_periodo": 10,
-      "views_clipes_periodo": 815,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "calango",
-      "existe": true,
-      "nome": "calango",
-      "tipo": "partner",
-      "criado": "2014-03-08",
-      "descricao": "calaboca ngm te pergunto",
-      "titulo_live": "gta VI apelao",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 1650987,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 1440,
-      "clipes_periodo": 19,
-      "views_clipes_periodo": 3140,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "calura9",
-      "existe": true,
-      "nome": "CALURA9",
-      "tipo": "partner",
-      "criado": "2018-01-18",
-      "descricao": "Barbudo são paulino jogando jogos digitais de vídeo game e interagindo virtualmente com seus fieis seguidores, adeptos do CALURISMO,  E-mail para contato: calur",
-      "titulo_live": "GTA 6 ESTA ENTRE NÓS, O JOGO MAIS ESPERADO DA HISTÓRIA - PARTE 1",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 52968,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 797,
-      "clipes_periodo": 24,
-      "views_clipes_periodo": 623,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "olkabone",
-      "existe": true,
-      "nome": "Olkabone",
-      "tipo": "partner",
-      "criado": "2019-10-03",
-      "descricao": "Para toda ação existe uma reação",
-      "titulo_live": "GTA 6 GAMEPLAY DE LANÇAMENTO [PS5 PRO]. Digite !prime e saiba como remover os comerciais.",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 355701,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 766,
-      "clipes_periodo": 60,
-      "views_clipes_periodo": 1482,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "handsomed11",
-      "existe": true,
-      "nome": "HandsomeD11",
-      "tipo": "partner",
-      "criado": "2017-07-17",
-      "descricao": "🤠👍🏼",
-      "titulo_live": "GTA 6 - O jogo MAIS AGUARDADO DA HISTÓRIA - PS5 PRO - Grand Theft Auto VI - HandsomeD",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 45696,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 895,
-      "clipes_periodo": 6,
-      "views_clipes_periodo": 125,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "olui",
-      "existe": true,
-      "nome": "oLui",
-      "tipo": "partner",
-      "criado": "2013-04-04",
-      "descricao": "Sou o Lui, criador de conteúdo e youtuber de Fortnite, falo sobre o cenário do competitivo e muito mais!                                        Business: contat",
-      "titulo_live": "🔴 ESTREIA do GTA VI - AO VIVO!",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 170474,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 381,
-      "clipes_periodo": 1,
-      "views_clipes_periodo": 514,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "apenas1live",
-      "existe": true,
-      "nome": "Apenas1Live",
-      "tipo": "partner",
-      "criado": "2019-03-22",
-      "descricao": "Aqui você vai ver um casal nerd criando alguns conteúdos de baixa qualidade.",
-      "titulo_live": "Gta 6 está entre nós... !vods !pix !hj !dc",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 51139,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 535,
-      "clipes_periodo": 0,
-      "views_clipes_periodo": 0,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "thedarkness",
-      "existe": true,
-      "nome": "TheDarkness",
-      "tipo": "partner",
-      "criado": "2013-12-03",
-      "descricao": "Pai do Napolitano, SilvioSantosDoCS, Crebin, Donizete dentre outros personagens icônicos, sempre trazendo boas risadas pras lives. Seja bem vindo S2",
-      "titulo_live": "DE VOLTA À VICE CITY :)",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 731553,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 851,
-      "clipes_periodo": 102,
-      "views_clipes_periodo": 692,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "lnz3",
-      "existe": true,
-      "nome": "Lnz3",
-      "tipo": "partner",
-      "criado": "2017-01-09",
-      "descricao": "",
-      "titulo_live": "+18 GTA 6 CHEGOU !drops",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 99839,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 56,
-      "clipes_periodo": 17,
-      "views_clipes_periodo": 317,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "dcosta",
-      "existe": true,
-      "nome": "Dcosta",
-      "tipo": "partner",
-      "criado": "2016-01-26",
-      "descricao": "📩 dcostacontact10@gmail.com",
-      "titulo_live": "🔥JOGANDO GTA6 AO VIVO PELA PRIMEIRA VEZ! (SUBATHON INFINITO)🔥",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 302400,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
-      "clipes_periodo": 19,
-      "views_clipes_periodo": 2050,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "otiozero",
-      "existe": true,
-      "nome": "oTioZero",
-      "tipo": "partner",
-      "criado": "2015-02-12",
-      "descricao": "Host e Direção no Flow Games, Upgrade, Reset - Grupo FLOW ⚡️🏴‍☠️♓️ TDAH 🎮 Gameplay 100% | 💬 Chat aberto | 🔥 Opinião sem filtro 📲 Insta: @otiozero |  e-mail: 📧 c",
-      "titulo_live": "GTA 6 AO VIVO - O INÍCIO DA GAMEPLAY 🌴 !pix !eneba !allu",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 70353,
-      "ao_vivo": true,
-      "ao_vivo_jogo": "Grand Theft Auto VI",
-      "ao_vivo_plateia": 59,
-      "clipes_periodo": 1,
-      "views_clipes_periodo": 37,
-      "por_jogo": {
-        "Grand Theft Auto V": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        },
-        "Grand Theft Auto VI": {
-          "clipes": 0,
-          "views": 0,
-          "melhor": 0
-        }
-      }
-    },
-    {
-      "login": "joao01doturno",
-      "existe": true,
-      "nome": "joao01doturno",
-      "tipo": "",
-      "criado": "2022-11-24",
-      "descricao": "",
-      "titulo_live": "GTA 6!",
-      "idioma": "pt",
-      "ultimo_jogo": "Grand Theft Auto VI",
-      "seguidores": 3,
-      "ao_vivo": false,
-      "ao_vivo_jogo": null,
-      "ao_vivo_plateia": null,
+      "ao_vivo_plateia": 1025,
       "clipes_periodo": 0,
       "views_clipes_periodo": 0,
       "por_jogo": {
@@ -1729,44 +47,54 @@
         {
           "canal": "horipl",
           "clipes": 1,
-          "views": 497
+          "views": 505
         },
         {
           "canal": "LUD3VIK",
           "clipes": 1,
-          "views": 456
+          "views": 457
         }
       ],
       "ao_vivo_pt_agora": [
         {
+          "canal": "dabliuking",
+          "plateia": 117,
+          "titulo": "Dabliu Neverloss Jogando no GTA VI  MOD GRAFICO DE 2028"
+        },
+        {
+          "canal": "samurai__otf",
+          "plateia": 52,
+          "titulo": "Call of Duty  || Novo SETUP"
+        },
+        {
           "canal": "renato_diogo",
-          "plateia": 51,
+          "plateia": 39,
           "titulo": "PRE-GTA-A-THON 154º Dia | Dia de Despedida do GTA V | !tipme !paypal !discord !f"
         },
         {
+          "canal": "isap1__",
+          "plateia": 38,
+          "titulo": "Midnight 2.0 | Subathon Dia 999 !pix !donate !exitlag !meta !playlist !cidade"
+        },
+        {
           "canal": "emitezinfps",
-          "plateia": 34,
+          "plateia": 33,
           "titulo": "[COMPLEXO] EP 452° BUXA PILOTO - VETERANO DO GAM AGORA TÁ??? KKK EM QRV | SEGUEM"
         },
         {
-          "canal": "hazzardxyz_",
-          "plateia": 27,
-          "titulo": "+18  Atlantic RP 🌊| Firma Badjons💙 | Encher a Barra Loucaa | Atividades loucasss"
-        },
-        {
-          "canal": "ocarlito_",
-          "plateia": 19,
-          "titulo": "Projeto X - Fiquei em Los Santos ッ"
-        },
-        {
-          "canal": "alesilvap1",
-          "plateia": 18,
-          "titulo": "🔴 +18 | CAPITAL CITY 🔥  MEDELLIN ESTÁ DE VOLTA  O CAOS VAI COMEÇAR!  MORADA VALL"
-        },
-        {
           "canal": "linopipas",
-          "plateia": 18,
+          "plateia": 23,
           "titulo": "+🔞 🌊Atlantic rp🌊 🩸red desert🩸!donate"
+        },
+        {
+          "canal": "cafezeiroz",
+          "plateia": 20,
+          "titulo": "GoiásRP - INDEPENDENCE - CPX ROLEPLAY PTR OSTENSIVA   🚔🔵🔴 🚓 ❗go ❗comandos ❗disco"
+        },
+        {
+          "canal": "fataalfps",
+          "plateia": 19,
+          "titulo": "ME PASSAR N PODE - CDANJOS - HENRYK VERSAT +18"
         },
         {
           "canal": "sophiestrausss",
@@ -1774,64 +102,79 @@
           "titulo": "True Blood RP (+18) - PASSANDO TEMPO COM A FAMÍLIA | LIVE PIX | JOGANDO E CONVER"
         },
         {
-          "canal": "fataalfps",
-          "plateia": 15,
-          "titulo": "ME PASSAR N PODE - CDANJOS - HENRYK VERSAT +18"
-        },
-        {
-          "canal": "nbnegan",
-          "plateia": 14,
-          "titulo": "Live Pre GTA 6, Diretamente de New Zeland, Vegas Brothers explorando Leonida[+18"
-        },
-        {
           "canal": "chinaarp",
-          "plateia": 13,
+          "plateia": 16,
           "titulo": "[ LDT  ]    ??  !    +18  ??    !cidade  !pix !cupom"
         },
         {
-          "canal": "dreamj05",
-          "plateia": 13,
-          "titulo": "[🔴 +18] | OFFSET RP | Mecânico Estagiário na East Customs 🧑🏼‍🔧 | #Telheiros Team"
+          "canal": "alesilvap1",
+          "plateia": 14,
+          "titulo": "🔴 +18 | CAPITAL CITY 🔥  MEDELLIN ESTÁ DE VOLTA  O CAOS VAI COMEÇAR!  MORADA VALL"
+        },
+        {
+          "canal": "larasofyy",
+          "plateia": 11,
+          "titulo": "[PT/ENG] 🚨 (+18) DPLS | Agente Principal Valentina Moretti 👮‍♀️ |  Offset RP | F"
         },
         {
           "canal": "frz7z_",
-          "plateia": 10,
+          "plateia": 11,
           "titulo": "+18 [TRAVESSIA.GG]- 02 @neverl0ss / GESTÃO MANHÃ/TARDE❗pix ❗nvl❗tvrgg"
         },
         {
-          "canal": "gabee_p1",
-          "plateia": 10,
-          "titulo": "+18 | (METROPOLE) F valentina??  |  !comandos"
-        },
-        {
-          "canal": "nkfps_",
-          "plateia": 10,
-          "titulo": "[ 18+ SE7E RP ] O QUE TEM PRA HOJE ? BALLANTINES REC ON !BLT !CIDADE !CODIGUIN"
-        },
-        {
-          "canal": "furybrine",
-          "plateia": 8,
-          "titulo": "Esperando Gtazin pq nois é pobre"
-        },
-        {
-          "canal": "chloelizsanders",
-          "plateia": 7,
-          "titulo": "[+18] CDANJOS"
-        },
-        {
           "canal": "hellboydocs",
-          "plateia": 7,
+          "plateia": 9,
           "titulo": "GTA 6 antecipadooo"
         },
         {
           "canal": "silvestregtm",
-          "plateia": 7,
+          "plateia": 9,
           "titulo": "🟢 (CPX GG + 18) ON 🔥 | CHEGOU O GRANDE DIA, MAS MEU GTA 6 DEU PROBLEMA PRA ABRIR"
         },
         {
-          "canal": "aka_shadow98",
+          "canal": "furybrine",
+          "plateia": 9,
+          "titulo": "Esperando Gtazin pq nois é pobre"
+        },
+        {
+          "canal": "chloelizsanders",
+          "plateia": 8,
+          "titulo": "[+18] CDANJOS"
+        },
+        {
+          "canal": "gotzept",
+          "plateia": 8,
+          "titulo": "Atlantic Rp - Logo vamos ao Gta 6 as 23:30"
+        },
+        {
+          "canal": "nbnegan",
+          "plateia": 8,
+          "titulo": "Live Pre GTA 6, Diretamente de New Zeland, Vegas Brothers explorando Leonida[+18"
+        },
+        {
+          "canal": "ktchorolol",
+          "plateia": 7,
+          "titulo": "CDAnjos  -  Gui Ferraz -"
+        },
+        {
+          "canal": "dreamj05",
+          "plateia": 7,
+          "titulo": "[🔴 +18] | OFFSET RP | Mecânico Estagiário na East Customs 🧑🏼‍🔧 | #Telheiros Team"
+        },
+        {
+          "canal": "gabee_p1",
+          "plateia": 7,
+          "titulo": "+18 | (METROPOLE) F valentina??  |  !comandos"
+        },
+        {
+          "canal": "mahbernardo",
           "plateia": 6,
-          "titulo": "Luís Coelho - Weazel | VRRP legacy 2.0 | Candidaturas abertas"
+          "titulo": "Não somos todo mundo, mas um dia chegamos lá. TODOS OS DROPS DE GTA VI ATIVOS ✨ "
+        },
+        {
+          "canal": "ogordao77",
+          "plateia": 6,
+          "titulo": "🔴[CARBON COMPOUND] Não tenho GTA VI então bó corre- !CBN ~ !PIX ~ !PC ~ !CONTROL"
         },
         {
           "canal": "silvasp3",
@@ -1839,54 +182,29 @@
           "titulo": "[Silvio Silva] [CDANJOS] [VEXY] Ep10 Cdanjos 7.0"
         },
         {
-          "canal": "notrs_",
-          "plateia": 5,
-          "titulo": "{VortexRP} | Taaviel Memshal, A Guerreira Desertora e caçadora de recompensas"
-        },
-        {
-          "canal": "tiracass",
-          "plateia": 5,
-          "titulo": "Crown RP | Farm intensivo :(("
-        },
-        {
-          "canal": "livesdoigao",
-          "plateia": 5,
-          "titulo": "THE LAST DANCE! Adeus GTA V, live ate as 13h voltamos as 22h"
-        },
-        {
-          "canal": "mczruan",
-          "plateia": 4,
-          "titulo": "GTA"
-        },
-        {
-          "canal": "livesdoand",
-          "plateia": 4,
-          "titulo": "Revelando todos os Locais secretos do GTA 6 AO VIVO | !PIX !COMANDOS"
-        },
-        {
-          "canal": "diogoking89",
-          "plateia": 4,
-          "titulo": "🔞| OFFSET RP |"
-        },
-        {
-          "canal": "paniiczxx7",
-          "plateia": 4,
-          "titulo": "CPXGG +18 Low Profile  BOM DIA"
-        },
-        {
           "canal": "wiht3r",
-          "plateia": 4,
+          "plateia": 5,
           "titulo": "[2/50] TRABALHAR QUE É BOM MEUS AMIGOS 🧑‍🌾 | S7VEN RP | Codigo : S7-HU2| ❗️Insta"
         },
         {
-          "canal": "ogordao77",
-          "plateia": 4,
-          "titulo": "🔴[CARBON COMPOUND] Não tenho GTA VI então bó corre- !CBN ~ !PIX ~ !PC ~ !CONTROL"
+          "canal": "allissongod",
+          "plateia": 5,
+          "titulo": "AO VIVO: ADEUS, GTA 5! 💔 A ÚLTIMA VOLTA ANTES DO GTA 6! #gta6"
         },
         {
-          "canal": "ktchorolol",
-          "plateia": 4,
-          "titulo": "CDAnjos  -  Gui Ferraz -"
+          "canal": "chicodesastre190",
+          "plateia": 5,
+          "titulo": "🔥 CHICO DESASTRE NA POLÍCIA 🚔 | HOJE A CASA VAI CAIR! 😂 | GTA RP AO VIVO"
+        },
+        {
+          "canal": "agathapetrov",
+          "plateia": 5,
+          "titulo": "ecco rp,codiguinho on"
+        },
+        {
+          "canal": "cisco_pika",
+          "plateia": 5,
+          "titulo": "🚨+18 | Haze RP | Bairro dos Kangpae | Bora Matar Bots!!!🚨"
         }
       ]
     },
@@ -1894,63 +212,68 @@
       "clipes_pt_7d": [
         {
           "canal": "alanzoka",
-          "clipes": 40,
-          "views": 8970
+          "clipes": 43,
+          "views": 12267
         },
         {
           "canal": "joao01doturno",
           "clipes": 1,
-          "views": 1706
+          "views": 1938
         },
         {
           "canal": "Bisteconee",
           "clipes": 8,
-          "views": 866
+          "views": 1033
         },
         {
           "canal": "PaulinhoLOKObr",
           "clipes": 8,
-          "views": 670
+          "views": 826
         },
         {
           "canal": "Dcosta",
           "clipes": 3,
-          "views": 200
+          "views": 227
         },
         {
           "canal": "Lnz3",
           "clipes": 2,
-          "views": 188
+          "views": 196
         },
         {
           "canal": "StolenBR",
           "clipes": 1,
-          "views": 174
+          "views": 175
+        },
+        {
+          "canal": "Cellbit",
+          "clipes": 3,
+          "views": 172
         },
         {
           "canal": "BURGAOfps",
           "clipes": 2,
-          "views": 140
-        },
-        {
-          "canal": "thimagroo",
-          "clipes": 2,
-          "views": 114
-        },
-        {
-          "canal": "oTioZero",
-          "clipes": 1,
-          "views": 113
-        },
-        {
-          "canal": "Cellbit",
-          "clipes": 2,
-          "views": 95
+          "views": 169
         },
         {
           "canal": "MeikodRJ",
           "clipes": 2,
-          "views": 91
+          "views": 138
+        },
+        {
+          "canal": "thimagroo",
+          "clipes": 2,
+          "views": 124
+        },
+        {
+          "canal": "oTioZero",
+          "clipes": 1,
+          "views": 115
+        },
+        {
+          "canal": "Snopey",
+          "clipes": 1,
+          "views": 78
         },
         {
           "canal": "luupe0fc",
@@ -1963,7 +286,12 @@
           "views": 69
         },
         {
-          "canal": "Snopey",
+          "canal": "Olkabone",
+          "clipes": 1,
+          "views": 48
+        },
+        {
+          "canal": "RenanSouzones",
           "clipes": 1,
           "views": 48
         },
@@ -1971,173 +299,158 @@
           "canal": "xhotzx",
           "clipes": 1,
           "views": 46
-        },
-        {
-          "canal": "Olkabone",
-          "clipes": 1,
-          "views": 43
-        },
-        {
-          "canal": "RenanSouzones",
-          "clipes": 1,
-          "views": 43
-        },
-        {
-          "canal": "allyz1nfps",
-          "clipes": 1,
-          "views": 39
         }
       ],
       "ao_vivo_pt_agora": [
         {
           "canal": "alanzoka",
-          "plateia": 277059,
+          "plateia": 266885,
           "titulo": "VICE CITY BABYYYYYYYYYYY - JOGANDO NO PS5 PRO"
         },
         {
-          "canal": "paulinholokobr",
-          "plateia": 17569,
-          "titulo": "GTA 6 O ÍNICIO!"
-        },
-        {
           "canal": "cellbit",
-          "plateia": 15784,
+          "plateia": 15992,
           "titulo": "GTA 6. (jogando no PS5)"
         },
         {
           "canal": "ricfazeres",
-          "plateia": 9528,
+          "plateia": 8632,
           "titulo": "✳️ DROPS ON ➡️ GTA 6 O INICIO DA AVENTURA HOJE ➡️ !loja ➡️ LIVE E VÍDEOS NO CANA"
         },
         {
           "canal": "blackoutz",
-          "plateia": 5806,
+          "plateia": 5996,
           "titulo": "GTA VI VAMOOOO SE SABE"
         },
         {
           "canal": "snopey",
-          "plateia": 3285,
+          "plateia": 3531,
           "titulo": "JOGANDO GTA 6 !cinefy !howstore"
         },
         {
           "canal": "tioorochitwitch",
-          "plateia": 3209,
+          "plateia": 3455,
           "titulo": "estreia do gta vi"
         },
         {
-          "canal": "meikodrj",
-          "plateia": 2864,
-          "titulo": "🔥 JOGANDO GTA 6!!! 🔥 HOJE É O GRANDE DIA!!! 🔥 PIXATHON ATIVADO! 🔥"
+          "canal": "facada",
+          "plateia": 3225,
+          "titulo": "o INICIO de GTA 6 + 2 SORTEIOS do JOGO"
         },
         {
           "canal": "rakin",
-          "plateia": 2267,
+          "plateia": 3148,
           "titulo": "+18 SPEEDRUN DE GTA VI - !exitlag"
         },
         {
+          "canal": "meikodrj",
+          "plateia": 2536,
+          "titulo": "🔥 JOGANDO GTA 6!!! 🔥 HOJE É O GRANDE DIA!!! 🔥 PIXATHON ATIVADO! 🔥"
+        },
+        {
           "canal": "brino",
-          "plateia": 1922,
+          "plateia": 1817,
           "titulo": "GTA 6 - O PIOR STREAMER DO MUNDO"
         },
         {
           "canal": "hayashii",
-          "plateia": 1794,
+          "plateia": 1770,
           "titulo": "LANÇAMENTO DO GTA 6, GAMEPLAY do INÍCIO! | !Sorteios !2e67 !Alura !Monster !Pix "
         },
         {
           "canal": "mount",
-          "plateia": 1471,
+          "plateia": 1557,
           "titulo": "182 / GTA 6 VAMOS NESSA UIA"
         },
         {
-          "canal": "suetam1v4",
-          "plateia": 1455,
-          "titulo": "LANÇAMENTO DO GTA 6 | !pix !zap"
-        },
-        {
           "canal": "thimagroo",
-          "plateia": 1442,
+          "plateia": 1486,
           "titulo": "LANÇAMENTO DO GTA VI 🏝️ - LIVE INFINITA  |❗PIX ❗️DC ͏"
         },
         {
-          "canal": "calango",
-          "plateia": 1440,
-          "titulo": "gta VI apelao"
-        },
-        {
-          "canal": "rubini",
-          "plateia": 1232,
-          "titulo": "@Rubini - GTA VI - !loja !rubinot !transfer !reidoscoins"
-        },
-        {
           "canal": "burgaofps",
-          "plateia": 1163,
+          "plateia": 1459,
           "titulo": "+18🟢 GTA 6 - LIVE DOS APRECIADORES DE GAMEPLAY AVANÇADA🟢 !LINKS🟢"
         },
         {
-          "canal": "handsomed11",
-          "plateia": 895,
-          "titulo": "GTA 6 - O jogo MAIS AGUARDADO DA HISTÓRIA - PS5 PRO - Grand Theft Auto VI - Hand"
+          "canal": "rubini",
+          "plateia": 1406,
+          "titulo": "@Rubini - GTA VI - !loja !rubinot !transfer !reidoscoins"
         },
         {
           "canal": "thedarkness",
-          "plateia": 851,
+          "plateia": 1153,
           "titulo": "DE VOLTA À VICE CITY :)"
         },
         {
-          "canal": "demuxa",
-          "plateia": 830,
-          "titulo": "🎉 LUCIA ESTA ONLINE 🎉❗Discord ❗Demiflix ❗Formulario #DBDCreator #AD"
+          "canal": "suetam1v4",
+          "plateia": 1080,
+          "titulo": "LANÇAMENTO DO GTA 6 | !pix !zap"
         },
         {
-          "canal": "calura9",
-          "plateia": 797,
-          "titulo": "GTA 6 ESTA ENTRE NÓS, O JOGO MAIS ESPERADO DA HISTÓRIA - PARTE 1"
+          "canal": "calango",
+          "plateia": 959,
+          "titulo": "gta VI apelao"
+        },
+        {
+          "canal": "douglassola",
+          "plateia": 869,
+          "titulo": "LANÇAMENTO DO GTA VI 🏝️(estamos em Nova Zelândia)"
         },
         {
           "canal": "olkabone",
-          "plateia": 766,
+          "plateia": 863,
           "titulo": "GTA 6 GAMEPLAY DE LANÇAMENTO [PS5 PRO]. Digite !prime e saiba como remover os co"
         },
         {
-          "canal": "brunablince",
-          "plateia": 718,
-          "titulo": "Dragona no GTA VI"
+          "canal": "handsomed11",
+          "plateia": 781,
+          "titulo": "GTA 6 - O jogo MAIS AGUARDADO DA HISTÓRIA - PS5 PRO - Grand Theft Auto VI - Hand"
+        },
+        {
+          "canal": "calura9",
+          "plateia": 748,
+          "titulo": "GTA 6 ESTA ENTRE NÓS, O JOGO MAIS ESPERADO DA HISTÓRIA - PARTE 1"
+        },
+        {
+          "canal": "demuxa",
+          "plateia": 740,
+          "titulo": "🎉 LUCIA ESTA ONLINE 🎉❗Discord ❗Demiflix ❗Formulario #DBDCreator #AD"
+        },
+        {
+          "canal": "heitir",
+          "plateia": 723,
+          "titulo": "GTA 6 - O INÍCIO (JOGO COMPLETO)"
         },
         {
           "canal": "stereonline",
-          "plateia": 703,
+          "plateia": 722,
           "titulo": "AO VIVO - GTA 6 O COMEÇO!!"
         },
         {
-          "canal": "marinho",
-          "plateia": 623,
-          "titulo": "PRIMEIRO STREAMER DO BRASIL JOGANDO GTA 6! SUBATHON: PIX +3MIN | SUB +12MIN | SO"
+          "canal": "brunablince",
+          "plateia": 708,
+          "titulo": "Dragona no GTA VI"
+        },
+        {
+          "canal": "biahkov",
+          "plateia": 499,
+          "titulo": "💜 LIVE SEMI INFINITA NO LANÇAMENTO DO GTA6!! DONATE DE VIDEO 2,50 Dia 190 🦈 ❗ Pi"
+        },
+        {
+          "canal": "stolenbr",
+          "plateia": 468,
+          "titulo": "LANÇAMENTO GRAND THEFT AUTO VI (MARATONA)💪🤠🥹🌴- !Monster !Eneba !Grupo"
         },
         {
           "canal": "apenas1live",
-          "plateia": 535,
+          "plateia": 428,
           "titulo": "Gta 6 está entre nós... !vods !pix !hj !dc"
         },
         {
-          "canal": "pescocofino",
-          "plateia": 425,
-          "titulo": "LANÇAMENTO GTA 6    - !sorteio"
-        },
-        {
-          "canal": "catarina4fun",
-          "plateia": 413,
-          "titulo": "GTA 6 ! OMG DEUUUUUUUUUUUUU    !youtube   !insta"
-        },
-        {
-          "canal": "ricardoquik",
-          "plateia": 409,
-          "titulo": "🎮GTA6 + MUITO SORTEIO -> Vem assistir tudo em primeira mão na live que mais paga"
-        },
-        {
-          "canal": "axtlol",
-          "plateia": 407,
-          "titulo": "GTA 6  -  Bora boraaaaaaaaaaa"
+          "canal": "ovelhera",
+          "plateia": 423,
+          "titulo": "🔴🟢🟡 GTA VI COM O RASTA !pix !lolidle !pw"
         }
       ]
     }
