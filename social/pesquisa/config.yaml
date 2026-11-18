@@ -245,6 +245,9 @@ lives:
     - catarina4fun
     - ricardoquik
     - axtlol
+  # canais só com a imagem do jogo, sem câmera (Diego, 18/11): moldura branca com título
+  canais_jogo: [gta6news]
+  min_views_jogo: 1
   canais_kick: []
   idiomas: [pt]            # clipes gerais em português primeiro (favoritos entram sempre)
   idiomas_reserva: [en, es]  # só completam a rodada quando falta clipe em português
