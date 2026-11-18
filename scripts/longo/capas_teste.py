@@ -278,9 +278,47 @@ def g5g6(pasta: Path, quadro_gta5: Path) -> None:
     im.convert("RGB").save(pasta / "gta5-vs-gta6-capa-C.jpg", quality=92)
 
 
+def curiosidades(pasta: Path) -> None:
+    """Vídeo de 18/11: 12 curiosidades com imagens reais (Jason e Lucia em todas)."""
+    # A: Jason e Lucia no pôr do sol + "12 CURIOSIDADES"
+    im = fundo(JL_TRAILER, .50, .45, 1.15)
+    degrade(im, "esq", 640, 240)
+    texto(im, (36, 20), "12", 300, AMARELO, 16)
+    texto(im, (36, 350), "CURIOSI-", 110, BRANCO, 12)
+    texto(im, (36, 470), "DADES", 110, ROSA, 12)
+    selo(im, (W - 40, 26), 70, "dir")
+    borda(im)
+    logo(im, "dir")
+    im.convert("RGB").save(pasta / "curiosidades-capa-A.jpg", quality=92)
+
+    # B: Jason e Lucia no telhado + "ISSO TEM NO JOGO?!"
+    im = fundo(JL_TELHADO, .62, .45, 1.1)
+    degrade(im, "esq", 760, 235)
+    texto(im, (36, 50), "ISSO TEM", 130, BRANCO)
+    texto(im, (36, 200), "NO JOGO?!", 150, AMARELO)
+    pilula(im, (40, 420), "IMAGENS REAIS", 60, ROSA, BRANCO)
+    selo(im, (40, 575), 66)
+    borda(im, CIANO)
+    logo(im, "dir")
+    im.convert("RGB").save(pasta / "curiosidades-capa-B.jpg", quality=92)
+
+    # C: Jason e Lucia saindo do carro + "NINGUÉM PERCEBEU" embaixo (rostos livres em cima)
+    im = fundo(JL_CARRO, .5, .35, 1.0)
+    g = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    dg = ImageDraw.Draw(g)
+    for i in range(300):
+        dg.line([(0, H - i), (W, H - i)], fill=(*NOITE, int(235 * (1 - i / 300) ** 1.2)))
+    im.alpha_composite(g)
+    texto(im, (W // 2, H - 95), "NINGUÉM PERCEBEU", 140, AMARELO, 12, "mm")
+    selo(im, (W - 36, 26), 70, "dir")
+    borda(im)
+    im.convert("RGB").save(pasta / "curiosidades-capa-C.jpg", quality=92)
+
+
 if __name__ == "__main__":
     out = Path(sys.argv[1])
     out.mkdir(parents=True, exist_ok=True)
+    curiosidades(out)
     leonida(out)
     h48(out)
     if len(sys.argv) > 2:
