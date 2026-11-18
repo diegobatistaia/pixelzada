@@ -77,6 +77,56 @@ def eh_streamer(mp4: Path) -> bool:
     return perfil.lower().startswith(("twitch/", "kick/"))
 
 
+# Os 3 modelos de corte de streamer que o Diego aprovou (18/11), em rodízio; a etiqueta
+# modelo_streamer fica no Reel para comparar o desempenho.
+MODELOS_STREAMER = {"dividido": "Dividido (modelo 1)", "streamer-branca": "Branca + frase (modelo 2)",
+                    "streamer-desfocado": "Desfocado + título + legenda (modelo 3)"}
+ORDEM_STREAMER = ["dividido", "streamer-branca", "streamer-desfocado"]
+
+
+def modelo_streamer(fila: list[dict], info: dict, ja_nesta: int = 0) -> str:
+    """Próximo modelo do rodízio. Modelo 2 precisa da câmera; modelo 3, do clipe original."""
+    feitos = [((i.get("etiquetas") or {}).get("modelo_streamer") or (i.get("etiquetas") or {}).get("teste_modelo") or "")
+              for i in fila if ((i.get("origem") or {}).get("perfil") or "").lower().startswith(("twitch/", "kick/"))]
+    ultimo = next((f for f in reversed(feitos) if f), "")
+    ultimo = {"modelo1-dividido": "dividido", "modelo2-branca-frase": "streamer-branca",
+              "modelo3-desfocado-legenda": "streamer-desfocado"}.get(ultimo, ultimo)
+    k = (ORDEM_STREAMER.index(ultimo) + 1 + ja_nesta) % 3 if ultimo in ORDEM_STREAMER else ja_nesta % 3
+    for passo in range(3):
+        m = ORDEM_STREAMER[(k + passo) % 3]
+        if m == "streamer-branca" and info.get("camera") is False:
+            continue
+        if m == "streamer-desfocado" and not info.get("falas"):
+            continue
+        return m
+    return "dividido"
+
+
+def montar_streamer(estilo: str, mp4: Path, info: dict, titulo: str, saida: Path) -> bool:
+    if estilo == "dividido":
+        shutil.copy(mp4, saida)
+        return True
+    g = GERADOR.parent
+    with tempfile.TemporaryDirectory() as tmp:
+        if estilo == "streamer-branca":
+            cmd = ["node", str(g / "streamer-modelo2.js"), str(mp4), titulo, str(saida), str(g)]
+        else:
+            original = mp4.with_name(mp4.stem + "-original.mp4")
+            if not original.exists():
+                return False
+            falas = Path(tmp) / "falas.json"
+            f = dict(info.get("falas") or {})
+            f["titulo"] = re.sub(r"</?em>", "", titulo)
+            falas.write_text(json.dumps(f, ensure_ascii=False), encoding="utf-8")
+            cmd = ["node", str(g / "streamer-modelo3.js"), str(original), str(falas), str(saida), str(g)]
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+    if r.returncode or not saida.exists():
+        print(f"  {estilo} falhou ({(r.stderr or '')[-300:]}); vai no modelo 1")
+        saida.unlink(missing_ok=True)
+        return False
+    return True
+
+
 def estilo_do_horario(dia: str, hora: str) -> str | None:
     """simples-branca / simples-preta, ou None para o rodízio da identidade."""
     grade = R.horarios(dia)
@@ -242,9 +292,12 @@ def automatico(agora: datetime | None = None) -> int:
             slug, k = f"{base}-{k}", k + 1
         slugs.add(slug)
         if info.get("pronto") == "dividido":
-            # corte da live já no formato do Diego (18/11): câmera em cima, jogo embaixo, sem moldura
-            estilo = "dividido"
-            print(f"  {mp4.name} -> {slug} (dividido, sem moldura; título {texto['fonte']}): {texto['titulo']}")
+            # corte de live: um dos 3 modelos que o Diego aprovou (18/11), em rodízio
+            estilo = modelo_streamer(fila, info, len([x for x in itens if x[2] in MODELOS_STREAMER]))
+            falas = info.get("falas") or {}
+            if falas.get("titulo") and estilo != "dividido":
+                texto = {**texto, "titulo": falas["titulo"], "emoji": falas.get("emoji") or texto["emoji"], "fonte": "gemini-falas"}
+            print(f"  {mp4.name} -> {slug} ({estilo}; título {texto['fonte']}): {texto['titulo']}")
             itens.append((mp4, slug, estilo, texto, tema, info))
             continue
         print(f"  {mp4.name} -> {slug} ({estilo}, título {texto['fonte']}): {texto['titulo']}")
@@ -259,9 +312,11 @@ def automatico(agora: datetime | None = None) -> int:
             subprocess.run(["node", str(GERADOR), str(ped), str(res)], check=False)
         resultado = json.loads(res.read_text(encoding="utf-8")) if res.exists() and pedido else []
     for (mp4, slug, estilo, texto, tema, info) in itens:
-        if estilo == "dividido":
+        if estilo in MODELOS_STREAMER:
             VIDEOS.mkdir(parents=True, exist_ok=True)
-            shutil.copy(mp4, VIDEOS / f"{slug}.mp4")
+            if not montar_streamer(estilo, mp4, info, texto["titulo"], VIDEOS / f"{slug}.mp4"):
+                shutil.copy(mp4, VIDEOS / f"{slug}.mp4")  # se o modelo falhar, sai no modelo 1
+                itens[itens.index((mp4, slug, estilo, texto, tema, info))] = (mp4, slug, "dividido", texto, tema, info)
             f = subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", "1", "-i", str(VIDEOS / f"{slug}.mp4"),
                                 "-frames:v", "1", "-q:v", "2", str(VIDEOS / f"{slug}.jpg")], capture_output=True)
             resultado.append({"saida": str(VIDEOS / slug), "ok": f.returncode == 0})
@@ -274,7 +329,7 @@ def automatico(agora: datetime | None = None) -> int:
         dia, hora = vagas[itens.index((mp4, slug, estilo, texto, tema, info))]
         usados += 1
         fila.append({"slug": slug, "data": dia, "horario": hora, "status": "agendado",
-                     "estilo": SIMPLES.get(estilo) or NOME_ESTILO.get(estilo) or "Dividido",
+                     "estilo": SIMPLES.get(estilo) or NOME_ESTILO.get(estilo) or MODELOS_STREAMER.get(estilo) or "Dividido",
                      "legenda": legenda(texto["titulo"], texto["emoji"], tema, texto["hashtags"]),
                      "tentativas": 0,
                      "origem": {"motor": True, "perfil": info.get("perfil"), "link": info.get("link"),
@@ -282,10 +337,12 @@ def automatico(agora: datetime | None = None) -> int:
                      # etiquetas para a análise semanal (Diego, 10/11)
                      "etiquetas": {"formato": info.get("formato") or "outro", "tema": info.get("tema") or "games",
                                    "jogo": info.get("jogo") or "",
-                                   "moldura": estilo if estilo in SIMPLES or estilo == "dividido" else "identidade"},
+                                   "moldura": estilo if estilo in SIMPLES or estilo in MODELOS_STREAMER else "identidade",
+                                   **({"modelo_streamer": estilo} if estilo in MODELOS_STREAMER else {})},
                      "checagem": info.get("checagem")})
         mp4.unlink()
         mp4.with_suffix(".json").unlink()
+        mp4.with_name(mp4.stem + "-original.mp4").unlink(missing_ok=True)
         print(f"  {slug}: na fila {dia} {hora}")
     for pasta in ENTRADA.glob("*"):
         if pasta.is_dir() and not any(pasta.iterdir()):
