@@ -16,6 +16,9 @@ janela_horas: 72                  # só entram vídeos publicados nas últimas X
 posts_por_perfil: 30              # quantos posts recentes ler de cada perfil
 lista_tamanho: 30                 # quantos vídeos vão na lista do dia
 max_por_perfil: 4                 # no máximo X vídeos do mesmo perfil na lista
+# Só GTA (Diego, 18/11: "Pode parar com os vídeos que não são do GTA"): fora destes temas
+# o vídeo nem entra na lista. GTA 6 primeiro; o tema gta (GTA 5, San Andreas...) é reserva.
+so_temas: [gta6, gta]
 minimo_vezes_media: 1.0           # vídeo precisa ir pelo menos X vezes a média do perfil
 horarios: ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
 
@@ -65,6 +68,11 @@ temas:
     nome: GTA 6
     palavras: ["gta 6", "gta6", "gta vi", "gtavi", "vice city", "leonida", "lucia", "jason duval"]
     peso: 2
+  gta:
+    nome: GTA
+    palavras: ["gta", "gta 5", "gta5", "gta v", "gtav", "gta online", "san andreas", "los santos", "vice city stories",
+               "gta iv", "gta 4", "liberty city", "grand theft auto", "trevor", "franklin", "michael de santa", "cj"]
+    peso: 1
   battlefield6:
     nome: Battlefield 6
     palavras: ["battlefield 6", "battlefield6", "bf6", "battlefield"]

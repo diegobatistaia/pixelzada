@@ -220,6 +220,8 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
             if bloqueado(cfg, p.get("caption", "")):
                 continue
             tema = tema_de(cfg, p.get("caption", ""), padrao.get(perf["perfil"], "games"))
+            if cfg.get("so_temas") and tema not in cfg["so_temas"]:
+                continue
             formato = formato_de(cfg, p.get("caption", ""))
             candidatos.append({
                 "id": p["id"], "perfil": perf["perfil"], "link": p.get("permalink"),

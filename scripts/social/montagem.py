@@ -223,7 +223,8 @@ def automatico(agora: datetime | None = None) -> int:
     pedido, itens = [], []
     for n, (mp4, estilo) in enumerate(zip(videos, estilos)):
         info = json.loads(mp4.with_suffix(".json").read_text(encoding="utf-8"))
-        tema = info.get("tema") if info.get("tema") in CTA else "games"
+        tema = "gta6" if info.get("tema") == "gta" else info.get("tema")  # GTA 5/SA: CTA do GTA 6
+        tema = tema if tema in CTA else "games"
         texto = gerar_texto(info)
         base = texto["slug"] or slugify(f"{info.get('jogo', 'games')}-{info.get('perfil', '')}")
         slug, k = base or f"motor-{n}", 2
