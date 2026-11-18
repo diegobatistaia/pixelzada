@@ -104,7 +104,10 @@
     "query": "Lucia Caminos GTA 6",
     "alt": "Imagem oficial 'Lucia Caminos 09', da página de mídia do site de GTA VI",
     "url": "https://www.rockstargames.com/VI/_next/static/media/Lucia_Caminos_09.0pd.ppokmi8-n.jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-leonida-penitentiary-passado-de-lu-c48b5f7e.jpg",
+    "source_url": "",
+    "foco": "48% 19%"
   },
   "sources": [
     {
@@ -216,5 +219,7 @@
       "title": "Watch the Grand Theft Auto VI Launch Trailer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-18T18:45:37+00:00",
+  "updated_at": "2026-11-18T18:45:37+00:00"
 }
