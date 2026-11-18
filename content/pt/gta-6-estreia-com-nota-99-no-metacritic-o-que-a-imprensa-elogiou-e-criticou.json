@@ -95,7 +95,9 @@
     "query": "GTA 6 review",
     "alt": "Cena de GTA 6 divulgada com as primeiras análises",
     "url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-37-1795002431431.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-estreia-com-nota-99-no-metacritic--e41061db.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -117,5 +119,7 @@
       "title": "GTA 6 recebe nota 99 no Metacritic nas primeiras análises"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-18T14:49:01+00:00",
+  "updated_at": "2026-11-18T14:49:01+00:00"
 }
