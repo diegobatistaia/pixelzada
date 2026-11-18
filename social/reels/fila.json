@@ -5816,7 +5816,7 @@
     "slug": "gta-6-chernobyl-games",
     "data": "2026-11-18",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -5838,6 +5838,19 @@
       "motivo": "imagens de video games com personagens vestidos e armas",
       "por": "imagem",
       "em": "2026-11-18T11:41:41-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T13:00:56-03:00",
+      "media_id": "17914047513310327",
+      "permalink": "https://www.instagram.com/reel/Df44uElDqGY/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
