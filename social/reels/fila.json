@@ -5987,7 +5987,8 @@
       "formato": "outro",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-branca"
+      "moldura": "simples-branca",
+      "estilo_antes": "Simples branca"
     },
     "checagem": {
       "risco": "baixo",
