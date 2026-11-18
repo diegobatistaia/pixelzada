@@ -6154,7 +6154,7 @@
     "slug": "gta-6-twitch-alanzoka-14",
     "data": "2026-11-18",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Alan fumando um cigarro enquanto os policiais cercam ele 🚬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6177,6 +6177,19 @@
       "motivo": "streamer e gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-18T16:12:05-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T17:01:14-03:00",
+      "media_id": "18129548959903023",
+      "permalink": "https://www.instagram.com/reel/Df5UOOdk96v/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
