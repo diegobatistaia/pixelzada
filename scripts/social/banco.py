@@ -28,7 +28,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
-from . import camera_ia
+from . import camera_ia, qualidade
 from . import rosto
 from .lives import TZ, Falha, Twitch
 
@@ -147,6 +147,11 @@ def processar(login: str, v: dict, t0: int, saida: Path) -> tuple[dict | None, l
             if not baixar_trecho(v["url"], t, bruto):
                 motivos.append("download falhou")
                 print(f"  {cid} (+{d}s): download falhou")
+                continue
+            ruim = qualidade.tela_ruim(bruto)
+            if ruim:
+                motivos.append("intervalo da Twitch")
+                print(f"  {cid} (+{d}s): descartado ({ruim})")
                 continue
             r = camera_ia.perguntar(bruto)
             motivo = None
