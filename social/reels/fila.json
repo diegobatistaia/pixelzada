@@ -6348,9 +6348,96 @@
     }
   },
   {
-    "slug": "gta-6-twitch-alanzoka-18",
+    "slug": "gta-6-twitch-jogo-gta6news",
     "data": "2026-11-18",
     "horario": "19:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Eu na primeira hora de GTA 6 só andando de quadriciclo 🏍️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch-jogo/GTA6NEWS",
+      "link": "https://www.twitch.tv/gta6news#ao-vivo-20261118-1840",
+      "titulo": "gemini-regra",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca",
+      "modelo_streamer": "jogo-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram telas de intervalo da twitch e gameplay com personagens vestidos em veículos",
+      "por": "imagem",
+      "em": "2026-11-18T18:46:36-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-19",
+    "data": "2026-11-18",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Desfocado + título + legenda (modelo 3)",
+    "legenda": "Alan traduzindo a treta do NPC no GTA 🗣️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/ExpensiveTolerantSandstormANELE-E02CpDPlkAG2jFkQ",
+      "titulo": "gemini-falas",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "streamer-desfocado",
+      "modelo_streamer": "streamer-desfocado"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer com camisa e gameplay de jogo de mundo aberto com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-18T18:46:39-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-cellbit-3",
+    "data": "2026-11-18",
+    "horario": "20:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "Alan se assusta com cena bizarra no corredor de GTA 6 😱\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Cellbit",
+      "link": "https://www.twitch.tv/cellbit/clip/SilkyCoyPassionfruitWTRuck-sxacHjvitelQ3kuV",
+      "titulo": "gemini-falas",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e cenas de gameplay com pessoa vestida em um corredor",
+      "por": "imagem",
+      "em": "2026-11-18T18:46:43-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-18",
+    "data": "2026-11-18",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "Alan joga GTA 6 e acaba atraindo a polícia 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6374,93 +6461,6 @@
       "motivo": "streamer vestido e cenas de gameplay com carros em rua",
       "por": "imagem",
       "em": "2026-11-18T18:14:34-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-twitch-tioorochitwitch",
-    "data": "2026-11-18",
-    "horario": "20:00",
-    "status": "agendado",
-    "estilo": "Branca + frase (modelo 2)",
-    "legenda": "Streamer joga farme demais e quase morre em explosão 💣\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/tioorochitwitch",
-      "link": "https://www.twitch.tv/tioorochitwitch/clip/StormyResilientEmuMau5-EgvrZJ1amsIh80mR",
-      "titulo": "gemini-falas",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "streamer-branca",
-      "modelo_streamer": "streamer-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo com violência leve sem nudez",
-      "por": "imagem",
-      "em": "2026-11-18T18:14:38-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-twitch-alanzoka-16",
-    "data": "2026-11-18",
-    "horario": "20:30",
-    "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "Alan descobre que andar de scooter de mobilidade é capacitista 🦼\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/IncredulousStrangeFungusWutFace-zUGk5ku5BWMem0JG",
-      "titulo": "gemini-falas",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer de games jogando e cenas noturnas do jogo sem nudez",
-      "por": "imagem",
-      "em": "2026-11-18T17:16:07-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-twitch-brino",
-    "data": "2026-11-18",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "Alan apavorado com a polícia no GTA e quase roda 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/brino",
-      "link": "https://www.twitch.tv/brino/clip/StrangeVivaciousCardJebaited-6L4jcj0a4HWJL6-M",
-      "titulo": "gemini-falas",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo com carros",
-      "por": "imagem",
-      "em": "2026-11-18T16:43:28-03:00"
     }
   },
   {
@@ -6494,32 +6494,32 @@
     "fixo": true
   },
   {
-    "slug": "gta-6-twitch-cellbit",
+    "slug": "gta-6-twitch-tioorochitwitch",
     "data": "2026-11-18",
     "horario": "22:00",
     "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "O Cellbit apanhando para um NPC em GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Branca + frase (modelo 2)",
+    "legenda": "Streamer joga farme demais e quase morre em explosão 💣\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "twitch/Cellbit",
-      "link": "https://www.twitch.tv/cellbit/clip/ClearTsunderePancakeCoolStoryBro-TcH7BIKRMc85FzNh",
-      "titulo": "gemini-regra",
+      "perfil": "twitch/tioorochitwitch",
+      "link": "https://www.twitch.tv/tioorochitwitch/clip/StormyResilientEmuMau5-EgvrZJ1amsIh80mR",
+      "titulo": "gemini-falas",
       "revisado": false
     },
     "etiquetas": {
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
+      "moldura": "streamer-branca",
+      "modelo_streamer": "streamer-branca"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "apenas gameplay de jogo com violência e streamer vestido, sem conteúdo sexual",
+      "motivo": "streamer vestido e gameplay de jogo com violência leve sem nudez",
       "por": "imagem",
-      "em": "2026-11-18T15:32:02-03:00"
+      "em": "2026-11-18T18:14:38-03:00"
     }
   },
   {
@@ -6553,17 +6553,17 @@
     "fixo": true
   },
   {
-    "slug": "gta-6-twitch-alanzoka-13",
+    "slug": "gta-6-twitch-alanzoka-16",
     "data": "2026-11-18",
     "horario": "23:00",
     "status": "agendado",
-    "estilo": "Branca + frase (modelo 2)",
-    "legenda": "Alan pilotando hidroavião no meio da tempestade ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "Alan descobre que andar de scooter de mobilidade é capacitista 🦼\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/LachrymoseInventiveWaterTheThing-fxab_4EUpw7fPJVU",
+      "link": "https://www.twitch.tv/alanzoka/clip/IncredulousStrangeFungusWutFace-zUGk5ku5BWMem0JG",
       "titulo": "gemini-falas",
       "revisado": false
     },
@@ -6571,44 +6571,43 @@
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "streamer-branca",
-      "modelo_streamer": "streamer-branca"
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "streamer vestido e cenas de gameplay com avião",
+      "motivo": "streamer de games jogando e cenas noturnas do jogo sem nudez",
       "por": "imagem",
-      "em": "2026-11-18T13:53:22-03:00"
+      "em": "2026-11-18T17:16:07-03:00"
     }
   },
   {
-    "slug": "gta-6-twitch-alanzoka-12",
+    "slug": "gta-6-twitch-brino",
     "data": "2026-11-18",
     "horario": "23:30",
     "status": "agendado",
-    "estilo": "Branca + frase (modelo 2)",
-    "legenda": "O Alan escolheu a vantagem errada no meio do caos 😬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "Alan apavorado com a polícia no GTA e quase roda 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/GiantColdBee4Head-9yP3zSn13q6C5fJP",
-      "titulo": "gemini-regra",
-      "revisado": false,
-      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
+      "perfil": "twitch/brino",
+      "link": "https://www.twitch.tv/brino/clip/StrangeVivaciousCardJebaited-6L4jcj0a4HWJL6-M",
+      "titulo": "gemini-falas",
+      "revisado": false
     },
     "etiquetas": {
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "streamer-branca",
-      "modelo_streamer": "streamer-branca"
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "streamer vestido jogando e menus de jogo",
+      "motivo": "streamer vestido e gameplay de jogo com carros",
       "por": "imagem",
-      "em": "2026-11-18T13:12:33-03:00"
+      "em": "2026-11-18T16:43:28-03:00"
     }
   },
   {
@@ -6672,9 +6671,97 @@
     "fixo": true
   },
   {
-    "slug": "gta-6-twitch-alanzoka-9",
+    "slug": "gta-6-twitch-cellbit",
     "data": "2026-11-19",
     "horario": "01:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "O Cellbit apanhando para um NPC em GTA 6 😂\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Cellbit",
+      "link": "https://www.twitch.tv/cellbit/clip/ClearTsunderePancakeCoolStoryBro-TcH7BIKRMc85FzNh",
+      "titulo": "gemini-regra",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apenas gameplay de jogo com violência e streamer vestido, sem conteúdo sexual",
+      "por": "imagem",
+      "em": "2026-11-18T15:32:02-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-13",
+    "data": "2026-11-19",
+    "horario": "01:30",
+    "status": "agendado",
+    "estilo": "Branca + frase (modelo 2)",
+    "legenda": "Alan pilotando hidroavião no meio da tempestade ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/LachrymoseInventiveWaterTheThing-fxab_4EUpw7fPJVU",
+      "titulo": "gemini-falas",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "streamer-branca",
+      "modelo_streamer": "streamer-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e cenas de gameplay com avião",
+      "por": "imagem",
+      "em": "2026-11-18T13:53:22-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-12",
+    "data": "2026-11-19",
+    "horario": "02:00",
+    "status": "agendado",
+    "estilo": "Branca + frase (modelo 2)",
+    "legenda": "O Alan escolheu a vantagem errada no meio do caos 😬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/GiantColdBee4Head-9yP3zSn13q6C5fJP",
+      "titulo": "gemini-regra",
+      "revisado": false,
+      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "streamer-branca",
+      "modelo_streamer": "streamer-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido jogando e menus de jogo",
+      "por": "imagem",
+      "em": "2026-11-18T13:12:33-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-9",
+    "data": "2026-11-19",
+    "horario": "02:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Alan cantando no carro em GTA 6 🎵\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6704,7 +6791,7 @@
   {
     "slug": "gta-6-twitch-bisteconee-3",
     "data": "2026-11-19",
-    "horario": "01:30",
+    "horario": "03:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Bistecone perdendo a linha com o NPC em GTA 6 🤬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6734,7 +6821,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-8",
     "data": "2026-11-19",
-    "horario": "02:00",
+    "horario": "03:30",
     "status": "agendado",
     "estilo": "Branca + frase (modelo 2)",
     "legenda": "O Alan arrumou confusão com a polícia no GTA 6 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6764,7 +6851,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-7",
     "data": "2026-11-19",
-    "horario": "02:30",
+    "horario": "04:00",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "O Alan assustou o cachorro do NPC em GTA 6 🐕\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6793,7 +6880,7 @@
   {
     "slug": "gta-6-twitch-paulinholokobr-2",
     "data": "2026-11-19",
-    "horario": "03:00",
+    "horario": "04:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "O Paulinho fugindo da polícia de GTA 6 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6822,7 +6909,7 @@
   {
     "slug": "gta-6-twitch-bisteconee-2",
     "data": "2026-11-19",
-    "horario": "03:30",
+    "horario": "05:00",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "O Bistecone foi pego pela polícia no telhado em GTA 6 🚁\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6851,7 +6938,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-6",
     "data": "2026-11-19",
-    "horario": "04:00",
+    "horario": "05:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Mal saiu o GTA 6 e o Alan já ficou confuso com o cachorro pulando 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6880,7 +6967,7 @@
   {
     "slug": "abertura-gta6-referencia-big-smoke",
     "data": "2026-11-19",
-    "horario": "04:30",
+    "horario": "06:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "A abertura do novo desenho de GTA 6 é uma referência à intro do Big Smoke em San Andreas 📺🔥 \"You picked the wrong house, fool!\"\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #sanandreas #bigsmoke #pixelzada",
@@ -6909,7 +6996,7 @@
   {
     "slug": "de-repente-semana-de-lancamento-gta6",
     "data": "2026-11-19",
-    "horario": "05:00",
+    "horario": "06:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "E, de repente, estamos na semana de lançamento do GTA 6 🥹🎉\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6938,7 +7025,7 @@
   {
     "slug": "sensacao-abrir-gta6-primeira-vez",
     "data": "2026-11-19",
-    "horario": "05:30",
+    "horario": "07:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Como vai ser a sensação de abrir GTA 6 pela primeira vez depois de esperar anos 😌\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6967,7 +7054,7 @@
   {
     "slug": "eu-indo-para-casa-dia-19",
     "data": "2026-11-19",
-    "horario": "06:00",
+    "horario": "07:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Eu indo para casa no dia 19 de novembro 🏎️💨 O GTA 6 já está esperando!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6996,7 +7083,7 @@
   {
     "slug": "gta6-como-comecou-como-esta-indo",
     "data": "2026-11-19",
-    "horario": "06:30",
+    "horario": "08:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "GTA 6: como começou e como está indo 🥹 Da lista de desejos pra biblioteca!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7025,7 +7112,7 @@
   {
     "slug": "gta6-horas-sem-tocar-numa-missao",
     "data": "2026-11-19",
-    "horario": "07:00",
+    "horario": "08:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "O que GTA 6 precisa ter pra você passar horas sem nem tocar numa missão? Comenta aí 👇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7054,7 +7141,7 @@
   {
     "slug": "por-que-rockstar-escolheu-19-de-novembro",
     "data": "2026-11-19",
-    "horario": "07:30",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando você percebe por que a Rockstar escolheu 19 de novembro pra lançar GTA 6 😂 Dia Internacional do Homem!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7083,7 +7170,7 @@
   {
     "slug": "edicao-standard-loja-ultimate-gta6",
     "data": "2026-11-19",
-    "horario": "08:00",
+    "horario": "09:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando você compra a edição Standard de GTA 6 e tenta entrar na loja exclusiva da versão Ultimate 😂🚪\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7112,7 +7199,7 @@
   {
     "slug": "esposa-ouvindo-falar-de-gta6",
     "data": "2026-11-19",
-    "horario": "08:30",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Minha esposa me ouvindo falar o dia todo de GTA 6 😂 Marca quem tá assim!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7141,7 +7228,7 @@
   {
     "slug": "experiencia-gta6-base-e-nao-ultimate",
     "data": "2026-11-19",
-    "horario": "09:00",
+    "horario": "10:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Experiência de quem comprar o GTA 6 Base e não o Ultimate 😂🛍️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7170,7 +7257,7 @@
   {
     "slug": "vice-city-chega-ao-nba-2k27",
     "data": "2026-11-19",
-    "horario": "09:30",
+    "horario": "11:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Vice City chegou ao NBA 2K27! 🏀🌴 A colaboração entre os jogos da Take-Two foi anunciada com novidades para os fãs de basquete.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7199,7 +7286,7 @@
   {
     "slug": "gta6-so-chega-dia-27",
     "data": "2026-11-19",
-    "horario": "10:00",
+    "horario": "11:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando o seu GTA 6 só chega dia 27 de novembro 🥲 Quem aí também comprou a mídia física?\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7228,7 +7315,7 @@
   {
     "slug": "dia-19-dirigindo-por-vice-city",
     "data": "2026-11-19",
-    "horario": "10:30",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "É dia 19 de novembro, e estou dirigindo por Vice City ouvindo minha playlist dos anos 80. A vida é boa 🌴🚗\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7257,7 +7344,7 @@
   {
     "slug": "jason-jet-ski-cachorro-gta6",
     "data": "2026-11-19",
-    "horario": "11:00",
+    "horario": "12:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Simplesmente Jason de jet ski com um cachorro no GTA 6 😭 Jogo do ano!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -7285,7 +7372,7 @@
   {
     "slug": "queda-de-moto-fisica-gta6",
     "data": "2026-11-19",
-    "horario": "11:30",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "O passeio acabou rápido 😂 Olha a física da queda de moto e as marcas que ficam no personagem em GTA 6.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
