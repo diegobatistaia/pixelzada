@@ -6461,6 +6461,34 @@
     "fixo": true
   },
   {
+    "slug": "gta-6-sougamergeek",
+    "data": "2026-11-18",
+    "horario": "22:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Eu esperando dar meia noite para jogar GTA 6 ⏳\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df5i78Quefw/",
+      "titulo": "gemini-regra",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Personagem de anime vestido com armadura padrão, sem nudez ou conteúdo sexual.",
+      "por": "imagem",
+      "em": "2026-11-18T20:40:11-03:00"
+    }
+  },
+  {
     "slug": "faltam-algumas-horas-gta6",
     "data": "2026-11-18",
     "horario": "22:30",
@@ -6491,17 +6519,17 @@
     "fixo": true
   },
   {
-    "slug": "gta6-corte-alanzoka-2",
+    "slug": "gta6-corte-ricfazeres",
     "data": "2026-11-18",
     "horario": "23:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "legenda": "🎮 RicFazeres jogando GTA 6\n📺 twitch.tv/ricfazeres\n\n#gta6 #gtavi #ricfazeres #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/MildLaconicAniseWTRuck-hfDb7kbQzBKM5wEh",
+      "perfil": "twitch/RicFazeres",
+      "link": "https://www.twitch.tv/ricfazeres/clip/SuperSpunkyEndiveKevinTurtle-xE-fHuO1yh5Wq0C0",
       "titulo": "canal",
       "revisado": false
     },
@@ -6514,23 +6542,23 @@
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "streamer e cenas de gameplay com personagens vestidos",
+      "motivo": "streamer vestido com fones e cenas de gameplay de jogo de carro",
       "por": "imagem",
-      "em": "2026-11-18T20:14:45-03:00"
+      "em": "2026-11-18T20:40:14-03:00"
     }
   },
   {
-    "slug": "gta6-corte-alanzoka-3",
+    "slug": "gta6-corte-facada",
     "data": "2026-11-18",
     "horario": "23:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "legenda": "🎮 Facada jogando GTA 6\n📺 twitch.tv/facada\n\n#gta6 #gtavi #facada #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/ColdWrongRhinocerosKappaRoss--_GwLKG5HGOCjW3u",
+      "perfil": "twitch/Facada",
+      "link": "https://www.twitch.tv/facada/clip/CalmDirtyWolfPartyTime-KzZ84-egt6WlgW1G",
       "titulo": "canal",
       "revisado": false
     },
@@ -6543,9 +6571,9 @@
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "streamer com camisa e gameplay de jogo de video game",
+      "motivo": "Pessoa vestida e cenas de jogo com carros",
       "por": "imagem",
-      "em": "2026-11-18T20:14:49-03:00"
+      "em": "2026-11-18T20:40:17-03:00"
     }
   },
   {
@@ -6609,9 +6637,96 @@
     "fixo": true
   },
   {
-    "slug": "queda-de-aviao-ao-vivo-gta6",
+    "slug": "gta6-corte-alanzoka",
     "data": "2026-11-19",
     "horario": "01:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/EnchantingSeductiveOwlJKanStyle-JMLjvadZgGmvVhGf",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de jogo com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-18T20:40:21-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-2",
+    "data": "2026-11-19",
+    "horario": "01:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/MildLaconicAniseWTRuck-hfDb7kbQzBKM5wEh",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer e cenas de gameplay com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-18T20:14:45-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-3",
+    "data": "2026-11-19",
+    "horario": "02:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/ColdWrongRhinocerosKappaRoss--_GwLKG5HGOCjW3u",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer com camisa e gameplay de jogo de video game",
+      "por": "imagem",
+      "em": "2026-11-18T20:14:49-03:00"
+    }
+  },
+  {
+    "slug": "queda-de-aviao-ao-vivo-gta6",
+    "data": "2026-11-19",
+    "horario": "02:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Um jogador flagrou uma queda de avião ao vivo jogando GTA 6 😱 O realismo do desastre é insano!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6639,7 +6754,7 @@
   {
     "slug": "pe-grande-em-gta6",
     "data": "2026-11-19",
-    "horario": "01:30",
+    "horario": "03:00",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Ele voltou! 😱 Acharam o Pé-grande nos matos de GTA 6.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6667,7 +6782,7 @@
   {
     "slug": "gato-ataca-ladrao-de-carro-gta6",
     "data": "2026-11-19",
-    "horario": "02:00",
+    "horario": "03:30",
     "status": "agendado",
     "estilo": "TV",
     "legenda": "Finalmente um oponente digno! 🐈🔥 Em GTA 6, se você roubar um carro com um gato dentro, ele vai rosnar, atacar e te tirar do carro.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
