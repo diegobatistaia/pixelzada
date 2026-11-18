@@ -6403,31 +6403,31 @@
     }
   },
   {
-    "slug": "gta-6-voxeloficial",
+    "slug": "roubados-por-npc-gta6",
     "data": "2026-11-18",
     "horario": "20:30",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "As músicas brasileiras confirmadas nas rádios de GTA 6 📻\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Fica esperto: os NPCs de GTA 6 tentam te assaltar! 😳 A Lucia quase perdeu o carro…\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "voxeloficial",
-      "link": "https://www.instagram.com/reel/Df5HmtYme_v/",
-      "titulo": "gemini-regra",
-      "revisado": false
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/Df5IPPPyG8u/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "apresentador e cenas de gameplay com carros e pessoas vestidas",
-      "por": "imagem",
-      "em": "2026-11-18T19:34:48-03:00"
+      "motivo": "quadros conferidos à mão em 18/11",
+      "por": "revisão manual",
+      "em": "2026-11-18T23:28:15.121268+00:00"
     }
   },
   {
@@ -6665,227 +6665,87 @@
     "fixo": true
   },
   {
-    "slug": "gta-6-ignbrasil",
+    "slug": "queda-de-aviao-ao-vivo-gta6",
     "data": "2026-11-19",
     "horario": "01:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Quando a NPC de GTA 6 rouba o seu carro na rua 🚗\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "ignbrasil",
-      "link": "https://www.instagram.com/reel/Df5IPPPyG8u/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "cenas de gameplay com carro e menus sem nudez",
-      "por": "imagem",
-      "em": "2026-11-18T19:34:50-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-gta6latest",
-    "data": "2026-11-19",
-    "horario": "01:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "A suposta nova abertura de GTA 6 criada por fã 🌴\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "gta6latest",
-      "link": "https://www.instagram.com/reel/Df4Xl2aSf4g/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "noticia",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens mostram artes conceituais e graficos de introducao de jogo sem nudez",
-      "por": "imagem",
-      "em": "2026-11-18T19:34:51-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-gamespot",
-    "data": "2026-11-19",
-    "horario": "02:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Quanto tempo demora para cruzar o mapa de GTA 6 de avião ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "gamespot",
-      "link": "https://www.instagram.com/reel/Df5GeHHgNGm/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens mostram gameplay de aviao e mapa, sem pessoas ou conteudo sensivel",
-      "por": "imagem",
-      "em": "2026-11-18T19:34:54-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-ignbrasil-2",
-    "data": "2026-11-19",
-    "horario": "02:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Dá pra andar de jet ski com um cachorro em GTA 6 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "ignbrasil",
-      "link": "https://www.instagram.com/reel/Df5FrzazBGC/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "imagens mostram gameplay de jogo com personagem em jet ski e cachorro",
-      "por": "imagem",
-      "em": "2026-11-18T19:34:56-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-flowgamestv",
-    "data": "2026-11-19",
-    "horario": "03:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "A queda de avião em GTA 6 tem um realismo absurdo ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Um jogador flagrou uma queda de avião ao vivo jogando GTA 6 😱 O realismo do desastre é insano!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "flowgamestv",
       "link": "https://www.instagram.com/reel/Df5ResMCsyd/",
-      "titulo": "gemini-regra",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "imagens mostram apenas gameplay de carro e o logotipo de GTA 6, sem nudez ou conteúdo sexual",
-      "por": "imagem",
-      "em": "2026-11-18T19:35:00-03:00"
+      "motivo": "quadros conferidos à mão em 18/11",
+      "por": "revisão manual",
+      "em": "2026-11-18T23:28:15.121268+00:00"
     }
   },
   {
-    "slug": "gta-6-flowgamestv-2",
+    "slug": "pe-grande-em-gta6",
     "data": "2026-11-19",
-    "horario": "03:30",
+    "horario": "01:30",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "O cachorro pilotando o jet ski com o Jason em GTA 6 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "flowgamestv",
-      "link": "https://www.instagram.com/reel/Df436o9lBJq/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "conteudo de jogo mostrando personagem em jet ski com cachorro",
-      "por": "imagem",
-      "em": "2026-11-18T19:35:01-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-ignbrasil-3",
-    "data": "2026-11-19",
-    "horario": "04:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "O Pé-grande apareceu escondido nos pântanos de GTA 6 😱\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Ele voltou! 😱 Acharam o Pé-grande nos matos de GTA 6.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "ignbrasil",
       "link": "https://www.instagram.com/reel/Df5bFPKzUE3/",
-      "titulo": "gemini-regra",
-      "revisado": false
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "video de gameplay mostrando carros e o personagem do pe-grande coberto de pelos, sem conteudo sexual ou nudez",
-      "por": "imagem",
-      "em": "2026-11-18T19:35:03-03:00"
+      "motivo": "quadros conferidos à mão em 18/11",
+      "por": "revisão manual",
+      "em": "2026-11-18T23:28:15.121268+00:00"
     }
   },
   {
-    "slug": "gta-6-meups-oficial",
+    "slug": "gato-ataca-ladrao-de-carro-gta6",
     "data": "2026-11-19",
-    "horario": "04:30",
+    "horario": "02:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "A mala personalizada de GTA 6 que os jogadores ganharam 🎁\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "TV",
+    "legenda": "Finalmente um oponente digno! 🐈🔥 Em GTA 6, se você roubar um carro com um gato dentro, ele vai rosnar, atacar e te tirar do carro.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Df5Jy9lhAe5/",
-      "titulo": "gemini-regra",
-      "revisado": false
+      "perfil": "flowgamestv",
+      "link": "https://www.instagram.com/reel/Df5cWKZlBjB/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "identidade"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "Exibe apenas capas de jogos, controles e ambiente interno de arena, sem conteúdo de nudez ou apelo sexual.",
-      "por": "imagem",
-      "em": "2026-11-18T19:35:05-03:00"
+      "motivo": "quadros conferidos à mão em 18/11",
+      "por": "revisão manual",
+      "em": "2026-11-18T23:23:39.991554+00:00"
     }
   },
   {
