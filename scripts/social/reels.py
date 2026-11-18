@@ -78,6 +78,9 @@ ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)  # DEPOIS: usado pe
 # com FOLGA para o atraso normal do agendador do GitHub. Quando a fila atrasa, ela inteira
 # anda para a frente (reagendar), e o que não cabe até 23h passa para o dia seguinte.
 FOLGA = timedelta(minutes=10)
+# Exceção do Diego (18/11): os 3 Reels de teste dos modelos de corte de streamer (item
+# "teste_modelo") saem com 10 minutos entre eles, fora da grade.
+TESTE_MIN = 10
 TENTATIVAS = 3
 
 
@@ -138,6 +141,9 @@ def reagendar(fila: list[dict], t: datetime) -> list[str]:
     pend = sorted((i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS), key=quando)
     for item in pend:
         q = quando(item)
+        if item.get("teste_modelo"):  # teste dos 3 modelos de corte (Diego, 18/11): horário fixo, 10 min entre eles
+            anterior = max(q, t) if q <= t else q
+            continue
         minimo = anterior + intervalo(anterior.date()) if anterior else None
         if q <= t:  # já passou da hora
             base = t if _na_janela(t) else _proximo_inicio(t)
@@ -168,9 +174,11 @@ def escolher(t: datetime | None = None, fila: list[dict] | None = None) -> dict 
     if not abertos:
         return None
     ultimo = _ultimo_publicado(fila)
-    if ultimo and t - ultimo < intervalo(t.date()) - FOLGA:
-        return None  # saiu um há menos de 1 hora; o próximo espera
-    return min(abertos, key=quando)  # o mais antigo primeiro: a fila anda em ordem
+    prox = min(abertos, key=quando)  # o mais antigo primeiro: a fila anda em ordem
+    espaco = timedelta(minutes=TESTE_MIN) if prox.get("teste_modelo") else intervalo(t.date())
+    if ultimo and t - ultimo < espaco - (timedelta(minutes=2) if prox.get("teste_modelo") else FOLGA):
+        return None  # saiu um há menos de 1 intervalo; o próximo espera
+    return prox
 
 
 def pasta_saida(item: dict):
@@ -281,7 +289,7 @@ def cmd_check(args) -> int:
         for k in ("slug", "data", "horario", "legenda", "status"):
             if not i.get(k):
                 erros.append(f"{i.get('slug', '?')}: falta {k}")
-        if i.get("status") != "publicado" and i.get("horario") not in horarios(i["data"]):  # publicados ficam como saíram
+        if i.get("status") != "publicado" and not i.get("teste_modelo") and i.get("horario") not in horarios(i["data"]):  # publicados ficam como saíram
             erros.append(f"{i['slug']}: horário {i.get('horario')} não é da grade de {i['data']}")
         if (i["data"], i["horario"]) in vistos:
             erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")
