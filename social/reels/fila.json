@@ -5528,7 +5528,7 @@
     "slug": "gta-6-twitch-bisteconee",
     "data": "2026-11-18",
     "horario": "09:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Gigante",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -5550,6 +5550,19 @@
       "motivo": "gameplay de perseguição policial, sem nudez nem rosto de streamer",
       "por": "revisão manual",
       "em": "2026-11-18T09:21:54-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T09:29:47-03:00",
+      "media_id": "17918727528542762",
+      "permalink": "https://www.instagram.com/reel/Df4gjyPADnI/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
