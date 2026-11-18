@@ -26,6 +26,7 @@ import sys
 import tempfile
 from datetime import datetime, timedelta
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
 
 from . import camera_ia
 from . import rosto
@@ -38,6 +39,8 @@ RELEASE = "banco-gta6"
 DUR = 40          # segundos por corte
 INICIO = 8 * 60   # pula os primeiros minutos da live (abertura, chat, loading)
 PASSO_MIN = 4 * 60
+DESVIOS = (0, 150, 330)  # cutscene/menu: tenta 2,5 e 5,5 min depois
+PARALELO = 3
 
 
 def _seg(d: str) -> int:
@@ -123,6 +126,63 @@ def ja_no_banco() -> set[str]:
     return {c["id"] for c in json.loads(INDICE.read_text(encoding="utf-8")).get("cortes", [])}
 
 
+def processar(login: str, v: dict, t0: int, saida: Path) -> tuple[dict | None, list[str]]:
+    """Um ponto da live: se cair em cutscene/menu, tenta um pouco mais para frente (DESVIOS)."""
+    motivos = []
+    for d in DESVIOS:
+        t = t0 + d
+        if t + DUR > v["duracao"] - 30:
+            break
+        cid = f"{login.lower()}-{v['id']}-{t0:05d}"
+        with tempfile.TemporaryDirectory() as tmp:
+            bruto = Path(tmp) / "bruto.mp4"
+            if not baixar_trecho(v["url"], t, bruto):
+                motivos.append("download falhou")
+                print(f"  {cid} (+{d}s): download falhou")
+                continue
+            r = camera_ia.perguntar(bruto)
+            motivo = None
+            if r["pessoa_real"] is None:
+                motivo = "IA indisponível"
+            elif r.get("conteudo") in ("cutscene", "menu"):
+                motivo = r["conteudo"]
+            elif not r.get("gta", True):
+                motivo = "não é GTA"
+            elif r["pessoa_real"] and r["caixas"]:
+                c = max(r["caixas"], key=lambda c: (c[2] - c[0]) * (c[3] - c[1]))
+                if (c[2] - c[0]) * (c[3] - c[1]) > 600_000:
+                    motivo = "câmera ocupa a tela"
+            elif r["pessoa_real"]:
+                motivo = "pessoa real sem posição"
+            if motivo:
+                motivos.append(motivo)
+                (saida / "descartes").mkdir(exist_ok=True)
+                miniatura(bruto, saida / "descartes" / f"{cid}-{d}-{motivo.split()[0]}.jpg")
+                print(f"  {cid} (+{d}s): descartado ({motivo}: {r['motivo'][:80]})")
+                continue
+            jogo = saida / f"{cid}-jogo.mp4"
+            ok, m = versao_jogo(bruto, r["caixas"] if r["pessoa_real"] else [], jogo)
+            live = saida / f"{cid}-live.mp4"
+            reduzir(bruto, live)
+            if not live.exists():
+                motivos.append("ffmpeg falhou")
+                continue
+            miniatura(jogo if ok else live, saida / "mini" / f"{cid}.jpg")
+            if not ok and jogo.exists():
+                jogo.unlink()
+            hh, mm = divmod(t // 60, 60)
+            print(f"  {cid} (+{d}s): OK ({r.get('cena') or r['motivo']}){'' if ok else ' [só versão live: ' + m + ']'}")
+            return {
+                "id": cid, "canal": v["canal"], "login": login.lower(), "vod": v["id"],
+                "live": v["inicio"], "titulo_live": v["titulo"][:120], "t": t, "dur": DUR,
+                "link": f"{v['url']}?t={hh}h{mm}m{t % 60}s", "cena": r.get("cena", ""),
+                "camera": [max(r["caixas"], key=lambda c: (c[2] - c[0]) * (c[3] - c[1]))] if r["pessoa_real"] else [],
+                "jogo": jogo.name if ok else None, "sem_jogo_motivo": None if ok else m,
+                "live_mp4": live.name, "motivo_ia": r["motivo"],
+            }, motivos
+    return None, motivos
+
+
 def coletar(login: str, desde: datetime, maximo: int, saida: Path) -> int:
     saida.mkdir(parents=True, exist_ok=True)
     (saida / "mini").mkdir(exist_ok=True)
@@ -134,55 +194,17 @@ def coletar(login: str, desde: datetime, maximo: int, saida: Path) -> int:
     total = sum(v["duracao"] for v in vods)
     print(f"{login}: {len(vods)} live(s) gravada(s), {total / 3600:.1f} h")
     ja = ja_no_banco()
-    cortes, descartes = [], {}
+    tarefas = []
     for v in vods:
         n = max(1, round(maximo * v["duracao"] / total)) if total else maximo
-        for t in pontos(v["duracao"], n):
-            cid = f"{login.lower()}-{v['id']}-{t:05d}"
-            if cid in ja:
-                continue
-            with tempfile.TemporaryDirectory() as tmp:
-                bruto = Path(tmp) / "bruto.mp4"
-                if not baixar_trecho(v["url"], t, bruto):
-                    descartes["download falhou"] = descartes.get("download falhou", 0) + 1
-                    continue
-                r = camera_ia.perguntar(bruto)
-                motivo = None
-                if r["pessoa_real"] is None:
-                    motivo = "IA indisponível"
-                elif r.get("conteudo") in ("cutscene", "menu"):
-                    motivo = r["conteudo"]
-                elif not r.get("gta", True):
-                    motivo = "não é GTA"
-                elif r["pessoa_real"] and r["caixas"]:
-                    c = max(r["caixas"], key=lambda c: (c[2] - c[0]) * (c[3] - c[1]))
-                    if (c[2] - c[0]) * (c[3] - c[1]) > 600_000:
-                        motivo = "câmera ocupa a tela"
-                elif r["pessoa_real"]:
-                    motivo = "pessoa real sem posição"
-                if motivo:
-                    descartes[motivo] = descartes.get(motivo, 0) + 1
-                    print(f"  {cid}: descartado ({motivo})")
-                    continue
-                jogo = saida / f"{cid}-jogo.mp4"
-                ok, m = versao_jogo(bruto, r["caixas"] if r["pessoa_real"] else [], jogo)
-                live = saida / f"{cid}-live.mp4"
-                reduzir(bruto, live)
-                if not live.exists():
-                    continue
-                miniatura(jogo if ok else live, saida / "mini" / f"{cid}.jpg")
-                hh, mm = divmod(t // 60, 60)
-                cortes.append({
-                    "id": cid, "canal": v["canal"], "login": login.lower(), "vod": v["id"],
-                    "live": v["inicio"], "titulo_live": v["titulo"][:120], "t": t, "dur": DUR,
-                    "link": f"{v['url']}?t={hh}h{mm}m{t % 60}s", "cena": r.get("cena", ""),
-                    "camera": [max(r["caixas"], key=lambda c: (c[2] - c[0]) * (c[3] - c[1]))] if r["pessoa_real"] else [],
-                    "jogo": jogo.name if ok else None, "sem_jogo_motivo": None if ok else m,
-                    "live_mp4": live.name, "motivo_ia": r["motivo"],
-                })
-                if not ok and jogo.exists():
-                    jogo.unlink()
-                print(f"  {cid}: OK ({r.get('cena') or r['motivo']}){'' if ok else ' [só versão live: ' + m + ']'}")
+        tarefas += [(v, t) for t in pontos(v["duracao"], n) if f"{login.lower()}-{v['id']}-{t:05d}" not in ja]
+    cortes, descartes = [], {}
+    with ThreadPoolExecutor(max_workers=PARALELO) as ex:
+        for corte, motivos in ex.map(lambda vt: processar(login, vt[0], vt[1], saida), tarefas):
+            for m in motivos:
+                descartes[m] = descartes.get(m, 0) + 1
+            if corte:
+                cortes.append(corte)
     (saida / f"indice-{login.lower()}.json").write_text(json.dumps({"cortes": cortes, "descartes": descartes},
                                                                   ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{login}: {len(cortes)} corte(s) no banco; descartes: {descartes}")
