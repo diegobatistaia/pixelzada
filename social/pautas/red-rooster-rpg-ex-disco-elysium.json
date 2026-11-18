@@ -1,0 +1,86 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Red Rooster",
+  "gta6": false,
+  "materia": "red-rooster-ex-devs-disco-elysium-rpg-incendios-summer-eternal",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/Red-Rooster-Ann_10-14-26.jpg",
+    "credito": "Summer Eternal",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Gematsu e Eurogamer",
+  "capa": {
+    "titulo": "Ex-Disco Elysium anunciam Red Rooster",
+    "destaque": "Red Rooster",
+    "apoio": "Um RPG de física sobre incêndios. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que aconteceu",
+      "titulo": "O Summer Eternal revelou o jogo",
+      "destaque": "revelou o jogo",
+      "texto": [
+        "O estúdio, formado por ex-devs de Disco Elysium, anunciou **Red Rooster**, um RPG de física, segundo a Gematsu e o Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "A história",
+      "titulo": "Um presidiário vira investigador",
+      "destaque": "presidiário",
+      "texto": [
+        "Redrick Roost, preso de colarinho branco, **investiga uma série de incêndios criminosos** ligados ao irmão, chefe dos bombeiros da cidade, segundo a Gematsu."
+      ]
+    },
+    {
+      "rotulo": "Para quem joga",
+      "titulo": "PC primeiro, sem data",
+      "destaque": "PC primeiro",
+      "texto": [
+        "O jogo sai primeiro no PC, e PS5, Xbox Series e Switch 2 vêm depois. **A data ainda não foi anunciada**, segundo a Gematsu."
+      ]
+    },
+    {
+      "rotulo": "Falta saber",
+      "titulo": "Ainda em pré-produção",
+      "destaque": "pré-produção",
+      "texto": [
+        "O estúdio diz que está perto do fim da pré-produção e que já tem uma demo técnica interna, segundo o Eurogamer."
+      ]
+    }
+  ],
+  "final": "Você jogaria um RPG de incêndios?",
+  "legenda": {
+    "gancho": "Ex-desenvolvedores de Disco Elysium anunciaram Red Rooster, um RPG de física em que o fogo é parte da investigação.",
+    "corpo": [
+      "O jogo do estúdio Summer Eternal coloca você no lugar de Redrick Roost, um presidiário de colarinho branco que investiga incêndios criminosos ligados ao irmão, chefe dos bombeiros, segundo a Gematsu.",
+      "Ele sai primeiro no PC, com PS5, Xbox Series e Switch 2 depois, e ainda não tem data. O Eurogamer conta que o estúdio diz estar perto do fim da pré-produção."
+    ],
+    "chamada": "Você jogaria um RPG de incêndios?",
+    "hashtags": [
+      "#pixelzada",
+      "#redrooster",
+      "#discoelysium",
+      "#rpg"
+    ]
+  },
+  "alt": [
+    "Slide 1: Ex-Disco Elysium anunciam Red Rooster",
+    "Slide 2: O Summer Eternal revelou o jogo",
+    "Slide 3: Um presidiário vira investigador",
+    "Slide 4: PC primeiro, sem data",
+    "Slide 5: Ainda em pré-produção",
+    "Slide 6: Você jogaria um RPG de incêndios?"
+  ],
+  "slug": "red-rooster-rpg-ex-disco-elysium",
+  "status": "publicado",
+  "criado": "2026-10-15T09:40:38-03:00",
+  "publicado": {
+    "data": "2026-10-15",
+    "horario": "13:00",
+    "em": "2026-10-15T13:00:47-03:00",
+    "estilo": "ficha",
+    "media_id": "18103767470640532",
+    "permalink": "https://www.instagram.com/p/DehVuYfm8yb/"
+  }
+}

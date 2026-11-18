@@ -1,0 +1,112 @@
+name: Montar Reels
+
+# Monta na identidade e agenda tudo o que caiu em social/reels/entrada/
+# (scripts/social/montagem.py). Chamado pelos workflows Pesquisa de vídeos e
+# Telegram; também tem botão próprio. Mesmo grupo dos workflows Instagram e
+# Reels para nunca mexer na fila junto.
+on:
+  workflow_call:
+  workflow_dispatch:
+    inputs:
+      testar:
+        description: "Só relatório da checagem de nudez destes Reels (slugs separados por vírgula)"
+        required: false
+        default: ""
+      refazer:
+        description: "Refazer em moldura simples branca: 'todos' ou slugs separados por vírgula (Diego, 18/11)"
+        required: false
+        default: ""
+      titulos:
+        description: "Refazer títulos genéricos pela regra de 18/11: 'todos' ou slugs separados por vírgula"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  models: read      # GitHub Models escreve o título do Reel (montagem.py)
+
+jobs:
+  montar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    concurrency:
+      group: montar  # separado do instagram: montagem longa não pode travar a publicação dos Reels (11/11)
+      cancel-in-progress: false
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}  # checagem de nudez (scripts/social/seguranca.py)
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - name: Tem vídeo esperando?
+        id: tem
+        run: |
+          n=$(ls social/reels/entrada/*/*.mp4 2>/dev/null | wc -l)
+          echo "videos=$n" >> "$GITHUB_OUTPUT"
+          echo "$n vídeo(s) esperando montagem"
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ffmpeg
+        run: |
+          bash scripts/instalar_ffmpeg.sh
+          pip install pyyaml
+
+      - name: Instalar o navegador do gerador
+        if: steps.tem.outputs.videos != '0' || inputs.refazer != '' || inputs.titulos != ''
+        run: |
+          npm install --no-save --no-package-lock playwright@1
+          npx playwright install --with-deps chromium
+
+      - name: Montar e agendar
+        if: steps.tem.outputs.videos != '0'
+        run: python -m scripts.social.montagem automatico
+
+      - name: Refazer em moldura simples branca
+        if: inputs.refazer != ''
+        env:
+          REFAZER: ${{ inputs.refazer }}
+        run: |
+          pip install yt-dlp "opencv-python-headless<5"
+          python -m scripts.social.refazer "$REFAZER"
+
+      - name: Refazer títulos genéricos
+        if: inputs.titulos != ''
+        env:
+          TITULOS: ${{ inputs.titulos }}
+        run: |
+          pip install yt-dlp "opencv-python-headless<5"
+          python -m scripts.social.titulos refazer "$TITULOS"
+
+      # Barreira de nudez (Diego, 16/11): todo Reel agendado que ainda não passou pela
+      # checagem visual é conferido; risco médio/alto sai da fila (scripts/social/seguranca.py).
+      - name: Checagem de nudez na fila
+        if: inputs.testar == ''
+        run: python -m scripts.social.seguranca varrer
+
+      - name: Checagem de nudez (só relatório)
+        if: inputs.testar != ''
+        env:
+          TESTAR: ${{ inputs.testar }}
+        run: python -m scripts.social.seguranca varrer --slugs "$TESTAR" --so-imagem
+
+      - name: Conferir a fila
+        run: python -m scripts.social.reels check
+
+      - name: Registrar
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -A social/reels
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "reels: montagem automática $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((tentativa * 4))
+          done
+          exit 1

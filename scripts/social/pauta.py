@@ -108,6 +108,8 @@ def slides(p: dict) -> list[dict]:
 
 def legenda(p: dict) -> str:
     lg = p["legenda"]
+    if lg.get("texto"):  # pauta "pronta": legenda escrita à mão, do jeito que o Diego mandou
+        return lg["texto"].strip()
     partes = [lg["gancho"], *lg["corpo"], lg["chamada"], AVISO_LINK]
     return "\n\n".join(x.strip() for x in partes if x.strip()) + "\n\n" + " ".join(lg["hashtags"])
 
@@ -122,6 +124,13 @@ def conferir(p: dict, arquivo: str | None = None) -> list[str]:
     def exige(cond, msg):
         if not cond:
             e.append(msg)
+
+    if p.get("pronta"):  # imagem pronta do Diego: sai como está, sem desenho nem texto por cima
+        pr = p["pronta"]
+        exige(pr.get("arquivo") and (ROOT / pr["arquivo"]).exists(), "pronta.arquivo não existe no repositório")
+        exige(pr.get("data") and pr.get("horario"), "pronta precisa de data e horario")
+        exige((p.get("legenda") or {}).get("texto"), "pronta precisa de legenda.texto")
+        return e
 
     def tam(campo, texto, lim):
         if texto and len(texto) > lim:
@@ -236,7 +245,7 @@ def conferir(p: dict, arquivo: str | None = None) -> list[str]:
 # (comando check); a publicação não reprova pauta por estas regras.
 # ---------------------------------------------------------------------------
 def conferir_linha(p: dict, outras: list[dict]) -> list[str]:
-    if criado_em(p) < LINHA_DESDE:
+    if p.get("pronta") or criado_em(p) < LINHA_DESDE:
         return []
     e: list[str] = []
     slug = (p.get("materia") or "").strip()

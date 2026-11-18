@@ -1,0 +1,78 @@
+{
+ "tipo": "noticia",
+ "formato": "perguntas",
+ "assunto": "Xbox",
+ "gta6": false,
+ "materia": "xbox-project-helix-2028-portatil-2027-preco-us-1200-a-1800-rumor",
+ "imagem": {
+  "url": "https://cdn.mos.cms.futurecdn.net/zKrSP9p6CDCyqzJtemv7D4-1920-80.jpg",
+  "credito": "GamesRadar",
+  "pos": "50% 50%"
+ },
+ "fonte": "Fontes: Fortune, GamesRadar e VGC",
+ "capa": {
+  "titulo": "Rumor: o próximo Xbox pode custar até US$ 1.800",
+  "destaque": "US$ 1.800",
+  "apoio": "Nada foi confirmado. Arrasta."
+ },
+ "slides": [
+  {
+   "rotulo": "Pergunta 1",
+   "titulo": "Quando chega o portátil?",
+   "destaque": "portátil",
+   "texto": [
+    "Segundo a **Fortune**, até as festas de 2027. A Microsoft não confirmou."
+   ]
+  },
+  {
+   "rotulo": "Pergunta 2",
+   "titulo": "E o console Helix?",
+   "destaque": "Helix",
+   "texto": [
+    "A reportagem fala em **até as festas de 2028**, também sem confirmação oficial."
+   ]
+  },
+  {
+   "rotulo": "Pergunta 3",
+   "titulo": "Quanto custaria?",
+   "destaque": "custaria",
+   "texto": [
+    "A projeção interna seria de **US$ 1.200 a US$ 1.800**, a menos que a Microsoft subsidie."
+   ]
+  },
+  {
+   "rotulo": "Pergunta 4",
+   "titulo": "O que muda no Game Pass?",
+   "destaque": "Game Pass",
+   "texto": [
+    "A Fortune diz que a empresa estuda recursos **à la carte**, como nuvem e multiplayer."
+   ]
+  }
+ ],
+ "final": "Você pagaria isso por um console?",
+ "legenda": {
+  "gancho": "Um rumor diz que o próximo Xbox pode custar até US$ 1.800 e chegar em 2028.",
+  "corpo": [
+   "Segundo a Fortune, repercutida por GamesRadar, The Verge, Insider Gaming e VGC, a Microsoft planeja um portátil para as festas de 2027 e o console Project Helix para 2028.",
+   "A projeção interna seria de US$ 1.200 a US$ 1.800, sem subsídio. Nada foi confirmado pela Microsoft."
+  ],
+  "chamada": "Você pagaria isso por um console?",
+  "hashtags": [
+   "#pixelzada",
+   "#xbox",
+   "#projecthelix",
+   "#nextgen"
+  ]
+ },
+ "slug": "xbox-helix-rumor-preco-2028",
+ "alt": [
+  "Slide 1: Rumor: o próximo Xbox pode custar até US$ 1.800",
+  "Slide 2: Quando chega o portátil?",
+  "Slide 3: E o console Helix?",
+  "Slide 4: Quanto custaria?",
+  "Slide 5: O que muda no Game Pass?",
+  "Slide 6: Você pagaria isso por um console?"
+ ],
+ "status": "pronto",
+ "criado": "2026-10-20T17:50:00-03:00"
+}

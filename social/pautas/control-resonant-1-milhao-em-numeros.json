@@ -1,0 +1,86 @@
+{
+  "tipo": "noticia",
+  "formato": "em-numeros",
+  "assunto": "Control Resonant",
+  "gta6": false,
+  "materia": "control-resonant-1-milhao-de-copias-jogo-mais-rapido-da-remedy",
+  "imagem": {
+    "url": "https://assetsio.gnwcdn.com/control-resonant-upside-down-new-york-shot-crop-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credito": "Eurogamer",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: IGN, PC Gamer e Eurogamer",
+  "capa": {
+    "titulo": "Control Resonant em números",
+    "destaque": "em números",
+    "apoio": "O jogo mais rápido da história da Remedy. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Vendas",
+      "titulo": "1 milhão de cópias",
+      "destaque": "1 milhão",
+      "texto": [
+        "A Remedy anunciou a marca em **15 de outubro**, segundo a IGN e o PC Gamer."
+      ]
+    },
+    {
+      "rotulo": "Tempo",
+      "titulo": "Cerca de 3 semanas",
+      "destaque": "3 semanas",
+      "texto": [
+        "O jogo saiu em 24 de setembro, de acordo com o Polygon, e chegou lá **bem antes de Alan Wake 2**."
+      ]
+    },
+    {
+      "rotulo": "O recorde batido",
+      "titulo": "2 meses de Alan Wake 2",
+      "destaque": "2 meses",
+      "texto": [
+        "Alan Wake 2 levou cerca de dois meses para chegar a 1 milhão em 2023, segundo o Eurogamer."
+      ]
+    },
+    {
+      "rotulo": "Próxima data",
+      "titulo": "3 de novembro",
+      "destaque": "3 de novembro",
+      "texto": [
+        "O balanço do terceiro trimestre da Remedy deve mostrar o **impacto nas contas**, segundo o PC Gamer."
+      ]
+    }
+  ],
+  "final": "Você já jogou Control Resonant?",
+  "legenda": {
+    "gancho": "Control Resonant vendeu 1 milhão de cópias em cerca de três semanas e virou o jogo mais rápido da Remedy.",
+    "corpo": [
+      "A Remedy anunciou a marca em 15 de outubro. O jogo saiu em 24 de setembro, segundo o Polygon, e superou Alan Wake 2, que levou cerca de dois meses para chegar a 1 milhão em 2023, de acordo com o Eurogamer.",
+      "O CEO Jean-Charles Gaudechon chamou de um começo muito forte, segundo o PC Gamer. Se o jogo já deu lucro, só o balanço de 3 de novembro vai mostrar."
+    ],
+    "chamada": "Você já jogou Control Resonant?",
+    "hashtags": [
+      "#pixelzada",
+      "#controlresonant",
+      "#remedy",
+      "#alanwake2"
+    ]
+  },
+  "alt": [
+    "Slide 1: Control Resonant em números",
+    "Slide 2: 1 milhão de cópias",
+    "Slide 3: Cerca de 3 semanas",
+    "Slide 4: 2 meses de Alan Wake 2",
+    "Slide 5: 3 de novembro",
+    "Slide 6: Você já jogou Control Resonant?"
+  ],
+  "slug": "control-resonant-1-milhao-em-numeros",
+  "status": "publicado",
+  "criado": "2026-10-16T15:39:48-03:00",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "17:00",
+    "em": "2026-10-16T17:00:57-03:00",
+    "estilo": "mapa",
+    "media_id": "18123882173301338",
+    "permalink": "https://www.instagram.com/p/DekWAzOgbXt/"
+  }
+}

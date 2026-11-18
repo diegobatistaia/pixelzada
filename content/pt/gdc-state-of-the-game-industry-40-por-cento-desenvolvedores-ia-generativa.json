@@ -1,0 +1,142 @@
+{
+  "lang": "pt",
+  "slug": "gdc-state-of-the-game-industry-40-por-cento-desenvolvedores-ia-generativa",
+  "story_id": "b3b0169b0bbad879",
+  "title": "GDC: 40% dos desenvolvedores já usam IA generativa, mas 55% veem efeito negativo",
+  "dek": "Relatório State of the Game Industry mostra mais uso, opinião ainda crítica e demissões em alta.",
+  "meta_description": "O relatório State of the Game Industry da GDC mostra que 40% dos desenvolvedores usam IA generativa e 55% veem impacto negativo. Veja uso e demissões.",
+  "keyword": "GDC State of the Game Industry IA",
+  "category": "industria",
+  "tags": [
+    "gdc",
+    "ia generativa",
+    "desenvolvedores",
+    "demissões",
+    "relatório"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "Quatro em cada dez desenvolvedores de jogos já usam IA generativa no trabalho. É o que mostra o novo relatório State of the Game Industry, da Game Developers Conference (GDC), divulgado nesta semana. O índice de uso é de 40%, contra 36% do levantamento anterior. Ao mesmo tempo, 55% dos entrevistados dizem que a tecnologia tem efeito negativo sobre os jogos. Os dados vêm do GamesIndustry.biz, da Eurogamer, do PC Gamer e do The Verge.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Quem usa e para quê",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo o GamesIndustry.biz, o aumento de 4 pontos percentuais é menor do que o da pesquisa anterior. A responsável pelo levantamento, Beth Elderkin, avalia que a tecnologia deixou de ser teórica: as pessoas agora sabem como ela funciona e decidem se querem ou não usá-la. O uso é mais comum em operações e serviços de negócios, estúdios exclusivamente mobile e desenvolvedores de jogos gratuitos.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O The Verge cita índices de 58% entre quem trabalha com free-to-play e de 70% entre estúdios só de mobile. Entre quem usa, as tarefas mais comuns variam conforme o veículo:",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Pesquisa e brainstorming: 73%, segundo o The Verge, e quase três quartos, segundo o PC Gamer.",
+        "Análise e resumo de dados: 62%, segundo o The Verge.",
+        "Geração de código e depuração: 56%, segundo o The Verge e o PC Gamer.",
+        "Arte conceitual ou ideação visual: 22%, segundo o The Verge e o PC Gamer.",
+        "Arte de produção ou ativos finais: 8%, segundo o The Verge. O PC Gamer fala em 7% para recursos voltados ao jogador."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "O GamesIndustry.biz e a Eurogamer acrescentam que 57% de quem usa a tecnologia a emprega em geração de texto, pesquisa, prototipagem inicial, código e apresentações.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Idade, gênero e pressão nos estúdios",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A Eurogamer informa que, entre profissionais com 45 anos ou mais, 54% usam IA generativa, oito pontos a mais do que no ano anterior. O uso também é maior entre homens, com 45%, do que entre mulheres, com 33%. Quanto à pressão, 27% dos profissionais de estúdios AAA se sentem incentivados ou pressionados a usar a tecnologia, contra 9% entre os independentes.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Opinião ainda é majoritariamente negativa",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com o GamesIndustry.biz e o PC Gamer, 55% dos entrevistados acham que a IA tem impacto negativo nos jogos, 1 ponto a mais que no ano anterior. O PC Gamer acrescenta que 35% veem o efeito como misto e só 8% como positivo. Para a Eurogamer, o dado sugere cautela, e não adoção ampla, já que mais gente aponta efeito negativo do que usa a ferramenta.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O relatório, segundo o PC Gamer, aponta ainda preocupações novas, como perda de habilidades, e uma visão mais crítica sobre IA em recursos voltados ao jogador. A Eurogamer reproduz comentários de entrevistados que dizem não querer entregar a criatividade a um algoritmo.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Demissões e financiamento",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O número de respondentes demitidos nos últimos 24 meses aparece como 33% no GamesIndustry.biz e 34% no The Verge. Cerca de metade diz que a empresa em que trabalha fez cortes. Entre profissionais de AAA, 68% relatam cortes no estúdio, e 54% dos que foram demitidos não encontraram outro emprego, segundo o GamesIndustry.biz. O PC Gamer fala em mais de 2.600 respondentes, enquanto a Eurogamer cita mais de 2.300, então o tamanho da amostra varia conforme a fonte.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo Elderkin, as publicadoras esperam mais dos desenvolvedores antes de financiar, com bastantes wishlists, seguidores e o jogo em bom estado. O relatório diz que 50% dos entrevistados recorreram a autofinanciamento. O PC é a plataforma dominante, com 81%, seguido de PS5, com 45%, e Xbox Series, com 37%.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O contexto",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O The Verge lembra que o tema está no centro da discussão de prêmios independentes, depois que a House House usou modelos de linguagem com moderação em Big Walk, e cita uma publicação da CEO do Xbox, Asha Sharma, dizendo que equipes pequenas poderão construir mundos que hoje exigem centenas de desenvolvedores. A Pixelzada acompanha o debate.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "GDC State of the Game Industry 2026",
+    "alt": "Arte do relatório State of the Game Industry 2026, da GDC",
+    "url": "https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/gdc-state-of-the-game-industry-40-por-ce-c6c4ecec.jpg",
+    "source_url": ""
+  },
+  "sources": [
+    {
+      "name": "GamesIndustry.biz",
+      "owner": "ziff-davis",
+      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
+      "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work"
+    },
+    {
+      "name": "The Verge",
+      "owner": "vox-media",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "title": "GDC Festival of Gaming annual survey: AI and layoffs"
+    },
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/gdc-report-40-percent-developers-generative-ai",
+      "title": "GDC report: 40 percent of developers use generative AI"
+    },
+    {
+      "name": "PC Gamer",
+      "owner": "future-plc",
+      "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry/",
+      "title": "40% of game developers use generative AI, but more than half reckon it has a negative impact"
+    }
+  ],
+  "status": "published",
+  "published_at": "2026-11-14T14:43:47+00:00",
+  "updated_at": "2026-11-14T14:43:47+00:00"
+}

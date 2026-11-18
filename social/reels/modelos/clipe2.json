@@ -1,0 +1,16 @@
+{
+  "link": "https://www.twitch.tv/bisteconee/clip/SmilingBlightedCaribouBIRB-j3twTrGxdMgRRzl_",
+  "canal": "bisteconee",
+  "pessoa_real": true,
+  "caixas": [
+    [
+      185,
+      788,
+      423,
+      984
+    ]
+  ],
+  "conteudo": "jogo",
+  "motivo": "webcam visível no canto superior direito",
+  "modelo": "gemini-flash-lite-latest"
+}

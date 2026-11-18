@@ -5,7 +5,7 @@ Tudo sai sozinho, em horários fixos (Brasília):
 | Horário | O que sai |
 |---|---|
 | 11h, 15h e 19h | carrossel de GTA 6 + Story |
-| 09h, 13h, 17h e 21h | carrossel de outro jogo + Story |
+| 09h, 13h, 17h e 21h | carrossel de outro jogo (sem Story desde 15/10) |
 | 10h, 12h, 14h, 16h, 18h e 20h | Reel de vídeo (a gaveta) |
 
 Um post por hora cheia, das 9h às 21h, alternando carrossel e Reel (grade do Diego em 12/10).

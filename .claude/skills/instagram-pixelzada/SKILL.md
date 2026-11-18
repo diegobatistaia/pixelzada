@@ -5,8 +5,8 @@ description: Como escrever as pautas do Instagram da Pixelzada (@pixelzada.br) -
 
 # Pautas do Instagram (@pixelzada.br)
 
-Você escreve o texto; o resto é automático. Cada pauta vira um carrossel com
-Story junto, publicado pelo workflow **Instagram** do GitHub Actions num dos
+Você escreve o texto; o resto é automático. Cada pauta vira um carrossel
+(só as de GTA 6 levam Story junto, desde 15/10), publicado pelo workflow **Instagram** do GitHub Actions num dos
 horários fixos. Você não desenha nada, não publica nada e não precisa de
 internet.
 

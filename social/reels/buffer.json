@@ -1,0 +1,26 @@
+{
+  "ativo": true,
+  "modo": "shareNow",
+  "youtube_terceiros": true,
+  "organizacao": "6af45f9b509aa4975c405736",
+  "canais": {
+    "tiktok": {
+      "id": "6af4600e62b70b94b0f46442",
+      "nome": "pixelzadabr0"
+    },
+    "youtube": {
+      "id": "6af460dc62b70b94b0f46bef",
+      "nome": "PixelzadaBR"
+    }
+  },
+  "uso": {
+    "mes": "2026-11",
+    "tiktok": 34,
+    "youtube": 99
+  },
+  "pausadas": [
+    "tiktok",
+    "youtube"
+  ],
+  "pausadas_motivo": "13/11/2026: TikTok pausado para aquecer a conta (Diego posta à mão por ~1 semana); depois voltar com até 3 por dia. 17/11/2026: YouTube Shorts pausado a pedido do Diego (só vídeos longos no YouTube por enquanto). Para reativar, tirar a rede desta lista."
+}

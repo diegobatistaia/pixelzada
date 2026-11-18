@@ -1,0 +1,79 @@
+{
+  "slug": "gta-6-jason-lucia-bonnie-clyde-detalhes",
+  "tipo": "noticia",
+  "formato": "detalhes",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "gta-6-jason-lucia-bonnie-clyde-romance-opcional",
+  "criado": "2026-11-11T09:45:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: TechRadar, GamesRadar e GameSpot",
+  "capa": {
+    "titulo": "Jason e Lucia: a história de Bonnie e Clyde",
+    "destaque": "Bonnie e Clyde",
+    "apoio": "O que a Rockstar já disse. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "Origem",
+      "titulo": "Começou como vazamento",
+      "destaque": "vazamento",
+      "texto": [
+        "A comparação surgiu em 2022, numa reportagem da Bloomberg, segundo a TechRadar e a Shacknews."
+      ]
+    },
+    {
+      "rotulo": "Confirmação",
+      "titulo": "Agora a Rockstar confirma",
+      "destaque": "confirma",
+      "texto": [
+        "Rupert Humphries falou em narrativa do tipo Bonnie e Clyde à Dazed, segundo a TechRadar."
+      ]
+    },
+    {
+      "rotulo": "Jogabilidade",
+      "titulo": "Dá para trocar de personagem",
+      "destaque": "trocar",
+      "texto": [
+        "Dá para jogar com os dois e alternar até no meio de uma missão, segundo a TechRadar e o eXputer."
+      ]
+    },
+    {
+      "rotulo": "Romance",
+      "titulo": "O romance é opcional",
+      "destaque": "opcional",
+      "texto": [
+        "O jogador escolhe, mas eles seguem parceiros no crime, segundo a GamesRadar e o GameSpot."
+      ]
+    }
+  ],
+  "final": "Você vai levar o romance até o fim?",
+  "legenda": {
+    "gancho": "De onde vem a ideia de Bonnie e Clyde em GTA 6?",
+    "corpo": [
+      "Segundo a TechRadar, a Dazed e a GamesRadar, a comparação nasceu como vazamento em 2022 e foi confirmada pela Rockstar em 2026, com um casal jogável que pode agir junto ou separado.",
+      "O romance entre Jason e Lucia é opcional, mas a dupla continua parceira no crime de qualquer jeito. A matéria completa reúne tudo o que a empresa já disse."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#gtavi",
+      "#jasonelucia",
+      "#rockstargames"
+    ]
+  },
+  "alt": [
+    "Slide 1: Jason e Lucia: a história de Bonnie e Clyde",
+    "Slide 2: Começou como vazamento",
+    "Slide 3: Agora a Rockstar confirma",
+    "Slide 4: Dá para trocar de personagem",
+    "Slide 5: O romance é opcional",
+    "Slide 6: Você vai levar o romance até o fim?"
+  ],
+  "status": "pronto"
+}

@@ -357,7 +357,7 @@ deploy:
   # Mesma conta compartilhada da Hostinger dos outros sites do Diego; a chave
   # de deploy e exclusiva da Pixelzada (secret HOSTINGER_SSH_KEY deste repo).
   enabled: true
-  host: 147.79.91.241
+  host: 82.112.247.46
   port: 65002
   user: u433721675
   remote_path: /home/u433721675/domains/pixelzada.com.br/public_html/

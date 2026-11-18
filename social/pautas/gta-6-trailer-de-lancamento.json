@@ -1,0 +1,84 @@
+{
+  "tipo": "noticia",
+  "formato": "manchete",
+  "assunto": "Trailer GTA 6",
+  "gta6": true,
+  "materia": "gta-6-trailer-de-lancamento-o-que-mostra-musica-justice-pistas",
+  "imagem": {
+    "url": "https://www.gematsu.com/wp-content/uploads/2026/10/GTA6-Launch-PV_10-15-26.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: VGC, IGN e Gematsu",
+  "capa": {
+    "titulo": "GTA 6 ganha trailer de lançamento",
+    "destaque": "trailer de lançamento",
+    "apoio": "90 segundos, gravados no PS5. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "O que aconteceu",
+      "titulo": "A Rockstar soltou o vídeo sem aviso",
+      "destaque": "sem aviso",
+      "texto": [
+        "O trailer tem **90 segundos** e foca na história de Jason e Lucia, segundo o VGC e o IGN.",
+        "As imagens foram capturadas em um PlayStation 5, de acordo com a Rockstar."
+      ]
+    },
+    {
+      "rotulo": "A música",
+      "titulo": "Justice assina a trilha",
+      "destaque": "Justice",
+      "texto": [
+        "A faixa é **Flower in a Hurricane**, com Tame Impala, SZA e King Gizzard & The Lizard Wizard, segundo a Gematsu.",
+        "Ela está no álbum oficial do jogo, que já tem pré-venda em vinil e CD."
+      ]
+    },
+    {
+      "rotulo": "O que se vê",
+      "titulo": "Passado de Jason e tornozeleira de Lucia",
+      "destaque": "tornozeleira",
+      "texto": [
+        "Jason fala que saiu do Exército em maus termos, e Lucia aparece de **tornozeleira eletrônica**, segundo o IGN e o Eurogamer.",
+        "O significado desses detalhes ainda é palpite dos veículos."
+      ]
+    }
+  ],
+  "final": "Qual cena do trailer você mais quer jogar?",
+  "legenda": {
+    "gancho": "A Rockstar lançou o trailer de lançamento de GTA 6, 35 dias antes do jogo chegar ao PS5 e ao Xbox Series X|S.",
+    "corpo": [
+      "O vídeo tem 90 segundos e mostra mais da história de Jason e Lucia, com imagens capturadas em um PlayStation 5, segundo a Rockstar. A música é Flower in a Hurricane, do Justice, com Tame Impala, SZA e King Gizzard & The Lizard Wizard, segundo a Gematsu.",
+      "IGN e Eurogamer notam que Lucia aparece de tornozeleira e que Jason fala sobre sua saída do Exército, mas a Rockstar não explicou esses detalhes. O jogo sai em 19 de novembro."
+    ],
+    "chamada": "Qual cena do trailer você mais quer jogar?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: GTA 6 ganha trailer de lançamento",
+    "Slide 2: A Rockstar soltou o vídeo sem aviso",
+    "Slide 3: Justice assina a trilha",
+    "Slide 4: Passado de Jason e tornozeleira de Lucia",
+    "Slide 5: Qual cena do trailer você mais quer jogar?"
+  ],
+  "slug": "gta-6-trailer-de-lancamento",
+  "status": "publicado",
+  "criado": "2026-10-15T11:39:19-03:00",
+  "publicado": {
+    "data": "2026-10-15",
+    "horario": "19:00",
+    "em": "2026-10-15T18:59:55-03:00",
+    "estilo": "inventario",
+    "media_id": "17912120922523592",
+    "permalink": "https://www.instagram.com/p/Deh-z4rGgC_/"
+  },
+  "story": {
+    "em": "2026-10-15T19:00:30-03:00",
+    "media_id": "18060937493535895"
+  }
+}

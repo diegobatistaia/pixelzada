@@ -1,0 +1,72 @@
+{
+  "em": "2026-11-17T10:25:44-03:00",
+  "jogo": "Grand Theft Auto V",
+  "twitch": 72,
+  "kick": 0,
+  "clipes": [
+    {
+      "n": 1,
+      "fonte": "twitch",
+      "canal": "drackinn",
+      "views": 11,
+      "duracao": 41.9,
+      "titulo": "EU TO PASSANDO MAL",
+      "link": "https://www.twitch.tv/drackinn/clip/BlueCooperativeBaboonOpieOP-RnPl-1KI4cOYd-Dn",
+      "ok": true,
+      "motivo": "sem câmera de streamer; IA: sem pessoa real (Apenas imagens do jogo GTA V e personagem tridimensional.)",
+      "corte": null
+    },
+    {
+      "n": 2,
+      "fonte": "twitch",
+      "canal": "dodo_drk",
+      "views": 11,
+      "duracao": 53.5,
+      "titulo": "cadê o mandato Corregedoria 🤣 , aquí é o Brasil terra sem lei !!!",
+      "link": "https://www.twitch.tv/dodo_drk/clip/HeartlessMagnificentSharkFutureMan-IvRxA0Lgvy4EaJNt",
+      "ok": true,
+      "motivo": "sem câmera de streamer; IA: sem pessoa real (Apenas personagens em 3D do GTA e elementos do jogo aparecem.)",
+      "corte": null
+    },
+    {
+      "n": 3,
+      "fonte": "twitch",
+      "canal": "DarkViperAU",
+      "views": 94,
+      "duracao": 60,
+      "titulo": "THE ARMADA (the last blimp strat)",
+      "link": "https://www.twitch.tv/darkviperau/clip/DeterminedPricklyArmadilloGingerPower-OnqNRmMHo-MlvkCF",
+      "ok": true,
+      "motivo": "câmera cortada; IA: sem pessoa real (Apenas imagens do gameplay de GTA sem webcam ou pessoas reais.) (sem áudio: clipe em en)",
+      "corte": [
+        0,
+        0,
+        1944,
+        1440
+      ]
+    },
+    {
+      "n": 4,
+      "fonte": "twitch",
+      "canal": "carmen",
+      "views": 56,
+      "duracao": 20.5,
+      "titulo": "JUMPSCARE",
+      "link": "https://www.twitch.tv/carmen/clip/BlazingHumbleReubenOptimizePrime-NvQVvWTj4N_XQNDD",
+      "ok": true,
+      "motivo": "sem câmera de streamer; IA: sem pessoa real (Apenas gráficos 3D do jogo e tela escura por eventos do jogo) (sem áudio: clipe em en)",
+      "corte": null
+    },
+    {
+      "n": 5,
+      "fonte": "twitch",
+      "canal": "Crystalst",
+      "views": 34,
+      "duracao": 13.9,
+      "titulo": "twinS",
+      "link": "https://www.twitch.tv/crystalst/clip/AcceptableCrunchyLorisFailFish-b9cXYiKGj021VAC5",
+      "ok": false,
+      "motivo": "sem câmera de streamer; checagem de câmera indisponível (Gemini gemini-flash-lite-latest: The read operation timed out): descartado por segurança"
+    }
+  ]
+}

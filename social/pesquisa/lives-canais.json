@@ -1,0 +1,458 @@
+{
+  "em": "2026-11-18T12:56:05-03:00",
+  "dias": 30,
+  "jogos": {
+    "Grand Theft Auto V": "32982",
+    "Grand Theft Auto VI": "1867279146"
+  },
+  "canais": [
+    {
+      "login": "gta6news",
+      "existe": true,
+      "nome": "GTA6NEWS",
+      "tipo": "affiliate",
+      "criado": "2022-11-10",
+      "descricao": "@GTA6CEO - TELEGRAM | CEO - @ceoigame",
+      "titulo_live": "GTA 6 | РОЗЫГРЫШ PS5 + GTA VI | !yohohobet !tg",
+      "idioma": "ru",
+      "ultimo_jogo": "Grand Theft Auto VI",
+      "seguidores": 25354,
+      "ao_vivo": true,
+      "ao_vivo_jogo": "Grand Theft Auto VI",
+      "ao_vivo_plateia": 1025,
+      "clipes_periodo": 0,
+      "views_clipes_periodo": 0,
+      "por_jogo": {
+        "Grand Theft Auto V": {
+          "clipes": 0,
+          "views": 0,
+          "melhor": 0
+        },
+        "Grand Theft Auto VI": {
+          "clipes": 0,
+          "views": 0,
+          "melhor": 0
+        }
+      }
+    }
+  ],
+  "descoberta": {
+    "Grand Theft Auto V": {
+      "clipes_pt_7d": [
+        {
+          "canal": "Surskity11",
+          "clipes": 1,
+          "views": 593
+        },
+        {
+          "canal": "horipl",
+          "clipes": 1,
+          "views": 505
+        },
+        {
+          "canal": "LUD3VIK",
+          "clipes": 1,
+          "views": 457
+        }
+      ],
+      "ao_vivo_pt_agora": [
+        {
+          "canal": "dabliuking",
+          "plateia": 117,
+          "titulo": "Dabliu Neverloss Jogando no GTA VI  MOD GRAFICO DE 2028"
+        },
+        {
+          "canal": "samurai__otf",
+          "plateia": 52,
+          "titulo": "Call of Duty  || Novo SETUP"
+        },
+        {
+          "canal": "renato_diogo",
+          "plateia": 39,
+          "titulo": "PRE-GTA-A-THON 154º Dia | Dia de Despedida do GTA V | !tipme !paypal !discord !f"
+        },
+        {
+          "canal": "isap1__",
+          "plateia": 38,
+          "titulo": "Midnight 2.0 | Subathon Dia 999 !pix !donate !exitlag !meta !playlist !cidade"
+        },
+        {
+          "canal": "emitezinfps",
+          "plateia": 33,
+          "titulo": "[COMPLEXO] EP 452° BUXA PILOTO - VETERANO DO GAM AGORA TÁ??? KKK EM QRV | SEGUEM"
+        },
+        {
+          "canal": "linopipas",
+          "plateia": 23,
+          "titulo": "+🔞 🌊Atlantic rp🌊 🩸red desert🩸!donate"
+        },
+        {
+          "canal": "cafezeiroz",
+          "plateia": 20,
+          "titulo": "GoiásRP - INDEPENDENCE - CPX ROLEPLAY PTR OSTENSIVA   🚔🔵🔴 🚓 ❗go ❗comandos ❗disco"
+        },
+        {
+          "canal": "fataalfps",
+          "plateia": 19,
+          "titulo": "ME PASSAR N PODE - CDANJOS - HENRYK VERSAT +18"
+        },
+        {
+          "canal": "sophiestrausss",
+          "plateia": 16,
+          "titulo": "True Blood RP (+18) - PASSANDO TEMPO COM A FAMÍLIA | LIVE PIX | JOGANDO E CONVER"
+        },
+        {
+          "canal": "chinaarp",
+          "plateia": 16,
+          "titulo": "[ LDT  ]    ??  !    +18  ??    !cidade  !pix !cupom"
+        },
+        {
+          "canal": "alesilvap1",
+          "plateia": 14,
+          "titulo": "🔴 +18 | CAPITAL CITY 🔥  MEDELLIN ESTÁ DE VOLTA  O CAOS VAI COMEÇAR!  MORADA VALL"
+        },
+        {
+          "canal": "larasofyy",
+          "plateia": 11,
+          "titulo": "[PT/ENG] 🚨 (+18) DPLS | Agente Principal Valentina Moretti 👮‍♀️ |  Offset RP | F"
+        },
+        {
+          "canal": "frz7z_",
+          "plateia": 11,
+          "titulo": "+18 [TRAVESSIA.GG]- 02 @neverl0ss / GESTÃO MANHÃ/TARDE❗pix ❗nvl❗tvrgg"
+        },
+        {
+          "canal": "hellboydocs",
+          "plateia": 9,
+          "titulo": "GTA 6 antecipadooo"
+        },
+        {
+          "canal": "silvestregtm",
+          "plateia": 9,
+          "titulo": "🟢 (CPX GG + 18) ON 🔥 | CHEGOU O GRANDE DIA, MAS MEU GTA 6 DEU PROBLEMA PRA ABRIR"
+        },
+        {
+          "canal": "furybrine",
+          "plateia": 9,
+          "titulo": "Esperando Gtazin pq nois é pobre"
+        },
+        {
+          "canal": "chloelizsanders",
+          "plateia": 8,
+          "titulo": "[+18] CDANJOS"
+        },
+        {
+          "canal": "gotzept",
+          "plateia": 8,
+          "titulo": "Atlantic Rp - Logo vamos ao Gta 6 as 23:30"
+        },
+        {
+          "canal": "nbnegan",
+          "plateia": 8,
+          "titulo": "Live Pre GTA 6, Diretamente de New Zeland, Vegas Brothers explorando Leonida[+18"
+        },
+        {
+          "canal": "ktchorolol",
+          "plateia": 7,
+          "titulo": "CDAnjos  -  Gui Ferraz -"
+        },
+        {
+          "canal": "dreamj05",
+          "plateia": 7,
+          "titulo": "[🔴 +18] | OFFSET RP | Mecânico Estagiário na East Customs 🧑🏼‍🔧 | #Telheiros Team"
+        },
+        {
+          "canal": "gabee_p1",
+          "plateia": 7,
+          "titulo": "+18 | (METROPOLE) F valentina??  |  !comandos"
+        },
+        {
+          "canal": "mahbernardo",
+          "plateia": 6,
+          "titulo": "Não somos todo mundo, mas um dia chegamos lá. TODOS OS DROPS DE GTA VI ATIVOS ✨ "
+        },
+        {
+          "canal": "ogordao77",
+          "plateia": 6,
+          "titulo": "🔴[CARBON COMPOUND] Não tenho GTA VI então bó corre- !CBN ~ !PIX ~ !PC ~ !CONTROL"
+        },
+        {
+          "canal": "silvasp3",
+          "plateia": 6,
+          "titulo": "[Silvio Silva] [CDANJOS] [VEXY] Ep10 Cdanjos 7.0"
+        },
+        {
+          "canal": "wiht3r",
+          "plateia": 5,
+          "titulo": "[2/50] TRABALHAR QUE É BOM MEUS AMIGOS 🧑‍🌾 | S7VEN RP | Codigo : S7-HU2| ❗️Insta"
+        },
+        {
+          "canal": "allissongod",
+          "plateia": 5,
+          "titulo": "AO VIVO: ADEUS, GTA 5! 💔 A ÚLTIMA VOLTA ANTES DO GTA 6! #gta6"
+        },
+        {
+          "canal": "chicodesastre190",
+          "plateia": 5,
+          "titulo": "🔥 CHICO DESASTRE NA POLÍCIA 🚔 | HOJE A CASA VAI CAIR! 😂 | GTA RP AO VIVO"
+        },
+        {
+          "canal": "agathapetrov",
+          "plateia": 5,
+          "titulo": "ecco rp,codiguinho on"
+        },
+        {
+          "canal": "cisco_pika",
+          "plateia": 5,
+          "titulo": "🚨+18 | Haze RP | Bairro dos Kangpae | Bora Matar Bots!!!🚨"
+        }
+      ]
+    },
+    "Grand Theft Auto VI": {
+      "clipes_pt_7d": [
+        {
+          "canal": "alanzoka",
+          "clipes": 43,
+          "views": 12267
+        },
+        {
+          "canal": "joao01doturno",
+          "clipes": 1,
+          "views": 1938
+        },
+        {
+          "canal": "Bisteconee",
+          "clipes": 8,
+          "views": 1033
+        },
+        {
+          "canal": "PaulinhoLOKObr",
+          "clipes": 8,
+          "views": 826
+        },
+        {
+          "canal": "Dcosta",
+          "clipes": 3,
+          "views": 227
+        },
+        {
+          "canal": "Lnz3",
+          "clipes": 2,
+          "views": 196
+        },
+        {
+          "canal": "StolenBR",
+          "clipes": 1,
+          "views": 175
+        },
+        {
+          "canal": "Cellbit",
+          "clipes": 3,
+          "views": 172
+        },
+        {
+          "canal": "BURGAOfps",
+          "clipes": 2,
+          "views": 169
+        },
+        {
+          "canal": "MeikodRJ",
+          "clipes": 2,
+          "views": 138
+        },
+        {
+          "canal": "thimagroo",
+          "clipes": 2,
+          "views": 124
+        },
+        {
+          "canal": "oTioZero",
+          "clipes": 1,
+          "views": 115
+        },
+        {
+          "canal": "Snopey",
+          "clipes": 1,
+          "views": 78
+        },
+        {
+          "canal": "luupe0fc",
+          "clipes": 1,
+          "views": 78
+        },
+        {
+          "canal": "enriquemachado_",
+          "clipes": 1,
+          "views": 69
+        },
+        {
+          "canal": "Olkabone",
+          "clipes": 1,
+          "views": 48
+        },
+        {
+          "canal": "RenanSouzones",
+          "clipes": 1,
+          "views": 48
+        },
+        {
+          "canal": "xhotzx",
+          "clipes": 1,
+          "views": 46
+        }
+      ],
+      "ao_vivo_pt_agora": [
+        {
+          "canal": "alanzoka",
+          "plateia": 266885,
+          "titulo": "VICE CITY BABYYYYYYYYYYY - JOGANDO NO PS5 PRO"
+        },
+        {
+          "canal": "cellbit",
+          "plateia": 15992,
+          "titulo": "GTA 6. (jogando no PS5)"
+        },
+        {
+          "canal": "ricfazeres",
+          "plateia": 8632,
+          "titulo": "✳️ DROPS ON ➡️ GTA 6 O INICIO DA AVENTURA HOJE ➡️ !loja ➡️ LIVE E VÍDEOS NO CANA"
+        },
+        {
+          "canal": "blackoutz",
+          "plateia": 5996,
+          "titulo": "GTA VI VAMOOOO SE SABE"
+        },
+        {
+          "canal": "snopey",
+          "plateia": 3531,
+          "titulo": "JOGANDO GTA 6 !cinefy !howstore"
+        },
+        {
+          "canal": "tioorochitwitch",
+          "plateia": 3455,
+          "titulo": "estreia do gta vi"
+        },
+        {
+          "canal": "facada",
+          "plateia": 3225,
+          "titulo": "o INICIO de GTA 6 + 2 SORTEIOS do JOGO"
+        },
+        {
+          "canal": "rakin",
+          "plateia": 3148,
+          "titulo": "+18 SPEEDRUN DE GTA VI - !exitlag"
+        },
+        {
+          "canal": "meikodrj",
+          "plateia": 2536,
+          "titulo": "🔥 JOGANDO GTA 6!!! 🔥 HOJE É O GRANDE DIA!!! 🔥 PIXATHON ATIVADO! 🔥"
+        },
+        {
+          "canal": "brino",
+          "plateia": 1817,
+          "titulo": "GTA 6 - O PIOR STREAMER DO MUNDO"
+        },
+        {
+          "canal": "hayashii",
+          "plateia": 1770,
+          "titulo": "LANÇAMENTO DO GTA 6, GAMEPLAY do INÍCIO! | !Sorteios !2e67 !Alura !Monster !Pix "
+        },
+        {
+          "canal": "mount",
+          "plateia": 1557,
+          "titulo": "182 / GTA 6 VAMOS NESSA UIA"
+        },
+        {
+          "canal": "thimagroo",
+          "plateia": 1486,
+          "titulo": "LANÇAMENTO DO GTA VI 🏝️ - LIVE INFINITA  |❗PIX ❗️DC ͏"
+        },
+        {
+          "canal": "burgaofps",
+          "plateia": 1459,
+          "titulo": "+18🟢 GTA 6 - LIVE DOS APRECIADORES DE GAMEPLAY AVANÇADA🟢 !LINKS🟢"
+        },
+        {
+          "canal": "rubini",
+          "plateia": 1406,
+          "titulo": "@Rubini - GTA VI - !loja !rubinot !transfer !reidoscoins"
+        },
+        {
+          "canal": "thedarkness",
+          "plateia": 1153,
+          "titulo": "DE VOLTA À VICE CITY :)"
+        },
+        {
+          "canal": "suetam1v4",
+          "plateia": 1080,
+          "titulo": "LANÇAMENTO DO GTA 6 | !pix !zap"
+        },
+        {
+          "canal": "calango",
+          "plateia": 959,
+          "titulo": "gta VI apelao"
+        },
+        {
+          "canal": "douglassola",
+          "plateia": 869,
+          "titulo": "LANÇAMENTO DO GTA VI 🏝️(estamos em Nova Zelândia)"
+        },
+        {
+          "canal": "olkabone",
+          "plateia": 863,
+          "titulo": "GTA 6 GAMEPLAY DE LANÇAMENTO [PS5 PRO]. Digite !prime e saiba como remover os co"
+        },
+        {
+          "canal": "handsomed11",
+          "plateia": 781,
+          "titulo": "GTA 6 - O jogo MAIS AGUARDADO DA HISTÓRIA - PS5 PRO - Grand Theft Auto VI - Hand"
+        },
+        {
+          "canal": "calura9",
+          "plateia": 748,
+          "titulo": "GTA 6 ESTA ENTRE NÓS, O JOGO MAIS ESPERADO DA HISTÓRIA - PARTE 1"
+        },
+        {
+          "canal": "demuxa",
+          "plateia": 740,
+          "titulo": "🎉 LUCIA ESTA ONLINE 🎉❗Discord ❗Demiflix ❗Formulario #DBDCreator #AD"
+        },
+        {
+          "canal": "heitir",
+          "plateia": 723,
+          "titulo": "GTA 6 - O INÍCIO (JOGO COMPLETO)"
+        },
+        {
+          "canal": "stereonline",
+          "plateia": 722,
+          "titulo": "AO VIVO - GTA 6 O COMEÇO!!"
+        },
+        {
+          "canal": "brunablince",
+          "plateia": 708,
+          "titulo": "Dragona no GTA VI"
+        },
+        {
+          "canal": "biahkov",
+          "plateia": 499,
+          "titulo": "💜 LIVE SEMI INFINITA NO LANÇAMENTO DO GTA6!! DONATE DE VIDEO 2,50 Dia 190 🦈 ❗ Pi"
+        },
+        {
+          "canal": "stolenbr",
+          "plateia": 468,
+          "titulo": "LANÇAMENTO GRAND THEFT AUTO VI (MARATONA)💪🤠🥹🌴- !Monster !Eneba !Grupo"
+        },
+        {
+          "canal": "apenas1live",
+          "plateia": 428,
+          "titulo": "Gta 6 está entre nós... !vods !pix !hj !dc"
+        },
+        {
+          "canal": "ovelhera",
+          "plateia": 423,
+          "titulo": "🔴🟢🟡 GTA VI COM O RASTA !pix !lolidle !pw"
+        }
+      ]
+    }
+  }
+}

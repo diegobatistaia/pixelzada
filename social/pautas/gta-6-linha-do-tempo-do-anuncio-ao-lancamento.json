@@ -1,0 +1,89 @@
+{
+  "tipo": "noticia",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "linha-do-tempo-gta-6-do-anuncio-ao-lancamento-19-11-2026",
+  "imagem": {
+    "url": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/9k2kaa1o3297k9/4faf2f8d60cd657f09eb55707b31cc44008bfa4c.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 50%"
+  },
+  "fonte": "Fontes: Rockstar, Take-Two e TechRadar",
+  "capa": {
+    "titulo": "A linha do tempo de GTA 6 até 19/11",
+    "destaque": "até 19/11",
+    "apoio": "Do anúncio em 2022 ao lançamento, com as datas. Arrasta."
+  },
+  "slides": [
+    {
+      "rotulo": "2022 e 2023",
+      "titulo": "Da confirmação ao nome",
+      "destaque": "nome",
+      "passos": [
+        "4 fev 2022: Rockstar confirma o próximo GTA em desenvolvimento.",
+        "18 set 2022: vídeos de versão inicial vazam num fórum.",
+        "4 dez 2023: Trailer 1 e nome Grand Theft Auto VI."
+      ]
+    },
+    {
+      "rotulo": "2025",
+      "titulo": "Dois adiamentos e um recorde",
+      "destaque": "recorde",
+      "passos": [
+        "2 mai 2025: adiado para 26 de maio de 2026.",
+        "6 mai 2025: Trailer 2 apresenta Jason e Lucia.",
+        "6 nov 2025: nova data, 19 de novembro de 2026."
+      ]
+    },
+    {
+      "rotulo": "2026",
+      "titulo": "Pré-venda e reta final",
+      "destaque": "reta final",
+      "passos": [
+        "25 jun 2026: pré-venda abre, a US$ 79,99 e US$ 99,99.",
+        "27 ago 2026: Extended Look de 26 minutos.",
+        "12 nov 2026: começa o pré-download.",
+        "19 nov 2026: lançamento no PS5 e Xbox Series."
+      ]
+    }
+  ],
+  "final": "Manda pro amigo que está contando os dias",
+  "legenda": {
+    "gancho": "GTA 6 já passou por vazamento, dois adiamentos e pré-venda, e o lançamento segue em 19 de novembro.",
+    "corpo": [
+      "A Rockstar confirmou o jogo em 4 de fevereiro de 2022. Depois vieram o vazamento de setembro de 2022, o Trailer 1 em dezembro de 2023 e os adiamentos de maio e novembro de 2025, segundo TechRadar e Take-Two.",
+      "Em 2026, a pré-venda abriu em 25 de junho, com a Standard a US$ 79,99 e a Ultimate a US$ 99,99. O pré-download começa em 12 de novembro e o lançamento é em 19 de novembro, no PlayStation 5 e no Xbox Series X|S, segundo a Rockstar.",
+      "Até outubro de 2026, nenhuma versão para PC havia sido anunciada."
+    ],
+    "chamada": "Qual desses momentos foi o que mais te marcou?",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: A linha do tempo de GTA 6 até 19/11",
+    "Slide 2: De 2022 a 2023: confirmação, vazamento e Trailer 1",
+    "Slide 3: 2025: dois adiamentos e Trailer 2",
+    "Slide 4: 2026: pré-venda, Extended Look e lançamento",
+    "Slide 5: Manda pro amigo que está contando os dias"
+  ],
+  "slug": "gta-6-linha-do-tempo-do-anuncio-ao-lancamento",
+  "status": "publicado",
+  "criado": "2026-10-16T09:40:19-03:00",
+  "formato": "linha-do-tempo",
+  "publicado": {
+    "data": "2026-10-16",
+    "horario": "15:00",
+    "em": "2026-10-16T15:00:02-03:00",
+    "estilo": "conquista",
+    "media_id": "18001585698040236",
+    "permalink": "https://www.instagram.com/p/DekIKp0iRzh/"
+  },
+  "story": {
+    "em": "2026-10-16T15:00:45-03:00",
+    "media_id": "18017625068956307"
+  }
+}

@@ -1,7 +1,8 @@
 name: Instagram
 
 # Publica no @pixelzada.br sozinho, em horários fixos (Brasília):
-#   carrossel + Story às 09h, 11h, 13h, 15h, 17h, 19h e 21h (GTA 6 às 11h, 15h e 19h)
+#   carrossel às 09h, 11h, 13h, 15h, 17h, 19h e 21h (GTA 6 às 11h, 15h e 19h);
+#   só o de GTA 6 leva Story (STORY_SO_GTA em scripts/social/instagram.py)
 #   Reel desligado (REEL_ATIVO em scripts/social/instagram.py)
 #
 # A redação (Routine do Claude) escreve as pautas em social/pautas/. Aqui, onde
@@ -12,6 +13,8 @@ name: Instagram
 #
 # O GitHub atrasa os agendamentos, então cada horário tem três tentativas; a
 # primeira que roda publica e as outras saem em segundos.
+# PAUSA (Diego, 10/11): carrosséis e Stories pausados (CARROSSEL_ATIVO = False em
+# scripts/social/instagram.py); as rodadas saem como "nada" até ele mandar retomar.
 on:
   schedule:
     - cron: "2,22,47 12,14,16,18,20,22,0 * * *"   # 09, 11, 13, 15, 17, 19 e 21h
@@ -19,10 +22,13 @@ on:
   workflow_dispatch:
     inputs:
       acao:
-        description: "rodada = publica se for horário; teste = confere a chave; conferir = lista os últimos posts"
+        description: "rodada = publica se for horário; teste = confere a chave; conferir = lista os últimos posts; story = refaz só o Story do slug"
         type: choice
-        options: [teste, conferir, rodada]
+        options: [teste, conferir, rodada, story]
         default: teste
+      slug:
+        description: "só para acao=story: a pauta cujo Story não saiu"
+        required: false
 
 permissions:
   contents: write
@@ -48,8 +54,16 @@ jobs:
           python-version: "3.12"
 
       - name: Teste da chave ou conferência
-        if: env.ACAO != 'rodada'
+        if: env.ACAO != 'rodada' && env.ACAO != 'story'
         run: python -m scripts.social.instagram "$ACAO"
+
+      - name: Refazer só o Story
+        if: env.ACAO == 'story'
+        env:
+          SLUG: ${{ github.event.inputs.slug }}
+        run: |
+          pip install -r requirements.txt
+          python -m scripts.social.instagram story "$SLUG"
 
       - name: É horário de publicar?
         id: decidir

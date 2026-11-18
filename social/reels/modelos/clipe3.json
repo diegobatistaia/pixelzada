@@ -1,0 +1,16 @@
+{
+  "link": "https://www.twitch.tv/paulinholokobr/clip/BlushingGeniusDiscCoolStoryBob-jEW0tCWs92NxXWUm",
+  "canal": "paulinholokobr",
+  "pessoa_real": true,
+  "caixas": [
+    [
+      16,
+      21,
+      338,
+      206
+    ]
+  ],
+  "conteudo": "jogo",
+  "motivo": "camera do streamer visivel no canto superior esquerdo",
+  "modelo": "gemini-flash-lite-latest"
+}

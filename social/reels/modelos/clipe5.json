@@ -1,0 +1,16 @@
+{
+  "link": "https://www.twitch.tv/olkabone/clip/CulturedImpartialPlumageDatBoi-QUwjmoV71M1MnLEh",
+  "canal": "olkabone",
+  "pessoa_real": true,
+  "caixas": [
+    [
+      160,
+      755,
+      422,
+      988
+    ]
+  ],
+  "conteudo": "cutscene",
+  "motivo": "camera do streamer visivel no canto superior direito e cenas de historia sem controle do jogador",
+  "modelo": "gemini-flash-lite-latest"
+}

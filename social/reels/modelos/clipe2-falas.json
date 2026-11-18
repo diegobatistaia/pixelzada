@@ -1,0 +1,41 @@
+{
+  "titulo": "Streamer cai numa armadilha e se desespera no GTA",
+  "emoji": "😱",
+  "falas": [
+    {
+      "ini": 0.0,
+      "fim": 1.2,
+      "texto": "AINDA SOU BACANA, FIUK"
+    },
+    {
+      "ini": 8.0,
+      "fim": 9.0,
+      "texto": "AHL, QUE ISSO?!"
+    },
+    {
+      "ini": 10.5,
+      "fim": 11.5,
+      "texto": "QUE ISSO?!"
+    },
+    {
+      "ini": 12.0,
+      "fim": 13.0,
+      "texto": "ERA UMA ARMADILHA, VIADO!"
+    },
+    {
+      "ini": 18.5,
+      "fim": 19.5,
+      "texto": "CARALHO!"
+    },
+    {
+      "ini": 24.0,
+      "fim": 25.5,
+      "texto": "O DINHEIRO ERA UMA ARMADILHA, VIADO!"
+    },
+    {
+      "ini": 27.0,
+      "fim": 28.0,
+      "texto": "NÃO!"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "port-gellhorn-gta-6-costa-esquecida",
+  "tipo": "noticia",
+  "formato": "em-foco",
+  "assunto": "GTA 6",
+  "gta6": true,
+  "materia": "port-gellhorn-gta-6-costa-esquecida-de-leonida",
+  "criado": "2026-11-01T07:52:00-03:00",
+  "imagem": {
+    "url": "https://www.rockstargames.com/VI/_next/static/media/poster.15pqq49m2stxb.jpg",
+    "credito": "Rockstar Games",
+    "pos": "50% 40%"
+  },
+  "fonte": "Fonte: Rockstar Games",
+  "capa": {
+    "titulo": "Port Gellhorn: a costa esquecida de GTA 6",
+    "destaque": "esquecida",
+    "apoio": "O lado sujo de Leonida. Arrasta.",
+    "local": "Port Gellhorn"
+  },
+  "slides": [
+    {
+      "rotulo": "O lugar",
+      "titulo": "Um balneário em decadência",
+      "destaque": "decadência",
+      "texto": [
+        "Segundo a Rockstar, era um **destino de férias popular** que entrou em decadência. Motéis baratos e strip malls vazios não trazem os turistas de volta."
+      ]
+    },
+    {
+      "rotulo": "A economia",
+      "titulo": "Bebida barata e analgésicos",
+      "destaque": "analgésicos",
+      "texto": [
+        "Uma nova economia gira em torno de **bebida barata**, analgésicos e energéticos de posto de estrada."
+      ]
+    },
+    {
+      "rotulo": "O conselho",
+      "titulo": "Segure bem a carteira",
+      "destaque": "carteira",
+      "texto": [
+        "O texto oficial recomenda subir numa **moto de trilha** e segurar bem a carteira."
+      ]
+    }
+  ],
+  "final": "Você visitaria Port Gellhorn?",
+  "legenda": {
+    "gancho": "Port Gellhorn é a costa esquecida de Leonida em GTA 6.",
+    "corpo": [
+      "Segundo a Rockstar, o lugar era um destino de férias popular e hoje vive de motéis baratos e economia paralela.",
+      "A Rockstar não diz qual cidade real inspirou o local. GTA 6 chega em 19 de novembro de 2026, para PS5 e Xbox Series X|S, segundo a Rockstar."
+    ],
+    "chamada": "Matéria completa no link da bio.",
+    "hashtags": [
+      "#pixelzada",
+      "#gta6",
+      "#rockstargames",
+      "#gtavi"
+    ]
+  },
+  "alt": [
+    "Slide 1: Port Gellhorn: a costa esquecida de GTA 6",
+    "Slide 2: Um balneário em decadência",
+    "Slide 3: Bebida barata e analgésicos",
+    "Slide 4: Segure bem a carteira",
+    "Slide 5: Você visitaria Port Gellhorn?"
+  ],
+  "status": "pronto"
+}

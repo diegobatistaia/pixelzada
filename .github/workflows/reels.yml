@@ -1,15 +1,21 @@
 name: Reels
 
 # Publica no @pixelzada.br os Reels de vídeo da fila (social/reels/fila.json),
-# sozinho, às 10h, 12h, 14h, 16h, 18h e 20h (Brasília). Os vídeos já vêm prontos, na
+# sozinho, nos horários da grade (scripts/social/reels.py, função horarios). Os vídeos já vêm prontos, na
 # identidade visual, e ficam em social/reels/videos/. Código: scripts/social/reels.py.
 #
 # O GitHub atrasa os agendamentos, então cada horário tem várias tentativas; a
 # primeira que roda publica e as outras saem em segundos.
 on:
   schedule:
-    - cron: "2,22,47 13,15,17,19,21,23 * * *"   # 10, 12, 14, 16, 18 e 20h
-    - cron: "12,37 14,16,18,20,22,0 * * *"      # rede de segurança, 1h depois
+    # De 10 em 10 minutos, das 7h às 23h50 (Brasília): a janela é de 7h a 23h
+    # (Diego, 10/11). Cada rodada publica o Reel agendado mais antigo que já passou
+    # da hora, com pelo menos 1 hora depois do anterior (15/dia de 10 a 15/11, 17/dia desde 16/11).
+    - cron: "*/10 10-23 * * *"
+    - cron: "*/10 0-2 * * *"
+    # Lançamento do GTA 6 (Diego, 10/11): de 19 a 22/11 também de madrugada
+    # (0h às 6h50 de Brasília = 3h às 9h50 UTC), um Reel a cada 30 minutos.
+    - cron: "*/10 3-9 19-22 11 *"
   workflow_dispatch:
     inputs:
       acao:
@@ -91,12 +97,21 @@ jobs:
         if: steps.preparar.outputs.acao == 'reel'
         run: python -m scripts.social.reels publicar
 
+      # Diego (11/11): o mesmo vídeo vai para o TikTok e o YouTube Shorts pelo Buffer.
+      # Só depois do Instagram dar certo; erro aqui não derruba a rodada.
+      - name: TikTok e YouTube (Buffer)
+        if: steps.preparar.outputs.acao == 'reel'
+        continue-on-error: true
+        env:
+          BUFFER_TOKEN_PIXELZADA: ${{ secrets.BUFFER_TOKEN_PIXELZADA }}
+        run: python -m scripts.social.buffer publicar
+
       - name: Registrar o resultado
         if: always()
         run: |
           git config user.name "pixelzada-bot"
           git config user.email "bot@pixelzada.com.br"
-          git add social/reels/fila.json social/publicar 2>/dev/null || true
+          git add social/reels/fila.json social/reels/buffer.json social/publicar 2>/dev/null || true
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "reels: $ACAO $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
           for tentativa in 1 2 3 4; do

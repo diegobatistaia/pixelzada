@@ -1,0 +1,68 @@
+name: Saúde das chaves
+
+# Confere de hora em hora se as chaves da Meta ainda funcionam (publicação dos
+# Reels e pesquisa de concorrentes), quanto falta para vencerem e quantos dias de
+# Reels a fila tem. Código: scripts/social/saude.py.
+#
+# O resultado vai para o ramo saude-dados (saude.json), e não para o main. Uma
+# tarefa agendada do Claude dispara este workflow toda hora, lê o arquivo e avisa
+# o Diego no chat quando algo falha. O agendamento abaixo é só a reserva, porque o
+# cron do GitHub atrasa ou pula.
+on:
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: saude
+  cancel-in-progress: false
+
+jobs:
+  saude:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      INSTAGRAM_TOKEN_PIXELZADA: ${{ secrets.INSTAGRAM_TOKEN_PIXELZADA }}
+      META_TOKEN_PIXELZADA: ${{ secrets.META_TOKEN_PIXELZADA }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - run: pip install --quiet pyyaml
+
+      - name: Abrir o ramo saude-dados
+        run: |
+          mkdir saude-dados && cd saude-dados
+          git init -q -b saude-dados
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if git fetch -q --depth 1 origin saude-dados; then
+            git reset -q --hard FETCH_HEAD
+          else
+            echo "Ramo saude-dados ainda não existe; nasce nesta rodada."
+          fi
+
+      - name: Conferir chaves e fila
+        run: python -m scripts.social.saude --saida saude-dados
+
+      - name: Gravar no ramo saude-dados
+        run: |
+          cd saude-dados
+          git add saude.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -qm "saude: $(TZ=America/Sao_Paulo date '+%d/%m %H:%M')"
+          for tentativa in 1 2 3; do
+            git push origin saude-dados && exit 0
+            sleep $((tentativa * 5))
+          done
+          exit 1

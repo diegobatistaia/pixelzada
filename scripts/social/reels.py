@@ -20,7 +20,7 @@ import argparse
 import json
 import shutil
 import sys
-from datetime import datetime, timedelta
+from datetime import date, datetime, timedelta
 
 from . import instagram as IG, pauta as P
 
@@ -29,11 +29,58 @@ FILA = PASTA / "fila.json"
 PEDIDO = P.SAIDA / "pedido-reel.json"
 # Horários fixos (Brasília): 6 por dia nas horas pares, entre os carrosséis
 # (9h, 11h, 13h, 15h, 17h, 19h e 21h).
-HORARIOS = ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]
+HORARIOS = ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]  # grade antiga (até 09/11)
+
+# Aquecimento para o GTA 6 (Diego, 09/11): 15 Reels/dia de 10 a 15/11, de hora em hora
+# (7h, 8h ... 21h). Sem carrosséis (pausados em 10/11). A partir de 16/11 (Diego, 10/11
+# 18h): 17 Reels/dia, de hora em hora, das 7h às 23h (janela 7h-23h), para dar tempo
+# ao teste do Instagram entre um Reel e outro.
+JANELA = ("07:00", "23:00")
+GRADE_15 = [f"{h:02d}:00" for h in range(7, 22)]   # 07:00 .. 21:00
+GRADE_17 = [f"{h:02d}:00" for h in range(7, 24)]   # 07:00 .. 23:00
+
+# LANÇAMENTO DO GTA 6 (Diego, 10/11): de quarta 18/11 às 8h (o jogo libera na Nova
+# Zelândia às 8h de Brasília) até domingo 22/11, um Reel a cada 30 minutos, 24 horas
+# por dia, madrugada incluída (lançamento + feriado de 20/11 + fim de semana). Na
+# segunda 23/11 volta a grade normal de 17/dia (7h às 23h).
+LANCAMENTO = (date(2026, 11, 18), date(2026, 11, 22))
+GRADE_30MIN = [f"{h:02d}:{m:02d}" for h in range(24) for m in (0, 30)]  # 00:00 .. 23:30
+GRADE_18_11 = ["07:00"] + [h for h in GRADE_30MIN if h >= "08:00"]     # 07:00, 08:00, 08:30 .. 23:30
+
+
+def lancamento(dia: date) -> bool:
+    return LANCAMENTO[0] <= dia <= LANCAMENTO[1]
+
+
+def horarios(dia: date | str) -> list[str]:
+    dia = date.fromisoformat(dia) if isinstance(dia, str) else dia
+    if dia == LANCAMENTO[0]:
+        return GRADE_18_11
+    if lancamento(dia):
+        return GRADE_30MIN
+    if dia >= date(2026, 11, 16):
+        return GRADE_17
+    if dia >= date(2026, 11, 10):
+        return GRADE_15
+    return HORARIOS
+
+
+def intervalo(dia: date | str) -> timedelta:
+    """Espaço da grade do dia (menor distância entre dois horários seguidos)."""
+    hs = [datetime.strptime(h, "%H:%M") for h in horarios(dia)]
+    return min((b - a for a, b in zip(hs, hs[1:])), default=timedelta(hours=1))
+
+
 POR_DIA = len(HORARIOS)
-# Mesma janela dos carrosséis (1h50): o GitHub atrasa os agendamentos, e a
-# janela fecha antes do Reel seguinte.
-ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)
+ANTES, DEPOIS = timedelta(minutes=2), timedelta(minutes=110)  # DEPOIS: usado pela gaveta
+# REGRA do Diego (10/11): depois de uma falha (GitHub fora do ar etc.) os Reels parados
+# NUNCA saem em sequência. Entre dois Reels fica sempre o intervalo da grade (1 hora),
+# com FOLGA para o atraso normal do agendador do GitHub. Quando a fila atrasa, ela inteira
+# anda para a frente (reagendar), e o que não cabe até 23h passa para o dia seguinte.
+FOLGA = timedelta(minutes=10)
+# Exceção do Diego (18/11): os 3 Reels de teste dos modelos de corte de streamer (item
+# "teste_modelo") saem com 10 minutos entre eles, fora da grade.
+TESTE_MIN = 10
 TENTATIVAS = 3
 
 
@@ -51,30 +98,87 @@ def quando(item: dict) -> datetime:
     return datetime.fromisoformat(f"{item['data']}T{item['horario']}:00").replace(tzinfo=P.TZ)
 
 
+def _ultimo_publicado(fila: list[dict]) -> datetime | None:
+    em = [datetime.fromisoformat(i["publicado"]["em"]) for i in fila
+          if i.get("status") == "publicado" and (i.get("publicado") or {}).get("em")]
+    return max(em) if em else None
+
+
+def _proximo_horario(minimo: datetime) -> tuple[str, str]:
+    """Primeiro horário da grade a partir de `minimo` (com FOLGA), olhando os dias seguintes."""
+    dia = minimo.date()
+    while True:
+        for h in horarios(dia):
+            q = datetime.fromisoformat(f"{dia.isoformat()}T{h}:00").replace(tzinfo=P.TZ)
+            if q >= minimo - FOLGA:
+                return dia.isoformat(), h
+        dia += timedelta(days=1)
+
+
+def _na_janela(t: datetime) -> bool:
+    if lancamento(t.date()) and t.date() != LANCAMENTO[0]:
+        return True  # 19 a 22/11: 24 horas por dia
+    return JANELA[0] <= t.strftime("%H:%M") <= "23:30"
+
+
+def _proximo_inicio(t: datetime) -> datetime:
+    dia = t.date() if t.strftime("%H:%M") < JANELA[0] else t.date() + timedelta(days=1)
+    if lancamento(dia) and dia != LANCAMENTO[0]:
+        return datetime.combine(dia, datetime.min.time()).replace(tzinfo=P.TZ)  # meia-noite
+    return datetime.fromisoformat(f"{dia.isoformat()}T{JANELA[0]}:00").replace(tzinfo=P.TZ)
+
+
 def reagendar(fila: list[dict], t: datetime) -> list[str]:
-    """Reel cuja janela passou sem sair vai para o próximo horário livre (nunca se perde)."""
+    """Fila em ordem, com pelo menos 1 intervalo da grade entre um Reel e o seguinte.
+
+    Parte do último Reel publicado: se o próximo da fila ficaria perto demais (porque a
+    fila atrasou), ele vai para o próximo horário da grade que respeita o intervalo, e todos
+    os seguintes andam junto. Ninguém volta para trás e nenhum vídeo se perde. Um Reel que
+    passou da hora e ainda não saiu fica onde está: sai na próxima rodada, e os de trás andam.
+    """
     avisos = []
-    for item in [i for i in fila if i["status"] == "agendado" and t > quando(i) + DEPOIS]:
-        ocupados = {(i["data"], i["horario"]) for i in fila if i is not item and i["status"] in ("agendado", "publicado")}
-        dia = t.date()
-        while True:
-            livre = next((h for h in HORARIOS if (dia.isoformat(), h) not in ocupados
-                          and datetime.fromisoformat(f"{dia.isoformat()}T{h}:00").replace(tzinfo=P.TZ) > t), None)
-            if livre:
-                break
-            dia += timedelta(days=1)
-        avisos.append(f"{item['slug']}: {item['data']} {item['horario']} passou; vai para {dia.isoformat()} {livre}")
-        item.update(data=dia.isoformat(), horario=livre, tentativas=0)
-        item.pop("erro", None)
+    anterior = _ultimo_publicado(fila)
+    pend = sorted((i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS), key=quando)
+    for item in pend:
+        q = quando(item)
+        if item.get("teste_modelo"):  # teste dos 3 modelos de corte (Diego, 18/11): horário fixo, 10 min entre eles
+            anterior = max(q, t) if q <= t else q
+            continue
+        minimo = anterior + intervalo(anterior.date()) if anterior else None
+        if q <= t:  # já passou da hora
+            base = t if _na_janela(t) else _proximo_inicio(t)
+            saida = max(base, minimo) if minimo else base
+            mover = saida - t > FOLGA  # não pode sair agora: vai para o próximo horário que respeita o intervalo
+        else:
+            saida = minimo
+            mover = minimo is not None and q < minimo - FOLGA
+        if mover:
+            d, h = _proximo_horario(saida)
+            avisos.append(f"{item['slug']}: {item['data']} {item['horario']} -> {d} {h}")
+            item.update(data=d, horario=h)
+            item.pop("erro", None)
+            q = quando(item)
+        elif q <= t:
+            q = saida
+        anterior = q
     return avisos
 
 
 def escolher(t: datetime | None = None, fila: list[dict] | None = None) -> dict | None:
     t = t or IG.agora()
     fila = fila if fila is not None else carregar()
+    if not _na_janela(t):
+        return None  # fora da janela (7h às 23h): o atrasado espera a manhã
     abertos = [i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS
-               and quando(i) - ANTES <= t <= quando(i) + DEPOIS]
-    return max(abertos, key=quando) if abertos else None  # só o horário mais recente que já abriu
+               and quando(i) - ANTES <= t]
+    if not abertos:
+        return None
+    ultimo = _ultimo_publicado(fila)
+    prox = min(abertos, key=quando)  # o mais antigo primeiro: a fila anda em ordem
+    espaco = timedelta(minutes=TESTE_MIN) if prox.get("teste_modelo") else intervalo(t.date())
+    if ultimo and t - ultimo < espaco - (timedelta(minutes=2) if prox.get("teste_modelo") else FOLGA):
+        return None  # saiu um há menos de 1 intervalo; o próximo espera
+    return prox
 
 
 def pasta_saida(item: dict):
@@ -121,6 +225,12 @@ def cmd_publicar(args) -> int:
     try:
         if item["status"] != "agendado":
             raise IG.ApiError(f"{item['slug']} está {item['status']}; nada publicado")
+        # Última barreira de nudez (Diego, 16/11): legenda com palavra de risco ou checagem
+        # visual ruim não sai (scripts/social/seguranca.py).
+        from .seguranca import barrar, risco_texto
+        if risco_texto(item.get("legenda", "")) or barrar((item.get("checagem") or {}).get("risco", "")):
+            raise IG.ApiError(f"{item['slug']}: risco de violação de nudez; nada publicado "
+                              f"(python -m scripts.social.seguranca varrer)")
         token, ig = IG.conta()
         video, capa = IG.url_publica(pedido["pasta"], "video.mp4"), IG.url_publica(pedido["pasta"], "capa.jpg")
         IG.conferir_urls([video, capa])
@@ -179,8 +289,8 @@ def cmd_check(args) -> int:
         for k in ("slug", "data", "horario", "legenda", "status"):
             if not i.get(k):
                 erros.append(f"{i.get('slug', '?')}: falta {k}")
-        if i.get("status") != "publicado" and i.get("horario") not in HORARIOS:  # os já publicados ficam na grade antiga
-            erros.append(f"{i['slug']}: horário {i.get('horario')} não é um dos {HORARIOS}")
+        if i.get("status") != "publicado" and not i.get("teste_modelo") and i.get("horario") not in horarios(i["data"]):  # publicados ficam como saíram
+            erros.append(f"{i['slug']}: horário {i.get('horario')} não é da grade de {i['data']}")
         if (i["data"], i["horario"]) in vistos:
             erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")
         vistos.add((i["data"], i["horario"]))

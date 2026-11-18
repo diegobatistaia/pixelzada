@@ -4,6 +4,11 @@ Lê social/reels/fila.json, escreve o HTML da página e imprime um resumo para a
 diária conferir o que realmente saiu (campo `publicado` com media_id, gravado pelo robô).
 
     python -m scripts.social.gaveta [saida.html]
+    python -m scripts.social.gaveta --previas <pasta>   gera <pasta>/v/<slug>.mp4/.jpg (prévias)
+
+A saída já é o index.html completo (com doctype). A página é publicada com os arquivos: index.html + v/<slug>.mp4 e v/<slug>.jpg de cada Reel
+que ainda vai sair (o botão "Assistir" toca a prévia). Prévias de Reels já publicados podem
+ser removidas na publicação seguinte.
 
 Linhas do resumo que a rotina lê:
     ATRASADO <data> <hora> <slug>   horário que já fechou (janela de 110 min) e o Reel não saiu
@@ -16,11 +21,20 @@ import sys
 from datetime import date, datetime, timedelta
 
 from . import pauta as P
-from .reels import DEPOIS, HORARIOS, POR_DIA, carregar
+from .reels import DEPOIS, carregar, horarios
+
+# Grade de amanhã (15 Reels/dia de 10 a 15/11, 25/dia desde 16/11).
+HORARIOS = horarios(datetime.now(P.TZ).date() + timedelta(days=1))
+POR_DIA = len(HORARIOS)
 
 SEMANA = POR_DIA * 7
 DIAS = ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Domingo"]
 LIMITE_BAIXA = POR_DIA * 2
+
+
+GRADE_TXT = ("Aquecimento para o GTA 6: de 10 a 15/11 são 15 Reels por dia, de hora em hora (7h às 21h); "
+             "a partir de 16/11, 17 por dia, de hora em hora (7h às 23h). Se o robô atrasar, os Reels nunca saem "
+             "em sequência: a fila anda para a frente mantendo 1 hora entre um e outro (Diego, 10/11).")
 
 
 def _h(txt: str) -> str:
@@ -31,10 +45,44 @@ def _titulo(item: dict) -> str:
     return (item.get("legenda") or item["slug"]).split("\n\n")[0].strip()
 
 
-def _item(hora: str, titulo: str, pequeno: str, tag: str = "Agendado", vazio: bool = False) -> str:
+REPO = "https://github.com/diegobatistaia/pixelzada/blob/main/social/reels/videos"
+
+
+def _item(hora: str, titulo: str, pequeno: str, tag: str = "Agendado", vazio: bool = False, slug: str = "") -> str:
     cls = "item vazio" if vazio else "item"
+    ver = ""
+    if slug:
+        # Prévia do vídeo final (o mesmo que vai sair, em 540x960) como arquivo da própria
+        # página: v/<slug>.mp4. Só carrega quando o Diego abre o "Assistir".
+        ver = (f'<details class="ver"><summary>▶ Assistir</summary>'
+               f'<video controls playsinline preload="none" poster="v/{slug}.jpg" src="v/{slug}.mp4"></video>'
+               f'<a href="{REPO}/{slug}.mp4">Abrir no GitHub (qualidade original)</a></details>')
     return (f'      <div class="{cls}"><span class="hora">{hora}</span><div><strong>{html.escape(titulo)}</strong>'
-            f'<small>{html.escape(pequeno)}</small></div><span class="tag">{tag}</span></div>\n')
+            f'<small>{html.escape(pequeno)}</small>{ver}</div><span class="tag">{tag}</span></div>\n')
+
+
+def previas(pasta: str) -> list[str]:
+    """Gera em <pasta>/v/ a prévia (mp4 540x960) e a capa de cada Reel que ainda vai sair.
+    Devolve os nomes dos arquivos (para publicar junto com a página)."""
+    import subprocess
+    from pathlib import Path
+    from .reels import PASTA
+    destino = Path(pasta) / "v"
+    destino.mkdir(parents=True, exist_ok=True)
+    nomes = []
+    for i in carregar():
+        if i.get("status") == "publicado":
+            continue
+        src, capa = PASTA / "videos" / f"{i['slug']}.mp4", PASTA / "videos" / f"{i['slug']}.jpg"
+        mp4, jpg = destino / f"{i['slug']}.mp4", destino / f"{i['slug']}.jpg"
+        if src.exists() and not mp4.exists():
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(src), "-vf", "scale=540:-2",
+                            "-c:v", "libx264", "-preset", "veryfast", "-crf", "28", "-pix_fmt", "yuv420p",
+                            "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", str(mp4)], check=True)
+        if capa.exists() and not jpg.exists():
+            subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(capa), "-vf", "scale=540:-2", "-q:v", "4", str(jpg)], check=True)
+        nomes += [f"v/{n.name}" for n in (mp4, jpg) if n.exists()]
+    return nomes
 
 
 def _inicio(item: dict) -> datetime:
@@ -65,12 +113,12 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
         if d == hoje:
             resumo = f"{len(saiu_hoje)} já saíram, {len(itens)} na fila"
         else:
-            resumo = f"{len(itens)} de {POR_DIA}"
+            resumo = f"{len(itens)} de {len(horarios(d))}"
         fila_html += f'    <div class="dia">\n      <header>{DIAS[d.weekday()]}, {d.day:02d}/{d.month:02d} <span>{resumo}</span></header>\n'
         for i in itens:
             atrasado = agora > _inicio(i) + DEPOIS
             fila_html += _item(i["horario"], _titulo(i), i.get("estilo", ""),
-                               "Perdeu a hora" if atrasado else "Agendado", vazio=atrasado)
+                               "Perdeu a hora" if atrasado else "Agendado", vazio=atrasado, slug=i["slug"])
         fila_html += "    </div>\n"
     if pend:
         u = pend[-1]
@@ -89,7 +137,7 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
     dias_restam = round(n / POR_DIA) if n else 0
     out = TEMPLATE
     out = out.replace("@@SUB@@", f"Vídeos aprovados esperando a hora de sair no @pixelzada.br. Posição em {quando}. "
-                      f"São {POR_DIA} Reels por dia: {horas}. Os Reels já publicados saem da lista e a página é atualizada todo dia à noite.")
+                      f"{GRADE_TXT} Os Reels já publicados saem da lista e a página é atualizada todo dia à noite.")
     out = out.replace("@@N@@", str(n)).replace("@@ULT_NUM@@", ult_num).replace("@@ULT_TXT@@", ult_txt)
     out = out.replace("@@FALTA@@", str(falta)).replace("@@SEMANA@@", str(SEMANA)).replace("@@FILA@@", fila_html)
     out = out.replace("@@POR_DIA@@", str(POR_DIA)).replace("@@HORAS@@", horas).replace("@@LIMITE@@", str(LIMITE_BAIXA))
@@ -98,6 +146,9 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
 
 
 def main() -> int:
+    if len(sys.argv) > 2 and sys.argv[1] == "--previas":
+        print("\n".join(previas(sys.argv[2])))
+        return 0
     destino = sys.argv[1] if len(sys.argv) > 1 else None
     out, avisos = pagina()
     if destino:
@@ -116,7 +167,11 @@ def main() -> int:
     return 0
 
 
-TEMPLATE = """<title>Gaveta de Reels</title>
+TEMPLATE = """<!DOCTYPE html>
+<html lang="pt-BR">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gaveta de Reels</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600;800&display=swap">
 <style>
 /* Layout: resumo em 3 números no topo, depois a fila dia a dia e a conta de quantos vídeos mandar. */
@@ -143,6 +198,10 @@ p{max-width:65ch}
 .hora{font:600 15px/1 var(--body);font-variant-numeric:tabular-nums}
 .item strong{display:block;overflow-wrap:anywhere}
 .item small{color:var(--muted)}
+.ver{margin-top:8px}
+.ver summary{cursor:pointer;font:800 13px/1 var(--body);text-transform:uppercase;letter-spacing:.06em;color:var(--accent);padding:6px 0}
+.ver video{display:block;width:100%;max-width:300px;aspect-ratio:9/16;background:#000;margin-top:8px}
+.ver a{display:inline-block;margin-top:6px;font-size:13px;color:var(--muted)}
 .tag{font:800 12px/1 var(--body);text-transform:uppercase;letter-spacing:.06em;padding:6px 8px;border:1px solid var(--ok);color:var(--ok);white-space:nowrap}
 .vazio{border-style:dashed}
 .vazio .hora,.vazio strong{color:var(--muted)}
@@ -167,12 +226,12 @@ p{max-width:65ch}
 
   <section class="conta">
     <h2>Quantos vídeos mandar</h2>
-    <p>O ritmo é de @@POR_DIA@@ Reels por dia, @@SEMANA@@ por semana, às @@HORAS@@.</p>
+    <p>O ritmo de amanhã é de @@POR_DIA@@ Reels por dia, @@SEMANA@@ por semana, às @@HORAS@@.</p>
     <ul>
       <li>Para a gaveta ficar com uma semana cheia, faltam <strong>@@FALTA@@ vídeos</strong>.</li>
       <li>Depois disso, mande <strong>@@POR_DIA@@ vídeos por dia</strong> (@@SEMANA@@ por semana) para ela não esvaziar.</li>
       <li>Eu aviso quando restarem menos de 2 dias de vídeos (menos de @@LIMITE@@). @@DURA@@</li>
-      <li>Vídeo recebido leva uns minutos para ser montado e entra no primeiro horário livre depois do seu OK.</li>
+      <li>Vídeo recebido leva uns minutos para ser montado e entra sozinho no primeiro horário livre.</li>
       <li>Se um Reel perder a hora, ele vai sozinho para o próximo horário livre.</li>
       <li>Perto do lançamento do GTA 6 (19/11) refazemos esse planejamento.</li>
     </ul>
