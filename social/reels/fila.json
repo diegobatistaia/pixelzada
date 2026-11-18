@@ -5569,7 +5569,7 @@
     "slug": "musica-na-intro-de-gta6",
     "data": "2026-11-18",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Se essa música tocasse na intro de GTA 6, seria épico 😭🎶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -5591,6 +5591,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T09:59:44-03:00",
+      "media_id": "18132104246478929",
+      "permalink": "https://www.instagram.com/reel/Df4j-7NjL9M/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
