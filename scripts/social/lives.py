@@ -273,9 +273,12 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
     pasta = cfg["_entrada"] / agora.date().isoformat()
     feitos, tentados = 0, 0
     limite = time.monotonic() + 60 * lv.get("orcamento_min", 9)
+    por_canal: dict[str, int] = {}
     for c in fila:
         if feitos >= lv.get("por_rodada", 2) or tentados >= 3 * lv.get("por_rodada", 2):
             break
+        if por_canal.get(c["canal"].lower(), 0) >= lv.get("max_por_canal", 1):
+            continue  # variedade: no máximo N clipes do mesmo streamer por rodada
         if time.monotonic() > limite:
             print(f"  tempo da rodada esgotado ({lv.get('orcamento_min', 9)} min): o resto fica para a próxima")
             break
@@ -288,6 +291,7 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
             destino.with_suffix(".json").write_text(json.dumps(info_entrada(cfg, c), ensure_ascii=False, indent=2) + "\n",
                                                     encoding="utf-8")
             feitos += 1
+            por_canal[c["canal"].lower()] = por_canal.get(c["canal"].lower(), 0) + 1
         Q.salvar_usados(cfg, ja)  # a cada clipe: se o job for cortado, o que já foi tentado não volta
     Q.salvar_usados(cfg, ja)
     print(f"{feitos} clipe(s) de live pronto(s) para a montagem")
