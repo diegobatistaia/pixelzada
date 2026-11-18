@@ -1,4 +1,5 @@
 """Segunda barreira contra o rosto do streamer (Diego, 10/11: só a imagem do jogo).
+Também descarta clipe que é só cutscene (política da Rockstar) ou menu/carregamento (18/11).
 
 O detector de rostos do OpenCV (rosto.py) deixou passar câmeras no ensaio de 17/11 (streamer
 olhando para baixo, rosto de lado, câmera pequena). Aqui a checagem é feita pelo Gemini
@@ -30,8 +31,15 @@ imagem do JOGO. É proibido aparecer qualquer pessoa REAL: a câmera (webcam/fac
 streamer, mesmo pequena, no canto, de lado, olhando para baixo, de costas, só um pedaço do
 corpo/mão, ou com fundo removido (chroma key). Personagens do jogo (gráficos 3D) NÃO contam.
 
+Diga também o que o clipe mostra (conteudo):
+- "jogo": gameplay de verdade (personagem andando, dirigindo, atirando, mapa aberto), mesmo com HUD;
+- "cutscene": cena de cinema/história do jogo sem controle do jogador (barras pretas, câmera de
+  filme, diálogo da história) na MAIOR parte dos quadros;
+- "menu": menus, configurações, tela de carregamento, arte de loading, tela preta, notificações
+  do console, logo/créditos na maior parte dos quadros.
+
 Você recebe 3 quadros do mesmo clipe. Responda SÓ um JSON:
-{"pessoa_real": true|false, "caixas": [[ymin, xmin, ymax, xmax], ...], "motivo": "frase curta"}
+{"pessoa_real": true|false, "caixas": [[ymin, xmin, ymax, xmax], ...], "conteudo": "jogo"|"cutscene"|"menu", "motivo": "frase curta"}
 
 caixas: uma por câmera/pessoa real, em coordenadas de 0 a 1000 do quadro (iguais nos 3
 quadros), cobrindo a moldura inteira da câmera com folga. Lista vazia se pessoa_real=false.
@@ -92,6 +100,7 @@ def perguntar(video: Path) -> dict:
                 j = json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
                 caixas = [[int(v) for v in c][:4] for c in (j.get("caixas") or []) if len(c) >= 4]
                 return {"pessoa_real": bool(j.get("pessoa_real")), "caixas": caixas,
+                        "conteudo": str(j.get("conteudo") or "jogo").lower(),
                         "motivo": str(j.get("motivo", ""))[:160], "modelo": modelo}
             except urllib.error.HTTPError as e:
                 ultimo = f"Gemini {modelo} HTTP {e.code}: {e.read().decode('utf-8', 'replace')[:120]}"
@@ -117,6 +126,9 @@ def limpar(video: Path) -> dict:
     r = perguntar(video)
     if r["pessoa_real"] is None:
         return {"ok": False, "motivo": f"checagem de câmera indisponível ({r['motivo']}): descartado por segurança"}
+    if r.get("conteudo") in ("cutscene", "menu"):
+        # Rockstar derruba cutscene isolada; menu/carregamento não rende Reel
+        return {"ok": False, "motivo": f"IA: {r['conteudo']}, não é gameplay ({r['motivo']})"}
     if not r["pessoa_real"]:
         return {"ok": True, "motivo": f"IA: sem pessoa real ({r['motivo']})"}
     if not r["caixas"]:
