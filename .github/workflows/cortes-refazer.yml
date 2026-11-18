@@ -5,6 +5,11 @@ name: Refazer cortes das lives
 # (python -m scripts.social.lives refazer), confere nudez e grava a fila.
 on:
   workflow_dispatch:
+    inputs:
+      link:
+        description: "Só prévias: links de clipes da Twitch (separados por espaço), grava em social/reels/modelos/"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -14,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     concurrency:
-      group: montar  # mexe na fila: nunca junto com a montagem
+      group: ${{ inputs.link != '' && 'modelos' || 'montar' }}  # mexe na fila: nunca junto com a montagem
       cancel-in-progress: false
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -28,9 +33,16 @@ jobs:
       - run: |
           bash scripts/instalar_ffmpeg.sh
           pip install pyyaml yt-dlp "opencv-python-headless<5"
+      - name: Prévias (modelos)
+        if: inputs.link != ''
+        env:
+          LINK: ${{ inputs.link }}
+        run: python -m scripts.social.lives modelo $LINK
       - name: Refazer no formato dividido
+        if: inputs.link == ''
         run: python -m scripts.social.lives refazer
       - name: Checagem de nudez na fila
+        if: inputs.link == ''
         run: python -m scripts.social.seguranca varrer
       - name: Registrar
         if: always()
