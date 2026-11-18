@@ -5676,9 +5676,93 @@
     }
   },
   {
-    "slug": "gta-6-twitch-bisteconee-2",
+    "slug": "gta-6-twitch-alanzoka-6",
     "data": "2026-11-18",
     "horario": "12:00",
+    "status": "agendado",
+    "estilo": "Dividido",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/InnocentTriumphantTurtlePoooound-qawzzhc7ptRYucE-",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer com headset e gameplay de jogo com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-18T11:05:49-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-7",
+    "data": "2026-11-18",
+    "horario": "12:30",
+    "status": "agendado",
+    "estilo": "Dividido",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/FlaccidEagerHamburgerTinyFace-4-Xn62LbMR9A2GtI",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer com camisa e cenas de gameplay do GTA com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-18T11:06:00-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-paulinholokobr-2",
+    "data": "2026-11-18",
+    "horario": "13:00",
+    "status": "agendado",
+    "estilo": "Dividido",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/paulinholokobr/clip/BlushingGeniusDiscCoolStoryBob-jEW0tCWs92NxXWUm",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apresenta apenas gameplay de jogo de corrida e pessoa vestida.",
+      "por": "imagem",
+      "em": "2026-11-18T11:06:10-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-bisteconee-2",
+    "data": "2026-11-18",
+    "horario": "13:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5706,7 +5790,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-5",
     "data": "2026-11-18",
-    "horario": "12:30",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5734,7 +5818,7 @@
   {
     "slug": "gta-6-twitch-paulinholokobr",
     "data": "2026-11-18",
-    "horario": "13:00",
+    "horario": "14:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5762,7 +5846,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-4",
     "data": "2026-11-18",
-    "horario": "13:30",
+    "horario": "15:00",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5790,7 +5874,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-2",
     "data": "2026-11-18",
-    "horario": "14:00",
+    "horario": "15:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5818,7 +5902,7 @@
   {
     "slug": "abertura-gta6-referencia-big-smoke",
     "data": "2026-11-18",
-    "horario": "14:30",
+    "horario": "16:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "A abertura do novo desenho de GTA 6 é uma referência à intro do Big Smoke em San Andreas 📺🔥 \"You picked the wrong house, fool!\"\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #sanandreas #bigsmoke #pixelzada",
@@ -5847,7 +5931,7 @@
   {
     "slug": "de-repente-semana-de-lancamento-gta6",
     "data": "2026-11-18",
-    "horario": "15:00",
+    "horario": "16:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "E, de repente, estamos na semana de lançamento do GTA 6 🥹🎉\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5876,7 +5960,7 @@
   {
     "slug": "sensacao-abrir-gta6-primeira-vez",
     "data": "2026-11-18",
-    "horario": "15:30",
+    "horario": "17:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Como vai ser a sensação de abrir GTA 6 pela primeira vez depois de esperar anos 😌\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5905,7 +5989,7 @@
   {
     "slug": "eu-indo-para-casa-dia-19",
     "data": "2026-11-18",
-    "horario": "16:00",
+    "horario": "17:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Eu indo para casa no dia 19 de novembro 🏎️💨 O GTA 6 já está esperando!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5934,7 +6018,7 @@
   {
     "slug": "gta6-como-comecou-como-esta-indo",
     "data": "2026-11-18",
-    "horario": "16:30",
+    "horario": "18:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "GTA 6: como começou e como está indo 🥹 Da lista de desejos pra biblioteca!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -5963,7 +6047,7 @@
   {
     "slug": "gta6-horas-sem-tocar-numa-missao",
     "data": "2026-11-18",
-    "horario": "17:00",
+    "horario": "18:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "O que GTA 6 precisa ter pra você passar horas sem nem tocar numa missão? Comenta aí 👇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
