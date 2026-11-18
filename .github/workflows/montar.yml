@@ -45,7 +45,7 @@ jobs:
 
       - name: Instalar ffmpeg
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+          bash scripts/instalar_ffmpeg.sh
           pip install pyyaml
 
       - name: Instalar o navegador do gerador
