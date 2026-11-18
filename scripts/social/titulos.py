@@ -181,7 +181,9 @@ def refazer(alvo: str) -> int:
     from .pauta import TZ
     fila = R.carregar()
     agora = datetime.now(TZ)
-    futuros = [i for i in fila if i["status"] == "agendado" and R.quando(i) > agora]
+    # Corte de streamer não leva título (Diego, 18/11 19h): nunca reescrever.
+    futuros = [i for i in fila if i["status"] == "agendado" and R.quando(i) > agora
+               and not ((i.get("origem") or {}).get("perfil") or "").lower().startswith(("twitch/", "kick/"))]
     if alvo == "todos":
         itens = [i for i in futuros if generico((i.get("legenda") or "").split("\n")[0])
                  or (i.get("origem") or {}).get("titulo") == "padrao"]
