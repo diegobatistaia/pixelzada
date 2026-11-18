@@ -5955,9 +5955,37 @@
     }
   },
   {
-    "slug": "gta-6-twitch-alanzoka-2",
+    "slug": "gta-6-loudgg",
     "data": "2026-11-18",
     "horario": "15:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Gabe achou um avião caido no meio do GTA 6 ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "loudgg",
+      "link": "https://www.instagram.com/reel/Df43lBog_dp/",
+      "titulo": "gemini-regra",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de jogo mostrando carros e cenário",
+      "por": "imagem",
+      "em": "2026-11-18T14:00:05-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-twitch-alanzoka-2",
+    "data": "2026-11-18",
+    "horario": "15:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Alan achou a Anitta no GTA 6 🎵\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5986,7 +6014,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-5",
     "data": "2026-11-18",
-    "horario": "15:30",
+    "horario": "16:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "Alan se diverte olhando as redes sociais bizarras do GTA 6 📱\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6015,7 +6043,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-13",
     "data": "2026-11-18",
-    "horario": "16:00",
+    "horario": "16:30",
     "status": "agendado",
     "estilo": "Branca + frase (modelo 2)",
     "legenda": "Alan pilotando hidroavião no meio da tempestade ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6044,7 +6072,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-12",
     "data": "2026-11-18",
-    "horario": "16:30",
+    "horario": "17:00",
     "status": "agendado",
     "estilo": "Branca + frase (modelo 2)",
     "legenda": "O Alan escolheu a vantagem errada no meio do caos 😬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6074,7 +6102,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-9",
     "data": "2026-11-18",
-    "horario": "17:00",
+    "horario": "17:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Alan cantando no carro em GTA 6 🎵\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6104,7 +6132,7 @@
   {
     "slug": "gta-6-twitch-bisteconee-3",
     "data": "2026-11-18",
-    "horario": "17:30",
+    "horario": "18:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "O Bistecone perdendo a linha com o NPC em GTA 6 🤬\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6134,7 +6162,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-8",
     "data": "2026-11-18",
-    "horario": "18:00",
+    "horario": "18:30",
     "status": "agendado",
     "estilo": "Branca + frase (modelo 2)",
     "legenda": "O Alan arrumou confusão com a polícia no GTA 6 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6164,7 +6192,7 @@
   {
     "slug": "gta-6-flowgamestv",
     "data": "2026-11-18",
-    "horario": "18:30",
+    "horario": "19:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quanto tempo vai durar a campanha de GTA 6 ⏱️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6194,7 +6222,7 @@
   {
     "slug": "gta-6-voxeloficial",
     "data": "2026-11-18",
-    "horario": "19:00",
+    "horario": "19:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "GTA 6 vale a pena mesmo? 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6224,7 +6252,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-7",
     "data": "2026-11-18",
-    "horario": "19:30",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "O Alan assustou o cachorro do NPC em GTA 6 🐕\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6253,7 +6281,7 @@
   {
     "slug": "gta-6-twitch-paulinholokobr-2",
     "data": "2026-11-18",
-    "horario": "20:00",
+    "horario": "20:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "O Paulinho fugindo da polícia de GTA 6 🚓\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6282,7 +6310,7 @@
   {
     "slug": "gta-6-twitch-bisteconee-2",
     "data": "2026-11-18",
-    "horario": "20:30",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "O Bistecone foi pego pela polícia no telhado em GTA 6 🚁\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -6306,35 +6334,6 @@
       "motivo": "streamer e cenas de gameplay com personagem vestido",
       "por": "imagem",
       "em": "2026-11-18T10:57:02-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-twitch-alanzoka-6",
-    "data": "2026-11-18",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Dividido",
-    "legenda": "Mal saiu o GTA 6 e o Alan já ficou confuso com o cachorro pulando 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/InnocentTriumphantTurtlePoooound-qawzzhc7ptRYucE-",
-      "titulo": "gemini-regra",
-      "revisado": false,
-      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer com headset e gameplay de jogo com personagens vestidos",
-      "por": "imagem",
-      "em": "2026-11-18T11:05:49-03:00"
     }
   },
   {
@@ -6368,32 +6367,32 @@
     "fixo": true
   },
   {
-    "slug": "abertura-gta6-referencia-big-smoke",
+    "slug": "gta-6-twitch-alanzoka-6",
     "data": "2026-11-18",
     "horario": "22:00",
     "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "A abertura do novo desenho de GTA 6 é uma referência à intro do Big Smoke em San Andreas 📺🔥 \"You picked the wrong house, fool!\"\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #sanandreas #bigsmoke #pixelzada",
+    "estilo": "Dividido",
+    "legenda": "Mal saiu o GTA 6 e o Alan já ficou confuso com o cachorro pulando 🐶\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "grandtheftauto6",
-      "link": "https://www.instagram.com/reel/Dfw835shEHH/",
-      "titulo": "claude",
-      "revisado": true
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/InnocentTriumphantTurtlePoooound-qawzzhc7ptRYucE-",
+      "titulo": "gemini-regra",
+      "revisado": false,
+      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
     },
     "etiquetas": {
-      "formato": "meme",
+      "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-branca",
-      "estilo_antes": "TV"
+      "moldura": "dividido"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 16/11",
-      "por": "revisão manual",
-      "em": "2026-11-16T11:20:00-03:00"
+      "motivo": "streamer com headset e gameplay de jogo com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-18T11:05:49-03:00"
     }
   },
   {
@@ -6427,17 +6426,17 @@
     "fixo": true
   },
   {
-    "slug": "de-repente-semana-de-lancamento-gta6",
+    "slug": "abertura-gta6-referencia-big-smoke",
     "data": "2026-11-18",
     "horario": "23:00",
     "status": "agendado",
     "estilo": "Simples branca",
-    "legenda": "E, de repente, estamos na semana de lançamento do GTA 6 🥹🎉\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "legenda": "A abertura do novo desenho de GTA 6 é uma referência à intro do Big Smoke em San Andreas 📺🔥 \"You picked the wrong house, fool!\"\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #sanandreas #bigsmoke #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/DfzlWL7vDKu/",
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/Dfw835shEHH/",
       "titulo": "claude",
       "revisado": true
     },
@@ -6446,27 +6445,27 @@
       "tema": "gta6",
       "jogo": "GTA 6",
       "moldura": "simples-branca",
-      "estilo_antes": "Simples branca"
+      "estilo_antes": "TV"
     },
     "checagem": {
       "risco": "baixo",
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
-      "em": "2026-11-16T15:20:00-03:00"
+      "em": "2026-11-16T11:20:00-03:00"
     }
   },
   {
-    "slug": "sensacao-abrir-gta6-primeira-vez",
+    "slug": "de-repente-semana-de-lancamento-gta6",
     "data": "2026-11-18",
     "horario": "23:30",
     "status": "agendado",
     "estilo": "Simples branca",
-    "legenda": "Como vai ser a sensação de abrir GTA 6 pela primeira vez depois de esperar anos 😌\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "legenda": "E, de repente, estamos na semana de lançamento do GTA 6 🥹🎉\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/DfxdC5LhQs3/",
+      "link": "https://www.instagram.com/reel/DfzlWL7vDKu/",
       "titulo": "claude",
       "revisado": true
     },
@@ -6545,9 +6544,38 @@
     "fixo": true
   },
   {
-    "slug": "eu-indo-para-casa-dia-19",
+    "slug": "sensacao-abrir-gta6-primeira-vez",
     "data": "2026-11-19",
     "horario": "01:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Como vai ser a sensação de abrir GTA 6 pela primeira vez depois de esperar anos 😌\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfxdC5LhQs3/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-branca",
+      "estilo_antes": "Simples branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 16/11",
+      "por": "revisão manual",
+      "em": "2026-11-16T15:20:00-03:00"
+    }
+  },
+  {
+    "slug": "eu-indo-para-casa-dia-19",
+    "data": "2026-11-19",
+    "horario": "01:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Eu indo para casa no dia 19 de novembro 🏎️💨 O GTA 6 já está esperando!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6576,7 +6604,7 @@
   {
     "slug": "gta6-como-comecou-como-esta-indo",
     "data": "2026-11-19",
-    "horario": "01:30",
+    "horario": "02:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "GTA 6: como começou e como está indo 🥹 Da lista de desejos pra biblioteca!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6605,7 +6633,7 @@
   {
     "slug": "gta6-horas-sem-tocar-numa-missao",
     "data": "2026-11-19",
-    "horario": "02:00",
+    "horario": "02:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "O que GTA 6 precisa ter pra você passar horas sem nem tocar numa missão? Comenta aí 👇\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6634,7 +6662,7 @@
   {
     "slug": "por-que-rockstar-escolheu-19-de-novembro",
     "data": "2026-11-19",
-    "horario": "02:30",
+    "horario": "03:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando você percebe por que a Rockstar escolheu 19 de novembro pra lançar GTA 6 😂 Dia Internacional do Homem!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6663,7 +6691,7 @@
   {
     "slug": "edicao-standard-loja-ultimate-gta6",
     "data": "2026-11-19",
-    "horario": "03:00",
+    "horario": "03:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando você compra a edição Standard de GTA 6 e tenta entrar na loja exclusiva da versão Ultimate 😂🚪\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6692,7 +6720,7 @@
   {
     "slug": "esposa-ouvindo-falar-de-gta6",
     "data": "2026-11-19",
-    "horario": "03:30",
+    "horario": "04:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Minha esposa me ouvindo falar o dia todo de GTA 6 😂 Marca quem tá assim!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6721,7 +6749,7 @@
   {
     "slug": "experiencia-gta6-base-e-nao-ultimate",
     "data": "2026-11-19",
-    "horario": "04:00",
+    "horario": "04:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Experiência de quem comprar o GTA 6 Base e não o Ultimate 😂🛍️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6750,7 +6778,7 @@
   {
     "slug": "vice-city-chega-ao-nba-2k27",
     "data": "2026-11-19",
-    "horario": "04:30",
+    "horario": "05:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Vice City chegou ao NBA 2K27! 🏀🌴 A colaboração entre os jogos da Take-Two foi anunciada com novidades para os fãs de basquete.\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6779,7 +6807,7 @@
   {
     "slug": "gta6-so-chega-dia-27",
     "data": "2026-11-19",
-    "horario": "05:00",
+    "horario": "05:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando o seu GTA 6 só chega dia 27 de novembro 🥲 Quem aí também comprou a mídia física?\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -6808,7 +6836,7 @@
   {
     "slug": "dia-19-dirigindo-por-vice-city",
     "data": "2026-11-19",
-    "horario": "05:30",
+    "horario": "06:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "É dia 19 de novembro, e estou dirigindo por Vice City ouvindo minha playlist dos anos 80. A vida é boa 🌴🚗\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
