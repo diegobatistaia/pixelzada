@@ -1,0 +1,65 @@
+{
+  "numero": 0,
+  "perfil": "twitch/Cellbit",
+  "link": "https://www.twitch.tv/cellbit/clip/SilkyCoyPassionfruitWTRuck-sxacHjvitelQ3kuV",
+  "jogo": "GTA 6",
+  "tema": "gta6",
+  "formato": "gameplay",
+  "legenda": "UM RITUAL????",
+  "legenda_completa": "Clipe da live de Cellbit jogando GTA 6: UM RITUAL????",
+  "horario_sugerido": null,
+  "via": "twitch",
+  "pronto": "dividido",
+  "camera": true,
+  "falas": {
+    "titulo": "Alan se assusta com cena bizarra no corredor de GTA 6",
+    "emoji": "😱",
+    "falas": [
+      {
+        "ini": 0.0,
+        "fim": 0.5,
+        "texto": "ACONTECENDO AQUI?"
+      },
+      {
+        "ini": 7.3,
+        "fim": 8.7,
+        "texto": "TUDO BEM"
+      },
+      {
+        "ini": 10.4,
+        "fim": 12.5,
+        "texto": "GALERA TÁ GRITANDO TÁ BRAVA"
+      },
+      {
+        "ini": 12.5,
+        "fim": 13.9,
+        "texto": "MEU DEUS UM RITUAL SATÂNICO"
+      },
+      {
+        "ini": 14.8,
+        "fim": 15.6,
+        "texto": "QUE ISSO"
+      },
+      {
+        "ini": 17.0,
+        "fim": 17.9,
+        "texto": "MEU DEUS QUE ISSO"
+      },
+      {
+        "ini": 18.2,
+        "fim": 19.8,
+        "texto": "MEU DEUS O QUE ERA ISSO"
+      },
+      {
+        "ini": 22.3,
+        "fim": 23.3,
+        "texto": "NÃO DE NOVO"
+      },
+      {
+        "ini": 23.4,
+        "fim": 26.6,
+        "texto": "MANO TIERRA UM MALUCO EM CARNE VIVA NO CANTO DA SALA"
+      }
+    ]
+  }
+}
