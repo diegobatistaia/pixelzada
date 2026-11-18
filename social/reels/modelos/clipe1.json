@@ -1,0 +1,16 @@
+{
+  "link": "https://www.twitch.tv/alanzoka/clip/ElegantBoredDeerCopyThis-VySzpwXWviD-_pU6",
+  "canal": "alanzoka",
+  "pessoa_real": true,
+  "caixas": [
+    [
+      0,
+      775,
+      305,
+      999
+    ]
+  ],
+  "conteudo": "jogo",
+  "motivo": "Há uma facecam do streamer no canto superior da tela durante a gameplay.",
+  "modelo": "gemini-flash-lite-latest"
+}

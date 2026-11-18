@@ -1,0 +1,16 @@
+{
+  "link": "https://www.twitch.tv/thimagroo/clip/SmallPopularRavenCharlietheUnicorn-L76cVKN0WvZrC7c9",
+  "canal": "thimagroo",
+  "pessoa_real": true,
+  "caixas": [
+    [
+      124,
+      0,
+      351,
+      226
+    ]
+  ],
+  "conteudo": "cutscene",
+  "motivo": "A camera do streamer aparece visivel no canto superior esquerdo e o jogo exibe uma cutscene cinematografica com dialogos.",
+  "modelo": "gemini-flash-lite-latest"
+}
