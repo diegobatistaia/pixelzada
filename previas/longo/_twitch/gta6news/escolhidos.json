@@ -1,0 +1,34 @@
+{
+ "_como_usar": "plano {\"v\": \"w:gta6news/<arquivo sem .mp4>\"} no episódio. Trechos de 8 s, sem áudio. Gravado 18/11/2026 da live de gta6news (jogo limpo, sem câmera). EVITAR: t000 (intervalo comercial), t001, t002, t004, t005, t008 (cenas/diálogos da história).",
+ "mundo_aberto": {
+  "t003": "picape Vapid na frente de casa, dia",
+  "t021": "moto na estrada com GPS e celular na tela",
+  "t022": "andando até uma moto em rua de bairro",
+  "t026": "andando na rua com carros, dia",
+  "t027": "chegando no carro estacionado",
+  "t028": "dirigindo picape em avenida com palmeiras"
+ },
+ "atividades": {
+  "t009": "treino com kettlebell no deck à beira d'água",
+  "t010": "supino no deck (contador de repetições)",
+  "t012": "supino com a baía ao fundo",
+  "t014": "supino, plano aberto",
+  "t015": "levantamento terra no deck"
+ },
+ "interface": {
+  "t007": "guarda-roupa / trocar de roupa",
+  "t017": "mapa do jogo (Vice City / praia) com missão",
+  "t019": "mapa com menu de história",
+  "t020": "mapa de Leonida, ilhas e costa"
+ },
+ "lugares": {
+  "t006": "interior de casa",
+  "t011": "casa de madeira à beira d'água",
+  "t016": "deck com academia",
+  "t018": "garagem com barco",
+  "t023": "entrando em loja",
+  "t024": "bar / loja Pindayho com cardápio",
+  "t025": "bar à beira-mar com gente",
+  "t029": "Ammu-Nation (loja de armas) por dentro"
+ }
+}

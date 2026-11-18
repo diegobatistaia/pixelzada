@@ -562,6 +562,14 @@ def render_plano(p: dict, dur: float, saida: Path, trab: Path, i: int) -> str:
         nome, _, ss = v.partition(":")
         trecho(video_de(nome), float(ss), dur, saida)
         return ROTULO_VIDEO.get(nome, "GTA 6 · OFICIAL")
+    if k == "w":  # w:<login>/<tNNN>[:segundo]  trecho gravado de live da Twitch só de jogo (sem câmera)
+        nome, _, ss = v.partition(":")
+        arq = RAIZ / "previas/longo/_twitch" / f"{nome}.mp4"
+        vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,fps={FPS},"
+              f"format=yuv420p,tpad=stop_mode=clone:stop_duration=30")  # trecho de 8 s: segura o último quadro
+        sh("ffmpeg", "-y", "-loglevel", "error", "-ss", f"{float(ss or 0):.2f}", "-i", arq, "-t", f"{dur:.3f}", "-an",
+           "-vf", vf, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", FPS, saida)
+        return "GTA 6 · GAMEPLAY"
     if k == "s":  # s:<jogo>:<n>  tela oficial da Steam de jogo antigo
         jogo, _, n = v.partition(":")
         kenburns(steam(jogo, int(n)), dur, saida, i)
