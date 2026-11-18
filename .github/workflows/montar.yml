@@ -82,6 +82,13 @@ jobs:
           pip install yt-dlp "opencv-python-headless<5"
           python -m scripts.social.titulos refazer "$TITULOS"
 
+      # Barreira de tela quebrada (Diego, 18/11): Reel com a tela roxa de intervalo
+      # comercial da Twitch sai da fila (scripts/social/qualidade.py).
+      - name: Checagem de tela quebrada (intervalo da Twitch)
+        run: |
+          pip install "opencv-python-headless<5"
+          python -m scripts.social.qualidade varrer
+
       # Barreira de nudez (Diego, 16/11): todo Reel agendado que ainda não passou pela
       # checagem visual é conferido; risco médio/alto sai da fila (scripts/social/seguranca.py).
       - name: Checagem de nudez na fila

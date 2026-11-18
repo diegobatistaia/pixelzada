@@ -6775,35 +6775,6 @@
     }
   },
   {
-    "slug": "gta-6-twitch-jogo-gta6news-2",
-    "data": "2026-11-19",
-    "horario": "03:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Eu roubando a caminhonete no topo do morro em GTA 6 🛻\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch-jogo/GTA6NEWS",
-      "link": "https://www.twitch.tv/gta6news#ao-vivo-20261118-1903",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca",
-      "modelo_streamer": "jogo-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "Personagem vestido com regata e shorts em gameplay de jogo de corrida.",
-      "por": "imagem",
-      "em": "2026-11-18T19:35:09-03:00"
-    }
-  },
-  {
     "slug": "gta6-corte-thedarkness",
     "data": "2026-11-19",
     "horario": "03:30",
