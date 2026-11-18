@@ -14,7 +14,9 @@ ficou ruim.
 
 Título e legenda: o GitHub Models (GITHUB_TOKEN do Actions) adapta a legenda
 original para um título curto em português, sem inventar. Sem ele, usa um título
-simples e verdadeiro ("Esse vídeo de GTA 6 está bombando hoje").
+simples e verdadeiro. Título genérico ("está bombando", "o caos começou") o Diego reprovou
+(18/11): nesse caso o Gemini vê e ouve o vídeo e escreve pela regra de scripts/social/titulos.py;
+se nem assim sair um título que diga o que acontece, o vídeo espera a próxima rodada.
 """
 from __future__ import annotations
 
@@ -32,7 +34,7 @@ import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from . import reels as R, seguranca as SEG
+from . import reels as R, seguranca as SEG, titulos as TIT
 from .pauta import ROOT, TZ
 
 ENTRADA = ROOT / "social" / "reels" / "entrada"
@@ -170,7 +172,8 @@ Regras do título:
 - diga o que acontece no vídeo usando SÓ o que a legenda diz; nada de inventar fato, número ou piada que não está lá;
 - prefira o molde de meme de identificação, que é o que mais viraliza no perfil: "Eu quando...",
   "Eu indo...", "Como vou me sentir...", "Quando [personagem] não dá mais dinheiro..." (sem inventar o que não está no vídeo);
-- se a legenda não diz nada útil, escreva algo simples e verdadeiro sobre o jogo;
+- PROIBIDO título genérico que serve para qualquer vídeo ("está bombando", "o caos começou", "olha isso",
+  "esse vídeo de GTA 6", "isso é insano"); se a legenda não diz o que acontece, responda {"titulo": ""};
 - o nome do jogo principal vai entre <em> e </em> (uma vez só); "GTA 6" escrito assim, nunca "GTA VI";
 - sem emoji, sem hashtag, sem @, sem link, sem "comenta", sem pergunta no fim, sem aspas.
 emoji: 1 emoji que combine com o vídeo. hashtags: 2 ou 3, minúsculas, do assunto (sem #pixelzada).
@@ -286,6 +289,17 @@ def automatico(agora: datetime | None = None) -> int:
         info = json.loads(mp4.with_suffix(".json").read_text(encoding="utf-8"))
         tema = info.get("tema") if info.get("tema") in CTA else "games"
         texto = gerar_texto(info)
+        if texto["fonte"] == "padrao" or TIT.generico(texto["titulo"]):
+            falas_t = TIT.limpar((info.get("falas") or {}).get("titulo", ""))
+            if falas_t and not TIT.generico(falas_t):
+                texto = {**texto, "titulo": falas_t, "emoji": (info.get("falas") or {}).get("emoji") or "🎮", "fonte": "gemini-falas"}
+            else:
+                ctx = TIT.contexto_do_item({"origem": {"perfil": info.get("perfil"), "titulo_clipe": info.get("legenda")}})
+                t = TIT.titular(mp4, ctx)
+                if not t:
+                    print(f"  {mp4.name}: sem título que diga o que acontece; espera a próxima rodada")
+                    continue
+                texto = {**texto, "titulo": t["titulo"], "emoji": t["emoji"], "fonte": "gemini-regra"}
         base = texto["slug"] or slugify(f"{info.get('jogo', 'games')}-{info.get('perfil', '')}")
         slug, k = base or f"motor-{n}", 2
         while slug in slugs or (VIDEOS / f"{slug}.mp4").exists():
