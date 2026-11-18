@@ -161,9 +161,13 @@ def clipes_kick(canais: list[str], jogo: str, desde: datetime) -> list[dict]:
 # ---------------------------------------------------------------------------
 # Escolha, download e corte
 # ---------------------------------------------------------------------------
+PESO_FAVORITO = 3.0
+
+
 def nota(c: dict) -> float:
-    # favorito do Diego pesa 3x; clipe de live em português pesa 2x (público brasileiro)
-    return c["views"] * (3 if c.get("favorito") else 1) * (2 if (c.get("idioma") or "").startswith("pt") else 1)
+    # os melhores primeiro: mais views; favorito pesa PESO_FAVORITO (config lives.peso_favorito);
+    # clipe de live em português pesa 2x (público brasileiro)
+    return c["views"] * (PESO_FAVORITO if c.get("favorito") else 1) * (2 if (c.get("idioma") or "").startswith("pt") else 1)
 
 
 def _idiomas_busca(lv: dict) -> list[str]:
@@ -184,6 +188,8 @@ def escolher(cfg: dict, clipes: list[dict], ja: set[str]) -> list[dict]:
     """Ordem: primeiro TODOS os clipes nos idiomas principais (pt) e dos favoritos; os de
     reserva (en...) só entram depois, para completar a rodada quando falta clipe em português."""
     lv = cfg["lives"]
+    global PESO_FAVORITO
+    PESO_FAVORITO = float(lv.get("peso_favorito", 3))
     dmin, dmax = lv.get("duracao", [8, 60])
     bons = [c for c in clipes if c["id"] not in ja and c["link"] not in ja
             and dmin <= (c["duracao"] or dmin) <= dmax and c["views"] >= lv.get("min_views", 0)]
