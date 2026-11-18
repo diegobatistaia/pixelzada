@@ -161,6 +161,7 @@ lives:
   inicio: "2026-11-18T08:00"
   fim: "2026-11-22T23:59"
   jogo_twitch: "Grand Theft Auto VI"
+  formato: dividido        # Diego, 18/11: câmera do streamer em cima (40%), jogo embaixo (60%), sem moldura
   janela_horas: 6          # clipes criados nas últimas 6 horas (clipe mais velho já tem views: dá para escolher os melhores)
   por_rodada: 3            # até 3 clipes prontos a cada rodada (de 30 em 30 min): folga para cron que falha
   min_views: 10            # Diego (18/11): só os melhores clipes

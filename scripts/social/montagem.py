@@ -230,6 +230,12 @@ def automatico(agora: datetime | None = None) -> int:
         while slug in slugs or (VIDEOS / f"{slug}.mp4").exists():
             slug, k = f"{base}-{k}", k + 1
         slugs.add(slug)
+        if info.get("pronto") == "dividido":
+            # corte da live já no formato do Diego (18/11): câmera em cima, jogo embaixo, sem moldura
+            estilo = "dividido"
+            print(f"  {mp4.name} -> {slug} (dividido, sem moldura; título {texto['fonte']}): {texto['titulo']}")
+            itens.append((mp4, slug, estilo, texto, tema, info))
+            continue
         print(f"  {mp4.name} -> {slug} ({estilo}, título {texto['fonte']}): {texto['titulo']}")
         pedido.append({"video": str(mp4), "saida": str(VIDEOS / slug), "estilo": estilo,
                        "cor": CORES[(len(fila) + n) % len(CORES)], "jogo": info.get("jogo", ""),
@@ -238,8 +244,16 @@ def automatico(agora: datetime | None = None) -> int:
     with tempfile.TemporaryDirectory() as tmp:
         ped, res = Path(tmp) / "pedido.json", Path(tmp) / "resultado.json"
         ped.write_text(json.dumps(pedido, ensure_ascii=False), encoding="utf-8")
-        subprocess.run(["node", str(GERADOR), str(ped), str(res)], check=False)
-        resultado = json.loads(res.read_text(encoding="utf-8")) if res.exists() else []
+        if pedido:
+            subprocess.run(["node", str(GERADOR), str(ped), str(res)], check=False)
+        resultado = json.loads(res.read_text(encoding="utf-8")) if res.exists() and pedido else []
+    for (mp4, slug, estilo, texto, tema, info) in itens:
+        if estilo == "dividido":
+            VIDEOS.mkdir(parents=True, exist_ok=True)
+            shutil.copy(mp4, VIDEOS / f"{slug}.mp4")
+            f = subprocess.run(["ffmpeg", "-v", "error", "-y", "-ss", "1", "-i", str(VIDEOS / f"{slug}.mp4"),
+                                "-frames:v", "1", "-q:v", "2", str(VIDEOS / f"{slug}.jpg")], capture_output=True)
+            resultado.append({"saida": str(VIDEOS / slug), "ok": f.returncode == 0})
     ok = {r["saida"] for r in resultado if r.get("ok")}
     usados = 0
     for (mp4, slug, estilo, texto, tema, info) in itens:
@@ -249,7 +263,7 @@ def automatico(agora: datetime | None = None) -> int:
         dia, hora = vagas[itens.index((mp4, slug, estilo, texto, tema, info))]
         usados += 1
         fila.append({"slug": slug, "data": dia, "horario": hora, "status": "agendado",
-                     "estilo": SIMPLES.get(estilo) or NOME_ESTILO[estilo],
+                     "estilo": SIMPLES.get(estilo) or NOME_ESTILO.get(estilo) or "Dividido",
                      "legenda": legenda(texto["titulo"], texto["emoji"], tema, texto["hashtags"]),
                      "tentativas": 0,
                      "origem": {"motor": True, "perfil": info.get("perfil"), "link": info.get("link"),
@@ -257,7 +271,7 @@ def automatico(agora: datetime | None = None) -> int:
                      # etiquetas para a análise semanal (Diego, 10/11)
                      "etiquetas": {"formato": info.get("formato") or "outro", "tema": info.get("tema") or "games",
                                    "jogo": info.get("jogo") or "",
-                                   "moldura": estilo if estilo in SIMPLES else "identidade"},
+                                   "moldura": estilo if estilo in SIMPLES or estilo == "dividido" else "identidade"},
                      "checagem": info.get("checagem")})
         mp4.unlink()
         mp4.with_suffix(".json").unlink()
