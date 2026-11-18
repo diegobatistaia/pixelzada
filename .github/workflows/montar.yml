@@ -67,7 +67,7 @@ jobs:
         env:
           REFAZER: ${{ inputs.refazer }}
         run: |
-          pip install yt-dlp
+          pip install yt-dlp "opencv-python-headless<5"
           python -m scripts.social.refazer "$REFAZER"
 
       # Barreira de nudez (Diego, 16/11): todo Reel agendado que ainda não passou pela
