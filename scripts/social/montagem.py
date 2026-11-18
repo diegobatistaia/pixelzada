@@ -299,12 +299,13 @@ def furar_fila(fila: list[dict], novos: list[str], agora: datetime | None = None
     """Lançamento do GTA 6 (Diego, 10/11): de 18 a 22/11 a cena nova do jogo não pode
     esperar 2 dias atrás do estoque. Os Reels novos de GTA 6 passam para os primeiros
     horários livres e os do motor que já estavam agendados andam para trás, na mesma
-    ordem. Só mexe em Reels do motor: os que o Diego mandou ficam no horário combinado."""
+    ordem. Só mexe em Reels do motor: os que o Diego mandou ficam no horário combinado, e os
+    marcados "fixo" (memes da virada, 18/11) também não andam."""
     agora = agora or datetime.now(TZ)
     if not R.lancamento(agora.date()) or not novos:
         return []
     futuros = sorted((i for i in fila if i["status"] == "agendado" and (i.get("origem") or {}).get("motor")
-                      and R.quando(i) > agora + FOLGA), key=R.quando)
+                      and not i.get("fixo") and R.quando(i) > agora + FOLGA), key=R.quando)
     vagas = [(i["data"], i["horario"]) for i in futuros]
     frente = [i for i in futuros if i["slug"] in novos]
     ordem = frente + [i for i in futuros if i["slug"] not in novos]
