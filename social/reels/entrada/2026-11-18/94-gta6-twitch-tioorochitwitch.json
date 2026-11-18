@@ -1,0 +1,55 @@
+{
+  "numero": 0,
+  "perfil": "twitch/tioorochitwitch",
+  "link": "https://www.twitch.tv/tioorochitwitch/clip/StormyResilientEmuMau5-EgvrZJ1amsIh80mR",
+  "jogo": "GTA 6",
+  "tema": "gta6",
+  "formato": "gameplay",
+  "legenda": "kkkkkkkkkkkkkkkkkkkkkkkkk",
+  "legenda_completa": "Clipe da live de tioorochitwitch jogando GTA 6: kkkkkkkkkkkkkkkkkkkkkkkkk",
+  "horario_sugerido": null,
+  "via": "twitch",
+  "pronto": "dividido",
+  "camera": true,
+  "falas": {
+    "titulo": "Streamer joga farme demais e quase morre em explosão",
+    "emoji": "💣",
+    "falas": [
+      {
+        "ini": 0.0,
+        "fim": 0.8,
+        "texto": "FOI DO BRayaN?"
+      },
+      {
+        "ini": 2.4,
+        "fim": 5.7,
+        "texto": "OH, UM FUZIL, OLHA, FARMEI DEMAIS AGORA, HEIN?"
+      },
+      {
+        "ini": 8.7,
+        "fim": 9.9,
+        "texto": "PUTA MERDA!"
+      },
+      {
+        "ini": 10.9,
+        "fim": 12.3,
+        "texto": "CARALHO, MANO!"
+      },
+      {
+        "ini": 12.6,
+        "fim": 15.0,
+        "texto": "NOSSA SENHORA, AINDA BEM QUE EU NÃO MORRI, MANO. NOSSA!"
+      },
+      {
+        "ini": 16.3,
+        "fim": 18.0,
+        "texto": "MEU DEUS, MANO!"
+      },
+      {
+        "ini": 24.0,
+        "fim": 25.5,
+        "texto": "O DESVIO DO BAGULHO NA VIDA REAL, MANO."
+      }
+    ]
+  }
+}
