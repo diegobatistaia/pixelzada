@@ -279,6 +279,21 @@ def modelo(links: list[str]) -> int:
     social/reels/modelos/ (não mexe na fila)."""
     pasta = Q.ROOT / "social" / "reels" / "modelos"
     pasta.mkdir(parents=True, exist_ok=True)
+    if links and links[0].startswith("auto"):
+        # os melhores clipes de GTA 6 em português de streamers diferentes (auto ou auto:N)
+        quantos = int(links[0].split(":")[1]) if ":" in links[0] else 4
+        cfg = Q.carregar_config(Q.CONFIG_PADRAO)
+        lv = cfg["lives"]
+        clipes = escolher(cfg, procurar(cfg, datetime.now(TZ), lv["jogo_twitch"]), set())
+        vistos, links = set(), []
+        for c in clipes:
+            if c["canal"].lower() in vistos or eh_reserva(lv, c):
+                continue
+            vistos.add(c["canal"].lower())
+            links.append(c["link"])
+            print(f"  escolhido: {c['canal']} {c['views']} views {c['titulo']!r} {c['link']}")
+            if len(links) >= quantos:
+                break
     for n, link in enumerate(links, 1):
         bruto = pasta / f"clipe{n}-original.mp4"
         r = subprocess.run(["yt-dlp", "--quiet", "--no-warnings", "-f", "mp4/bv*+ba/b", "--merge-output-format", "mp4",
@@ -287,7 +302,7 @@ def modelo(links: list[str]) -> int:
             print(f"  {link}: download falhou {(r.stderr or '')[-160:]}")
             continue
         ia = camera_ia.perguntar(bruto)
-        (pasta / f"clipe{n}.json").write_text(json.dumps({"link": link, **ia}, ensure_ascii=False, indent=2), encoding="utf-8")
+        (pasta / f"clipe{n}.json").write_text(json.dumps({"link": link, "canal": link.split("/")[3], **ia}, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  {link}: {ia}")
         d = camera_ia.dividir(bruto, pasta / f"clipe{n}-dividido.mp4")
         print(f"  dividido: {d['motivo']}")
