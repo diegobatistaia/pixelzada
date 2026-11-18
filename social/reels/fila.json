@@ -5611,7 +5611,7 @@
     "data": "2026-11-18",
     "horario": "11:00",
     "status": "agendado",
-    "estilo": "Simples preta",
+    "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -5625,13 +5625,13 @@
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-preta"
+      "moldura": "dividido"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "personagens vestidos explorando um ambiente de jogo sem conteúdo sensível",
+      "motivo": "streamer com fones de ouvido e cenas de gameplay com personagens vestidos",
       "por": "imagem",
-      "em": "2026-11-18T10:09:03-03:00"
+      "em": "2026-11-18T10:54:01-03:00"
     }
   },
   {
@@ -5667,7 +5667,7 @@
     "data": "2026-11-18",
     "horario": "12:00",
     "status": "agendado",
-    "estilo": "Simples preta",
+    "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -5681,13 +5681,13 @@
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "simples-preta"
+      "moldura": "dividido"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "personagem vestido correndo e nadando em cenário de jogo",
+      "motivo": "streamer vestido e cenas de gameplay com personagem vestido",
       "por": "imagem",
-      "em": "2026-11-18T10:40:12-03:00"
+      "em": "2026-11-18T10:54:22-03:00"
     }
   },
   {
@@ -5695,7 +5695,7 @@
     "data": "2026-11-18",
     "horario": "12:30",
     "status": "agendado",
-    "estilo": "Conversa",
+    "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
@@ -5709,13 +5709,13 @@
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "identidade"
+      "moldura": "dividido"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "personagem vestindo camiseta regata e bermuda em gameplay normal",
+      "motivo": "streamer vestido e gameplay de jogo com personagens vestidos",
       "por": "imagem",
-      "em": "2026-11-18T10:09:14-03:00"
+      "em": "2026-11-18T10:54:37-03:00"
     }
   },
   {
