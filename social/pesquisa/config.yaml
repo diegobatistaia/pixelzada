@@ -156,7 +156,7 @@ lives:
   janela_horas: 4          # clipes criados nas últimas 4 horas
   por_rodada: 3            # até 3 clipes prontos a cada rodada (de 30 em 30 min): folga para cron que falha
   min_views: 3             # clipe novo de GTA 6 tem poucas views nas 1as horas (18/11: média 8)
-  max_por_canal: 1         # no máximo 1 clipe pronto do mesmo streamer por rodada (variedade)
+  max_por_canal: 99        # sem limite por streamer (Diego, 18/11)
   orcamento_min: 7         # para de tentar clipes novos depois de 7 min (o passo tem 14, o job 28)
   duracao: [8, 60]         # segundos
   # Favoritos (pesam 3x). Conferidos na API oficial em 16/11 23h41 (social/pesquisa/lives-canais.json).
