@@ -86,7 +86,10 @@
     "query": "GTA 6 Ultimate Edition",
     "alt": "Arte da Ultimate Edition de GTA 6",
     "url": "https://assets-prd.ignimgs.com/2026/11/18/gta-6s-ultimate-edition-locks-off-exclusive-mission-and-shop-mk6v-1794994870424.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-ultimate-edition-como-funcionam-os-b3fb5781.jpg",
+    "source_url": "",
+    "foco": "32% 34%"
   },
   "sources": [
     {
@@ -102,5 +105,7 @@
       "title": "GTA 6 Ultimate Edition bonuses"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-18T17:57:11+00:00",
+  "updated_at": "2026-11-18T17:57:11+00:00"
 }

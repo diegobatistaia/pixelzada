@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 14:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:57:12 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6 Ultimate Edition: como funcionam os bônus, que chegam por capítulo, e o que está incluído</title>
+      <link>https://pixelzada.com.br/pt/gta-6-ultimate-edition-como-funcionam-os-bonus-por-capitulo-e-o-que-esta-incluido/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-ultimate-edition-como-funcionam-os-bonus-por-capitulo-e-o-que-esta-incluido/</guid>
+      <description>Como funciona a Ultimate Edition de GTA 6: os bônus são liberados por capítulo, alguns somem depois de certos pontos da história. Veja a lista de itens e lojas.</description>
+      <category>Guias</category>
+      <pubDate>Wed, 18 Nov 2026 17:57:11 +0000</pubDate>
+    </item>
     <item>
       <title>Atualização do PS5 é obrigatória para jogar GTA 6, confirma a Sony</title>
       <link>https://pixelzada.com.br/pt/gta-6-ps5-atualizacao-obrigatoria-firmware-14-23-sony-confirma/</link>
@@ -238,14 +246,6 @@
       <description>O relatório State of the Game Industry da GDC mostra que 40% dos desenvolvedores usam IA generativa e 55% veem impacto negativo. Veja uso e demissões.</description>
       <category>Indústria</category>
       <pubDate>Sat, 14 Nov 2026 14:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Classificação indicativa de GTA 6: 18 anos no Brasil, M nos EUA e PEGI 18</title>
-      <link>https://pixelzada.com.br/pt/gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-classificacao-indicativa-classind-esrb-pegi-18-anos/</guid>
-      <description>GTA 6 é 18 anos no Brasil, M (Mature 17+) nos EUA e PEGI 18 na Europa. Veja o que a ClassInd, a ESRB e o PEGI dizem sobre violência, drogas e conteúdo sexual.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 14 Nov 2026 12:41:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
