@@ -5678,7 +5678,7 @@
   {
     "slug": "gta-6-twitch-alanzoka-6",
     "data": "2026-11-18",
-    "horario": "12:00",
+    "horario": "14:30",
     "status": "agendado",
     "estilo": "Dividido",
     "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
@@ -5818,10 +5818,10 @@
   {
     "slug": "gta-6-twitch-paulinholokobr",
     "data": "2026-11-18",
-    "horario": "14:30",
+    "horario": "11:40",
     "status": "agendado",
-    "estilo": "Dividido",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "O Paulinho já saiu pilotando lancha no GTA 6 🚤\n\n🎥 Clipe da live de PaulinhoLOKObr (twitch.tv/paulinholokobr)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
@@ -5834,22 +5834,25 @@
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "dividido"
+      "moldura": "modelo1-dividido",
+      "teste_modelo": "modelo1-dividido"
     },
     "checagem": {
       "risco": "baixo",
       "motivo": "streamer vestido e cenas de gameplay em barco no mar",
       "por": "imagem",
       "em": "2026-11-18T10:57:42-03:00"
-    }
+    },
+    "teste_modelo": true,
+    "fixo": true
   },
   {
     "slug": "gta-6-twitch-alanzoka-4",
     "data": "2026-11-18",
-    "horario": "15:00",
+    "horario": "11:50",
     "status": "agendado",
-    "estilo": "Dividido",
-    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "estilo": "Branca + frase (modelo 2)",
+    "legenda": "O Alan conferindo se o GTA 6 é igual ao trailer 🌊\n\n🎥 Clipe da live de alanzoka (twitch.tv/alanzoka)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
@@ -5862,14 +5865,12 @@
       "formato": "gameplay",
       "tema": "gta6",
       "jogo": "GTA 6",
-      "moldura": "dividido"
+      "moldura": "modelo2-branca-frase",
+      "teste_modelo": "modelo2-branca-frase"
     },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e cenas de gameplay com personagem vestido",
-      "por": "imagem",
-      "em": "2026-11-18T10:54:22-03:00"
-    }
+    "checagem": null,
+    "teste_modelo": true,
+    "fixo": true
   },
   {
     "slug": "gta-6-twitch-alanzoka-2",
@@ -6395,5 +6396,36 @@
       "por": "revisão manual",
       "em": "2026-11-17T06:40:00-03:00"
     }
+  },
+  {
+    "slug": "teste-modelo3-bisteconee-armadilha",
+    "status": "agendado",
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/bisteconee/clip/SmilingBlightedCaribouBIRB-j3twTrGxdMgRRzl_",
+      "titulo": "manual",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "modelo3-desfocado-legenda",
+      "teste_modelo": "modelo3-desfocado-legenda"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "mesmo clipe do Reel de 9h30 (perseguição policial), sem nudez",
+      "por": "revisão manual",
+      "em": "2026-11-18T11:08:00-03:00"
+    },
+    "data": "2026-11-18",
+    "horario": "12:00",
+    "teste_modelo": true,
+    "fixo": true,
+    "estilo": "Desfocado + título + legenda (modelo 3)",
+    "tentativas": 0,
+    "legenda": "O dinheiro no chão do GTA 6 era uma ARMADILHA 😱\n\n🎥 Clipe da live de Bisteconee (twitch.tv/bisteconee)\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada"
   }
 ]
