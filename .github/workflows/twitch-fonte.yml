@@ -1,0 +1,38 @@
+name: Twitch - avaliar canal como fonte (vídeos longos)
+
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/longo/twitch_fonte.py", ".github/workflows/twitch-fonte.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  avaliar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Ferramentas
+        run: |
+          pip install -q pillow yt-dlp
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+      - name: Avaliar gta6news
+        env:
+          TWITCH_CLIENT_ID_PIXELZADA: ${{ secrets.TWITCH_CLIENT_ID_PIXELZADA }}
+          TWITCH_CLIENT_SECRET_PIXELZADA: ${{ secrets.TWITCH_CLIENT_SECRET_PIXELZADA }}
+        run: python -u -m scripts.longo.twitch_fonte gta6news previas/longo/twitch-gta6news
+      - name: Guardar no ramo
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -f previas/longo/twitch-gta6news || exit 0
+          git diff --cached --quiet && exit 0
+          git commit -q -m "longo: avaliação do canal gta6news [skip ci]"
+          for i in 1 2 3 4; do { git pull --rebase -X theirs -q origin "$GITHUB_REF_NAME" || { git rebase --abort; false; }; } && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
