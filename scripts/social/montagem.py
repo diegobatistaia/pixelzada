@@ -241,6 +241,12 @@ def legenda(titulo: str, emoji: str, tema: str, tags: list[str]) -> str:
     return f"{texto} {emoji}\n\nSegue @pixelzada.br pra acompanhar {SEGUE.get(tema, SEGUE['games'])}.\n\n{' '.join(todas)}"
 
 
+def legenda_streamer(canal: str) -> str:
+    """Só o crédito do canal de origem (nome da Twitch), sem frase inventada (Diego, 18/11)."""
+    tag = re.sub(r"[^a-z0-9_]", "", canal.lower())
+    return f"🎮 {canal} jogando GTA 6\n📺 twitch.tv/{tag}\n\n#gta6 #gtavi #{tag} #pixelzada"
+
+
 def proximos_estilos(fila: list[dict], n: int) -> list[str]:
     """Rodízio: começa pelos estilos usados há mais tempo."""
     ultimo = {}
@@ -288,8 +294,18 @@ def automatico(agora: datetime | None = None) -> int:
     for n, (mp4, estilo) in enumerate(zip(videos, estilos)):
         info = json.loads(mp4.with_suffix(".json").read_text(encoding="utf-8"))
         tema = info.get("tema") if info.get("tema") in CTA else "games"
-        texto = gerar_texto(info)
-        if texto["fonte"] == "padrao" or TIT.generico(texto["titulo"]):
+        if info.get("pronto") == "dividido":
+            # Diego, 18/11 19h: corte de streamer sai SÓ com o vídeo (formato dividido), sem título,
+            # gancho, frase ou CTA inventados; a legenda só credita o canal de origem (da Twitch).
+            canal = (info.get("perfil") or "/").split("/", 1)[1] or "streamer"
+            texto = {"titulo": "", "emoji": "", "hashtags": [], "slug": slugify(f"gta6-corte-{canal}"), "fonte": "canal"}
+            info["legenda_streamer"] = legenda_streamer(canal)
+            estilo = "dividido"
+        else:
+            texto = gerar_texto(info)
+        if texto["fonte"] in ("canal",):
+            pass
+        elif texto["fonte"] == "padrao" or TIT.generico(texto["titulo"]):
             falas_t = TIT.limpar((info.get("falas") or {}).get("titulo", ""))
             if falas_t and not TIT.generico(falas_t):
                 texto = {**texto, "titulo": falas_t, "emoji": (info.get("falas") or {}).get("emoji") or "🎮", "fonte": "gemini-falas"}
@@ -307,11 +323,7 @@ def automatico(agora: datetime | None = None) -> int:
         slugs.add(slug)
         if info.get("pronto") == "dividido":
             # corte de live: um dos 3 modelos que o Diego aprovou (18/11), em rodízio
-            estilo = modelo_streamer(fila, info, len([x for x in itens if x[2] in MODELOS_STREAMER]))
-            falas = info.get("falas") or {}
-            if falas.get("titulo") and estilo != "dividido":
-                texto = {**texto, "titulo": falas["titulo"], "emoji": falas.get("emoji") or texto["emoji"], "fonte": "gemini-falas"}
-            print(f"  {mp4.name} -> {slug} ({estilo}; título {texto['fonte']}): {texto['titulo']}")
+            print(f"  {mp4.name} -> {slug} (dividido, sem texto; {info.get('perfil')})")
             itens.append((mp4, slug, estilo, texto, tema, info))
             continue
         print(f"  {mp4.name} -> {slug} ({estilo}, título {texto['fonte']}): {texto['titulo']}")
@@ -344,7 +356,7 @@ def automatico(agora: datetime | None = None) -> int:
         usados += 1
         fila.append({"slug": slug, "data": dia, "horario": hora, "status": "agendado",
                      "estilo": SIMPLES.get(estilo) or NOME_ESTILO.get(estilo) or MODELOS_STREAMER.get(estilo) or "Dividido",
-                     "legenda": legenda(texto["titulo"], texto["emoji"], tema, texto["hashtags"]),
+                     "legenda": info.get("legenda_streamer") or legenda(texto["titulo"], texto["emoji"], tema, texto["hashtags"]),
                      "tentativas": 0,
                      "origem": {"motor": True, "perfil": info.get("perfil"), "link": info.get("link"),
                                 "titulo": texto["fonte"], "revisado": False},
