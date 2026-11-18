@@ -55,6 +55,20 @@ def main(login: str, out: Path) -> None:
     if rel["videos"]:
         v = rel["videos"][0]
         alvos.append((v["url"], 0))
+    if rel["live"]:  # ao vivo: 9 quadros, um a cada 40 s
+        try:
+            lnk = subprocess.run(["yt-dlp", "-g", "-f", "best[height<=720]/best", f"https://www.twitch.tv/{login}"],
+                                 capture_output=True, text=True, timeout=120).stdout.strip().splitlines()[0]
+            import time
+            for j in range(9):
+                q = out / f"live-{j}.jpg"
+                subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", lnk, "-frames:v", "1",
+                                "-vf", "scale=480:-2", str(q)], timeout=90)
+                if q.exists():
+                    quadros.append(q)
+                time.sleep(40)
+        except Exception as e:  # noqa: BLE001
+            print(f"live sem quadro: {e}")
     for i, (url, dur) in enumerate(alvos):
         try:
             lnk = subprocess.run(["yt-dlp", "-g", "-f", "best[height<=720]/best", url], capture_output=True,
