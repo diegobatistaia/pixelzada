@@ -192,9 +192,16 @@ def escolher(cfg: dict, clipes: list[dict], ja: set[str]) -> list[dict]:
     global PESO_FAVORITO
     PESO_FAVORITO = float(lv.get("peso_favorito", 3))
     dmin, dmax = lv.get("duracao", [8, 60])
+    jogo = {x.lower() for x in (lv.get("canais_jogo") or [])}
+    for c in clipes:
+        c["so_jogo"] = c["canal"].lower() in jogo
     bons = [c for c in clipes if c["id"] not in ja and c["link"] not in ja
-            and dmin <= (c["duracao"] or dmin) <= dmax and c["views"] >= lv.get("min_views", 0)]
-    return sorted(bons, key=lambda c: (not eh_reserva(lv, c), nota(c)), reverse=True)
+            and dmin <= (c["duracao"] or dmin) <= dmax
+            and c["views"] >= (lv.get("min_views_jogo", 1) if c["so_jogo"] else lv.get("min_views", 0))]
+    bons.sort(key=lambda c: (not eh_reserva(lv, c), nota(c)), reverse=True)
+    # canal só de jogo (Diego, 18/11: gta6news): o melhor clipe dele entra primeiro em cada rodada
+    melhor_jogo = next((c for c in bons if c["so_jogo"]), None)
+    return ([melhor_jogo] + [c for c in bons if c is not melhor_jogo]) if melhor_jogo else bons
 
 
 def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool = False) -> dict:
@@ -360,7 +367,8 @@ def procurar(cfg: dict, agora: datetime, jogo: str) -> list[dict]:
         tw = Twitch()
         gid = tw.jogo(jogo)
         if gid:
-            clipes += tw.clipes(desde, gid, lv.get("canais_twitch") or [], _idiomas_busca(lv),
+            canais = list(dict.fromkeys((lv.get("canais_jogo") or []) + (lv.get("canais_twitch") or [])))
+            clipes += tw.clipes(desde, gid, canais, _idiomas_busca(lv),
                                 lv.get("descobrir_ao_vivo", 0), lv.get("idiomas") or [])
         else:
             print(f"a Twitch ainda não tem a categoria '{jogo}'")
@@ -393,13 +401,20 @@ def rodada(cfg: dict, forcar: bool = False) -> int:
             break
         tentados += 1
         destino = nome_arquivo(pasta, 90 + tentados, c)
-        r = baixar_e_limpar(c, destino, mutar=lv.get("mutar_reserva", True) and eh_reserva(lv, c),
-                            dividido=eh_dividido(lv))
+        so_jogo = c.get("so_jogo")
+        r = baixar_e_limpar(c, destino, mutar=(lv.get("mutar_reserva", True) and eh_reserva(lv, c))
+                            or (so_jogo and not (c.get("idioma") or "").startswith("pt")),
+                            dividido=eh_dividido(lv) and not so_jogo)
         ja.update({c["id"], c["link"]})  # descartado também não volta
         print(f"  {c['fonte']} {c['canal']} ({c['views']} views): {r['motivo']}")
         if r["ok"]:
             info = info_entrada(cfg, c)
-            if eh_dividido(lv):
+            if so_jogo:
+                # só imagem do jogo, sem câmera: moldura branca com título (montagem normal)
+                info["perfil"] = f"{c['fonte']}-jogo/{c['canal']}"
+                info["legenda_completa"] = f"Cena de GTA 6 (canal {c['canal']}): {info['legenda']}"[:700]
+                info["etiqueta_modelo"] = "jogo-branca"
+            elif eh_dividido(lv):
                 info["pronto"] = "dividido"  # a montagem escolhe um dos 3 modelos do Diego
                 info["camera"] = r.get("camera", True)
                 if r.get("falas"):

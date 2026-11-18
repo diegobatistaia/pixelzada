@@ -338,7 +338,8 @@ def automatico(agora: datetime | None = None) -> int:
                      "etiquetas": {"formato": info.get("formato") or "outro", "tema": info.get("tema") or "games",
                                    "jogo": info.get("jogo") or "",
                                    "moldura": estilo if estilo in SIMPLES or estilo in MODELOS_STREAMER else "identidade",
-                                   **({"modelo_streamer": estilo} if estilo in MODELOS_STREAMER else {})},
+                                   **({"modelo_streamer": estilo} if estilo in MODELOS_STREAMER else {}),
+                                   **({"modelo_streamer": info["etiqueta_modelo"]} if info.get("etiqueta_modelo") else {})},
                      "checagem": info.get("checagem")})
         mp4.unlink()
         mp4.with_suffix(".json").unlink()
