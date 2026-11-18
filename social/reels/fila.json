@@ -5323,7 +5323,7 @@
     "slug": "far-cry-3-missao-skrillex",
     "data": "2026-11-17",
     "horario": "23:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Quando Far Cry 3 entregou uma das missões mais icônicas da geração ao som de Skrillex 🔥\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#farcry3 #farcry #ubisoft #games #pixelzada",
     "tentativas": 0,
@@ -5345,6 +5345,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-17T22:59:42-03:00",
+      "media_id": "18159979348521265",
+      "permalink": "https://www.instagram.com/reel/Df3YdAEDWmr/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
