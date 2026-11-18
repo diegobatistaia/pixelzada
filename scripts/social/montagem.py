@@ -68,6 +68,15 @@ SIMPLES = {"simples-branca": "Simples branca", "simples-preta": "Simples preta"}
 TERCOS = ["simples-branca", "simples-preta", None]
 
 
+def eh_streamer(mp4: Path) -> bool:
+    """Corte de live (lives.py grava perfil twitch/<canal> ou kick/<canal>)."""
+    try:
+        perfil = json.loads(mp4.with_suffix(".json").read_text(encoding="utf-8")).get("perfil") or ""
+    except (OSError, ValueError):
+        return False
+    return perfil.lower().startswith(("twitch/", "kick/"))
+
+
 def estilo_do_horario(dia: str, hora: str) -> str | None:
     """simples-branca / simples-preta, ou None para o rodízio da identidade."""
     grade = R.horarios(dia)
@@ -216,7 +225,9 @@ def automatico(agora: datetime | None = None) -> int:
     if not videos:
         return 0
     vagas = livres[:len(videos)]  # cada vídeo já sabe o horário: o estilo depende dele
-    fixos = [estilo_do_horario(d, h) for d, h in vagas]
+    # Diego, 18/11: todo Reel que não é corte de streamer sai em moldura simples branca
+    # com o título escrito; os cortes da Twitch/Kick seguem o layout próprio deles.
+    fixos = [estilo_do_horario(d, h) if eh_streamer(v) else "simples-branca" for v, (d, h) in zip(videos, vagas)]
     rodizio = iter(proximos_estilos(fila, fixos.count(None)))
     estilos = [f or next(rodizio) for f in fixos]
     slugs = {i["slug"] for i in fila}

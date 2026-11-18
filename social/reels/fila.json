@@ -5831,35 +5831,6 @@
     }
   },
   {
-    "slug": "falta-1-dia-gta6",
-    "data": "2026-11-18",
-    "horario": "19:00",
-    "status": "agendado",
-    "estilo": "TV",
-    "legenda": "Falta 1 dia pro GTA 6 ⏳🔥 Meia-noite do dia 19 tá cada vez mais perto!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "meups_oficial",
-      "link": "https://www.instagram.com/reel/Df07tkXhgDd/",
-      "titulo": "claude",
-      "revisado": true
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "identidade"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 17/11",
-      "por": "revisão manual",
-      "em": "2026-11-17T06:40:00-03:00"
-    },
-    "fixo": true
-  },
-  {
     "slug": "edicao-standard-loja-ultimate-gta6",
     "data": "2026-11-18",
     "horario": "19:30",
