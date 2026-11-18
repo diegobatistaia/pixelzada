@@ -229,6 +229,44 @@ def dividir(bruto: Path, saida: Path) -> dict:
     return {"ok": True, "motivo": f"formato dividido ({tipo}; {r['motivo']})", "dividido": m}
 
 
+PROMPT_FALAS = """Você recebe o áudio e 3 quadros de um clipe de live de GTA 6 de um streamer brasileiro.
+Responda SÓ um JSON:
+{"titulo": "...", "emoji": "...", "falas": [{"ini": 0.0, "fim": 1.2, "texto": "..."}]}
+titulo: gancho de meme em português do Brasil (máx. 70 caracteres) sobre o que ACONTECE no clipe, usando o
+apelido do streamer se ele for conhecido (ex.: "Mal saiu o jogo e o Alan já tretou com a IGUANA"). Só o que
+dá para ouvir/ver; nada inventado. Sem hashtag, sem aspas. emoji: 1 emoji que combine.
+falas: transcrição do que o streamer fala, em pedaços curtos de 1 a 4 palavras, com início e fim em segundos,
+texto em MAIÚSCULAS, sem palavrão pesado (troque por ***). Lista vazia se não há fala."""
+
+
+def transcrever(video: Path) -> dict:
+    """Título de meme + legenda falada (pedaços curtos com tempo) pelo Gemini. {} se não der."""
+    chave = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not chave:
+        return {}
+    with tempfile.TemporaryDirectory() as tmp:
+        aud = Path(tmp) / "a.mp3"
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(video), "-vn", "-ac", "1", "-b:a", "64k", str(aud)],
+                       capture_output=True)
+        partes = [{"text": "Transcreva e escreva o título."}]
+        if aud.exists():
+            partes.append({"inline_data": {"mime_type": "audio/mp3", "data": base64.b64encode(aud.read_bytes()).decode()}})
+        partes += [{"inline_data": {"mime_type": "image/jpeg", "data": base64.b64encode(q.read_bytes()).decode()}}
+                   for q in _quadros(video, Path(tmp))]
+    corpo = {"systemInstruction": {"parts": [{"text": PROMPT_FALAS}]},
+             "contents": [{"role": "user", "parts": partes}],
+             "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json"}}
+    for modelo in dict.fromkeys([_modelo(), SEG._modelo_gemini()]):
+        try:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
+            dado = json.loads(SEG._post(url, corpo, {"x-goog-api-key": chave}, timeout=90))
+            txt = "".join(p.get("text", "") for p in ((dado.get("candidates") or [{}])[0].get("content") or {}).get("parts", []))
+            return json.loads(re.search(r"\{.*\}", txt, re.S).group(0))
+        except Exception as e:
+            print(f"  transcrever {modelo}: {str(e)[:160]}")
+    return {}
+
+
 if __name__ == "__main__":
     ent, sai = Path(sys.argv[1]), Path(sys.argv[2])
     if len(sys.argv) > 3 and sys.argv[3] == "dividido":

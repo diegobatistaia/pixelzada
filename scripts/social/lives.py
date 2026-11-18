@@ -279,6 +279,13 @@ def modelo(links: list[str]) -> int:
     social/reels/modelos/ (não mexe na fila)."""
     pasta = Q.ROOT / "social" / "reels" / "modelos"
     pasta.mkdir(parents=True, exist_ok=True)
+    if links == ["falas"]:  # só a transcrição dos originais que já estão na pasta
+        for bruto in sorted(pasta.glob("clipe*-original.mp4")):
+            fala = camera_ia.transcrever(bruto)
+            print(f"  {bruto.name}: {json.dumps(fala, ensure_ascii=False)[:400]}")
+            bruto.with_name(bruto.name.replace("-original.mp4", "-falas.json")).write_text(
+                json.dumps(fala, ensure_ascii=False, indent=2), encoding="utf-8")
+        return 0
     if links and links[0].startswith("auto"):
         # os melhores clipes de GTA 6 em português de streamers diferentes (auto ou auto:N)
         quantos = int(links[0].split(":")[1]) if ":" in links[0] else 4
@@ -304,6 +311,9 @@ def modelo(links: list[str]) -> int:
         ia = camera_ia.perguntar(bruto)
         (pasta / f"clipe{n}.json").write_text(json.dumps({"link": link, "canal": link.split("/")[3], **ia}, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"  {link}: {ia}")
+        fala = camera_ia.transcrever(bruto)
+        print(f"  falas: {json.dumps(fala, ensure_ascii=False)[:400]}")
+        (pasta / f"clipe{n}-falas.json").write_text(json.dumps(fala, ensure_ascii=False, indent=2), encoding="utf-8")
         d = camera_ia.dividir(bruto, pasta / f"clipe{n}-dividido.mp4")
         print(f"  dividido: {d['motivo']}")
     return 0
