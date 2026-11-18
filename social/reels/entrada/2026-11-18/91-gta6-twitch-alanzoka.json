@@ -1,0 +1,95 @@
+{
+  "numero": 0,
+  "perfil": "twitch/alanzoka",
+  "link": "https://www.twitch.tv/alanzoka/clip/SoftWonderfulPidgeonRedCoat-tW000czqkAgn2LB7",
+  "jogo": "GTA 6",
+  "tema": "gta6",
+  "formato": "gameplay",
+  "legenda": "alan dirigindo em São paulo",
+  "legenda_completa": "Clipe da live de alanzoka jogando GTA 6: alan dirigindo em São paulo",
+  "horario_sugerido": null,
+  "via": "twitch",
+  "pronto": "dividido",
+  "camera": true,
+  "falas": {
+    "titulo": "Alan atropela todo mundo no GTA 6 e a polícia chega",
+    "emoji": "🚓",
+    "falas": [
+      {
+        "ini": 1.15,
+        "fim": 2.41,
+        "texto": "CARALHO, VOCÊS SÃO GROSSOS!"
+      },
+      {
+        "ini": 6.81,
+        "fim": 7.39,
+        "texto": "QUE ISSO?"
+      },
+      {
+        "ini": 7.39,
+        "fim": 7.89,
+        "texto": "QUE ISSO?"
+      },
+      {
+        "ini": 7.89,
+        "fim": 8.27,
+        "texto": "POLÍCIA!"
+      },
+      {
+        "ini": 8.35,
+        "fim": 9.07,
+        "texto": "POLÍCIA!"
+      },
+      {
+        "ini": 9.77,
+        "fim": 10.63,
+        "texto": "POLÍCIA!"
+      },
+      {
+        "ini": 12.03,
+        "fim": 12.91,
+        "texto": "POLÍCIA!"
+      },
+      {
+        "ini": 13.91,
+        "fim": 15.11,
+        "texto": "MEU DEUS, EU ATROPELA ALGUÉM SEM QUERER!"
+      },
+      {
+        "ini": 16.65,
+        "fim": 17.51,
+        "texto": "POLÍCIA!"
+      },
+      {
+        "ini": 17.75,
+        "fim": 18.35,
+        "texto": "MEU DEUS!"
+      },
+      {
+        "ini": 19.67,
+        "fim": 20.47,
+        "texto": "POLÍCIA!"
+      },
+      {
+        "ini": 21.39,
+        "fim": 21.89,
+        "texto": "NOSSA!"
+      },
+      {
+        "ini": 22.37,
+        "fim": 23.95,
+        "texto": "MEU DEUS, GENTE, PARA DE ENTRAR NA FRENTE DO MEU CARRO!"
+      },
+      {
+        "ini": 23.95,
+        "fim": 26.27,
+        "texto": "VOCÊ VAI SER PRESO, PELO AMOR DE DEUS!"
+      },
+      {
+        "ini": 27.53,
+        "fim": 28.01,
+        "texto": "O CARA COMEÇOU A ME"
+      }
+    ]
+  }
+}
