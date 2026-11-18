@@ -6035,6 +6035,146 @@
     }
   },
   {
+    "slug": "gta-6-ignbrasil",
+    "data": "2026-11-18",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/Df29HqIx2Zj/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "simples-preta"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram apenas paisagens e cenas urbanas do GTA 5",
+      "por": "imagem",
+      "em": "2026-11-17T21:32:31-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-gta6clube",
+    "data": "2026-11-18",
+    "horario": "20:30",
+    "status": "agendado",
+    "estilo": "Gigante",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gta6clube",
+      "link": "https://www.instagram.com/reel/Df2NjlmDyrz/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram gameplay de jogo e personagem vestido dirigindo",
+      "por": "imagem",
+      "em": "2026-11-17T21:32:33-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-sougamergeek",
+    "data": "2026-11-18",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/DfyHPK6BHOa/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "cenas de gameplay vestidas em cenario aberto de jogo",
+      "por": "imagem",
+      "em": "2026-11-17T21:32:36-03:00"
+    }
+  },
+  {
+    "slug": "o-universo-dos-games-gamespot",
+    "data": "2026-11-18",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Simples preta",
+    "legenda": "Esse vídeo está bombando hoje no universo dos games 🎮\n\nSegue @pixelzada.br pra acompanhar o universo dos games.\n\n#games #memesgamer #gamer #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "gamespot",
+      "link": "https://www.instagram.com/reel/Df0ANR_GbRE/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "games",
+      "jogo": "o universo dos games",
+      "moldura": "simples-preta"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram apenas personagens de jogos vestidos, carros e logotipos",
+      "por": "imagem",
+      "em": "2026-11-17T21:32:39-03:00"
+    }
+  },
+  {
+    "slug": "gta-6-voxeloficial",
+    "data": "2026-11-18",
+    "horario": "22:00",
+    "status": "agendado",
+    "estilo": "Conversa",
+    "legenda": "Esse vídeo de GTA 6 está bombando hoje 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "voxeloficial",
+      "link": "https://www.instagram.com/reel/Df23h6QtP6M/",
+      "titulo": "padrao",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "outro",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram pessoas em uma praia fazendo exercicios e equipamentos de academia",
+      "por": "imagem",
+      "em": "2026-11-17T21:32:41-03:00"
+    }
+  },
+  {
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-18",
     "horario": "23:00",
