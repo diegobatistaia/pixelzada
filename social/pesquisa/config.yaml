@@ -155,7 +155,7 @@ lives:
   jogo_twitch: "Grand Theft Auto VI"
   janela_horas: 4          # clipes criados nas últimas 4 horas
   por_rodada: 3            # até 3 clipes prontos a cada rodada (de 30 em 30 min): folga para cron que falha
-  min_views: 10
+  min_views: 3             # clipe novo de GTA 6 tem poucas views nas 1as horas (18/11: média 8)
   orcamento_min: 7         # para de tentar clipes novos depois de 7 min (o passo tem 14, o job 28)
   duracao: [8, 60]         # segundos
   # Favoritos (pesam 3x). Conferidos na API oficial em 16/11 23h41 (social/pesquisa/lives-canais.json).
@@ -202,6 +202,29 @@ lives:
     - lucroft
     - chapo_dizona
     - saninplay
+    # ao vivo no GTA 6 em 18/11 8h32 (lives-canais), entraram na checagem do Diego
+    - ricfazeres
+    - blackoutz
+    - snopey
+    - meikodrj
+    - thimagroo
+    - hayashii
+    - suetam1v4
+    - burgaofps
+    - marinho
+    - heitir
+    - rubini
+    - calango
+    - calura9
+    - olkabone
+    - handsomed11
+    - olui
+    - apenas1live
+    - thedarkness
+    - lnz3
+    - dcosta
+    - otiozero
+    - joao01doturno
   canais_kick: []
   idiomas: [pt]            # clipes gerais em português primeiro (favoritos entram sempre)
   idiomas_reserva: [en, es]  # só completam a rodada quando falta clipe em português
