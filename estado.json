@@ -7,66 +7,55 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-17T19:23-03:00",
+ "atualizado": "2026-11-18T01:21-03:00",
  "hoje": {
-  "data": "2026-11-17",
+  "data": "2026-11-18",
   "reels": {
-   "meta": 17,
-   "publicados": 13,
-   "deviam_ter_saido": 12,
+   "meta": 33,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 5,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 33,
-  "meta_por_dia": 33,
-  "dias_de_reserva": 1.0,
+  "agendados": 38,
+  "meta_por_dia": 48,
+  "dias_de_reserva": 0.8,
   "grade_cheia_ate": null,
-  "sem_revisao": 0,
+  "sem_revisao": 9,
   "por_dia": [
    {
-    "data": "2026-11-17",
-    "agendados": 4,
-    "meta": 17
-   },
-   {
     "data": "2026-11-18",
-    "agendados": 27,
+    "agendados": 33,
     "meta": 33
    },
    {
     "data": "2026-11-19",
-    "agendados": 2,
+    "agendados": 5,
     "meta": 48
    }
   ]
  },
  "site": {
-  "total": 229,
-  "hoje": 8,
+  "total": 231,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Firaxis, de Civilization e XCOM, demite um terço da equipe e a chefe do estúdio deixa o cargo",
-   "url": "https://pixelzada.com.br/pt/firaxis-demite-um-terco-da-equipe-heather-hazen-deixa-o-estudio-de-civilization/",
-   "em": "2026-11-17T17:41:06-03:00"
+   "titulo": "Dr. Xbox receita atestado para a semana de GTA 6, e quase metade dos leitores da IGN vai faltar",
+   "url": "https://pixelzada.com.br/pt/dr-xbox-receita-atestado-para-gta-6-e-quase-metade-dos-leitores-da-ign-vai-faltar/",
+   "em": "2026-11-17T21:40:34-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "17/11/2026 19:05",
+  "ultima_coleta": "18/11/2026 00:22",
   "perfis_lidos": 38,
   "perfis_com_falha": 1
  },
@@ -74,23 +63,22 @@
   "usuario": "pixelzada.br",
   "seguidores": 102,
   "seguindo": 7,
-  "posts": 325,
-  "alcance_7d": 14438,
-  "views_7d": 19976,
+  "posts": 329,
+  "alcance_7d": 14759,
+  "views_7d": 20482,
   "reels_7d": {
-   "quantidade": 96,
-   "views_total": 15516,
+   "quantidade": 98,
+   "views_total": 15656,
    "views_mediana": 159,
    "acima_de_1000": 1,
    "views_por_dia": {
-    "2026-11-17": 1446,
-    "2026-11-16": 2165,
+    "2026-11-17": 1866,
+    "2026-11-16": 2184,
     "2026-11-15": 3381,
     "2026-11-14": 1625,
     "2026-11-13": 2151,
     "2026-11-12": 2161,
-    "2026-11-11": 2288,
-    "2026-11-10": 299
+    "2026-11-11": 2288
    },
    "melhores": [
     {
@@ -110,6 +98,14 @@
      "em": "2026-11-11T18:02:11-03:00"
     },
     {
+     "legenda": "GTA 6 vs GTA 5: a diferença no tamanho do mapa é absurda 🗺️",
+     "views": 275,
+     "alcance": 188,
+     "curtidas": 5,
+     "link": "https://www.instagram.com/reel/Df0s1yBlDHl/",
+     "em": "2026-11-16T22:00:42-03:00"
+    },
+    {
      "legenda": "POV: é quinta-feira e você tá saindo do trabalho sabendo que o GTA 6 já tá baixado e liber",
      "views": 262,
      "alcance": 169,
@@ -118,17 +114,9 @@
      "em": "2026-11-13T09:01:41-03:00"
     },
     {
-     "legenda": "GTA 6 vs GTA 5: a diferença no tamanho do mapa é absurda 🗺️",
-     "views": 256,
-     "alcance": 175,
-     "curtidas": 5,
-     "link": "https://www.instagram.com/reel/Df0s1yBlDHl/",
-     "em": "2026-11-16T22:00:42-03:00"
-    },
-    {
      "legenda": "Xbox 360: 22 de novembro de 2005 💚",
      "views": 244,
-     "alcance": 212,
+     "alcance": 213,
      "curtidas": 6,
      "link": "https://www.instagram.com/reel/Df0zxTNDtzA/",
      "em": "2026-11-16T23:01:07-03:00"
@@ -138,9 +126,15 @@
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 5,
+  "falhas_24h": 4,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Finalizar",
+    "em": "2026-11-17T19:38:59-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44192093822",
+    "resolvido": true
+   },
    {
     "workflow": "Coletar",
     "em": "2026-11-17T15:39:51-03:00",
@@ -158,18 +152,6 @@
     "em": "2026-11-17T06:23:07-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44055078949",
     "resolvido": true
-   },
-   {
-    "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-17T00:16:29-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44009028113",
-    "resolvido": true
-   },
-   {
-    "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-17T00:11:53-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44008462202",
-    "resolvido": true
    }
   ]
  },
@@ -178,20 +160,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 97
+   "youtube": 98
   },
-  "erros_hoje": 1
+  "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-11",
-   "reels": 12,
-   "reels_meta": 15,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 8,
-   "views_reels": 2288
-  },
   {
    "data": "2026-11-12",
    "reels": 12,
@@ -235,16 +208,25 @@
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
-   "views_reels": 2165
+   "views_reels": 2184
   },
   {
    "data": "2026-11-17",
-   "reels": 13,
+   "reels": 17,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 8,
-   "views_reels": 1446
+   "materias": 10,
+   "views_reels": 1866
+  },
+  {
+   "data": "2026-11-18",
+   "reels": 0,
+   "reels_meta": 33,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -287,20 +269,16 @@
   {
    "data": "2026-11-17",
    "seguidores": 102
+  },
+  {
+   "data": "2026-11-18",
+   "seguidores": 102
   }
  ],
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
-  },
-  {
-   "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,0 dia(s) de reserva"
-  },
-  {
-   "nivel": "amarelo",
-   "texto": "Buffer: 1 envio(s) para TikTok/YouTube com erro hoje"
+   "texto": "Fila de Reels com menos de 1 dia de reserva (38 vídeos)"
   }
  ]
 }
