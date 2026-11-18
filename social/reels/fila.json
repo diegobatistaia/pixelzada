@@ -5960,14 +5960,15 @@
     "horario": "15:00",
     "status": "agendado",
     "estilo": "Simples branca",
-    "legenda": "Gabe achou um avião caido no meio do GTA 6 ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
+    "legenda": "Gabe achou um avião caído no meio do GTA 6 ✈️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
     "origem": {
-      "motor": true,
+      "motor": false,
       "perfil": "loudgg",
       "link": "https://www.instagram.com/reel/Df43lBog_dp/",
       "titulo": "gemini-regra",
-      "revisado": false
+      "revisado": false,
+      "pedido_diego": true
     },
     "etiquetas": {
       "formato": "outro",
@@ -5980,7 +5981,8 @@
       "motivo": "streamer vestido e gameplay de jogo mostrando carros e cenário",
       "por": "imagem",
       "em": "2026-11-18T14:00:05-03:00"
-    }
+    },
+    "fixo": true
   },
   {
     "slug": "gta-6-twitch-alanzoka-2",
