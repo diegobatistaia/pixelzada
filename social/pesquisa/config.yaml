@@ -236,6 +236,15 @@ lives:
     - dcosta
     - otiozero
     - joao01doturno
+    # ao vivo no GTA 6 na checagem de 18/11 12h
+    - tioorochitwitch
+    - brino
+    - demuxa
+    - stereonline
+    - pescocofino
+    - catarina4fun
+    - ricardoquik
+    - axtlol
   canais_kick: []
   idiomas: [pt]            # clipes gerais em português primeiro (favoritos entram sempre)
   idiomas_reserva: [en, es]  # só completam a rodada quando falta clipe em português
