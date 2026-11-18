@@ -41,6 +41,8 @@ INICIO = 8 * 60   # pula os primeiros minutos da live (abertura, chat, loading)
 PASSO_MIN = 4 * 60
 DESVIOS = (0, 150, 330)  # cutscene/menu: tenta 2,5 e 5,5 min depois
 PARALELO = 3
+ERROS: dict[str, str] = {}
+BLOQUEADOS: set[str] = set()  # live só para inscritos: não adianta tentar de novo
 
 
 def _seg(d: str) -> int:
@@ -78,10 +80,16 @@ def baixar_trecho(url: str, t: int, saida: Path) -> bool:
     cmd = ["yt-dlp", "-q", "--no-warnings", "-f", "best[height<=720]/best", "--download-sections",
            f"*{t}-{t + DUR}", "--force-keyframes-at-cuts", "-o", str(saida), url]
     try:
-        subprocess.run(cmd, capture_output=True, text=True, timeout=240)
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=240)
     except subprocess.TimeoutExpired:
         return False
-    return saida.exists() and saida.stat().st_size > 100_000
+    ok = saida.exists() and saida.stat().st_size > 100_000
+    if not ok:
+        erro = (r.stderr or r.stdout or "").strip().splitlines()
+        ERROS[url] = erro[-1][:200] if erro else "sem arquivo"
+        if "subscriber" in ERROS[url].lower() or "sub-only" in ERROS[url].lower() or "403" in ERROS[url]:
+            BLOQUEADOS.add(url)
+    return ok
 
 
 def versao_jogo(bruto: Path, caixas: list, saida: Path) -> tuple[bool, str]:
@@ -131,7 +139,7 @@ def processar(login: str, v: dict, t0: int, saida: Path) -> tuple[dict | None, l
     motivos = []
     for d in DESVIOS:
         t = t0 + d
-        if t + DUR > v["duracao"] - 30:
+        if t + DUR > v["duracao"] - 30 or v["url"] in BLOQUEADOS:
             break
         cid = f"{login.lower()}-{v['id']}-{t0:05d}"
         with tempfile.TemporaryDirectory() as tmp:
@@ -207,6 +215,8 @@ def coletar(login: str, desde: datetime, maximo: int, saida: Path) -> int:
                 cortes.append(corte)
     (saida / f"indice-{login.lower()}.json").write_text(json.dumps({"cortes": cortes, "descartes": descartes},
                                                                   ensure_ascii=False, indent=1), encoding="utf-8")
+    for u, e in ERROS.items():
+        print(f"  erro do download em {u}: {e}{' (bloqueada: só inscritos?)' if u in BLOQUEADOS else ''}")
     print(f"{login}: {len(cortes)} corte(s) no banco; descartes: {descartes}")
     return len(cortes)
 
