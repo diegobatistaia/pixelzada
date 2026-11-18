@@ -5904,6 +5904,34 @@
     }
   },
   {
+    "slug": "movimentacao-npcs-gta6",
+    "data": "2026-11-18",
+    "horario": "15:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Isso aqui é simplesmente de outro mundo: olha a movimentação dos NPCs de GTA 6 🤯🚨\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "flowgamestv",
+      "link": "https://www.instagram.com/reel/Df4aypkGdnp/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "noticia",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 18/11",
+      "por": "revisão manual",
+      "em": "2026-11-18T14:14:09.109542+00:00"
+    }
+  },
+  {
     "slug": "gta-6-twitch-alanzoka-2",
     "data": "2026-11-18",
     "horario": "15:30",
@@ -6103,6 +6131,34 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T19:20:00-03:00"
+    }
+  },
+  {
+    "slug": "por-que-rockstar-escolheu-19-de-novembro",
+    "data": "2026-11-18",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "TV",
+    "legenda": "Quando você percebe por que a Rockstar escolheu 19 de novembro pra lançar GTA 6 😂 Dia Internacional do Homem!\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/Df4O_2mP4K1/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "espera",
+      "jogo": "gta6",
+      "moldura": "identidade"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 18/11",
+      "por": "revisão manual",
+      "em": "2026-11-18T14:14:09.109542+00:00"
     }
   },
   {
