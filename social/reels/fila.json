@@ -6232,66 +6232,6 @@
     }
   },
   {
-    "slug": "gta-6-flowgamestv",
-    "data": "2026-11-18",
-    "horario": "19:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Quanto tempo vai durar a campanha de GTA 6 ⏱️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "flowgamestv",
-      "link": "https://www.instagram.com/reel/Df4fULWCXXv/",
-      "titulo": "gemini-regra",
-      "revisado": false,
-      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca",
-      "estilo_antes": "Simples branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "apresentador e cenas de gameplay vestidas, sem qualquer conteúdo impróprio",
-      "por": "imagem",
-      "em": "2026-11-18T11:41:48-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-voxeloficial",
-    "data": "2026-11-18",
-    "horario": "19:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "GTA 6 vale a pena mesmo? 🎮\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "voxeloficial",
-      "link": "https://www.instagram.com/reel/Df4XQRpCGjS/",
-      "titulo": "gemini-regra",
-      "revisado": false,
-      "titulo_antes": "Esse vídeo de GTA 6 está bombando hoje 🎮"
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca",
-      "estilo_antes": "Simples branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "Os quadros mostram cenas de gameplay de jogo e pessoas vestidas",
-      "por": "imagem",
-      "em": "2026-11-18T11:41:57-03:00"
-    }
-  },
-  {
     "slug": "gta-6-twitch-alanzoka-7",
     "data": "2026-11-18",
     "horario": "20:00",
