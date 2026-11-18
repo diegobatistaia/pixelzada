@@ -86,9 +86,8 @@ def perguntar(video: Path) -> dict:
     corpo = {"systemInstruction": {"parts": [{"text": PROMPT}]},
              "contents": [{"role": "user", "parts": partes}],
              "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}
-    modelos = [_modelo()]
-    if SEG._modelo_gemini() not in modelos:
-        modelos.append(SEG._modelo_gemini())
+    # Gemini sobrecarregado no lançamento (18/11: 503 e timeouts): tenta mais modelos antes de descartar
+    modelos = list(dict.fromkeys([_modelo(), SEG._modelo_gemini(), "gemini-2.5-flash-lite", "gemini-3.5-flash-lite"]))
     ultimo = "Gemini sem resposta"
     for modelo in modelos:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
@@ -108,8 +107,11 @@ def perguntar(video: Path) -> dict:
                     time.sleep(10)
                     continue
                 break
-            except Exception as e:
+            except Exception as e:  # timeout etc.: 1 nova tentativa, depois o próximo modelo
                 ultimo = f"Gemini {modelo}: {str(e)[:120]}"
+                if tentativa < 1:
+                    time.sleep(5)
+                    continue
                 break
     return {"pessoa_real": None, "caixas": [], "motivo": ultimo}
 
@@ -256,7 +258,7 @@ def transcrever(video: Path) -> dict:
     corpo = {"systemInstruction": {"parts": [{"text": PROMPT_FALAS}]},
              "contents": [{"role": "user", "parts": partes}],
              "generationConfig": {"temperature": 0.4, "responseMimeType": "application/json"}}
-    for modelo in dict.fromkeys([_modelo(), SEG._modelo_gemini()]):
+    for modelo in dict.fromkeys([_modelo(), SEG._modelo_gemini(), "gemini-2.5-flash", "gemini-2.5-flash-lite"]):
         try:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{modelo}:generateContent"
             dado = json.loads(SEG._post(url, corpo, {"x-goog-api-key": chave}, timeout=90))

@@ -279,7 +279,12 @@ def baixar_e_limpar(c: dict, destino: Path, mutar: bool = False, dividido: bool 
             # Diego aprovou 3 modelos (18/11): o original e as falas ficam ao lado para a montagem
             # escolher o modelo 3 (desfocado + título + fala). Clipe de reserva (outro idioma) não.
             if not mutar:
-                shutil.copy(bruto, original_de(destino))
+                # original menor (720p): arquivo acima de 50 MB pesa no repositório (aviso do GitHub, 18/11)
+                o = subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(bruto), "-vf", "scale=-2:'min(720,ih)'",
+                                    "-c:v", "libx264", "-preset", "veryfast", "-crf", "24", "-c:a", "aac", "-b:a", "128k",
+                                    str(original_de(destino))], capture_output=True, text=True)
+                if o.returncode:
+                    shutil.copy(bruto, original_de(destino))
                 res["falas"] = camera_ia.transcrever(bruto)
             res["camera"] = bool((res.get("dividido") or {}).get("camera"))
         else:
