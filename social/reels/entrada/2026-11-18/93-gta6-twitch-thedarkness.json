@@ -1,0 +1,25 @@
+{
+  "numero": 0,
+  "perfil": "twitch/TheDarkness",
+  "link": "https://www.twitch.tv/thedarkness/clip/FrigidModernSproutKeepo-C9IyKPQ-k41jkwHh",
+  "jogo": "GTA 6",
+  "tema": "gta6",
+  "formato": "gameplay",
+  "legenda": "DE VOLTA À VICE CITY :)",
+  "legenda_completa": "Clipe da live de TheDarkness jogando GTA 6: DE VOLTA À VICE CITY :)",
+  "horario_sugerido": null,
+  "via": "twitch",
+  "pronto": "dividido",
+  "camera": true,
+  "falas": {
+    "titulo": "TheDarkness leva um susto com o caos no trânsito de GTA 6",
+    "emoji": "😱",
+    "falas": [
+      {
+        "ini": 5.8,
+        "fim": 7.4,
+        "texto": "MEU DEUS"
+      }
+    ]
+  }
+}
