@@ -109,7 +109,7 @@ jobs:
         continue-on-error: true   # se a Twitch falhar, o piso de Reels segue
         if: env.ACAO == 'agendada' || env.ACAO == 'completar' || env.ACAO == 'lives' || env.ACAO == 'lives-teste'
         run: |
-          command -v ffmpeg > /dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
+          bash scripts/instalar_ffmpeg.sh
           case "$ACAO" in
             lives) python -m scripts.social.lives rodada --forcar ;;
             lives-teste) python -m scripts.social.lives teste "${LINK:-Grand Theft Auto V}" ;;
