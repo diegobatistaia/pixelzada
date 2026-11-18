@@ -6364,7 +6364,7 @@
     "slug": "gta-6-twitch-jogo-gta6news",
     "data": "2026-11-18",
     "horario": "19:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Eu na primeira hora de GTA 6 só andando de quadriciclo 🏍️\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6387,6 +6387,19 @@
       "motivo": "imagens mostram telas de intervalo da twitch e gameplay com personagens vestidos em veículos",
       "por": "imagem",
       "em": "2026-11-18T18:46:36-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T19:39:30-03:00",
+      "media_id": "17917690668493196",
+      "permalink": "https://www.instagram.com/reel/Df5mcp-GQyi/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
