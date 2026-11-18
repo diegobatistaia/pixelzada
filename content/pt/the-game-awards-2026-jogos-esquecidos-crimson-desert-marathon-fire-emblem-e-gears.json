@@ -89,7 +89,10 @@
     "query": "Crimson Desert",
     "alt": "Arte de Crimson Desert, da Pearl Abyss",
     "url": "https://cdn.mos.cms.futurecdn.net/D7Q4p44SNTDgUMeASDHj68-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/the-game-awards-2026-jogos-esquecidos-cr-c98a9772.jpg",
+    "source_url": "",
+    "foco": "47% 45%"
   },
   "sources": [
     {
@@ -105,5 +108,7 @@
       "title": "Game Awards snubs: Crimson Desert, Marathon and more"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-18T22:49:10+00:00",
+  "updated_at": "2026-11-18T22:49:10+00:00"
 }
