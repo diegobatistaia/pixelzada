@@ -575,6 +575,12 @@ def teste(cfg: dict) -> int:
     print(f"  com views: {sum(1 for p in videos if p.get('view_count'))}, "
           f"com curtidas: {sum(1 for p in videos if p.get('like_count') is not None)}, "
           f"com arquivo: {sum(1 for p in videos if p.get('media_url'))}")
+    # Raio-x do perfil (para analisar concorrente novo): um post por linha, do mais recente.
+    for p in posts:
+        leg = " ".join((p.get("caption") or "").split())[:140]
+        print(f"  {p.get('timestamp', '')[:16]} {p.get('media_product_type') or p.get('media_type')} "
+              f"views={p.get('view_count')} likes={p.get('like_count')} com={p.get('comments_count')} "
+              f"{p.get('permalink')} | {leg}")
     return 0
 
 
