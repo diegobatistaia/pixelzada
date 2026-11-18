@@ -112,6 +112,7 @@ formatos:
 # Lista inicial tirada da estratégia de Instagram (17/10); o teste mostra quais
 # a API enxerga (só perfis profissionais) e os que falharem saem.
 concorrentes:
+  - {perfil: vicecortesp, tema: gta6}       # link de perfil do Diego (18/11): perfil novo, 500 mil views
   - {perfil: diskvice, tema: games}         # link de perfil do Diego (16/11)
   - {perfil: sougamergeek, tema: games}     # links do Diego (09/11); posta de tudo, não só GTA 6
   - {perfil: brief_escape_, tema: games}    # link de perfil do Diego (10/11)
