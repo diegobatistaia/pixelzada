@@ -59,16 +59,19 @@ pico:
   lista_tamanho: 40
   pesos: {gta6: 10}
 
-# Diego, 18/11: "pode parar com os vídeos que não são do GTA". Só entra na fila vídeo
-# cujo tema seja um destes (GTA 6 e qualquer GTA, pelas palavras do tema gta6).
+# Diego, 18/11: "pode parar com os vídeos que não são do GTA" e "não quero do 5 nem do
+# San Andreas, quero apenas do 6". Só entra na fila vídeo do tema gta6, e sai qualquer
+# legenda que fale de outro GTA ou de Red Dead.
 somente_temas: [gta6]
+excluir_palavras: ["gta 5", "gta v ", "gtav", "gta5", "gta iv", "gta 4", "san andreas", "los santos",
+                   "big smoke", "cj ", "red dead", "rdr2", "rdr 2", "gta online", "trevor", "franklin",
+                   "michael de santa", "niko bellic", "tommy vercetti", "2008", "nostalgia"]
 
 # Temas: palavras na legenda que identificam o jogo, e o peso na escolha.
 temas:
   gta6:
     nome: GTA 6
-    palavras: ["gta 6", "gta6", "gta vi", "gtavi", "vice city", "leonida", "lucia", "jason duval",
-               "gta", "gta 5", "gta v", "gta5", "san andreas", "los santos", "grand theft auto"]
+    palavras: ["gta 6", "gta6", "gta vi", "gtavi", "vice city", "leonida", "lucia", "jason duval"]
     peso: 2
   battlefield6:
     nome: Battlefield 6

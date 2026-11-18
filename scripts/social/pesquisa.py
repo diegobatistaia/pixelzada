@@ -168,6 +168,15 @@ def tema_de(cfg: dict, legenda: str, padrao: str) -> str:
     return padrao if padrao in cfg["temas"] else "games"
 
 
+def so_gta6(cfg: dict, tema: str | None, legenda: str) -> bool:
+    """Diego, 18/11: só GTA 6. Tema fora de somente_temas, ou legenda que fala de outro
+    GTA / Red Dead (excluir_palavras), não entra."""
+    if cfg.get("somente_temas") and tema not in cfg["somente_temas"]:
+        return False
+    texto = f" {(legenda or '').lower()} "
+    return not any(w in texto for w in cfg.get("excluir_palavras", []))
+
+
 def formato_de(cfg: dict, legenda: str) -> str:
     """Formato do vídeo pela legenda (Diego, 10/11: meme de identificação no lugar de notícia).
     O primeiro formato do config com palavra na legenda vence; sem nenhuma, "outro"."""
@@ -220,8 +229,8 @@ def analisar(cfg: dict, coleta: dict, agora: datetime | None = None) -> list[dic
             if bloqueado(cfg, p.get("caption", "")):
                 continue
             tema = tema_de(cfg, p.get("caption", ""), padrao.get(perf["perfil"], "games"))
-            if cfg.get("somente_temas") and tema not in cfg["somente_temas"]:
-                continue   # Diego, 18/11: só vídeo de GTA na fila
+            if not so_gta6(cfg, tema, p.get("caption", "")):
+                continue   # Diego, 18/11: só vídeo de GTA 6 na fila
             formato = formato_de(cfg, p.get("caption", ""))
             candidatos.append({
                 "id": p["id"], "perfil": perf["perfil"], "link": p.get("permalink"),
@@ -511,8 +520,8 @@ def completar(cfg: dict) -> int:
     vistos, candidatos = set(), []
     for arq in listas:  # a de hoje primeiro; as de ontem e anteontem completam
         for c in (json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else []):
-            if cfg.get("somente_temas") and c.get("tema") not in cfg["somente_temas"]:
-                continue   # Diego, 18/11: só GTA (listas antigas ainda têm outros jogos)
+            if not so_gta6(cfg, c.get("tema"), c.get("legenda_completa") or c.get("legenda") or ""):
+                continue   # Diego, 18/11: só GTA 6 (listas antigas ainda têm outros jogos)
             if c["id"] not in ja and c["link"] not in ja and c["id"] not in vistos:
                 vistos.add(c["id"])
                 candidatos.append(c)
