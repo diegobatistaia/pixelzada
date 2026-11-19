@@ -7272,9 +7272,67 @@
     }
   },
   {
-    "slug": "gta6-corte-dcosta-2",
+    "slug": "gta6-corte-move-mind-2",
     "data": "2026-11-19",
     "horario": "08:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Move_Mind jogando GTA 6\n📺 twitch.tv/move_mind\n\n#gta6 #gtavi #move_mind #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Move_Mind",
+      "link": "https://www.twitch.tv/move_mind/clip/ThirstyObliqueLadiesPJSalt-RGECIxaqkOY8v3cc",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de jogo de corrida",
+      "por": "imagem",
+      "em": "2026-11-19T07:14:38-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-dcosta-3",
+    "data": "2026-11-19",
+    "horario": "08:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Dcosta jogando GTA 6\n📺 twitch.tv/dcosta\n\n#gta6 #gtavi #dcosta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Dcosta",
+      "link": "https://www.twitch.tv/dcosta/clip/SpinelessRespectfulJamBigBrother-XGV1XNSWrC0mLVlB",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "imagens mostram streamer vestido e cenas de gameplay em ambiente externo",
+      "por": "imagem",
+      "em": "2026-11-19T07:14:48-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-dcosta-2",
+    "data": "2026-11-19",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Dcosta jogando GTA 6\n📺 twitch.tv/dcosta\n\n#gta6 #gtavi #dcosta #pixelzada",
@@ -7303,7 +7361,7 @@
   {
     "slug": "gta6-corte-dcosta",
     "data": "2026-11-19",
-    "horario": "08:30",
+    "horario": "09:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Dcosta jogando GTA 6\n📺 twitch.tv/dcosta\n\n#gta6 #gtavi #dcosta #pixelzada",
@@ -7332,7 +7390,7 @@
   {
     "slug": "gta6-corte-meikodrj-3",
     "data": "2026-11-19",
-    "horario": "09:00",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 MeikodRJ jogando GTA 6\n📺 twitch.tv/meikodrj\n\n#gta6 #gtavi #meikodrj #pixelzada",
@@ -7361,7 +7419,7 @@
   {
     "slug": "gta6-corte-move-mind",
     "data": "2026-11-19",
-    "horario": "09:30",
+    "horario": "10:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Move_Mind jogando GTA 6\n📺 twitch.tv/move_mind\n\n#gta6 #gtavi #move_mind #pixelzada",
@@ -7390,7 +7448,7 @@
   {
     "slug": "gta6-corte-cellbit-6",
     "data": "2026-11-19",
-    "horario": "10:00",
+    "horario": "11:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
@@ -7419,7 +7477,7 @@
   {
     "slug": "gta6-corte-apenas1live",
     "data": "2026-11-19",
-    "horario": "10:30",
+    "horario": "11:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Apenas1Live jogando GTA 6\n📺 twitch.tv/apenas1live\n\n#gta6 #gtavi #apenas1live #pixelzada",
@@ -7448,7 +7506,7 @@
   {
     "slug": "gta6-corte-alanzoka-11",
     "data": "2026-11-19",
-    "horario": "11:00",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -7477,7 +7535,7 @@
   {
     "slug": "gta6-corte-meikodrj-2",
     "data": "2026-11-19",
-    "horario": "11:30",
+    "horario": "12:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 MeikodRJ jogando GTA 6\n📺 twitch.tv/meikodrj\n\n#gta6 #gtavi #meikodrj #pixelzada",
@@ -7506,7 +7564,7 @@
   {
     "slug": "gta6-corte-cellbit-3",
     "data": "2026-11-19",
-    "horario": "12:00",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
@@ -7535,7 +7593,7 @@
   {
     "slug": "gta6-corte-cellbit-4",
     "data": "2026-11-19",
-    "horario": "12:30",
+    "horario": "13:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
@@ -7564,7 +7622,7 @@
   {
     "slug": "gta6-corte-alanzoka-10",
     "data": "2026-11-19",
-    "horario": "13:00",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -7593,7 +7651,7 @@
   {
     "slug": "empurrar-jet-ski-de-volta-agua-gta6",
     "data": "2026-11-19",
-    "horario": "13:30",
+    "horario": "14:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Dá pra empurrar o jet ski de volta pra água em GTA 6. Vídeo: @gta6latest (OakleyNoble)\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
