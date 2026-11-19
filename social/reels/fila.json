@@ -7582,7 +7582,7 @@
     "slug": "gta6-corte-rodil-2",
     "data": "2026-11-19",
     "horario": "11:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Rodil jogando GTA 6\n📺 twitch.tv/rodil\n\n#gta6 #gtavi #rodil #pixelzada",
     "tentativas": 0,
@@ -7605,6 +7605,19 @@
       "motivo": "streamer vestido e gameplay subaquatica com mergulhadores com roupa de mergulho",
       "por": "imagem",
       "em": "2026-11-19T10:13:40-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T11:32:17-03:00",
+      "media_id": "17966767425032047",
+      "permalink": "https://www.instagram.com/reel/Df7TXwVHB8i/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
