@@ -6994,7 +6994,7 @@
     "slug": "gta6-corte-calura9",
     "data": "2026-11-19",
     "horario": "04:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 CALURA9 jogando GTA 6\n📺 twitch.tv/calura9\n\n#gta6 #gtavi #calura9 #pixelzada",
     "tentativas": 0,
@@ -7017,6 +7017,19 @@
       "motivo": "streamer vestido e gameplay de jogo com personagem usando camiseta regata e shorts",
       "por": "imagem",
       "em": "2026-11-19T03:41:13-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T04:32:27-03:00",
+      "media_id": "18036185819911013",
+      "permalink": "https://www.instagram.com/reel/Df6jU7qGKy0/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
