@@ -9692,5 +9692,33 @@
       "por": "revisão manual",
       "em": "2026-11-18T18:13:35.017716+00:00"
     }
+  },
+  {
+    "slug": "jason-deitado-mexendo-no-celular-gta6",
+    "data": "2026-11-20",
+    "horario": "23:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Jason deitado na cama mexendo no celular em GTA 6. Vídeo: @flowgamestv\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "flowgamestv",
+      "link": "https://www.instagram.com/reel/Df7PG3euuUa/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 19/11 (cortado antes do trecho sem camisa)",
+      "por": "revisão manual",
+      "em": "2026-11-19T15:27:21.189609+00:00"
+    }
   }
 ]
