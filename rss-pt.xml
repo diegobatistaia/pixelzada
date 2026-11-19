@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:50:38 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6: como funciona o perfil criminal, quais são os cinco níveis e como melhorar o seu</title>
+      <link>https://pixelzada.com.br/pt/gta-6-perfil-criminal-como-funciona-os-cinco-niveis-e-como-melhorar/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-perfil-criminal-como-funciona-os-cinco-niveis-e-como-melhorar/</guid>
+      <description>Entenda o perfil criminal de GTA 6: os cinco níveis, o que muda no foco, como melhorar a reputação de Jason e Lucia e o aviso sobre o nível Irredeemable.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 19 Nov 2026 14:50:37 +0000</pubDate>
+    </item>
     <item>
       <title>Além das missões: academia, minigolfe, mergulho, luta no quintal e as outras atividades de GTA 6</title>
       <link>https://pixelzada.com.br/pt/gta-6-atividades-paralelas-academia-minigolfe-mergulho-luta-no-quintal-e-mais/</link>
@@ -238,14 +246,6 @@
       <description>Super Meat Boy Again+ foi anunciado para PC com arte, músicas, fases e segredos novos. A Team Meat ainda não deu data de lançamento. Veja o que se sabe.</description>
       <category>Lançamentos</category>
       <pubDate>Sun, 15 Nov 2026 22:39:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6: Rockstar fala em mecanismos de empatia e lista do álbum vaza</title>
-      <link>https://pixelzada.com.br/pt/gta-6-rockstar-fala-em-empatia-e-tracklist-do-album-vaza/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-rockstar-fala-em-empatia-e-tracklist-do-album-vaza/</guid>
-      <description>Rockstar diz que GTA 6 terá mecanismos que incentivam a empatia, pela primeira vez na série, e a lista de 34 músicas do álbum teria vazado. Veja o que se sabe.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 15 Nov 2026 20:42:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
