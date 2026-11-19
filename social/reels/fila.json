@@ -6657,7 +6657,7 @@
     "slug": "ultimos-segundos-antes-de-liberar-gta6",
     "data": "2026-11-19",
     "horario": "00:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Os últimos segundos antes de liberar o GTA 6 ⏳😭 POV: 18 de novembro, 23:59\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -6681,7 +6681,20 @@
       "por": "revisão manual",
       "em": "2026-11-16T19:20:00-03:00"
     },
-    "fixo": true
+    "fixo": true,
+    "publicado": {
+      "em": "2026-11-19T00:30:56-03:00",
+      "media_id": "18005194640808628",
+      "permalink": "https://www.instagram.com/reel/Df6HrrnjZ9N/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
+    }
   },
   {
     "slug": "gta6-lancado-players-0001",
