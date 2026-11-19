@@ -7204,7 +7204,7 @@
     "slug": "gta6-corte-impakt",
     "data": "2026-11-19",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 impakt jogando GTA 6\n📺 twitch.tv/impakt\n\n#gta6 #gtavi #impakt #pixelzada",
     "tentativas": 0,
@@ -7227,6 +7227,19 @@
       "motivo": "pessoas vestidas jogando videogame e gameplay de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-19T06:12:55-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T07:01:53-03:00",
+      "media_id": "18127213582930496",
+      "permalink": "https://www.instagram.com/reel/Df60g0EAj1t/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
