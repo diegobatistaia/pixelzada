@@ -124,7 +124,10 @@
     "query": "GTA 6 Jason e Lucia",
     "alt": "Arte oficial da capa de GTA 6 com Jason e Lucia",
     "url": "https://www.rockstargames.com/VI/_next/static/media/Official_Cover_Art_landscape.12.uu2irr.2_a.jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/de-claude-a-jason-e-lucia-os-protagonist-2588138e.jpg",
+    "source_url": "",
+    "foco": "46% 37%"
   },
   "sources": [
     {
@@ -230,5 +233,7 @@
       "title": "GTA 6 reportedly has hundreds of explorable interiors"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T18:43:08+00:00",
+  "updated_at": "2026-11-19T18:43:08+00:00"
 }

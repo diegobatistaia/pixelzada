@@ -115,7 +115,10 @@
     "query": "GTA 6 Lucia Caminos",
     "alt": "Imagem de GTA 6 com a personagem Lucia Caminos divulgada pela Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/11/Lucia-Caminos-GTA6-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/ceo-da-gamestop-critica-gta-6-sem-disco--47dbd432.jpg",
+    "source_url": "",
+    "foco": "44% 29%"
   },
   "sources": [
     {
@@ -137,5 +140,7 @@
       "title": "GTA 6 discless release, code in a box, GameStop CEO"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T18:43:08+00:00",
+  "updated_at": "2026-11-19T18:43:08+00:00"
 }
