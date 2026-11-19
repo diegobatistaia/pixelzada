@@ -64,6 +64,9 @@ function recorte(f, info) {
       const crop = v.crop || recorte(tmp, info);
       const mp4 = path.resolve(v.saida + '.mp4'), jpg = path.resolve(v.saida + '.jpg');
       fs.mkdirSync(path.dirname(mp4), { recursive: true });
+      // Diego, 18/11: nada de moldura da identidade (TV etc.) nem frase de CTA embaixo.
+      if (!SIMPLES[v.estilo] && process.env.PERMITIR_IDENTIDADE !== '1')
+        throw new Error('estilo "' + v.estilo + '" proibido: só simples-branca/simples-preta (Diego, 18/11)');
       if (SIMPLES[v.estilo]) await montarSimples(p, S, v, tmp, crop, mp4);
       else compor(tmp, crop, await render(p, { titulo: v.titulo, frase: v.frase, cor: v.cor, jogo: v.jogo }, v.estilo, crop.w, crop.h, tag), mp4);
       if (!fs.existsSync(mp4) || fs.statSync(mp4).size < 50000) throw new Error('vídeo final não saiu');
