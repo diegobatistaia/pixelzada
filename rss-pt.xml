@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 19 Nov 2026 14:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:47:59 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6 tem modo fácil? Onde achar as opções que deixam o jogo mais tranquilo</title>
+      <link>https://pixelzada.com.br/pt/gta-6-modo-facil-como-reduzir-a-dificuldade-com-combate-acessivel-e-dano-reduzido/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-modo-facil-como-reduzir-a-dificuldade-com-combate-acessivel-e-dano-reduzido/</guid>
+      <description>GTA 6 não tem seletor de dificuldade, mas duas opções em Configurações deixam o jogo mais fácil: Accessible Combat e Reduced Vehicle Damage. Veja onde achar.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 19 Nov 2026 16:47:58 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: como funciona o perfil criminal, quais são os cinco níveis e como melhorar o seu</title>
       <link>https://pixelzada.com.br/pt/gta-6-perfil-criminal-como-funciona-os-cinco-niveis-e-como-melhorar/</link>
@@ -238,14 +246,6 @@
       <description>O executivo Jason Ronald diz que o Project Helix é um console que joga jogos de PC, e não um PC que joga jogos de console. Veja o que mais ele revelou.</description>
       <category>Consoles e PC</category>
       <pubDate>Mon, 16 Nov 2026 10:43:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Super Meat Boy Again+ é anunciado para PC com arte, fases e músicas novas</title>
-      <link>https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/super-meat-boy-again-plus-anunciado-para-pc-com-fases-e-musicas-novas/</guid>
-      <description>Super Meat Boy Again+ foi anunciado para PC com arte, músicas, fases e segredos novos. A Team Meat ainda não deu data de lançamento. Veja o que se sabe.</description>
-      <category>Lançamentos</category>
-      <pubDate>Sun, 15 Nov 2026 22:39:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

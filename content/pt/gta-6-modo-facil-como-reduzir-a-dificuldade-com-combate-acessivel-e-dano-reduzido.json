@@ -118,7 +118,10 @@
     "query": "GTA 6 easy mode",
     "alt": "Imagem de GTA 6 divulgada pela Eurogamer",
     "url": "https://assetsio.gnwcdn.com/Easy-mode-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/gta-6-modo-facil-como-reduzir-a-dificuld-4032c5ae.jpg",
+    "source_url": "",
+    "foco": "57% 17%"
   },
   "sources": [
     {
@@ -134,5 +137,7 @@
       "title": "GTA 6 easy mode: does GTA 6 have difficulty options?"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T16:47:58+00:00",
+  "updated_at": "2026-11-19T16:47:58+00:00"
 }
