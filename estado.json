@@ -7,94 +7,100 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-18T18:58-03:00",
+ "atualizado": "2026-11-19T00:28-03:00",
  "hoje": {
-  "data": "2026-11-18",
+  "data": "2026-11-19",
   "reels": {
-   "meta": 33,
-   "publicados": 23,
-   "deviam_ter_saido": 22,
+   "meta": 48,
+   "publicados": 1,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 5,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 37,
+  "agendados": 51,
   "meta_por_dia": 48,
-  "dias_de_reserva": 0.8,
+  "dias_de_reserva": 1.1,
   "grade_cheia_ate": null,
-  "sem_revisao": 18,
+  "sem_revisao": 32,
   "por_dia": [
    {
-    "data": "2026-11-18",
-    "agendados": 10,
-    "meta": 33
+    "data": "2026-11-19",
+    "agendados": 47,
+    "meta": 48
    },
    {
-    "data": "2026-11-19",
-    "agendados": 27,
+    "data": "2026-11-20",
+    "agendados": 4,
     "meta": 48
    }
   ]
  },
  "site": {
-  "total": 239,
-  "hoje": 8,
+  "total": 240,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Rob Nelson, da Rockstar North, conta como GTA 6 foi feito: equipe gigante, 30 fps e um casal no centro",
-   "url": "https://pixelzada.com.br/pt/rob-nelson-como-gta-6-foi-feito-equipe-30-fps-e-o-casal-jason-e-lucia/",
-   "em": "2026-11-18T17:46:25-03:00"
+   "titulo": "The Game Awards 2026: Crimson Desert, Marathon e Fire Emblem estão entre os jogos que fãs dizem ter sido esquecidos",
+   "url": "https://pixelzada.com.br/pt/the-game-awards-2026-jogos-esquecidos-crimson-desert-marathon-fire-emblem-e-gears/",
+   "em": "2026-11-18T19:49:10-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "18/11/2026 15:00",
+  "ultima_coleta": "18/11/2026 23:58",
   "perfis_lidos": 38,
-  "perfis_com_falha": 1
+  "perfis_com_falha": 2
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AZWKcJQmFxP71fwWvWGpODE\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"ABKV5L9-WYKLPmc3qttqRNo\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 4,
-  "sem_resolver": 0,
+  "falhas_24h": 6,
+  "sem_resolver": 1,
   "lista": [
    {
     "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-18T15:29:26-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44370264628",
-    "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-18T13:53:06-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44352359766",
-    "resolvido": true
-   },
-   {
-    "workflow": "Finalizar",
-    "em": "2026-11-18T13:46:26-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44351089737",
+    "em": "2026-11-18T21:01:26-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44425599459",
     "resolvido": true
    },
    {
     "workflow": "Reels",
-    "em": "2026-11-18T12:09:14-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44332285822",
+    "em": "2026-11-18T20:28:30-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44421047789",
+    "resolvido": true
+   },
+   {
+    "workflow": "YouTube - enviar vídeo longo (API)",
+    "em": "2026-11-18T20:03:33-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44417339141",
+    "resolvido": false
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-18T19:23:52-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44411177519",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-18T19:00:56-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44407351340",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-18T15:29:26-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44370264628",
     "resolvido": true
    }
   ]
@@ -104,20 +110,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 99
+   "youtube": 100
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-12",
-   "reels": 12,
-   "reels_meta": 15,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 10,
-   "views_reels": null
-  },
   {
    "data": "2026-11-13",
    "reels": 13,
@@ -165,11 +162,20 @@
   },
   {
    "data": "2026-11-18",
-   "reels": 23,
+   "reels": 30,
    "reels_meta": 33,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 8,
+   "materias": 9,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-19",
+   "reels": 1,
+   "reels_meta": 48,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
    "views_reels": null
   }
  ],
@@ -221,12 +227,12 @@
  ],
  "alertas": [
   {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
+   "nivel": "amarelo",
+   "texto": "Fila de Reels com só 1,1 dia(s) de reserva"
   },
   {
    "nivel": "vermelho",
-   "texto": "Fila de Reels com menos de 1 dia de reserva (37 vídeos)"
+   "texto": "1 falha(s) no GitHub ainda sem resolver"
   },
   {
    "nivel": "amarelo",
