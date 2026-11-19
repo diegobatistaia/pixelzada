@@ -109,7 +109,9 @@
     "query": "Hounded PS5",
     "alt": "Arte de Hounded, aventura com um cachorro divulgada no PlayStation Blog",
     "url": "https://blog.playstation.com/tachyon/2048/11/35ee932cfac0044b7c4d4d1d41f95533dd2f3202-scaled.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/hounded-aventura-de-cachorro-chega-ao-ps-13b837cf.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -120,5 +122,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T12:47:27+00:00",
+  "updated_at": "2026-11-19T12:47:27+00:00"
 }

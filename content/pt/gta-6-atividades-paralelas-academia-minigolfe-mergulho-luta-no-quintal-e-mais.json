@@ -150,7 +150,9 @@
     "query": "GTA 6 Vice City",
     "alt": "Imagem oficial de Vice City divulgada pela Rockstar Games",
     "url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_11.09paum3g942sc.jpg?akim=1&imdensity=1&imwidth=3840",
-    "credit": "Imagem: Rockstar Games"
+    "credit": "Imagem: Rockstar Games",
+    "path": "/assets/img/gta-6-atividades-paralelas-academia-mini-99b3f8d1.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -274,5 +276,7 @@
       "title": "GTA 6 Launch Trailer: What's Confirmed and What's Hinted"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T12:47:27+00:00",
+  "updated_at": "2026-11-19T12:47:27+00:00"
 }
