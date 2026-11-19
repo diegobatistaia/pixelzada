@@ -8208,6 +8208,33 @@
     }
   },
   {
+    "slug": "gta6-leonida-mapa-florida-video-longo",
+    "data": "2026-11-19",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Vídeo longo horizontal",
+    "legenda": "GTA 6: o mapa INTEIRO é a Flórida (comparei região por região)\n\nGTA 6 se passa em Leonida, e Leonida é a Flórida de verdade. Neste vídeo eu comparo cada região do mapa de GTA 6 com o lugar real que ela copia: Vice City (Miami), Leonida Keys, Grassrivers (Everglades), Port Gellhorn, Ambrosia e Mount Kalaga.\n\n#gta6 #gtavi #leonida #pixelzada",
+    "tentativas": 0,
+    "fixo": true,
+    "origem": {
+      "motor": false,
+      "pedido_diego": "19/11: postar os outros 3 vídeos longos do YouTube no Instagram, 1 por dia às 19h",
+      "perfil": "pixelzada",
+      "titulo": "youtube"
+    },
+    "etiquetas": {
+      "formato": "video-longo",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "horizontal"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
+      "por": "manual"
+    }
+  },
+  {
     "slug": "gta6-corte-jizonn",
     "data": "2026-11-19",
     "horario": "19:00",
@@ -9598,6 +9625,33 @@
     }
   },
   {
+    "slug": "gta5-vs-gta6-10-diferencas-video-longo",
+    "data": "2026-11-20",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Vídeo longo horizontal",
+    "legenda": "GTA 5 vs GTA 6: 10 diferenças que vão mudar o jeito que você joga\n\nGTA 5 vs GTA 6: 13 anos separam os dois, e quase tudo mudou. Comparei as 10 maiores diferenças pelo que a Rockstar já mostrou: protagonistas, mapa, multidões, água, redes sociais, polícia, carros, animais, gráficos e o que pode não voltar.\n\n#gta6 #gta5 #gtavi #pixelzada",
+    "tentativas": 0,
+    "fixo": true,
+    "origem": {
+      "motor": false,
+      "pedido_diego": "19/11: postar os outros 3 vídeos longos do YouTube no Instagram, 1 por dia às 19h",
+      "perfil": "pixelzada",
+      "titulo": "youtube"
+    },
+    "etiquetas": {
+      "formato": "video-longo",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "horizontal"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
+      "por": "manual"
+    }
+  },
+  {
     "slug": "gta6-corte-ricfazeres",
     "data": "2026-11-20",
     "horario": "19:00",
@@ -10640,6 +10694,33 @@
       "motivo": "quadros conferidos à mão em 19/11 (cortado antes do trecho sem camisa)",
       "por": "revisão manual",
       "em": "2026-11-19T15:27:21.189609+00:00"
+    }
+  },
+  {
+    "slug": "gta6-sai-em-48-horas-video-longo",
+    "data": "2026-11-21",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Vídeo longo horizontal",
+    "legenda": "GTA 6 sai em MENOS de 48 horas: faça isso antes de jogar\n\nGTA 6 chega na quinta, 19 de novembro, e falta menos de 48 horas. Neste vídeo: o horário exato de lançamento no Brasil, por que a Nova Zelândia joga antes, como fazer o pré-download, plataformas, edições e o que a Rockstar ainda não contou.\n\n#gta6 #gtavi #pixelzada",
+    "tentativas": 0,
+    "fixo": true,
+    "origem": {
+      "motor": false,
+      "pedido_diego": "19/11: postar os outros 3 vídeos longos do YouTube no Instagram, 1 por dia às 19h",
+      "perfil": "pixelzada",
+      "titulo": "youtube"
+    },
+    "etiquetas": {
+      "formato": "video-longo",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "horizontal"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
+      "por": "manual"
     }
   }
 ]
