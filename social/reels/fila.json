@@ -8251,7 +8251,7 @@
     "slug": "gta6-corte-jizonn",
     "data": "2026-11-19",
     "horario": "19:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 jizoNN jogando GTA 6\n📺 twitch.tv/jizonn\n\n#gta6 #gtavi #jizonn #pixelzada",
     "tentativas": 0,
@@ -8274,6 +8274,19 @@
       "motivo": "streamer de regata e gameplay de jogo com personagem vestido",
       "por": "imagem",
       "em": "2026-11-19T18:14:34-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T19:31:37-03:00",
+      "media_id": "18143125849622781",
+      "permalink": "https://www.instagram.com/reel/Df8KOb9CSph/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
