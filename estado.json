@@ -7,66 +7,74 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-19T00:28-03:00",
+ "atualizado": "2026-11-19T10:07-03:00",
  "hoje": {
   "data": "2026-11-19",
   "reels": {
    "meta": 48,
-   "publicados": 1,
-   "deviam_ter_saido": 0,
+   "publicados": 21,
+   "deviam_ter_saido": 20,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 1,
+   "atrasados": [
+    "09:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 51,
+  "agendados": 64,
   "meta_por_dia": 48,
-  "dias_de_reserva": 1.1,
+  "dias_de_reserva": 1.3,
   "grade_cheia_ate": null,
-  "sem_revisao": 32,
+  "sem_revisao": 46,
   "por_dia": [
    {
     "data": "2026-11-19",
-    "agendados": 47,
+    "agendados": 27,
     "meta": 48
    },
    {
     "data": "2026-11-20",
-    "agendados": 4,
+    "agendados": 37,
     "meta": 48
    }
   ]
  },
  "site": {
-  "total": 240,
-  "hoje": 0,
+  "total": 243,
+  "hoje": 3,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "The Game Awards 2026: Crimson Desert, Marathon e Fire Emblem estão entre os jogos que fãs dizem ter sido esquecidos",
-   "url": "https://pixelzada.com.br/pt/the-game-awards-2026-jogos-esquecidos-crimson-desert-marathon-fire-emblem-e-gears/",
-   "em": "2026-11-18T19:49:10-03:00"
+   "titulo": "Além das missões: academia, minigolfe, mergulho, luta no quintal e as outras atividades de GTA 6",
+   "url": "https://pixelzada.com.br/pt/gta-6-atividades-paralelas-academia-minigolfe-mergulho-luta-no-quintal-e-mais/",
+   "em": "2026-11-19T09:47:27-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "18/11/2026 23:58",
+  "ultima_coleta": "19/11/2026 08:31",
   "perfis_lidos": 38,
   "perfis_com_falha": 2
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"ABKV5L9-WYKLPmc3qttqRNo\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AsA-ya7Rg9EB1VAD_cILKph\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 6,
-  "sem_resolver": 1,
+  "falhas_24h": 3,
+  "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-19T06:06:50-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44493419034",
+    "resolvido": true
+   },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-18T21:01:26-03:00",
@@ -78,30 +86,6 @@
     "em": "2026-11-18T20:28:30-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44421047789",
     "resolvido": true
-   },
-   {
-    "workflow": "YouTube - enviar vídeo longo (API)",
-    "em": "2026-11-18T20:03:33-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44417339141",
-    "resolvido": false
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-18T19:23:52-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44411177519",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-18T19:00:56-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44407351340",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-18T15:29:26-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44370264628",
-    "resolvido": true
    }
   ]
  },
@@ -110,7 +94,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 100
+   "youtube": 101
   },
   "erros_hoje": 0
  },
@@ -171,11 +155,11 @@
   },
   {
    "data": "2026-11-19",
-   "reels": 1,
+   "reels": 21,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
+   "materias": 3,
    "views_reels": null
   }
  ],
@@ -227,12 +211,12 @@
  ],
  "alertas": [
   {
-   "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,1 dia(s) de reserva"
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00"
   },
   {
-   "nivel": "vermelho",
-   "texto": "1 falha(s) no GitHub ainda sem resolver"
+   "nivel": "amarelo",
+   "texto": "Fila de Reels com só 1,3 dia(s) de reserva"
   },
   {
    "nivel": "amarelo",
