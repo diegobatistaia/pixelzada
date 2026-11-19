@@ -8,5 +8,11 @@
   "legenda": "A GENTE QUASE TEVE UM TRECO QUANDO ENCONTROU ISSO AQUI EM #GTA6 MAS POR SORTE #MENTOS TAVA LÁ PRA DAR UM REFRESH! ❄️🚨⁠ ⁠ E aí, já deu o seu REFRESH MONSTRO com ",
   "legenda_completa": "A GENTE QUASE TEVE UM TRECO QUANDO ENCONTROU ISSO AQUI EM #GTA6 MAS POR SORTE #MENTOS TAVA LÁ PRA DAR UM REFRESH! ❄️🚨⁠ ⁠ E aí, já deu o seu REFRESH MONSTRO com Mentos hoje?",
   "horario_sugerido": "12:00",
-  "via": "yt-dlp"
+  "via": "yt-dlp",
+  "checagem": {
+    "risco": "desconhecido",
+    "motivo": "GitHub Models: resposta inesperada (4 bytes): 'OK\\r\\n'",
+    "por": "imagem",
+    "em": "2026-11-19T19:40:30-03:00"
+  }
 }
