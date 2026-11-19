@@ -7666,7 +7666,7 @@
     "slug": "gta6-corte-rodil-3",
     "data": "2026-11-19",
     "horario": "12:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Rodil jogando GTA 6\n📺 twitch.tv/rodil\n\n#gta6 #gtavi #rodil #pixelzada",
     "tentativas": 0,
@@ -7689,6 +7689,19 @@
       "motivo": "streamer vestido e gameplay de jogo mostrando mapa e moto",
       "por": "imagem",
       "em": "2026-11-19T10:13:47-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T12:36:09-03:00",
+      "media_id": "18088051454319985",
+      "permalink": "https://www.instagram.com/reel/Df7aruBiKoB/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
