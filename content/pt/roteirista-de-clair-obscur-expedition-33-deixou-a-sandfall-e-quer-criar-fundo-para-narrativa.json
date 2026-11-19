@@ -122,7 +122,10 @@
     "query": "Clair Obscur Expedition 33",
     "alt": "Imagem de Clair Obscur: Expedition 33 divulgada pela PC Gamer",
     "url": "https://cdn.mos.cms.futurecdn.net/i5cCoWSMAAZPRHWSpGZxhM-2560-80.jpg",
-    "credit": "Imagem: PC Gamer"
+    "credit": "Imagem: PC Gamer",
+    "path": "/assets/img/roteirista-de-clair-obscur-expedition-33-3d4c0afe.jpg",
+    "source_url": "",
+    "foco": "47% 27%"
   },
   "sources": [
     {
@@ -138,5 +141,7 @@
       "title": "Clair Obscur: Expedition 33 lead writer left Sandfall Interactive last summer"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T20:41:57+00:00",
+  "updated_at": "2026-11-19T20:41:57+00:00"
 }
