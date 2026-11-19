@@ -7456,7 +7456,7 @@
     "slug": "gta6-corte-bisteconee-3",
     "data": "2026-11-19",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
     "tentativas": 0,
@@ -7479,6 +7479,19 @@
       "motivo": "streamer vestido com fones e gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-19T09:14:40-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T10:02:35-03:00",
+      "media_id": "18132090187882447",
+      "permalink": "https://www.instagram.com/reel/Df7JG68jnry/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
