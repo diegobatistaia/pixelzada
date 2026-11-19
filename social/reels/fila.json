@@ -7876,7 +7876,7 @@
     "slug": "gta6-corte-dcosta-6",
     "data": "2026-11-19",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Dcosta jogando GTA 6\n📺 twitch.tv/dcosta\n\n#gta6 #gtavi #dcosta #pixelzada",
     "tentativas": 0,
@@ -7899,6 +7899,19 @@
       "motivo": "Homem sem camisa em cena de luta em jogo, mas ocupando espaço moderado e sem foco sexual.",
       "por": "imagem",
       "em": "2026-11-19T14:10:29-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T15:01:11-03:00",
+      "media_id": "17918137737504888",
+      "permalink": "https://www.instagram.com/reel/Df7rR3VAH9v/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
