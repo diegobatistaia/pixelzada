@@ -7330,7 +7330,7 @@
     "slug": "gta6-corte-laniisu",
     "data": "2026-11-19",
     "horario": "08:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Laniisu jogando GTA 6\n📺 twitch.tv/laniisu\n\n#gta6 #gtavi #laniisu #pixelzada",
     "tentativas": 0,
@@ -7353,6 +7353,19 @@
       "motivo": "streamer vestida e gameplay de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-19T07:43:21-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T08:31:38-03:00",
+      "media_id": "18072149729685346",
+      "permalink": "https://www.instagram.com/reel/Df6-vgrgvHq/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
