@@ -393,5 +393,27 @@
     "motivo": "streamer sem camisa ocupando boa parte do quadro",
     "por": "imagem",
     "em": "2026-11-19T07:14:30-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "92-gta6-twitch-italiazeta.mp4",
+    "link": "https://www.twitch.tv/italiazeta/clip/LuckyEagerManateeKlappa-WKQTiVTPE2wObJ8C",
+    "perfil": "twitch/Italiazeta",
+    "legenda": "aviao 1",
+    "risco": "medio",
+    "motivo": "streamer com torso parcialmente exposto em close ocupando vários quadros",
+    "por": "imagem",
+    "em": "2026-11-19T08:23:36-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "93-gta6-twitch-italiazeta.mp4",
+    "link": "https://www.twitch.tv/italiazeta/clip/VivaciousPopularRaisinCorgiDerp-g-xOYhOy_KleWr6V",
+    "perfil": "twitch/Italiazeta",
+    "legenda": "jason",
+    "risco": "alto",
+    "motivo": "presenca de corpo humano totalmente nu em multiplos quadros",
+    "por": "imagem",
+    "em": "2026-11-19T08:23:39-03:00"
   }
 ]
