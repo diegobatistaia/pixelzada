@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T22:42:05+00:00",
+  "generated_at": "2026-11-19T00:41:31+00:00",
   "posts_per_language_today": 1,
   "daily_cap_per_language": 10,
-  "already_written_today": 8,
+  "already_written_today": 9,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -48,6 +48,7 @@
       "owners": [
         "future-plc",
         "gameblast",
+        "insider-gaming",
         "keleops",
         "microsoft",
         "sony",
@@ -78,7 +79,8 @@
         "c75a6da86d7e7576",
         "551830d2140965e2",
         "91dee69ee514af10",
-        "942f549e87ddac5f"
+        "942f549e87ddac5f",
+        "e5e5fa9069f1b43a"
       ],
       "sources": [
         {
@@ -198,8 +200,8 @@
           "title": "Análise: Grand Theft Auto VI faz jus a toda espera trazendo um mundo vivo, realista e impressionante",
           "published_at": "2026-11-18T11:00:00+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "Depois de 13 anos de espera, retornamos a Vice City com excelentes protagonistas e milhares de coisas a se fazer no mapa.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcVBzd1RBrWcJd2ybkuSbldlS7ks_lOVZH-4cOLwfal5Nt0a7ohhov3-Us4mxK-iVJy0eZTkYio8rA_hvU7TjwZro7DklQ_N-trXaA7hHw18k_OsUVeMj7AKo-SSA_6km70T43ulxvoyS5WJ64phOQ_fDptbnde26DNkfdLMV8D_DTp5nhllndED3X6ZQ/w1200-h630-p-k-no-nu/Jason_Lucia_Beach_With_Logos_landscape.jpg"
         },
         {
           "name": "GameBlast",
@@ -248,7 +250,7 @@
           "title": "Grand Theft Auto 6 Performance Is Mostly Stable, Except On Xbox Series S Where It Can Hit Sub-20FPS",
           "published_at": "2026-11-18T18:00:41+00:00",
           "kind": "press",
-          "text": "With Grand Theft Auto 6 âs world being as big as it is and current consoles being six years old, thereâs naturally a bit of worry about how the game performs on PS5 and Xbox Series X/S. Our reviewer played the game on a PS5 Pro, considered to be the most powerful console on the market right now, and said that while it runs at 30 frames-per-second most of the time, there were still some noticeable frame drops in crowded areas. But if you havenât bought a PS5 Pro, what can you expect from GTA 6 âs performance? Well, the folks over at Digital Foundry have done what they do best and created some lengthy technical breakdowns of the game, including stress testing it in explosive situations. According to their video, the PS5 Pro tends to hold a pretty solid 30fps, unless you go around making a mess by blowing up a lot of cars at once; in those moments Digital Foundry saw the game dip to around 24fps at its lowest. The base PS5, however, seems to struggle to maintain 30fps in the best of cases, and if you decide to cause a lot of on-screen destruction, those dips are actually sustained until you leave an area.Â On the Xbox side, the Xbox Series X seems to share the same relative stability as the PS5 Pro, with the same frame drops during car chases, crowded scenes, or firefights when things get busier on screen. The big question is how the Xbox Series S, which was originally released in 2020 as a cheaper, lower-powered alternative to the bougie, more expensive consoles of the year, handles GTA 6 . According to Digital Foundry , there are some details that are less prevalent or rendered with lower-res textures, and the resolution is lower, coming in at 720p compared to the 1440p of Series X. The DF video has a number of comparison shots demonstrating how a lot of small details have been downgraded on Series S, but the real difference is that the framerate is, unsurprisingly, struggling the most on the less powerful Xbox. Digital Foundry reports that while 30fps is the target, even the most “typical” play can affect framerate, with standard combat encounters and car chases dropping it to around 25 and the more demanding carnage bringing it down to 20. There’s even a few seconds in the video where it gets down to 18 and 19fps during an explosive shootout. Ultimately, if youâre hoping for the smoothest possible experience, the PS5 Pro and Xbox Series X are the unsurprising winners here. A PC version of the game is rumored to launch sometime next year , and I imagine thatâs where folks with high-end builds are going to be able to get smoother, 60fps framerates as Rockstar apparently has no plans to add a Performance Mode to GTA6 on consoles. If youâre running a Series S, maybe try not to cause too much mayhem along the way for best results.Â Though the Xbox Series S provided a more affordable way for people to jump into the next generation of gaming consoles in 2020, as time has gone on and games have gotten more demanding on the hardware, developers have expressed frustration with having to make their games compatible with the device. Tekken director Katsuhiro Harada described it as akin to âhaving to do extra work for a slightly weaker child.â Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The animals in Vice City can be sweet or vicious depending on where you go Just know I won't spoil the ending or any major events that happen We've got tips about managing clothes, earning money, boosting your stamina, how to fix up your car, and much more I've never been so impressed by a person entering a car in a video game before",
+          "text": "With Grand Theft Auto 6 âs world being as big as it is and current consoles being six years old, thereâs naturally a bit of worry about how the game performs on PS5 and Xbox Series X/S. Our reviewer played the game on a PS5 Pro, considered to be the most powerful console on the market right now, and said that while it runs at 30 frames-per-second most of the time, there were still some noticeable frame drops in crowded areas. But if you havenât bought a PS5 Pro, what can you expect from GTA 6 âs performance? Well, the folks over at Digital Foundry have done what they do best and created some lengthy technical breakdowns of the game, including stress testing it in explosive situations. According to their video, the PS5 Pro tends to hold a pretty solid 30fps, unless you go around making a mess by blowing up a lot of cars at once; in those moments Digital Foundry saw the game dip to around 24fps at its lowest. The base PS5, however, seems to struggle to maintain 30fps in the best of cases, and if you decide to cause a lot of on-screen destruction, those dips are actually sustained until you leave an area.Â On the Xbox side, the Xbox Series X seems to share the same relative stability as the PS5 Pro, with the same frame drops during car chases, crowded scenes, or firefights when things get busier on screen. The big question is how the Xbox Series S, which was originally released in 2020 as a cheaper, lower-powered alternative to the bougie, more expensive consoles of the year, handles GTA 6 . According to Digital Foundry , there are some details that are less prevalent or rendered with lower-res textures, and the resolution is lower, coming in at 720p compared to the 1440p of Series X. The DF video has a number of comparison shots demonstrating how a lot of small details have been downgraded on Series S, but the real difference is that the framerate is, unsurprisingly, struggling the most on the less powerful Xbox. Digital Foundry reports that while 30fps is the target, even the most “typical” play can affect framerate, with standard combat encounters and car chases dropping it to around 25 and the more demanding carnage bringing it down to 20. There’s even a few seconds in the video where it gets down to 18 and 19fps during an explosive shootout. Ultimately, if youâre hoping for the smoothest possible experience, the PS5 Pro and Xbox Series X are the unsurprising winners here. A PC version of the game is rumored to launch sometime next year , and I imagine thatâs where folks with high-end builds are going to be able to get smoother, 60fps framerates as Rockstar apparently has no plans to add a Performance Mode to GTA6 on consoles. If youâre running a Series S, maybe try not to cause too much mayhem along the way for best results.Â Though the Xbox Series S provided a more affordable way for people to jump into the next generation of gaming consoles in 2020, as time has gone on and games have gotten more demanding on the hardware, developers have expressed frustration with having to make their games compatible with the device. Tekken director Katsuhiro Harada described it as akin to âhaving to do extra work for a slightly weaker child.â Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Rockstar says it only included features in the game that complimented its story of 'lovers on the run' The animals in Vice City can be sweet or vicious depending on where you go Just know I won't spoil the ending or any major events that happen We've got tips about managing clothes, earning money, boosting your stamina, how to fix up your car, and much more",
           "image": "https://kotaku.com/app/uploads/2026/07/gta-pc-5.jpg"
         },
         {
@@ -278,70 +280,18 @@
           "title": "43 Soldiers Re-Enlisted In The Army In Exchange For Time Off To Play Grand Theft Auto 6: ‘I’m All About The Heist’",
           "published_at": "2026-11-18T21:30:03+00:00",
           "kind": "press",
-          "text": "Back in August, an Army Battalion commander circulated an unusual memo promising members of the 9th Brigade Engineer Battalion some special time off to play Grand Theft Auto 6 if they re-enlisted. In addition to the existing incentives, soldiers who signed up for more years of service would receive a four-day vacation to play Rockstar’s newest open-world game. It turns out that 43 people took the Army up on the offer. They’ll now get Thursday, November 19, through Sunday, November 22, off to play GTA 6 , Task and Purpose reports . With a minimum story campaign length of around 50 hours, that’s just enough to finish the game if they race, though the full experience will take players way longer than that. In exchange for the brief reprieve selling drugs, robbing stores, and planning date nights in Vice City, the 43 people agreed to between two and six additional years of military service. âIâm all campaign. Iâm all about the heist,â Sgt. Jamire Smith, a combat engineer who pledged six more years in exchange for the long weekend, said. âI think I have a good 24 hours to waste on it.” He was planning to re-enlist anyway, and will get a $60,000 signing bonus for doing so, but the game time is a fun extra. âI was towards my final stages of getting out,” he said. Smith added. “The battalion helped me navigate through that and they showed me that thereâs still a need for me, and that I am still a clear and valued asset to the team.” The GTA incentive was pitched to the battalion commander, Lieutenant Colonel Ryan Hodgson, by Staff Sgt. Brittany Wolfer, a gamer who almost missed out on GTA 5 back in 2013. “I actually went to basic training the week that GTA 5 came out,â Wolfer said. âThis is kind of like a weird arc in my life where itâs full circle to the new one coming out.â The GTA 6 weekend wasn’t “supposed to be the deciding factor,â she said, but it caught people’s attention. “There is always going to be a disconnect between your senior command and your lowest soldier. So how do you bridge that gap to where that lower soldier still knows that their battalion commander or their senior leadership cares about them and sees what theyâre interested in?” Hodgson wasn’t following the pre-release coverage around GTA 6 , but he was familiar with the franchise. As Wolfer put it, âI brought it to [Hodgson] and heâs a little bit older, but he did play GTA 2 at some point, so he was like, âYeah Iâm down for it.'” Donât miss the latest reviews, news and tips. Sign up for our free newsletter. We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Just know I won't spoil the ending or any major events that happen I always play GTA games on PC, but I don't know if I possess the strength of mind to hold out for this one We've got tips about managing clothes, earning money, boosting your stamina, how to fix up your car, and much more",
+          "text": "Back in August, an Army Battalion commander circulated an unusual memo promising members of the 9th Brigade Engineer Battalion some special time off to play Grand Theft Auto 6 if they re-enlisted. In addition to the existing incentives, soldiers who signed up for more years of service would receive a four-day vacation to play Rockstar’s newest open-world game. It turns out that 43 people took the Army up on the offer. They’ll now get Thursday, November 19, through Sunday, November 22, off to play GTA 6 , Task and Purpose reports . With a minimum story campaign length of around 50 hours, that’s just enough to finish the game if they race, though the full experience will take players way longer than that. In exchange for the brief reprieve selling drugs, robbing stores, and planning date nights in Vice City, the 43 people agreed to between two and six additional years of military service. âIâm all campaign. Iâm all about the heist,â Sgt. Jamire Smith, a combat engineer who pledged six more years in exchange for the long weekend, said. âI think I have a good 24 hours to waste on it.” He was planning to re-enlist anyway, and will get a $60,000 signing bonus for doing so, but the game time is a fun extra. âI was towards my final stages of getting out,” he said. Smith added. “The battalion helped me navigate through that and they showed me that thereâs still a need for me, and that I am still a clear and valued asset to the team.” The GTA incentive was pitched to the battalion commander, Lieutenant Colonel Ryan Hodgson, by Staff Sgt. Brittany Wolfer, a gamer who almost missed out on GTA 5 back in 2013. “I actually went to basic training the week that GTA 5 came out,â Wolfer said. âThis is kind of like a weird arc in my life where itâs full circle to the new one coming out.â The GTA 6 weekend wasn’t “supposed to be the deciding factor,â she said, but it caught people’s attention. “There is always going to be a disconnect between your senior command and your lowest soldier. So how do you bridge that gap to where that lower soldier still knows that their battalion commander or their senior leadership cares about them and sees what theyâre interested in?” Hodgson wasn’t following the pre-release coverage around GTA 6 , but he was familiar with the franchise. As Wolfer put it, âI brought it to [Hodgson] and heâs a little bit older, but he did play GTA 2 at some point, so he was like, âYeah Iâm down for it.'” Donât miss the latest reviews, news and tips. Sign up for our free newsletter. We're tracking all of the news, discoveries, and conversations as Rockstar's new open-world blockbuster goes live Rockstar says it only included features in the game that complimented its story of 'lovers on the run' Just know I won't spoil the ending or any major events that happen I always play GTA games on PC, but I don't know if I possess the strength of mind to hold out for this one",
           "image": "https://kotaku.com/app/uploads/2026/11/jason-gta-6.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "423326524fff8382",
-      "title": "Indicados do The Game Awards 2026: jogue Gears of War: E-day, GTA VI e mais no XBOX",
-      "summary": "The post Indicados do The Game Awards 2026: jogue Gears of War: E-day, GTA VI e mais no XBOX appeared first on Xbox Wire em Português .",
-      "owners": [
-        "future-plc",
-        "meups",
-        "microsoft",
-        "ziff-davis"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "5b27f81639508a8d",
-        "5b65ccb2d95de2a4",
-        "2da1af97bb4f224a",
-        "a09a4dcb3c21a387"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/",
-          "title": "Indicados do The Game Awards 2026: jogue Gears of War: E-day, GTA VI e mais no XBOX",
-          "published_at": "2026-11-18T13:44:21+00:00",
-          "kind": "primary",
-          "text": "Há 25 anos, XBOX mantém o foco em criar games que os jogadores adoram, e nosso ano de aniversário tem sido um exemplo especialmente marcante disso. De Gears of War: E-Day , Forza Horizon 6 e Call of Duty: Modern Warfare 4 a jogos muito aguardados como Fable , os jogadores têm mais jogos incríveis para jogar no XBOX do que nunca. Nesta terça-feira, 17 de novembro, o The Game Awards anunciou a lista de indicados deste ano, e os títulos das equipes criativas de XBOX conquistaram oito indicações em diversas categorias. Além dos jogos, a série “Fallout”, do Prime Video, foi indicada a Melhor Adaptação. Agradecemos a todas as equipes que levaram esses jogos incríveis aos jogadores. A votação já está aberta no site oficial do The Game Awards. Acompanhe a premiação em 10 de dezembro para descobrir se seus jogos favoritos de 2026 vão levar um prêmio para casa. Nossos parceiros de publicação também receberam indicações em diversas categorias, com muitos jogos disponíveis para jogar hoje no Game Pass. 007 First Light e CONTROL Resonant estão indicados a Jogo do Ano e podem ser jogados em diferentes dispositivos com o XBOX Play Anywhere. Assinantes do Game Pass podem jogar títulos indicados como Gears of War: E-Day , Forza Horizon 6 , No Man’s Sky e muito mais. Confira abaixo a lista completa de indicados disponíveis para jogar no XBOX. Parabéns aos incríveis indicados deste ano! LEGO Batman: O Legado do Cavaleiro das Trevas Monster Hunter Stories 3: Twisted Reflection",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/TGA2026-017cd9fddc03570adbd7.jpg"
         },
         {
-          "name": "GamesIndustry.biz",
-          "owner": "ziff-davis",
-          "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
-          "title": "GTA 6 leads The Game Awards 2026 with eight nominations",
-          "published_at": "2026-11-18T09:12:10+00:00",
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/how-to-take-drugs-in-gta-6/",
+          "title": "How to Take Drugs in Grand Theft Auto 6? Where to Find Drugs, Explained",
+          "published_at": "2026-11-18T22:53:08+00:00",
           "kind": "press",
-          "text": "Rockstar's upcoming title was recognised for Best Game Direction, Art Direction, Narrative, Score and Music, Audio Design, Performance, and Action/Adventure Grand Theft Auto 6 received eight nominations for The Game Awards 2026, including Game of the Year. The highly anticipated game, launching tomorrow (November 19), was also nominated for Best Game Direction, Best Narrative, Best Art Direction, Best Score and Music, Best Audio Design, Best Performance (Manni L. Perez as Lucia Caminos), and Best Action/Adventure. Remedy's Control Resonant and Capcom's Resident Evil Requiem each earned six nominations, including Game of the Year. Nintendo's The Legend of Zelda: Ocarina of Time, IO Interactive's 007 First Light, and House House's Big Walk were each nominated in four categories. Zelda and First Light were also recognised for Game of the Year. Nintendo led all publishers with 12 nominations, followed by Capcom with 11, and Annapurna Interactive and PlayStation with nine each. This year, 112 games, individuals, and teams were nominated, selected by \"a global jury of over 160 media publications and creator outlets.\" The Game Awards 2026 will take place on Thursday, December 10 at the Peacock Theatre in Los Angeles and will be broadcast on 40 digital streaming platforms, including Prime Video, Disney+, Twitch, and YouTube. At last year's ceremony, Sandfall Interactive's Clair Obscur: Expedition 33 won nine awards , including Game of the Year, after receiving 12 nominations . Here's the full list of nominees for The Game Awards 2026:",
-          "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-14.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/gaming-industry/events-conferences/we-got-8-game-awards-nominations-for-gta-6-before-gta-6/",
-          "title": "We got 8 Game Awards nominations for GTA 6 before GTA 6",
-          "published_at": "2026-11-17T18:35:38+00:00",
-          "kind": "press",
-          "text": "The Game Awards says its judges \"may be provided with advance or pre-release access to games for critical evaluation.\" The Game Awards has announced its nominations slate for 2026, revealing that Grand Theft Auto 6 is this year's most-nominated game. Rockstar's hotly anticipated crime epic has secured eight nominations including Game of the Year, for which it'll be competing with games including Resident Evil Requiem, Control Resonant, and The Legend of Zelda: Ocarina of Time. Now you—and the countless other people preparing to argue about this online—may have noticed that GTA 6 has been nominated for a number of awards despite the fact that it hasn't been released yet . In a press release, The Game Awards notes that jurors were in some cases provided with early access to enable awards consideration. \"The nominees for The Game Awards are selected by a global jury of over 160 media publications and creator outlets around the world, who may be provided with advance or pre-release access to games for critical evaluation,\" The Game Awards said. In a Variety interview last week, Game Awards host and co-creator Geoff Keighley refuted speculation that TGA 2026 eligibility deadlines had been sculpted to allow GTA 6 to have a shot for this year's nominations. \"There was a thing a few weeks ago where everyone thought that we had changed our dates to accommodate GTA, and it's like, no, actually our dates have been very set every year. It's the same calendar that we have,\" Keighley said. \"I don't know this, but I'm sure some of these companies consider that when they're looking at their release calendars.\" You can view and vote on the Game Awards nominees at the TGA website —but it's been crashing consistently since the nominees were announced, so we've collected all the nominees below. The Game Awards airs at 7:30 pm ET / 4:30 pm PT on Thursday, December 12 on Twitch and YouTube . From the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews Lincoln has been writing about games for 12 years—unless you include the essays about procedural storytelling in Dwarf Fortress he convinced his college professors to accept. Leveraging the brainworms from a youth spent in World of Warcraft to write for sites like Waypoint, Polygon, and Fanbyte, Lincoln spent three years freelancing for PC Gamer before joining on as a full-time News Writer in 2024, bringing an expertise in Caves of Qud bird diplomacy, getting sons killed in Crusader Kings, and hitting dinosaurs with hammers in Monster Hunter. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/bcmYVV5Dhrt4d4a2BsvB3V-1920-80.jpg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/spyro-a-realm-beyond-deve-aparecer-the-game-awards-26/",
-          "title": "Spyro: A Realm Beyond deve aparecer no The Game Awards 2026",
-          "published_at": "2026-11-17T19:27:48+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/Spyro-A-Realm-Reyond.jpg"
+          "text": "We’ve known for quite a while that we’ll be able to consume drugs in Grand Theft Auto 6. It was one of the elements we learned about that firmly established it as one of the most mature GTA games ever made. It mirrors Red Dead in terms of live consumption, but from what we know, you can consume things like cocaine at the press of a button. But how exactly do you do that? How do you take drugs in GTA 6? And how do you get more drugs when you’ve run out? In this guide, we’ll explain how it all works and answer those questions. If you want to find your fix in GTA 6, you’ll be happy to know it’s not so hard to get your hands on some drugs. Like many other things, you’ll find narcotics on downed enemies. For instance, you might eliminate someone to find a baggie of cocaine in their pocket. This is a relatively simple way to find drugs in GTA 6. Alternatively, you might stumble upon some pills or powder when digging through a mission location, just like you might find healing items, ammunition, or food. That’s not all, though. This game is bursting with dynamic events, and one that we’ve seen saw a plane crash nearby while we were exploring. On board was a stash of cocaine packages, and we racked up around $10,000 after taking and selling the stash to Brian, your ‘boss’, whom you meet very early in the game. These events are very random and unpredictable, just to keep the world as emergent as possible, so you might see something immediately, or you might never see it. That’s the beauty of this game. If we’re talking about less hard substances, you can buy cigarettes and alcohol at liquor, convenience, and grocery stores. To consume drugs and break that straight-edge lifestyle in GTA 6, you’ll need to do what you might have done in Red Dead Redemption 2, holding LB/L1 to open your loadout, switching to the items tab, and locating the drugs and smokes field in the upper left of the wheel. From there, you can scroll through what’s available. You might have cigarettes, cigars, bags of cocaine, or something else entirely. Once you’re satisfied with your pick, select the item to consume it. You’ll get buffs and debuffs from whatever you consume. For instance, cocaine overcharges your stamina and aggression factor, but it negates your overall health bar, so you mix the good with the bad. If you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub . It contains everything you could need to learn about the most important game release of all time! Also, you can buy Grand Theft Auto 6 here , if you haven’t already! Let us know on the Insider Gaming Discord server if you’re excited about Grand Theft Auto 6. For more Insider Gaming coverage, check out all the GTA 6 issues we’re aware of , and don’t forget to sign up for our free weekly newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Port_Gellhorn_03-scaled.jpg"
         }
       ]
     },
@@ -407,50 +357,100 @@
       ]
     },
     {
-      "story_id": "3d231e21b4b66a4c",
-      "title": "Crimson Desert snubs at The Game Awards are \"a terrible shame,\" Palworld lead says",
-      "summary": "Crimson Desert was only nominated for one award",
+      "story_id": "ee3b5a92162d283a",
+      "title": "KFC Australia Is Holding a Fake Funeral for Ann Alibi So You Can Take the Day Off for GTA 6",
+      "summary": "When famous people die, they break attendance records for funerals all the time. I have a feeling the upcoming funeral for the definitely real Ann Alibi might blow those attendance numbers out of the water though.",
       "owners": [
         "future-plc",
-        "gameblast",
-        "keleops"
+        "vgc",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "a408f7c6d2e24992",
-        "47cdd2244eccf923",
-        "553697957a56cd0f"
+        "12b29d26878e8888",
+        "b43d51d3418c5a43",
+        "2cd7bbfa7ca613e8"
       ],
       "sources": [
         {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/kfc-australia-fake-funeral-gta-6",
+          "title": "KFC Australia Is Holding a Fake Funeral for Ann Alibi So You Can Take the Day Off for GTA 6",
+          "published_at": "2026-11-18T11:25:38+00:00",
+          "kind": "press",
+          "text": "When famous people die, they break attendance records for funerals all the time. I have a feeling the upcoming funeral for the definitely real Ann Alibi might blow those attendance numbers out of the water though. KFC Australia is hosting a fake funeral so players can book work off for GTA 6 . Or you could actually attend the funeral and get some free chicken — it depends what your priorities are. “Ann Alibi was always there for us. Now you can be there for her,” the company said in an Instagram post . “Join us Thursday 19 November for a funeral at KFC ROBINA, QLD, streamed live on Instagram from 11am AEDT. Any resemblance to a certain launch date is purely coincidental.” The post is currently at 5.5k likes, but if it reaches 6k the company will offer free delivery throughout Australia for GTA 6 launch day. If you can’t get to Australia for a fake funeral and some free chicken, KFC plans to livestream the event. The service includes \"a hearse, coffin, floral tributes, a book of condolences, an order of service and even a heartfelt eulogy delivered by a surprise guest.\" According to statistics, GTA 6 has already caused a 17% spike in time off requests at work this week as hype hits fever pitch for the game’s long-awaited launch. Some companies have already got ahead of things. Palworld developer Pocketpair has given employees five days off to work their way through GTA 6’s open-world Florida. If you want to keep up with all the news, follow along with our GTA 6 live blog , where we’ll be dropping all the news, collating all the buzz, and keeping everyone in that last-day-of-school vibe. Kirk McKeand is a Contributor on IGN News. Find him on Twitter @MckKirk",
+          "image": "https://assets-prd.ignimgs.com/2026/11/18/kfc-1795001065563.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/can-you-replay-missions-in-gta-6/",
+          "title": "Can you replay missions in GTA 6?",
+          "published_at": "2026-11-18T23:50:39+00:00",
+          "kind": "press",
+          "text": "Can you replay any of the missions in GTA 6? Wondering if you can replay missions in GTA 6? Past GTA games have allowed you to replay missions, so now that GTA 6 is out,Â players are wondering if there’s any way to replay what they’ve already played through. In this guide, we’ll explain if you can replay missions in GTA 6, and we’ll let you know exactly what parts of the game you can replay forever. If you’re looking for more comprehensive GTA 6 guides, you can check out our GTA 6 guides hub , which includes walkthroughs, beginner’s tips and much more. Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. We don’t know if Rockstar will eventually add this feature, but we believe that due to GTA 6’s main missions featuring a lot of different choices that can impact the wider world, including which characters live and die, they’ve decided to not allow players to replay the missions so that the decisions are more impactful. There are some activities in GTA 6 that you can repeat, such as the racing, stunts, pool, and other minigame style missions, but the actual story missions can’t be repeated. Another reason that replaying story missions was removed is likely tied to the medal system from GTA 5 being removed. There are no side objectives on a mission that players need to complete in order to earn a gold medal.Â How you play out the missions is totally up to you. One element of GTA 6’s gameplay that can be repeated is the in-game robberies. These include shops, which will yield a small amount of cashs. The larger bank robberies, which you’ll get access to over the course of the story, can also be repeated. If you’ve recently robbed somewhere, you’ll see on the map that it’s been greyed out. That means that time needs to pass before it is reset, and you can rob it again.",
+          "image": "https://www.videogameschronicle.com/files/2025/05/Lucia_Caminos_06.jpg"
+        },
+        {
           "name": "GamesRadar",
           "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/open-world/crimson-desert-snubs-at-the-game-awards-are-a-terrible-shame-palworld-lead-says-to-say-im-disappointed-would-be-an-understatement/",
-          "title": "Crimson Desert snubs at The Game Awards are \"a terrible shame,\" Palworld lead says",
-          "published_at": "2026-11-18T12:31:59+00:00",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-replay-missions-how-to/",
+          "title": "Can you replay missions in GTA 6?",
+          "published_at": "2026-11-19T00:00:00+00:00",
           "kind": "press",
-          "text": "Crimson Desert was only nominated for one award The nominees have been revealed for The Game Awards 2026, and Palworld lead John \"Bucky\" Buckley is amongst those disappointed that Crimson Desert is up for just one award – and it's not Game of the Year. This year's GOTY nominees are an interesting bunch, not least because GTA 6 is one of the options – announced yesterday, before the game's launch and even before the GTA 6 reviews went live. Joining Rockstar's game in the running are The Legend of Zelda: Ocarina of Time remake, Resident Evil Requiem, Control: Resonant, 007 First Light, and Phantom Blade Zero. Notably, no Crimson Desert. In fact, the only category Pearl Abyss's game has been nominated for is Best Community Support – no doubt a result of the devs' constant updates that have added improvements and new features since launch. But alas, Pocketpair's head of publishing and communications isn't best pleased. \"To nominate Crimson Desert for nothing other than best community support? Not even best RPG or best adventure?\" he asks. \"To say I'm disappointed would be an understatement. What a shame. What a terrible shame.\" And he's not the only one. Following the nomination announcements, many Crimson Desert fans took to social media to express their disappointment. \"The disrespect is insane. GTA 6 should not be on this list. WHERE THE FUCK IS CRIMSON DESERT!?\" one responds , looking at the selection of GOTY nominees. \"Crimson Desert Wins PC Game of the Year at the Joystick Awards and doesn't get a GOTY nomination at The Game Awards... The amount of disrespect this game has and continues to get is insane,\" says another , as another writes : \"The lack of nominations in either the Best RPG or Best Action/Adventure categories is genuinely baffling.\" Bucky's response here is no surprise – he's been championing Crimson Desert since its launch earlier this year, recently calling it \"one of the most technically ambitious games we've seen in the last decade\" but one that's \"underrated\" since it \"isn't another linear narrative RPG with the illusion of freedom.\" Weekly digests, tales from the communities you love, and more There's always discourse around events like The Game Awards as, inevitably, we all have our favorites. Crimson Desert isn't the only big 2026 game to receive a low number of nominations, either – Fire Emblem: Fortune's Weave, for example, also got just the one in Best Role Playing Game, along with Final Fantasy Resonance. Despite Crimson Desert's AI backlash, Pearl Abyss is now implementing the tech \"throughout our entire development pipeline\" – including for upcoming Pokemon-like DokeV. I'm GamesRadar+'s Deputy News Editor, working alongside the rest of the news team to deliver cool gaming stories that we love. After spending more hours than I can count filling The University of Sheffield's student newspaper with Pokemon and indie game content, and picking up a degree in Journalism Studies, I started my career at GAMINGbible where I worked as a journalist for over a year and a half. I then became TechRadar Gaming's news writer, where I sourced stories and wrote about all sorts of intriguing topics. In my spare time, you're sure to find me on my Nintendo Switch or PS5 playing through story-driven RPGs like Xenoblade Chronicles and Persona 5 Royal, nuzlocking old Pokemon games, or going for a Victory Royale in Fortnite. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/D7Q4p44SNTDgUMeASDHj68-1920-80.jpg"
+          "text": "GTA 6 is a wild ride – but can you replay missions once you've completed them? Here's something that's a little surprising about Rockstar's long-awaited return to Vice City: There is no way to replay missions in GTA 6. With over 90 main story missions in GTA 6 , some of which are an absolute riot of a time while others feature pretty substantial branching paths that help shape your GTA 6 Criminal Profile system , it's no surprise that many of you are wondering how to replay your favorite moments from the campaign. Sadly, after playing the game for over 100 hours for my GTA 6 review , I can confirm that there's simply no option to do so. It kind of makes sense when you think about it. GTA 5 did let you replay missions easy enough, but that was a way to let you back into key moments to try and complete skill challenges – Rockstar has since moved all of the GTA 6 challenges into its own spot in the progress menu. They are now far broader in scope, and primarily used to unlock GTA 6 cheats once you've wrapped up the story. If you're worried about missing anything or wanting to play key moments from a chapter again, I would recommend that you learn the ins and outs of the GTA 6 save system – this lets you keep and load back into 15 different sessions. Otherwise, you'd have to start a whole new game just to replay a mission in GTA 6 ! Weekly digests, tales from the communities you love, and more Josh West is Editor-in-Chief of GamesRadar+. He has over 18 years of experience in both online and print journalism, and was awarded a BA (Hons) in Journalism and Feature Writing. Josh has contributed to world-leading gaming, entertainment, tech, music, and comics brands, including games™, Edge, Retro Gamer, SFX, 3D Artist, Metal Hammer, and Newsarama. In addition, Josh has edited and written books for Hachette and Scholastic, and worked across the Future Games Show as an Assistant Producer. He specializes in video games and entertainment coverage, and has provided expert comment for outlets like the BBC and ITV. In his spare time, Josh likes to play FPS games and RPGs, practice the bass guitar, and reminisce about the film and TV sets he worked on as a child actor. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/VLSm6nPKinEt6FGfCyuT7Z-2560-80.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "d311a607b12ac47e",
+      "title": "Indicados do The Game Awards 2026: jogue Gears of War: E-day, GTA VI e mais no XBOX",
+      "summary": "The post Indicados do The Game Awards 2026: jogue Gears of War: E-day, GTA VI e mais no XBOX appeared first on Xbox Wire em Português .",
+      "owners": [
+        "meups",
+        "microsoft",
+        "ziff-davis"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "5b27f81639508a8d",
+        "5b65ccb2d95de2a4",
+        "a09a4dcb3c21a387"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/pt-br/2026/11/18/indicados-do-the-game-awards-2026-jogue-gears-of-war-e-day-gta-vi-e-mais-no-xbox/",
+          "title": "Indicados do The Game Awards 2026: jogue Gears of War: E-day, GTA VI e mais no XBOX",
+          "published_at": "2026-11-18T13:44:21+00:00",
+          "kind": "primary",
+          "text": "Há 25 anos, XBOX mantém o foco em criar games que os jogadores adoram, e nosso ano de aniversário tem sido um exemplo especialmente marcante disso. De Gears of War: E-Day , Forza Horizon 6 e Call of Duty: Modern Warfare 4 a jogos muito aguardados como Fable , os jogadores têm mais jogos incríveis para jogar no XBOX do que nunca. Nesta terça-feira, 17 de novembro, o The Game Awards anunciou a lista de indicados deste ano, e os títulos das equipes criativas de XBOX conquistaram oito indicações em diversas categorias. Além dos jogos, a série “Fallout”, do Prime Video, foi indicada a Melhor Adaptação. Agradecemos a todas as equipes que levaram esses jogos incríveis aos jogadores. A votação já está aberta no site oficial do The Game Awards. Acompanhe a premiação em 10 de dezembro para descobrir se seus jogos favoritos de 2026 vão levar um prêmio para casa. Nossos parceiros de publicação também receberam indicações em diversas categorias, com muitos jogos disponíveis para jogar hoje no Game Pass. 007 First Light e CONTROL Resonant estão indicados a Jogo do Ano e podem ser jogados em diferentes dispositivos com o XBOX Play Anywhere. Assinantes do Game Pass podem jogar títulos indicados como Gears of War: E-Day , Forza Horizon 6 , No Man’s Sky e muito mais. Confira abaixo a lista completa de indicados disponíveis para jogar no XBOX. Parabéns aos incríveis indicados deste ano! LEGO Batman: O Legado do Cavaleiro das Trevas Monster Hunter Stories 3: Twisted Reflection",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/TGA2026-017cd9fddc03570adbd7.jpg"
         },
         {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/spyro-a-realm-beyond-tera-novidades-divulgadas-durante-o-the-game-awards-2026.html",
-          "title": "Spyro: A Realm Beyond terá novidades divulgadas durante o The Game Awards 2026",
-          "published_at": "2026-11-18T14:27:59+00:00",
+          "name": "GamesIndustry.biz",
+          "owner": "ziff-davis",
+          "url": "https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations",
+          "title": "GTA 6 leads The Game Awards 2026 with eight nominations",
+          "published_at": "2026-11-18T09:12:10+00:00",
+          "kind": "press",
+          "text": "Rockstar's upcoming title was recognised for Best Game Direction, Art Direction, Narrative, Score and Music, Audio Design, Performance, and Action/Adventure Grand Theft Auto 6 received eight nominations for The Game Awards 2026, including Game of the Year. The highly anticipated game, launching tomorrow (November 19), was also nominated for Best Game Direction, Best Narrative, Best Art Direction, Best Score and Music, Best Audio Design, Best Performance (Manni L. Perez as Lucia Caminos), and Best Action/Adventure. Remedy's Control Resonant and Capcom's Resident Evil Requiem each earned six nominations, including Game of the Year. Nintendo's The Legend of Zelda: Ocarina of Time, IO Interactive's 007 First Light, and House House's Big Walk were each nominated in four categories. Zelda and First Light were also recognised for Game of the Year. Nintendo led all publishers with 12 nominations, followed by Capcom with 11, and Annapurna Interactive and PlayStation with nine each. This year, 112 games, individuals, and teams were nominated, selected by \"a global jury of over 160 media publications and creator outlets.\" The Game Awards 2026 will take place on Thursday, December 10 at the Peacock Theatre in Los Angeles and will be broadcast on 40 digital streaming platforms, including Prime Video, Disney+, Twitch, and YouTube. At last year's ceremony, Sandfall Interactive's Clair Obscur: Expedition 33 won nine awards , including Game of the Year, after receiving 12 nominations . Here's the full list of nominees for The Game Awards 2026:",
+          "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-14.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/spyro-a-realm-beyond-deve-aparecer-the-game-awards-26/",
+          "title": "Spyro: A Realm Beyond deve aparecer no The Game Awards 2026",
+          "published_at": "2026-11-17T19:27:48+00:00",
           "kind": "press",
           "text": "",
-          "image": ""
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/game-awards-snubs-crimson-desert-marathon-nominees-2000758065",
-          "title": "The Six Biggest Game Awards Snubs",
-          "published_at": "2026-11-18T16:45:05+00:00",
-          "kind": "press",
-          "text": "Yesterday, The Game Awards announced its 2026 nominees , and if you werenât asking why Grand Theft Auto 6 could be the most-nominated game this year before it was even out , you were probably skimming the list looking to see if your favorite games this year got nominated. The showâs jury is made up of over a hundred outlets, each with their own specific experiences and opinions that canât possibly represent every variation of mindset and taste. As such, there were several snubs to be mad about. Here are a handful that people are talking about, but feel free to let us know what you think was missing down below. Starting off with one of the only things I am passionate about: The Best Ongoing Game category, which highlights live-service games that have featured good updates and expansions over the year, needs to recognize a larger spread of games than it has for the past several years. This year, the category is made up of Arc Raiders, The Witcher 3: Wild Hunt , Final Fantasy XIV, Fortnite , and No Manâs Sky , the latter three of which have been shuffling in and out of the category for years. And while itâs entirely possible all three of them are doing good shit every year, the fact that the category tends to include many of the same games each year suggests to me that the jury is simply advocating for the games theyâre playing every year rather than looking at the broader landscape. Some games like Overwatch and World of Warcraft had substantial years, but didnât score nominations. Personally, I think Overwatch , whose reboot this year included a revamp of its story and an unprecedented ten new heroes added to its roster, deserved a shout here, but itâs not 2016 anymore, so lots of people are no longer tuned into Blizzardâs hero shooter that once won Game of the Year. WoW has received 3 expansions, new classic versions, including anniversary, & now a whole new version of the game in Forever; all in Dawntrails lifetime. Yet itâs always snubbed & never represented in these awards & still I see FFXIV here yearly. Never seen RS or GW2 here either. https://t.co/TxPOzN4JOZ Marathon , while broadly a bit divisive, is pretty beloved by those who got really into Bungie’s extraction shooter. But even as someone who never got around to it, IâmÂ surprised, along with many others, that the game didn’t get a nod in Best Art Direction. Marathon not even being nominated for audio and/or art direction is genuinely criminal lmao ð­ð­âï¸ https://t.co/j6VKfpL4A3 — Goose (@Goosewasinuse) November 17, 2026 No Marathon for Best Art Direction? You guys are kidding me — Victor Ullmann (@victorullmannn) November 17, 2026 Imagine not nominating this for best art direction. I don't care what you think of the game. The visual style is next level pic.twitter.com/MXZ7peXMsa — TNS | KingJobber (@KingJobber) November 17, 2026 I was put off by Crimson Desert âs convoluted control scheme when I played it , and I imagine that pushed a lot of people away from Pearl Abyssâ fantasy action RPG. But those who did enjoy it seemed to get really into it, so itâs a bit surprising that it only scored a nomination for Best Community Support. To nominate Crimson Desert for nothing other than best community support? To say Iâm disappointed would be an understatement. What a shame. What a terrible shame. — Bucky | Palworld (@Bucky_cm) November 17, 2026 Crimson Desert has been snubbed in the Game of the Year nominations. If Crimson Desert doesn't deserve a place among the nominees, then what exactly are the standards for GOTY? pic.twitter.com/Ns9iqJaWXM The Nintendo bump helps a lot of the companyâs games find their way to the nomination list, but Fire Emblem: Fortuneâs Weave only earned one nomination in the Best RPG category. Thatâs odd considering the previous two games in the series, Three Houses and Engage , were nominated in the Strategy category in their respective years.Â Iâm not even the most die hard Fire Emblem fan, but this game got absolutely fucked in TGA nominations No best perfomance, no best OST, no best narrative, shit not even best strategy game SWITCH SPORTS RESORT got more noms ð pic.twitter.com/CWfbyMBojk — TheNCSmaster (@TheNCSmaster) November 17, 2026 Fire Emblem: Fortune's Weave not being nominated in the 'Sim/Strategy' category makes no sense to me. pic.twitter.com/VKvjjGQ1Av — Stealth (@Stealth40k) November 17, 2026 This OST lost to Mixtape pic.twitter.com/NdHuGuDSi4 I think they forgot to mention this category, but we already have a winner!ð pic.twitter.com/7NeCk7cOVg Gears of War: E-Day , the Coalitionâs long-awaited prequel to the 2006 original, did get a fair number of nominations, earning nods in the Action Game, Innovation in Accessibility, and Best Multiplayer categories. However, if you ask the Xbox diehards , it deserved its flowers for Game of the Year. âSeriously Geoff,â a fan writes on Reddit. âMarcusâ voice actor doesn’t get nominated? The game doesn’t get nominated for the best art direction?? Or even for GOTY?â Admittedly, Iâm extremely jaded toward the Best Adaptation category after the criminal snub that was excluding Sonic the Hedgehog 3 last year and giving the award to The Last of Us â dogwater second season, but having sat with the terrible brilliance of the Street Fighter movie for a while now, I canât believe it was left off the list in favor of the just straightforwardly terrible experience that was The Super Mario Galaxy Movie . Wake up, sheeple. Those are just the snubs that stood out to me, and Iâm sure there are plenty more. Let us know what game you thought deserved its flowers this year. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Of the five nominees, one is dead and one is on developmental life support Rockstarâs open-world crime drama scored multiple nominations, including Game of the Year Good luck to everyone else who released a game this year The late David Keighley hel",
-          "image": "https://kotaku.com/app/uploads/2026/03/02-crimson-desert.jpg"
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Spyro-A-Realm-Reyond.jpg"
         }
       ]
     },
@@ -487,7 +487,7 @@
           "title": "Veja comparativo gráfico de GTA 6 no PS5 e PS5 Pro",
           "published_at": "2026-11-18T20:34:20+00:00",
           "kind": "press",
-          "text": "REVIEW | GTA VI é incrível e vai muito além tudo de aquilo que poderíamos esperar",
+          "text": "REVIEW | GTA VI é incrível e vai muito além de tudo aquilo que poderíamos esperar",
           "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/comparativo-gta-6-ps5-ps5-pro.webp"
         },
         {
@@ -551,134 +551,133 @@
       ]
     },
     {
-      "story_id": "7a75301d84dc4444",
-      "title": "Here Are The Most Nominated Games And Publishers At The Game Awards This Year",
-      "summary": "The nominees for 2026's The Game Awards have been announced, but which games and publishers scored the most total nominations? The most-nominated game this year Grand Theft Auto 6, which picked up eight total nominations, including a nod for Game of the Year. The game being nominated at all surprised some people considering that it's not even out yet, but members of the voting jury had played it...",
-      "owners": [
-        "adrenaline",
-        "fandom",
-        "future-plc"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "66b9f8a2c522aa90",
-        "8ea49694daceeb76",
-        "be4415c24210a820"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/here-are-the-most-nominated-games-and-publishers-at-the-game-awards-this-year/",
-          "title": "Here Are The Most Nominated Games And Publishers At The Game Awards This Year",
-          "published_at": "2026-11-18T15:48:17+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/nintendo-e-a-publisher-com-mais-indicacoes-ao-the-game-awards-2026/",
-          "title": "Nintendo é a publisher com mais indicações ao The Game Awards 2026",
-          "published_at": "2026-11-17T19:29:59+00:00",
-          "kind": "press",
-          "text": "The Game Awards 2026: veja a lista completa de indicados ao Jogo do Ano",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/nintendo-e-a-publisher-com-mais-indicacoes-ao-the-game-awards-2026-cover.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/entertainment/horror-movies/in-more-proof-2026-has-been-a-solid-year-for-game-adaptations-resident-evil-fallout-season-2-and-more-are-nominated-at-the-game-awards/",
-          "title": "In more proof 2026 has been a solid year for game adaptations, Resident Evil, Fallout season 2, and more are nominated at the Game Awards",
-          "published_at": "2026-11-18T11:16:56+00:00",
-          "kind": "press",
-          "text": "Fallout, Resident Evil, and more are recognized at the Game Awards 2026 has been a stellar year for video game adaptations, and the Game Awards is recognizing that fact. In this year's nominees, the Best Adaptation category is particularly stacked. Up for the award are the Resident Evil movie , Mortal Kombat 2 , Fallout season 2 , Cyberpunk: Edgerunners 2 , and The Super Mario Galaxy Movie . It's anyone's guess who'll win at this point, but it's a particularly solid category this year. The Super Mario Galaxy Movie grossed over a billion dollars, while the Resident Evil movie earned the near perfect Rotten Tomatoes score of 96% (our own Resident Evil movie review awards the film 4 stars, and our verdict reads: \"Frightening, funny and exceedingly bloody, Zach Cregger's Resident Evil is a horror-comedy to match the best the genre has to offer, and an easy frontrunner for the best video game movie to date. Cregger's hot streak continues.\"). Fallout season 2, meanwhile, became Amazon's second most-watched returning show of all time with 83 million viewers in 13 weeks. Cyberpunk: Edgerunners season 2 and Mortal Kombat 2 also both hold fresh Rotten Tomatoes scores, sitting at 80% and 63%, respectively. It's more proof that the age of subpar video game adaptations has come to an end, with plenty more exciting upcoming video game adaptations on the horizon, too, including Fallout season 3 . \"I feel confident that we've done that in season three, and if we get the opportunity to come back for season four, that would continue to honor how sacred this is to people. It's not something that we take lightly,\" Ghoul actor Walton Goggins shared recently . The Game Awards take place on December 10. In the meantime, check out our guide to all the most exciting upcoming movies and upcoming TV shows left of 2026. Subscribe for a weekly digest of the movie and TV news that matters, direct to your inbox. From first-look trailers, interviews, reviews and explainers, we’ve got you covered. I'm a Senior Entertainment Writer here at GamesRadar+, covering all things film and TV for the site's Total Film section. I previously worked on the Disney magazines team at Immediate Media, and also wrote on the CBeebies, MEGA!, and Star Wars Galaxy titles after graduating with a BA in English. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/xeyFr8kediGHV6FmhStnyH-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "5ba75de4cef87718",
-      "title": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
-      "summary": "A lot of people are upset that they can't get GTA 6 on a physical disc, and KFC is now stepping up to do what Rockstar isn't. KFC Spain has announced a \"Replace the Disc\" campaign where customers can get a free disc-shaped piece of fried chicken when they bring in their GTA 6 box. The promotion takes place December 19 and 20 from 4 to 8 PM at KFC locations in Madrid, Barcelona, Valencia, and...",
+      "story_id": "ecbc516b6595376c",
+      "title": "Jason Loves Cats In GTA 6, But Not All Of Them",
+      "summary": "Grand Theft Auto 6 co-protagonist Jason is, like many Americans, a fan of cats. Naturally, being an open-world game with seemingly endless possibilities, GTA 6 does indeed let Jason express that love by petting cats he sees. However, not every cat is down to be pals with Jason. As shared on social media, if you're walking around Leonida and spot a friendly-looking cat, you can go give it a pet...",
       "owners": [
         "fandom",
         "future-plc",
-        "insider-gaming"
+        "vgc"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "14a7295447900747",
-        "72cfec0920412622",
-        "8b96f85620256a55"
+        "a828f082817ac71f",
+        "959cd24525971480",
+        "94c55f64825f89c1",
+        "66ce1d0a98093bf6"
       ],
       "sources": [
         {
           "name": "GameSpot",
           "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/kfc-announces-gta-6-promo-where-you-get-a-disc-shaped-piece-of-chicken/",
-          "title": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
-          "published_at": "2026-11-18T20:22:30+00:00",
+          "url": "https://www.gamespot.com/articles/jason-loves-cats-in-gta-6-but-not-all-of-them/",
+          "title": "Jason Loves Cats In GTA 6, But Not All Of Them",
+          "published_at": "2026-11-18T17:07:11+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "GamesRadar",
+          "name": "PC Gamer",
           "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-online-multiplayer/",
-          "title": "Where is GTA 6 Online and GTA 6 multiplayer?",
-          "published_at": "2026-11-18T12:25:05+00:00",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+          "title": "All GTA 6 cheats and how to unlock them",
+          "published_at": "2026-11-18T11:00:00+00:00",
           "kind": "press",
-          "text": "GTA 6 is launching as single-player only, but GTA 6 Online might not be far off If you're wondering about GTA 6 online or multiplayer functionality at launch, the answer is currently no. Rockstar's latest will be a solo venture for the time being – meaning no GTA 6 Online or GTA 6 multiplayer mode in the immediate future. That might be a bummer for anyone who had hoped to explore Jason and Lucia's slice of crime-ridden GTA 6 paradise with a player two in tow, let alone the GTA Online community. But if you read our Editor-In-Chief's glowing GTA 6 review while bemoaning the lack of online functionality, fear not: you might not be disappointed for long. Here's everything I've managed to dig up so far on the state of GTA 6 Online, from when we can hope to see it to whether it actually exists at all. GTA 6 Online will not be part of the game's launch. Given the immense popularity of the online multiplayer entity, though, its existence is all but guaranteed. Rockstar has officially renewed its ownership of the GTA 6 and Vice City Online domains , with PlayStation Game Size on Twitter confirming that an inactive multiplayer component is coded into the game files . Rumors and file-rummaging can't tell us exactly when GTA 6 Online will come, but these findings strongly suggest that online multiplayer fans have something to look forward to. Rockstar has stated that GTA 6 is a single-player game, but with two protagonists and \"join:Session\" being among the inactive multiplayer codes, it begs the question of what GTA 6 Online could actually look like – and whether a GTA 6 multiplayer campaign mode is on the cards after all. For now, though, we'll have to go at the mean streets of Vice City on our own. Race you to the beach! Here's everything you need to know about GTA 6 before diving in. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more Jasmine is a Senior Staff Writer at GamesRadar+. Raised in Hong Kong and having graduated with an English Literature degree from Queen Mary, University of London, she started her games journalism career as a freelancer with TheGamer and Tech Radar Gaming before joining GamesRadar+ full-time in 2023. As part of the Features team, her duties include attending game previews and key international conferences such as Gamescom and Digital Dragons in between regular interviews, opinion pieces, and the occasional news or guides stint. In her spare time, you'll likely find Jasmine thinking/talking about Resident Evil, purchasing another book she's unlikely to read, or complaining about the weather. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/QLpazr6y5eHDC7b3SDFkkh-1920-80.jpg"
+          "text": "Get all the money, weapons, and fast cars you want. GTA 6 cheats are expected to be a huge part of the game. Saying you're going to use cheats in Grand Theft Auto is like saying water is wet—supplementing your cash, arsenal of weapons, or doing other fun stuff like turning off gravity is a core part of these games. Unfortunately, this time you need to complete the main story —all 91 GTA 6 story missions —before you can access cheats and view their effects. After that, you'll have to complete the listed challenge to unlock each cheat command, though this does take into account what you've already done. We loaded a save to test if cheat commands work earlier in the game and they don't. Our list also doesn't include some challenges, since we completed these while playing the game and so never got to see them. First thing to note: if you use a cheat, you will not be able to save your game from that point on. That means you can't use cheats to progress through side missions or challenges, because with cheats on you'll have to quit your game without saving it. Once unlocked, you can enter a cheat in GTA 6 if you: Complete 50 skydives of base jumps from +300ft Get 1st place in 10 races at Gellhorn Raceway, Thrillby Mud Club, and Boone Speedway Win 20 bronze medals or better at shooting ranges Win 25 silver medals or better at shooting ranges Discover the Interstate Ambulance in the progress menu Discover the MTL Pumper in the Progress menu Clear 25 gang operations with your car partner Discover Martha's Vamos in the Progress menu Survive 6 minutes with a 6-star wanted level Find all 24 collectible cards for the Vice City Flamingos GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Sean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/U2mFt6DGd5DhcWstmNHstX-2560-80.jpg"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/where-to-find-bigfoot-gta-6/",
-          "title": "Where To Find Bigfoot In GTA 6",
-          "published_at": "2026-11-18T18:06:25+00:00",
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-cheats/",
+          "title": "All GTA 6 cheats and how to use them",
+          "published_at": "2026-11-18T15:08:21+00:00",
           "kind": "press",
-          "text": "The Grand Theft Auto series is rife with easter eggs, and perhaps none are more famous than the Sasquatch, or as more commonly referred to as Big Foot. It’s appeared in previous GTA titles, but would you believe it, it’s shown up once again, this time in Grand Theft Auto 6 . The best part? You don’t even need to progress far through the game to find it for yourselves! That said, the whole encounter is pretty strange, even for GTA standards. So, if you want to find Bigfoot, here’s where to search for it in GTA 6, as well as what happens when you do. You can buy Grand Theft Auto 6 here if you haven’t already! If you want to see Bigfoot for yourself, you’ll want to drive to Cottonmouth Lake, just below Hamlet. You don’t need to progress far through the game’s main story to be able to travel here, so as soon as you’re free to drive around, head here if you want to experience one of the first big GTA 6 easter eggs. I’ll keep the encounter a secret until further below, in case you want to experience it first-hand for yourselves, but you’ll know that you’re in the right area when you hear a deep, guttural growl—it’s truly hard to miss. Before long, you’ll run into Bigfoot on the road, standing over an animal corpse. As you approach, it’ll quickly scarper off into the marshlands nearby, but not before you can get a good look at it. You’re free to follow the Sasquatch, though odds are you won’t have much luck, as it soon disappears. However, in its place, you’ll be able to find a strange effigy of sorts tied to a nearby tree. It’s definitely a creepy sight, but what’s worse is that if you stick around, the flowers nearby seem to put you to sleep, triggering a unique cutscene. As you flicker in and out of consciousness, Bigfoot will approach you, though all you’ll see are its large, hairy feet… And that’s it! It’s unclear if this is a one-off encounter, or if you can find Bigfoot at other locations and this is the first step in an elaborate easter egg, but for now, it’s a pretty cool moment! If more’s found, we’ll be sure to update the article and keep the GTA 6 Bigfoot chronicles alive. If you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub . It contains everything you could need to learn about the most important game release of all time! Have you managed to find Bigfoot yet? Let us know your thoughts about the game via the free Insider Gaming Discord server . For more Insider Gaming content, read ‘ GTA 6 100% Completion Walkthrough .’ Don’t forget to sign up for our free weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here . Charlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for him, he enjoys every video game genre out…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Bigfoot.jpg"
+          "text": "GTA 6 cheat codes let you switch things up in Leonida, but you can't use them until you complete the story GTA 6 cheats are here to let you cause the maximum amount of chaos possible in Leonida. Whether you're looking to raise up your Wanted Level and unlock infinite ammo just to see what happens, or testing out some base jump locations with no fall damage, cheats in Grand Theft Auto 6 are what you're looking for. A total of 61 GTA 6 cheats are available for PS5 and Xbox Series X, but you won't be able to use any of them right from the beginning of your adventures in Vice City. You need to fully complete Jason and Lucia's main story for cheat codes in GTA 6 to even activate, and from there you have to complete a series of challenges to unlock the codes themselves. It's a lot of work to go through in GTA 6 , but trust me, it's worth it in the end. As expected, once you have activated a cheat in GTA 6 all Trophies or Achievements are disabled for the duration of the play session – the ability to save the game will be disabled too. But with all of that out of the way, here are the GTA 6 cheats we have found so far. This guide is in-progress and will be updated as more GTA 6 cheat codes are unlocked. GTA 6 cheats are only accessible after you complete all of the main missions. Once you've wrapped up Jason and Lucia's story, open the main menu with the touchpad or menu button and then press R1/RB to navigate to the Progress tab. In there you'll find a new option for Cheats in GTA 6 that wasn't there before. GTA 6 cheats will not work until you have completed Jason and Lucia's story, regardless of whether you know the code already. Using Grand Theft Auto 6 cheats is easy enough. While you're in free-roam, all you have to do is press Up on the D-pad to pull out your phone. From that main phone screen, you then need to hold L1/LB and R1/RB together at the same time, before inputting the relevant GTA 6 cheat code with the D-pad to activate it. $250,000 Instantly gives you $250,000. To unlock: Complete the story. To activate on D-pad: Up, Right, Down, Left, Up, Left, Down, Right Drunk Instantly makes you and your partner drunk. To unlock: Spend $2,500 on alcohol. To activate on D-pad: TBC Raise Heat Level Raises your level of heat across the map. To unlock: Lose a 3-star GTA 6 Wanted Level 25 times. To activate on D-pad: Left, Down, Right, Down, Up, Down, Up Raise Wanted Level Raises your Wanted Level across the map. To unlock: Lose a 3-star Wanted Level 50 times. To activate on D-pad: Left, Down, Right, Down, Up, Right, Up Unlimited Focus Focus never runs out. To unlock: Complete the story. To activate on D-pad: Down, Up, Up, Down, Up, Down, Up, Down, Up, Right No Fall Damage You are immune to fall damage. To unlock: Survive a freefall from 40 feet 20 times. To activate on D-pad: TBC Parachute Unlocks a parachute to your loadout. To unlock: Complete 50 skydives or base jumps from 300 feet or higher. To activate on D-pad: TBC Body Armor Adds body armor to your loadout. To unlock: Complete 100 workouts. To activate on D-pad: Down, Up, Left, Up, Up, Up, Up, Up, Down, Down Repair Vehicle Fully repairs your current vehicle. To unlock : Get 1st place in 10 races at Gellhorn Raceway, Thrillbilly Mud Club, and Boone Speedway. To activate on D-pad: TBC Unlimited Nitrous Nitrous and fuel never runs out on vehicles. To unlock : Complete 50 stunt jumps. To activate on D-pad: TBC Weekly digests, tales from the communities you love, and more Max Ammo Fills all ammo to maximum. To unlock: Win 25 Bronze medals or higher at shooting ranges. To activate on D-pad: Down, Up, Right, Down, Left, Left, Up, Up, Down, Left Infinite Ammo Ammo never runs out. To unlock: Win 25 Silver medals or higher at shooting ranges. To activate on D-pad: Down, Up, Right, Down, Left, Left, Up, Down, Down, Down No Reload Ammo never runs out with no need to reload. To unlock: Win 25 Gold medals at shooting ranges. To activate on D-pad: Down, Up, Right, Down, Left, Left, Up, Down, Down, Up All Explosive Weapons Adds all explosive weapons to your loadout with full ammo. To unlock : Throw 100 grenades. To activate on D-pad: TBC Incendiary Ammo All ammo is incendiary. To unlock: Burn 100 enemies with fire damage. To activate on D-pad: TBC Exploding Bottles All bottles explode when damaged. To unlock: Throw 100 molotovs. To activate on D-pad: TBC Explosive Shotgun Adds a Mason & Keen Shortstraw to your loadout that fires explosive shells. To unlock: Hit 100 enemies with explosive damage. To activate on D-pad: TBC Hauners H-AT Adds a Hauners H-AT to your loadout. To unlock: Blow up 100 vehicles. To activate on D-pad: TBC Attack Force Bullets and melee attacks launch targets on impact. To unlock : Complete the story. To activate on D-pad: Down, Up, Left, Left, Right, Down, Down, Up, Down Exploding Balls Sports balls explode on impact. To unlock : Hit 20 enemies with explosive damage. To activate on D-pad: Down, Up, Left, Left, Right, Down, Down, Up, Right Vehicle Force Vehicle collisions launch targets. To unlock: Kill 25 enemies (or civilians) with a vehicle. To activate on D-pad: Down, Up, Left, Left, Right, Down, Left, Up, Down Move Time Forward Moves the time of day forward. To unlock : Find 10 collectible watches. To activate on D-pad: TBC Pause Time of Day Pauses the current time of day. To unlock : Find 20 collectible watches. To activate on D-pad: TBC Cycle Weather Adjusts the weather conditions. To unlock : Reveal the entire map. To activate on D-pad: Down, Right, Up, Down, Right, Up, Right Interstate Ambulance Spawns an Interstate Ambulance. To unlock : Discover the Interstate Ambulance in the Progress menu. To activate on D-pad: TBC Airboat 09 Spawns an Airboat 09. To unlock: Complete 5 survival challenges. To activate on D-pad: TBC Bravado Banshee Spawns a Bravado Banshee. To unlock: Complete all combat challenges. To activate on D-pad: TBC Tuff BMX Spawns a tuff BMX. To unlock: Complete 5 fitness challenges. To activate on D-pad: TB",
+          "image": "https://cdn.mos.cms.futurecdn.net/oFV96Lzam6D6cjSoxVEn9h-1920-80.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-jasons-house-how-to-fix-all-projects-around-jasons-house/",
+          "title": "GTA 6 Jason’s House: How to fix all projects around Jason’s House",
+          "published_at": "2026-11-19T00:35:31+00:00",
+          "kind": "press",
+          "text": "What do you need to fix in Jason’s House? Find out here Wondering how to completely fix Jason’s house in GTA 6? This guide explains all the different odd jobs you need to complete in order to totally fix Jason’s house. You’ll get this objective as soon as you return to his house after the game’s second mission, but you won’t have forever to complete it. Jason’s friend Cal mentions that if Lucia’s going to live at Jason’s house, he better fix the place up. In this guide, we’ll explain all the things you have to fix around the house, and what happens if you don’t do it. For dozens of GTA 6 guides,Â check out our GTA 6 Guide Hub.Â Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. There are four projects to complete around Jason’s house. You can repair these as soon as you get complete control of Jason following the Gone Fishing mission. You won’t be able to complete the projects at Jason’s House after Lucia is free from prison. You’ll be warned to complete these jobs before she returns, but if you miss that, you’re out of luck. You’ll have to fix the steps outside Jason’s house to progress the game, so you can’t miss this. There’s a stack of wood to the side of the stairs. Stand next to them and you’ll be able to repair the steps and enter Jason’s house. To fix the leaky roof in GTA 6, head outside Jason’s house and find the set of ladders that are stacked next to the door. Climb them, walk across the roof to the tarp, and you can repair the leaky roof. To fix the wall in Jason’s House, head into his bedroom, and look for the massive sheets of wood that are leaning up against the wall. This section isn’t just about repairing the wall, you’ll also have to paint the wall. You can chose which colour paint you want to use, but this won’t impact how Lucia reacts to your house, and how much it improves your relationship. The railing can be found next to Jason’s workout equipment. You’ll notice it if you walk out on the back deck, that there are massive gaps in the railing. Head down to the workout equipment, and face the house, and you’ll get the prompt to fix this part of Jason’s House. If you don’t fix Jason’s house, your initial relationship meter with Lucia when she returns from jail will be significantly lower. This is a quick way to make sure that Jason and Lucia get off on a strong foot, and it takes very little time to do. That’s our complete guide to fixing Jason’s house in GTA 6.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Fix-Jasons-House-4.jpg"
         }
       ]
     },
     {
-      "story_id": "41aee54cb14848e1",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November […]",
+      "story_id": "e203e5ff51fcaa7a",
+      "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+      "summary": "Sensor Tower estimates Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue , with 87% of orders for the Ultimate Edition. Read more",
       "owners": [
-        "meups",
-        "vox-media"
+        "future-plc",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "ad0107f66629afcd",
-        "1670a1cd7364e9f6"
+        "834fa9ad8d3bea42",
+        "ee6e9d4785aca31e"
       ],
       "sources": [
         {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-          "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-          "published_at": "2026-11-16T23:35:58+00:00",
+          "name": "GamesIndustry.biz",
+          "owner": "ziff-davis",
+          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+          "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+          "published_at": "2026-11-17T01:00:00+00:00",
           "kind": "press",
-          "text": "Arion Kurtaj leaked 90 videos of GTA VI years before its release. Arion Kurtaj leaked 90 videos of GTA VI years before its release. Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK’s Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November of that year, the company “noted a marked increase in unauthorised SIM swaps of their customers mobile phones.” He was charged for those offenses and moved to a hotel for his “own protection” in September 2022, but “breached his bail conditions to carry out further hacks on major companies using a mobile phone, the hotel TV’s Wi-Fi and a firestick,” including hacks on Rockstar Games, Uber, and Revolut, the CPS says. He was sentenced to life in a secure hospital in December 2023 because of his autism, but in January, Kurtaj was deemed fit for trial and moved to prison, the BBC reports . Kurtaj is set to be sentenced on November 23rd. GTA VI will be released on November 19th.",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+          "text": "Pre-orders rose sixfold on the day Netflix premiered the Extended Look of the game, reaching $16.3 million Sensor Tower estimates Grand Theft Auto 6 has generated over $1.4 billion in pre-order revenue , with 87% of orders for the Ultimate Edition. As detailed in a new report on the game's impact on consumer engagement, pre-orders rose sixfold when Netflix released its Extended Look at the game on August 27. According to Sensor Tower, daily GTA 6 pre-order revenue across PlayStation and Xbox ranged from $2.4 million to $3.8 million through \"most of\" August. Revenue reached $16.3 million the day after the Netflix special and has continued to rise ahead of launch, making GTA 6 the most pre-ordered game on PlayStation and Xbox storefronts . The market intelligence firm also analysed which games are most likely to lose players to GTA 6. Fortnite, GTA Online, and other AAA single-player titles are expected to be most affected. Among PlayStation users, 42% with GTA 5 also own Fortnite, compared to 22% of all players. Sensor Tower noted that \"Fortnite and Roblox seem [the] most exposed from an audience overlap perspective.\" Sensor Tower expects Roblox to retain its player base during GTA 6's launch. It noted Roblox \"beat the catalogue in player count change in the month following five recent releases,\" including Monster Hunter Wilds, Oblivion Remastered, Resident Evil Requiem, Crimson Desert, and First Light. \"Roblox's audience looks less likely to be lured away by acclaimed single-player launches, and is likely to weather GTA 6 better than its peers,\" the firm suggested. Last month, gaming consultancy Open World assessed which games might lose players to GTA 6 . Fortnite, Call of Duty, Battlefield, Apex Legends, EA Sports FC, and NBA 2K were identified as most at risk during GTA 6's launch.",
+          "image": "https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
         {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/hacker-gta-vi-em-2022-se-declara-culpado/",
-          "title": "Hacker que vazou GTA VI em 2022 se declara culpado em tribunal",
-          "published_at": "2026-11-17T16:43:30+00:00",
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ultimate-edition-pre-order-bonuses/",
+          "title": "How to unlock all pre-order and Ultimate Edition bonuses in GTA 6",
+          "published_at": "2026-11-18T15:38:24+00:00",
+          "kind": "press",
+          "text": "The additional content you unlock through pre-ordering GTA 6 or buying the Ultimate Edition is all found in different locations Are you wondering how to unlock the GTA 6 pre-order and GTA 6 Ultimate Edition bonuses? Don't worry, I was too through my first few hours in Leonida. It turns out that Rockstar Games doesn't want you having too many cool things too quickly, which is why you'll need to progress through different sections of the game before you'll gain access to unique weapons, vehicles, mod shops, clothing stores, and more that come as part of the DLC package, no matter which of the GTA 6 versions you own. Below you'll find a breakdown of where to get the GTA 6 pre-order bonuses for both the Standard Edition and Ultimate Edition of the game. You'll also find a detailed breakdown of where to access all of the GTA 6 Ultimate Edition exclusives, which unlock as you progress through the story. Regardless of whether you pre-ordered the Standard Edition or the Ultimate Edition of GTA 6, you'll get access to a couple of nice bonus items. These are available from Chapter 3 onwards, and can be unlocked by doing the following: The option to collect a uniquely-styled '55 Vapid Stainer vehicle from Vice Beach will appear as a task within the Exploration section of the map index. Once you've collected the vehicle from outside the Ocean View Hotel, you'll also unlock the Bonita Court Garage north of Washington Beach to store it in. Once you've collected your '55 Vapid Stainer vehicle, you'll unlock some other bonuses as well. Head back to your residence and access the wardrobe to find exclusive outfits, and then visit any Salon to access a new hairstyle for Jason and Lucia under the Special section of the in-store menu. As soon as you've found the 55 Vapid Stainer, the first thing you'll want to do is drive across to any Ammu-Nation store. Once inside, access the weapons locker and head into the Cosmetics / Wraps section of the modify menu on any gun to freely apply the pre-order exclusive weapon pattern. If you purchase the more expensive GTA 6 Ultimate Edition, you'll find that Rockstar has well and truly made it worth your while. The exclusive storefronts, weapons, clothes, and vehicles aren't immediately accessible, instead they become available once you reach certain GTA 6 mission milestones: Weekly digests, tales from the communities you love, and more Once you're able to leave Jason's House in Chapter 1, you'll find two exclusive vehicles waiting for you. Underneath the house you'll find an Army fatigue-tinged Dinka Enduro motorcycle in the driveway, and off to the back of the building you'll spot a Crest Kayak which can be used to explore the Leonida Keys. Only available for use in Chapter 1, you can get an exclusive pro build for Jason's Vapid Ganado pickup truck. Open up the map and head into the Vehicles index, from there click the Mod Shops option and look for Coastal Auto Care in Key Lento. Drive the Vapid Ganado over there and the unlock can be applied inside the Pro Builds / Full Kits section of the mod shop menu. Take Jason to any Ammu-Nation store from Chapter 1 and access the weapon locker to unlock a personalized Girardi ES9 pistol. You can do the same with Lucia from Chapter 2 onwards, unlocking a unique Klose K17 pistol. Both of these weapons are free to equip and use. Once you're into Chapter 2 of GTA 6, you'll be able to access unique weapon variants of the powerful Morgan revolver (regardless of whether you've already purchased the weapon). Jason and Lucia have their own versions, which can be accessed from any Ammu-Nation weapon locker. Located in North Leonard County, just north of Lake Leonida, you'll gain access to One-Eyed Willie's Auto Shop from Chapter 1. This GTA 6 Mod Shop specializes in off-road vehicles, and will give you access to a range of custom, hand-painted liveries for purchase. Spend enough time meeting the locals at the Motel safehouse and you'll eventually meet Wyman, who will invite Lucia to the Thrillbilly Mud Club. Once you've completed a Dirt Track Race, look for a task in the exploration section of the map index to go collect your Dominator buggy and storage garage. Once you have collected the Dominator buggy in Chapter 2, Wyman will contact you on WhatUp and ask for your help tracking down parts for classic cars. Look for the Find Cars for Wyman option in the exploration section of the map index to start this optional activity. If you've got money to burn, then you'll want to take your favorite car over to Rideout Customs, located in the Crosstown district of Vice City. This Mod Shop offers unique interiors, rims, and stylings for any Donks vehicle classes. Head to the Vehicles map index and click the Mod Shops tab to set a destination. Technically accessible from Chapter 1, there's a number of PTT YOUNGIN$ Compounds to raid for cash and key valuables. You'll need to head into Southside (south of Vice Dale County) to unlock these Illegal Operations. Once you've visited the area, head to the Robberies section of the map index. Stock 305 can be found in the north quadrant of Vice City, in the Stockyard district. This skate store, selling contemporary streetwear and accessories, can be easily located by opening the map, heading to the style section of the index, and clicking onto the Casual & Street tab to get a destination. Undoubtedly one of the better Hair & Beauty locations in GTA 6, Sara's Unisex Salon is located on the main strip of the Hamlet town. Find it in the Style section of map index. Once you're into Chapter 2, you'll gain access to exclusive signature looks for Jason and Lucia. Located in the Stockyard area of Vice City, the Electric Fang Tattoo Parlor is open for business from Chapter 1. This tattoo parlor has over 50 signature tattoos for Jason and Lucia, all designed by the artist collective FAILE. Head to the Style section of the map index and look for the Tattoos tab. The Wonder Whale is a Souvenir & Swimwear shop available fo",
+          "image": "https://cdn.mos.cms.futurecdn.net/CKJGKMvFgDwGywf3Bu3sBh-1920-80.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "4a1851eb75f492a9",
+      "title": "Multi-ending visual novel Attention Addicted NEET announced for PC",
+      "summary": "Publisher Kniv Studio and developer Dreamery have announced Attention Addicted NEET, a multi-ending visual novel …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "3c9c4c8e8885f5c2",
+        "d1faa24422906945"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/multi-ending-visual-novel-attention-addicted-neet-announced-for-pc",
+          "title": "Multi-ending visual novel Attention Addicted NEET announced for PC",
+          "published_at": "2026-11-17T07:12:14+00:00",
+          "kind": "press",
+          "text": "Publisher Kniv Studio and developer Dreamery have announced Attention Addicted NEET , a multi-ending visual novel where players experience the changes in a girl who shuts herself away at home because she doesn’t want to get a job. It will be available for PC via Steam . A release date was not announced. Here is an overview of the game, via its Steam page : Attention Addicted NEET is a visual novel with a multi-ending story, where you experience the changes in a girl who shuts herself away at home because she doesn’t want to get a job. When her influencer little sister cuts off her allowance, telling her to ‘go out and get a job,’ she reluctantly turns to social media. She thought social media influencers made money easily. Since then, she has been carried along by attention unlike anything she has ever experienced, gradually becoming addicted to it. The attention she gets from the fools in internet communities makes her sad, excited, and sometimes angry. The job her little sister hoped she’d get grows more distant, while her follower count keeps rising. Will our protagonist, Miyu, give up all this social media influencer business and find a stable job, as her little sister wishes?",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Attention-Addicted-NEET-Ann_11-17-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/attention-addicted-neet-visual-novel-terror-psicologico-anuncio-pc.html",
+          "title": "Attention Addicted NEET, visual novel de terror psicológico, é anunciada para PC",
+          "published_at": "2026-11-17T17:04:35+00:00",
           "kind": "press",
           "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/10/GTA-VI-15.jpg"
+          "image": ""
         }
       ]
     }
