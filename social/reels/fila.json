@@ -7246,7 +7246,7 @@
     "slug": "gta6-corte-thimagroo",
     "data": "2026-11-19",
     "horario": "07:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 thimagroo jogando GTA 6\n📺 twitch.tv/thimagroo\n\n#gta6 #gtavi #thimagroo #pixelzada",
     "tentativas": 0,
@@ -7269,6 +7269,19 @@
       "motivo": "streamer e gameplay de jogo com pessoas vestidas",
       "por": "imagem",
       "em": "2026-11-19T06:13:01-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T07:31:40-03:00",
+      "media_id": "18121972960784235",
+      "permalink": "https://www.instagram.com/reel/Df636qTCYZH/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
