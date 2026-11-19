@@ -7565,87 +7565,31 @@
     }
   },
   {
-    "slug": "gta-6-battlefield",
+    "slug": "empurrar-jet-ski-de-volta-agua-gta6",
     "data": "2026-11-19",
     "horario": "13:30",
     "status": "agendado",
     "estilo": "Simples branca",
-    "legenda": "Quando misturam Battlefield com o visual de GTA 6 🎮\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "battlefield",
-      "link": "https://www.instagram.com/reel/Df5otK0Dzcj/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "personagens vestidos com uniformes táticos e óculos escuros",
-      "por": "imagem",
-      "em": "2026-11-19T00:15:31-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-gamespot",
-    "data": "2026-11-19",
-    "horario": "14:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "O transporte público de GTA 6 tem horário e atrasa 🚌\n\n#gta6 #gtavi #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "gamespot",
-      "link": "https://www.instagram.com/reel/Df5vli-ip1t/",
-      "titulo": "gemini-regra",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "personagens jogando e homem vestido conversando",
-      "por": "imagem",
-      "em": "2026-11-19T00:15:33-03:00"
-    }
-  },
-  {
-    "slug": "gta-6-gta6latest",
-    "data": "2026-11-19",
-    "horario": "14:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Dá para andar de jet ski com um cachorro em GTA 6 🐶\n\n#gta6 #gtavi #gta #pixelzada",
+    "legenda": "Dá pra empurrar o jet ski de volta pra água em GTA 6. Vídeo: @gta6latest (OakleyNoble)\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "gta6latest",
-      "link": "https://www.instagram.com/reel/Df5GIwTyOxG/",
-      "titulo": "gemini-regra",
-      "revisado": false
+      "link": "https://www.instagram.com/reel/Df6OSN4ym9V/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
       "moldura": "simples-branca"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "personagens jogando em jet ski com um cachorro no mar",
-      "por": "imagem",
-      "em": "2026-11-19T00:15:34-03:00"
+      "motivo": "quadros conferidos à mão em 19/11",
+      "por": "revisão manual",
+      "em": "2026-11-19T09:24:17.383050+00:00"
     }
   },
   {
@@ -8953,34 +8897,6 @@
       "motivo": "quadros conferidos à mão em 18/11",
       "por": "revisão manual",
       "em": "2026-11-18T18:13:35.017716+00:00"
-    }
-  },
-  {
-    "slug": "empurrar-jet-ski-de-volta-agua-gta6",
-    "data": "2026-11-20",
-    "horario": "13:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Dá pra empurrar o jet ski de volta pra água em GTA 6. Vídeo: @gta6latest (OakleyNoble)\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "gta6latest",
-      "link": "https://www.instagram.com/reel/Df6OSN4ym9V/",
-      "titulo": "claude",
-      "revisado": true
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gameplay",
-      "jogo": "gta6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 19/11",
-      "por": "revisão manual",
-      "em": "2026-11-19T09:24:17.383050+00:00"
     }
   }
 ]
