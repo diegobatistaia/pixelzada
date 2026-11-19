@@ -316,5 +316,27 @@
     "motivo": "streamer com torso nu ocupando parte dos quadros",
     "por": "imagem",
     "em": "2026-11-19T03:14:38-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "91-gta6-twitch-burgaofps.mp4",
+    "link": "https://www.twitch.tv/burgaofps/clip/NimbleResilientCatLitty-_1Sn8mkXy8ycjMeb",
+    "perfil": "twitch/BURGAOfps",
+    "legenda": "+18🟢 GTA 6 - LIVE DOS APRECIADORES DE GAMEPLAY AVANÇADA🟢 !LINKS🟢",
+    "risco": "alto",
+    "motivo": "palavras de risco: +18",
+    "por": "texto",
+    "em": "2026-11-19T03:41:07-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "93-gta6-twitch-meikodrj.mp4",
+    "link": "https://www.twitch.tv/meikodrj/clip/CrepuscularTolerantChinchillaBudBlast-cFURQrvg9uvXKLs3",
+    "perfil": "twitch/MeikodRJ",
+    "legenda": "FURTOU O JATO PELA PORTA DA FRENTE HISTORICO",
+    "risco": "medio",
+    "motivo": "streamer sem camisa ocupando parte dos quadros",
+    "por": "imagem",
+    "em": "2026-11-19T03:42:44-03:00"
   }
 ]
