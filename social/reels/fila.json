@@ -8111,9 +8111,96 @@
     }
   },
   {
-    "slug": "gta6-corte-alanzoka-29",
+    "slug": "gta6-corte-alanzoka-30",
     "data": "2026-11-19",
     "horario": "18:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/AliveFrozenCobblerUnSane-zQ2C5qL4TCvp3ji3",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de jogo de corrida com carros",
+      "por": "imagem",
+      "em": "2026-11-19T17:13:23-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-31",
+    "data": "2026-11-19",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/RoughEntertainingSandstormSpicyBoy-kBo7GWmCBYx9OWTi",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer de games e gameplay com personagem vestido",
+      "por": "imagem",
+      "em": "2026-11-19T17:13:28-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-32",
+    "data": "2026-11-19",
+    "horario": "19:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/SaltySplendidStorkDBstyle-9FSUhg1pxRTcM0f3",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de simulador de voo",
+      "por": "imagem",
+      "em": "2026-11-19T17:13:32-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-29",
+    "data": "2026-11-19",
+    "horario": "19:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -8142,7 +8229,7 @@
   {
     "slug": "gta6-corte-alanzoka-25",
     "data": "2026-11-19",
-    "horario": "18:30",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -8171,7 +8258,7 @@
   {
     "slug": "gta6-corte-sofiaespanha",
     "data": "2026-11-19",
-    "horario": "19:00",
+    "horario": "20:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 sofiaespanha jogando GTA 6\n📺 twitch.tv/sofiaespanha\n\n#gta6 #gtavi #sofiaespanha #pixelzada",
@@ -8200,7 +8287,7 @@
   {
     "slug": "gta6-corte-alanzoka-26",
     "data": "2026-11-19",
-    "horario": "19:30",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -8229,7 +8316,7 @@
   {
     "slug": "gta6-corte-alanzoka-23",
     "data": "2026-11-19",
-    "horario": "20:00",
+    "horario": "21:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -8258,7 +8345,7 @@
   {
     "slug": "gta6-corte-alanzoka-24",
     "data": "2026-11-19",
-    "horario": "20:30",
+    "horario": "22:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
