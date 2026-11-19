@@ -6827,7 +6827,7 @@
     "slug": "gta-6-gamespot-2",
     "data": "2026-11-19",
     "horario": "02:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Curtir foto no GTA 6 pode iniciar uma missão 📱\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -6849,6 +6849,19 @@
       "motivo": "apresenta pessoas vestidas em um podcast e cenas de motocross",
       "por": "imagem",
       "em": "2026-11-19T01:41:47-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T02:31:41-03:00",
+      "media_id": "18094046210696085",
+      "permalink": "https://www.instagram.com/reel/Df6VgQolI1M/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
