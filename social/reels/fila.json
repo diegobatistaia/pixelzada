@@ -6406,7 +6406,7 @@
     "slug": "roubados-por-npc-gta6",
     "data": "2026-11-18",
     "horario": "20:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "TV",
     "legenda": "Fica esperto: os NPCs de GTA 6 tentam te assaltar! 😳 A Lucia quase perdeu o carro…\n\nSegue @pixelzada.br pra acompanhar o GTA 6.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -6428,6 +6428,19 @@
       "motivo": "quadros conferidos à mão em 18/11",
       "por": "revisão manual",
       "em": "2026-11-18T23:28:15.121268+00:00"
+    },
+    "publicado": {
+      "em": "2026-11-18T20:59:34-03:00",
+      "media_id": "18056101211597779",
+      "permalink": "https://www.instagram.com/reel/Df5vhaklK2Q/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
