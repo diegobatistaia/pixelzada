@@ -238,7 +238,8 @@ def legenda(titulo: str, emoji: str, tema: str, tags: list[str]) -> str:
     texto = re.sub(r"</?em>", "", titulo)
     base = TAGS.get(tema, TAGS["games"])
     todas = list(dict.fromkeys([*tags, *base]))[:4] + ["#pixelzada"]
-    return f"{texto} {emoji}\n\nSegue @pixelzada.br pra acompanhar {SEGUE.get(tema, SEGUE['games'])}.\n\n{' '.join(todas)}"
+    # Diego, 18/11: sem frase de CTA ("Segue @pixelzada.br pra acompanhar...") na legenda.
+    return f"{texto} {emoji}\n\n{' '.join(todas)}"
 
 
 def legenda_streamer(canal: str) -> str:
