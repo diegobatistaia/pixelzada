@@ -7498,7 +7498,7 @@
     "slug": "gta6-corte-nabrizarp",
     "data": "2026-11-19",
     "horario": "10:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 nabrizarp jogando GTA 6\n📺 twitch.tv/nabrizarp\n\n#gta6 #gtavi #nabrizarp #pixelzada",
     "tentativas": 0,
@@ -7521,6 +7521,19 @@
       "motivo": "streamer vestida e gameplay de jogo de ação com personagem vestido",
       "por": "imagem",
       "em": "2026-11-19T09:44:09-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T10:32:10-03:00",
+      "media_id": "18382908544232519",
+      "permalink": "https://www.instagram.com/reel/Df7MgCtCme2/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
