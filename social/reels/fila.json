@@ -7120,7 +7120,7 @@
     "slug": "gta6-corte-xarola",
     "data": "2026-11-19",
     "horario": "06:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 XAROLA_ jogando GTA 6\n📺 twitch.tv/xarola_\n\n#gta6 #gtavi #xarola_ #pixelzada",
     "tentativas": 0,
@@ -7143,6 +7143,19 @@
       "motivo": "streamer de games vestido e cenas de gameplay",
       "por": "imagem",
       "em": "2026-11-19T05:17:55-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T06:01:43-03:00",
+      "media_id": "18002750522817709",
+      "permalink": "https://www.instagram.com/reel/Df6ti6WAjZK/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
