@@ -6700,7 +6700,7 @@
     "slug": "gta6-lancado-players-0001",
     "data": "2026-11-19",
     "horario": "01:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "GTA 6 é lançado. Os players às 00:01... 🚗💥\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -6724,7 +6724,20 @@
       "por": "revisão manual",
       "em": "2026-11-15T21:28:32-03:00"
     },
-    "fixo": true
+    "fixo": true,
+    "publicado": {
+      "em": "2026-11-19T01:00:43-03:00",
+      "media_id": "18654613279049571",
+      "permalink": "https://www.instagram.com/reel/Df6LHLCEROd/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
+    }
   },
   {
     "slug": "gta6-corte-cellbit-2",
