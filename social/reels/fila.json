@@ -7078,7 +7078,7 @@
     "slug": "gta6-corte-douglassola",
     "data": "2026-11-19",
     "horario": "05:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Douglassola jogando GTA 6\n📺 twitch.tv/douglassola\n\n#gta6 #gtavi #douglassola #pixelzada",
     "tentativas": 0,
@@ -7101,6 +7101,19 @@
       "motivo": "Pessoas vestidas sentadas no sofá e explorando um quarto, sem conteúdo sugestivo ou nudez.",
       "por": "imagem",
       "em": "2026-11-19T04:44:57-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T05:31:37-03:00",
+      "media_id": "18474125101189810",
+      "permalink": "https://www.instagram.com/reel/Df6qGNhD1ih/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
