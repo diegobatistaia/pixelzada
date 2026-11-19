@@ -119,7 +119,10 @@
     "query": "GTA 6 Xbox Series S",
     "alt": "Cena de GTA 6 divulgada pela IGN",
     "url": "https://assets-prd.ignimgs.com/2026/11/18/gtavi-41-1795004610502.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-xbox-series-s-usa-fsr-4-para-ir-de-8b986fdd.jpg",
+    "source_url": "",
+    "foco": "54% 21%"
   },
   "sources": [
     {
@@ -135,5 +138,7 @@
       "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD's FSR 4.1 upscaling"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T10:47:59+00:00",
+  "updated_at": "2026-11-19T10:47:59+00:00"
 }

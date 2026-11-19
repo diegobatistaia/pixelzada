@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:48:00 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6 no Xbox Series S usa FSR 4 para ir de 720p a 1080p, confirma a Rockstar</title>
+      <link>https://pixelzada.com.br/pt/gta-6-xbox-series-s-usa-fsr-4-para-ir-de-720p-a-1080p-rockstar-confirma/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-xbox-series-s-usa-fsr-4-para-ir-de-720p-a-1080p-rockstar-confirma/</guid>
+      <description>A Rockstar confirma que GTA 6 no Xbox Series S parte de 720p e usa o FSR 4 da AMD para chegar a 1080p, enquanto PS5, Series X e PS5 Pro usam outras soluções.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 19 Nov 2026 10:47:59 +0000</pubDate>
+    </item>
     <item>
       <title>The Game Awards 2026: Crimson Desert, Marathon e Fire Emblem estão entre os jogos que fãs dizem ter sido esquecidos</title>
       <link>https://pixelzada.com.br/pt/the-game-awards-2026-jogos-esquecidos-crimson-desert-marathon-fire-emblem-e-gears/</link>
@@ -238,14 +246,6 @@
       <description>A Pearl Abyss, de Crimson Desert, diz que vai usar IA em toda a produção de jogos. Veja o que a carta de resultados afirma e o histórico de polêmica do estúdio.</description>
       <category>Indústria</category>
       <pubDate>Sun, 15 Nov 2026 16:54:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Golpes de GTA 6: download falso, beta, lojas clonadas e cripto — como não cair</title>
-      <link>https://pixelzada.com.br/pt/golpes-de-gta-6-download-falso-beta-lojas-clonadas-e-cripto-como-nao-cair/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/golpes-de-gta-6-download-falso-beta-lojas-clonadas-e-cripto-como-nao-cair/</guid>
-      <description>Golpes de GTA 6: loja falsa com Pix, jogo vazado por US$ 1.000, beta falso e cripto. Veja como reconhecer cada um e como comprar com segurança no lançamento.</description>
-      <category>Guias</category>
-      <pubDate>Sun, 15 Nov 2026 12:40:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
