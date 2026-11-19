@@ -6447,7 +6447,7 @@
     "slug": "gta6-12-curiosidades-video-longo",
     "data": "2026-11-18",
     "horario": "21:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Vídeo longo horizontal",
     "legenda": "12 coisas que GTA 6 tem e nenhum trailer mostrou\n\nGTA 6 já está nas mãos dos jogadores e a gente separou 12 curiosidades do mapa e do mundo aberto de Leonida, tudo com imagens reais do jogo e sem spoiler da história.\n\n#gta6 #gtavi #leonida #pixelzada",
     "tentativas": 0,
@@ -6468,6 +6468,19 @@
       "risco": "baixo",
       "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
       "por": "manual"
+    },
+    "publicado": {
+      "em": "2026-11-18T21:30:05-03:00",
+      "media_id": "18170476159474057",
+      "permalink": "https://www.instagram.com/reel/Df5y_8BnGPc/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
