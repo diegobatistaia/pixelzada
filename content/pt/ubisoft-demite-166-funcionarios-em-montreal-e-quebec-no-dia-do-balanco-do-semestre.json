@@ -120,7 +120,9 @@
     "query": "Ubisoft layoffs",
     "alt": "Logotipo da Ubisoft divulgado pela GamesIndustry.biz",
     "url": "https://assetsio.gnwcdn.com/ubisoft-logo-black.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: GamesIndustry.biz"
+    "credit": "Imagem: GamesIndustry.biz",
+    "path": "/assets/img/ubisoft-demite-166-funcionarios-em-montr-16d47cc4.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -148,5 +150,7 @@
       "title": "Ubisoft demite 166 funcionários em Montreal e Quebec"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-19T22:49:30+00:00",
+  "updated_at": "2026-11-19T22:49:30+00:00"
 }
