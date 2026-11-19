@@ -8361,31 +8361,31 @@
     }
   },
   {
-    "slug": "gta-6-gamespot",
+    "slug": "npc-fantasiado-de-furry-na-rua-gta6",
     "data": "2026-11-19",
     "horario": "21:00",
     "status": "agendado",
     "estilo": "Simples branca",
-    "legenda": "Como assaltar lojas e bancos no GTA 6 💰\n\n#gta6 #gtavi #gta #pixelzada",
+    "legenda": "NPC fantasiado de furry no meio da rua em GTA 6. Vídeo: @gamespot\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
       "perfil": "gamespot",
-      "link": "https://www.instagram.com/reel/Df7unIfgll0/",
-      "titulo": "gemini-regra",
-      "revisado": false
+      "link": "https://www.instagram.com/reel/Df7_yfDgnCh/",
+      "titulo": "claude",
+      "revisado": true
     },
     "etiquetas": {
-      "formato": "outro",
-      "tema": "gta6",
-      "jogo": "GTA 6",
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
       "moldura": "simples-branca"
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "imagens mostram gameplay de jogo com personagens vestidos, interface e acoes comuns",
-      "por": "imagem",
-      "em": "2026-11-19T18:34:25-03:00"
+      "motivo": "quadros conferidos à mão em 19/11",
+      "por": "revisão manual",
+      "em": "2026-11-19T23:21:51.342009+00:00"
     }
   },
   {
