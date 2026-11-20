@@ -8964,7 +8964,7 @@
     "slug": "gta-6-sougamergeek",
     "data": "2026-11-20",
     "horario": "04:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "No GTA 6 o personagem se espreme pra entrar em vaga apertada 🚗\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -8986,6 +8986,19 @@
       "motivo": "GitHub Models: resposta inesperada (4 bytes): 'OK\\r\\n'",
       "por": "imagem",
       "em": "2026-11-20T03:44:13-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T04:04:45-03:00",
+      "media_id": "17905178187376730",
+      "permalink": "https://www.instagram.com/reel/Df9FDt6Fawi/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
