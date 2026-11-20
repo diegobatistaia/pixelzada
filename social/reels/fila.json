@@ -11196,6 +11196,34 @@
     }
   },
   {
+    "slug": "lucia-salao-de-beleza-gta6",
+    "data": "2026-11-21",
+    "horario": "13:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Lucia muda cabelo e maquiagem no salão de beleza em GTA 6. Vídeo: @ignbrasil\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "ignbrasil",
+      "link": "https://www.instagram.com/reel/Df90fwTx63Q/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 20/11",
+      "por": "revisão manual",
+      "em": "2026-11-20T16:18:00-03:00"
+    }
+  },
+  {
     "slug": "gta6-sai-em-48-horas-video-longo",
     "data": "2026-11-21",
     "horario": "19:00",
