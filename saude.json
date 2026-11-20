@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T23:30-03:00",
+ "atualizado": "2026-11-20T00:28-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
@@ -18,23 +18,23 @@
   }
  },
  "fila_reels": {
-  "agendados": 79,
+  "agendados": 78,
   "meta_por_dia": 48,
   "dias_de_reserva": 1.6,
-  "grade_cheia_ate": "2026-11-20",
-  "sem_revisao": 58
+  "grade_cheia_ate": null,
+  "sem_revisao": 57
  },
  "reels_hoje": {
   "meta": 48,
-  "publicados": 47,
-  "deviam_ter_saido": 47,
+  "publicados": 1,
+  "deviam_ter_saido": 0,
   "atrasados": []
  },
  "problemas": [
   {
    "id": "reserva",
    "nivel": "amarelo",
-   "texto": "A fila de Reels tem só 1,6 dia(s) de reserva (79 vídeos; meta 48/dia)."
+   "texto": "A fila de Reels tem só 1,6 dia(s) de reserva (78 vídeos; meta 48/dia)."
   }
  ]
 }
