@@ -7,77 +7,78 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-19T18:35-03:00",
+ "atualizado": "2026-11-20T00:16-03:00",
  "hoje": {
-  "data": "2026-11-19",
+  "data": "2026-11-20",
   "reels": {
    "meta": 48,
-   "publicados": 37,
-   "deviam_ter_saido": 37,
+   "publicados": 1,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 5,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 83,
+  "agendados": 78,
   "meta_por_dia": 48,
-  "dias_de_reserva": 1.7,
-  "grade_cheia_ate": "2026-11-20",
-  "sem_revisao": 64,
+  "dias_de_reserva": 1.6,
+  "grade_cheia_ate": null,
+  "sem_revisao": 57,
   "por_dia": [
    {
-    "data": "2026-11-19",
-    "agendados": 10,
-    "meta": 48
-   },
-   {
     "data": "2026-11-20",
-    "agendados": 48,
+    "agendados": 47,
     "meta": 48
    },
    {
     "data": "2026-11-21",
-    "agendados": 25,
+    "agendados": 31,
     "meta": 48
    }
   ]
  },
  "site": {
-  "total": 248,
-  "hoje": 8,
+  "total": 249,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Roteirista de Clair Obscur: Expedition 33 deixou a Sandfall e quer criar fundo para narrativa",
-   "url": "https://pixelzada.com.br/pt/roteirista-de-clair-obscur-expedition-33-deixou-a-sandfall-e-quer-criar-fundo-para-narrativa/",
-   "em": "2026-11-19T17:41:57-03:00"
+   "titulo": "Ubisoft demite 166 funcionários em Montreal e Quebec no dia do balanço do semestre",
+   "url": "https://pixelzada.com.br/pt/ubisoft-demite-166-funcionarios-em-montreal-e-quebec-no-dia-do-balanco-do-semestre/",
+   "em": "2026-11-19T19:49:30-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "19/11/2026 18:27",
+  "ultima_coleta": "19/11/2026 23:55",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A1APMX6qVocCFecSc25hEku\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Ab6lLsrRMpTIbCBr1qH43KC\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 3,
+  "falhas_24h": 4,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-19T22:04:42-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44650871911",
+    "resolvido": true
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-19T20:04:17-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44634391543",
+    "resolvido": true
+   },
    {
     "workflow": "Coletar",
     "em": "2026-11-19T15:41:48-03:00",
@@ -89,12 +90,6 @@
     "em": "2026-11-19T12:05:01-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44550772662",
     "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-19T06:06:50-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44493419034",
-    "resolvido": true
    }
   ]
  },
@@ -103,20 +98,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 101
+   "youtube": 102
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-13",
-   "reels": 13,
-   "reels_meta": 15,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 10,
-   "views_reels": null
-  },
   {
    "data": "2026-11-14",
    "reels": 15,
@@ -164,11 +150,20 @@
   },
   {
    "data": "2026-11-19",
-   "reels": 37,
+   "reels": 48,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 8,
+   "materias": 9,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-20",
+   "reels": 1,
+   "reels_meta": 48,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
    "views_reels": null
   }
  ],
@@ -220,12 +215,8 @@
  ],
  "alertas": [
   {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
-  },
-  {
    "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,7 dia(s) de reserva"
+   "texto": "Fila de Reels com só 1,6 dia(s) de reserva"
   },
   {
    "nivel": "amarelo",
