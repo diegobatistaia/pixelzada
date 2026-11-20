@@ -11328,6 +11328,62 @@
     }
   },
   {
+    "slug": "ciclista-bate-porta-carro-gta6",
+    "data": "2026-11-21",
+    "horario": "13:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Ciclista bate na porta aberta do carro em GTA 6. Vídeo: @sougamergeek\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df-kAd8BRwy/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 20/11",
+      "por": "revisão manual",
+      "em": "2026-11-20T20:16:27-03:00"
+    }
+  },
+  {
+    "slug": "primeira-pessoa-caminhao-bombeiros-gta6",
+    "data": "2026-11-21",
+    "horario": "14:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Jogador rouba um caminhão de bombeiros em primeira pessoa em GTA 6. Vídeo: @grandtheftauto6\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/Df91i4yhs1G/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 20/11",
+      "por": "revisão manual",
+      "em": "2026-11-20T20:16:27-03:00"
+    }
+  },
+  {
     "slug": "gta6-sai-em-48-horas-video-longo",
     "data": "2026-11-21",
     "horario": "19:00",
