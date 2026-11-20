@@ -9845,7 +9845,7 @@
     "slug": "empurrar-jet-ski-de-volta-agua-gta6",
     "data": "2026-11-20",
     "horario": "14:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Dá pra empurrar o jet ski de volta pra água em GTA 6. Vídeo: @gta6latest (OakleyNoble)\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -9867,6 +9867,19 @@
       "motivo": "quadros conferidos à mão em 19/11",
       "por": "revisão manual",
       "em": "2026-11-19T09:24:17.383050+00:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T14:31:59-03:00",
+      "media_id": "17931695991423607",
+      "permalink": "https://www.instagram.com/reel/Df-MvHFDu2Y/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
