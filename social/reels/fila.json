@@ -8377,7 +8377,7 @@
     "slug": "npc-fantasiado-de-furry-na-rua-gta6",
     "data": "2026-11-19",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "NPC fantasiado de furry no meio da rua em GTA 6. Vídeo: @gamespot\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -8399,6 +8399,19 @@
       "motivo": "quadros conferidos à mão em 19/11",
       "por": "revisão manual",
       "em": "2026-11-19T23:21:51.342009+00:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T21:04:28-03:00",
+      "media_id": "17956170015313671",
+      "permalink": "https://www.instagram.com/reel/Df8U2iqjTQP/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
