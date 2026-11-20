@@ -10222,7 +10222,7 @@
     "slug": "gta5-vs-gta6-10-diferencas-video-longo",
     "data": "2026-11-20",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Vídeo longo horizontal",
     "legenda": "GTA 5 vs GTA 6: 10 diferenças que vão mudar o jeito que você joga\n\nGTA 5 vs GTA 6: 13 anos separam os dois, e quase tudo mudou. Comparei as 10 maiores diferenças pelo que a Rockstar já mostrou: protagonistas, mapa, multidões, água, redes sociais, polícia, carros, animais, gráficos e o que pode não voltar.\n\n#gta6 #gta5 #gtavi #pixelzada",
     "tentativas": 0,
@@ -10243,6 +10243,19 @@
       "risco": "baixo",
       "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
       "por": "manual"
+    },
+    "publicado": {
+      "em": "2026-11-20T19:02:03-03:00",
+      "media_id": "18091300412300435",
+      "permalink": "https://www.instagram.com/reel/Df-rqhulcbZ/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
