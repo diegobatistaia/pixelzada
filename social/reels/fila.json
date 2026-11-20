@@ -8670,7 +8670,7 @@
     "slug": "gta6-corte-sofiaespanha",
     "data": "2026-11-20",
     "horario": "00:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 sofiaespanha jogando GTA 6\n📺 twitch.tv/sofiaespanha\n\n#gta6 #gtavi #sofiaespanha #pixelzada",
     "tentativas": 0,
@@ -8693,6 +8693,19 @@
       "motivo": "apresenta uma streamer jogando e cenas de um jogo com personagens vestidos, sem conteúdo de nudez ou apelo sexual",
       "por": "imagem",
       "em": "2026-11-19T15:33:57-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T00:30:54-03:00",
+      "media_id": "18122191555997549",
+      "permalink": "https://www.instagram.com/reel/Df8seXuDCWR/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
