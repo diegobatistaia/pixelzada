@@ -105,7 +105,9 @@
     "query": "GTA 6 primeira pessoa",
     "alt": "Imagem de GTA 6 divulgada pela GamesRadar",
     "url": "https://cdn.mos.cms.futurecdn.net/y8guuGZuJhKQUat2CYF87n-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/gta-6-primeira-pessoa-como-ativar-o-truq-a84fe3ec.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -127,5 +129,7 @@
       "title": "Does GTA 6 have a first person mode?"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T12:49:24+00:00",
+  "updated_at": "2026-11-20T12:49:24+00:00"
 }

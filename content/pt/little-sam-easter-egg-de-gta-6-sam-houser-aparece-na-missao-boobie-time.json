@@ -95,7 +95,10 @@
     "query": "GTA 6 Little Sam",
     "alt": "Imagem de GTA 6 divulgada pela Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/11/GTa-6-sam-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/little-sam-easter-egg-de-gta-6-sam-house-94b7e6aa.jpg",
+    "source_url": "",
+    "foco": "54% 41%"
   },
   "sources": [
     {
@@ -117,5 +120,7 @@
       "title": "Sam Houser: with GTA 6, Rockstar tried to create an experience that will exceed your expectations"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T12:49:24+00:00",
+  "updated_at": "2026-11-20T12:49:24+00:00"
 }
