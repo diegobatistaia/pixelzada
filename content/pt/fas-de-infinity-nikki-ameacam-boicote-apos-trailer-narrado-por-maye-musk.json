@@ -100,7 +100,10 @@
     "query": "Infinity Nikki",
     "alt": "Cena de Infinity Nikki divulgada pela Eurogamer",
     "url": "https://assetsio.gnwcdn.com/infinity-nikki-posing-with-du-yubai-after-white-jade-performance.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/fas-de-infinity-nikki-ameacam-boicote-ap-eaecb988.jpg",
+    "source_url": "",
+    "foco": "48% 25%"
   },
   "sources": [
     {
@@ -116,5 +119,7 @@
       "title": "Infinity Nikki players are planning to girl-cott the game over Maye Musk ad"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T10:49:26+00:00",
+  "updated_at": "2026-11-20T10:49:26+00:00"
 }

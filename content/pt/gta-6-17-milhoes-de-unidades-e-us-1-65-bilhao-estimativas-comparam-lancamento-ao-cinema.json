@@ -109,7 +109,10 @@
     "query": "GTA 6 lançamento",
     "alt": "Arte de GTA 6 divulgada pela GamesRadar",
     "url": "https://cdn.mos.cms.futurecdn.net/sxWdBUBimAc5dB53dcoBxh-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/gta-6-17-milhoes-de-unidades-e-us-1-65-b-26906002.jpg",
+    "source_url": "",
+    "foco": "54% 11%"
   },
   "sources": [
     {
@@ -125,5 +128,7 @@
       "title": "Live Updates On GTA 6: The Biggest Launch In Gaming History"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T10:49:26+00:00",
+  "updated_at": "2026-11-20T10:49:26+00:00"
 }
