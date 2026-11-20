@@ -9089,7 +9089,7 @@
     "slug": "gta6-corte-rakin",
     "data": "2026-11-20",
     "horario": "05:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Rakin jogando GTA 6\n📺 twitch.tv/rakin\n\n#gta6 #gtavi #rakin #pixelzada",
     "tentativas": 0,
@@ -9112,6 +9112,19 @@
       "motivo": "streamer vestido e gameplay sem conteúdo adulto",
       "por": "imagem",
       "em": "2026-11-19T11:52:19-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T05:31:28-03:00",
+      "media_id": "18037565573905266",
+      "permalink": "https://www.instagram.com/reel/Df9O4NWgaFP/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
