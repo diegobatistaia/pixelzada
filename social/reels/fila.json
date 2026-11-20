@@ -9131,7 +9131,7 @@
     "slug": "gta6-corte-handsomed11",
     "data": "2026-11-20",
     "horario": "06:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 HandsomeD11 jogando GTA 6\n📺 twitch.tv/handsomed11\n\n#gta6 #gtavi #handsomed11 #pixelzada",
     "tentativas": 0,
@@ -9154,6 +9154,19 @@
       "motivo": "streamer vestido e cenas de gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-19T11:52:22-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T06:01:16-03:00",
+      "media_id": "18130798816858629",
+      "permalink": "https://www.instagram.com/reel/Df9SSdZjwwH/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
