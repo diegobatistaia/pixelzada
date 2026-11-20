@@ -109,7 +109,10 @@
     "query": "GTA 6 vendas",
     "alt": "Imagem de GTA 6 divulgada pela Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/11/gta-6-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/gta-6-faz-us-3-79-bilhoes-em-um-dia-e-ve-4f1a86b5.jpg",
+    "source_url": "",
+    "foco": "46% 16%"
   },
   "sources": [
     {
@@ -156,5 +159,7 @@
     }
   ],
   "fonte_unica": "anuncio_oficial",
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T20:51:33+00:00",
+  "updated_at": "2026-11-20T20:51:33+00:00"
 }
