@@ -111,7 +111,10 @@
     "query": "GTA 6 Jason peso",
     "alt": "Imagem de Jason em GTA 6 divulgada pela Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/11/jasonweight.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/gta-6-peso-e-musculo-como-engordar-jason-6b171085.jpg",
+    "source_url": "",
+    "foco": "45% 21%"
   },
   "sources": [
     {
@@ -127,5 +130,7 @@
       "title": "GTA 6 brings back weight and muscle mechanics"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T14:49:43+00:00",
+  "updated_at": "2026-11-20T14:49:43+00:00"
 }
