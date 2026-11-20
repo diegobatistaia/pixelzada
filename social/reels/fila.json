@@ -8460,7 +8460,7 @@
     "slug": "gta6-corte-move-mind-3",
     "data": "2026-11-19",
     "horario": "22:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Move_Mind jogando GTA 6\n📺 twitch.tv/move_mind\n\n#gta6 #gtavi #move_mind #pixelzada",
     "tentativas": 0,
@@ -8483,6 +8483,19 @@
       "motivo": "streamer e gameplay de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-19T17:43:39-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-19T21:58:45-03:00",
+      "media_id": "18050173103829714",
+      "permalink": "https://www.instagram.com/reel/Df8bKbfggft/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
