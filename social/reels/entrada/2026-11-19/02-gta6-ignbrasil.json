@@ -8,5 +8,11 @@
   "legenda": "IMPOSSÍVEL AGUENTAR O SPEED JOGANDO GTA! 😂😂 #ignbrasil #viral #gta6",
   "legenda_completa": "IMPOSSÍVEL AGUENTAR O SPEED JOGANDO GTA! 😂😂 #ignbrasil #viral #gta6",
   "horario_sugerido": "12:00",
-  "via": "yt-dlp"
+  "via": "yt-dlp",
+  "checagem": {
+    "risco": "desconhecido",
+    "motivo": "GitHub Models: resposta inesperada (4 bytes): 'OK\\r\\n'",
+    "por": "imagem",
+    "em": "2026-11-20T00:04:29-03:00"
+  }
 }

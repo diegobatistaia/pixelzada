@@ -8,5 +8,11 @@
   "legenda": "Em GTA 6 os personagens se espremem para entrar e sair de carros estacionados em espaços apertados. Esse detalhe faz parte do novo sistema dinâmico de movimenta",
   "legenda_completa": "Em GTA 6 os personagens se espremem para entrar e sair de carros estacionados em espaços apertados. Esse detalhe faz parte do novo sistema dinâmico de movimentação e física da Rockstar Games, que conta com cerca de 600 mil animações dedicadas a tornar as interações com o ambiente mais naturais",
   "horario_sugerido": "14:00",
-  "via": "yt-dlp"
+  "via": "yt-dlp",
+  "checagem": {
+    "risco": "desconhecido",
+    "motivo": "GitHub Models: resposta inesperada (4 bytes): 'OK\\r\\n'",
+    "por": "imagem",
+    "em": "2026-11-20T00:04:29-03:00"
+  }
 }

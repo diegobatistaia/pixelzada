@@ -8,5 +8,11 @@
   "legenda": "A GTA 6 player gets an unexpected surprise on the highway after cracking open the back of a zoo transport truck. 😅 🎥 X / KexTheHusky",
   "legenda_completa": "A GTA 6 player gets an unexpected surprise on the highway after cracking open the back of a zoo transport truck. 😅 🎥 X / KexTheHusky",
   "horario_sugerido": "10:00",
-  "via": "API"
+  "via": "API",
+  "checagem": {
+    "risco": "desconhecido",
+    "motivo": "GitHub Models: resposta inesperada (4 bytes): 'OK\\r\\n'",
+    "por": "imagem",
+    "em": "2026-11-20T00:04:27-03:00"
+  }
 }
