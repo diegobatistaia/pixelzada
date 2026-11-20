@@ -9173,7 +9173,7 @@
     "slug": "gta6-corte-impakt-2",
     "data": "2026-11-20",
     "horario": "06:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 impakt jogando GTA 6\n📺 twitch.tv/impakt\n\n#gta6 #gtavi #impakt #pixelzada",
     "tentativas": 0,
@@ -9196,6 +9196,19 @@
       "motivo": "apresenta apenas streamer vestido, cenas de gameplay com armas e carros, sem nudez",
       "por": "imagem",
       "em": "2026-11-19T11:52:40-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T06:32:10-03:00",
+      "media_id": "18118571903140273",
+      "permalink": "https://www.instagram.com/reel/Df9V0rOCmzK/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
