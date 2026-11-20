@@ -8,5 +8,11 @@
   "legenda": "Kyle, the pilot of the crop duster plane, has a particular reaction in this GTA VI side mission! 🎥: ishowspeed",
   "legenda_completa": "Kyle, the pilot of the crop duster plane, has a particular reaction in this GTA VI side mission! 🎥: ishowspeed",
   "horario_sugerido": "10:00",
-  "via": "yt-dlp"
+  "via": "yt-dlp",
+  "checagem": {
+    "risco": "desconhecido",
+    "motivo": "GitHub Models: resposta inesperada (4 bytes): 'OK\\r\\n'",
+    "por": "imagem",
+    "em": "2026-11-20T00:59:05-03:00"
+  }
 }
