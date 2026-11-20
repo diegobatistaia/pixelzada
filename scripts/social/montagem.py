@@ -400,6 +400,11 @@ def passa_na_checagem(mp4: Path) -> bool:
         mp4.unlink()
         meta.unlink()
         return False
+    if chk["risco"] == "desconhecido":
+        # Sem IA para olhar os quadros (ex.: Gemini sem cota, 20/11): o bruto não entra
+        # sozinho na fila; fica na entrada para a revisão à mão (a barreira continua valendo).
+        print(f"  {mp4.name}: checagem de nudez sem resposta; fica para a revisão à mão")
+        return False
     info["checagem"] = chk
     meta.write_text(json.dumps(info, ensure_ascii=False, indent=2), encoding="utf-8")
     return True
