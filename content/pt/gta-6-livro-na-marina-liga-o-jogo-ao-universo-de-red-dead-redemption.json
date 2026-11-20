@@ -98,9 +98,10 @@
   ],
   "image": {
     "query": "GTA 6 Red Dead Redemption 2",
-    "alt": "Imagem de Red Dead Redemption 2 divulgada pela IGN",
+    "alt": "Arte em pixel art da Pixelzada, no tema GTA 6, para a matéria: GTA 6: livro encontrado na marina de Brian liga o jogo ao universo de Red Dead Redemption",
     "url": "https://assets-prd.ignimgs.com/2026/11/20/rdr2-1795172002852.jpeg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Arte: Pixelzada",
+    "path": "/assets/img/gta-6-livro-na-marina-liga-o-jogo-ao-uni-d4d17503.jpg"
   },
   "sources": [
     {
@@ -116,5 +117,7 @@
       "title": "GTA 6 Red Dead Redemption and other Rockstar games references"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-20T16:48:35+00:00",
+  "updated_at": "2026-11-20T16:48:35+00:00"
 }
