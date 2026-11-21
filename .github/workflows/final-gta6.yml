@@ -17,6 +17,14 @@ on:
         description: "Minutos finais de cada live gravada"
         required: false
         default: "30"
+      vod:
+        description: "Opcional: id de uma live gravada para baixar em pedaços de 5 min (de/ate em segundos)"
+        required: false
+        default: ""
+      trecho:
+        description: "Com vod: 'de ate' em segundos, ex. 10000 14650"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -43,7 +51,15 @@ jobs:
           CANAIS: ${{ inputs.canais }}
           DESDE: ${{ inputs.desde }}
           FIM: ${{ inputs.fim }}
-        run: python -m scripts.social.final_gta6 $CANAIS --desde "$DESDE" --fim "$FIM" --saida saida
+          VOD: ${{ inputs.vod }}
+          TRECHO: ${{ inputs.trecho }}
+        run: |
+          if [ -n "$VOD" ]; then
+            set -- $TRECHO
+            python -m scripts.social.final_gta6 x --vod "$VOD" --de "$1" --ate "$2" --saida saida
+          else
+            python -m scripts.social.final_gta6 $CANAIS --desde "$DESDE" --fim "$FIM" --saida saida
+          fi
       - name: Guardar na release final-gta6
         env:
           GH_TOKEN: ${{ github.token }}

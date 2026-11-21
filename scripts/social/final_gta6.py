@@ -21,9 +21,9 @@ from .lives import Falha, Twitch
 
 
 def baixar(url: str, saida: Path, secao: str | None = None, timeout: int = 1200) -> str:
-    cmd = ["yt-dlp", "-q", "--no-warnings", "-f", "best[height<=1080]/best", "-o", str(saida)]
+    cmd = ["yt-dlp", "-q", "--no-warnings", "-f", "best[height<=720]/best", "-o", str(saida)]
     if secao:
-        cmd += ["--download-sections", secao, "--force-keyframes-at-cuts"]
+        cmd += ["--download-sections", secao]
     try:
         r = subprocess.run(cmd + [url], capture_output=True, text=True, timeout=timeout)
     except subprocess.TimeoutExpired:
@@ -40,9 +40,22 @@ def main() -> None:
     ap.add_argument("--clipes", type=int, default=12)
     ap.add_argument("--fim", type=int, default=30, help="minutos finais de cada live gravada (0 = não baixa)")
     ap.add_argument("--saida", default="saida")
+    ap.add_argument("--vod", help="só baixa pedaços de 5 min desta live gravada (id), de --de até --ate segundos")
+    ap.add_argument("--de", type=int, default=0)
+    ap.add_argument("--ate", type=int, default=0)
     a = ap.parse_args()
     out = Path(a.saida)
     out.mkdir(parents=True, exist_ok=True)
+    if a.vod:
+        from concurrent.futures import ThreadPoolExecutor
+        url = f"https://www.twitch.tv/videos/{a.vod}"
+        pedacos = list(range(a.de, a.ate, 300))
+        def um(t: int) -> str:
+            return f"{t}: " + baixar(url, out / f"vod-{a.vod}-{t:06d}.mp4", f"*{t}-{min(t + 300, a.ate)}", timeout=1500)
+        with ThreadPoolExecutor(4) as ex:
+            for r in ex.map(um, pedacos):
+                print(r)
+        return
     tw = Twitch()
     ini = datetime.fromisoformat(a.desde).replace(tzinfo=timezone.utc)
     for login in a.logins:
