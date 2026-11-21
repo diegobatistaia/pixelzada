@@ -10514,7 +10514,7 @@
     "slug": "queda-de-aviao-ao-vivo-gta6",
     "data": "2026-11-20",
     "horario": "22:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Jogador flagra queda de avião ao vivo em GTA 6. Vídeo: @flowgamestv\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -10537,6 +10537,19 @@
       "motivo": "quadros conferidos à mão em 18/11",
       "por": "revisão manual",
       "em": "2026-11-18T23:28:15.121268+00:00"
+    },
+    "publicado": {
+      "em": "2026-11-20T22:31:11-03:00",
+      "media_id": "18112910819523923",
+      "permalink": "https://www.instagram.com/reel/Df_DkseCncT/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
