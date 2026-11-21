@@ -100,7 +100,10 @@
     "query": "GTA 6 lojas Ultimate Edition",
     "alt": "Imagem de GTA 6 divulgada pela IGN",
     "url": "https://assets-prd.ignimgs.com/2026/11/18/g-blog-12-1794995262221.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-lojas-exclusivas-da-ultimate-editi-54e00309.jpg",
+    "source_url": "",
+    "foco": "47% 41%"
   },
   "sources": [
     {
@@ -122,5 +125,7 @@
       "title": "Como resgatar os benefícios da Ultimate Edition de GTA 6"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-21T00:48:10+00:00",
+  "updated_at": "2026-11-21T00:48:10+00:00"
 }
