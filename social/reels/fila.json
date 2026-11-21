@@ -11357,7 +11357,7 @@
     "slug": "esposa-ouvindo-falar-de-gta6",
     "data": "2026-11-21",
     "horario": "09:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Minha esposa me ouvindo falar o dia todo de GTA 6 😂 Marca quem tá assim!\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11380,6 +11380,19 @@
       "motivo": "quadros conferidos à mão em 17/11",
       "por": "revisão manual",
       "em": "2026-11-17T11:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T09:33:56-03:00",
+      "media_id": "17915881401556271",
+      "permalink": "https://www.instagram.com/reel/DgAPah8le6y/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
