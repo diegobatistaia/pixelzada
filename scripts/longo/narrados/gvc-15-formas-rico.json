@@ -2,7 +2,7 @@
  "titulo": "GTA 6: NÃO gaste um centavo antes de ver essas 15 formas de ficar RICO",
  "so_gemini": true,
  "modelo_tts": "gemini-2.5-flash-preview-tts",
- "voz": "Puck",
+ "voz": "Sadachbia",
  "estilo": "Narre em português do Brasil como o Leo, um jovem gamer brasileiro de uns 20 anos que tem um canal de guias de GTA no YouTube: animado, simpático, falando direto com quem assiste, como um amigo contando um segredo, ritmo rápido mas claro, sem gritar. Leia exatamente este texto:\n\n",
  "logo": "scripts/longo/guia-vice-city/logo.b64",
  "sem_capa": true,
@@ -647,6 +647,5 @@
    ]
   }
  ],
- "voz_teste": true,
  "agrupar": 2
 }
