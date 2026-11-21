@@ -11467,9 +11467,67 @@
     }
   },
   {
-    "slug": "gta6-so-chega-dia-27",
+    "slug": "gta6-corte-italiazeta",
     "data": "2026-11-21",
     "horario": "11:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Italiazeta jogando GTA 6\n📺 twitch.tv/italiazeta\n\n#gta6 #gtavi #italiazeta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Italiazeta",
+      "link": "https://www.twitch.tv/italiazeta/clip/PowerfulWanderingCookieTF2John-BTTDp31JXUvSy3ss",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestida e gameplay de jogo com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-21T10:15:30-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-jerma985",
+    "data": "2026-11-21",
+    "horario": "11:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Jerma985 jogando GTA 6\n📺 twitch.tv/jerma985\n\n#gta6 #gtavi #jerma985 #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Jerma985",
+      "link": "https://www.twitch.tv/jerma985/clip/BovineEncouragingSangBudStar-S4LzmVNXTtXolCx5",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "rostos de streamer e cenas de gameplay com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-21T10:15:34-03:00"
+    }
+  },
+  {
+    "slug": "gta6-so-chega-dia-27",
+    "data": "2026-11-21",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Quando o seu GTA 6 só chega dia 27 de novembro 🥲 Quem aí também comprou a mídia física?\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11498,7 +11556,7 @@
   {
     "slug": "dia-19-dirigindo-por-vice-city",
     "data": "2026-11-21",
-    "horario": "11:30",
+    "horario": "12:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "É dia 19 de novembro, e estou dirigindo por Vice City ouvindo minha playlist dos anos 80. A vida é boa 🌴🚗\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11527,7 +11585,7 @@
   {
     "slug": "jason-jet-ski-cachorro-gta6",
     "data": "2026-11-21",
-    "horario": "12:00",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Jason de jet ski com um cachorro em GTA 6. Vídeo: @sougamergeek\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11556,7 +11614,7 @@
   {
     "slug": "queda-de-moto-fisica-gta6",
     "data": "2026-11-21",
-    "horario": "12:30",
+    "horario": "13:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Jogador cai de moto em GTA 6. Vídeo: @sougamergeek\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11585,7 +11643,7 @@
   {
     "slug": "jason-deitado-mexendo-no-celular-gta6",
     "data": "2026-11-21",
-    "horario": "13:00",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Jason deitado na cama mexendo no celular em GTA 6. Vídeo: @flowgamestv\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11613,7 +11671,7 @@
   {
     "slug": "urso-polar-caminhao-zoologico-gta6",
     "data": "2026-11-21",
-    "horario": "13:30",
+    "horario": "14:30",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Jogador abre caminhão de zoológico e acha um urso polar em GTA 6. Vídeo: @dexerto (KexTheHusky)\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11641,7 +11699,7 @@
   {
     "slug": "lucia-salao-de-beleza-gta6",
     "data": "2026-11-21",
-    "horario": "14:00",
+    "horario": "15:00",
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Lucia muda cabelo e maquiagem no salão de beleza em GTA 6. Vídeo: @ignbrasil\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
@@ -11664,62 +11722,6 @@
       "motivo": "quadros conferidos à mão em 20/11",
       "por": "revisão manual",
       "em": "2026-11-20T16:18:00-03:00"
-    }
-  },
-  {
-    "slug": "ciclista-bate-porta-carro-gta6",
-    "data": "2026-11-21",
-    "horario": "14:30",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Ciclista bate na porta aberta do carro em GTA 6. Vídeo: @sougamergeek\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "sougamergeek",
-      "link": "https://www.instagram.com/reel/Df-kAd8BRwy/",
-      "titulo": "claude",
-      "revisado": true
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gameplay",
-      "jogo": "gta6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 20/11",
-      "por": "revisão manual",
-      "em": "2026-11-20T20:16:27-03:00"
-    }
-  },
-  {
-    "slug": "primeira-pessoa-caminhao-bombeiros-gta6",
-    "data": "2026-11-21",
-    "horario": "15:00",
-    "status": "agendado",
-    "estilo": "Simples branca",
-    "legenda": "Jogador rouba um caminhão de bombeiros em primeira pessoa em GTA 6. Vídeo: @grandtheftauto6\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "grandtheftauto6",
-      "link": "https://www.instagram.com/reel/Df91i4yhs1G/",
-      "titulo": "claude",
-      "revisado": true
-    },
-    "etiquetas": {
-      "formato": "meme",
-      "tema": "gameplay",
-      "jogo": "gta6",
-      "moldura": "simples-branca"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "quadros conferidos à mão em 20/11",
-      "por": "revisão manual",
-      "em": "2026-11-20T20:16:27-03:00"
     }
   },
   {
@@ -13487,6 +13489,62 @@
       "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
       "por": "revisão manual",
       "em": "2026-11-21T03:08:09-03:00"
+    }
+  },
+  {
+    "slug": "ciclista-bate-porta-carro-gta6",
+    "data": "2026-11-22",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Ciclista bate na porta aberta do carro em GTA 6. Vídeo: @sougamergeek\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "sougamergeek",
+      "link": "https://www.instagram.com/reel/Df-kAd8BRwy/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 20/11",
+      "por": "revisão manual",
+      "em": "2026-11-20T20:16:27-03:00"
+    }
+  },
+  {
+    "slug": "primeira-pessoa-caminhao-bombeiros-gta6",
+    "data": "2026-11-22",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Simples branca",
+    "legenda": "Jogador rouba um caminhão de bombeiros em primeira pessoa em GTA 6. Vídeo: @grandtheftauto6\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "grandtheftauto6",
+      "link": "https://www.instagram.com/reel/Df91i4yhs1G/",
+      "titulo": "claude",
+      "revisado": true
+    },
+    "etiquetas": {
+      "formato": "meme",
+      "tema": "gameplay",
+      "jogo": "gta6",
+      "moldura": "simples-branca"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 20/11",
+      "por": "revisão manual",
+      "em": "2026-11-20T20:16:27-03:00"
     }
   }
 ]
