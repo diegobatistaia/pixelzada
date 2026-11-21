@@ -1,4 +1,14 @@
 {
- "chave_gratis": false,
- "vozes": {}
+ "chave_gratis": true,
+ "vozes": {
+  "Puck": {
+   "modelo": "gemini-2.5-flash-preview-tts"
+  },
+  "Fenrir": {
+   "modelo": "gemini-2.5-flash-preview-tts"
+  },
+  "Sadachbia": {
+   "modelo": "gemini-2.5-flash-preview-tts"
+  }
+ }
 }
