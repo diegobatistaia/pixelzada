@@ -7,87 +7,78 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-20T17:20-03:00",
+ "atualizado": "2026-11-20T23:15-03:00",
  "hoje": {
   "data": "2026-11-20",
   "reels": {
    "meta": 48,
-   "publicados": 35,
-   "deviam_ter_saido": 34,
+   "publicados": 47,
+   "deviam_ter_saido": 46,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 4,
+   "deviam_ter_saido": 7,
    "atrasados": [
     "09:00",
     "11:00",
     "13:00",
-    "15:00"
+    "15:00",
+    "17:00",
+    "19:00",
+    "21:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 41,
+  "agendados": 31,
   "meta_por_dia": 48,
-  "dias_de_reserva": 0.9,
+  "dias_de_reserva": 0.6,
   "grade_cheia_ate": null,
   "sem_revisao": 0,
   "por_dia": [
    {
     "data": "2026-11-20",
-    "agendados": 13,
+    "agendados": 1,
     "meta": 48
    },
    {
     "data": "2026-11-21",
-    "agendados": 28,
+    "agendados": 30,
     "meta": 48
    }
   ]
  },
  "site": {
-  "total": 256,
-  "hoje": 7,
+  "total": 258,
+  "hoje": 9,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "GTA 6: glitch de dinheiro infinito circula, mas muitos jogadores se recusam a usar",
-   "url": "https://pixelzada.com.br/pt/gta-6-glitch-de-dinheiro-infinito-circula-mas-muitos-jogadores-se-recusam-a-usar/",
-   "em": "2026-11-20T15:48:32-03:00"
+   "titulo": "GTA 6: lojas exclusivas da Ultimate Edition ficam de portas fechadas e jogadores reclamam",
+   "url": "https://pixelzada.com.br/pt/gta-6-lojas-exclusivas-da-ultimate-edition-ficam-de-portas-fechadas-e-jogadores-reclamam/",
+   "em": "2026-11-20T21:48:10-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "20/11/2026 16:14",
+  "ultima_coleta": "20/11/2026 22:14",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A2dD_5IVW-P_aGSorMYe6OY\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AbuaeY0HbSDvNq3AegVhQFl\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 3,
-  "sem_resolver": 1,
+  "falhas_24h": 1,
+  "sem_resolver": 0,
   "lista": [
    {
     "workflow": "Coletar",
     "em": "2026-11-20T15:38:51-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44794738852",
-    "resolvido": false
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-20T08:04:49-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44724585455",
-    "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-20T06:04:41-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44707636456",
     "resolvido": true
    }
   ]
@@ -97,7 +88,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 103
+   "youtube": 104
   },
   "erros_hoje": 0
  },
@@ -158,11 +149,11 @@
   },
   {
    "data": "2026-11-20",
-   "reels": 35,
+   "reels": 47,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 7,
+   "materias": 9,
    "views_reels": null
   }
  ],
@@ -215,15 +206,11 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
    "nivel": "vermelho",
-   "texto": "Fila de Reels com menos de 1 dia de reserva (41 vídeos)"
-  },
-  {
-   "nivel": "vermelho",
-   "texto": "1 falha(s) no GitHub ainda sem resolver"
+   "texto": "Fila de Reels com menos de 1 dia de reserva (31 vídeos)"
   },
   {
    "nivel": "amarelo",
