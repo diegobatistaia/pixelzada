@@ -569,5 +569,27 @@
     "motivo": "torso nu ocupando boa parte do quadro",
     "por": "imagem",
     "em": "2026-11-21T16:35:54-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "92-gta6-twitch-alanzoka.mp4",
+    "link": "https://www.twitch.tv/alanzoka/clip/SaltyAwkwardSquirrelUncleNox-kh9UHSSnBnASldQC",
+    "perfil": "twitch/alanzoka",
+    "legenda": "Mesma calcinha",
+    "risco": "alto",
+    "motivo": "palavras de risco: calcinha",
+    "por": "texto",
+    "em": "2026-11-21T17:41:05-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "93-gta6-twitch-meikodrj.mp4",
+    "link": "https://www.twitch.tv/meikodrj/clip/SuspiciousExcitedEmuYouWHY-eGO8d-g63GZlL4lV",
+    "perfil": "twitch/MeikodRJ",
+    "legenda": "OLHA AI O TEMPO",
+    "risco": "medio",
+    "motivo": "torso nu ocupando parte dos quadros",
+    "por": "imagem",
+    "em": "2026-11-21T17:41:09-03:00"
   }
 ]
