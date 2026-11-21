@@ -11020,7 +11020,7 @@
     "slug": "abertura-gta6-referencia-big-smoke",
     "data": "2026-11-21",
     "horario": "05:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "A abertura do novo desenho de GTA 6 é uma referência à intro do Big Smoke em San Andreas 📺🔥 \"You picked the wrong house, fool!\"\n\n#gta6 #gtavi #sanandreas #bigsmoke #pixelzada",
     "tentativas": 0,
@@ -11043,6 +11043,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T11:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T05:05:17-03:00",
+      "media_id": "18162462403496573",
+      "permalink": "https://www.instagram.com/reel/Df_wq_AES51/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
