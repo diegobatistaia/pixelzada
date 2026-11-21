@@ -12388,7 +12388,7 @@
     "slug": "gta6-sai-em-48-horas-video-longo",
     "data": "2026-11-21",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Vídeo longo horizontal",
     "legenda": "GTA 6 sai em MENOS de 48 horas: faça isso antes de jogar\n\nGTA 6 chega na quinta, 19 de novembro, e falta menos de 48 horas. Neste vídeo: o horário exato de lançamento no Brasil, por que a Nova Zelândia joga antes, como fazer o pré-download, plataformas, edições e o que a Rockstar ainda não contou.\n\n#gta6 #gtavi #pixelzada",
     "tentativas": 0,
@@ -12409,6 +12409,19 @@
       "risco": "baixo",
       "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
       "por": "manual"
+    },
+    "publicado": {
+      "em": "2026-11-21T19:01:19-03:00",
+      "media_id": "18108374312198191",
+      "permalink": "https://www.instagram.com/reel/DgBQWtujcSF/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
