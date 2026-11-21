@@ -11441,7 +11441,7 @@
     "slug": "vice-city-chega-ao-nba-2k27",
     "data": "2026-11-21",
     "horario": "10:30",
-    "status": "agendado",
+    "status": "retirado",
     "estilo": "Simples branca",
     "legenda": "Vice City chegou ao NBA 2K27! 🏀🌴 A colaboração entre os jogos da Take-Two foi anunciada com novidades para os fãs de basquete.\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11464,6 +11464,10 @@
       "motivo": "quadros conferidos à mão em 17/11",
       "por": "revisão manual",
       "em": "2026-11-17T22:11:07.286278+00:00"
+    },
+    "retirado": {
+      "em": "2026-11-21T10:40:00-03:00",
+      "motivo": "vídeo já vem com a arte de outra página (IGN Brasil) dentro da nossa moldura; Diego reclamou desse formato em 21/11"
     }
   },
   {
