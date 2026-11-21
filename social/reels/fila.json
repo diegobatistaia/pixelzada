@@ -11516,7 +11516,7 @@
     "slug": "gta6-corte-jerma985",
     "data": "2026-11-21",
     "horario": "11:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Jerma985 jogando GTA 6\n📺 twitch.tv/jerma985\n\n#gta6 #gtavi #jerma985 #pixelzada",
     "tentativas": 0,
@@ -11539,6 +11539,19 @@
       "motivo": "rostos de streamer e cenas de gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-21T10:15:34-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T11:36:05-03:00",
+      "media_id": "18112255265574632",
+      "permalink": "https://www.instagram.com/reel/DgAddpgibrY/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
