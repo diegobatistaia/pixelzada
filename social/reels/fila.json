@@ -11231,7 +11231,7 @@
     "slug": "gta6-horas-sem-tocar-numa-missao",
     "data": "2026-11-21",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "O que GTA 6 precisa ter pra você passar horas sem nem tocar numa missão? Comenta aí 👇\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11254,6 +11254,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T19:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T08:04:01-03:00",
+      "media_id": "18041751971845490",
+      "permalink": "https://www.instagram.com/reel/DgAFN2LiuqW/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
