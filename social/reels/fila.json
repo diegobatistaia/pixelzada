@@ -11104,7 +11104,7 @@
     "slug": "sensacao-abrir-gta6-primeira-vez",
     "data": "2026-11-21",
     "horario": "06:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Como vai ser a sensação de abrir GTA 6 pela primeira vez depois de esperar anos 😌\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11127,6 +11127,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T15:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T06:05:24-03:00",
+      "media_id": "18072099713786947",
+      "permalink": "https://www.instagram.com/reel/Df_3jQcjSQB/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
