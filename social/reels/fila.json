@@ -13537,6 +13537,93 @@
     }
   },
   {
+    "slug": "gta6-corte-ohnepixel",
+    "data": "2026-11-22",
+    "horario": "17:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 ohnePixel jogando GTA 6\n📺 twitch.tv/ohnepixel\n\n#gta6 #gtavi #ohnepixel #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/ohnePixel",
+      "link": "https://www.twitch.tv/ohnepixel/clip/ViscousAmazonianTortoiseGrammarKing-oCmPd4xZz15O7Glf",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "pessoas vestidas em gameplay",
+      "por": "imagem",
+      "em": "2026-11-21T11:21:30-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-sashagrey",
+    "data": "2026-11-22",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 sashagrey jogando GTA 6\n📺 twitch.tv/sashagrey\n\n#gta6 #gtavi #sashagrey #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/sashagrey",
+      "link": "https://www.twitch.tv/sashagrey/clip/AthleticManlyMochaBigBrother-LEsCtczPhlKKS1aZ",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestida e gameplay de jogo de mundo aberto",
+      "por": "imagem",
+      "em": "2026-11-21T11:21:33-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-korviktv",
+    "data": "2026-11-22",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 korviktv jogando GTA 6\n📺 twitch.tv/korviktv\n\n#gta6 #gtavi #korviktv #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/korviktv",
+      "link": "https://www.twitch.tv/korviktv/clip/YummyAlertButterMrDestructoid-jB4XwkD41nbcv0KB",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Pessoas vestidas em ambiente interno de jogo, sem nudez ou conteúdo inadequado.",
+      "por": "imagem",
+      "em": "2026-11-21T11:21:37-03:00"
+    }
+  },
+  {
     "slug": "ciclista-bate-porta-carro-gta6",
     "data": "2026-11-22",
     "horario": "21:00",
