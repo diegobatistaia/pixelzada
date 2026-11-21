@@ -95,7 +95,10 @@
     "query": "GTA 6 review bombing",
     "alt": "Imagem de GTA 6 divulgada pelo Insider Gaming",
     "url": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9327.jpeg",
-    "credit": "Imagem: Insider Gaming"
+    "credit": "Imagem: Insider Gaming",
+    "path": "/assets/img/gta-6-nota-99-da-critica-e-5-1-dos-jogad-dfd73a4a.jpg",
+    "source_url": "",
+    "foco": "50% 32%"
   },
   "sources": [
     {
@@ -111,5 +114,7 @@
       "title": "GTA 6 Metacritic review bomb"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-21T12:52:08+00:00",
+  "updated_at": "2026-11-21T12:52:08+00:00"
 }
