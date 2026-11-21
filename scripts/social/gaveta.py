@@ -71,7 +71,7 @@ def previas(pasta: str) -> list[str]:
     destino.mkdir(parents=True, exist_ok=True)
     nomes = []
     for i in carregar():
-        if i.get("status") == "publicado":
+        if i.get("status") not in ("agendado", "pausado"):
             continue
         src, capa = PASTA / "videos" / f"{i['slug']}.mp4", PASTA / "videos" / f"{i['slug']}.jpg"
         mp4, jpg = destino / f"{i['slug']}.mp4", destino / f"{i['slug']}.jpg"
@@ -119,6 +119,12 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
             atrasado = agora > _inicio(i) + DEPOIS
             fila_html += _item(i["horario"], _titulo(i), i.get("estilo", ""),
                                "Perdeu a hora" if atrasado else "Agendado", vazio=atrasado, slug=i["slug"])
+        fila_html += "    </div>\n"
+    pausados = [i for i in fila if i.get("status") == "pausado"]
+    if pausados:  # Diego, 21/11: moldura branca pausada (guardada, volta quando ele mandar)
+        fila_html += (f'    <div class="dia">\n      <header>Pausados (moldura branca) <span>{len(pausados)} guardados</span></header>\n')
+        for i in pausados:
+            fila_html += _item("—", _titulo(i), i.get("estilo", ""), "Pausado", vazio=True, slug=i["slug"])
         fila_html += "    </div>\n"
     if pend:
         u = pend[-1]
