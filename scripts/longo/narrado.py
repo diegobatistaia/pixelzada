@@ -133,13 +133,49 @@ def _guardar_voz(ep: dict, slug: str, trab: Path, voz: str) -> None:
          "cenas": {c["id"]: _hash(c["texto"]) for c in ep["cenas"]}}, ensure_ascii=False, indent=1))
 
 
+def _voz_por_cena(ep: dict, slug: str, pasta: Path) -> None:
+    """Voz fixa na cota grátis: narra cena a cena e GUARDA cada uma na hora. Se a cota do dia
+    acabar no meio, o que já foi narrado fica salvo e a próxima rodada continua dali, com a
+    mesma voz e o mesmo modelo (nada de voz reserva)."""
+    dest = VOZES / slug
+    dest.mkdir(parents=True, exist_ok=True)
+    idx = dest / "vozes.json"
+    d = json.loads(idx.read_text()) if idx.exists() else {}
+    voz = f"Google Gemini TTS ({ep['modelo_tts']}, voz {EP.VOZ_GEMINI})"
+    if d.get("voz") != voz:
+        d = {"voz": voz, "pedida": ep.get("voz") or EP.VOZ_GEMINI, "cenas": {}}
+    for c in ep["cenas"]:
+        wav = pasta / f"{c['id']}.wav"
+        if wav.exists():
+            continue
+        for tent in range(3):
+            EP.voz_gemini(c["texto"], wav)  # erro de cota sobe e para a rodada (o que já saiu fica guardado)
+            if not _ritmo_ruim(c, wav):
+                break
+            print(f"  cena {c['id']}: ritmo fora do normal, narrando de novo")
+            wav.unlink()
+        if not wav.exists():
+            raise RuntimeError(f"cena {c['id']}: voz com ritmo ruim 3 vezes")
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(wav), "-ac", "1", "-ar", "24000",
+                        str(dest / f"{c['id']}.flac")], check=True)
+        d["cenas"][c["id"]] = _hash(c["texto"])
+        idx.write_text(json.dumps(d, ensure_ascii=False, indent=1))
+        print(f"  cena {c['id']}: narrada e guardada ({voz})", flush=True)
+
+
 def narrar(ep: dict, trab: Path, slug: str = "") -> str:
     segs = [{"id": c["id"], "texto": c["texto"]} for c in ep["cenas"]]
     if ep.get("voz"):  # voz do Gemini escolhida no episódio (teste do Diego, 17/11)
         EP.VOZ_GEMINI = ep["voz"]
+    if ep.get("estilo"):  # jeito de narrar do personagem do canal (Guia Vice City: Leo)
+        EP.ESTILO = ep["estilo"]
+    if ep.get("modelo_tts"):  # voz FIXA: um modelo só, nunca troca (Diego, 21/11)
+        EP.MODELOS_TTS[:] = [ep["modelo_tts"]]
     guardada = _voz_guardada(ep, slug, trab) if slug else None
     pasta = trab / "voz"
     pasta.mkdir(parents=True, exist_ok=True)
+    if ep.get("modelo_tts") and slug and not os.environ.get("VOZ_TESTE"):
+        _voz_por_cena(ep, slug, pasta)
     novas = {c["id"] for c in ep["cenas"] if not (pasta / f"{c['id']}.wav").exists()}
     for tentativa in range(3):
         voz = EP.narrar(segs, trab)
@@ -917,12 +953,24 @@ def descricao(ep: dict, saida: Path, inicio: dict) -> None:
     linhas += ["", "Imagens do jogo: material oficial da Rockstar Games (site e trailer de lançamento de GTA VI).",
                "Fotos reais: Wikimedia Commons, licenças livres:"]
     linhas += [f"- {c}" for c in sorted(set(CREDITOS))]
-    linhas += ["", "Site: https://pixelzada.com.br", "Instagram: @pixelzada.br", "", ep.get("tags", "")]
+    linhas += ["", *ep.get("rodape", ["Site: https://pixelzada.com.br", "Instagram: @pixelzada.br"]), "", ep.get("tags", "")]
     saida.write_text("\n".join(linhas).strip() + "\n", encoding="utf-8")
 
 
 def tudo(arq: Path) -> int:
+    global LOGO
     ep = carregar(arq)
+    if ep.get("logo"):  # canal com marca própria (Guia Vice City); .b64 = PNG em base64 (texto no repositório)
+        LOGO = RAIZ / ep["logo"]
+        if LOGO.suffix == ".b64":
+            import base64
+            png = RAIZ / "trabalho" / (LOGO.stem + ".png")
+            png.parent.mkdir(parents=True, exist_ok=True)
+            png.write_bytes(base64.b64decode(LOGO.read_text()))
+            LOGO = png
+    if ep.get("voz_teste"):  # prévia só das imagens, sem gastar cota de voz
+        os.environ["VOZ_TESTE"] = "1"
+        ep["so_gemini"] = False
     slug = arq.stem
     trab = RAIZ / "trabalho/narrado" / slug
     trab.mkdir(parents=True, exist_ok=True)
@@ -936,7 +984,8 @@ def tudo(arq: Path) -> int:
     for c in ep["cenas"]:
         inicio[c["id"]] = t
         t += c["dur"]
-    capa(ep, trab / "capa.jpg")
+    if not ep.get("sem_capa"):
+        capa(ep, trab / "capa.jpg")
     descricao(ep, trab / "descricao.txt", inicio)
     rel = {"voz": voz, "duracao": round(duracao(final), 1),
            "cenas": [{"id": c["id"], "dur": round(c["dur"], 2),

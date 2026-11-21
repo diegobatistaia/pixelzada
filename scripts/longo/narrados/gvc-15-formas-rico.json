@@ -1,0 +1,651 @@
+{
+ "titulo": "GTA 6: NÃO gaste um centavo antes de ver essas 15 formas de ficar RICO",
+ "so_gemini": true,
+ "modelo_tts": "gemini-2.5-flash-preview-tts",
+ "voz": "Puck",
+ "estilo": "Narre em português do Brasil como o Leo, um jovem gamer brasileiro de uns 20 anos que tem um canal de guias de GTA no YouTube: animado, simpático, falando direto com quem assiste, como um amigo contando um segredo, ritmo rápido mas claro, sem gritar. Leia exatamente este texto:\n\n",
+ "logo": "scripts/longo/guia-vice-city/logo.b64",
+ "sem_capa": true,
+ "rodape": [
+  "Canal independente, sem vínculo com a Rockstar Games ou a Take-Two Interactive. Grand Theft Auto e GTA são marcas da Take-Two Interactive."
+ ],
+ "musicas": [
+  "balance-wheel.mp3",
+  "breaking-point.mp3"
+ ],
+ "roteiro": "scripts/longo/doc/roteiro-gvc-15-formas-rico.txt",
+ "descricao": "Como ficar rico no GTA 6: 15 formas de ganhar dinheiro, do trocado do capítulo 1 aos cofres que pagam mais de 200 mil dólares.",
+ "tags": "#GTA6 #GTAVI #GTA6Brasil",
+ "capa": {
+  "imagem": "Jason_and_Lucia_Robbery_landscape",
+  "linhas": [
+   [
+    "GTA 6",
+    160
+   ],
+   [
+    "FIQUE RICO",
+    100
+   ]
+  ],
+  "etiqueta": "15 FORMAS"
+ },
+ "cenas": [
+  {
+   "id": "abertura",
+   "capitulo": "Introdução",
+   "planos": [
+    {
+     "v": "o:Vice_City_01"
+    },
+    {
+     "v": "v:launch:47.0"
+    },
+    {
+     "v": "v:extended:1119.2"
+    },
+    {
+     "v": "o:Jason_and_Lucia_Robbery_landscape"
+    },
+    {
+     "v": "c:15 FORMAS|de ficar rico no GTA 6"
+    },
+    {
+     "v": "v:extended:1127.5"
+    },
+    {
+     "v": "v:extended:1048.9"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "15 formas",
+     "s": "de ficar rico",
+     "f": 5,
+     "cor": "rosa",
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.2
+    },
+    {
+     "t": "Guia Vice City",
+     "s": "guia novo todo dia às 17h",
+     "f": 11,
+     "cor": "ciano"
+    }
+   ]
+  },
+  {
+   "id": "d15",
+   "capitulo": "15. Lojinha de conveniência",
+   "planos": [
+    {
+     "v": "v:trailer1:68.7"
+    },
+    {
+     "v": "v:extended:705.7"
+    },
+    {
+     "v": "v:extended:712.8"
+    },
+    {
+     "v": "v:extended:717.1"
+    },
+    {
+     "v": "v:extended:718.9"
+    },
+    {
+     "v": "v:extended:722.5"
+    },
+    {
+     "v": "v:extended:731.6"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#15 Lojinha",
+     "s": "centenas de dólares",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "Longe do centro",
+     "s": "polícia demora mais",
+     "f": 6,
+     "cor": "ciano"
+    }
+   ]
+  },
+  {
+   "id": "d14",
+   "capitulo": "14. Dinheiro escondido",
+   "planos": [
+    {
+     "v": "v:extended:382.6"
+    },
+    {
+     "v": "v:extended:384.4"
+    },
+    {
+     "v": "v:extended:324.3"
+    },
+    {
+     "v": "w:gta6news/t006"
+    },
+    {
+     "v": "v:extended:296.8"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#14 Dinheiro escondido",
+     "s": "grade, sala dos fundos, bilhete",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "+ de $1.000",
+     "s": "num esconderijo só",
+     "f": 5,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d13",
+   "capitulo": "13. Caça no interior",
+   "planos": [
+    {
+     "v": "v:extended:464.5"
+    },
+    {
+     "v": "v:extended:467.6"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_01"
+    },
+    {
+     "v": "o:Mount_Kalaga_National_Park_03"
+    },
+    {
+     "v": "w:gta6news/t003"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#13 Caça",
+     "s": "capítulo 2",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$500 a milhares",
+     "s": "bicho inteiro vale mais",
+     "f": 5,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d12",
+   "capitulo": "12. Derby de demolição",
+   "planos": [
+    {
+     "v": "v:extended:1061.8"
+    },
+    {
+     "v": "v:extended:1070.0"
+    },
+    {
+     "v": "v:extended:1114.8"
+    },
+    {
+     "v": "o:Ambrosia_01"
+    },
+    {
+     "v": "o:Ambrosia_03"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#12 Derby",
+     "s": "autódromo de Ambrosia",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$4 mil a $6 mil",
+     "s": "por vitória",
+     "f": 3,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d11",
+   "capitulo": "11. Esconderijos no pântano",
+   "planos": [
+    {
+     "v": "o:Grassrivers_01"
+    },
+    {
+     "v": "v:extended:1029.9"
+    },
+    {
+     "v": "o:Grassrivers_03"
+    },
+    {
+     "v": "v:trailer2:138.1"
+    },
+    {
+     "v": "o:Grassrivers_05"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#11 Pântano",
+     "s": "Grassrivers",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "Comenta aí",
+     "s": "quanto o seu Jason tem?",
+     "f": 6,
+     "cor": "rosa"
+    }
+   ]
+  },
+  {
+   "id": "d10",
+   "capitulo": "10. Eventos aleatórios",
+   "planos": [
+    {
+     "v": "v:extended:1567.2"
+    },
+    {
+     "v": "v:extended:1175.7"
+    },
+    {
+     "v": "v:extended:1550.7"
+    },
+    {
+     "v": "v:trailer1:23.3"
+    },
+    {
+     "v": "o:Leonida_Keys_02"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#10 Eventos",
+     "s": "avião e barco",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$1.500 a $2.000",
+     "s": "por barco",
+     "f": 4,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d9",
+   "capitulo": "9. Receptador e pacotes",
+   "planos": [
+    {
+     "v": "v:extended:1008.1"
+    },
+    {
+     "v": "v:extended:1003.7"
+    },
+    {
+     "v": "w:gta6news/t062"
+    },
+    {
+     "v": "w:gta6news/t045"
+    },
+    {
+     "v": "w:gta6news/t020"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#9 Receptador",
+     "s": "depósito e Donnie",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "~$900",
+     "s": "por pacote",
+     "f": 5,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d8",
+   "capitulo": "8. Mergulho nas Keys",
+   "planos": [
+    {
+     "v": "o:Leonida_Keys_01"
+    },
+    {
+     "v": "v:extended:1036.0"
+    },
+    {
+     "v": "v:extended:1042.2"
+    },
+    {
+     "v": "o:Leonida_Keys_04"
+    },
+    {
+     "v": "v:launch:14.2"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#8 Mergulho",
+     "s": "tesouro nas Keys",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$1.400 a $4.000",
+     "s": "por naufrágio",
+     "f": 6,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d7",
+   "capitulo": "7. Casa de penhores",
+   "planos": [
+    {
+     "v": "v:extended:1080.0"
+    },
+    {
+     "v": "w:gta6news/t023"
+    },
+    {
+     "v": "w:gta6news/t024"
+    },
+    {
+     "v": "v:extended:694.4"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#7 Penhores",
+     "s": "capítulo 2",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "Deixa o like",
+     "s": "ajuda o canal",
+     "f": 5,
+     "cor": "rosa"
+    }
+   ]
+  },
+  {
+   "id": "d6",
+   "capitulo": "6. Carro sem rastreador",
+   "planos": [
+    {
+     "v": "o:Port_Gellhorn_01"
+    },
+    {
+     "v": "w:gta6news/t045"
+    },
+    {
+     "v": "v:extended:364.9"
+    },
+    {
+     "v": "v:extended:369.3"
+    },
+    {
+     "v": "w:gta6news/t075"
+    },
+    {
+     "v": "o:Port_Gellhorn_03"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#6 Carro sem rastreador",
+     "s": "Moses, Port Gellhorn",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$1 mil a $3 mil",
+     "s": "por carro",
+     "f": 3,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d5",
+   "capitulo": "5. Carro de luxo",
+   "planos": [
+    {
+     "v": "o:ULTIMATE_EDITION_GROTTI_CHEETAH_01"
+    },
+    {
+     "v": "v:launch:47.0"
+    },
+    {
+     "v": "w:gta6news/t069"
+    },
+    {
+     "v": "o:ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01"
+    },
+    {
+     "v": "v:extended:1104.0"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#5 Carro de luxo",
+     "s": "encomendas do Randy",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$30 mil+",
+     "s": "por carro",
+     "f": 2,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d4",
+   "capitulo": "4. Joalherias",
+   "planos": [
+    {
+     "v": "v:extended:1080.0"
+    },
+    {
+     "v": "v:launch:35.1"
+    },
+    {
+     "v": "v:extended:1395.2"
+    },
+    {
+     "v": "o:Vice_City_05"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#4 Joalheria",
+     "s": "serviços do Yasmani",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$10 mil a $25 mil",
+     "s": "por serviço",
+     "f": 2,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d3",
+   "capitulo": "3. Entregas de avião",
+   "planos": [
+    {
+     "v": "v:extended:1567.2"
+    },
+    {
+     "v": "v:extended:1175.7"
+    },
+    {
+     "v": "v:trailer2:85.1"
+    },
+    {
+     "v": "o:Grassrivers_02"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#3 Avião",
+     "s": "PALPITE: a conferir",
+     "f": 0,
+     "cor": "laranja"
+    }
+   ]
+  },
+  {
+   "id": "d2",
+   "capitulo": "2. Bancos pequenos",
+   "planos": [
+    {
+     "v": "v:extended:729.1"
+    },
+    {
+     "v": "v:extended:840.1"
+    },
+    {
+     "v": "v:extended:1008.1"
+    },
+    {
+     "v": "o:Jason_and_Lucia_Robbery_landscape"
+    },
+    {
+     "v": "v:extended:1013.2"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#2 Bancos pequenos",
+     "s": "e lojas de empréstimo",
+     "f": 0,
+     "cor": "laranja"
+    },
+    {
+     "t": "$5 mil a $45 mil",
+     "s": "por assalto",
+     "f": 3,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "d1",
+   "capitulo": "1. Cofres dos grandes bancos",
+   "planos": [
+    {
+     "v": "v:launch:35.1"
+    },
+    {
+     "v": "v:extended:1449.3"
+    },
+    {
+     "v": "o:Jason_and_Lucia_Lock_And_Load_landscape"
+    },
+    {
+     "v": "v:launch:72.8"
+    },
+    {
+     "v": "o:Vice_City_10"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "#1 Cofres",
+     "s": "grandes bancos de Leonida",
+     "f": 0,
+     "cor": "rosa",
+     "pos": "centro",
+     "tam": 170,
+     "dur": 2.2
+    },
+    {
+     "t": "até $205 mil",
+     "s": "por cofre",
+     "f": 2,
+     "cor": "lima"
+    }
+   ]
+  },
+  {
+   "id": "bonus",
+   "capitulo": "Bônus: bolsa de valores",
+   "planos": [
+    {
+     "v": "w:gta6news/t045"
+    },
+    {
+     "v": "o:Vice_City_03"
+    },
+    {
+     "v": "v:extended:1127.5"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Bônus",
+     "s": "PALPITE: bolsa de valores",
+     "f": 0,
+     "cor": "ciano"
+    }
+   ]
+  },
+  {
+   "id": "fecho",
+   "capitulo": "Resumo",
+   "planos": [
+    {
+     "v": "v:extended:1569.9"
+    },
+    {
+     "v": "o:Jason_and_Lucia_Beach_landscape"
+    },
+    {
+     "v": "v:extended:1042.2"
+    },
+    {
+     "v": "c:GUIA VICE CITY|guia novo todo dia às 17h"
+    }
+   ],
+   "destaques": [
+    {
+     "t": "Like + comentário",
+     "s": "qual foi a melhor dica?",
+     "f": 5,
+     "cor": "rosa"
+    }
+   ]
+  }
+ ],
+ "voz_teste": true
+}

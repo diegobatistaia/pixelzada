@@ -6,7 +6,7 @@ name: Vídeo longo narrado (prévia)
 on:
   push:
     branches: ["claude/**"]
-    paths: ["scripts/longo/narrado.py", "scripts/longo/som.py", "scripts/longo/motion.py", "scripts/longo/narrados/**", "scripts/longo/doc/**", ".github/workflows/narrado.yml"]
+    paths: ["scripts/longo/guia-vice-city/**", "scripts/longo/narrado.py", "scripts/longo/som.py", "scripts/longo/motion.py", "scripts/longo/narrados/**", "scripts/longo/doc/**", ".github/workflows/narrado.yml"]
   workflow_dispatch:
     inputs:
       episodio:
@@ -42,8 +42,8 @@ jobs:
       cancel-in-progress: true
     env:
       EPISODIO: ${{ matrix.episodio }}
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      TTS_MODELO: gemini-3.1-flash-tts-preview
+      # só a chave GRÁTIS (Diego não quer pagar, 20/11); o modelo da voz vem do episódio ("modelo_tts")
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_GRATIS }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-python@v7
