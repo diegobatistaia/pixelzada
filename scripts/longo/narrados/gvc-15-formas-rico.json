@@ -69,7 +69,7 @@
     },
     {
      "t": "Guia Vice City",
-     "s": "guia novo todo dia às 17h",
+     "s": "guia novo toda semana às 17h",
      "f": 11,
      "cor": "ciano"
     }
@@ -634,7 +634,7 @@
      "v": "v:extended:1042.2"
     },
     {
-     "v": "c:GUIA VICE CITY|guia novo todo dia às 17h"
+     "v": "c:GUIA VICE CITY|guia novo toda semana às 17h"
     }
    ],
    "destaques": [
