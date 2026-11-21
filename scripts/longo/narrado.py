@@ -172,18 +172,26 @@ def _voz_por_cena(ep: dict, slug: str, pasta: Path) -> None:
             junto = pasta / f"_par-{par[0]['id']}.wav"
             texto = par[0]["texto"] + "\n\n" + par[1]["texto"]
             EP.voz_gemini(texto, junto)
-            corte = _corte_no_silencio(junto, len(par[0]["texto"]) / len(texto))
-            for c, (a_, b_) in zip(par, [(0, corte), (corte, None)]):
+            if _ritmo_ruim({"texto": texto}, junto):  # o Google pulou ou repetiu trecho: vão sozinhas
+                print(f"  par {par[0]['id']}+{par[1]['id']}: ritmo fora do normal; vão sozinhas")
+                junto.unlink()
+                continue
+            fr = par[0]["frases"] + par[1]["frases"]
+            t_fr = tempos_frases(junto, fr, duracao(junto))
+            corte = t_fr[len(par[0]["frases"])][0]  # início da 1ª frase da 2ª cena (meio do silêncio)
+            for c, (a_, b_) in zip(par, [(0.0, corte), (corte, None)]):
                 wav = pasta / f"{c['id']}.wav"
                 args = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(junto), "-ss", f"{a_:.3f}"]
                 if b_:
                     args += ["-to", f"{b_:.3f}"]
-                subprocess.run(args + ["-af", "silenceremove=start_periods=1:start_threshold=-45dB,areverse,"
-                                       "silenceremove=start_periods=1:start_threshold=-45dB,areverse",
-                                       str(wav)], check=True)
-                if _ritmo_ruim(c, wav):
-                    print(f"  cena {c['id']}: ritmo fora do normal no par; vai sozinha")
-                    wav.unlink()
+                subprocess.run(args + [str(wav)], check=True)
+                try:
+                    ruim = duracao(wav) < 2 or _ritmo_ruim(c, wav)
+                except ValueError:  # arquivo vazio (ffprobe devolve N/A)
+                    ruim = True
+                if ruim:
+                    print(f"  cena {c['id']}: corte do par ruim; vai sozinha")
+                    wav.unlink(missing_ok=True)
                     continue
                 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(wav), "-ac", "1", "-ar", "24000",
                                 str(dest / f"{c['id']}.flac")], check=True)
