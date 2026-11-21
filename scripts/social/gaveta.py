@@ -93,7 +93,7 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
     agora = agora or datetime.now(P.TZ)
     fila = carregar()
     hoje = agora.date()
-    pend = sorted((i for i in fila if i.get("status") != "publicado"), key=lambda i: (i["data"], i["horario"]))
+    pend = sorted((i for i in fila if i.get("status") == "agendado"), key=lambda i: (i["data"], i["horario"]))
     saiu_hoje = [i for i in fila if i.get("status") == "publicado" and i["data"] == hoje.isoformat()]
     avisos: list[str] = []
     for i in pend:
@@ -156,7 +156,7 @@ def main() -> int:
             f.write(out)
     fila = carregar()
     hoje = datetime.now(P.TZ).date().isoformat()
-    pend = [i for i in fila if i.get("status") != "publicado"]
+    pend = [i for i in fila if i.get("status") == "agendado"]
     print(f"na_gaveta {len(pend)}  faltam_para_semana {max(0, SEMANA - len(pend))}")
     for i in fila:
         if i.get("status") == "publicado" and i["data"] == hoje:
