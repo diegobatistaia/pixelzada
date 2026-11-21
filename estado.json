@@ -7,45 +7,50 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-21T14:32-03:00",
+ "atualizado": "2026-11-21T20:19-03:00",
  "hoje": {
   "data": "2026-11-21",
   "reels": {
    "meta": 48,
-   "publicados": 26,
-   "deviam_ter_saido": 29,
+   "publicados": 38,
+   "deviam_ter_saido": 40,
    "atrasados": [
     "10:30",
     "12:00",
     "12:30",
     "13:00",
     "13:30",
-    "14:00"
+    "14:00",
+    "14:30",
+    "15:00"
    ],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 3,
+   "deviam_ter_saido": 6,
    "atrasados": [
     "09:00",
     "11:00",
-    "13:00"
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 68,
+  "agendados": 78,
   "meta_por_dia": 48,
-  "dias_de_reserva": 1.4,
-  "grade_cheia_ate": "2026-11-22",
-  "sem_revisao": 15,
+  "dias_de_reserva": 1.6,
+  "grade_cheia_ate": "2026-11-23",
+  "sem_revisao": 32,
   "por_dia": [
    {
     "data": "2026-11-21",
-    "agendados": 18,
+    "agendados": 7,
     "meta": 48
    },
    {
@@ -55,7 +60,12 @@
    },
    {
     "data": "2026-11-23",
-    "agendados": 2,
+    "agendados": 17,
+    "meta": 17
+   },
+   {
+    "data": "2026-11-24",
+    "agendados": 6,
     "meta": 17
    }
   ]
@@ -71,18 +81,24 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "21/11/2026 14:20",
+  "ultima_coleta": "21/11/2026 20:01",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Axef3Cyt0e-jnwc2BsLz-DY\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AU1MSIZX7p9CCQGTMcXSufb\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 7,
+  "falhas_24h": 6,
   "sem_resolver": 6,
   "lista": [
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-21T19:29:01-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44956965584",
+    "resolvido": false
+   },
    {
     "workflow": "Vídeo longo narrado (prévia)",
     "em": "2026-11-21T10:55:08-03:00",
@@ -112,18 +128,6 @@
     "em": "2026-11-21T09:31:12-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44904315426",
     "resolvido": false
-   },
-   {
-    "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-21T09:27:08-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44903963123",
-    "resolvido": false
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-21T06:28:25-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44889740813",
-    "resolvido": true
    }
   ]
  },
@@ -132,7 +136,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 105
+   "youtube": 106
   },
   "erros_hoje": 0
  },
@@ -193,7 +197,7 @@
   },
   {
    "data": "2026-11-21",
-   "reels": 26,
+   "reels": 38,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
@@ -250,15 +254,15 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "6 Reel(s) de hoje atrasado(s): 10:30, 12:00, 12:30, 13:00, 13:30"
+   "texto": "8 Reel(s) de hoje atrasado(s): 10:30, 12:00, 12:30, 13:00, 13:30"
   },
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
   },
   {
    "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,4 dia(s) de reserva"
+   "texto": "Fila de Reels com só 1,6 dia(s) de reserva"
   },
   {
    "nivel": "vermelho",
