@@ -11565,5 +11565,695 @@
       "motivo": "vídeo próprio do YouTube, gameplay e material oficial",
       "por": "manual"
     }
+  },
+  {
+    "slug": "gta6-corte-bisteconee-6",
+    "data": "2026-11-21",
+    "horario": "14:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/videos/2932201544?t=3h10m14s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "bisteconee-2932201544-11414"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-paulinholokobr-1",
+    "data": "2026-11-21",
+    "horario": "15:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/videos/2932209117?t=0h41m11s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "paulinholokobr-2932209117-02321"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-37",
+    "data": "2026-11-21",
+    "horario": "15:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/videos/2932200023?t=1h4m13s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "alanzoka-2932200023-03703"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-brino-1",
+    "data": "2026-11-21",
+    "horario": "16:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/brino",
+      "link": "https://www.twitch.tv/videos/2932235501?t=0h39m14s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "brino-2932235501-02024"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-bisteconee-7",
+    "data": "2026-11-21",
+    "horario": "16:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/videos/2932201544?t=3h35m22s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "bisteconee-2932201544-12922"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-paulinholokobr-2",
+    "data": "2026-11-21",
+    "horario": "17:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/videos/2932209117?t=0h47m28s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "paulinholokobr-2932209117-02848"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-38",
+    "data": "2026-11-21",
+    "horario": "17:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/videos/2932200023?t=1h40m2s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "alanzoka-2932200023-05852"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-brino-2",
+    "data": "2026-11-21",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/brino",
+      "link": "https://www.twitch.tv/videos/2932235501?t=0h50m53s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "brino-2932235501-03053"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-bisteconee-8",
+    "data": "2026-11-21",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/videos/2932201544?t=4h13m4s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "bisteconee-2932201544-15184"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-paulinholokobr-3",
+    "data": "2026-11-21",
+    "horario": "19:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/videos/2932209117?t=0h56m14s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "paulinholokobr-2932209117-03374"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-39",
+    "data": "2026-11-21",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/videos/2932200023?t=9h58m56s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "alanzoka-2932200023-35936"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-brino-3",
+    "data": "2026-11-21",
+    "horario": "20:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/brino",
+      "link": "https://www.twitch.tv/videos/2932235501?t=1h59m30s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "brino-2932235501-07170"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-bisteconee-9",
+    "data": "2026-11-21",
+    "horario": "21:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/videos/2932201544?t=4h25m38s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "bisteconee-2932201544-15938"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-40",
+    "data": "2026-11-21",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/videos/2932200023?t=10h37m15s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "alanzoka-2932200023-38085"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-brino-4",
+    "data": "2026-11-21",
+    "horario": "22:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/brino",
+      "link": "https://www.twitch.tv/videos/2932235501?t=2h16m40s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "brino-2932235501-08200"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-bisteconee-10",
+    "data": "2026-11-21",
+    "horario": "22:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/videos/2932201544?t=1h7m3s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "bisteconee-2932201544-03873"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-paulinholokobr-4",
+    "data": "2026-11-21",
+    "horario": "23:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/videos/2932209117?t=4h17m57s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "paulinholokobr-2932209117-15477"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-41",
+    "data": "2026-11-21",
+    "horario": "23:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/videos/2932200023?t=11h10m34s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "alanzoka-2932200023-40234"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-bisteconee-11",
+    "data": "2026-11-22",
+    "horario": "00:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/Bisteconee",
+      "link": "https://www.twitch.tv/videos/2932201544?t=1h19m37s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "bisteconee-2932201544-04627"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-paulinholokobr-5",
+    "data": "2026-11-22",
+    "horario": "00:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/videos/2932209117?t=4h26m43s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "paulinholokobr-2932209117-16003"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-42",
+    "data": "2026-11-22",
+    "horario": "01:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/videos/2932200023?t=2h15m51s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "alanzoka-2932200023-08001"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-brino-5",
+    "data": "2026-11-22",
+    "horario": "01:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/brino",
+      "link": "https://www.twitch.tv/videos/2932343708?t=5h10m55s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "brino-2932343708-18655"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-paulinholokobr-6",
+    "data": "2026-11-22",
+    "horario": "02:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": false,
+      "perfil": "twitch/PaulinhoLOKObr",
+      "link": "https://www.twitch.tv/videos/2932209117?t=0h32m25s",
+      "titulo": "canal",
+      "revisado": true,
+      "banco": "paulinholokobr-2932209117-01795"
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
+      "por": "revisão manual",
+      "em": "2026-11-21T02:44:36-03:00"
+    }
   }
 ]
