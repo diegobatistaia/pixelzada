@@ -11474,7 +11474,7 @@
     "slug": "gta6-corte-italiazeta",
     "data": "2026-11-21",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Italiazeta jogando GTA 6\n📺 twitch.tv/italiazeta\n\n#gta6 #gtavi #italiazeta #pixelzada",
     "tentativas": 0,
@@ -11497,6 +11497,19 @@
       "motivo": "streamer vestida e gameplay de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-21T10:15:30-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T11:04:06-03:00",
+      "media_id": "17911359039669080",
+      "permalink": "https://www.instagram.com/reel/DgAZvQEGVU6/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
