@@ -71,7 +71,7 @@ def previas(pasta: str) -> list[str]:
     destino.mkdir(parents=True, exist_ok=True)
     nomes = []
     for i in carregar():
-        if i.get("status") == "publicado":
+        if i.get("status") not in ("agendado", "pausado"):
             continue
         src, capa = PASTA / "videos" / f"{i['slug']}.mp4", PASTA / "videos" / f"{i['slug']}.jpg"
         mp4, jpg = destino / f"{i['slug']}.mp4", destino / f"{i['slug']}.jpg"
@@ -93,7 +93,7 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
     agora = agora or datetime.now(P.TZ)
     fila = carregar()
     hoje = agora.date()
-    pend = sorted((i for i in fila if i.get("status") != "publicado"), key=lambda i: (i["data"], i["horario"]))
+    pend = sorted((i for i in fila if i.get("status") == "agendado"), key=lambda i: (i["data"], i["horario"]))
     saiu_hoje = [i for i in fila if i.get("status") == "publicado" and i["data"] == hoje.isoformat()]
     avisos: list[str] = []
     for i in pend:
@@ -119,6 +119,12 @@ def pagina(agora: datetime | None = None) -> tuple[str, list[str]]:
             atrasado = agora > _inicio(i) + DEPOIS
             fila_html += _item(i["horario"], _titulo(i), i.get("estilo", ""),
                                "Perdeu a hora" if atrasado else "Agendado", vazio=atrasado, slug=i["slug"])
+        fila_html += "    </div>\n"
+    pausados = [i for i in fila if i.get("status") == "pausado"]
+    if pausados:  # Diego, 21/11: moldura branca pausada (guardada, volta quando ele mandar)
+        fila_html += (f'    <div class="dia">\n      <header>Pausados (moldura branca) <span>{len(pausados)} guardados</span></header>\n')
+        for i in pausados:
+            fila_html += _item("—", _titulo(i), i.get("estilo", ""), "Pausado", vazio=True, slug=i["slug"])
         fila_html += "    </div>\n"
     if pend:
         u = pend[-1]
@@ -156,7 +162,7 @@ def main() -> int:
             f.write(out)
     fila = carregar()
     hoje = datetime.now(P.TZ).date().isoformat()
-    pend = [i for i in fila if i.get("status") != "publicado"]
+    pend = [i for i in fila if i.get("status") == "agendado"]
     print(f"na_gaveta {len(pend)}  faltam_para_semana {max(0, SEMANA - len(pend))}")
     for i in fila:
         if i.get("status") == "publicado" and i["data"] == hoje:

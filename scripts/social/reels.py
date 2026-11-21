@@ -299,7 +299,7 @@ def cmd_check(args) -> int:
                 erros.append(f"{i.get('slug', '?')}: falta {k}")
         if i.get("status") != "publicado" and not i.get("teste_modelo") and i.get("horario") not in horarios(i["data"]):  # publicados ficam como saíram
             erros.append(f"{i['slug']}: horário {i.get('horario')} não é da grade de {i['data']}")
-        if i["status"] != "retirado":  # retirado da fila não ocupa horário
+        if i["status"] not in ("retirado", "pausado"):  # fora da fila não ocupa horário
             if (i["data"], i["horario"]) in vistos:
                 erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")
             vistos.add((i["data"], i["horario"]))
