@@ -71,7 +71,8 @@ jobs:
           cp "$T"/capa.jpg "$T"/descricao.txt "$T"/relatorio.json "$P"/ 2>/dev/null || true
           cp "$T"/$EPISODIO.ass "$P"/legenda.ass 2>/dev/null || true
           if [ -f "$T/$EPISODIO.mp4" ]; then
-            ffmpeg -y -loglevel error -i "$T/$EPISODIO.mp4" -vf scale=1280:-2 -c:v libx264 -preset veryfast -crf 27 -c:a aac -b:a 128k -movflags +faststart "$P/previa-720p.mp4"
+            ffmpeg -y -loglevel error -i "$T/$EPISODIO.mp4" -vf scale=1280:-2 -c:v libx264 -preset veryfast -crf 30 -maxrate 900k -bufsize 1800k -c:a aac -b:a 96k -movflags +faststart "$P/previa-720p.mp4"
+            [ $(stat -c%s "$P/previa-720p.mp4") -gt 94000000 ] && { split -b 90M -d "$P/previa-720p.mp4" "$P/previa-720p.mp4.parte"; rm "$P/previa-720p.mp4"; }
             split -b 90M -d "$T/$EPISODIO.mp4" "$P/final-1080p.mp4.parte"
             sha256sum "$T/$EPISODIO.mp4" > "$P/final-1080p.sha256"
           fi
