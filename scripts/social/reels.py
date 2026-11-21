@@ -166,7 +166,10 @@ def reagendar(fila: list[dict], t: datetime) -> list[str]:
 
 def moldura_pausada(item: dict) -> bool:
     """Diego, 21/11 (REGRA FIRME): moldura branca/preta pausada; só sai corte dividido (e o vídeo longo)."""
-    m = ((item.get("etiquetas") or {}).get("moldura") or "").lower()
+    et = item.get("etiquetas") or {}
+    if et.get("excecao") == "final-gta6":
+        return False  # Diego, 21/11: exceção só para os Reels do final do GTA 6 (branca + "⚠️ SPOILER")
+    m = (et.get("moldura") or "").lower()
     return m.startswith("simples") or (item.get("estilo") or "").lower().startswith("simples")
 
 
