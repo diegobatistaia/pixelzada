@@ -21,7 +21,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[2]
 SAIDA = RAIZ / "previas/longo/amostras-voz"
-MODELOS = ["gemini-2.5-flash-preview-tts", "gemini-3.1-flash-tts-preview", "gemini-2.5-pro-preview-tts"]
+MODELOS = ["gemini-2.5-flash-preview-tts"]  # o mesmo modelo do vídeo: a amostra é a voz de verdade
 ESTILO = ("Narre em português do Brasil como o Leo, um jovem gamer brasileiro de uns 20 anos que tem um "
           "canal de guias de GTA no YouTube: animado, simpático, falando direto com quem assiste, como um "
           "amigo contando um segredo, ritmo rápido mas claro, sem gritar. Leia exatamente este texto:\n\n")
