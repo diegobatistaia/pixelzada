@@ -1,0 +1,32 @@
+name: Capas (Guia Vice City)
+
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/longo/guia-vice-city/capa.py", "scripts/longo/guia-vice-city/capas.json", ".github/workflows/capa-gvc.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  capas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow numpy "rembg[cpu]" onnxruntime
+      - run: python -u -c "import runpy,sys; sys.argv=['capa']; runpy.run_path('scripts/longo/guia-vice-city/capa.py', run_name='__main__')"
+      - name: Guardar no ramo
+        if: always()
+        run: |
+          git config user.name "pixelzada-bot"
+          git config user.email "bot@pixelzada.com.br"
+          git add -f previas/longo/guia-vice-city scripts/longo/guia-vice-city/leo-recorte.png 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -q -m "capas Guia Vice City [skip ci]"
+          for i in 1 2 3 4; do git pull --rebase -q origin "$GITHUB_REF_NAME" && git push -q origin "HEAD:$GITHUB_REF_NAME" && exit 0; sleep $((i*5)); done
+          exit 1
