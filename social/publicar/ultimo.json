@@ -1,14 +1,12 @@
 {
   "pedido": {
     "acao": "reel",
-    "slug": "sensacao-abrir-gta6-primeira-vez",
-    "pasta": "reel-sensacao-abrir-gta6-primeira-vez",
-    "horario": "06:00",
+    "slug": "eu-indo-para-casa-dia-19",
+    "pasta": "reel-eu-indo-para-casa-dia-19",
+    "horario": "06:30",
     "data": "2026-11-21"
   },
-  "em": "2026-11-21T06:05:24-03:00",
-  "ok": true,
-  "media_id": "18072099713786947",
-  "permalink": "https://www.instagram.com/reel/Df_3jQcjSQB/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "em": "2026-11-21T06:33:22-03:00",
+  "ok": false,
+  "erro": "o Instagram recusou a mídia: ERROR"
 }

@@ -11149,7 +11149,7 @@
     "status": "agendado",
     "estilo": "Simples branca",
     "legenda": "Eu indo para casa no dia 19 de novembro 🏎️💨 O GTA 6 já está esperando!\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
-    "tentativas": 0,
+    "tentativas": 1,
     "origem": {
       "motor": true,
       "perfil": "bruneygta",
@@ -11169,7 +11169,8 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T15:20:00-03:00"
-    }
+    },
+    "erro": "o Instagram recusou a mídia: ERROR"
   },
   {
     "slug": "gta6-como-comecou-como-esta-indo",
