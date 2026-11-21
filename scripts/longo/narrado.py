@@ -133,6 +133,25 @@ def _guardar_voz(ep: dict, slug: str, trab: Path, voz: str) -> None:
          "cenas": {c["id"]: _hash(c["texto"]) for c in ep["cenas"]}}, ensure_ascii=False, indent=1))
 
 
+def _corte_no_silencio(wav: Path, frac: float) -> float:
+    """Ponto de corte entre duas cenas narradas juntas: o silêncio mais longo perto da proporção do texto."""
+    dur = duracao(wav)
+    r = subprocess.run(["ffmpeg", "-i", str(wav), "-af", "silencedetect=noise=-38dB:d=0.25", "-f", "null", "-"],
+                       capture_output=True, text=True)
+    sil, ini = [], None
+    for l in r.stderr.splitlines():
+        m = re.search(r"silence_start: ([\d.]+)", l)
+        if m:
+            ini = float(m.group(1))
+        m = re.search(r"silence_end: ([\d.]+)", l)
+        if m and ini is not None:
+            sil.append(((ini + float(m.group(1))) / 2, float(m.group(1)) - ini))
+            ini = None
+    alvo = frac * dur
+    cand = [(abs(meio - alvo) / dur - dd * 0.3, meio) for meio, dd in sil if abs(meio - alvo) < 0.12 * dur]
+    return min(cand)[1] if cand else alvo
+
+
 def _voz_por_cena(ep: dict, slug: str, pasta: Path) -> None:
     """Voz fixa na cota grátis: narra cena a cena e GUARDA cada uma na hora. Se a cota do dia
     acabar no meio, o que já foi narrado fica salvo e a próxima rodada continua dali, com a
@@ -144,6 +163,34 @@ def _voz_por_cena(ep: dict, slug: str, pasta: Path) -> None:
     voz = f"Google Gemini TTS ({ep['modelo_tts']}, voz {EP.VOZ_GEMINI})"
     if d.get("voz") != voz:
         d = {"voz": voz, "pedida": ep.get("voz") or EP.VOZ_GEMINI, "cenas": {}}
+    faltam = [c for c in ep["cenas"] if not (pasta / f"{c['id']}.wav").exists()]
+    if ep.get("agrupar", 1) > 1:  # cota grátis curta: 2 cenas por pedido, cortadas no silêncio entre elas
+        for k in range(0, len(faltam) - 1, ep["agrupar"]):
+            par = faltam[k:k + 2]
+            if len(par) < 2:
+                break
+            junto = pasta / f"_par-{par[0]['id']}.wav"
+            texto = par[0]["texto"] + "\n\n" + par[1]["texto"]
+            EP.voz_gemini(texto, junto)
+            corte = _corte_no_silencio(junto, len(par[0]["texto"]) / len(texto))
+            for c, (a_, b_) in zip(par, [(0, corte), (corte, None)]):
+                wav = pasta / f"{c['id']}.wav"
+                args = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(junto), "-ss", f"{a_:.3f}"]
+                if b_:
+                    args += ["-to", f"{b_:.3f}"]
+                subprocess.run(args + ["-af", "silenceremove=start_periods=1:start_threshold=-45dB,areverse,"
+                                       "silenceremove=start_periods=1:start_threshold=-45dB,areverse",
+                                       str(wav)], check=True)
+                if _ritmo_ruim(c, wav):
+                    print(f"  cena {c['id']}: ritmo fora do normal no par; vai sozinha")
+                    wav.unlink()
+                    continue
+                subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(wav), "-ac", "1", "-ar", "24000",
+                                str(dest / f"{c['id']}.flac")], check=True)
+                d["cenas"][c["id"]] = _hash(c["texto"])
+                idx.write_text(json.dumps(d, ensure_ascii=False, indent=1))
+                print(f"  cena {c['id']}: narrada (em par) e guardada", flush=True)
+            junto.unlink()
     for c in ep["cenas"]:
         wav = pasta / f"{c['id']}.wav"
         if wav.exists():
