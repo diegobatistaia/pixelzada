@@ -7,71 +7,123 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-21T06:56-03:00",
+ "atualizado": "2026-11-21T14:32-03:00",
  "hoje": {
   "data": "2026-11-21",
   "reels": {
    "meta": 48,
-   "publicados": 12,
-   "deviam_ter_saido": 13,
-   "atrasados": [],
+   "publicados": 26,
+   "deviam_ter_saido": 29,
+   "atrasados": [
+    "10:30",
+    "12:00",
+    "12:30",
+    "13:00",
+    "13:30",
+    "14:00"
+   ],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 3,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 75,
+  "agendados": 68,
   "meta_por_dia": 48,
-  "dias_de_reserva": 1.6,
-  "grade_cheia_ate": null,
-  "sem_revisao": 0,
+  "dias_de_reserva": 1.4,
+  "grade_cheia_ate": "2026-11-22",
+  "sem_revisao": 15,
   "por_dia": [
    {
     "data": "2026-11-21",
-    "agendados": 34,
+    "agendados": 18,
     "meta": 48
    },
    {
     "data": "2026-11-22",
-    "agendados": 41,
+    "agendados": 48,
     "meta": 48
+   },
+   {
+    "data": "2026-11-23",
+    "agendados": 2,
+    "meta": 17
    }
   ]
  },
  "site": {
-  "total": 258,
-  "hoje": 0,
+  "total": 261,
+  "hoje": 3,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "GTA 6: lojas exclusivas da Ultimate Edition ficam de portas fechadas e jogadores reclamam",
-   "url": "https://pixelzada.com.br/pt/gta-6-lojas-exclusivas-da-ultimate-edition-ficam-de-portas-fechadas-e-jogadores-reclamam/",
-   "em": "2026-11-20T21:48:10-03:00"
+   "titulo": "GTA 6: códigos dos cofres de Port Gellhorn no boliche, no Brooks Boatworks e no La Cascara Motel",
+   "url": "https://pixelzada.com.br/pt/gta-6-codigos-dos-cofres-de-port-gellhorn-boliche-brooks-boatworks-e-la-cascara-motel/",
+   "em": "2026-11-21T13:56:42-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "21/11/2026 06:24",
+  "ultima_coleta": "21/11/2026 14:20",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AcyZqnOCVvhmAiYvSbjhfe4\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Axef3Cyt0e-jnwc2BsLz-DY\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 1,
-  "sem_resolver": 1,
+  "falhas_24h": 7,
+  "sem_resolver": 6,
   "lista": [
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-21T10:55:08-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44911238357",
+    "resolvido": false
+   },
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-21T10:41:43-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44910133228",
+    "resolvido": false
+   },
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-21T10:34:07-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44909504823",
+    "resolvido": false
+   },
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-21T09:53:00-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44906090168",
+    "resolvido": false
+   },
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-21T09:31:12-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44904315426",
+    "resolvido": false
+   },
+   {
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-21T09:27:08-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44903963123",
+    "resolvido": false
+   },
    {
     "workflow": "Reels",
     "em": "2026-11-21T06:28:25-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44889740813",
-    "resolvido": false
+    "resolvido": true
    }
   ]
  },
@@ -141,11 +193,11 @@
   },
   {
    "data": "2026-11-21",
-   "reels": 12,
+   "reels": 26,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
+   "materias": 3,
    "views_reels": null
   }
  ],
@@ -197,12 +249,20 @@
  ],
  "alertas": [
   {
-   "nivel": "amarelo",
-   "texto": "Fila de Reels com só 1,6 dia(s) de reserva"
+   "nivel": "vermelho",
+   "texto": "6 Reel(s) de hoje atrasado(s): 10:30, 12:00, 12:30, 13:00, 13:30"
   },
   {
    "nivel": "vermelho",
-   "texto": "1 falha(s) no GitHub ainda sem resolver"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
+  },
+  {
+   "nivel": "amarelo",
+   "texto": "Fila de Reels com só 1,4 dia(s) de reserva"
+  },
+  {
+   "nivel": "vermelho",
+   "texto": "6 falha(s) no GitHub ainda sem resolver"
   },
   {
    "nivel": "amarelo",
