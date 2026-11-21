@@ -12173,7 +12173,7 @@
     "slug": "gta6-corte-paulinholokobr-3",
     "data": "2026-11-21",
     "horario": "16:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 PaulinhoLOKObr jogando GTA 6\n📺 twitch.tv/paulinholokobr\n\n#gta6 #gtavi #paulinholokobr #pixelzada",
     "tentativas": 0,
@@ -12197,6 +12197,19 @@
       "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
       "por": "revisão manual",
       "em": "2026-11-21T02:44:36-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T16:30:54-03:00",
+      "media_id": "18065947127573429",
+      "permalink": "https://www.instagram.com/reel/DgA_IxAEQub/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
