@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:57:19 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Steam Machine de 512 GB sai da lista de espera, mas modelo de 2 TB fica sem estoque</title>
+      <link>https://pixelzada.com.br/pt/steam-machine-de-512-gb-sai-da-lista-de-espera-mas-modelo-de-2-tb-fica-sem-estoque/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/steam-machine-de-512-gb-sai-da-lista-de-espera-mas-modelo-de-2-tb-fica-sem-estoque/</guid>
+      <description>Valve libera o Steam Machine de 512 GB sem lista de espera e fecha a fila do modelo de 2 TB por falta de estoque. Veja preços, prazos e mini PCs alternativos.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Sat, 21 Nov 2026 14:57:17 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: nota 99 da crítica e 5,1 dos jogadores no Metacritic. O que está por trás do review bombing</title>
       <link>https://pixelzada.com.br/pt/gta-6-nota-99-da-critica-e-5-1-dos-jogadores-no-metacritic-o-que-esta-por-tras-do-review-bombing/</link>
@@ -238,14 +246,6 @@
       <description>Dr. Xbox, o DJ Khaled, receita atestado de mentira para jogar GTA 6, e enquete da IGN mostra que 46,5% dos leitores vão tirar folga para o lançamento.</description>
       <category>GTA 6</category>
       <pubDate>Wed, 18 Nov 2026 00:40:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sony vence processo de US$ 2,6 bilhões sobre monopólio da PlayStation Store no Reino Unido</title>
-      <link>https://pixelzada.com.br/pt/sony-vence-processo-de-us-2-6-bilhoes-sobre-monopolio-da-playstation-store/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/sony-vence-processo-de-us-2-6-bilhoes-sobre-monopolio-da-playstation-store/</guid>
-      <description>A Sony venceu na Justiça britânica o processo de até US$ 2,6 bilhões sobre a PlayStation Store. O tribunal rejeitou a acusação de monopólio por unanimidade.</description>
-      <category>Indústria</category>
-      <pubDate>Tue, 17 Nov 2026 22:53:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
