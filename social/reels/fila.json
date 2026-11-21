@@ -10766,7 +10766,7 @@
     "slug": "gta-6-twitch-brino",
     "data": "2026-11-21",
     "horario": "01:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
     "tentativas": 0,
@@ -10789,6 +10789,19 @@
       "motivo": "quadros conferidos à mão em 20/11 (cortes de live)",
       "por": "revisão manual",
       "em": "2026-11-20T09:35:07-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T01:31:22-03:00",
+      "media_id": "18001879391826249",
+      "permalink": "https://www.instagram.com/reel/Df_YPUnDWMi/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
