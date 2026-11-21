@@ -164,13 +164,19 @@ def reagendar(fila: list[dict], t: datetime) -> list[str]:
     return avisos
 
 
+def moldura_pausada(item: dict) -> bool:
+    """Diego, 21/11 (REGRA FIRME): moldura branca/preta pausada; só sai corte dividido (e o vídeo longo)."""
+    m = ((item.get("etiquetas") or {}).get("moldura") or "").lower()
+    return m.startswith("simples") or (item.get("estilo") or "").lower().startswith("simples")
+
+
 def escolher(t: datetime | None = None, fila: list[dict] | None = None) -> dict | None:
     t = t or IG.agora()
     fila = fila if fila is not None else carregar()
     if not _na_janela(t):
         return None  # fora da janela (7h às 23h): o atrasado espera a manhã
     abertos = [i for i in fila if i["status"] == "agendado" and i.get("tentativas", 0) < TENTATIVAS
-               and quando(i) - ANTES <= t]
+               and quando(i) - ANTES <= t and not moldura_pausada(i)]
     if not abertos:
         return None
     ultimo = _ultimo_publicado(fila)
@@ -225,6 +231,8 @@ def cmd_publicar(args) -> int:
     try:
         if item["status"] != "agendado":
             raise IG.ApiError(f"{item['slug']} está {item['status']}; nada publicado")
+        if moldura_pausada(item):
+            raise IG.ApiError(f"{item['slug']}: moldura branca pausada pelo Diego (21/11); nada publicado")
         # Última barreira de nudez (Diego, 16/11): legenda com palavra de risco ou checagem
         # visual ruim não sai (scripts/social/seguranca.py).
         from .seguranca import barrar, risco_texto
@@ -291,9 +299,10 @@ def cmd_check(args) -> int:
                 erros.append(f"{i.get('slug', '?')}: falta {k}")
         if i.get("status") != "publicado" and not i.get("teste_modelo") and i.get("horario") not in horarios(i["data"]):  # publicados ficam como saíram
             erros.append(f"{i['slug']}: horário {i.get('horario')} não é da grade de {i['data']}")
-        if (i["data"], i["horario"]) in vistos:
-            erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")
-        vistos.add((i["data"], i["horario"]))
+        if i["status"] != "retirado":  # retirado da fila não ocupa horário
+            if (i["data"], i["horario"]) in vistos:
+                erros.append(f"{i['slug']}: horário repetido {i['data']} {i['horario']}")
+            vistos.add((i["data"], i["horario"]))
         for ext in ("mp4", "jpg"):
             if i["status"] == "agendado" and not (PASTA / "videos" / f"{i['slug']}.{ext}").exists():
                 erros.append(f"{i['slug']}: falta social/reels/videos/{i['slug']}.{ext}")
