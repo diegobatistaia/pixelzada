@@ -11189,7 +11189,7 @@
     "slug": "gta6-como-comecou-como-esta-indo",
     "data": "2026-11-21",
     "horario": "07:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "GTA 6: como começou e como está indo 🥹 Da lista de desejos pra biblioteca!\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11212,6 +11212,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T19:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T07:34:15-03:00",
+      "media_id": "18113755373351204",
+      "permalink": "https://www.instagram.com/reel/DgABt1wjkSa/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
