@@ -281,6 +281,17 @@ def automatico(agora: datetime | None = None) -> int:
     print(f"{len(videos)} vídeo(s) esperando montagem; {len(livres)} horário(s) livre(s) nos próximos 14 dias")
     if not videos or not livres:
         return 0
+    # Diego, 21/11 (REGRA FIRME): moldura branca PAUSADA. Só entra na fila corte de streamer
+    # em tela dividida; o resto fica esperando na entrada até ele mandar voltar.
+    def _dividido(v):
+        try:
+            return json.loads(v.with_suffix(".json").read_text(encoding="utf-8")).get("pronto") == "dividido"
+        except (OSError, ValueError):
+            return False
+    pausados = [v for v in videos if not _dividido(v)]
+    if pausados:
+        print(f"  {len(pausados)} vídeo(s) fora do formato dividido: moldura pausada, não entram na fila")
+    videos = [v for v in videos if _dividido(v)]
     videos = [v for v in videos if passa_na_checagem(v)][:len(livres)]
     if not videos:
         return 0
