@@ -11315,7 +11315,7 @@
     "slug": "edicao-standard-loja-ultimate-gta6",
     "data": "2026-11-21",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "Quando você compra a edição Standard de GTA 6 e tenta entrar na loja exclusiva da versão Ultimate 😂🚪\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11338,6 +11338,19 @@
       "motivo": "quadros conferidos à mão em 17/11",
       "por": "revisão manual",
       "em": "2026-11-17T11:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T09:03:39-03:00",
+      "media_id": "17915361066665362",
+      "permalink": "https://www.instagram.com/reel/DgAL8ywD0Fc/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
