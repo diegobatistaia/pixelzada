@@ -13563,9 +13563,96 @@
     }
   },
   {
-    "slug": "gta6-corte-alanzoka-45",
+    "slug": "gta6-corte-caseoh-2",
     "data": "2026-11-22",
     "horario": "17:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/caseoh_",
+      "link": "https://www.twitch.tv/caseoh_/clip/CheerfulTrappedStapleWutFace-jixZG8vYnQfoSHur",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "rostos, streamer e cenas de gameplay com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-21T12:19:04-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-caseoh-3",
+    "data": "2026-11-22",
+    "horario": "18:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/caseoh_",
+      "link": "https://www.twitch.tv/caseoh_/clip/BrightLivelySlothFreakinStinkin-G7XEe4zRhKWABvyb",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer com fone e cenas de gameplay com personagens vestidos",
+      "por": "imagem",
+      "em": "2026-11-21T12:19:08-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-ohnepixel-2",
+    "data": "2026-11-22",
+    "horario": "18:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 ohnePixel jogando GTA 6\n📺 twitch.tv/ohnepixel\n\n#gta6 #gtavi #ohnepixel #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/ohnePixel",
+      "link": "https://www.twitch.tv/ohnepixel/clip/ConsiderateViscousKeyboardTBCheesePull-f2S35hbuDedw8-LX",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de jogo de ação",
+      "por": "imagem",
+      "em": "2026-11-21T12:19:11-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-45",
+    "data": "2026-11-22",
+    "horario": "19:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -13594,7 +13681,7 @@
   {
     "slug": "gta6-corte-rafaao",
     "data": "2026-11-22",
-    "horario": "18:00",
+    "horario": "19:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 rafaao jogando GTA 6\n📺 twitch.tv/rafaao\n\n#gta6 #gtavi #rafaao #pixelzada",
@@ -13623,7 +13710,7 @@
   {
     "slug": "gta6-corte-caseoh",
     "data": "2026-11-22",
-    "horario": "18:30",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
@@ -13652,7 +13739,7 @@
   {
     "slug": "gta6-corte-ohnepixel",
     "data": "2026-11-22",
-    "horario": "19:00",
+    "horario": "20:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 ohnePixel jogando GTA 6\n📺 twitch.tv/ohnepixel\n\n#gta6 #gtavi #ohnepixel #pixelzada",
@@ -13681,7 +13768,7 @@
   {
     "slug": "gta6-corte-sashagrey",
     "data": "2026-11-22",
-    "horario": "19:30",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 sashagrey jogando GTA 6\n📺 twitch.tv/sashagrey\n\n#gta6 #gtavi #sashagrey #pixelzada",
@@ -13705,35 +13792,6 @@
       "motivo": "streamer vestida e gameplay de jogo de mundo aberto",
       "por": "imagem",
       "em": "2026-11-21T11:21:33-03:00"
-    }
-  },
-  {
-    "slug": "gta6-corte-korviktv",
-    "data": "2026-11-22",
-    "horario": "20:00",
-    "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 korviktv jogando GTA 6\n📺 twitch.tv/korviktv\n\n#gta6 #gtavi #korviktv #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/korviktv",
-      "link": "https://www.twitch.tv/korviktv/clip/YummyAlertButterMrDestructoid-jB4XwkD41nbcv0KB",
-      "titulo": "canal",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "Pessoas vestidas em ambiente interno de jogo, sem nudez ou conteúdo inadequado.",
-      "por": "imagem",
-      "em": "2026-11-21T11:21:37-03:00"
     }
   },
   {
@@ -13766,6 +13824,35 @@
     "pausado": {
       "em": "2026-11-21T10:40:00-03:00",
       "motivo": "Diego 21/11: moldura branca pausada para testar só os cortes de streamer em tela dividida; volta quando ele mandar (status -> agendado)"
+    }
+  },
+  {
+    "slug": "gta6-corte-korviktv",
+    "data": "2026-11-22",
+    "horario": "21:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 korviktv jogando GTA 6\n📺 twitch.tv/korviktv\n\n#gta6 #gtavi #korviktv #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/korviktv",
+      "link": "https://www.twitch.tv/korviktv/clip/YummyAlertButterMrDestructoid-jB4XwkD41nbcv0KB",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "Pessoas vestidas em ambiente interno de jogo, sem nudez ou conteúdo inadequado.",
+      "por": "imagem",
+      "em": "2026-11-21T11:21:37-03:00"
     }
   },
   {
