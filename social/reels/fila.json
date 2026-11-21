@@ -11062,7 +11062,7 @@
     "slug": "de-repente-semana-de-lancamento-gta6",
     "data": "2026-11-21",
     "horario": "05:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "E, de repente, estamos na semana de lançamento do GTA 6 🥹🎉\n\n#gta6 #gtavi #rockstargames #gta #pixelzada",
     "tentativas": 0,
@@ -11085,6 +11085,19 @@
       "motivo": "quadros conferidos à mão em 16/11",
       "por": "revisão manual",
       "em": "2026-11-16T15:20:00-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T05:33:52-03:00",
+      "media_id": "17934341478163116",
+      "permalink": "https://www.instagram.com/reel/Df_z8T8j6Vo/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
