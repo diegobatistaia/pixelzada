@@ -109,7 +109,9 @@
     "query": "GTA 6 cofre boliche",
     "alt": "Imagem de GTA 6 divulgada pela Polygon",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-bowling-alley-safe-code-header.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/gta-6-codigos-dos-cofres-de-port-gellhor-f7e18f4c.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -137,5 +139,7 @@
       "title": "GTA 6 Brooks Boatworks safe code and location"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-21T16:56:42+00:00",
+  "updated_at": "2026-11-21T16:56:42+00:00"
 }
