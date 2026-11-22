@@ -12859,7 +12859,7 @@
     "slug": "gta6-corte-alanzoka-43",
     "data": "2026-11-22",
     "horario": "01:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
     "tentativas": 0,
@@ -12883,6 +12883,19 @@
       "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
       "por": "revisão manual",
       "em": "2026-11-21T03:08:09-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T01:03:15-03:00",
+      "media_id": "18139966642642990",
+      "permalink": "https://www.instagram.com/reel/DgB5xJ0nOB2/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
