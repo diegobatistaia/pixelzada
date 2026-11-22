@@ -99,7 +99,9 @@
     "query": "Binding of Isaac Repentance+ IA",
     "alt": "Imagem de The Binding of Isaac: Repentance+ usada pela IGN na reportagem sobre a música com IA",
     "url": "https://assets-prd.ignimgs.com/2026/11/21/the-binding-of-isaac-repentance-ai-1795303836559.png?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/nicalis-remove-musica-feita-com-ia-de-th-4eace511.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -127,5 +129,7 @@
       "title": "Binding of Isaac AI music"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-22T20:53:20+00:00",
+  "updated_at": "2026-11-22T20:53:20+00:00"
 }

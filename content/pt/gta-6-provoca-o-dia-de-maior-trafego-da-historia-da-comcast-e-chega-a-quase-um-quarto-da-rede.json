@@ -100,7 +100,10 @@
     "query": "GTA 6 tráfego internet",
     "alt": "Imagem de GTA 6 usada pela IGN na reportagem sobre o tráfego da Comcast",
     "url": "https://assets-prd.ignimgs.com/2026/11/19/early-weapons1-1795092418085.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-provoca-o-dia-de-maior-trafego-da--5d1ca5e8.jpg",
+    "source_url": "",
+    "foco": "49% 37%"
   },
   "sources": [
     {
@@ -116,5 +119,7 @@
       "title": "Comcast: at peak GTA 6 accounted for nearly a quarter of all internet traffic"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-22T20:53:19+00:00",
+  "updated_at": "2026-11-22T20:53:19+00:00"
 }
