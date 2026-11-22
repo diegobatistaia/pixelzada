@@ -199,23 +199,32 @@ def _voz_por_cena(ep: dict, slug: str, pasta: Path) -> None:
                 idx.write_text(json.dumps(d, ensure_ascii=False, indent=1))
                 print(f"  cena {c['id']}: narrada (em par) e guardada", flush=True)
             junto.unlink()
+    falhas = []
     for c in ep["cenas"]:
         wav = pasta / f"{c['id']}.wav"
         if wav.exists():
             continue
         for tent in range(3):
             EP.voz_gemini(c["texto"], wav)  # erro de cota sobe e para a rodada (o que já saiu fica guardado)
+            ps = len(c["texto"].split()) / max(0.5, duracao(wav))
             if not _ritmo_ruim(c, wav):
                 break
-            print(f"  cena {c['id']}: ritmo fora do normal, narrando de novo")
+            print(f"  cena {c['id']}: ritmo fora do normal ({ps:.2f} palavras/s; normal 2,35-3,9), narrando de novo")
+            rej = dest / "rejeitadas"  # guarda a tentativa ruim para ouvir e entender o motivo
+            rej.mkdir(exist_ok=True)
+            subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(wav), "-ac", "1", "-ar", "24000",
+                            str(rej / f"{c['id']}-{tent + 1}.flac")], check=False)
             wav.unlink()
         if not wav.exists():
-            raise RuntimeError(f"cena {c['id']}: voz com ritmo ruim 3 vezes")
+            falhas.append(c["id"])  # segue para as outras cenas; não perde a cota do dia
+            continue
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(wav), "-ac", "1", "-ar", "24000",
                         str(dest / f"{c['id']}.flac")], check=True)
         d["cenas"][c["id"]] = _hash(c["texto"])
         idx.write_text(json.dumps(d, ensure_ascii=False, indent=1))
         print(f"  cena {c['id']}: narrada e guardada ({voz})", flush=True)
+    if falhas:
+        raise RuntimeError(f"cenas com ritmo ruim 3 vezes: {', '.join(falhas)}")
 
 
 def narrar(ep: dict, trab: Path, slug: str = "") -> str:
