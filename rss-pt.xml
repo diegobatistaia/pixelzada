@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 21 Nov 2026 16:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 00:45:54 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Executivo da Rockstar pede que jogadores de GTA 6 parem de pensar em tarefas, porcentagens e guias</title>
+      <link>https://pixelzada.com.br/pt/executivo-da-rockstar-pede-que-jogadores-de-gta-6-parem-de-pensar-em-tarefas-porcentagens-e-guias/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/executivo-da-rockstar-pede-que-jogadores-de-gta-6-parem-de-pensar-em-tarefas-porcentagens-e-guias/</guid>
+      <description>Executivo da Rockstar quer jogadores de GTA 6 longe de listas de tarefas e guias. Veja as falas de Donkin e Koehne e o que o GamesRadar e a Kotaku acham.</description>
+      <category>GTA 6</category>
+      <pubDate>Sun, 22 Nov 2026 00:45:53 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: códigos dos cofres de Port Gellhorn no boliche, no Brooks Boatworks e no La Cascara Motel</title>
       <link>https://pixelzada.com.br/pt/gta-6-codigos-dos-cofres-de-port-gellhorn-boliche-brooks-boatworks-e-la-cascara-motel/</link>
@@ -238,14 +246,6 @@
       <description>Méndez, Andrés de León, Ray e mais: os novos personagens do Extended Look e do trailer de lançamento de GTA 6, com o que se sabe antes de 19 de novembro.</description>
       <category>GTA 6</category>
       <pubDate>Wed, 18 Nov 2026 12:40:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Game Pass de novembro de 2026: segunda leva traz High on Life 2, The Outlast Trials e Sniper Ghost Warrior Contracts 2</title>
-      <link>https://pixelzada.com.br/pt/game-pass-novembro-2026-segunda-leva-high-on-life-2-outlast-trials-e-sniper-ghost-warrior/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/game-pass-novembro-2026-segunda-leva-high-on-life-2-outlast-trials-e-sniper-ghost-warrior/</guid>
-      <description>Game Pass de novembro, segunda leva: High on Life 2, Sniper Ghost Warrior Contracts 2, The Outlast Trials e Hela: of Mice &amp; Magic chegam entre 18/11 e 1º/12.</description>
-      <category>Lançamentos</category>
-      <pubDate>Wed, 18 Nov 2026 10:44:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -104,7 +104,10 @@
     "query": "GTA 6 Leonida experiência",
     "alt": "Imagem de GTA 6 divulgada pela Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/11/experience.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/executivo-da-rockstar-pede-que-jogadores-58cdf8ca.jpg",
+    "source_url": "",
+    "foco": "53% 36%"
   },
   "sources": [
     {
@@ -120,5 +123,7 @@
       "title": "Rockstar dev tells GTA 6 players to stop thinking in tasks, completion percentages, online guides"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-22T00:45:53+00:00",
+  "updated_at": "2026-11-22T00:45:53+00:00"
 }
