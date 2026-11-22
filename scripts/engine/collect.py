@@ -212,7 +212,13 @@ def run(cfg: Config, *, include_seen: bool = False) -> list[dict]:
 
     raw: list[dict] = []
     for source in sources:
-        items = fetch_feed(source)
+        # Uma fonte que cai no meio da resposta (conexao fechada, timeout)
+        # nao pode derrubar a coleta inteira: pula so ela.
+        try:
+            items = fetch_feed(source)
+        except Exception as exc:  # noqa: BLE001
+            print(f"  ! {source.get('name', source.get('url'))}: {exc}")
+            continue
         primaria = source.get("kind") == "primary"
         janela = hours_primary if primaria else hours
         kept = [i for i in items
