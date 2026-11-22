@@ -12602,7 +12602,7 @@
     "slug": "final-gta6-pos-creditos",
     "data": "2026-11-21",
     "horario": "22:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "⚠️ SPOILER do GTA 6: a cena que aparece depois dos créditos.\n\nVídeo: IShowSpeed (twitch.tv/ishowspeed)\n\n#gta6 #gtavi #spoiler #ishowspeed #pixelzada",
     "tentativas": 0,
@@ -12625,6 +12625,19 @@
       "motivo": "Cenas do final do GTA 6 (tiroteio e sangue de jogo, sem nudez); câmera do streamer recortada fora",
       "por": "revisão manual",
       "em": "2026-11-21T19:38:22-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-21T22:03:18-03:00",
+      "media_id": "17900453163411077",
+      "permalink": "https://www.instagram.com/reel/DgBlN6SAAGK/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
