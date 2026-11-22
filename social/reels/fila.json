@@ -13547,7 +13547,7 @@
     "slug": "gta6-igual-gta5-praia",
     "data": "2026-11-22",
     "horario": "09:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "GTA 6 x GTA 5: a mesma caminhada na praia, lado a lado, pra quem disse que o 6 está igual ao 5 😂\n\nVídeo: @juliveirac\n\n#gta6 #gtavi #gta #pixelzada",
     "tentativas": 0,
@@ -13570,6 +13570,19 @@
       "motivo": "Comparação GTA 6 x GTA 5 andando na praia; banhistas de roupa de praia ao fundo, sem nudez",
       "por": "revisão manual",
       "em": "2026-11-22T08:16:48-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T09:30:59-03:00",
+      "media_id": "18076732331784720",
+      "permalink": "https://www.instagram.com/reel/DgCz36rDVuY/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
