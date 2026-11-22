@@ -13912,9 +13912,67 @@
     }
   },
   {
-    "slug": "gta6-corte-alanzoka-54",
+    "slug": "gta6-corte-apenas1live-3",
     "data": "2026-11-22",
     "horario": "19:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 Apenas1Live jogando GTA 6\n📺 twitch.tv/apenas1live\n\n#gta6 #gtavi #apenas1live #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/Apenas1Live",
+      "link": "https://www.twitch.tv/apenas1live/clip/ShortAggressiveHorseAMPEnergy-VIBb90mFLyc3SKYy",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamers vestidas e cenas de gameplay comuns",
+      "por": "imagem",
+      "em": "2026-11-21T22:44:25-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-56",
+    "data": "2026-11-22",
+    "horario": "20:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/BenevolentSleepyFlyBabyRage-dOP2No9gSvZFSBf_",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer de games jogando e conversando com o chat",
+      "por": "imagem",
+      "em": "2026-11-21T22:44:32-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-54",
+    "data": "2026-11-22",
+    "horario": "20:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -13943,7 +14001,7 @@
   {
     "slug": "gta6-corte-alanzoka-55",
     "data": "2026-11-22",
-    "horario": "20:00",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -13967,64 +14025,6 @@
       "motivo": "streamer jogando e cenas de gameplay com personagem vestido",
       "por": "imagem",
       "em": "2026-11-21T21:41:56-03:00"
-    }
-  },
-  {
-    "slug": "gta6-corte-cellbit-8",
-    "data": "2026-11-22",
-    "horario": "20:30",
-    "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/Cellbit",
-      "link": "https://www.twitch.tv/cellbit/clip/SassyNastyRutabagaTBCheesePull-AR5oFWx5txAX_JMV",
-      "titulo": "canal",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo de terror",
-      "por": "imagem",
-      "em": "2026-11-21T21:42:00-03:00"
-    }
-  },
-  {
-    "slug": "gta6-corte-hiltonerika-6",
-    "data": "2026-11-22",
-    "horario": "21:00",
-    "status": "agendado",
-    "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
-    "tentativas": 0,
-    "origem": {
-      "motor": true,
-      "perfil": "twitch/hiltonerika",
-      "link": "https://www.twitch.tv/hiltonerika/clip/ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
-      "titulo": "canal",
-      "revisado": false
-    },
-    "etiquetas": {
-      "formato": "gameplay",
-      "tema": "gta6",
-      "jogo": "GTA 6",
-      "moldura": "dividido",
-      "modelo_streamer": "dividido"
-    },
-    "checagem": {
-      "risco": "baixo",
-      "motivo": "apenas carros, ônibus e pessoas vestidas correndo no escuro",
-      "por": "imagem",
-      "em": "2026-11-21T21:12:08-03:00"
     }
   },
   {
@@ -14060,17 +14060,17 @@
     }
   },
   {
-    "slug": "gta6-corte-alanzoka-53",
+    "slug": "gta6-corte-cellbit-8",
     "data": "2026-11-22",
     "horario": "21:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
-    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
     "tentativas": 0,
     "origem": {
       "motor": true,
-      "perfil": "twitch/alanzoka",
-      "link": "https://www.twitch.tv/alanzoka/clip/FlirtySourArugulaPipeHype-n1FClDQofX6mBpJ7",
+      "perfil": "twitch/Cellbit",
+      "link": "https://www.twitch.tv/cellbit/clip/SassyNastyRutabagaTBCheesePull-AR5oFWx5txAX_JMV",
       "titulo": "canal",
       "revisado": false
     },
@@ -14083,9 +14083,9 @@
     },
     "checagem": {
       "risco": "baixo",
-      "motivo": "streamer vestido e gameplay de jogo com carro em rua",
+      "motivo": "streamer vestido e gameplay de jogo de terror",
       "por": "imagem",
-      "em": "2026-11-21T21:12:11-03:00"
+      "em": "2026-11-21T21:42:00-03:00"
     }
   },
   {
@@ -14121,9 +14121,67 @@
     }
   },
   {
-    "slug": "gta6-corte-apenas1live-2",
+    "slug": "gta6-corte-hiltonerika-6",
     "data": "2026-11-22",
     "horario": "22:00",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/hiltonerika",
+      "link": "https://www.twitch.tv/hiltonerika/clip/ZealousTallCocoaPartyTime-HC_2z5jQcgxuxJvK",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "apenas carros, ônibus e pessoas vestidas correndo no escuro",
+      "por": "imagem",
+      "em": "2026-11-21T21:12:08-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-alanzoka-53",
+    "data": "2026-11-22",
+    "horario": "22:30",
+    "status": "agendado",
+    "estilo": "Dividido (modelo 1)",
+    "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
+    "tentativas": 0,
+    "origem": {
+      "motor": true,
+      "perfil": "twitch/alanzoka",
+      "link": "https://www.twitch.tv/alanzoka/clip/FlirtySourArugulaPipeHype-n1FClDQofX6mBpJ7",
+      "titulo": "canal",
+      "revisado": false
+    },
+    "etiquetas": {
+      "formato": "gameplay",
+      "tema": "gta6",
+      "jogo": "GTA 6",
+      "moldura": "dividido",
+      "modelo_streamer": "dividido"
+    },
+    "checagem": {
+      "risco": "baixo",
+      "motivo": "streamer vestido e gameplay de jogo com carro em rua",
+      "por": "imagem",
+      "em": "2026-11-21T21:12:11-03:00"
+    }
+  },
+  {
+    "slug": "gta6-corte-apenas1live-2",
+    "data": "2026-11-22",
+    "horario": "23:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Apenas1Live jogando GTA 6\n📺 twitch.tv/apenas1live\n\n#gta6 #gtavi #apenas1live #pixelzada",
@@ -14152,7 +14210,7 @@
   {
     "slug": "gta6-corte-alanzoka-52",
     "data": "2026-11-22",
-    "horario": "22:30",
+    "horario": "23:30",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14180,8 +14238,8 @@
   },
   {
     "slug": "gta6-corte-hiltonerika-5",
-    "data": "2026-11-22",
-    "horario": "23:00",
+    "data": "2026-11-23",
+    "horario": "07:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
@@ -14209,8 +14267,8 @@
   },
   {
     "slug": "gta6-corte-hiltonerika-3",
-    "data": "2026-11-22",
-    "horario": "23:30",
+    "data": "2026-11-23",
+    "horario": "08:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
@@ -14239,7 +14297,7 @@
   {
     "slug": "gta6-corte-hiltonerika-4",
     "data": "2026-11-23",
-    "horario": "07:00",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
@@ -14268,7 +14326,7 @@
   {
     "slug": "gta6-corte-snopey-2",
     "data": "2026-11-23",
-    "horario": "08:00",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Snopey jogando GTA 6\n📺 twitch.tv/snopey\n\n#gta6 #gtavi #snopey #pixelzada",
@@ -14297,7 +14355,7 @@
   {
     "slug": "gta6-corte-yayahuz",
     "data": "2026-11-23",
-    "horario": "09:00",
+    "horario": "11:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 yayahuz jogando GTA 6\n📺 twitch.tv/yayahuz\n\n#gta6 #gtavi #yayahuz #pixelzada",
@@ -14326,7 +14384,7 @@
   {
     "slug": "gta6-corte-cellbit-7",
     "data": "2026-11-23",
-    "horario": "10:00",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
@@ -14355,7 +14413,7 @@
   {
     "slug": "gta6-corte-hiltonerika-2",
     "data": "2026-11-23",
-    "horario": "11:00",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
@@ -14384,7 +14442,7 @@
   {
     "slug": "gta6-corte-alanzoka-50",
     "data": "2026-11-23",
-    "horario": "12:00",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14413,7 +14471,7 @@
   {
     "slug": "gta6-corte-alanzoka-51",
     "data": "2026-11-23",
-    "horario": "13:00",
+    "horario": "15:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14442,7 +14500,7 @@
   {
     "slug": "gta6-corte-joao01doturno",
     "data": "2026-11-23",
-    "horario": "14:00",
+    "horario": "16:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 joao01doturno jogando GTA 6\n📺 twitch.tv/joao01doturno\n\n#gta6 #gtavi #joao01doturno #pixelzada",
@@ -14471,7 +14529,7 @@
   {
     "slug": "gta6-corte-snopey",
     "data": "2026-11-23",
-    "horario": "15:00",
+    "horario": "17:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Snopey jogando GTA 6\n📺 twitch.tv/snopey\n\n#gta6 #gtavi #snopey #pixelzada",
@@ -14500,7 +14558,7 @@
   {
     "slug": "gta6-corte-hiltonerika",
     "data": "2026-11-23",
-    "horario": "16:00",
+    "horario": "18:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
@@ -14529,7 +14587,7 @@
   {
     "slug": "gta6-corte-facada-2",
     "data": "2026-11-23",
-    "horario": "17:00",
+    "horario": "19:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Facada jogando GTA 6\n📺 twitch.tv/facada\n\n#gta6 #gtavi #facada #pixelzada",
@@ -14558,7 +14616,7 @@
   {
     "slug": "gta6-corte-thedarkness-5",
     "data": "2026-11-23",
-    "horario": "18:00",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 TheDarkness jogando GTA 6\n📺 twitch.tv/thedarkness\n\n#gta6 #gtavi #thedarkness #pixelzada",
@@ -14587,7 +14645,7 @@
   {
     "slug": "gta6-corte-alanzoka-48",
     "data": "2026-11-23",
-    "horario": "19:00",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14616,7 +14674,7 @@
   {
     "slug": "gta6-corte-alanzoka-49",
     "data": "2026-11-23",
-    "horario": "20:00",
+    "horario": "22:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14645,7 +14703,7 @@
   {
     "slug": "gta6-corte-beamom",
     "data": "2026-11-23",
-    "horario": "21:00",
+    "horario": "23:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 beamom jogando GTA 6\n📺 twitch.tv/beamom\n\n#gta6 #gtavi #beamom #pixelzada",
@@ -14673,8 +14731,8 @@
   },
   {
     "slug": "gta6-corte-jerma985-2",
-    "data": "2026-11-23",
-    "horario": "22:00",
+    "data": "2026-11-24",
+    "horario": "07:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Jerma985 jogando GTA 6\n📺 twitch.tv/jerma985\n\n#gta6 #gtavi #jerma985 #pixelzada",
@@ -14702,8 +14760,8 @@
   },
   {
     "slug": "gta6-corte-cohhcarnage",
-    "data": "2026-11-23",
-    "horario": "23:00",
+    "data": "2026-11-24",
+    "horario": "08:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 CohhCarnage jogando GTA 6\n📺 twitch.tv/cohhcarnage\n\n#gta6 #gtavi #cohhcarnage #pixelzada",
@@ -14732,7 +14790,7 @@
   {
     "slug": "gta6-corte-arckon",
     "data": "2026-11-24",
-    "horario": "07:00",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Arckon jogando GTA 6\n📺 twitch.tv/arckon\n\n#gta6 #gtavi #arckon #pixelzada",
@@ -14761,7 +14819,7 @@
   {
     "slug": "gta6-corte-alanzoka-47",
     "data": "2026-11-24",
-    "horario": "08:00",
+    "horario": "10:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14790,7 +14848,7 @@
   {
     "slug": "gta6-corte-danielaazuaje",
     "data": "2026-11-24",
-    "horario": "09:00",
+    "horario": "11:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 DanielaAzuaje_ jogando GTA 6\n📺 twitch.tv/danielaazuaje_\n\n#gta6 #gtavi #danielaazuaje_ #pixelzada",
@@ -14819,7 +14877,7 @@
   {
     "slug": "gta6-corte-handsomed11-3",
     "data": "2026-11-24",
-    "horario": "10:00",
+    "horario": "12:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 HandsomeD11 jogando GTA 6\n📺 twitch.tv/handsomed11\n\n#gta6 #gtavi #handsomed11 #pixelzada",
@@ -14848,7 +14906,7 @@
   {
     "slug": "gta6-corte-nabrizarp-3",
     "data": "2026-11-24",
-    "horario": "11:00",
+    "horario": "13:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 nabrizarp jogando GTA 6\n📺 twitch.tv/nabrizarp\n\n#gta6 #gtavi #nabrizarp #pixelzada",
@@ -14877,7 +14935,7 @@
   {
     "slug": "gta6-corte-alanzoka-46",
     "data": "2026-11-24",
-    "horario": "12:00",
+    "horario": "14:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -14906,7 +14964,7 @@
   {
     "slug": "gta6-corte-handsomed11-2",
     "data": "2026-11-24",
-    "horario": "13:00",
+    "horario": "15:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 HandsomeD11 jogando GTA 6\n📺 twitch.tv/handsomed11\n\n#gta6 #gtavi #handsomed11 #pixelzada",
@@ -14935,7 +14993,7 @@
   {
     "slug": "gta6-corte-rafaao-2",
     "data": "2026-11-24",
-    "horario": "14:00",
+    "horario": "16:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 rafaao jogando GTA 6\n📺 twitch.tv/rafaao\n\n#gta6 #gtavi #rafaao #pixelzada",
@@ -14964,7 +15022,7 @@
   {
     "slug": "gta6-corte-bisteconee-20",
     "data": "2026-11-24",
-    "horario": "15:00",
+    "horario": "17:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
@@ -14993,7 +15051,7 @@
   {
     "slug": "gta6-corte-caseoh-2",
     "data": "2026-11-24",
-    "horario": "16:00",
+    "horario": "18:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
@@ -15022,7 +15080,7 @@
   {
     "slug": "gta6-corte-caseoh-3",
     "data": "2026-11-24",
-    "horario": "17:00",
+    "horario": "19:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
@@ -15051,7 +15109,7 @@
   {
     "slug": "gta6-corte-ohnepixel-2",
     "data": "2026-11-24",
-    "horario": "18:00",
+    "horario": "20:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 ohnePixel jogando GTA 6\n📺 twitch.tv/ohnepixel\n\n#gta6 #gtavi #ohnepixel #pixelzada",
@@ -15080,7 +15138,7 @@
   {
     "slug": "gta6-corte-alanzoka-45",
     "data": "2026-11-24",
-    "horario": "19:00",
+    "horario": "21:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
@@ -15109,7 +15167,7 @@
   {
     "slug": "gta6-corte-rafaao",
     "data": "2026-11-24",
-    "horario": "20:00",
+    "horario": "22:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 rafaao jogando GTA 6\n📺 twitch.tv/rafaao\n\n#gta6 #gtavi #rafaao #pixelzada",
@@ -15138,7 +15196,7 @@
   {
     "slug": "gta6-corte-caseoh",
     "data": "2026-11-24",
-    "horario": "21:00",
+    "horario": "23:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
@@ -15166,8 +15224,8 @@
   },
   {
     "slug": "gta6-corte-ohnepixel",
-    "data": "2026-11-24",
-    "horario": "22:00",
+    "data": "2026-11-25",
+    "horario": "07:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 ohnePixel jogando GTA 6\n📺 twitch.tv/ohnepixel\n\n#gta6 #gtavi #ohnepixel #pixelzada",
@@ -15195,8 +15253,8 @@
   },
   {
     "slug": "gta6-corte-sashagrey",
-    "data": "2026-11-24",
-    "horario": "23:00",
+    "data": "2026-11-25",
+    "horario": "08:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 sashagrey jogando GTA 6\n📺 twitch.tv/sashagrey\n\n#gta6 #gtavi #sashagrey #pixelzada",
@@ -15225,7 +15283,7 @@
   {
     "slug": "gta6-corte-korviktv",
     "data": "2026-11-25",
-    "horario": "07:00",
+    "horario": "09:00",
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 korviktv jogando GTA 6\n📺 twitch.tv/korviktv\n\n#gta6 #gtavi #korviktv #pixelzada",
