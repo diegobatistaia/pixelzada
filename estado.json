@@ -7,34 +7,39 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-22T08:30-03:00",
+ "atualizado": "2026-11-22T16:42-03:00",
  "hoje": {
   "data": "2026-11-22",
   "reels": {
    "meta": 48,
-   "publicados": 17,
-   "deviam_ter_saido": 17,
+   "publicados": 33,
+   "deviam_ter_saido": 33,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 4,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 106,
+  "agendados": 122,
   "meta_por_dia": 17,
-  "dias_de_reserva": 6.2,
-  "grade_cheia_ate": "2026-11-26",
-  "sem_revisao": 83,
+  "dias_de_reserva": 7.2,
+  "grade_cheia_ate": "2026-11-28",
+  "sem_revisao": 115,
   "por_dia": [
    {
     "data": "2026-11-22",
-    "agendados": 31,
+    "agendados": 14,
     "meta": 48
    },
    {
@@ -59,39 +64,61 @@
    },
    {
     "data": "2026-11-27",
-    "agendados": 7,
+    "agendados": 17,
+    "meta": 17
+   },
+   {
+    "data": "2026-11-28",
+    "agendados": 17,
+    "meta": 17
+   },
+   {
+    "data": "2026-11-29",
+    "agendados": 6,
     "meta": 17
    }
   ]
  },
  "site": {
-  "total": 262,
-  "hoje": 0,
+  "total": 264,
+  "hoje": 2,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Executivo da Rockstar pede que jogadores de GTA 6 parem de pensar em tarefas, porcentagens e guias",
-   "url": "https://pixelzada.com.br/pt/executivo-da-rockstar-pede-que-jogadores-de-gta-6-parem-de-pensar-em-tarefas-porcentagens-e-guias/",
-   "em": "2026-11-21T21:45:53-03:00"
+   "titulo": "Nintendo lança Black Friday 2026: Switch 2 com Mario Kart World cai US$ 50 e Donkey Kong Bananza fica mais barato",
+   "url": "https://pixelzada.com.br/pt/nintendo-lanca-black-friday-2026-switch-2-com-mario-kart-world-cai-us-50-e-donkey-kong-bananza-fica-mais-barato/",
+   "em": "2026-11-22T13:51:54-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "22/11/2026 06:09",
+  "ultima_coleta": "22/11/2026 16:10",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AUG-xT6OFSih7RcDAubE6WW\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AlrLQIn-KtRxudfTGVZG3vX\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 5,
+  "falhas_24h": 6,
   "sem_resolver": 3,
   "lista": [
+   {
+    "workflow": "Coletar",
+    "em": "2026-11-22T14:51:03-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45051738366",
+    "resolvido": false
+   },
+   {
+    "workflow": "Pesquisa de vídeos",
+    "em": "2026-11-22T08:11:49-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45016118937",
+    "resolvido": true
+   },
    {
     "workflow": "Pesquisa de vídeos",
     "em": "2026-11-22T07:58:51-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45015020522",
-    "resolvido": false
+    "resolvido": true
    },
    {
     "workflow": "Reels",
@@ -110,12 +137,6 @@
     "em": "2026-11-22T05:22:20-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45002498282",
     "resolvido": false
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-21T19:29:01-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/44956965584",
-    "resolvido": true
    }
   ]
  },
@@ -185,11 +206,11 @@
   },
   {
    "data": "2026-11-22",
-   "reels": 17,
+   "reels": 33,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
+   "materias": 2,
    "views_reels": null
   }
  ],
@@ -240,6 +261,10 @@
   }
  ],
  "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00"
+  },
   {
    "nivel": "vermelho",
    "texto": "3 falha(s) no GitHub ainda sem resolver"
