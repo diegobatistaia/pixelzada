@@ -13632,7 +13632,7 @@
     "slug": "gta6-corte-brino-11",
     "data": "2026-11-22",
     "horario": "10:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 brino jogando GTA 6\n📺 twitch.tv/brino\n\n#gta6 #gtavi #brino #pixelzada",
     "tentativas": 0,
@@ -13656,6 +13656,19 @@
       "motivo": "quadros conferidos à mão em 21/11 (banco de cortes das lives; checagem automática fora do ar)",
       "por": "revisão manual",
       "em": "2026-11-21T03:08:09-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T10:32:06-03:00",
+      "media_id": "18111320462346556",
+      "permalink": "https://www.instagram.com/reel/DgC63r7CEXh/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
