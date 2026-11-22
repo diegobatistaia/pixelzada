@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:50:57 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6: Tenebrae Lux, o jogo dentro do jogo que parodia games de arte e tem enigmas de verdade</title>
+      <link>https://pixelzada.com.br/pt/gta-6-tenebrae-lux-o-jogo-dentro-do-jogo-que-parodia-games-de-arte-e-tem-enigmas-de-verdade/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-tenebrae-lux-o-jogo-dentro-do-jogo-que-parodia-games-de-arte-e-tem-enigmas-de-verdade/</guid>
+      <description>Tenebrae Lux é um jogo completo dentro de GTA 6, uma paródia de games de arte. Veja o que Eurogamer e Kotaku dizem e como funcionam os enigmas, sem spoilers.</description>
+      <category>Guias</category>
+      <pubDate>Sun, 22 Nov 2026 12:50:56 +0000</pubDate>
+    </item>
     <item>
       <title>Executivo da Rockstar pede que jogadores de GTA 6 parem de pensar em tarefas, porcentagens e guias</title>
       <link>https://pixelzada.com.br/pt/executivo-da-rockstar-pede-que-jogadores-de-gta-6-parem-de-pensar-em-tarefas-porcentagens-e-guias/</link>
@@ -238,14 +246,6 @@
       <description>GTA 6 estreia com nota 99 no Metacritic, com mais de cem análises. Veja o que a imprensa elogiou, as críticas aos 30 fps e a duração estimada da campanha.</description>
       <category>GTA 6</category>
       <pubDate>Wed, 18 Nov 2026 14:49:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Méndez, Andrés de León, Raymond e mais: os novos personagens do Extended Look e do trailer de lançamento de GTA 6</title>
-      <link>https://pixelzada.com.br/pt/gta-6-novos-personagens-mendez-andres-de-leon-ray-extended-look-e-trailer/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-novos-personagens-mendez-andres-de-leon-ray-extended-look-e-trailer/</guid>
-      <description>Méndez, Andrés de León, Ray e mais: os novos personagens do Extended Look e do trailer de lançamento de GTA 6, com o que se sabe antes de 19 de novembro.</description>
-      <category>GTA 6</category>
-      <pubDate>Wed, 18 Nov 2026 12:40:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

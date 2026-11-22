@@ -100,7 +100,9 @@
     "query": "GTA 6 Tenebrae Lux",
     "alt": "Cena de Tenebrae Lux dentro de GTA 6, publicada pela Kotaku",
     "url": "https://kotaku.com/app/uploads/2026/11/tenebraelux11.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/gta-6-tenebrae-lux-o-jogo-dentro-do-jogo-f66a9570.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -116,5 +118,7 @@
       "title": "How to solve all main puzzles in GTA 6's Tenebrae Lux"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-22T12:50:56+00:00",
+  "updated_at": "2026-11-22T12:50:56+00:00"
 }
