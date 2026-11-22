@@ -14490,7 +14490,7 @@
     "slug": "gta6-corte-furq",
     "data": "2026-11-22",
     "horario": "20:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 furq jogando GTA 6\n📺 twitch.tv/furq\n\n#gta6 #gtavi #furq #pixelzada",
     "tentativas": 0,
@@ -14513,6 +14513,19 @@
       "motivo": "personagem vestido e interações com animais em jogo",
       "por": "imagem",
       "em": "2026-11-22T19:43:31-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T20:33:46-03:00",
+      "media_id": "18107803901381785",
+      "permalink": "https://www.instagram.com/reel/DgD_uQHFNkw/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
