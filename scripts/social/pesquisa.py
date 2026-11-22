@@ -195,7 +195,9 @@ def bloqueado(cfg: dict, legenda: str) -> bool:
     """Propaganda, sorteio, venda, e risco de nudez (seguranca.py, 16/11): não vira Reel."""
     from .seguranca import risco_texto
     texto = (legenda or "").lower()
-    return any(w in texto for w in cfg.get("bloquear", [])) or bool(risco_texto(legenda))
+    from .atualidade import defasado
+    return (any(w in texto for w in cfg.get("bloquear", [])) or bool(risco_texto(legenda))
+            or bool(defasado(legenda)))
 
 
 def usados(cfg: dict) -> set[str]:

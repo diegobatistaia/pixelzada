@@ -242,6 +242,13 @@ def cmd_publicar(args) -> int:
         if risco_texto(item.get("legenda", "")) or barrar((item.get("checagem") or {}).get("risco", "")):
             raise IG.ApiError(f"{item['slug']}: risco de violação de nudez; nada publicado "
                               f"(python -m scripts.social.seguranca varrer)")
+        # Barreira de data vencida (Diego, 21/11): GTA 6 já saiu; texto de contagem regressiva
+        # ou "vai sair" não vai ao ar (scripts/social/atualidade.py).
+        from .atualidade import defasado
+        vencido = defasado(item.get("legenda", ""), (item.get("origem") or {}).get("titulo", ""))
+        if vencido:
+            raise IG.ApiError(f"{item['slug']}: texto com data vencida ({', '.join(vencido)}); nada publicado "
+                              f"(python -m scripts.social.atualidade varrer)")
         token, ig = IG.conta()
         video, capa = IG.url_publica(pedido["pasta"], "video.mp4"), IG.url_publica(pedido["pasta"], "capa.jpg")
         IG.conferir_urls([video, capa])
