@@ -866,5 +866,27 @@
     "motivo": "monstros humanoides nus em alguns quadros do jogo",
     "por": "imagem",
     "em": "2026-11-22T20:18:33-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "93-gta6-twitch-xqc.mp4",
+    "link": "https://www.twitch.tv/xqc/clip/KathishVivaciousBadgerEleGiggle-EFtXHIk7I9GBwi-O",
+    "perfil": "twitch/xQc",
+    "legenda": "XQC Camera Roll",
+    "risco": "medio",
+    "motivo": "imagens em tela de celular mostram pessoas de biquíni e roupas de praia",
+    "por": "imagem",
+    "em": "2026-11-22T20:50:01-03:00"
+  },
+  {
+    "slug": null,
+    "bruto": "94-gta6-twitch-jerma985.mp4",
+    "link": "https://www.twitch.tv/jerma985/clip/CooperativeAdorableDonutCorgiDerp--wK70Mub_SSXlS88",
+    "perfil": "twitch/Jerma985",
+    "legenda": "Eye Tracker: On",
+    "risco": "alto",
+    "motivo": "personagens nus ou seminus em cenas de banho",
+    "por": "imagem",
+    "em": "2026-11-22T20:50:04-03:00"
   }
 ]
