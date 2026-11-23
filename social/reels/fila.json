@@ -15269,7 +15269,7 @@
     "slug": "gta6-corte-snopey-3",
     "data": "2026-11-23",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Snopey jogando GTA 6\n📺 twitch.tv/snopey\n\n#gta6 #gtavi #snopey #pixelzada",
     "tentativas": 1,
@@ -15293,7 +15293,20 @@
       "por": "imagem",
       "em": "2026-11-22T17:13:04-03:00"
     },
-    "erro": "o Instagram recusou a mídia: ERROR"
+    "erro": "o Instagram recusou a mídia: ERROR",
+    "publicado": {
+      "em": "2026-11-23T18:09:10-03:00",
+      "media_id": "18026660853081015",
+      "permalink": "https://www.instagram.com/reel/DgGUChAjKdm/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
+    }
   },
   {
     "slug": "gta6-corte-ricardoquik",
