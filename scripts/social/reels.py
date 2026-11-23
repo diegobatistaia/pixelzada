@@ -20,6 +20,7 @@ import argparse
 import json
 import shutil
 import sys
+import time
 from datetime import date, datetime, timedelta
 
 from . import instagram as IG, pauta as P
@@ -254,9 +255,16 @@ def cmd_publicar(args) -> int:
         token, ig = IG.conta()
         video, capa = IG.url_publica(pedido["pasta"], "video.mp4"), IG.url_publica(pedido["pasta"], "capa.jpg")
         IG.conferir_urls([video, capa])
-        c = IG.call("POST", f"{ig}/media", token, media_type="REELS", video_url=video, cover_url=capa,
-                    caption=item["legenda"], share_to_feed="true")
-        IG.esperar(c["id"], token, tentativas=60, pausa=10)
+        for volta in range(2):  # 23/11: o Instagram recusou a mídia (ERROR) na 1ª vez e aceitou na 2ª
+            c = IG.call("POST", f"{ig}/media", token, media_type="REELS", video_url=video, cover_url=capa,
+                        caption=item["legenda"], share_to_feed="true")
+            try:
+                IG.esperar(c["id"], token, tentativas=60, pausa=10)
+                break
+            except IG.ApiError as e:
+                if volta or "recusou a mídia" not in str(e):
+                    raise
+                time.sleep(20)
         permalink = None
         try:
             pub = IG.call("POST", f"{ig}/media_publish", token, creation_id=c["id"])
