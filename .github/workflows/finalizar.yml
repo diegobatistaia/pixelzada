@@ -42,6 +42,12 @@ jobs:
       # branch claude/*.
       - uses: actions/checkout@v7
         with:
+          # Repo com ~9 GB de Reels prontos (23/11): este fluxo não usa os vídeos,
+          # então não baixa social/reels/videos (checkout de minutos -> segundos).
+          sparse-checkout: |
+            /*
+            !/social/reels/videos/
+          sparse-checkout-cone-mode: false
           ref: main
 
       - name: Há rascunho para finalizar?

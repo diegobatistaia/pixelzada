@@ -45,6 +45,12 @@ jobs:
       - uses: actions/checkout@v7
         if: steps.chave.outputs.ok == '1'
         with:
+          # Repo com ~9 GB de Reels prontos (23/11): este fluxo não usa os vídeos,
+          # então não baixa social/reels/videos (checkout de minutos -> segundos).
+          sparse-checkout: |
+            /*
+            !/social/reels/videos/
+          sparse-checkout-cone-mode: false
           ref: main
 
       - uses: actions/setup-python@v7
@@ -99,6 +105,12 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
+          # Repo com ~9 GB de Reels prontos (23/11): este fluxo não usa os vídeos,
+          # então não baixa social/reels/videos (checkout de minutos -> segundos).
+          sparse-checkout: |
+            /*
+            !/social/reels/videos/
+          sparse-checkout-cone-mode: false
           ref: main
 
       - uses: actions/setup-python@v7
