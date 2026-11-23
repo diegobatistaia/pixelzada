@@ -15315,7 +15315,7 @@
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 ricardoquik jogando GTA 6\n📺 twitch.tv/ricardoquik\n\n#gta6 #gtavi #ricardoquik #pixelzada",
-    "tentativas": 0,
+    "tentativas": 1,
     "origem": {
       "motor": true,
       "perfil": "twitch/ricardoquik",
@@ -15335,7 +15335,8 @@
       "motivo": "streamer vestido e gameplay de jogo de corrida",
       "por": "imagem",
       "em": "2026-11-22T17:14:13-03:00"
-    }
+    },
+    "erro": "o Instagram recusou a mídia: ERROR"
   },
   {
     "slug": "gta6-corte-bisteconee-21",
