@@ -1,0 +1,116 @@
+{
+  "lang": "pt",
+  "slug": "gta-6-roda-a-60-fps-no-xbox-series-x-com-glitch-do-quick-resume-mas-o-jogo-fica-em-velocidade-dobrada",
+  "story_id": "11ed8ccaa3f27bf8",
+  "title": "GTA 6 roda a 60 fps no Xbox Series X com glitch do Quick Resume, mas o jogo fica em velocidade dobrada",
+  "dek": "Um jogador achou um jeito de destravar os quadros por segundo no Xbox Series X, mas a jogabilidade inteira fica acelerada.",
+  "meta_description": "Jogador destrava os fps de GTA 6 no Xbox Series X com glitch do Quick Resume e chega a 90 fps, mas a jogabilidade fica em velocidade dobrada. Veja como.",
+  "keyword": "GTA 6 60 fps Xbox Series X",
+  "category": "gta-6",
+  "tags": [
+    "gta 6",
+    "60 fps",
+    "xbox series x",
+    "quick resume",
+    "glitch"
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "GTA 6 roda a 30 quadros por segundo em todos os consoles em que foi lançado, e a Rockstar já tinha avisado que seria assim, inclusive no PS5 Pro. Mesmo assim, um jogador achou um jeito de passar desse limite no Xbox Series X usando o Quick Resume, o recurso que guarda jogos em memória para você voltar de onde parou. A GamesRadar e o Eurogamer contaram o caso, e o preço da proeza é bem estranho: o jogo todo fica acelerado.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Por que o jogo trava em 30 fps",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Antes do lançamento, a Rockstar confirmou que o jogo mira 30 fps no PS5 e no Xbox Series X|S. Segundo a GamesRadar, o estúdio admitiu que nem o PS5 Pro tem fôlego para simular um mundo tão grande e complexo em taxas mais altas. O Eurogamer lembra que não existe modo de 60 fps nem opção de destravar a taxa de quadros no jogo, e cita uma análise da Digital Foundry sobre por que o PS5 Pro não consegue entregar nem 60 nem 40 fps.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Muita gente reclamou desse alvo de 30 fps. Foi nesse cenário que um usuário do Reddit publicou um passo a passo para driblar o limite no Xbox Series X.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Como o truque funciona",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com os dois sites, o método depende do Quick Resume e de uma troca de taxa de atualização da tela durante a abertura do jogo. Você precisa de um Xbox Series X, de uma TV ou monitor de 120 Hz e do jogo na versão 01.002.001. O autor do post diz que o glitch pode continuar funcionando em versões mais novas, mas admite que não tem certeza.",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "Configure a saída de vídeo do Xbox para 60 Hz.",
+        "Abra GTA 6 e espere aparecer o logotipo com as seis estrelas da introdução.",
+        "Volte às configurações e mude a saída de vídeo para 120 Hz.",
+        "Abra outro jogo com um boot a frio, pelo menu do botão Xbox, sem encerrar o GTA 6. O jogo não pode estar guardado no Quick Resume, e esse é o ponto que o Eurogamer destaca.",
+        "Volte ao GTA 6 pelo Quick Resume."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Feito isso, o jogo passa a rodar com a taxa de quadros destravada. O próprio autor do post relatou chegar a 90 fps estáveis, e o Eurogamer conta que a taxa passou de 90 fps em alguns momentos.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O preço: o jogo fica em velocidade dobrada",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A vantagem vem com um problema grande. O usuário percebeu que a velocidade do jogo parece amarrada à taxa de quadros. Na casa de Jason, no capítulo 1, as animações do personagem rodam com o dobro da velocidade ou mais. Ao sair da casa, tudo continua acelerado, o que sugere que o mundo do jogo inteiro depende da taxa de quadros.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Há uma exceção: as cenas de vídeo funcionam normalmente em taxas mais altas, sem nenhum problema, e só a jogabilidade fica mais rápida. Ou seja, você ganha fluidez, mas passa a controlar um jogo em câmera rápida. A GamesRadar resume o aviso do jogador dizendo que quem quiser testar precisa estar disposto a aguentar animações em dobro.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que isso significa para quem joga",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Por enquanto, a única fonte do método é o relato de um usuário. As matérias não trazem comentário da Rockstar nem da Microsoft, e o truque exige um Xbox Series X e uma tela de 120 Hz, então ele não serve para quem joga no PS5, no PS5 Pro ou no Xbox Series S. Também não há garantia de que continue funcionando depois de atualizações, já que o próprio autor admite que não testou as versões seguintes.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Quem preferir não arriscar pode ficar tranquilo: o jogo continua rodando normalmente em 30 fps, como a Rockstar planejou. O glitch é, por ora, uma curiosidade para quem gosta de futucar o hardware, e não uma solução oficial para a taxa de quadros do jogo.",
+      "items": []
+    }
+  ],
+  "image": {
+    "query": "GTA 6 Xbox",
+    "alt": "Cena de GTA 6 divulgada pelo Eurogamer",
+    "url": "https://assetsio.gnwcdn.com/GTA6_5nov-(29).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: Eurogamer"
+  },
+  "sources": [
+    {
+      "name": "GamesRadar",
+      "owner": "future-plc",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-at-60fps-is-actually-possible-thanks-to-an-xbox-series-x-glitch-but-you-might-need-to-stomach-double-speed-animations-too/",
+      "title": "GTA 6 at 60fps is actually possible thanks to an Xbox Series X glitch"
+    },
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
+      "title": "GTA 6 60fps glitch on Xbox"
+    }
+  ],
+  "status": "draft"
+}
