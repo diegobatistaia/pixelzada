@@ -15229,7 +15229,7 @@
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 BURGAOfps jogando GTA 6\n📺 twitch.tv/burgaofps\n\n#gta6 #gtavi #burgaofps #pixelzada",
-    "tentativas": 0,
+    "tentativas": 1,
     "origem": {
       "motor": true,
       "perfil": "twitch/BURGAOfps",
@@ -15249,7 +15249,8 @@
       "motivo": "streamer vestido e gameplay de jogo de corrida",
       "por": "imagem",
       "em": "2026-11-22T17:42:49-03:00"
-    }
+    },
+    "erro": "o Instagram recusou a mídia: ERROR"
   },
   {
     "slug": "gta6-corte-snopey-3",
