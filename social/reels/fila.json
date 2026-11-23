@@ -15016,7 +15016,7 @@
     "slug": "gta6-vice-city-original-vs-gta6",
     "data": "2026-11-23",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Simples branca",
     "legenda": "GTA Vice City x GTA 6: a mesma Ocean Beach lado a lado, do Ocean View Hotel ao táxi amarelo na praia 🌴\n\nVídeo: @averagepcgames_\n\n#gta6 #gtavi #gtavicecity #gta #pixelzada",
     "tentativas": 0,
@@ -15039,6 +15039,19 @@
       "motivo": "Comparação GTA Vice City x GTA 6 andando e dirigindo em Ocean Beach; pedestres de roupa de praia ao fundo, sem nudez",
       "por": "revisão manual",
       "em": "2026-11-23T09:59:23-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-23T11:04:44-03:00",
+      "media_id": "18337088752263202",
+      "permalink": "https://www.instagram.com/reel/DgFjb6bgND5/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
