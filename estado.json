@@ -7,39 +7,44 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-22T16:42-03:00",
+ "atualizado": "2026-11-22T21:56-03:00",
  "hoje": {
   "data": "2026-11-22",
   "reels": {
    "meta": 48,
-   "publicados": 33,
-   "deviam_ter_saido": 33,
-   "atrasados": [],
+   "publicados": 43,
+   "deviam_ter_saido": 43,
+   "atrasados": [
+    "21:00"
+   ],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 4,
+   "deviam_ter_saido": 7,
    "atrasados": [
     "09:00",
     "11:00",
     "13:00",
-    "15:00"
+    "15:00",
+    "17:00",
+    "19:00",
+    "21:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 122,
+  "agendados": 125,
   "meta_por_dia": 17,
-  "dias_de_reserva": 7.2,
-  "grade_cheia_ate": "2026-11-28",
-  "sem_revisao": 115,
+  "dias_de_reserva": 7.4,
+  "grade_cheia_ate": "2026-11-29",
+  "sem_revisao": 125,
   "por_dia": [
    {
     "data": "2026-11-22",
-    "agendados": 14,
+    "agendados": 4,
     "meta": 48
    },
    {
@@ -74,69 +79,44 @@
    },
    {
     "data": "2026-11-29",
-    "agendados": 6,
+    "agendados": 17,
+    "meta": 17
+   },
+   {
+    "data": "2026-11-30",
+    "agendados": 2,
     "meta": 17
    }
   ]
  },
  "site": {
-  "total": 264,
-  "hoje": 2,
+  "total": 267,
+  "hoje": 5,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Nintendo lança Black Friday 2026: Switch 2 com Mario Kart World cai US$ 50 e Donkey Kong Bananza fica mais barato",
-   "url": "https://pixelzada.com.br/pt/nintendo-lanca-black-friday-2026-switch-2-com-mario-kart-world-cai-us-50-e-donkey-kong-bananza-fica-mais-barato/",
-   "em": "2026-11-22T13:51:54-03:00"
+   "titulo": "GTA 6: Skunk Ape, como começar, achar as efígies e qual escolha final rende mais dinheiro",
+   "url": "https://pixelzada.com.br/pt/gta-6-skunk-ape-como-comecar-achar-as-efigies-e-qual-escolha-final-rende-mais-dinheiro/",
+   "em": "2026-11-22T21:44:12-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "22/11/2026 16:10",
+  "ultima_coleta": "22/11/2026 21:17",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AlrLQIn-KtRxudfTGVZG3vX\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AvrmFSr1JICjMVb16XKp13a\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 6,
-  "sem_resolver": 3,
+  "falhas_24h": 1,
+  "sem_resolver": 0,
   "lista": [
    {
     "workflow": "Coletar",
     "em": "2026-11-22T14:51:03-03:00",
     "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45051738366",
-    "resolvido": false
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-22T08:11:49-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45016118937",
     "resolvido": true
-   },
-   {
-    "workflow": "Pesquisa de vídeos",
-    "em": "2026-11-22T07:58:51-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45015020522",
-    "resolvido": true
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-22T07:58:49-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45015018417",
-    "resolvido": true
-   },
-   {
-    "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-22T05:45:12-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45004265647",
-    "resolvido": false
-   },
-   {
-    "workflow": "Vídeo longo narrado (prévia)",
-    "em": "2026-11-22T05:22:20-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45002498282",
-    "resolvido": false
    }
   ]
  },
@@ -145,7 +125,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 107
+   "youtube": 108
   },
   "erros_hoje": 0
  },
@@ -206,11 +186,11 @@
   },
   {
    "data": "2026-11-22",
-   "reels": 33,
+   "reels": 43,
    "reels_meta": 48,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 2,
+   "materias": 5,
    "views_reels": null
   }
  ],
@@ -263,11 +243,11 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00"
+   "texto": "1 Reel(s) de hoje atrasado(s): 21:00"
   },
   {
    "nivel": "vermelho",
-   "texto": "3 falha(s) no GitHub ainda sem resolver"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
    "nivel": "amarelo",
