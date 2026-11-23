@@ -18,7 +18,10 @@
     "query": "GTA 6 key cloner",
     "alt": "Cena de GTA 6 com carro, divulgada pela Polygon",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-get-key-cloner-1.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/gta-6-clonador-de-chaves-quando-liberar--4f384157.jpg",
+    "source_url": "",
+    "foco": "37% 30%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "GTA 6 key cloner: how to get and steal keyless cars"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -115,5 +118,7 @@
       "text": "A IGN lembra que registrar esses carros como veículos pessoais de Jason ou Lucia não é simples de início, porque eles ficam caros e têm rastreadores avançados. Em resumo, dá para roubar todos os carros do jogo, mas só depois de chegar ao capítulo 3.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-23T16:49:04+00:00",
+  "updated_at": "2026-11-23T16:49:04+00:00"
 }

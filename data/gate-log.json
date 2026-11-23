@@ -1899,5 +1899,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-23T16:49:04+00:00",
+    "id": "gta-6-clonador-de-chaves-quando-liberar-como-usar-e-por-que-checar-o-carro-antes-de-quebrar-o-vidro",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-11-23T16:49:04+00:00",
+    "id": "gta-6-update-01-002-002-primeiro-patch-corrige-clima-autosave-e-travamentos-e-pesa-603-8-mb-no-ps5",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

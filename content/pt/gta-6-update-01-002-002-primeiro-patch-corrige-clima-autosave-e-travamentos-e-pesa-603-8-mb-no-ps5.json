@@ -18,7 +18,10 @@
     "query": "GTA 6 update",
     "alt": "Cena de GTA 6 divulgada pela IGN",
     "url": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-35-1795439002195.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-update-01-002-002-primeiro-patch-c-b5667ad7.jpg",
+    "source_url": "",
+    "foco": "49% 20%"
   },
   "sources": [
     {
@@ -40,7 +43,7 @@
       "title": "GTA 6 Update 01.002.002 all changes"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -125,5 +128,7 @@
       "text": "Para conferir se a atualização chegou, entre no jogo ou verifique a fila de downloads do seu console. O Insider Gaming diz que o jogo deve receber muitas outras atualizações nos próximos meses, já que patches pós-lançamento são cada vez mais comuns, mesmo em jogos de um jogador só.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-23T16:49:04+00:00",
+  "updated_at": "2026-11-23T16:49:04+00:00"
 }
