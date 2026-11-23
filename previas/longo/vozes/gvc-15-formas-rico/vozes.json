@@ -2,7 +2,7 @@
  "voz": "Google Gemini TTS (gemini-2.5-flash-preview-tts, voz Sadachbia)",
  "pedida": "Sadachbia",
  "cenas": {
-  "abertura": "740f4088f7927ad1",
+  "abertura": "a766bbd3918141d3",
   "d15": "290998d7f75890ff",
   "d14": "8b2aa9beca2908a9",
   "d13": "aa1c9a99bae2eefd",
@@ -16,6 +16,9 @@
   "d2": "4fd98540830dbddc",
   "d1": "e877d0f974879137",
   "bonus": "bd5b319813a83f5c",
-  "fecho": "79e1615cebcec8c6"
+  "fecho": "79e1615cebcec8c6",
+  "d9": "df8ef94b0f21ee8c",
+  "d8": "4c173f8e14aff002",
+  "d7": "cf296c76224efec9"
  }
 }
