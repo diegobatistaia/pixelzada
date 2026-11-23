@@ -14764,7 +14764,7 @@
     "slug": "gta6-corte-tiagovski555yt",
     "data": "2026-11-22",
     "horario": "23:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Tiagovski555YT jogando GTA 6\n📺 twitch.tv/tiagovski555yt\n\n#gta6 #gtavi #tiagovski555yt #pixelzada",
     "tentativas": 0,
@@ -14787,6 +14787,19 @@
       "motivo": "streamer vestido e gameplay de jogo de ação com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T22:15:55-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T23:03:13-03:00",
+      "media_id": "17994897458861774",
+      "permalink": "https://www.instagram.com/reel/DgEQ1E5knUP/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
