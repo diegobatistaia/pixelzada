@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T08:34-03:00",
+ "atualizado": "2026-11-23T09:31-03:00",
  "chaves": {
   "instagram": {
    "segredo": "INSTAGRAM_TOKEN_PIXELZADA",
@@ -18,16 +18,16 @@
   }
  },
  "fila_reels": {
-  "agendados": 124,
+  "agendados": 123,
   "meta_por_dia": 17,
-  "dias_de_reserva": 7.3,
+  "dias_de_reserva": 7.2,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 124
+  "sem_revisao": 123
  },
  "reels_hoje": {
   "meta": 17,
-  "publicados": 2,
-  "deviam_ter_saido": 2,
+  "publicados": 3,
+  "deviam_ter_saido": 3,
   "atrasados": []
  },
  "problemas": []
