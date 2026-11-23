@@ -14564,7 +14564,7 @@
     "slug": "gta6-corte-auronplay",
     "data": "2026-11-22",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 auronplay jogando GTA 6\n📺 twitch.tv/auronplay\n\n#gta6 #gtavi #auronplay #pixelzada",
     "tentativas": 0,
@@ -14587,6 +14587,19 @@
       "motivo": "streamer com roupas e gameplay de jogo mostrando carros e inventário",
       "por": "imagem",
       "em": "2026-11-22T20:18:26-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T21:03:30-03:00",
+      "media_id": "18122506679096892",
+      "permalink": "https://www.instagram.com/reel/DgEDITqjYgT/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
