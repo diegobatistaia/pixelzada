@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T16:39:42+00:00",
+  "generated_at": "2026-11-23T18:40:01+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 2,
+  "already_written_today": 4,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,27 +42,25 @@
   ],
   "stories": [
     {
-      "story_id": "f5823174571ed512",
+      "story_id": "e31f3587ee454359",
       "title": "Grand Theft Auto VI is Out Now",
       "summary": "The post Grand Theft Auto VI is Out Now appeared first on XBOX Wire .",
       "owners": [
+        "fandom",
         "future-plc",
+        "keleops",
         "microsoft",
-        "vgc",
-        "ziff-davis"
+        "vgc"
       ],
       "primary_owners": [
         "microsoft"
       ],
       "fingerprints": [
         "3dae98970e33d47c",
+        "2dd5f5423df07ce3",
         "0523320b3c7098cf",
-        "d4fbbedc86b77e5d",
-        "ff11e439096ef623",
-        "118fc7ba196cb40b",
         "67da76c45c944b72",
-        "03d0f964bcb26e6a",
-        "32235f172d729791"
+        "2dd18e05689a5562"
       ],
       "sources": [
         {
@@ -76,6 +74,16 @@
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
         },
         {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/grand-theft-auto-6s-hdr-is-broken-but-these-tweaks-can-fix-it/",
+          "title": "Grand Theft Auto 6’s HDR Is Broken, But These Tweaks Can Fix It",
+          "published_at": "2026-11-23T18:16:01+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
           "name": "PC Gamer",
           "owner": "future-plc",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
@@ -85,6 +93,48 @@
           "text": "Rockstar made a point of creating \"authentic characters that didn't stray too far from reality.\" It's already clear that Grand Theft Auto 6 has a very different timbre than most other GTA games. While criminal hijinks and acerbic satire remain part of the experience, it's also much more interested in portraying characters and relationships in a more convincing, human fashion. One of the most striking examples of this is its depiction of co-protagonist Jason Duval, who, unlike the vast majority of GTA's main characters, is often notable for what he doesn't say rather than what he does. According to Rockstar's senior vice president of narrative Rupert Humphries, Jason's laconic nature was inspired by a personality type observed in both cinema and real-life. \"When we decided we wanted to tell a story about a couple on the run, we looked at all the similar kinds of movies, and one of the ones that really stood out was [Sam] Peckinpah's The Getaway\" Humphries explained in a statement given to Destructoid (via GamesRadar ). Steve McQueen was famous for pulling lines out of scripts and saying things with his presence alone. We wanted to see how close we could get to that with a game character, where so many of our protagonists have been the opposite.\" Humphries says this also \"resonated\" with research the studio was doing around Army veterans, particularly Army Rangers. In Grand Theft Auto 6 , Duval is a veteran of the game's equivalent military organisation called the Marauders. \"These guys typically aren't running their mouths or reacting to something unless it's strictly necessary, while still being strong and still asserting themselves,\" Humphries explained. Establishing a more grounded character was not solely a directive for Jason. It was a goal of the writing more broadly. This is interesting considering Florida was picked as the setting for GTA 6 in-part due to the wild 'Florida Man' stories that circulate on the Internet from the state. \"Researching the prolific and headline-grabbing criminal activity that had been taking place over decades in Florida was an obvious starting point,\" game writer Michael Wiafe pointed out. \"From then on, it was about coming up with authentic characters that didn't stray too far from reality but also were not totally bound by it either,\" Wiafe continues. \"The majority of our main characters are undeniably reprehensible on paper, full-blown criminals, but also decent human beings. Their moral makeup isn’t necessarily cut-and-dry, and we don’t attempt to make excuses for them. What's important is how they resonate, no matter where you're experiencing the game in the world.\" This is just one of the things that makes Rockstar's latest crime sim a marvel on pretty much all fronts . And while us PC gamers will have to wait an unspecified amount of time before it arrives on the platform, you can bet it going to be quite the experience when it does. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
           "image": "https://cdn.mos.cms.futurecdn.net/e3fPzBmapimeiWj59SBAiQ-1920-80.jpg"
         },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+          "title": "Grand Theft Auto 6 complete walkthrough hub",
+          "published_at": "2026-11-23T12:25:06+00:00",
+          "kind": "press",
+          "text": "Everything you need to know to complete GTA 6 Grand Theft Auto 6 is finally here, and it’s easily one of the largest video games ever created. Making your way through the State of Leonida can be a daunting prospect, and there may be parts of the game that confuse you, need more explanation, or may just benefit from a nudge in the right direction. With that in mind, we’ve put together this evolving guide to Grand Theft Auto 6 , to help you navigate your way through this enormous game. This guide is being updated regularly, so be sure to bookmark this page and keep checking back for new and updated guides as you make your way through Grand Theft Auto 6. If you’re just starting out and playing the game for the first time, you may have some questions about what lies ahead, so you can prepare accordingly. The following guides will give you the basic information you need to know at the start of your GTA 6 journey. Here youâll find our mission-by-mission walkthrough of GTA 6. Weâll be updating this as players get the chance to play through the game over the next week and beyond. All of our mission walkthrough guides for GTA 6 are spoiler-free. In our GTA 6 complete walkthroughs, weâll highlight the choices you can make in certain missions, collectibles that pop up during the main story, and more. In this section of our complete GTA 6 guides hub, youâll find rundowns of all the side missions in GTA 6. GTA 6 breaks side missions into the more traditional side missions that you start by reaching a letter on the map, and the smaller incidents that can pop up as you roam around Leonida. Weâll keep everything here so itâs easier to look through. In this section of our guide, weâll list every collectible in GTA 6. There are literally hundreds of collectible cards, magazines, art pieces, and much more scattered across the game, so this section will be updated organically as we pick them off the map.",
+          "image": "https://www.videogameschronicle.com/files/2026/10/grand-theft-auto-gta-6.jpg"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/grand-theft-auto-6-gta6-strip-clubs-lap-dance-locations-2000759522",
+          "title": "Grand Theft Auto 6’s Strip Clubs: Where They Are And What You Can Do There",
+          "published_at": "2026-11-23T18:15:03+00:00",
+          "kind": "press",
+          "text": "Sex work is depicted in one form or another in most Grand Theft Auto games, and though you canât hire prostitutes this time around , you can definitely still go to a strip club and see a show in Grand Theft Auto 6 . So where are these fine establishments, and what can you actually do there? Letâs break it down. There are three strip clubs in GTA 6 , and you actually wonât have to go looking for them because the main story will bring you to all of them. Thereâs Delights Cabaret, NINE1NINE, and Jack of Hearts. The first one is in Port Gellhorn where youâll spend the majority of the gameâs second chapter, and the other two are in Vice City proper.Â You can visit any of these locations as either Jason or Lucia, and both can participate in their services. You can shake it on the dancefloor and make it rain on the performers if you have cash on-hand. However, if you want something a little more private, you can hire performers for a private dance by holding down the left trigger to interact with them and paying their fee. Jason and Lucia can do this together or separately, though it will cost more for both of them to join in on the fun than it is for a solo show, and doing so doesnât seem to have any negative bearing on their relationshipÂ At the moment, Iâve been able to confirm that Lucia is able to get a lap dance from female dancers, but I havenât seen any evidence that Jason can receive them from men. Thus far, the only male dancers Iâve found in the game were those who perform during the âAfternoon Delightâ mission, which features them prevalently and lets the player get a first-person lap dance from a male dancer. However, it doesnât appear that you can seek them out whenever you want like you can the women. My gut reaction is to assume that this is so players canât make Jason do gay stuff, and thatâs a huge bummer for a game that seems to be pretty open-minded and is obviously willing to let Lucia engage in some same-sex services. Jason and Lucia seem more than willing to enjoy sexy entertainment together, and can have plenty of sex at home if youâre nurturing their relationship.Â Donât miss the latest reviews, news and tips. Sign up for our free newsletter. You are going to need some time, a helicopter, and some patience to unlock this Easter egg From bugs to general tomfoolery, Grand Theft Auto 6 is made for funny viral moments Arcade addicts of the 1980s inspired the cyberspace of William Gibsonâs influential Neuromancer, now the author is transfixed on viral footage of Rockstarâs ultra-hit If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very The best way to play is just to experience the game, even if most of us are too internet-pilled to do that",
+          "image": "https://kotaku.com/app/uploads/2026/11/jayluclub.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "f93907b6b4e71c82",
+      "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+      "summary": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\"",
+      "owners": [
+        "adrenaline",
+        "future-plc",
+        "vgc",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "d4fbbedc86b77e5d",
+        "ff11e439096ef623",
+        "118fc7ba196cb40b",
+        "03d0f964bcb26e6a",
+        "32235f172d729791",
+        "6cd437fba496103a"
+      ],
+      "sources": [
         {
           "name": "PC Gamer",
           "owner": "future-plc",
@@ -118,16 +168,6 @@
         {
           "name": "Video Games Chronicle",
           "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
-          "title": "Grand Theft Auto 6 complete walkthrough hub",
-          "published_at": "2026-11-23T12:25:06+00:00",
-          "kind": "press",
-          "text": "Everything you need to know to complete GTA 6 Grand Theft Auto 6 is finally here, and it’s easily one of the largest video games ever created. Making your way through the State of Leonida can be a daunting prospect, and there may be parts of the game that confuse you, need more explanation, or may just benefit from a nudge in the right direction. With that in mind, we’ve put together this evolving guide to Grand Theft Auto 6 , to help you navigate your way through this enormous game. This guide is being updated regularly, so be sure to bookmark this page and keep checking back for new and updated guides as you make your way through Grand Theft Auto 6. If you’re just starting out and playing the game for the first time, you may have some questions about what lies ahead, so you can prepare accordingly. The following guides will give you the basic information you need to know at the start of your GTA 6 journey. Here youâll find our mission-by-mission walkthrough of GTA 6. Weâll be updating this as players get the chance to play through the game over the next week and beyond. All of our mission walkthrough guides for GTA 6 are spoiler-free. In our GTA 6 complete walkthroughs, weâll highlight the choices you can make in certain missions, collectibles that pop up during the main story, and more. In this section of our complete GTA 6 guides hub, youâll find rundowns of all the side missions in GTA 6. GTA 6 breaks side missions into the more traditional side missions that you start by reaching a letter on the map, and the smaller incidents that can pop up as you roam around Leonida. Weâll keep everything here so itâs easier to look through. In this section of our guide, weâll list every collectible in GTA 6. There are literally hundreds of collectible cards, magazines, art pieces, and much more scattered across the game, so this section will be updated organically as we pick them off the map.",
-          "image": "https://www.videogameschronicle.com/files/2026/10/grand-theft-auto-gta-6.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
           "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
           "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
           "published_at": "2026-11-23T14:44:32+00:00",
@@ -144,212 +184,141 @@
           "kind": "press",
           "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. The most recent upset comes in the form of Grand Theft Auto 6 's revised take on, well, grand theft auto. In case you're one of the few still unfamiliar, grand theft auto is more than the titular moniker for Rockstar's premier crime simulation series; it's actually a US legal term for the act of stealing or attempting to steal a motor vehicle. In most previous GTA entries, this was a central part of the core gameplay loop: accept a mission, nick a car, complete the mission, nick another car, getaway. It's an endemic part of the loop, and has become so popular and identifiable as such that even other games - Watch Dogs , Saint's Row, Cyberpunk 2077 , and so on - have emulated the mechanic. So it makes sense that the internet is in a bit of a spin about GTA 6's more mature and restrained take on its eponymous crime. A quick, no-frills getaway in a vehicle you've hijacked on the road isn't always the most effective option. A mindless crime spree on the streets of Leonida is not a simple thing to pull off, nor an easy thing to live down. In this game, actions have consequences, and an ill-timed or ill-judged car jacking can quickly and efficiently put an end to your criminal ambitions. That's not to say you cannot simply steal cars. Of course you can: the option to saunter up to an occupied vehicle and jack it from its registered owner is available to you from the very beginning of the game. But the citizens of Leonida aren't going to take your wanton act of foolishness lying down; many of the motorists in the county will fight back, pull a piece on you, or run you over mid-robbery attempt. Even if you are lucky to find one of the more pliant residents of the city, you might find something peculiar is happening in their car. I jacked a woman in the city over the weekend, and the cat she was ferrying from place to place decided to attack me, causing me to crash. I've heard other people say they've had muffled cries coming from the boot of the car where someone is transporting a hostage, or incidents where they've jacked the same person multiple times, leading to the poor car's owner to have a breakdown in the middle of the city. That cat event, the team here at Eurogamer has worked out, is an early game trigger - it seems stealing random cars early in the game will increase the chance of this encounter occurring. Rockstar's guiding hand is more visible here, then, in trying to teach you a lesson: don't steal cars. You're given your own - Jason's two-door coupé utility, a Vapid Creado - that I actually formed quite an emotional bond with in the opening 10-or-so hours of the game. 'Look after this car,' Rockstar insists, tutorialising you how to repair it, customise it, make it all pretty so it's in good condition when you go pick up Lucia for the first time. Shortly after the 10 hour marker, narrative events whisk you away elsewhere and you're given a 'slim jim', a long, thin tool that allows you to break into locked cars - something you could only do with a quick elbow jab before. The benefit here is two-fold; you can break into cars without setting off their alarms, and without breaking glass and lowering their resale value (something quite important in the earlier sections of the game). So, it takes you until Chapter 2 to start being able to more reliably and consistently break into vehicles. Good. And it'll take even longer to break into keyless vehicles. We're in 2026 after all, and it's heavily implied this is when GTA 6 is also set - it stands to reason that many cars run keyless fobs, and your old-school tools won't cut it if you want to break into a Zorruso, rather than an old Vapid truck. But then, even when you're well-armed and ready to start an illustrious new career as Vice City's most nefarious car thief, there's more to consider. Most modern cars also come with trackers: standard trackers simply prevent you modding cars you don't own (not an issue you'll face very often), but advanced trackers are more problematic. Boosting a car with an advanced tracker immediately alerts the cops to your location, and they close in on you fast . The only answer to this problem is flooring it, and outspeeding the signal ping the tracker is sending out: you need to drive fast and cleanly in order to stay mobile long enough for the tracker to deactivate, and this often incurs damage that makes selling these cars to fences a less viable option. You can't even sell cars with trackers installed at all to some fences until you're much, much further into the game. So, long story short, stealing cars is a faff in GTA 6. But I like that. I like that Rockstar has evolved the gameplay formula to more accurately reflect the state of the world in 2026. Modern problems require modern answers, and given that Rockstar has gone above and beyond in its creation of a sandbox simulation of Florida , I feel the immersion would be broken by just being able to saunter up to any car you want and break into it. No, needing a 'slim jim' or a key cloner - or needing to case my victims properly before trying to jack them - makes for a better game as far as I'm concerned. It makes me roleplay Jason and Lucia better, it makes me engage with the game's systems more, it makes me appreciate the cars that I do have whilst I have them. It also improves the flow of the game and how I interact with missions. I recently played GTA: Vice City , and after most missions were wrapped up, I would simply fling the nearest motorist onto the sidewalk, hop in their car, and drive away into the Malibu-styled sunset. I can't simply do that in GTA 6: I need to think about my getaway options, whether there's heat on my car, and where my next best (and cheapest) ride is going to be if a robbery or raid goes awry. 'Ah,' I think, 'I und",
           "image": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista/",
+          "title": "Grand Theft Auto VI: The Album (Deluxe Edition) é disponibilizado",
+          "published_at": "2026-11-23T17:40:46+00:00",
+          "kind": "press",
+          "text": "Trilha sonora do álbum de GTA 6 vaza na internet, revelando suas 34 músicas",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista-1.jpg"
         }
       ]
     },
     {
-      "story_id": "1be54cfe6d276a31",
-      "title": "Why You Probably Shouldn't Steal a Tesla in GTA 6",
-      "summary": "Since GTA 5, Rockstar has parodied the Tesla brand with the fictional Coil line of cars. Well, with GTA 6, Rockstar has taken the Tesla parody to another level.",
+      "story_id": "1b362431951904c8",
+      "title": "Deborah Ann Woll Reprising Role As God Of War’s Faye In Prime Video’s TV Show",
+      "summary": "Deborah Ann Woll, who plays Faye in the upcoming God of War Laufey , is coming back to play the character again in Prime Video's God of War show. She will star in the show alongside Dave Bautista as Kratos. Sons of Anarchy actor Ryan Hurst was originally signed on to play him, but he suffered a terrible injury and the role was recast with Bautista. https://www.youtube.com/watch?v=uKMCqyeBWmU Woll...",
       "owners": [
-        "future-plc",
-        "insider-gaming",
+        "fandom",
+        "meups",
         "valnet",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "abac58b3e6998a05",
-        "3e6c017d8f449344",
-        "096bba57bc646c70",
-        "224153bef573131c",
-        "59123d2ba6fc3e69"
+        "dcde15697c4f7b68",
+        "6078a69354e1aaa8",
+        "dc3c2929ac1dc6de",
+        "53c746a4dd30b681"
       ],
       "sources": [
         {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/why-you-probably-shouldnt-steal-a-tesla-in-gta-6",
-          "title": "Why You Probably Shouldn't Steal a Tesla in GTA 6",
-          "published_at": "2026-11-23T13:52:36+00:00",
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/deborah-ann-woll-reprising-role-as-god-of-wars-faye-in-prime-videos-tv-show/",
+          "title": "Deborah Ann Woll Reprising Role As God Of War’s Faye In Prime Video’s TV Show",
+          "published_at": "2026-11-23T18:07:54+00:00",
           "kind": "press",
-          "text": "Since GTA 5 , Rockstar has parodied the Tesla brand with the fictional Coil line of cars. Well, with GTA 6 , Rockstar has taken the Tesla parody to another level. GTA 6 players have discovered that the game's version of Tesla cars are equipped with advanced security measures that prevent you from stealing the vehicle — and their owners get preferential treatment from the police. Whenever you try to steal a Coil car, a mechanism kicks in and locks you inside. Then, the car will either drive itself to the nearest police station, or force you to stay put until the cops arrive and arrest you. Do NOT steal is Tesla in GTA 6 😭 https://t.co/cYcsu7EWim GTA 6. 玩家不能偷老马的特斯拉 偷玩直接被自动驾驶送到警察局 太好玩了 #GTA6 #特斯拉 https://t.co/QvrQuvA2H7 Now, there is a way to escape, but you'll still be without the vehicle. It seems that the only way to make it out of there is to bust the window and climb out before the cops arrive. Otherwise, you can try and make a run for it when the cops drag you out of the car, but by that point you're probably surrounded and very much in tasering range. I hopped in-game to try this out, and found that none of the other Tesla-like electric vehicles produced the same results, so it's likely just the Coils that have this mechanic. You can't steal any of these electric cars until you get a key cloner anyway, but you can hop into one that's already unlocked (by 'borrowing' it from its owner when it's still running) and drive away to safety. They're worth a lot of money and are significantly cheaper to charge up as opposed to filling a car up with gas, so it's a good get if you can nab one. As for the Coils, you might have more luck if you find one where the security has been deactivated, but it's unclear if that's possible — if it is, we're all still looking for one. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map . Rhiannon (she/her) is a freelance journalist who has been in the industry since 2019. She won MCV's Women in Games award in 2025 and adores RPGs. You can follow her on Bluesky at @rhithewitch.",
-          "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-38-1795441920082.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/key-cloner-gta-6",
-          "title": "Do You Need the Key Cloner to Steal All of GTA 6's Cars?",
-          "published_at": "2026-11-23T16:00:00+00:00",
-          "kind": "press",
-          "text": "Throughout your early hours in GTA 6, you may have been faced with many vehicles that you simply aren’t equipped to steal. It can be frustrating to walk up to a nice-looking car and be faced with the prospect of not being able to drive away in it because a “key cloner” is needed. Even if some oblivious rich person happens to leave their driver’s seat door open for you to slip into, you’ll still need the required tech to start the engine. Instead, you’ll have to wait until you can start cloning keys until you can experience the full range of Vice City vehicles available to you. Here’s when you’ll get it, and how it works. GTA 6 smartly staggers what class of car is available to you over the course of its story, minimising the risk that comes with jacking them as Jason and Lucia become smarter criminals. At first, you’ll be limited to rusty work vehicles and family sedans, but even these come with a risk. You’ll either have to steal them from somebody already driving, thus risking them alerting the cops to your crimes, or smash through a window to gain access, which is likely to raise an alarm. Your handy “Waink” scanner app on your phone can help you work out which vehicles you should be targeting. Those with the “key cloner” symbol attached to them are pointless to go after until partway through chapter three, which we’ll get onto soon. It’s not even until chapter two, and you meet Moses, that you’ll even be able to get into low-level cars easily. Upon working with Port Gellhorn’s mechanic, he’ll gift you a slim jim, meaning car window alarms no longer have to be triggered. Still, cars with digital keys and trackers inside them are still a no-go. In chapter three, Leonida’s full roster of vehicles will make themselves available to drive. You’ll get the key cloning device installed onto your phone during the appropriately titled “Clonin’ Keys, Makin’ G” mission, from Randy, a Vice City car shop owner. We have a detailed step-by-step guide on how to get the key cloner here . Randy acts similarly to Moses as a quest giver — asking you to recover specific cars with high sell-on values — but can cash in on ones with trackers built in. Once you’ve passed this main mission, you’ll now be able to fulfill your Grand Theft Auto fantasies and get behind the wheel of any Grotti, Pfister, or Pegassi that catches your eye. Just be aware that it won’t be simple to register these to either Jason or Lucia as personal vehicles straight away, though. Not only do they get quite expensive, but advanced trackers — GPS devices that track your location if you fall below a certain speed limit — can only be dealt with at Randy’s shop. Tick more and more cars off his desired checklist, though, and that may become a simpler process. So, in short, yes, you can steal every car in GTA 6; you just need to wait until chapter 3 in order to do so. There’s no getting the key cloner early, as it's tied to a main mission and can’t be found in the open world beforehand. Mattia may give you a taste of that supercar life early on during chapter one, but it's well worth the wait to get your hands on one for yourself. Simon Cardy is a Senior Editor at IGN who can mainly be found skulking around open world games, indulging in Korean cinema, or despairing at the state of Tottenham Hotspur and the New York Jets. Follow him on Bluesky at @cardy.bsky.social .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/23/key-cloner-blog-1795449262901.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bf-bandito-location/",
-          "title": "How to steal the BF Bandito in GTA 6",
-          "published_at": "2026-11-21T17:34:25+00:00",
-          "kind": "press",
-          "text": "Track down this white off-roader for Moses. The BF Bandito is one of the many cars in GTA 6 that Moses asks you to steal and bring to him for cold, hard cash. This one has a search area out in Buskin Swamp, but when you arrive it's not immediately clear where or how to steal the car. The owner of this white offroad racer will drive around the map marked search area in a circle, as shown in the clip above. To get him to stop, simply park your car blocking the track and stand next to it. When he reaches you, he'll slow down and call out, at which point you should press L2 to focus on him and use the \"Mislead\" dialogue option to ask for help. In my version, Lucia was wearing a ski-mask and had a baseball bat, which quickly convinced them all to run away (after a few swings), but either way, once he stops it's easy to steal the car. The baseball bat probably wasn't necessary, but hey, it's still non-lethal. As you exit the swamp, you'll get shot at and pursued by a few of his friends, but the BF Bandito is fast enough to outrun them easily. Bring it back to Moses to get $3,400ish as reward, though this may vary based on condition. GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Sean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/j3r6wPqXaPSUDLSeUfq6w9-2560-80.jpg"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Polygon",
           "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-key-cloner-how-to-get-steal-keyless-cars-randy/",
-          "title": "How to get a key cloner in GTA 6",
-          "published_at": "2026-11-23T15:12:04+00:00",
+          "url": "https://www.polygon.com/god-of-war-amazon-prime-deborah-ann-woll-faye-cast/",
+          "title": "God of War TV Series Officially Casts the Perfect Faye",
+          "published_at": "2026-11-23T17:46:26+00:00",
           "kind": "press",
-          "text": "The key cloner in Grand Theft Auto 6 allows you to steal keyless cars. As the most expensive cars in the game tend to be keyless, unlocking the key cloner is probably high on your priority list, but beware that it'll take a while to meet Randy, the key cloner expert. Here's where to find a key cloner in GTA 6 and how to use it. In GTA 6 's first chapter, you can only steal cars by smashing a window , which may set off an alarm. After meeting Moses in Chapter 2, you'll obtain a slim jim , which allows you to circumvent the alarm as you break in. Neither carjacking method, however, is enough to steal a keyless car. For that, you will need the key cloner . If you try to steal a keyless car before you've unlocked the key cloner, you can still break in, but you won't be able to drive away. It's therefore important to check the car's security system first; you don't want to smash a window and set off the car's alarm system, only to find that you can't use the car. To obtain the key cloner and steal keyless cars in GTA 6 , you must complete the following steps: To determine whether a car is keyless or not, use the WAiNK scanner on your phone (open the WAiNK app or hold the upward arrow on the D-pad for a shortcut). You'll see the words \"key cloner\" listed as the car's access type in the bottom right of your screen. To steal a keyless car in GTA 6 , interact with one of its front doors and select the \"clone key\" option (which appears instead of the \"slim jim\" option for non-keyless cars). Now, move the right stick in a circular motion until the center circle turns pink, and then hold the right stick in this position to unlock the car and drive off. Beware that most keyless cars are protected by a standard or advanced tracker . The standard tracker isn't much of a problem (it just means you can't modify the car unless you've registered it), but the advanced tracker, as you've experienced during \"Steal the Zorrusso for Randy,\" is actively tracked by the police. The only way to stay ahead is to drive very fast. So, while you can steal both types with the key cloner, stealing cars with standard trackers is far easier. If you're just getting started in GTA 6 , we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first , recommendations for the best ways to make money fast , and an explainer for how to keep stolen weapons and cars to make the most of your free time. Our selection of GTA 6 guides includes help for things like how to steal the Phoenix in \"Unwanted Attention\" and whether you should defuse Mandy , too. There's a set of explainers for GTA 6 's more open-ended side activities, like how to rob the Exotic Animal Front and where to find tree effigies for the Skunk Ape mission , and we've got all the GTA 6 cheat codes . You'll have to put in some effort before you can use those, though.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6-get-key-cloner-1.jpg?w=1600&h=900&fit=crop"
+          "text": "Deborah Ann Woll is making the jump from the games to the show Production of Prime Video's God of War series is well underway as filming has resumed with Dave Bautista in the role of Kratos . On Monday, Amazon announced another key role has been cast: Deborah Ann Woll will play Faye, a powerful giant warrior and Kratos' wife. Her death kicks off the Norse Saga games. Woll's name will certainly sound familiar to players of God of War Ragnarök as she's reprising her role from the game. Faye appeared in flashbacks during Ragnarök , which allowed for Kratos to show off a more tender side of himself. She also had a guiding hand in the first game. (She left behind all that yellow paint.) \"Along their journey, Kratos and Atreus discover secrets about Faye that make them wonder how well they truly knew her at all,\" reads a news release for the Amazon show. Woll will also star in next year's God of War Laufey , which is due out in May . It will find Faye in the afterlife for gods across various pantheons. When Faye realizes that the plans she laid forth for Kratos and Atreus are in jeopardy, she works to ensure they come to fruition. Fans already have plenty of theories about what events Laufey might cover from Faye's point-of-view. It's not known yet if the Prime Video TV series will adapt any material from Laufey or if Woll will only appear as Faye in flashback scenes. It's also possible all-new scenes will be written for the show that feature Faye. Woll is best known for her work in True Blood , Daredevil , and Daredevil: Born Again . She's also guest starred on the actual play series Critical Role and recently appeared in an episode of Polygon's Shelf Quest series. Prime Video's God of War series does not have a release date at this time.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/god-of-war-laufey-edited.jpg?w=1600&h=900&fit=crop"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/all-illegal-operations-locations-key-valuables-in-gta-6/",
-          "title": "All Illegal Operations Locations & Key Valuables In GTA 6",
-          "published_at": "2026-11-23T16:27:36+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/serie-de-god-of-war-tera-a-mesma-faye-dos-jogos/",
+          "title": "Série de God of War terá a mesma Faye dos jogos",
+          "published_at": "2026-11-23T17:58:07+00:00",
           "kind": "press",
-          "text": "Illegal Operations are among the many open-world activities available in Grand Theft Auto 6 , and if you’re looking to make some serious money, they’re well worth your time. They function similarly to enemy outposts in other open-world games. You’ll need to find a way inside, take out any hostile forces, and escape with the Key Valuables before the police arrive. These rewards can include unique weapons, vehicles, and plenty of cash to line your pockets. There are dozens of Illegal Operations scattered throughout Leonida, and you’ll gradually unlock more as you progress through the campaign. With that in mind, here’s where to find every Illegal Operation in GTA 6, alongside all the Key Valuables you can collect at each location. You can buy Grand Theft Auto 6 here if you haven’t already! There are 40 Illegal Operations to discover and complete in Grand Theft Auto 6, with one exclusive to the Ultimate Edition. These activities are spread across the map of Leonida, although you won’t be able to access every single one from the beginning of your playthrough. As you progress through the story and unlock additional Chapters, more Illegal Operations will become available. However, none of these activities are tied to a specific Chapter, meaning you don’t have to worry about completing them within a particular timeframe. Once an Operation becomes available, you’re free to tackle it whenever you like. They’re entirely optional, but the rewards make them well worth seeking out, especially if you’re looking to earn some extra cash or get your hands on unique items. Below, you’ll find a complete breakdown of all 40 Illegal Operations in Grand Theft Auto 6, including their locations and the Key Valuables you can find at each one. You can compare the list against the Operations you’ve already discovered to see which ones you’re still missing. Keep in mind that this guide is a work in progress , so we’ll continue adding new locations and rewards as we uncover them. It’s also worth noting that the payout variables can seemingly change, but these prices are what I bagged when I ran the Operation. If you’re looking for a more detailed walkthrough of a particular Operation, simply click its name to find our dedicated guide, complete with everything you need to know about clearing the location and securing its rewards. If you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub . It contains everything you could need to learn about the most important game release of all time! Will you be completing every Illegal Operation in GTA 6? Let us know your thoughts about the game via the free Insider Gaming Discord server . For more Insider Gaming content, read ‘ GTA 6 100% Completion Walkthrough .’ Don’t forget to sign up for our free weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here . Charlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for him, he enjoys every video game genre out…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/first-person-gta-6-scaled.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "6f728f5d501ffa08",
-      "title": "GTA 6 Update 01.002.002 Out Now, Rockstar Releases Official Patch Notes",
-      "summary": "GTA 6 has its first post-launch update. Check out the patch notes.",
-      "owners": [
-        "insider-gaming",
-        "valnet",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "cdc45a322fa720b7",
-        "88c198e712dfa3e8",
-        "0202463818855216"
-      ],
-      "sources": [
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/05/God-of-War-Faye.jpg"
+        },
         {
-          "name": "IGN",
+          "name": "Eurogamer",
           "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet",
-          "title": "GTA 6 Update 01.002.002 Out Now, Rockstar Releases Official Patch Notes",
-          "published_at": "2026-11-23T13:07:03+00:00",
+          "url": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
+          "title": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series",
+          "published_at": "2026-11-23T18:09:50+00:00",
           "kind": "press",
-          "text": "UPDATE: Rockstar has released the official patch notes for update 01.002.002, which rolled out today. According to the Rockstar support website , the patch focuses on making a number of fixes for crash bugs and other issues. The most notable change is to the weather, which according to the patch notes was not changing as often as intended. Players had complained about this, so it's good to see a fix less than a week from launch. [November 23, 2026] - General / Miscellaneous ORIGINAL STORY: GTA 6 has its first post-launch update, although Rockstar has yet to release patch notes. Update 01.002.002 is rolling out now on PS5, where it weighs in at 603.8 MB, and Xbox Series X and S, where it is a beefier 1.6 GB? What does update 01.002.002 actually do? We’ve no idea right now, as Rockstar hasn’t even announced the patch itself, let alone the patch notes. Some within the homebrew community are speculating it may have something to do with security, in the context of ongoing attempts to crack the game open and release a version that works on PC. But that’s nothing more than speculation right now. We will of course keep you in the loop on any news on the update, and post patch notes right here should they become available. While you wait to find out, check out Rockstar’s explanation for why darts didn’t make it into GTA 6 , why Jason has such a lowkey personality , and much more. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips and Chapter 2 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map . Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
-          "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-35-1795439002195.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/",
-          "title": "GTA 6's First Official Post-Release Update Has A Catch",
-          "published_at": "2026-11-23T14:41:35+00:00",
-          "kind": "press",
-          "text": "GTA 6's updates will work a little differently than in other major games It hasn't quite been a whole week since the release of Grand Theft Auto 6 , but the game already has an update to download. Here's what you need to know about developer Rockstar Games' update for the open-world crime epic and how it differs between PlayStation 5 and Xbox Series X. The official update is version 01.002.002, and its size differs depending on console: on PS5, it's 603.8 MB, whereas the Xbox version is much larger at 1.6 GB . However, there are two major things to note about the update. Much like the pre-launch updates , this new patch will roll out in stages throughout Nov. 23 . So if you log into the game, check to see if there's something to download — but don't fret if nothing is there yet. Your update should appear or start downloading automatically at some point on Monday. As for what's in the update, here are Rockstar's official patch notes: The weather system change and the autosave tweaks are of particular note. Rockstar made a big deal about the game's dynamic weather system prior to launch, but fans were confused to see mostly static Leonida. And the game's autosave feature has sadly cost players many hours of lost time due to its infrequency. Hopefully players will have a better experience now!",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_17-1.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/gta-6-update-01-002-002-all-changes-download-size/",
-          "title": "GTA 6 Update 01.002.002—Patch Notes & Download Size",
-          "published_at": "2026-11-23T14:51:35+00:00",
-          "kind": "press",
-          "text": "It’s been almost a week since Grand Theft Auto 6 officially launched, and it’s fair to say that Rockstar has enjoyed an incredibly successful release. With millions of copies sold and billions of dollars already generated , the game has made a phenomenal start. However, that doesn’t mean Rockstar is finished making improvements, as the studio has now rolled out GTA 6 Update 01.002.002. Post-launch updates have become increasingly common, even for single-player experiences, as developers continue to iron out issues and improve the overall experience. GTA 6 is no exception, and you can expect plenty more updates in the months ahead. For now, though, here’s everything you need to know about Update 01.002.002 . You can buy Grand Theft Auto 6 here if you haven’t already! The latest Grand Theft Auto 6 update has a different download size depending on which platform you’re playing on. If you’re playing on PlayStation 5, the update comes in at just over half a gigabyte. However, those playing on Xbox Series X|S will have a considerably larger download to deal with. Here are the exact download sizes for GTA 6 Update 01.002.002 on each platform: Thankfully, neither download is particularly demanding, so you shouldn’t need to start clearing out your console’s storage to make room. The relatively small file sizes should also mean you won’t be waiting around for too long before jumping back into Vice City. Rockstar Games has finally revealed the patch notes for GTA 6’s Update 01.002.002, and as expected, it’s a lot of bug fixes. You can find the full patch notes, courtesy of Rockstar Support , below: It’s a fair suite of changes, but one that seems to remain unaddressed is the infinite money glitch , allowing you to earn up to $10,000 per run. If you want to make the most of it, now might be the time, as it’s unlikely it stays viable forever. If you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub . It contains everything you could need to learn about the most important game release of all time! How are you finding GTA 6 so far? Let us know your thoughts about the game via the free Insider Gaming Discord server . For more Insider Gaming content, read ‘ GTA 6 100% Completion Walkthrough .’ Don’t forget to sign up for our free weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here . Charlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for him, he enjoys every video game genre out…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-empathy-scaled.jpg"
+          "text": "After appearing in both God of War Ragnarok and next year's God of War Laufey, Deborah Ann Woll is about to reprise her role as Faye in Amazon Prime Video's upcoming live-action series. Variety reports that the God of War cast list is now welcoming a second actor pulled straight from Sony Santa Monica's video game series. Deborah Ann Woll first showed up in the games as Kratos' wife and Atreus' mother during God of War Ragnarok, but she's also about to enter the spotlight proper in God of War Laufey. Amazon's God of War cast now includes Dave Bautista (Guardians of the Galaxy) as god killer Kratos, Callum Vinson (Chucky) as Atreus, Mandy Patinkin as Odin and Ólafur Darri Ólafsson as Thor. Alastair Duncan is also making the game-to-show jump by stepping back into the figurative shoes of chatty head Mimir. Earlier in the year, the God of War show halted production when former Kratos actor Ryan Hurst suffered an on-set injury. Bautista soon took over the role and production began again in October - all of Hurst's scenes had to be reshot, of course. There's no release date yet for the show, but it's said to follow the Norse era of the games which began in 2018's more serious and stern revamp. Amazon ordered a two-season run for the show, which apparently means both seasons will be filmed back-to-back. Meanwhile, God of War Laufey was recently delayed from February 2027 to May 2027, giving the PS5 exclusive slightly more breathing room away from Fable, Persona 4 Revival and Tomb Raider: Legacy of Atlantis. \"We will make the most of each moment until then by putting in the finishing touches and pushing the game to its fullest potential,\" developer Sony Santa Monica said at the time. \"On behalf of everyone on the team, we appreciate your patience and we'll be back to share more updates soon.\" While the game puts Faye in the leading role as she battles with gods in a multi-mythological afterlife, the studio was quick to note that her journey isn't considered a side game. God of War Laufey will still connect to future games in the series and, yep, Kratos will eventually be back , too. \"Genuinely, I thought I was going to be much more offended by it, but one, I'm not on social media, so that helps, and two, I don't know, I feel totally unbothered,\" Woll said of the online trolls who were targeting Laufey after its reveal this summer. \"Because I just know it's great. It's okay if it's not your cup of tea, but in no universe is it bad.\"",
+          "image": "https://assetsio.gnwcdn.com/Faye-holds-a-mythical-sword-in-new-God-of-War-game-from-Sony-Santa-Monica.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
     {
-      "story_id": "0523bd635fc30b9b",
-      "title": "Steve Rogers returns to action in final Avengers: Doomsday trailer",
-      "summary": "A new look at Avengers: Doomsday has dropped",
+      "story_id": "703702e703b49876",
+      "title": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
+      "summary": "Cyberleek has reportedly made good on their promise and released the executable file for the leaked Xbox build of GTA 6, sparking concern that an unofficial PC port could be around the corner.",
       "owners": [
-        "future-plc",
         "keleops",
-        "valnet"
+        "meups",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "f5c6e10a52a5547e",
-        "cfacf206453588b3",
-        "d757366a50cbc14d",
-        "b94de2e6ebfb711f"
+        "bb20beff33b9a67a",
+        "5d4253df9513dbf8",
+        "4f46f125eef23d68"
       ],
       "sources": [
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/entertainment/marvel-movies/steve-rogers-returns-to-action-in-final-avengers-doomsday-trailer-that-sees-robert-downey-jr-s-doctor-doom-want-revenge-on-earths-mightiest-heroes/",
-          "title": "Steve Rogers returns to action in final Avengers: Doomsday trailer",
-          "published_at": "2026-11-23T14:09:48+00:00",
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/gta-6-leaker-cyberleek-reportedly-releases-exe-file-for-xbox-build-sparking-concern-an-unofficial-pc-port-could-be-around-the-corner",
+          "title": "GTA 6 Leaker Cyberleek Reportedly Releases .exe File for Xbox Build, Sparking Concern an Unofficial PC Port Could Be Around the Corner",
+          "published_at": "2026-11-23T16:59:53+00:00",
           "kind": "press",
-          "text": "A new look at Avengers: Doomsday has dropped A new trailer for Avengers: Doomsday has been released, and it's our best look yet at the upcoming Marvel movie . The new teaser features Robert Downey Jr.'s Doctor Doom as he faces the Avengers, but firstly focuses on Steve Rogers' choice of a lifetime as he is visited by the Fantastic Four and leaves Peggy and their son behind. What follows is largely what has been in marketing to date, including the Sentinels being raised by Doom at the X-Mansion. But we get an extra cherry on top: Doomsday's own 'assembling' scene, featuring the X-Men, Captain America, Steve Rogers, and plenty more heroes besides. As one of the OG Avengers, Thor also does his level best to rally the troops, even throwing in a line that might resonate with casual audiences. \"I don't even know who half of you are,\" he says at one point, but is still ready to team up with them against the universe-ending threat of Doom and the incursions. As the official synopsis teases, the heroes from three different universes will have to come together to face their biggest foe yet: Victor Von Doom. The Avengers, Wakandans, and New Avengers join with the Fantastic Four and the original X-Men, meaning the cast list features everyone from Chris Evans to Ian McKellen as more than 30 heroes line up on the battlefield. The new trailer comes after a week of big news for Doomsday. First of all, the VisionQuest finale revealed that Wanda Maximoff is returning for the big team-up movie after she was resurrected by the villain in a post-credits scene. Not only that, but Kevin Feige also debunked a pretty huge theory in a new interview with Empire magazine. \"People wondered, ‘Is Doom just a variant of another character? Is this just a shortcut to bringing back another character?’ The answer is no. He's Victor Von Doom,\" Feige teased . Subscribe for a weekly digest of the movie and TV news that matters, direct to your inbox. From first-look trailers, interviews, reviews and explainers, we’ve got you covered. Just when we think we know what's happening, Feige debunks it... It seems like we'll just have to wait for the epic movie to arrive in theaters before we find out all of the secrets that Marvel has been holding in all this time. Avengers: Doomsday arrives in US theaters on December 18 and a few days earlier in the UK on December 16. For more on the MCU, check out our guide to the Marvel timeline and how to watch the Marvel movies in order . I’m the Deputy Entertainment Editor here at GamesRadar+, covering TV and film for the Total Film and SFX sections online. I previously worked as a Senior Showbiz Reporter and SEO TV reporter at Express Online for three years. I've also written for The Resident magazines and Amateur Photographer, before specializing in entertainment. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/9hJ4ZfsxfERgPVtNPZvRmD-1920-80.jpg"
+          "text": "Cyberleek has reportedly made good on their promise and released the executable file for the leaked Xbox build of GTA 6 , sparking concern that an unofficial PC port could be around the corner. The infamous hacker had vowed to release the .exe for the incomplete GTA 6 Xbox build whether the Cyberleek memecoin hit its market cap target or not , and now it is out in the wild, some within the homebrew scene are preparing to take a close look at it. Cyberleek released the exe with a fresh statement insisting their actions on GTA 6 so far were about “fighting anti-consumerism in the games industry.” Cyberleek also taunts Rockstar parent company Take-Two’s so-far unsuccessful effort to prevent further leaks or, it seems, track down those responsible, saying: “Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving.” They also pushed back on claims the GTA 6 leaks are about little more than pushing a crypto scheme, insisting that crypto was used to generate funds for a secret project outside of the game. “There is no other way to move funds without names,” Cyberleek said, “and this work requires no names.” Some are now predicting that AI-assisted recompilation of the leaked Xbox build could result in GTA 6 on PC in just days, with performance improvements over the console version in weeks. This is of course a nightmare scenario for Take-Two and Sony and Microsoft, which are benefiting greatly from GTA 6 releasing on console only. The console version of GTA 6 targets 30fps across all platforms, although struggles at times to hit that on base PS5, and Xbox Series X and S. As a result, there is huge interest in a potential PC version offering 60fps gameplay. The release of the Xbox build from this month runs counter to the thought that Cyberleek only had access to an early development build of GTA 6, a feeling that was reinforced not only by the videos that were released in the summer, but by the differences that have emerged following the game’s official launch. Fans are calling on people not to spend money on Cyberleek, pointing out the leaker cashed out back in August and did again in October. Analysis of cryptocurrency transactions in late August pointed to the GTA 6 leaker cashing out having earnt around $270,000. IGN had reported on fan skepticism around the alleged leaked gameplay that reportedly showed both Jason and Lucia fully naked . A previous leaked gameplay video allegedly showed a tank spawning into the world, which suggested access to a dev menu of some kind. The leaked videos allegedly showing both Jason and Lucia fully naked also show NPCs failing to react to that in any way, which suggested this effect was achieved with either a dev menu or cheats. In the wake of Cyberleek’s initial leaks, Take-Two issued subpoenas to the likes of Discord as part of its search for the person or group of people responsible. It remains unclear how the gameplay footage, any potential build of the game it was taken from, or this latest Xbox build, escaped the confines of Rockstar's infamous tight security. In August, Rockstar addressed the GTA 6 leaks , describing the situation as \"heartbreaking\" for its development team and \"unfortunate\" for fans. At the time, the developer acknowledged that its intended experience for players \"may now be impacted by some spoilers,\" but reiterated GTA 6's previously-confirmed launch date of November 19. Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
+          "image": "https://assets-prd.ignimgs.com/2026/11/23/gtavi-37-1795453064677.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/suposta-build-de-gta-vi-para-xbox-vaza-e-gera-rumor-sobre-pc/",
+          "title": "Suposta build de GTA VI para Xbox vaza e gera rumor sobre PC",
+          "published_at": "2026-11-23T17:49:10+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2020/03/MeuPlayStation.jpg"
         },
         {
           "name": "Kotaku",
           "owner": "keleops",
-          "url": "https://kotaku.com/avengers-doomsday-final-trailer-x-men-steve-rogers-son-2000759445",
-          "title": "Avengers: Doomsday’s Final Trailer Shows Steve Rogers’ Family Life Upended By The Fantastic Four",
-          "published_at": "2026-11-23T14:33:59+00:00",
+          "url": "https://kotaku.com/gta-6-leaker-cyberleek-claims-to-have-to-released-exe-file-that-could-lead-to-unofficial-pc-port-2000759529",
+          "title": "The Race Is On To Unofficially Port GTA 6 To PC After Cyberleek Drops .Exe File",
+          "published_at": "2026-11-23T18:30:37+00:00",
           "kind": "press",
-          "text": "Avengers: Doomsday is just under a month away, and we now have the final trailer. It focuses on Steve Rogers’ contrived return as he’s dragged into superhero-ing again after retiring at the end of Avengers: Endgame . The trailer opens by showing us the family life that Steve and his boo Peggy Carter have created, with the two having had a son who’s apparently grown up not knowing about his father’s superhero days. However, things get complicated when the Fantastic Four show up. We also see a fair bit of the New Avengers and the X-Men, including a nod to Cyclops’ iconic “To me, my X-Men!” line, in which James Marsden calls the heroes in for a reprise of the original Avengers spin shot from the 2012 movie. The final trailer can’t help but draw attention to the fact that half of these characters don’t even know each other due to the messiness of Marvel’s attempts to retcon theÂ DoomsdayÂ storyline into old movies after it pivoted away from Kang as the franchise’s next big bad following domestic violence allegations made against actor Jonathan Majors in 2023 . We are but weeks away fromÂ Avengers: Doomsday ‘s premiere on December 18, and Marvel is officially out of time to make this giant ensemble film work, thoughÂ VisionQuest ‘s post-credits scene did at least give a lot of lapsed fans a reason to give a shit again . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. I know some folks bought tickets for the upcoming crossover movie immediately Avengers: Endgame âs re-release wants you to believe this was always the plan Shaky footage from a live screening has appeared, and it's certainly intriguing Please remember to take notes, and there will be a test The D23 announcements and trailers keep coming",
-          "image": "https://kotaku.com/app/uploads/2026/11/image-66-1200x675.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/avengers-doomsday-final-trailer-november-2026-marvel-studios/",
-          "title": "Avengers: Doomsday’s Final Trailer Is Here, and It Finally Gives Us a Reason to Care",
-          "published_at": "2026-11-23T14:35:36+00:00",
-          "kind": "press",
-          "text": "Avengers: Doomsday is now just weeks away, and Marvel Studios continues to build hype with a new trailer for this year's highly anticipated Avengers sequel. The trailer offers the longest look yet at the movie, teasing several emotional hooks. We see Steve Rogers's life with Peggy and their young son, who was kept in the dark about Steve's past as Captain America. Perhaps most revealingly, we learn that Cap's decision to travel to the past has had unforeseen consequences when the Fantastic Four pay him a visit. Perhaps this is what Dr. Doom means when he refers to these characters living \"stolen lives.\" The trailer ends with a callback to one of the Avengers series' best long-running bits as Cap asks Thor if the God of Thunder is bothered by the fact that Cap is holding his \"former\" hammer, Mjolnir. Additionally, we get more mutant action as Cyclops delivers the iconic \"To me, my X-Men\" line, summoning Nightcrawler along with Mystique and Gambit. If most of the film's teasers until now felt like they were mostly there to show off all the characters returning, this is the first one that felt like it offered a reason to care about this impending superpowered brawl. The latest trailer for Doomsday follows the first trailer released in July and an extended \" special look \" that emerged from Disney's D23 fan convention. After a series of middling box office showings for its superhero movies (Sony's Spider-Man: Brand New Day notwithstanding), Marvel Studios hopes to return to Avengers: Endgame -era glory with an all-star show of force that brings back characters from the past decade-plus of the MCU and the Fox era of X-Men films. Directors Joe and Anthony Russo return to Marvel with a mandate to revive the broad cultural interest (and box office) of their previous Avengers twofer. The next Avengers movie stars Robert Downey Jr. as Doctor Doom, Chris Hemsworth as Thor, Anthony Mackie as Captain America, Sebastian Stan as the Winter Soldier, Letitia Wright as Shuri, Paul Rudd as Ant-Man, Wyatt Russell as U.S. Agent, Tenoch Huerta Mejía as Namor, Vanessa Kirby as Sue Storm, Pedro Pascal as Mister Fantastic, Joseph Quinn the Human Torch, Ebon Moss-Bachrach as the Thing, Simu Liu as Shang-Chi, Florence Pugh as White Widow, Kelsey Grammer as the Beast, Lewis Pullman as Sentry, Danny Ramirez as Falcon, David Harbour as Red Guardian, Winston Duke as M'Baku, Hannah John-Kamen as Ghost, Tom Hiddleston as Loki, Patrick Stewart as Professor X, Ian McKellen as Magneto, Alan Cumming as Nightcrawler, Rebecca Romijn as Mystique, James Marsden as Cyclops, and Channing Tatum as Gambit. Avengers: Doomsday arrives in movie theaters on Dec. 18. A direct sequel to Doomsday is already in the works with 2027's Avengers: Secret Wars , which Marvel Studios president Kevin Feige says will be \" a whole other genre of story .\"",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/avengers-doomsday-final-trailer-screenshot.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-final-trailer-has-convinced-me-steve-rogers-got-the-bad-ending-in-endgame/",
-          "title": "Avengers: Doomsday final trailer has convinced me Steve Rogers got the bad ending in Endgame",
-          "published_at": "2026-11-23T15:13:53+00:00",
-          "kind": "press",
-          "text": "This is what it's like when worlds collide The Avengers: Doomsday final trailer is here, and it's all about Steve Rogers – from his personal sacrifice of leaving behind Peggy and their son, through to joining Thor and the OG X-Men in a battle against Robert Downey Jr.'s Doctor Doom. But the first minute or so of the trailer is riddled with inconsistencies about the one-time Captain America – and I think it's telling us more than it's letting on. The opening seconds of the Doomsday trailer again shows the moment Steve and Peggy reunite in Endgame. Then, it has a montage of a clean-shaven Steve packing away his Captain America gear, holding his baby boy, and later teaching him how to ride a bike. But the Steve we have seen so far – both in this trailer and elsewhere – shows him with longer hair and a beard, even right up to when the Fantastic Four rock up outside his doorstep. Apart from telling us that Doomsday picks up with Steve and Peggy having a teenage son sometime in the early 1960s, it appears that the Fantastic Four aren't crossing the multiverse to meet him. Instead, my theory is that Steve actually ended up visiting Peggy on Fantastic Four's Earth-828, a decision that caused much of the multiverse to collapse upon itself – and put Steve in Doom's sights. \"We didn't know those choices would have consequences,\" Steve Rogers says of the decision to travel through time in Avengers: Endgame to reclaim the Infinity Stones and use them against Thanos in the Battle for Earth. Subscribe for a weekly digest of the movie and TV news that matters, direct to your inbox. From first-look trailers, interviews, reviews and explainers, we’ve got you covered. Simply put, Steve Rogers' past and present actions are catching up to him. He shouldn't have gone back through time (on either occasion), he is potentially on the wrong Earth, and he has a son that should never have existed. So, Avengers: Endgame's final dance could actually be the opening salvo to the universe ending – and caused the incursions (such as the worlds appearing in the sky in one Doomsday trailer moment) that is leading to the collapse of the universe. Good job, Steve. Avengers: Doomsday hits cinemas on December 14 in the UK and December 16 in the US. For more, we have a complete Avengers: Doomsday trailer breakdown for you to cast your eye over. I'm the Senior Entertainment Writer here at GamesRadar+, focusing on news, features, and interviews with some of the biggest names in film and TV. On-site, you'll find me marveling at Marvel and providing analysis and room temperature takes on the newest films, Star Wars and, of course, anime. Outside of GR, I love getting lost in a good 100-hour JRPG, Warzone, and kicking back on the (virtual) field with Football Manager. My work has also been featured in OPM, FourFourTwo, and Game Revolution. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/V6xLAQozUxBBr7ATUnNDY-1920-80.jpg"
+          "text": "Last week, infamous Grand Theft Auto 6 leaker Cyberleek claimed to have released a current Xbox build of the game that could be used to create an unofficial PC port. The only thing that was missing was the .exe file. Cyberleek claims they’ve released that now too, meaning it could only be a matter of time before the homebrew scene begins trying to decompile the biggest game ever . “The torch passes to the open source recomp and emulation projects,” the account posted online on November 23. “Before trusting any file, verify it.” They claimed this was part of an ongoing pro-consumer fight against greedy video game publisher practices and suggested Rockstar Games’ parent company, Take-Two, has so far been unable to catch them. âMonths of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving,” the account posted. “Every release was always free and always will be,” it continued, contradicting earlier announcements that releases would only happen when the $CYBERLEEK meme coin reached certain market cap thresholds. GTA VI's executable file out now. by u/Woleth in pcmasterrace The surprise release of the .exe file has sent the homebrew scene into a frenzy. People from the Project Leonida community have been pouring through what’s allegedly available to download online and sharing updates on their findings in a Discord. “CL has just dropped the exe, expect a lot of static recompilation work to be done soon,” one of the lead developers in the group posted on X . He added in the Discord, which has been flooded with new members, that “It will take at least a week for us to get somewhere noticeable to the point where you can play on your pc.” The Leonida project is currently available to access online but does not contain “the game, keys or an executable, and it does not explain how to get them.” Unofficial porting efforts are being undertaken with the help of Claude AI, raising questions about just how fast a PC version of the game might become technically playable. GTA 6 is currently only on PS5 and Xbox Series X/S, with an official PC port reportedly coming in early 2027. “Undoubtedly, it would be very difficult to replicate the experience of consuming our game as intended because of technical limitations,” Take-Two CEO Strauss Zelnick told investors earlier this month. But he said that thanks to the recent flood of AI-fueled decomps , that’s “going to become more of a challenge.” “We are utterly focused on enhancing our technical defenses and enhancing our legal activities appropriately,” he added at the time. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Enjoy the sights or pay for a private lap dance You are going to need some time, a helicopter, and some patience to unlock this Easter egg Gonna get a double dose of Deborah Ann Woll From bugs to general tomfoolery, Grand Theft Auto 6 is made for funny viral moments âUnless Rumi, Mira, and Zoey jump outta that plane and on stage in front of me in the flesh, itâs not worth itâ",
+          "image": "https://kotaku.com/app/uploads/2026/10/gta-burning-1200x675.jpg"
         }
       ]
     },
     {
-      "story_id": "4b1f82cbdd74340f",
-      "title": "Jogos da PlayStation em oferta na Nuuvem com até 80% de desconto",
-      "summary": "Os interessados podem aproveitar as ofertas da Nuuvem e adquirir seus jogos preferidos da lista por tempo limitado",
+      "story_id": "87f290a4402a53e5",
+      "title": "Jogos de PlayStation em oferta por menos de R$ 40 na Black Friday",
+      "summary": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Black Friday na PS Store, válida até 1 de dezembro",
       "owners": [
         "adrenaline",
         "olhar-digital"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "f7d20f636c323b5b",
         "b94d4c23b53f89d6",
         "4f30d40e073a1c5e"
       ],
       "sources": [
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-da-playstation-em-oferta-na-nuuvem-com-ate-80-de-desconto-2/",
-          "title": "Jogos da PlayStation em oferta na Nuuvem com até 80% de desconto",
-          "published_at": "2026-11-21T20:22:41+00:00",
-          "kind": "press",
-          "text": "REVIEW | GTA VI é incrível e vai muito além de tudo aquilo que poderíamos esperar",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/09/Marvels-Spider-Man-2-vai-a-Gold-e-esta-pronto-para-seu-lancamento.jpg"
-        },
         {
           "name": "Adrenaline",
           "owner": "adrenaline",
@@ -405,6 +374,53 @@
           "kind": "press",
           "text": "On its 25th anniversary, the developers behind Segaâs cult classic tell its story – and reveal why its sequel was cancelled Itâs August 2024. I’m riding through the neon-soaked streets of Tokyoâs Shibuya Ward in a Porsche, with the director of one of my favorite games at the wheel. We’re heading to his home, where he’s promised to show me beta builds that have never been seen before, and details on its canned sequel. There’s no shortage of hard work involved in covering video games, but every so often you have one of those days that makes you stop and think: wow, I’m lucky to do this. This was one of them. For me, Rez was a revelatory experience that arrived during a formative moment in my life. I was about to turn 16, leave school, and enter a hedonistic life of clubbing, music, and the human connection that comes with it. At the same time, my gaming habits had broadened into a more eclectic mix of multiplatform games, with publications like Edge encouraging me to think more about them as an artistic medium. It was inevitable, then, that I’d eventually take a chance on an electric arthouse shooter from the arcade masters at Sega . I went in blind, and discovering its abstract wireframes and interactive techno beats for myself was a deeply affecting experience. It was like simultaneously conducting a Chemical Brothers album and the Ministry of Sound light show, behind the controls of a Space Harrier machine, in a combo only video games could power. To view Rez as simply a shooter is to completely miss its meaning. On the surface, it shares much with on-rails arcade games like Panzer Dragoon and Star Fox , tasking players with blasting their way through waves of enemies on route to a spectacular boss. But these familiar mechanics are a vehicle for something more transcendent. UGAâs young team were trying to do something few commercially developed games had attempted before. Rezâs central concept is synaesthesia, the phenomenon of one sensory experience triggering another, like sounds provoking certain shapes and colors. The player is treated as a participant in a performance, with the gameâs licensed music responding to every dispatched enemy with a hi-hat or synthesizer, like you’re some sort of Tron-age conductor. All the while, its pulsing, Kandinsky-inspired visuals move in harmony with the audio, and your game controller passes the vibrations through your body, as if youâve plugged the Dreamcast into your own auxiliary port. There was simply nothing else like Rez at the time. It isn’t hyperbole to say that United Game Artists’ extraordinary sensory alchemy fundamentally changed how I, and many others of a similar age, viewed video games and what they could be. Its sales werenât spectacular, but Rezâs cultural impact makes it as valuable as any blockbuster. “It isn’t hyperbole to say that United Game Artists’ extraordinary sensory alchemy fundamentally changed how I, and many others of a similar age, viewed video games and what they could be.” Rez mattered because it showed, at a time when creators were obsessed with emulating Hollywood, that video games could create experiences that other entertainment mediums couldnât replicate. With its Y2K-inspired aesthetic, arcade-coded design, and deep reverence for late 90s club culture, Rez is staunchly a creation of its time, but itâs also absolutely timeless. To this day, Iâll regularly throw some headphones on, or a VR headset, and blast through Area 3, with its thumping Ken Ishii techno, or if Iâm in a more energetic mood, the evolutionary rollercoaster of Adam Freelandâs finale, and go beyond synaesthesia. âI do think as time has marched on, the game has become more celebrated and dear to people than when it was originally released,â producer Tetsuya Mizuguchi tells me in a meeting room at his latest studio, Enhance (he wasnât the one driving the car, by the way â weâll get to that later). âWhen we were making it too, towards the end of development, it felt more like the start of something than the end of a project for me personally, but I didn’t really know what it was the start of. I think in many ways, because it was this primitive experience, because it didn’t fit exactly into one genre convention, perhaps one of the reasons it took some time for the adulation to come to the fore has a lot to do with it took people some time to find the words that allowed them to accurately describe what they liked about the experience.â It wasnât just the players who struggled to verbalize what that Rez experience meant, Mizuguchi says. âLooking back at myself and the development team, we had trouble when we were making it, trying to express what the team was and what we were after. âBack then, we’d spend a lot of time doing things like going to electronic music clubs and observing the crowds there, and the kind of different types of reactions they’d have as music would change, and what would move them, and trying to kind of pick up clues from that sort of reaction and human experience that we were trying to then apply into Rez. âBecause we were young, because we were fairly inexperienced, we were really operating a lot more off of intuition about what this game was going to become and how we were going to get there and what we were borrowing from these sort of observed human experiences. And so, in that sense, not just for the players, but for ourselves, it’s kind of taken these 25 years to better define what we were trying to go after and what made it special.â Mizuguchi describes the circumstances surrounding Rez’s development as something of a ‘perfect storm’, much of which was deliberately engineered. The genesis of Rez, or ‘K-Projekt’ as it was first known, required a moment of inspiration and an unconventional work environment. The embers of the idea came from a spontaneous road trip. In the mid-90s, Mizuguchi was traveling back from a visit to Mercedes in Germany, where he’d been researchin",
           "image": "https://www.videogameschronicle.com/files/2026/11/rez-infinite-ps4-screen13-us-05dec15.0.webp"
+        }
+      ]
+    },
+    {
+      "story_id": "4f5adb75d26632af",
+      "title": "How to steal the Declasse Vamos in GTA 6",
+      "summary": "Grab the code to unlock the garage and steal the car for Moses.",
+      "owners": [
+        "future-plc",
+        "insider-gaming"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "97f1a5613ce75556",
+        "ca4ddbccf93984de",
+        "34ae7d79ca789b9e"
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-declasse-vamos-code/",
+          "title": "How to steal the Declasse Vamos in GTA 6",
+          "published_at": "2026-11-22T17:04:39+00:00",
+          "kind": "press",
+          "text": "Grab the code to unlock the garage and steal the car for Moses. The Declasse Vamos is one of the many cars Moses asks you to steal for him in GTA 6 , but like the BF Bandito , it's a little trickier than just grabbing it. When you reach the map marker, you'll realise the car is locked in a garage that requires a specific code to open it. The code to the door is 2727 and this is fixed. The way you discover this is by sneaking inside the trailer and looking at the number plate on the wall to the left of the window, just above the guy snoozing in the chair. Enter the code to open the garage, break in with the slimjim, then hit the button to open the door. I personally incapacitated all of the people behind the trailer, so chances are they will pursue you or start shooting if you don't, once you try to drive out of there. Now take the car back to Moses, being careful on the way, to earn $4,100ish for top condition. GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Sean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/JB6TuHdPTuVWZym7wq6ebT-2560-80.jpg"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-schafter-v12/",
+          "title": "How to steal the Schafter V12 in GTA 6",
+          "published_at": "2026-11-23T13:08:09+00:00",
+          "kind": "press",
+          "text": "Prove yourself to Raul by yoinking this car. Stealing the Schafter V12 in GTA 6 is one of the car theft missions you'll have to complete to gain Raul's trust, but similar to the BF Bandito or Declasse Vamos , it's a little tricky. Make sure to grab the silenced pistol from the trunk of the car outside—not necessarily because you'll need it, but because it's a handy weapon to have. Now, as you can see in the video above, you can get into the chop shop by climbing up the van around back and then onto the roof. I'd then suggest dropping down on the right side, where there are few enemies, knocking out the guy sitting by the gate, then opening it by hitting the left button. Sneak back towards the centre of the chop shop and turn left to find the Declasse Vamos, a black unassuming car. Hop inside, start it up, and drive out of the gate you just opened. Easy, right? Now simply bring it to Randy's garage as directed. You also kill everyone inside if you wish, but my way above will get you that non-lethal Criminal Profile rating. GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Sean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/2fke8foAq2WrKEEAwaMuZU-2560-80.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/how-to-steal-an-atm-with-tow-trucks-in-gta-6/",
+          "title": "How to Steal an ATM With Tow Trucks in GTA 6",
+          "published_at": "2026-11-23T16:45:16+00:00",
+          "kind": "press",
+          "text": "You can never run out of ways to earn cash in GTA 6, and this guide explains how you can steal entire ATMs with tow trucks in the game. Rockstar has built a world that seems like it is only limited by your imagination with GTA 6 , and you need to try and test things to understand where the game’s limit is. One such thing that players have learned is yanking an ATM out of the wall with a tow truck and stealing money from it, and here’s how you can do it too. You can buy Grand Theft Auto 6 here if you haven’t already! In GTA 6, ATMs can be easily stolen by attaching a tow truck to them. Players can then drive away with the ATMs, swinging them like a wrecking ball. Stealing an ATM with a tow truck in GTA 6 is as simple as it sounds, but there are caveats, such as finding the truck, having the right tools to extract the money, and not getting burned in the process. Players should note that they don’t get dye-pack jammers until Chapter 3, and these are bound to explode and waste your loot if you mess around too much. Also, the proper tools to break into an ATM are provided in Chapter 3, so for now you’ll need explosives to do the job prior to that. First, grab a tow truck; it can be found in the early areas of the game. In the Keys, players will need to head to Nifty Threads Island Wear , and they will find the tow truck in the next block (exact location marked with a blue star in the screenshot below). Once you have the tow truck, find an ATM and check out the steps below to steal it from the area. Check out the step-by-step guide on how to steal ATM machines with tow trucks below: Here’s a video walkthrough of how to steal an ATM with a tow truck in GTA 6: Are you going to try stealing ATMs with a tow truck in GTA 6? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more from Insider Gaming, read about where to find armored trucks in GTA 6 . Don’t forget to sign up for our weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-ATm-Tow-Truck-scaled.jpg"
         }
       ]
     },
@@ -476,7 +492,7 @@
           "title": "Arkheron, Appulse e mais! Veja os lançamentos de games da semana",
           "published_at": "2026-11-22T22:30:00+00:00",
           "kind": "press",
-          "text": "Domingo é dia da nossa lista de lançamentos de jogos, para que você possa programar a sua agenda nos próximos dias. E o destaque dessa vez é Arkheron , game desenvolvido por um dos criadores de World of Warcraft e que mistura elementos de ação em tempo real com estratégia e coleta de itens ao longo das fases. Outro destaque é Appulse. O game conta com uma proposta ousada de misturar elementos de ação em tempo real, mais precisamente no controle de naves, a uma espécie de mesa de pinball interativa. Confira a lista completa de lançamentos da semana e os respectivos preços. Athelan Battlegrounds é um jogo de estratégia tática por turnos desenvolvido por uma equipe independente de duas pessoas. A proposta mistura elementos de xadrez com mecânicas de jogos competitivos em arenas, colocando os jogadores para montar equipes e disputar partidas estratégicas contra outros oponentes online. O título aposta em um sistema competitivo baseado apenas na habilidade dos participantes , sem mecânicas de progressão que ofereçam vantagens fora das partidas ou recursos pagos que influenciem o resultado. O game será distribuído de forma gratuita no PC através do Steam e já conta com uma versão demo para download. Appulse é um jogo de tiro com visão superior inspirado nas mecânicas clássicas de pinball. Ambientado no espaço, você precisa assumir o controle de uma nave e, assim, dominar o recuo das armas para controlar a trajetória da esfera pelo tabuleiro enquanto protege sua nave-mãe contra ondas de robôs invasores. A cada nível alcançado, é possível escolher melhorias para personalizar o arsenal, as habilidades e os recursos da mesa , além de utilizar um canhão de ejeção para invadir naves inimigas e cumprir objetivos específicos. O jogo ainda não possui um preço definido, mas já conta com uma versão demo disponível de forma gratuita. Arkheron é um jogo de ação isométrico focado em partidas competitivas entre equipes. A dinâmica consiste em escalar uma torre ao lado de dois aliados, enfrentando outros grupos de jogadores e coletando equipamentos pelo caminho que alteram as habilidades e a forma de jogar no meio dos combates. O título, que foi desenvolvido pelo veterano de World of Warcraft , Rob Pardo, também contará com um visual repleto de detalhes, além de um sistema de ranqueamento para possíveis torneios no futuro. O jogo ainda não possui um preço definido, mas é possível se inscrever para o período de testes, que ainda está em andamento. E na sua opinião, qual o game mais esperado da semana? Conte para a gente nas redes sociais do Voxel! As falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções O que considerar na hora de comprar uma caixa de som potente? Pornô gerado por IA: entenda os perigos por trás do DeepNude NoisyTCP: falha no kernel do Linux ficou escondida por 11 anos",
+          "text": "Domingo é dia da nossa lista de lançamentos de jogos, para que você possa programar a sua agenda nos próximos dias. E o destaque dessa vez é Arkheron , game desenvolvido por um dos criadores de World of Warcraft e que mistura elementos de ação em tempo real com estratégia e coleta de itens ao longo das fases. Outro destaque é Appulse. O game conta com uma proposta ousada de misturar elementos de ação em tempo real, mais precisamente no controle de naves, a uma espécie de mesa de pinball interativa. Confira a lista completa de lançamentos da semana e os respectivos preços. Athelan Battlegrounds é um jogo de estratégia tática por turnos desenvolvido por uma equipe independente de duas pessoas. A proposta mistura elementos de xadrez com mecânicas de jogos competitivos em arenas, colocando os jogadores para montar equipes e disputar partidas estratégicas contra outros oponentes online. O título aposta em um sistema competitivo baseado apenas na habilidade dos participantes , sem mecânicas de progressão que ofereçam vantagens fora das partidas ou recursos pagos que influenciem o resultado. O game será distribuído de forma gratuita no PC através do Steam e já conta com uma versão demo para download. Appulse é um jogo de tiro com visão superior inspirado nas mecânicas clássicas de pinball. Ambientado no espaço, você precisa assumir o controle de uma nave e, assim, dominar o recuo das armas para controlar a trajetória da esfera pelo tabuleiro enquanto protege sua nave-mãe contra ondas de robôs invasores. A cada nível alcançado, é possível escolher melhorias para personalizar o arsenal, as habilidades e os recursos da mesa , além de utilizar um canhão de ejeção para invadir naves inimigas e cumprir objetivos específicos. O jogo ainda não possui um preço definido, mas já conta com uma versão demo disponível de forma gratuita. Arkheron é um jogo de ação isométrico focado em partidas competitivas entre equipes. A dinâmica consiste em escalar uma torre ao lado de dois aliados, enfrentando outros grupos de jogadores e coletando equipamentos pelo caminho que alteram as habilidades e a forma de jogar no meio dos combates. O título, que foi desenvolvido pelo veterano de World of Warcraft , Rob Pardo, também contará com um visual repleto de detalhes, além de um sistema de ranqueamento para possíveis torneios no futuro. O jogo ainda não possui um preço definido, mas é possível se inscrever para o período de testes, que ainda está em andamento. E na sua opinião, qual o game mais esperado da semana? Conte para a gente nas redes sociais do Voxel! As falhas tecnológicas são apenas o começo; entenda como a IA provocará ainda mais interrupções O segredo para estudar melhor pode estar no notebook certo Pornô gerado por IA: entenda os perigos por trás do DeepNude Toshiba volta ao Brasil em parceria com Hisense com nova linha de TVs O que considerar na hora de comprar uma caixa de som potente?",
           "image": "https://www.estadao.com.br/resizer/v2/FCKG3OAF4JDIDFTDMYRBI4JT4A.jpg?quality=80&auth=1b27609ae16a48a3062dadb814c4853da1752ff1e5f7fbb717ac85ee1a6be7fc&width=1200&height=630&smart=true"
         },
         {
@@ -488,42 +504,6 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/11/Lancamentos-da-Semana-1.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "de5f9dc6e00ac295",
-      "title": "O que é o erro CE-108255 de GTA 6 no PlayStation 5?",
-      "summary": "A jogatina de muitos fãs de GTA 6 está sendo interrompida por uma mensagem que surge de forma inesperada no PlayStation 5",
-      "owners": [
-        "adrenaline",
-        "meups"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "d9d078199750b437",
-        "bb2170361baed5f7"
-      ],
-      "sources": [
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/o-que-e-o-erro-ce-108255-de-gta-6-no-playstation-5/",
-          "title": "O que é o erro CE-108255 de GTA 6 no PlayStation 5?",
-          "published_at": "2026-11-23T11:44:57+00:00",
-          "kind": "press",
-          "text": "REVIEW | GTA VI é incrível e vai muito além de tudo aquilo que poderíamos esperar",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Erro-PlayStation-5.jpeg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/gta-vi-patch-corrige-crashes-erro-auto-save/",
-          "title": "GTA VI recebe patch que corrige crashes e erro no auto-save",
-          "published_at": "2026-11-23T15:38:15+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/10/GTA-VI-6-1.jpg"
         }
       ]
     }
