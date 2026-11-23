@@ -105,7 +105,9 @@
     "query": "GTA 6 Skunk Ape",
     "alt": "Cena da missão do Skunk Ape em GTA 6, divulgada pela VGC",
     "url": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Skunkape-Complete-Walkthrough-5.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/gta-6-skunk-ape-como-comecar-achar-as-ef-995b3ea8.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -127,5 +129,7 @@
       "title": "All Skunk Ape Effigy Tree locations in GTA 6"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-23T00:44:12+00:00",
+  "updated_at": "2026-11-23T00:44:12+00:00"
 }
