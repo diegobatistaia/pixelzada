@@ -1885,5 +1885,19 @@
     "lang": "pt",
     "passed": true,
     "reasons": []
+  },
+  {
+    "at": "2026-11-23T14:49:34+00:00",
+    "id": "gta-6-roda-a-60-fps-no-xbox-series-x-com-glitch-do-quick-resume-mas-o-jogo-fica-em-velocidade-dobrada",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
+  },
+  {
+    "at": "2026-11-23T14:49:34+00:00",
+    "id": "gta-6-snap-gun-e-cut-off-tool-como-conseguir-abrir-portas-sem-alarme-e-contineres-amarelos",
+    "lang": "pt",
+    "passed": true,
+    "reasons": []
   }
 ]

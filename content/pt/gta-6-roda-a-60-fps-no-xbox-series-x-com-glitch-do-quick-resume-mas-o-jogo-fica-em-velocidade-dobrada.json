@@ -96,7 +96,10 @@
     "query": "GTA 6 Xbox",
     "alt": "Cena de GTA 6 divulgada pelo Eurogamer",
     "url": "https://assetsio.gnwcdn.com/GTA6_5nov-(29).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/gta-6-roda-a-60-fps-no-xbox-series-x-com-96fd2aff.jpg",
+    "source_url": "",
+    "foco": "65% 22%"
   },
   "sources": [
     {
@@ -112,5 +115,7 @@
       "title": "GTA 6 60fps glitch on Xbox"
     }
   ],
-  "status": "draft"
+  "status": "published",
+  "published_at": "2026-11-23T14:49:34+00:00",
+  "updated_at": "2026-11-23T14:49:34+00:00"
 }
