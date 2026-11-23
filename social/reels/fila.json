@@ -14932,7 +14932,7 @@
     "slug": "gta6-corte-heitir",
     "data": "2026-11-23",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Heitir jogando GTA 6\n📺 twitch.tv/heitir\n\n#gta6 #gtavi #heitir #pixelzada",
     "tentativas": 0,
@@ -14955,6 +14955,19 @@
       "motivo": "streamer reagindo a cena de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T23:15:51-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-23T09:06:34-03:00",
+      "media_id": "18420296182084292",
+      "permalink": "https://www.instagram.com/reel/DgFV36rD4H3/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
