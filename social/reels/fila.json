@@ -15100,7 +15100,7 @@
     "slug": "gta6-corte-fabiocog",
     "data": "2026-11-23",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 FabioCOG jogando GTA 6\n📺 twitch.tv/fabiocog\n\n#gta6 #gtavi #fabiocog #pixelzada",
     "tentativas": 0,
@@ -15123,6 +15123,19 @@
       "motivo": "streamer falando e gameplay de jogo de ação com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T18:11:11-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-23T13:02:54-03:00",
+      "media_id": "17966667792251170",
+      "permalink": "https://www.instagram.com/reel/DgFw7V_Ap8P/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
