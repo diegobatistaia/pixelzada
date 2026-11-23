@@ -15142,7 +15142,7 @@
     "slug": "gta6-corte-snopey-4",
     "data": "2026-11-23",
     "horario": "14:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Snopey jogando GTA 6\n📺 twitch.tv/snopey\n\n#gta6 #gtavi #snopey #pixelzada",
     "tentativas": 0,
@@ -15165,6 +15165,19 @@
       "motivo": "conteúdo de gameplay e streamer vestido, sem elementos de nudez ou apelo sexual",
       "por": "imagem",
       "em": "2026-11-22T17:42:40-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-23T14:05:49-03:00",
+      "media_id": "18078541487767288",
+      "permalink": "https://www.instagram.com/reel/DgF4IM1giBv/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
