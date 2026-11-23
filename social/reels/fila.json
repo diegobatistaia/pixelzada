@@ -14680,7 +14680,7 @@
     "slug": "gta6-corte-makakerochefe",
     "data": "2026-11-22",
     "horario": "22:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 makakerochefe jogando GTA 6\n📺 twitch.tv/makakerochefe\n\n#gta6 #gtavi #makakerochefe #pixelzada",
     "tentativas": 0,
@@ -14703,6 +14703,19 @@
       "motivo": "apresenta apenas gameplay de jogo com carro e pessoa vestida no sofá",
       "por": "imagem",
       "em": "2026-11-22T20:49:57-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T22:04:31-03:00",
+      "media_id": "17947599951364236",
+      "permalink": "https://www.instagram.com/reel/DgEKILFjpLQ/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
