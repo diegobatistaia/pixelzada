@@ -14806,7 +14806,7 @@
     "slug": "gta6-corte-illojuan-2",
     "data": "2026-11-22",
     "horario": "23:30",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 IlloJuan jogando GTA 6\n📺 twitch.tv/illojuan\n\n#gta6 #gtavi #illojuan #pixelzada",
     "tentativas": 0,
@@ -14829,6 +14829,19 @@
       "motivo": "streamer com headset e gameplay de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T22:15:58-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-22T23:33:23-03:00",
+      "media_id": "17993346384074367",
+      "permalink": "https://www.instagram.com/reel/DgEUTTrlWKT/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
