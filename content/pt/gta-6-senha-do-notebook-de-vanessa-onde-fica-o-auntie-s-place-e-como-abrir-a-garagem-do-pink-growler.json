@@ -18,7 +18,9 @@
     "query": "GTA 6 Auntie's Place",
     "alt": "Cena de GTA 6 em La Perle, divulgada pela Polygon",
     "url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-aunties-place-header.jpg?w=1600&h=900&fit=crop",
-    "credit": "Imagem: Polygon"
+    "credit": "Imagem: Polygon",
+    "path": "/assets/img/gta-6-senha-do-notebook-de-vanessa-onde--7f4eedb2.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "Auntie's Place location in La Perle"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -115,5 +117,7 @@
       "text": "Você pode ficar com o Growler ou vendê-lo a Moses por US$ 14.750, caso queira liberar a vaga para outro carro, segundo a PC Gamer. A Polygon vê o carro como um veículo de destaque e diz que a garagem é útil porque guarda carros sem custo nenhum.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-23T20:49:13+00:00",
+  "updated_at": "2026-11-23T20:49:13+00:00"
 }
