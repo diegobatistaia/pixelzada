@@ -15272,7 +15272,7 @@
     "status": "agendado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Snopey jogando GTA 6\n📺 twitch.tv/snopey\n\n#gta6 #gtavi #snopey #pixelzada",
-    "tentativas": 0,
+    "tentativas": 1,
     "origem": {
       "motor": true,
       "perfil": "twitch/Snopey",
@@ -15292,7 +15292,8 @@
       "motivo": "imagens mostram gameplay com arma e personagem vestido",
       "por": "imagem",
       "em": "2026-11-22T17:13:04-03:00"
-    }
+    },
+    "erro": "o Instagram recusou a mídia: ERROR"
   },
   {
     "slug": "gta6-corte-ricardoquik",

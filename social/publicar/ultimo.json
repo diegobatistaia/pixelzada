@@ -1,14 +1,12 @@
 {
   "pedido": {
     "acao": "reel",
-    "slug": "gta6-corte-burgaofps-2",
-    "pasta": "reel-gta6-corte-burgaofps-2",
-    "horario": "16:00",
+    "slug": "gta6-corte-snopey-3",
+    "pasta": "reel-gta6-corte-snopey-3",
+    "horario": "18:00",
     "data": "2026-11-23"
   },
-  "em": "2026-11-23T16:10:20-03:00",
-  "ok": true,
-  "media_id": "17882885568554879",
-  "permalink": "https://www.instagram.com/reel/DgGGZZsgu-r/",
-  "chave": "a renovação devolveu uma chave nova (vale 59 dias); a atual continua valendo até vencer"
+  "em": "2026-11-23T18:02:28-03:00",
+  "ok": false,
+  "erro": "o Instagram recusou a mídia: ERROR"
 }
