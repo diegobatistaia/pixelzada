@@ -15058,7 +15058,7 @@
     "slug": "gta6-corte-ricardoquik-2",
     "data": "2026-11-23",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 ricardoquik jogando GTA 6\n📺 twitch.tv/ricardoquik\n\n#gta6 #gtavi #ricardoquik #pixelzada",
     "tentativas": 0,
@@ -15081,6 +15081,19 @@
       "motivo": "streamer vestido e gameplay de jogo de carros sem conteúdo sensual",
       "por": "imagem",
       "em": "2026-11-22T19:13:06-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-23T12:02:39-03:00",
+      "media_id": "17989162866092339",
+      "permalink": "https://www.instagram.com/reel/DgFqBqVjfhJ/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
