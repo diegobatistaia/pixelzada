@@ -18,7 +18,10 @@
     "query": "Cyberpunk 2",
     "alt": "Imagem de Cyberpunk divulgada pela GamesRadar",
     "url": "https://cdn.mos.cms.futurecdn.net/kWw9FEwneArzWxypW9xKMh-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/diretor-de-cyberpunk-2-brinca-que-o-jogo-3081a4ed.jpg",
+    "source_url": "",
+    "foco": "59% 15%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "Cyberpunk 2 creative director jokes that he's cancelling the game after playing GTA 6"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -111,5 +114,7 @@
       "text": "A GamesRadar faz um comentário sobre o efeito GTA 6 no mercado. O site acredita que alguns investidores, sem entender o desenvolvimento de jogos, vão perguntar por que a empresa deles não pode fazer o seu próprio GTA 6 e vender mais de 30 milhões de cópias antes mesmo do lançamento, como já aconteceu com a corrida por imitar Fortnite. Sem o tempo e os recursos da Rockstar, que quase garante o retorno do investimento, um jogo nessa escala seria inviável para muitos estúdios.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T10:49:24+00:00",
+  "updated_at": "2026-11-24T10:49:24+00:00"
 }

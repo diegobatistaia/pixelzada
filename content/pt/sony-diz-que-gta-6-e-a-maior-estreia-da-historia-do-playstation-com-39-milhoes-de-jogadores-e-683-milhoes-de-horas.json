@@ -18,7 +18,10 @@
     "query": "GTA 6 PlayStation",
     "alt": "Arte do PlayStation Blog sobre o lançamento de GTA 6",
     "url": "https://blog.playstation.com/tachyon/2026/11/fd8023623ccb61c2b195870ea714209ebf52e951.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/sony-diz-que-gta-6-e-a-maior-estreia-da--e26077e5.jpg",
+    "source_url": "",
+    "foco": "46% 37%"
   },
   "sources": [
     {
@@ -46,7 +49,7 @@
       "title": "GTA 6 smashed every record in PlayStation history"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -124,5 +127,7 @@
       "text": "A IGN lembra que o jogo foi o recorde de tráfego da Comcast, com 24% de tudo o que passou pela rede em horários de pico, e que está indicado em oito categorias do The Game Awards. A VGC acrescenta que o jogo chegou 13 anos depois do capítulo anterior da série e empatou o recorde de 99 em 100 no Metacritic.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T10:49:24+00:00",
+  "updated_at": "2026-11-24T10:49:24+00:00"
 }
