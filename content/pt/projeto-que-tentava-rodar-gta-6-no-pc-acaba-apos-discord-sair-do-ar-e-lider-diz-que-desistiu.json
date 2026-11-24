@@ -1,0 +1,120 @@
+{
+  "lang": "pt",
+  "slug": "projeto-que-tentava-rodar-gta-6-no-pc-acaba-apos-discord-sair-do-ar-e-lider-diz-que-desistiu",
+  "story_id": "b7506f90dcd3d694",
+  "title": "Projeto que tentava rodar GTA 6 no PC acaba após Discord sair do ar, e líder diz que desistiu",
+  "dek": "O Project Leonida mostrou o jogo abrindo no PC e, horas depois, perdeu servidor e repositório; a Rockstar não comentou.",
+  "meta_description": "O Project Leonida, que tentava rodar GTA 6 no PC com a build vazada do Xbox, perdeu o Discord e o repositório; o líder desistiu. A Rockstar não comentou o caso.",
+  "keyword": "Project Leonida GTA 6 PC",
+  "category": "gta-6",
+  "tags": [
+    "gta 6",
+    "project leonida",
+    "pc",
+    "discord",
+    "rockstar"
+  ],
+  "image": {
+    "query": "GTA 6 PC",
+    "alt": "Cena de GTA 6 divulgada pela GamesRadar",
+    "url": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1920-80.jpg",
+    "credit": "Imagem: GamesRadar"
+  },
+  "sources": [
+    {
+      "name": "GamesRadar",
+      "owner": "future-plc",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server"
+    },
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+      "title": "Project Leonida Discord and GitHub vanish"
+    },
+    {
+      "name": "Insider Gaming",
+      "owner": "insider-gaming",
+      "url": "https://insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc/",
+      "title": "Rockstar shuts down Discord server trying to port GTA 6 to PC"
+    }
+  ],
+  "status": "draft",
+  "body": [
+    {
+      "type": "p",
+      "text": "O Project Leonida, o principal esforço da comunidade para rodar GTA 6 no PC a partir da build vazada do Xbox, acabou poucas horas depois de mostrar o maior avanço. O servidor de Discord do projeto sumiu, o repositório original no GitHub também, e o líder anunciou que está saindo. GamesRadar, Eurogamer e Insider Gaming contam o caso. A autoria da derrubada ainda é uma alegação: a Rockstar não comentou publicamente.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O avanço que durou poucas horas",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Tudo começou quando o vazador Cyberleek liberou o arquivo executável da build do Xbox que havia compartilhado na semana anterior. Segundo a GamesRadar, os desenvolvedores do Leonida não esperavam que as coisas funcionassem de imediato, mas horas depois uma atualização no Discord dizia que o jogo quase iniciava, com tela preta e áudio cortado.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Nas horas seguintes, o progresso aumentou. Um vídeo compartilhado no Reddit, aparentemente publicado no servidor do projeto, parece mostrar a sequência de abertura e a configuração inicial do jogo rodando no PC. O Eurogamer descreve o resultado de forma mais contida: o jogo chega à tela de configuração inicial e logo depois cai em uma tela preta. O site chama o resultado de pouco impressionante, mas feito em poucas horas depois do vazamento da build.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que aconteceu com o projeto",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com as três matérias, o servidor do Discord, que era o centro das atividades, desapareceu, e o repositório do projeto no GitHub também sumiu. A GamesRadar nota que cópias feitas por outras pessoas continuam no ar. O Eurogamer afirma que o servidor reunia uma equipe de modders voluntários que usava ferramentas de inteligência artificial para recompilar a build.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O líder do projeto, que diz ser um jovem de 15 anos, anunciou no X que estava saindo, pediu desculpas e agradeceu à comunidade. Ele escreveu que quer criar coisas legais, mas que sempre acontece algo que foge ao controle dele. Em outro post, afirmou que a derrubada do servidor pela Rockstar foi apenas parte do motivo, e que conciliar escola e esportes já é difícil sem ter adultos reclamando com ele no Discord. O Insider Gaming acrescenta que ele disse ter sido banido do Discord por dois anos.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que se sabe e o que é alegação",
+      "items": []
+    },
+    {
+      "type": "list",
+      "text": "",
+      "items": [
+        "A Rockstar teria derrubado o servidor: isso vem do relato do próprio líder e é tratado como alegação (allegedly) pela GamesRadar e pelo Eurogamer.",
+        "A Rockstar não comentou publicamente nem a liberação da build do Xbox, segundo o Eurogamer.",
+        "A Rockstar não anunciou GTA 6 para PC. Um relatório sugere que a versão oficial chegue no início de 2027, antes do que se esperava, segundo Eurogamer e Insider Gaming; o Eurogamer fala em primeiro trimestre."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Outros projetos continuam",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A saída do Leonida pode não ser o fim da história. O Eurogamer lembra que a liberação da build completa criou vários outros grupos, e que um site dedicado a acompanhar o andamento deles, o PortWatch VI, reúne dados quase todos informados pelos próprios participantes. Alguns times parecem ter tido avanços relevantes por conta própria.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A GamesRadar cita um desses projetos, que disse que o jogo inicia, roda os menus a 30 fps e carrega o mundo, onde a renderização falha. Nenhum deles funciona ainda. O site espera muitas derrubadas nos próximos dias e semanas, embora seja muito difícil apagar por completo algo que já foi publicado na internet.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Por que isso importa",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Insider Gaming avalia que a derrubada de um projeto proeminente não deve impedir os outros, e que o interesse tende a crescer, principalmente com as ferramentas de IA disponíveis para muita gente. O jogo está só no PS5 e no Xbox Series X|S, e o site lembra que, como aconteceu com GTA 5 em 2013, jogadores de PC se sentiram deixados de lado. Mesmo com os relatos de uma versão oficial em 2027, a ideia não parece ter bastado para parte do público.",
+      "items": []
+    }
+  ]
+}
