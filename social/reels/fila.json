@@ -15901,7 +15901,7 @@
     "slug": "gta6-corte-maximilian-dood-5",
     "data": "2026-11-24",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Maximilian_DOOD jogando GTA 6\n📺 twitch.tv/maximilian_dood\n\n#gta6 #gtavi #maximilian_dood #pixelzada",
     "tentativas": 0,
@@ -15924,6 +15924,19 @@
       "motivo": "streamer falando e gameplay de jogo de ação com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T12:11:36-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T17:03:02-03:00",
+      "media_id": "18232781116329393",
+      "permalink": "https://www.instagram.com/reel/DgIxMs8j3m1/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
