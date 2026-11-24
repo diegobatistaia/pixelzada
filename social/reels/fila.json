@@ -15649,7 +15649,7 @@
     "slug": "gta6-corte-zerkaa",
     "data": "2026-11-24",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Zerkaa jogando GTA 6\n📺 twitch.tv/zerkaa\n\n#gta6 #gtavi #zerkaa #pixelzada",
     "tentativas": 0,
@@ -15672,6 +15672,19 @@
       "motivo": "apresenta apenas um streamer com camiseta e gameplay de painel de controle, sem conteúdo sugestivo",
       "por": "imagem",
       "em": "2026-11-22T13:39:33-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T11:04:08-03:00",
+      "media_id": "17916733002554062",
+      "permalink": "https://www.instagram.com/reel/DgIIIR6gjam/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
