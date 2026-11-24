@@ -11,6 +11,8 @@ permissions:
 
 jobs:
   vozes:
+    # PAUSADO pelo Diego 24/11: não gerar voz do Gemini até ele mandar retomar
+    if: false
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:

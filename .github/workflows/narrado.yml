@@ -30,6 +30,8 @@ jobs:
           echo "eps=$(python3 -c 'import json,sys; print(json.dumps(sys.argv[1:]))' $E)" >> $GITHUB_OUTPUT
 
   video:
+    # PAUSADO pelo Diego 24/11: não gerar voz do Gemini até ele mandar retomar
+    if: false
     needs: lista
     runs-on: ubuntu-latest
     timeout-minutes: 90
