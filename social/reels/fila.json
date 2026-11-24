@@ -15523,7 +15523,7 @@
     "slug": "gta6-corte-cohhcarnage-2",
     "data": "2026-11-24",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 CohhCarnage jogando GTA 6\n📺 twitch.tv/cohhcarnage\n\n#gta6 #gtavi #cohhcarnage #pixelzada",
     "tentativas": 0,
@@ -15546,6 +15546,19 @@
       "motivo": "apresenta streamer e gameplay comum de jogo",
       "por": "imagem",
       "em": "2026-11-22T14:12:50-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T08:02:37-03:00",
+      "media_id": "18202555957387393",
+      "permalink": "https://www.instagram.com/reel/DgHzWbbjQ-H/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
