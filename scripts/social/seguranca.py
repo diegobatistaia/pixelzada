@@ -124,7 +124,7 @@ def folha_quadros(video: Path, destino: Path, n: int = 8) -> Path | None:
 def conferir_visual(video: Path) -> dict:
     """{"risco": alto|medio|baixo|desconhecido, "motivo": ...}
 
-    Usa o Gemini (segredo GEMINI_API_KEY, o mesmo da voz dos vídeos longos). O GitHub
+    Usa o Gemini (segredo GEMINI_API_KEY_GRATIS, projeto SEM faturamento; nunca a chave paga). O GitHub
     Models responde só "OK" para este repositório (16/11; os títulos automáticos também
     nunca saíram dele), então fica como segunda opção."""
     with tempfile.TemporaryDirectory() as tmp:

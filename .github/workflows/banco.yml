@@ -50,7 +50,7 @@ jobs:
       matrix:
         canal: ${{ fromJSON(needs.preparar.outputs.canais) }}
     env:
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_GRATIS || secrets.GEMINI_API_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY_GRATIS }}  # SÓ a chave grátis; nunca a paga (Diego, 24/11)
       TWITCH_CLIENT_ID_PIXELZADA: ${{ secrets.TWITCH_CLIENT_ID_PIXELZADA }}
       TWITCH_CLIENT_SECRET_PIXELZADA: ${{ secrets.TWITCH_CLIENT_SECRET_PIXELZADA }}
     steps:
