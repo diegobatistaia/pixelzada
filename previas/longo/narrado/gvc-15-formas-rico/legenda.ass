@@ -50,504 +50,504 @@ Dialogue: 2,0:00:12.71,0:00:14.91,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(12
 Dialogue: 2,0:00:12.96,0:00:14.91,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}de ficar rico
 Dialogue: 2,0:00:37.50,0:00:41.10,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}GUIA VICE CITY
 Dialogue: 2,0:00:37.70,0:00:41.10,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}guia novo toda semana às 17h
-Dialogue: 0,0:00:48.40,0:00:51.41,Legenda,,0,0,0,,Número quinze: a lojinha de conveniência.
-Dialogue: 0,0:00:51.43,0:00:53.74,Legenda,,0,0,0,,A Rockstar mostrou isso logo no primeiro
-Dialogue: 0,0:00:53.76,0:00:56.17,Legenda,,0,0,0,,trailer: Jason e Lucia entrando de máscara
-Dialogue: 0,0:00:56.19,0:00:56.87,Legenda,,0,0,0,,numa loja.
-Dialogue: 0,0:00:56.89,0:00:59.70,Legenda,,0,0,0,,E sim, dá pra fazer isso desde o capítulo um.
-Dialogue: 0,0:00:59.72,0:01:00.80,Legenda,,0,0,0,,O problema: paga pouco.
-Dialogue: 0,0:01:00.82,0:01:01.96,Legenda,,0,0,0,,Fica na casa das centenas por loja.
-Dialogue: 0,0:01:01.98,0:01:04.60,Legenda,,0,0,0,,Então pensa assim: lojinha não é pra ficar
-Dialogue: 0,0:01:04.62,0:01:07.06,Legenda,,0,0,0,,rico, é pra pagar a gasolina do começo.
-Dialogue: 0,0:01:07.08,0:01:09.66,Legenda,,0,0,0,,Minha dica: escolhe lojas longe do centro, na
-Dialogue: 0,0:01:09.68,0:01:10.74,Legenda,,0,0,0,,beira da estrada.
-Dialogue: 0,0:01:10.76,0:01:12.66,Legenda,,0,0,0,,A polícia demora mais pra chegar, e você sai
-Dialogue: 0,0:01:12.68,0:01:14.14,Legenda,,0,0,0,,com duas estrelas, não com cinco.
-Dialogue: 0,0:01:14.16,0:01:17.27,Legenda,,0,0,0,,E um detalhe que pouca gente usa: com a Lucia
-Dialogue: 0,0:01:17.29,0:01:20.47,Legenda,,0,0,0,,junto, um rende o caixa enquanto o outro vigia
-Dialogue: 0,0:01:20.49,0:01:21.19,Legenda,,0,0,0,,a porta.
-Dialogue: 0,0:01:21.21,0:01:23.35,Legenda,,0,0,0,,Sai mais rápido, e mais rápido é menos
-Dialogue: 0,0:01:23.37,0:01:23.93,Legenda,,0,0,0,,polícia.
-Dialogue: 1,0:00:48.55,0:00:53.43,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:00:53.68,0:00:58.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:00:58.81,0:01:03.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:03.94,0:01:08.82,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:09.07,0:01:13.94,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:14.19,0:01:19.07,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:19.32,0:01:24.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 0,0:00:48.40,0:00:51.44,Legenda,,0,0,0,,Número quinze: a lojinha de conveniência.
+Dialogue: 0,0:00:51.46,0:00:53.76,Legenda,,0,0,0,,A Rockstar mostrou isso logo no primeiro
+Dialogue: 0,0:00:53.78,0:00:56.19,Legenda,,0,0,0,,trailer: Jason e Lucia entrando de máscara
+Dialogue: 0,0:00:56.21,0:00:56.89,Legenda,,0,0,0,,numa loja.
+Dialogue: 0,0:00:56.91,0:01:00.73,Legenda,,0,0,0,,E sim, dá pra fazer isso desde o capítulo um.
+Dialogue: 0,0:01:00.75,0:01:01.78,Legenda,,0,0,0,,O problema: paga pouco.
+Dialogue: 0,0:01:01.80,0:01:04.14,Legenda,,0,0,0,,Fica na casa das centenas por loja.
+Dialogue: 0,0:01:04.16,0:01:06.86,Legenda,,0,0,0,,Então pensa assim: lojinha não é pra ficar
+Dialogue: 0,0:01:06.88,0:01:09.39,Legenda,,0,0,0,,rico, é pra pagar a gasolina do começo.
+Dialogue: 0,0:01:09.41,0:01:12.55,Legenda,,0,0,0,,Minha dica: escolhe lojas longe do centro, na
+Dialogue: 0,0:01:12.57,0:01:13.87,Legenda,,0,0,0,,beira da estrada.
+Dialogue: 0,0:01:13.89,0:01:16.75,Legenda,,0,0,0,,A polícia demora mais pra chegar, e você sai
+Dialogue: 0,0:01:16.77,0:01:18.96,Legenda,,0,0,0,,com duas estrelas, não com cinco.
+Dialogue: 0,0:01:18.98,0:01:21.88,Legenda,,0,0,0,,E um detalhe que pouca gente usa: com a Lucia
+Dialogue: 0,0:01:21.90,0:01:24.86,Legenda,,0,0,0,,junto, um rende o caixa enquanto o outro vigia
+Dialogue: 0,0:01:24.88,0:01:25.53,Legenda,,0,0,0,,a porta.
+Dialogue: 0,0:01:25.55,0:01:28.23,Legenda,,0,0,0,,Sai mais rápido, e mais rápido é menos
+Dialogue: 0,0:01:28.25,0:01:28.95,Legenda,,0,0,0,,polícia.
+Dialogue: 1,0:00:48.55,0:00:54.15,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:00:54.40,0:00:59.99,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:00.24,0:01:05.84,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:06.09,0:01:11.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:11.93,0:01:17.53,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:17.78,0:01:23.38,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:23.63,0:01:29.22,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
 Dialogue: 5,0:00:48.09,0:00:48.71,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
 Dialogue: 5,0:00:48.13,0:00:48.75,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
 Dialogue: 5,0:00:48.18,0:00:48.80,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:00:48.40,0:01:24.30,Capitulo,,0,0,0,,{\fad(300,300)}15. LOJINHA DE CONVENIÊNCIA
+Dialogue: 1,0:00:48.40,0:01:29.32,Capitulo,,0,0,0,,{\fad(300,300)}15. LOJINHA DE CONVENIÊNCIA
 Dialogue: 2,0:00:48.55,0:00:52.15,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#15 LOJINHA
 Dialogue: 2,0:00:48.75,0:00:52.15,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}centenas de dólares
-Dialogue: 2,0:01:07.23,0:01:10.83,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}LONGE DO CENTRO
-Dialogue: 2,0:01:07.43,0:01:10.83,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}polícia demora mais
-Dialogue: 0,0:01:24.30,0:01:26.94,Legenda,,0,0,0,,Número catorze: o dinheiro escondido nos bicos
-Dialogue: 0,0:01:26.96,0:01:27.64,Legenda,,0,0,0,,do começo.
-Dialogue: 0,0:01:27.66,0:01:29.23,Legenda,,0,0,0,,Essa quase ninguém percebe.
-Dialogue: 0,0:01:29.25,0:01:31.76,Legenda,,0,0,0,,Nos serviços do capítulo um, o jogo esconde
-Dialogue: 0,0:01:31.78,0:01:34.40,Legenda,,0,0,0,,dinheiro em lugares que você não é obrigado a
-Dialogue: 0,0:01:34.42,0:01:34.89,Legenda,,0,0,0,,olhar.
-Dialogue: 0,0:01:34.91,0:01:37.23,Legenda,,0,0,0,,Grade de ventilação na parede, sala dos
-Dialogue: 0,0:01:37.25,0:01:39.78,Legenda,,0,0,0,,fundos, bilhete com código em cima da mesa.
-Dialogue: 0,0:01:39.80,0:01:41.39,Legenda,,0,0,0,,Tem gente achando mais de mil dólares num
-Dialogue: 0,0:01:41.41,0:01:42.41,Legenda,,0,0,0,,único esconderijo desses.
-Dialogue: 0,0:01:42.43,0:01:45.92,Legenda,,0,0,0,,Então a regra é: terminou o objetivo?
-Dialogue: 0,0:01:45.94,0:01:48.16,Legenda,,0,0,0,,Antes de sair, dá uma volta no cômodo.
-Dialogue: 0,0:01:48.18,0:01:48.92,Legenda,,0,0,0,,Lê o bilhete.
-Dialogue: 0,0:01:48.94,0:01:50.16,Legenda,,0,0,0,,Olha atrás do balcão.
-Dialogue: 0,0:01:50.18,0:01:52.63,Legenda,,0,0,0,,Eu sei que dá vontade de correr pra próxima
-Dialogue: 0,0:01:52.65,0:01:53.17,Legenda,,0,0,0,,missão.
-Dialogue: 0,0:01:53.19,0:01:55.86,Legenda,,0,0,0,,Mas pensa: são trinta segundos de busca contra
-Dialogue: 0,0:01:55.88,0:01:57.18,Legenda,,0,0,0,,mil dólares no bolso.
-Dialogue: 0,0:01:57.20,0:01:59.81,Legenda,,0,0,0,,No começo do jogo, isso é o seu primeiro carro
-Dialogue: 0,0:01:59.83,0:02:00.18,Legenda,,0,0,0,,bom.
-Dialogue: 1,0:01:24.45,0:01:31.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:31.70,0:01:38.70,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:38.95,0:01:45.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:46.20,0:01:53.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:01:53.45,0:02:00.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:01:23.99,0:01:24.61,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:01:24.03,0:01:24.65,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:01:24.08,0:01:24.70,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:01:24.30,0:02:00.55,Capitulo,,0,0,0,,{\fad(300,300)}14. DINHEIRO ESCONDIDO
-Dialogue: 2,0:01:24.45,0:01:28.05,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#14 DINHEIRO ESCONDIDO
-Dialogue: 2,0:01:24.65,0:01:28.05,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}grade, sala dos fundos, bilhete
-Dialogue: 2,0:01:42.58,0:01:46.18,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}+ DE $1.000
-Dialogue: 2,0:01:42.78,0:01:46.18,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}num esconderijo só
-Dialogue: 0,0:02:00.55,0:02:03.21,Legenda,,0,0,0,,Número treze: caça no interior.
-Dialogue: 0,0:02:03.23,0:02:05.79,Legenda,,0,0,0,,Essa é pra quem gosta de jogar com calma.
-Dialogue: 0,0:02:05.81,0:02:08.65,Legenda,,0,0,0,,No capítulo dois abre a caça no interior de
-Dialogue: 0,0:02:08.67,0:02:09.34,Legenda,,0,0,0,,Leonida.
-Dialogue: 0,0:02:09.36,0:02:12.26,Legenda,,0,0,0,,Você caça o animal e vende a peça.
-Dialogue: 0,0:02:12.28,0:02:15.66,Legenda,,0,0,0,,O detalhe que muda tudo: o preço depende do
-Dialogue: 0,0:02:15.68,0:02:17.14,Legenda,,0,0,0,,estado do animal.
-Dialogue: 0,0:02:17.16,0:02:20.28,Legenda,,0,0,0,,Bicho em boas condições vale de quinhentos a
-Dialogue: 0,0:02:20.30,0:02:21.55,Legenda,,0,0,0,,alguns milhares.
-Dialogue: 0,0:02:21.57,0:02:24.26,Legenda,,0,0,0,,Bicho estragado vale quase nada.
-Dialogue: 0,0:02:24.28,0:02:25.96,Legenda,,0,0,0,,Então nada de metralhadora: arma de precisão,
-Dialogue: 0,0:02:25.98,0:02:26.46,Legenda,,0,0,0,,um tiro só.
-Dialogue: 0,0:02:26.48,0:02:29.26,Legenda,,0,0,0,,Isso aqui ainda está em uma fonte só, tá?
-Dialogue: 0,0:02:29.28,0:02:31.84,Legenda,,0,0,0,,Eu marquei pra conferir.
-Dialogue: 0,0:02:31.86,0:02:35.22,Legenda,,0,0,0,,E aproveita o caminho: a estrada de terra no
-Dialogue: 0,0:02:35.24,0:02:38.24,Legenda,,0,0,0,,interior é ótima pra treinar direção de
-Dialogue: 0,0:02:38.26,0:02:41.55,Legenda,,0,0,0,,picape, que você vai precisar lá na frente.
-Dialogue: 0,0:02:41.57,0:02:44.52,Legenda,,0,0,0,,Leva sempre munição sobrando, porque animal
-Dialogue: 0,0:02:44.54,0:02:47.56,Legenda,,0,0,0,,assustado corre, e correr atrás dele no mato
-Dialogue: 0,0:02:47.58,0:02:48.52,Legenda,,0,0,0,,gasta tempo.
-Dialogue: 1,0:02:00.70,0:02:10.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:10.37,0:02:19.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:20.04,0:02:29.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:02:29.71,0:02:39.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:02:39.38,0:02:48.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:02:00.24,0:02:00.86,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:00.28,0:02:00.90,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:00.33,0:02:00.95,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:02:00.55,0:02:48.89,Capitulo,,0,0,0,,{\fad(300,300)}13. CAÇA NO INTERIOR
-Dialogue: 2,0:02:00.70,0:02:04.30,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#13 CAÇA
-Dialogue: 2,0:02:00.90,0:02:04.30,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}capítulo 2
-Dialogue: 2,0:02:17.31,0:02:20.91,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$500 A MILHARES
-Dialogue: 2,0:02:17.51,0:02:20.91,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}bicho inteiro vale mais
-Dialogue: 0,0:02:48.89,0:02:52.80,Legenda,,0,0,0,,Número doze: o derby de demolição em Ambrosia.
-Dialogue: 0,0:02:52.82,0:02:55.73,Legenda,,0,0,0,,Se você é bom de volante, olha essa.
-Dialogue: 0,0:02:55.75,0:02:57.52,Legenda,,0,0,0,,No autódromo de Ambrosia tem derby de
-Dialogue: 0,0:02:57.54,0:02:59.36,Legenda,,0,0,0,,demolição: é bater até sobrar só você.
-Dialogue: 0,0:02:59.38,0:03:03.58,Legenda,,0,0,0,,Cada vitória paga na faixa de quatro a seis
-Dialogue: 0,0:03:03.60,0:03:07.34,Legenda,,0,0,0,,mil, e a prova dura uns cinco minutos.
-Dialogue: 0,0:03:07.36,0:03:10.62,Legenda,,0,0,0,,Faz a conta: dá pra tirar dezenas de milhares
-Dialogue: 0,0:03:10.64,0:03:13.98,Legenda,,0,0,0,,numa tarde, sem polícia, e sem risco de perder
-Dialogue: 0,0:03:14.00,0:03:14.53,Legenda,,0,0,0,,nada.
-Dialogue: 0,0:03:14.55,0:03:17.54,Legenda,,0,0,0,,O segredo do derby é não ser o primeiro a
-Dialogue: 0,0:03:17.56,0:03:18.15,Legenda,,0,0,0,,bater.
-Dialogue: 0,0:03:18.17,0:03:21.00,Legenda,,0,0,0,,Deixa os outros se destruírem no começo, fica
-Dialogue: 0,0:03:21.02,0:03:23.72,Legenda,,0,0,0,,rodando pela borda da arena, e só entra pra
-Dialogue: 0,0:03:23.74,0:03:26.38,Legenda,,0,0,0,,valer quando sobrarem dois ou três carros.
-Dialogue: 0,0:03:26.40,0:03:28.05,Legenda,,0,0,0,,Funciona quase sempre.
-Dialogue: 1,0:02:49.04,0:02:56.70,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:02:56.95,0:03:04.61,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:04.86,0:03:12.51,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:12.76,0:03:20.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:20.67,0:03:28.32,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:02:48.58,0:02:49.20,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:48.62,0:02:49.24,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:02:48.67,0:02:49.29,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:02:48.89,0:03:28.42,Capitulo,,0,0,0,,{\fad(300,300)}12. DERBY DE DEMOLIÇÃO
-Dialogue: 2,0:02:49.04,0:02:52.64,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#12 DERBY
-Dialogue: 2,0:02:49.24,0:02:52.64,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}autódromo de Ambrosia
-Dialogue: 2,0:02:59.53,0:03:03.13,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$4 MIL A $6 MIL
-Dialogue: 2,0:02:59.73,0:03:03.13,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por vitória
-Dialogue: 0,0:03:28.42,0:03:31.37,Legenda,,0,0,0,,Número onze: os esconderijos de gangue no
-Dialogue: 0,0:03:31.39,0:03:32.11,Legenda,,0,0,0,,pântano.
-Dialogue: 0,0:03:32.13,0:03:34.85,Legenda,,0,0,0,,No pântano de Grassrivers e perto das Keys,
-Dialogue: 0,0:03:34.87,0:03:37.70,Legenda,,0,0,0,,tem esconderijo de gangue em cabana de pesca.
-Dialogue: 0,0:03:37.72,0:03:40.50,Legenda,,0,0,0,,Você limpa o lugar e leva a mercadoria.
-Dialogue: 0,0:03:40.52,0:03:43.18,Legenda,,0,0,0,,As fontes divergem no valor: uns falam em
-Dialogue: 0,0:03:43.20,0:03:45.56,Legenda,,0,0,0,,centenas, outros em até dois mil por
-Dialogue: 0,0:03:45.58,0:03:46.48,Legenda,,0,0,0,,esconderijo.
-Dialogue: 0,0:03:46.50,0:03:47.57,Legenda,,0,0,0,,Meu conselho: vai com rifle, e de barco.
-Dialogue: 0,0:03:47.59,0:03:51.43,Legenda,,0,0,0,,Chegar pela água te dá visão de todo mundo
-Dialogue: 0,0:03:51.45,0:03:53.49,Legenda,,0,0,0,,antes deles te verem.
-Dialogue: 0,0:03:53.51,0:03:55.92,Legenda,,0,0,0,,E já que a gente está em um terço do vídeo, me
-Dialogue: 0,0:03:55.94,0:03:58.21,Legenda,,0,0,0,,conta aí nos comentários: quanto dinheiro o
-Dialogue: 0,0:03:58.23,0:03:59.35,Legenda,,0,0,0,,seu Jason tem agora?
-Dialogue: 0,0:03:59.37,0:04:01.79,Legenda,,0,0,0,,Quero ver quem está rico e quem está quebrado.
-Dialogue: 1,0:03:28.57,0:03:35.07,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:35.32,0:03:41.82,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:03:42.07,0:03:48.57,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:03:48.82,0:03:55.32,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
-Dialogue: 1,0:03:55.57,0:04:02.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:03:28.11,0:03:28.73,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:03:28.15,0:03:28.77,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:03:28.20,0:03:28.82,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:03:28.42,0:04:02.16,Capitulo,,0,0,0,,{\fad(300,300)}11. ESCONDERIJOS NO PÂNTANO
-Dialogue: 2,0:03:28.57,0:03:32.17,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#11 PÂNTANO
-Dialogue: 2,0:03:28.77,0:03:32.17,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Grassrivers
-Dialogue: 2,0:03:53.66,0:03:57.26,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}COMENTA AÍ
-Dialogue: 2,0:03:53.86,0:03:57.26,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}quanto o seu Jason tem?
-Dialogue: 0,0:04:02.16,0:04:05.31,Legenda,,0,0,0,,Número dez: os eventos aleatórios.
-Dialogue: 0,0:04:05.33,0:04:07.35,Legenda,,0,0,0,,Anda de olho no céu e no mar.
-Dialogue: 0,0:04:07.37,0:04:09.77,Legenda,,0,0,0,,O jogo solta eventos aleatórios que valem
-Dialogue: 0,0:04:09.79,0:04:11.19,Legenda,,0,0,0,,muito mais que lojinha.
-Dialogue: 0,0:04:11.21,0:04:13.71,Legenda,,0,0,0,,Tem jogador vendo avião de contrabando cair
-Dialogue: 0,0:04:13.73,0:04:16.33,Legenda,,0,0,0,,perto da ponte, e barco explodindo no mar com
-Dialogue: 0,0:04:16.35,0:04:17.32,Legenda,,0,0,0,,pacote boiando.
-Dialogue: 0,0:04:17.34,0:04:19.46,Legenda,,0,0,0,,Um barco desses pode render de mil e
-Dialogue: 0,0:04:19.48,0:04:21.60,Legenda,,0,0,0,,quinhentos a dois mil em mercadoria.
-Dialogue: 0,0:04:21.62,0:04:24.80,Legenda,,0,0,0,,Você pega, guarda, e vende no receptador.
-Dialogue: 0,0:04:24.82,0:04:26.98,Legenda,,0,0,0,,Que é justamente a próxima dica.
-Dialogue: 0,0:04:27.00,0:04:29.34,Legenda,,0,0,0,,E aqui vai uma dica de quem perdeu muito
-Dialogue: 0,0:04:29.36,0:04:31.70,Legenda,,0,0,0,,tempo: não fica rodando o mapa esperando
-Dialogue: 0,0:04:31.72,0:04:32.75,Legenda,,0,0,0,,evento aparecer.
-Dialogue: 0,0:04:32.77,0:04:35.79,Legenda,,0,0,0,,Faz suas coisas normalmente, e quando o evento
-Dialogue: 0,0:04:35.81,0:04:37.52,Legenda,,0,0,0,,surgir, larga tudo e vai.
-Dialogue: 0,0:04:37.54,0:04:39.28,Legenda,,0,0,0,,Ele some se você demorar.
-Dialogue: 1,0:04:02.31,0:04:09.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:09.81,0:04:17.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:17.31,0:04:24.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:24.81,0:04:32.06,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
-Dialogue: 1,0:04:32.31,0:04:39.55,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:04:01.85,0:04:02.47,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:01.89,0:04:02.51,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:01.94,0:04:02.56,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:04:02.16,0:04:39.65,Capitulo,,0,0,0,,{\fad(300,300)}10. EVENTOS ALEATÓRIOS
-Dialogue: 2,0:04:02.31,0:04:05.91,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#10 EVENTOS
-Dialogue: 2,0:04:02.51,0:04:05.91,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}avião e barco
-Dialogue: 2,0:04:17.49,0:04:21.09,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$1.500 A $2.000
-Dialogue: 2,0:04:17.69,0:04:21.09,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por barco
-Dialogue: 0,0:04:39.65,0:04:42.61,Legenda,,0,0,0,,Número nove: o receptador e os pacotes
-Dialogue: 0,0:04:42.63,0:04:43.48,Legenda,,0,0,0,,perdidos.
-Dialogue: 0,0:04:43.50,0:04:45.33,Legenda,,0,0,0,,Anota essa que vale ouro.
-Dialogue: 0,0:04:45.35,0:04:48.52,Legenda,,0,0,0,,No capítulo um você destrava um depósito, onde
-Dialogue: 0,0:04:48.54,0:04:51.52,Legenda,,0,0,0,,pode deixar droga, joia e dinheiro marcado.
-Dialogue: 0,0:04:51.54,0:04:53.98,Legenda,,0,0,0,,Ele não paga na hora: o pagamento cai depois,
-Dialogue: 0,0:04:54.00,0:04:55.62,Legenda,,0,0,0,,na caixa de correio do Jason.
-Dialogue: 0,0:04:55.64,0:04:57.71,Legenda,,0,0,0,,E logo depois aparece o Donnie, outro
-Dialogue: 0,0:04:57.73,0:04:60.00,Legenda,,0,0,0,,receptador, que paga melhor pelos pacotes
-Dialogue: 0,0:05:00.02,0:05:01.72,Legenda,,0,0,0,,perdidos espalhados pelo mapa.
-Dialogue: 0,0:05:01.74,0:05:05.32,Legenda,,0,0,0,,Fala-se em uns novecentos dólares por pacote.
-Dialogue: 0,0:05:05.34,0:05:06.15,Legenda,,0,0,0,,O macete: junta tudo e entrega de uma vez.
-Dialogue: 0,0:05:06.17,0:05:09.93,Legenda,,0,0,0,,Ida e volta custa tempo, e tempo é dinheiro.
-Dialogue: 0,0:05:09.95,0:05:12.81,Legenda,,0,0,0,,E presta atenção: dinheiro marcado de assalto
-Dialogue: 0,0:05:12.83,0:05:15.40,Legenda,,0,0,0,,é justamente o tipo de coisa que vai pro
-Dialogue: 0,0:05:15.42,0:05:16.12,Legenda,,0,0,0,,depósito.
-Dialogue: 0,0:05:16.14,0:05:18.60,Legenda,,0,0,0,,Então, antes de sair gastando, passa no
-Dialogue: 0,0:05:18.62,0:05:21.44,Legenda,,0,0,0,,receptador e transforma aquilo em dinheiro de
-Dialogue: 0,0:05:21.46,0:05:22.08,Legenda,,0,0,0,,verdade.
-Dialogue: 1,0:04:39.80,0:04:48.11,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:48.36,0:04:56.67,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:04:56.92,0:05:05.23,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:05.48,0:05:13.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:14.04,0:05:22.35,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:04:39.34,0:04:39.96,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:39.38,0:04:40.00,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:04:39.43,0:04:40.05,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:04:39.65,0:05:22.45,Capitulo,,0,0,0,,{\fad(300,300)}9. RECEPTADOR E PACOTES
-Dialogue: 2,0:04:39.80,0:04:43.40,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#9 RECEPTADOR
-Dialogue: 2,0:04:40.00,0:04:43.40,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}depósito e Donnie
-Dialogue: 2,0:05:01.89,0:05:05.49,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}~$900
-Dialogue: 2,0:05:02.09,0:05:05.49,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por pacote
-Dialogue: 0,0:05:22.45,0:05:25.76,Legenda,,0,0,0,,Número oito: mergulho de tesouro nas Keys.
-Dialogue: 0,0:05:25.78,0:05:28.25,Legenda,,0,0,0,,Essa é a minha favorita do começo.
-Dialogue: 0,0:05:28.27,0:05:29.92,Legenda,,0,0,0,,Nas Keys tem um personagem chamado Kenton, que
-Dialogue: 0,0:05:29.94,0:05:30.97,Legenda,,0,0,0,,compra tesouro de naufrágio.
-Dialogue: 0,0:05:30.99,0:05:32.91,Legenda,,0,0,0,,No mapa aparecem pontos de mergulho.
-Dialogue: 0,0:05:32.93,0:05:35.60,Legenda,,0,0,0,,Você desce com o detector de metal, e acha de
-Dialogue: 0,0:05:35.62,0:05:37.63,Legenda,,0,0,0,,cinco a sete peças por naufrágio.
-Dialogue: 0,0:05:37.65,0:05:40.43,Legenda,,0,0,0,,O primeiro paga perto de mil e quatrocentos.
-Dialogue: 0,0:05:40.45,0:05:42.97,Legenda,,0,0,0,,Os seguintes chegam a uns quatro mil.
-Dialogue: 0,0:05:42.99,0:05:45.09,Legenda,,0,0,0,,E sem polícia, sem tiro.
-Dialogue: 0,0:05:45.11,0:05:49.08,Legenda,,0,0,0,,É o jeito mais tranquilo de começar a encher o
-Dialogue: 0,0:05:49.10,0:05:49.81,Legenda,,0,0,0,,bolso.
-Dialogue: 0,0:05:49.83,0:05:52.36,Legenda,,0,0,0,,Um conselho: compra um barco pequeno assim que
-Dialogue: 0,0:05:52.38,0:05:54.45,Legenda,,0,0,0,,puder, ou pega um emprestado no cais.
-Dialogue: 0,0:05:54.47,0:05:56.71,Legenda,,0,0,0,,Mergulho de barco é muito mais rápido do que
-Dialogue: 0,0:05:56.73,0:05:58.53,Legenda,,0,0,0,,ficar nadando da praia até o ponto.
-Dialogue: 0,0:05:58.55,0:06:01.03,Legenda,,0,0,0,,E fica de olho no fôlego: mergulho longo
-Dialogue: 0,0:06:01.05,0:06:03.77,Legenda,,0,0,0,,demais e você sobe sem terminar o naufrágio.
-Dialogue: 1,0:05:22.60,0:05:30.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:30.94,0:05:39.03,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:39.28,0:05:47.36,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:05:47.61,0:05:55.70,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:05:55.95,0:06:04.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 5,0:05:22.14,0:05:22.76,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:05:22.18,0:05:22.80,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:05:22.23,0:05:22.85,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:05:22.45,0:06:04.14,Capitulo,,0,0,0,,{\fad(300,300)}8. MERGULHO NAS KEYS
-Dialogue: 2,0:05:22.60,0:05:26.20,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#8 MERGULHO
-Dialogue: 2,0:05:22.80,0:05:26.20,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}tesouro nas Keys
-Dialogue: 2,0:05:40.60,0:05:44.20,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$1.400 A $4.000
-Dialogue: 2,0:05:40.80,0:05:44.20,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por naufrágio
-Dialogue: 0,0:06:04.14,0:06:06.82,Legenda,,0,0,0,,Número sete: a casa de penhores.
-Dialogue: 0,0:06:06.84,0:06:09.54,Legenda,,0,0,0,,No meio do capítulo dois abrem as casas de
-Dialogue: 0,0:06:09.56,0:06:10.27,Legenda,,0,0,0,,penhores.
-Dialogue: 0,0:06:10.29,0:06:13.12,Legenda,,0,0,0,,Tudo o que você pega por aí vira dinheiro, e
-Dialogue: 0,0:06:13.14,0:06:15.74,Legenda,,0,0,0,,tem relato de venda de mil até doze mil,
-Dialogue: 0,0:06:15.76,0:06:17.62,Legenda,,0,0,0,,dependendo do que você leva.
-Dialogue: 0,0:06:17.64,0:06:20.30,Legenda,,0,0,0,,Só uma fonte confirmou o valor alto, então
-Dialogue: 0,0:06:20.32,0:06:22.09,Legenda,,0,0,0,,considera isso com cuidado.
-Dialogue: 0,0:06:22.11,0:06:24.60,Legenda,,0,0,0,,Mas vale entrar e testar com o que você já tem
-Dialogue: 0,0:06:24.62,0:06:25.31,Legenda,,0,0,0,,na mochila.
-Dialogue: 0,0:06:25.33,0:06:28.27,Legenda,,0,0,0,,E se até aqui você já aprendeu pelo menos uma
-Dialogue: 0,0:06:28.29,0:06:29.69,Legenda,,0,0,0,,coisa, deixa o like.
-Dialogue: 0,0:06:29.71,0:06:32.26,Legenda,,0,0,0,,É de graça, e ajuda demais um canal que está
-Dialogue: 0,0:06:32.28,0:06:32.97,Legenda,,0,0,0,,começando.
-Dialogue: 1,0:06:04.29,0:06:11.34,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:11.59,0:06:18.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:18.89,0:06:25.94,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:26.19,0:06:33.24,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:06:03.83,0:06:04.45,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:03.87,0:06:04.49,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:03.92,0:06:04.54,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:06:04.14,0:06:33.34,Capitulo,,0,0,0,,{\fad(300,300)}7. CASA DE PENHORES
-Dialogue: 2,0:06:04.29,0:06:07.89,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#7 PENHORES
-Dialogue: 2,0:06:04.49,0:06:07.89,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}capítulo 2
-Dialogue: 2,0:06:25.48,0:06:29.08,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}DEIXA O LIKE
-Dialogue: 2,0:06:25.68,0:06:29.08,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}ajuda o canal
-Dialogue: 0,0:06:33.34,0:06:36.49,Legenda,,0,0,0,,Número seis: vender carro sem rastreador.
-Dialogue: 0,0:06:36.51,0:06:38.60,Legenda,,0,0,0,,Agora a coisa começa a ficar séria.
-Dialogue: 0,0:06:38.62,0:06:41.09,Legenda,,0,0,0,,No capítulo dois, em Port Gellhorn, você
-Dialogue: 0,0:06:41.11,0:06:43.70,Legenda,,0,0,0,,conhece o Moses, que compra carro roubado.
-Dialogue: 0,0:06:43.72,0:06:45.84,Legenda,,0,0,0,,Paga de mil a três mil por carro.
-Dialogue: 0,0:06:45.86,0:06:47.32,Legenda,,0,0,0,,Mas tem três regras.
-Dialogue: 0,0:06:47.34,0:06:49.99,Legenda,,0,0,0,,Primeira: ele não aceita carro com rastreador,
-Dialogue: 0,0:06:50.01,0:06:52.66,Legenda,,0,0,0,,e você confere isso pelo aplicativo do celular
-Dialogue: 0,0:06:52.68,0:06:53.64,Legenda,,0,0,0,,antes de levar.
-Dialogue: 0,0:06:53.66,0:06:56.71,Legenda,,0,0,0,,Segunda: não rouba perto da oficina dele, que
-Dialogue: 0,0:06:56.73,0:06:57.61,Legenda,,0,0,0,,ele recusa.
-Dialogue: 0,0:06:57.63,0:07:00.02,Legenda,,0,0,0,,Terceira: tem um tempo de espera entre uma
-Dialogue: 0,0:07:00.04,0:07:00.93,Legenda,,0,0,0,,venda e outra.
-Dialogue: 0,0:07:00.95,0:07:03.98,Legenda,,0,0,0,,Então o jeito certo é: rouba longe, confere no
-Dialogue: 0,0:07:04.00,0:07:07.03,Legenda,,0,0,0,,app, entrega, e vai fazer outra coisa enquanto
-Dialogue: 0,0:07:07.05,0:07:08.09,Legenda,,0,0,0,,o tempo passa.
-Dialogue: 0,0:07:08.11,0:07:10.31,Legenda,,0,0,0,,E aqui vai uma teoria do Leo, que eu ainda
-Dialogue: 0,0:07:10.33,0:07:12.49,Legenda,,0,0,0,,estou testando: carro esportivo parado em
-Dialogue: 0,0:07:12.51,0:07:14.81,Legenda,,0,0,0,,estacionamento de shopping costuma estar sem
-Dialogue: 0,0:07:14.83,0:07:15.50,Legenda,,0,0,0,,rastreador.
-Dialogue: 0,0:07:15.52,0:07:19.47,Legenda,,0,0,0,,Já carro de luxo na porta de mansão quase
-Dialogue: 0,0:07:19.49,0:07:20.74,Legenda,,0,0,0,,sempre tem.
-Dialogue: 0,0:07:20.76,0:07:22.04,Legenda,,0,0,0,,Começa pelos estacionamentos.
-Dialogue: 1,0:06:33.49,0:06:41.42,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:06:41.67,0:06:49.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:49.85,0:06:57.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:06:58.02,0:07:05.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:07:06.20,0:07:14.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:07:14.38,0:07:22.31,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:06:33.03,0:06:33.65,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:33.07,0:06:33.69,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:06:33.12,0:06:33.74,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:06:33.34,0:07:22.41,Capitulo,,0,0,0,,{\fad(300,300)}6. CARRO SEM RASTREADOR
-Dialogue: 2,0:06:33.49,0:06:37.09,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#6 CARRO SEM RASTREADOR
-Dialogue: 2,0:06:33.69,0:06:37.09,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Moses, Port Gellhorn
-Dialogue: 2,0:06:43.87,0:06:47.47,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$1 MIL A $3 MIL
-Dialogue: 2,0:06:44.07,0:06:47.47,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por carro
-Dialogue: 0,0:07:22.41,0:07:24.28,Legenda,,0,0,0,,Número cinco: carro de luxo por encomenda.
-Dialogue: 0,0:07:24.30,0:07:26.85,Legenda,,0,0,0,,No capítulo três o jogo dá um salto.
-Dialogue: 0,0:07:26.87,0:07:29.84,Legenda,,0,0,0,,O Randy encomenda carro de luxo, e cada um
-Dialogue: 0,0:07:29.86,0:07:31.64,Legenda,,0,0,0,,paga trinta mil ou mais.
-Dialogue: 0,0:07:31.66,0:07:34.13,Legenda,,0,0,0,,Pra isso você ganha um clonador de chave numa
-Dialogue: 0,0:07:34.15,0:07:34.90,Legenda,,0,0,0,,missão dele.
-Dialogue: 0,0:07:34.92,0:07:36.40,Legenda,,0,0,0,,Trinta mil por carro.
-Dialogue: 0,0:07:36.42,0:07:38.51,Legenda,,0,0,0,,Compara com a lojinha do começo, e você
-Dialogue: 0,0:07:38.53,0:07:40.68,Legenda,,0,0,0,,entende por que não vale perder tempo lá
-Dialogue: 0,0:07:40.70,0:07:41.13,Legenda,,0,0,0,,atrás.
-Dialogue: 0,0:07:41.15,0:07:43.83,Legenda,,0,0,0,,A minha dica aqui é: não sai batendo o carro
-Dialogue: 0,0:07:43.85,0:07:44.63,Legenda,,0,0,0,,no caminho.
-Dialogue: 0,0:07:44.65,0:07:46.44,Legenda,,0,0,0,,Carro amassado vale menos.
-Dialogue: 0,0:07:46.46,0:07:49.46,Legenda,,0,0,0,,Vai devagar, respeita o semáforo se precisar,
-Dialogue: 0,0:07:49.48,0:07:51.17,Legenda,,0,0,0,,e chega com ele inteiro.
-Dialogue: 0,0:07:51.19,0:07:54.24,Legenda,,0,0,0,,Dez minutos de paciência valem dez mil a mais.
-Dialogue: 1,0:07:22.56,0:07:28.75,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:07:29.00,0:07:35.19,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:07:35.44,0:07:41.63,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:07:41.88,0:07:48.07,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:07:48.32,0:07:54.51,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:07:22.10,0:07:22.72,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:07:22.14,0:07:22.76,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:07:22.19,0:07:22.81,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:07:22.41,0:07:54.61,Capitulo,,0,0,0,,{\fad(300,300)}5. CARRO DE LUXO
-Dialogue: 2,0:07:22.56,0:07:26.16,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#5 CARRO DE LUXO
-Dialogue: 2,0:07:22.76,0:07:26.16,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}encomendas do Randy
-Dialogue: 2,0:07:27.02,0:07:30.62,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$30 MIL+
-Dialogue: 2,0:07:27.22,0:07:30.62,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por carro
-Dialogue: 0,0:07:54.61,0:07:57.54,Legenda,,0,0,0,,Número quatro: os serviços de joalheria.
-Dialogue: 0,0:07:57.56,0:08:00.17,Legenda,,0,0,0,,Ainda no capítulo três aparece o Yasmani, com
-Dialogue: 0,0:08:00.19,0:08:01.54,Legenda,,0,0,0,,serviços de joalheria.
-Dialogue: 0,0:08:01.56,0:08:03.31,Legenda,,0,0,0,,Pagam de dez a vinte e cinco mil, às vezes
-Dialogue: 0,0:08:03.33,0:08:03.62,Legenda,,0,0,0,,mais.
-Dialogue: 0,0:08:03.64,0:08:06.59,Legenda,,0,0,0,,E de recompensa você ganha uma ferramenta pra
-Dialogue: 0,0:08:06.61,0:08:09.57,Legenda,,0,0,0,,abrir fechadura, que vai servir muito depois.
-Dialogue: 0,0:08:09.59,0:08:11.87,Legenda,,0,0,0,,Agora segura aí, porque as três melhores
-Dialogue: 0,0:08:11.89,0:08:13.53,Legenda,,0,0,0,,formas eu guardei pro final.
-Dialogue: 0,0:08:13.55,0:08:15.97,Legenda,,0,0,0,,E a número um paga mais do que as outras
-Dialogue: 0,0:08:15.99,0:08:16.98,Legenda,,0,0,0,,catorze juntas.
-Dialogue: 0,0:08:17.00,0:08:18.53,Legenda,,0,0,0,,E presta atenção no horário.
-Dialogue: 0,0:08:18.55,0:08:21.04,Legenda,,0,0,0,,Joalheria à noite tem menos gente na rua, e
-Dialogue: 0,0:08:21.06,0:08:23.72,Legenda,,0,0,0,,menos gente na rua é menos testemunha chamando
-Dialogue: 0,0:08:23.74,0:08:24.43,Legenda,,0,0,0,,a polícia.
-Dialogue: 0,0:08:24.45,0:08:27.29,Legenda,,0,0,0,,Parece detalhe, mas faz diferença na fuga.
-Dialogue: 1,0:07:54.76,0:08:02.77,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:08:03.02,0:08:11.04,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:08:11.29,0:08:19.30,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:08:19.55,0:08:27.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:07:54.30,0:07:54.92,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:07:54.34,0:07:54.96,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:07:54.39,0:07:55.01,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:07:54.61,0:08:27.66,Capitulo,,0,0,0,,{\fad(300,300)}4. JOALHERIAS
-Dialogue: 2,0:07:54.76,0:07:58.36,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#4 JOALHERIA
-Dialogue: 2,0:07:54.96,0:07:58.36,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}serviços do Yasmani
-Dialogue: 2,0:08:01.71,0:08:05.31,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$10 MIL A $25 MIL
-Dialogue: 2,0:08:01.91,0:08:05.31,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por serviço
-Dialogue: 0,0:08:27.66,0:08:31.04,Legenda,,0,0,0,,Número três: as entregas de avião com o Jason.
-Dialogue: 0,0:08:31.06,0:08:33.74,Legenda,,0,0,0,,No capítulo quatro tem relato de um piloto que
-Dialogue: 0,0:08:33.76,0:08:36.39,Legenda,,0,0,0,,oferece entregas aéreas só pro Jason, pagando
-Dialogue: 0,0:08:36.41,0:08:38.27,Legenda,,0,0,0,,de dez a vinte mil por serviço.
-Dialogue: 0,0:08:38.29,0:08:40.11,Legenda,,0,0,0,,Isso aqui é teoria do Leo, tá?
-Dialogue: 0,0:08:40.13,0:08:42.73,Legenda,,0,0,0,,Só uma fonte falou disso até agora, e eu ainda
-Dialogue: 0,0:08:42.75,0:08:43.86,Legenda,,0,0,0,,não vi confirmado.
-Dialogue: 0,0:08:43.88,0:08:46.13,Legenda,,0,0,0,,Se você já chegou no capítulo quatro, me conta
-Dialogue: 0,0:08:46.15,0:08:47.61,Legenda,,0,0,0,,nos comentários se é verdade.
-Dialogue: 0,0:08:47.63,0:08:49.75,Legenda,,0,0,0,,Eu fixo o comentário de quem confirmar.
-Dialogue: 1,0:08:27.81,0:08:33.18,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:08:33.43,0:08:38.79,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:08:39.04,0:08:44.41,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
-Dialogue: 1,0:08:44.66,0:08:50.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:08:27.35,0:08:27.97,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:08:27.39,0:08:28.01,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:08:27.44,0:08:28.06,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:08:27.66,0:08:50.12,Capitulo,,0,0,0,,{\fad(300,300)}3. ENTREGAS DE AVIÃO
-Dialogue: 2,0:08:27.81,0:08:31.41,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#3 AVIÃO
-Dialogue: 2,0:08:28.01,0:08:31.41,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}PALPITE: a conferir
-Dialogue: 0,0:08:50.12,0:08:53.01,Legenda,,0,0,0,,Número dois: bancos pequenos e lojas de
-Dialogue: 0,0:08:53.03,0:08:53.98,Legenda,,0,0,0,,empréstimo.
-Dialogue: 0,0:08:54.00,0:08:56.59,Legenda,,0,0,0,,Lembra que o GTA 6 é a história de um casal de
-Dialogue: 0,0:08:56.61,0:08:57.39,Legenda,,0,0,0,,assaltantes?
-Dialogue: 0,0:08:57.41,0:08:58.12,Legenda,,0,0,0,,Pois é.
-Dialogue: 0,0:08:58.14,0:09:01.00,Legenda,,0,0,0,,No meio do capítulo três abrem os assaltos a
-Dialogue: 0,0:09:01.02,0:09:03.51,Legenda,,0,0,0,,bancos pequenos e lojas de empréstimo.
-Dialogue: 0,0:09:03.53,0:09:06.00,Legenda,,0,0,0,,Pagam de cinco a quarenta e cinco mil.
-Dialogue: 0,0:09:06.02,0:09:08.68,Legenda,,0,0,0,,Anota essa que vale ouro: tem um item que
-Dialogue: 0,0:09:08.70,0:09:10.51,Legenda,,0,0,0,,bloqueia o pacote de tinta.
-Dialogue: 0,0:09:10.53,0:09:13.46,Legenda,,0,0,0,,Sem ele, parte do dinheiro sai manchado e vale
-Dialogue: 0,0:09:13.48,0:09:14.00,Legenda,,0,0,0,,menos.
-Dialogue: 0,0:09:14.02,0:09:16.15,Legenda,,0,0,0,,Com ele, você leva tudo limpo.
-Dialogue: 0,0:09:16.17,0:09:17.90,Legenda,,0,0,0,,E aqui a Lucia faz diferença: com os dois no
-Dialogue: 0,0:09:17.92,0:09:19.50,Legenda,,0,0,0,,assalto, ela ajuda a carregar as bolsas.
-Dialogue: 0,0:09:19.52,0:09:21.42,Legenda,,0,0,0,,Mais bolsa, mais dinheiro.
-Dialogue: 0,0:09:21.44,0:09:25.61,Legenda,,0,0,0,,Outra coisa: antes de entrar, olha a rota de
-Dialogue: 0,0:09:25.63,0:09:27.04,Legenda,,0,0,0,,fuga no mapa.
-Dialogue: 0,0:09:27.06,0:09:29.33,Legenda,,0,0,0,,Banco perto de ponte ou de canal é ótimo,
-Dialogue: 0,0:09:29.35,0:09:31.78,Legenda,,0,0,0,,porque dá pra fugir de barco, e, pelo que eu
-Dialogue: 0,0:09:31.80,0:09:34.33,Legenda,,0,0,0,,vi até agora, a polícia na água pega bem menos
-Dialogue: 0,0:09:34.35,0:09:35.94,Legenda,,0,0,0,,no seu pé do que no asfalto.
-Dialogue: 1,0:08:50.27,0:08:59.26,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:08:59.51,0:09:08.50,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:09:08.75,0:09:17.73,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:09:17.98,0:09:26.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:09:27.22,0:09:36.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:08:49.81,0:08:50.43,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:08:49.85,0:08:50.47,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:08:49.90,0:08:50.52,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:08:50.12,0:09:36.31,Capitulo,,0,0,0,,{\fad(300,300)}2. BANCOS PEQUENOS
-Dialogue: 2,0:08:50.27,0:08:53.87,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#2 BANCOS PEQUENOS
-Dialogue: 2,0:08:50.47,0:08:53.87,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}e lojas de empréstimo
-Dialogue: 2,0:08:58.29,0:09:01.89,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$5 MIL A $45 MIL
-Dialogue: 2,0:08:58.49,0:09:01.89,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por assalto
-Dialogue: 0,0:09:36.31,0:09:39.82,Legenda,,0,0,0,,E a número um: os cofres dos grandes bancos.
-Dialogue: 0,0:09:39.84,0:09:42.22,Legenda,,0,0,0,,No capítulo quatro, depois de uma missão
-Dialogue: 0,0:09:42.24,0:09:44.90,Legenda,,0,0,0,,opcional, você destrava os cofres dos grandes
-Dialogue: 0,0:09:44.92,0:09:46.07,Legenda,,0,0,0,,bancos de Leonida.
-Dialogue: 0,0:09:46.09,0:09:48.85,Legenda,,0,0,0,,A informação que saiu até agora fala em oito
-Dialogue: 0,0:09:48.87,0:09:51.63,Legenda,,0,0,0,,cofres, cada um pagando até duzentos e cinco
-Dialogue: 0,0:09:51.65,0:09:52.51,Legenda,,0,0,0,,mil dólares.
-Dialogue: 0,0:09:52.53,0:09:54.46,Legenda,,0,0,0,,Oito vezes duzentos mil.
-Dialogue: 0,0:09:54.48,0:09:56.75,Legenda,,0,0,0,,Isso é mais de um milhão e meio só nessa
-Dialogue: 0,0:09:56.77,0:09:57.44,Legenda,,0,0,0,,atividade.
-Dialogue: 0,0:09:57.46,0:10:00.12,Legenda,,0,0,0,,É aqui que o Jason e a Lucia viram ricos de
-Dialogue: 0,0:10:00.14,0:10:00.76,Legenda,,0,0,0,,verdade.
-Dialogue: 0,0:10:00.78,0:10:03.34,Legenda,,0,0,0,,E como a missão é opcional, muita gente vai
-Dialogue: 0,0:10:03.36,0:10:05.30,Legenda,,0,0,0,,passar direto e nunca descobrir.
-Dialogue: 0,0:10:05.32,0:10:06.87,Legenda,,0,0,0,,Não seja essa pessoa.
-Dialogue: 0,0:10:06.89,0:10:09.49,Legenda,,0,0,0,,Minha recomendação: só vai pros cofres grandes
-Dialogue: 0,0:10:09.51,0:10:12.00,Legenda,,0,0,0,,com o equipamento completo, com a ferramenta
-Dialogue: 0,0:10:12.02,0:10:14.35,Legenda,,0,0,0,,da joalheria, o bloqueador de tinta, e um
-Dialogue: 0,0:10:14.37,0:10:16.59,Legenda,,0,0,0,,carro rápido esperando do lado de fora.
-Dialogue: 0,0:10:16.61,0:10:19.04,Legenda,,0,0,0,,Tudo o que você fez nas dicas anteriores te
-Dialogue: 0,0:10:19.06,0:10:20.54,Legenda,,0,0,0,,prepara pra esse momento.
-Dialogue: 1,0:09:36.46,0:09:45.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:09:45.38,0:09:54.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:09:54.30,0:10:02.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:10:03.22,0:10:11.89,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
-Dialogue: 1,0:10:12.14,0:10:20.81,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 5,0:09:36.00,0:09:36.62,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:09:36.04,0:09:36.66,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:09:36.09,0:09:36.71,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:09:36.31,0:10:20.91,Capitulo,,0,0,0,,{\fad(300,300)}1. COFRES DOS GRANDES BANCOS
-Dialogue: 2,0:09:36.46,0:09:38.66,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H008B3DFF\shad6\4c&H40240612}#1 COFRES
-Dialogue: 2,0:09:36.71,0:09:38.66,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}grandes bancos de Leonida
-Dialogue: 2,0:09:46.24,0:09:49.84,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}ATÉ $205 MIL
-Dialogue: 2,0:09:46.44,0:09:49.84,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por cofre
-Dialogue: 0,0:10:20.91,0:10:23.47,Legenda,,0,0,0,,E a bolsa de valores, que no GTA 5 deixava
-Dialogue: 0,0:10:23.49,0:10:24.91,Legenda,,0,0,0,,todo mundo milionário?
-Dialogue: 0,0:10:24.93,0:10:27.76,Legenda,,0,0,0,,Até agora ninguém achou nada parecido no GTA
-Dialogue: 0,0:10:27.78,0:10:28.07,Legenda,,0,0,0,,6.
-Dialogue: 0,0:10:28.09,0:10:30.15,Legenda,,0,0,0,,Pode ser que não exista, pode ser que destrave
-Dialogue: 0,0:10:30.17,0:10:30.96,Legenda,,0,0,0,,mais pra frente.
-Dialogue: 0,0:10:30.98,0:10:32.39,Legenda,,0,0,0,,Isso é palpite puro.
-Dialogue: 0,0:10:32.41,0:10:34.72,Legenda,,0,0,0,,Se você achar, me avisa nos comentários, que
-Dialogue: 0,0:10:34.74,0:10:36.85,Legenda,,0,0,0,,vira vídeo aqui no canal com o seu nome.
-Dialogue: 1,0:10:21.06,0:10:26.25,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:10:26.50,0:10:31.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:10:31.93,0:10:37.12,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:10:20.60,0:10:21.22,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:10:20.64,0:10:21.26,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:10:20.69,0:10:21.31,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:10:20.91,0:10:37.22,Capitulo,,0,0,0,,{\fad(300,300)}BÔNUS: BOLSA DE VALORES
-Dialogue: 2,0:10:21.06,0:10:24.66,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}BÔNUS
-Dialogue: 2,0:10:21.26,0:10:24.66,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}PALPITE: bolsa de valores
-Dialogue: 0,0:10:37.22,0:10:39.99,Legenda,,0,0,0,,Resumindo o caminho: no começo, mergulho,
-Dialogue: 0,0:10:40.01,0:10:42.21,Legenda,,0,0,0,,receptador e eventos aleatórios.
-Dialogue: 0,0:10:42.23,0:10:45.35,Legenda,,0,0,0,,No meio, carro sem rastreador e carro de luxo.
-Dialogue: 0,0:10:45.37,0:10:48.32,Legenda,,0,0,0,,No fim, joalheria, banco pequeno e os cofres
-Dialogue: 0,0:10:48.34,0:10:49.02,Legenda,,0,0,0,,grandes.
-Dialogue: 0,0:10:49.04,0:10:51.36,Legenda,,0,0,0,,E a regra de ouro: não torra dinheiro com
-Dialogue: 0,0:10:51.38,0:10:53.07,Legenda,,0,0,0,,carro e roupa no capítulo um.
-Dialogue: 0,0:10:53.09,0:10:55.37,Legenda,,0,0,0,,Guarda, porque o que paga de verdade vem
-Dialogue: 0,0:10:55.39,0:10:55.90,Legenda,,0,0,0,,depois.
-Dialogue: 0,0:10:55.92,0:10:58.18,Legenda,,0,0,0,,Se esse guia te salvou, deixa o like e me
-Dialogue: 0,0:10:58.20,0:11:00.67,Legenda,,0,0,0,,conta nos comentários qual foi a melhor dica.
-Dialogue: 0,0:11:00.69,0:11:03.29,Legenda,,0,0,0,,No próximo vídeo, às cinco da tarde, tem: as
-Dialogue: 0,0:11:03.31,0:11:06.02,Legenda,,0,0,0,,vinte coisas que ninguém te conta no começo do
-Dialogue: 0,0:11:06.04,0:11:06.53,Legenda,,0,0,0,,GTA 6.
-Dialogue: 0,0:11:06.55,0:11:08.03,Legenda,,0,0,0,,Se inscreve pra não perder.
-Dialogue: 0,0:11:08.05,0:11:08.92,Legenda,,0,0,0,,Aqui é o Leo.
-Dialogue: 0,0:11:08.94,0:11:10.77,Legenda,,0,0,0,,Até lá, cidadão de Leonida.
-Dialogue: 1,0:10:37.37,0:10:45.60,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 1,0:10:45.85,0:10:54.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
-Dialogue: 1,0:10:54.33,0:11:02.56,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
-Dialogue: 5,0:10:36.91,0:10:37.53,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:10:36.95,0:10:37.57,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 5,0:10:37.00,0:10:37.62,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
-Dialogue: 1,0:10:37.22,0:11:11.14,Capitulo,,0,0,0,,{\fad(300,300)}RESUMO
-Dialogue: 2,0:10:56.07,0:10:59.67,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LIKE + COMENTÁRIO
-Dialogue: 2,0:10:56.27,0:10:59.67,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}qual foi a melhor dica?
+Dialogue: 2,0:01:09.56,0:01:13.16,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}LONGE DO CENTRO
+Dialogue: 2,0:01:09.76,0:01:13.16,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}polícia demora mais
+Dialogue: 0,0:01:29.32,0:01:32.60,Legenda,,0,0,0,,Número catorze: o dinheiro escondido nos bicos
+Dialogue: 0,0:01:32.62,0:01:33.47,Legenda,,0,0,0,,do começo.
+Dialogue: 0,0:01:33.49,0:01:35.39,Legenda,,0,0,0,,Essa quase ninguém percebe.
+Dialogue: 0,0:01:35.41,0:01:37.71,Legenda,,0,0,0,,Nos serviços do capítulo um, o jogo esconde
+Dialogue: 0,0:01:37.73,0:01:40.12,Legenda,,0,0,0,,dinheiro em lugares que você não é obrigado a
+Dialogue: 0,0:01:40.14,0:01:40.58,Legenda,,0,0,0,,olhar.
+Dialogue: 0,0:01:40.60,0:01:43.07,Legenda,,0,0,0,,Grade de ventilação na parede, sala dos
+Dialogue: 0,0:01:43.09,0:01:45.80,Legenda,,0,0,0,,fundos, bilhete com código em cima da mesa.
+Dialogue: 0,0:01:45.82,0:01:48.20,Legenda,,0,0,0,,Tem gente achando mais de mil dólares num
+Dialogue: 0,0:01:48.22,0:01:49.73,Legenda,,0,0,0,,único esconderijo desses.
+Dialogue: 0,0:01:49.75,0:01:52.49,Legenda,,0,0,0,,Então a regra é: terminou o objetivo?
+Dialogue: 0,0:01:52.51,0:01:55.01,Legenda,,0,0,0,,Antes de sair, dá uma volta no cômodo.
+Dialogue: 0,0:01:55.03,0:01:56.11,Legenda,,0,0,0,,Lê o bilhete.
+Dialogue: 0,0:01:56.13,0:01:57.48,Legenda,,0,0,0,,Olha atrás do balcão.
+Dialogue: 0,0:01:57.50,0:01:59.67,Legenda,,0,0,0,,Eu sei que dá vontade de correr pra próxima
+Dialogue: 0,0:01:59.69,0:02:00.15,Legenda,,0,0,0,,missão.
+Dialogue: 0,0:02:00.17,0:02:03.33,Legenda,,0,0,0,,Mas pensa: são trinta segundos de busca contra
+Dialogue: 0,0:02:03.35,0:02:04.89,Legenda,,0,0,0,,mil dólares no bolso.
+Dialogue: 0,0:02:04.91,0:02:07.68,Legenda,,0,0,0,,No começo do jogo, isso é o seu primeiro carro
+Dialogue: 0,0:02:07.70,0:02:08.07,Legenda,,0,0,0,,bom.
+Dialogue: 1,0:01:29.47,0:01:37.05,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:37.30,0:01:44.87,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:45.12,0:01:52.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:01:52.94,0:02:00.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:00.77,0:02:08.34,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:01:29.01,0:01:29.63,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:29.05,0:01:29.67,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:01:29.10,0:01:29.72,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:01:29.32,0:02:08.44,Capitulo,,0,0,0,,{\fad(300,300)}14. DINHEIRO ESCONDIDO
+Dialogue: 2,0:01:29.47,0:01:33.07,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#14 DINHEIRO ESCONDIDO
+Dialogue: 2,0:01:29.67,0:01:33.07,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}grade, sala dos fundos, bilhete
+Dialogue: 2,0:01:49.90,0:01:53.50,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}+ DE $1.000
+Dialogue: 2,0:01:50.10,0:01:53.50,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}num esconderijo só
+Dialogue: 0,0:02:08.44,0:02:11.10,Legenda,,0,0,0,,Número treze: caça no interior.
+Dialogue: 0,0:02:11.12,0:02:13.68,Legenda,,0,0,0,,Essa é pra quem gosta de jogar com calma.
+Dialogue: 0,0:02:13.70,0:02:16.55,Legenda,,0,0,0,,No capítulo dois abre a caça no interior de
+Dialogue: 0,0:02:16.57,0:02:17.23,Legenda,,0,0,0,,Leonida.
+Dialogue: 0,0:02:17.25,0:02:20.15,Legenda,,0,0,0,,Você caça o animal e vende a peça.
+Dialogue: 0,0:02:20.17,0:02:23.55,Legenda,,0,0,0,,O detalhe que muda tudo: o preço depende do
+Dialogue: 0,0:02:23.57,0:02:25.03,Legenda,,0,0,0,,estado do animal.
+Dialogue: 0,0:02:25.05,0:02:28.17,Legenda,,0,0,0,,Bicho em boas condições vale de quinhentos a
+Dialogue: 0,0:02:28.19,0:02:29.44,Legenda,,0,0,0,,alguns milhares.
+Dialogue: 0,0:02:29.46,0:02:32.15,Legenda,,0,0,0,,Bicho estragado vale quase nada.
+Dialogue: 0,0:02:32.17,0:02:33.85,Legenda,,0,0,0,,Então nada de metralhadora: arma de precisão,
+Dialogue: 0,0:02:33.87,0:02:34.35,Legenda,,0,0,0,,um tiro só.
+Dialogue: 0,0:02:34.37,0:02:37.15,Legenda,,0,0,0,,Isso aqui ainda está em uma fonte só, tá?
+Dialogue: 0,0:02:37.17,0:02:39.73,Legenda,,0,0,0,,Eu marquei pra conferir.
+Dialogue: 0,0:02:39.75,0:02:43.11,Legenda,,0,0,0,,E aproveita o caminho: a estrada de terra no
+Dialogue: 0,0:02:43.13,0:02:46.13,Legenda,,0,0,0,,interior é ótima pra treinar direção de
+Dialogue: 0,0:02:46.15,0:02:49.44,Legenda,,0,0,0,,picape, que você vai precisar lá na frente.
+Dialogue: 0,0:02:49.46,0:02:52.41,Legenda,,0,0,0,,Leva sempre munição sobrando, porque animal
+Dialogue: 0,0:02:52.43,0:02:55.45,Legenda,,0,0,0,,assustado corre, e correr atrás dele no mato
+Dialogue: 0,0:02:55.47,0:02:56.41,Legenda,,0,0,0,,gasta tempo.
+Dialogue: 1,0:02:08.59,0:02:18.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:18.26,0:02:27.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:02:27.93,0:02:37.35,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:37.60,0:02:47.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:02:47.27,0:02:56.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:02:08.13,0:02:08.75,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:08.17,0:02:08.79,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:08.22,0:02:08.84,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:02:08.44,0:02:56.78,Capitulo,,0,0,0,,{\fad(300,300)}13. CAÇA NO INTERIOR
+Dialogue: 2,0:02:08.59,0:02:12.19,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#13 CAÇA
+Dialogue: 2,0:02:08.79,0:02:12.19,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}capítulo 2
+Dialogue: 2,0:02:25.20,0:02:28.80,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$500 A MILHARES
+Dialogue: 2,0:02:25.40,0:02:28.80,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}bicho inteiro vale mais
+Dialogue: 0,0:02:56.78,0:03:00.69,Legenda,,0,0,0,,Número doze: o derby de demolição em Ambrosia.
+Dialogue: 0,0:03:00.71,0:03:03.62,Legenda,,0,0,0,,Se você é bom de volante, olha essa.
+Dialogue: 0,0:03:03.64,0:03:05.41,Legenda,,0,0,0,,No autódromo de Ambrosia tem derby de
+Dialogue: 0,0:03:05.43,0:03:07.25,Legenda,,0,0,0,,demolição: é bater até sobrar só você.
+Dialogue: 0,0:03:07.27,0:03:11.47,Legenda,,0,0,0,,Cada vitória paga na faixa de quatro a seis
+Dialogue: 0,0:03:11.49,0:03:15.23,Legenda,,0,0,0,,mil, e a prova dura uns cinco minutos.
+Dialogue: 0,0:03:15.25,0:03:18.52,Legenda,,0,0,0,,Faz a conta: dá pra tirar dezenas de milhares
+Dialogue: 0,0:03:18.54,0:03:21.87,Legenda,,0,0,0,,numa tarde, sem polícia, e sem risco de perder
+Dialogue: 0,0:03:21.89,0:03:22.42,Legenda,,0,0,0,,nada.
+Dialogue: 0,0:03:22.44,0:03:25.43,Legenda,,0,0,0,,O segredo do derby é não ser o primeiro a
+Dialogue: 0,0:03:25.45,0:03:26.04,Legenda,,0,0,0,,bater.
+Dialogue: 0,0:03:26.06,0:03:28.89,Legenda,,0,0,0,,Deixa os outros se destruírem no começo, fica
+Dialogue: 0,0:03:28.91,0:03:31.61,Legenda,,0,0,0,,rodando pela borda da arena, e só entra pra
+Dialogue: 0,0:03:31.63,0:03:34.27,Legenda,,0,0,0,,valer quando sobrarem dois ou três carros.
+Dialogue: 0,0:03:34.29,0:03:35.94,Legenda,,0,0,0,,Funciona quase sempre.
+Dialogue: 1,0:02:56.93,0:03:04.59,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:04.84,0:03:12.50,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:12.75,0:03:20.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:20.65,0:03:28.31,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:28.56,0:03:36.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:02:56.47,0:02:57.09,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:56.51,0:02:57.13,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:02:56.56,0:02:57.18,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:02:56.78,0:03:36.31,Capitulo,,0,0,0,,{\fad(300,300)}12. DERBY DE DEMOLIÇÃO
+Dialogue: 2,0:02:56.93,0:03:00.53,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#12 DERBY
+Dialogue: 2,0:02:57.13,0:03:00.53,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}autódromo de Ambrosia
+Dialogue: 2,0:03:07.42,0:03:11.02,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$4 MIL A $6 MIL
+Dialogue: 2,0:03:07.62,0:03:11.02,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por vitória
+Dialogue: 0,0:03:36.31,0:03:39.26,Legenda,,0,0,0,,Número onze: os esconderijos de gangue no
+Dialogue: 0,0:03:39.28,0:03:40.00,Legenda,,0,0,0,,pântano.
+Dialogue: 0,0:03:40.02,0:03:42.74,Legenda,,0,0,0,,No pântano de Grassrivers e perto das Keys,
+Dialogue: 0,0:03:42.76,0:03:45.59,Legenda,,0,0,0,,tem esconderijo de gangue em cabana de pesca.
+Dialogue: 0,0:03:45.61,0:03:48.39,Legenda,,0,0,0,,Você limpa o lugar e leva a mercadoria.
+Dialogue: 0,0:03:48.41,0:03:51.07,Legenda,,0,0,0,,As fontes divergem no valor: uns falam em
+Dialogue: 0,0:03:51.09,0:03:53.45,Legenda,,0,0,0,,centenas, outros em até dois mil por
+Dialogue: 0,0:03:53.47,0:03:54.37,Legenda,,0,0,0,,esconderijo.
+Dialogue: 0,0:03:54.39,0:03:55.46,Legenda,,0,0,0,,Meu conselho: vai com rifle, e de barco.
+Dialogue: 0,0:03:55.48,0:03:59.32,Legenda,,0,0,0,,Chegar pela água te dá visão de todo mundo
+Dialogue: 0,0:03:59.34,0:04:01.38,Legenda,,0,0,0,,antes deles te verem.
+Dialogue: 0,0:04:01.40,0:04:03.82,Legenda,,0,0,0,,E já que a gente está em um terço do vídeo, me
+Dialogue: 0,0:04:03.84,0:04:06.10,Legenda,,0,0,0,,conta aí nos comentários: quanto dinheiro o
+Dialogue: 0,0:04:06.12,0:04:07.24,Legenda,,0,0,0,,seu Jason tem agora?
+Dialogue: 0,0:04:07.26,0:04:09.69,Legenda,,0,0,0,,Quero ver quem está rico e quem está quebrado.
+Dialogue: 1,0:03:36.46,0:03:42.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:43.21,0:03:49.71,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:03:49.96,0:03:56.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:03:56.71,0:04:03.21,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:04:03.46,0:04:09.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:03:36.00,0:03:36.62,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:36.04,0:03:36.66,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:03:36.09,0:03:36.71,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:03:36.31,0:04:10.06,Capitulo,,0,0,0,,{\fad(300,300)}11. ESCONDERIJOS NO PÂNTANO
+Dialogue: 2,0:03:36.46,0:03:40.06,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#11 PÂNTANO
+Dialogue: 2,0:03:36.66,0:03:40.06,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Grassrivers
+Dialogue: 2,0:04:01.55,0:04:05.15,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}COMENTA AÍ
+Dialogue: 2,0:04:01.75,0:04:05.15,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}quanto o seu Jason tem?
+Dialogue: 0,0:04:10.06,0:04:13.20,Legenda,,0,0,0,,Número dez: os eventos aleatórios.
+Dialogue: 0,0:04:13.22,0:04:15.24,Legenda,,0,0,0,,Anda de olho no céu e no mar.
+Dialogue: 0,0:04:15.26,0:04:17.66,Legenda,,0,0,0,,O jogo solta eventos aleatórios que valem
+Dialogue: 0,0:04:17.68,0:04:19.08,Legenda,,0,0,0,,muito mais que lojinha.
+Dialogue: 0,0:04:19.10,0:04:21.60,Legenda,,0,0,0,,Tem jogador vendo avião de contrabando cair
+Dialogue: 0,0:04:21.62,0:04:24.22,Legenda,,0,0,0,,perto da ponte, e barco explodindo no mar com
+Dialogue: 0,0:04:24.24,0:04:25.21,Legenda,,0,0,0,,pacote boiando.
+Dialogue: 0,0:04:25.23,0:04:27.35,Legenda,,0,0,0,,Um barco desses pode render de mil e
+Dialogue: 0,0:04:27.37,0:04:29.49,Legenda,,0,0,0,,quinhentos a dois mil em mercadoria.
+Dialogue: 0,0:04:29.51,0:04:32.69,Legenda,,0,0,0,,Você pega, guarda, e vende no receptador.
+Dialogue: 0,0:04:32.71,0:04:34.87,Legenda,,0,0,0,,Que é justamente a próxima dica.
+Dialogue: 0,0:04:34.89,0:04:37.23,Legenda,,0,0,0,,E aqui vai uma dica de quem perdeu muito
+Dialogue: 0,0:04:37.25,0:04:39.60,Legenda,,0,0,0,,tempo: não fica rodando o mapa esperando
+Dialogue: 0,0:04:39.62,0:04:40.64,Legenda,,0,0,0,,evento aparecer.
+Dialogue: 0,0:04:40.66,0:04:43.68,Legenda,,0,0,0,,Faz suas coisas normalmente, e quando o evento
+Dialogue: 0,0:04:43.70,0:04:45.41,Legenda,,0,0,0,,surgir, larga tudo e vai.
+Dialogue: 0,0:04:45.43,0:04:47.17,Legenda,,0,0,0,,Ele some se você demorar.
+Dialogue: 1,0:04:10.21,0:04:17.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:17.70,0:04:24.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:25.20,0:04:32.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:32.70,0:04:39.95,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 1
+Dialogue: 1,0:04:40.20,0:04:47.44,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:04:09.75,0:04:10.37,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:09.79,0:04:10.41,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:09.84,0:04:10.46,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:10.06,0:04:47.54,Capitulo,,0,0,0,,{\fad(300,300)}10. EVENTOS ALEATÓRIOS
+Dialogue: 2,0:04:10.21,0:04:13.81,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#10 EVENTOS
+Dialogue: 2,0:04:10.41,0:04:13.81,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}avião e barco
+Dialogue: 2,0:04:25.38,0:04:28.98,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$1.500 A $2.000
+Dialogue: 2,0:04:25.58,0:04:28.98,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por barco
+Dialogue: 0,0:04:47.54,0:04:50.50,Legenda,,0,0,0,,Número nove: o receptador e os pacotes
+Dialogue: 0,0:04:50.52,0:04:51.37,Legenda,,0,0,0,,perdidos.
+Dialogue: 0,0:04:51.39,0:04:53.22,Legenda,,0,0,0,,Anota essa que vale ouro.
+Dialogue: 0,0:04:53.24,0:04:56.41,Legenda,,0,0,0,,No capítulo um você destrava um depósito, onde
+Dialogue: 0,0:04:56.43,0:04:59.41,Legenda,,0,0,0,,pode deixar droga, joia e dinheiro marcado.
+Dialogue: 0,0:04:59.43,0:05:01.87,Legenda,,0,0,0,,Ele não paga na hora: o pagamento cai depois,
+Dialogue: 0,0:05:01.89,0:05:03.51,Legenda,,0,0,0,,na caixa de correio do Jason.
+Dialogue: 0,0:05:03.53,0:05:05.60,Legenda,,0,0,0,,E logo depois aparece o Donnie, outro
+Dialogue: 0,0:05:05.62,0:05:07.89,Legenda,,0,0,0,,receptador, que paga melhor pelos pacotes
+Dialogue: 0,0:05:07.91,0:05:09.61,Legenda,,0,0,0,,perdidos espalhados pelo mapa.
+Dialogue: 0,0:05:09.63,0:05:13.21,Legenda,,0,0,0,,Fala-se em uns novecentos dólares por pacote.
+Dialogue: 0,0:05:13.23,0:05:14.04,Legenda,,0,0,0,,O macete: junta tudo e entrega de uma vez.
+Dialogue: 0,0:05:14.06,0:05:17.82,Legenda,,0,0,0,,Ida e volta custa tempo, e tempo é dinheiro.
+Dialogue: 0,0:05:17.84,0:05:20.71,Legenda,,0,0,0,,E presta atenção: dinheiro marcado de assalto
+Dialogue: 0,0:05:20.73,0:05:23.29,Legenda,,0,0,0,,é justamente o tipo de coisa que vai pro
+Dialogue: 0,0:05:23.31,0:05:24.01,Legenda,,0,0,0,,depósito.
+Dialogue: 0,0:05:24.03,0:05:26.49,Legenda,,0,0,0,,Então, antes de sair gastando, passa no
+Dialogue: 0,0:05:26.51,0:05:29.33,Legenda,,0,0,0,,receptador e transforma aquilo em dinheiro de
+Dialogue: 0,0:05:29.35,0:05:29.98,Legenda,,0,0,0,,verdade.
+Dialogue: 1,0:04:47.69,0:04:56.00,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:04:56.25,0:05:04.57,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:04.82,0:05:13.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:13.38,0:05:21.69,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:21.94,0:05:30.25,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:04:47.23,0:04:47.85,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:47.27,0:04:47.89,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:04:47.32,0:04:47.94,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:04:47.54,0:05:30.35,Capitulo,,0,0,0,,{\fad(300,300)}9. RECEPTADOR E PACOTES
+Dialogue: 2,0:04:47.69,0:04:51.29,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#9 RECEPTADOR
+Dialogue: 2,0:04:47.89,0:04:51.29,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}depósito e Donnie
+Dialogue: 2,0:05:09.78,0:05:13.38,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}~$900
+Dialogue: 2,0:05:09.98,0:05:13.38,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por pacote
+Dialogue: 0,0:05:30.35,0:05:33.65,Legenda,,0,0,0,,Número oito: mergulho de tesouro nas Keys.
+Dialogue: 0,0:05:33.67,0:05:36.15,Legenda,,0,0,0,,Essa é a minha favorita do começo.
+Dialogue: 0,0:05:36.17,0:05:37.81,Legenda,,0,0,0,,Nas Keys tem um personagem chamado Kenton, que
+Dialogue: 0,0:05:37.83,0:05:38.86,Legenda,,0,0,0,,compra tesouro de naufrágio.
+Dialogue: 0,0:05:38.88,0:05:40.80,Legenda,,0,0,0,,No mapa aparecem pontos de mergulho.
+Dialogue: 0,0:05:40.82,0:05:43.50,Legenda,,0,0,0,,Você desce com o detector de metal, e acha de
+Dialogue: 0,0:05:43.52,0:05:45.52,Legenda,,0,0,0,,cinco a sete peças por naufrágio.
+Dialogue: 0,0:05:45.54,0:05:48.32,Legenda,,0,0,0,,O primeiro paga perto de mil e quatrocentos.
+Dialogue: 0,0:05:48.34,0:05:50.86,Legenda,,0,0,0,,Os seguintes chegam a uns quatro mil.
+Dialogue: 0,0:05:50.88,0:05:52.98,Legenda,,0,0,0,,E sem polícia, sem tiro.
+Dialogue: 0,0:05:53.00,0:05:56.97,Legenda,,0,0,0,,É o jeito mais tranquilo de começar a encher o
+Dialogue: 0,0:05:56.99,0:05:57.70,Legenda,,0,0,0,,bolso.
+Dialogue: 0,0:05:57.72,0:06:00.26,Legenda,,0,0,0,,Um conselho: compra um barco pequeno assim que
+Dialogue: 0,0:06:00.28,0:06:02.34,Legenda,,0,0,0,,puder, ou pega um emprestado no cais.
+Dialogue: 0,0:06:02.36,0:06:04.60,Legenda,,0,0,0,,Mergulho de barco é muito mais rápido do que
+Dialogue: 0,0:06:04.62,0:06:06.42,Legenda,,0,0,0,,ficar nadando da praia até o ponto.
+Dialogue: 0,0:06:06.44,0:06:08.92,Legenda,,0,0,0,,E fica de olho no fôlego: mergulho longo
+Dialogue: 0,0:06:08.94,0:06:11.66,Legenda,,0,0,0,,demais e você sobe sem terminar o naufrágio.
+Dialogue: 1,0:05:30.50,0:05:38.58,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:05:38.83,0:05:46.92,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:47.17,0:05:55.25,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:05:55.50,0:06:03.59,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:03.84,0:06:11.93,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 5,0:05:30.04,0:05:30.66,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:30.08,0:05:30.70,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:05:30.13,0:05:30.75,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:05:30.35,0:06:12.03,Capitulo,,0,0,0,,{\fad(300,300)}8. MERGULHO NAS KEYS
+Dialogue: 2,0:05:30.50,0:05:34.10,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#8 MERGULHO
+Dialogue: 2,0:05:30.70,0:05:34.10,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}tesouro nas Keys
+Dialogue: 2,0:05:48.49,0:05:52.09,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$1.400 A $4.000
+Dialogue: 2,0:05:48.69,0:05:52.09,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por naufrágio
+Dialogue: 0,0:06:12.03,0:06:14.71,Legenda,,0,0,0,,Número sete: a casa de penhores.
+Dialogue: 0,0:06:14.73,0:06:17.43,Legenda,,0,0,0,,No meio do capítulo dois abrem as casas de
+Dialogue: 0,0:06:17.45,0:06:18.16,Legenda,,0,0,0,,penhores.
+Dialogue: 0,0:06:18.18,0:06:21.02,Legenda,,0,0,0,,Tudo o que você pega por aí vira dinheiro, e
+Dialogue: 0,0:06:21.04,0:06:23.63,Legenda,,0,0,0,,tem relato de venda de mil até doze mil,
+Dialogue: 0,0:06:23.65,0:06:25.51,Legenda,,0,0,0,,dependendo do que você leva.
+Dialogue: 0,0:06:25.53,0:06:28.19,Legenda,,0,0,0,,Só uma fonte confirmou o valor alto, então
+Dialogue: 0,0:06:28.21,0:06:29.98,Legenda,,0,0,0,,considera isso com cuidado.
+Dialogue: 0,0:06:30.00,0:06:32.49,Legenda,,0,0,0,,Mas vale entrar e testar com o que você já tem
+Dialogue: 0,0:06:32.51,0:06:33.21,Legenda,,0,0,0,,na mochila.
+Dialogue: 0,0:06:33.23,0:06:36.17,Legenda,,0,0,0,,E se até aqui você já aprendeu pelo menos uma
+Dialogue: 0,0:06:36.19,0:06:37.58,Legenda,,0,0,0,,coisa, deixa o like.
+Dialogue: 0,0:06:37.60,0:06:40.15,Legenda,,0,0,0,,É de graça, e ajuda demais um canal que está
+Dialogue: 0,0:06:40.17,0:06:40.86,Legenda,,0,0,0,,começando.
+Dialogue: 1,0:06:12.18,0:06:19.23,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:19.48,0:06:26.53,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:26.78,0:06:33.83,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:34.08,0:06:41.13,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:06:11.72,0:06:12.34,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:11.76,0:06:12.38,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:11.81,0:06:12.43,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:06:12.03,0:06:41.23,Capitulo,,0,0,0,,{\fad(300,300)}7. CASA DE PENHORES
+Dialogue: 2,0:06:12.18,0:06:15.78,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#7 PENHORES
+Dialogue: 2,0:06:12.38,0:06:15.78,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}capítulo 2
+Dialogue: 2,0:06:33.38,0:06:36.98,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}DEIXA O LIKE
+Dialogue: 2,0:06:33.58,0:06:36.98,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}ajuda o canal
+Dialogue: 0,0:06:41.23,0:06:44.38,Legenda,,0,0,0,,Número seis: vender carro sem rastreador.
+Dialogue: 0,0:06:44.40,0:06:46.49,Legenda,,0,0,0,,Agora a coisa começa a ficar séria.
+Dialogue: 0,0:06:46.51,0:06:48.98,Legenda,,0,0,0,,No capítulo dois, em Port Gellhorn, você
+Dialogue: 0,0:06:49.00,0:06:51.59,Legenda,,0,0,0,,conhece o Moses, que compra carro roubado.
+Dialogue: 0,0:06:51.61,0:06:53.73,Legenda,,0,0,0,,Paga de mil a três mil por carro.
+Dialogue: 0,0:06:53.75,0:06:55.21,Legenda,,0,0,0,,Mas tem três regras.
+Dialogue: 0,0:06:55.23,0:06:57.88,Legenda,,0,0,0,,Primeira: ele não aceita carro com rastreador,
+Dialogue: 0,0:06:57.90,0:07:00.55,Legenda,,0,0,0,,e você confere isso pelo aplicativo do celular
+Dialogue: 0,0:07:00.57,0:07:01.53,Legenda,,0,0,0,,antes de levar.
+Dialogue: 0,0:07:01.55,0:07:04.60,Legenda,,0,0,0,,Segunda: não rouba perto da oficina dele, que
+Dialogue: 0,0:07:04.62,0:07:05.50,Legenda,,0,0,0,,ele recusa.
+Dialogue: 0,0:07:05.52,0:07:07.91,Legenda,,0,0,0,,Terceira: tem um tempo de espera entre uma
+Dialogue: 0,0:07:07.93,0:07:08.82,Legenda,,0,0,0,,venda e outra.
+Dialogue: 0,0:07:08.84,0:07:11.87,Legenda,,0,0,0,,Então o jeito certo é: rouba longe, confere no
+Dialogue: 0,0:07:11.89,0:07:14.92,Legenda,,0,0,0,,app, entrega, e vai fazer outra coisa enquanto
+Dialogue: 0,0:07:14.94,0:07:15.98,Legenda,,0,0,0,,o tempo passa.
+Dialogue: 0,0:07:16.00,0:07:18.20,Legenda,,0,0,0,,E aqui vai uma teoria do Leo, que eu ainda
+Dialogue: 0,0:07:18.22,0:07:20.38,Legenda,,0,0,0,,estou testando: carro esportivo parado em
+Dialogue: 0,0:07:20.40,0:07:22.70,Legenda,,0,0,0,,estacionamento de shopping costuma estar sem
+Dialogue: 0,0:07:22.72,0:07:23.39,Legenda,,0,0,0,,rastreador.
+Dialogue: 0,0:07:23.41,0:07:27.37,Legenda,,0,0,0,,Já carro de luxo na porta de mansão quase
+Dialogue: 0,0:07:27.39,0:07:28.63,Legenda,,0,0,0,,sempre tem.
+Dialogue: 0,0:07:28.65,0:07:29.93,Legenda,,0,0,0,,Começa pelos estacionamentos.
+Dialogue: 1,0:06:41.38,0:06:49.31,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:06:49.56,0:06:57.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:06:57.74,0:07:05.67,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:07:05.92,0:07:13.84,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:07:14.09,0:07:22.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:07:22.27,0:07:30.20,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:06:40.92,0:06:41.54,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:40.96,0:06:41.58,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:06:41.01,0:06:41.63,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:06:41.23,0:07:30.30,Capitulo,,0,0,0,,{\fad(300,300)}6. CARRO SEM RASTREADOR
+Dialogue: 2,0:06:41.38,0:06:44.98,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#6 CARRO SEM RASTREADOR
+Dialogue: 2,0:06:41.58,0:06:44.98,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}Moses, Port Gellhorn
+Dialogue: 2,0:06:51.76,0:06:55.36,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$1 MIL A $3 MIL
+Dialogue: 2,0:06:51.96,0:06:55.36,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por carro
+Dialogue: 0,0:07:30.30,0:07:32.18,Legenda,,0,0,0,,Número cinco: carro de luxo por encomenda.
+Dialogue: 0,0:07:32.20,0:07:34.74,Legenda,,0,0,0,,No capítulo três o jogo dá um salto.
+Dialogue: 0,0:07:34.76,0:07:37.73,Legenda,,0,0,0,,O Randy encomenda carro de luxo, e cada um
+Dialogue: 0,0:07:37.75,0:07:39.53,Legenda,,0,0,0,,paga trinta mil ou mais.
+Dialogue: 0,0:07:39.55,0:07:42.02,Legenda,,0,0,0,,Pra isso você ganha um clonador de chave numa
+Dialogue: 0,0:07:42.04,0:07:42.79,Legenda,,0,0,0,,missão dele.
+Dialogue: 0,0:07:42.81,0:07:44.29,Legenda,,0,0,0,,Trinta mil por carro.
+Dialogue: 0,0:07:44.31,0:07:46.41,Legenda,,0,0,0,,Compara com a lojinha do começo, e você
+Dialogue: 0,0:07:46.43,0:07:48.57,Legenda,,0,0,0,,entende por que não vale perder tempo lá
+Dialogue: 0,0:07:48.59,0:07:49.02,Legenda,,0,0,0,,atrás.
+Dialogue: 0,0:07:49.04,0:07:51.72,Legenda,,0,0,0,,A minha dica aqui é: não sai batendo o carro
+Dialogue: 0,0:07:51.74,0:07:52.52,Legenda,,0,0,0,,no caminho.
+Dialogue: 0,0:07:52.54,0:07:54.33,Legenda,,0,0,0,,Carro amassado vale menos.
+Dialogue: 0,0:07:54.35,0:07:57.35,Legenda,,0,0,0,,Vai devagar, respeita o semáforo se precisar,
+Dialogue: 0,0:07:57.37,0:07:59.06,Legenda,,0,0,0,,e chega com ele inteiro.
+Dialogue: 0,0:07:59.08,0:08:02.13,Legenda,,0,0,0,,Dez minutos de paciência valem dez mil a mais.
+Dialogue: 1,0:07:30.45,0:07:36.64,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:07:36.89,0:07:43.08,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:07:43.33,0:07:49.52,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:07:49.77,0:07:55.96,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:07:56.21,0:08:02.40,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:07:29.99,0:07:30.61,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:07:30.03,0:07:30.65,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:07:30.08,0:07:30.70,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:07:30.30,0:08:02.50,Capitulo,,0,0,0,,{\fad(300,300)}5. CARRO DE LUXO
+Dialogue: 2,0:07:30.45,0:07:34.05,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#5 CARRO DE LUXO
+Dialogue: 2,0:07:30.65,0:07:34.05,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}encomendas do Randy
+Dialogue: 2,0:07:34.91,0:07:38.51,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$30 MIL+
+Dialogue: 2,0:07:35.11,0:07:38.51,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por carro
+Dialogue: 0,0:08:02.50,0:08:05.43,Legenda,,0,0,0,,Número quatro: os serviços de joalheria.
+Dialogue: 0,0:08:05.45,0:08:08.06,Legenda,,0,0,0,,Ainda no capítulo três aparece o Yasmani, com
+Dialogue: 0,0:08:08.08,0:08:09.43,Legenda,,0,0,0,,serviços de joalheria.
+Dialogue: 0,0:08:09.45,0:08:11.20,Legenda,,0,0,0,,Pagam de dez a vinte e cinco mil, às vezes
+Dialogue: 0,0:08:11.22,0:08:11.51,Legenda,,0,0,0,,mais.
+Dialogue: 0,0:08:11.53,0:08:14.48,Legenda,,0,0,0,,E de recompensa você ganha uma ferramenta pra
+Dialogue: 0,0:08:14.50,0:08:17.46,Legenda,,0,0,0,,abrir fechadura, que vai servir muito depois.
+Dialogue: 0,0:08:17.48,0:08:19.76,Legenda,,0,0,0,,Agora segura aí, porque as três melhores
+Dialogue: 0,0:08:19.78,0:08:21.43,Legenda,,0,0,0,,formas eu guardei pro final.
+Dialogue: 0,0:08:21.45,0:08:23.86,Legenda,,0,0,0,,E a número um paga mais do que as outras
+Dialogue: 0,0:08:23.88,0:08:24.88,Legenda,,0,0,0,,catorze juntas.
+Dialogue: 0,0:08:24.90,0:08:26.42,Legenda,,0,0,0,,E presta atenção no horário.
+Dialogue: 0,0:08:26.44,0:08:28.93,Legenda,,0,0,0,,Joalheria à noite tem menos gente na rua, e
+Dialogue: 0,0:08:28.95,0:08:31.61,Legenda,,0,0,0,,menos gente na rua é menos testemunha chamando
+Dialogue: 0,0:08:31.63,0:08:32.32,Legenda,,0,0,0,,a polícia.
+Dialogue: 0,0:08:32.34,0:08:35.19,Legenda,,0,0,0,,Parece detalhe, mas faz diferença na fuga.
+Dialogue: 1,0:08:02.65,0:08:10.66,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:08:10.91,0:08:18.93,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:08:19.18,0:08:27.19,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:08:27.44,0:08:35.46,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:08:02.19,0:08:02.81,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:08:02.23,0:08:02.85,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:08:02.28,0:08:02.90,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:08:02.50,0:08:35.56,Capitulo,,0,0,0,,{\fad(300,300)}4. JOALHERIAS
+Dialogue: 2,0:08:02.65,0:08:06.25,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#4 JOALHERIA
+Dialogue: 2,0:08:02.85,0:08:06.25,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}serviços do Yasmani
+Dialogue: 2,0:08:09.60,0:08:13.20,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$10 MIL A $25 MIL
+Dialogue: 2,0:08:09.80,0:08:13.20,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por serviço
+Dialogue: 0,0:08:35.56,0:08:38.93,Legenda,,0,0,0,,Número três: as entregas de avião com o Jason.
+Dialogue: 0,0:08:38.95,0:08:41.64,Legenda,,0,0,0,,No capítulo quatro tem relato de um piloto que
+Dialogue: 0,0:08:41.66,0:08:44.28,Legenda,,0,0,0,,oferece entregas aéreas só pro Jason, pagando
+Dialogue: 0,0:08:44.30,0:08:46.16,Legenda,,0,0,0,,de dez a vinte mil por serviço.
+Dialogue: 0,0:08:46.18,0:08:48.00,Legenda,,0,0,0,,Isso aqui é teoria do Leo, tá?
+Dialogue: 0,0:08:48.02,0:08:50.62,Legenda,,0,0,0,,Só uma fonte falou disso até agora, e eu ainda
+Dialogue: 0,0:08:50.64,0:08:51.75,Legenda,,0,0,0,,não vi confirmado.
+Dialogue: 0,0:08:51.77,0:08:54.02,Legenda,,0,0,0,,Se você já chegou no capítulo quatro, me conta
+Dialogue: 0,0:08:54.04,0:08:55.51,Legenda,,0,0,0,,nos comentários se é verdade.
+Dialogue: 0,0:08:55.53,0:08:57.64,Legenda,,0,0,0,,Eu fixo o comentário de quem confirmar.
+Dialogue: 1,0:08:35.71,0:08:41.07,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:08:41.32,0:08:46.68,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:08:46.93,0:08:52.30,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER 2
+Dialogue: 1,0:08:52.55,0:08:57.91,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:08:35.25,0:08:35.87,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:08:35.29,0:08:35.91,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:08:35.34,0:08:35.96,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:08:35.56,0:08:58.01,Capitulo,,0,0,0,,{\fad(300,300)}3. ENTREGAS DE AVIÃO
+Dialogue: 2,0:08:35.71,0:08:39.31,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#3 AVIÃO
+Dialogue: 2,0:08:35.91,0:08:39.31,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}PALPITE: a conferir
+Dialogue: 0,0:08:58.01,0:09:00.90,Legenda,,0,0,0,,Número dois: bancos pequenos e lojas de
+Dialogue: 0,0:09:00.92,0:09:01.87,Legenda,,0,0,0,,empréstimo.
+Dialogue: 0,0:09:01.89,0:09:04.48,Legenda,,0,0,0,,Lembra que o GTA 6 é a história de um casal de
+Dialogue: 0,0:09:04.50,0:09:05.29,Legenda,,0,0,0,,assaltantes?
+Dialogue: 0,0:09:05.31,0:09:06.01,Legenda,,0,0,0,,Pois é.
+Dialogue: 0,0:09:06.03,0:09:08.89,Legenda,,0,0,0,,No meio do capítulo três abrem os assaltos a
+Dialogue: 0,0:09:08.91,0:09:11.40,Legenda,,0,0,0,,bancos pequenos e lojas de empréstimo.
+Dialogue: 0,0:09:11.42,0:09:13.89,Legenda,,0,0,0,,Pagam de cinco a quarenta e cinco mil.
+Dialogue: 0,0:09:13.91,0:09:16.57,Legenda,,0,0,0,,Anota essa que vale ouro: tem um item que
+Dialogue: 0,0:09:16.59,0:09:18.40,Legenda,,0,0,0,,bloqueia o pacote de tinta.
+Dialogue: 0,0:09:18.42,0:09:21.35,Legenda,,0,0,0,,Sem ele, parte do dinheiro sai manchado e vale
+Dialogue: 0,0:09:21.37,0:09:21.89,Legenda,,0,0,0,,menos.
+Dialogue: 0,0:09:21.91,0:09:24.04,Legenda,,0,0,0,,Com ele, você leva tudo limpo.
+Dialogue: 0,0:09:24.06,0:09:25.79,Legenda,,0,0,0,,E aqui a Lucia faz diferença: com os dois no
+Dialogue: 0,0:09:25.81,0:09:27.39,Legenda,,0,0,0,,assalto, ela ajuda a carregar as bolsas.
+Dialogue: 0,0:09:27.41,0:09:29.31,Legenda,,0,0,0,,Mais bolsa, mais dinheiro.
+Dialogue: 0,0:09:29.33,0:09:33.51,Legenda,,0,0,0,,Outra coisa: antes de entrar, olha a rota de
+Dialogue: 0,0:09:33.53,0:09:34.93,Legenda,,0,0,0,,fuga no mapa.
+Dialogue: 0,0:09:34.95,0:09:37.22,Legenda,,0,0,0,,Banco perto de ponte ou de canal é ótimo,
+Dialogue: 0,0:09:37.24,0:09:39.67,Legenda,,0,0,0,,porque dá pra fugir de barco, e, pelo que eu
+Dialogue: 0,0:09:39.69,0:09:42.22,Legenda,,0,0,0,,vi até agora, a polícia na água pega bem menos
+Dialogue: 0,0:09:42.24,0:09:43.83,Legenda,,0,0,0,,no seu pé do que no asfalto.
+Dialogue: 1,0:08:58.16,0:09:07.15,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:09:07.40,0:09:16.39,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:09:16.64,0:09:25.62,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:09:25.87,0:09:34.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:09:35.11,0:09:44.10,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:08:57.70,0:08:58.32,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:08:57.74,0:08:58.36,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:08:57.79,0:08:58.41,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:08:58.01,0:09:44.20,Capitulo,,0,0,0,,{\fad(300,300)}2. BANCOS PEQUENOS
+Dialogue: 2,0:08:58.16,0:09:01.76,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00428CFF\shad6\4c&H40240612}#2 BANCOS PEQUENOS
+Dialogue: 2,0:08:58.36,0:09:01.76,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}e lojas de empréstimo
+Dialogue: 2,0:09:06.18,0:09:09.78,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}$5 MIL A $45 MIL
+Dialogue: 2,0:09:06.38,0:09:09.78,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por assalto
+Dialogue: 0,0:09:44.20,0:09:47.72,Legenda,,0,0,0,,E a número um: os cofres dos grandes bancos.
+Dialogue: 0,0:09:47.74,0:09:50.12,Legenda,,0,0,0,,No capítulo quatro, depois de uma missão
+Dialogue: 0,0:09:50.14,0:09:52.79,Legenda,,0,0,0,,opcional, você destrava os cofres dos grandes
+Dialogue: 0,0:09:52.81,0:09:53.97,Legenda,,0,0,0,,bancos de Leonida.
+Dialogue: 0,0:09:53.99,0:09:56.74,Legenda,,0,0,0,,A informação que saiu até agora fala em oito
+Dialogue: 0,0:09:56.76,0:09:59.52,Legenda,,0,0,0,,cofres, cada um pagando até duzentos e cinco
+Dialogue: 0,0:09:59.54,0:10:00.40,Legenda,,0,0,0,,mil dólares.
+Dialogue: 0,0:10:00.42,0:10:02.35,Legenda,,0,0,0,,Oito vezes duzentos mil.
+Dialogue: 0,0:10:02.37,0:10:04.64,Legenda,,0,0,0,,Isso é mais de um milhão e meio só nessa
+Dialogue: 0,0:10:04.66,0:10:05.33,Legenda,,0,0,0,,atividade.
+Dialogue: 0,0:10:05.35,0:10:08.01,Legenda,,0,0,0,,É aqui que o Jason e a Lucia viram ricos de
+Dialogue: 0,0:10:08.03,0:10:08.65,Legenda,,0,0,0,,verdade.
+Dialogue: 0,0:10:08.67,0:10:11.23,Legenda,,0,0,0,,E como a missão é opcional, muita gente vai
+Dialogue: 0,0:10:11.25,0:10:13.19,Legenda,,0,0,0,,passar direto e nunca descobrir.
+Dialogue: 0,0:10:13.21,0:10:14.76,Legenda,,0,0,0,,Não seja essa pessoa.
+Dialogue: 0,0:10:14.78,0:10:17.38,Legenda,,0,0,0,,Minha recomendação: só vai pros cofres grandes
+Dialogue: 0,0:10:17.40,0:10:19.89,Legenda,,0,0,0,,com o equipamento completo, com a ferramenta
+Dialogue: 0,0:10:19.91,0:10:22.24,Legenda,,0,0,0,,da joalheria, o bloqueador de tinta, e um
+Dialogue: 0,0:10:22.26,0:10:24.48,Legenda,,0,0,0,,carro rápido esperando do lado de fora.
+Dialogue: 0,0:10:24.50,0:10:26.94,Legenda,,0,0,0,,Tudo o que você fez nas dicas anteriores te
+Dialogue: 0,0:10:26.96,0:10:28.43,Legenda,,0,0,0,,prepara pra esse momento.
+Dialogue: 1,0:09:44.35,0:09:53.02,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:09:53.27,0:10:01.94,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:10:02.19,0:10:10.86,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:10:11.11,0:10:19.78,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · TRAILER
+Dialogue: 1,0:10:20.03,0:10:28.70,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 5,0:09:43.89,0:09:44.51,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:09:43.93,0:09:44.55,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:09:43.98,0:09:44.60,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:09:44.20,0:10:28.80,Capitulo,,0,0,0,,{\fad(300,300)}1. COFRES DOS GRANDES BANCOS
+Dialogue: 2,0:09:44.35,0:09:46.55,Grande,,0,0,0,,{\an5\pos(960,470)\fs170\fad(120,250)\fscx60\fscy60\t(0,220,\fscx100\fscy100)\1c&H008B3DFF\shad6\4c&H40240612}#1 COFRES
+Dialogue: 2,0:09:44.60,0:09:46.55,Apoio,,0,0,0,,{\an5\pos(960,615)\fad(150,250)}grandes bancos de Leonida
+Dialogue: 2,0:09:54.14,0:09:57.74,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H001AFFC6\shad6\4c&H40240612}ATÉ $205 MIL
+Dialogue: 2,0:09:54.34,0:09:57.74,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}por cofre
+Dialogue: 0,0:10:28.80,0:10:31.36,Legenda,,0,0,0,,E a bolsa de valores, que no GTA 5 deixava
+Dialogue: 0,0:10:31.38,0:10:32.80,Legenda,,0,0,0,,todo mundo milionário?
+Dialogue: 0,0:10:32.82,0:10:35.66,Legenda,,0,0,0,,Até agora ninguém achou nada parecido no GTA
+Dialogue: 0,0:10:35.68,0:10:35.96,Legenda,,0,0,0,,6.
+Dialogue: 0,0:10:35.98,0:10:38.04,Legenda,,0,0,0,,Pode ser que não exista, pode ser que destrave
+Dialogue: 0,0:10:38.06,0:10:38.85,Legenda,,0,0,0,,mais pra frente.
+Dialogue: 0,0:10:38.87,0:10:40.28,Legenda,,0,0,0,,Isso é palpite puro.
+Dialogue: 0,0:10:40.30,0:10:42.61,Legenda,,0,0,0,,Se você achar, me avisa nos comentários, que
+Dialogue: 0,0:10:42.63,0:10:44.74,Legenda,,0,0,0,,vira vídeo aqui no canal com o seu nome.
+Dialogue: 1,0:10:28.95,0:10:34.14,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:10:34.39,0:10:39.58,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:10:39.83,0:10:45.01,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:10:28.49,0:10:29.11,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:10:28.53,0:10:29.15,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:10:28.58,0:10:29.20,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:10:28.80,0:10:45.11,Capitulo,,0,0,0,,{\fad(300,300)}BÔNUS: BOLSA DE VALORES
+Dialogue: 2,0:10:28.95,0:10:32.55,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H00D6E62E\shad6\4c&H40240612}BÔNUS
+Dialogue: 2,0:10:29.15,0:10:32.55,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}PALPITE: bolsa de valores
+Dialogue: 0,0:10:45.11,0:10:47.88,Legenda,,0,0,0,,Resumindo o caminho: no começo, mergulho,
+Dialogue: 0,0:10:47.90,0:10:50.10,Legenda,,0,0,0,,receptador e eventos aleatórios.
+Dialogue: 0,0:10:50.12,0:10:53.24,Legenda,,0,0,0,,No meio, carro sem rastreador e carro de luxo.
+Dialogue: 0,0:10:53.26,0:10:56.21,Legenda,,0,0,0,,No fim, joalheria, banco pequeno e os cofres
+Dialogue: 0,0:10:56.23,0:10:56.91,Legenda,,0,0,0,,grandes.
+Dialogue: 0,0:10:56.93,0:10:59.25,Legenda,,0,0,0,,E a regra de ouro: não torra dinheiro com
+Dialogue: 0,0:10:59.27,0:11:00.96,Legenda,,0,0,0,,carro e roupa no capítulo um.
+Dialogue: 0,0:11:00.98,0:11:03.26,Legenda,,0,0,0,,Guarda, porque o que paga de verdade vem
+Dialogue: 0,0:11:03.28,0:11:03.79,Legenda,,0,0,0,,depois.
+Dialogue: 0,0:11:03.81,0:11:06.07,Legenda,,0,0,0,,Se esse guia te salvou, deixa o like e me
+Dialogue: 0,0:11:06.09,0:11:08.56,Legenda,,0,0,0,,conta nos comentários qual foi a melhor dica.
+Dialogue: 0,0:11:08.58,0:11:11.18,Legenda,,0,0,0,,No próximo vídeo, às cinco da tarde, tem: as
+Dialogue: 0,0:11:11.20,0:11:13.92,Legenda,,0,0,0,,vinte coisas que ninguém te conta no começo do
+Dialogue: 0,0:11:13.94,0:11:14.42,Legenda,,0,0,0,,GTA 6.
+Dialogue: 0,0:11:14.44,0:11:15.92,Legenda,,0,0,0,,Se inscreve pra não perder.
+Dialogue: 0,0:11:15.94,0:11:16.81,Legenda,,0,0,0,,Aqui é o Leo.
+Dialogue: 0,0:11:16.83,0:11:18.66,Legenda,,0,0,0,,Até lá, cidadão de Leonida.
+Dialogue: 1,0:10:45.26,0:10:53.49,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 1,0:10:53.74,0:11:01.97,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · OFICIAL
+Dialogue: 1,0:11:02.22,0:11:10.45,Etiqueta,,0,0,0,,{\fad(200,150)}GTA 6 · GAMEPLAY
+Dialogue: 5,0:10:44.80,0:10:45.42,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H00D6E62E\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:10:44.84,0:10:45.46,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008B3DFF\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 5,0:10:44.89,0:10:45.51,Legenda,,0,0,0,,{\an7\bord0\shad0\1c&H008C144A\move(-3100,0,2000,0)\p1}m 400 0 l 3000 0 l 2600 1080 l 0 1080{\p0}
+Dialogue: 1,0:10:45.11,0:11:19.03,Capitulo,,0,0,0,,{\fad(300,300)}RESUMO
+Dialogue: 2,0:11:03.96,0:11:07.56,Grande,,0,0,0,,{\an1\fs150\fad(100,250)\move(-30,860,110,860,0,260)\1c&H008B3DFF\shad6\4c&H40240612}LIKE + COMENTÁRIO
+Dialogue: 2,0:11:04.16,0:11:07.56,Apoio,,0,0,0,,{\an7\pos(118,878)\fad(150,250)}qual foi a melhor dica?
