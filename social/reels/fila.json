@@ -15733,7 +15733,7 @@
     "slug": "gta6-corte-gugah-gamer",
     "data": "2026-11-24",
     "horario": "13:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 gugah_gamer jogando GTA 6\n📺 twitch.tv/gugah_gamer\n\n#gta6 #gtavi #gugah_gamer #pixelzada",
     "tentativas": 0,
@@ -15756,6 +15756,19 @@
       "motivo": "streamer jogando videogame com pessoas vestidas na tela",
       "por": "imagem",
       "em": "2026-11-22T13:12:50-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T13:03:18-03:00",
+      "media_id": "17957068641300837",
+      "permalink": "https://www.instagram.com/reel/DgIVyjAkXW-/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
