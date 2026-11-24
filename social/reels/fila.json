@@ -15565,7 +15565,7 @@
     "slug": "gta6-corte-loserfruit",
     "data": "2026-11-24",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Loserfruit jogando GTA 6\n📺 twitch.tv/loserfruit\n\n#gta6 #gtavi #loserfruit #pixelzada",
     "tentativas": 0,
@@ -15588,6 +15588,19 @@
       "motivo": "apresentadora vestida em live e cenas de gameplay em barco",
       "por": "imagem",
       "em": "2026-11-22T14:12:59-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T09:03:58-03:00",
+      "media_id": "18654689326014360",
+      "permalink": "https://www.instagram.com/reel/DgH6esAgtLj/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
