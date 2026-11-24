@@ -104,6 +104,10 @@ def _voz_guardada(ep: dict, slug: str, trab: Path) -> str | None:
     for c in ep["cenas"]:
         flac = VOZES / slug / f"{c['id']}.flac"
         if d["cenas"].get(c["id"]) == _hash(c["texto"]) and flac.exists():
+            prob = _checar_voz(c, flac)
+            if prob:  # voz guardada com defeito (ex.: cena muda): narra de novo
+                print(f"  cena {c['id']}: voz guardada reprovada ({prob}); narrando de novo")
+                continue
             subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(flac),
                             "-ar", "24000", "-ac", "1", str(pasta / f"{c['id']}.wav")], check=True)
             usadas += 1
@@ -113,11 +117,62 @@ def _voz_guardada(ep: dict, slug: str, trab: Path) -> str | None:
     return d["voz"] if usadas else None
 
 
+SILENCIO_MAX = 1.5    # segundos de silêncio seguidos dentro de uma cena (normal: até ~0,8 s)
+FALA_PS = (2.5, 4.6)  # palavras por segundo contando SÓ a fala (normal: 2,8 a 3,9)
+
+
+def _silencios(wav: Path, limiar: float = 0.3) -> list[tuple[float, float]]:
+    r = subprocess.run(["ffmpeg", "-i", str(wav), "-af", f"silencedetect=noise=-40dB:d={limiar}", "-f", "null", "-"],
+                       capture_output=True, text=True).stderr
+    ini = [float(x) for x in re.findall(r"silence_start: (-?[0-9.]+)", r)]
+    dur = [float(x) for x in re.findall(r"silence_duration: ([0-9.]+)", r)]
+    return [(max(0.0, a), d) for a, d in zip(ini, dur)]
+
+
+def _checar_voz(c: dict, wav: Path) -> str | None:
+    """Barreira da voz (Diego, 24/11: vídeo 1 saiu com trechos mudos). Devolve o problema ou None.
+    Mede a FALA de verdade (sem os silêncios): um áudio meio mudo não passa mais só pela duração."""
+    try:
+        total = duracao(wav)
+    except ValueError:
+        return "áudio vazio"
+    if total < 2:
+        return f"áudio curto demais ({total:.1f}s)"
+    sil = _silencios(wav)
+    maior = max(sil, key=lambda x: x[1], default=(0.0, 0.0))
+    if maior[1] > SILENCIO_MAX:
+        return f"silêncio de {maior[1]:.1f}s a partir de {maior[0]:.1f}s"
+    fala = total - sum(d for _, d in sil)
+    ps = len(c["texto"].split()) / max(0.5, fala)
+    if not FALA_PS[0] <= ps <= FALA_PS[1]:
+        return f"ritmo fora do normal ({ps:.2f} palavras por segundo de fala; normal {FALA_PS[0]}-{FALA_PS[1]})"
+    return None
+
+
 def _ritmo_ruim(c: dict, wav: Path) -> bool:
-    """A voz do Google às vezes repete um trecho ou pula frase: ritmo fora do normal denuncia."""
-    pal = len(c["texto"].split())
-    ps = pal / max(0.5, duracao(wav))
-    return ps < 2.35 or ps > 3.9
+    """A voz do Google às vezes repete um trecho, pula frase ou devolve silêncio."""
+    prob = _checar_voz(c, wav)
+    if prob:
+        print(f"  cena {c.get('id', 'par')}: {prob}")
+    return bool(prob)
+
+
+def checar_narracao(ep: dict, trab: Path) -> dict:
+    """Checagem OBRIGATÓRIA antes de montar/entregar: toda cena tem áudio, sem silêncio longo,
+    com a fala do tamanho do texto. Se falhar, o vídeo NÃO é montado (e nada é entregue)."""
+    res = {"aprovado": True, "cenas": {}}
+    for c in ep["cenas"]:
+        a = Path(c.get("audio") or trab / "voz" / f"{c['id']}.wav")
+        prob = _checar_voz(c, a) if a.exists() else "sem áudio"
+        res["cenas"][c["id"]] = prob or "ok"
+        if prob:
+            res["aprovado"] = False
+    (trab / "verificacao.json").write_text(json.dumps(res, ensure_ascii=False, indent=1))
+    ruins = {k: v for k, v in res["cenas"].items() if v != "ok"}
+    print("== checagem da narração:", "APROVADA" if not ruins else f"REPROVADA {ruins}", flush=True)
+    if ruins:
+        raise RuntimeError(f"narração reprovada na checagem (trechos mudos ou cortados): {ruins}")
+    return res
 
 
 def _guardar_voz(ep: dict, slug: str, trab: Path, voz: str) -> None:
@@ -1041,6 +1096,8 @@ def tudo(arq: Path) -> int:
     print("== voz", flush=True)
     voz = narrar(ep, trab, slug)
     print("voz:", voz)
+    if not os.environ.get("VOZ_TESTE"):
+        checar_narracao(ep, trab)  # barreira: sem passar aqui, não monta nem entrega
     print("== planos e montagem", flush=True)
     final = trab / f"{slug}.mp4"
     montar(ep, trab, final)
@@ -1051,6 +1108,9 @@ def tudo(arq: Path) -> int:
     if not ep.get("sem_capa"):
         capa(ep, trab / "capa.jpg")
     descricao(ep, trab / "descricao.txt", inicio)
+    soma = sum(c["dur"] for c in ep["cenas"])
+    if abs(duracao(final) - soma) > 3:  # vídeo final do tamanho da narração
+        raise RuntimeError(f"vídeo final com {duracao(final):.1f}s, narração soma {soma:.1f}s")
     rel = {"voz": voz, "duracao": round(duracao(final), 1),
            "cenas": [{"id": c["id"], "dur": round(c["dur"], 2),
                       "frases": [[round(a, 2), round(b, 2)] for a, b in c["t_frases"]]} for c in ep["cenas"]]}
