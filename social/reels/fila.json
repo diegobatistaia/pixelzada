@@ -15481,7 +15481,7 @@
     "slug": "gta6-corte-ohnepixel-3",
     "data": "2026-11-24",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 ohnePixel jogando GTA 6\n📺 twitch.tv/ohnepixel\n\n#gta6 #gtavi #ohnepixel #pixelzada",
     "tentativas": 0,
@@ -15504,6 +15504,19 @@
       "motivo": "streamer vestido com fones de ouvido e gameplay espacial com pessoas vestidas",
       "por": "imagem",
       "em": "2026-11-22T15:14:47-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T07:01:52-03:00",
+      "media_id": "18104767898436821",
+      "permalink": "https://www.instagram.com/reel/DgHsZZEgGgV/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
