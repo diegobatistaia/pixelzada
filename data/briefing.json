@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T12:39:33+00:00",
+  "generated_at": "2026-11-24T14:39:40+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 2,
+  "already_written_today": 3,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,103 +42,94 @@
   ],
   "stories": [
     {
-      "story_id": "0f1b6b46c032c167",
-      "title": "Grand Theft Auto VI is Out Now",
-      "summary": "The post Grand Theft Auto VI is Out Now appeared first on XBOX Wire .",
+      "story_id": "055645d69dcb49da",
+      "title": "PS5 Games on Sale for $15 for Black Friday",
+      "summary": "",
       "owners": [
-        "adrenaline",
-        "fandom",
         "future-plc",
-        "gematsu",
-        "insider-gaming",
-        "microsoft",
+        "olhar-digital",
+        "vox-media",
         "ziff-davis"
       ],
-      "primary_owners": [
-        "microsoft"
-      ],
+      "primary_owners": [],
       "fingerprints": [
-        "3dae98970e33d47c",
-        "67ce9b201c87ef45",
-        "2dd5f5423df07ce3",
-        "d4fbbedc86b77e5d",
-        "32235f172d729791",
-        "6cd437fba496103a",
-        "3f9c7d93bc582738",
-        "5d7d5d93a441225e",
-        "889dd782921cb987",
-        "5dd6d75d0eab1afb"
+        "5947255d09e8a59c",
+        "3498286fe0ad79e6",
+        "4f30d40e073a1c5e",
+        "06daa89f90e37dcc"
       ],
       "sources": [
         {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/",
-          "title": "Grand Theft Auto VI is Out Now",
-          "published_at": "2026-11-19T14:00:00+00:00",
-          "kind": "primary",
-          "text": "",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
-        },
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
-          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-          "published_at": "2026-11-23T21:36:20+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
-        },
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/grand-theft-auto-6s-hdr-is-broken-but-these-tweaks-can-fix-it/",
-          "title": "Grand Theft Auto 6’s HDR Is Broken, But These Tweaks Can Fix It",
-          "published_at": "2026-11-23T18:16:01+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-has-a-complex-drug-network-that-tracks-everything-from-where-drugs-come-from-to-how-they-eventually-reach-the-street-level-buyer/",
-          "title": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
-          "published_at": "2026-11-22T13:25:42+00:00",
-          "kind": "press",
-          "text": "\"Having that structure in the background as something we consistently refer to helps everything feel more real.\" I've only dipped my toe into Grand Theft Auto 6 thus far, but I'm already impressed by the detail Rockstar has baked into its world. One thing I'm always curious about with games like this, however, is how much of that detail is on the surface versus what's actually happening under the hood. I'm still too early in the game to judge this for myself, but according to Rockstar, there is way more going on in terms of how NPCs behave than players will ever likely see. One striking example of this is how GTA 6 's gang compounds conduct their drug operations. In an interview with IGN , Rockstar's senior design director for its open world Steven Messinger explained that GTA 6 fully simulates drug distribution from top to bottom. \"A big part of [the open world's design] was establishing deep backstories for almost everything, even if they were never meant to be fully explained to the player, and then really sticking to those backstories,\" Messinger pointed out. \"For example, our gang compounds have a complex drug network we've fully mapped out: where the drugs come from, who brings them in and how, how they're distributed to each compound, what happens at each stop, and how they eventually reach the street-level buyer.\" Messinger notes that \"players will only pick up bits and pieces of this\". But representing this process wholesale means that, when players do notice it, it always feels authentic and believable. \"Having that structure in the background as something we consistently refer to helps everything feel more real, like this big machine is always running even when players aren't there.\" While this may only be designed for players to notice passively, I'm now keen to follow this system and see just how consistently it holds up. But it's such commitment to representing its world that has led GTA 6 to receive near-universal praise from critics, and it probably didn't hurt when it earned $3.79 billion on launch day , either. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Rick has been fascinated by PC gaming since he was seven years old, when he used to sneak into his dad's home office for covert sessions of Doom. He grew up on a diet of similarly unsuitable games, with favourites including Quake, Thief, Half-Life and Deus Ex. Between 2013 and 2022, Rick was games editor of Custom PC magazine and associated website bit-tech.net . But he's always kept one foot in freelance games journalism, writing for publications like Edge, Eurogamer, the Guardian and, naturally, PC Gamer. While he'll play anything that can be controlled with a keyboard and mouse, he has a particular passion for first-person shooters and immersive sims. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/s8f7vCvwQwKdVpYM98hjNQ-2560-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
+          "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/gta-6-car-theft-gamified",
-          "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
-          "published_at": "2026-11-23T14:58:20+00:00",
+          "url": "https://www.ign.com/articles/ps5-games-on-sale-for-15-for-black-friday",
+          "title": "PS5 Games on Sale for $15 for Black Friday",
+          "published_at": "2026-11-23T20:54:55+00:00",
           "kind": "press",
-          "text": "It's impossible to have a big game launch these days without some section of the internet, somewhere, finding grievances with the final product because it does not align with the expectations they had pre-release. The most recent upset comes in the form of Grand Theft Auto 6 's revised take on, well, grand theft auto. In case you're one of the few still unfamiliar, grand theft auto is more than the titular moniker for Rockstar's premier crime simulation series; it's actually a US legal term for the act of stealing or attempting to steal a motor vehicle. In most previous GTA entries, this was a central part of the core gameplay loop: accept a mission, nick a car, complete the mission, nick another car, getaway. It's an endemic part of the loop, and has become so popular and identifiable as such that even other games - Watch Dogs , Saint's Row, Cyberpunk 2077 , and so on - have emulated the mechanic. So it makes sense that the internet is in a bit of a spin about GTA 6's more mature and restrained take on its eponymous crime. A quick, no-frills getaway in a vehicle you've hijacked on the road isn't always the most effective option. A mindless crime spree on the streets of Leonida is not a simple thing to pull off, nor an easy thing to live down. In this game, actions have consequences, and an ill-timed or ill-judged car jacking can quickly and efficiently put an end to your criminal ambitions. That's not to say you cannot simply steal cars. Of course you can: the option to saunter up to an occupied vehicle and jack it from its registered owner is available to you from the very beginning of the game. But the citizens of Leonida aren't going to take your wanton act of foolishness lying down; many of the motorists in the county will fight back, pull a piece on you, or run you over mid-robbery attempt. Even if you are lucky to find one of the more pliant residents of the city, you might find something peculiar is happening in their car. I jacked a woman in the city over the weekend, and the cat she was ferrying from place to place decided to attack me, causing me to crash. I've heard other people say they've had muffled cries coming from the boot of the car where someone is transporting a hostage, or incidents where they've jacked the same person multiple times, leading to the poor car's owner to have a breakdown in the middle of the city. That cat event, the team here at Eurogamer has worked out, is an early game trigger - it seems stealing random cars early in the game will increase the chance of this encounter occurring. Rockstar's guiding hand is more visible here, then, in trying to teach you a lesson: don't steal cars. You're given your own - Jason's two-door coupé utility, a Vapid Creado - that I actually formed quite an emotional bond with in the opening 10-or-so hours of the game. 'Look after this car,' Rockstar insists, tutorialising you how to repair it, customise it, make it all pretty so it's in good condition when you go pick up Lucia for the first time. Shortly after the 10 hour marker, narrative events whisk you away elsewhere and you're given a 'slim jim', a long, thin tool that allows you to break into locked cars - something you could only do with a quick elbow jab before. The benefit here is two-fold; you can break into cars without setting off their alarms, and without breaking glass and lowering their resale value (something quite important in the earlier sections of the game). So, it takes you until Chapter 2 to start being able to more reliably and consistently break into vehicles. Good. And it'll take even longer to break into keyless vehicles. We're in 2026 after all, and it's heavily implied this is when GTA 6 is also set - it stands to reason that many cars run keyless fobs, and your old-school tools won't cut it if you want to break into a Zorruso, rather than an old Vapid truck. But then, even when you're well-armed and ready to start an illustrious new career as Vice City's most nefarious car thief, there's more to consider. Most modern cars also come with trackers: standard trackers simply prevent you modding cars you don't own (not an issue you'll face very often), but advanced trackers are more problematic. Boosting a car with an advanced tracker immediately alerts the cops to your location, and they close in on you fast . The only answer to this problem is flooring it, and outspeeding the signal ping the tracker is sending out: you need to drive fast and cleanly in order to stay mobile long enough for the tracker to deactivate, and this often incurs damage that makes selling these cars to fences a less viable option. You can't even sell cars with trackers installed at all to some fences until you're much, much further into the game. So, long story short, stealing cars is a faff in GTA 6. But I like that. I like that Rockstar has evolved the gameplay formula to more accurately reflect the state of the world in 2026. Modern problems require modern answers, and given that Rockstar has gone above and beyond in its creation of a sandbox simulation of Florida , I feel the immersion would be broken by just being able to saunter up to any car you want and break into it. No, needing a 'slim jim' or a key cloner - or needing to case my victims properly before trying to jack them - makes for a better game as far as I'm concerned. It makes me roleplay Jason and Lucia better, it makes me engage with the game's systems more, it makes me appreciate the cars that I do have whilst I have them. It also improves the flow of the game and how I interact with missions. I recently played GTA: Vice City , and after most missions were wrapped up, I would simply fling the nearest motorist onto the sidewalk, hop in their car, and drive away into the Malibu-styled sunset. I can't simply do that in GTA 6: I need to think about my getaway options, whether there's heat on my car, and where my next best (and cheapest) ride is going to be if a robbery or raid goes awry. 'Ah,' I think, 'I und",
-          "image": "https://assetsio.gnwcdn.com/car-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "In the olden days (a few years ago) you had to wait until the actual day of Black Friday before the killer deals would crop up. Those days are officially gone. Today, on the Monday before Black Friday official, Walmart kicked off its “ Black Friday Event 2 ,” dropping some absolutely killer deals, and Amazon is price matching most of them. Among the discounts are a bunch of PS5 games on sale for just $15. These games are excellent and not that old. So grab what you want, because you’re not likely to find them cheaper any time soon. What games are we talking? For starters, Mafia: The Old Country, an excellent single-player game that came out last year that our reviewer called “an effective return to the linear and tightly story-driven format of the original Mafia and Mafia II.” Then there’s Assassin’s Creed Shadows , in which Ubisoft’s long-running series finally goes to Japan. We gave it an 8/10 in our review , saying, “By sharpening the edges of its existing systems, Assassin’s Creed Shadows creates one of the best versions of the open-world style it’s been honing for the last decade.” Then there’s Borderlands 4 and Star Wars Outlaws and WWE 2K26, all fine games worth checking out if you haven’t already. Fifteen bucks will even get you Elden Ring, Fromsoft’s sprawling, open-world masterpiece that we gave a 10/10 in our review when it came out in 2022. That same year, we awarded it Game of the Year . Other all-time low prices can be had now as well, like AirPods Pro 3 for $149 and Metal Gear Solid Master Collection Vol 2. for $29.99 . Chris Reed is a senior commerce editor and deals expert for IGN. He also runs IGN's LEGO coverage and maintains the upcoming release dates articles for video games , LEGO sets , and 4K Blu-rays . You can follow him on Bluesky .",
+          "image": "https://assets-prd.ignimgs.com/2026/11/23/untitled-design-1795466994088.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista/",
-          "title": "Grand Theft Auto VI: The Album (Deluxe Edition) é disponibilizado",
-          "published_at": "2026-11-23T17:40:46+00:00",
+          "name": "The Verge Games",
+          "owner": "vox-media",
+          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+          "published_at": "2026-11-22T17:00:00+00:00",
           "kind": "press",
-          "text": "Trilha sonora do álbum de GTA 6 vaza na internet, revelando suas 34 músicas",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista-1.jpg"
+          "text": "Nintendo and several retailers are offering the best deals yet on a variety of Switch 2 games. Nintendo and several retailers are offering the best deals yet on a variety of Switch 2 games. If you buy something from a link, The Verge may earn a commission. See our ethics statement. Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles , Nintendo is also knocking $20 off some of the Switch 2’s best titles. Some of the most notable games include Donkey Kong Bananza , which is $49.99 (usually $69.99) at Amazon , Target , and Best Buy , and Super Mario Party Jamboree Plus Jamboree TV for $59.99 (usually $79.99) at Amazon , Walmart , and Best Buy . Amazon, Best Buy, Walmart, and GameStop are offering discounts on several more Switch 2 games, though their respective end times and availability varies. Nintendo shared that some game sales will end on November 29th. Even if deals dry up for physical games on your wishlist, digital game deals are happening through Nintendo’s eShop until 11:59 PM PT on Wednesday, December 2nd, 2026.",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0%2C3.453144302606%2C100%2C93.093711394788&w=1200"
         },
         {
-          "name": "PC Gamer",
+          "name": "Olhar Digital Games",
+          "owner": "olhar-digital",
+          "url": "https://olhardigital.com.br/2026/11/23/games-e-consoles/black-friday-playstation-2026-jogos-ps5-ps4-descontos/",
+          "title": "Black Friday PlayStation: jogos de PS5 e PS4 têm descontos de até 74%; veja preços",
+          "published_at": "2026-11-23T16:00:00+00:00",
+          "kind": "press",
+          "text": "A PlayStation anunciou uma campanha de Black Friday e fim de ano no Brasil, com descontos em jogos, acessórios e dispositivos para PS5 e PS4 . As ofertas começaram em 20 de novembro e seguem até 24 de dezembro de 2026 , nas principais redes de varejo autorizadas. Entre os destaques estão o PlayStation VR2 , com redução de R$ 700, controles DualSense com descontos de até 20% e jogos em mídia física com preços a partir de R$ 59,90. A campanha também contempla títulos recentes, como Marvel’s Wolverine , Ghost of Yōtei e Death Stranding 2: On the Beach . O PlayStation VR2 é um dos principais destaques da campanha. O dispositivo de realidade virtual para PS5 teve seu preço sugerido reduzido de R$ 3.499,90 para R$ 2.799,90 , uma economia de R$ 700. Os controles DualSense também estão com preços promocionais, incluindo modelos tradicionais e edições especiais. Confira os principais valores anunciados: Os descontos contemplam diferentes opções de cores e modelos, conforme a disponibilidade nas lojas participantes. Os jogos em mídia física também fazem parte da campanha, com descontos que chegam a 74%. O maior percentual anunciado é para LEGO Horizon Adventures , que passa a custar R$ 59,90 . Já títulos como Marvel’s Spider-Man 2 , God of War Ragnarök e The Last of Us Part I , normalmente vendidos por R$ 399,90, aparecem com preço sugerido de R$ 169,90. Confira alguns dos principais jogos em promoção: Outros jogos, como Marvel’s Spider-Man: Miles Morales , Uncharted: Coleção Legado dos Ladrões , Sackboy: Uma Grande Aventura e Death Stranding Versão do Diretor , têm preço sugerido de R$ 114,90 . A campanha inclui lançamentos recentes e edições especiais do catálogo de PS5. Segundo a PlayStation, Marvel’s Wolverine participa da campanha com desconto de até 30%. Quem ainda utiliza o PlayStation 4 também encontra ofertas na campanha. Jogos da linha PlayStation Hits, como God of War , Bloodborne , The Last of Us Remasterizado , Until Dawn e Uncharted: The Nathan Drake Collection , estão com preço sugerido de R$ 59,90 . O mesmo valor vale para Ghost of Tsushima e Death Stranding . Já God of War Ragnarök , The Last of Us Part II , Gran Turismo 7 e Days Gone aparecem por R$ 114,90 . A campanha começou em 20 de novembro e termina em 24 de dezembro de 2026 . Os descontos estão disponíveis nas principais redes de varejo autorizadas do Brasil, conforme a disponibilidade de estoque. A PlayStation ressalta que os valores divulgados são preços sugeridos ao consumidor. Portanto, podem variar de acordo com a loja, as condições de pagamento e outras promoções aplicadas pelos varejistas. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
+          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Montagem-Minimalista-Estilo-Steam-4-1.jpg"
+        },
+        {
+          "name": "GamesRadar",
           "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/the-grand-theft-auto-6-hacker-who-was-hospitalized-in-2023-has-been-released-on-parole-with-a-warning-not-to-do-it-again/",
-          "title": "The Grand Theft Auto 6 hacker who was hospitalized in 2023 has been released on parole with a warning not to do it again",
-          "published_at": "2026-11-23T21:16:03+00:00",
+          "url": "https://www.gamesradar.com/hardware/gaming-controllers/one-retailer-is-discounting-limited-edition-dualsense-controllers-better-than-the-others-this-black-friday-including-the-hard-to-find-icon-blue-version/",
+          "title": "The PS5 controller Black Friday deals are plentiful over at Currys",
+          "published_at": "2026-11-24T13:34:06+00:00",
           "kind": "press",
-          "text": "Following his guilty plea, Arion Kurtaj was given a seven-year sentence but released \"on license\" with a warning and restrictions to his online activity.. A BBC report says Arion Kurtaj, the Grand Theft Auto 6 leaker who was given an indefinite sentence in hospital in 2023 because he kept hacking into things or expressing intent to, has been released with a stern warning not to do it again. Kurtaj was sentenced to seven years in prison, according to the report, but was released on license—similar to parole in North America—the same day, with his hospital stay and time in prison while awaiting retrial credited as time served. He was given a five-year \"Serious Crime Prevention Order\" restricting his allowable online activity, including bans on using Telegram and Discord. \"Kurtaj knew what he was doing when he carried out these crimes and has finally admitted his involvement,\" Detective Inspector Mike O'Sullivan of the City of London Police said following Kurtaj's sentencing and release. \"We hope this case serves as a lesson that these types of acts will not be tolerated. \"Although cyber crime is borderless, we will seek to utilise the co-operation of partner agencies and international law enforcement to ensure that offenders are brought to justice no matter where they offend from.\" Kurtaj carried out hacks against multiple companies when he was 16 and 17 years old, including Microsoft , Samsung , Nvidia and UK telecom company BT&EE, and stole millions in cryptocurrency from individuals. But it was his hack of Rockstar and leak of GTA 6 materials more than a year before it was formally revealed, that earned him notoriety, not least because of how it was carried out: While under police protection in a Travelodge hotel room , using an Amazon Fire Stick and a mobile phone. A psychiatric assessment determined that Kurtaj had \"acute autism,\" and that he \"continued to express the intent to return to cybercrime as soon as possible\" while he was in custody. That led to his hospital sentence , but earlier this year he was found fit to stand trial and subsequently pleaded guilty to all charges . That struck me as odd—why plead guilty to crimes carried out at a time when your mental state was such that a court decided you required multiple years of institutionalization?—but this may be the answer: Kurtaj, now 21, is a free man. The judge on the case told Kurtaj he is \"a very talented young man,\" but also warned him: \"Don't let this happen again.\" Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. GTA 6 guide : One-stop info shop GTA 6 PC release : When's it happening? GTA 6 online : Is it happening? GTA 6 characters : Characters and cast GTA 6 achievements : How to check off the list Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/DHupw3zsDFv4RvF7fLXLPV-2560-80.jpg"
+          "text": "The Wolverine model is also seeing a discount right now If you've been looking to pick up a new DualSense Wireless Controller for your PS5 in the Black Friday sales, then you'll have noticed that the discounts are quite uneven. While most retailers are discounting the extras to roughly the same £43 price point, the actual models of controllers reduced vary wildly by store. There seems to be an exception, though. The Currys PlayStation Black Friday sales have struck a wide array of color models for DualSense controllers; the selection is much more varied than Amazon's, with colorways reduced that aren't discounted elsewhere. That includes the DualSense's premium versions, like the sought-after Icon Blue retro model, as well as the perhaps controversial yellow-and-black Wolverine limited edition controller. Currys' PS5 DualSense controller discounts match other retailers', but with much more selection. By my count, eight different colorways are reduced from the eleven stocked at the retailer, including the vibrant pink and camo-patterned models, as well as some standard alternatives. Some of Sony's more premium DualSense colorways are seeing discounts too: the Icon Blue and Wolverine Limited Edition models are among them. These function the same as the normal models, but with more unique designs. Not only are they not on sale at rival retailers, but some don't even stock them at full price. If you buy one of these controllers from Currys, you get an additional benefit which we'll loosely chalk up as a 'Black Friday extra'. Currys is offering two months of Apple Music, Apple Fitness+, and Apple Arcade to people who purchase one of a selected range of products, which includes the DualSense controllers. This is for new or returning subscribers to those services, and when you make the purchase, you should receive a code in your inbox. The premium DualSense controllers are functionally identical to the standard ones. Don't buy one and expect to suddenly get better at your favorite game. The real reason to buy one is to celebrate your fandom of whatever the controller is inspired by. If you loved the Wolverine game earlier this year (or, more realistically, the character), that controller might be a fun one to add to your collection. Icon Blue was part of a series Sony put out about a year ago, celebrating the cerulean tone which is closely associated with the PlayStation brand, but it was pretty hard to find stock of when it first launched. Unfortunately, other limited edition DualSense colorways aren't seeing the same level of discounts at Currys, but are a bit more affordable than their launch prices of £74.99. For example, the 007 First Light controller isn't officially reduced with a Black Friday discount, but it is sitting at £56 at the retailer . Meanwhile, Amazon has it listed for £87.99. Other limited edition DualSense colorways at Currys under that £74.99 price include the Chroma, Pearl, and Remix versions. Unsurprisingly, the GTA 6 model isn't seeing any kind of price reduction at the moment. If you're worried about buying a controller now, thinking they could get cheaper in the coming week of sales, I'd imagine that's unlikely. Most retailers reduce DualSenses to the same price each year, and we're already seeing multiple hit this £43 mark; it seems that's where they'll stay. We're keeping tabs on all the best Black Friday deals for gamers , which includes all the Black Friday PS5 deals worth going for. And if you need a PS5 controller but don't feel like you need to stick to a DualSense, we've got a round-up of the best PS5 controllers you can buy. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Tom Bedford is a contributor who's been writing about tech, gaming and entertainment for over 7 years. He was on the team at TechRadar and WhattoWatch, two of GamesRadar's sister brands, before becoming a freelance writer in late 2025. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/Fua32heeWA8vWLcPwksm6-2560-80.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "84d2ed4dbd7846a9",
+      "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
+      "summary": "Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI. Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto […]",
+      "owners": [
+        "gameblast",
+        "gematsu",
+        "meups",
+        "sony"
+      ],
+      "primary_owners": [
+        "sony"
+      ],
+      "fingerprints": [
+        "70fe98c95d67187c",
+        "5d7d5d93a441225e",
+        "0459fc6cad1d867c",
+        "475a7249f2cd2fde"
+      ],
+      "sources": [
+        {
+          "name": "PlayStation Blog BR",
+          "owner": "sony",
+          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
+          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
+          "published_at": "2026-11-24T12:51:39+00:00",
+          "kind": "primary",
+          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
+          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
         },
         {
           "name": "Gematsu",
@@ -151,24 +142,24 @@
           "image": "https://www.gematsu.com/wp-content/uploads/2026/11/GTA6-PS5-Players_11-23-26.jpg"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes/",
-          "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes",
-          "published_at": "2026-11-24T10:29:42+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.html",
+          "title": "Grand Theft Auto VI se torna o maior lançamento da história do PlayStation com mais de 39 milhões de jogadores",
+          "published_at": "2026-11-23T23:54:33+00:00",
           "kind": "press",
-          "text": "Grand Theft Auto games have always been the perfect place to let loose and cause a little chaos, with their expansive open worlds giving you plenty of freedom to do whatever you want. GTA 6 is no different, and while there’s plenty of fun to be had completing missions and planning heists, sometimes you just want to cause some mayhem, spawn vehicles, or get your hands on some easy cash. That’s where cheat codes come in. Cheats have been a staple of the Grand Theft Auto franchise for decades, and you probably remember scribbling down your favourite combinations on a piece of paper to keep them close at hand. Thankfully, GTA 6 makes things a little easier, with a range of cheats available to shake up your experience and offer some unique ways to explore Vice City. Whether you’re looking to spawn vehicles, unlock special abilities, or simply wreak havoc across the map, here’s a complete breakdown of every GTA 6 cheat code and what each one does. You can buy Grand Theft Auto 6 here if you haven’t already! There are 61 cheats to use in Grand Theft Auto 6, ranging from combat and player cheats to vehicle spawns and environmental changes. It’s important to note that these cheats can only be used after completing the main story, with most requiring you to meet certain unlock requirements. What’s more pressing, though, is that inputting any cheat code will disable trophies and achievements from unlocking , as well as saving the game—but only for the remainder of that play session. Only use these if you’re looking to kick back and mess around, as they won’t help you progress in any way. To input cheat codes in GTA 6, you’ll need to use the in-game phone by pressing up on the D-Pad, then hold L1/LB and press R1/RB followed by the cheat input. You’ll know that cheats are unlocked and usable, as a new Cheats List menu will appear under the Progress Menu. This won’t appear during the story, once again showing that you’ll need to beat the main game first. Of course, each cheat has its own input you’ll need to use, and they range from giving instant money to making you drunk—a true variety. You’ll find the full list of cheat codes below. Here’s every cheat code in Grand Theft Auto 6, including how to unlock them and what they do. Note that this list is a work in progress , with some inputs still being discovered, and a shout-out to Powerpyx for the current rundown. As we at Insider Gaming continue to make progress through the game, we’ll be sure to update the following tables accordingly. All codes require input from the D-Pad, and you’ll find the directional inputs needed below: Will you be using cheat codes in Grand Theft Auto 6? Let us know your thoughts on the Insider Gaming Discord server . For more GTA 6 content on Insider Gaming, check out how long it will take to earn the Platinum Trophy , and don’t forget to sign up for our newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here . Charlie is one of Insider Gaming's Guides Writers who's been in the gaming industry for a little over a year. Unfortunately for him, he enjoys every video game genre out…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Vice_City_24-scaled.jpg"
+          "text": "",
+          "image": ""
         },
         {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
-          "title": "Rockstar is actively shopping Read Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
-          "published_at": "2026-11-24T11:54:00+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/gta-vi-maior-lancamento-playstation-39-milhoes-jogadores/",
+          "title": "GTA VI é o maior lançamento da história da PlayStation com 39 milhões de jogadores",
+          "published_at": "2026-11-24T11:22:44+00:00",
           "kind": "press",
-          "text": "Rockstar Games is seemingly interested in expanding Red Dead Redemption beyond video games, after years of Hollywood knocking on its doors. According to a new report, the company is looking for someone to pick up the movie and TV rights for its open-world Westerner series. The information comes from a new report in The Ankler , citing agents in the know. According to the report, Rockstar wanted something in the range of $100m (£76m) as a minimum for the license to its Red Dead Redemption series of games. As the report pointed out, Amazon paid $250m (£191m) in 2017 for Lord of the Rings' TV show rights alone. Rockstar, however, is not interested in turning Grand Theft Auto into a movie or TV show, per the same report. It's not clear why the company is willing to entertain the idea for one franchise and not the other, but the vastly larger popularity of GTA (compared to RDR, at least) could explain why. It's worth noting that streamers like Netflix and Amazon have been on something of a hot streak recently with the success of shows based on popular video games, such as Fallout . HBO managed to turn The Last of Us into a prestige series that can attract both fans of the game and casual TV viewers. Indeed, many more video game-based shows are in the works, like Amazon's Tomb Raider series , its God of War adaptation , as well as FX's Far Cry anthology show . Even Call of Duty, a massive - though nowhere near as massive as GTA - franchise, is getting a live-action movie in 2028 . But none of those are as profitable or culturally-dominnant as Grand Theft Auto. GTA 6 just released, and immediately beat analyst expectations. The game made $3.79bn (£2.90bn) in revenue on day one off the back of 32.5m copies sold, making it the biggest launch of any entertainment product in history, so it's understandable why Rockstar is not too eager to turn it into a movie or TV show.",
-          "image": "https://assetsio.gnwcdn.com/rdr-2-hollywood-header-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpeg"
         }
       ]
     },
@@ -221,50 +212,52 @@
       ]
     },
     {
-      "story_id": "d3fc42c41b9c5dff",
-      "title": "PS5 Games on Sale for $15 for Black Friday",
-      "summary": "",
+      "story_id": "037cdca46de2d576",
+      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
       "owners": [
-        "olhar-digital",
-        "vox-media",
-        "ziff-davis"
+        "fandom",
+        "future-plc",
+        "microsoft"
       ],
-      "primary_owners": [],
+      "primary_owners": [
+        "microsoft"
+      ],
       "fingerprints": [
-        "5947255d09e8a59c",
-        "3498286fe0ad79e6",
-        "4f30d40e073a1c5e"
+        "67ce9b201c87ef45",
+        "99bf93c97f3c6014",
+        "ea95f89275bc7bc4"
       ],
       "sources": [
         {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/ps5-games-on-sale-for-15-for-black-friday",
-          "title": "PS5 Games on Sale for $15 for Black Friday",
-          "published_at": "2026-11-23T20:54:55+00:00",
-          "kind": "press",
-          "text": "In the olden days (a few years ago) you had to wait until the actual day of Black Friday before the killer deals would crop up. Those days are officially gone. Today, on the Monday before Black Friday official, Walmart kicked off its “ Black Friday Event 2 ,” dropping some absolutely killer deals, and Amazon is price matching most of them. Among the discounts are a bunch of PS5 games on sale for just $15. These games are excellent and not that old. So grab what you want, because you’re not likely to find them cheaper any time soon. What games are we talking? For starters, Mafia: The Old Country, an excellent single-player game that came out last year that our reviewer called “an effective return to the linear and tightly story-driven format of the original Mafia and Mafia II.” Then there’s Assassin’s Creed Shadows , in which Ubisoft’s long-running series finally goes to Japan. We gave it an 8/10 in our review , saying, “By sharpening the edges of its existing systems, Assassin’s Creed Shadows creates one of the best versions of the open-world style it’s been honing for the last decade.” Then there’s Borderlands 4 and Star Wars Outlaws and WWE 2K26, all fine games worth checking out if you haven’t already. Fifteen bucks will even get you Elden Ring, Fromsoft’s sprawling, open-world masterpiece that we gave a 10/10 in our review when it came out in 2022. That same year, we awarded it Game of the Year . Other all-time low prices can be had now as well, like AirPods Pro 3 for $149 and Metal Gear Solid Master Collection Vol 2. for $29.99 . Chris Reed is a senior commerce editor and deals expert for IGN. He also runs IGN's LEGO coverage and maintains the upcoming release dates articles for video games , LEGO sets , and 4K Blu-rays . You can follow him on Bluesky .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/23/untitled-design-1795466994088.png?width=1280&format=jpg&auto=webp&quality=80"
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
+          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+          "published_at": "2026-11-23T21:36:20+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
         },
         {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-          "published_at": "2026-11-22T17:00:00+00:00",
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-on-your-pc-or-phone-via-remote-play-on-xbox/",
+          "title": "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox",
+          "published_at": "2026-11-24T13:45:10+00:00",
           "kind": "press",
-          "text": "Nintendo and several retailers are offering the best deals yet on a variety of Switch 2 games. Nintendo and several retailers are offering the best deals yet on a variety of Switch 2 games. If you buy something from a link, The Verge may earn a commission. See our ethics statement. Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles , Nintendo is also knocking $20 off some of the Switch 2’s best titles. Some of the most notable games include Donkey Kong Bananza , which is $49.99 (usually $69.99) at Amazon , Target , and Best Buy , and Super Mario Party Jamboree Plus Jamboree TV for $59.99 (usually $79.99) at Amazon , Walmart , and Best Buy . Amazon, Best Buy, Walmart, and GameStop are offering discounts on several more Switch 2 games, though their respective end times and availability varies. Nintendo shared that some game sales will end on November 29th. Even if deals dry up for physical games on your wishlist, digital game deals are happening through Nintendo’s eShop until 11:59 PM PT on Wednesday, December 2nd, 2026.",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0%2C3.453144302606%2C100%2C93.093711394788&w=1200"
+          "text": "",
+          "image": ""
         },
         {
-          "name": "Olhar Digital Games",
-          "owner": "olhar-digital",
-          "url": "https://olhardigital.com.br/2026/11/23/games-e-consoles/black-friday-playstation-2026-jogos-ps5-ps4-descontos/",
-          "title": "Black Friday PlayStation: jogos de PS5 e PS4 têm descontos de até 74%; veja preços",
-          "published_at": "2026-11-23T16:00:00+00:00",
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+          "title": "How to get the GTA 6 BF Bandito",
+          "published_at": "2026-11-24T11:45:55+00:00",
           "kind": "press",
-          "text": "A PlayStation anunciou uma campanha de Black Friday e fim de ano no Brasil, com descontos em jogos, acessórios e dispositivos para PS5 e PS4 . As ofertas começaram em 20 de novembro e seguem até 24 de dezembro de 2026 , nas principais redes de varejo autorizadas. Entre os destaques estão o PlayStation VR2 , com redução de R$ 700, controles DualSense com descontos de até 20% e jogos em mídia física com preços a partir de R$ 59,90. A campanha também contempla títulos recentes, como Marvel’s Wolverine , Ghost of Yōtei e Death Stranding 2: On the Beach . O PlayStation VR2 é um dos principais destaques da campanha. O dispositivo de realidade virtual para PS5 teve seu preço sugerido reduzido de R$ 3.499,90 para R$ 2.799,90 , uma economia de R$ 700. Os controles DualSense também estão com preços promocionais, incluindo modelos tradicionais e edições especiais. Confira os principais valores anunciados: Os descontos contemplam diferentes opções de cores e modelos, conforme a disponibilidade nas lojas participantes. Os jogos em mídia física também fazem parte da campanha, com descontos que chegam a 74%. O maior percentual anunciado é para LEGO Horizon Adventures , que passa a custar R$ 59,90 . Já títulos como Marvel’s Spider-Man 2 , God of War Ragnarök e The Last of Us Part I , normalmente vendidos por R$ 399,90, aparecem com preço sugerido de R$ 169,90. Confira alguns dos principais jogos em promoção: Outros jogos, como Marvel’s Spider-Man: Miles Morales , Uncharted: Coleção Legado dos Ladrões , Sackboy: Uma Grande Aventura e Death Stranding Versão do Diretor , têm preço sugerido de R$ 114,90 . A campanha inclui lançamentos recentes e edições especiais do catálogo de PS5. Segundo a PlayStation, Marvel’s Wolverine participa da campanha com desconto de até 30%. Quem ainda utiliza o PlayStation 4 também encontra ofertas na campanha. Jogos da linha PlayStation Hits, como God of War , Bloodborne , The Last of Us Remasterizado , Until Dawn e Uncharted: The Nathan Drake Collection , estão com preço sugerido de R$ 59,90 . O mesmo valor vale para Ghost of Tsushima e Death Stranding . Já God of War Ragnarök , The Last of Us Part II , Gran Turismo 7 e Days Gone aparecem por R$ 114,90 . A campanha começou em 20 de novembro e termina em 24 de dezembro de 2026 . Os descontos estão disponíveis nas principais redes de varejo autorizadas do Brasil, conforme a disponibilidade de estoque. A PlayStation ressalta que os valores divulgados são preços sugeridos ao consumidor. Portanto, podem variar de acordo com a loja, as condições de pagamento e outras promoções aplicadas pelos varejistas. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
-          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Montagem-Minimalista-Estilo-Steam-4-1.jpg"
+          "text": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off While you're out stealing cars for Moses, the GTA 6 BF Bandito will appear on your list, taking you out to the very rural roads of South Leonard County and the Buckskin Swamp. This GTA 6 heist is slightly harder than the others you might have carried out so far though, as this car will be on the move. Like all of Moses' targets, the rough location of the BF Bandito is marked on the map, but as you make your way there, you'll pass by some whoopin' and hollerin' country dwellers who are already taking the buggy for a spin. Here's how to get your hands on the GTA 6 Bandito and get paid. The map marker will take you to the rough location of the BF Bandito, where you should keep your eyes and ears open for some locals riding around the swamps on buggies - one of these is the Bandito. To claim it for yourself, you'll need to stop the Bandito driver, and there are a few ways to do this. If you clock him fast enough, particularly when crossing water, you can simply get in front of him, and he'll stop. Otherwise, you can chase down the Bandito, shooting the driver and his pals. Weirdly, though, when I did this challenge, the driver eventually just stopped and bolted, leaving the buggy free for me to take, though I'm not sure exactly what triggered him to do this. Essentially, just stay close, don't destroy the car by shooting it too much, and it'll be yours in no time. If you're struggling to find some of the other GTA 6 cars that are ripe for the taking, then check I can also help you nab the Declasse Vamos , as well as Vanessa's cute GTA 6 pink Porsche - I mean, Pfister, which will be live shortly. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more After studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/kUMeVoKh7ic8eZ4Yb229iE-1920-80.jpg"
         }
       ]
     },
@@ -317,102 +310,6 @@
       ]
     },
     {
-      "story_id": "a348989c9dfaa686",
-      "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
-      "summary": "Infamous GTA 6 Leaker Cyberleek resurfaced last week , threatening to release a crucial file for the Xbox build of GTA 6 that could be used to create an unofficial PC port of the game. The hacker originally promised to publicly drop the .exe file for this version of the game depending on whether their memecoin hit a certain market cap, and has been taunting publisher Take-Two Interactive for...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "ac95af991a66f2f1",
-        "22dff3a4c5957ae6",
-        "ea95f89275bc7bc4"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/",
-          "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
-          "published_at": "2026-11-24T11:23:42+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
-          "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
-          "published_at": "2026-11-24T09:09:20+00:00",
-          "kind": "press",
-          "text": "A PC version of Grand Theft Auto 6 - one from unofficial sources, at least - may be closer than we thought. After suddenly returning last week with a near-full build of the Xbox version , notorious leaker CyberLeek has now posted the missing piece they intentionally held back: the game's executable (.exe) file. \"The exe is out. Always free. An early Christmas gift from CL,\" CyberLeek reportedly wrote, as relayed on Reddit . \"The torch passes to the open source re-comp and emulation projects.\" Hours later, the recompilation modders and hackers part of the Project Leonida Discord server - the current hub for all GTA 6 recompilation efforts - posted footage of the game booting up on PC. In just a matter of hours, modders - with the help of Claude AI - managed to turn the leaked Xbox build into a PC port, of sorts. In this Reddit video , you can see the game boot up to the initial setup before hitting a black screen. The build is clearly not yet playable, though Eurogamer has not directly verified those claims. Shayder, one of the lead developers on Project Leonida, said in a since-deleted post on X that we should \"expect a lot of static recompilation work to be done soon.\" On the project's Discord server, they later clarified that it could take about a week for the build to reach a playable state on PC. As for CyberLeek, the leaker is still soliciting donations for a secret project \"for the gamers\", adding in the build's readme file , \"Nobody has to give anything, and every release stays free either way. But every donation is a vote for more of this, and so is every trade of the token.\" Rockstar has not announced a PC version of GTA 6, but the company has historically released its games on PC several months after their console debut. In October, a report said GTA 6's PC version would arrive in the first quarter of 2027 , an unusually short gap between the console and PC releases. These latest recompilation efforts, however, may force Rockstar to speed up development of the PC version. Though the recompiled build may never reach the level of quality or stability of an official port, many of those eager to play the game on PC likely wouldn't care.",
-          "image": "https://assetsio.gnwcdn.com/GTA6_5nov-(14).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-          "title": "How to get the GTA 6 BF Bandito",
-          "published_at": "2026-11-24T11:45:55+00:00",
-          "kind": "press",
-          "text": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off While you're out stealing cars for Moses, the GTA 6 BF Bandito will appear on your list, taking you out to the very rural roads of South Leonard County and the Buckskin Swamp. This GTA 6 heist is slightly harder than the others you might have carried out so far though, as this car will be on the move. Like all of Moses' targets, the rough location of the BF Bandito is marked on the map, but as you make your way there, you'll pass by some whoopin' and hollerin' country dwellers who are already taking the buggy for a spin. Here's how to get your hands on the GTA 6 Bandito and get paid. The map marker will take you to the rough location of the BF Bandito, where you should keep your eyes and ears open for some locals riding around the swamps on buggies - one of these is the Bandito. To claim it for yourself, you'll need to stop the Bandito driver, and there are a few ways to do this. If you clock him fast enough, particularly when crossing water, you can simply get in front of him, and he'll stop. Otherwise, you can chase down the Bandito, shooting the driver and his pals. Weirdly, though, when I did this challenge, the driver eventually just stopped and bolted, leaving the buggy free for me to take, though I'm not sure exactly what triggered him to do this. Essentially, just stay close, don't destroy the car by shooting it too much, and it'll be yours in no time. If you're struggling to find some of the other GTA 6 cars that are ripe for the taking, then check I can also help you nab the Declasse Vamos , as well as Vanessa's cute GTA 6 pink Porsche - I mean, Pfister, which will be live shortly. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more After studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/kUMeVoKh7ic8eZ4Yb229iE-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "19be0647087e7168",
-      "title": "Xbox Project Helix Was Reportedly Designed To Make Online Multiplayer Free",
-      "summary": "For years, most multiplayer games on Xbox consoles required a subscription to go online. From Xbox Live to Xbox Game Pass, Microsoft paywalled multiplayer on its platforms, but the company reportedly aimed to break down that barrier for its next-gen console, Project Helix. According to Windows Central , Project Helix was conceived under the previous Xbox leadership team as the device that would...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "ef6a8ef124d2d786",
-        "74d53ae78d76b7f7",
-        "73635f50ed86ca0d"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/xbox-project-helix-was-reportedly-designed-to-make-online-multiplayer-free/",
-          "title": "Xbox Project Helix Was Reportedly Designed To Make Online Multiplayer Free",
-          "published_at": "2026-11-24T12:03:22+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/hardware/xbox-project-helix-was-reportedly-planned-to-run-steam-games-and-have-free-online-multiplayer-but-microsoft-scrapped-its-initial-pc-like-design/",
-          "title": "Xbox Project Helix was reportedly planned to run Steam games and have free online multiplayer",
-          "published_at": "2026-11-23T17:29:18+00:00",
-          "kind": "press",
-          "text": "It might've mirrored Valve's own Steam Machine Xbox Project Helix , the next (mysterious) console underway from Microsoft , has been in the limelight recently for its support of PC games – support that was reportedly far more fleshed out during the hardware's initial conception. Jason Ronald, vice president of Xbox's gaming devices and ecosystem team, recently said that Project Helix is \"a console that is also capable of playing games from your PC,\" as \"it's really designed to be the ultimate gaming machine.\" That sounds pretty dang capable already, but apparently, it was supposed to feature even more PC integration – think full-on free online multiplayer access, Steam, and the like. Anonymous sources tell Windows Central as much, alleging that the original plan – one operating underneath a different codename – for the console was for it to essentially be a gaming computer that can also run Xbox games… on top of PC titles on storefronts like Valve 's own Steam. Think the ASUS ROG Xbox Ally , for example, albeit not handheld. I'm reminded of the Steam Machine, personally, although that notably doesn't run on Windows. The supposed predecessor to Project Helix would work with a gamepad-centered Xbox-style full-screen interface (like Steam's Big Picture Mode, for example), allowing users to exit out to a normal Windows desktop and run other programs such as Steam. Furthermore, the report states the console would've been free to play online – no extra subscriptions or fees like Sony 's PlayStation Plus service required to engage in multiplayer games. That would mean no Xbox Game Pass paywall, as a PC wouldn't… well, work with a paywall at all, really. This wouldn't have been a cheap decision for Microsoft, and that paired with a move toward another hardware strategy, changes in management, and more, likely contributed to a reshuffle of plans – if this intriguing computer-esque console ever truly was on the table, that is. It does all beg the question: what will Project Helix look like? I suppose we won't know until it's finally here. Let's just hope it doesn't cost as much as $1,800 – one rumored price point I can't quite get out of my head. For now, I think I'll just stick to my good ol' actual PC. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Xbox Project Helix lead says it's \"one of the most exciting times\" to be making a new console, because the \"challenging\" component crisis means finding new ways to balance innovation and accessibility After spending years with her head in various fantastical realms' clouds, Anna studied English Literature and then Medieval History at the University of Edinburgh, going on to specialize in narrative design and video game journalism as a writer. She has written for various publications since her postgraduate studies, including Dexerto, Fanbyte, GameSpot, IGN, PCGamesN, and more. When she's not frantically trying to form words into coherent sentences, she's probably daydreaming about becoming a fairy druid and befriending every animal or she's spending a thousand (more) hours traversing the Underdark in Baldur's Gate 3. If you spot her away from her PC, you'll always find Anna with a fantasy book, a handheld video game console of some sort, and a Tamagotchi or two on hand. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/JNDRx44QPzrJh2h9QpGhgc-1920-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
-          "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
-          "published_at": "2026-11-24T10:02:10+00:00",
-          "kind": "press",
-          "text": "A new report from Windows Central details how Xbox was reportedly looking into removing the paywall that prevents players without Xbox Live from playing online games, only to potentially renege on its decision sometime during production of the next-gen device. \"Sources close to Microsoft's plans tell me Xbox Helix was originally conceived as a true console-PC hybrid with access to Windows PC games and stores such as Steam, alongside another major change: no paywall for online multiplayer,\" says the Windows Central report. It goes on to note that this Xbox Live-free plan was iterated upon under Xbox's previous leadership, but with Asha Sharma's appointment as Xbox head in February , all that apparently changed. I guess she did promise \"radically different business models\" , after all. The revised plan has reportedly been altered thanks to a myriad of factors affecting the Xbox business: new management, rising component costs, and a shifting hardware strategy, are all outlined specifically in the report. We've previously heard that Xbox's next-gen console could cost up to $1,800 , with a handheld version coming in 2027 and a full release by holiday 2028 (a Helix console at $1,200 would mean a 50 percent increase on top of Series X's current price, for what it's worth). Sharma has stressed Helix will launch as \"a family of devices\" that will act as a bridge between PC and Xbox capable of playing games from both platforms . If Xbox has, indeed, decided to scrap the idea of free online multiplayer access, it'll be a blow to the idealistic 'PC and Xbox' platform that Microsoft has been touting for the past few years: PC players do not need a subscription in order to access online modes, so - right out the gate - there will be a division between one group of players and the other. Perhaps this is why we've heard a little change in the tone of how Sharma and other Xbox bosses are talking about Helix more recently - these hints that the console will be a true PC-and-console hybrid have died down, and been replaced by insinuations that we'll see more of a traditional console with the \"ability to play your PC games.\" Xbox has been running Xbox Live as a service since 2002, when it launched on the original Xbox console. By 2005, it was split into gold and silver tiers to distinguish free players from those that paid. In 2023, the service was fully renamed Xbox Game Pass Core , looping in access to the base roster of Game Pass games with online play.",
-          "image": "https://assetsio.gnwcdn.com/sharma-gold.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
       "story_id": "4f5adb75d26632af",
       "title": "How to steal the Declasse Vamos in GTA 6",
       "summary": "Grab the code to unlock the garage and steal the car for Moses.",
@@ -460,75 +357,6 @@
       ]
     },
     {
-      "story_id": "dc022c900fd44784",
-      "title": "Jogos da Nintendo em oferta de Black Friday na Nuuvem por tempo limitado",
-      "summary": "Os interessados podem aproveitar as ofertas da Nuuvem e adquirir seus jogos preferidos da lista por tempo limitado",
-      "owners": [
-        "adrenaline",
-        "gameblast"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "853c54c06f1be05d",
-        "e13f1e84e9fdcc3b",
-        "300100b3e33bc372",
-        "61ed5fa8688686ca",
-        "159fda2b96e0436a"
-      ],
-      "sources": [
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/noticias/jogos-da-nintendo-em-oferta-de-black-friday-na-nuuvem-por-tempo-limitado/",
-          "title": "Jogos da Nintendo em oferta de Black Friday na Nuuvem por tempo limitado",
-          "published_at": "2026-11-22T17:27:00+00:00",
-          "kind": "press",
-          "text": "Jogos da Electronic Arts em oferta no Nintendo Switch 1 & 2; até 90% de desconto",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/12/donkey-kong-country-returns-hd.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/xbox/jogos-para-xbox-em-oferta-por-menos-de-r-15-na-black-friday/",
-          "title": "Jogos para XBOX em oferta por menos de R$ 15 na Black Friday",
-          "published_at": "2026-11-23T18:15:59+00:00",
-          "kind": "press",
-          "text": "Asha Sharma celebra 25 anos do Xbox falando sobre equipes pequenas e IA",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/04/battlefield-2042.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-corrida-para-playstation-em-oferta-na-black-friday/",
-          "title": "Jogos de Corrida para PlayStation em oferta na Black Friday",
-          "published_at": "2026-11-23T20:58:25+00:00",
-          "kind": "press",
-          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/05/forza-horizon-5.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-no-esquenta-black-friday-da-nuuvem-com-ate-95-de-desconto/",
-          "title": "Jogos de PC em oferta no Esquenta Black Friday da Nuuvem com até 95% de desconto",
-          "published_at": "2026-11-23T23:00:00+00:00",
-          "kind": "press",
-          "text": "XBOX Game Pass em novembro recebe 12 jogos — veja lista!",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/08/Estudio-Clair-Obscur-Expansao-Desenvolvimento.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/jogos-da-sega-recebem-descontos-de-ate-85-de-black-friday-no-pc-playstation-xbox-e-nintendo-switch.html",
-          "title": "Jogos da SEGA recebem descontos de até 85% de Black Friday no PC, PlayStation, Xbox e Nintendo Switch",
-          "published_at": "2026-11-23T23:41:35+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        }
-      ]
-    },
-    {
       "story_id": "07652630f3d4796a",
       "title": "Acts of Blood for PC delayed to spring 2027",
       "summary": "Publisher Big Fan Games and developer Eksil Team have delayed beat ’em up action game …",
@@ -559,8 +387,80 @@
           "title": "Acts of Blood tem a versão de PC adiada para 2027",
           "published_at": "2026-11-23T22:21:27+00:00",
           "kind": "press",
-          "text": "O jogo apresentou alguns problemas que necessitam de mais tempo para serem consertados.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFkBe6SfJaiIbeMeoPL6e6VLbULCN1TZwJtfaUyQBgACLkFRGlMcAK4Om1TxhOCvjNxpBSp14qZ3pNRj0V06_9q0j7FUhyphenhyphenWI0O5nGQAlsK_EsxY8HP1l3nx0FEoAPSwx6ENby4hgYv8I9JcJ43BVMzvTXIaVQyrnDDk2FkzKG9-qCT1LSwTTv0jzdROF8/w1200-h630-p-k-no-nu/images%20(4).jpg"
+          "text": "",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "story_id": "987258bd7bd5b4ee",
+      "title": "Nada de Red Dead Redemption 3: próximo jogo da Rockstar deve ser L.A. Noire 2",
+      "summary": "Um vazamento antigo de GTA 6 dá força aos rumores de que L.A. Noire pode ser revisitado pouco mais de 10 anos após sua estreia",
+      "owners": [
+        "adrenaline",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "39242520ea3c0a26",
+        "209e654362894298"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/nada-de-red-dead-redemption-3-proximo-jogo-da-rockstar-deve-ser-l-a-noire-2/",
+          "title": "Nada de Red Dead Redemption 3: próximo jogo da Rockstar deve ser L.A. Noire 2",
+          "published_at": "2026-11-23T13:37:59+00:00",
+          "kind": "press",
+          "text": "Veja como o remaster de L.A Noire está rodando no Nintendo Switch",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/LA-Noire-Rockstar-Games-Sequencia.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/l-a-noire-2-proximo-jogo-da-rockstar-games/",
+          "title": "L.A. Noire 2 pode ser o próximo jogo da Rockstar Games",
+          "published_at": "2026-11-23T18:52:45+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2024/05/L.A.-Noire.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "a3b3e2a715ebc328",
+      "title": "GTA 6’s First Patch Is Rolling Out, Here’s What It Does",
+      "summary": "Grand Theft Auto 6 has gotten off to a relatively smooth start, which is rare for an open-world game of this scale. It looks like the first GTA 6 patch is also rolling out, and fortunately, it won’t be a mammoth download compared to grabbing the 211 GB game--internet service providers are probably breathing a sigh of relief right now. GTA 6 Update 01.002.002 download sizes The update will be...",
+      "owners": [
+        "fandom",
+        "insider-gaming"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "ef0b3bce892ffc38",
+        "bb37352739b77b27"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/gta-6-first-patch-is-rolling-out/",
+          "title": "GTA 6’s First Patch Is Rolling Out, Here’s What It Does",
+          "published_at": "2026-11-23T13:46:31+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/gta-6-darts-bowling/",
+          "title": "Does GTA 6 Have Darts or Bowling?",
+          "published_at": "2026-11-24T13:10:51+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 is absolutely jam-packed with features, mini-games, activities, and collectibles. It can take hundreds of hours to see and do everything, so let’s see if two of the series’ most popular activities, darts and bowling, are somewhere in Vice City. Take out all the main story missions in GTA 6 , and you still have a ridiculously deep array of entertainment. Backyard Wrestling , Illegal Operations , and even meditating. But Rockstar wouldn’t cut two iconic games, right? You can buy Grand Theft Auto 6 here if you haven’t already! You can’t play Darts in GTA 6 as Rockstar Games has opted not to include the mini-game this time around. We all played a decent amount of Darts in GTA 4 and GTA 5, but that won’t be the case in GTA 6—for now. Darts is not one of GTA 6’s activities, so you’ll need to throw some real-life arrows for your fix. I’ll explain more about this below, but unless Rockstar Games adds Darts as a feature in GTA Online 2 multiplayer , the sport looks to be skipping a generation. Another recurring mini-game in the Grand Theft Auto franchise has been bowling, but bowling has been omitted from GTA 6 as well. You almost can’t complain about GTA 6 lacking features when it has so much. But you’d think Darts and Bowling would be dead-certs, especially with the game’s various bars and entertainment facilities. There’s a reason for this, though, and here’s what Rob Nelson, Rockstar North co-studio head, told IGN : “Darts was a contentious one. Even we… you hear they have unlimited money or unlimited time, even we do not and so sometimes you just have to admit we are not going to be able to make this to the level we feel we need to. A lot of work [is needed] to get it tuned right. Darts is one we just didn’t get to.” Are you sad that both have basically been cut? Let us know your thoughts about the game via the free Insider Gaming Discord server . For more Insider Gaming content, read ‘ All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes .’ Don’t forget to sign up for our free weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here . Andy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/Does-GTA-6-Have-Darts-or-Bowling_-guide.jpg"
         }
       ]
     }
