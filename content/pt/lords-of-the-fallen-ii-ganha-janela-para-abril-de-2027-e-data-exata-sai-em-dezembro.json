@@ -18,7 +18,9 @@
     "query": "Lords of the Fallen II",
     "alt": "Cena do trailer de Lords of the Fallen II divulgada pelo Eurogamer",
     "url": "https://assetsio.gnwcdn.com/Lords-of-the-Fallen-II---Announcement-Trailer-_-PS5-Games-0-28-screenshot-(1).png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/lords-of-the-fallen-ii-ganha-janela-para-295dcb4b.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -40,7 +42,7 @@
       "title": "Lords of the Fallen 2 delayed to April 2027"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -122,5 +124,7 @@
       "text": "O Eurogamer deu duas estrelas ao reboot de Lords of the Fallen, descrevendo-o como um soulslike aceitável e muitas vezes divertido, mas prejudicado por clichês do gênero e problemas de desempenho.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T22:41:09+00:00",
+  "updated_at": "2026-11-24T22:41:09+00:00"
 }
