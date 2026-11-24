@@ -18,7 +18,10 @@
     "query": "Red Dead Redemption",
     "alt": "Imagem de Red Dead Redemption divulgada pelo Eurogamer",
     "url": "https://assetsio.gnwcdn.com/rdr-2-hollywood-header-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/rumor-rockstar-estaria-oferecendo-direit-b8afc49f.jpg",
+    "source_url": "",
+    "foco": "67% 20%"
   },
   "sources": [
     {
@@ -46,7 +49,7 @@
       "title": "Rockstar is reportedly looking into turning Red Dead Redemption into a movie or TV show"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -118,5 +121,7 @@
       "text": "A VGC aponta que a reportagem não diz se a Rockstar preferiria uma adaptação fiel à história dos jogos ou uma trama nova no mesmo cenário. Adaptações recentes seguem caminhos muito diferentes: a série de The Last of Us ficou, em geral, fiel, enquanto o filme recente de Resident Evil só fez breves alusões aos jogos. A VGC também ressalta que a Rockstar não comentou o relatório e que não declarou desejo de levar nenhuma das duas grandes franquias às telas.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T16:49:45+00:00",
+  "updated_at": "2026-11-24T16:49:45+00:00"
 }

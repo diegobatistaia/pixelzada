@@ -18,7 +18,10 @@
     "query": "GTA 6 PC",
     "alt": "Cena de GTA 6 divulgada pela GamesRadar",
     "url": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/projeto-que-tentava-rodar-gta-6-no-pc-ac-dfc1ce7c.jpg",
+    "source_url": "",
+    "foco": "43% 21%"
   },
   "sources": [
     {
@@ -40,7 +43,7 @@
       "title": "Rockstar shuts down Discord server trying to port GTA 6 to PC"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -116,5 +119,7 @@
       "text": "O Insider Gaming avalia que a derrubada de um projeto proeminente não deve impedir os outros, e que o interesse tende a crescer, principalmente com as ferramentas de IA disponíveis para muita gente. O jogo está só no PS5 e no Xbox Series X|S, e o site lembra que, como aconteceu com GTA 5 em 2013, jogadores de PC se sentiram deixados de lado. Mesmo com os relatos de uma versão oficial em 2027, a ideia não parece ter bastado para parte do público.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T16:49:45+00:00",
+  "updated_at": "2026-11-24T16:49:45+00:00"
 }

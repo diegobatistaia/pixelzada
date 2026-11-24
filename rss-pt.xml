@@ -5,8 +5,24 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:49:47 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Projeto que tentava rodar GTA 6 no PC acaba após Discord sair do ar, e líder diz que desistiu</title>
+      <link>https://pixelzada.com.br/pt/projeto-que-tentava-rodar-gta-6-no-pc-acaba-apos-discord-sair-do-ar-e-lider-diz-que-desistiu/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/projeto-que-tentava-rodar-gta-6-no-pc-acaba-apos-discord-sair-do-ar-e-lider-diz-que-desistiu/</guid>
+      <description>O Project Leonida, que tentava rodar GTA 6 no PC com a build vazada do Xbox, perdeu o Discord e o repositório; o líder desistiu. A Rockstar não comentou o caso.</description>
+      <category>GTA 6</category>
+      <pubDate>Tue, 24 Nov 2026 16:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rumor: Rockstar estaria oferecendo direitos de cinema e TV de Red Dead Redemption por mais de US$ 100 milhões</title>
+      <link>https://pixelzada.com.br/pt/rumor-rockstar-estaria-oferecendo-direitos-de-cinema-e-tv-de-red-dead-redemption-por-mais-de-us-100-milhoes/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/rumor-rockstar-estaria-oferecendo-direitos-de-cinema-e-tv-de-red-dead-redemption-por-mais-de-us-100-milhoes/</guid>
+      <description>Rumor: Rockstar buscaria comprador para os direitos de filme e série de Red Dead Redemption por mais de US$ 100 milhões, mas não de GTA, diz The Ankler.</description>
+      <category>Indústria</category>
+      <pubDate>Tue, 24 Nov 2026 16:49:45 +0000</pubDate>
+    </item>
     <item>
       <title>Rumor: Project Helix teria sido pensado como híbrido de PC com Steam e multiplayer online grátis</title>
       <link>https://pixelzada.com.br/pt/rumor-project-helix-teria-sido-pensado-como-hibrido-de-pc-com-steam-e-multiplayer-online-gratis/</link>
@@ -230,22 +246,6 @@
       <description>Estimativas da Sensor Tower apontam 17 milhões de unidades e US$ 1,65 bi para GTA 6, e a Newzoo prevê mais que Harry Potter, Star Wars e Senhor dos Anéis.</description>
       <category>GTA 6</category>
       <pubDate>Fri, 20 Nov 2026 10:49:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ubisoft demite 166 funcionários em Montreal e Quebec no dia do balanço do semestre</title>
-      <link>https://pixelzada.com.br/pt/ubisoft-demite-166-funcionarios-em-montreal-e-quebec-no-dia-do-balanco-do-semestre/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/ubisoft-demite-166-funcionarios-em-montreal-e-quebec-no-dia-do-balanco-do-semestre/</guid>
-      <description>A Ubisoft vai eliminar 166 vagas em Montreal e Quebec, em funções de produção e apoio, no mesmo dia em que divulgou balanço acima da projeção da empresa.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 19 Nov 2026 22:49:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Roteirista de Clair Obscur: Expedition 33 deixou a Sandfall e quer criar fundo para narrativa</title>
-      <link>https://pixelzada.com.br/pt/roteirista-de-clair-obscur-expedition-33-deixou-a-sandfall-e-quer-criar-fundo-para-narrativa/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/roteirista-de-clair-obscur-expedition-33-deixou-a-sandfall-e-quer-criar-fundo-para-narrativa/</guid>
-      <description>Jennifer Svedberg-Yen, líder de narrativa de Clair Obscur: Expedition 33, saiu da Sandfall em julho e planeja um fundo para criadores de narrativa em games.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 19 Nov 2026 20:41:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
