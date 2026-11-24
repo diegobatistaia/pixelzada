@@ -15943,7 +15943,7 @@
     "slug": "gta6-corte-teawithmandy",
     "data": "2026-11-24",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 TeaWithMandy jogando GTA 6\n📺 twitch.tv/teawithmandy\n\n#gta6 #gtavi #teawithmandy #pixelzada",
     "tentativas": 0,
@@ -15966,6 +15966,19 @@
       "motivo": "streamer vestida e gameplay de jogo de ação",
       "por": "imagem",
       "em": "2026-11-22T12:11:42-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T18:02:00-03:00",
+      "media_id": "18137925775738697",
+      "permalink": "https://www.instagram.com/reel/DgI4Bz0DlWp/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
