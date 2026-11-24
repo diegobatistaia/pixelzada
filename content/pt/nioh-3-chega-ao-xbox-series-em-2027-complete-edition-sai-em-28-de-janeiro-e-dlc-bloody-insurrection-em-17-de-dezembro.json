@@ -18,7 +18,9 @@
     "query": "Nioh 3 Xbox",
     "alt": "Arte de divulgação de Nioh 3 no Xbox Wire",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/Nioh-3-Key-Art-Logo-1f9702a7ae1d63984be4.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/nioh-3-chega-ao-xbox-series-em-2027-comp-f2d03723.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -40,7 +42,7 @@
       "title": "Nioh 3 is getting its second DLC next month and coming to Xbox"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -106,5 +108,7 @@
       "text": "A GamesRadar destaca que a Koei Tecmo e a Team NINJA estão muito ativas. Nioh 3 saiu neste ano, cerca de quatro meses depois de Ninja Gaiden 4, e o remake de Fatal Frame 2: Crimson Butterfly chegou um mês depois. Wo Long 2: Wings of Ember está marcado para março, e há ainda um novo Dead or Alive a caminho. Nioh 3 também foi o primeiro da série a sair ao mesmo tempo no PC e no PlayStation, já que os dois primeiros tiveram janelas de exclusividade no PS4.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T20:41:05+00:00",
+  "updated_at": "2026-11-24T20:41:05+00:00"
 }

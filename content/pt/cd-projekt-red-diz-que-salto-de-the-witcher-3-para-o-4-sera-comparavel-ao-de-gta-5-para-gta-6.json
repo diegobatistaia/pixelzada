@@ -18,7 +18,10 @@
     "query": "The Witcher 4 Ciri",
     "alt": "Arte de Ciri em The Witcher 4 divulgada pela Eurogamer",
     "url": "https://assetsio.gnwcdn.com/ciri-the-witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/cd-projekt-red-diz-que-salto-de-the-witc-87061d63.jpg",
+    "source_url": "",
+    "foco": "60% 43%"
   },
   "sources": [
     {
@@ -52,7 +55,7 @@
       "title": "The Witcher 4 partnership between Sony and CD Projekt Red announced"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -124,5 +127,7 @@
       "text": "Na prática, a mensagem da CD Projekt Red é de confiança, sem mudança de rumo: o estúdio quer que The Witcher 4 seja um salto grande sobre o antecessor, mantém os planos para 2028 e fecha uma parceria que deve colocar a PlayStation em destaque na divulgação.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T20:41:04+00:00",
+  "updated_at": "2026-11-24T20:41:04+00:00"
 }
