@@ -7,42 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-23T18:23-03:00",
+ "atualizado": "2026-11-24T03:02-03:00",
  "hoje": {
-  "data": "2026-11-23",
+  "data": "2026-11-24",
   "reels": {
    "meta": 17,
-   "publicados": 11,
-   "deviam_ter_saido": 11,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 5,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 116,
+  "agendados": 112,
   "meta_por_dia": 17,
-  "dias_de_reserva": 6.8,
+  "dias_de_reserva": 6.6,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 116,
+  "sem_revisao": 112,
   "por_dia": [
-   {
-    "data": "2026-11-23",
-    "agendados": 5,
-    "meta": 17
-   },
    {
     "data": "2026-11-24",
     "agendados": 17,
@@ -75,14 +64,14 @@
    },
    {
     "data": "2026-11-30",
-    "agendados": 9,
+    "agendados": 10,
     "meta": 17
    }
   ]
  },
  "site": {
   "total": 274,
-  "hoje": 7,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "GTA 6: senha do notebook de Vanessa, onde fica o Auntie's Place e como abrir a garagem do Pink Growler",
@@ -91,18 +80,24 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "23/11/2026 18:08",
+  "ultima_coleta": "23/11/2026 22:07",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AjsKk4LrB8me-DtT-AMQxhe\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AQb3foNxGFAz1dcUdr8ds7b\"}}"
  },
  "falhas": {
   "rodadas_24h": 100,
-  "falhas_24h": 2,
+  "falhas_24h": 3,
   "sem_resolver": 0,
   "lista": [
+   {
+    "workflow": "Reels",
+    "em": "2026-11-23T18:58:33-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45275048365",
+    "resolvido": true
+   },
    {
     "workflow": "Reels",
     "em": "2026-11-23T17:59:20-03:00",
@@ -122,20 +117,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 109
+   "youtube": 110
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-17",
-   "reels": 17,
-   "reels_meta": 17,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 10,
-   "views_reels": null
-  },
   {
    "data": "2026-11-18",
    "reels": 30,
@@ -183,11 +169,20 @@
   },
   {
    "data": "2026-11-23",
-   "reels": 11,
+   "reels": 15,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 7,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-24",
+   "reels": 0,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
    "views_reels": null
   }
  ],
@@ -238,10 +233,6 @@
   }
  ],
  "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00"
-  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
