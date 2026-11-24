@@ -16027,7 +16027,7 @@
     "slug": "gta6-corte-caseoh-4",
     "data": "2026-11-24",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 caseoh_ jogando GTA 6\n📺 twitch.tv/caseoh_\n\n#gta6 #gtavi #caseoh_ #pixelzada",
     "tentativas": 0,
@@ -16050,6 +16050,19 @@
       "motivo": "Pessoas vestidas e cenas de gameplay padrão, sem conteúdo sugestivo ou nudez.",
       "por": "imagem",
       "em": "2026-11-22T11:40:57-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T20:02:07-03:00",
+      "media_id": "18030419441696527",
+      "permalink": "https://www.instagram.com/reel/DgJFsPgHBM1/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
