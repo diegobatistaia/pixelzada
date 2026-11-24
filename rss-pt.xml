@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:48:49 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Rumor: Project Helix teria sido pensado como híbrido de PC com Steam e multiplayer online grátis</title>
+      <link>https://pixelzada.com.br/pt/rumor-project-helix-teria-sido-pensado-como-hibrido-de-pc-com-steam-e-multiplayer-online-gratis/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/rumor-project-helix-teria-sido-pensado-como-hibrido-de-pc-com-steam-e-multiplayer-online-gratis/</guid>
+      <description>Rumor: o Project Helix, próximo Xbox, teria sido pensado como híbrido de PC com Steam e multiplayer online grátis, mas o plano mudou. Veja o que se sabe.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Tue, 24 Nov 2026 12:48:47 +0000</pubDate>
+    </item>
     <item>
       <title>Diretor de Cyberpunk 2 brinca que o jogo está cancelado depois de jogar GTA 6 e deixa clara a piada</title>
       <link>https://pixelzada.com.br/pt/diretor-de-cyberpunk-2-brinca-que-o-jogo-esta-cancelado-depois-de-jogar-gta-6-e-deixa-clara-a-piada/</link>
@@ -238,14 +246,6 @@
       <description>Jennifer Svedberg-Yen, líder de narrativa de Clair Obscur: Expedition 33, saiu da Sandfall em julho e planeja um fundo para criadores de narrativa em games.</description>
       <category>Indústria</category>
       <pubDate>Thu, 19 Nov 2026 20:41:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CEO da GameStop critica GTA 6 sem disco: ir para o digital prejudicou consumidores</title>
-      <link>https://pixelzada.com.br/pt/ceo-da-gamestop-critica-gta-6-sem-disco-ir-para-o-digital-prejudicou-consumidores/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/ceo-da-gamestop-critica-gta-6-sem-disco-ir-para-o-digital-prejudicou-consumidores/</guid>
-      <description>Ryan Cohen, CEO da GameStop, diz que a migração para o digital prejudicou os consumidores, no dia em que GTA 6 chega sem disco e só como código na caixa.</description>
-      <category>Indústria</category>
-      <pubDate>Thu, 19 Nov 2026 18:43:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -18,7 +18,9 @@
     "query": "Xbox Project Helix",
     "alt": "Imagem do Project Helix divulgada pela GamesRadar",
     "url": "https://cdn.mos.cms.futurecdn.net/JNDRx44QPzrJh2h9QpGhgc-1920-80.jpg",
-    "credit": "Imagem: GamesRadar"
+    "credit": "Imagem: GamesRadar",
+    "path": "/assets/img/rumor-project-helix-teria-sido-pensado-c-c79e1750.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "Xbox Helix reportedly killing paid membership plan"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -111,5 +113,7 @@
       "text": "O Xbox Live existe desde 2002, quando estreou no console original. Em 2005, foi dividido em planos gold e silver. Em 2023, passou a se chamar Xbox Game Pass Core, com acesso a um catálogo básico do Game Pass e jogo online, segundo o Eurogamer.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-24T12:48:47+00:00",
+  "updated_at": "2026-11-24T12:48:47+00:00"
 }
