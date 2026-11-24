@@ -15985,7 +15985,7 @@
     "slug": "gta6-corte-aldo-geo",
     "data": "2026-11-24",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 aldo_geo jogando GTA 6\n📺 twitch.tv/aldo_geo\n\n#gta6 #gtavi #aldo_geo #pixelzada",
     "tentativas": 0,
@@ -16008,6 +16008,19 @@
       "motivo": "streamer vestido e cenas de gameplay com barco",
       "por": "imagem",
       "em": "2026-11-22T11:40:46-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T19:02:55-03:00",
+      "media_id": "18656324653008003",
+      "permalink": "https://www.instagram.com/reel/DgI-6iaiamw/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
