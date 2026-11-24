@@ -15355,7 +15355,7 @@
     "slug": "gta6-corte-bisteconee-21",
     "data": "2026-11-23",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Bisteconee jogando GTA 6\n📺 twitch.tv/bisteconee\n\n#gta6 #gtavi #bisteconee #pixelzada",
     "tentativas": 0,
@@ -15378,6 +15378,19 @@
       "motivo": "imagens mostram streamer jogando e cenas de gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T15:49:55-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-23T21:02:25-03:00",
+      "media_id": "18130513489888293",
+      "permalink": "https://www.instagram.com/reel/DgGnzBOlPDA/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
