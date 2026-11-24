@@ -15859,7 +15859,7 @@
     "slug": "gta6-corte-ricfazeres-2",
     "data": "2026-11-24",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 RicFazeres jogando GTA 6\n📺 twitch.tv/ricfazeres\n\n#gta6 #gtavi #ricfazeres #pixelzada",
     "tentativas": 0,
@@ -15882,6 +15882,19 @@
       "motivo": "streamer vestido e gameplay de jogo mostrando cenários e drone",
       "por": "imagem",
       "em": "2026-11-22T12:11:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T16:02:03-03:00",
+      "media_id": "18104709083176837",
+      "permalink": "https://www.instagram.com/reel/DgIqOIAEg0b/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
