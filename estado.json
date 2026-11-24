@@ -7,34 +7,38 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-24T03:02-03:00",
+ "atualizado": "2026-11-24T14:43-03:00",
  "hoje": {
   "data": "2026-11-24",
   "reels": {
    "meta": 17,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 8,
+   "deviam_ter_saido": 8,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 3,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 112,
+  "agendados": 104,
   "meta_por_dia": 17,
-  "dias_de_reserva": 6.6,
+  "dias_de_reserva": 6.1,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 112,
+  "sem_revisao": 104,
   "por_dia": [
    {
     "data": "2026-11-24",
-    "agendados": 17,
+    "agendados": 9,
     "meta": 17
    },
    {
@@ -70,25 +74,25 @@
   ]
  },
  "site": {
-  "total": 274,
-  "hoje": 0,
+  "total": 279,
+  "hoje": 5,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "GTA 6: senha do notebook de Vanessa, onde fica o Auntie's Place e como abrir a garagem do Pink Growler",
-   "url": "https://pixelzada.com.br/pt/gta-6-senha-do-notebook-de-vanessa-onde-fica-o-auntie-s-place-e-como-abrir-a-garagem-do-pink-growler/",
-   "em": "2026-11-23T17:49:13-03:00"
+   "titulo": "Projeto que tentava rodar GTA 6 no PC acaba após Discord sair do ar, e líder diz que desistiu",
+   "url": "https://pixelzada.com.br/pt/projeto-que-tentava-rodar-gta-6-no-pc-acaba-apos-discord-sair-do-ar-e-lider-diz-que-desistiu/",
+   "em": "2026-11-24T13:49:45-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "23/11/2026 22:07",
+  "ultima_coleta": "24/11/2026 14:10",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AQb3foNxGFAz1dcUdr8ds7b\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A0l8tuU6zueBwWOezsXa05b\"}}"
  },
  "falhas": {
-  "rodadas_24h": 100,
+  "rodadas_24h": 97,
   "falhas_24h": 3,
   "sem_resolver": 0,
   "lista": [
@@ -117,7 +121,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 110
+   "youtube": 111
   },
   "erros_hoje": 0
  },
@@ -178,11 +182,11 @@
   },
   {
    "data": "2026-11-24",
-   "reels": 0,
+   "reels": 8,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
+   "materias": 5,
    "views_reels": null
   }
  ],
@@ -233,6 +237,10 @@
   }
  ],
  "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
+  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
