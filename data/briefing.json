@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T16:40:10+00:00",
+  "generated_at": "2026-11-24T18:40:19+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 3,
+  "already_written_today": 5,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -41,6 +41,92 @@
     160
   ],
   "stories": [
+    {
+      "story_id": "8a4a807b5656dc33",
+      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
+      "owners": [
+        "adrenaline",
+        "gameblast",
+        "gematsu",
+        "microsoft",
+        "sony"
+      ],
+      "primary_owners": [
+        "microsoft",
+        "sony"
+      ],
+      "fingerprints": [
+        "67ce9b201c87ef45",
+        "70fe98c95d67187c",
+        "95fcf5c6642f3c27",
+        "6cd437fba496103a",
+        "5d7d5d93a441225e",
+        "0459fc6cad1d867c"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
+          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+          "published_at": "2026-11-23T21:36:20+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
+        },
+        {
+          "name": "PlayStation Blog BR",
+          "owner": "sony",
+          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
+          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
+          "published_at": "2026-11-24T12:51:39+00:00",
+          "kind": "primary",
+          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
+          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
+        },
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/pt-br/2026/11/24/como-jogar-grand-theft-auto-vi-pela-nuvem-e-com-remote-play/",
+          "title": "Como jogar Grand Theft Auto VI pela nuvem e com Remote Play",
+          "published_at": "2026-11-24T18:00:21+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI é compatível com o XBOX Cloud Gaming , então você pode jogar mesmo sem um console da geração atual. Com o XBOX Cloud Gaming, você pode jogar por streaming, direto da nuvem, no seu XBOX One ou no XBOX Series X|S, se quiser economizar espaço de armazenamento. Alguns planos do Game Pass incluem até 15 horas de jogo por mês na nuvem. Se precisar, você pode comprar horas adicionais para aproveitar um dos maiores jogos do ano no console que já tem. Ao jogar pela nuvem com o XBOX Cloud Gaming, o jogo usa as configurações gráficas do Xbox Series S. Você também pode usar o Remote Play para jogar Grand Theft Auto VI onde preferir. Com esse recurso, você transmite o jogo diretamente do seu console XBOX Series X|S para dispositivos que já tem, como celular, notebook, PC ou até um PC portátil para jogos, como o XBOX ROG Ally. Veja como configurar esses recursos. Para usá-los, você precisa de uma cópia de Grand Theft Auto VI comprada na Xbox Store : Para começar a jogar Grand Theft Auto VI pela nuvem, use um dos controles conectados ao seu console e siga estes passos: Sempre que possível, conecte o console à internet com um cabo Ethernet para obter a melhor qualidade de jogo. Mesmo em redes Wi-Fi de alta velocidade, a qualidade do áudio e do vídeo pode cair de vez em quando. Com o Remote Play, você pode transmitir o jogo do seu XBOX Series X|S para dispositivos que já tem, como celulares, tablets, PCs e PCs portáteis para jogos. Veja como ativar o recurso: Depois de ativar os recursos remotos no console, escolha em qual dispositivo quer jogar: Seja para economizar espaço jogando pela nuvem ou para retomar a partida de onde parou no seu PC portátil, o XBOX Cloud Gaming e o Remote Play oferecem mais opções de jogar Grand Theft Auto VI nos dispositivos que você já tem. Para saber mais, consulte a página do XBOX Cloud Gaming e a de Grand Theft Auto VI na Xbox Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista/",
+          "title": "Grand Theft Auto VI: The Album (Deluxe Edition) é disponibilizado",
+          "published_at": "2026-11-23T17:40:46+00:00",
+          "kind": "press",
+          "text": "Trilha sonora do álbum de GTA 6 vaza na internet, revelando suas 34 músicas",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista-1.jpg"
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players",
+          "title": "Grand Theft Auto VI for PS5 tops 39 million players",
+          "published_at": "2026-11-23T23:45:54+00:00",
+          "kind": "press",
+          "text": "More than 39 million unique users have played Grand Theft Auto VI on PlayStation 5 as of November 22, making it the biggest launch in PlayStation history across three decades and five console generations, Sony Interactive Entertainment announced . The sequel set a new record for the highest number of concurrent players for any game on PlayStation, surpassing previous records across multiplayer, free-to-play, and single-player titles. Across PlayStation 5, players cumulatively logged 683 million hours of gameplay in Grand Theft Auto VI , and have spent an average of 17.4 hours exploring the game’s world during its opening days. Grand Theft Auto VI ‘s launch also marked the largest number of newly connected PlayStation 5 consoles on a single day since the console’s launch, outside of end-of-year holidays. Since launch, it was the first played game on 70 percent of new PlayStation 5 consoles. “We want to congratulate our partners at Rockstar Games for bringing this extraordinary game to players around the world and continuing a partnership with PlayStation that stretches back to Grand Theft Auto III on PlayStation 2 ,” Sony Interactive Entertainment content communications manager Tim Turi said. “With [ Grand Theft Auto VI ], we worked to bring the best experience on [PlayStation 5] and gave players a memorable way to commemorate the game with two special limited-edition DualSense wireless controllers inspired by Vice City. We also celebrated the launch with live events including Grand Theft Auto VI : The Festival in Miami this past weekend.” Grand Theft Auto VI launched for PlayStation 5 and Xbox Series on November 19. On November 20, Rockstar Games announced that the game achieved $3.79 billion in day one retail sales following 32.5 million pre-sales. Although Rockstar Games did not share exact unit numbers, the revenue total suggests roughly 37.9 million to 47.3 million copies sold, based solely on pricing across its $79.99 and $99.99 editions.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/GTA6-PS5-Players_11-23-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.html",
+          "title": "Grand Theft Auto VI se torna o maior lançamento da história do PlayStation com mais de 39 milhões de jogadores",
+          "published_at": "2026-11-23T23:54:33+00:00",
+          "kind": "press",
+          "text": "Durante o fim de semana de lançamento, os jogadores acumularam mais de 683 milhões de horas explorando Leonida.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWh8OUwh85CxU6BuHauuU10oQGZT5SBvuqRmljRE9kEQ2BRDDeHbGAHebOZ85GF_sNzmNDC8hGFx3tIAWdCoZWNcia9JuAxvBYqHQHI09gm0RF0kTVQKp00O6VcrujCDOjRp2aFkEG5Af6cABPGwj3uvUX5FpRgUAFchMPm3A_sJ5CINNlWRg2n5XcNg/w1200-h630-p-k-no-nu/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.png"
+        }
+      ]
+    },
     {
       "story_id": "1b362431951904c8",
       "title": "Deborah Ann Woll Reprising Role As God Of War’s Faye In Prime Video’s TV Show",
@@ -102,274 +188,6 @@
       ]
     },
     {
-      "story_id": "44edf6eb9fce5456",
-      "title": "Rockstar is actively shopping Red Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
-      "summary": "Rockstar Games is seemingly interested in expanding Red Dead Redemption beyond video games, after years of Hollywood knocking on its doors. According to a new report, the company is looking for someone to pick up the movie and TV rights for its open-world Westerner series. Read more",
-      "owners": [
-        "future-plc",
-        "insider-gaming",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "5dd6d75d0eab1afb",
-        "ba9e03bb8887fb3a",
-        "1b0add25802c78db",
-        "f53703eeccf8547e"
-      ],
-      "sources": [
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/red-dead-redemption-movie-tv-rights-100-million-usd-no-gta",
-          "title": "Rockstar is actively shopping Red Dead Redemption movie and TV rights around, just don't expect the same for Grand Theft Auto",
-          "published_at": "2026-11-24T11:54:00+00:00",
-          "kind": "press",
-          "text": "Rockstar Games is seemingly interested in expanding Red Dead Redemption beyond video games, after years of Hollywood knocking on its doors. According to a new report, the company is looking for someone to pick up the movie and TV rights for its open-world Westerner series. The information comes from a new report in The Ankler , citing agents in the know. According to the report, Rockstar wanted something in the range of $100m (£76m) as a minimum for the license to its Red Dead Redemption series of games. As the report pointed out, Amazon paid $250m (£191m) in 2017 for Lord of the Rings' TV show rights alone. Rockstar, however, is not interested in turning Grand Theft Auto into a movie or TV show, per the same report. It's not clear why the company is willing to entertain the idea for one franchise and not the other, but the vastly larger popularity of GTA (compared to RDR, at least) could explain why. It's worth noting that streamers like Netflix and Amazon have been on something of a hot streak recently with the success of shows based on popular video games, such as Fallout . HBO managed to turn The Last of Us into a prestige series that can attract both fans of the game and casual TV viewers. Indeed, many more video game-based shows are in the works, like Amazon's Tomb Raider series , its God of War adaptation , as well as FX's Far Cry anthology show . Even Call of Duty, a massive - though nowhere near as massive as GTA - franchise, is getting a live-action movie in 2028 . But none of those are as profitable or culturally-dominnant as Grand Theft Auto. GTA 6 just released, and immediately beat analyst expectations. The game made $3.79bn (£2.90bn) in revenue on day one off the back of 32.5m copies sold, making it the biggest launch of any entertainment product in history, so it's understandable why Rockstar is not too eager to turn it into a movie or TV show.",
-          "image": "https://assetsio.gnwcdn.com/rdr-2-hollywood-header-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/rockstar-is-reportedly-interested-in-a-red-dead-redemption-film-or-tv-show/",
-          "title": "Rockstar is reportedly interested in a Red Dead Redemption film or TV show",
-          "published_at": "2026-11-24T15:29:03+00:00",
-          "kind": "press",
-          "text": "It’s reported that Rockstar doesn’t want a GTA movie, but is open to Red Dead pitches A Red Dead Redemption film or TV show is possible, with Rockstar reportedly considering its options. As reported by The Ankler , Rockstar is open to reaching a licensing agreement to adapt Red Dead Redemption. According to one of the sources, Rockstar has suggested a price tag of “more than $100 million minimum” for these movie rights. The report states that this agreement could include a film or TV show. It’s also claimed that Rockstar has no interest in a Grand Theft Auto film or TV adaptation and is only considering Red Dead Redemption as a candidate. Given the monumental success of GTA 5 and now GTA 6, it’s likely that Hollywood would be interested in adapting the series. The only hurdle would be getting Rockstar and Take-Two on board, although this report would suggest that neither sees the value in this. However, if Red Dead Redemption is the only series up for grabs, it’s still very possible that some studios would be willing to foot the bill. Red Dead Redemption 2 had the second-biggest launch of an entertainment project, only sitting behind GTA 5 at the time. It’s proven to have cultural staying power too, eight years after launch. The report makes no mention of whether Rockstar would prefer a potential Red Dead Redemption adaptation to follow the story of the games or tell a unique story within the same setting. Modern video game adaptations can take wildly different approaches, with The Last of Us show mostly remaining faithful, whereas the recent Resident Evil movie only had brief allusions to the games. Rockstar has not commented on this report, and hasn’t expressed a desire to bring either of its big franchises to the big screen. Right now, it is enjoying the launch of GTA 6, which has proven to be even more successful than its predecessor .",
-          "image": "https://www.videogameschronicle.com/files/2026/11/137a6c809cd715dfac2aeffd35138a8e.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/red-dead-redemption-developer-reportedly-open-to-selling-tv-rights/",
-          "title": "Rockstar Reportedly Open to Selling Red Dead Redemption TV Rights",
-          "published_at": "2026-11-24T16:10:54+00:00",
-          "kind": "press",
-          "text": "There’s a ton of hype around Rockstar Games’ Grand Theft Auto 6 (GTA 6) since its release on November 19. According to The Ankler , while Rockstar isn’t interested in making GTA movies, it may be interested in bringing another popular title, Red Dead Redemption, to the big screen. To bring a video game to TV or movies, a studio would pay the companies involved for the story rights. An agent who works with video game writers stated, “At one point they were throwing around a purchase price of more than $100 million minimum for licensing rights.” The latest game in the Red Dead series, Red Dead Redemption 2, passed 87 million copies sold in August 2026, putting the entire series close to 116 million sales. Rockstar Games’ stories get picked up by many fans, as GTA 6 had pre-launch sales of over 10 million copies . Brought to theaters or TV, Red Dead Redemption would provide a captivating story. The first title in the series is a Western action-adventure set in 1911. The main character, John Marston, is looking for his wife and son after they’ve been taken. Red Dead Redemption 2 is actually a prequel taking place in 1899. This story follows Arthur Morgan, a gang member, who is trying to decide if his loyalty lies with the Dutch van der Linde or himself. Would you like to see a Red Dead movie or series? Let us know down in the comments and in the official Insider Gaming Discord . In other news, check out the Senua concept art that recently surfaced online . For even more Insider Gaming delivered directly to your inbox, sign up for our newsletter .",
-          "image": "https://insider-gaming.com/wp-content/uploads/2025/11/Red-Dead-Redemption-Units.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/entertainment/live-action-movies/rockstar-is-reportedly-looking-into-turning-red-dead-redemption-into-a-movie-or-tv-show/",
-          "title": "Rockstar is reportedly looking into turning Red Dead Redemption into a movie or TV show",
-          "published_at": "2026-11-24T16:24:35+00:00",
-          "kind": "press",
-          "text": "The studio is supposedly shopping the rights for $100 million Rockstar is reportedly looking to adapt Red Dead Redemption for the big and small screens. According to The Ankler, Rockstar has been \"throwing around a purchase price of more than $100 million minimum for licensing rights\" to the Red Dead Redemption franchise with the hopes of making a movie or a TV show. In Red Dead Redemption, the player controls a former outlaw named John Marston whose wife and son are held hostage by the government in exchange for Marston's bounty hunter services. It's an open-world game that's set in the year 1911 and has some horror elements (and some weird things happen when you let the game idle for a bit, depending on what you're doing in that moment). Red Dead Redemption 2, a prequel to the first game, was released in 2018. A Red Dead movie has been in demand for quite some time, dating all the way back to its 2010 release (with Brad Pitt initially tapped by fans as the perfect John Marston). Jack Black even said that Red Dead had a \"better story than The Last of Us\" and therefore deserved its own live-action adaptation. Given that Far Cry, God of War, and Assassin's Creed are all in the works, and the fact that The Last of Us received some Emmy nominations... I'd say now is as good a time as any to turn your blockbuster video game into a live-action something or other. For more, check out our list of upcoming video game movies and our ranking of the best video game movies. Weekly digests, tales from the communities you love, and more Lauren Milici is a Senior Entertainment Writer for GamesRadar+ based in New York City. She previously reported on breaking news for The Independent's Indy100 and created TV and film listicles for Ranker. Her work has been published in Fandom, Nerdist, Paste Magazine, Vulture, PopSugar, Fangoria, and more. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/YB7WSDekX3REk5pX6g3Cb4-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "84d2ed4dbd7846a9",
-      "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
-      "summary": "Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI. Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto […]",
-      "owners": [
-        "gameblast",
-        "gematsu",
-        "meups",
-        "sony"
-      ],
-      "primary_owners": [
-        "sony"
-      ],
-      "fingerprints": [
-        "70fe98c95d67187c",
-        "5d7d5d93a441225e",
-        "0459fc6cad1d867c",
-        "475a7249f2cd2fde"
-      ],
-      "sources": [
-        {
-          "name": "PlayStation Blog BR",
-          "owner": "sony",
-          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
-          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
-          "published_at": "2026-11-24T12:51:39+00:00",
-          "kind": "primary",
-          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
-          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
-        },
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-for-ps5-tops-39-million-players",
-          "title": "Grand Theft Auto VI for PS5 tops 39 million players",
-          "published_at": "2026-11-23T23:45:54+00:00",
-          "kind": "press",
-          "text": "More than 39 million unique users have played Grand Theft Auto VI on PlayStation 5 as of November 22, making it the biggest launch in PlayStation history across three decades and five console generations, Sony Interactive Entertainment announced . The sequel set a new record for the highest number of concurrent players for any game on PlayStation, surpassing previous records across multiplayer, free-to-play, and single-player titles. Across PlayStation 5, players cumulatively logged 683 million hours of gameplay in Grand Theft Auto VI , and have spent an average of 17.4 hours exploring the game’s world during its opening days. Grand Theft Auto VI ‘s launch also marked the largest number of newly connected PlayStation 5 consoles on a single day since the console’s launch, outside of end-of-year holidays. Since launch, it was the first played game on 70 percent of new PlayStation 5 consoles. “We want to congratulate our partners at Rockstar Games for bringing this extraordinary game to players around the world and continuing a partnership with PlayStation that stretches back to Grand Theft Auto III on PlayStation 2 ,” Sony Interactive Entertainment content communications manager Tim Turi said. “With [ Grand Theft Auto VI ], we worked to bring the best experience on [PlayStation 5] and gave players a memorable way to commemorate the game with two special limited-edition DualSense wireless controllers inspired by Vice City. We also celebrated the launch with live events including Grand Theft Auto VI : The Festival in Miami this past weekend.” Grand Theft Auto VI launched for PlayStation 5 and Xbox Series on November 19. On November 20, Rockstar Games announced that the game achieved $3.79 billion in day one retail sales following 32.5 million pre-sales. Although Rockstar Games did not share exact unit numbers, the revenue total suggests roughly 37.9 million to 47.3 million copies sold, based solely on pricing across its $79.99 and $99.99 editions.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/GTA6-PS5-Players_11-23-26.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.html",
-          "title": "Grand Theft Auto VI se torna o maior lançamento da história do PlayStation com mais de 39 milhões de jogadores",
-          "published_at": "2026-11-23T23:54:33+00:00",
-          "kind": "press",
-          "text": "Durante o fim de semana de lançamento, os jogadores acumularam mais de 683 milhões de horas explorando Leonida.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWh8OUwh85CxU6BuHauuU10oQGZT5SBvuqRmljRE9kEQ2BRDDeHbGAHebOZ85GF_sNzmNDC8hGFx3tIAWdCoZWNcia9JuAxvBYqHQHI09gm0RF0kTVQKp00O6VcrujCDOjRp2aFkEG5Af6cABPGwj3uvUX5FpRgUAFchMPm3A_sJ5CINNlWRg2n5XcNg/w1200-h630-p-k-no-nu/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.png"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/gta-vi-maior-lancamento-playstation-39-milhoes-jogadores/",
-          "title": "GTA VI é o maior lançamento da história da PlayStation com 39 milhões de jogadores",
-          "published_at": "2026-11-24T11:22:44+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpeg"
-        }
-      ]
-    },
-    {
-      "story_id": "055645d69dcb49da",
-      "title": "PS5 Games on Sale for $15 for Black Friday",
-      "summary": "",
-      "owners": [
-        "future-plc",
-        "vox-media",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "5947255d09e8a59c",
-        "3498286fe0ad79e6",
-        "06daa89f90e37dcc"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/ps5-games-on-sale-for-15-for-black-friday",
-          "title": "PS5 Games on Sale for $15 for Black Friday",
-          "published_at": "2026-11-23T20:54:55+00:00",
-          "kind": "press",
-          "text": "In the olden days (a few years ago) you had to wait until the actual day of Black Friday before the killer deals would crop up. Those days are officially gone. Today, on the Monday before Black Friday official, Walmart kicked off its “ Black Friday Event 2 ,” dropping some absolutely killer deals, and Amazon is price matching most of them. Among the discounts are a bunch of PS5 games on sale for just $15. These games are excellent and not that old. So grab what you want, because you’re not likely to find them cheaper any time soon. What games are we talking? For starters, Mafia: The Old Country, an excellent single-player game that came out last year that our reviewer called “an effective return to the linear and tightly story-driven format of the original Mafia and Mafia II.” Then there’s Assassin’s Creed Shadows , in which Ubisoft’s long-running series finally goes to Japan. We gave it an 8/10 in our review , saying, “By sharpening the edges of its existing systems, Assassin’s Creed Shadows creates one of the best versions of the open-world style it’s been honing for the last decade.” Then there’s Borderlands 4 and Star Wars Outlaws and WWE 2K26, all fine games worth checking out if you haven’t already. Fifteen bucks will even get you Elden Ring, Fromsoft’s sprawling, open-world masterpiece that we gave a 10/10 in our review when it came out in 2022. That same year, we awarded it Game of the Year . Other all-time low prices can be had now as well, like AirPods Pro 3 for $149 and Metal Gear Solid Master Collection Vol 2. for $29.99 . Chris Reed is a senior commerce editor and deals expert for IGN. He also runs IGN's LEGO coverage and maintains the upcoming release dates articles for video games , LEGO sets , and 4K Blu-rays . You can follow him on Bluesky .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/23/untitled-design-1795466994088.png?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "The Verge Games",
-          "owner": "vox-media",
-          "url": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-          "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-          "published_at": "2026-11-22T17:00:00+00:00",
-          "kind": "press",
-          "text": "Nintendo and several retailers are offering the best deals yet on a variety of Switch 2 games. Nintendo and several retailers are offering the best deals yet on a variety of Switch 2 games. If you buy something from a link, The Verge may earn a commission. See our ethics statement. Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bundles , Nintendo is also knocking $20 off some of the Switch 2’s best titles. Some of the most notable games include Donkey Kong Bananza , which is $49.99 (usually $69.99) at Amazon , Target , and Best Buy , and Super Mario Party Jamboree Plus Jamboree TV for $59.99 (usually $79.99) at Amazon , Walmart , and Best Buy . Amazon, Best Buy, Walmart, and GameStop are offering discounts on several more Switch 2 games, though their respective end times and availability varies. Nintendo shared that some game sales will end on November 29th. Even if deals dry up for physical games on your wishlist, digital game deals are happening through Nintendo’s eShop until 11:59 PM PT on Wednesday, December 2nd, 2026.",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/NS2_DonkeyKongBananza_SCRN_25.jpg?quality=90&strip=all&crop=0%2C3.453144302606%2C100%2C93.093711394788&w=1200"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/hardware/gaming-controllers/one-retailer-is-discounting-limited-edition-dualsense-controllers-better-than-the-others-this-black-friday-including-the-hard-to-find-icon-blue-version/",
-          "title": "The PS5 controller Black Friday deals are plentiful over at Currys",
-          "published_at": "2026-11-24T13:34:06+00:00",
-          "kind": "press",
-          "text": "The Wolverine model is also seeing a discount right now If you've been looking to pick up a new DualSense Wireless Controller for your PS5 in the Black Friday sales, then you'll have noticed that the discounts are quite uneven. While most retailers are discounting the extras to roughly the same £43 price point, the actual models of controllers reduced vary wildly by store. There seems to be an exception, though. The Currys PlayStation Black Friday sales have struck a wide array of color models for DualSense controllers; the selection is much more varied than Amazon's, with colorways reduced that aren't discounted elsewhere. That includes the DualSense's premium versions, like the sought-after Icon Blue retro model, as well as the perhaps controversial yellow-and-black Wolverine limited edition controller. Currys' PS5 DualSense controller discounts match other retailers', but with much more selection. By my count, eight different colorways are reduced from the eleven stocked at the retailer, including the vibrant pink and camo-patterned models, as well as some standard alternatives. Some of Sony's more premium DualSense colorways are seeing discounts too: the Icon Blue and Wolverine Limited Edition models are among them. These function the same as the normal models, but with more unique designs. Not only are they not on sale at rival retailers, but some don't even stock them at full price. If you buy one of these controllers from Currys, you get an additional benefit which we'll loosely chalk up as a 'Black Friday extra'. Currys is offering two months of Apple Music, Apple Fitness+, and Apple Arcade to people who purchase one of a selected range of products, which includes the DualSense controllers. This is for new or returning subscribers to those services, and when you make the purchase, you should receive a code in your inbox. The premium DualSense controllers are functionally identical to the standard ones. Don't buy one and expect to suddenly get better at your favorite game. The real reason to buy one is to celebrate your fandom of whatever the controller is inspired by. If you loved the Wolverine game earlier this year (or, more realistically, the character), that controller might be a fun one to add to your collection. Icon Blue was part of a series Sony put out about a year ago, celebrating the cerulean tone which is closely associated with the PlayStation brand, but it was pretty hard to find stock of when it first launched. Unfortunately, other limited edition DualSense colorways aren't seeing the same level of discounts at Currys, but are a bit more affordable than their launch prices of £74.99. For example, the 007 First Light controller isn't officially reduced with a Black Friday discount, but it is sitting at £56 at the retailer . Meanwhile, Amazon has it listed for £87.99. Other limited edition DualSense colorways at Currys under that £74.99 price include the Chroma, Pearl, and Remix versions. Unsurprisingly, the GTA 6 model isn't seeing any kind of price reduction at the moment. If you're worried about buying a controller now, thinking they could get cheaper in the coming week of sales, I'd imagine that's unlikely. Most retailers reduce DualSenses to the same price each year, and we're already seeing multiple hit this £43 mark; it seems that's where they'll stay. We're keeping tabs on all the best Black Friday deals for gamers , which includes all the Black Friday PS5 deals worth going for. And if you need a PS5 controller but don't feel like you need to stick to a DualSense, we've got a round-up of the best PS5 controllers you can buy. Hardware nerds unite, sign up to our free tech newsletter for a weekly digest of the hottest new tech, the latest gadgets on the test bench, and much more from the team at GamesRadar+. Tom Bedford is a contributor who's been writing about tech, gaming and entertainment for over 7 years. He was on the team at TechRadar and WhattoWatch, two of GamesRadar's sister brands, before becoming a freelance writer in late 2025. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/Fua32heeWA8vWLcPwksm6-2560-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "037cdca46de2d576",
-      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "microsoft"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "67ce9b201c87ef45",
-        "99bf93c97f3c6014",
-        "ea95f89275bc7bc4"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
-          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-          "published_at": "2026-11-23T21:36:20+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
-        },
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-on-your-pc-or-phone-via-remote-play-on-xbox/",
-          "title": "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox",
-          "published_at": "2026-11-24T13:45:10+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-          "title": "How to get the GTA 6 BF Bandito",
-          "published_at": "2026-11-24T11:45:55+00:00",
-          "kind": "press",
-          "text": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off While you're out stealing cars for Moses, the GTA 6 BF Bandito will appear on your list, taking you out to the very rural roads of South Leonard County and the Buckskin Swamp. This GTA 6 heist is slightly harder than the others you might have carried out so far though, as this car will be on the move. Like all of Moses' targets, the rough location of the BF Bandito is marked on the map, but as you make your way there, you'll pass by some whoopin' and hollerin' country dwellers who are already taking the buggy for a spin. Here's how to get your hands on the GTA 6 Bandito and get paid. The map marker will take you to the rough location of the BF Bandito, where you should keep your eyes and ears open for some locals riding around the swamps on buggies - one of these is the Bandito. To claim it for yourself, you'll need to stop the Bandito driver, and there are a few ways to do this. If you clock him fast enough, particularly when crossing water, you can simply get in front of him, and he'll stop. Otherwise, you can chase down the Bandito, shooting the driver and his pals. Weirdly, though, when I did this challenge, the driver eventually just stopped and bolted, leaving the buggy free for me to take, though I'm not sure exactly what triggered him to do this. Essentially, just stay close, don't destroy the car by shooting it too much, and it'll be yours in no time. If you're struggling to find some of the other GTA 6 cars that are ripe for the taking, then check I can also help you nab the Declasse Vamos , as well as Vanessa's cute GTA 6 pink Porsche - I mean, Pfister, which will be live shortly. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more After studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/kUMeVoKh7ic8eZ4Yb229iE-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "b7506f90dcd3d694",
-      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
-      "summary": "But there are others waiting to take its place",
-      "owners": [
-        "future-plc",
-        "insider-gaming",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "d4b8bdf8cefcfcd8",
-        "2a76ff4215bee36e",
-        "e04a4cb1fc2e8056"
-      ],
-      "sources": [
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
-          "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
-          "published_at": "2026-11-24T11:15:25+00:00",
-          "kind": "press",
-          "text": "But there are others waiting to take its place One unofficial GTA 6 PC port has been scrapped, hours after major progress in getting the game up and running was shown, as its lead quits and alleges that Rockstar Games has taken down the project's Discord server. Project Leonida was one of the main GTA 6 recompilation efforts, and yesterday, as notorious leaker Cyberleek dropped an executable file for the Xbox build of the game they'd shared last week, it seemed like it wouldn't be long before the fan-made PC port was functional . The devs behind Leonida never expected things to work immediately, but mere hours after the EXE file was dropped, an update in the Discord server claimed: \"The game almost boots. Black screen, audio cuts off.\" In the hours that followed, it'd seem even more progress was made. One video shared on Reddit , apparently posted on the Leonida Discord server, appears to show the full opening sequence and the first-time game setup running on PC. However, don't expect any further updates from the project – or at least, not from its original creator – as the Discord server has now completely disappeared, and the project's lead says they're \"stepping away\" from it entirely. \"I quit guys. I'm sorry,\" NotRexed writes on Twitter . \"I really want to make cool stuff but every single time shit happens that I can't control so I'm stepping away. Thank you everybody, especially in the discord that allowed me to have this opportunity.\" In a follow-up post , they claim that Rockstar was behind the Discord server's takedown, saying: \"Rockstar taking my server down was only part of the reason. Like I've said before, I'm a 15-year-old kid. Managing school and sports is hard enough without having middle-aged men yell and complain to you on Discord. Goodbye.\" Their original GitHub repository has also vanished, though others' clones of Leonida still appear to be live. Even with the original version of Leonida scrapped, though, there are still other projects racing to be the first to actually work. In fact, there's a whole tracker dedicated to monitoring the progress of various projects and how close they are to being ready to work. One such project recently said: \"The title boots, runs its menus at its own 30 fps and loads the world, where rendering fails.\" While none are working yet, I still expect takedowns aplenty in the coming days and weeks, even if it's exceedingly difficult to completely wipe something from the internet once it's been posted. Weekly digests, tales from the communities you love, and more Yet to dive into Rockstar's new game? Check out our GTA 6 review to see why everyone's talking about it. If you're exploring Leonida, be sure to check out our GTA 6 guides for some handy pointers and tips, and look at our recommendations for the best controllers and headsets to play GTA 6 for the ultimate experience. 4. Best pro Xbox: Nacon Revolution X Unlimited I'm GamesRadar+'s Deputy News Editor, working alongside the rest of the news team to deliver cool gaming stories that we love. After spending more hours than I can count filling The University of Sheffield's student newspaper with Pokemon and indie game content, and picking up a degree in Journalism Studies, I started my career at GAMINGbible where I worked as a journalist for over a year and a half. I then became TechRadar Gaming's news writer, where I sourced stories and wrote about all sorts of intriguing topics. In my spare time, you're sure to find me on my Nintendo Switch or PS5 playing through story-driven RPGs like Xenoblade Chronicles and Persona 5 Royal, nuzlocking old Pokemon games, or going for a Victory Royale in Fortnite. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/3N4MyTKS7pQQDuVc3tDDoh-1920-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
-          "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
-          "published_at": "2026-11-24T13:40:00+00:00",
-          "kind": "press",
-          "text": "A lot has happened in the last 24 hours in the community working to get Grand Theft Auto 6 running on PC. And now, Rockstar has dealt a major blow to their efforts. After infamous leaker CyberLeek made good on their promise and released a full Xbox build of GTA 6 , the build immediately spread online amongst modders and recompilers. Their goal? Get the game playable on PC as soon as possible. The largest hub of all that activity has been the Project Leonida Discord server, which had its own repository and a team of volunteer modders working - with help from Claude AI - to recompile GTA 6's leaked Xbox build to run on PC. Rockstar has allegedly taken down the server, causing the project's leaders to dismantle the entire operation. Project Leonida's lead NotRexed posted on X to announce they're ending development, after fans noticed the Discord server has been removed, as has Project Leonida's GitHub repository . \"I quit guys. I'm sorry,\" NotRexed wrote. \"I really want to make cool stuff but every single time shit happens that I can't control so I'm stepping away. Thank you everybody, especially in the discord that allowed me to have this opportunity.\" The modder, who claims to be a \"15 year-old kid\", later wrote in a follow-up X post that Rockstar is behind the server's takedown, though that's not the only reason for the project's end. \"Last post from me. I wanna clear things up,\" they wrote. \"Rockstar taking my server down was only part of the reason. Like I've said before, I'm a 15 year-old kid. Managing school and sports is hard enough without having middle aged men yell and complain to you on Discord. Goodbye.\" Before the Project Leonida server disappeared, footage emerged showing GTA 6 running on PC . The game is able to reach the initial setup screen, but quickly goes into a black screen afterwards. As unimpressive as the result was, it was achieved within hours of the full Xbox build's leak. Incidentally, while Project Leonida was the biggest and most prominent of the various GTA 6 recompilation projects, the leaking of the full Xbox build has given rise to various other groups. PortWatch VI is a website dedicated to tracking their progress, and though the data is almost entirely self-reported, a few other teams appear to have made notable progress themselves, so this may not be the end of the story. Rockstar has yet to comment publicly on the Xbox build's leak, and the company has not announced GTA 6 for PC. However, a report suggested GTA 6 arrives on PC in the first quarter of 2027 , earlier than everyone expected. If you're among the millions already playing the game on consoles, Eurogamer's GTA 6 walkthrough contains a wealth of information covering all major mechanics, main missions , secrets, cheats and more besides.",
-          "image": "https://assetsio.gnwcdn.com/gta-6-hackers.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/rockstar-shuts-down-discord-server-trying-to-port-gta-6-to-pc/",
-          "title": "Rockstar Shuts Down Discord Server Trying to Port GTA 6 to PC",
-          "published_at": "2026-11-24T15:56:17+00:00",
-          "kind": "press",
-          "text": "Rockstar Games shut down a Discord server after discovering it was working on a port of Grand Theft Auto 6 (GTA 6) to PC. Known as “Project Leonida”, this server was attempting to recompile the game in order to make it run fully on the platform. Of course, Rockstar and Take-Two, being the protective companies that they are, it was only a matter of time before they got wind of the work and had it stopped. The project was far enough along that the game had started booting on some PCs. A lot is likely due to the massive leaks done by Cyberleek, which appeared to release a full Xbox build of the game. After Rockstar shut the server down, the creator took to social media to reveal they were banned for two years from Discord and they were quitting. And, as it turns out, the ringleader was nothing more than a kid. “I quit guys. I’m sorry,” they said , adding in another post that they were just 15 and going to focus on school. “I really want to make cool stuff, but every single time shit happens that I can’t control, so I’m stepping away. Thank you everybody, especially in the Discord, that allowed me to have this opportunity.” Fans have waited 13 years for GTA 6 to launch. With the game only available on PlayStation 5 and Xbox Series X|S, similar to when GTA 5 was released in 2013, PC players felt left out. There are reports that the PC version of the game could come as soon as early 2027 , but that idea didn’t seem to be enough for fans. Despite this one prominent attempt being shut down, it’s not likely to stop others from working to get the game running on PC. It’s expected to continue to rise, especially with the AI tools available to many users. What do you think of people working on unofficial PC ports for GTA 6? Let us know down in the comments, and join the official Insider Gaming Discord server . In other news, check out the first post-launch update for Grand Theft Auto 6 . Also, don’t forget to sign up for our weekly newsletter . Mike has been covering the gaming industry since 2012, and has reported on some of the largest events in the industry while also working as an investigative reporter. Outside of…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/what-to-do-first-gta-6-scaled.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "06deddc4d8a7cb47",
       "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
       "summary": "Christmas did not come early for Sony, but it came close: the firm has declared that GTA 6 was the largest game launch in the platform's history, driving a record number of concurrent players on its November 19th launch, although the number of new consoles playing the game fell short of year-end highs. Read more",
@@ -423,8 +241,56 @@
           "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
           "published_at": "2026-11-24T15:33:18+00:00",
           "kind": "press",
-          "text": "Grand Theft Auto VI GTA 6 PlayStation Rockstar We already know the launch of Grand Theft Auto VI has been a big one: Take Two and Rockstar confirmed that over 32 million copies were sold by the end of the opening day . That alone puts day one revenue above the global box office of movies like Avengers: Endgame and Avatar , the highest-grossing films of all time. According to Sony, the game has been a particularly large success for PlayStation, the platform’s biggest launch of all time with 39 million players. In a post on the official PlayStation Blog , Sony said that âmore than 39 million unique players have experienced Jason and Luciaâs story in Grand Theft Auto VI on PlayStation 5.â Such high numbers suggest the majority of players listened to the promotional campaign that GTA 6 âplays best on PlayStation,â and have chosen the platform as their portal to Leonida. Sony also confirmed that the game had âthe highest number of concurrent players for any gameâ in the history of the platform, and that players were averaging 17.4 hours in the gameâs opening weekend. Outside of the consoleâs launch and the holiday seasons, Sony saw the highest number of new consoles connecting to PlayStation Network in PS5 history, with over 70 percent booting GTA 6 as their first game. It all comes together for a launch that Sony is clearly very proud of. And itâs likely not the only platform holder pleased with the blockbuster launch of the new game: reports suggest over 2.1 million Xbox players switched their console region in order to play GTA early , hinting towards strong sales despite the console lagging behind PS5. It seems that the so-called review-bombing campaign is having unsurprisingly little effect on the gameâs success. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. A Vice City mode was using music made by AI If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very The best way to play is just to experience the game, even if most of us are too internet-pilled to do that People don't like having to scroll a big number back and forth to deposit a specific amount It's a funny ad poking fun at another big franchise, but is a bit awkward as Rockstar deals with its own employees trying to form a union I could see an HBO TV adaptation of Red Dead Redemption making sense",
+          "text": "Grand Theft Auto VI GTA 6 PlayStation Rockstar We already know the launch of Grand Theft Auto VI has been a big one: Take Two and Rockstar confirmed that over 32 million copies were sold by the end of the game’s launch day . That alone puts day-one revenue above the global box office of movies like Avengers: Endgame and Avatar , the highest-grossing films of all time. According to Sony, the game has been a particularly large success for PlayStation, the platform’s biggest launch of all time with 39 million players. In a post on the official PlayStation Blog , Sony said that âmore than 39 million unique players have experienced Jason and Luciaâs story in Grand Theft Auto VI on PlayStation 5.â Such high numbers suggest the majority of players listened to the promotional campaign indicating that GTA 6 âplays best on PlayStation,â and have chosen that platform as their portal to Leonida. Sony also confirmed that the game had âthe highest number of concurrent players for any gameâ in the history of the platform, and that players were averaging 17.4 hours in the gameâs opening weekend. Outside of the consoleâs launch and the holiday seasons, Sony also saw the highest number of new consoles connecting to PlayStation Network in PS5 history, with over 70 percent booting up GTA 6 as their first game. It all comes together for a launch that Sony is clearly very proud of. And itâs likely not the only platform holder pleased with the blockbuster launch of the new game: reports suggest that over 2.1 million Xbox players switched their console region in order to play GTA early , hinting toward strong sales there, too, despite the console lagging behind PS5. It seems that the so-called review-bombing campaign is unsurprisingly having little effect on the gameâs success. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. A Vice City mode was using music made by AI If you were curious how accurate the utility towers in Grand Theft Auto 6 the answer appears to be: Very The best way to play is just to experience the game, even if most of us are too internet-pilled to do that People don't like having to scroll a big number back and forth to deposit a specific amount It's a funny ad poking fun at another big franchise, but is a bit awkward as Rockstar deals with its own employees trying to form a union I could see an HBO TV adaptation of Red Dead Redemption making sense",
           "image": "https://kotaku.com/app/uploads/2026/11/gta-records-1200x675.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "b8a6889ec9821942",
+      "title": "How to find the laptop password in GTA 6",
+      "summary": "Break into Boogie’s laptop using clues found in the apartment",
+      "owners": [
+        "future-plc",
+        "insider-gaming",
+        "vgc"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "1eee5f0707685ecf",
+        "e59a1d3433286d48",
+        "8a40624a62a8a506"
+      ],
+      "sources": [
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-laptop-password/",
+          "title": "How to find the laptop password in GTA 6",
+          "published_at": "2026-11-24T15:30:59+00:00",
+          "kind": "press",
+          "text": "Break into Boogie’s laptop using clues found in the apartment The GTA 6 laptop password appears in Chapter 3, when Jason and Lucia end up borrowing an apartment from a friend of a friend called Boogie. In the bedroom, there’s a conspicuous open laptop that requires a password to get into. If you’re curious, all the clues can be found in the apartment, and you’ll get a pretty nice ride out of it, too – at least once you find the location it hints towards. The GTA 6 laptop pass word is Muffins Queen 15, found from various clues around the house. Below I'll run through all the info you need to find what you want. When you first find the laptop you’ll be able to put in a few guesses, but none of them will be right. Instead, you’ll need to unlock the correct prompts by searching around your safehouse. First, head to the entrance hallway to find the shrine to Boogie’s dog (above). By examining the picture you’ll find out the dog’s name was Muffins. But the password is a bit more secure than that. Head back into the bedroom to find the next clue on the bedside table. The notebook shows Muffins wearing a crown, but that’s not all. Flip it over to find a message: “Class of ‘15 reunion next Friday.” Once you’ve done that, you have all the clues you need. Go back to the laptop and follow the prompts to enter “Muffins,” “Queen,” and “15.” Once inside, don’t forget to flip through Boogie’s messages to find a clue about where to find your reward: Vanessa's Pink Porsche , in the garage near a restaurant near Auntie’s Place. You’ll automatically pick up the code to get in, too. But you might not be able to find the garage immediately – it’s not marked on the map. If you need a hand, head over to our Auntie’s Place location guide. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more Jay Castello is a freelance writer with more than five years experience specialising in online culture and video game communities. Their work - which covers everything from fanfiction to Twitch streaming - has appeared at sites including The Verge, Polygon, and Fanbyte. They also co-host Turnabout Breakdown, a podcast dedicated to dissecting the entire Ace Attorney series. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/iQzTpdbhngcmwSr9ENWjoX-2560-80.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/how-to-find-complete-tractor-revenge-encounter-in-gta-6/",
+          "title": "How to Find & Complete Tractor Revenge Encounter in GTA 6",
+          "published_at": "2026-11-24T15:58:53+00:00",
+          "kind": "press",
+          "text": "Did you know there’s a Tractor Revenge encounter in GTA 6 where you have to spread manure over someone’s house? Here’s a guide that explains how to do it. In a game like GTA 6 , players always need to keep their ears and eyes open, because you never know what weird, absurd adventure you’ll suddenly become part of while calmly cruising down the road. One such event is Caleb’s revenge story against his mistreating ex-boss, Stacey, and this guide explains how to find the encounter and what you need to do. You can also buy Grand Theft Auto 6 here if you haven’t already! The Tractor Revenge Encounter in GTA 6 can be found on a highway while driving towards Frogswater. While driving from the motel to Frogswater in Chapter 2, players will encounter an erratic tractor on the highway (the exact location is marked with a blue star in the screenshot above). The tractor is being operated by an NPC named Caleb, who is heavily under the influence of alcohol and is causing a disturbance with his reckless driving, leading to traffic congestion on the road. To initiate this encounter, players should approach the tractor and press and hold up on the D-Pad to Taunt/Question Caleb. Here are the steps on how to find and complete the tractor revenge encounter in GTA 6 and how to spread manure over Stacey’s house: What are your thoughts on GTA 6’s Tractor Revenge encounter? Did you think the game would have you spraying manure over someone’s home? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more from Insider Gaming, read our take on whether GTA 6 has bowling or darts . Don’t forget to sign up for our weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Tractor-Revenge-2-scaled.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-security-expert-mission-walkthrough-how-to-find-and-rescue-nicole/",
+          "title": "GTA 6 Security Expert Mission Walkthrough: How To Find And Rescue Nicole",
+          "published_at": "2026-11-24T16:48:14+00:00",
+          "kind": "press",
+          "text": "Recruit Nicole in the Security Expert mission in GTA 6 Wondering how to complete Security Expert in GTA 6? Security Expert is one of the missions that lead up to Chapter 3’s finale, The Cartel Heist. This mission continues directly from the last mission, Sinfrontera National Bank . In this mission you’ll kidnap Nicole, a security expert that will help with the heist. Check out our GTA 6 Guides Hub for dozens of guides laying out everything you need to know about Rockstar ‘s latest epic. We’ve also got a complete GTA 6 walkthrough in progress, which you can bookmark and return to as you progress through the game. Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. Once the previous mission ends, the game will automatically cut to Jason and Lucia travel to Waning Sands in Leonard County to locate Nicole. There is no separate mission marker to find beforehand, as Security Expert starts automatically. Drive towards the marked location in Waning Sands. As you approach the house, Jason will ask you to drive past slowly so you can assess the guards. The place is swarming with security, so you’re going to have to sneak in. Continue past the property and park your vehicle nearby. Follow Jason around the back of the property. Wait for a guard to leave through the back door before entering. Once inside, cross the hallway and head towards the closed bedroom in the north-east corner of the house. Use Focus Mode to keep tabs on where the security guards are in the house. We don’t know if being spotted triggers a mission failure, or a shootout. A cutscene will play, after which Nicole will be unconscious on the floor. Pick Nicole up and follow Jason back outside. It’s important to stay directly behind him as you make your way around the property. This allows you to avoid the guards without triggering an alarm. Once you reach your car, open the boot and launch Nicole inside. If you have a stash in the boot of your car from a previous crime, the game will ignore it for this mission, so you’ll always be able to stash her. Leave the area quickly and drive towards Raul’s planning room in Stockyard. Once you arrive, a cutscene will reveal why Raul wanted Nicole. He knows she’s been stealing from La Polilla Negra and explains that her bosses in the cartel intends to kill her after her current assignment. Nicole agrees to join Raul’s crew, completing the mission. That’s everything you need to know about how to complete Security Expert in GTA 6. Security Expert doesn’t provide a cash reward. However, successfully completing the mission recruits Nicole Park to Raul’s crew, providing an important specialist for the upcoming Cartel Heist.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-security-expert-walkthrough-3.jpg"
         }
       ]
     },
@@ -459,44 +325,196 @@
           "title": "Acts of Blood tem a versão de PC adiada para 2027",
           "published_at": "2026-11-23T22:21:27+00:00",
           "kind": "press",
-          "text": "O jogo apresentou alguns problemas que necessitam de mais tempo para serem consertados.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFkBe6SfJaiIbeMeoPL6e6VLbULCN1TZwJtfaUyQBgACLkFRGlMcAK4Om1TxhOCvjNxpBSp14qZ3pNRj0V06_9q0j7FUhyphenhyphenWI0O5nGQAlsK_EsxY8HP1l3nx0FEoAPSwx6ENby4hgYv8I9JcJ43BVMzvTXIaVQyrnDDk2FkzKG9-qCT1LSwTTv0jzdROF8/w1200-h630-p-k-no-nu/images%20(4).jpg"
+          "text": "",
+          "image": ""
         }
       ]
     },
     {
-      "story_id": "fd1d801f1bf5ff6b",
-      "title": "GTA VI: álbum deluxe traz hit exclusivo de Travis Scott",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Se você já jogou GTA VI e estava doido pra ter \"aquela\" música do Travis Scott... Chegou, hein! E com muita coisa legal! O post GTA VI: álbum deluxe traz hit exclusivo de Travis Scott apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
+      "story_id": "70b26ab15ee9ee92",
+      "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+      "summary": "Rockstar just issued a new patch for GTA 6 on PlayStation 5 and Xbox Series X/S, targeting a few issues players have been reporting since the game launched last Thursday (19th November). Read more",
       "owners": [
-        "meups",
-        "olhar-digital"
+        "nzn",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "7a42bde5eaa7a5bb",
-        "d1a9e1dae39fab26"
+        "40c4cd20ddc07752",
+        "d3c83515da5a6042"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+          "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+          "published_at": "2026-11-23T15:22:30+00:00",
+          "kind": "press",
+          "text": "Rockstar just issued a new patch for GTA 6 on PlayStation 5 and Xbox Series X/S, targeting a few issues players have been reporting since the game launched last Thursday (19th November). The 23rd November patch for the game deploys seven major fixes for the game, including a pretty significant bug that prevented phone calls not triggering at certain points, resulting in a scenario where you could be locked out of progressing the game. The official update is titled 'version 01.002.002', and its weighs in at different sizes on different consoles: it's 603.8 MB on PS5, and 1.6 GB on Xbox Series X/S. Thanks to an update on the Rockstar website , you can read all of the updates that arrive with the latest pathc below. There have been a few fairly high-profile cases of the autosave not working as the developer intended, leading to a few cases of streamers losing plenty of real-world time thanks to unpredictable auto-save behaviour. JasonTheWeen lost 12 hours of progress on the PS5 , for example. But there's one issue here the developer hasn't addressed: vignetting. Plenty of players have taken to online communities to complain about the vignette effect that pops into the game - theoretically to help with motion smoothing and various grapihcal elements as the game runs in 30FPS. THe effect is worsened when you're fatigued, hungry, or have some other status effect, but it is present quite a lot of the time, too. Most of the responses to a tweet about the patch posted by the Rockstar Support account reference the vignetting in GTA 6, and the developer has issued no response at the time of writing.",
+          "image": "https://assetsio.gnwcdn.com/GTA-6-vignette.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/produto-e-review/bug-de-gta-6-destrava-fps-no-xbox-series-xs-e-revela-limites-de-desempenho/",
+          "title": "Bug de GTA 6 destrava fps no Xbox Series X|S e revela limites de desempenho",
+          "published_at": "2026-11-23T21:15:00+00:00",
+          "kind": "press",
+          "text": "Dica para deixar GTA 6 no padrão brasileiro: veja como mudar unidades de medida Um bug relacionado ao Quick Resume do Xbox Series X|S destrava a taxa de quadros por segundo de GTA 6 . A falha permitiu testar os limites dos consoles da Microsoft e reforça que, embora exista uma margem de desempenho considerável, a trava de 30 fps é interessante para manter uma experiência consistente, concluiu o Digital Foundry . Um relato sobre o bug foi publicado pelo u/Meowwie64 no subreddit r/gtaglitches. No texto, ele descreve como reproduzir a falha nos consoles Xbox Series X|S. A Rockstar lançou Grand Theft Auto 6 com desempenho travado em 30 quadros por segundo em todos os consoles — Xbox Series X|S, PlayStation 5 e PlayStation 5 Pro. O jogo foi desenvolvido pensando em alcançar essa taxa de quadros . Sem a trava de 30 fps, o console pode renderizar quantos quadros por segundo seu hardware permitir . Isso é basicamente o que acontece nos computadores em muitos jogos, exceto naqueles que limitam a taxa de quadros a um valor específico por razões técnicas. Para reproduzir o glitch , é necessário ter um Xbox Series X|S, um display com suporte à taxa de atualização de 120 Hz e GTA 6 na versão 01.002.001 . O autor da publicação não menciona a versão específica do firmware do console, porém, considerando o comportamento da falha, esse também pode ser um fator relevante para o procedimento. O processo para reproduzir o glitch é relativamente simples: Se tudo foi feito no momento certo, GTA 6 provavelmente estará com a taxa de quadros destravada . Isso permite que o console renderize imagens acima do limite de 30 fps definido pela Rockstar. A reprodução acima de 30 fps é resultado de um bug cuja causa ainda não foi identificada, mas que provavelmente será resolvido por um patch de correção . Além disso, apesar de o Xbox Series S também permitir reproduzir a falha, o hardware mais limitado do console não consegue renderizar muitos quadros além do limite original. O site e canal do YouTube Digital Foundry testou o glitch e avaliou como o Xbox Series X reproduz GTA 6 sem o limite na taxa de quadros. Em boa parte da jogabilidade, o console da Microsoft consegue entregar mais de 30 fps, mas o desempenho está longe de ser estável . Segundo o veículo, trechos muito movimentados (tiroteios, explosões e perseguições) fazem o desempenho cair abaixo dos 30 fps , assim como acontece na jogabilidade sem o glitch . Dirigir em alta velocidade por rodovias urbanas também faz a taxa de quadros se aproximar do limite original. Porém, em trechos mais tranquilos ou ao dirigir em alta velocidade por rodovias menos movimentadas, o console consegue alcançar 40 fps ou mais. Nos testes do Digital Foundry , o Xbox Series X chegou a 60 fps ao pilotar um avião e olhar diretamente para o céu — uma situação pouco frequente durante a jogatina convencional. Contudo, a taxa de quadros adicional vem com efeitos colaterais: por algum motivo, o jogo parece rodar de forma acelerada quando alcança taxas mais elevadas . O game ainda é jogável, mas o comportamento reforça que a reprodução acima de 30 fps não estava prevista e pode comprometer algumas animações. No Xbox Series S, destravar a taxa de quadros não traz muitos benefícios . O console consegue reproduzir o game com mais de 30 quadros por segundo em determinados cenários, como cutscenes ou ao olhar diretamente para o céu em áreas abertas, mas os ganhos são limitados. Isso acontece porque destravar a taxa de quadros não garante mais desempenho magicamente . Sem o bloqueio original, o console fica limitado ao potencial do próprio hardware, e os testes já mostraram que GTA 6 é um título bastante pesado até para os videogames da atual geração. Quer ficar por dentro das novidades do mundo dos games? Acesse o VOXL e acompanhe as últimas notícias sobre GTA 6 , Xbox e desempenho nos consoles. /Com informações de Digital Foundry . Bug de GTA 6 destrava fps no Xbox Series X|S e revela limites de desempenho Acabou a luz no meio do jogo? Como ter energia de backup para manter seus equipamentos funcionando Microsoft liga alerta máximo após incidente que tirou serviços do ar WhatsApp lança figurinhas com som e sem moldura branca; saiba como usar O que faz um notebook ser bom? A resposta muda dependendo do que você faz com ele",
+          "image": "https://www.estadao.com.br/resizer/v2/N2ZYJMFWXVEB5LWUMJ53L5XUYU.jpg?quality=80&auth=c48a48313ba10f222fb73f99ea3be792e5e7cbbf11d47b57d39fbd4ac0462f2e&width=1200&height=630&focal=1108,550"
+        }
+      ]
+    },
+    {
+      "story_id": "7e39cf3096250936",
+      "title": "GTA VI teria fechado fim de semana com quase 45 milhões de cópias",
+      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Alinea Analytics indicou que os resultados de GTA VI foram impressionantes no primeiro fim de semana dele no mercado. O post GTA VI teria fechado fim de semana com quase 45 milhões de cópias apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
+      "owners": [
+        "adrenaline",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "f3471c5f2ea00b65",
+        "e77f720cada8ca30"
       ],
       "sources": [
         {
           "name": "MeuPlayStation",
           "owner": "meups",
-          "url": "https://meups.com.br/noticias/gta-vi-album-deluxe/",
-          "title": "GTA VI: álbum deluxe traz hit exclusivo de Travis Scott",
-          "published_at": "2026-11-23T14:58:19+00:00",
+          "url": "https://meups.com.br/noticias/gta-vi-teria-fechado-fim-de-semana/",
+          "title": "GTA VI teria fechado fim de semana com quase 45 milhões de cópias",
+          "published_at": "2026-11-23T16:34:11+00:00",
           "kind": "press",
           "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/maxresdefault.jpg"
+          "image": "https://meups.com.br/wp-content/uploads/2020/03/MeuPlayStation.jpg"
         },
         {
-          "name": "Olhar Digital Games",
-          "owner": "olhar-digital",
-          "url": "https://olhardigital.com.br/2026/11/23/games-e-consoles/gta-6-trilha-sonora-album-34-musicas-lista-completa/",
-          "title": "GTA 6 lança álbum com 34 músicas de Lana Del Rey, Dua Lipa e Travis Scott; veja lista",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/relatorio-indica-que-gta-6-ja-vendeu-45-milhoes-de-copias/",
+          "title": "Relatório indica que GTA 6 já vendeu 45 milhões de cópias",
+          "published_at": "2026-11-24T02:05:55+00:00",
+          "kind": "press",
+          "text": "GTA 6: onde encontrar o resort de nudistas",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/gta-6-the-album-deluxe-edition-23-faixas-bonus-travis-scott-anitta-overmono-lista-5.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "b5101a945b41c190",
+      "title": "Jogos da Bandai Namco em oferta na Nuuvem com até 90% de desconto",
+      "summary": "Os interessados podem aproveitar as ofertas da Nuuvem e adquirir seus jogos preferidos da lista por tempo limitado",
+      "owners": [
+        "adrenaline",
+        "gameblast"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "ef6c1969e5ed3742",
+        "0e31d8a2debc8760",
+        "61ed5fa8688686ca",
+        "159fda2b96e0436a",
+        "cfd1075121198a3a",
+        "3bf4c898ecf90a65"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-da-bandai-namco-em-oferta-na-nuuvem-com-ate-90-de-desconto-6/",
+          "title": "Jogos da Bandai Namco em oferta na Nuuvem com até 90% de desconto",
           "published_at": "2026-11-23T17:00:00+00:00",
           "kind": "press",
-          "text": "A Rockstar Games e a Atlantic Records lançaram oficialmente Grand Theft Auto VI: The Album , trilha sonora de GTA 6 que reúne 34 músicas originais de artistas como Lana Del Rey, Dua Lipa, Travis Scott, Cardi B, JENNIE e Playboi Carti. O álbum já está disponível nas plataformas digitais e também ganhou edições especiais em CD e vinil. A seleção musical acompanha a atmosfera de Vice City e do estado fictício de Leonida, cenários do novo jogo da franquia. Entre as faixas estão “Crazy For You”, de Lana Del Rey, “Go Easy”, de Dua Lipa, “RHYNO”, de Travis Scott, e “Don’t Chart”, de Cardi B. A trilha também conta com participações de Rauw Alejandro, Burna Boy, Don Toliver, Kali Uchis, Zara Larsson e CA7RIEL & Paco Amoroso. A música sempre foi uma parte importante da identidade de Grand Theft Auto , principalmente pelas estações de rádio que acompanham os jogadores durante a exploração das cidades. Em GTA 6, a Rockstar amplia essa tradição com novas rádios, trilha sonora dinâmica e um repertório que reúne diferentes gêneros musicais. Além do lançamento digital, Grand Theft Auto VI: The Album ganhou edições físicas especiais, incluindo um vinil de edição limitada preenchido com líquido, uma versão com efeito splatter e um CD com estojo tradicional. Também foram anunciadas versões exclusivas para varejistas como Amazon, Walmart, Best Buy e Target, com diferentes prensagens e pôsteres. Para celebrar o lançamento, foi anunciado o evento Grand Theft Auto VI: The Festival , realizado em 21 de novembro, no Mana Wynwood, em Miami. A programação divulgada incluiu artistas da trilha sonora, como Travis Scott, Cardi B, Rauw Alejandro, Metro Boomin, Justice, Kodak Black e CA7RIEL & Paco Amoroso. O álbum completo pode ser ouvido nas plataformas digitais por meio deste site . Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
-          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/GTA-6-Rockstar-4-1-1.jpg"
+          "text": "REVIEW | GTA VI é incrível e vai muito além de tudo aquilo que poderíamos esperar",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/05/tales-of-arise.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-em-oferta-na-steam-com-ate-90-de-desconto-nesta-semana-38/",
+          "title": "Jogos em oferta na Steam com até 90% de desconto nesta semana",
+          "published_at": "2026-11-23T19:23:45+00:00",
+          "kind": "press",
+          "text": "PS6 portátil pode ser o único handheld com GPU AMD RDNA 5 customizada",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/11/Baldurs-Gate-3-e-o-grande-vencedor-do-Golden-Joystick-Awards-2023.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-no-esquenta-black-friday-da-nuuvem-com-ate-95-de-desconto/",
+          "title": "Jogos de PC em oferta no Esquenta Black Friday da Nuuvem com até 95% de desconto",
+          "published_at": "2026-11-23T23:00:00+00:00",
+          "kind": "press",
+          "text": "XBOX Game Pass em novembro recebe 12 jogos — veja lista!",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/08/Estudio-Clair-Obscur-Expansao-Desenvolvimento.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/jogos-da-sega-recebem-descontos-de-ate-85-de-black-friday-no-pc-playstation-xbox-e-nintendo-switch.html",
+          "title": "Jogos da SEGA recebem descontos de até 85% de Black Friday no PC, PlayStation, Xbox e Nintendo Switch",
+          "published_at": "2026-11-23T23:41:35+00:00",
+          "kind": "press",
+          "text": "Promoção inclui os menores percentuais já aplicados a Sonic Racing: CrossWorlds, Like a Dragon: Infinite Wealth e Sonic Frontiers.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUv4BRHt0Yr9hMkOzQVca3-pMvHeB5ZSG2fFWSZoM1U2QcG_e06Eem7Bays-ulGEdfY8nU6WGWlHiPCCpa7msVpV2PeCrVaWcVsFDrQxkYWyDZPcEmul9GNAcxoyaHi8_Z_VRTynq1M8QtaJ8vou8KEv7orLMyjIzyPEyXDQ2h-JPt334CcLf1WsfL-bA/w1200-h630-p-k-no-nu/image.png"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-da-xbox-em-oferta-na-steam-com-ate-85-de-desconto/",
+          "title": "Jogos da XBOX em oferta na Steam com até 85% de desconto",
+          "published_at": "2026-11-24T15:00:00+00:00",
+          "kind": "press",
+          "text": "Veja comparativo gráfico de GTA 6 no PS5 e PS5 Pro",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/08/gears-of-war-e-day-revela-trailer-na-gamescom-2026-com-marcus-fenix-e-dominic-santiago-cover.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/nintendo/jogos-da-capcom-em-oferta-no-nintendo-switch-1-2-ate-75-de-desconto-2/",
+          "title": "Jogos da Capcom em oferta no Nintendo Switch 1 & 2; até 75% de desconto",
+          "published_at": "2026-11-24T17:00:00+00:00",
+          "kind": "press",
+          "text": "Remake de Zelda: Ocarina of Time já roda no PC através de emuladores",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/07/street-fighter-6-1.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "68028d4b8911db56",
+      "title": "Diretor de Cyberpunk 2 diz que o jogo está “cancelado” após entrar em “depressão pós-GTA 6”",
+      "summary": "Responsáveis por Cyberpunk 2 rasgam elogios a GTA 6.",
+      "owners": [
+        "meups",
+        "nzn"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "74a496211c214f23",
+        "31cb79cc8352acad"
+      ],
+      "sources": [
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/diretor-de-cyberpunk-2-diz-que-o-jogo-esta-cancelado-apos-entrar-em-depressao-pos-gta-6/",
+          "title": "Diretor de Cyberpunk 2 diz que o jogo está “cancelado” após entrar em “depressão pós-GTA 6”",
+          "published_at": "2026-11-23T19:15:00+00:00",
+          "kind": "press",
+          "text": "GTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI GTA 6 finalmente chegou na última quinta (19) e já está levando jogadores para explorar as ruas de Vice City e outras regiões de Leonida. Enquanto muita gente descobre os detalhes espalhados pelo mapa, outros estão impressionados com o nível de vida e interação do mundo aberto da Rockstar. Um deles é Igor Sarzyński, diretor criativo de Cyberpunk 2 , que compartilhou nas redes sociais sua reação ao novo jogo. O desenvolvedor brincou que a sequência do RPG futurista havia sido “cancelada” depois de conhecer GTA 6 , dizendo estar passando por uma espécie de depressão pós-jogo. A publicação chamou a atenção justamente por vir de alguém que também trabalha na criação de mundos abertos. Apesar da brincadeira, Sarzyński aproveitou para elogiar o trabalho da Rockstar e explicar os motivos pelos quais considera o jogo um acontecimento tão impressionante. Em publicação no Bluesky, Sarzyński comentou que a “depressão de desenvolvedor de jogos de mundo aberto induzida por GTA 6 é real”. Na sequência, ele descreveu o lançamento da Rockstar como “provavelmente a maior conquista artística da história”. O diretor destacou características como escala, densidade, coerência e atenção aos detalhes, classificando o resultado como “simplesmente um milagre tecnológico e criativo”. Foi nesse contexto que ele brincou: “ Cyberpunk 2 foi cancelado, vou varrer as folhas de outono no meu quintal agora”. Apesar da provocação, Sarzyński fez questão de separar a admiração por GTA 6 do trabalho que sua equipe está desenvolvendo. Em outra publicação, ele afirmou acreditar que Cyberpunk 2 está seguindo um caminho próprio, com uma proposta diferente da experiência da Rockstar. “Acho que estamos fazendo algo original, com um toque único e diferente”, explicou o desenvolvedor. Para ele, GTA 6 é impressionante justamente por expandir as possibilidades do que pode ser feito em um jogo, com uma visão bem definida e execução extremamente cuidadosa. Sarzyński não foi o único integrante da CD Projekt RED a comentar o lançamento epopeico de GTA 6 . Michal Nowakowski, co-CEO do estúdio, também parabenizou a Rockstar e afirmou que pretende explorar o novo jogo durante as próximas semanas e meses. Nas redes sociais, Nowakowski chamou GTA 6 de “obra-prima” e destacou o tamanho do desafio enfrentado pela equipe responsável pelo projeto. “É inacreditavelmente difícil alcançar o que vocês acabaram de fazer. Tiro o chapéu para todos vocês”, declarou. A conta oficial de Cyberpunk 2077 também entrou na conversa para celebrar a chegada do novo jogo. “De Night City a Vice City, enviando amor de costa a costa”, publicou o perfil em uma mensagem que parabenizou a Rockstar pelo lançamento. Outros desenvolvedores também compartilharam elogios. Pawel Sasko, diretor associado de Cyberpunk 2 , destacou a profundidade do mundo e a atenção aos detalhes, enquanto Sebastian Kalemba, diretor do também aguardadíssimo The Witcher 4 , afirmou estar ansioso para passar os próximos dias explorando o jogo. E você, já está se aventurando por Leonida com Jason e Lucia? Conte nas redes sociais do VOXL o que está achando de GTA 6 ! Acabou a luz no meio do jogo? Como ter energia de backup para manter seus equipamentos funcionando Bug de GTA 6 destrava fps no Xbox Series X|S e revela limites de desempenho Motorola lança Edge 70 Neo com bateria de 7.000 mAh; confira especificações One UI 9.5: confira os recursos descobertos no primeiro beta da Samsung CEO da Anthropic teria sugerido usar games para acalmar ‘desempregados pela IA'",
+          "image": "https://www.estadao.com.br/resizer/v2/OP33ATX7NRGWRKZXNECDQYQ7T4.jpg?quality=80&auth=b727e1c043fd8939d36732ca95ad53a855acbf82d1aedac8128cbd35613dbdf8&width=1200&height=630&focal=942,455"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/cyberpunk-2-esta-cancelado-brinca-diretor-apos-gta-vi/",
+          "title": "“Cyberpunk 2 está cancelado”, brinca diretor após GTA VI",
+          "published_at": "2026-11-23T19:40:22+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2025/09/Cyberpunk-2.jpg"
         }
       ]
     }
