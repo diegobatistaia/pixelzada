@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T10:40:06+00:00",
+  "generated_at": "2026-11-25T12:40:06+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 0,
+  "already_written_today": 1,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -48,6 +48,7 @@
       "owners": [
         "adrenaline",
         "future-plc",
+        "keleops",
         "meups",
         "ziff-davis"
       ],
@@ -56,7 +57,9 @@
         "9f678c22aefc679d",
         "00cf79d4e3a626dc",
         "57d01cd10c71394d",
-        "8a85ebe4c76eca30"
+        "8a85ebe4c76eca30",
+        "0118a0e72fb8ee43",
+        "48e9f2543a55a3f4"
       ],
       "sources": [
         {
@@ -98,6 +101,100 @@
           "kind": "press",
           "text": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6. CD Projekt made its Q3 2026 financial report today, and there's not a whole lot to see: The Witcher 3 remaster was a big hit, work on Cyberpunk 2 and The Witcher 4 is ticking along, and everyone really liked Cyberpunk: Edgerunners 2. Perhaps understandably, a number of questions in the subsequent investors call put the focus on Grand Theft Auto 6 . While CD Projekt joint CEO Michał Nowakowski didn't go too deep on the topic, he did say that the upcoming Witcher 4 will be comparable to GTA 6 in at least one way. \"Obviously, this is a call about us, not about Rockstar, but I do understand the connection here,\" Nowakowski said when asked if The Witcher 4 will represent a technological leap over its predecessor comparable to GTA 6. \"Having said that, of course, I'm not going to make a deep dive and a full-blown review of GTA 5 versus GTA 6. But of course, we did look at the game. We did see the differences. \"Do we believe there's going to be a comparable leap between Witcher 3 and Witcher 4? I think so, yes. I mean, it's been 11 years. We are working on The Witcher 4 to make it significantly better looking and improved in terms of pretty much every possible facet of the game. So yes, you should expect us to make a much bigger jump between Witcher 3 and Witcher 4.\" Well, sure. As Nowakowski said, The Witcher 3: Wild Hunt was released 11 years ago, and it'll be two more years before The Witcher 4 comes out—assuming it's not delayed, which would make it a rarity among CD Projekt games. It will also be the same number of years between Witcher 3 and 4 as spanned GTA 5 and 6. In the world of technology, 13 years is a long time. Hell, just the upgrade from the original Witcher 3 to the remastered version that dropped earlier this year is notable: At the same time, Nowakowski said that while the GTA 6 launch was tremendously successful, CD Projekt Red doesn't intend to merely mimic Rockstar's approach when The Witcher 4 is ready to go: \"Our games are different and the require a certain different approach, and we just do certain things differently than they do.\" Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. He also said that while the release of GTA 6 has had an impact on Witcher 3 and Cyberpunk 2077 sales on consoles, he doesn't expect it to have a \"material impact\" on the company's Q4 finances for one obvious reason. \"You do have to remember that a lot of our players are also PC-based,\" Nowakowski said. \"GTA has not launched on PC. We have not seen any impact whatsoever on the PC sales on engagement.\" And, he added, \"on the PS5 and Xbox, it's not like our sales came to zero.\" Nowakowsi also said that GTA 6 hasn't changed CD Projekt's ambitions for The Witcher 4 and Cyberpunk 2: If anything, it's \"an inspiration in many ways for our developers.\" And he's not concerned about its success pushing up development budgets, because CD Projekt's games \"are not budget-driven developments.\" \"I'm not saying that we don't care about the budgets. We do, and I'm pretty sure [Rockstar] did as well,\" Nowakowski said. \"But you cannot make games like that having in mind, 'This is the fixed number of money I want to spend, and that's it. Otherwise, we're gone.' \"They are ambition-driven developments and money is important. The budgets are not indefinite. That's not what we're saying. But the philosophy is kind of like I said. And honestly, that philosophy has not changed for us because of GTA 6's release. It has just always been like that.\" Nowakowski's positive take on GTA 6 isn't too far off that of Cyberpunk 2 creative director Igor Sarzynski, who said yesterday that he's suffering from \" GTA 6-induced-open-world-game-dev-depression ,\" although he quickly clarified that CD Projekt is \"doing something of our own, with a different unique flavor.\" (And that he wasn't being serious about cancelling Cyberpunk 2.) seriously though i think we're doing something of our own, with a different unique flavor. GTA is impressive in a way all great art is, it expands what is possible, a captivating vision flawlessly executed The Witcher 4 is currently slated for launch sometime in 2028, while Cyberpunk 2 isn't expected out before 2030. GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the songs and stations GTA 6 romance : How to keep a strong bond Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
           "image": "https://cdn.mos.cms.futurecdn.net/KX9wRQWZx64zoeXgj8Ebhi-1920-80.jpg"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/cyberpunk-2-cd-projekt-red-the-witcher-4-sirius-gta6-rockstar-2001000233",
+          "title": "Cyberpunk 2 Development Ramps Up At CD Projekt Red, But Ambitions For The Project Are ‘Not Changed’ By GTA 6′s Success",
+          "published_at": "2026-11-25T11:30:21+00:00",
+          "kind": "press",
+          "text": "CD Projekt Red Cyberpunk 2077 Grand Theft Auto VI GTA 6 The Witcher 4 While the eyes of the world are focused on Grand Theft Auto VI , the rest of games industry must continue on in its wake. Yesterday, CD Projekt Red held its latest financial briefing, updating investors on the progress of upcoming titles and its long-running hits, including news that Cyberpunk 2 ‘s development team has grown to nearly 200. And given the overlap between CDPR’s games with their elaborate open worlds and those of GTA 6 , investors wanted to know how the latter’sÂ phenomenal success will impact the studio’s work. Polish studio CD Projekt Red is known for its work on open-world adventures like The Witcher and Cyberpunk , and during the briefing investorsÂ asked whether the success of GTA will impact the design process and development of those series. CDPR explained that as much as the game is an “inspiration” to them, there is no need to adjust the road-map in response to the success of Rockstarâs work. “We have certain ambitions when it comes to The Witcher and Cyberpunk 2 , but they have not changed when it comes to GTA 6 ,” was the response given to an investor. “It’s always great to see games like that because they show you how much cool stuff can be done. That’s for sure an inspiration in many ways for our developers.â That being said, if there were to be a comparison between the works of the two studios, CD Projekt Red believes that the long development time between The Witcher 3 and 4 has led to a comparable leap in fidelity to that seen between GTA 5 and 6 . Excluding the recent release of The Witcher 3 Remastered on modern consoles in September, the CDPR’s last major video game release was 2020’s Cyberpunk 2077 . Yet despite this, revenue for the company has only grown, and anticipation for its work remains high. The release of The Witcher 3 Remastered saw the game record its highest concurrent player count in its history, with 138,000 players at once, despite the core game being over a decade old. This is something the company credits to its work bringing in new players via broad multimedia expansion. The Witcher has received numerous TV series with Netflix, while the Cyberpunk Edgerunners anime with Studio Trigger recently premiered its second season. CDPR noted that the show reached the top 10 in 55 countries on its release and debuted third on the streaming serviceâs global top 10. More importantly for the studio, it brought people back to playing Cyberpunk 2077 , coinciding with a new update tied to the anime’s story. CDPR stated that âthe anime brings people to the franchise, and the update gives them a reason to play.â The anime boosted the gameâs concurrent player count across all platforms to over 2.1 million players, triple where it was before the anime’s second season premiered. Roughly half of the studio (513 out of 1051 developers) is now working on The Witcher 4 ahead of a planned 2028 release, with 199 developers working on Cyberpunk 2 , a slight increase from earlier this year. This has led to the team working on the Witcher spin-off, currently titles Sirius , shrinking slightly from 84 developers to a team of 60, while a new IP known as Hades remains in development with a smaller team. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Congrats on landing the job at Rockstar, Wil E. Coyote Lexie Shoaibi recently guested on Hasan Piker's Twitch channel It seems like things weren't working properly for some people until a recent patch, though Stealing cars just like you did back in 2001 on the PS2 Some are simply waiting until they can afford the sequel, others are playing both, and some think Rockstar's new game looks boring",
+          "image": "https://kotaku.com/app/uploads/2026/11/The-Witcher-4-Ciri.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
+          "title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
+          "published_at": "2026-11-25T12:04:20+00:00",
+          "kind": "press",
+          "text": "As part of The Witcher and Cyberpunk studio CD Projekt Red's recent Q3 earnings report, the developer offered some updates on upcoming game The Witcher 4 . During an earnings call yesterday, the studio revealed it had signed a new partnership deal with Sony regarding marketing rights to The Witcher 4, as well as to extend \"the presence\" of CD Projekt Red's other games across the PlayStation Store and PlayStation Plus. \"Just today, we signed new partnership agreements with Sony Interactive Entertainment covering the presence of our games on PlayStation and in PlayStation Plus subscriptions, as well as our collaboration during the upcoming Witcher 4 marketing campaign,\" said studio CFO Piotr Nielubowicz . \"This cooperation will support our business and financial outlook in this and future years.\" Nielubowicz didn't elaborate on what exactly that means for The Witcher 4's marketing, but perhaps it could enable Sony to advertise the action-RPG as a PlayStation game, similar to the Grand Theft Auto 6 'plays best on PlayStation' campaign . But seeing as The Witcher 4 is currently targeting a 2028 release , we may not find out what form that agreement takes for some time. That said, looking at similar marketing agreements from Sony's recent history, we can probably expect The Witcher 4 to show up during Sony State of Play presentations or even have dedicated PlayStation-focused showcases. The Witcher 4 footage may also be specified as being captured on PlayStation hardware - something we already saw with The Witcher 4 tech demo last year . Perhaps we'll see Witcher-themed accessories and PlayStation hardware, too. This is a notable shift for CDPR, which has historically had close ties to Xbox. Cyberpunk 2077's big Keanu Reeves reveal (as Johnny Silverhand) took place on Xbox's E3 2019 stage , and The Witcher 3 's reveal happened on Microsoft's E3 2013 stage. Going further back, Xbox 360 was the only console The Witcher 2 was released on. During the same earnings call, CDPR joint-CEO Michał Nowakowski said that we should expect the leap between The Witcher 3 and The Witcher 4 to be similar to that between GTA 5 and GTA 6 , while also praising Rockstar's approach to marketing its record-breaking new game.",
+          "image": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
+    },
+    {
+      "story_id": "523fb7a6d867864e",
+      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
+      "owners": [
+        "gameblast",
+        "microsoft",
+        "sony",
+        "vgc"
+      ],
+      "primary_owners": [
+        "microsoft",
+        "sony"
+      ],
+      "fingerprints": [
+        "67ce9b201c87ef45",
+        "70fe98c95d67187c",
+        "95fcf5c6642f3c27",
+        "0459fc6cad1d867c",
+        "285041ca68ad7df0"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
+          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+          "published_at": "2026-11-23T21:36:20+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
+        },
+        {
+          "name": "PlayStation Blog BR",
+          "owner": "sony",
+          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
+          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
+          "published_at": "2026-11-24T12:51:39+00:00",
+          "kind": "primary",
+          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
+          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
+        },
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/pt-br/2026/11/24/como-jogar-grand-theft-auto-vi-pela-nuvem-e-com-remote-play/",
+          "title": "Como jogar Grand Theft Auto VI pela nuvem e com Remote Play",
+          "published_at": "2026-11-24T18:00:21+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI é compatível com o XBOX Cloud Gaming , então você pode jogar mesmo sem um console da geração atual. Com o XBOX Cloud Gaming, você pode jogar por streaming, direto da nuvem, no seu XBOX One ou no XBOX Series X|S, se quiser economizar espaço de armazenamento. Alguns planos do Game Pass incluem até 15 horas de jogo por mês na nuvem. Se precisar, você pode comprar horas adicionais para aproveitar um dos maiores jogos do ano no console que já tem. Ao jogar pela nuvem com o XBOX Cloud Gaming, o jogo usa as configurações gráficas do Xbox Series S. Você também pode usar o Remote Play para jogar Grand Theft Auto VI onde preferir. Com esse recurso, você transmite o jogo diretamente do seu console XBOX Series X|S para dispositivos que já tem, como celular, notebook, PC ou até um PC portátil para jogos, como o XBOX ROG Ally. Veja como configurar esses recursos. Para usá-los, você precisa de uma cópia de Grand Theft Auto VI comprada na Xbox Store : Para começar a jogar Grand Theft Auto VI pela nuvem, use um dos controles conectados ao seu console e siga estes passos: Sempre que possível, conecte o console à internet com um cabo Ethernet para obter a melhor qualidade de jogo. Mesmo em redes Wi-Fi de alta velocidade, a qualidade do áudio e do vídeo pode cair de vez em quando. Com o Remote Play, você pode transmitir o jogo do seu XBOX Series X|S para dispositivos que já tem, como celulares, tablets, PCs e PCs portáteis para jogos. Veja como ativar o recurso: Depois de ativar os recursos remotos no console, escolha em qual dispositivo quer jogar: Seja para economizar espaço jogando pela nuvem ou para retomar a partida de onde parou no seu PC portátil, o XBOX Cloud Gaming e o Remote Play oferecem mais opções de jogar Grand Theft Auto VI nos dispositivos que você já tem. Para saber mais, consulte a página do XBOX Cloud Gaming e a de Grand Theft Auto VI na Xbox Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.html",
+          "title": "Grand Theft Auto VI se torna o maior lançamento da história do PlayStation com mais de 39 milhões de jogadores",
+          "published_at": "2026-11-23T23:54:33+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
+          "title": "GTA 6: How to flip a car in Grand Theft Auto 6",
+          "published_at": "2026-11-25T10:51:12+00:00",
+          "kind": "press",
+          "text": "How to flip a car in the open world and reset your car in races in Grand Theft Auto 6 It happens to the best of us. You were driving down the road in Grand Theft Auto 6, and what shouldâve been a tiny tap turned into you flipping your car. At least youâre still alive, right? Back in the PS2 days, simply turning the wheel to the side would have your car correct itself and flip back onto all four wheels, but itâs not so easy in GTA 6 thanks to that pesky ârealism.â In this guide, weâre breaking down how to flip cars back over in Grand Theft Auto 6 â this can also be used to push boats into the water and more. Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. Right, so hereâs the scenario: you were speeding down the highway, and you clipped another vehicle, sending you spinning out and rolling down the road sideways. Youâre alive, but you want to get back in your car and go, only itâs upside down. These things happen, and luckily, the developers give you a way to right your car. As Jason or Lucia, all you need to do is walk into the side of the car until your character changes to a pushing animation. Once in this animation, you can press X ( Xbox ) or Square ( PS5 ) to perform a Shove animation. Both Jason and Lucia are surprisingly strong, and a Shove should push your car over and onto its wheels, as long as you are pushing from the side. You can also use the same technique to push a beached boat back into the water. If youâre in a race, you canât leave your vehicle. Bad crashes happen in races especially, and the somewhat awkward physics of the game can make that happen more often than you might deserve. Hopefully a patch smooths that out in the future. In the meantime, if you have a bad crash in a race where your car gets flipped, or you crash and get entirely turned around, you can hold the Back button (Xbox) or the Touch Pad button (PS5) to “Reset” your car onto the road, facing the correct direction. These crashes have the potential to ruin your race, though. If that happens, you might want to go to the pause menu and select the Restart Event option.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/GTA-6-How-to-flip-a-car-in-Grand-Theft-Auto-6-2.jpg"
         }
       ]
     },
@@ -150,186 +247,27 @@
       ]
     },
     {
-      "story_id": "523fb7a6d867864e",
-      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
+      "story_id": "5d48079913ade954",
+      "title": "Lords of the Fallen II será lançado para consoles e PC em abril de 2027",
+      "summary": "A CI Games anunciou que Lords of the Fallen II será lançado em abril de 2027 para PlayStation 5, Xbox Series X|S, Nintendo Switch 2 e PC via Steam e Epic Games Store. A data exata de lançamento será divulgada em dezembro deste ano. A informação foi compartilhada por Marek Tyminski, fundador e CEO da CI Games, em uma publicação nas redes sociais . Desenvolvido pela Hexworks, Lords of the Fallen II...",
       "owners": [
-        "gameblast",
-        "microsoft",
-        "sony"
+        "adrenaline",
+        "future-plc",
+        "gameblast"
       ],
-      "primary_owners": [
-        "microsoft",
-        "sony"
-      ],
+      "primary_owners": [],
       "fingerprints": [
-        "67ce9b201c87ef45",
-        "70fe98c95d67187c",
-        "95fcf5c6642f3c27",
-        "0459fc6cad1d867c"
+        "79bd4818a0fa41f4",
+        "5df2d810f744f097",
+        "e6acec1bcde8fbb8"
       ],
       "sources": [
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
-          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-          "published_at": "2026-11-23T21:36:20+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
-        },
-        {
-          "name": "PlayStation Blog BR",
-          "owner": "sony",
-          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
-          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
-          "published_at": "2026-11-24T12:51:39+00:00",
-          "kind": "primary",
-          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
-          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
-        },
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/24/como-jogar-grand-theft-auto-vi-pela-nuvem-e-com-remote-play/",
-          "title": "Como jogar Grand Theft Auto VI pela nuvem e com Remote Play",
-          "published_at": "2026-11-24T18:00:21+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI é compatível com o XBOX Cloud Gaming , então você pode jogar mesmo sem um console da geração atual. Com o XBOX Cloud Gaming, você pode jogar por streaming, direto da nuvem, no seu XBOX One ou no XBOX Series X|S, se quiser economizar espaço de armazenamento. Alguns planos do Game Pass incluem até 15 horas de jogo por mês na nuvem. Se precisar, você pode comprar horas adicionais para aproveitar um dos maiores jogos do ano no console que já tem. Ao jogar pela nuvem com o XBOX Cloud Gaming, o jogo usa as configurações gráficas do Xbox Series S. Você também pode usar o Remote Play para jogar Grand Theft Auto VI onde preferir. Com esse recurso, você transmite o jogo diretamente do seu console XBOX Series X|S para dispositivos que já tem, como celular, notebook, PC ou até um PC portátil para jogos, como o XBOX ROG Ally. Veja como configurar esses recursos. Para usá-los, você precisa de uma cópia de Grand Theft Auto VI comprada na Xbox Store : Para começar a jogar Grand Theft Auto VI pela nuvem, use um dos controles conectados ao seu console e siga estes passos: Sempre que possível, conecte o console à internet com um cabo Ethernet para obter a melhor qualidade de jogo. Mesmo em redes Wi-Fi de alta velocidade, a qualidade do áudio e do vídeo pode cair de vez em quando. Com o Remote Play, você pode transmitir o jogo do seu XBOX Series X|S para dispositivos que já tem, como celulares, tablets, PCs e PCs portáteis para jogos. Veja como ativar o recurso: Depois de ativar os recursos remotos no console, escolha em qual dispositivo quer jogar: Seja para economizar espaço jogando pela nuvem ou para retomar a partida de onde parou no seu PC portátil, o XBOX Cloud Gaming e o Remote Play oferecem mais opções de jogar Grand Theft Auto VI nos dispositivos que você já tem. Para saber mais, consulte a página do XBOX Cloud Gaming e a de Grand Theft Auto VI na Xbox Store.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
-        },
         {
           "name": "GameBlast",
           "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.html",
-          "title": "Grand Theft Auto VI se torna o maior lançamento da história do PlayStation com mais de 39 milhões de jogadores",
-          "published_at": "2026-11-23T23:54:33+00:00",
-          "kind": "press",
-          "text": "Durante o fim de semana de lançamento, os jogadores acumularam mais de 683 milhões de horas explorando Leonida.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWh8OUwh85CxU6BuHauuU10oQGZT5SBvuqRmljRE9kEQ2BRDDeHbGAHebOZ85GF_sNzmNDC8hGFx3tIAWdCoZWNcia9JuAxvBYqHQHI09gm0RF0kTVQKp00O6VcrujCDOjRp2aFkEG5Af6cABPGwj3uvUX5FpRgUAFchMPm3A_sJ5CINNlWRg2n5XcNg/w1200-h630-p-k-no-nu/grand-theft-auto-6-se-torna-maior-lancamento-historia-playstation-com-39-milhoes-jogadores.png"
-        }
-      ]
-    },
-    {
-      "story_id": "d24972e56a120a8b",
-      "title": "GTA VI é o maior lançamento da história da PlayStation com 39 milhões de jogadores",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil GTA VI bate o recorde de maior número de jogadores simultâneos no PlayStation O post GTA VI é o maior lançamento da história da PlayStation com 39 milhões de jogadores apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
-      "owners": [
-        "adrenaline",
-        "meups",
-        "nzn"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "475a7249f2cd2fde",
-        "05665c4a6d3b0d56",
-        "078829e45885ebd4"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/gta-vi-maior-lancamento-playstation-39-milhoes-jogadores/",
-          "title": "GTA VI é o maior lançamento da história da PlayStation com 39 milhões de jogadores",
-          "published_at": "2026-11-24T11:22:44+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/10/HUlUVkGXcAATJrb.jpeg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/gta-6-registrou-a-melhor-estreia-de-toda-a-historia-do-playstation/",
-          "title": "GTA 6 registrou a melhor estreia de toda a história do PlayStation",
-          "published_at": "2026-11-24T15:13:02+00:00",
-          "kind": "press",
-          "text": "Primeiro patch de GTA 6 corrige salvamento automático, uma das maiores queixas dos fãs",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Melhor-Estreia-PlayStation-01.jpeg"
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony/",
-          "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
-          "published_at": "2026-11-24T19:15:00+00:00",
-          "kind": "press",
-          "text": "GTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI GTA 6 finalmente chegou ao PS5 e Xbox Series X|S na última quinta-feira (19), reunindo milhões de jogadores ao redor do mundo. Além da grande procura pelo novo jogo da Rockstar, a sequência também conquistou uma recepção positiva no Metacritic, tornando-se o único título do século XXI a alcançar média de 99 pontos no agregador . Agora, a Sony confirmou mais um marco para a aventura de Jason e Lucia: GTA 6 se tornou o maior lançamento da história da PlayStation . Segundo a empresa, mais de 39 milhões de jogadores já aproveitaram o game no PS5 desde a estreia. Os números foram divulgados em uma publicação no blog oficial da PlayStation , que também revelou recordes de horas jogadas e consoles conectados durante o período de lançamento. A marca certamente reforça o desempenho comercial do título, que já havia estabelecido recordes de vendas logo no primeiro dia. Segundo a Sony, mais de 39 milhões de jogadores únicos experimentaram GTA 6 no PS5 desde o lançamento. A empresa classificou o resultado como “o maior lançamento da história do PlayStation”, considerando as três décadas e cinco gerações de consoles da marca. Os dados divulgados pela companhia consideram o período entre a estreia, em 19 de novembro, e o dia 22. Nesse intervalo, os jogadores acumularam 683 milhões de horas de gameplay no console, com uma média de 17,4 horas explorando o estado de Leonida por pessoa. A Sony também confirmou que GTA 6 estabeleceu um novo recorde de jogadores simultâneos em um único jogo na história do PlayStation. A marca superou os números anteriores de títulos multiplayer, gratuitos e até mesmo experiências para um jogador. Outro dado destacado pela empresa foi o número de consoles conectados. Durante o período de lançamento, a PlayStation registrou seu maior volume de PS5 online em um único dia desde a chegada do console, desconsiderando o período de festas de fim de ano. Além disso, GTA 6 foi o primeiro jogo executado em 70% dos novos PS5 conectados entre a estreia e 22 de novembro. O desempenho também acompanha os números divulgados anteriormente pela Rockstar e pela Take-Two . As empresas afirmaram na última sexta (20) que GTA 6 vendeu mais de 32 milhões de cópias em pré-venda e arrecadou US$ 3,79 bilhões no primeiro dia. De acordo com a publisher, o resultado representa um novo recorde de estreia para um produto de entretenimento em qualquer mídia. A empresa também destacou a recepção da crítica, com o jogo alcançando “aclamação universal” e respeitáveis 99 pontos de média no Metacritic. Para se ter noção do feito, GTA 5 arrecadou US$ 1 bilhão nos primeiros três dias de disponibilidade quando foi lançado em 2013. Já Vingadores: Ultimato , um dos maiores sucessos do cinema, levou cinco dias para atingir a mesma marca mundialmente. A Sony aproveitou a publicação para agradecer aos jogadores e parabenizar a Rockstar pelo resultado. “Obrigado por fazer parte deste momento”, declarou a empresa, que também destacou a parceria entre as duas companhias — iniciada ainda na época de GTA 3 no PlayStation 2. E você, já está se aventurando por Leonida em GTA 6 ? Conte nas redes sociais do VOXL o que está achando do novo jogo da Rockstar! LoRa: o que é e como funciona a comunicação sem internet? Bug de GTA 6 destrava fps no Xbox Series X|S e revela limites de desempenho Kindle de 10ª geração terá suporte de segurança encerrado pela Amazon; confira o que significa WhatsApp lança figurinhas com som e sem moldura branca; saiba como usar Apple prepara grande mudança no design dos iPhones 18e e Air 2, segundo site",
-          "image": "https://www.estadao.com.br/resizer/v2/4X3D3OZECFEYPF4MXOSR2HNV6Q.jpg?quality=80&auth=cd39e6f16662e74f6e43249cdda0bad07c348a3920867c87f6e4db6469563b0e&width=1200&height=630&focal=980,535"
-        }
-      ]
-    },
-    {
-      "story_id": "b13a1d236ab26969",
-      "title": "Rockstar has \"been an awesome partner\" for the Max Payne 1 and 2 remakes, says Remedy CEO",
-      "summary": "The companies are old friends in the industry",
-      "owners": [
-        "future-plc",
-        "meups",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "9d7968940c03f785",
-        "c954d901472f86d3",
-        "350cf808d31c8d4e"
-      ],
-      "sources": [
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/max-payne/rockstar-has-been-an-awesome-partner-for-the-max-payne-1-and-2-remakes-says-remedy-ceo-because-theyre-super-respectful-of-the-alan-wake-studio/",
-          "title": "Rockstar has \"been an awesome partner\" for the Max Payne 1 and 2 remakes, says Remedy CEO",
-          "published_at": "2026-11-24T11:54:16+00:00",
-          "kind": "press",
-          "text": "The companies are old friends in the industry Remakes of the first two Max Payne games are on the way, and Rockstar 's been helping Remedy get the releases in order. According to the Control and Alan Wake studio, collaborating with the purveyor of GTA 6 has been absolutely grand so far. Jean-Charles Gaudechon, the CEO of Remedy, described the working relationship between the two outfits in glowing terms for Game File . \"Honestly, it's been great,\" he says. \"You know why? Because I think they're super respectful of Remedy.\" Respect is a good start to any collaboration. Gaudechon then doubles down, just to make it clear everything's positive right now. \"I'll say it out loud: They've honestly been an awesome partner,\" he adds. \"And it's no bullshit.\" Well, it seems he doesn't have any complaints, anyway. Remedy and Rockstar actually have quite a bit of history, since the studio that gave us GTA actually worked on ports of the first Max Payne, then published the second outright. It only makes sense, then, that they'd team back up to give both games a lick of paint and update them for modern hardware. As you may well be aware, it's been a while since Rockstar's done anything outside of the Grand Theft Auto or Red Dead Redemption mines. Time was the developer and publisher would be involved in all sorts of projects, but nowadays the focus tends to be a little more streamlined. I guess that's what happens when you make the biggest games in the industry. The two have been working on these do-overs since around 2022, and we don't have a release window yet. Perhaps now that Alan Wake 2 and Control: Resonant are out of the way, Remedy can put in more resource, while Rockstar can finally do something that isn't GTA 6. I mean, how much is there to do post-launch for such a game? Our boy Max is waiting, people – come on. Weekly digests, tales from the communities you love, and more GTA 6 is \"the biggest launch in PlayStation history,\" with Sony reporting \"more than 39 million unique players\" playing Rockstar's new game on PS5. Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/o9Wp5DRnaP3gbPDDNg78hF-1920-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
-          "title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
-          "published_at": "2026-11-24T15:09:20+00:00",
-          "kind": "press",
-          "text": "\"I'll say it out loud: They've honestly been an awesome partner.\" Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake. The Finnish studio is doing so in partnership with Grand Theft Auto 6 studio Rockstar, which owns the IP and is funding the remake's development. So how has that relationship been? According to Remedy CEO Jean-Charles Gaudechon, working with Rockstar has been \"amazing\". \"Honestly, it's been great,\" Gaudechon told Game File . \"You know why? Because I think they're super respectful of Remedy.\" Gaudechon is so positive on Remedy's working relationship with Rockstar that he emphasised his praise for Rockstar further. \"I'll say it out loud: They've honestly been an awesome partner. And it's no bullshit,\" he added. The original Max Payne was released in 2001, and its sequel in 2003 - both developed by Remedy. Rockstar published the second game and worked on the original's console ports. Rockstar developed a third entry in the series, Max Payne 3 , which Rockstar co-founder Dan Houser recently called something of a failure . \"Some people liked it; lots didn't. So we got it wrong, or I got it wrong. I failed. My bit was not a success,\" said Houser. The Max Payne 1 & 2 remake has been in the works since 2022 , but only entered full production in 2024 . The game is understood to be Remedy's current project, though the studio also has another unannounced project in the works. In other Remedy news, the studio recently posted one of its best financial quarters , off the back of the release of Control Resonant, the studio's fastest-selling game ever .",
-          "image": "https://assetsio.gnwcdn.com/max-payne-remedy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/remedy-trabalhar-rockstar-max-payne-incrivel/",
-          "title": "Remedy diz que trabalhar com a Rockstar em Max Payne é “incrível”",
-          "published_at": "2026-11-24T19:01:30+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2024/03/max-payne-e-alan-wake-2.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "2fc978535be21353",
-      "title": "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox",
-      "summary": "Rockstar's Grand Theft Auto 6 can be streamed via Xbox Cloud Gaming , and Microsoft has also now confirmed support for Remote Play on Xbox. This means you can play GTA 6 on your PC, smartphone, or a device like Xbox Rog Ally. Remote Play is an Xbox service that lets you stream games from your Xbox Series X|S to a device you might already have, and it's easy to get working. From your console...",
-      "owners": [
-        "fandom",
-        "future-plc",
-        "valnet"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "99bf93c97f3c6014",
-        "ea95f89275bc7bc4",
-        "1403e23b414a44fb",
-        "60bf22133061e795"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-on-your-pc-or-phone-via-remote-play-on-xbox/",
-          "title": "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox",
-          "published_at": "2026-11-24T13:45:10+00:00",
+          "url": "https://www.gameblast.com.br/2026/11/lords-of-the-fallen-ii-sera-lancado-consoles-pc-abril-2027.html",
+          "title": "Lords of the Fallen II será lançado para consoles e PC em abril de 2027",
+          "published_at": "2026-11-24T21:52:01+00:00",
           "kind": "press",
           "text": "",
           "image": ""
@@ -337,128 +275,22 @@
         {
           "name": "GamesRadar",
           "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-          "title": "How to get the GTA 6 BF Bandito",
-          "published_at": "2026-11-24T11:45:55+00:00",
+          "url": "https://www.gamesradar.com/games/action-rpg/lords-of-the-fallen-2-launches-in-april-2027-boss-of-the-soulslike-rpg-announces-and-a-release-date-is-coming-next-month/",
+          "title": "Lords of the Fallen 2 delayed to April 2027, release date coming next month",
+          "published_at": "2026-11-25T11:48:32+00:00",
           "kind": "press",
-          "text": "You won't find the BF Bandito in a lock up in GTA 6, as this vehicle heist is a little tricker to pull off While you're out stealing cars for Moses, the GTA 6 BF Bandito will appear on your list, taking you out to the very rural roads of South Leonard County and the Buckskin Swamp. This GTA 6 heist is slightly harder than the others you might have carried out so far though, as this car will be on the move. Like all of Moses' targets, the rough location of the BF Bandito is marked on the map, but as you make your way there, you'll pass by some whoopin' and hollerin' country dwellers who are already taking the buggy for a spin. Here's how to get your hands on the GTA 6 Bandito and get paid. The map marker will take you to the rough location of the BF Bandito, where you should keep your eyes and ears open for some locals riding around the swamps on buggies - one of these is the Bandito. To claim it for yourself, you'll need to stop the Bandito driver, and there are a few ways to do this. If you clock him fast enough, particularly when crossing water, you can simply get in front of him, and he'll stop. Otherwise, you can chase down the Bandito, shooting the driver and his pals. Weirdly, though, when I did this challenge, the driver eventually just stopped and bolted, leaving the buggy free for me to take, though I'm not sure exactly what triggered him to do this. Essentially, just stay close, don't destroy the car by shooting it too much, and it'll be yours in no time. If you're struggling to find some of the other GTA 6 cars that are ripe for the taking, then check I can also help you nab the Declasse Vamos , as well as Vanessa's cute GTA 6 pink Porsche - I mean, Pfister, which will be live shortly. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more After studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/kUMeVoKh7ic8eZ4Yb229iE-1920-80.jpg"
+          "text": "The sequel was only announced last summer It's happening. We have some more movement on Lords of the Fallen 2 from CI Games. No, there still isn't a release date, but we know when we're getting one. The action RPG sequel is now due to arrive slightly later than previously announced, but still in the first half of 2027, and we'll be hearing more quite soon. Marek Tyminski, the CEO of CI Games, reveals the details himself. \"Lords of the Fallen 2: April 2027,\" he writes on Twitter . \"Exact date in December.\" What Tyminski's post doesn't specify this that this is actually another delay. The game was originally due in the back half of this year, before moving to the first quarter of 2027 . While it's slightly annoying to only get an announcement for the announcement, at least we know we don't have long to wait to find out when exactly Lords of the Fallen 2 is coming out. Knowing the release month is very helpful too. I could be wrong here, of course, but that seems to all but guarantee the game's presence at The Game Awards. Trailers and reveals are always a big part of the show, and I'm not sure where else we might see the follow-up otherwise, unless CI Games is planning some sort of livestream of its own we're not yet aware of. Regardless of the delay, this is all pretty quick turnaround for the release, since Lords of the Fallen 2 was only announced during the Opening Night Live of Gamescom 2025. Maybe I'm just jaded from increasingly elongated announcement schedules for blockbuster games, but getting the release window only a year and a half after the formal reveal is pretty tight by today's standards. I mean, we just waited years to find out what the full title of The Elder Scrolls 6 is. We'll see what CI Games has to offer come December, which, at time of writing, is just six days away. Maybe Mariah Carey will be involved in some way. I doubt it, but imagine. I bet she loves a bit of Lords of the Fallen, honestly. \"Blizzard, I'm looking at you\" - Path of Exile 2 boss calls out AAA studios' lackluster game announcements, implores devs to stop trying to have a \"'one more thing' moment.\" Weekly digests, tales from the communities you love, and more Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/5Qo5aJepsUBdV2m76Pebhn-1920-80.jpg"
         },
         {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-impound-car-how-to-get-back/",
-          "title": "How to get your car out of the impound in GTA 6",
-          "published_at": "2026-11-24T22:00:58+00:00",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/lords-of-the-fallen-2-e-adiado-novamente-e-so-chega-em-abril-de-2027/",
+          "title": "Lords of the Fallen 2 é adiado novamente e só chega em abril de 2027",
+          "published_at": "2026-11-25T12:08:16+00:00",
           "kind": "press",
-          "text": "There's the easy way and the expensive way There's the easy way and the expensive way It doesn't take long for one of your cars to end up at the police impound in Grand Theft Auto 6 . You might have abandoned it near a crime scene, or they arrested you while you were driving it. While the circumstances may vary, you have only two ways to proceed if a car is impounded: you forget about it or you retrieve it. If you are not ready to abandon your favorite car and want it back, we've got you covered. Here's how to get your car out of the impound in GTA 6 . There are two methods to retrieve a car from the police impound: you can either steal it back or pay for it . Both are valid, but the second one becomes available only in Chapter 2. Stealing the car is the most plausible and cheapest option to execute. You just need to head to the impound lot, enter, and drive your car away from there. Some impounds, like the one in Port Gellhorn, have openings that you can use to enter unnoticed. Regardless of how you get inside, the challenge is escaping from the police once you leave. You must be prepared to run away, so try to come up with an escape route by setting a destination far from the city. Now, the second option requires the Scooter Bros app , which you unlock in Chapter 2 after completing Moses' mission. If you have it already, open the app and select the impounded car (the one with a police badge icon). You will see that the first option in the menu is to pay a fee to retrieve the car . The price varies depending on how far you are from the police impound . For example, I would have to pay $699 to get my car back from the Port Gellhorn impound while in Vice City. However, if you have upgraded your Scooter Bros account to Premium , you can use your remaining daily credits to request an impounded vehicle. Since this will essentially consume all your credits for the day, you should wait until you have only one left before using this option. If you're just getting started in GTA 6 , we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first , recommendations for the best ways to make money fast , and an explainer for how to keep stolen weapons and cars to make the most of your free time. Our selection of GTA 6 guides includes help for things like how to steal the Phoenix in \"Unwanted Attention\" and whether you should defuse Mandy , too. There's a set of explainers for GTA 6 's more open-ended side activities, like how to rob the Exotic Animal Front and where to find tree effigies for the Skunk Ape mission , and we've got all the GTA 6 cheat codes . You'll have to put in some effort before you can use those, though.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_impound_lead.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-flip-car-how-to/",
-          "title": "How to flip your car in GTA 6",
-          "published_at": "2026-11-24T22:27:23+00:00",
-          "kind": "press",
-          "text": "Flipping your car in Grand Theft Auto 6 works a bit differently than it did in previous games. In Rockstar's bid for realism, the team made it so you can't flip your car while you're still in it. Instead, whichever character you're controlling will have to get out of the car and turn it over. Note that flipping only works on certain vehicles, though. You can flip cars, boats, even larger construction vehicles, but not planes. Below, we explain how to flip your car in GTA 6 . If you manage to turn over your sedan, ATV, boat, or cement truck, and you do it without getting wasted ( GTA 6 's term for \"destroying it completely and dying\"), you might think you'll have to get Scooter Bros to deliver the vehicle for you. Well, you don't. Keep that hard-stolen cash in your BuckMe account and fix it yourself. GTA 6 never teaches you how to flip your car back over, though, and it's not mentioned in any of the control layout options. Here's what you have to do: And you're good to go on your merry way. That said, there are a few caveats to bear in mind if you're trying to flip your car. Try to push the car from the middle. If you're at either end of it, we noticed the prompt tends not to appear. Also, if there's an obstacle on the other side of the car, like a thick hedge or a wall, you won't be able to flip it. The same is true for when your car is just stuck on something, like a guardrail. The game won't let you flip it off the offending object, as it has to be completely upended for the \"shove\" prompt to appear. If you're just getting started in GTA 6 , we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first , recommendations for the best ways to make money fast , and an explainer for how to keep stolen weapons and cars to make the most of your free time. Our selection of GTA 6 guides includes help for things like how to steal the Phoenix in \"Unwanted Attention\" and whether you should defuse Mandy , too. There's a set of explainers for GTA 6 's more open-ended side activities, like how to rob the Exotic Animal Front and where to find tree effigies for the Skunk Ape mission , and we've got all the GTA 6 cheat codes . You'll have to put in some effort before you can use those, though.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-flip-car.jpg?w=1600&h=900&fit=crop"
-        }
-      ]
-    },
-    {
-      "story_id": "a33c383a4ee400d7",
-      "title": "Showa American Story delayed to October 28, 2027",
-      "summary": "Publisher 4Divinity and developer NEKCOM Games have delayed “post-apocalyptic romance RPG” and “alternate history ensemble …",
-      "owners": [
-        "gematsu",
-        "insider-gaming",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "a8b52e4d96f4bfd3",
-        "cc2838a1f177bf93",
-        "21b92a81ea4b8594"
-      ],
-      "sources": [
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/showa-american-story-delayed-to-october-28-2027",
-          "title": "Showa American Story delayed to October 28, 2027",
-          "published_at": "2026-11-24T14:04:53+00:00",
-          "kind": "press",
-          "text": "Publisher 4Divinity and developer NEKCOM Games have delayed “post-apocalyptic romance RPG” and “alternate history ensemble period drama” Showa American Story from its previously planned 2026 release window to October 28, 2027. It will be available for PlayStation 5 and PC via Steam . A new trailer and the first hands-on demo for Showa American Story were shown off at Gamescom 2026 , which ran from August 26 to 30 at Koelnmesse in Cologne, Germany. Here is the full message from NEKCOM Games executive producer on the delay: We finally have an official release date to share: Showa American Story will launch on October 28, 2027. Reaching this milestone after five years of development means a lot to our entire team. With core game content now complete, we’ re dedicating our full focus to polishing and optimizing the experience so that when you step into Showa American Story , it feels cohesive, responsive, and complete. Thank you for your continued support, enthusiasm, and patience along the way. We can’t wait to welcome you on October 28, 2027.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Showa-American-Story-Date_11-24-26.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/showa-american-story-releasing-october-2027/",
-          "title": "Showa American Story Releasing October 2027",
-          "published_at": "2026-11-24T20:43:49+00:00",
-          "kind": "press",
-          "text": "If you haven’t checked out a trailer yet, Showa American Story is primed to be one of the wackiest, wildest, and weirdest games ever. In fact, we got to preview it at Gamescom 2026 , and it definitely seems as bizarre as advertised. A crazy mix of action-JRPG and post-apocalyptic Americana, we’ve never seen anything quite like Showa American Story. It’s set in the 1980s in an alternate history where Japan has acquired most of the United States. From there, things only get exponentially weirder, bloodier, and more categorically absurd. While some were hoping this title would make it out by the end of the year, it seems we’ve got a little longer to go. Showa American Story is coming out in October of 2027, according to the dev team. Due to the game already being part of the Gamescom preview cycle and rumors of a 2026 release-window expectation, many were optimistic we’d get Showa American Story by the end of the year. However, with the holiday season already ramping up, it began to become clear that we might not actually see the game until 2027. In a post on X this morning , the team over at NEKCOM confirmed what was already becoming apparent: Showa American Story isn’t going to make it this year. Instead, the devs revealed the new, official release date of October 28, 2027. NEKCOM also shared that the “core game content” is wrapped up, so the next 11 months will be spent making sure the game is polished to the highest level possible. It’s been a five-year development cycle at this point, and waiting another nearly full year seems like a ways off, but it’s rarely a bad thing when a studio is taking extra time for optimization and polishing. In the meantime, to get a taste of just how insane Showa American Story is going to be, try to make sense of anything in the trailer below. Is this game on your radar at all? Let us know in the Insider Gaming Discord server . We played 30 minutes of Showa American Story at gamescom 2026. Read our thoughts on the experience so far . To stay up to date on all things video games, make sure to subscribe to the Insider Gaming weekly newsletter . Ethan Krieger got started as a sports journalist covering the NBA, but video games have always been his main passion. Since then, he's edited and written for multiple gaming outlets,…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/IMG_9384.jpeg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/showa-american-story-delay-2027",
-          "title": "Promising action-RPG, Showa American Story, has been delayed into late 2027 in order to feel \"cohesive, responsive and complete\" at launch",
-          "published_at": "2026-11-25T10:11:20+00:00",
-          "kind": "press",
-          "text": "\"The game's content is already completely finished\". Publisher 4Divinity and developer Nekcom Entertainment have announced that upcoming action-RPG Showa American Story will now launch on 28th October, 2027. This comes after various sites noticed a Steam page update that listed the game as launching in 2027, slipping from the previous, vague window that suggested the game would come out this year. The announcement was made on the developer's Twitter account. \"Hello everyone!\" reads the message . \"We finally have an official release date to share: Showa American Story will launch on 28th October, 2027. Reaching this milestone after five years of development means a lot to our entire team. With core game content now complete, we're dedicating our full focus to polishing and optimizing the experience so that when you step into Showa American Story, it feels cohesive, responsive, and complete.\" The devs go on to thank interested gamers for their support, enthusiasm and patience. It's an interesting delay, because just last month, game director Xiangyu Luo told Automaton that the \"game's content is already completely finished\" and that the team is now in the process of \"polishing its overall quality.\" So a year for polish? I'm pleased the team has the resources for that kind of investment. The most recent update we had from the game was at Gamescom Opening Night live (see above), back in August. Here, the developer revealed a bit more about the game's background and gameplay, showing off the Japanese voice cast for the first time. \"Showa American Story follows the journey of Choko, a young woman who suddenly revives from the dead to discover a wild world filled with zombies, monsters, and an eccentric cast of human survivors - some friendly, and others downright bad,\" reads a blurb for that trailer. \"Players will travel across the United States in search of answers and discover the extent of Choko's mysterious and frightening powers. This unique RPG features a rich arsenal of melee and ranged weaponry, with Choko able to turn a variety of objects into tools of carnage. Choko will face hordes of enemies in fast-paced real-time combat, leveraging weapon-specific attacks, dodges, counters, and executions with fluid precision.\" In other words, you can expect a game that's pitched in a similar way to the Yakuza series, albeit from a greenhorn developer without the satirical nous.",
-          "image": "https://assetsio.gnwcdn.com/Showa-American-Story-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
-      "story_id": "15347b4ebe1c8677",
-      "title": "Should You Trust Halifax in GTA 6?",
-      "summary": "Should you trust Halifax in GTA 6's chapter three mission, Dubious Provenance? We have the answer.",
-      "owners": [
-        "future-plc",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "9259c03585634519",
-        "97ccb1e29d12b51a",
-        "d8038a76d930da7c"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/should-you-trust-halifax-in-gta-6",
-          "title": "Should You Trust Halifax in GTA 6?",
-          "published_at": "2026-11-24T16:45:00+00:00",
-          "kind": "press",
-          "text": "Warning: Spoilers for the Dubious Provenance mission in chapter three of GTA 6 follow. GTA 6 is full of choices, big and small. In fact, the whole way you choose to play the game is a choice, whether that be as an ultraviolet psychopath or a more professional class of criminal. Or if you decide that Jason and Lucia are a couple hopelessly head-over-heels in love, or more platonic partners in crime. Some choices, however, are much more binary, with instant effects tied to them. One of the clearest examples of this is presented to you during a chapter three mission called Dubious Provenance. Should you trust Halifax or not? The answer is twofold: the smart decision is to reject his offer, but the much more fun option is to place your faith in him. Let me explain. Dubious Provenance kicks off by driving all the way to the fancy town of Capri, found in the east of Leonida, and home to the sort of houses Jason and Lucia can only dream of living in at this point in their story. Just by the centre of town is an antiques store where you’re tasked with bringing the mysterious statue that has fallen into your possession to be valued. Halifax, a man with a fairly convincing British accent, overhears your conversation with the shop’s owner, Evelyn, and offers you a deal. While she isn’t interested in the statue, he most definitely is, telling you that he will get it valued for you if you hand it over. Now, despite his smart appearance, all is not what it seems with Halifax, and without spoiling it too much, he’s not exactly the antiques expert he claims to be. The smart, and arguably correct, choice from a story perspective is to reject him. But the much more fun and beneficial option (if you’re a collectibles hunter) is to accept. Accepting adds a couple more main missions to the Dubious Provenance story rather than just ending it there and then. You’ll also receive the Crowex Octane “Bobby Ambrose” unique watch in return. This is a missable collectible otherwise. But more importantly, you get two more very fun missions to play through. The first includes a stealthy infiltration and a massive, and I mean, massive revelation about Halifax. The second is one of the best chase sequences in GTA 6, scored hilariously to a great bit of contrapuntal music. For full spoilers and a step-by-step guide, you can check out our walkthrough . If you reject, you won’t get the watch, but you will have a second shot at playing through these missions. Halifax will later contact you and give you the option to phone him if you change your mind, transforming these main missions into optional ones. These must be completed by the end of chapter three , or they’ll disappear forever, though. Ultimately, the choice to accept or reject comes down to whether you want the watch or not. Of course, you can choose to just never contact him again if you’re desperate to progress through the story as quickly as possible, but you will miss out on a great bit of fun as a result. So, should you trust Halifax during Dubious Provenance? I’d say yes; it’s a much more fun road to take if you’re looking to squeeze every bit of enjoyment out of GTA 6. Plus, who could ever resist a moustache like that? Simon Cardy is a Senior Editor at IGN who can mainly be found skulking around open world games, indulging in Korean cinema, or despairing at the state of Tottenham Hotspur and the New York Jets. Follow him on Bluesky at @cardy.bsky.social .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/24/halifax-1795537599565.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cut-or-pure-dealers-choice/",
-          "title": "Should you choose the cut or pure drugs in GTA 6?",
-          "published_at": "2026-11-23T14:56:37+00:00",
-          "kind": "press",
-          "text": "Sell the baby powder-spliced product or real deal in the Dealer's Choice mission. Deciding whether to take the cut or pure drugs in GTA 6 is a decision you'll make during the Dealer's Choice mission in Chapter 3. The proposal is that if you can pass off the drugs cut with baby powder, you can keep the profit, but the deal might go south if they realise, while bringing the pure stuff should make the dealers happy. Here's what happens if you choose either: With that in mind, I'd say the cut drugs are the best to pick. You get maximum profit, a cool shootout that makes the mission less boring, and it doesn't have any significant consequences afterwards. GTA 6 guide : One-stop info shop GTA 6 cars : The garage lineup GTA 6 characters : Your anti-hero cast GTA 6 map : Confirmed Vice City locales GTA 6 PC release : When's it going to happen? Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Sean's first PC games were Full Throttle and Total Annihilation and his taste has stayed much the same since. When not scouring games for secrets or bashing his head against puzzles, you'll find him revisiting old Total War campaigns, agonizing over his Destiny 2 fit, or still trying to finish the Horus Heresy. Sean has also written for EDGE, Eurogamer, PCGamesN, Wireframe, EGMNOW, and Inverse. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/xZM6fFyFKattMxJNKXEUwZ-2560-80.jpg"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/guide/should-you-participate-in-the-safe-word-mission-in-gta-6/",
-          "title": "Should You Participate in the Safe Word Mission in GTA 6?",
-          "published_at": "2026-11-24T22:18:18+00:00",
-          "kind": "press",
-          "text": "What happens if you participate in Safe Word in GTA 6 Wondering if you should participate in the Safe Word mission in GTA 6? During the Safe Word mission in GTA 6, players face an awkward decision while Jason is visiting Gil’s mansion.Â But should you participate, or is it better to refuse? In this guide, we’ll explain what happens with each choice. This is one of many GTA 6 guides we’ve published this week. Check out our GTA 6 Guide Hub . Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. Although the decision might seem relatively minor, it affects the interaction between Jason and Lucia during the mission. Choosing not to participate allows Jason to maintain his loyalty to Lucia while continuing with the mission. However, participating offers an alternative interaction during the poolside scene. Importantly, refusing does not prevent you from completing Safe Word not does it affect which rewards you get from Safe Word. If you agree to participate, Jason goes along with the request during the poolside scene. This creates an additional interaction before the mission continues as it does if you don’t participate. You will take a hit to Jason and Lucia’s relationship. It’s not a major hit, but Lucia will comment on your actions in this mission for several missions afterwards. However, players who want to keep Jason and Lucia’s relationship on good terms may prefer to avoid this option. He will request to go to the bathroom, and the scene will end, allowing him to progress to the next stage of the mission, infiltrating the mansion and stealing the safe. For a full walkthrough of Safe Word, you can check out guide. There is no need to worry about missing the safecracking tutorial or blocking access to subsequent story missions.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-should-you-participate-safe-word-2.jpg"
+          "text": "Lords of the Fallen 2: veja requisitos mínimos e recomendados para jogar no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Lords-Fallen-2-Abril-2027.jpg"
         }
       ]
     },
@@ -474,7 +306,6 @@
       "fingerprints": [
         "ca4ddbccf93984de",
         "2aa9db37d4897849",
-        "e9ab9a763296a454",
         "c87f1db6bf0fde3c"
       ],
       "sources": [
@@ -499,6 +330,185 @@
           "image": "https://cdn.mos.cms.futurecdn.net/zVb3XCiJA6Jk2FeatKru6h-1920-80.jpg"
         },
         {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-safe-word-mission-walkthrough-how-to-steal-the-practice-safe/",
+          "title": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe",
+          "published_at": "2026-11-24T22:18:23+00:00",
+          "kind": "press",
+          "text": "Things get explicit in Safe Word in GTA 6 Safe Word is a main story mission in GTA 6 that sees Jason and Lucia steal a practice safe from a mansion in Peacock Estates. Given by Nicole Park, the mission is part of the preparations for the upcoming bank heist and introduces players to the game’s safecracking mechanics. This is one of dozens of GTA 6 guides we’ve published this week. Check out our GTA 6 Guide Hub . Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. To unlock Safe Word, you must first complete the Company Property mission. Once finished, return to Raul’s compound in Stockyard and speak to Nicole. Take the large truck outside and drive towards Gil’s mansion in Peacock Estates, located in the southern part of Vice City. The estate is in an afluent area with a security guard at the entrance. Slow down as you approach the barrier to the island, as smashing through it could cause the police to be alerted, interuppting the mission. Once you arrive, you’ll take control of Jason. Crouch through the front gate and move around the right-hand side of the mansion. When an assistant approaches, follow her towards the backyard and the film set. You’ll need to play along with the production. Follow the on-screen instructions to skim the pool, look at Samantha and apply lotion to Sasha. Next, you’ll have to fake a fight with the other actor. You need to fight Rodney by punching him, allowing him to hit you before knocking him out. You don’t need to worry about really hurting him here, as this is part of a scripted sequence. When asked whether you want to participate further, choose not to if you want to avoid upsetting Lucia. That’s what I did at least. If you choose to participate, your relationship meter will be effected. For more on what happens with each option in Safe Word, check out our guide.Â Once the scene ends enter the mansion from the side you were originally stopped at and locate Gil’s office. Search the left-hand drawer of his desk to find the remote that reveals the safe. The safe is behind the large image of the behind. Open the window and attach the truck’s winch to the safe. Switch to Lucia and pull it out. Jason will jump out of the now-gaping window hole and join Lucia. Drive to the garage with the safe attached. Swing it into pursuing vehicles, but avoid cyclists and cemetery gravestones. If you hit the gravestones, your criminal profile will take a hit. Finally, return to Raul’s compound and complete the three safecracking practice stages: drilling, guiding the camera cable and opening the safe. This minigame is essential to pracitce, as it will be a central tenant of The Cartel Heist. Completing the safecracking practice unlocks Gil’s Kalinga .50 pistol variant and rewards you with $1,500. Safe Word also teaches the mechanics needed for the upcoming bank heist, making it an important GTA 6 story mission.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-safe-word-walkthrough-15.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "1d1bf9a85f3495ed",
+      "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+      "summary": "GTA 6 leaker Cyberleek has reportedly released the executable file for the leaked Xbox build of the game, prompting concern that an unofficial PC port could follow. Read more",
+      "owners": [
+        "future-plc",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "5fd173898b4a48a8",
+        "37e4044ef4935283"
+      ],
+      "sources": [
+        {
+          "name": "GamesIndustry.biz",
+          "owner": "ziff-davis",
+          "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+          "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+          "published_at": "2026-11-23T19:43:30+00:00",
+          "kind": "press",
+          "text": "Some are predicting it could lead to a PC version within days GTA 6 leaker Cyberleek has reportedly released the executable file for the leaked Xbox build of the game, prompting concern that an unofficial PC port could follow. The leak comes via the same group that shared leaked footage and threatened to release additional videos unless Rockstar changed its all-digital launch strategy a week before Rockstar released its extended gameplay teaser on Netflix . The group then threatened to release a full build of the game, including its full story mode and end credits. Now, as reported by IGN , Cyberleek has released the .exe for the incomplete Xbox build, with some predicting that AI-assisted recompilation of the build could get GTA 6 running on PC within days. The file was released alongside a new statement in which Cyberleek claimed their actions were about \"fighting anti-consumerism in the games industry.\" They also referenced Take-Two's efforts to stop the leaks and identify whoever is behind them, saying: \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving.\" Cyberleek also pushed back on claims that the leaks are little more than a crypto scheme, insisting the crypto was used to raise money for a secret project unrelated to the game. \"There is no other way to move funds without names,\" they said, \"and this work requires no names.\" According to IGN, the leaked Xbox build runs counter to the idea that Cyberleek only had access to an early build. Take-Two previously issued subpoenas to companies including Discord as part of its search for those responsible for the leaks. It remains unclear how this build got out of Rockstar.",
+          "image": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
+          "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
+          "published_at": "2026-11-23T17:54:30+00:00",
+          "kind": "press",
+          "text": "The notorious GTA 6 leaker called it \"an early Christmas gift.\" Grand Theft Auto 6 leaker Cyberleek appears to have followed through on their threat to release the executable of the Xbox build of GTA 6 they put into the wild last week, calling it \"an early Christmas gift\" for followers and explicitly linking the leak to efforts to recreate the game on PC: \"The torch passes to the open source recomp and emulation projects.\" Cyberleek released a near-complete build of GTA 6 late last week, holding back only the main exe—the part that makes everything else run, basically—until either their crypto coin achieved a $15 million market cap, or November 23, whichever came first. The crypto missed badly, but time marches on, and so here we are. The release of the exe, naturally, includes a call for more \"donations\" in its readme file (via Reddit ) which Cyberleek said will go toward a secretive project \"for the gamers.\" They also taunted Take-Two Interactive's efforts to track them down : \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving. No budget makes a lock unbreakable, and no court order deletes what the internet already has.\" Leaks in the game industry aren't anything new, but this case is unique: GTA 6, effectively the biggest videogame of all time, still hasn't been announced for PC, as is Take-Two's way . But the advent of AI means the game could be emulated on our platform far more quickly than was possible in the past—some modders estimated it could happen within a week. One of the leads on the Leonida recomp project predicted that things will start to move quickly from here: At the same time, Shayder tempered expectations in a message on the Leonida Discord, saying \"it will take at least a week\" for the project to reach the point where GTA will be playable on PC. How that unofficial emulated made-with-AI build would compare to the real deal is an open question, and I strongly suspect the answer will be \"not well,\" but even just having something GTA 6-ish playable on PC is a headache that I'm pretty sure Take-Two would rather not have to deal with. I also wonder whether it will prompt Take-Two to release GTA 6 on PC more quickly than it has with previous releases. A rumor to that effect surfaced in October and I had serious doubts, but it's possible that ongoing emulation efforts will expedite its arrival.. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. I haven't verified whether the released exe is legit, but the previously-released material appears to be and the general consensus is that this is too. And with that, I will remind you (yes, again) that software piracy is illegal, and shady files from strangers on the internet can contain malware. GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the songs and stations GTA 6 romance : How to keep a strong bond Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/dwxifSrgRWzUwvmTbTdSRV-2530-80.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "9d1331c406f32c43",
+      "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says",
+      "summary": "Rockstar Games and parent company Take-Two are riding high currently from the success of Grand Theft Auto 6 with a reported 45 million copies sold and $4 billion in revenue already , but this could just the beginning of how much money GTA 6 could bring in. According to Bank of America stock analyst Omar Dessouky, the initial success of GTA 6 reinforces the company's belief that the game has a...",
+      "owners": [
+        "fandom",
+        "meups"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "5f776922034ff175",
+        "c613e9ae07b8e0f6"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/gta-6-online-could-be-bigger-than-fortnite-bank-of-america-stock-analyst-says/",
+          "title": "GTA 6 Online Could Be Bigger Than Fortnite, Bank Of America Stock Analyst Says",
+          "published_at": "2026-11-23T20:28:38+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/gta-vi-online-pode-ser-maior-do-que-fortnite/",
+          "title": "GTA VI Online pode ser maior do que Fortnite, diz analista do Bank of America",
+          "published_at": "2026-11-24T18:27:42+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/10/GTA-VI-12.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "43a61b420b090909",
+      "title": "Jogos de Corrida para PlayStation em oferta na Black Friday",
+      "summary": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Black Friday na PS Store, válida até 1 de dezembro",
+      "owners": [
+        "adrenaline",
+        "gameblast"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "300100b3e33bc372",
+        "159fda2b96e0436a",
+        "80d6f09ad830eab8",
+        "8ab7d94475ab4ea1"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-corrida-para-playstation-em-oferta-na-black-friday/",
+          "title": "Jogos de Corrida para PlayStation em oferta na Black Friday",
+          "published_at": "2026-11-23T20:58:25+00:00",
+          "kind": "press",
+          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/05/forza-horizon-5.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/jogos-da-sega-recebem-descontos-de-ate-85-de-black-friday-no-pc-playstation-xbox-e-nintendo-switch.html",
+          "title": "Jogos da SEGA recebem descontos de até 85% de Black Friday no PC, PlayStation, Xbox e Nintendo Switch",
+          "published_at": "2026-11-23T23:41:35+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/xbox/jogos-para-xbox-em-oferta-por-menos-de-r-20-na-black-friday/",
+          "title": "Jogos para XBOX em oferta por menos de R$ 20 na Black Friday",
+          "published_at": "2026-11-24T19:23:47+00:00",
+          "kind": "press",
+          "text": "Asha Sharma celebra 25 anos do Xbox falando sobre equipes pequenas e IA",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/09/mortal-kombat-11.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-acao-para-playstation-em-oferta-na-black-friday/",
+          "title": "Jogos de Ação para PlayStation em oferta na Black Friday",
+          "published_at": "2026-11-24T21:00:00+00:00",
+          "kind": "press",
+          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/04/Assassins-Creed-Black-Flag-Resynced-1.jpeg"
+        }
+      ]
+    },
+    {
+      "story_id": "c4da527889416e3b",
+      "title": "Every GTA 6 ending and how to get them",
+      "summary": "All the endings (and a couple variations) for GTA 6 we've seen so far.",
+      "owners": [
+        "future-plc",
+        "keleops"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "e694fbcbf6e87dec",
+        "596065e8af62db5d",
+        "e9ab9a763296a454",
+        "e41a6dc5892fa738",
+        "fa9d0b4c282b1566"
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-endings/",
+          "title": "Every GTA 6 ending and how to get them",
+          "published_at": "2026-11-23T21:33:58+00:00",
+          "kind": "press",
+          "text": "All the endings (and a couple variations) for GTA 6 we've seen so far. Obviously, massive spoilers follow for GTA 6 endings! There are multiple endings to GTA 6 , and while we haven't experienced them all personally here at PC Gamer, the gaming community has been sharing them around for anyone curious about what they may have missed. The ending you get depends on the choices you make during the final GTA 6 story mission , but also depends on how you handled Jason and Lucia's romance and criminal profiles throughout the game, so seeing every version of the ending would mean not just playing the ending multiple times, but having different playthroughs of the game altogether. There are a couple of endings that I don't consider \"different\" from each other but do have some differences leading up to them, which I'll explain below. There may also be additional endings we haven't seen yet, so we may update this guide in the future. In the bridge endings, Jason and Lucia have defeated Mendez and his squad and gotten the hard drive back from Georgio's penthouse and escaped. They drive to Cal's place in Key Lento, but discover he has been compromised. They drive to the bridge, but the cops have set up a roadblock and have the couple trapped. Lucia wants to keep going, but Jason suggests they jump off the bridge and swim for it. A choice comes up on the screen: \"Swim For it\" or \"No Surrender.\" Jason and Lucia try to run the roadblock and are shot to death by cops on the bridge. They die holding hands. In the credits, we see that their son Tomas lives happily with Lucia's aunt, her husband, and their children. Jason and Lucia are shot to death by cops on the bridge. They die holding hands. In the credits, their lawyer, Abe, brings the money to Lucia's aunt. Tomas lives happily with Lucia's aunt, her husband, and their children in a much bigger house than the other No Surrender ending. Choosing \"Swim for it\" presents an additional choice. When Jason gets out of the car, Lucia can choose to \"Exit\" the car with him, or change her mind by not choosing it. Jason and Lucia decide to jump off the bridge and swim for it. They both exit the car without holding guns. Lucia jumps, but Jason doesn't jump and is arrested. Lucia signs a deal for immunity while Jason goes to prison. Lucia gets a job in a diner. Lucia takes Tomas to meet Jason in prison, but he can only see his son through a glass divider. Jason and Lucia decide to jump off the bridge and swim for it. Jason exits the car with a gun, but Lucia changes her mind and stays in the car. The police open fire and Jason and Lucia are both shot to death. Tomas lives with Lucia's aunt, her husband, and their children. Jason and Lucia decide to jump off the bridge and swim for it, Jason doesn't jump and is arrested. Two years later, Lucia uses the savings account to get Jason freed from prison. Lucia goes to the prison to pick up Jason. Jason meets Tomas and holds his hand. If you don't have a strong relationship between Jason and Lucia, there is a different ending location: the base of Georgio's tower. In these endings, the couple never makes it to the bridge. You can also choose to break up the couple, either as Jason or as Lucia, as you begin the mission Protective Custody. After the tower fight with Georgio's men, police confront the couple at the base of the tower. The police open fire and Jason pushes Lucia down. Jason is shot. Lucia has a choice to \"Stay down\" or \"Defend Jason\". She stays down and watches Jason die. Lucia is arrested, signs a deal, and visits Tomas at her aunt's house. Lucia then leaves Tomas with her aunt, takes out a gun, and continues her life of crime by preparing to rob a diner. After the tower fight with Georgio's men, police confront them at the base of the tower. The police open fire and Jason pushes Lucia down. Jason is shot. Lucia chooses \"Defend Jason\" and fights the cops. They die together. On the way down to ground level at the tower, Jason decides to run. Lucia is arrested and signs the deal, then lives with her aunt and Tomas while working in a diner. One night there's a knock on the door and she finds a bag of cash on the porch. We see Jason driving away with... Rocco the drug-sniffing dog from earlier in the game. Sure, that might as well happen. How to get this ending (sourced by GamingwithTZ on YouTube ): Jason and Lucia make a deal with Mendez after defeating him. Once they have the hard drive, they're surrounded by cops at the bottom of the tower. Mendez arrives and takes them away in his car, then drives them to the swamp. Later in the credits, we see two skulls in the swamp, side-by-side, with a bullet hole in each. Note : You may need a specific criminal profile for this ending. I tried to take the deal (as Lucia) in one of my ending playthroughs, but Jason shot Mendez anyway. I had both Jason and Lucia at \"Professional\" level criminal profiles. This ending was not available to me. Speculation, but this ending may only be available if you don't have \"Professional\" as your criminal profiles. There are potentially (and almost certainly) more endings to GTA 6. There are still a few combinations of all the different variables, including your romance level, criminal profile level, amount of money saved, and the choices you make during the final mission, that we haven't seen yet. We'll update this guide if the community finds more endings. Chris started playing PC games in the 1980s, started writing about them in the early 2000s, and (finally) started getting paid to write about them in the late 2000s. Following a few years as a regular freelancer, PC Gamer hired him in 2014, probably so he'd stop emailing them asking for more work. Chris has a love-hate relationship with survival games and an unhealthy fascination with the inner lives of NPCs. He's also a fan of offbeat simulation games, mods, and ignoring storylines in RPGs so he can make up his own. You must confirm your public display name before commenting Please l",
+          "image": "https://cdn.mos.cms.futurecdn.net/VpCnytmTy4pVTZb2NhTAY6-2560-80.jpg"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-growler-pink-porsche/",
+          "title": "How to get Vanessa's Pink Porsche Growler in GTA 6",
+          "published_at": "2026-11-24T15:26:17+00:00",
+          "kind": "press",
+          "text": "Don't miss the GTA 6 Growler, a gorgeous pink Porsche - or Pfister, to use its legally-distinct name If you've seen rumblings of a super cute pink Porsche in GTA 6, then you've come to the right place. This is Vanessa's Growler (get your mind out the gutter), and it's totally free to steal and keep if you so want it. And if pink isn't your style, of course you can respray it, too, but I'd heavily recommend you keep it in its original state, as it was meant to be. Of course, this isn't actually a Porsche, it's a Pfister, but we all know this GTA 6 car manufacturer is the virtual world equivalent of the Porsche, and if you've always wanted one, then here's how to get your hands on the GTA 6 Growler. To get the GTA 6 Growler, you need to open a lock-up in La Perle using the door code 92665, which is obtained from the laptop in Vanessa's Vice City apartment. When you start Chapter 3, you move into Vanessa's apartment, but it turns out she left in a hurry (or did she?) and left all her stuff there, laptop included. Gain access to this laptop by working out the password, and you'll see a message telling Vanessa there's something for her in La Perle, next to Auntie's Place. This generous gift is the baby pink Pfister Growler, inspired by the Porsche Cayman, and it's free for the taking if you can find it. You'll even gain access to the garage by unlocking it, too, giving you somewhere to store your hot new wheels. Now you know where to find the pink Porsche and how to open the garage, I'll let you go about this mission on your own, but if you like some help, we've got separate guides to figuring out the GTA 6 laptop password and finding Auntie's Place in GTA 6 . © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more After studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/x2KDmfbo3AjPLh3qD9eUmF-1920-80.jpg"
+        },
+        {
           "name": "PC Gamer",
           "owner": "future-plc",
           "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ocelot-bloodless-jugular-location/",
@@ -509,14 +519,24 @@
           "image": "https://cdn.mos.cms.futurecdn.net/sd4NitdEcJNcuzrwqXoyEa-2560-80.jpg"
         },
         {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-safe-word-mission-walkthrough-how-to-steal-the-practice-safe/",
-          "title": "GTA 6 Safe Word Mission Walkthrough: How to Steal the Practice Safe",
-          "published_at": "2026-11-24T22:18:23+00:00",
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/heres-how-to-get-a-banshee-in-gta-6-and-unlock-a-gta-3-inspired-trophy-2001000076",
+          "title": "Here’s How To Get A Banshee In GTA 6 And Unlock A GTA 3-Inspired Trophy",
+          "published_at": "2026-11-24T20:30:04+00:00",
           "kind": "press",
-          "text": "Things get explicit in Safe Word in GTA 6 Safe Word is a main story mission in GTA 6 that sees Jason and Lucia steal a practice safe from a mansion in Peacock Estates. Given by Nicole Park, the mission is part of the preparations for the upcoming bank heist and introduces players to the game’s safecracking mechanics. This is one of dozens of GTA 6 guides we’ve published this week. Check out our GTA 6 Guide Hub . Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. To unlock Safe Word, you must first complete the Company Property mission. Once finished, return to Raul’s compound in Stockyard and speak to Nicole. Take the large truck outside and drive towards Gil’s mansion in Peacock Estates, located in the southern part of Vice City. The estate is in an afluent area with a security guard at the entrance. Slow down as you approach the barrier to the island, as smashing through it could cause the police to be alerted, interuppting the mission. Once you arrive, you’ll take control of Jason. Crouch through the front gate and move around the right-hand side of the mansion. When an assistant approaches, follow her towards the backyard and the film set. You’ll need to play along with the production. Follow the on-screen instructions to skim the pool, look at Samantha and apply lotion to Sasha. Next, you’ll have to fake a fight with the other actor. You need to fight Rodney by punching him, allowing him to hit you before knocking him out. You don’t need to worry about really hurting him here, as this is part of a scripted sequence. When asked whether you want to participate further, choose not to if you want to avoid upsetting Lucia. That’s what I did at least. If you choose to participate, your relationship meter will be effected. For more on what happens with each option in Safe Word, check out our guide.Â Once the scene ends enter the mansion from the side you were originally stopped at and locate Gil’s office. Search the left-hand drawer of his desk to find the remote that reveals the safe. The safe is behind the large image of the behind. Open the window and attach the truck’s winch to the safe. Switch to Lucia and pull it out. Jason will jump out of the now-gaping window hole and join Lucia. Drive to the garage with the safe attached. Swing it into pursuing vehicles, but avoid cyclists and cemetery gravestones. If you hit the gravestones, your criminal profile will take a hit. Finally, return to Raul’s compound and complete the three safecracking practice stages: drilling, guiding the camera cable and opening the safe. This minigame is essential to pracitce, as it will be a central tenant of The Cartel Heist. Completing the safecracking practice unlocks Gil’s Kalinga .50 pistol variant and rewards you with $1,500. Safe Word also teaches the mechanics needed for the upcoming bank heist, making it an important GTA 6 story mission.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-safe-word-walkthrough-15.jpg"
+          "text": "Obviously, you need to steal cars in Grand Theft Auto 6 ; itâs in the name of the game. But you might as well get something out of it beyond just new wheels and some money, so how about scoring a trophy along the way? The Bravado Banshee is a nice ride that you get a mission to steal in GTA 6âs third chapter, via a character named Randy. You could luck out and find a Banshee on the street, but if you want the Capital Offense trophy, you can kill two birds with one stone by hitting up the Sunrise Premium Autos showroom in Southside. Youâll find it between Vice City International Airport and Peacock Bay, next to an Illegals Good Store. Note that you canât do this before you do Randyâs mission âCloninâ Keys, Makinâ Gs.â Why? The Bravado Banshee, like a lot of expensive cars in the game, requires a key cloner , and Randy is the person who gives you one as part of that mission. After he’s added the app to your phone, you can head to Sunrise Premium Autos and walk back to the showroom where a shiny blue Bravado Banshee is just sitting there. Clone the key via the same method you would use to slim-jim a car door, and then step on in. The next part is how you get the Capital Offense trophy: Drive the car straight through the glass window and then gun it before the police get there. The trophy should pop immediately. The trophy itself is a reference to the easiest and most reliable way to get a Banshee in Grand Theft Auto 3 , where you would just visit a car showroom in the south part of the map, sit in a Banshee in the showroom, and then drive it through the glass window. The similarity to that setup here in GTA 6 seems to be a pretty direct reference to the now-25-year-old PS2 title.Â You can either give the Banshee to Randy for that mission or get it repainted and registered for yourself. And you can return later to this same spot and get another Banshee! Regardless of what you choose, youâre a bit richer and a bit further along in your progress toward a platinum trophy or a mythic achievement. Not bad for an afternoonâs work. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Not every potential grand theft auto victim will go quietly into the night Some are simply waiting until they can afford the sequel, others are playing both, and some think Rockstar's new game looks boring It's also set a new record for concurrent players on the PS5 Arcade addicts of the 1980s inspired the cyberspace of William Gibsonâs influential Neuromancer, now the author is transfixed on viral footage of Rockstarâs ultra-hit A Vice City mode was using music made by AI",
+          "image": "https://kotaku.com/app/uploads/2026/11/GTa-6-bansheeee.jpg"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-ocelot-jugular/",
+          "title": "How to get the GTA 6 Ocelot Jugular",
+          "published_at": "2026-11-25T12:25:34+00:00",
+          "kind": "press",
+          "text": "Once Randy gets you to work, you need to hunt down specific cars, including the GTA 6 Ocelot Jugular Finding the Ocelot Jugular in GTA 6, like a bunch of other cars Randy wants from you, is no easy feat. Unlike your previous car heisting quests, you aren't given the location of the motors Randy's client is after, so you just have to keep your eye open when you're out and about, specifically in more affluent areas. All the cars on Randy's list, including the Ocelot Jugular, can be found in multiple GTA 6 locations, making this a little easier, so keep your eyes peeled outside Vice City nightclubs and casinos, for example. If you want things to be a little easier, though, I've got the location of a guaranteed spawn below. The Ocelot Jugular can be found around Vice City, particularly at lively hotspots after dark, but there's a guaranteed spawn in Belville, parked in a garage in a cul-de-sac as marked on the map above. Grabbing the Ocelot from this location at least means you can get another of Randy's cars checked off fast, without having to hunt around for days. Even better, it respawns the every morning, meaning you can go and take one for yourself, too, provided you've got the cash to pay for registration. While we're on the topic of GTA 6 cars , make sure you also go take a look at Paul Walker's GTA 6 car , inspired by his (or Brian O'Conner's) Mitsubishi Eclipse in the original 1995 Fast and Furious movie. That one's far cheaper to register than the Ocelot, and I'd argue it's cooler and drives better, to boot. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more After studying Music and Lifestyle journalism and writing a column for a stylish lifestyle magazine in her hometown of Brighton, Danielle finally found her feet writing about videogames for WePC in 2021. She then honed her guides writing skills at PCGamesN between 2022 and 2026, when she took those skills to GamesRadar as a Guides Writer. Danielle's guides are a safe space - she definitely got stuck before you did, which is why she's perfect for the job. When she's not replaying the Silent Hill games or a more up-to-date single-player horror game, you'll find her fighting for her life in Dead by Daylight, tending to a garden in Stardew Valley, or doing both in Minecraft. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/EwUsuFwPWBxyXLqKQkJyQb-1920-80.jpg"
         }
       ]
     }
