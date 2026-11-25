@@ -16741,7 +16741,7 @@
     "slug": "gta6-corte-rafaao-3",
     "data": "2026-11-25",
     "horario": "20:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 rafaao jogando GTA 6\n📺 twitch.tv/rafaao\n\n#gta6 #gtavi #rafaao #pixelzada",
     "tentativas": 0,
@@ -16764,6 +16764,19 @@
       "motivo": "streamer jogando e cenas de gameplay com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T07:35:45-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T20:01:50-03:00",
+      "media_id": "17919998793467631",
+      "permalink": "https://www.instagram.com/reel/DgLqc7Bpzzv/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
