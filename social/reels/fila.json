@@ -16405,7 +16405,7 @@
     "slug": "gta6-corte-bgm-fps",
     "data": "2026-11-25",
     "horario": "12:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 BGM_fpS jogando GTA 6\n📺 twitch.tv/bgm_fps\n\n#gta6 #gtavi #bgm_fps #pixelzada",
     "tentativas": 0,
@@ -16428,6 +16428,19 @@
       "motivo": "streamer vestido e gameplay normal",
       "por": "imagem",
       "em": "2026-11-22T09:08:41-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T12:02:18-03:00",
+      "media_id": "18117831545155106",
+      "permalink": "https://www.instagram.com/reel/DgKzk9xpvVt/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
