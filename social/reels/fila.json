@@ -16531,7 +16531,7 @@
     "slug": "gta6-corte-terroriser",
     "data": "2026-11-25",
     "horario": "15:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Terroriser jogando GTA 6\n📺 twitch.tv/terroriser\n\n#gta6 #gtavi #terroriser #pixelzada",
     "tentativas": 0,
@@ -16554,6 +16554,19 @@
       "motivo": "streamer jogando e cenas de gameplay vestidas",
       "por": "imagem",
       "em": "2026-11-22T09:08:48-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T15:02:30-03:00",
+      "media_id": "17920416441536708",
+      "permalink": "https://www.instagram.com/reel/DgLIM58izOG/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
