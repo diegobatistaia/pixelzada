@@ -16615,7 +16615,7 @@
     "slug": "gta6-corte-vandi",
     "data": "2026-11-25",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Vandi jogando GTA 6\n📺 twitch.tv/vandi\n\n#gta6 #gtavi #vandi #pixelzada",
     "tentativas": 0,
@@ -16638,6 +16638,19 @@
       "motivo": "Pessoa jogando videogame no sofá e cenas noturnas de gameplay vestida, sem conteúdo inadequado",
       "por": "imagem",
       "em": "2026-11-22T09:08:54-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T17:02:52-03:00",
+      "media_id": "18116774084128343",
+      "permalink": "https://www.instagram.com/reel/DgLV-P_g1EY/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
