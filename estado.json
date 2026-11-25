@@ -7,42 +7,36 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-24T23:27-03:00",
+ "atualizado": "2026-11-25T09:54-03:00",
  "hoje": {
-  "data": "2026-11-24",
+  "data": "2026-11-25",
   "reels": {
    "meta": 17,
-   "publicados": 17,
-   "deviam_ter_saido": 16,
+   "publicados": 3,
+   "deviam_ter_saido": 3,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 7,
+   "deviam_ter_saido": 1,
    "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00",
-    "21:00"
+    "09:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 95,
+  "agendados": 92,
   "meta_por_dia": 17,
-  "dias_de_reserva": 5.6,
+  "dias_de_reserva": 5.4,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 95,
+  "sem_revisao": 92,
   "por_dia": [
    {
     "data": "2026-11-25",
-    "agendados": 17,
+    "agendados": 14,
     "meta": 17
    },
    {
@@ -73,25 +67,25 @@
   ]
  },
  "site": {
-  "total": 283,
-  "hoje": 9,
+  "total": 284,
+  "hoje": 1,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "GTA 6: portal retrô de Vice City, easter egg passo a passo com as 12 subestações da LPL e recompensas",
-   "url": "https://pixelzada.com.br/pt/gta-6-portal-retro-de-vice-city-easter-egg-passo-a-passo-subestacoes-da-lpl-e-recompensas/",
-   "em": "2026-11-24T21:49:39-03:00"
+   "titulo": "Showa American Story é adiado para 28 de outubro de 2027, e estúdio diz que o conteúdo já está pronto",
+   "url": "https://pixelzada.com.br/pt/showa-american-story-e-adiado-para-28-de-outubro-de-2027-e-estudio-diz-que-o-conteudo-ja-esta-pronto/",
+   "em": "2026-11-25T07:48:54-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "24/11/2026 22:08",
+  "ultima_coleta": "25/11/2026 08:07",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Ajh_7ukqpGoc-OQ9kJUwg4U\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AbRYdz85YixI9PV4J30Slub\"}}"
  },
  "falhas": {
-  "rodadas_24h": 99,
+  "rodadas_24h": 97,
   "falhas_24h": 1,
   "sem_resolver": 0,
   "lista": [
@@ -108,20 +102,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 112
+   "youtube": 113
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-18",
-   "reels": 30,
-   "reels_meta": 33,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 9,
-   "views_reels": null
-  },
   {
    "data": "2026-11-19",
    "reels": 48,
@@ -175,6 +160,15 @@
    "carrosseis_meta": 7,
    "materias": 9,
    "views_reels": null
+  },
+  {
+   "data": "2026-11-25",
+   "reels": 3,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 1,
+   "views_reels": null
   }
  ],
  "seguidores_por_dia": [
@@ -226,7 +220,7 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
+   "texto": "Carrossel atrasado hoje: 09:00"
   },
   {
    "nivel": "amarelo",
