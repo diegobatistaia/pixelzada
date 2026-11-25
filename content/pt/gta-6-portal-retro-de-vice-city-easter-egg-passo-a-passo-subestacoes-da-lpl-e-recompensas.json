@@ -18,7 +18,9 @@
     "query": "GTA 6 Vice City retro easter egg",
     "alt": "Arte do easter egg retrô de Vice City em GTA 6 divulgada pelo VGC",
     "url": "https://www.videogameschronicle.com/files/2026/11/GTA-6-Full-Vice-City-retro-easter-egg-walkthrough-all-rewards-29.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/gta-6-portal-retro-de-vice-city-easter-e-507e3ff4.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "GTA 6 Vice City portal easter egg location and walkthrough"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -154,5 +156,7 @@
       "text": "Para quem gosta de referências, o roteiro mistura elementos da era retrô de Vice City, do neon da TV ao código de trapaça que dá nome à frase. É um desafio pensado para quem quer explorar o mapa com calma, sem pressa de seguir a história principal.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T00:49:39+00:00",
+  "updated_at": "2026-11-25T00:49:39+00:00"
 }

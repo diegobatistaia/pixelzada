@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 24 Nov 2026 22:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:49:41 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6: portal retrô de Vice City, easter egg passo a passo com as 12 subestações da LPL e recompensas</title>
+      <link>https://pixelzada.com.br/pt/gta-6-portal-retro-de-vice-city-easter-egg-passo-a-passo-subestacoes-da-lpl-e-recompensas/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-portal-retro-de-vice-city-easter-egg-passo-a-passo-subestacoes-da-lpl-e-recompensas/</guid>
+      <description>Guia do easter egg do portal retrô de GTA 6: torre de rádio, 12 subestações da LPL, usina T. H. Power Station e recompensas. Atenção, há spoilers no texto.</description>
+      <category>Guias</category>
+      <pubDate>Wed, 25 Nov 2026 00:49:39 +0000</pubDate>
+    </item>
     <item>
       <title>Lords of the Fallen II ganha janela para abril de 2027, e data exata sai em dezembro</title>
       <link>https://pixelzada.com.br/pt/lords-of-the-fallen-ii-ganha-janela-para-abril-de-2027-e-data-exata-sai-em-dezembro/</link>
@@ -238,14 +246,6 @@
       <description>Veja como funciona o sistema de peso e músculo de GTA 6, o passo a passo que jogadores usaram para engordar Jason e Lucia e o que se espera de mods no PC.</description>
       <category>GTA 6</category>
       <pubDate>Fri, 20 Nov 2026 14:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 em primeira pessoa: como funciona o truque que jogadores descobriram</title>
-      <link>https://pixelzada.com.br/pt/gta-6-primeira-pessoa-como-ativar-o-truque-que-jogadores-descobriram-no-ps5/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-primeira-pessoa-como-ativar-o-truque-que-jogadores-descobriram-no-ps5/</guid>
-      <description>GTA 6 não tem modo oficial em primeira pessoa, mas jogadores acharam um truque com o celular no carro. Veja o passo a passo, os limites e o que diz a Rockstar.</description>
-      <category>GTA 6</category>
-      <pubDate>Fri, 20 Nov 2026 12:49:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
