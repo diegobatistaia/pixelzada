@@ -16699,7 +16699,7 @@
     "slug": "gta6-corte-hayashii-4",
     "data": "2026-11-25",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Hayashii jogando GTA 6\n📺 twitch.tv/hayashii\n\n#gta6 #gtavi #hayashii #pixelzada",
     "tentativas": 0,
@@ -16722,6 +16722,19 @@
       "motivo": "streamer vestido e gameplay de jogo de corrida",
       "por": "imagem",
       "em": "2026-11-22T07:35:42-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T19:01:56-03:00",
+      "media_id": "18027072992717252",
+      "permalink": "https://www.instagram.com/reel/DgLjmVOuSAx/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
