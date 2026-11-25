@@ -7,40 +7,39 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-24T14:43-03:00",
+ "atualizado": "2026-11-24T23:27-03:00",
  "hoje": {
   "data": "2026-11-24",
   "reels": {
    "meta": 17,
-   "publicados": 8,
-   "deviam_ter_saido": 8,
+   "publicados": 17,
+   "deviam_ter_saido": 16,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 3,
+   "deviam_ter_saido": 7,
    "atrasados": [
     "09:00",
     "11:00",
-    "13:00"
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00",
+    "21:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 104,
+  "agendados": 95,
   "meta_por_dia": 17,
-  "dias_de_reserva": 6.1,
+  "dias_de_reserva": 5.6,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 104,
+  "sem_revisao": 95,
   "por_dia": [
-   {
-    "data": "2026-11-24",
-    "agendados": 9,
-    "meta": 17
-   },
    {
     "data": "2026-11-25",
     "agendados": 17,
@@ -74,44 +73,32 @@
   ]
  },
  "site": {
-  "total": 279,
-  "hoje": 5,
+  "total": 283,
+  "hoje": 9,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Projeto que tentava rodar GTA 6 no PC acaba após Discord sair do ar, e líder diz que desistiu",
-   "url": "https://pixelzada.com.br/pt/projeto-que-tentava-rodar-gta-6-no-pc-acaba-apos-discord-sair-do-ar-e-lider-diz-que-desistiu/",
-   "em": "2026-11-24T13:49:45-03:00"
+   "titulo": "GTA 6: portal retrô de Vice City, easter egg passo a passo com as 12 subestações da LPL e recompensas",
+   "url": "https://pixelzada.com.br/pt/gta-6-portal-retro-de-vice-city-easter-egg-passo-a-passo-subestacoes-da-lpl-e-recompensas/",
+   "em": "2026-11-24T21:49:39-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "24/11/2026 14:10",
+  "ultima_coleta": "24/11/2026 22:08",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A0l8tuU6zueBwWOezsXa05b\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Ajh_7ukqpGoc-OQ9kJUwg4U\"}}"
  },
  "falhas": {
-  "rodadas_24h": 97,
-  "falhas_24h": 3,
+  "rodadas_24h": 99,
+  "falhas_24h": 1,
   "sem_resolver": 0,
   "lista": [
    {
-    "workflow": "Reels",
-    "em": "2026-11-23T18:58:33-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45275048365",
-    "resolvido": true
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-23T17:59:20-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45264983698",
-    "resolvido": true
-   },
-   {
-    "workflow": "Reels",
-    "em": "2026-11-23T15:59:37-03:00",
-    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45244189056",
+    "workflow": "Vídeo longo narrado (prévia)",
+    "em": "2026-11-24T18:05:32-03:00",
+    "link": "https://github.com/diegobatistaia/pixelzada/actions/runs/45487514812",
     "resolvido": true
    }
   ]
@@ -121,7 +108,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 111
+   "youtube": 112
   },
   "erros_hoje": 0
  },
@@ -182,11 +169,11 @@
   },
   {
    "data": "2026-11-24",
-   "reels": 8,
+   "reels": 17,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 5,
+   "materias": 9,
    "views_reels": null
   }
  ],
@@ -239,7 +226,7 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
   },
   {
    "nivel": "amarelo",
