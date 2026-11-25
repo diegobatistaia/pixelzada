@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:48:11 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>PlayStation Plus de dezembro de 2026 tem Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 e Amnesia: The Bunker</title>
+      <link>https://pixelzada.com.br/pt/playstation-plus-dezembro-2026-tony-hawk-s-pro-skater-3-4-dragon-ball-xenoverse-2-e-amnesia-the-bunker/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/playstation-plus-dezembro-2026-tony-hawk-s-pro-skater-3-4-dragon-ball-xenoverse-2-e-amnesia-the-bunker/</guid>
+      <description>PS Plus de dezembro de 2026: Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 e Amnesia: The Bunker, de 1º de dezembro a 4 de janeiro. Veja os três jogos.</description>
+      <category>Consoles e PC</category>
+      <pubDate>Wed, 25 Nov 2026 18:48:09 +0000</pubDate>
+    </item>
     <item>
       <title>Steam Awards 2026 abre indicações até 30 de novembro, com Hall da Fama dos jogos do ano da última década</title>
       <link>https://pixelzada.com.br/pt/steam-awards-2026-abre-indicacoes-ate-30-de-novembro-com-hall-da-fama-dos-jogos-do-ano-da-ultima-decada/</link>
@@ -238,14 +246,6 @@
       <description>GTA 6 tem 99 da crítica, mas 5,1 de 10 dos usuários no Metacritic. Veja os números, as queixas e o que Insider Gaming e Kotaku dizem do review bombing.</description>
       <category>GTA 6</category>
       <pubDate>Sat, 21 Nov 2026 12:52:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6: lojas exclusivas da Ultimate Edition ficam de portas fechadas e jogadores reclamam</title>
-      <link>https://pixelzada.com.br/pt/gta-6-lojas-exclusivas-da-ultimate-edition-ficam-de-portas-fechadas-e-jogadores-reclamam/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-lojas-exclusivas-da-ultimate-edition-ficam-de-portas-fechadas-e-jogadores-reclamam/</guid>
-      <description>Jogadores da edição padrão de GTA 6 encontram lojas trancadas e reclamam. Veja o que IGN e Kotaku dizem e se a Ultimate Edition compensa os US$ 20 a mais.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 21 Nov 2026 00:48:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

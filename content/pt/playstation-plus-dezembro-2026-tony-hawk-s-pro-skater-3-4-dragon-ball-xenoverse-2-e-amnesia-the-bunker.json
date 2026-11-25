@@ -18,7 +18,9 @@
     "query": "PlayStation Plus dezembro 2026",
     "alt": "Arte dos jogos mensais da PlayStation Plus de dezembro de 2026",
     "url": "https://blog.playstation.com/tachyon/2026/11/bc4af3b9af7eabe20204f2228edee81050b007ef.jpg",
-    "credit": "Imagem: PlayStation Blog"
+    "credit": "Imagem: PlayStation Blog",
+    "path": "/assets/img/playstation-plus-dezembro-2026-tony-hawk-7d912bb2.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -58,7 +60,7 @@
       "title": "PlayStation Plus monthly games for December 2026 revealed"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -145,5 +147,7 @@
       "text": "O Insider Gaming lembra que o plano Essential é o mais básico, com jogos mensais, multiplayer online, descontos exclusivos, armazenamento na nuvem e Share Play, e que os planos Extra e Premium acrescentam benefícios. O resgate é feito pelo próprio console ou pela loja, a partir de 1º de dezembro.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T18:48:09+00:00",
+  "updated_at": "2026-11-25T18:48:09+00:00"
 }
