@@ -16237,7 +16237,7 @@
     "slug": "gta6-corte-sashagrey-2",
     "data": "2026-11-25",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 sashagrey jogando GTA 6\n📺 twitch.tv/sashagrey\n\n#gta6 #gtavi #sashagrey #pixelzada",
     "tentativas": 0,
@@ -16260,6 +16260,19 @@
       "motivo": "streamer vestida e gameplay de GTA com carros e pessoas vestidas",
       "por": "imagem",
       "em": "2026-11-22T10:13:07-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T08:01:45-03:00",
+      "media_id": "18084709529445589",
+      "permalink": "https://www.instagram.com/reel/DgKYHI6Bj57/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
