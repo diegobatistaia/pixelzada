@@ -18,7 +18,9 @@
     "query": "Showa American Story",
     "alt": "Arte de divulgação da data de lançamento de Showa American Story",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Showa-American-Story-Date_11-24-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/showa-american-story-e-adiado-para-28-de-7598f725.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -40,7 +42,7 @@
       "title": "Showa American Story delay to 2027"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -142,5 +144,7 @@
       "text": "O estúdio não detalhou, nas mensagens citadas pelos três veículos, o que exatamente será refinado até lá. A única promessa é a de que o jogo chegue coeso, responsivo e completo.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T10:48:54+00:00",
+  "updated_at": "2026-11-25T10:48:54+00:00"
 }
