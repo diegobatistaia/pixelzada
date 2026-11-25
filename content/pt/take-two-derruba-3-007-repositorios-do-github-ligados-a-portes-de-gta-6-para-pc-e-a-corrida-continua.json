@@ -1,0 +1,131 @@
+{
+  "lang": "pt",
+  "slug": "take-two-derruba-3-007-repositorios-do-github-ligados-a-portes-de-gta-6-para-pc-e-a-corrida-continua",
+  "story_id": "fc877952982f8d9c",
+  "title": "Take-Two derruba 3.007 repositórios do GitHub ligados a portes de GTA 6 para PC, e a corrida continua",
+  "dek": "O pedido de remoção atingiu o projeto Leonida e mais de 2.900 cópias, mas outros grupos seguem tentando rodar a build vazada do Xbox no computador.",
+  "meta_description": "A Take-Two derrubou 3.007 repositórios no GitHub ligados a portes de GTA 6 para PC, mas outros projetos seguem ativos. Veja o que IGN, Verge e PC Gamer contam.",
+  "keyword": "Take-Two GitHub GTA 6 PC porte",
+  "category": "gta-6",
+  "tags": [
+    "gta 6",
+    "take-two",
+    "github",
+    "pc",
+    "vazamento"
+  ],
+  "image": {
+    "query": "GTA 6 PC",
+    "alt": "Arte promocional de GTA 6 divulgada pela IGN",
+    "url": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-10-1795610461067.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "credit": "Imagem: IGN"
+  },
+  "sources": [
+    {
+      "name": "IGN",
+      "owner": "ziff-davis",
+      "url": "https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
+      "title": "Take-Two appears to be trying to scrub GTA 6 PC ports from the internet"
+    },
+    {
+      "name": "The Verge",
+      "owner": "vox-media",
+      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
+      "title": "Grand Theft Auto 6 PC recompilation project Leonida takedown"
+    },
+    {
+      "name": "PC Gamer",
+      "owner": "future-plc",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-explained/",
+      "title": "GTA 6 recomp explained"
+    }
+  ],
+  "status": "draft",
+  "body": [
+    {
+      "type": "p",
+      "text": "A Take-Two foi atrás dos projetos que tentam levar GTA 6 para o PC a partir da build vazada do Xbox. Segundo IGN, The Verge e PC Gamer, a empresa enviou um pedido de remoção por direitos autorais ao GitHub e derrubou o repositório principal do projeto Leonida e mais de 2.900 cópias dele, somando uma rede de 3.007 repositórios, de acordo com a IGN.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que foi derrubado",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Leonida era um projeto de fã criado para traduzir a build vazada do Xbox e fazê-la rodar de forma nativa no Windows, descreve o The Verge. O veículo diz que o autor é um adolescente de 15 anos. A Take-Two afirmou no pedido que o repositório infringe obras protegidas e facilita a violação de direitos autorais de um título da Rockstar Games, no caso GTA 6.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Conforme a IGN, a empresa alegou que o projeto ultrapassa a licença que a Rockstar concede aos usuários e citou ao menos a seção 2.3 dos termos de serviço da Rockstar. A publisher não fez referência a cada cópia individualmente: a notificação atingiu o repositório e todas as ramificações ligadas a ele.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "A defesa do traga seus próprios arquivos",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A IGN destaca um trecho curioso do pedido. É comum, na cena de homebrew, ouvir a defesa de que o projeto não distribui o jogo e o usuário precisa trazer os próprios arquivos. A Take-Two rejeita esse argumento nesse caso, porque os arquivos que o usuário teria de fornecer vêm justamente da build não autorizada do Xbox que o Cyberleek divulgou.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Segundo a IGN, o autor do Leonida encerrou o projeto por completo, de acordo com postagens que depois foram apagadas. Capturas de tela do Discord do grupo mostram integrantes publicando avisos para se afastar do projeto, por receio de uma eventual investigação federal. A PC Gamer acrescenta que o criador desistiu depois que a Rockstar conseguiu derrubar o servidor de Discord do grupo.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Corrida para o PC continua",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A derrubada, porém, está longe de encerrar o movimento. De acordo com a IGN, muitos projetos parecidos continuam ativos, e alguns estão perto de criar um porte de GTA 6 que seja ao menos jogável. Alguns desenvolvedores transmitem o trabalho ao vivo e mostram como usam agentes de IA com comandos como pedir que eles trabalhem mais rápido e não cometam erros.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A PC Gamer explica que, para fazer um porte desse tipo, grupos recorrem à recompilação estática, que consiste em fazer engenharia reversa do código para rodá-lo em outro hardware. Ferramentas de programação com IA, como o Claude, aceleraram muito esse trabalho: o que levava de meses a anos agora leva de horas a dias, segundo o veículo, ainda que os resultados costumem ser mais cheios de bugs.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O The Verge diz que alguns grupos já conseguiram fazer o jogo iniciar no PC, mas que recompilar o jogo inteiro não será fácil, mesmo com ajuda de IA. A PC Gamer afirma que vários projetos chegaram a abrir o jogo e usar os menus, e que ao menos um aparentemente conseguiu se mover no mundo com a iluminação com defeito. O texto também alerta que é difícil verificar os vídeos que circulam, porque muitos são claramente falsos.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Por que a Take-Two se preocupa",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Para a IGN, o cenário é um pesadelo para a Take-Two e também para a Sony e a Microsoft, que se beneficiam bastante de GTA 6 chegar apenas aos consoles. A versão de console mira 30 quadros por segundo em todas as plataformas, mas, segundo o site, às vezes sofre para chegar a isso no PS5 básico e no Xbox Series X e S. Por isso, há grande interesse em uma versão de PC com 60 fps.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O The Verge pondera que a Take-Two talvez não consiga evitar o inevitável. O veículo lembra que a contagem regressiva para a versão oficial de PC começou na semana passada e que, se os relatos recentes forem verdadeiros, ela pode sair em alguns meses. Se o jogo estiver perto de ficar pronto para o PC, a empresa poderia anunciar a data antes de os modders conseguirem rodá-lo de forma não oficial.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que fazer enquanto isso",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A PC Gamer faz um alerta direto: baixar software pirata é ilegal e pode infectar o computador com malware, e o risco é ainda maior em tempos de código gerado por IA. Para o veículo, por enquanto o melhor a fazer é observar e acompanhar. A Pixelzada não vai indicar onde encontrar esses arquivos nem como usá-los.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A versão oficial de PC segue sem data confirmada pela Rockstar. Quando houver um anúncio, a informação sai aqui.",
+      "items": []
+    }
+  ]
+}
