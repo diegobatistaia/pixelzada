@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T16:38:59+00:00",
+  "generated_at": "2026-11-25T18:39:32+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 2,
+  "already_written_today": 4,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -50,6 +50,8 @@
         "fandom",
         "future-plc",
         "meups",
+        "nzn",
+        "valnet",
         "ziff-davis"
       ],
       "primary_owners": [],
@@ -58,7 +60,9 @@
         "6c4719a63e3f6a83",
         "00cf79d4e3a626dc",
         "8a85ebe4c76eca30",
-        "5b40304d833bae7a"
+        "5b40304d833bae7a",
+        "be82c7f0ba50dbf7",
+        "3e06f36f53d83f13"
       ],
       "sources": [
         {
@@ -110,161 +114,146 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/09/The-Witcher-IV.jpg"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/playstation-cd-projekt-red-marketing-partnership-deal-announced/",
+          "title": "GTA 6-Like Partnership With Playstation Announced by Witcher Developer",
+          "published_at": "2026-11-25T17:19:32+00:00",
+          "kind": "press",
+          "text": "CD Projetk Red and Sony are teaming up ahead of The Witcher 4 Expect to see a lot of \"plays best on PlayStation\" messaging when The Witcher 4 finally gets released in 2028 (if it doesn't get delayed). Developer CD Projekt Red has announced that it has entered into a marketing deal with PlayStation that will be similar to what Sony struck with Rockstar for Grand Theft Auto 6 . As part of CD Projekt Red's latest earnings report , CFO Piotr Nielubowicz said the company has \"signed new partnership agreements with Sony Interactive Entertainment covering the presence of our games on PlayStation and in PlayStation Plus subscriptions, as well as our collaboration during the upcoming Witcher 4 marketing campaign.\" The deal will \"support our business and financial outlook in this and future years.\" he continued. While details of the specific deal between CD Projekt Red and PlayStation were not shared, GTA 6 is a pretty good indicator of what we can expect. The Witcher 4 will likely be marketed almost exclusively for PlayStation consoles, highlighting specific features like the DualSense controller and PS5 Pro's superior power. The mention of PlayStation Plus suggests that subscribers could see The Witcher 3 return sometime in the future, perhaps after the release of the upcoming Songs of the Past expansion. Following the initial announcement of the deal, Michał Nowakowski (joint-CEO of CD Projekt RED) clarified to worried fans that The Witcher 4 will not be a PlayStation exclusive and is still planned for other platforms. The same is true for the studio's other upcoming titles, including Cyberpunk 2 and The Witcher 1 remake. That much was also true of Rockstar's deal with PlayStation, as GTA 6 was still released on Xbox Series X. It is still unclear how this will affect the possibility of a physical release for The Witcher 4 and other CD Projekt Red games, given Sony's plan to end disc production in 2028 for PlayStation games. In a recent interview, Nowakowski shared the studio's intent to still have a physical release but couldn't promise that it would include the game on an actual disc. \"The discs for the first parties, including PlayStation, have to be manufactured in their own factories,\" he said, \"So, if they stop manufacturing indeed by 2028, then yes [we won’t have a disc].\" That seems to be the trend lately, with GTA 6 also forgoing a physical disc release.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-witcher-3-yen-screenshot.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/the-witcher-4-tera-salto-geracional-parecido-com-o-de-gta-5-para-gta-6-confirma-cd-projekt-red/",
+          "title": "The Witcher 4 terá salto geracional parecido com o de GTA 5 para GTA 6, confirma CD Projekt RED",
+          "published_at": "2026-11-25T18:15:00+00:00",
+          "kind": "press",
+          "text": "GTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI GTA 6 já está disponível e certamente deve servir de inspiração para diversos estúdios da indústria nos próximos anos. A CD Projekt RED, por exemplo, acredita que a evolução de The Witcher 3 para The Witcher 4 será comparável ao salto técnico e visual de GTA 5 e a sequência da Rockstar. A informação foi compartilhada durante uma reunião com investidores, na qual os executivos da desenvolvedora polonesa responderam a perguntas sobre o novo RPG e também comentaram o lançamento de GTA 6 — considerado o maior da história do entretenimento . Apesar de reconhecer que os dois projetos possuem propostas diferentes, a empresa acredita que o intervalo de 11 anos entre os jogos da franquia The Witcher permitirá uma evolução significativa. A promessa é de melhorias em praticamente todos os aspectos da experiência. Durante a reunião, um investidor questionou como The Witcher 4 se compara a GTA 6 , considerando o sucesso comercial e técnico do lançamento da Rockstar. O co-CEO da CD Projekt RED, Michal Nowakowski, ponderou que não seria adequado fazer uma comparação completa entre os dois projetos — mas reconheceu que a equipe acompanha os avanços da concorrência. “Antes de mais nada, esta ligação é sobre nós, não sobre a Rockstar, mas entendo a conexão”, afirmou o executivo. Ele também explicou que a desenvolvedora analisou as diferenças entre GTA 5 e GTA 6 para entender a dimensão da evolução apresentada pela sequência. Nowakowski acredita que uma transformação semelhante poderá ser observada entre The Witcher 3 e o próximo capítulo da franquia. Segundo ele, os 11 anos que separam os dois jogos representam uma grande janela de oportunidade para aprimorar consideravelmente os gráficos, a jogabilidade e outros elementos da experiência. “Acreditamos que haverá um salto comparável entre The Witcher 3 e The Witcher 4 . Já se passaram 11 anos. Estamos trabalhando em The Witcher 4 para torná-lo significativamente mais bonito e aprimorado em praticamente todos os aspectos do jogo”, declarou. O executivo completou: “Então, sim, vocês podem esperar um salto muito maior entre The Witcher 3 e The Witcher 4 ”. Durante a mesma reunião, os investidores também buscaram entender se o lançamento de GTA 6 poderia provocar mudanças no cronograma de desenvolvimento do próximo The Witcher — como ocorreu com outros estúdios alguns meses antes da estreia . A CD Projekt RED, porém, afirmou que não alterou seus planos por causa do jogo da Rockstar. A empresa também reiterou que The Witcher 4 continua previsto para 2028. Até o momento, não existe uma data específica de lançamento, mas a janela já havia sido mencionada anteriormente em atualizações sobre o desenvolvimento do RPG. Outro detalhe envolvendo o projeto é uma parceria de marketing com a Sony. O acordo indica que o PlayStation deverá ter participação importante na divulgação do jogo quando a campanha promocional começar, embora a empresa ainda não tenha apresentado detalhes sobre essa colaboração. Até agora, o público teve acesso apenas a cenas cinematográficas e a uma demonstração técnica que apresentou o jogo rodando no PlayStation 5 . O material mostrou recursos gráficos e desempenho do projeto no console, mas ainda não revelou uma demonstração completa da jogabilidade. A CD Projekt RED também já compartilhou alguns detalhes sobre o tamanho da equipe responsável pelo novo RPG. Em uma atualização publicada antes da Gamescom 2026, Michal Nowakowski confirmou que mais de 500 desenvolvedores estão trabalhando no projeto. “Nossa equipe aqui na sede da CD Projekt RED está trabalhando arduamente em uma saga totalmente nova, com Ciri no comando”, afirmou o executivo. A protagonista será o centro da próxima aventura, que dará início a uma nova fase da franquia. Na ocasião, Nowakowski também descreveu o jogo como o projeto mais ambicioso da história do estúdio. Segundo ele, The Witcher 4 terá um mundo aberto vasto, combates intensos e uma narrativa profunda, com lançamento previsto para 2028. E você, já está ansioso para The Witcher 4 ? Conta pra gente nas redes sociais do VOXL o que espera do próximo RPG da CD Projekt! Acabou a luz no meio do jogo? Como ter energia de backup para manter seus equipamentos funcionando Dados de 1 milhão de cartões de crédito são expostos; Brasil é o mais atingido Novo Motorola Razr vaza com tela externa maior e novo chip Black Friday Acer: aproveite até R$ 1.000 de desconto na semana de ofertas Pornô gerado por IA: entenda os perigos por trás do DeepNude",
+          "image": "https://www.estadao.com.br/resizer/v2/UTNS6DWEPRG7RJOAQIC6BWN2O4.jpg?quality=80&auth=81c2b09aa303083dff35028764bd45303ef2f518fdf48e54453995ba6774704e&width=1200&height=630&focal=980,515"
         }
       ]
     },
     {
-      "story_id": "3fbe412e760bc752",
-      "title": "Cherry Time! broadcast set for November 27 featuring “exciting announcements” and Hollow Knight: Silksong free expansion ‘Sea of Sorrow’",
-      "summary": "Team Cherry will host a Cherry Time! broadcast on November 27 at 7:00 a.m. PT …",
+      "story_id": "c4b5a5c3d178abef",
+      "title": "PlayStation Plus Monthly Games for December: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
+      "summary": "Shred rails, fight icons and flee horrors beyond your understanding with the PlayStation Plus Monthly Games for December. Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker will be available to all PlayStation Plus members* from Tuesday, December 1 to Monday January 4. Let’s take a closer look at each of […]",
       "owners": [
-        "future-plc",
+        "fandom",
         "gematsu",
         "insider-gaming",
         "keleops",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "f2fa439af157ec7b",
-        "0aa685e4559b5f3a",
-        "e01f58d34a257d8b",
-        "e824a7a6d1b3033f",
-        "1e72d4a8649ecf11"
-      ],
-      "sources": [
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/cherry-time-broadcast-set-for-november-27-featuring-exciting-announcements-and-hollow-knight-silksong-free-expansion-sea-of-sorrow",
-          "title": "Cherry Time! broadcast set for November 27 featuring “exciting announcements” and Hollow Knight: Silksong free expansion ‘Sea of Sorrow’",
-          "published_at": "2026-11-25T15:15:11+00:00",
-          "kind": "press",
-          "text": "Team Cherry will host a Cherry Time! broadcast on November 27 at 7:00 a.m. PT / 10:00 a.m. ET featuring “a bunch of exciting announcements,” as well as an update on Hollow Knight: Silksong free expansion “Sea of Sorrow.” You will be able to watch it on YouTube . Hollow Knight: Silksong is available now for PlayStation 5 , Xbox Series , Switch 2 , PlayStation 4 , Xbox One , Switch , and PC via Steam , GOG , Humble Store , and Microsoft Store . It is also available via Game Pass.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Cherry-Time_11-25-26.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/action/hollow-knight-silksong-sea-of-sorrow-update-coming-this-week-as-team-cherry-teases-exciting-announcements-in-its-own-nintendo-direct-style-showcase/",
-          "title": "Hollow Knight: Silksong - Sea of Sorrow update coming this week, Team Cherry teases out of nowhere",
-          "published_at": "2026-11-25T15:28:36+00:00",
-          "kind": "press",
-          "text": "Hopefully it's a release date announcement and not a delay Team Cherry has announced a livestream that is set to feature an update on Hollow Knight: Silksong 's Sea of Sorrow DLC. GTA 6 may have released last week, but Team Cherry has returned to remind you that Rockstar Games isn't the only developer to have released a long-awaited title after a development cycle that became a meme. It's still wild to think about, but the DLC-turned-full-sequel has been out for over 12 months after years of silkposting, and thankfully it looks like its DLC – which was announced shortly after launch with a 2026 release date, before striking fear into the hearts of many when that date vanished – won't take quite as long to arrive, as Team Cherry is set to give us an update on it this week. Join us in 48 hours for Cherry Time! Get ready for a bunch of exciting announcements, plus an update on Hollow Knight: Silksong - Sea of Sorrow! Premiering here: youtu.be/M-QUgdcBpZU In a post on BlueSky, Team Cherry announced its own Nintendo Direct -equivalent, \"Cherry Time!\" The stream is set to kick off at 7am PT | 10am ET | 3pm GMT on November 27, 2026, with the post reading \"Get ready for a bunch of exciting announcements, plus an update on Hollow Knight: Silksong - Sea of Sorrow!\" It's worth noting that Team Cherry said during the initial announcement that we wouldn't know more about the DLC until \"shortly before Hollow Knight: Silksong - Sea of Sorrow releases,\" so there's a chance we could be looking at more Hollow Knight Silksong in a matter of days. When the Silksong reveal happened, it was two weeks before the game's release date, so hopefully it'll be no longer than that. Of course, I do have to flag the terrifying idea that Team Cherry will announce that Sea of Sorrow will be turned into a full game… Katana Zero pulls a Hollow Knight: Silksong - the beloved action game's DLC is now \"the size of a full sequel\" after 7 years of development Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/7rwGUjTnvewzbdsjRWgj5h-1920-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/hollow-knight-silksong-dlc-livestream-sea-of-sorrows-update",
-          "title": "Hollow Knight: Silksong devs announce a livestream for Friday, promise updates on the hotly-anticipated Sea of Sorrow DLC",
-          "published_at": "2026-11-25T15:32:40+00:00",
-          "kind": "press",
-          "text": "Hollow Knight: Silksong developer Team Cherry has announced it will host a 'Cherry Time Special Presentation' on 27th November, bringing more information to light about the game's first big DLC offering, Sea of Sorrows. We know that the free update will be nautically-themed - hence the eponymous 'sea' - and will feature new bosses, areas and so on, but other than that, information about what's coming is vague. But it seems that's not all; as well as more information about the mysterious update to the hit Metroidvania game, the studio has also announced \"a bunch\" of other \"exciting announcements.\" Curious. The Cherry Time Special Presentation will kick off at 7am PT / 10am ET / 3pm GMT / 4pm CEST. I'll embed the video below, so check back here at the time if you need a bookmark. Recently, and more than a year after its initial release, physical versions of Hollow Knight: Silksong finally began arriving on players' doorsteps. Whilst these editions contained mostly expected information, there was an unforeseen mention of \"free content packs\" that would be arriving alongside the Sea of Sorrow DLC. Will we hear more about these as part of this new showcase? We don't have too long to find out. It seems likely, though. \"The world of Hollow Knight: Silksong will expand with free content packs,\" the booklet read in the physical editions. \"Prepare for even more adventures filled with new friends, new abilities, and new ferocious foes!\" Team Cherry has repeatedly confirmed plans for post-launch Silksong support , but other than this upcoming DLC, we don't really know what that entails. Additionally, Sea of Sorrow's original release window was a vague 2026 - will we see it shadowdrop as part of this stream? Stranger things have happened, especially in the world of Hollow Knight …",
-          "image": "https://assetsio.gnwcdn.com/cherry-time.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/team-cherry-will-break-its-long-silence-on-silksong-dlc-with-a-livestream-update-later-this-week-2001000355",
-          "title": "Hollow Knight: Silksong Studio Breaks Silence On Sea Of Sorrow DLC With A Showcase Announcement",
-          "published_at": "2026-11-25T15:32:51+00:00",
-          "kind": "press",
-          "text": "Team Cherry has posted. I repeat, Team Cherry has posted. The Hollow Knight: Silksong developer has announced that it will hold a livestream event on Friday, November 27th on YouTube . Tune in at 10 AM ET for what Team Cherry says will be an update on Silksong DLC Sea of Sorrow , plus a bunch of other “exciting” announcements. Hollow Knight: Silksong released over a year ago, and last December the devs at Team Cherry teased that the game would get a nautical-themed DLC sometime in 2026. The majority of 2026 has now come and gone, but there’s still a month and some change left in the year so technically we’re still within the release window. Now the announcement could very well be that Sea of Sorrow has to be delayed into 2027. Because this livestream is coming so late in the year, I think we have to brace ourselves for that possibility. As we know from Silksong ‘s lengthy development and delayed release, Â the developers at Team Cherry like to cook a project until it is done to absolute perfection , and their success and independence as a studio means they can take as much time as they like to do just that. But what if that’s not the announcement? What if this livestream is a Christmas gift come early and Team Cherry actually stealth-drops the DLC on November 27th? Can you imagine? I know there’s no video game on earth that can compete right now with GTA 6 , but if I had to pick one that could make a noticeable dent in GTA ‘s daily active users, it’d be Silksong . I’m also powerfully curious what other announcements the team could have in store. I cannot wait to find out on Friday. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Indie devs are facing tighter pricing pressures than ever GenAI has made things worse, but it's been bad for a while There's three months left on the clock for the Sea of Sorrows DLC to come out, but a lack of updates bodes ill The metroidvania soulsike is without peer, but there are some games that can scratch the itch it leaves behind The brutal Metroidvania was also rated 'best game you suck at' Team Cherry has big plans to give away a lot of new stuff for free in 2026",
-          "image": "https://kotaku.com/app/uploads/2025/08/Hornet_banner_wide-1-1-1200x675.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/hollow-knight-silksong-sea-of-sorrow-update-coming/",
-          "title": "Hollow Knight: Silksong – Sea of Sorrow Update Coming Friday",
-          "published_at": "2026-11-25T16:25:49+00:00",
-          "kind": "press",
-          "text": "Team Cherry is promising an update on the Hollow Knight: Silksong – Sea of Sorrow expansion. In a post on social media on Wednesday, the studio announced a new “Cherry Time” broadcast. Premiering on Friday, November 27, Cherry Time is promising to include “a bunch of exciting announcements”. That includes, they say, something new regarding Hollow Knight: Silksong – Sea of Sorrow. Recently, a booklet for Silksong led to concerns from fans regarding the status of the promised DLC. Specifically, it was being called a “giant expansion”, which had fans wondering if it was going to turn into another Silksong situation. As you may recall, Silksong was originally planned to be DLC for the original Hollow Knight. It eventually became too big and was made a standalone game. With this latest update from Team Cherry, it doesn’t appear that will be the case this time. Then again, fans just have to wait and see what they show on November 27. What are you hoping to see from this new update on Hollow Knight: Silksong – Sea of Sorrow? Let us know down in the comments, and join the official Insider Gaming Discord server . In other news, read about when the release date for Lords of the Fallen 2 will be announced, along with its planned release window. Also, don’t forget to sign up for our weekly newsletter . Mike has been covering the gaming industry since 2012, and has reported on some of the largest events in the industry while also working as an investigative reporter. Outside of…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2025/09/hollow-knight-silksong-bell-upheaval.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "6198ed6ed13098ab",
-      "title": "2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy",
-      "summary": "It's the 10th anniversary of the Steam Awards and that means it's time for something new.",
-      "owners": [
-        "future-plc",
-        "gameblast",
+        "sony",
         "valnet",
         "ziff-davis"
       ],
-      "primary_owners": [],
+      "primary_owners": [
+        "sony"
+      ],
       "fingerprints": [
-        "c3d9201f9334ba7c",
-        "96d3c2148c804026",
-        "7da4eb8cc90eb956",
-        "6e888535c6da087e"
+        "1c9c14fa1e1f139c",
+        "bb689373dd8a6398",
+        "be3b344390808546",
+        "642120aa1ea7a23b",
+        "7d5c5122546a2594",
+        "b5389f152851c552",
+        "806cdcea6bddc7b2"
       ],
       "sources": [
         {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/2026-steam-awards-pit-the-goty-winners-of-the-past-10-years-against-each-other-in-an-all-out-battle-for-supremacy/",
-          "title": "2026 Steam Awards pit the GOTY winners of the past 10 years against each other in an all-out battle for supremacy",
-          "published_at": "2026-11-23T21:29:46+00:00",
-          "kind": "press",
-          "text": "It's the 10th anniversary of the Steam Awards and that means it's time for something new. The festive month of December is rapidly bearing down on us and you know what that means: It's time for another round of the Steam Awards, the annual exercise in which we hand out awards to our favorite games on Steam, hence the name. First, though, comes the nomination process , which kicked off today and will run until November 30. This year's event is a little different from those of years past, because 2026 is the 10th anniversary of the Steam Awards. To mark the big birthday, Valve has added a few new categories inspired by previous years: For even bigger excitement, there's also a new \"Hall of Fame\" category that pits the Game of the Year winners from the previous decade against one another in a final fight for supremacy. The contenders are: Apart from the Hall of Fame category, which is locked to those 10 games, Steam Award nominations are wide open: For each category, Steam will provide you with a list of games you've played as well as \"popular and recommended games\" you haven't, but you can throw in whatever game you want in whatever category you like, as long as it was released in 2026. Serious Sam Shatterverse for \"Outstanding Story-Rich Game Award?\" Yes you can . Not that I recommend you actually do , to be clear. As always, nominating games will not only put your support behind your favorite games of the year, it will also earn you coveted Steam badges. Nominations will close on November 30—the nominees will be revealed, and voting will begin, with the start of the Steam Winter Sale on December 17. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Steam sale dates : When's the next event? Epic Store free games : What's free right now? Free PC games : The best freebies you can grab 2026 games : This year's upcoming releases Free Steam games : No purchase necessary Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/zf4d4yXSPFw7YH4F6S4zdd-2560-80.png"
+          "name": "PlayStation Blog",
+          "owner": "sony",
+          "url": "https://blog.playstation.com/2026/11/25/playstation-plus-monthly-games-for-december-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/",
+          "title": "PlayStation Plus Monthly Games for December: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
+          "published_at": "2026-11-25T16:30:15+00:00",
+          "kind": "primary",
+          "text": "Shred rails, fight icons and flee horrors beyond your understanding with the PlayStation Plus Monthly Games for December. Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker will be available to all PlayStation Plus members* from Tuesday, December 1 to Monday January 4. Let’s take a closer look at each of the games. Alert the neighborhood watch and grab your skate buddies because the shred’s not dead: the legendary franchise returns with Tony Hawk’s Pro Skater 3 + 4. Everything you loved is back, revamped with more skaters, new parks, gnarlier tricks, eardrum-shattering music and much more. Drop-in to new parks or tear it up across timeless locations from both Tony Hawk’s Pro Skater 3 and Tony Hawk’s Pro Skater 4, authentically remade in jaw-dropping 4K** resolution with streamlined goals and the epic 2-minute format. Define your own experience in the expanded Create-A-Skater and Create-A-Park modes, including the ability to create custom goals to share with friends for the first time. Dragon Ball Xenoverse 2 is the ultimate Dragon Ball gaming experience, packed with thrilling action, epic battles, and endless customization options. Create your own character, explore Conton City and team up with iconic characters from the series as a teacher to train and be ready to battle against formidable enemies to rescue the flow of History. Dragon Ball Xenoverse 2 also features online multiplayer modes, where you can battle against other players from around the world in epic showdowns or participate in Raid Battles to face gigantic foes with other players. Amnesia: The Bunker is a first-person horror game from the makers of Soma and Amnesia. Left all alone in a desolate WW1 bunker with only one bullet remaining in the barrel, it’s up to you to face the oppressing terrors in the dark. Immerse yourself in the multiple ways of tackling survival. In the shoes of the French soldier Henri Clément, you are armed with a revolver gun, a noisy dynamo flashlight, and other scarce supplies to scavenge and craft along the way. With randomization and unpredictable behavior, no play-through is the same. Hunted by an ever-present threat reacting to your every move and sound, you must adapt your play-style to face hell. Every decision will change the outcome of how the game responds. Actions bear consequences. PlayStation Plus members have until Monday November 30 to add the PlayStation Plus Monthly Games for November – Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2 – to their library. *PlayStation Plus lineup may differ by region. Please check the PlayStation.com for details. **The PS5 version of the game will run native 4K at 60FPS in Fidelity Mode. 4K output requires a 4K compatible device or display.",
+          "image": "https://blog.playstation.com/tachyon/2026/11/bc4af3b9af7eabe20204f2228edee81050b007ef.jpg"
         },
         {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/steam-awards-2026-nominations-open-hall-of-fame",
-          "title": "The Steam Awards turn 10 with throwback categories and a Game of the Year Hall of Fame",
-          "published_at": "2026-11-24T18:38:30+00:00",
-          "kind": "press",
-          "text": "Nominations for the 2026 Steam Awards are now open, and to mark the event's 10th anniversary, Valve has brought back some categories from years past and added a Hall of Fame. You've got until 6pm UK (10am Pacific) on 30th November to nominate your favourite games of the year across 14 categories. Returning throwbacks include Just 5 More Minutes, Defies Description, and This is My Job Now, which recognises games that simulate mundane real-life jobs. The new Hall of Fame category will appear when voting opens, and will let players choose their favourite from Steam's previous Game of the Year winners to crown the best game of the past decade. Most categories are only open to games released on Steam since last year's Autumn Sale. The exception is the Labo(u)r of Love award, which goes to older games that developers are still supporting with new content. Previous Labo(u)r of Love winners, including Warframe , Grand Theft Auto 5 , Cyberpunk 2077 , and Baldur's Gate 3 , can't be nominated again. Five finalists will be revealed in each category when voting opens alongside the Steam Winter Sale on 17th December. Voting closes at 10am Pacific on 2nd January, and the winners will be announced straight afterwards. Nominating in at least one category also earns you the first level of Steam's Nomination Committee badge. Earlier this month, Valve released a new Steam update that adds Steam Deck framerate data to a game's store page , giving potential buyers an indication of how well a game runs on the handheld.",
-          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-18.32.30.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/podcast-indicados-jogo-do-ano-the-game-awards-2026.html",
-          "title": "BlastCast #375 – Os indicados a Jogo do Ano no The Game Awards 2026",
-          "published_at": "2026-11-25T14:00:00+00:00",
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-december-2026/",
+          "title": "PlayStation Plus Free Games For December 2026 Revealed",
+          "published_at": "2026-11-25T16:32:11+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced",
+          "title": "PlayStation Plus Monthly Games lineup for December 2026 announced",
+          "published_at": "2026-11-25T16:32:38+00:00",
+          "kind": "press",
+          "text": "Sony Interactive Entertainment has announced the December 2026 Monthly Games lineup for PlayStation Plus Essential subscribers. All titles will be available from December 1. The full list of Monthly Games is as follows:",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/PS-Plus_11-25-26.jpg"
+        },
+        {
           "name": "Polygon",
           "owner": "valnet",
-          "url": "https://www.polygon.com/game-of-the-year-goty-game-awards-2026-frontrunners/",
-          "title": "Game Awards 2026: All Game of the Year Nominees and Predictions",
-          "published_at": "2026-11-25T15:43:27+00:00",
+          "url": "https://www.polygon.com/playstation-plus-december-2026-games-announced-ps4-ps5-free-essential/",
+          "title": "PlayStation Plus December 2026 Free Games Lineup Officially Revealed",
+          "published_at": "2026-11-25T16:45:59+00:00",
           "kind": "press",
-          "text": "What’s in pole position for gaming’s top prize? Let’s make some predictions With less than a month to go until the 13th Game Awards, set for Dec. 10, every key competitor has finally shown its hand, and the best (or biggest, at any rate) was saved for last. Now that's out of the way, and nominations have been announced , we have a clear picture: As in 2025 , there is an extremely clear favorite that seems all but impossible to unseat. At this point, we have a good idea of what games will be favored by The Game Awards' voting body : A high Metacritic rating (preferably over 90) is a must; role-playing games and action-adventures are strongly favored, as are games with strong narrative elements; indie and multiplayer games struggle harder for recognition than AAA single-player adventures. We used these metrics to correctly predict last year's winner, Clair Obscur: Expedition 33 , and the 2024 winner, Astro Bot . In 2025, we also predicted all six GOTY nominees and correctly called 20 other categories. Below, we pick the likely winner and rank the rest of the six nominees in order of their likeliness to win. We'll find out whether there will be a shock upset at The Game Awards on Dec. 10. Update (Nov. 25): This week, we begin making predictions for what will win every major category at The Game Awards 2026; you'll find them below our ranking of the six Game of the Year contenders. This first update contains predictions for the indie, multiplayer, and mobile categories, plus a few odds and ends. Next week, we'll predict the genre cateogory winners, and in the week of the awards themselves will predict the craft awards . Why it could win: The biggest game production in history with the highest Metacritic score of all time, GTA 6 compromises on absolutely nothing, from technically astonishing visuals to deep gameplay systems and nuanced storytelling. The added X factor is Rockstar's infallible sense of cool. It's nominated in every category it's reasonably eligible for. Nothing else this year is even close to its league. Weaknesses: Basically none, aside from the narrative that its win is inevitable, which might spur some voters to make another pick. Rockstar has been beaten before, notably by God of War when Red Dead Redemption 2 competed at the 2018 Game Awards, but there is no competition that strong this year. Momentum (holding steady): GTA 6 has a Metascore of 99, the highest in the history of the awards. The prediction markets put its chances of victory at 96%. It's even more locked in than Clair Obscur was last year. There is no way it isn't winning. Why it could win: Resident Evil is a reliable contender at The Game Awards , with three GOTY nominations since 2019, and many more in other categories. Requiem combines the fan appeal of the remakes with the freshness of a new entry, and blends their gameplay successfully, too. It's slickly produced, digestible, thrilling, with both global appeal and a serious side: a perfect Game Awards GOTY contender. Weaknesses: Requiem 's critical reception was very good overall, but perhaps a tiny bit soft to be a true GOTY contender — it sits in the high 80s on Metacritic and OpenCritic. Released in February, so recency bias is not on its side and it may not feel so exciting to voters as some more recent games. Momentum (holding steady): Everything below GTA 6 is a rounding error, but the prediction markets narrowly favor Ocarina of Time over Requiem for second place. That's wrong — a remake would never be bestowed with the Game of the Year title. Requiem is tied for second on nominations and remains a down-the-middle Game Awards favorite that has been in the runner-up spot all year. That hasn't changed. Read Giovanni Colantonio's full review of Resident Evil Requiem . Why it could win: Developer Remedy gets to have its cake and eat it at The Game Awards: It's a purveyor of mainstream, cinematic action-adventures that retains a level of indie authenticity and cool. It's usually rewarded with plenty of nominations, and both the first Control and Alan Wake 2 were GOTY nominees. Control Resonant hasn't broken the streak. Weaknesses: A genre switch from tight shooter to open-world action-RPG has met with a pretty mixed response, and although Resonant 's Metacritic rating is actually higher than the original Control's (83 to 82), the sentiment seems decidedly cooler — perhaps because, as a sequel, it has lost the element of surprise. Momentum ( 📈 from No. 6): Control Resonant defied its mixed reception with a very strong six nominations, tied with Resident Evil: Requiem. It's nominated in the key categories of Game Direction and Narrative. It's perhaps the likeliest candidate to take a win off GTA 6, in the Art Direction category. In anything other than a GTA year, it would be a classic dark horse. Read Willa Rowe's full review of Control Resonant . Why it could win: Phantom Blade Zero is this year's Black Myth: Wukong , a visually spectacular action game from an exciting new Chinese studio that muscled its way into the GOTY race. Unlike Black Myth , and unlike this year's Korean competitor Crimson Desert , it's got strong reviews (88 on Metacritic, 90 on OpenCritic). Weaknesses: While it has reviewed well, Phantom Blade hasn't quite pulled away from a crowded action-adventure field that includes Control Resonant and 007 First Light . Momentum ( holding steady): Phantom Blade Zero has done very well to secure five nominations, including the crucial Game Direction nod. International jurors who don't fancy voting for the Western hegemony of GTA 6 might well pick it. Read Paulo Kawanishi's full review of Phantom Blade Zero . Why it could win: A beloved classic, with a reputation as the best game ever made, lavishly remade by a team at the top of their game, and showered in critical plaudits like no other game this year aside from GTA 6 . It may be just a remake, but Nintendo has mustered a huge sense of event around Ocarina , from its dramatic visual reinvent",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_11-1.jpg?w=1600&h=900&fit=crop"
+          "text": "PS Plus subscribers get 3 games next month Sony Interactive Entertainment revealed December 2026's free Essential games for PlayStation Plus subscribers on Wednesday. There's a little something for everyone in the final month of the year: Tony Hawk’s Pro Skater 3 and 4 , Dragon Ball Xenoverse 2 , and Amnesia: The Bunker will be available for subscribers at every tier of PlayStation Plus. Players can download their free PlayStation games beginning Tuesday, Dec. 1. Here's everything PlayStation fans can expect as part of PS Plus next month. Tony Hawk’s Pro Skater 3 and 4 is a remake of two early-2000's Pro Skater games. Pro Skater 3 is one of the best entries in the series, and plays just as great here. Skate across some of the series' best levels as you flipkick, grind, and do other tricks to build up combos. However, the new version of Pro Skater 4 isn't as beloved as its changes to career mode haven't been well-received by all players; open-ended missions have been reworked into bite-sized, two-minute runs. Before Dragon Ball Xenoverse 3 launches next year , check out its predecessor. Xenoverse 2 is an oldie-but-a-goodie 3D fighting game that goes heavy on the RRG elements. Create your Dragon Ball character and travel through time, fighting iconic battles from the series with new twists, like duking it out alongside Super Saiyan Goku on Namek against both Frieza and Cooler. From the makers of Soma , Amnesia: The Bunker is a first-person survival horror game that's not for the faint of heart. Set in a World War I bunker, try to survive while a terrifying and dynamic monster tracks you down. Amnesia: The Bunker features an open world full of supplies, meaning you'll have freedom in how you choose to outlast the monster. Tony Hawk’s Pro Skater 3 and 4 , Dragon Ball Xenoverse 2 , and Amnesia: The Bunker will be available until Monday, Jan. 4, 2027. You can still grab November's free PlayStation Plus essential games — Dead Island 2 , Tomb Raider 4-6 Remastered , and Monster Train 2 — through Nov. 30. ​ PlayStation Plus Essential is the lowest tier of Sony’s subscription game service. It offers online multiplayer access, a monthly assortment of free PS4 and PS5 games, cloud storage, and discounts on PlayStation Store purchases. PlayStation Plus Essential costs $79.99 annually, $27.99 for a three-month subscription, or $10.99 monthly, following a price hike across all tiers of PS Plus in May .",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/tony-hawk-pro-skater-3-4-foundry-jump.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/playstation-plus-monthly-games-for-december-2026-revealed/",
+          "title": "PlayStation Plus Monthly Games For December 2026 Revealed",
+          "published_at": "2026-11-25T17:11:00+00:00",
+          "kind": "press",
+          "text": "Players with a PlayStation Plus Essential or higher membership can snag three new games for free in December 2026 as part of their subscription. The PlayStation Blog revealed which titles will be available to subscription members next month. PlayStation Plus Essential is the lowest of three membership tiers. With Essential, players get free monthly games, online multiplayer, exclusive discounts and packs, cloud storage, and share play. The Extra and Premium tiers add a few more bonuses per tier. Right now, these memberships are on sale for Black Friday , making the Essential tier only $64 for 12 months instead of $80. The blog revealed three games coming up in December 2026, one of which is a two-in-one. Tony Hawk’s Pro Skater 3 and 4 come as one game, but it is a remake of the games released in 2001 and 2002, respectively. Players get to create their own skater and board, perform tricks, and do skate competitions. Another title coming to PlayStation Plus Essential members is Amnesia: The Bunker. This is a survival horror game where you are in a World War I bunker, but you’re not in the bunker alone. This is the fourth of the Amnesia games, but each game is its own story. So even if you’ve never played an Amnesia game, you could pick this up without losing details. The final game is Dragon Ball Xenoverse 2. Players can make their own Dragon Ball character and go through Conton City to battle. There is a multiplayer mode where you can go up against other players or join Raid Battles. Members have until November 30 to get the November games before they’re gone. Will you be picking up any of the PlayStation Plus Monthly games for December? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server. For more information from Insider Gaming, read about GTA 6 reportedly frying some PS5 consoles . Don’t forget to sign up for our weekly newsletter .",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/PlayStation-Plus-Adds-New-Perks-For-Subscribers-news.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/playstation-plus-monthly-games-december-2026",
+          "title": "Here are our PS Plus monthly games for December 2026",
+          "published_at": "2026-11-25T17:14:40+00:00",
+          "kind": "press",
+          "text": "There's a chill in the air and a snowman (plastic) at the end of the street, meaning winter is firmly upon us. So what better way to make it way through the long dark nights than a spot of festmas gaming. And hark, just in the nick of time, PlayStation Plus' monthly games for December have been revealed, with some skating, spooking, and dragon baubles. PlayStation Plus subscribers can claim December's gaming trio starting Tuesday, 1st December. They'll remain available to add to your library until early in 2027: Monday, 4th January to be exact. Here's the list in full: Not the most festive bunch, then, but some decent stuff all the same. Amnesia: The Bunker is a real winner if you like it spooky (and The Bunker is very spooky), setting players loose in a labyrinthine underground WW1 bunker where something awful prowls. It's a \"truly unsettling adventure\" as we wrote in our Amnesia: The Bunker review . As for the other two, Tony Hawk's Pro Skater 3+4 is well worth your time, taking the beloved early 2000s skating games and giving them a successful modern-day makeover. We called it a \"properly glorious collection of two classic games\" in our Pro Skater 3+4 review . As for Dragon Ball Xenoverse 2 , the critical consensus seems to suggest it is 'okay'. And that's your lot. It is, though, worth noting that hellos also mean goodbyes, and PlayStation Plus subscribers have until 30th November to claim the current batch of monthly games . And if you need a reminder, they're Dead Island 2 , Tomb Raider 4-5 Remastered, and Monster Train 2. For more information on PlayStation Plus, you can check out our guide to PS Plus and all the available games here .",
+          "image": "https://assetsio.gnwcdn.com/playstation-plus-june-header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/playstation-plus-free-games-for-december-2026-include-one-of-the-best-horror-games-in-years-2001000406",
+          "title": "PlayStation Plus Free Games For December 2026 Include One Of The Best Horror Games In Years",
+          "published_at": "2026-11-25T17:42:53+00:00",
+          "kind": "press",
+          "text": "Dragon Ball Xenoverse 2 PlayStation PS Plus PS5 Many of us will still be spending the last month of 2026 chipping away at Grand Theft Auto 6 , but for everyone else there’s a really good haul of PS Plus games. It’s an eclectic bunch, too, including both a WWI horror game and a lore-scrambling Dragon Ball RPG fighter. On November 25, PlayStation revealed December’s monthly games that will be available to all PS Plus subscribers across all tiers. These games will be available to add to your PlayStation library permanently on December 1. Once added, you can install them and play them whenever you want as long as you remain an active PS Plus Essential, Extra, or Premium subscriber. Here’s the list of free PS Plus games for December 2026 and what platforms they’re available on: You donât want to wait too long to grab these PS Plus monthly games, as they’re only available to grab for free until January 4. After that, a new batch of not-yet-announced games will be made available to subscribers. Tony Hawkâs Pro Skater 3+4 needs no introduction. It’s a mostly excellent remake of the beloved PS2 skateboarding games. Dragon Ball Xenoverse 2 is a bit harder to explain. It’s a progression-heavy arena fighter that feels more like an online RPG. You create your own character and screw around with the Dragon Ball multiverse. Bandai Namco is getting ready to release a third one next year. Amnesia: The Bunker Â is the real sleeper on the list, and also probably the best of the three. It’s a first-person survival horror game that takes place in a WWI bunker where the player is stalked by a monster. You have to refuel the generators to keep the lights on while you explore, or else crank a noisy dynamo flashlight in pitch-black tunnels while the monster hunts you. It has a lot of immersive-sim DNA in it. And donât forget to add October’s freebies to your PlayStation account library. You have until November 30 to grab Tomb Raider IV â VI Remastered , Dead Island 2 , and Monster Train 2 . Donât miss the latest reviews, news and tips. Sign up for our free newsletter. It's also set a new record for concurrent players on the PS5 The UK case has rumbled along for years, but a London court ruled the evidence wasn't there AI upscaling is finally coming to more than just Wolverine and Ghost of Yotei 'You spin me right 'round, baby, right 'round. Like a record, baby'",
+          "image": "https://kotaku.com/app/uploads/2026/11/bunker-1200x675.jpg"
         }
       ]
     },
     {
-      "story_id": "523fb7a6d867864e",
+      "story_id": "3a397812f6022c9b",
       "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
       "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
       "owners": [
-        "gameblast",
         "keleops",
         "microsoft",
-        "sony"
+        "vgc",
+        "ziff-davis"
       ],
       "primary_owners": [
-        "microsoft",
-        "sony"
+        "microsoft"
       ],
       "fingerprints": [
         "67ce9b201c87ef45",
-        "70fe98c95d67187c",
         "95fcf5c6642f3c27",
-        "0459fc6cad1d867c",
-        "242a1c5f1582a182"
+        "1a68f04d239212fc",
+        "242a1c5f1582a182",
+        "f5da702714498700"
       ],
       "sources": [
         {
@@ -278,16 +267,6 @@
           "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
         },
         {
-          "name": "PlayStation Blog BR",
-          "owner": "sony",
-          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
-          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
-          "published_at": "2026-11-24T12:51:39+00:00",
-          "kind": "primary",
-          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
-          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
-        },
-        {
           "name": "Xbox Wire BR",
           "owner": "microsoft",
           "url": "https://news.xbox.com/pt-br/2026/11/24/como-jogar-grand-theft-auto-vi-pela-nuvem-e-com-remote-play/",
@@ -296,6 +275,185 @@
           "kind": "primary",
           "text": "Grand Theft Auto VI é compatível com o XBOX Cloud Gaming , então você pode jogar mesmo sem um console da geração atual. Com o XBOX Cloud Gaming, você pode jogar por streaming, direto da nuvem, no seu XBOX One ou no XBOX Series X|S, se quiser economizar espaço de armazenamento. Alguns planos do Game Pass incluem até 15 horas de jogo por mês na nuvem. Se precisar, você pode comprar horas adicionais para aproveitar um dos maiores jogos do ano no console que já tem. Ao jogar pela nuvem com o XBOX Cloud Gaming, o jogo usa as configurações gráficas do Xbox Series S. Você também pode usar o Remote Play para jogar Grand Theft Auto VI onde preferir. Com esse recurso, você transmite o jogo diretamente do seu console XBOX Series X|S para dispositivos que já tem, como celular, notebook, PC ou até um PC portátil para jogos, como o XBOX ROG Ally. Veja como configurar esses recursos. Para usá-los, você precisa de uma cópia de Grand Theft Auto VI comprada na Xbox Store : Para começar a jogar Grand Theft Auto VI pela nuvem, use um dos controles conectados ao seu console e siga estes passos: Sempre que possível, conecte o console à internet com um cabo Ethernet para obter a melhor qualidade de jogo. Mesmo em redes Wi-Fi de alta velocidade, a qualidade do áudio e do vídeo pode cair de vez em quando. Com o Remote Play, você pode transmitir o jogo do seu XBOX Series X|S para dispositivos que já tem, como celulares, tablets, PCs e PCs portáteis para jogos. Veja como ativar o recurso: Depois de ativar os recursos remotos no console, escolha em qual dispositivo quer jogar: Seja para economizar espaço jogando pela nuvem ou para retomar a partida de onde parou no seu PC portátil, o XBOX Cloud Gaming e o Remote Play oferecem mais opções de jogar Grand Theft Auto VI nos dispositivos que você já tem. Para saber mais, consulte a página do XBOX Cloud Gaming e a de Grand Theft Auto VI na Xbox Store.",
           "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
+        },
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/grand-theft-auto-6-is-out-and-there-are-already-black-friday-gta-6-deals",
+          "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
+          "published_at": "2026-11-25T16:10:03+00:00",
+          "kind": "press",
+          "text": "Rockstar's GTA 6 has barely been out for a few days, but UK retailer ShopTo is already offering some surprisingly generous discounts on the new release across PS5 and Xbox Series X|S — letting you pay as little as £53.85 for the game. Here's how to save on what's arguably the biggest game of all time. Despite Black Friday still being a week away, the store has slashed £16.14 off the standard Xbox version of Grand Theft Auto VI, bringing its usual £69.99 price down to £53.85 at ShopTo . That's 23% off for a direct digital code, with instant delivery, and no additional vouchers or memberships needed. Better still, there are a few other ways to save on Rockstar's latest blockbuster, depending on whether you're playing on Xbox or PS5, or fancy getting some bonus content with your purchase via the Ultimate Edition As for PS5 players, ShopTo's cheapest route is a little different, since getting digital game keys for PlayStation games outside of boxed codes and PlayStation itself is a lot trickier compared to Xbox titles. Instead of receiving GTA 6 itself, ShopTo can sell you a £70 PlayStation Store gift card for only £60.85 , which you can then redeem on your UK PSN account to buy the £69.99 Standard Edition — effectively earning you £9.15 in savings. On the other hand, for anyone who wants the closest thing to a physical version of GTA 6, both consoles have a £61.85 boxed option with an added A3 double-sided poster ; that also makes ShopTo the cheapest UK retailer to buy the boxed version of Grand Theft Auto VI from right now. Remember, though, these aren't actual disc versions of GTA 6; you'll find a download code inside the packaging instead. Also, for Xbox fans who were considering buying the Grand Theft Auto 6’s Ultimate Edition anyway, ShopTo also has said Ultimate Edition on Xbox for only £67.85 — an incredibly impressive £22.14 price drop and the lowest price we’ve seen for it yet. With the Ultimate Edition, compared to the Standard Edition of GTA VI, you’ll get extra vehicles, weapons, outfits, customisation features, and exclusive locations throughout Leonida. To get that aforementioned Ultimate Edition on PS5, however, you can also grab the £100 PlayStation Store Gift Card for only £85.85 to redeem the complete version of GTA 6 for £89.99. Sure, you’ll only save £41.14 instead of buying the game through the PS Store directly, but you’ll have an extra £10 credit to spend on other games and DLC on top. Otherwise, if you’re unsure about getting the Ultimate Edition on PlayStation 5 right away, you can always buy the £20 Ultimate Edition Upgrade directly from the PlayStation Store . The same goes for the bonus Grand Theft Auto VI Vintage Vice City Pack for £4.49 — featuring the stunning ’55 Vapid Stanier sedan and garage alongside Ocean Beach, alternative outfits and hairstyles for both Jason and Lucia, and an exclusive Tropical Weapon Pattern inspired by Tommy Vercetti's iconic palm-tree shirt. At the time of writing, there is no physical disc version of GTA 6, along with there being no indication by Rockstar Games as to whether it will be putting out a disc'd edition of the game; with that, these deals are some of the best value you can get on the Grand Theft Auto sequel in the meantime. Ben Williams – IGN freelance contributor with over 10 years of experience covering gaming, tech, film, TV, and anime. Follow him on Twitter/X @BenLevelTen .",
+          "image": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-ps5-xbox-early-black-friday-deals-shopto-1795209707407.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/the-non-gamers-guide-to-grand-theft-auto-6-all-your-questions-even-silly-ones-answered-2001000011",
+          "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
+          "published_at": "2026-11-25T14:47:02+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 is everywhere you look. Every news channel is talking about it. Celebrities and musicians are playing GTA 6 or posting about its release. It’s apparently the biggest game ever and has sold nearly 40 million copies already . But if you aren’t a big gamer or not a video game fan at all, you might have questions. I have answers. Perhaps someone sent you this link because you kept asking them GTA 6 questions. Maybe you did a Google search, made it past the AI results and found this blog explaining what GTA 6 is to people who don’t buy or play games. Whatever the case, welcome. I’m going to walk you through what is almost certainly the biggest video game launch of the decade , why people are going so wild, and what the game actually is and isn’t. It is an open-world game that mixes together a lot of video game genres, like driving, shooting, and exploration. As with most open-world games, you can run around freely or do story missions. It’s up to the player. You control two characters, Jason and Lucia, who are criminals on the run in fictional versions of Florida and Miami named Leonida and Vice City, respectively. More or less, yeah. The developer, Rockstar Games, has been working on this game since at least 2015 or so. Turns out creating a photorealistic recreation of a chunk of Florida that players can explore and do whatever they want in takes time! No. You can buy it on either PS5 or Xbox for $80. The $100 version comes with a bunch of extra outfits , hairstyles, and other items players can wear or buy in-game using cash they collect from crimes, but it’s definitely not required. It took me about 90 hours to reach the end of the main story. I’ve since played over 150 hours, and I’m still finding new stuff, hearing new songs, and seeing new random events. Yeah, it’s big. Well, a lot of people have been waiting for 13 years to play GTA 6 . The last new GTA game, GTA V , was released back in 2013. So anticipation for this game has been building for a long time. And, surprisingly, GTA 6 lived up to the hype. There are a few reasons for the glowing critical reception. The game’s narrative is really good, featuring two extremely well-written characters that develop a meaningful relationship over the course of its five chapters. Another big reason for the high review scores is just how expansive and reactive the world is. Characters in the game will comment on your clothes, respond to your actions, and remember things you did hours and hours ago. It’s also a lot of fun to play, with challenging but rewarding driving, combat, and police encounters. And it looks incredible, with some of the best graphics ever seen in a console game. Some critics are calling it the best game of the year. And many players are calling it one of the best games ever. GTA: Vice City on the PS2 was much, much smaller and less advanced (though in some ways it was pretty advanced for the time) and was set in the 1980s. While Vice City is a major location in GTA 6 , this is an unconnected and different version of the city from that seen in the original 2002 PS2 game. So many things! Players can steal cars, drive boats, get into fist fights, shoot at the cops, go fishing, play mini-golf, hit the gun range, pet dogs, scuba dive, fly planes, explore the swamps, hunt deer, join in street races, visit the beach, get drunk, buy clothes, play fake video games inside the game, take a shower, eat food, work out, blow up cars, or just chill in a bar. You can also just play through the game’s main story, which is all about Jason and Lucia trying to make some money as criminals to build a life for themselves and their son. Yes, Jason and Lucia have a child, a fact which was omitted from any pre-release marketing but is revealed in the first 20 minutes of the game. During the events of the game, he is living with his aunt while Lucia and Jason do whatever they can to make a good life for him and get him back. She is an attractive but disturbing character players meet very early in the game who may or may not be a serial killer or creepy stalker. Despite this, many people online still want to have sex with her. Some players also think Jason should hook up with Mandy and ditch Lucia. These people are wrong. No. While you can do that stuff, GTA 6 doesn’t force you to be a good boyfriend. You can be a real jerk to Lucia, and she can be a real asshole to Jason. Also, the chores players are talking about only make up a few minutes of the opening hours of GTA 6. The rest of the game has none of that stuff in it. Like the chores mentioned already, these elements are optional. If you constantly skip working out, your characters will eventually become less ripped and might even develop small bellies and thicker thighs. But you can still play all the missions and shoot cops. What? You can totally shoot random people, cops, and more. That’s not accurate. You can shoot, punch, tackle, burn, run over, drown, choke, and slap women. Uhh, you can steal cars. Some cars, like very fancy cars, have special security measures, so you can’t steal them as easily, but you can walk up to any person driving a car at a stoplight, rip them out and take their ride. Okay, so, something you need to understand about GTA 6 is that it is at the center of a massive online culture war. Conservative players, grifters, chuds, and other weirdos are currently spreading false information about this game online. There are also plenty of people online posting inflammatory nonsense to get clicks and engagement on sites like Twitter that reward that shit. So if you read something kind of wild about this game, just know it might be false. Check places like Kotaku or other major gaming sites to verify. Well, actually, Rockstar did remove sex workers you can pay to have sex with from GTA 6 . But there are still strippers in the game. Yes, GTA V has GTA Online , a very popular, successful, and still-ongoing multiplayer game with millions of players. This time around",
+          "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-artwork-jason-lucia-1-1200x675.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/how-to-auto-drive-in-gta-6/",
+          "title": "How to Auto Drive in GTA 6",
+          "published_at": "2026-11-25T17:04:15+00:00",
+          "kind": "press",
+          "text": "Wondering how to Auto Drive in GTA 6? This guide explains how Driving around Vice City and the wider Leonida map is one of the best ways to experience GTA 6, but not every journey needs to involve keeping your foot on the accelerator. In this GTA 6 Auto Drive guide,Â we’ll explain how the mechanic works, how to activate it and more. After you’re done with this guide, check out our GTA 6 Guides Hub for dozens of guides laying out everything you need to know about Rockstar ‘s latest epic. Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. To use Auto Drive in GTA 6, you’ll first need to set a destination on your map and get into a vehicle. Once you’ve done that, follow these steps: You can now sit back and enjoy the journey without needing to steer, accelerate or brake manually. You can actually speed up or slow down, though you’re never going to Auto Drive anywhere near as quickly as you can drive normally. Important : When you activate the Cinematic Camera before you activate Auto Drive, you’ll still be controlling the car yourself. I found this out when I wrapped my car around a tree.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-how-to-autodrive-1.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "ebece8e2ebd1b269",
+      "title": "Lords Of The Fallen 2 Delayed Yet Again",
+      "summary": "CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could mean the date will be announced at The Game Awards on December 10. Lords of the Fallen II was originally scheduled to launch in 2026, but CI Games delayed it to Q1 2027...",
+      "owners": [
+        "adrenaline",
+        "fandom",
+        "future-plc",
+        "gameblast"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "673f36e6f8936233",
+        "79bd4818a0fa41f4",
+        "5df2d810f744f097",
+        "e6acec1bcde8fbb8"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
+          "title": "Lords Of The Fallen 2 Delayed Yet Again",
+          "published_at": "2026-11-25T16:38:22+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/lords-of-the-fallen-ii-sera-lancado-consoles-pc-abril-2027.html",
+          "title": "Lords of the Fallen II será lançado para consoles e PC em abril de 2027",
+          "published_at": "2026-11-24T21:52:01+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/action-rpg/lords-of-the-fallen-2-launches-in-april-2027-boss-of-the-soulslike-rpg-announces-and-a-release-date-is-coming-next-month/",
+          "title": "Lords of the Fallen 2 delayed to April 2027, release date coming next month",
+          "published_at": "2026-11-25T11:48:32+00:00",
+          "kind": "press",
+          "text": "The sequel was only announced last summer It's happening. We have some more movement on Lords of the Fallen 2 from CI Games. No, there still isn't a release date, but we know when we're getting one. The action RPG sequel is now due to arrive slightly later than previously announced, but still in the first half of 2027, and we'll be hearing more quite soon. Marek Tyminski, the CEO of CI Games, reveals the details himself. \"Lords of the Fallen 2: April 2027,\" he writes on Twitter . \"Exact date in December.\" What Tyminski's post doesn't specify this that this is actually another delay. The game was originally due in the back half of this year, before moving to the first quarter of 2027 . While it's slightly annoying to only get an announcement for the announcement, at least we know we don't have long to wait to find out when exactly Lords of the Fallen 2 is coming out. Knowing the release month is very helpful too. I could be wrong here, of course, but that seems to all but guarantee the game's presence at The Game Awards. Trailers and reveals are always a big part of the show, and I'm not sure where else we might see the follow-up otherwise, unless CI Games is planning some sort of livestream of its own we're not yet aware of. Regardless of the delay, this is all pretty quick turnaround for the release, since Lords of the Fallen 2 was only announced during the Opening Night Live of Gamescom 2025. Maybe I'm just jaded from increasingly elongated announcement schedules for blockbuster games, but getting the release window only a year and a half after the formal reveal is pretty tight by today's standards. I mean, we just waited years to find out what the full title of The Elder Scrolls 6 is. We'll see what CI Games has to offer come December, which, at time of writing, is just six days away. Maybe Mariah Carey will be involved in some way. I doubt it, but imagine. I bet she loves a bit of Lords of the Fallen, honestly. \"Blizzard, I'm looking at you\" - Path of Exile 2 boss calls out AAA studios' lackluster game announcements, implores devs to stop trying to have a \"'one more thing' moment.\" Weekly digests, tales from the communities you love, and more Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/5Qo5aJepsUBdV2m76Pebhn-1920-80.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/lords-of-the-fallen-2-e-adiado-novamente-e-so-chega-em-abril-de-2027/",
+          "title": "Lords of the Fallen 2 é adiado novamente e só chega em abril de 2027",
+          "published_at": "2026-11-25T12:08:16+00:00",
+          "kind": "press",
+          "text": "Lords of the Fallen 2: veja requisitos mínimos e recomendados para jogar no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Lords-Fallen-2-Abril-2027.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "978133a6ea8f18fe",
+      "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+      "summary": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. Read more",
+      "owners": [
+        "future-plc",
+        "valnet",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "ecf7ec6cb7aa1655",
+        "c3c6cdbc0cb167f1",
+        "36ab593dbdf255d5",
+        "0a72be16b8f6f3ee"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/gta-6-players-getting-very-good-at-heists-despite-challenges",
+          "title": "GTA 6 players are already starting to get very good at heists, despite all the new challenges Rockstar has added to the game",
+          "published_at": "2026-11-24T11:47:40+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 has been out for a little while now, and already players are showing off their skills when it comes to the game's many heists. Despite the challenges in getting away clean, some are proving it's possible. For one, sneaking into a bank while the vault is open and stuffing your bags full of marked bills is a tricky process of gradually making your way through rooms and taking out guards as quietly as possible. While the police in the clip below were called to an eventual breakout of violence, a lengthy getaway allowed for a cheeky payday of almost $100,000 in cash. This crew really cracked a whole bank vault and walked out with almost $100K in GTA 6 💰🏦🚔😮‍💨 #gtavi #gta pic.twitter.com/pJyFXREBvY One especially impressive element of Grand Theft Auto 6 is how many of its little mechanics interact with each other. As you can see below, if you bring a vehicle with a winch to a cash machine, you can actually pull it off the wall and drag it away from the scene of the crime. Why rob a bank in GTA 6 when you can just take the whole ATM💸 How to do it❓ - Hook the ATM up to a vehicle with a winch - Drag it through the streets until the cash cases fall out - Shoot them open and get out fast, the cops come quickly! (via u/MelloYello917) pic.twitter.com/5eXbULJWP3 As you progress through Grand Theft Auto 6, the game actually introduces you to both styles of heists. Without spoiling exactly how this happens, you're told how to go about taking on such criminal ventures, and you can continue to do so throughout the game at your pleasure. Still, even after you've been tutorialised, pulling off one of these heists is no joke, and can easily turn chaotic. This GTA 6 robbery sequence was CRAZY, I couldn't even think straight . pic.twitter.com/l65xSFRoSr Here's a little tip for those of you looking to pull off a heist yourself. You're told that safety deposit boxes can be rifled through for additional loot. However, when you actually make your way into a vault, these will be closed without much sign on which you can access. If you use the focus mode (by pushing in both L3 and R3), it will highlight boxes which you can shoot open. This, of course, may garner unwanted attention, so whether or not you think it's worth doing is part of the risk/reward dilemma you'll have to reckon with. As is the case with so much stuff in GTA 6 including, but not limited to, car-jacking . If you're looking to get your life of crime properly underway, you can read our GTA 6 robberies page for a breakdown on how it works. Alternatively, for a wider view of the game, our GTA 6 walkthrough is the way to go.",
+          "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-lucia-jason-masks.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-recomp-leaders-bail-out-as-take-two-cracks-down-on-illicit-efforts-to-get-the-game-running-on-pc/",
+          "title": "GTA 6 recomp leaders bail out as Take-Two cracks down on illicit efforts to get the game running on PC",
+          "published_at": "2026-11-24T17:42:34+00:00",
+          "kind": "press",
+          "text": "The leads of Leonida, the biggest and best-known effort to recreate GTA 6 on PC, have quit the project, although others are still trying to carry it on. Just a day after Grand Theft Auto 6 leaker Cyberleek released the executable for the near-complete Xbox build of the game they dropped on Friday, at least two of the leads of Leonida, the biggest and best-known effort to recompile it to run on PC, have called it quits—seemingly under pressure from Take-Two and Rockstar. The release of the exe made the pirated Xbox build effectively complete, and that opened the door for recomp projects to do their thing—that is, to leverage AI to quickly whip up a version of the game that will run on PC. Some hackers estimated it could be done within a week; Shayder, one of the lead developers on the Leonida project, said on X that followers could \"expect a lot of static recompilation work to be done soon.\" In a separate message on the Leonida Discord, Shayder tempered expectations a bit, writing that \"it will take at least a week\" to come up with something playable on PC. During a subsequent livestream, however, the team was seemingly able to get the GTA 6 splash screen to come up on PC, although it crashed after that. It sure seemed like things were moving ahead quickly. But then things began moving quickly in a different direction. \"I quit guys. I’m sorry,\" NotRexed, apparently the head of the project, posted last night on X . \"I really want to make cool stuff but every single time shit happens that I can’t control so I’m stepping away. Thank you everybody, especially in the discord that allowed me to have this opportunity.\" Later, they added , \"Last post from me. I wanna clear things up. Rockstar taking my server down was only part of the reason. Like I’ve said before, I’m a 15 year old kid. Managing school and sports is hard enough without having middle aged men yell and complain to you on Discord. Goodbye.\" In a reply post, NotRexed stated explicitly that \"Rockstar shut the server down,\" and shared an image of the copyright violation notice he'd received from Discord. Shayder, who had previously predicted rapid progress on the Leonida effort following the release of the Xbox executable, took a more direct approach and simply deleted all of their X posts. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. This isn't necessarily the end of work to bring GTA 6 (in a probably not-great state) to PC via AI. Other such projects are underway, and there also appears to be an effort to carry on with Leonida: The website remains up, with a new name attached as owner, and there's at least one Discord server dedicated to it, although it appears a little less focused at this point than the original Leonida server. A new Github repository (NotRexed also deleted that) has been set up: It's \"a continuation of NotRexed's Leonida project,\" according to a note on the project, which adds that \"development continues here with its full commit history.\" The advent of AI greatly simplifies and speeds up the work of bringing console games to PC (as long as you're not too picky about the quality), and that makes life tougher for companies that want to keep a lid on such projects. Still, it's not surprising that Take-Two and Rockstar are going hard on it: In the past, Take-Two has moved aggressively to shut down GTA 5 mod projects, an effort that culminated in its acquisition of the biggest and best of them . I've reached out to Take-Two for more information on the takedown and will update if I receive a reply. GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the songs and stations GTA 6 romance : How to keep a strong bond Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/QSYeXFDYmqVX3aynee9h2T-1920-80.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-gen-ai-chatbots-work-faster-prompts",
+          "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+          "published_at": "2026-11-25T15:19:10+00:00",
+          "kind": "press",
+          "text": "Things continue to get messy in the community of players working on getting Grand Theft Auto 6 working on PC. The previous frontrunner, Project Leonida, got their Discord server and GitHub repository taken down by Rockstar , but others have seemingly stepped in to finish the job. The most up-to-date build of GTA 6 was allegedly leaked earlier this week by notorious leaker CyberLeek . This is a supposedly near-final build of the game's Xbox version, and it's seemingly being used as the basis for the recent work to port the game to PC. Unsurprisingly, most of these communities of modders rely almost exclusively on generative-AI tools like Claude and Antigravity to decompile and recompile the console version of GTA 6. That has always been the case, but the CyberLeek build only invited even more to ask AI chatbots to make the PC port for them. X user chasm has been following developments in the GTA 6 decompile and recompile communities, and recently shared some of the prompts the so-called vibe-coders are using - a few of whom livestreamed the process. \"Make no mistakes,\" one modder prompted the AI chatbot. \"Keep finding more stuff and working and pushing,\" another eloquently asked . \"Work faster,\" asked another . \"There has to be a faster way to iterate than this,\" they continued. Rockstar, which successfully managed to DMCA take down Project Leonida - including all of its 3,006 forks on lead author NotRexed's GitHub - is seemingly also going after people online discussing the community's progress. The X user in question later revealed they may no longer be able to share these updates, as their posts have also been removed \"in response to a report by the copyright owner\" . As for how far some of the remaining communities have managed to get, this video allegedly shows the game running on PC . This goes beyond the boot-up screen, which modders were able to reach within hours of CyberLeek's build alleged leaking . The footage runs at sub-5fps, but the visuals look to have rendered normally. Assuming Rockstar doesn't also shut down the modders who remain active, we may see another progress update. If you're already playing Rockstar's latest on consoles, the Eurogamer GTA 6 walkthrough offers comprehensive guides on relationship mechanics , how the new Criminal Profile system works , a list of all safe codes and more.",
+          "image": "https://assetsio.gnwcdn.com/gta-6-vice-city-car-interior-1.jpeg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Polygon",
+          "owner": "valnet",
+          "url": "https://www.polygon.com/gta-6-soft-lock-bug-chapter-3-game-breaking/",
+          "title": "GTA 6 Players Are Running Into a Game-Breaking Bug",
+          "published_at": "2026-11-25T18:32:07+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 ’s Leonida is full of dangers: murderous wildlife, over-eager cops, unhinged backwoods drug dealers, terrible drivers, and much more. However, all these threats pale in comparison to a particularly deadly foe. GTA 6 has a game-breaking soft lock bug that makes it impossible to progress. The X user @SirGrotti posted a clip of the glitch, showing how they can no longer switch from Lucia to Jason, with the option permanently grayed out. The glitch can occur in Chapter 3 after the Missing Persons mission, and it’s game-breaking because the next story segment requires Jason. Comments on the post suggest several solutions, including leaving their house and then switching characters, saving and reloading, asking to meet up with Jason, sleeping, and more, but apparently, none of these worked for SirGrotti. Unfortunately, SirGrotti isn't alone. The website GTA6Bugs tracks user-reported cases of crashes, softlocks, and other problems. Of the dozens of bugs logged on the site, the Chapter 3 softlock has the most views. While there are a few fixes that worked for some players, not everyone has been so lucky. The first fix is to load a manual save from before you drove to the warehouse in Port Gellhorn for the final Missing Persons meeting. Then switch to Jason and play through the Dealer’s Choice mission until you can switch to Lucia freely. Make a manual save in a new slot and finish Missing Persons. Beyond this fix, other potential workarounds include playing another Lucia or duo mission if one is available, calling Dunk from Lucia’s phone, and robbing a store as a pair before starting Raul’s job as Lucia. GTA 6 ’s 01.002.002 update didn’t seem to fix this problem, but c onsidering this seems to be one of the most reported game-breaking issues, ideally Rockstar will address it soon. Beyond these softlocks, another common issue for GTA 6 players is a mysterious PS5 crash , which both Rockstar and Sony customer support have blamed on the other party. Things can always be much worse, though: some GTA 6 players have uploaded videos of the game’s demanding graphics seemingly frying their PS5s. One clip from shivjam shows the console dying in real time, while another has a streamer's PlayStation billowing smoke . Console and controller technician Modyfikator89 described GTA 6 as \" the toughest real-world PS5 stress test \" he had ever seen. With the ongoing chip crisis driving game console prices higher than ever, it's a particularly bad time to be left high and dry.",
+          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg?w=1600&h=900&fit=crop"
+        }
+      ]
+    },
+    {
+      "story_id": "84d2ed4dbd7846a9",
+      "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
+      "summary": "Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI. Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto […]",
+      "owners": [
+        "gameblast",
+        "nzn",
+        "sony"
+      ],
+      "primary_owners": [
+        "sony"
+      ],
+      "fingerprints": [
+        "70fe98c95d67187c",
+        "0459fc6cad1d867c",
+        "078829e45885ebd4"
+      ],
+      "sources": [
+        {
+          "name": "PlayStation Blog BR",
+          "owner": "sony",
+          "url": "https://blog.br.playstation.com/2026/11/24/agradecemos-por-tornarem-grand-theft-auto-vi-o-maior-lancamento-da-historia-playstation/",
+          "title": "Agradecemos por tornarem Grand Theft Auto VI o maior lançamento da história PlayStation",
+          "published_at": "2026-11-24T12:51:39+00:00",
+          "kind": "primary",
+          "text": "Uma homenagem à comunidade PlayStation e à Rockstar Games por proporcionarem um momento incrível para o universo dos games e do entretenimento. Após uma longa espera, os jogadores finalmente tiveram a chance de mergulhar em Grand Theft Auto VI . Foi incrível ver a comunidade PlayStation ao redor do mundo começar suas aventuras no estado de Leonida. Quer você tenha contado os dias para retornar às ruas de Vice City, ou esteja vivenciando a série Grand Theft Auto pela primeira vez, queremos aproveitar este momento para agradecer. A empolgação e a paixão da comunidade tornaram este um momento verdadeiramente especial para todos nós. O lançamento de GTAVI marca um momento extraordinário para os jogos e o entretenimento, tornando-se o maior lançamento de um jogo na história de PlayStation, ao longo de três décadas e cinco gerações de consoles. Mais de 39 milhões de jogadores únicos vivenciaram a história de Jason e Lucia em Grand Theft Auto VI para PlayStation 5. A comunidade PlayStation se uniu de forma expressiva para vivenciar Grand Theft Auto VI durante seu lançamento e fim de semana de estreia. Confira alguns destaques do período de lançamento, encerrado em 22 de novembro de 2026*: Estas são apenas algumas das maneiras pelas quais vimos nossa comunidade PlayStation se unir em torno deste momento incrível no mundo dos jogos, e estamos empolgados para ver como vocês continuarão criando e compartilhando novas memórias e experiências nos próximos meses. Por fim, gostaríamos de parabenizar nossos parceiros da Rockstar Games por trazerem este jogo extraordinário a jogadores de todo o mundo e por darem continuidade a uma parceria com a PlayStation que vem desde o Grand Theft Auto III, para PlayStation 2. Com GTAVI, trabalhamos para oferecer a melhor experiência no console PS5 e proporcionamos aos jogadores uma forma memorável de celebrar o título, por meio de dois controles sem fio DualSense de edição limitada, inspirados em Vice City. Também celebramos o lançamento com eventos ao vivo, incluindo o “Grand Theft Auto VI: The Festival”, realizado em Miami no último fim de semana. E à nossa comunidade PlayStation, obrigado pela paixão e pelo apoio contínuos, e por escolherem vivenciar GTAVI no console PS5 . É o entusiasmo de vocês que torna momentos como este tão significativos para todos nós. Mal podemos esperar para ver aonde suas aventuras em Leonida levarão vocês! *Todos os números baseiam-se em dados internos da SIE coletados de 19 de novembro de 2026 a 22 de novembro de 2026.",
+          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/7550851c311683ed2e8cb696edb099956cd38b83.jpg"
         },
         {
           "name": "GameBlast",
@@ -308,69 +466,69 @@
           "image": ""
         },
         {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/the-non-gamers-guide-to-grand-theft-auto-6-all-your-questions-even-silly-ones-answered-2001000011",
-          "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
-          "published_at": "2026-11-25T14:47:02+00:00",
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-quebra-recorde-e-se-torna-o-maior-lancamento-da-historia-da-playstation-confirma-sony/",
+          "title": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+          "published_at": "2026-11-24T19:15:00+00:00",
           "kind": "press",
-          "text": "Grand Theft Auto 6 is everywhere you look. Every news channel is talking about it. Celebrities and musicians are playing GTA 6 or posting about its release. It’s apparently the biggest game ever and has sold nearly 40 million copies already . But if you aren’t a big gamer or not a video game fan at all, you might have questions. I have answers. Perhaps someone sent you this link because you kept asking them GTA 6 questions. Maybe you did a Google search, made it past the AI results and found this blog explaining what GTA 6 is to people who don’t buy or play games. Whatever the case, welcome. I’m going to walk you through what is almost certainly the biggest video game launch of the decade , why people are going so wild, and what the game actually is and isn’t. It is an open-world game that mixes together a lot of video game genres, like driving, shooting, and exploration. As with most open-world games, you can run around freely or do story missions. It’s up to the player. You control two characters, Jason and Lucia, who are criminals on the run in fictional versions of Florida and Miami named Leonida and Vice City, respectively. More or less, yeah. The developer, Rockstar Games, has been working on this game since at least 2015 or so. Turns out creating a photorealistic recreation of a chunk of Florida that players can explore and do whatever they want in takes time! No. You can buy it on either PS5 or Xbox for $80. The $100 version comes with a bunch of extra outfits , hairstyles, and other items players can wear or buy in-game using cash they collect from crimes, but it’s definitely not required. It took me about 90 hours to reach the end of the main story. I’ve since played over 150 hours, and I’m still finding new stuff, hearing new songs, and seeing new random events. Yeah, it’s big. Well, a lot of people have been waiting for 13 years to play GTA 6 . The last new GTA game, GTA V , was released back in 2013. So anticipation for this game has been building for a long time. And, surprisingly, GTA 6 lived up to the hype. There are a few reasons for the glowing critical reception. The game’s narrative is really good, featuring two extremely well-written characters that develop a meaningful relationship over the course of its five chapters. Another big reason for the high review scores is just how expansive and reactive the world is. Characters in the game will comment on your clothes, respond to your actions, and remember things you did hours and hours ago. It’s also a lot of fun to play, with challenging but rewarding driving, combat, and police encounters. And it looks incredible, with some of the best graphics ever seen in a console game. Some critics are calling it the best game of the year. And many players are calling it one of the best games ever. GTA: Vice City on the PS2 was much, much smaller and less advanced (though in some ways it was pretty advanced for the time) and was set in the 1980s. While Vice City is a major location in GTA 6 , this is an unconnected and different version of the city from that seen in the original 2002 PS2 game. So many things! Players can steal cars, drive boats, get into fist fights, shoot at the cops, go fishing, play mini-golf, hit the gun range, pet dogs, scuba dive, fly planes, explore the swamps, hunt deer, join in street races, visit the beach, get drunk, buy clothes, play fake video games inside the game, take a shower, eat food, work out, blow up cars, or just chill in a bar. You can also just play through the game’s main story, which is all about Jason and Lucia trying to make some money as criminals to build a life for themselves and their son. Yes, Jason and Lucia have a child, a fact which was omitted from any pre-release marketing but is revealed in the first 20 minutes of the game. During the events of the game, he is living with his aunt while Lucia and Jason do whatever they can to make a good life for him and get him back. She is an attractive but disturbing character players meet very early in the game who may or may not be a serial killer or creepy stalker. Despite this, many people online still want to have sex with her. Some players also think Jason should hook up with Mandy and ditch Lucia. These people are wrong. No. While you can do that stuff, GTA 6 doesn’t force you to be a good boyfriend. You can be a real jerk to Lucia, and she can be a real asshole to Jason. Also, the chores players are talking about only make up a few minutes of the opening hours of GTA 6. The rest of the game has none of that stuff in it. Like the chores mentioned already, these elements are optional. If you constantly skip working out, your characters will eventually become less ripped and might even develop small bellies and thicker thighs. But you can still play all the missions and shoot cops. What? You can totally shoot random people, cops, and more. That’s not accurate. You can shoot, punch, tackle, burn, run over, drown, choke, and slap women. Uhh, you can steal cars. Some cars, like very fancy cars, have special security measures, so you can’t steal them as easily, but you can walk up to any person driving a car at a stoplight, rip them out and take their ride. Okay, so, something you need to understand about GTA 6 is that it is at the center of a massive online culture war. Conservative players, grifters, chuds, and other weirdos are currently spreading false information about this game online. There are also plenty of people online posting inflammatory nonsense to get clicks and engagement on sites like Twitter that reward that shit. So if you read something kind of wild about this game, just know it might be false. Check places like Kotaku or other major gaming sites to verify. Well, actually, Rockstar did remove sex workers you can pay to have sex with from GTA 6 . But there are still strippers in the game. Yes, GTA V has GTA Online , a very popular, successful, and still-ongoing multiplayer game with millions of players. This time around",
-          "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-artwork-jason-lucia-1-1200x675.jpg"
+          "text": "GTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI GTA 6 finalmente chegou ao PS5 e Xbox Series X|S na última quinta-feira (19), reunindo milhões de jogadores ao redor do mundo. Além da grande procura pelo novo jogo da Rockstar, a sequência também conquistou uma recepção positiva no Metacritic, tornando-se o único título do século XXI a alcançar média de 99 pontos no agregador . Agora, a Sony confirmou mais um marco para a aventura de Jason e Lucia: GTA 6 se tornou o maior lançamento da história da PlayStation . Segundo a empresa, mais de 39 milhões de jogadores já aproveitaram o game no PS5 desde a estreia. Os números foram divulgados em uma publicação no blog oficial da PlayStation , que também revelou recordes de horas jogadas e consoles conectados durante o período de lançamento. A marca certamente reforça o desempenho comercial do título, que já havia estabelecido recordes de vendas logo no primeiro dia. Segundo a Sony, mais de 39 milhões de jogadores únicos experimentaram GTA 6 no PS5 desde o lançamento. A empresa classificou o resultado como “o maior lançamento da história do PlayStation”, considerando as três décadas e cinco gerações de consoles da marca. Os dados divulgados pela companhia consideram o período entre a estreia, em 19 de novembro, e o dia 22. Nesse intervalo, os jogadores acumularam 683 milhões de horas de gameplay no console, com uma média de 17,4 horas explorando o estado de Leonida por pessoa. A Sony também confirmou que GTA 6 estabeleceu um novo recorde de jogadores simultâneos em um único jogo na história do PlayStation. A marca superou os números anteriores de títulos multiplayer, gratuitos e até mesmo experiências para um jogador. Outro dado destacado pela empresa foi o número de consoles conectados. Durante o período de lançamento, a PlayStation registrou seu maior volume de PS5 online em um único dia desde a chegada do console, desconsiderando o período de festas de fim de ano. Além disso, GTA 6 foi o primeiro jogo executado em 70% dos novos PS5 conectados entre a estreia e 22 de novembro. O desempenho também acompanha os números divulgados anteriormente pela Rockstar e pela Take-Two . As empresas afirmaram na última sexta (20) que GTA 6 vendeu mais de 32 milhões de cópias em pré-venda e arrecadou US$ 3,79 bilhões no primeiro dia. De acordo com a publisher, o resultado representa um novo recorde de estreia para um produto de entretenimento em qualquer mídia. A empresa também destacou a recepção da crítica, com o jogo alcançando “aclamação universal” e respeitáveis 99 pontos de média no Metacritic. Para se ter noção do feito, GTA 5 arrecadou US$ 1 bilhão nos primeiros três dias de disponibilidade quando foi lançado em 2013. Já Vingadores: Ultimato , um dos maiores sucessos do cinema, levou cinco dias para atingir a mesma marca mundialmente. A Sony aproveitou a publicação para agradecer aos jogadores e parabenizar a Rockstar pelo resultado. “Obrigado por fazer parte deste momento”, declarou a empresa, que também destacou a parceria entre as duas companhias — iniciada ainda na época de GTA 3 no PlayStation 2. E você, já está se aventurando por Leonida em GTA 6 ? Conte nas redes sociais do VOXL o que está achando do novo jogo da Rockstar! Acabou a luz no meio do jogo? Como ter energia de backup para manter seus equipamentos funcionando Dados de 1 milhão de cartões de crédito são expostos; Brasil é o mais atingido WhatsApp lança figurinhas com som e sem moldura branca; saiba como usar LoRa: o que é e como funciona a comunicação sem internet? Novo Motorola Razr vaza com tela externa maior e novo chip",
+          "image": "https://www.estadao.com.br/resizer/v2/4X3D3OZECFEYPF4MXOSR2HNV6Q.jpg?quality=80&auth=cd39e6f16662e74f6e43249cdda0bad07c348a3920867c87f6e4db6469563b0e&width=1200&height=630&focal=980,535"
         }
       ]
     },
     {
-      "story_id": "1b362431951904c8",
-      "title": "Deborah Ann Woll Reprising Role As God Of War’s Faye In Prime Video’s TV Show",
-      "summary": "Deborah Ann Woll, who plays Faye in the upcoming God of War Laufey , is coming back to play the character again in Prime Video's God of War show. She will star in the show alongside Dave Bautista as Kratos. Sons of Anarchy actor Ryan Hurst was originally signed on to play him, but he suffered a terrible injury and the role was recast with Bautista. https://www.youtube.com/watch?v=uKMCqyeBWmU Woll...",
+      "story_id": "a4b3fda06487fff4",
+      "title": "Diablo IV: Temporada do Gambito de Tyrael chega com mudanças no endgame e novos itens lendários",
+      "summary": "Nova temporada permitirá personalizar atividades e recompensas dos Planos de Guerra, introduzirá uma árvore de progressão inédita e tornará permanentes recursos da Temporada do Legado Infernal",
       "owners": [
-        "fandom",
+        "adrenaline",
         "gameblast",
-        "ziff-davis"
+        "olhar-digital"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "dcde15697c4f7b68",
-        "53c746a4dd30b681",
-        "b133c655908f5976"
+        "f16b14b257e9e8c1",
+        "b107ac2363843ea2",
+        "446273e16a0faa3b"
       ],
       "sources": [
         {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/deborah-ann-woll-reprising-role-as-god-of-wars-faye-in-prime-videos-tv-show/",
-          "title": "Deborah Ann Woll Reprising Role As God Of War’s Faye In Prime Video’s TV Show",
-          "published_at": "2026-11-23T18:07:54+00:00",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/diablo-iv-temporada-gambito-tyrael/",
+          "title": "Diablo IV: Temporada do Gambito de Tyrael chega com mudanças no endgame e novos itens lendários",
+          "published_at": "2026-11-24T21:08:52+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series",
-          "title": "God of War Laufey's Faye actor jumps from games to live-action, as Amazon casts Deborah Ann Woll in upcoming series",
-          "published_at": "2026-11-23T18:09:50+00:00",
-          "kind": "press",
-          "text": "After appearing in both God of War Ragnarok and next year's God of War Laufey, Deborah Ann Woll is about to reprise her role as Faye in Amazon Prime Video's upcoming live-action series. Variety reports that the God of War cast list is now welcoming a second actor pulled straight from Sony Santa Monica's video game series. Deborah Ann Woll first showed up in the games as Kratos' wife and Atreus' mother during God of War Ragnarok, but she's also about to enter the spotlight proper in God of War Laufey. Amazon's God of War cast now includes Dave Bautista (Guardians of the Galaxy) as god killer Kratos, Callum Vinson (Chucky) as Atreus, Mandy Patinkin as Odin and Ólafur Darri Ólafsson as Thor. Alastair Duncan is also making the game-to-show jump by stepping back into the figurative shoes of chatty head Mimir. Earlier in the year, the God of War show halted production when former Kratos actor Ryan Hurst suffered an on-set injury. Bautista soon took over the role and production began again in October - all of Hurst's scenes had to be reshot, of course. There's no release date yet for the show, but it's said to follow the Norse era of the games which began in 2018's more serious and stern revamp. Amazon ordered a two-season run for the show, which apparently means both seasons will be filmed back-to-back. Meanwhile, God of War Laufey was recently delayed from February 2027 to May 2027, giving the PS5 exclusive slightly more breathing room away from Fable, Persona 4 Revival and Tomb Raider: Legacy of Atlantis. \"We will make the most of each moment until then by putting in the finishing touches and pushing the game to its fullest potential,\" developer Sony Santa Monica said at the time. \"On behalf of everyone on the team, we appreciate your patience and we'll be back to share more updates soon.\" While the game puts Faye in the leading role as she battles with gods in a multi-mythological afterlife, the studio was quick to note that her journey isn't considered a side game. God of War Laufey will still connect to future games in the series and, yep, Kratos will eventually be back , too. \"Genuinely, I thought I was going to be much more offended by it, but one, I'm not on social media, so that helps, and two, I don't know, I feel totally unbothered,\" Woll said of the online trolls who were targeting Laufey after its reveal this summer. \"Because I just know it's great. It's okay if it's not your cup of tea, but in no universe is it bad.\"",
-          "image": "https://assetsio.gnwcdn.com/Faye-holds-a-mythical-sword-in-new-God-of-War-game-from-Sony-Santa-Monica.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/unnamed-51.jpg"
         },
         {
           "name": "GameBlast",
           "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/god-of-war-deborah-ann-woll-vai-reprisar-papel-laufey-serie-amazon.html",
-          "title": "God of War: Deborah Ann Woll vai reprisar seu papel de Laufey na série da Amazon",
-          "published_at": "2026-11-24T15:01:22+00:00",
+          "url": "https://www.gameblast.com.br/2026/11/diablo-iv-recebe-temporada-do-gambito-de-tyrael-em-1o-de-dezembro.html",
+          "title": "Diablo IV recebe Temporada do Gambito de Tyrael em 1º de dezembro",
+          "published_at": "2026-11-25T16:45:10+00:00",
           "kind": "press",
           "text": "",
           "image": ""
+        },
+        {
+          "name": "Olhar Digital Games",
+          "owner": "olhar-digital",
+          "url": "https://olhardigital.com.br/2026/11/25/games-e-consoles/diablo-4-temporada-gambito-tyrael-novidades/",
+          "title": "Diablo IV: nova temporada chega em dezembro com mudanças no endgame; veja novidades",
+          "published_at": "2026-11-25T17:00:00+00:00",
+          "kind": "press",
+          "text": "A Blizzard anunciou que a Temporada do Gambito de Tyrael , de Diablo IV , chega em 1º de dezembro de 2026. A atualização tem como principal objetivo oferecer aos jogadores mais liberdade para personalizar suas experiências no endgame, etapa posterior à campanha principal. Entre as novidades estão mudanças nos Planos de Guerra, uma nova árvore de progressão sazonal, equipamentos inéditos e novos confrontos contra chefes. A temporada também apresenta uma série de missões protagonizadas por Tyrael, que investiga as verdadeiras intenções do culto da morte e uma nova ameaça a Santuário. A Temporada do Gambito de Tyrael introduz seis principais novidades: Além dos conteúdos inéditos, a Blizzard confirmou que recursos populares da Temporada do Legado Infernal serão incorporados permanentemente aos reinos de Temporada e Eternos. Com as mudanças, a Blizzard busca ampliar a variedade de atividades disponíveis no endgame e oferecer mais autonomia para que os jogadores desenvolvam seus personagens de acordo com seus objetivos. A Temporada do Gambito de Tyrael estará disponível a partir de 1º de dezembro. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
+          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/unnamed-6-1-1.jpg"
         }
       ]
     },
     {
-      "story_id": "15347b4ebe1c8677",
-      "title": "Should You Trust Halifax in GTA 6?",
-      "summary": "Should you trust Halifax in GTA 6's chapter three mission, Dubious Provenance? We have the answer.",
+      "story_id": "36353cf1c77a6c3d",
+      "title": "GTA 6: Here's Why You Should Go Back to Jason's House After Chapter 1",
+      "summary": "Here’s why you should go back to Jason’s house after chapter 1 of GTA 6.",
       "owners": [
         "future-plc",
         "keleops",
@@ -378,7 +536,7 @@
       ],
       "primary_owners": [],
       "fingerprints": [
-        "9259c03585634519",
+        "1436dac23d1a98cf",
         "86f052df3a535d08",
         "fce4088ace967aa0"
       ],
@@ -386,12 +544,12 @@
         {
           "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/should-you-trust-halifax-in-gta-6",
-          "title": "Should You Trust Halifax in GTA 6?",
-          "published_at": "2026-11-24T16:45:00+00:00",
+          "url": "https://www.ign.com/articles/gta-6-heres-why-you-should-go-back-to-jasons-house-after-chapter-1",
+          "title": "GTA 6: Here's Why You Should Go Back to Jason's House After Chapter 1",
+          "published_at": "2026-11-25T15:32:01+00:00",
           "kind": "press",
-          "text": "Warning: Spoilers for the Dubious Provenance mission in chapter three of GTA 6 follow. GTA 6 is full of choices, big and small. In fact, the whole way you choose to play the game is a choice, whether that be as an ultraviolet psychopath or a more professional class of criminal. Or if you decide that Jason and Lucia are a couple hopelessly head-over-heels in love, or more platonic partners in crime. Some choices, however, are much more binary, with instant effects tied to them. One of the clearest examples of this is presented to you during a chapter three mission called Dubious Provenance. Should you trust Halifax or not? The answer is twofold: the smart decision is to reject his offer, but the much more fun option is to place your faith in him. Let me explain. Dubious Provenance kicks off by driving all the way to the fancy town of Capri, found in the east of Leonida, and home to the sort of houses Jason and Lucia can only dream of living in at this point in their story. Just by the centre of town is an antiques store where you’re tasked with bringing the mysterious statue that has fallen into your possession to be valued. Halifax, a man with a fairly convincing British accent, overhears your conversation with the shop’s owner, Evelyn, and offers you a deal. While she isn’t interested in the statue, he most definitely is, telling you that he will get it valued for you if you hand it over. Now, despite his smart appearance, all is not what it seems with Halifax, and without spoiling it too much, he’s not exactly the antiques expert he claims to be. The smart, and arguably correct, choice from a story perspective is to reject him. But the much more fun and beneficial option (if you’re a collectibles hunter) is to accept. Accepting adds a couple more main missions to the Dubious Provenance story rather than just ending it there and then. You’ll also receive the Crowex Octane “Bobby Ambrose” unique watch in return. This is a missable collectible otherwise. But more importantly, you get two more very fun missions to play through. The first includes a stealthy infiltration and a massive, and I mean, massive revelation about Halifax. The second is one of the best chase sequences in GTA 6, scored hilariously to a great bit of contrapuntal music. For full spoilers and a step-by-step guide, you can check out our walkthrough . If you reject, you won’t get the watch, but you will have a second shot at playing through these missions. Halifax will later contact you and give you the option to phone him if you change your mind, transforming these main missions into optional ones. These must be completed by the end of chapter three , or they’ll disappear forever, though. Ultimately, the choice to accept or reject comes down to whether you want the watch or not. Of course, you can choose to just never contact him again if you’re desperate to progress through the story as quickly as possible, but you will miss out on a great bit of fun as a result. So, should you trust Halifax during Dubious Provenance? I’d say yes; it’s a much more fun road to take if you’re looking to squeeze every bit of enjoyment out of GTA 6. Plus, who could ever resist a moustache like that? Simon Cardy is a Senior Editor at IGN who can mainly be found skulking around open world games, indulging in Korean cinema, or despairing at the state of Tottenham Hotspur and the New York Jets. Follow him on Bluesky at @cardy.bsky.social .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/24/halifax-1795537599565.jpg?width=1280&format=jpg&auto=webp&quality=80"
+          "text": "Warning: spoilers for Chapter 1 of GTA 6 follow. If you’ve played through chapter one of GTA 6, you’ll know that Jason’s home isn’t in the best of shape following its final mission. On fire, and certainly no place to raise a child, the crib, coffee table, and all of your chosen home improvements are left either shattered or cindered by the time Lucia escapes, taking with her only one valuable: a photo of the couple’s son, Tomás. But not all is lost, and it’s worth going back to check what remains. From the beginning of chapter two onward, going back to Jason’s waterside house can be a risky move to make. Flick open the map, and you’ll see a red area surrounding his immediate neighbourhood that signifies a police presence in the area. Of course, you’re free to head back straight away, but you’ll see a few cop cars sat outside his home, with a few people waiting in case you do return to the scene of the crime. Sneak past them if you trust your stealth skills, or opt for a much quicker and violent smash-and-grab maneuver if that’s more your style. If you're patient, though, that heat will eventually diminish over the course of the story, so you can walk straight through the front door. I’m not exactly sure if that’s tied to your progress through GTA 6’s main missions, or the in-game clock itself, but I can confirm that from around halfway through chapter three, that red zone had disappeared for me. Once inside the ashen remains of Jason’s former quiet life, there are a couple of items of note to grab hold of. Both of these can be found under the floorboards of the bedroom where Jason’s stash once lay hidden. While you won’t be able to recover all of the money you stored there before realising it would be gone forever — I guess it burned, whereas the metal tin next to it protected its contents — you can find both his personal collection of photos and a rainy day fund worth $5,000. The former is a nice extra wrinkle to the story, as Jason and Lucia will make sure to cherish these photos, alongside the one she recovered of Tommy, and carry them with them from home to home around Leonida on their nomadic adventures. The latter is no small amount when starting again from scratch at the outset of chapter two, which does make the risk of getting busted worth it to get a head start in Port Gellhorn. Wait until chapter three, as I did, and that amount of money makes less of a difference. But that isn’t all. When Lucia grapples with the two masked men who set the home on fire, Jason’s pet snake, Dolores, makes a daring escape when her glass enclosure is smashed. We saw her head for the door, but are left wondering whether she managed to dance through the flames to safety. Well, when returning to the home, make sure to check under the back steps, where you can find our serpentine friend alive and well. And she’s not alone either. Get a closer look to find her curled up around some eggs, signalling a whole host of mini Dolores’s are on the way. Perhaps they’ll rebuild this home together, and turn the whole of Key Lento into a snake town over time. Far-fetched, perhaps, but have you seen some of the bonkers sh*t happening in this game? It’s just one example of how Rockstar has managed to build out the world of GTA 6 so successfully, making it feel like a place that carries on living even when you’re not there. This sort of thing is littered throughout Leonida as you progress through the story and the passing of time takes effect. Road and building works that start out as mounds of dirt slowly become more developed as chapters go by, with pipes being laid down and bricks stacked. And Jason’s house isn’t the only place he and Lucia call home that’s worth revisiting long after they’ve departed. The Startlet Motel from chapter two also changes, offering new gameplay and story opportunities. GTA 6 is a game that rewards curiosity, often answering your questions with a satisfying answer, and returning to Jason’s home is just one example of it. Simon Cardy is a Senior Editor at IGN who can mainly be found skulking around open world games, indulging in Korean cinema, or despairing at the state of Tottenham Hotspur and the New York Jets. Follow him on Bluesky at @cardy.bsky.social .",
+          "image": "https://assets-prd.ignimgs.com/2026/11/25/jasons-house-blog-1795620048543.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
           "name": "Kotaku",
@@ -412,42 +570,6 @@
           "kind": "press",
           "text": "Need to know when Chapter 2 of GTA 6 ends? I've explained how the final mission works below The final GTA 6 mission of Chapter 2 sees things go a bit wrong once again, but not quite as catastrophically as the end of Chapter 1. It comes just as Jason and Lucia are on the up having just helped Vicki rob her own boss at Delights, but if you want more specifics on when you can expect to move from Chapter 2 to 3, I've explained below all the important details of the final mission of Chapter 2 and how it affects gameplay with minimal spoilers. The final mission of Chapter 2 in GTA 6 is 'Checking Out' , which pops up shortly after completing the 'Afternoon Delight' mission where you rob Vicki's boss at the Delights strip club. Jason and Lucia will eventually agree they need to pack up and make for Vice City soon, which causes a mission marker to appear on their Starlet Motel room that says, 'Move to Vice City' . Follow this marker and Checking Out will begin as soon as you walk into the motel room, eventually leading straight into the first mission of Chapter 3, 'Welcome to Vice City'. Unlike the GTA 6 Tourist Trap mission and the following ones that wrap up Chapter 1, I and the rest of the GamesRadar+ team have found that completing Checking Out and therefore Chapter 2 does not lock you out of any activities or collectibles – as far as we can tell, nothing is permanently lost from this point and you can come back to it all later. That means you don't need to rush around completing everything in Port Gellhorn and the surrounding areas before going back to the motel as you may have when looking at everything you should do before the end of Chapter 1 in GTA 6 . Illegal operations, Moses' requests such as finding the GTA 6 BF Bandito , and the GTA 6 missing people side quest will remain accessible. The only things to bear in mind are that Jason and Lucia's cars are impounded in Port Gellhorn from the start of Chapter 3 and that the town's heat is incredibly high, making it very dangerous to go back there for a time, though it will eventually clear. You can risk making the trip yourself, but if you have the premium version of the Scooter Bros app, you can get them to retrieve one of your impounded cars. It uses all three of your free daily drop-offs but is well worth it. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more Will Sawyer is a Guides Editor at GamesRadar+ with over five years of experience in writing online guides, news, and features, and has a BA (Hons) in Journalism. Starting as a freelancer, Will contributed to startmenu and Game Rant before joining the GamesRadar+ team in August 2021. Since then, he has written hundreds of guides about a huge range of games, with shooters and action games being his areas of expertise. Outside of writing about games, Will hops between multiplayer shooters with friends, such as Darktide and Helldivers 2, and delves into whatever has been on his backlog for far too long. He also tries to get through his never-ending Warhammer pile of shame of grey Tyranids, Aeldari, and Chaos Space Marines. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
           "image": "https://cdn.mos.cms.futurecdn.net/tEUmakdVXV6Rt5ikpdB7fE-1920-80.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "1d1bf9a85f3495ed",
-      "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
-      "summary": "GTA 6 leaker Cyberleek has reportedly released the executable file for the leaked Xbox build of the game, prompting concern that an unofficial PC port could follow. Read more",
-      "owners": [
-        "future-plc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "5fd173898b4a48a8",
-        "37e4044ef4935283"
-      ],
-      "sources": [
-        {
-          "name": "GamesIndustry.biz",
-          "owner": "ziff-davis",
-          "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
-          "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
-          "published_at": "2026-11-23T19:43:30+00:00",
-          "kind": "press",
-          "text": "Some are predicting it could lead to a PC version within days GTA 6 leaker Cyberleek has reportedly released the executable file for the leaked Xbox build of the game, prompting concern that an unofficial PC port could follow. The leak comes via the same group that shared leaked footage and threatened to release additional videos unless Rockstar changed its all-digital launch strategy a week before Rockstar released its extended gameplay teaser on Netflix . The group then threatened to release a full build of the game, including its full story mode and end credits. Now, as reported by IGN , Cyberleek has released the .exe for the incomplete Xbox build, with some predicting that AI-assisted recompilation of the build could get GTA 6 running on PC within days. The file was released alongside a new statement in which Cyberleek claimed their actions were about \"fighting anti-consumerism in the games industry.\" They also referenced Take-Two's efforts to stop the leaks and identify whoever is behind them, saying: \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving.\" Cyberleek also pushed back on claims that the leaks are little more than a crypto scheme, insisting the crypto was used to raise money for a secret project unrelated to the game. \"There is no other way to move funds without names,\" they said, \"and this work requires no names.\" According to IGN, the leaked Xbox build runs counter to the idea that Cyberleek only had access to an early build. Take-Two previously issued subpoenas to companies including Discord as part of its search for those responsible for the leaks. It remains unclear how this build got out of Rockstar.",
-          "image": "https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-releases-executable-for-gta-6-xbox-build-leaked-last-week-the-torch-passes-to-the-open-source-recomp-and-emulation-projects/",
-          "title": "Cyberleek releases executable for GTA 6 Xbox build leaked last week: 'The torch passes to the open source recomp and emulation projects'",
-          "published_at": "2026-11-23T17:54:30+00:00",
-          "kind": "press",
-          "text": "The notorious GTA 6 leaker called it \"an early Christmas gift.\" Grand Theft Auto 6 leaker Cyberleek appears to have followed through on their threat to release the executable of the Xbox build of GTA 6 they put into the wild last week, calling it \"an early Christmas gift\" for followers and explicitly linking the leak to efforts to recreate the game on PC: \"The torch passes to the open source recomp and emulation projects.\" Cyberleek released a near-complete build of GTA 6 late last week, holding back only the main exe—the part that makes everything else run, basically—until either their crypto coin achieved a $15 million market cap, or November 23, whichever came first. The crypto missed badly, but time marches on, and so here we are. The release of the exe, naturally, includes a call for more \"donations\" in its readme file (via Reddit ) which Cyberleek said will go toward a secretive project \"for the gamers.\" They also taunted Take-Two Interactive's efforts to track them down : \"Months of takedowns, subpoenas and wallet tracing later, the hunt is still on and the uploads keep arriving. No budget makes a lock unbreakable, and no court order deletes what the internet already has.\" Leaks in the game industry aren't anything new, but this case is unique: GTA 6, effectively the biggest videogame of all time, still hasn't been announced for PC, as is Take-Two's way . But the advent of AI means the game could be emulated on our platform far more quickly than was possible in the past—some modders estimated it could happen within a week. One of the leads on the Leonida recomp project predicted that things will start to move quickly from here: At the same time, Shayder tempered expectations in a message on the Leonida Discord, saying \"it will take at least a week\" for the project to reach the point where GTA will be playable on PC. How that unofficial emulated made-with-AI build would compare to the real deal is an open question, and I strongly suspect the answer will be \"not well,\" but even just having something GTA 6-ish playable on PC is a headache that I'm pretty sure Take-Two would rather not have to deal with. I also wonder whether it will prompt Take-Two to release GTA 6 on PC more quickly than it has with previous releases. A rumor to that effect surfaced in October and I had serious doubts, but it's possible that ongoing emulation efforts will expedite its arrival.. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. I haven't verified whether the released exe is legit, but the previously-released material appears to be and the general consensus is that this is too. And with that, I will remind you (yes, again) that software piracy is illegal, and shady files from strangers on the internet can contain malware. GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the songs and stations GTA 6 romance : How to keep a strong bond Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/dwxifSrgRWzUwvmTbTdSRV-2530-80.jpg"
         }
       ]
     },
@@ -484,42 +606,6 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/10/GTA-VI-12.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "2257b394c6cda0dc",
-      "title": "Jogos da SEGA recebem descontos de até 85% de Black Friday no PC, PlayStation, Xbox e Nintendo Switch",
-      "summary": "A SEGA e a ATLUS deram início, nesta segunda-feira (23 de novembro), a uma campanha promocional de Black Friday com cortes de preço de até 85% em diversas lojas digitais, incluindo Steam, Epic Games Store, PlayStation, Xbox, Nintendo Switch e Nintendo Switch 2. A ação busca antecipar as ofertas de fim de ano e marca os maiores percentuais de desconto registrados até o momento para Sonic Racing...",
-      "owners": [
-        "gameblast",
-        "nzn"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "159fda2b96e0436a",
-        "30244f8b42ff7fb0"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/jogos-da-sega-recebem-descontos-de-ate-85-de-black-friday-no-pc-playstation-xbox-e-nintendo-switch.html",
-          "title": "Jogos da SEGA recebem descontos de até 85% de Black Friday no PC, PlayStation, Xbox e Nintendo Switch",
-          "published_at": "2026-11-23T23:41:35+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/ate-quanto-pagar-na-black-friday/",
-          "title": "Até quanto pagar na Black Friday?",
-          "published_at": "2026-11-25T15:18:00+00:00",
-          "kind": "press",
-          "text": "A Black Friday é uma das melhores oportunidades de compras do ano, mas nem todo desconto anunciado representa uma economia real. Para aproveitar a data, é importante saber quanto cada produto já custou e qual valor pode ser considerado uma boa oferta . Consultar o menor preço histórico antes de comprar ajuda a evitar falsas promoções e permite fazer escolhas mais inteligentes. Neste guia, o TecMundo traz algumas referências de preços para produtos populares , de celulares e notebooks a eletrodomésticos, para ajudar você a aproveitar melhor os descontos desse período. As buscas por tecnologia, celulares, televisores, eletrodomésticos e produtos para casa costumam ganhar força na Black Friday, especialmente entre consumidores que planejam compras de maior valor. Por isso, saber até que valor é vantajoso pagar no aparelho novo ajuda muito a fazer um bom negócio na hora de fechar a compra. Confira também Confira os cupons de Black Friday para resgatar já! Confira os cupons de Black Friday para resgatar já! Usamos ferramentas que monitoram buscas na internet, como Semrush e Google Trends, e agentes de inteligência artificial para montar um guia prático. A lista tem produtos com maior volume de buscas e a média de preços nos últimos 12 meses. O PlayStation 5 é um dos produtos mais desejados por quem quer aproveitar a Black Friday para investir em entretenimento. Para o PS5 Slim Digital, vale buscar ofertas próximas de R$ 2.500, enquanto a versão com leitor de discos pode ser interessante na faixa de R$ 2.800. Lembrando que o leitor também pode ser adquirido separadamente para modelos Slim. Já o PS5 Pro , que oferece desempenho gráfico aprimorado, merece atenção quando estiver em torno de R$ 5.000. Um notebook com configurações intermediárias pode atender muito bem às tarefas de trabalho, estudo, navegação e entretenimento, sem exigir um investimento elevado na Black Friday deste ano. O Dell Inspiron 15 com Intel Core i5, SSD de 512 GB, 8 GB de RAM e Windows 11 é uma opção versátil para a rotina. Se aparecer próximo a R$ 3.000 na promoção deste ano, vale a compra. O Acer Aspire 5 com i5, 512 GB SSD, 8 GB de RAM e Windows 11 é uma alternativa ao modelo da Dell e pode ser uma boa compra se for encontrado por volta de R$2.800. Televisores também estão em alta nas buscas relacionadas à maior data promocional do ano. Os modelos da Samsung e da LG são os mais almejados. A Samsung QN70H de 55 polegadas, com tecnologia Mini LED, é uma opção interessante para quem busca qualidade de imagem. Se aparecer esse modelo por algo em torno de R$ 3.400, pode crer que é uma boa oportunidade. A LG QNED70 de 55 polegadas oferece resolução 4K e recursos inteligentes, e é um bom investimento se encontrada por valores próximos de R$ 2.200 com os descontos de Black Friday. A busca por smartphones premium na Black Friday aumenta. A linha Galaxy S e o modelo mais recente do iPhone são sempre mais visados, mas é preciso saber os valores que tem sido cobrados por eles para fazer um investimento inteligente. Com opções para diferentes perfis, a linha iPhone 17 tem desde modelos mais acessíveis até versões Pro voltadas para desempenho e fotografia. Preste bastante atenção aos preços para não acabar confundindo as alternativas disponíveis. A família Galaxy S25 oferece diferentes combinações de desempenho, câmeras e recursos de inteligência artificial. Buscar ofertas realmente sabendo os preços máximos ideais ajuda bastante no processo de compra. Os tablets também são muito desejados em datas promocionais. Se você está em busca de um modelo para estudar, trabalhar ou para entretenimento, temos algumas sugestões. Mesmo sendo de duas gerações anteriores, a linha Galaxy Tab S10 segue relevante e reúne tablets para diferentes necessidades. Analise bem os recursos e especificações de cada opção para ver qual combina melhor com o seu perfil antes de fechar a compra na BF deste ano. O iPad 11” com chip A16 é uma opção para quem busca bom desempenho em produtividade, navegação e entretenimento, sendo especialmente indicado para os usuários e fãs do ecossistema Apple. Na categoria eletrodomésticos a geladeira é o mais desejado, e não é à toa. Investir em um eletro caro como este na Black Friday ajuda a reduzir bastante o investimento. Com capacidade próxima de 480 litros, a Electrolux TF7 1 é indicada para famílias que precisam de espaço e praticidade, podendo ser uma ótima aquisição com desconto na BF. A Brastemp BRM45JK combina capacidade de 375 litros e praticidade para o dia a dia. Se aparecer nessa faixa, pode representar uma boa oportunidade de investimento. Outro eletro muito desejado nesta época de calor é o ar-condicionado. Aqui, além dos valores, é importante conferir o consumo de energia e outras especificações. O Gree G-Side de 12.000 BTUs é uma alternativa interessante para quem busca boa climatização a preço justo e ainda quer economizar com os descontos da promoção. O modelo LG de 9.000 BTUs pode atender ambientes menores, sendo recomendado para quartos ou salas pequenas. Praticidade na cozinha também fica em alta na Black Friday, e o micro-ondas está entre os itens mais buscados, principalmente modelos compactos. O Electrolux ME23B conta com recursos de descongelamento e funções práticas para o uso cotidiano, sendo uma compra interessante se for encontrado na casa dos R$ 480. Se disponível por cerca de R$ 480, o modelo inox Brastemp de 20 litros com funções de pré-preparo, que podem agilizar tarefas na cozinha, é uma alternativa interessante que não pesa no bolso. Além de praticidade, a air fryer oferece uma alimentação mais saudável, por isso se tornou o eletroportátil com mais procura em datas promocionais. Se estiver nessa faixa, a Mondial Family de 4 litros é uma boa escolha para preparar porções de alimentos com praticidade em um modelo que cabe no orçamento. A WAP Barbecue Digital reúne recursos que ampliam as possibilidades de preparo de carnes suculentas em um churrasco, ainda mais se estiver nesta faixa de preç",
-          "image": "https://www.estadao.com.br/resizer/v2/KOTBY4XLONEH7JYHEEI4U5EAPA.jpg?quality=80&auth=941d0aa5dac002f748d8c30dd1d8b3569f746a509561dd893039ddab69fa3e81&width=1200&height=630&smart=true"
         }
       ]
     }
