@@ -18,7 +18,10 @@
     "query": "GTA 6 Jason house",
     "alt": "Casa de Jason em Key Lento em GTA 6, imagem divulgada pela IGN",
     "url": "https://assets-prd.ignimgs.com/2026/11/25/jasons-house-blog-1795620048543.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/gta-6-volte-a-casa-de-jason-em-key-lento-3664a930.jpg",
+    "source_url": "",
+    "foco": "24% 12%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "Grand Theft Auto 6 Dolores snake alive where to find"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -126,5 +129,7 @@
       "text": "O Kotaku também deixa um registro pessoal: o autor diz que, apesar de já estar no Capítulo 4, às vezes sente falta da vida simples de Jason na casa de praia, em especial da academia que ficava ali mesmo.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T20:39:15+00:00",
+  "updated_at": "2026-11-25T20:39:15+00:00"
 }

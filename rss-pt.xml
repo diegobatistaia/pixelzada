@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:39:17 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>GTA 6: volte à casa de Jason em Key Lento para achar dinheiro escondido, fotos e a cobra Dolores viva</title>
+      <link>https://pixelzada.com.br/pt/gta-6-volte-a-casa-de-jason-em-key-lento-dinheiro-escondido-fotos-e-a-cobra-dolores-viva/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-volte-a-casa-de-jason-em-key-lento-dinheiro-escondido-fotos-e-a-cobra-dolores-viva/</guid>
+      <description>Guia com spoilers de GTA 6: volte à casa de Jason em Key Lento e ache 5 mil dólares, fotos e a cobra Dolores. Veja quando a polícia deixa de vigiar o lugar.</description>
+      <category>Guias</category>
+      <pubDate>Wed, 25 Nov 2026 20:39:15 +0000</pubDate>
+    </item>
     <item>
       <title>PlayStation Plus de dezembro de 2026 tem Tony Hawk's Pro Skater 3+4, Dragon Ball Xenoverse 2 e Amnesia: The Bunker</title>
       <link>https://pixelzada.com.br/pt/playstation-plus-dezembro-2026-tony-hawk-s-pro-skater-3-4-dragon-ball-xenoverse-2-e-amnesia-the-bunker/</link>
@@ -238,14 +246,6 @@
       <description>Valve libera o Steam Machine de 512 GB sem lista de espera e fecha a fila do modelo de 2 TB por falta de estoque. Veja preços, prazos e mini PCs alternativos.</description>
       <category>Consoles e PC</category>
       <pubDate>Sat, 21 Nov 2026 14:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6: nota 99 da crítica e 5,1 dos jogadores no Metacritic. O que está por trás do review bombing</title>
-      <link>https://pixelzada.com.br/pt/gta-6-nota-99-da-critica-e-5-1-dos-jogadores-no-metacritic-o-que-esta-por-tras-do-review-bombing/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-nota-99-da-critica-e-5-1-dos-jogadores-no-metacritic-o-que-esta-por-tras-do-review-bombing/</guid>
-      <description>GTA 6 tem 99 da crítica, mas 5,1 de 10 dos usuários no Metacritic. Veja os números, as queixas e o que Insider Gaming e Kotaku dizem do review bombing.</description>
-      <category>GTA 6</category>
-      <pubDate>Sat, 21 Nov 2026 12:52:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
