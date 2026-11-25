@@ -16573,7 +16573,7 @@
     "slug": "gta6-corte-vinesauce",
     "data": "2026-11-25",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Vinesauce jogando GTA 6\n📺 twitch.tv/vinesauce\n\n#gta6 #gtavi #vinesauce #pixelzada",
     "tentativas": 0,
@@ -16596,6 +16596,19 @@
       "motivo": "streamer com boneco alienígena e cenas de gameplay de jogo de carro",
       "por": "imagem",
       "em": "2026-11-22T09:08:51-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T16:02:46-03:00",
+      "media_id": "18121518934991879",
+      "permalink": "https://www.instagram.com/reel/DgLPGAbBPJW/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
