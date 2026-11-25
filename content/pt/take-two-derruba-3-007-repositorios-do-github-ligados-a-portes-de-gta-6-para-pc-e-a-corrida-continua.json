@@ -18,7 +18,10 @@
     "query": "GTA 6 PC",
     "alt": "Arte promocional de GTA 6 divulgada pela IGN",
     "url": "https://assets-prd.ignimgs.com/2026/11/25/gtavi-10-1795610461067.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/take-two-derruba-3-007-repositorios-do-g-14cf47d1.jpg",
+    "source_url": "",
+    "foco": "74% 30%"
   },
   "sources": [
     {
@@ -40,7 +43,7 @@
       "title": "GTA 6 recomp explained"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -127,5 +130,7 @@
       "text": "A versão oficial de PC segue sem data confirmada pela Rockstar. Quando houver um anúncio, a informação sai aqui.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T14:47:51+00:00",
+  "updated_at": "2026-11-25T14:47:51+00:00"
 }
