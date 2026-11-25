@@ -16069,7 +16069,7 @@
     "slug": "gta6-corte-kingcobracrosby",
     "data": "2026-11-24",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 kingcobracrosby jogando GTA 6\n📺 twitch.tv/kingcobracrosby\n\n#gta6 #gtavi #kingcobracrosby #pixelzada",
     "tentativas": 0,
@@ -16092,6 +16092,19 @@
       "motivo": "apenas gameplay de tiro e pessoa vestida falando",
       "por": "imagem",
       "em": "2026-11-22T11:09:47-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-24T21:03:39-03:00",
+      "media_id": "18142157512629719",
+      "permalink": "https://www.instagram.com/reel/DgJMvBVCRoV/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
