@@ -18,7 +18,9 @@
     "query": "Steam Awards 2026",
     "alt": "Imagem de divulgação do Steam Awards 2026 divulgada pelo Eurogamer",
     "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-18.32.30.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/steam-awards-2026-abre-indicacoes-ate-30-c4dd8826.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "Steam Awards 2026 nominations open, Hall of Fame"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -111,5 +113,7 @@
       "text": "Até o fim do prazo, nada está decidido: os finalistas só serão conhecidos em dezembro, e a Valve ainda não disse quais jogos entram em cada categoria além do que foi citado pelos dois veículos.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T16:48:08+00:00",
+  "updated_at": "2026-11-25T16:48:08+00:00"
 }

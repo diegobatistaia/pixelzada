@@ -18,7 +18,9 @@
     "query": "Cherry Time Team Cherry",
     "alt": "Arte de divulgação do Cherry Time, transmissão da Team Cherry",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Cherry-Time_11-25-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/team-cherry-marca-cherry-time-para-27-de-48ee891d.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -46,7 +48,7 @@
       "title": "Hollow Knight Silksong Sea of Sorrow update coming"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -133,5 +135,7 @@
       "text": "Para quem acompanha o assunto, a Pixelzada vai atualizar a matéria quando a Team Cherry mostrar a expansão. Até lá, vale lembrar que tudo o que foi dito sobre data, pacotes e novidades ainda é expectativa dos veículos, e não promessa do estúdio.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-25T16:48:08+00:00",
+  "updated_at": "2026-11-25T16:48:08+00:00"
 }
