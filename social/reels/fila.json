@@ -16909,7 +16909,7 @@
     "slug": "gta6-corte-olkabone",
     "data": "2026-11-26",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Olkabone jogando GTA 6\n📺 twitch.tv/olkabone\n\n#gta6 #gtavi #olkabone #pixelzada",
     "tentativas": 0,
@@ -16932,6 +16932,19 @@
       "motivo": "streamer com fones e gameplay de jogo de tiro",
       "por": "imagem",
       "em": "2026-11-22T06:44:45-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T07:03:43-03:00",
+      "media_id": "17922190482540930",
+      "permalink": "https://www.instagram.com/reel/DgM2M1ascfn/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
