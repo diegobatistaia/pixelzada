@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T02:53:15+00:00",
-  "posts_per_language_today": 4,
+  "generated_at": "2026-11-26T10:38:36+00:00",
+  "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 6,
+  "already_written_today": 0,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,74 +42,62 @@
   ],
   "stories": [
     {
-      "story_id": "4744cf79838a0938",
-      "title": "The Witcher 4 Wants To Be The GTA 6 Of The Witcher Franchise",
-      "summary": "There's been a massive gap between new entries in The Witcher series, and for The Witcher 4 , developer CD Projekt Red aims to make it the GTA 6 of the series, with a noticeable leap in quality. In its Q3 earnings call, the studio says it has been inspired by the technological and gameplay advancements Rockstar Games has made with GTA 6--especially when compared to 2013's GTA 5--and hopes players...",
+      "story_id": "1aad1761d1c2d11c",
+      "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
+      "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release. According to Circana's Mat Piscatella , there was a \"significant surge\" in hardware sales in the US for the week that ended November 14. PS5 sales were >2.4x the same...",
       "owners": [
         "adrenaline",
         "fandom",
-        "future-plc",
-        "meups",
-        "nzn"
+        "keleops",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "6c4719a63e3f6a83",
-        "00cf79d4e3a626dc",
-        "8a85ebe4c76eca30",
-        "5b40304d833bae7a",
-        "3e06f36f53d83f13"
+        "01025a48bed25e59",
+        "b43d17e79e458fd5",
+        "eeeefd685e0a0823",
+        "bf070608b97fbeff"
       ],
       "sources": [
         {
           "name": "GameSpot",
           "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/the-witcher-4-wants-to-be-the-gta-6-of-the-witcher-franchise/",
-          "title": "The Witcher 4 Wants To Be The GTA 6 Of The Witcher Franchise",
-          "published_at": "2026-11-25T14:15:08+00:00",
+          "url": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
+          "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
+          "published_at": "2026-11-25T16:05:50+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/grand-theft-auto-vi-gta-6-framerates-xbox-series-x-ps5-rockstar-2001000296",
+          "title": "Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5",
+          "published_at": "2026-11-25T12:30:40+00:00",
+          "kind": "press",
+          "text": "Digital Foundry Grand Theft Auto VI GTA 6 Rockstar When it comes toÂ GTA 6 , PlayStation has very much been the teacher’s pet. Microsoft was operating under a weird-ass ban that prevented it from marketing the fact that the game was coming out on its console, while the PS5 has been broadly promoted as the natural home for Rockstar’s record-breaking release. And yet, Digital Foundry ‘s latest analysis ofÂ GTA 6 ‘s performance across all four of Microsoft and Sony’s current-gen systems shows the Series X outdoing the PS5. “Ultimately,” the site’s boffins report, “Series X is meaningfully better off.” It’s important to mention right away that the PS5 Pro still wipes the floor with the Series X, and is without doubt the best way to play Grand Theft Auto VI until the official PC version is released. But when you measure the two base machines between the rival console makers,Â DF says there’s no doubt that it’s the Series X that edges ahead of the PS5. Both consoles offer “a virtually identical visual presentation,” say the tech experts, with nothing to divide them in all the important areas. But when it comes to performance, this is where Xbox takes the lead. Both machines struggle during “heavy vehicle traversal” and “intense airport crowd sequences,” but the PS5 “suffers substantially more frequent frame-rate drops” than the Series X, “which is compounded by the fact that the Xbox machine also benefits from 120Hz VRR support to smooth out minor dips.” Unsurprisingly, the Series S performs the poorest out of all four, but actually offers better results than anyone was expecting. While its framerate drops are horrible, frequently dipping into the teens, the use of PSR 4.1 upscaling and a reduction in the most intensive details still has it looking pretty lovely. It’s definitely not a great way to play the game, but it’s less terrible than you’d think. So there you go, Xbox owners: you’re not the ugly stepsister you might have been made to feel like. Obviously the differences remain slight, and with both consoles (and even the PS5 Pro) capped to 30 FPS there are compromises to be made by all, so whether you’re playing on PlayStation or Xbox Series X, you’re mostly having the same experience. But Xbox owners have earned themselves a quietly smug grin. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The mature storytelling is at odds with dumb product names like Zombix How to win friends and influence your Thanksgiving gaming discussion A certain someone from the franchise's past makes a fun, brief, and important appearance near the end of GTA 6 Take-Two is already going after projects but may not be able to stop the flood The GTA 5 feature is missing this time around What even is this big game that everyone around you is suddenly talking and post about?",
+          "image": "https://kotaku.com/app/uploads/2026/11/gta-techspecs-1200x675.jpg"
+        },
+        {
           "name": "Adrenaline",
           "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/the-witcher-4-vai-trazer-um-salto-equivalente-a-gta-6-afirma-cd-projekt-red/",
-          "title": "The Witcher 4 vai trazer um salto equivalente a GTA 6, afirma CD Projekt RED",
-          "published_at": "2026-11-24T20:31:00+00:00",
+          "url": "https://www.adrenaline.com.br/games/gta-6-e-mais-estavel-no-series-x-do-que-no-ps5-apesar-de-seu-marketing-oficial/",
+          "title": "GTA 6 é mais estável no Series X do que no PS5, apesar de seu marketing oficial",
+          "published_at": "2026-11-25T19:48:35+00:00",
           "kind": "press",
-          "text": "Já da para jogar GTA 6 por streaming no PlayStation 5, mas não no Brasil",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/The-Witcher-4-Qualidade-GTA-6-01.jpeg"
+          "text": "Nintendo Switch 2 poderia rodar GTA 6, mas com grandes sacrifícios gráficos",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Estabilidade-Xbox-Series-X.jpeg"
         },
         {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/the-witcher/the-difference-between-the-witcher-3-and-witcher-4-will-be-comparable-to-that-of-gta-5-and-gta-6-cd-projekt-boss-says-i-mean-its-been-11-years/",
-          "title": "The difference between The Witcher 3 and Witcher 4 will be 'comparable' to that of GTA 5 and GTA 6, CD Projekt boss says: 'I mean, it's been 11 years'",
-          "published_at": "2026-11-24T23:03:45+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+          "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+          "published_at": "2026-11-26T09:40:10+00:00",
           "kind": "press",
-          "text": "CD Projekt Red reported its Q3 earnings today, but all anyone wanted to talk about was GTA 6. CD Projekt made its Q3 2026 financial report today, and there's not a whole lot to see: The Witcher 3 remaster was a big hit, work on Cyberpunk 2 and The Witcher 4 is ticking along, and everyone really liked Cyberpunk: Edgerunners 2. Perhaps understandably, a number of questions in the subsequent investors call put the focus on Grand Theft Auto 6 . While CD Projekt joint CEO Michał Nowakowski didn't go too deep on the topic, he did say that the upcoming Witcher 4 will be comparable to GTA 6 in at least one way. \"Obviously, this is a call about us, not about Rockstar, but I do understand the connection here,\" Nowakowski said when asked if The Witcher 4 will represent a technological leap over its predecessor comparable to GTA 6. \"Having said that, of course, I'm not going to make a deep dive and a full-blown review of GTA 5 versus GTA 6. But of course, we did look at the game. We did see the differences. \"Do we believe there's going to be a comparable leap between Witcher 3 and Witcher 4? I think so, yes. I mean, it's been 11 years. We are working on The Witcher 4 to make it significantly better looking and improved in terms of pretty much every possible facet of the game. So yes, you should expect us to make a much bigger jump between Witcher 3 and Witcher 4.\" Well, sure. As Nowakowski said, The Witcher 3: Wild Hunt was released 11 years ago, and it'll be two more years before The Witcher 4 comes out—assuming it's not delayed, which would make it a rarity among CD Projekt games. It will also be the same number of years between Witcher 3 and 4 as spanned GTA 5 and 6. In the world of technology, 13 years is a long time. Hell, just the upgrade from the original Witcher 3 to the remastered version that dropped earlier this year is notable: At the same time, Nowakowski said that while the GTA 6 launch was tremendously successful, CD Projekt Red doesn't intend to merely mimic Rockstar's approach when The Witcher 4 is ready to go: \"Our games are different and the require a certain different approach, and we just do certain things differently than they do.\" Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. He also said that while the release of GTA 6 has had an impact on Witcher 3 and Cyberpunk 2077 sales on consoles, he doesn't expect it to have a \"material impact\" on the company's Q4 finances for one obvious reason. \"You do have to remember that a lot of our players are also PC-based,\" Nowakowski said. \"GTA has not launched on PC. We have not seen any impact whatsoever on the PC sales on engagement.\" And, he added, \"on the PS5 and Xbox, it's not like our sales came to zero.\" Nowakowsi also said that GTA 6 hasn't changed CD Projekt's ambitions for The Witcher 4 and Cyberpunk 2: If anything, it's \"an inspiration in many ways for our developers.\" And he's not concerned about its success pushing up development budgets, because CD Projekt's games \"are not budget-driven developments.\" \"I'm not saying that we don't care about the budgets. We do, and I'm pretty sure [Rockstar] did as well,\" Nowakowski said. \"But you cannot make games like that having in mind, 'This is the fixed number of money I want to spend, and that's it. Otherwise, we're gone.' \"They are ambition-driven developments and money is important. The budgets are not indefinite. That's not what we're saying. But the philosophy is kind of like I said. And honestly, that philosophy has not changed for us because of GTA 6's release. It has just always been like that.\" Nowakowski's positive take on GTA 6 isn't too far off that of Cyberpunk 2 creative director Igor Sarzynski, who said yesterday that he's suffering from \" GTA 6-induced-open-world-game-dev-depression ,\" although he quickly clarified that CD Projekt is \"doing something of our own, with a different unique flavor.\" (And that he wasn't being serious about cancelling Cyberpunk 2.) seriously though i think we're doing something of our own, with a different unique flavor. GTA is impressive in a way all great art is, it expands what is possible, a captivating vision flawlessly executed The Witcher 4 is currently slated for launch sometime in 2028, while Cyberpunk 2 isn't expected out before 2030. GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the songs and stations GTA 6 romance : How to keep a strong bond Andy has been gaming on PCs from the very beginning, starting as a youngster with text adventures and primitive action games on a cassette-based TRS80. From there he graduated to the glory days of Sierra Online adventures and Microprose sims, ran a local BBS, learned how to build PCs, and developed a longstanding love of RPGs, immersive sims, and shooters. He began writing videogame news in 2007 for The Escapist and somehow managed to avoid getting fired until 2014, when he joined the storied ranks of PC Gamer. He covers all aspects of the industry, from new game announcements and patch notes to legal disputes, Twitch beefs, esports, and Henry Cavill. Lots of Henry Cavill. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/KX9wRQWZx64zoeXgj8Ebhi-1920-80.jpg"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/the-witcher-4-espera-salto-tao-grande-gta-vi/",
-          "title": "The Witcher 4 espera salto tão grande quanto de GTA V para GTA VI, diz CDPR",
-          "published_at": "2026-11-25T12:09:57+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/09/The-Witcher-IV.jpg"
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/the-witcher-4-tera-salto-geracional-parecido-com-o-de-gta-5-para-gta-6-confirma-cd-projekt-red/",
-          "title": "The Witcher 4 terá salto geracional parecido com o de GTA 5 para GTA 6, confirma CD Projekt RED",
-          "published_at": "2026-11-25T18:15:00+00:00",
-          "kind": "press",
-          "text": "GTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI GTA 6 já está disponível e certamente deve servir de inspiração para diversos estúdios da indústria nos próximos anos. A CD Projekt RED, por exemplo, acredita que a evolução de The Witcher 3 para The Witcher 4 será comparável ao salto técnico e visual de GTA 5 e a sequência da Rockstar. A informação foi compartilhada durante uma reunião com investidores, na qual os executivos da desenvolvedora polonesa responderam a perguntas sobre o novo RPG e também comentaram o lançamento de GTA 6 — considerado o maior da história do entretenimento . Apesar de reconhecer que os dois projetos possuem propostas diferentes, a empresa acredita que o intervalo de 11 anos entre os jogos da franquia The Witcher permitirá uma evolução significativa. A promessa é de melhorias em praticamente todos os aspectos da experiência. Durante a reunião, um investidor questionou como The Witcher 4 se compara a GTA 6 , considerando o sucesso comercial e técnico do lançamento da Rockstar. O co-CEO da CD Projekt RED, Michal Nowakowski, ponderou que não seria adequado fazer uma comparação completa entre os dois projetos — mas reconheceu que a equipe acompanha os avanços da concorrência. “Antes de mais nada, esta ligação é sobre nós, não sobre a Rockstar, mas entendo a conexão”, afirmou o executivo. Ele também explicou que a desenvolvedora analisou as diferenças entre GTA 5 e GTA 6 para entender a dimensão da evolução apresentada pela sequência. Nowakowski acredita que uma transformação semelhante poderá ser observada entre The Witcher 3 e o próximo capítulo da franquia. Segundo ele, os 11 anos que separam os dois jogos representam uma grande janela de oportunidade para aprimorar consideravelmente os gráficos, a jogabilidade e outros elementos da experiência. “Acreditamos que haverá um salto comparável entre The Witcher 3 e The Witcher 4 . Já se passaram 11 anos. Estamos trabalhando em The Witcher 4 para torná-lo significativamente mais bonito e aprimorado em praticamente todos os aspectos do jogo”, declarou. O executivo completou: “Então, sim, vocês podem esperar um salto muito maior entre The Witcher 3 e The Witcher 4 ”. Durante a mesma reunião, os investidores também buscaram entender se o lançamento de GTA 6 poderia provocar mudanças no cronograma de desenvolvimento do próximo The Witcher — como ocorreu com outros estúdios alguns meses antes da estreia . A CD Projekt RED, porém, afirmou que não alterou seus planos por causa do jogo da Rockstar. A empresa também reiterou que The Witcher 4 continua previsto para 2028. Até o momento, não existe uma data específica de lançamento, mas a janela já havia sido mencionada anteriormente em atualizações sobre o desenvolvimento do RPG. Outro detalhe envolvendo o projeto é uma parceria de marketing com a Sony. O acordo indica que o PlayStation deverá ter participação importante na divulgação do jogo quando a campanha promocional começar, embora a empresa ainda não tenha apresentado detalhes sobre essa colaboração. Até agora, o público teve acesso apenas a cenas cinematográficas e a uma demonstração técnica que apresentou o jogo rodando no PlayStation 5 . O material mostrou recursos gráficos e desempenho do projeto no console, mas ainda não revelou uma demonstração completa da jogabilidade. A CD Projekt RED também já compartilhou alguns detalhes sobre o tamanho da equipe responsável pelo novo RPG. Em uma atualização publicada antes da Gamescom 2026, Michal Nowakowski confirmou que mais de 500 desenvolvedores estão trabalhando no projeto. “Nossa equipe aqui na sede da CD Projekt RED está trabalhando arduamente em uma saga totalmente nova, com Ciri no comando”, afirmou o executivo. A protagonista será o centro da próxima aventura, que dará início a uma nova fase da franquia. Na ocasião, Nowakowski também descreveu o jogo como o projeto mais ambicioso da história do estúdio. Segundo ele, The Witcher 4 terá um mundo aberto vasto, combates intensos e uma narrativa profunda, com lançamento previsto para 2028. E você, já está ansioso para The Witcher 4 ? Conta pra gente nas redes sociais do VOXL o que espera do próximo RPG da CD Projekt! Black Friday Acer: esquenta tem até R$ 700 de desconto e condições especiais WhatsApp lança figurinhas com som e sem moldura branca; saiba como usar Black Friday Acer: aproveite até R$ 1.000 de desconto na semana de ofertas Acabou a luz no meio do jogo? Como ter energia de backup para manter seus equipamentos funcionando iPhone Duo: o dobrável da Apple brilha no acabamento, mas frustra no uso diário",
-          "image": "https://www.estadao.com.br/resizer/v2/UTNS6DWEPRG7RJOAQIC6BWN2O4.jpg?quality=80&auth=81c2b09aa303083dff35028764bd45303ef2f518fdf48e54453995ba6774704e&width=1200&height=630&focal=980,515"
+          "text": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6. In the week ending 14th November, PS5 hardware unit sales registered a 2.4x increase over the same week last year. Xbox wasn't far behind, seeing a 2.3x increase in its own unit sales. That's according to industry analyst Mat Piscatella at Circana , who pulled the data from Circana's retail tracking service, which covers the US retail market. The PS5 Pro only accounted for less than 10 percent of the PlayStation's total unit sales, by the way, which Piscatella noted was \"a LOT better than it has been in recent weeks\", and seemingly the result of increased supply. GTA 6, of course, released on 19th November, so the surge in console hardware sales was clearly driven by the rush to attain consoles before the game came out. And while the GTA 6-driven demand isn't surprising, it's worth noting how much more expensive PS5 and Xbox Series X/S consoles are today. A standard PS5 today costs $650, compared to $550 a year ago. The PS5 Pro saw a big jump from $750 last November to $900 today. The base Xbox Series X jumped from $650 last year to $800 today, while Series S now costs $500, up from $400. Even Switch 2, where GTA 6 is not available, saw a notable boost of 40 percent in hardware sales over the same period, driven by The Legend of Zelda: Ocarina of Time remake and the special edition Zelda Switch 2 console . Circana's November US video game market report, which releases in December, is already one of the most anticipated this year, for digesting and documenting the GTA 6 effect. Worldwide, GTA 6 sold more than 32.5m copies in one day , making Rockstar's parent company Take-Two $3.79bn (£2.89bn) in revenue. We haven't had any updated official sales figures since; but estimates suggest the sales figure could be well into the 40-millions. Perhaps Rockstar is waiting to hit the nice round 50m sales mark before announcing it. If you're playing GTA 6, you may want to keep Eurogamer's GTA 6 walkthrough to hand. It has plenty of very helpful guides covering the game's main missions, as well as explainers for mechanics like romance and the criminal profile , and even cheats for when you finish the game.",
+          "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         }
       ]
     },
@@ -170,66 +158,6 @@
           "kind": "press",
           "text": "Lords of the Fallen 2: veja requisitos mínimos e recomendados para jogar no PC",
           "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Lords-Fallen-2-Abril-2027.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "24540f369aa9135a",
-      "title": "Sony Confirms PlayStation Plus Monthly Games for December 2026",
-      "summary": "Sony has confirmed the PlayStation Plus Monthly Games for December, which will be available to download from Tuesday, December 1 to Monday January 4.",
-      "owners": [
-        "gameblast",
-        "valnet",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "daeae6e5eb8c552c",
-        "54ef2952ef1ebf6c",
-        "bc3292df72e157cb",
-        "2a0c1bf2df8505f6"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-december-2026",
-          "title": "Sony Confirms PlayStation Plus Monthly Games for December 2026",
-          "published_at": "2026-11-25T18:17:24+00:00",
-          "kind": "press",
-          "text": "Sony has confirmed the PlayStation Plus Monthly Games for December, which will be available to download from Tuesday, December 1 to Monday January 4. In a PlayStation Blog post , Sony said Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker are December’s three titles. Will you be able to tear yourself away from GTA 6 to give either of these games a shot? Or perhaps you're after a palate cleanser after pumping 100 hours into Rockstar's epic? IGN's Tony Hawk’s Pro Skater 3 + 4 review returned an 8/10. We said: \"Tony Hawk’s Pro Skater 3 + 4 proves yet again the series’ over-the-top skateboarding formula is totally timeless, even if some of the changes to THPS4 miss the mark and the soundtrack has been fumbled.\" Dragon Ball Xenoverse 2, meanwhile, got a 7.5 back in 2017 . \"Dragon Ball Xenoverse 2 is an ambitious , if rough-edged experience, with deceptively deep RPG and brawling elements,\" we said at the time. And our Amnesia: The Bunker review returned an 8. We said: \"Amnesia: The Bunker is a smaller, more self-contained episode in the groundbreaking horror franchise that shows Frictional still has some chilling new tricks up their sleeves.\" It’s worth noting that PlayStation Plus members have until Monday, November 30 to add the PlayStation Plus Monthly Games for November (Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2) to their library. Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
-          "image": "https://assets-prd.ignimgs.com/2026/11/25/tony-hawk-1795630571776.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/playstation-plus-confira-jogos-mensais-dezembro-2026.html",
-          "title": "PlayStation Plus: confira os jogos mensais de dezembro de 2026",
-          "published_at": "2026-11-25T18:50:34+00:00",
-          "kind": "press",
-          "text": "Os jogos poderão ser resgatados a partir do dia 1º de dezembro.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnG1seSHfkwcDf7AkjWV0n126eQl_immSl93Mt3a3rQ3ZRxfmBVXtubvYKVfedrW1LoejSZDINO7jKHK8yv77rP3kyTgBLDEqyZZyhVMPuEJ6sRX9xBerYHkKXy5WF0w1NVhExAwwzneI8RhEvk9M9dH88agqzWhu9iNW7_LIIUZ1y7mtWQqRY-nOWXQE6/w1200-h630-p-k-no-nu/psplusdez2026.webp"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/best-ps5-playstation-5-games/",
-          "title": "The 25 Best PS5 Games in 2026",
-          "published_at": "2026-11-25T20:23:05+00:00",
-          "kind": "press",
-          "text": "What are the best games on PlayStation 5 ? Hard as it is to believe, the PS5 is — by Sony's own admission — already well past the halfway point of its life-cycle. (It's even time to start thinking about PS6 .) It's fair to say that PS5 hasn't been deluged with classics, and the rate of must-play new releases is slower than it has been on previous PlayStations. But it does now have the ultimate killer app: Grand Theft Auto 6 . That aside, the PS5's library has grown to the extent that there's a lot to sort through, and new and old PS5 owners will be wondering what to play. So here’s our living list of the best video games we’ve played on the platform — influenced by the personal tastes of the Polygon team — to be updated as more games come out. Our latest update to this list on Nov. 25 added Grand Theft Auto 6 . The Polygon staff plays a lot of video games, and everything in this list comes personally recommended by at least one of us. We determined what should be on our list of the best PlayStation 5 games by looking at the quality of each title, but also with an eye for breadth and variety — so you should find something on the list you’ll enjoy, no matter what genres of game you like, how much time you have, or what vibe you are after. A full six years into the PS5's life, here it is: the game that finally makes sense of this console generation, and makes it all worthwhile. GTA 6 is the best-reviewed game of all time, and you don't have to spend long with it to understand why. It's a deeply engrossing world of astonishing detail, reactivity, and scope, rendered in all the seedy, dayglo glamor that can be mustered by the most expensive video game production of all time. It's a familiarly scattershot satire of modern life in America. But — and it's a huge but — it's also a game of real sensitivity and heart. The central couple of Jason and Lucia are straight-up adorable and Rockstar shows, for the first time in the series' history, a moving willingness to see the best in people. Well... some people. —OW Read Giovanni Colantonio's full review of Grand Theft Auto 6 . If you're craving a return to the days of Wipeout, when a PlayStation racing game was as likely to involve antigravity sci-fi craft rocketing around at hundreds of miles per hour as realistic cars, then Galactic Racer is the game for you. It also happens to be one of the most innovative racing games in a long time, a much-needed shake-up for a stale genre. It introduces a roguelite structure and build-crafting into both single-player and even multiplayer modes, while keeping it all totally coherent with a very Star Wars fantasy of racing dangerous, rickety hot rods. As a treat, there's a healthy dose of Burnout in there, too. —Oli Welsh Read Oli Welsh's full review of Star Wars: Galactic Racer . Here's another classic PlayStation flavor resurrected in an unexpectedly glorious way. As the latest in Bandai Namco's long-running dogfighting air combat series, Ace Combat 8 sounds like a niche known quantity. Try it, however, and you'll be pleasantly surprised again and again: by the sophistication of the controls, the variety of the level design, the meaty length of the campaign, the amazing fidelity of the visuals, and the depth and seriousness of its operatic wartime storyline. —OW Read Giovanni Colantonio 's full review of Ace Combat 8: Wings of Theve . The PS5 generation has been a bit short on really great tactics games, but that's all changed with this superb squad strategy game from Bit Reactor, set during Star Wars' Clone Wars era. Many on the team worked on Firaxis' XCOM reboot games, and you can sure tell — this is fine-honed game design full of precision, personality, puzzle-like ingenuity, and just the right amount of unpredictability. Zero Company also makes brilliant use of its setting, compellingly painting a grunt's-eye-view of the collapse of the Republic, and assembling a squad of characters you'll really care about. Especially when you lose them forever in the default permadeath setting. —OW Read Elijah Gonzalez's full review of Star Wars Zero Company . It's been a long time since there was an official James Bond game, and a much longer time — almost 30 years, in fact — since there was a really great one. 007 First Light might not attain the legendary status of GoldenEye 007 , but it's a very slick and entertaining blockbuster action game that's a lot smarter than it needed to be. The key is an inspired choice of developer in IO Interactive, of Hitman fame. IO's love of open-ended \"social stealth\" gameplay sneaks its way in between the set-pieces and rounds out a thoroughly satisfying adventure with a unique perspective on a young Bond. — OW Read Ford James' full review of 007 First Light . It's defiantly not for everyone, but when the planets align, Bungie's take on the extraction shooter genre can be a totally electrifying multiplayer experience. Its asymmetric PvPvE gameplay can be hard to get your head around, never mind brutally unforgiving, but for intensity and drama it can hardly be matched, and Bungie is to be commended for including interesting solo as well as group roles. On top of this, you have intriguingly deep sci-fi world-building, Bungie's world-class gamefeel — 25 years on from Halo , there are still no more satisfying guns to shoot in gaming — and absolutely stunning art direction, realising one a compellingly chilling future. — OW Read Corey Plante's impressions of Marathon . You can accuse this sequel to Supergiant Games' smash hit roguelike action game of overcomplicating the pure brilliance of the first Hades , and we did. But really this is quibbling with something that's very close to perfection. The combat is still crisp and thrilling, the randomized boons are still exquisitely balanced, the see-saw between progression and setback on each run is still perfectly judged, and the languid, sexy bickering of Supergiant's take on the pantheon of Greek mythology is still gloriously characterful ",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_20-1-1.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/",
-          "title": "PlayStation Plus games for December include Tony Hawk’s Pro Skater 3+4",
-          "published_at": "2026-11-25T22:27:05+00:00",
-          "kind": "press",
-          "text": "PlayStation reveals its games for PS Plus in December, and when November’s picks will leave The next wave of PlayStation Plus games has been revealed for December. The most recent release to be included in the lineup is Tony Hawkâs Pro Skater 3+4, following on from its 2025 launch. As with any PlayStation Plus drop, you simply need to make sure you have added the games to your library in order to keep them. That way, you will keep it after they leave the PlayStation Plus offer. You can then go on to install and uninstall them as you please, provided that you maintain your PlayStation Plus subscription. Starting on December 1 – next Tuesday – PlayStation Plus subscribers will be able to claim and keep the following titles: Alert the neighborhood watch and grab your skate buddies because the shredâs not dead: the legendary franchise returns with Tony Hawkâs Pro Skater 3 + 4. Everything you loved is back, revamped with more skaters, new parks, gnarlier tricks, eardrum-shattering music and much more. Drop-in to new parks or tear it up across timeless locations from both Tony Hawkâs Pro Skater 3 and Tony Hawkâs Pro Skater 4, authentically remade in jaw-dropping 4K** resolution with streamlined goals and the epic 2-minute format. Define your own experience in the expanded Create-A-Skater and Create-A-Park modes, including the ability to create custom goals to share with friends for the first time. Dragon Ball Xenoverse 2 is the ultimate Dragon Ball gaming experience, packed with thrilling action, epic battles, and endless customization options. Create your own character, explore Conton City and team up with iconic characters from the series as a teacher to train and be ready to battle against formidable enemies to rescue the flow of History. Dragon Ball Xenoverse 2 also features online multiplayer modes, where you can battle against other players from around the world in epic showdowns or participate in Raid Battles to face gigantic foes with other players. Amnesia: The Bunker is a first-person horror game from the makers of Soma and Amnesia. Left all alone in a desolate WW1 bunker with only one bullet remaining in the barrel, itâs up to you to face the oppressing terrors in the dark. Immerse yourself in the multiple ways of tackling survival. In the shoes of the French soldier Henri ClÃ©ment, you are armed with a revolver gun, a noisy dynamo flashlight, and other scarce supplies to scavenge and craft along the way. With randomization and unpredictable behavior, no play-through is the same. Hunted by an ever-present threat reacting to your every move and sound, you must adapt your play-style to face hell. Every decision will change the outcome of how the game responds. Actions bear consequences. PlayStation has also confirmed that November’s free games will be leaving the PlayStation Plus catalogue on November 30. This means that subscribers have a few more days to claim the following: December’s picks will be available from December 1 right through until January 4.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/Tony-Hawks-Pro-Skater-34.jpg"
         }
       ]
     },
@@ -306,7 +234,6 @@
       "primary_owners": [],
       "fingerprints": [
         "4e711f5455726e0e",
-        "558d32223e515491",
         "8155848f5f272edd",
         "e6370d24e9f87ee1"
       ],
@@ -320,16 +247,6 @@
           "kind": "press",
           "text": "",
           "image": ""
-        },
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/mario-kart-world-version-1-9-0-update-now-available-adds-new-rallies-and-courses",
-          "title": "Mario Kart World version 1.9.0 update now available, adds new rallies and courses",
-          "published_at": "2026-11-25T01:05:29+00:00",
-          "kind": "press",
-          "text": "Nintendo has released the version 1.9.0 update for Mario Kart World , which adds Feather Rally and Lucky Cat Rally to Knockout Tour, new courses, and more. Mario Kart World is available now for Switch 2 .",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/MKW-Update_11-24-26.jpg"
         },
         {
           "name": "Gematsu",
@@ -434,8 +351,8 @@
           "title": "Diablo IV recebe Temporada do Gambito de Tyrael em 1º de dezembro",
           "published_at": "2026-11-25T16:45:10+00:00",
           "kind": "press",
-          "text": "Árvore das Bênçãos de Tyrael e afixos horádricos entram em cena ao lado do retorno permanente de conteúdos do Legado do Inferno.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2SC2ardNbsTYmhCefv62gsL837l9yeNzyNPsNqO0vKCUkIQ0FO0mCs8ecS2xp6bODouXYTjTPqNV9ckpRV7nVploCvZlwdff0IK7CWa72EDxlHRhrf4R3-EV-b0NeU1bRLEBuGh7SWDt5KinvkJbA5WJxZyjDXFWnqnL9ko9AWPN32-KBhRYyusSHUCM/w1200-h630-p-k-no-nu/DIA_S16_SummaryGraphic_16x9_FINAL_(1).png"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Olhar Digital Games",
@@ -450,168 +367,76 @@
       ]
     },
     {
-      "story_id": "d714bc9628210b2c",
-      "title": "How to get abducted and find aliens in GTA 6",
-      "summary": "How to get abducted and find aliens in GTA 6",
+      "story_id": "69babb4087f4b76d",
+      "title": "Black Friday board game deals 2026 live: The best offers on strategy games, family favorites, and more found by experts",
+      "summary": "Our experts are tracking down the very best Black Friday board game deals all while providing every scrap of advice they can on making the most of this sale",
       "owners": [
         "future-plc",
-        "insider-gaming",
-        "valnet"
+        "meups",
+        "nzn"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "20810b4a59fc345d",
-        "925098619828791b",
-        "23108293cd4d6e5f",
-        "1b3b005ea6168c81"
+        "386d0a915c471ac5",
+        "30244f8b42ff7fb0",
+        "8f4205911567fca4"
       ],
       "sources": [
         {
           "name": "GamesRadar",
           "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/",
-          "title": "How to get abducted and find aliens in GTA 6",
-          "published_at": "2026-11-25T13:09:14+00:00",
+          "url": "https://www.gamesradar.com/live/news/black-friday-board-game-deals-2026-live/",
+          "title": "Black Friday board game deals 2026 live: The best offers on strategy games, family favorites, and more found by experts",
+          "published_at": "2026-11-25T12:30:43+00:00",
           "kind": "press",
-          "text": "To find aliens in GTA 6 you need to be abducted, then wait for dream to tell you what to do next The GTA 6 alien mission starts with an abduction that leads to some weird dreams, and eventually sends you off to literally find what's out there. Spoilers obviously abound for everything I'm about to tell you below, but if you want to see what the latest instalment of Grand Theft Auto's alien stuff is, read on. To start everything off you first need to be abducted. There's an element of luck here but what you're looking is to see a car by the side of the road with all its doors open and lights going crazy . It seems like there might be a few locations it can happen, and it can only happen at night, but for me it was here in Port Gellhorn: Follow the cars headlights and you should see some clothes scattered around. Using your flashlight and Focus you'll see more clothes making a trail you can follow. Eventually you'll see a light, and pick up something... else with your Focus. I won't spoil it too much: Once this sequence plays out you'll get the objective to go back to the woman's car. This is what triggers your own abduction experience. Once that's done you'll wake up by the side of the road apparently unharmed. To continue the GTA 6 alien quest you'll need to go to sleep to trigger some dreams. It might take a day or two but keep sleeping and you should eventually have some strange dreams. It needs to be the same character that was abducted, obviously, in case you're not seeing anything happen. This dream is actually an explainer on how to rescue an alien, although there's a tricky puzzle to get past first. Leaving the room you woke up in will take you to a large dark room full of eggs with a bright light at the center. The eggs will explode if you get too close, and once a few have popped you'll be grabbed by a tentacle. This will restart the dream with the option to 'give up', but don't. If you're having trouble all you need to do is sneak past slowly. If you crouch and keep your speed as low as possible you shouldn't pop any eggs, no matter how angry they look. Weekly digests, tales from the communities you love, and more You'll need to find a path through the eggs as it's a bit of a maze, but as long you move low and slow you should be able to reach the light in the middle easily, which will end this sequence. Once past the alien eggs you'll reach a room with a model solar system in it. The Earth is actually a picture of a location, so examine that and move on. Next you'll see a keypad with a series of lines over it. These lines denote the alien key pad code and are randomised. For me it was 3214 but you might have something different. Don't worry about memorising it, as it will be noted like the GTA 6 safe codes you can find elsewhere. Once you're through you'll find a control panel to use. Switch it on and you'll see four buttons you'll need to turn green: Pushing any button will cycle the light either side of it through off, orange and then green. Using that info you'll need to make all the lights green and then press another button to reveal three doors ahead of you. Through to door on the left you'l find some milk to fetch, and through the door on the right you'll find a machine you can put the milk in. The door in the middle has a burning sun inside that will kill you. We don't open the middle door. Get the milk and take it to the machine. Placing it in the slot will then end this whole sequence and you'll wake up. The radio tower you saw in your dream is at the location shown on the map above - just above Shoeless Keys. Drive there and use your car to encourage the gates to open, as there's barbed wire everywhere. Go around the building to this door and head inside: Immediately inside you'll see some stairs down to a door locked with a keypad. Use the code you got in your dream to open it. This will then take you down via lift to a control room where you'll find a tape you can play on a table, and then repeat what you learned in the dream: Putting the milk in the machine will open the door and reveal the alien. However, make sure you have full health before you pick it up. The second you grab the ET poison gas will start flooding the place, and you'll need to get to the lift as fast as possible while your health drains. Head outside and let the events play out. When it's all over you'll have your health, stamina and focus all permanently increased. For reasons your car will probably be impounded and end up at the police station nearest your current home. If you are miles from home at this point, simply switch to the other character and then call up and arrange to meet. This will teleport whoever was stranded immediately back to you. © GamesRadar+. Not to be reproduced without permission. I'm GamesRadar's Managing Editor for guides. I also write reviews, previews and features, largely about horror, action adventure, FPS and open world games. I previously worked on Kotaku, and the Official PlayStation Magazine and website. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/NBC5vFqpMjWPkVRngr8rBa-1920-80.jpg"
+          "text": "1. Quick links 2. Best deals 3. Live report While the official sale kicks off tomorrow, 2026's Black Friday board game deals have been frequently dropping, with discounts hitting some firm favorites when it comes to tabletop games old and new. With prices reducing across various retailers, it's a good time to shop if you want to add to your collection, or you've had your eye on something specific. In fact, I find Black Friday board game deals to be your best opportunity to snag a bargain; I've covered both the sale and the best board games at GamesRadar+ for a long time now, and it typically provides record low prices for everything from family classics to strategy heavyweights. As well as bringing you the most tempting offers here as the sale ramps up, I'll also be using my experience to provide as many hints and tips as I can. If you want to take full advantage of this year's Black Friday board game deals, this is the place to be. Benjamin joined GamesRadar+ in 2018 and has been running the site's board game coverage ever since. However, he began playing them much earlier; he's rolled dice since he was a kid and first got his hands on everything from Talisman to Sorry. The game he's enjoying most right now is Fire Tower. From what I can tell, this masterclass strategy epic (which ranks as one of the most popular games ever on forums like Boardgamegeek) has never been anywhere close to as cheap as it is here. If you've ever been curious about what makes it so beloved, the Black Friday board game deals are your opportunity to strike. Just be aware that it is quite an in-depth game, though the effort is worthwhile. Check our Brass: Birmingham review for more details. Regardless of whether you like the Lord of the Rings or not, this series is worth checking out. As noted in our review of its follow-up, The Two Towers , its gameplay is incredibly clever by twisting classic trick-taking into a team challenge, but is still easy to get into. It's never been cheaper than it is now, and I'd definitely recommend starting here rather than later entries in the range (it eases you in gently rather than overwhelming with new mechanics). It's not the biggest price cut at face value, but I've struggled to find this excellent, more bitesize version of the beloved strategy game for less. I gave it a glowing write-up in my Wingspan Pocket review because it distills everything great about the original into a streamlined, focused alternative that's great for taking with you on the go. It's also a much easier entry-point to the series, so I'd recommend that newcomers try this first. Looking for a lighter game, or something for family-members who don't like playing board games? I always recommend this one, because it's such a simple concept that everyone can join in with - no pressure involved. So far as I'm concerned, it's one of the best family board games there is. While this isn't a record low price, it's better than the batting average and has arrived just in time for Thanksgiving. This is arguably one of the most influential board games of all time, and it has excellent mechanics to match. If you want to try something deeper than Monopoly, are new to the hobby, or just want an all-time classic on your shelf, now's the time to grab this one. As mentioned in our Catan review , it's a must-have. I've just spotted a record low price for Ticket to Ride, which is perfect if you're looking for something family friendly that's approachable and laidback. As our tabletop expert Ben said in his glowing Ticket to Ride review , this is a chilled out experience that's great for veterans and newcomers alike. With a Black Friday board game deal dropping this one down to the record low price of just under $25, it's a great discount to snag right now. Ticket to Ride | $24.98 (was £39.99 at Amazon) Featured in: The best board games for families Well hello there! Heather here, and have I got a great Black Friday Board game deal for you already. If you're looking for a delightful game that's perfect for two players, you can't go wrong with this relaxing village sim. It's kind of like a game like Stardew Valley, but make it tabletop. Currently going for the lowest price we've seen it drop to over at Amazon, you can snag this tabletop treat for the record low price of a little over $30. Historically, we've seen this one stay at a steady $39.99, so it's well worth considering. Cozy Stickerville | $30.48 (was $39.99) at Amazon Featured in: T he best 2-player board games And that's me done for the day! Thanks for following along with the offers so far. I'll be back online tomorrow for more price cuts, and will continue to bring you the best Black Friday board game deals as I find them. In the meantime, feel free to keep browsing the links above for more bargains - there are plenty to be had that I've not had time to cover just yet. Happy shopping, and see you soon! Want cheap and easy family games for your kids? They are plenty on offer at Amazon right now, from themed versions of Monopoly to various fast-paced party games. These rarely go above $15, so are simple stocking stuffers. Heat has a really strong reputation in the community as being a peerless racing game, so seeing it dip by around $20 at Amazon in today's Black Friday board game deals has me practically racing to the checkout. It's not a record low price, but it is a much better offering than the usual $68-$70 we'd normally be looking at. I've talked before (at length) about how much I love Disney Villainous, but did you know there's also a Star Wars version? In short, it's a strategy game where everyone has their own unique objective to complete... but you can sabotage each other by sending heroes to mess with your opponent. As I pointed out in my Star Wars Villainous review , it provides smart new mechanics to go with fresh challenges for existing fans. The core set is currently 50% off at Amazon . I came to Fire Tower late, and I'm kicking myself. This is a reall",
+          "image": "https://cdn.mos.cms.futurecdn.net/aqXAnAkLFURzW9SaD4WyM-1920-80.jpg"
         },
         {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/gta-6-sunrise-rv-park-all-key-valuables/",
-          "title": "How to Find and Complete Sunrise RV Park Illegal Operation in GTA 6—All Key Valuables",
-          "published_at": "2026-11-25T17:58:48+00:00",
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/ate-quanto-pagar-na-black-friday/",
+          "title": "Até quanto pagar na Black Friday 2026?",
+          "published_at": "2026-11-25T15:18:00+00:00",
           "kind": "press",
-          "text": "Sunrise RV Park is a great Illegal Operation to hit if you are looking for exclusive weapons in GTA 6, and here’s a guide to getting all the key valuables from the area. Illegal Operations are a great place to hit for good loot in GTA 6 , and Sunrise RV Park is one of the operations you are told about in Chapter 1, but it doesn’t unlock until Chapter 2. This is one of the first Illegal Operations players learn about through the game’s story, and you might already have it unlocked. You can buy Grand Theft Auto 6 here if you haven’t already! The Sunrise RV Park Illegal Operation in GTA 6 is revealed by Donnie right after the first mission, when Jason saves him from the Kingfishers in the ‘Gone Fishing’ mission. In the first mission as Jason in GTA 6, players scour the water for cocaine packets as Donnie drops them from the sky. During this mission, Donnie is captured by Kingfishers on suspicion of skimming the stash and is beaten up by them too. As revenge, he informs Jason about the Sunrise RV Park and asks him to go hit it. However, you can’t access this illegal operation until Chapter 2, as the gang remains disbanded in the area until then. Here’s a screenshot of the exact location of the Sunrise RV Park Illegal Operation in GTA : Follow the steps below for a fast and stealthy way to get all key valuables from Sunrise RV Park in GTA 6. The Sunrise RV Park Illegal Operation in GTA 6 is an expansive area, and it’s easy to get lost while looking at all the caged exotic animals. Players need to find three key valuables to complete the location: a couple of small safes , a big safe, the Kingfisher’s Akula Revolver, and some bags of cocaine. This guide explains a stealth route that lets you grab all the Sunrise RV Park key valuables as efficiently as possible. Also, keep yourselves stocked with enough Zombix , Adrenaline, and Armor, even during stealth runs, as you never know when things can go wrong. Also, carry a silenced weapon to quickly dispatch enemies without drawing too much attention. Here are the steps you need to follow to complete Sunrise RV Park in GTA 6 and collect all key valuables : What are your thoughts on the illegal operation at Sunrise RV Park in GTA 6? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more from Insider Gaming, read how to win all drone races in GTA 6 . Don’t forget to sign up for our weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here .",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/GTA-6-Sunrise-RV-Park-scaled.jpg"
-        },
-        {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-standout-vehicles-key-lento-locations-list-grand-theft-auto/",
-          "title": "All Key Lento standout vehicles in GTA 6",
-          "published_at": "2026-11-25T19:18:58+00:00",
-          "kind": "press",
-          "text": "Visit the aftermath of one wild house party Visit the aftermath of one wild house party There are 12 standout vehicles in Key Lento in Grand Theft Auto 6 , ranging from an incredibly festive boat to a pizza delivery car, and finding them all is essential if you want to 100% complete the game. GTA 6 has 280 standout vehicles to find in total, and some of them are very tough to find, so we're here to help. Here are all 12 GTA 6 standout vehicles in the Key Lento region. To collect them, all you need to do is open the WAiNK app with your phone and scan it. Below, we've listed every standout vehicle in Key Lento, along with where to find it. Note that as per our testing to verify each of these vehicle locations, some of them are not permanent, and so you may need to visit the location a few times if they're not there the first time you look. [ Ed. note: If you're viewing this guide on a mobile device, you may have to swipe left and right to see all the information on the tables below.] Table graphics: Ford James/Polygon | Source images: Rockstar Games via Polygon If you're just getting started in GTA 6 , we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first , recommendations for the best ways to make money fast , and an explainer for how to keep stolen weapons and cars to make the most of your free time. Our selection of GTA 6 guides includes help for things like how to steal the Phoenix in \"Unwanted Attention\" and whether you should defuse Mandy , too. There's a set of explainers for GTA 6 's more open-ended side activities, like how to rob the Exotic Animal Front and where to find tree effigies for the Skunk Ape mission , and we've got all the GTA 6 cheat codes . You'll have to put in some effort before you can use those, though.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-standout-vehicles-key-lento-header.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/gta-6-kingpin-bowling-alley-all-key-valuables/",
-          "title": "How to Find and Complete Kingpin Bowling Alley in GTA 6—All Key Valuables",
-          "published_at": "2026-11-25T21:27:37+00:00",
-          "kind": "press",
-          "text": "Kingpin Bowling Alley is a fun illegal operation to hit in GTA 6 with tons of loot, and here’s a guide to getting all the key valuables from the location. Kolt & Associates own the illegal operation at the Kingpin Bowling Alley in GTA 6 , and players are able to hit the location as part of the story in Chapter 2 or by themselves. Apart from cash and unique weapons like most illegal operations, this location also has a watch for Jason that players can grab during their run. You can buy Grand Theft Auto 6 here if you haven’t already! GTA 6’s illegal operation in Kingpin Bowling Alley is in Port Gellhorn near Moses Garage. As mentioned earlier, players are informed about the Kingpin Bowling Alley during a mission in GTA 6’s Chapter 2, called Coffee Break. If you want to hit the spot before the mission, then you can find it located right behind Moses Garage, towards the south of Port Gellhorn. It’s a massive area that is hard to miss and will be highlighted in yellow as soon as you reach the location. Additionally, the safe code for Kingpin Bowling Alley’s big safe in GTA 6 needs to be acquired at Brooks Boatworks Illegal Operation. Here you will find a poster on the wall that marks three locations and their safe codes, including the bowling alley. Here’s a screenshot marking the exact location of Kingpin Alley in GTA 6 and the safe codes at Brooks Boatworks: Follow these steps for a quick method to steal all key valuables from Kingpin Bowling in GTA 6. Kingpin Bowling Alley is marked as a high-security place in GTA 6, so players need to keep their guard up at all times. Additionally, it is a rather large location, so it is easy to miss some of the key valuables. You need to grab the loot from the big safe, the Gutterball Moreland 850 Shotgun, and the Crowex Octane “Orca” Watch. Always keep enough Zombix, Adrenaline, and Armor stocked, even during stealth runs, as things can go wrong unexpectedly. Additionally, carry a silenced weapon to quickly eliminate enemies without attracting too much attention. Here are the steps you need to follow to complete Kingpin Bowling Alley in GTA 6 and collect all key valuables : What are your thoughts on the Kingpin Bowling Alley illegal operation in GTA 6? Leave your thoughts down in the comments, and join the official Insider Gaming Discord server . For more from Insider Gaming, read how to win all drone races in GTA 6 . Don’t forget to sign up for our weekly newsletter . NOTE: Insider Gaming may earn affiliate commission if you purchase items through links on Insider Gaming. Read more about affiliate commission here .",
-          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/gta-6-2.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "1aad1761d1c2d11c",
-      "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-      "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release. According to Circana's Mat Piscatella , there was a \"significant surge\" in hardware sales in the US for the week that ended November 14. PS5 sales were >2.4x the same...",
-      "owners": [
-        "adrenaline",
-        "fandom",
-        "keleops"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "01025a48bed25e59",
-        "b43d17e79e458fd5",
-        "eeeefd685e0a0823"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
-          "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-          "published_at": "2026-11-25T16:05:50+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/grand-theft-auto-vi-gta-6-framerates-xbox-series-x-ps5-rockstar-2001000296",
-          "title": "Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5",
-          "published_at": "2026-11-25T12:30:40+00:00",
-          "kind": "press",
-          "text": "Digital Foundry Grand Theft Auto VI GTA 6 Rockstar When it comes toÂ GTA 6 , PlayStation has very much been the teacher’s pet. Microsoft was operating under a weird-ass ban that prevented it from marketing the fact that the game was coming out on its console, while the PS5 has been broadly promoted as the natural home for Rockstar’s record-breaking release. And yet, Digital Foundry ‘s latest analysis ofÂ GTA 6 ‘s performance across all four of Microsoft and Sony’s current-gen systems shows the Series X outdoing the PS5. “Ultimately,” the site’s boffins report, “Series X is meaningfully better off.” It’s important to mention right away that the PS5 Pro still wipes the floor with the Series X, and is without doubt the best way to play Grand Theft Auto VI until the official PC version is released. But when you measure the two base machines between the rival console makers,Â DF says there’s no doubt that it’s the Series X that edges ahead of the PS5. Both consoles offer “a virtually identical visual presentation,” say the tech experts, with nothing to divide them in all the important areas. But when it comes to performance, this is where Xbox takes the lead. Both machines struggle during “heavy vehicle traversal” and “intense airport crowd sequences,” but the PS5 “suffers substantially more frequent frame-rate drops” than the Series X, “which is compounded by the fact that the Xbox machine also benefits from 120Hz VRR support to smooth out minor dips.” Unsurprisingly, the Series S performs the poorest out of all four, but actually offers better results than anyone was expecting. While its framerate drops are horrible, frequently dipping into the teens, the use of PSR 4.1 upscaling and a reduction in the most intensive details still has it looking pretty lovely. It’s definitely not a great way to play the game, but it’s less terrible than you’d think. So there you go, Xbox owners: you’re not the ugly stepsister you might have been made to feel like. Obviously the differences remain slight, and with both consoles (and even the PS5 Pro) capped to 30 FPS there are compromises to be made by all, so whether you’re playing on PlayStation or Xbox Series X, you’re mostly having the same experience. But Xbox owners have earned themselves a quietly smug grin. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. What even is this big game that everyone around you is suddenly talking and post about? CDPR proclaims GTA 6 an 'inspiration' as it credits the various TV adaptations of The Witcher and Cyberpunk for helping keep those properties popular Congrats on landing the job at Rockstar, Wil E. Coyote Lexie Shoaibi recently guested on Hasan Piker's Twitch channel It seems like things weren't working properly for some people until a recent patch, though Stealing cars just like you did back in 2001 on the PS2",
-          "image": "https://kotaku.com/app/uploads/2026/11/gta-techspecs.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/gta-6-e-mais-estavel-no-series-x-do-que-no-ps5-apesar-de-seu-marketing-oficial/",
-          "title": "GTA 6 é mais estável no Series X do que no PS5, apesar de seu marketing oficial",
-          "published_at": "2026-11-25T19:48:35+00:00",
-          "kind": "press",
-          "text": "Nintendo Switch 2 poderia rodar GTA 6, mas com grandes sacrifícios gráficos",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Estabilidade-Xbox-Series-X.jpeg"
-        }
-      ]
-    },
-    {
-      "story_id": "392db219544f5951",
-      "title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
-      "summary": "Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake. The Finnish studio is doing so in partnership with Grand Theft Auto 6 studio Rockstar, which owns the IP and is funding the remake's development. Read more",
-      "owners": [
-        "meups",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "c954d901472f86d3",
-        "350cf808d31c8d4e"
-      ],
-      "sources": [
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/remedy-max-payne-1-2-remake-rockstar-relationship",
-          "title": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
-          "published_at": "2026-11-24T15:09:20+00:00",
-          "kind": "press",
-          "text": "\"I'll say it out loud: They've honestly been an awesome partner.\" Alan Wake and Control studio Remedy Entertainment is currently developing a highly-anticipated Max Payne 1 & 2 remake. The Finnish studio is doing so in partnership with Grand Theft Auto 6 studio Rockstar, which owns the IP and is funding the remake's development. So how has that relationship been? According to Remedy CEO Jean-Charles Gaudechon, working with Rockstar has been \"amazing\". \"Honestly, it's been great,\" Gaudechon told Game File . \"You know why? Because I think they're super respectful of Remedy.\" Gaudechon is so positive on Remedy's working relationship with Rockstar that he emphasised his praise for Rockstar further. \"I'll say it out loud: They've honestly been an awesome partner. And it's no bullshit,\" he added. The original Max Payne was released in 2001, and its sequel in 2003 - both developed by Remedy. Rockstar published the second game and worked on the original's console ports. Rockstar developed a third entry in the series, Max Payne 3 , which Rockstar co-founder Dan Houser recently called something of a failure . \"Some people liked it; lots didn't. So we got it wrong, or I got it wrong. I failed. My bit was not a success,\" said Houser. The Max Payne 1 & 2 remake has been in the works since 2022 , but only entered full production in 2024 . The game is understood to be Remedy's current project, though the studio also has another unannounced project in the works. In other Remedy news, the studio recently posted one of its best financial quarters , off the back of the release of Control Resonant, the studio's fastest-selling game ever .",
-          "image": "https://assetsio.gnwcdn.com/max-payne-remedy.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "A Black Friday é uma das melhores oportunidades de compras do ano, mas nem todo desconto anunciado representa uma economia real. Para aproveitar a data, é importante saber quanto cada produto já custou e qual valor pode ser considerado uma boa oferta . Consultar o menor preço histórico antes de comprar ajuda a evitar falsas promoções e permite fazer escolhas mais inteligentes. Neste guia, o TecMundo traz algumas referências de preços para produtos populares , de celulares e notebooks a eletrodomésticos, para ajudar você a aproveitar melhor os descontos desse período. As buscas por tecnologia, celulares, televisores, eletrodomésticos e produtos para casa costumam ganhar força na Black Friday, especialmente entre consumidores que planejam compras de maior valor. Por isso, saber até que valor é vantajoso pagar no aparelho novo ajuda muito a fazer um bom negócio na hora de fechar a compra. Confira também Confira os cupons de Black Friday para resgatar já! Confira os cupons de Black Friday para resgatar já! Usamos ferramentas que monitoram buscas na internet, como Semrush e Google Trends, e agentes de inteligência artificial para montar um guia prático. A lista tem produtos com maior volume de buscas e a média de preços nos últimos 12 meses. O PlayStation 5 é um dos produtos mais desejados por quem quer aproveitar a Black Friday para investir em entretenimento. Para o PS5 Slim Digital, vale buscar ofertas próximas de R$ 2.500, enquanto a versão com leitor de discos pode ser interessante na faixa de R$ 2.800. Lembrando que o leitor também pode ser adquirido separadamente para modelos Slim. Já o PS5 Pro , que oferece desempenho gráfico aprimorado, merece atenção quando estiver em torno de R$ 5.000. Um notebook com configurações intermediárias pode atender muito bem às tarefas de trabalho, estudo, navegação e entretenimento, sem exigir um investimento elevado na Black Friday deste ano. O Dell Inspiron 15 com Intel Core i5, SSD de 512 GB, 8 GB de RAM e Windows 11 é uma opção versátil para a rotina. Se aparecer próximo a R$ 3.000 na promoção deste ano, vale a compra. O Acer Aspire 5 com i5, 512 GB SSD, 8 GB de RAM e Windows 11 é uma alternativa ao modelo da Dell e pode ser uma boa compra se for encontrado por volta de R$2.800. Televisores também estão em alta nas buscas relacionadas à maior data promocional do ano. Os modelos da Samsung e da LG são os mais almejados. A Samsung QN70H de 55 polegadas, com tecnologia Mini LED, é uma opção interessante para quem busca qualidade de imagem. Se aparecer esse modelo por algo em torno de R$ 3.400, pode crer que é uma boa oportunidade. A LG QNED70 de 55 polegadas oferece resolução 4K e recursos inteligentes, e é um bom investimento se encontrada por valores próximos de R$ 2.200 com os descontos de Black Friday. A busca por smartphones premium na Black Friday aumenta. A linha Galaxy S e o modelo mais recente do iPhone são sempre mais visados, mas é preciso saber os valores que tem sido cobrados por eles para fazer um investimento inteligente. Com opções para diferentes perfis, a linha iPhone 17 tem desde modelos mais acessíveis até versões Pro voltadas para desempenho e fotografia. Preste bastante atenção aos preços para não acabar confundindo as alternativas disponíveis. A família Galaxy S25 oferece diferentes combinações de desempenho, câmeras e recursos de inteligência artificial. Buscar ofertas realmente sabendo os preços máximos ideais ajuda bastante no processo de compra. Os tablets também são muito desejados em datas promocionais. Se você está em busca de um modelo para estudar, trabalhar ou para entretenimento, temos algumas sugestões. Mesmo sendo de duas gerações anteriores, a linha Galaxy Tab S10 segue relevante e reúne tablets para diferentes necessidades. Analise bem os recursos e especificações de cada opção para ver qual combina melhor com o seu perfil antes de fechar a compra na BF deste ano. O iPad 11” com chip A16 é uma opção para quem busca bom desempenho em produtividade, navegação e entretenimento, sendo especialmente indicado para os usuários e fãs do ecossistema Apple. Na categoria eletrodomésticos a geladeira é o mais desejado, e não é à toa. Investir em um eletro caro como este na Black Friday ajuda a reduzir bastante o investimento. Com capacidade próxima de 480 litros, a Electrolux TF7 1 é indicada para famílias que precisam de espaço e praticidade, podendo ser uma ótima aquisição com desconto na BF. A Brastemp BRM45JK combina capacidade de 375 litros e praticidade para o dia a dia. Se aparecer nessa faixa, pode representar uma boa oportunidade de investimento. Outro eletro muito desejado nesta época de calor é o ar-condicionado. Aqui, além dos valores, é importante conferir o consumo de energia e outras especificações. O Gree G-Side de 12.000 BTUs é uma alternativa interessante para quem busca boa climatização a preço justo e ainda quer economizar com os descontos da promoção. O modelo LG de 9.000 BTUs pode atender ambientes menores, sendo recomendado para quartos ou salas pequenas. Praticidade na cozinha também fica em alta na Black Friday, e o micro-ondas está entre os itens mais buscados, principalmente modelos compactos. O Electrolux ME23B conta com recursos de descongelamento e funções práticas para o uso cotidiano, sendo uma compra interessante se for encontrado na casa dos R$ 480. Se disponível por cerca de R$ 480, o modelo inox Brastemp de 20 litros com funções de pré-preparo, que podem agilizar tarefas na cozinha, é uma alternativa interessante que não pesa no bolso. Além de praticidade, a air fryer oferece uma alimentação mais saudável, por isso se tornou o eletroportátil com mais procura em datas promocionais. Se estiver nessa faixa, a Mondial Family de 4 litros é uma boa escolha para preparar porções de alimentos com praticidade em um modelo que cabe no orçamento. A WAP Barbecue Digital reúne recursos que ampliam as possibilidades de preparo de carnes suculentas em um churrasco, ainda mais se estiver nesta faixa de preç",
+          "image": "https://www.estadao.com.br/resizer/v2/KOTBY4XLONEH7JYHEEI4U5EAPA.jpg?quality=80&auth=941d0aa5dac002f748d8c30dd1d8b3569f746a509561dd893039ddab69fa3e81&width=1200&height=630&smart=true"
         },
         {
           "name": "MeuPlayStation",
           "owner": "meups",
-          "url": "https://meups.com.br/noticias/remedy-trabalhar-rockstar-max-payne-incrivel/",
-          "title": "Remedy diz que trabalhar com a Rockstar em Max Payne é “incrível”",
-          "published_at": "2026-11-24T19:01:30+00:00",
+          "url": "https://meups.com.br/promocoes/black-friday-2026-onde-acompanhar-melhores-ofertas-games-tech/",
+          "title": "Black Friday 2026: onde acompanhar as melhores ofertas em games e tecnologia",
+          "published_at": "2026-11-25T18:41:27+00:00",
           "kind": "press",
           "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2024/03/max-payne-e-alan-wake-2.jpg"
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Black-Friday.jpg"
         }
       ]
     },
     {
-      "story_id": "72cc30725c8d4b1c",
-      "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
-      "summary": "In the mood for a little bloodsport? In GTA 6 , you can teach one loud-mouthed hunter that Lucia (or Jason) is the deadliest game, as this secret mission will require cunning and sharp shooting to survive. It's Hard Target meets SAW, and the victor gets a pretty sizable stack of cash. Here's how you can be the most elusive of quarry. Go to Hyde Island Located north of Lummox County and the Moreau...",
+      "story_id": "05880faa169211c8",
+      "title": "Raider Kid and the Ruby Chest será lançado para consoles em 8 de dezembro; confira o trailer",
+      "summary": "A desenvolvedora brasileira Cacareco Games anunciou que Raider Kid and the Ruby Chest será lançado para PS5, Xbox Series, Switch e Switch 2 em 8 de dezembro. O título chegou primeiro ao Steam, no começo deste ano, custando R$ 16,99, quando ganhou elogios em nossa análise : \"Raider Kid and the Ruby Chest é um adorável metroidvania que busca evocar o charme das aventuras ingênuas da era do Game Boy...",
       "owners": [
-        "fandom",
+        "gameblast",
+        "gematsu",
         "vgc"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "aaaf29ecda893842",
-        "0f846628747bc120"
+        "14a59508575d3480",
+        "1b6eec7fc164027e",
+        "f39b656a9e8ab6bd",
+        "b0c056a7d4d99555"
       ],
       "sources": [
         {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/",
-          "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
-          "published_at": "2026-11-24T15:33:03+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/raider-kid-and-the-ruby-chest-sera-lancado-para-consoles-8-dezembro.html",
+          "title": "Raider Kid and the Ruby Chest será lançado para consoles em 8 de dezembro; confira o trailer",
+          "published_at": "2026-11-25T16:37:41+00:00",
           "kind": "press",
           "text": "",
           "image": ""
@@ -619,48 +444,80 @@
         {
           "name": "Video Games Chronicle",
           "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-cooties-mission-walkthrough/",
-          "title": "GTA 6 Cooties Mission Walkthrough",
-          "published_at": "2026-11-25T18:47:53+00:00",
+          "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
+          "title": "Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition",
+          "published_at": "2026-11-25T17:09:21+00:00",
           "kind": "press",
-          "text": "Wondering how to complete Cooties in GTA 6? The Cooties mission in GTA 6 sees Lucia join Dre’Quan Priest and the Real Dimez to film a music video for their latest track. However, the shoot takes an unexpected turn when DWNPLY and his crew arrive looking for revenge. If you’re struggling to complete the mission, here’s how to shoot the music video, escape DWNPLY’s crew and unlock the Bae-Luxe’s Bat reward. Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. To unlock Cooties, you’ll first need to complete the Ride or Die mission in Chapter 3. After a couple of in-game days, Jason’s friend Dre’Quan will contact you about filming a music video for the Real Dimez song, Cooties. To start the mission, head to the mission marker in Crosstown. For the first part of the mission you’ll play as Lucia during the music video shoot, which features DWNPLY’s stolen car from the Ride or Die mission. The first mission objective is to help the Real Dimez film their music video. Most of this section is scripted, but you’ll need to complete a few actions. You’ll need to drive the car on a predetermined route so that it can be filmed for the video. After driving through the city, you’ll eventually stop, at which point some guys will start harassing Lucia and the Dimez. Get out the car as Lucia and knock the guy out. You won’t be able to pull weapons here, but you won’t need to, he’ll go down in one punch. Once the confrontation is over, the girls will begin smashing up the car for the cameras. Lucia is handed a baseball bat, allowing you to join in. Finally, you’ll need to spray-paint the vehicle. Shake the spray can using X on PlayStation or A on Xbox , then hold R2/RT to paint the side of the car. With the music video finished, DWNPLY and his crew arrive looking for their car. Jump behind the wheel and make your escape. You’ll need to lose the pursuing vehicles and drive outside the red danger area displayed on your map. If you destroy the car, the mission will fail, or if either of the Dimez are thrown out of the car due to a big crash, the mission will also fail. Keep moving and if any of the DWNPLY cars get too close, shoot their wheels in Focus Mode to take them out quickly. Once all the pursuing cars have disappeared and you’ve escaped the marked area, the objective will update. With DWNPLY’s crew gone,Â follow the objective marker towards the recording studio. Drive the damaged vehicle towards the destination to trigger the final sequence and complete the mission.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-cooties-walkthrough-12.jpg"
+          "text": "Yooka-Laylee and the Impossible Lair will boast better visuals and 120FPS on Switch 2 Yooka-Laylee and the Impossible Lair: Definitive Edition has been announced for Nintendo Switch 2. Available from next month, on December 15, Yooka-Laylee and the Impossible Lair : Definitive Edition will offer improved performance and visuals and come packaged with the Trowzer’s Top Tonic Pack DLC. This follows the launch of Yooka-Laylee and the Impossible Lair on the original Switch , PS4 , Xbox One , and PC in 2019. If you had the original game on Switch, this Definitive Edition upgrade is available for free. You will just need a physical copy of the game, or use the same Nintendo account you used to purchase a digital copy on Switch. We’re still waiting on the specifics, but we’re told that the Definitive Edition will support up to 120FPS, and “enhanced lighting and ambient occlusion effects.”, and “higher-fidelity textures and shadows”. Yooka-Laylee and the Impossible Lair was met with positive reviews back at launch . Unlike the first game in the series, The Impossible Lair opts for 2D platforming, more akin to Donkey Kong Country than its initial Banjo-Kazooie inspirations. The efforts paid off, with the game being much better received by both critics and fans, and keeping the series going for further releases. Following on from Impossible Lair, developer Playtonic released a remake of the first game, Yooka-Replaylee, in 2025. Alongside the re-release of Impossible Lair, Playtonic is also working on the first Yooka-Laylee racer, Super Yooka-Laylee Kart, which doesn’t currently have a release date.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/Yooka-Laylee-and-the-Impossible-Lair.jpg"
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc",
+          "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition announced for PS5, Switch 2, and PC",
+          "published_at": "2026-11-25T17:15:10+00:00",
+          "kind": "press",
+          "text": "Playtonic Games has announced Yooka-Laylee and the Impossible Lair: Definitive Edition , an enhanced re-release of the 2019-released side-scrolling platformer. It will launch for PlayStation 5 , Switch 2 , and PC via Steam on December 15 as a free upgrade for existing owners. Here is an overview of the game, via Playtonic Games: One of the best platforming adventures of its generation is back, enhanced for PlayStation 5, Switch 2, and PC. Yooka and Laylee return for a full-scale 2.5D adventure, with a 3D Overworld that’s an adventure in its own right, levels you can alter to create new ways to play, and Capital B’s Impossible Lair waiting to test your skills. Explore vibrant worlds packed with enemies, secrets, and collectables. Complete objectives, uncover hidden paths, meet a colorful cast of characters, and rescue the Royal Beettalion as you prepare for Yooka and Laylee’s biggest test yet. Optimized for PlayStation 5, Switch 2, and PC Enjoy sharper visuals, smoother performance, enhanced visual effects, and more! All the bees in the Royal Beettallion have been bee-napped! Every level beaten is a bee rescued (and one more hit you can survive in the Impossible Lair itself!). Do you beat every course to rebuild the Beettallion or take on the Impossible Lair early to see how you fare? Run, jump, roll, and dodge your way through the many levels, then take them on again in radically altered forms! Dash through turret-filled towns, spider-infested forests, trap-happy factories, and even airships soaring amongst the clouds. Find secret T.W.I.T. Coins to bypass the nefarious Trowzer’s paywalls scattered across the Overworld and unlock new areas with more levels to discover. The more you explore the adventure-filled Overworld, the more levels you’ll find. Solve its many mysteries, open up new routes, and complete its challenges to help rescue every last member of the Royal Beettalion. Think you’ve got a level figured out? Think again. Out in the Overworld, find ways to flood levels, freeze them, or even flip them upside down to unlock alternative routes, layouts, and even crazier surprises. Discover over 60 hidden Tonics to unlock new skins, visual effects, challenges, skills, and perks. Mix and match them to create crazy play styles and OP combos! The toughest platforming challenge your skills can take on! Tackle the Impossible Lair at any time! Of course, the more levels you beat, the easier it gets. You choose how challenging you want it to be(e)! Watch the announcement trailer below. View the first screenshots at the gallery .",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Yooka-Laylee-and-the-Impossible-Lair-Definitive-Edition-Ann_11-25-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/yooka-laylee-the-impossible-lair-definitive-edition-lancamento-15-dezembro.html",
+          "title": "Yooka-Layle and the Impossible Lair: Definitive Edition será lançado em 15 de dezembro",
+          "published_at": "2026-11-26T09:55:57+00:00",
+          "kind": "press",
+          "text": "Atualização gratuita para quem possui o jogo, na nova versão haverá suporte a 4K e 120 fps, músicas orquestradas e DLC “Trowzer’s Top Tonic Pack”.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Ju7IpT7lVjPS40CalYyjLWH5hG93sjr0Zex2etSlgS-Zmqi8-ETZ5tmK5t1F3q5BiteG7pimW2FvqJhyphenhyphenoF7Z1hEvY7rSA-Cq7BXN4ny6Tdz_SXVw05FWW1DHYuGlf69mbhIzaeUmTTJyM0GArFeMoRw1BbSyM95wSbvc1Ga2PEXxaQcOAhJxShB-BvW7/w1200-h630-p-k-no-nu/yooka_laylee_the_impossible_lair_definitive_edition_lancamento_15_dezembro.jpg"
         }
       ]
     },
     {
-      "story_id": "98c5b8a895d9d73f",
-      "title": "All GTA 6 Kitty Litter lab locations",
-      "summary": "Take Out Kitty Litter for Tyrone across the Vice City.",
+      "story_id": "24540f369aa9135a",
+      "title": "Sony Confirms PlayStation Plus Monthly Games for December 2026",
+      "summary": "Sony has confirmed the PlayStation Plus Monthly Games for December, which will be available to download from Tuesday, December 1 to Monday January 4.",
       "owners": [
-        "future-plc",
-        "valnet"
+        "gameblast",
+        "vgc",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "51f9d3630b7075d5",
-        "2a8ded0fe08aabf6"
+        "daeae6e5eb8c552c",
+        "54ef2952ef1ebf6c",
+        "2a0c1bf2df8505f6"
       ],
       "sources": [
         {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kitty-litter-lab-locations/",
-          "title": "All GTA 6 Kitty Litter lab locations",
-          "published_at": "2026-11-24T16:29:48+00:00",
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/sony-confirms-playstation-plus-monthly-games-for-december-2026",
+          "title": "Sony Confirms PlayStation Plus Monthly Games for December 2026",
+          "published_at": "2026-11-25T18:17:24+00:00",
           "kind": "press",
-          "text": "Take Out Kitty Litter for Tyrone across the Vice City. Taking Out Kitty Litter's lab locations in GTA 6 is a mission in Tyrone's questline, and sees you searching the city for 18 secret labs (after the first one he directs you to). Every lab has a red smoking chimney and a blue and white Spin On This laundry van parked outside. It'll take a little while, but it's well worth it to get the unique gold SMG at the end. Plus, Tyrone will start buying narcotics from you for the highest price possible. To destroy each lab, simply shoot a smoking pink flask and then run away. I've also laid these out in the most optimal order , separated into regions, so you're not driving back and forth across Vice City. Last note: if you want to unlock map markers for the labs yourself versus relying on these videos, you can threaten cooks in certain labs to potentially reveal them, or talk to Tyrone when you're fencing goods. After you complete some missions for Tyrone (when you meet him with Dre'Quan during Dealer's Choice ) he'll direct you to this trailer park in La Perle where you destroy the first Kitty Litter lab and start the hunt for the others. You can see the route to the lab in the video above. You can find this one in the trailer park opposite Zenon's Pawn Shop Ammu-Nation in La Perle. As soon as you go through the main gate, you can see the trailer with the funnel chimney where they're cooking straight ahead. Sneak around the back and break inside to find the lab. Or take out the three guys in front and go in that way. Just across the road from the Mezzasega Espresso and Slinger in the Decor District. Pull off to the right of the road into the Williams + Whitaker Homeware and Decor car park. You'll see a garage with a shutter at the far end with a smoking chimney and the laundry van parked. Open the shutter to find a lone guy in the lab. This one is behind Peterson's Autoshop in Rockridge, directly south across the road from the Blessed Food Market, under the overpass, on the border between Rockridge and La Perle. Head through the main yard and turn left to spot the laundry van. Break into it, move it forward, and open the shutter behind to find the lab. Just east of Fleeca Field stadium, next door to Xero Gas - Rockridge. You'll spot the blue and white laundry van parked off to the side of the road behind a wall. Head down that alley and turn right to find a garage door you can open with the lab inside. On the east side of the condominium building directly south of the Vice City Hospital, by Emilio's Auto Center Gas. Look for the closed road with the laundry van parked at the southern end and some staircases and flats off to the side with the chimney spewing smoke. The lab is through the white door on the bottom floor. Just down the road to the west of Bump and Grind coffee and Salon Belle, in a block of flats southeast of Fleeca Fields stadium. You can see the laundry van parked outside. The lab is on the upper floor on the left side in apartment 5, where you can see the smoking chimney. Break in via the front door to find the lab. This lab is an easy one to find, around the back of Cross My Heart Tattoos. Head around the right side, turn left, and look to your left for the garage door with the guy sitting down guarding it, with the lab inside. This lab is in the block of flats to the southeast of the Jack of Hearts and Urban Legendz, with the laundry van parked out front. Look inside apartment 103 on the first floor on the left side. It's quite hard to get away from this lab blowing up, so shoot it from outside and run away. Also this will likely cause a big shootout in the block, so book it. This lab is to the southwest of your apartment in Chapter 3 and to the east of the Crosstown Mule - City Line marker. Look for an overgrown lot with the laundry van parked in it. The garage with the lab is just behind that. This lab is directly west of Down Town Pawn, just between Rideout Customs and the Vargo's Gas station. Just past the gas station, look to the left where its fuel sign is to spot a laundry van, and further down the track, the garage with the lab and smoking chimney above it. This lab is close to Xero Gas - Tequesta and west of Vice Seven Condominiums gym. When driving east to west past the station, turn right and keep an eye on your right towards the two floored condominiums for the laundry van parked outside. You want the set of staircases to the right of the van. Take the right side one up to the first floor to find the lab door directly ahead. This lab is in a trailer park directly east down the road from Arrow Gas - VCIA, also west under the bridge from Pawn City and Vice City Firearms. Turn into the trailer park, take the first right and drive a little way around the corner to spot the trailer with the smoking chimney on the left. You can enter via a window around the other side to find the lab. This lab is located in the far south of Salton, north of the Pay 'N' Spray - Salton, next door to the Slator Towing Inc robbery. Go around the south side of the derelict block of flats and climb the dumpster to jump up through the open window to find the lab. This lab is west down the road from Xero Gas - Salton. Cross the train tracks, then keep an eye on your right for a carpark with a blue and white laundry van, then turn right into it to spot the building with the smoking chimney on the right. Hop the fence straight ahead and turn right to find one guy guarding the garage with the lab. This lab is easy to find, directly south of Salon Perez and Safia Restaurant in Little Cuba. Look for some bungalows on the left with the laundry van parked outside. It's in the building with the chimney to the left of the one the van is parked in front of. The lab is the second door along. This lab is north up the road from the Pay 'N' Spray - Balsero. Turn left down the alley with the laundry van parked to find a guy guarding the gate, a couple of guys inside, and the lab in an open garage further back ",
-          "image": "https://cdn.mos.cms.futurecdn.net/hmvKSjMPp6dzdaAJCZePnC-2560-80.jpg"
+          "text": "Sony has confirmed the PlayStation Plus Monthly Games for December, which will be available to download from Tuesday, December 1 to Monday January 4. In a PlayStation Blog post , Sony said Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, and Amnesia: The Bunker are December’s three titles. Will you be able to tear yourself away from GTA 6 to give either of these games a shot? Or perhaps you're after a palate cleanser after pumping 100 hours into Rockstar's epic? IGN's Tony Hawk’s Pro Skater 3 + 4 review returned an 8/10. We said: \"Tony Hawk’s Pro Skater 3 + 4 proves yet again the series’ over-the-top skateboarding formula is totally timeless, even if some of the changes to THPS4 miss the mark and the soundtrack has been fumbled.\" Dragon Ball Xenoverse 2, meanwhile, got a 7.5 back in 2017 . \"Dragon Ball Xenoverse 2 is an ambitious , if rough-edged experience, with deceptively deep RPG and brawling elements,\" we said at the time. And our Amnesia: The Bunker review returned an 8. We said: \"Amnesia: The Bunker is a smaller, more self-contained episode in the groundbreaking horror franchise that shows Frictional still has some chilling new tricks up their sleeves.\" It’s worth noting that PlayStation Plus members have until Monday, November 30 to add the PlayStation Plus Monthly Games for November (Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2) to their library. Wesley is IGN's Managing Editor. Find him on Twitter at @wyp100. You can reach Wesley at wesley_yinpoole@ign.com or confidentially at wyp100@proton.me.",
+          "image": "https://assets-prd.ignimgs.com/2026/11/25/tony-hawk-1795630571776.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Polygon",
-          "owner": "valnet",
-          "url": "https://www.polygon.com/gta-6-peewees-billboard-location-challenge-waink/",
-          "title": "All Peewees Billboard locations in GTA 6",
-          "published_at": "2026-11-25T22:18:47+00:00",
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/playstation-plus-confira-jogos-mensais-dezembro-2026.html",
+          "title": "PlayStation Plus: confira os jogos mensais de dezembro de 2026",
+          "published_at": "2026-11-25T18:50:34+00:00",
           "kind": "press",
-          "text": "How to claim the Peewees Billboard grand prize How to claim the Peewees Billboard grand prize Peewees Billboards are one of the many scannable WAiNK collectibles in Grand Theft Auto 6 , but they're also part of the Mr. Enigma X Peewees scavenger hunt. Mr. Enigma, a play on Dr. Pepper, and the Peewees, a play on Popeyes, have teamed up to create a challenge where you must find four Peewees billboards, and you'll earn a valuable reward. All the info you're given is that there is a billboard in the following areas: Vice-Dale, Mariana County, Lummox County, and Leonard County. As these areas are fairly large, it can take a long time to find them. To save you some time, we've listed where you can find every Peewees Billboard in GTA 6 below. To start the Mr. Enigma X Peewees scavenger hunt, look out for a Peewees post on Snapmatic, or you can look for one of the four Peewees billboards. After you start, you'll get a text from Chicken Challenge, telling you that you've entered the scavenger hunt. They'll also send you a clue that points you toward another billboard when you start the challenge and every time you find one. There are four Peewees Billboards in GTA 6 , with one in Vice-Dale, Mariana County, Lummox County, and Leonard County. To mark them off the list, head to their location and scan them using WAiNK (hold Up on your D-pad). Below, we explain where you can find each billboard in detail. The Vice-Dale Peewees Billboard is on the west side of Balsero , which is the northwest corner of Vice-Dale County . The billboard itself is between Route US-10 and US-35 , which is just northwest of Randy's shop . The Mariana County Peewees Billboard is technically in Big Pine in Grassrivers , but it's very close to the border between Grassrivers and North Mariana County . Along the border, you'll find three dome-shaped buildings and Route US-82 . Head northeast of the dome-shaped buildings , and look in the median strip to find this Peewee Billboard. The Lummox County Peewees Billboard is located on the border between South West Lummox County and Mount Kalaga National Park . The billboard is just west of Route US-628 . Head north from the junction that connects US-628 to SR-73 , and you'll find the billboard on your left. The Leonard County Peewees Billboard is located in the northwest corner of Waning Sands . The billboard is just next to SR-27 , which is between Lake Leonida and Mount Hailes Club . Look northeast of Lake Leonida, and you'll find the golf course. Follow along the road until you find the Peewees Billboard. After you find every Peewees Billboard, you'll receive a text from Chicken Challenge, telling you that you won... almost! You just need to solve one more puzzle, but they don't tell you what the puzzle is. If you take a look back at the clues that Chicken Challenge has been sending you, you'll notice that a couple of letters in each photo are covered by the Peewees logo. The following letters are blocked off: V - L - I - L - L - E - B - E. Now, it looks like a bunch of gibberish, but if you scramble the letters, you'll get Belville , which is the southern region of Leonard County . It just so happens that there's a Peewees in Belville. To claim your grand prize, you need to head to the Peewees in Belville, which is just east of the hospital. Alternatively, you can open your map, scroll down to the \"Fast Food\" section of the \"Food & Drink\" tab, and select the Peewees in Belville to speed up the process. Head inside and speak with the manager to claim your reward, which is a Peewees hat, a Peewees shirt, and free Peewees food! If you're just getting started in GTA 6 , we have plenty of guides to help you live the high life in Leonida. Check out our GTA 6 beginner guide to get a grasp of the basics and our tips for what to do first , recommendations for the best ways to make money fast , and an explainer for how to keep stolen weapons and cars to make the most of your free time. Our selection of GTA 6 guides includes help for things like how to steal the Phoenix in \"Unwanted Attention\" and whether you should defuse Mandy , too. There's a set of explainers for GTA 6 's more open-ended side activities, like how to rob the Exotic Animal Front and where to find tree effigies for the Skunk Ape mission , and we've got all the GTA 6 cheat codes . You'll have to put in some effort before you can use those, though.",
-          "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/peewees-billboard_gta6.jpg?w=1600&h=900&fit=crop"
+          "text": "Os jogos poderão ser resgatados a partir do dia 1º de dezembro.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnG1seSHfkwcDf7AkjWV0n126eQl_immSl93Mt3a3rQ3ZRxfmBVXtubvYKVfedrW1LoejSZDINO7jKHK8yv77rP3kyTgBLDEqyZZyhVMPuEJ6sRX9xBerYHkKXy5WF0w1NVhExAwwzneI8RhEvk9M9dH88agqzWhu9iNW7_LIIUZ1y7mtWQqRY-nOWXQE6/w1200-h630-p-k-no-nu/psplusdez2026.webp"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/playstation-plus-games-for-december-include-tony-hawks-pro-skater-34/",
+          "title": "PlayStation Plus games for December include Tony Hawk’s Pro Skater 3+4",
+          "published_at": "2026-11-25T22:27:05+00:00",
+          "kind": "press",
+          "text": "PlayStation reveals its games for PS Plus in December, and when November’s picks will leave The next wave of PlayStation Plus games has been revealed for December. The most recent release to be included in the lineup is Tony Hawkâs Pro Skater 3+4, following on from its 2025 launch. As with any PlayStation Plus drop, you simply need to make sure you have added the games to your library in order to keep them. That way, you will keep it after they leave the PlayStation Plus offer. You can then go on to install and uninstall them as you please, provided that you maintain your PlayStation Plus subscription. Starting on December 1 – next Tuesday – PlayStation Plus subscribers will be able to claim and keep the following titles: Alert the neighborhood watch and grab your skate buddies because the shredâs not dead: the legendary franchise returns with Tony Hawkâs Pro Skater 3 + 4. Everything you loved is back, revamped with more skaters, new parks, gnarlier tricks, eardrum-shattering music and much more. Drop-in to new parks or tear it up across timeless locations from both Tony Hawkâs Pro Skater 3 and Tony Hawkâs Pro Skater 4, authentically remade in jaw-dropping 4K** resolution with streamlined goals and the epic 2-minute format. Define your own experience in the expanded Create-A-Skater and Create-A-Park modes, including the ability to create custom goals to share with friends for the first time. Dragon Ball Xenoverse 2 is the ultimate Dragon Ball gaming experience, packed with thrilling action, epic battles, and endless customization options. Create your own character, explore Conton City and team up with iconic characters from the series as a teacher to train and be ready to battle against formidable enemies to rescue the flow of History. Dragon Ball Xenoverse 2 also features online multiplayer modes, where you can battle against other players from around the world in epic showdowns or participate in Raid Battles to face gigantic foes with other players. Amnesia: The Bunker is a first-person horror game from the makers of Soma and Amnesia. Left all alone in a desolate WW1 bunker with only one bullet remaining in the barrel, itâs up to you to face the oppressing terrors in the dark. Immerse yourself in the multiple ways of tackling survival. In the shoes of the French soldier Henri ClÃ©ment, you are armed with a revolver gun, a noisy dynamo flashlight, and other scarce supplies to scavenge and craft along the way. With randomization and unpredictable behavior, no play-through is the same. Hunted by an ever-present threat reacting to your every move and sound, you must adapt your play-style to face hell. Every decision will change the outcome of how the game responds. Actions bear consequences. PlayStation has also confirmed that November’s free games will be leaving the PlayStation Plus catalogue on November 30. This means that subscribers have a few more days to claim the following: December’s picks will be available from December 1 right through until January 4.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/Tony-Hawks-Pro-Skater-34.jpg"
         }
       ]
     }
