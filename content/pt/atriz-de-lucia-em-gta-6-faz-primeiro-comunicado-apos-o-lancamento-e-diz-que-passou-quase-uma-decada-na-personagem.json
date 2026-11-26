@@ -18,7 +18,10 @@
     "query": "GTA 6 Lucia Manni L. Perez",
     "alt": "Arte de GTA 6 divulgada pela IGN em matéria sobre a atriz de Lucia",
     "url": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-38-1795726955205.jpg?width=1280&format=jpg&auto=webp&quality=80",
-    "credit": "Imagem: IGN"
+    "credit": "Imagem: IGN",
+    "path": "/assets/img/atriz-de-lucia-em-gta-6-faz-primeiro-com-491eb797.jpg",
+    "source_url": "",
+    "foco": "43% 17%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "Lucia actress Manni L. Perez claims she worked on GTA 6 for almost a decade"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -121,5 +124,7 @@
       "text": "Outros atores também começaram a falar do trabalho, de acordo com a IGN. Lexie Shoaibi comentou sobre a fama repentina e agridoce depois que sua personagem, Mandy, viralizou. A locutora da rádio Cocoteo FM, Issa Lopez, contou como foi o acordo de confidencialidade que precisou assinar antes de trabalhar no jogo. E, no mês passado, os atores de Franklin, Michael e Trevor, de GTA 5, deram conselhos ao elenco de GTA 6 para lidar com um nível de fama raro entre atores de videogame.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T22:48:13+00:00",
+  "updated_at": "2026-11-26T22:48:13+00:00"
 }
