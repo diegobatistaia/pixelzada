@@ -17371,7 +17371,7 @@
     "slug": "gta6-corte-thedarkness-6",
     "data": "2026-11-26",
     "horario": "18:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 TheDarkness jogando GTA 6\n📺 twitch.tv/thedarkness\n\n#gta6 #gtavi #thedarkness #pixelzada",
     "tentativas": 0,
@@ -17394,6 +17394,19 @@
       "motivo": "apenas gameplay de jogo de corrida e streamer vestida",
       "por": "imagem",
       "em": "2026-11-22T03:43:31-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T18:01:45-03:00",
+      "media_id": "18137804971760547",
+      "permalink": "https://www.instagram.com/reel/DgOBnI_ymCU/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
