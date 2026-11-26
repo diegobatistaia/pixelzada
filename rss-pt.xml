@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:47:21 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Yooka-Laylee and the Impossible Lair: Definitive Edition chega em 15 de dezembro a PS5, Switch 2 e PC, com upgrade grátis</title>
+      <link>https://pixelzada.com.br/pt/yooka-laylee-and-the-impossible-lair-definitive-edition-chega-em-15-de-dezembro-a-ps5-switch-2-e-pc-com-upgrade-gratis/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/yooka-laylee-and-the-impossible-lair-definitive-edition-chega-em-15-de-dezembro-a-ps5-switch-2-e-pc-com-upgrade-gratis/</guid>
+      <description>Yooka-Laylee and the Impossible Lair ganha Definitive Edition em 15 de dezembro para PS5, Switch 2 e PC, com upgrade grátis. Veja o que muda e os detalhes.</description>
+      <category>Lançamentos</category>
+      <pubDate>Thu, 26 Nov 2026 10:47:19 +0000</pubDate>
+    </item>
     <item>
       <title>GTA 6: volte à casa de Jason em Key Lento para achar dinheiro escondido, fotos e a cobra Dolores viva</title>
       <link>https://pixelzada.com.br/pt/gta-6-volte-a-casa-de-jason-em-key-lento-dinheiro-escondido-fotos-e-a-cobra-dolores-viva/</link>
@@ -238,14 +246,6 @@
       <description>Guia de GTA 6 com os códigos dos cofres de Port Gellhorn: boliche Kingpin, Brooks Boatworks e La Cascara Motel, onde achar o mapa e como abrir com bomba.</description>
       <category>Guias</category>
       <pubDate>Sat, 21 Nov 2026 16:56:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Steam Machine de 512 GB sai da lista de espera, mas modelo de 2 TB fica sem estoque</title>
-      <link>https://pixelzada.com.br/pt/steam-machine-de-512-gb-sai-da-lista-de-espera-mas-modelo-de-2-tb-fica-sem-estoque/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/steam-machine-de-512-gb-sai-da-lista-de-espera-mas-modelo-de-2-tb-fica-sem-estoque/</guid>
-      <description>Valve libera o Steam Machine de 512 GB sem lista de espera e fecha a fila do modelo de 2 TB por falta de estoque. Veja preços, prazos e mini PCs alternativos.</description>
-      <category>Consoles e PC</category>
-      <pubDate>Sat, 21 Nov 2026 14:57:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

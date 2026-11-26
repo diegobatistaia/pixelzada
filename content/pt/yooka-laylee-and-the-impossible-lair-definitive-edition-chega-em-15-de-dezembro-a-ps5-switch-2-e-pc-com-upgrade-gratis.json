@@ -18,7 +18,9 @@
     "query": "Yooka-Laylee and the Impossible Lair",
     "alt": "Arte de Yooka-Laylee and the Impossible Lair divulgada pelo VGC",
     "url": "https://www.videogameschronicle.com/files/2026/11/Yooka-Laylee-and-the-Impossible-Lair.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/yooka-laylee-and-the-impossible-lair-def-449fa1e6.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -126,5 +128,7 @@
       "text": "Segundo o VGC, as especificações técnicas exatas ainda aguardam confirmação da desenvolvedora.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T10:47:19+00:00",
+  "updated_at": "2026-11-26T10:47:19+00:00"
 }
