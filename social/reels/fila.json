@@ -17329,7 +17329,7 @@
     "slug": "gta6-corte-horikamarth",
     "data": "2026-11-26",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 HorikAmarth jogando GTA 6\n📺 twitch.tv/horikamarth\n\n#gta6 #gtavi #horikamarth #pixelzada",
     "tentativas": 0,
@@ -17352,6 +17352,19 @@
       "motivo": "imagens de jogo com personagens vestidos e cenas noturnas sem nudez ou conteúdo sexual",
       "por": "imagem",
       "em": "2026-11-22T03:43:28-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T17:02:59-03:00",
+      "media_id": "18115658705172831",
+      "permalink": "https://www.instagram.com/reel/DgN62uShL7o/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
