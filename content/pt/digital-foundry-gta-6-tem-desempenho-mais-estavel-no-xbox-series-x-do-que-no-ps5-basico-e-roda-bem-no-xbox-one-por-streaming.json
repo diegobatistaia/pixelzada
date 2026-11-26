@@ -18,7 +18,10 @@
     "query": "GTA 6 performance",
     "alt": "Imagem de GTA 6 divulgada pelo Eurogamer em matéria sobre desempenho nos consoles",
     "url": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/digital-foundry-gta-6-tem-desempenho-mai-e1f788ba.jpg",
+    "source_url": "",
+    "foco": "47% 27%"
   },
   "sources": [
     {
@@ -40,7 +43,7 @@
       "title": "GTA 6 on Xbox One is a remarkable feat according to analysis"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -127,5 +130,7 @@
       "text": "O Eurogamer lembra que não há modos de 60 e de 40 quadros por segundo nem no PS5 Pro, e comenta que será interessante ver quais especificações de PC serão necessárias para igualar os visuais de console a 60 quadros ou mais. O Kotaku resume que, com todos os consoles limitados a 30 quadros por segundo, o jogador tem basicamente a mesma experiência em qualquer um deles.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T18:47:51+00:00",
+  "updated_at": "2026-11-26T18:47:51+00:00"
 }

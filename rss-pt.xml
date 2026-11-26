@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 16:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:47:53 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Digital Foundry: GTA 6 tem desempenho mais estável no Xbox Series X do que no PS5 básico e roda bem no Xbox One por streaming</title>
+      <link>https://pixelzada.com.br/pt/digital-foundry-gta-6-tem-desempenho-mais-estavel-no-xbox-series-x-do-que-no-ps5-basico-e-roda-bem-no-xbox-one-por-streaming/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/digital-foundry-gta-6-tem-desempenho-mais-estavel-no-xbox-series-x-do-que-no-ps5-basico-e-roda-bem-no-xbox-one-por-streaming/</guid>
+      <description>Digital Foundry diz que GTA 6 roda com mais estabilidade no Xbox Series X do que no PS5 básico, e que o PS5 Pro é a melhor opção. Veja Series S e Xbox One.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 26 Nov 2026 18:47:51 +0000</pubDate>
+    </item>
     <item>
       <title>75% dos funcionários da Rockstar no Reino Unido votam contra o reconhecimento do sindicato</title>
       <link>https://pixelzada.com.br/pt/75-dos-funcionarios-da-rockstar-no-reino-unido-votam-contra-o-reconhecimento-do-sindicato/</link>
@@ -238,14 +246,6 @@
       <description>Nicalis tirou de Binding of Isaac: Repentance+ músicas feitas com IA numa corrida de GTA 6. Veja a polêmica no Steam, a resposta de McMillen e o patch.</description>
       <category>Indústria</category>
       <pubDate>Sun, 22 Nov 2026 20:53:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 provoca o dia de maior tráfego da história da Comcast e chega a quase um quarto da rede</title>
-      <link>https://pixelzada.com.br/pt/gta-6-provoca-o-dia-de-maior-trafego-da-historia-da-comcast-e-chega-a-quase-um-quarto-da-rede/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-provoca-o-dia-de-maior-trafego-da-historia-da-comcast-e-chega-a-quase-um-quarto-da-rede/</guid>
-      <description>GTA 6 gerou o dia de maior tráfego da história da Comcast, 31% acima de um dia comum, e quase um quarto da rede no pico. Veja os números e a ressalva.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 22 Nov 2026 20:53:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
