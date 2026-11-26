@@ -16951,7 +16951,7 @@
     "slug": "gta6-corte-hiyo",
     "data": "2026-11-26",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiyo jogando GTA 6\n📺 twitch.tv/hiyo\n\n#gta6 #gtavi #hiyo #pixelzada",
     "tentativas": 0,
@@ -16974,6 +16974,19 @@
       "motivo": "streamer vestida e gameplay de jogo de ação",
       "por": "imagem",
       "em": "2026-11-22T06:44:48-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T08:01:52-03:00",
+      "media_id": "18038423735884830",
+      "permalink": "https://www.instagram.com/reel/DgM85KPtGcJ/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
