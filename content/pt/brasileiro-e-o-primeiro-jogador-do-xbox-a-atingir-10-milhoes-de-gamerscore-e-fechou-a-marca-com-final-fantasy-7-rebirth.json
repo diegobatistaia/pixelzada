@@ -19,7 +19,10 @@
     "query": "SiegfriedX Gamerscore 10 milhões",
     "alt": "Imagem de divulgação do jogador SiegfriedX publicada pelo Xbox Wire Brasil",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/11/SiegfriedX_Hero-bd338bdd544274a3c7a6.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/brasileiro-e-o-primeiro-jogador-do-xbox--bff1bb68.jpg",
+    "source_url": "",
+    "foco": "46% 42%"
   },
   "sources": [
     {
@@ -29,7 +32,7 @@
       "title": "Conquista desbloqueada: brasileiro é o primeiro jogador de XBOX a atingir 10 milhões em Gamerscore"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -121,5 +124,7 @@
       "text": "Este texto se baseia na publicação do Xbox Wire Brasil, que é a fonte oficial do anúncio, e reproduz apenas o que ela relata.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T20:39:26+00:00",
+  "updated_at": "2026-11-26T20:39:26+00:00"
 }
