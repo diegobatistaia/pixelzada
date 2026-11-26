@@ -7,43 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-25T19:31-03:00",
+ "atualizado": "2026-11-26T02:03-03:00",
  "hoje": {
-  "data": "2026-11-25",
+  "data": "2026-11-26",
   "reels": {
    "meta": 17,
-   "publicados": 13,
-   "deviam_ter_saido": 13,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 6,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 82,
+  "agendados": 78,
   "meta_por_dia": 17,
-  "dias_de_reserva": 4.8,
+  "dias_de_reserva": 4.6,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 82,
+  "sem_revisao": 78,
   "por_dia": [
-   {
-    "data": "2026-11-25",
-    "agendados": 4,
-    "meta": 17
-   },
    {
     "data": "2026-11-26",
     "agendados": 17,
@@ -73,7 +61,7 @@
  },
  "site": {
   "total": 289,
-  "hoje": 6,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "GTA 6: volte à casa de Jason em Key Lento para achar dinheiro escondido, fotos e a cobra Dolores viva",
@@ -82,15 +70,15 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "25/11/2026 18:09",
+  "ultima_coleta": "25/11/2026 22:07",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A3BCAnuP0nKQZehAdfRq65d\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A69FKdQPk5xSOsrkMbjSeND\"}}"
  },
  "falhas": {
-  "rodadas_24h": 98,
+  "rodadas_24h": 93,
   "falhas_24h": 0,
   "sem_resolver": 0,
   "lista": []
@@ -100,20 +88,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 113
+   "youtube": 114
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-19",
-   "reels": 48,
-   "reels_meta": 48,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 9,
-   "views_reels": null
-  },
   {
    "data": "2026-11-20",
    "reels": 48,
@@ -161,11 +140,20 @@
   },
   {
    "data": "2026-11-25",
-   "reels": 13,
+   "reels": 17,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 6,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-26",
+   "reels": 0,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
    "views_reels": null
   }
  ],
@@ -216,10 +204,6 @@
   }
  ],
  "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
-  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
