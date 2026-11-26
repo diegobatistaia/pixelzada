@@ -18,7 +18,10 @@
     "query": "GTA 6 Call of Duty",
     "alt": "Captura de tela do artigo do Eurogamer sobre jogadores diários após o lançamento de GTA 6",
     "url": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-17.54.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/lancamento-de-gta-6-derrubou-42-dos-joga-b1eecebf.jpg",
+    "source_url": "",
+    "foco": "75% 23%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "Analyst says Call of Duty lost an estimated 44 percent of its players when GTA 6 came out"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -126,5 +129,7 @@
       "text": "Vale lembrar que os números da Alinea são estimativas feitas a partir de dados de plataformas específicas, e não resultados oficiais das empresas.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T12:48:03+00:00",
+  "updated_at": "2026-11-26T12:48:03+00:00"
 }

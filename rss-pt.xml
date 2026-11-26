@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 10:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:48:05 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Lançamento de GTA 6 derrubou 42% dos jogadores diários de Call of Duty, segundo estimativa da Alinea</title>
+      <link>https://pixelzada.com.br/pt/lancamento-de-gta-6-derrubou-42-dos-jogadores-diarios-de-call-of-duty-segundo-estimativa-da-alinea/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/lancamento-de-gta-6-derrubou-42-dos-jogadores-diarios-de-call-of-duty-segundo-estimativa-da-alinea/</guid>
+      <description>A Alinea diz que GTA 6 derrubou 42% dos jogadores diários de Call of Duty, que segue 41% abaixo do normal e mal reagiu. Fortnite e FC 27 já voltam a subir.</description>
+      <category>GTA 6</category>
+      <pubDate>Thu, 26 Nov 2026 12:48:03 +0000</pubDate>
+    </item>
     <item>
       <title>Yooka-Laylee and the Impossible Lair: Definitive Edition chega em 15 de dezembro a PS5, Switch 2 e PC, com upgrade grátis</title>
       <link>https://pixelzada.com.br/pt/yooka-laylee-and-the-impossible-lair-definitive-edition-chega-em-15-de-dezembro-a-ps5-switch-2-e-pc-com-upgrade-gratis/</link>
@@ -238,14 +246,6 @@
       <description>Executivo da Rockstar quer jogadores de GTA 6 longe de listas de tarefas e guias. Veja as falas de Donkin e Koehne e o que o GamesRadar e a Kotaku acham.</description>
       <category>GTA 6</category>
       <pubDate>Sun, 22 Nov 2026 00:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6: códigos dos cofres de Port Gellhorn no boliche, no Brooks Boatworks e no La Cascara Motel</title>
-      <link>https://pixelzada.com.br/pt/gta-6-codigos-dos-cofres-de-port-gellhorn-boliche-brooks-boatworks-e-la-cascara-motel/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-codigos-dos-cofres-de-port-gellhorn-boliche-brooks-boatworks-e-la-cascara-motel/</guid>
-      <description>Guia de GTA 6 com os códigos dos cofres de Port Gellhorn: boliche Kingpin, Brooks Boatworks e La Cascara Motel, onde achar o mapa e como abrir com bomba.</description>
-      <category>Guias</category>
-      <pubDate>Sat, 21 Nov 2026 16:56:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
