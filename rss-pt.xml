@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:47:32 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CD Projekt Red fecha acordo de marketing com a Sony para The Witcher 4 e garante mais jogos no PlayStation Plus</title>
+      <link>https://pixelzada.com.br/pt/cd-projekt-red-fecha-acordo-de-marketing-com-a-sony-para-the-witcher-4-e-garante-mais-jogos-no-playstation-plus/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/cd-projekt-red-fecha-acordo-de-marketing-com-a-sony-para-the-witcher-4-e-garante-mais-jogos-no-playstation-plus/</guid>
+      <description>A CD Projekt Red fechou acordos com a Sony para a campanha de The Witcher 4 e jogos no PlayStation Plus, sem exclusividade. Veja o que se sabe sobre a parceria.</description>
+      <category>Indústria</category>
+      <pubDate>Thu, 26 Nov 2026 14:47:30 +0000</pubDate>
+    </item>
     <item>
       <title>Lançamento de GTA 6 derrubou 42% dos jogadores diários de Call of Duty, segundo estimativa da Alinea</title>
       <link>https://pixelzada.com.br/pt/lancamento-de-gta-6-derrubou-42-dos-jogadores-diarios-de-call-of-duty-segundo-estimativa-da-alinea/</link>
@@ -238,14 +246,6 @@
       <description>Tenebrae Lux é um jogo completo dentro de GTA 6, uma paródia de games de arte. Veja o que Eurogamer e Kotaku dizem e como funcionam os enigmas, sem spoilers.</description>
       <category>Guias</category>
       <pubDate>Sun, 22 Nov 2026 12:50:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Executivo da Rockstar pede que jogadores de GTA 6 parem de pensar em tarefas, porcentagens e guias</title>
-      <link>https://pixelzada.com.br/pt/executivo-da-rockstar-pede-que-jogadores-de-gta-6-parem-de-pensar-em-tarefas-porcentagens-e-guias/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/executivo-da-rockstar-pede-que-jogadores-de-gta-6-parem-de-pensar-em-tarefas-porcentagens-e-guias/</guid>
-      <description>Executivo da Rockstar quer jogadores de GTA 6 longe de listas de tarefas e guias. Veja as falas de Donkin e Koehne e o que o GamesRadar e a Kotaku acham.</description>
-      <category>GTA 6</category>
-      <pubDate>Sun, 22 Nov 2026 00:45:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

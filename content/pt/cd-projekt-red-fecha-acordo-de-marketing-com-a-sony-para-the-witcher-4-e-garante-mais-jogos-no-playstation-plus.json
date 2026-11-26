@@ -18,7 +18,10 @@
     "query": "The Witcher 4 Ciri",
     "alt": "Ciri em imagem de The Witcher 4 divulgada pelo Eurogamer",
     "url": "https://assetsio.gnwcdn.com/Ciri-in-The-Witcher-4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/cd-projekt-red-fecha-acordo-de-marketing-4bfc2ae3.jpg",
+    "source_url": "",
+    "foco": "50% 44%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "The Witcher 4: parceria com a PlayStation"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -126,5 +129,7 @@
       "text": "Os detalhes do que a Sony fará na campanha ainda não foram revelados. Até lá, o que está confirmado é a assinatura dos acordos, a ausência de exclusividade e a promessa de mais jogos do estúdio no PlayStation Plus.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T14:47:30+00:00",
+  "updated_at": "2026-11-26T14:47:30+00:00"
 }
