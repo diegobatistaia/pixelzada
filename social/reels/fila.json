@@ -16993,7 +16993,7 @@
     "slug": "gta6-corte-woolieversus",
     "data": "2026-11-26",
     "horario": "09:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 WoolieVersus jogando GTA 6\n📺 twitch.tv/woolieversus\n\n#gta6 #gtavi #woolieversus #pixelzada",
     "tentativas": 0,
@@ -17016,6 +17016,19 @@
       "motivo": "apresentadores vestindo camisas e cena de jogo com personagens vestidos",
       "por": "imagem",
       "em": "2026-11-22T06:44:53-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T09:03:09-03:00",
+      "media_id": "18139655236660435",
+      "permalink": "https://www.instagram.com/reel/DgND36ksDsP/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
