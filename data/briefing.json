@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T10:38:36+00:00",
+  "generated_at": "2026-11-26T12:38:46+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
-  "already_written_today": 0,
+  "already_written_today": 1,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -41,283 +41,6 @@
     160
   ],
   "stories": [
-    {
-      "story_id": "1aad1761d1c2d11c",
-      "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-      "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release. According to Circana's Mat Piscatella , there was a \"significant surge\" in hardware sales in the US for the week that ended November 14. PS5 sales were >2.4x the same...",
-      "owners": [
-        "adrenaline",
-        "fandom",
-        "keleops",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "01025a48bed25e59",
-        "b43d17e79e458fd5",
-        "eeeefd685e0a0823",
-        "bf070608b97fbeff"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
-          "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-          "published_at": "2026-11-25T16:05:50+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/grand-theft-auto-vi-gta-6-framerates-xbox-series-x-ps5-rockstar-2001000296",
-          "title": "Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5",
-          "published_at": "2026-11-25T12:30:40+00:00",
-          "kind": "press",
-          "text": "Digital Foundry Grand Theft Auto VI GTA 6 Rockstar When it comes toÂ GTA 6 , PlayStation has very much been the teacher’s pet. Microsoft was operating under a weird-ass ban that prevented it from marketing the fact that the game was coming out on its console, while the PS5 has been broadly promoted as the natural home for Rockstar’s record-breaking release. And yet, Digital Foundry ‘s latest analysis ofÂ GTA 6 ‘s performance across all four of Microsoft and Sony’s current-gen systems shows the Series X outdoing the PS5. “Ultimately,” the site’s boffins report, “Series X is meaningfully better off.” It’s important to mention right away that the PS5 Pro still wipes the floor with the Series X, and is without doubt the best way to play Grand Theft Auto VI until the official PC version is released. But when you measure the two base machines between the rival console makers,Â DF says there’s no doubt that it’s the Series X that edges ahead of the PS5. Both consoles offer “a virtually identical visual presentation,” say the tech experts, with nothing to divide them in all the important areas. But when it comes to performance, this is where Xbox takes the lead. Both machines struggle during “heavy vehicle traversal” and “intense airport crowd sequences,” but the PS5 “suffers substantially more frequent frame-rate drops” than the Series X, “which is compounded by the fact that the Xbox machine also benefits from 120Hz VRR support to smooth out minor dips.” Unsurprisingly, the Series S performs the poorest out of all four, but actually offers better results than anyone was expecting. While its framerate drops are horrible, frequently dipping into the teens, the use of PSR 4.1 upscaling and a reduction in the most intensive details still has it looking pretty lovely. It’s definitely not a great way to play the game, but it’s less terrible than you’d think. So there you go, Xbox owners: you’re not the ugly stepsister you might have been made to feel like. Obviously the differences remain slight, and with both consoles (and even the PS5 Pro) capped to 30 FPS there are compromises to be made by all, so whether you’re playing on PlayStation or Xbox Series X, you’re mostly having the same experience. But Xbox owners have earned themselves a quietly smug grin. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. The mature storytelling is at odds with dumb product names like Zombix How to win friends and influence your Thanksgiving gaming discussion A certain someone from the franchise's past makes a fun, brief, and important appearance near the end of GTA 6 Take-Two is already going after projects but may not be able to stop the flood The GTA 5 feature is missing this time around What even is this big game that everyone around you is suddenly talking and post about?",
-          "image": "https://kotaku.com/app/uploads/2026/11/gta-techspecs-1200x675.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/gta-6-e-mais-estavel-no-series-x-do-que-no-ps5-apesar-de-seu-marketing-oficial/",
-          "title": "GTA 6 é mais estável no Series X do que no PS5, apesar de seu marketing oficial",
-          "published_at": "2026-11-25T19:48:35+00:00",
-          "kind": "press",
-          "text": "Nintendo Switch 2 poderia rodar GTA 6, mas com grandes sacrifícios gráficos",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Estabilidade-Xbox-Series-X.jpeg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
-          "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
-          "published_at": "2026-11-26T09:40:10+00:00",
-          "kind": "press",
-          "text": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6. In the week ending 14th November, PS5 hardware unit sales registered a 2.4x increase over the same week last year. Xbox wasn't far behind, seeing a 2.3x increase in its own unit sales. That's according to industry analyst Mat Piscatella at Circana , who pulled the data from Circana's retail tracking service, which covers the US retail market. The PS5 Pro only accounted for less than 10 percent of the PlayStation's total unit sales, by the way, which Piscatella noted was \"a LOT better than it has been in recent weeks\", and seemingly the result of increased supply. GTA 6, of course, released on 19th November, so the surge in console hardware sales was clearly driven by the rush to attain consoles before the game came out. And while the GTA 6-driven demand isn't surprising, it's worth noting how much more expensive PS5 and Xbox Series X/S consoles are today. A standard PS5 today costs $650, compared to $550 a year ago. The PS5 Pro saw a big jump from $750 last November to $900 today. The base Xbox Series X jumped from $650 last year to $800 today, while Series S now costs $500, up from $400. Even Switch 2, where GTA 6 is not available, saw a notable boost of 40 percent in hardware sales over the same period, driven by The Legend of Zelda: Ocarina of Time remake and the special edition Zelda Switch 2 console . Circana's November US video game market report, which releases in December, is already one of the most anticipated this year, for digesting and documenting the GTA 6 effect. Worldwide, GTA 6 sold more than 32.5m copies in one day , making Rockstar's parent company Take-Two $3.79bn (£2.89bn) in revenue. We haven't had any updated official sales figures since; but estimates suggest the sales figure could be well into the 40-millions. Perhaps Rockstar is waiting to hit the nice round 50m sales mark before announcing it. If you're playing GTA 6, you may want to keep Eurogamer's GTA 6 walkthrough to hand. It has plenty of very helpful guides covering the game's main missions, as well as explainers for mechanics like romance and the criminal profile , and even cheats for when you finish the game.",
-          "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        }
-      ]
-    },
-    {
-      "story_id": "ebece8e2ebd1b269",
-      "title": "Lords Of The Fallen 2 Delayed Yet Again",
-      "summary": "CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could mean the date will be announced at The Game Awards on December 10. Lords of the Fallen II was originally scheduled to launch in 2026, but CI Games delayed it to Q1 2027...",
-      "owners": [
-        "adrenaline",
-        "fandom",
-        "future-plc",
-        "gameblast"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "673f36e6f8936233",
-        "79bd4818a0fa41f4",
-        "5df2d810f744f097",
-        "e6acec1bcde8fbb8"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
-          "title": "Lords Of The Fallen 2 Delayed Yet Again",
-          "published_at": "2026-11-25T16:38:22+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/lords-of-the-fallen-ii-sera-lancado-consoles-pc-abril-2027.html",
-          "title": "Lords of the Fallen II será lançado para consoles e PC em abril de 2027",
-          "published_at": "2026-11-24T21:52:01+00:00",
-          "kind": "press",
-          "text": "A data de lançamento será divulgada em dezembro.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrvDNLgkl7pI_Yy1LqwgblsS08WQ5JTrtbJC9GDTWBDTLX6ZXVj29mLkyYnFWQ9xyaqKCNdNt7LhMRFE1dqBcfVVimhy9hQOUNQFD0pgIre-QtnrP8sBegol-eYWxXaeORSWtj7i9wJF8Iu4FUb0cJ8uYgtemYRZA2nAk07MPLbmZSyNUyednmpk6QY-v/w1200-h630-p-k-no-nu/lordsoffalleniiblast.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/action-rpg/lords-of-the-fallen-2-launches-in-april-2027-boss-of-the-soulslike-rpg-announces-and-a-release-date-is-coming-next-month/",
-          "title": "Lords of the Fallen 2 delayed to April 2027, release date coming next month",
-          "published_at": "2026-11-25T11:48:32+00:00",
-          "kind": "press",
-          "text": "The sequel was only announced last summer It's happening. We have some more movement on Lords of the Fallen 2 from CI Games. No, there still isn't a release date, but we know when we're getting one. The action RPG sequel is now due to arrive slightly later than previously announced, but still in the first half of 2027, and we'll be hearing more quite soon. Marek Tyminski, the CEO of CI Games, reveals the details himself. \"Lords of the Fallen 2: April 2027,\" he writes on Twitter . \"Exact date in December.\" What Tyminski's post doesn't specify this that this is actually another delay. The game was originally due in the back half of this year, before moving to the first quarter of 2027 . While it's slightly annoying to only get an announcement for the announcement, at least we know we don't have long to wait to find out when exactly Lords of the Fallen 2 is coming out. Knowing the release month is very helpful too. I could be wrong here, of course, but that seems to all but guarantee the game's presence at The Game Awards. Trailers and reveals are always a big part of the show, and I'm not sure where else we might see the follow-up otherwise, unless CI Games is planning some sort of livestream of its own we're not yet aware of. Regardless of the delay, this is all pretty quick turnaround for the release, since Lords of the Fallen 2 was only announced during the Opening Night Live of Gamescom 2025. Maybe I'm just jaded from increasingly elongated announcement schedules for blockbuster games, but getting the release window only a year and a half after the formal reveal is pretty tight by today's standards. I mean, we just waited years to find out what the full title of The Elder Scrolls 6 is. We'll see what CI Games has to offer come December, which, at time of writing, is just six days away. Maybe Mariah Carey will be involved in some way. I doubt it, but imagine. I bet she loves a bit of Lords of the Fallen, honestly. \"Blizzard, I'm looking at you\" - Path of Exile 2 boss calls out AAA studios' lackluster game announcements, implores devs to stop trying to have a \"'one more thing' moment.\" Weekly digests, tales from the communities you love, and more Anthony is an Irish entertainment and games journalist, now based in Glasgow. He previously served as Senior Anime Writer at Dexerto and News Editor at The Digital Fix, on top of providing work for Variety, IGN, Den of Geek, PC Gamer, and many more. Besides Studio Ghibli, horror movies, and The Muppets, he enjoys action-RPGs, heavy metal, and pro-wrestling. He interviewed Animal once, not that he won’t stop going on about it or anything. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/5Qo5aJepsUBdV2m76Pebhn-1920-80.jpg"
-        },
-        {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/lords-of-the-fallen-2-e-adiado-novamente-e-so-chega-em-abril-de-2027/",
-          "title": "Lords of the Fallen 2 é adiado novamente e só chega em abril de 2027",
-          "published_at": "2026-11-25T12:08:16+00:00",
-          "kind": "press",
-          "text": "Lords of the Fallen 2: veja requisitos mínimos e recomendados para jogar no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Lords-Fallen-2-Abril-2027.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "3a397812f6022c9b",
-      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
-      "owners": [
-        "keleops",
-        "microsoft",
-        "ziff-davis"
-      ],
-      "primary_owners": [
-        "microsoft"
-      ],
-      "fingerprints": [
-        "67ce9b201c87ef45",
-        "95fcf5c6642f3c27",
-        "1a68f04d239212fc",
-        "242a1c5f1582a182"
-      ],
-      "sources": [
-        {
-          "name": "Xbox Wire",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
-          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
-          "published_at": "2026-11-23T21:36:20+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
-        },
-        {
-          "name": "Xbox Wire BR",
-          "owner": "microsoft",
-          "url": "https://news.xbox.com/pt-br/2026/11/24/como-jogar-grand-theft-auto-vi-pela-nuvem-e-com-remote-play/",
-          "title": "Como jogar Grand Theft Auto VI pela nuvem e com Remote Play",
-          "published_at": "2026-11-24T18:00:21+00:00",
-          "kind": "primary",
-          "text": "Grand Theft Auto VI é compatível com o XBOX Cloud Gaming , então você pode jogar mesmo sem um console da geração atual. Com o XBOX Cloud Gaming, você pode jogar por streaming, direto da nuvem, no seu XBOX One ou no XBOX Series X|S, se quiser economizar espaço de armazenamento. Alguns planos do Game Pass incluem até 15 horas de jogo por mês na nuvem. Se precisar, você pode comprar horas adicionais para aproveitar um dos maiores jogos do ano no console que já tem. Ao jogar pela nuvem com o XBOX Cloud Gaming, o jogo usa as configurações gráficas do Xbox Series S. Você também pode usar o Remote Play para jogar Grand Theft Auto VI onde preferir. Com esse recurso, você transmite o jogo diretamente do seu console XBOX Series X|S para dispositivos que já tem, como celular, notebook, PC ou até um PC portátil para jogos, como o XBOX ROG Ally. Veja como configurar esses recursos. Para usá-los, você precisa de uma cópia de Grand Theft Auto VI comprada na Xbox Store : Para começar a jogar Grand Theft Auto VI pela nuvem, use um dos controles conectados ao seu console e siga estes passos: Sempre que possível, conecte o console à internet com um cabo Ethernet para obter a melhor qualidade de jogo. Mesmo em redes Wi-Fi de alta velocidade, a qualidade do áudio e do vídeo pode cair de vez em quando. Com o Remote Play, você pode transmitir o jogo do seu XBOX Series X|S para dispositivos que já tem, como celulares, tablets, PCs e PCs portáteis para jogos. Veja como ativar o recurso: Depois de ativar os recursos remotos no console, escolha em qual dispositivo quer jogar: Seja para economizar espaço jogando pela nuvem ou para retomar a partida de onde parou no seu PC portátil, o XBOX Cloud Gaming e o Remote Play oferecem mais opções de jogar Grand Theft Auto VI nos dispositivos que você já tem. Para saber mais, consulte a página do XBOX Cloud Gaming e a de Grand Theft Auto VI na Xbox Store.",
-          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
-        },
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/grand-theft-auto-6-is-out-and-there-are-already-black-friday-gta-6-deals",
-          "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
-          "published_at": "2026-11-25T16:10:03+00:00",
-          "kind": "press",
-          "text": "Rockstar's GTA 6 has barely been out for a few days, but UK retailer ShopTo is already offering some surprisingly generous discounts on the new release across PS5 and Xbox Series X|S — letting you pay as little as £53.85 for the game. Here's how to save on what's arguably the biggest game of all time. Despite Black Friday still being a week away, the store has slashed £16.14 off the standard Xbox version of Grand Theft Auto VI, bringing its usual £69.99 price down to £53.85 at ShopTo . That's 23% off for a direct digital code, with instant delivery, and no additional vouchers or memberships needed. Better still, there are a few other ways to save on Rockstar's latest blockbuster, depending on whether you're playing on Xbox or PS5, or fancy getting some bonus content with your purchase via the Ultimate Edition As for PS5 players, ShopTo's cheapest route is a little different, since getting digital game keys for PlayStation games outside of boxed codes and PlayStation itself is a lot trickier compared to Xbox titles. Instead of receiving GTA 6 itself, ShopTo can sell you a £70 PlayStation Store gift card for only £60.85 , which you can then redeem on your UK PSN account to buy the £69.99 Standard Edition — effectively earning you £9.15 in savings. On the other hand, for anyone who wants the closest thing to a physical version of GTA 6, both consoles have a £61.85 boxed option with an added A3 double-sided poster ; that also makes ShopTo the cheapest UK retailer to buy the boxed version of Grand Theft Auto VI from right now. Remember, though, these aren't actual disc versions of GTA 6; you'll find a download code inside the packaging instead. Also, for Xbox fans who were considering buying the Grand Theft Auto 6’s Ultimate Edition anyway, ShopTo also has said Ultimate Edition on Xbox for only £67.85 — an incredibly impressive £22.14 price drop and the lowest price we’ve seen for it yet. With the Ultimate Edition, compared to the Standard Edition of GTA VI, you’ll get extra vehicles, weapons, outfits, customisation features, and exclusive locations throughout Leonida. To get that aforementioned Ultimate Edition on PS5, however, you can also grab the £100 PlayStation Store Gift Card for only £85.85 to redeem the complete version of GTA 6 for £89.99. Sure, you’ll only save £41.14 instead of buying the game through the PS Store directly, but you’ll have an extra £10 credit to spend on other games and DLC on top. Otherwise, if you’re unsure about getting the Ultimate Edition on PlayStation 5 right away, you can always buy the £20 Ultimate Edition Upgrade directly from the PlayStation Store . The same goes for the bonus Grand Theft Auto VI Vintage Vice City Pack for £4.49 — featuring the stunning ’55 Vapid Stanier sedan and garage alongside Ocean Beach, alternative outfits and hairstyles for both Jason and Lucia, and an exclusive Tropical Weapon Pattern inspired by Tommy Vercetti's iconic palm-tree shirt. At the time of writing, there is no physical disc version of GTA 6, along with there being no indication by Rockstar Games as to whether it will be putting out a disc'd edition of the game; with that, these deals are some of the best value you can get on the Grand Theft Auto sequel in the meantime. Ben Williams – IGN freelance contributor with over 10 years of experience covering gaming, tech, film, TV, and anime. Follow him on Twitter/X @BenLevelTen .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-ps5-xbox-early-black-friday-deals-shopto-1795209707407.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/the-non-gamers-guide-to-grand-theft-auto-6-all-your-questions-even-silly-ones-answered-2001000011",
-          "title": "The Normal Person’s Guide To Understanding Grand Theft Auto 6",
-          "published_at": "2026-11-25T14:47:02+00:00",
-          "kind": "press",
-          "text": "Grand Theft Auto 6 is everywhere you look. Every news channel is talking about it. Celebrities and musicians are playing GTA 6 or posting about its release. It’s apparently the biggest game ever and has sold nearly 40 million copies already . But if you aren’t a big gamer or not a video game fan at all, you might have questions. I have answers. Perhaps someone sent you this link because you kept asking them GTA 6 questions. Maybe you did a Google search, made it past the AI results and found this blog explaining what GTA 6 is to people who don’t buy or play games. Whatever the case, welcome. I’m going to walk you through what is almost certainly the biggest video game launch of the decade , why people are going so wild, and what the game actually is and isn’t. It is an open-world game that mixes together a lot of video game genres, like driving, shooting, and exploration. As with most open-world games, you can run around freely or do story missions. It’s up to the player. You control two characters, Jason and Lucia, who are criminals on the run in fictional versions of Florida and Miami named Leonida and Vice City, respectively. More or less, yeah. The developer, Rockstar Games, has been working on this game since at least 2015 or so. Turns out creating a photorealistic recreation of a chunk of Florida that players can explore and do whatever they want in takes time! No. You can buy it on either PS5 or Xbox for $80. The $100 version comes with a bunch of extra outfits , hairstyles, and other items players can wear or buy in-game using cash they collect from crimes, but it’s definitely not required. It took me about 90 hours to reach the end of the main story. I’ve since played over 150 hours, and I’m still finding new stuff, hearing new songs, and seeing new random events. Yeah, it’s big. Well, a lot of people have been waiting for 13 years to play GTA 6 . The last new GTA game, GTA V , was released back in 2013. So anticipation for this game has been building for a long time. And, surprisingly, GTA 6 lived up to the hype. There are a few reasons for the glowing critical reception. The game’s narrative is really good, featuring two extremely well-written characters that develop a meaningful relationship over the course of its five chapters. Another big reason for the high review scores is just how expansive and reactive the world is. Characters in the game will comment on your clothes, respond to your actions, and remember things you did hours and hours ago. It’s also a lot of fun to play, with challenging but rewarding driving, combat, and police encounters. And it looks incredible, with some of the best graphics ever seen in a console game. Some critics are calling it the best game of the year. And many players are calling it one of the best games ever. GTA: Vice City on the PS2 was much, much smaller and less advanced (though in some ways it was pretty advanced for the time) and was set in the 1980s. While Vice City is a major location in GTA 6 , this is an unconnected and different version of the city from that seen in the original 2002 PS2 game. So many things! Players can steal cars, drive boats, get into fist fights, shoot at the cops, go fishing, play mini-golf, hit the gun range, pet dogs, scuba dive, fly planes, explore the swamps, hunt deer, join in street races, visit the beach, get drunk, buy clothes, play fake video games inside the game, take a shower, eat food, work out, blow up cars, or just chill in a bar. You can also just play through the game’s main story, which is all about Jason and Lucia trying to make some money as criminals to build a life for themselves and their son. Yes, Jason and Lucia have a child, a fact which was omitted from any pre-release marketing but is revealed in the first 20 minutes of the game. During the events of the game, he is living with his aunt while Lucia and Jason do whatever they can to make a good life for him and get him back. She is an attractive but disturbing character players meet very early in the game who may or may not be a serial killer or creepy stalker. Despite this, many people online still want to have sex with her. Some players also think Jason should hook up with Mandy and ditch Lucia. These people are wrong. No. While you can do that stuff, GTA 6 doesn’t force you to be a good boyfriend. You can be a real jerk to Lucia, and she can be a real asshole to Jason. Also, the chores players are talking about only make up a few minutes of the opening hours of GTA 6. The rest of the game has none of that stuff in it. Like the chores mentioned already, these elements are optional. If you constantly skip working out, your characters will eventually become less ripped and might even develop small bellies and thicker thighs. But you can still play all the missions and shoot cops. What? You can totally shoot random people, cops, and more. That’s not accurate. You can shoot, punch, tackle, burn, run over, drown, choke, and slap women. Uhh, you can steal cars. Some cars, like very fancy cars, have special security measures, so you can’t steal them as easily, but you can walk up to any person driving a car at a stoplight, rip them out and take their ride. Okay, so, something you need to understand about GTA 6 is that it is at the center of a massive online culture war. Conservative players, grifters, chuds, and other weirdos are currently spreading false information about this game online. There are also plenty of people online posting inflammatory nonsense to get clicks and engagement on sites like Twitter that reward that shit. So if you read something kind of wild about this game, just know it might be false. Check places like Kotaku or other major gaming sites to verify. Well, actually, Rockstar did remove sex workers you can pay to have sex with from GTA 6 . But there are still strippers in the game. Yes, GTA V has GTA Online , a very popular, successful, and still-ongoing multiplayer game with millions of players. This time around",
-          "image": "https://kotaku.com/app/uploads/2026/08/GTa-6-artwork-jason-lucia-1-1200x675.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "30ce5d68fcb1cbdf",
-      "title": "Switch 2’s Black Friday Bundle With Mario Kart World Is Available Now For $500",
-      "summary": "It's Black Friday week, and one of the best gaming deals is a Switch 2 bundle featuring Mario Kart World and other extras for $50 off the normal price. As announced previously , the $500 bundle comes with a Switch 2 and a digital copy of Mario Kart World, as well as a three-month Nintendo Switch Online membership. This is what the bundle cost at launch in 2025, but Nintendo raised the price to...",
-      "owners": [
-        "fandom",
-        "gematsu",
-        "insider-gaming"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "4e711f5455726e0e",
-        "8155848f5f272edd",
-        "e6370d24e9f87ee1"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/switch-2s-black-friday-bundle-with-mario-kart-world-is-available-now-for-500/",
-          "title": "Switch 2’s Black Friday Bundle With Mario Kart World Is Available Now For $500",
-          "published_at": "2026-11-24T19:38:33+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
-          "title": "Digimon Alysion now available",
-          "published_at": "2026-11-25T14:00:42+00:00",
-          "kind": "press",
-          "text": "Digimon Alysion , the free-to-play mobile game based on Digimon Card Game , is now available for iOS via App Store and Android via Google Play in 183 countries and regions, Bandai Card Games announced . To celebrate surpassing 450,000 pre-registrations, all players will receive tickets that can be redeemed for game-exclusive cards, card packs, and a secret rare card, with more rewards planned. Here is an overview of the game, via Bandai Card Games: Digimon Alysion is finally here! Enjoy a brand-new Digimon card game world! And that’s not all! There’s plenty of other features that make the Digimon Card Game easy and fun to play! Whether you’re a seasoned veteran or just getting started, come and experience the Digimon Card Game by playing Digimon Alysion ! This application is distributed under the official rights from the license holder.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Digimon-Alysion-Launch_11-25-26_001.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/mario-kart-world-1-9-0-adds-replays-and-new-course-picks/",
-          "title": "Mario Kart World 1.9.0 Adds Replays and New Course Picks",
-          "published_at": "2026-11-25T21:48:23+00:00",
-          "kind": "press",
-          "text": "Mario Kart World just received a new update. Version 1.9.0, released November 24, 2026, adds Replay, two Knockout Tour rallies, new course choices and many fixes. The latest Mario Kart was the launch title for the Nintendo Switch 2 in 2025. Many feel that the title hasn’t had key updates since its release. However, Nintendo released an update late on the night of November 24 that continues to drip-feed new content into the title. Mario Kart World version 1.9.0 adds a Replay function that saves your races and battles. It also adds Feather Rally and Lucky Cat Rally to the Knockout Tour, and new course options. Another major addition is online Free Roam missions, improved spectating, and a host of other bug fixes. The eight new courses being added are versions of classic tracks. For example, DK Pass 2 has players drive in the opposite direction of the iconic Mario Kart DS course. The update is free, but it doesn’t include new characters. Check out full patch notes from Nintendo below: What are your thoughts on this update coming to the Mario Kart World, and who are you hoping to see added as part of DLC when there are even larger content updates to the game? Share your thoughts on this story and others like it in our official Discord server. For more coverage on Insider Gaming, check out some of the best Amazon deals for gamers on Black Friday . Don’t forget to sign up for our weekly newsletter , too. I'm Robert DeFelice. I spent years covering pro-wrestling industry for outlets such as Fightful. After years in wrestling journalism, I’ve transitioned to video games, another passion of mine.",
-          "image": "https://insider-gaming.com/wp-content/uploads/2025/06/MarioKartWorld.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "7bed203cabc88682",
-      "title": "CD Projekt RED fecha acordo de marketing com a PlayStation por The Witcher 4",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil CDPR anuncia novo acordo com a Sony durante reunião com os investidores O post CD Projekt RED fecha acordo de marketing com a PlayStation por The Witcher 4 apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
-      "owners": [
-        "gameblast",
-        "meups",
-        "olhar-digital"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "57d01cd10c71394d",
-        "06e219dce696b323",
-        "4244841da1ce2776"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/cd-projekt-red-acordo-de-marketing-sony-the-witcher-4/",
-          "title": "CD Projekt RED fecha acordo de marketing com a PlayStation por The Witcher 4",
-          "published_at": "2026-11-24T20:38:37+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/08/The-Witcher-IV.jpg"
-        },
-        {
-          "name": "Olhar Digital Games",
-          "owner": "olhar-digital",
-          "url": "https://olhardigital.com.br/2026/11/25/games-e-consoles/the-witcher-4-playstation-parceria-sony-cd-projekt-red/",
-          "title": "PlayStation fecha parceria com CD Projekt Red para The Witcher 4",
-          "published_at": "2026-11-25T19:00:00+00:00",
-          "kind": "press",
-          "text": "A CD Projekt Red anunciou uma nova parceria comercial com a Sony Interactive Entertainment que envolve a campanha de marketing de The Witcher 4 e a distribuição de jogos do estúdio no ecossistema PlayStation . O anúncio foi realizado nesta terça-feira (24), durante a apresentação dos resultados financeiros do terceiro trimestre de 2026 da desenvolvedora polonesa. Segundo Piotr Nielubowicz, diretor financeiro da CD Projekt Red, os acordos foram assinados no mesmo dia e devem contribuir para os resultados comerciais e financeiros da companhia nos próximos anos. Apesar da parceria, o acordo não estabelece exclusividade para The Witcher 4. O RPG continua em desenvolvimento para PlayStation 5 , Xbox Series X|S e PC. A colaboração envolve principalmente a futura campanha publicitária do título, seguindo um modelo semelhante ao adotado pela Sony em sua parceria de marketing com a Rockstar Games para o lançamento de GTA 6. O contrato também contempla a presença de jogos da CD Projekt Red no catálogo do PlayStation Plus . Entretanto, as empresas não divulgaram quais títulos serão disponibilizados no serviço de assinatura. Os valores financeiros e demais condições comerciais do acordo também não foram revelados. De acordo com informações do Video Games Chronicle (VGC), The Witcher 4 segue com previsão de lançamento para 2028. Atualmente, quase metade da equipe de desenvolvimento da CD Projekt Red está dedicada ao projeto. O RPG marcará o início de uma nova trilogia da franquia. Segundo os planos apresentados anteriormente pelo estúdio, a intenção é lançar os três jogos dentro de um intervalo de seis anos. A estratégia representa uma aposta da desenvolvedora na continuidade da franquia e na redução do intervalo entre seus grandes lançamentos. Por enquanto, The Witcher 4 ainda não possui uma data oficial de estreia. Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias .",
-          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/the-witcher-4-the-witcher-1-1.png"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/the-witcher-4-cd-projekt-red-fecha-parceria-marketing-com-playstation-para-divulgacao-jogo.html",
-          "title": "The Witcher IV: CD Projekt Red fecha parceria de marketing com PlayStation para divulgação do jogo",
-          "published_at": "2026-11-25T21:22:25+00:00",
-          "kind": "press",
-          "text": "O acordo também abrange a disponibilização dos demais jogos do estúdio nos consoles PlayStation por meio do serviço PlayStation Plus.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0J7GkfqaobCFUGyshcCLXC-HihjVQMtsErCh1rCllpMFT6fy0zhKhyphenhyphenbq_u19Y81Lb_e9ZoAItLek1NbC-tMrp5raDZHS-7jsNWGSBHMsUY7qS0UvRYxQ1RyE3LmqYIgnXbXOOBr6vkWttLnNBBLqieqcS-EOQY7qrFCZir_XBM8hfkG1j9bGAAlkyEg0/w1200-h630-p-k-no-nu/the-witcher-4-cd-projekt-red-fecha-parceria-marketing-com-playstation-para-divulgacao-jogo.png"
-        }
-      ]
-    },
     {
       "story_id": "a4b3fda06487fff4",
       "title": "Diablo IV: Temporada do Gambito de Tyrael chega com mudanças no endgame e novos itens lendários",
@@ -367,109 +90,98 @@
       ]
     },
     {
-      "story_id": "69babb4087f4b76d",
-      "title": "Black Friday board game deals 2026 live: The best offers on strategy games, family favorites, and more found by experts",
-      "summary": "Our experts are tracking down the very best Black Friday board game deals all while providing every scrap of advice they can on making the most of this sale",
+      "story_id": "1aad1761d1c2d11c",
+      "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
+      "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release. According to Circana's Mat Piscatella , there was a \"significant surge\" in hardware sales in the US for the week that ended November 14. PS5 sales were >2.4x the same...",
       "owners": [
-        "future-plc",
-        "meups",
-        "nzn"
+        "adrenaline",
+        "fandom",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "386d0a915c471ac5",
-        "30244f8b42ff7fb0",
-        "8f4205911567fca4"
+        "01025a48bed25e59",
+        "eeeefd685e0a0823",
+        "bf070608b97fbeff"
       ],
       "sources": [
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/live/news/black-friday-board-game-deals-2026-live/",
-          "title": "Black Friday board game deals 2026 live: The best offers on strategy games, family favorites, and more found by experts",
-          "published_at": "2026-11-25T12:30:43+00:00",
-          "kind": "press",
-          "text": "1. Quick links 2. Best deals 3. Live report While the official sale kicks off tomorrow, 2026's Black Friday board game deals have been frequently dropping, with discounts hitting some firm favorites when it comes to tabletop games old and new. With prices reducing across various retailers, it's a good time to shop if you want to add to your collection, or you've had your eye on something specific. In fact, I find Black Friday board game deals to be your best opportunity to snag a bargain; I've covered both the sale and the best board games at GamesRadar+ for a long time now, and it typically provides record low prices for everything from family classics to strategy heavyweights. As well as bringing you the most tempting offers here as the sale ramps up, I'll also be using my experience to provide as many hints and tips as I can. If you want to take full advantage of this year's Black Friday board game deals, this is the place to be. Benjamin joined GamesRadar+ in 2018 and has been running the site's board game coverage ever since. However, he began playing them much earlier; he's rolled dice since he was a kid and first got his hands on everything from Talisman to Sorry. The game he's enjoying most right now is Fire Tower. From what I can tell, this masterclass strategy epic (which ranks as one of the most popular games ever on forums like Boardgamegeek) has never been anywhere close to as cheap as it is here. If you've ever been curious about what makes it so beloved, the Black Friday board game deals are your opportunity to strike. Just be aware that it is quite an in-depth game, though the effort is worthwhile. Check our Brass: Birmingham review for more details. Regardless of whether you like the Lord of the Rings or not, this series is worth checking out. As noted in our review of its follow-up, The Two Towers , its gameplay is incredibly clever by twisting classic trick-taking into a team challenge, but is still easy to get into. It's never been cheaper than it is now, and I'd definitely recommend starting here rather than later entries in the range (it eases you in gently rather than overwhelming with new mechanics). It's not the biggest price cut at face value, but I've struggled to find this excellent, more bitesize version of the beloved strategy game for less. I gave it a glowing write-up in my Wingspan Pocket review because it distills everything great about the original into a streamlined, focused alternative that's great for taking with you on the go. It's also a much easier entry-point to the series, so I'd recommend that newcomers try this first. Looking for a lighter game, or something for family-members who don't like playing board games? I always recommend this one, because it's such a simple concept that everyone can join in with - no pressure involved. So far as I'm concerned, it's one of the best family board games there is. While this isn't a record low price, it's better than the batting average and has arrived just in time for Thanksgiving. This is arguably one of the most influential board games of all time, and it has excellent mechanics to match. If you want to try something deeper than Monopoly, are new to the hobby, or just want an all-time classic on your shelf, now's the time to grab this one. As mentioned in our Catan review , it's a must-have. I've just spotted a record low price for Ticket to Ride, which is perfect if you're looking for something family friendly that's approachable and laidback. As our tabletop expert Ben said in his glowing Ticket to Ride review , this is a chilled out experience that's great for veterans and newcomers alike. With a Black Friday board game deal dropping this one down to the record low price of just under $25, it's a great discount to snag right now. Ticket to Ride | $24.98 (was £39.99 at Amazon) Featured in: The best board games for families Well hello there! Heather here, and have I got a great Black Friday Board game deal for you already. If you're looking for a delightful game that's perfect for two players, you can't go wrong with this relaxing village sim. It's kind of like a game like Stardew Valley, but make it tabletop. Currently going for the lowest price we've seen it drop to over at Amazon, you can snag this tabletop treat for the record low price of a little over $30. Historically, we've seen this one stay at a steady $39.99, so it's well worth considering. Cozy Stickerville | $30.48 (was $39.99) at Amazon Featured in: T he best 2-player board games And that's me done for the day! Thanks for following along with the offers so far. I'll be back online tomorrow for more price cuts, and will continue to bring you the best Black Friday board game deals as I find them. In the meantime, feel free to keep browsing the links above for more bargains - there are plenty to be had that I've not had time to cover just yet. Happy shopping, and see you soon! Want cheap and easy family games for your kids? They are plenty on offer at Amazon right now, from themed versions of Monopoly to various fast-paced party games. These rarely go above $15, so are simple stocking stuffers. Heat has a really strong reputation in the community as being a peerless racing game, so seeing it dip by around $20 at Amazon in today's Black Friday board game deals has me practically racing to the checkout. It's not a record low price, but it is a much better offering than the usual $68-$70 we'd normally be looking at. I've talked before (at length) about how much I love Disney Villainous, but did you know there's also a Star Wars version? In short, it's a strategy game where everyone has their own unique objective to complete... but you can sabotage each other by sending heroes to mess with your opponent. As I pointed out in my Star Wars Villainous review , it provides smart new mechanics to go with fresh challenges for existing fans. The core set is currently 50% off at Amazon . I came to Fire Tower late, and I'm kicking myself. This is a reall",
-          "image": "https://cdn.mos.cms.futurecdn.net/aqXAnAkLFURzW9SaD4WyM-1920-80.jpg"
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/ate-quanto-pagar-na-black-friday/",
-          "title": "Até quanto pagar na Black Friday 2026?",
-          "published_at": "2026-11-25T15:18:00+00:00",
-          "kind": "press",
-          "text": "A Black Friday é uma das melhores oportunidades de compras do ano, mas nem todo desconto anunciado representa uma economia real. Para aproveitar a data, é importante saber quanto cada produto já custou e qual valor pode ser considerado uma boa oferta . Consultar o menor preço histórico antes de comprar ajuda a evitar falsas promoções e permite fazer escolhas mais inteligentes. Neste guia, o TecMundo traz algumas referências de preços para produtos populares , de celulares e notebooks a eletrodomésticos, para ajudar você a aproveitar melhor os descontos desse período. As buscas por tecnologia, celulares, televisores, eletrodomésticos e produtos para casa costumam ganhar força na Black Friday, especialmente entre consumidores que planejam compras de maior valor. Por isso, saber até que valor é vantajoso pagar no aparelho novo ajuda muito a fazer um bom negócio na hora de fechar a compra. Confira também Confira os cupons de Black Friday para resgatar já! Confira os cupons de Black Friday para resgatar já! Usamos ferramentas que monitoram buscas na internet, como Semrush e Google Trends, e agentes de inteligência artificial para montar um guia prático. A lista tem produtos com maior volume de buscas e a média de preços nos últimos 12 meses. O PlayStation 5 é um dos produtos mais desejados por quem quer aproveitar a Black Friday para investir em entretenimento. Para o PS5 Slim Digital, vale buscar ofertas próximas de R$ 2.500, enquanto a versão com leitor de discos pode ser interessante na faixa de R$ 2.800. Lembrando que o leitor também pode ser adquirido separadamente para modelos Slim. Já o PS5 Pro , que oferece desempenho gráfico aprimorado, merece atenção quando estiver em torno de R$ 5.000. Um notebook com configurações intermediárias pode atender muito bem às tarefas de trabalho, estudo, navegação e entretenimento, sem exigir um investimento elevado na Black Friday deste ano. O Dell Inspiron 15 com Intel Core i5, SSD de 512 GB, 8 GB de RAM e Windows 11 é uma opção versátil para a rotina. Se aparecer próximo a R$ 3.000 na promoção deste ano, vale a compra. O Acer Aspire 5 com i5, 512 GB SSD, 8 GB de RAM e Windows 11 é uma alternativa ao modelo da Dell e pode ser uma boa compra se for encontrado por volta de R$2.800. Televisores também estão em alta nas buscas relacionadas à maior data promocional do ano. Os modelos da Samsung e da LG são os mais almejados. A Samsung QN70H de 55 polegadas, com tecnologia Mini LED, é uma opção interessante para quem busca qualidade de imagem. Se aparecer esse modelo por algo em torno de R$ 3.400, pode crer que é uma boa oportunidade. A LG QNED70 de 55 polegadas oferece resolução 4K e recursos inteligentes, e é um bom investimento se encontrada por valores próximos de R$ 2.200 com os descontos de Black Friday. A busca por smartphones premium na Black Friday aumenta. A linha Galaxy S e o modelo mais recente do iPhone são sempre mais visados, mas é preciso saber os valores que tem sido cobrados por eles para fazer um investimento inteligente. Com opções para diferentes perfis, a linha iPhone 17 tem desde modelos mais acessíveis até versões Pro voltadas para desempenho e fotografia. Preste bastante atenção aos preços para não acabar confundindo as alternativas disponíveis. A família Galaxy S25 oferece diferentes combinações de desempenho, câmeras e recursos de inteligência artificial. Buscar ofertas realmente sabendo os preços máximos ideais ajuda bastante no processo de compra. Os tablets também são muito desejados em datas promocionais. Se você está em busca de um modelo para estudar, trabalhar ou para entretenimento, temos algumas sugestões. Mesmo sendo de duas gerações anteriores, a linha Galaxy Tab S10 segue relevante e reúne tablets para diferentes necessidades. Analise bem os recursos e especificações de cada opção para ver qual combina melhor com o seu perfil antes de fechar a compra na BF deste ano. O iPad 11” com chip A16 é uma opção para quem busca bom desempenho em produtividade, navegação e entretenimento, sendo especialmente indicado para os usuários e fãs do ecossistema Apple. Na categoria eletrodomésticos a geladeira é o mais desejado, e não é à toa. Investir em um eletro caro como este na Black Friday ajuda a reduzir bastante o investimento. Com capacidade próxima de 480 litros, a Electrolux TF7 1 é indicada para famílias que precisam de espaço e praticidade, podendo ser uma ótima aquisição com desconto na BF. A Brastemp BRM45JK combina capacidade de 375 litros e praticidade para o dia a dia. Se aparecer nessa faixa, pode representar uma boa oportunidade de investimento. Outro eletro muito desejado nesta época de calor é o ar-condicionado. Aqui, além dos valores, é importante conferir o consumo de energia e outras especificações. O Gree G-Side de 12.000 BTUs é uma alternativa interessante para quem busca boa climatização a preço justo e ainda quer economizar com os descontos da promoção. O modelo LG de 9.000 BTUs pode atender ambientes menores, sendo recomendado para quartos ou salas pequenas. Praticidade na cozinha também fica em alta na Black Friday, e o micro-ondas está entre os itens mais buscados, principalmente modelos compactos. O Electrolux ME23B conta com recursos de descongelamento e funções práticas para o uso cotidiano, sendo uma compra interessante se for encontrado na casa dos R$ 480. Se disponível por cerca de R$ 480, o modelo inox Brastemp de 20 litros com funções de pré-preparo, que podem agilizar tarefas na cozinha, é uma alternativa interessante que não pesa no bolso. Além de praticidade, a air fryer oferece uma alimentação mais saudável, por isso se tornou o eletroportátil com mais procura em datas promocionais. Se estiver nessa faixa, a Mondial Family de 4 litros é uma boa escolha para preparar porções de alimentos com praticidade em um modelo que cabe no orçamento. A WAP Barbecue Digital reúne recursos que ampliam as possibilidades de preparo de carnes suculentas em um churrasco, ainda mais se estiver nesta faixa de preç",
-          "image": "https://www.estadao.com.br/resizer/v2/KOTBY4XLONEH7JYHEEI4U5EAPA.jpg?quality=80&auth=941d0aa5dac002f748d8c30dd1d8b3569f746a509561dd893039ddab69fa3e81&width=1200&height=630&smart=true"
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/promocoes/black-friday-2026-onde-acompanhar-melhores-ofertas-games-tech/",
-          "title": "Black Friday 2026: onde acompanhar as melhores ofertas em games e tecnologia",
-          "published_at": "2026-11-25T18:41:27+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/Black-Friday.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "05880faa169211c8",
-      "title": "Raider Kid and the Ruby Chest será lançado para consoles em 8 de dezembro; confira o trailer",
-      "summary": "A desenvolvedora brasileira Cacareco Games anunciou que Raider Kid and the Ruby Chest será lançado para PS5, Xbox Series, Switch e Switch 2 em 8 de dezembro. O título chegou primeiro ao Steam, no começo deste ano, custando R$ 16,99, quando ganhou elogios em nossa análise : \"Raider Kid and the Ruby Chest é um adorável metroidvania que busca evocar o charme das aventuras ingênuas da era do Game Boy...",
-      "owners": [
-        "gameblast",
-        "gematsu",
-        "vgc"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "14a59508575d3480",
-        "1b6eec7fc164027e",
-        "f39b656a9e8ab6bd",
-        "b0c056a7d4d99555"
-      ],
-      "sources": [
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/raider-kid-and-the-ruby-chest-sera-lancado-para-consoles-8-dezembro.html",
-          "title": "Raider Kid and the Ruby Chest será lançado para consoles em 8 de dezembro; confira o trailer",
-          "published_at": "2026-11-25T16:37:41+00:00",
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
+          "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
+          "published_at": "2026-11-25T16:05:50+00:00",
           "kind": "press",
           "text": "",
           "image": ""
         },
         {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/yooka-laylee-and-the-impossible-lair-is-getting-a-switch-2-definitive-edition/",
-          "title": "Yooka-Laylee and the Impossible Lair is getting a Switch 2 Definitive Edition",
-          "published_at": "2026-11-25T17:09:21+00:00",
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/gta-6-e-mais-estavel-no-series-x-do-que-no-ps5-apesar-de-seu-marketing-oficial/",
+          "title": "GTA 6 é mais estável no Series X do que no PS5, apesar de seu marketing oficial",
+          "published_at": "2026-11-25T19:48:35+00:00",
           "kind": "press",
-          "text": "Yooka-Laylee and the Impossible Lair will boast better visuals and 120FPS on Switch 2 Yooka-Laylee and the Impossible Lair: Definitive Edition has been announced for Nintendo Switch 2. Available from next month, on December 15, Yooka-Laylee and the Impossible Lair : Definitive Edition will offer improved performance and visuals and come packaged with the Trowzer’s Top Tonic Pack DLC. This follows the launch of Yooka-Laylee and the Impossible Lair on the original Switch , PS4 , Xbox One , and PC in 2019. If you had the original game on Switch, this Definitive Edition upgrade is available for free. You will just need a physical copy of the game, or use the same Nintendo account you used to purchase a digital copy on Switch. We’re still waiting on the specifics, but we’re told that the Definitive Edition will support up to 120FPS, and “enhanced lighting and ambient occlusion effects.”, and “higher-fidelity textures and shadows”. Yooka-Laylee and the Impossible Lair was met with positive reviews back at launch . Unlike the first game in the series, The Impossible Lair opts for 2D platforming, more akin to Donkey Kong Country than its initial Banjo-Kazooie inspirations. The efforts paid off, with the game being much better received by both critics and fans, and keeping the series going for further releases. Following on from Impossible Lair, developer Playtonic released a remake of the first game, Yooka-Replaylee, in 2025. Alongside the re-release of Impossible Lair, Playtonic is also working on the first Yooka-Laylee racer, Super Yooka-Laylee Kart, which doesn’t currently have a release date.",
-          "image": "https://www.videogameschronicle.com/files/2026/11/Yooka-Laylee-and-the-Impossible-Lair.jpg"
+          "text": "Nintendo Switch 2 poderia rodar GTA 6, mas com grandes sacrifícios gráficos",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Estabilidade-Xbox-Series-X.jpeg"
         },
         {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc",
-          "title": "Yooka-Laylee and the Impossible Lair: Definitive Edition announced for PS5, Switch 2, and PC",
-          "published_at": "2026-11-25T17:15:10+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+          "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
+          "published_at": "2026-11-26T09:40:10+00:00",
           "kind": "press",
-          "text": "Playtonic Games has announced Yooka-Laylee and the Impossible Lair: Definitive Edition , an enhanced re-release of the 2019-released side-scrolling platformer. It will launch for PlayStation 5 , Switch 2 , and PC via Steam on December 15 as a free upgrade for existing owners. Here is an overview of the game, via Playtonic Games: One of the best platforming adventures of its generation is back, enhanced for PlayStation 5, Switch 2, and PC. Yooka and Laylee return for a full-scale 2.5D adventure, with a 3D Overworld that’s an adventure in its own right, levels you can alter to create new ways to play, and Capital B’s Impossible Lair waiting to test your skills. Explore vibrant worlds packed with enemies, secrets, and collectables. Complete objectives, uncover hidden paths, meet a colorful cast of characters, and rescue the Royal Beettalion as you prepare for Yooka and Laylee’s biggest test yet. Optimized for PlayStation 5, Switch 2, and PC Enjoy sharper visuals, smoother performance, enhanced visual effects, and more! All the bees in the Royal Beettallion have been bee-napped! Every level beaten is a bee rescued (and one more hit you can survive in the Impossible Lair itself!). Do you beat every course to rebuild the Beettallion or take on the Impossible Lair early to see how you fare? Run, jump, roll, and dodge your way through the many levels, then take them on again in radically altered forms! Dash through turret-filled towns, spider-infested forests, trap-happy factories, and even airships soaring amongst the clouds. Find secret T.W.I.T. Coins to bypass the nefarious Trowzer’s paywalls scattered across the Overworld and unlock new areas with more levels to discover. The more you explore the adventure-filled Overworld, the more levels you’ll find. Solve its many mysteries, open up new routes, and complete its challenges to help rescue every last member of the Royal Beettalion. Think you’ve got a level figured out? Think again. Out in the Overworld, find ways to flood levels, freeze them, or even flip them upside down to unlock alternative routes, layouts, and even crazier surprises. Discover over 60 hidden Tonics to unlock new skins, visual effects, challenges, skills, and perks. Mix and match them to create crazy play styles and OP combos! The toughest platforming challenge your skills can take on! Tackle the Impossible Lair at any time! Of course, the more levels you beat, the easier it gets. You choose how challenging you want it to be(e)! Watch the announcement trailer below. View the first screenshots at the gallery .",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Yooka-Laylee-and-the-Impossible-Lair-Definitive-Edition-Ann_11-25-26.jpg"
+          "text": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6. In the week ending 14th November, PS5 hardware unit sales registered a 2.4x increase over the same week last year. Xbox wasn't far behind, seeing a 2.3x increase in its own unit sales. That's according to industry analyst Mat Piscatella at Circana , who pulled the data from Circana's retail tracking service, which covers the US retail market. The PS5 Pro only accounted for less than 10 percent of the PlayStation's total unit sales, by the way, which Piscatella noted was \"a LOT better than it has been in recent weeks\", and seemingly the result of increased supply. GTA 6, of course, released on 19th November, so the surge in console hardware sales was clearly driven by the rush to attain consoles before the game came out. And while the GTA 6-driven demand isn't surprising, it's worth noting how much more expensive PS5 and Xbox Series X/S consoles are today. A standard PS5 today costs $650, compared to $550 a year ago. The PS5 Pro saw a big jump from $750 last November to $900 today. The base Xbox Series X jumped from $650 last year to $800 today, while Series S now costs $500, up from $400. Even Switch 2, where GTA 6 is not available, saw a notable boost of 40 percent in hardware sales over the same period, driven by The Legend of Zelda: Ocarina of Time remake and the special edition Zelda Switch 2 console . Circana's November US video game market report, which releases in December, is already one of the most anticipated this year, for digesting and documenting the GTA 6 effect. Worldwide, GTA 6 sold more than 32.5m copies in one day , making Rockstar's parent company Take-Two $3.79bn (£2.89bn) in revenue. We haven't had any updated official sales figures since; but estimates suggest the sales figure could be well into the 40-millions. Perhaps Rockstar is waiting to hit the nice round 50m sales mark before announcing it. If you're playing GTA 6, you may want to keep Eurogamer's GTA 6 walkthrough to hand. It has plenty of very helpful guides covering the game's main missions, as well as explainers for mechanics like romance and the criminal profile , and even cheats for when you finish the game.",
+          "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        }
+      ]
+    },
+    {
+      "story_id": "ebece8e2ebd1b269",
+      "title": "Lords Of The Fallen 2 Delayed Yet Again",
+      "summary": "CI Games has announced that Lords of the Fallen II is coming in April 2027, meaning it's been delayed again. An exact release date will be announced in December, the company said, and people are theorizing that could mean the date will be announced at The Game Awards on December 10. Lords of the Fallen II was originally scheduled to launch in 2026, but CI Games delayed it to Q1 2027...",
+      "owners": [
+        "adrenaline",
+        "fandom",
+        "gameblast"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "673f36e6f8936233",
+        "79bd4818a0fa41f4",
+        "e6acec1bcde8fbb8"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/lords-of-the-fallen-2-delayed-yet-again/",
+          "title": "Lords Of The Fallen 2 Delayed Yet Again",
+          "published_at": "2026-11-25T16:38:22+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
         },
         {
           "name": "GameBlast",
           "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/yooka-laylee-the-impossible-lair-definitive-edition-lancamento-15-dezembro.html",
-          "title": "Yooka-Layle and the Impossible Lair: Definitive Edition será lançado em 15 de dezembro",
-          "published_at": "2026-11-26T09:55:57+00:00",
+          "url": "https://www.gameblast.com.br/2026/11/lords-of-the-fallen-ii-sera-lancado-consoles-pc-abril-2027.html",
+          "title": "Lords of the Fallen II será lançado para consoles e PC em abril de 2027",
+          "published_at": "2026-11-24T21:52:01+00:00",
           "kind": "press",
-          "text": "Atualização gratuita para quem possui o jogo, na nova versão haverá suporte a 4K e 120 fps, músicas orquestradas e DLC “Trowzer’s Top Tonic Pack”.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Ju7IpT7lVjPS40CalYyjLWH5hG93sjr0Zex2etSlgS-Zmqi8-ETZ5tmK5t1F3q5BiteG7pimW2FvqJhyphenhyphenoF7Z1hEvY7rSA-Cq7BXN4ny6Tdz_SXVw05FWW1DHYuGlf69mbhIzaeUmTTJyM0GArFeMoRw1BbSyM95wSbvc1Ga2PEXxaQcOAhJxShB-BvW7/w1200-h630-p-k-no-nu/yooka_laylee_the_impossible_lair_definitive_edition_lancamento_15_dezembro.jpg"
+          "text": "A data de lançamento será divulgada em dezembro.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrvDNLgkl7pI_Yy1LqwgblsS08WQ5JTrtbJC9GDTWBDTLX6ZXVj29mLkyYnFWQ9xyaqKCNdNt7LhMRFE1dqBcfVVimhy9hQOUNQFD0pgIre-QtnrP8sBegol-eYWxXaeORSWtj7i9wJF8Iu4FUb0cJ8uYgtemYRZA2nAk07MPLbmZSyNUyednmpk6QY-v/w1200-h630-p-k-no-nu/lordsoffalleniiblast.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/lords-of-the-fallen-2-e-adiado-novamente-e-so-chega-em-abril-de-2027/",
+          "title": "Lords of the Fallen 2 é adiado novamente e só chega em abril de 2027",
+          "published_at": "2026-11-25T12:08:16+00:00",
+          "kind": "press",
+          "text": "Lords of the Fallen 2: veja requisitos mínimos e recomendados para jogar no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Lords-Fallen-2-Abril-2027.jpg"
         }
       ]
     },
@@ -506,8 +218,8 @@
           "title": "PlayStation Plus: confira os jogos mensais de dezembro de 2026",
           "published_at": "2026-11-25T18:50:34+00:00",
           "kind": "press",
-          "text": "Os jogos poderão ser resgatados a partir do dia 1º de dezembro.",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnG1seSHfkwcDf7AkjWV0n126eQl_immSl93Mt3a3rQ3ZRxfmBVXtubvYKVfedrW1LoejSZDINO7jKHK8yv77rP3kyTgBLDEqyZZyhVMPuEJ6sRX9xBerYHkKXy5WF0w1NVhExAwwzneI8RhEvk9M9dH88agqzWhu9iNW7_LIIUZ1y7mtWQqRY-nOWXQE6/w1200-h630-p-k-no-nu/psplusdez2026.webp"
+          "text": "",
+          "image": ""
         },
         {
           "name": "Video Games Chronicle",
@@ -518,6 +230,232 @@
           "kind": "press",
           "text": "PlayStation reveals its games for PS Plus in December, and when November’s picks will leave The next wave of PlayStation Plus games has been revealed for December. The most recent release to be included in the lineup is Tony Hawkâs Pro Skater 3+4, following on from its 2025 launch. As with any PlayStation Plus drop, you simply need to make sure you have added the games to your library in order to keep them. That way, you will keep it after they leave the PlayStation Plus offer. You can then go on to install and uninstall them as you please, provided that you maintain your PlayStation Plus subscription. Starting on December 1 – next Tuesday – PlayStation Plus subscribers will be able to claim and keep the following titles: Alert the neighborhood watch and grab your skate buddies because the shredâs not dead: the legendary franchise returns with Tony Hawkâs Pro Skater 3 + 4. Everything you loved is back, revamped with more skaters, new parks, gnarlier tricks, eardrum-shattering music and much more. Drop-in to new parks or tear it up across timeless locations from both Tony Hawkâs Pro Skater 3 and Tony Hawkâs Pro Skater 4, authentically remade in jaw-dropping 4K** resolution with streamlined goals and the epic 2-minute format. Define your own experience in the expanded Create-A-Skater and Create-A-Park modes, including the ability to create custom goals to share with friends for the first time. Dragon Ball Xenoverse 2 is the ultimate Dragon Ball gaming experience, packed with thrilling action, epic battles, and endless customization options. Create your own character, explore Conton City and team up with iconic characters from the series as a teacher to train and be ready to battle against formidable enemies to rescue the flow of History. Dragon Ball Xenoverse 2 also features online multiplayer modes, where you can battle against other players from around the world in epic showdowns or participate in Raid Battles to face gigantic foes with other players. Amnesia: The Bunker is a first-person horror game from the makers of Soma and Amnesia. Left all alone in a desolate WW1 bunker with only one bullet remaining in the barrel, itâs up to you to face the oppressing terrors in the dark. Immerse yourself in the multiple ways of tackling survival. In the shoes of the French soldier Henri ClÃ©ment, you are armed with a revolver gun, a noisy dynamo flashlight, and other scarce supplies to scavenge and craft along the way. With randomization and unpredictable behavior, no play-through is the same. Hunted by an ever-present threat reacting to your every move and sound, you must adapt your play-style to face hell. Every decision will change the outcome of how the game responds. Actions bear consequences. PlayStation has also confirmed that November’s free games will be leaving the PlayStation Plus catalogue on November 30. This means that subscribers have a few more days to claim the following: December’s picks will be available from December 1 right through until January 4.",
           "image": "https://www.videogameschronicle.com/files/2026/11/Tony-Hawks-Pro-Skater-34.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "67f6a585fa6b1bbf",
+      "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+      "summary": "Grand Theft Auto VI supports XBOX Cloud Gaming, making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a […] The post How to Play Grand Theft Auto VI in the Cloud and with Remote Play appeared first...",
+      "owners": [
+        "microsoft",
+        "ziff-davis"
+      ],
+      "primary_owners": [
+        "microsoft"
+      ],
+      "fingerprints": [
+        "67ce9b201c87ef45",
+        "95fcf5c6642f3c27",
+        "1a68f04d239212fc"
+      ],
+      "sources": [
+        {
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/23/grand-theft-auto-vi-xbox-cloud-and-remote-play/",
+          "title": "How to Play Grand Theft Auto VI in the Cloud and with Remote Play",
+          "published_at": "2026-11-23T21:36:20+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI supports XBOX Cloud Gaming , making it available to play even without a current-gen console. With XBOX Cloud Gaming, you can play by streaming it straight from the cloud to your XBOX One, or XBOX Series X|S if you’d like to save some hard drive space. Select Game Pass plans include a monthly allotment of up to 15 play hours, and you can buy more cloud playtime if you need it, giving you the opportunity to experience one of the biggest games of the year on the consoles you already own. The game uses XBOX Series S graphics settings when cloud-streamed with XBOX Cloud Gaming. You can also access Remote Play to enjoy Grand Theft Auto VI wherever you want to play , allowing you to stream gameplay directly from your XBOX Series X|S console to devices you already own, like your mobile phone, laptops, PCs, or even a handheld gaming PC like the XBOX ROG Ally. Here’s how to get these features up and running (a copy of Grand Theft Auto VI from the XBOX Store is required): To start your Cloud gaming session in Grand Theft Auto VI , you can use the controllers that are connected to your console following these steps: When possible, connecting a wired Ethernet cable is the best option for gaming quality. FYI, even wireless networks with high bandwidth can occasionally have a dip in audio and video quality. Remote Play allows you to stream gameplay from your XBOX Series X|S to devices you already own, like mobile devices, PCs, and handheld gaming PCs. Here’s how to enable it: Once you’ve completed those steps above, you can move forward with Remote Play on one of your devices: Whether you’re streaming from the Cloud to save space or picking up right where you left off on your handheld PC, XBOX Cloud Gaming and Remote Play give you more ways to play Grand Theft Auto VI on the devices you already own. For more info, visit XBOX Cloud Gaming and Grand Theft Auto VI on the XBOX Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/06/GTA-6-Official_Cover_Art_landscape-c3e36df9ed6c80b13d50.jpg"
+        },
+        {
+          "name": "Xbox Wire BR",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/pt-br/2026/11/24/como-jogar-grand-theft-auto-vi-pela-nuvem-e-com-remote-play/",
+          "title": "Como jogar Grand Theft Auto VI pela nuvem e com Remote Play",
+          "published_at": "2026-11-24T18:00:21+00:00",
+          "kind": "primary",
+          "text": "Grand Theft Auto VI é compatível com o XBOX Cloud Gaming , então você pode jogar mesmo sem um console da geração atual. Com o XBOX Cloud Gaming, você pode jogar por streaming, direto da nuvem, no seu XBOX One ou no XBOX Series X|S, se quiser economizar espaço de armazenamento. Alguns planos do Game Pass incluem até 15 horas de jogo por mês na nuvem. Se precisar, você pode comprar horas adicionais para aproveitar um dos maiores jogos do ano no console que já tem. Ao jogar pela nuvem com o XBOX Cloud Gaming, o jogo usa as configurações gráficas do Xbox Series S. Você também pode usar o Remote Play para jogar Grand Theft Auto VI onde preferir. Com esse recurso, você transmite o jogo diretamente do seu console XBOX Series X|S para dispositivos que já tem, como celular, notebook, PC ou até um PC portátil para jogos, como o XBOX ROG Ally. Veja como configurar esses recursos. Para usá-los, você precisa de uma cópia de Grand Theft Auto VI comprada na Xbox Store : Para começar a jogar Grand Theft Auto VI pela nuvem, use um dos controles conectados ao seu console e siga estes passos: Sempre que possível, conecte o console à internet com um cabo Ethernet para obter a melhor qualidade de jogo. Mesmo em redes Wi-Fi de alta velocidade, a qualidade do áudio e do vídeo pode cair de vez em quando. Com o Remote Play, você pode transmitir o jogo do seu XBOX Series X|S para dispositivos que já tem, como celulares, tablets, PCs e PCs portáteis para jogos. Veja como ativar o recurso: Depois de ativar os recursos remotos no console, escolha em qual dispositivo quer jogar: Seja para economizar espaço jogando pela nuvem ou para retomar a partida de onde parou no seu PC portátil, o XBOX Cloud Gaming e o Remote Play oferecem mais opções de jogar Grand Theft Auto VI nos dispositivos que você já tem. Para saber mais, consulte a página do XBOX Cloud Gaming e a de Grand Theft Auto VI na Xbox Store.",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/8/2026/06/GTA-6-Official_Cover_Art_landscape-f8937c82799071fb1064.jpg"
+        },
+        {
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/grand-theft-auto-6-is-out-and-there-are-already-black-friday-gta-6-deals",
+          "title": "Grand Theft Auto 6 Is Out, and There Are Already Black Friday GTA 6 Deals",
+          "published_at": "2026-11-25T16:10:03+00:00",
+          "kind": "press",
+          "text": "Rockstar's GTA 6 has barely been out for a few days, but UK retailer ShopTo is already offering some surprisingly generous discounts on the new release across PS5 and Xbox Series X|S — letting you pay as little as £53.85 for the game. Here's how to save on what's arguably the biggest game of all time. Despite Black Friday still being a week away, the store has slashed £16.14 off the standard Xbox version of Grand Theft Auto VI, bringing its usual £69.99 price down to £53.85 at ShopTo . That's 23% off for a direct digital code, with instant delivery, and no additional vouchers or memberships needed. Better still, there are a few other ways to save on Rockstar's latest blockbuster, depending on whether you're playing on Xbox or PS5, or fancy getting some bonus content with your purchase via the Ultimate Edition As for PS5 players, ShopTo's cheapest route is a little different, since getting digital game keys for PlayStation games outside of boxed codes and PlayStation itself is a lot trickier compared to Xbox titles. Instead of receiving GTA 6 itself, ShopTo can sell you a £70 PlayStation Store gift card for only £60.85 , which you can then redeem on your UK PSN account to buy the £69.99 Standard Edition — effectively earning you £9.15 in savings. On the other hand, for anyone who wants the closest thing to a physical version of GTA 6, both consoles have a £61.85 boxed option with an added A3 double-sided poster ; that also makes ShopTo the cheapest UK retailer to buy the boxed version of Grand Theft Auto VI from right now. Remember, though, these aren't actual disc versions of GTA 6; you'll find a download code inside the packaging instead. Also, for Xbox fans who were considering buying the Grand Theft Auto 6’s Ultimate Edition anyway, ShopTo also has said Ultimate Edition on Xbox for only £67.85 — an incredibly impressive £22.14 price drop and the lowest price we’ve seen for it yet. With the Ultimate Edition, compared to the Standard Edition of GTA VI, you’ll get extra vehicles, weapons, outfits, customisation features, and exclusive locations throughout Leonida. To get that aforementioned Ultimate Edition on PS5, however, you can also grab the £100 PlayStation Store Gift Card for only £85.85 to redeem the complete version of GTA 6 for £89.99. Sure, you’ll only save £41.14 instead of buying the game through the PS Store directly, but you’ll have an extra £10 credit to spend on other games and DLC on top. Otherwise, if you’re unsure about getting the Ultimate Edition on PlayStation 5 right away, you can always buy the £20 Ultimate Edition Upgrade directly from the PlayStation Store . The same goes for the bonus Grand Theft Auto VI Vintage Vice City Pack for £4.49 — featuring the stunning ’55 Vapid Stanier sedan and garage alongside Ocean Beach, alternative outfits and hairstyles for both Jason and Lucia, and an exclusive Tropical Weapon Pattern inspired by Tommy Vercetti's iconic palm-tree shirt. At the time of writing, there is no physical disc version of GTA 6, along with there being no indication by Rockstar Games as to whether it will be putting out a disc'd edition of the game; with that, these deals are some of the best value you can get on the Grand Theft Auto sequel in the meantime. Ben Williams – IGN freelance contributor with over 10 years of experience covering gaming, tech, film, TV, and anime. Follow him on Twitter/X @BenLevelTen .",
+          "image": "https://assets-prd.ignimgs.com/2026/11/20/gta-6-ps5-xbox-early-black-friday-deals-shopto-1795209707407.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        }
+      ]
+    },
+    {
+      "story_id": "72cc30725c8d4b1c",
+      "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
+      "summary": "In the mood for a little bloodsport? In GTA 6 , you can teach one loud-mouthed hunter that Lucia (or Jason) is the deadliest game, as this secret mission will require cunning and sharp shooting to survive. It's Hard Target meets SAW, and the victor gets a pretty sizable stack of cash. Here's how you can be the most elusive of quarry. Go to Hyde Island Located north of Lummox County and the Moreau...",
+      "owners": [
+        "fandom",
+        "vgc"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "aaaf29ecda893842",
+        "0f846628747bc120"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/",
+          "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets Saw",
+          "published_at": "2026-11-24T15:33:03+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-cooties-mission-walkthrough/",
+          "title": "GTA 6 Cooties Mission Walkthrough",
+          "published_at": "2026-11-25T18:47:53+00:00",
+          "kind": "press",
+          "text": "Wondering how to complete Cooties in GTA 6? The Cooties mission in GTA 6 sees Lucia join Dre’Quan Priest and the Real Dimez to film a music video for their latest track. However, the shoot takes an unexpected turn when DWNPLY and his crew arrive looking for revenge. If you’re struggling to complete the mission, here’s how to shoot the music video, escape DWNPLY’s crew and unlock the Bae-Luxe’s Bat reward. Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. To unlock Cooties, you’ll first need to complete the Ride or Die mission in Chapter 3. After a couple of in-game days, Jason’s friend Dre’Quan will contact you about filming a music video for the Real Dimez song, Cooties. To start the mission, head to the mission marker in Crosstown. For the first part of the mission you’ll play as Lucia during the music video shoot, which features DWNPLY’s stolen car from the Ride or Die mission. The first mission objective is to help the Real Dimez film their music video. Most of this section is scripted, but you’ll need to complete a few actions. You’ll need to drive the car on a predetermined route so that it can be filmed for the video. After driving through the city, you’ll eventually stop, at which point some guys will start harassing Lucia and the Dimez. Get out the car as Lucia and knock the guy out. You won’t be able to pull weapons here, but you won’t need to, he’ll go down in one punch. Once the confrontation is over, the girls will begin smashing up the car for the cameras. Lucia is handed a baseball bat, allowing you to join in. Finally, you’ll need to spray-paint the vehicle. Shake the spray can using X on PlayStation or A on Xbox , then hold R2/RT to paint the side of the car. With the music video finished, DWNPLY and his crew arrive looking for their car. Jump behind the wheel and make your escape. You’ll need to lose the pursuing vehicles and drive outside the red danger area displayed on your map. If you destroy the car, the mission will fail, or if either of the Dimez are thrown out of the car due to a big crash, the mission will also fail. Keep moving and if any of the DWNPLY cars get too close, shoot their wheels in Focus Mode to take them out quickly. Once all the pursuing cars have disappeared and you’ve escaped the marked area, the objective will update. With DWNPLY’s crew gone,Â follow the objective marker towards the recording studio. Drive the damaged vehicle towards the destination to trigger the final sequence and complete the mission.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/gta-6-cooties-walkthrough-12.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "03b9daba4940b41f",
+      "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+      "summary": "Grand Theft Auto 6 's launch took a big bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days on, it still hasn't recovered. Read more",
+      "owners": [
+        "future-plc",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "cd4fc1e5571cd536",
+        "cd392fbdf72a7c7c"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+          "title": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+          "published_at": "2026-11-24T17:59:50+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6's launch took a big bite out of Call of Duty’s player base, according to new estimates from Alinea Analytics, and four days on, it still hasn't recovered. Writing in Alinea's newsletter , Rhys Elliott said Call of Duty HQ's daily active users (DAUs) across PlayStation, Xbox, and Steam fell 42 percent when GTA 6 launched on 19th November, dropping from an average of 7.5 million to 4.4 million. On PlayStation, which Elliott describes as \"CoD's main platform\", the drop was 44 percent. \"Sadly, CoD has barely bounced back after four days,\" Elliott wrote. \"It's still down 41% from its baseline.\" Fortnite and FC 27 took a hit too, but both are already recovering. Fortnite's DAUs on PlayStation and Xbox fell 28 percent, from 17.8 million to 12.8 million, but by the end of the weekend it had clawed its way back to 19 percent below its baseline. Epic is also holding a live event to close out the current season on 5th December, which Elliott says the studio \"hopes will pull players back after they’ve polished off GTA 6’s story\". FC 27's DAUs dropped by around 27 percent, from 5.9 million to 4.3 million, and it's already back within 20 percent of its baseline. GTA 6's launch hit Call of Duty HARD ( @alineaanalytics estimates). COD HQ's daily active users across PlayStation, Xbox, and Steam are down 42% from an average of 7.5M DAUs to 4.4M. On PlayStation – CoD’s main platform – Call of Duty took a 44% hit. Sadly, CoD has barely bounced… pic.twitter.com/XLa6N9TBfr According to Alinea, of those who'd played GTA 6 by the end of its launch weekend, 29 percent had also played Fortnite this month, 16 percent had played Call of Duty HQ, and 11 percent had played FC 27. Elliott said the pattern is largely what Alinea had predicted: the big live service games took an instant hit from GTA, but bounced back \"because they're ingrained habits\". Call of Duty is \"the outlier here\", he added, \"and Xbox should - candidly - be worried about one of its premier franchises\". Elliott also points out that all of this is the impact of GTA 6's single-player mode. He expects its online component and PC port to arrive \"some time next year\", and when they do, he says, \"the bounce back will not be so obtainable\". Alinea also estimates that GTA 6 has sold 44.9 million copies and made more than $4 billion since launch. GTA 6 launched on Thursday, 19th November, for PS5 and Xbox Series X/S. While it's the biggest entertainment launch of all time , selling 32.5 million pre-release copies and making $3.79 billion by the end of its first day, you wouldn't know it from its Metacritic user score , as players review bomb it over its limited FPS and purported \"woke\" agenda. Eurogamer called GTA 6 an open world of \"awe, minute detail and impossible scale\" in our five-star GTA 6 review . If you need help getting through the game now that it's here, you can check out Eurogamer's Grand Theft Auto 6 walkthrough and a breakdown of our Grand Theft Auto 6 cheats .",
+          "image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-24-at-17.54.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/gaming-industry/analyst-says-call-of-duty-lost-an-estimated-44-percent-of-its-players-when-gta-6-came-out-and-unlike-fans-of-its-live-service-competitors-theyve-been-slow-to-come-back/",
+          "title": "Analyst estimates Call of Duty lost 44% of its players when GTA 6 came out, and unlike fans of its live-service competitors they've been slow to come back",
+          "published_at": "2026-11-25T03:34:01+00:00",
+          "kind": "press",
+          "text": "Turns out Fortnite players are more loyal. Sony has been crowing about Grand Theft Auto 6 setting a new record for concurrent PlayStation players , which isn't bad for a game that's currently only singleplayer. It isn't just beating the records set by the giants of multiplayer gaming back when they released, though. It's also eating their lunch right now. Alinea Analytics reports that Call of Duty, Fortnite, and EA Sports FC 27 all saw their number of daily active users drop when GTA 6 released. \"Call of Duty got it the worst of the three,\" Alinea's head of market analysis Rhys Elliott wrote, \"dropping 42% from an average of 7.5M DAUs to 4.4M\" according to the company's estimates. Fortnite only lost 28% of its players, the firm claims based on PlayStation and Xbox data—Alinea's Fortnite figures do not take Switch, mobile, or Epic Games Store players into account—An estimated five million of them choosing to buy groceries and fix the stairs instead of parachuting out of a bus over the weekend. EA Sports FC 27 suffered a similar loss. \"FC 27's DAUs dropped by about 27% when GTA 6 launched,\" according to Elliott, \"from 5.9M to 4.3M.\" But where player numbers for both of those games were trending back up four days after GTA 6's release, Call of Duty has struggled to win its players back, Elliott says: \"Sadly, CoD has barely bounced back after four days. It's still down 41% from its baseline.\" During that time Call of Duty had a Thanksgiving-themed event, while FC 27 had a Black Friday discount and in-game \"Thunderstruck\" promotion, and Fortnite's ongoing Treasure Hunters event is adding a bunch of One Piece stuff. If you're going up against a cultural juggernaut like GTA, I guess crossing over with something as massive as One Piece is the way to do it. As Elliott concludes, this is only part one of the story. When Rockstar comes back for the second bite of this apple its rivals might have an even harder fight on their hands: \"When the online component and PC port of GTA 6 hits (some time next year simultaneously, I'd imagine), then the bounce back will not be so obtainable.\" GTA 6 guide : One-stop info shop GTA 6 map : The full Vice City tour GTA 6 cheats : A complete list GTA 6 radio : All the songs and stations GTA 6 romance : How to keep a strong bond From the creators of Edge: A free weekly videogame industry newsletter, featuring in-depth news, expert analysis and exclusive interviews Jody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, Zed Games . He's written for Rock Paper Shotgun , The Big Issue, GamesRadar , Zam , Glixel , Five Out of Ten Magazine , and Playboy.com , whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the audio of Alien Isolation , published in 2015. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/5EWnGC9pvFVHwRsPbdM4uV-1920-80.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "87fa8176fb06289a",
+      "title": "Jogos para XBOX em oferta por menos de R$ 20 na Black Friday",
+      "summary": "Os interessados já podem aproveitar as ofertas na loja do Xbox por tempo limitado e adquirir os jogos da lista de desejos",
+      "owners": [
+        "adrenaline",
+        "nzn"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "80d6f09ad830eab8",
+        "8ab7d94475ab4ea1",
+        "5a54f7af247b1a6f",
+        "bb58280755b392e0",
+        "8c7adf32ae9741fa"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/xbox/jogos-para-xbox-em-oferta-por-menos-de-r-20-na-black-friday/",
+          "title": "Jogos para XBOX em oferta por menos de R$ 20 na Black Friday",
+          "published_at": "2026-11-24T19:23:47+00:00",
+          "kind": "press",
+          "text": "Asha Sharma celebra 25 anos do Xbox falando sobre equipes pequenas e IA",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/09/mortal-kombat-11.jpg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-acao-para-playstation-em-oferta-na-black-friday/",
+          "title": "Jogos de Ação para PlayStation em oferta na Black Friday",
+          "published_at": "2026-11-24T21:00:00+00:00",
+          "kind": "press",
+          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/04/Assassins-Creed-Black-Flag-Resynced-1.jpeg"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-tiro-para-playstation-em-oferta-na-black-friday/",
+          "title": "Jogos de Tiro para PlayStation em oferta na Black Friday",
+          "published_at": "2026-11-25T21:00:00+00:00",
+          "kind": "press",
+          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/10/Ajuste-Mouse-Experiencia-Battlefield-6-PC.jpg"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/gears-of-war-e-day-e-mais-jogos-com-ate-95-off-na-black-friday-do-xbox-confira/",
+          "title": "Gears of War: E-Day e mais jogos com até 95% OFF na Black Friday do Xbox; confira",
+          "published_at": "2026-11-25T22:30:00+00:00",
+          "kind": "press",
+          "text": "O lançamento ocorreu na quarta-feira, 18, e logo se tornou a maior estreia de um jogo na história das transmissões ao vivo. Crédito: Estadão A Black Friday já começou no Xbox, e a plataforma da MS tem uma grande variedade de lançamentos e clássicos a preços bem mais baixos temporariamente. Durante o período da BF, é possível garantir ótimos títulos entre os jogos em promoção na Microsoft Store , que nesta semana traz títulos com até 95% de desconto . Por exemplo, entre as ofertas para Xbox em destaque temos games como Gears of War: E-Day , The Blood of Dawnwalker , Halo: Campaign Evolved , Red Dead Redemption 2 e Rogue Legacy , que está custando apenas R$ 3,05 . Leia também Rockstar revela inspirações reais de Jason, protagonista de GTA 6 Rockstar revela inspirações reais de Jason, protagonista de GTA 6 Vem com a gente conferir os jogos de Xbox no precinho e aproveite para aumentar o backlog com um monte de jogão em promoção. A seguir, você confere a nossa lista com as principais promoções de jogos para Xbox One, Series S e Series X disponíveis nesta semana na Microsoft Store: Ainda não tem seu Xbox? Então pare de marcar bobeira, aproveite as promoções e use o cupom KaBuM! para adquirir o seu Xbox Series S ou Series X novinho com desconto o quanto antes! Existe uma forma de aliviar um pouco as finanças e parcelar os jogos de Xbox que a gente tanto quer — e com direito a cashback — usando os gift cards da Nuuvem . Na Nuuvem é possível parcelar a compra em até 4x sem juros no PayPal ou em até 6x sem juros no cartão de crédito . E o melhor: você ainda recebe cashback em forma de moedinhas na própria plataforma, que podem ser usadas em compras futuras e abater parte do valor do pagamento final. Você pode comprar desde gift cards a cartões de assinaturas do Xbox Game Pass e, além do cashback, ainda pode usar cupons de desconto que vez ou outra são liberados pela galera da Nuuvem. E aí, aproveitou para comprar algum dos jogos para Xbox em promoção ? Nos conte nas redes sociais do Voxl! Essa matéria não é patrocinada, mas contém links de parceiros. O TecMundo pode ganhar comissão pelas vendas geradas por meio desses links. Reiteramos nosso compromisso em indicar apenas produtos e promoções curados e selecionados pelos nossos especialistas, sempre levando em consideração a experiência dos nossos leitores. Black Friday Acer: esquenta tem até R$ 700 de desconto e condições especiais LoRa: o que é e como funciona a comunicação sem internet? iPhone Duo: o dobrável da Apple brilha no acabamento, mas frustra no uso diário Black Friday: golpe imita Mercado Livre para roubar dados e senhas do cartão Instagram não escuta conversas para mostrar anúncios, reforça chefe da rede",
+          "image": "https://www.estadao.com.br/resizer/v2/2JARX3CDYBFXHNNXCL4TTWHQDA.jpg?quality=80&auth=38574eb7a0095b190e7046b092e741693047d59eea32e9c1bf3f717cc4d09cf7&width=1200&height=630&smart=true"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-luta-para-playstation-em-oferta-na-black-friday/",
+          "title": "Jogos de Luta para PlayStation em oferta na Black Friday",
+          "published_at": "2026-11-26T09:00:00+00:00",
+          "kind": "press",
+          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/06/marvel-tokon-fighting-souls-game.webp"
+        }
+      ]
+    },
+    {
+      "story_id": "30ce5d68fcb1cbdf",
+      "title": "Switch 2’s Black Friday Bundle With Mario Kart World Is Available Now For $500",
+      "summary": "It's Black Friday week, and one of the best gaming deals is a Switch 2 bundle featuring Mario Kart World and other extras for $50 off the normal price. As announced previously , the $500 bundle comes with a Switch 2 and a digital copy of Mario Kart World, as well as a three-month Nintendo Switch Online membership. This is what the bundle cost at launch in 2025, but Nintendo raised the price to...",
+      "owners": [
+        "fandom",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "4e711f5455726e0e",
+        "8155848f5f272edd"
+      ],
+      "sources": [
+        {
+          "name": "GameSpot",
+          "owner": "fandom",
+          "url": "https://www.gamespot.com/articles/switch-2s-black-friday-bundle-with-mario-kart-world-is-available-now-for-500/",
+          "title": "Switch 2’s Black Friday Bundle With Mario Kart World Is Available Now For $500",
+          "published_at": "2026-11-24T19:38:33+00:00",
+          "kind": "press",
+          "text": "",
+          "image": ""
+        },
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/digimon-alysion-now-available",
+          "title": "Digimon Alysion now available",
+          "published_at": "2026-11-25T14:00:42+00:00",
+          "kind": "press",
+          "text": "Digimon Alysion , the free-to-play mobile game based on Digimon Card Game , is now available for iOS via App Store and Android via Google Play in 183 countries and regions, Bandai Card Games announced . To celebrate surpassing 450,000 pre-registrations, all players will receive tickets that can be redeemed for game-exclusive cards, card packs, and a secret rare card, with more rewards planned. Here is an overview of the game, via Bandai Card Games: Digimon Alysion is finally here! Enjoy a brand-new Digimon card game world! And that’s not all! There’s plenty of other features that make the Digimon Card Game easy and fun to play! Whether you’re a seasoned veteran or just getting started, come and experience the Digimon Card Game by playing Digimon Alysion ! This application is distributed under the official rights from the license holder.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Digimon-Alysion-Launch_11-25-26_001.jpg"
         }
       ]
     }
