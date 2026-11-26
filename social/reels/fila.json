@@ -17287,7 +17287,7 @@
     "slug": "gta6-corte-tioorochitwitch",
     "data": "2026-11-26",
     "horario": "16:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 tioorochitwitch jogando GTA 6\n📺 twitch.tv/tioorochitwitch\n\n#gta6 #gtavi #tioorochitwitch #pixelzada",
     "tentativas": 0,
@@ -17310,6 +17310,19 @@
       "motivo": "streamer com fones de ouvido e cenas de gameplay de jogo de corrida",
       "por": "imagem",
       "em": "2026-11-22T03:43:22-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T16:02:17-03:00",
+      "media_id": "18145005481622054",
+      "permalink": "https://www.instagram.com/reel/DgNz1cGxid7/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
