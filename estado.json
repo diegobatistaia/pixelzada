@@ -7,34 +7,37 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-26T02:03-03:00",
+ "atualizado": "2026-11-26T12:14-03:00",
  "hoje": {
   "data": "2026-11-26",
   "reels": {
    "meta": 17,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 6,
+   "deviam_ter_saido": 5,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 2,
+   "atrasados": [
+    "09:00",
+    "11:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 78,
+  "agendados": 72,
   "meta_por_dia": 17,
-  "dias_de_reserva": 4.6,
+  "dias_de_reserva": 4.2,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 78,
+  "sem_revisao": 72,
   "por_dia": [
    {
     "data": "2026-11-26",
-    "agendados": 17,
+    "agendados": 11,
     "meta": 17
    },
    {
@@ -60,22 +63,22 @@
   ]
  },
  "site": {
-  "total": 289,
-  "hoje": 0,
+  "total": 292,
+  "hoje": 3,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "GTA 6: volte à casa de Jason em Key Lento para achar dinheiro escondido, fotos e a cobra Dolores viva",
-   "url": "https://pixelzada.com.br/pt/gta-6-volte-a-casa-de-jason-em-key-lento-dinheiro-escondido-fotos-e-a-cobra-dolores-viva/",
-   "em": "2026-11-25T17:39:15-03:00"
+   "titulo": "CD Projekt Red fecha acordo de marketing com a Sony para The Witcher 4 e garante mais jogos no PlayStation Plus",
+   "url": "https://pixelzada.com.br/pt/cd-projekt-red-fecha-acordo-de-marketing-com-a-sony-para-the-witcher-4-e-garante-mais-jogos-no-playstation-plus/",
+   "em": "2026-11-26T11:47:30-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "25/11/2026 22:07",
+  "ultima_coleta": "26/11/2026 12:09",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A69FKdQPk5xSOsrkMbjSeND\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"ALfHJ_UlO3AeKritcHyqdpb\"}}"
  },
  "falhas": {
   "rodadas_24h": 93,
@@ -88,7 +91,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 114
+   "youtube": 115
   },
   "erros_hoje": 0
  },
@@ -149,11 +152,11 @@
   },
   {
    "data": "2026-11-26",
-   "reels": 0,
+   "reels": 6,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
+   "materias": 3,
    "views_reels": null
   }
  ],
@@ -204,6 +207,10 @@
   }
  ],
  "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00"
+  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
