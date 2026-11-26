@@ -16783,7 +16783,7 @@
     "slug": "gta6-corte-theburntpeanut-2",
     "data": "2026-11-25",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 TheBurntPeanut jogando GTA 6\n📺 twitch.tv/theburntpeanut\n\n#gta6 #gtavi #theburntpeanut #pixelzada",
     "tentativas": 0,
@@ -16806,6 +16806,19 @@
       "motivo": "Os quadros mostram apenas cenas de gameplay com carros e um rosto editado em formato de meme, sem conteúdo sugestivo ou nudez.",
       "por": "imagem",
       "em": "2026-11-22T07:15:11-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T21:01:47-03:00",
+      "media_id": "18119052905614596",
+      "permalink": "https://www.instagram.com/reel/DgLxUGjRCwf/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
