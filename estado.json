@@ -7,37 +7,41 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-26T12:14-03:00",
+ "atualizado": "2026-11-26T20:52-03:00",
  "hoje": {
   "data": "2026-11-26",
   "reels": {
    "meta": 17,
-   "publicados": 6,
-   "deviam_ter_saido": 5,
+   "publicados": 14,
+   "deviam_ter_saido": 14,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 2,
+   "deviam_ter_saido": 6,
    "atrasados": [
     "09:00",
-    "11:00"
+    "11:00",
+    "13:00",
+    "15:00",
+    "17:00",
+    "19:00"
    ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 72,
+  "agendados": 64,
   "meta_por_dia": 17,
-  "dias_de_reserva": 4.2,
+  "dias_de_reserva": 3.8,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 72,
+  "sem_revisao": 64,
   "por_dia": [
    {
     "data": "2026-11-26",
-    "agendados": 11,
+    "agendados": 3,
     "meta": 17
    },
    {
@@ -63,22 +67,22 @@
   ]
  },
  "site": {
-  "total": 292,
-  "hoje": 3,
+  "total": 297,
+  "hoje": 8,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "CD Projekt Red fecha acordo de marketing com a Sony para The Witcher 4 e garante mais jogos no PlayStation Plus",
-   "url": "https://pixelzada.com.br/pt/cd-projekt-red-fecha-acordo-de-marketing-com-a-sony-para-the-witcher-4-e-garante-mais-jogos-no-playstation-plus/",
-   "em": "2026-11-26T11:47:30-03:00"
+   "titulo": "Atriz de Lucia em GTA 6 faz primeiro comunicado após o lançamento e diz que passou quase uma década na personagem",
+   "url": "https://pixelzada.com.br/pt/atriz-de-lucia-em-gta-6-faz-primeiro-comunicado-apos-o-lancamento-e-diz-que-passou-quase-uma-decada-na-personagem/",
+   "em": "2026-11-26T19:48:13-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "26/11/2026 12:09",
+  "ultima_coleta": "26/11/2026 19:58",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"ALfHJ_UlO3AeKritcHyqdpb\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Asx6hq9waTV4XmkyLHxPCfO\"}}"
  },
  "falhas": {
   "rodadas_24h": 93,
@@ -91,7 +95,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 115
+   "youtube": 116
   },
   "erros_hoje": 0
  },
@@ -152,11 +156,11 @@
   },
   {
    "data": "2026-11-26",
-   "reels": 6,
+   "reels": 14,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 3,
+   "materias": 8,
    "views_reels": null
   }
  ],
@@ -209,7 +213,7 @@
  "alertas": [
   {
    "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00"
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
   },
   {
    "nivel": "amarelo",
