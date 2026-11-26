@@ -1,0 +1,131 @@
+{
+  "lang": "pt",
+  "slug": "digital-foundry-gta-6-tem-desempenho-mais-estavel-no-xbox-series-x-do-que-no-ps5-basico-e-roda-bem-no-xbox-one-por-streaming",
+  "story_id": "cfce118726ea3f96",
+  "title": "Digital Foundry: GTA 6 tem desempenho mais estável no Xbox Series X do que no PS5 básico e roda bem no Xbox One por streaming",
+  "dek": "O PS5 Pro segue como melhor opção em console, e o Series S sofre mais, mas surpreende.",
+  "meta_description": "Digital Foundry diz que GTA 6 roda com mais estabilidade no Xbox Series X do que no PS5 básico, e que o PS5 Pro é a melhor opção. Veja Series S e Xbox One.",
+  "keyword": "GTA 6 desempenho Xbox Series X PS5 Digital Foundry",
+  "category": "gta-6",
+  "tags": [
+    "gta 6",
+    "digital foundry",
+    "xbox series x",
+    "ps5 pro",
+    "desempenho"
+  ],
+  "image": {
+    "query": "GTA 6 performance",
+    "alt": "Imagem de GTA 6 divulgada pelo Eurogamer em matéria sobre desempenho nos consoles",
+    "url": "https://assetsio.gnwcdn.com/GTA_6_Mission_List_4.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "credit": "Imagem: Eurogamer"
+  },
+  "sources": [
+    {
+      "name": "Eurogamer",
+      "owner": "ziff-davis",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
+      "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PS5"
+    },
+    {
+      "name": "Kotaku",
+      "owner": "keleops",
+      "url": "https://kotaku.com/grand-theft-auto-vi-gta-6-framerates-xbox-series-x-ps5-rockstar-2001000296",
+      "title": "GTA 6 framerates Xbox Series X PS5"
+    },
+    {
+      "name": "VGC",
+      "owner": "vgc",
+      "url": "https://www.videogameschronicle.com/news/gta-6-on-xbox-one-is-a-remarkable-feat-according-to-analysis/",
+      "title": "GTA 6 on Xbox One is a remarkable feat according to analysis"
+    }
+  ],
+  "status": "draft",
+  "body": [
+    {
+      "type": "p",
+      "text": "A Digital Foundry publicou análises de desempenho de GTA 6 nos consoles da Microsoft e da Sony, e o resultado surpreende: entre os modelos básicos, o Xbox Series X mantém os 30 quadros por segundo com mais estabilidade do que o PS5. Segundo Eurogamer, Kotaku e VGC, o melhor console para jogar continua sendo o PS5 Pro, e até o Xbox One, que roda o jogo por streaming, ganhou elogios.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "PS5 Pro lidera, Series X vem em seguida",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "De acordo com o Eurogamer, o relatório da Digital Foundry cobre as semelhanças e diferenças técnicas entre os consoles. O PS5 Pro aparece na frente, sem concorrência, já que a Microsoft não lançou uma versão mais potente do Series. A equipe o descreve como a experiência definitiva de GTA 6 em console, com o desempenho mais estável a 30 quadros por segundo entre os quatro aparelhos.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O modelo da Sony também entrega uma imagem mais nítida em 4K graças ao upscaler PSSR, que parte de uma resolução-base de 1440p, informa o Eurogamer. O Kotaku reforça que o PS5 Pro continua sendo, sem dúvida, a melhor forma de jogar até que a versão oficial de PC seja lançada.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Series X contra PS5 básico",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A comparação entre os consoles básicos é mais interessante. Segundo o Eurogamer, os dois miram 30 quadros por segundo e costumam manter a meta, mas certos trechos provocam quedas, como cenas com multidões e travessias rápidas de veículo. Em alguns casos, a taxa cai para a faixa de 20 e poucos quadros por segundo.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O PS5, segundo o relatório, sofre quedas substancialmente mais frequentes do que o Series X. O Kotaku observa que o aparelho da Microsoft ainda conta com o suporte a VRR de 120 Hz, que suaviza pequenas variações. A conclusão da Digital Foundry, citada pelos dois sites, é que o Series X está significativamente em melhor situação.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Kotaku acrescenta que a apresentação visual dos dois é praticamente idêntica, e que a diferença aparece só no desempenho. O site lembra o contexto curioso: a Microsoft estava sob uma restrição que a impedia de divulgar que o jogo sairia no seu console, enquanto o PS5 foi amplamente promovido como o lar natural do lançamento.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "Series S e o precedente de Red Dead",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Pelo Kotaku, o Series S tem o pior desempenho dos quatro, com quedas que frequentemente chegam à faixa dos 10 e poucos quadros por segundo, mas ainda assim fica melhor do que muitos esperavam, graças ao upscaling e à redução dos detalhes mais pesados. O texto avisa que não é uma ótima maneira de jogar, mas é menos ruim do que parece.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Eurogamer lembra que não é a primeira vez que um jogo da Rockstar roda melhor no Xbox. No lançamento de Red Dead Redemption 2, em 2018, a Digital Foundry elogiou o Xbox One X como o melhor lugar para jogar, por causa de uma taxa de quadros mais estável e imagem mais nítida. Para o site, pouca coisa mudou nesse ponto em oito anos.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O Xbox One e o streaming",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O VGC conta que a versão de GTA 6 para Xbox One foi descrita como uma façanha notável em outra análise da Digital Foundry. Ela funciona por streaming da versão do Xbox Series S. Os testes sugerem que a Microsoft reservou recursos adicionais para o streaming do jogo, porque a qualidade foi considerada significativamente melhor do que a de outros jogos disponíveis por esse método.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "Thomas Morgan, da Digital Foundry, afirma, segundo o VGC, que não há dúvida de que essa é a porta de entrada mais barata para jogar, e que ficou impressionado com a arquitetura de servidores montada para reduzir problemas de latência e compressão. Lado a lado, a imagem do Xbox One é mais borrada que a do Series S, mas é preciso olhar com atenção para notar, e o desfoque de movimento ajuda a esconder as diferenças.",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "A Digital Foundry também elogiou o trabalho para reduzir o atraso de resposta, e a taxa de quadros do Xbox One e do Series S é descrita como um para um. O ponto negativo, de acordo com o VGC, são problemas de ritmo de quadros no Xbox One, que deixam a experiência menos suave que a do Series S, mesmo quando chega aos 30 quadros.",
+      "items": []
+    },
+    {
+      "type": "h2",
+      "text": "O que falta",
+      "items": []
+    },
+    {
+      "type": "p",
+      "text": "O Eurogamer lembra que não há modos de 60 e de 40 quadros por segundo nem no PS5 Pro, e comenta que será interessante ver quais especificações de PC serão necessárias para igualar os visuais de console a 60 quadros ou mais. O Kotaku resume que, com todos os consoles limitados a 30 quadros por segundo, o jogador tem basicamente a mesma experiência em qualquer um deles.",
+      "items": []
+    }
+  ]
+}
