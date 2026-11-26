@@ -16867,7 +16867,7 @@
     "slug": "gta6-corte-syndicate",
     "data": "2026-11-25",
     "horario": "23:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Syndicate jogando GTA 6\n📺 twitch.tv/syndicate\n\n#gta6 #gtavi #syndicate #pixelzada",
     "tentativas": 0,
@@ -16890,6 +16890,19 @@
       "motivo": "streamer com fone e gameplay de barco, sem conteúdo sexual",
       "por": "imagem",
       "em": "2026-11-22T07:15:20-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-25T23:01:32-03:00",
+      "media_id": "18347581807286237",
+      "permalink": "https://www.instagram.com/reel/DgL_BY9hXO6/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
