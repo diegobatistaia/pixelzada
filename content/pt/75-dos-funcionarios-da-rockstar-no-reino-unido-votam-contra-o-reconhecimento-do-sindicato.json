@@ -18,7 +18,10 @@
     "query": "Rockstar union vote",
     "alt": "Imagem de GTA 6 divulgada pelo Kotaku em matéria sobre a votação do sindicato da Rockstar",
     "url": "https://kotaku.com/app/uploads/2026/11/GTA-6-couple-1200x675.jpg",
-    "credit": "Imagem: Kotaku"
+    "credit": "Imagem: Kotaku",
+    "path": "/assets/img/75-dos-funcionarios-da-rockstar-no-reino-cd8ff5ea.jpg",
+    "source_url": "",
+    "foco": "65% 21%"
   },
   "sources": [
     {
@@ -52,7 +55,7 @@
       "title": "Rockstar workers vote against unionization"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -139,5 +142,7 @@
       "text": "Com o resultado, o sindicato segue existindo e organizando, e a Rockstar continua sem obrigação formal de negociar coletivamente. A PC Gamer avalia que, com apenas 25% a favor, ainda há um longo caminho pela frente. O IWGB diz que vai continuar tentando ganhar a confiança dos funcionários.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T16:48:08+00:00",
+  "updated_at": "2026-11-26T16:48:08+00:00"
 }

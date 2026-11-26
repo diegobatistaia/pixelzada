@@ -18,7 +18,10 @@
     "query": "GTA 6 buildings",
     "alt": "Imagem de GTA 6 divulgada pelo Eurogamer em matéria sobre prédios acessíveis",
     "url": "https://assetsio.gnwcdn.com/boobie-gta-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-    "credit": "Imagem: Eurogamer"
+    "credit": "Imagem: Eurogamer",
+    "path": "/assets/img/jogadores-descobrem-que-da-para-entrar-e-2c3a1c83.jpg",
+    "source_url": "",
+    "foco": "68% 9%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "Someone counted all 5,588 buildings in GTA 6"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -111,5 +114,7 @@
       "text": "O Eurogamer recomenda aproveitar uma hora ou mais para passear pelo mapa e curtir o cenário, já que muitos dos melhores segredos do jogo estão fora dos caminhos principais, inclusive entregas aleatórias de produtos ilícitos espalhadas pelo mapa.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-26T16:48:08+00:00",
+  "updated_at": "2026-11-26T16:48:08+00:00"
 }
