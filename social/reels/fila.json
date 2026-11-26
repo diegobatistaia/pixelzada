@@ -17413,7 +17413,7 @@
     "slug": "gta6-corte-burgaofps",
     "data": "2026-11-26",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 BURGAOfps jogando GTA 6\n📺 twitch.tv/burgaofps\n\n#gta6 #gtavi #burgaofps #pixelzada",
     "tentativas": 0,
@@ -17436,6 +17436,19 @@
       "motivo": "streamer jogando e pessoa pedalando vestida ao fundo",
       "por": "imagem",
       "em": "2026-11-22T03:12:34-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T19:03:06-03:00",
+      "media_id": "17915924940592379",
+      "permalink": "https://www.instagram.com/reel/DgOIh96K6mM/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
