@@ -17749,7 +17749,7 @@
     "slug": "gta6-corte-sinxplaysbr",
     "data": "2026-11-27",
     "horario": "10:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Sinxplaysbr jogando GTA 6\n📺 twitch.tv/sinxplaysbr\n\n#gta6 #gtavi #sinxplaysbr #pixelzada",
     "tentativas": 0,
@@ -17772,6 +17772,19 @@
       "motivo": "streamer com camisa e cenas de gameplay vestidas",
       "por": "imagem",
       "em": "2026-11-22T02:16:08-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-27T10:02:03-03:00",
+      "media_id": "18660644428024423",
+      "permalink": "https://www.instagram.com/reel/DgPvZyCT2Lm/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
