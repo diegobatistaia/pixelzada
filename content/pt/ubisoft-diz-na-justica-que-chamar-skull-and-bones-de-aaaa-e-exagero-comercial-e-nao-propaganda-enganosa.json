@@ -18,7 +18,9 @@
     "query": "Skull and Bones Ubisoft",
     "alt": "Arte de Skull and Bones, jogo de piratas da Ubisoft",
     "url": "https://www.videogameschronicle.com/files/2020/11/Skull-and-Bones-d.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/ubisoft-diz-na-justica-que-chamar-skull--3ded746e.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -34,7 +36,7 @@
       "title": "Ubisoft defends calling Skull & Bones a quadruple-A game in lawsuit"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -121,5 +123,7 @@
       "text": "A decisão favorável à Ubisoft não encerra o assunto: se o processo voltar em outro estado, a empresa terá de defender de novo a ideia de que o rótulo AAAA é só opinião. Para quem compra jogos, o debate mais concreto talvez seja o outro, o da propriedade digital, que aparece nos dois relatos como o centro da ação e segue sem resposta favorável ao consumidor.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-27T14:47:33+00:00",
+  "updated_at": "2026-11-27T14:47:33+00:00"
 }
