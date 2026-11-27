@@ -18,7 +18,9 @@
     "query": "The Simpsons Hit and Run",
     "alt": "Arte do jogo The Simpsons: Hit & Run",
     "url": "https://www.videogameschronicle.com/files/2023/01/The-Simpsons-Hit-and-Run.jpg",
-    "credit": "Imagem: VGC"
+    "credit": "Imagem: VGC",
+    "path": "/assets/img/projeto-cancelado-da-new-radical-games-r-e4848cc4.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -46,7 +48,7 @@
       "title": "Simpsons Hit & Run remake rumored cancelled"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -133,5 +135,7 @@
       "text": "Até que a empresa, a Disney ou os envolvidos falem oficialmente, a recomendação é tratar tudo como rumor: existe um projeto cancelado e existem pistas curiosas, mas nenhuma confirmação de que o remake chegou a existir.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-27T20:38:56+00:00",
+  "updated_at": "2026-11-27T20:38:56+00:00"
 }
