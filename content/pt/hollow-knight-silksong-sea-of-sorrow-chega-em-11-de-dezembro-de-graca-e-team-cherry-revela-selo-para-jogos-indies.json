@@ -18,7 +18,9 @@
     "query": "Hollow Knight Silksong Sea of Sorrow",
     "alt": "Arte de divulgação da data de Sea of Sorrow, expansão de Hollow Knight: Silksong",
     "url": "https://www.gematsu.com/wp-content/uploads/2026/11/Sea-of-Sorrow-Date_11-27-26.jpg",
-    "credit": "Imagem: Gematsu"
+    "credit": "Imagem: Gematsu",
+    "path": "/assets/img/hollow-knight-silksong-sea-of-sorrow-che-c906bcbb.jpg",
+    "source_url": ""
   },
   "sources": [
     {
@@ -58,7 +60,7 @@
       "title": "Sea of Sorrow, DLC grátis de Hollow Knight: Silksong, chega em dezembro"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -140,5 +142,7 @@
       "text": "Com a data marcada, a expectativa agora gira em torno do que Sea of Sorrow vai acrescentar além do que o trailer mostrou. Quem ainda não terminou a campanha tem duas semanas para se preparar.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-27T19:05:40+00:00",
+  "updated_at": "2026-11-27T19:05:40+00:00"
 }

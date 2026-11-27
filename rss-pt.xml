@@ -5,8 +5,16 @@
     <link>https://pixelzada.com.br/pt/</link>
     <description>Notícias, guias e lançamentos de games. Tudo checado, sempre com fonte.</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 27 Nov 2026 14:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:05:42 +0000</lastBuildDate>
     <atom:link href="https://pixelzada.com.br/rss-pt.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hollow Knight: Silksong recebe Sea of Sorrow em 11 de dezembro, de graça, e Team Cherry cria selo para jogos indies</title>
+      <link>https://pixelzada.com.br/pt/hollow-knight-silksong-sea-of-sorrow-chega-em-11-de-dezembro-de-graca-e-team-cherry-revela-selo-para-jogos-indies/</link>
+      <guid isPermaLink="true">https://pixelzada.com.br/pt/hollow-knight-silksong-sea-of-sorrow-chega-em-11-de-dezembro-de-graca-e-team-cherry-revela-selo-para-jogos-indies/</guid>
+      <description>Sea of Sorrow, expansão gratuita de Hollow Knight: Silksong, sai em 11 de dezembro. Veja o que o trailer mostrou e o selo Team Cherry Presents, com três indies.</description>
+      <category>Lançamentos</category>
+      <pubDate>Fri, 27 Nov 2026 19:05:40 +0000</pubDate>
+    </item>
     <item>
       <title>Ubisoft diz na Justiça que chamar Skull and Bones de AAAA é exagero comercial e não propaganda enganosa</title>
       <link>https://pixelzada.com.br/pt/ubisoft-diz-na-justica-que-chamar-skull-and-bones-de-aaaa-e-exagero-comercial-e-nao-propaganda-enganosa/</link>
@@ -238,14 +246,6 @@
       <description>Primeiro patch de GTA 6, o update 01.002.002, pesa 603,8 MB no PS5 e 1,6 GB no Xbox e mexe em clima, autosave e travamentos. Veja o que muda e o que falta.</description>
       <category>GTA 6</category>
       <pubDate>Mon, 23 Nov 2026 16:49:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 roda a 60 fps no Xbox Series X com glitch do Quick Resume, mas o jogo fica em velocidade dobrada</title>
-      <link>https://pixelzada.com.br/pt/gta-6-roda-a-60-fps-no-xbox-series-x-com-glitch-do-quick-resume-mas-o-jogo-fica-em-velocidade-dobrada/</link>
-      <guid isPermaLink="true">https://pixelzada.com.br/pt/gta-6-roda-a-60-fps-no-xbox-series-x-com-glitch-do-quick-resume-mas-o-jogo-fica-em-velocidade-dobrada/</guid>
-      <description>Jogador destrava os fps de GTA 6 no Xbox Series X com glitch do Quick Resume e chega a 90 fps, mas a jogabilidade fica em velocidade dobrada. Veja como.</description>
-      <category>GTA 6</category>
-      <pubDate>Mon, 23 Nov 2026 14:49:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
