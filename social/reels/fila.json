@@ -17497,7 +17497,7 @@
     "slug": "gta6-corte-joao01doturno-2",
     "data": "2026-11-26",
     "horario": "21:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 joao01doturno jogando GTA 6\n📺 twitch.tv/joao01doturno\n\n#gta6 #gtavi #joao01doturno #pixelzada",
     "tentativas": 0,
@@ -17520,6 +17520,19 @@
       "motivo": "imagens mostram gameplay de jogo de tiro com personagens vestidos e armas",
       "por": "imagem",
       "em": "2026-11-22T03:12:43-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-26T21:02:39-03:00",
+      "media_id": "18119439674028753",
+      "permalink": "https://www.instagram.com/reel/DgOWNUDxpGM/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
