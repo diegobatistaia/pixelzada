@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T14:38:37+00:00",
-  "posts_per_language_today": 2,
+  "generated_at": "2026-11-27T18:56:50+00:00",
+  "posts_per_language_today": 3,
   "daily_cap_per_language": 10,
-  "already_written_today": 0,
+  "already_written_today": 1,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -42,164 +42,225 @@
   ],
   "stories": [
     {
-      "story_id": "90dafddfd6353cb1",
-      "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-      "summary": "Rockstar's Grand Theft Auto 6 is finally here, and to play the game natively, you need a PlayStation 5 or Xbox Series X|S. Unsurprisingly, new data shows that PlayStation and Xbox console sales surged in the week before release. According to Circana's Mat Piscatella , there was a \"significant surge\" in hardware sales in the US for the week that ended November 14. PS5 sales were >2.4x the same...",
+      "story_id": "eb5acb0847e3d181",
+      "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
+      "summary": "Hollow Knight: Silksong developer Team Cherry is set to issue a long-awaited update on expansion Sea of Sorrow during a Direct-style special presentation today, and IGN is reporting live.",
       "owners": [
-        "fandom",
+        "future-plc",
+        "gameblast",
         "gematsu",
+        "insider-gaming",
+        "keleops",
+        "nzn",
+        "vgc",
         "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "01025a48bed25e59",
-        "bf070608b97fbeff",
-        "4f63fd399d438afd"
+        "2d7ff776f0701187",
+        "488d6b01e9d1d96b",
+        "1b79c91f56693110",
+        "8ae2d41ed3a44e2f",
+        "426c288e969a65e3",
+        "a970900b998b7b84",
+        "5d9325b86649360b",
+        "81a5bc2bcf8147ca",
+        "50bf72f3a9f5752c",
+        "6a483e096120c568"
       ],
       "sources": [
         {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/ps5-and-xbox-series-xs-console-sales-surged-just-before-gta-6-came-out/",
-          "title": "PS5 And Xbox Series X|S Console Sales Surged Just Before GTA 6 Came Out",
-          "published_at": "2026-11-25T16:05:50+00:00",
+          "name": "IGN",
+          "owner": "ziff-davis",
+          "url": "https://www.ign.com/articles/excitement-builds-for-hollow-knight-silksong-news-ahead-of-cherry-time-special-presentation",
+          "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
+          "published_at": "2026-11-27T14:32:24+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "I must say, I thought we'd get more than a teaser trailer and a release date for Sea of Sorrow when it comes to Hollow Knight news from this presentation, but perhaps Team Cherry wants to hold back. It said barely anything about the expansion itself, although the trailer did tease new elements. It was cool to see Team Cherry use its enormous platform to boost three Australian indie devs though. I imagine they're thrilled to have their games put in front of such a huge audience. Good luck to them! Well, it's time to wrap this live blog up. Thanks for tuning in. See you at the next one!",
+          "image": "https://assets-prd.ignimgs.com/2026/11/27/cherry-main-1795789809266.jpg?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
-          "name": "Eurogamer",
+          "name": "IGN",
           "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
-          "title": "GTA 6 reinvigorates PlayStation 5 and Xbox Series S/X console sales in the US, even at their inflated prices",
-          "published_at": "2026-11-26T09:40:10+00:00",
+          "url": "https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
+          "title": "Hollow Knight: Silksong - Sea of Sorrow Launch Trailer Finally Confirms Release Date, Teases Fishing",
+          "published_at": "2026-11-27T15:36:31+00:00",
           "kind": "press",
-          "text": "Despite the far higher prices of PlayStation and Xbox consoles today compared to their launch, or even the same period last year, both brands of console saw a significant boost in US sales leading up to the launch of this generation's biggest game: Grand Theft Auto 6. In the week ending 14th November, PS5 hardware unit sales registered a 2.4x increase over the same week last year. Xbox wasn't far behind, seeing a 2.3x increase in its own unit sales. That's according to industry analyst Mat Piscatella at Circana , who pulled the data from Circana's retail tracking service, which covers the US retail market. The PS5 Pro only accounted for less than 10 percent of the PlayStation's total unit sales, by the way, which Piscatella noted was \"a LOT better than it has been in recent weeks\", and seemingly the result of increased supply. GTA 6, of course, released on 19th November, so the surge in console hardware sales was clearly driven by the rush to attain consoles before the game came out. And while the GTA 6-driven demand isn't surprising, it's worth noting how much more expensive PS5 and Xbox Series X/S consoles are today. A standard PS5 today costs $650, compared to $550 a year ago. The PS5 Pro saw a big jump from $750 last November to $900 today. The base Xbox Series X jumped from $650 last year to $800 today, while Series S now costs $500, up from $400. Even Switch 2, where GTA 6 is not available, saw a notable boost of 40 percent in hardware sales over the same period, driven by The Legend of Zelda: Ocarina of Time remake and the special edition Zelda Switch 2 console . Circana's November US video game market report, which releases in December, is already one of the most anticipated this year, for digesting and documenting the GTA 6 effect. Worldwide, GTA 6 sold more than 32.5m copies in one day , making Rockstar's parent company Take-Two $3.79bn (£2.89bn) in revenue. We haven't had any updated official sales figures since; but estimates suggest the sales figure could be well into the 40-millions. Perhaps Rockstar is waiting to hit the nice round 50m sales mark before announcing it. If you're playing GTA 6, you may want to keep Eurogamer's GTA 6 walkthrough to hand. It has plenty of very helpful guides covering the game's main missions, as well as explainers for mechanics like romance and the criminal profile , and even cheats for when you finish the game.",
-          "image": "https://assetsio.gnwcdn.com/gta-6-lucia-duffle-bag-low-angle-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          "text": "Team Cherry has just wrapped up its Cherry Time! showcase, giving us some long-awaited news on the future of Hollow Knight: Silksong. The big takeaway here is that Hollow Knight: Silksong's first big expansion, Sea of Sorrow, finally has a release date of December 11. Sea of Sorrow will be available to all Silksong players for free. All you need is a copy of the base game, and you can start playing Sea of Sorrow when it goes live on December 11. This also means Team Cherry has stuck to its promise to get Sea of Sorrow out by the end of the year. Some had feared that today's announcement would be a delay — or an announcement that the DLC was being expanded into a full game, which is famously how Silksong's development began. In the showcase, we got a new look at Sea of Sorrow's gameplay. This gives us a good preview of what's in store for us, as we see new areas, enemies, and boss fights. Of course, it all looks as challenging as ever, as you'd expect for Silksong's post-launch DLC. And is that a fishing mini-game teased at the end? We weren't told anything else about the future of Silksong or the Hollow Knight series at large. There was no mention of this being Silksong's only expansion, so it's very possible that Team Cherry plans to support the game beyond Sea of Sorrow. For now, here's the official blurb on Sea of Sorrow: Outside of this reveal, Team Cherry used the attention to promote indie games from other studios. Three were shown off: Blokkan: Secret of the Walking City, which is fully hand-drawn; Radio Rain, which is centred around 1980s-inspired music; and The Botanist and the Translator, which boasts a Sailor Moon-esque vibe. In a follow-up blog post , Team Cherry confirmed that these new games will release under the new Team Cherry Presents label, which is headed up by the indie developer's fourth team member, Huy Le. Huy is technical director and on-going support for all the Team Cherry Presents games, but has also helped out on Silksong and Sea of Sorrow. \"As a long-time team of three people, adding a fourth member is a big deal!\" Team Cherry said. Rhiannon (she/her) is a freelance journalist who has been in the industry since 2019. She won MCV's Women in Games award in 2025 and adores RPGs. You can follow her on Bluesky at @rhithewitch.",
+          "image": "https://assets-prd.ignimgs.com/2026/11/27/screenshot-2026-11-27-153357-1795793658837.png?width=1280&format=jpg&auto=webp&quality=80"
         },
         {
           "name": "Gematsu",
           "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/retail-hell-coming-to-ps5-xbox-series-and-switch",
-          "title": "Retail Hell coming to PS5, Xbox Series, and Switch",
-          "published_at": "2026-11-26T14:46:52+00:00",
+          "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
+          "title": "Hollow Knight: Silksong free expansion ‘Sea of Sorrow’ launches December 11",
+          "published_at": "2026-11-27T15:11:41+00:00",
           "kind": "press",
-          "text": "Publisher Feardemic and developer LEAP Game Studios will release simulation horror game Retail Hell for PlayStation 5 , Xbox Series , and Switch , the companies announced. A release date was not announced. Retail Hell first launched for PC via Steam on May 21. Here is an overview of the game, via its Steam page : Welcome to Retail Hell , the most “beloved” convenience store in Purgatory, where nothing stays stocked, no customer is human, and every shift lasts forever. You play as an overworked clerk stuck in a literal dead-end job. Each shift forces you to juggle supernatural customer service, collapsing inventory, and the unsettling mystery of how you ended up here. In Retail Hell , customer service is eternal. Good luck, management does not believe in refunds.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Retail-Hell_11-26-26.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "bd8abfb5320274e3",
-      "title": "Jogos Mensais PlayStation Plus de dezembro: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
-      "summary": "Mande ver nos corrimãos, enfrente ícones e fuja de horrores além da compreensão com os Jogos Mensais PlayStation Plus de dezembro. Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2 e Amnesia: The Bunker ficam disponíveis para todos os assinantes do PlayStation Plus* de terça-feira, 1º de dezembro, até segunda-feira, 4 de janeiro. Vamos conhecer […]",
-      "owners": [
-        "gameblast",
-        "olhar-digital",
-        "sony"
-      ],
-      "primary_owners": [
-        "sony"
-      ],
-      "fingerprints": [
-        "ce7f3a8af626a9e0",
-        "54ef2952ef1ebf6c",
-        "5bd6eea7032de65e"
-      ],
-      "sources": [
+          "text": "Hollow Knight: Silksong free expansion “Sea of Sorrow” will launch on December 11, developer Team Cherry announced . “In ‘Sea of Sorrow,’ players will voyage above and beneath Pharloom’s forgotten ocean, across islands, through forts and into deep caverns beneath the waves,” Team Cherry said. “We’ve spent the whole year stuffing this adventure full with all the things you’d expect from Hollow Knight: Silksong —crazed characters, high adventure, and epic bosses! It’s also overflowing with more exceptional music by the eternally talented Christopher Larkin! We’re pretty darn excited to get it into all of your hands on December 11, so please look forward to it.” Hollow Knight: Silksong is available now for PlayStation 5 , Xbox Series , Switch 2 , PlayStation 4 , Xbox One , Switch , and PC via Steam , GOG , Humble Store , and Microsoft Store . It is also available via Game Pass.",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Sea-of-Sorrow-Date_11-27-26.jpg"
+        },
         {
-          "name": "PlayStation Blog BR",
-          "owner": "sony",
-          "url": "https://blog.br.playstation.com/2026/11/25/jogos-mensais-playstation-plus-de-dezembro-tony-hawks-pro-skater-34-dragon-ball-xenoverse-2-amnesia-the-bunker/",
-          "title": "Jogos Mensais PlayStation Plus de dezembro: Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2, Amnesia: The Bunker",
-          "published_at": "2026-11-25T16:31:43+00:00",
-          "kind": "primary",
-          "text": "Todos disponíveis a partir de 1 de dezembro. Mande ver nos corrimãos, enfrente ícones e fuja de horrores além da compreensão com os Jogos Mensais PlayStation Plus de dezembro. Tony Hawk’s Pro Skater 3+4, Dragon Ball Xenoverse 2 e Amnesia: The Bunker ficam disponíveis para todos os assinantes do PlayStation Plus* de terça-feira, 1º de dezembro, até segunda-feira, 4 de janeiro. Vamos conhecer um pouco mais sobre cada jogo. Tony Hawk’s Pro Skater 3+4 – Edição Cross-Gen | PS5, PS4 Avise a vizinhança e chame a galera do skate, porque a manobra não morreu: a clássica franquia volta com Tony Hawk’s™ Pro Skater™ 3 + 4. Tudo o que você curtia está de volta e repaginado, com mais skatistas, pistas novas, manobras mais pesadas, trilha sonora no volume máximo e muito mais. Caia nas pistas novas ou detone pelos cenários clássicos de Tony Hawk’s Pro Skater 3 e Tony Hawk’s Pro Skater 4, recriados em 4K**, com objetivos mais diretos e o clássico formato de 2 minutos. Jogue do seu jeito nos modos expandidos Criar um Skatista e Criar um Parque, agora com a opção inédita de criar objetivos personalizados para compartilhar com os amigos. Dragon Ball Xenoverse 2 entrega uma experiência completa de Dragon Ball, com muita ação, batalhas intensas e diversas opções de personalização. Crie seu personagem, explore Conton City e treine com mestres icônicos da série para enfrentar inimigos poderosos e proteger o fluxo da História. Dragon Ball Xenoverse 2 também traz modos multijogador online para enfrentar jogadores do mundo todo ou entrar em Batalhas de Invasão contra inimigos gigantes em equipe. Amnesia: The Bunker é um jogo de terror em primeira pessoa dos criadores de Soma e Amnesia. Sozinho em um bunker abandonado da Primeira Guerra Mundial, com apenas uma bala no tambor, você precisa encarar os horrores que espreitam no escuro. Descubra várias maneiras de sobreviver lá dentro. Na pele do soldado francês Henri Clément, você conta com um revólver, uma lanterna de dínamo barulhenta e poucos suprimentos para coletar e criar itens pelo caminho. Com elementos aleatórios e comportamento imprevisível, nenhuma partida é igual à outra. Caçado por uma ameaça constante que reage a cada passo e som, você precisa adaptar seu estilo de jogo para sobreviver a esse inferno. Cada decisão muda a forma como o jogo reage. Toda ação tem consequência. Última chance para adicionar os Jogos Mensais PlayStation Plus de novembro Assinantes PlayStation Plus têm até segunda-feira, 30 de novembro, para adicionar os Jogos Mensais de novembro à biblioteca: Dead Island 2, Tomb Raider IV – VI Remastered e Monster Train 2. *A seleção PlayStation Plus pode variar de acordo com a região. Consulte PlayStation.com para mais detalhes. **A versão de PS5 roda em 4K nativo a 60 FPS no modo Fidelidade. A saída 4K exige um dispositivo ou tela compatível com 4K.",
-          "image": "https://blog.br.playstation.com/tachyon/sites/4/2026/11/3b19c0c254cc30ae1e6473b1f5e22c51ab3d13d1-scaled.jpg"
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/action/hollow-knight-silksongs-sea-of-sorrow-dlc-launches-in-2-weeks-team-cherry-calls-it-an-expansion-unlike-any-weve-done-before/",
+          "title": "Hollow Knight: Silksong Sea of Sorrow DLC launches in 2 weeks",
+          "published_at": "2026-11-27T15:14:26+00:00",
+          "kind": "press",
+          "text": "Team Cherry has confirmed that Hollow Knight: Silksong 's Sea of Sorrow DLC will be releasing on December 11, 2026. This was confirmed in the developer's \"Cherry Time! Special Presentation,\" which featured a new trailer for the expansion alongside the announcement of its release date (and the showcase of three lovely looking indie titles). And thankfully we're not going to be waiting very long, as Sea of Sorrow is coming out in two weeks, with the devs hyping it up as an \"expansion unlike any we've done before.\" As promised, Sea of Sorrow is a \"high-seas adventure,\" with the trailer featuring Hornet arriving on a boat to uncharted shores and taking the fight to pirate bugs who yelp \"arghhh\" when you beat them with a very Donkey Kong Country 2-coded sound effect. We also saw her blasting out of cannons, climbing net ladders, and getting in scraps with multiple giant pirate bosses. We knew its release had to be soon as the DLC, which was announced shortly after Silksong launched, was previously given a 2026 release window – although given the reveal to release timeline of the game itself, it's perhaps no surprise that some have not been so trusting, especially when that date vanished on the game's physical copy. While Silksong famously started out as a DLC for the original Hollow Knight, it's easy to forget that the original got multiple DLC packs, with four free expansions released within its two years. Team Cherry didn't confirm what DLC is still to come for Silksong, but given it's the \"first big content update\" I'm sure fans will be fed for a while yet. Katana Zero pulls a Hollow Knight: Silksong - the beloved action game's DLC is now \"the size of a full sequel\" after 7 years of development. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/fswVh45rpNiU4zSVF9SgAo-1920-80.jpg"
+        },
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame",
+          "title": "Hollow Knight: Silksong's first big expansion, Sea of Sorrow, comes out in two weeks - and seems to include a fishing minigame",
+          "published_at": "2026-11-27T15:16:10+00:00",
+          "kind": "press",
+          "text": "Hollow Knight: Silksong developer Team Cherry debuted a special 'Cherry Time Special Presentation' today (27th November), with the aim of bringing more information to light about the game's first big DLC offering, Sea of Sorrows, but also provide a nice little springboard for some other indie titles. But first, the reason we're all here: Sea of Sorrow is \"an expansion like we've never done before\", says Team Cherry, before showing off a trailer for the content - which will be free for all players, in case you've forgetten. The trailer confirms the release date for the DLC, 11th December, and teases some new environments, enemies, bosses and - right at the end - what looks like a fishing mini-game. But of course, this is a nautical-themed expansion, after all. Team Cherry has hinted at the future of Silksong before. Recently, and more than a year after its initial release, physical versions of Hollow Knight: Silksong finally began arriving on players' doorsteps. These editions seemed to tease previously unconfirmed \"free content packs\" (note the plural). \"The world of Hollow Knight: Silksong will expand with free content packs,\" the booklet read in the physical editions. \"Prepare for even more adventures filled with new friends, new abilities, and new ferocious foes!\" We have no hint on what will happen next for Silksong, though, off the back of this presentation. At the start of the show, the two founders of Team Cherry (that's William Pellen and Ari Gibson) used their platform to show off three cool little indie games from other developers in the scene: In September last year, Eurogamer gave five stars to Hollow Knight: Silksong , calling it \"pretty and charmingly mean-spirited\" whilst praising it as a \"game filled with revelations and genuine personality\". I'm excited to get my hands on more of this sumptuous Metroidvania.",
+          "image": "https://assetsio.gnwcdn.com/sea-of-sorrows-silksong.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319",
+          "title": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
+          "published_at": "2026-11-27T15:25:27+00:00",
+          "kind": "press",
+          "text": "DLC Hollow Knight: Silksong Release Date Sea of Sorrows After an extended period of silence regarding its much anticipated expansion for Hollow Knight: Silksong , Team Cherry is back with a big update on its upcoming DLC, Sea of Sorrow . The new content drops on December 11, 2026. Even better, it’s free for all players. The Sea of Sorrow launch trailer shows off what appear to be several new biomes and lots of other features, including what appears to be a new crest based on how Hornet is moving int he new gameplay footage. The announcement was part of a Team Cherry showcase that promoted three other very cool-looking indie games that the studio will be publishing called Radio Rain, Untangle: Plant Problems, Blokkan: Secret of the Walking City. Here’s the full thing (the Sea of Sorrow reveal is in the last few minutes): It looks like a pretty major expansion. Fans are ecstatic. And yes, it looks like there’s a new fishing minigame coming to the Soulslike Metroidvania. Team Cherry also called Sea of Sorrow Silksong ‘s “first major expansion,” suggesting there could be others as well. The Hollow Knight sequel launched in September 2025 and was everything fans were hoping for. It’s tough as nails but, like Zelda: Tears of the Kingdom ‘s relationship to Breath of the Wild , feels like a step forward in all the right ways. The post- GTA 6 hangover was leaving December looking thin for new game releases, so the launch date is a nice surprise. “ It feels like Christmas came early and Sanata is here, but instead it’s Team Cherry that came down the chimney,” one player wrote on YouTube.Â Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Indie devs are facing tighter pricing pressures than ever Players thought they'd be entitled to all of the year two racers as well If you want a better-looking version of the famous killer, you'll also need to fork over another $10 GenAI has made things worse, but it's been bad for a while There's three months left on the clock for the Sea of Sorrows DLC to come out, but a lack of updates bodes ill",
+          "image": "https://kotaku.com/app/uploads/2026/11/sea-of-sorrow-1200x675.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/hollow-knights-free-sea-of-sorrow-dlc-releases-in-december/",
+          "title": "Hollow Knight: Silksong’s Free Sea of Sorrow DLC Releases in December",
+          "published_at": "2026-11-27T15:54:15+00:00",
+          "kind": "press",
+          "text": "Team Cherry has announced the release date for Hollow Knight: Silksong’s upcoming Sea of Sorrow DLC. It’s arriving in 2026, and it’s actually only a couple of weeks away. The developers behind the epic Hollow Knight: Silksong revealed almost a year ago that Silksong was getting a free expansion coming in 2026 . There are no delays or radio silence this time; Team Cherry has finally unveiled its release date. Hollow Knight: Silksong is getting a free expansion. Sea of Sorrow looks to build on the epic world of the sequel, and Team Cherry revealed on November 27 that the new DLC launches on December 11, 2026. Check out what Team Cherry said about Hollow Knight: Silksong Sea of Sorrow: We’ve just announced three exciting new games being developed by a few of our close friends, and, if that wasn’t enough, there’s now an imminent release date for Hollow Knight: Silksong’s first big content update – Sea of Sorrow! Arriving free for all players on December 11! In Sea of Sorrow, players will voyage above and beneath Pharloom’s forgotten ocean, across islands, through forts and into deep caverns beneath the waves. We’ve spent the whole year stuffing this adventure full with all the things you’d expect from Hollow Knight: Silksong – crazed characters, high adventure, and epic bosses! It’s also overflowing with more exceptional music by the eternally talented Christopher Larkin! We’re pretty darn excited to get it into all of your hands on December 11, so please look forward to it.’ It looks just as difficult, just as punishing, and just as fun as the base game. Here’s the official trailer for Sea of Sorrow. How excited are you for Sea of Sorrow? Let us know your thoughts via the free Insider Gaming Discord server . For more Insider Gaming content, read ‘ Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled .’ Don’t forget to sign up for our free weekly newsletter . Andy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…",
+          "image": "https://insider-gaming.com/wp-content/uploads/2025/12/Hollow-Knight-Silksong-Sea-of-Sorrow-DLC-Release-Period-Explained-guide.jpg"
         },
         {
           "name": "GameBlast",
           "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/playstation-plus-confira-jogos-mensais-dezembro-2026.html",
-          "title": "PlayStation Plus: confira os jogos mensais de dezembro de 2026",
-          "published_at": "2026-11-25T18:50:34+00:00",
+          "url": "https://www.gameblast.com.br/2026/11/hollow-knight-silksong-expasao-gratuita-sea-of-sorrow-sera-lancada-em-11-de-dezembro-confira-o-trailer.html",
+          "title": "Hollow Knight: Silksong: expasão gratuita Sea of Sorrow será lançada em 11 de dezembro, confira o trailer",
+          "published_at": "2026-11-27T15:54:43+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "Retome o controle de Hornet na primeira grande expansão de Silksong. Hollow Knight: Silksong já está disponível para PlayStation 4, PlayStation 5, Xbox One, Xbox Series, Nintendo Switch, Nintendo Switch 2 e PC (via Steam e Microsoft Store ). O título também está disponível no catálogo do Game Pass, para assinantes do serviço.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh77gPt1ipeH8KIee2OoG6-N1-bzYsBBjoBr9KrOh_6vM5epHs4gn8QMX9_msJK0W3LAz9wiBVq_3YHRE6jlQd3SWOE3ntTeorCveTm4geYeGmLRhDBOftmyLKpVCWRkhWoXGgLZJ3u-IspI7_15nmQr9UeugSe83t4HZPu-6twN1JGZCPttxtxwP9soyY/w1200-h630-p-k-no-nu/BlastCapa.jpg"
         },
         {
-          "name": "Olhar Digital Games",
-          "owner": "olhar-digital",
-          "url": "https://olhardigital.com.br/2026/11/26/games-e-consoles/ps-plus-dezembro-2026-jogos-mensais/",
-          "title": "PS Plus de dezembro: Sony revela três jogos mensais; confira a lista",
-          "published_at": "2026-11-26T16:00:00+00:00",
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/",
+          "title": "Hollow Knight: Silksong’s first expansion, Sea of Sorrow, is officially out next month",
+          "published_at": "2026-11-27T16:07:26+00:00",
           "kind": "press",
-          "text": "A Sony revelou nesta quinta-feira (26) a lista de jogos mensais do PlayStation Plus para dezembro de 2026. Os assinantes do serviço poderão resgatar três novos títulos, que incluem experiências de esporte, ação e terror. Os jogos estarão disponíveis a partir da próxima terça-feira (1º) para assinantes de todos os planos do serviço: Essential, Extra e Deluxe. O prazo para adicioná-los à biblioteca termina em 4 de janeiro de 2027. A clássica franquia de skate retorna com versões recriadas dos cenários de Tony Hawk’s Pro Skater 3 e 4, gráficos em 4K, pistas inéditas e o tradicional formato de sessões de dois minutos. O título também amplia a seleção de skatistas e os modos de personalização de personagens e pistas, permitindo que os jogadores desenvolvam objetivos personalizados e compartilhem suas criações com amigos. Baseado na franquia criada por Akira Toriyama, Dragon Ball Xenoverse 2 permite que os jogadores criem seus próprios personagens, explorem Conton City e treinem com figuras icônicas do anime para proteger a linha do tempo da série. Além da campanha, o título oferece modalidades multijogador online e batalhas cooperativas contra inimigos gigantes. Desenvolvido pela Frictional Games, responsável por Soma e pela franquia Amnesia, o jogo de terror em primeira pessoa acompanha Henri Clément, um soldado francês preso em um bunker abandonado durante a Primeira Guerra Mundial. Com recursos limitados, o jogador precisa administrar seus equipamentos, explorar o ambiente e adaptar suas estratégias para sobreviver a uma criatura que reage aos sons e movimentos realizados durante a partida. Os assinantes do PlayStation Plus têm até segunda-feira (30) para adicionar os jogos mensais de novembro à biblioteca. São eles: Os jogos mensais resgatados permanecem disponíveis na biblioteca dos jogadores enquanto a assinatura do PlayStation Plus estiver ativa. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias . Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer.",
-          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/PS-PLUS-PlayStation-Blog-1.webp"
+          "text": "Sea of Sorrow will add new areas and bosses to Silksong Hollow Knight: Silksong’s first major expansion, Sea of Sorrow, will officially release for free on December 11, developer Team Cherry has announced. In Sea of Sorrow, players will âvoyage above and beneath Pharloomâs forgotten ocean, across islands, through forts and into deep caverns beneath the wavesâ, according to an announcement. âWeâve spent the whole year stuffing this adventure full with all the things youâd expect from Hollow Knight: Silksong – crazed characters, high adventure, and epic bosses,â Team Cherry said. âItâs also overflowing with more exceptional music by the eternally talented Christopher Larkin ! Weâre pretty darn excited to get it into all of your hands on December 11, so please look forward to it.â",
+          "image": "https://www.videogameschronicle.com/files/2025/12/hollow-knight-silksong-sea-of-sorrow.jpg"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/sea-of-sorrow-dlc-gratis-de-hollow-knight-silksong-chega-em-dezembro/",
+          "title": "Sea of Sorrow, DLC grátis de Hollow Knight: Silksong, chega em dezembro",
+          "published_at": "2026-11-27T16:22:00+00:00",
+          "kind": "press",
+          "text": "A Team Cherry anunciou nesta quinta-feira (27) a data de lançamento de Sea of Sorrow , primeira grande expansão de conteúdo de Hollow Knight: Silksong . A DLC será lançada em 11 de dezembro de 2026 e estará disponível gratuitamente para todos os jogadores que possuem o game. A novidade foi revelada durante a apresentação Cherry Time!, que também trouxe um novo trailer com cenas inéditas da expansão. O vídeo mostra algumas das novas áreas, inimigos e chefes que aguardam Hornet em sua próxima aventura, mantendo o nível de desafio característico da franquia. O material também dá uma breve pista de uma possível atividade de pesca, que aparece nos momentos finais do trailer. Embora a Team Cherry não tenha confirmado detalhes sobre a mecânica, a novidade já chama atenção entre as possibilidades de conteúdo da expansão. Segundo a descrição oficial, Sea of Sorrow levará os jogadores para explorar o oceano esquecido de Pharloom, tanto acima quanto abaixo da superfície. A aventura passará por ilhas, fortalezas e cavernas profundas escondidas sob as águas. A Team Cherry promete novos personagens, desafios e chefes épicos, além de músicas inéditas compostas por Christopher Larkin, responsável pela trilha sonora dos jogos da franquia. A desenvolvedora afirma que passou o ano inteiro trabalhando para ampliar a experiência com a expansão. Por enquanto, o estúdio não revelou se Sea of Sorrow será a única grande atualização de conteúdo de Silksong ou se outras expansões estão nos planos. Também não foram divulgados detalhes sobre a duração da aventura ou a quantidade exata de novidades. Além das novidades de Silksong, a apresentação Cherry Time também serviu para revelar três projetos desenvolvidos por estúdios independentes próximos da Team Cherry. Os títulos chegarão ao mercado sob o novo selo Team Cherry Presents , que contará com suporte técnico do estúdio responsável por Hollow Knight. O novo selo será coordenado tecnicamente por Huy Le, que também passa a integrar oficialmente a Team Cherry como seu quarto integrante. Ele ficará responsável por oferecer suporte aos desenvolvedores, criar ferramentas de desenvolvimento e ajudar na implementação de mecânicas e na resolução de problemas técnicos. Le também já colaborou diretamente com Hollow Knight: Silksong, especialmente durante a reta final de desenvolvimento. Entre suas contribuições estão trabalhos com as versões do jogo para diferentes plataformas, correções de bugs e implementação de recursos como salvamento automático, conquistas e suporte a HD Rumble. A Team Cherry ainda destacou que a chegada de um quarto integrante é um acontecimento importante para o estúdio, que tradicionalmente trabalhou com apenas três pessoas. Ainda não há datas de lançamento para os jogos apresentados pelo novo selo. E aí, ansioso para jogar o DLC de Silksong? Banco de dados desprotegido expõe quase 2 bilhões de senhas na internet Live da Virada: ofertas, cupons, promoções e desconto! Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027",
+          "image": "https://www.estadao.com.br/resizer/v2/IZZMBF6S6NMO5EVGS5JBNBSGLM.jpg?quality=80&auth=b9a179e220b8a4697518ea03360f7ff62c87e98392770270bf440cbed896f202&width=1200&height=630&smart=true"
         }
       ]
     },
     {
-      "story_id": "575afd30ec92b3f6",
-      "title": "Jogos de Tiro para PlayStation em oferta na Black Friday",
-      "summary": "Veja a lista com os principais jogos para PS5 e PS4 na Promoção de Black Friday na PS Store, válida até 1 de dezembro",
+      "story_id": "22e20cd017d698a9",
+      "title": "Fans fear for Simpsons Hit & Run remake after unannounced game from devs behind the OG is canceled",
+      "summary": "First thing tomorrow morning I'm gonna punch Lenny in the back of the head",
       "owners": [
-        "adrenaline",
-        "gameblast",
-        "meups"
+        "future-plc",
+        "keleops",
+        "meups",
+        "vgc",
+        "ziff-davis"
       ],
       "primary_owners": [],
       "fingerprints": [
-        "5a54f7af247b1a6f",
-        "1aa7a75ee37f6d3e",
-        "8ee8e8bf14ce2183",
-        "8c7adf32ae9741fa",
-        "2e0666dfaa8f9a0c",
-        "69afcadc7d141f89",
-        "8a8765b7046470c0",
-        "2a0c5cbffc5b3aa3"
+        "2c0d2ac60ec5de57",
+        "b2c651606a81d817",
+        "7d8f4c7947f04093",
+        "ecd23e64c7c9d06e",
+        "e3f6401e75893022"
       ],
       "sources": [
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-tiro-para-playstation-em-oferta-na-black-friday/",
-          "title": "Jogos de Tiro para PlayStation em oferta na Black Friday",
-          "published_at": "2026-11-25T21:00:00+00:00",
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/open-world/fans-fear-for-simpsons-hit-and-run-remake-after-unannounced-game-from-veterans-behind-the-og-is-canceled-months-after-series-creator-matt-groening-teased-a-comeback/",
+          "title": "Fans fear for Simpsons Hit & Run remake after unannounced game from devs behind the OG is canceled",
+          "published_at": "2026-11-27T12:17:50+00:00",
           "kind": "press",
-          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/10/Ajuste-Mouse-Experiencia-Battlefield-6-PC.jpg"
+          "text": "First thing tomorrow morning I'm gonna punch Lenny in the back of the head New Radical Games has had its unannounced project canceled according to a developer, with the studio speculated to have been working on a The Simpsons: Hit & Run remake. Earlier this year, Simpsons creator Matt Groening casually dropped the news that something to do with The Simpsons: Hit & Run was happening, saying at a D23 panel that \"the original game is coming back in some form.\" This, mixed with New Radical's now-deleted LinkedIn hiring post that mentioned \"our stylized game\" which would naturally fit with The Simpsons, had folks speculating that the studio – partially comprised of devs from OG Hit & Run studio, Radical Entertainment – might be working on a remake. However, whatever the studio was working on has now unfortunately been scrapped. Darren Evenson – senior game designer at New Radical Games – posts on LinkedIn saying the devs' latest project \"was part of a whole gaggle of cancellations.\" While The Simpsons link is still unconfirmed, Evenson writes \"if you don't make the money, then you don't get the power\" which is a reference to Scarface – which Radical also worked on a game for. However, this line was famously parodied in The Simpsons when Homer has his giant pile of sugar in the backyard. I could be reading entirely too much into it, but that could be a hint that this was sadly a Hit & Run remaster that was canned. Needless to say, fans aren't happy. \"I'm never going to emotionally recover from this,\" one says on Twitter in response. \"Yeah bro is paraphrasing a quote from Homer it's over boys,\" speculates another . There's no wonder the news is having such an impact, even without confirmation that a remake was definitely canceled. Sure, GTA 6 is the highest-rated game of all time and people were waiting 13 years for it to come out, but after 23 years, The Simpsons Hit & Run was the real open-world car-stealing game that everyone was waiting to see get a follow-up. The iconic licensed title is still one of the most beloved games ever made, and fans have been asking for a sequel for decades, but despite its massive success – and reports emerging that there was a sequel in the works – one never came to fruition. The unrelated The Simpsons Game was the only console game the franchise has had since. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Here are the best open world games you can play right now. Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/UkTWmJcuXw8Y6G5bGxqNQe-1920-80.jpg"
         },
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-de-black-friday-com-ate-95-de-desconto/",
-          "title": "Jogos de PC em oferta de Black Friday com até 95% de desconto",
-          "published_at": "2026-11-26T15:00:00+00:00",
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+          "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+          "published_at": "2026-11-27T12:53:49+00:00",
           "kind": "press",
-          "text": "GTA V agora roda direto no navegador, sem precisar instalar o jogo no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/11/kingdom-come-deliverance-2.webp"
+          "text": "Speculation surrounding a remake has been rife since Matt Groening suggested it was coming The remake of The Simpsons: Hit & Run that was rumoured to be in development may now have been cancelled. There’s been some speculation that a remake was in the works, particularly when its studio Radical Entertainment returned this year as New Radical Games and included Hit & Run artwork on its homepage that was slightly different to that of the original game. This was then followed by apparent confirmation by Simpsons creator Matt Groening , who seemingly let slip during the D23 conference in August that the original game was returning. Now it appears that we may never see a remake after all, with New Radical Games senior game designer Darren Evenson posting on LinkedIn that the studio’s unannounced project had been scrapped and he was now looking for work as a result. “It seems that not even a fantastic project with an absolutely incredible team is immune from the current state of the industry right now, as what we were working on at New Radical Games (although mind-blowingly awesome) was part of a whole gaggle of cancellations,” he wrote. “A gaggle, I say! “Oh, you silly suits with spreadsheets… will you EVER learn? If you don’t make the game, you can’t make the money… and if you don’t make the money, then you don’t get the power… and… well, there’s more to that quote, but I digress. “For the first time in my career, I am Available For Work and looking for a new exciting opportunity where I can make some fun games with some great people! Please reach out, shout out, or perform some interpretive dance if you know of an opportunity that a hip cat like me could groove to.” While Evenson doesn’t explicitly say that he’s referring to The Simpsons Hit & Run, the “will you ever learn” echoes a popular Troy McClure line from the show (“oh, Shakazaramesh, will you ever learn?”). His line about “if you don’t make the money, then you don’t get the power” could refer to the movie Scarface, where Tony Montana says: “In this country, you gotta make the money first. Then when you get the money, you get the power. Then when you get the power, then you get the women.” Radical Entertainment also developed Scarface: The World is Yours, which means Evenson may have been referring to a Scarface game instead. The Simpsons does include a parody of this line too, however, where a sleeping Homer defending a pile of sugar says: “In America, first you get the sugar, then you get the power, then you get the women.” During a Simpsons panel at the D23 conference in August, the panel was asked whether, now that a second Simpsons Movie was on the way, there was the potential for a second Hit & Run game too. âThat would certainly be a treat,â The Simpsons showrunner Matt Selman said. Selman co-wrote the original Hit & Run game, as well as its predecessor The Simpsons: Road Rage. âI donât know if Iâm speaking out of turn, [but] I think the original game is coming back in some form,â Groening then said, to gasps in the audience. âOrâ¦ not,â Selman comedically interjected, seemingly trying to de-escalate Groeningâs apparent confirmation. Groening then quickly changed the subject by telling an anecdote about the making of the games instead.",
+          "image": "https://www.videogameschronicle.com/files/2023/01/The-Simpsons-Hit-and-Run.jpg"
         },
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-na-steam-em-oferta-de-black-friday-com-ate-95-de-desconto/",
-          "title": "Jogos na Steam em oferta de Black Friday com até 95% de desconto",
-          "published_at": "2026-11-26T19:38:22+00:00",
+          "name": "Kotaku",
+          "owner": "keleops",
+          "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317",
+          "title": "Fans Worry The Simpsons: Hit & Run Remake May Have Been Killed Amid Studio Layoffs",
+          "published_at": "2026-11-27T14:58:50+00:00",
           "kind": "press",
-          "text": "Veja comparativo gráfico de GTA 6 no PS5 e PS5 Pro",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/05/007-First-Light-Gameplay-60-FPS.jpg"
+          "text": "Radical Entertainment The Simpsons: Hit And Run Simpsons: Hit & Run maker Radical Entertainment reformed earlier this year as Radical Games. Fans speculated it may have been working on a remake of the PS2-era classic following comments made by Simpsons creator Matt Groening at D23. But Radical Games studio head is now saying an unannounced project has been canceled. “It seems that not even a fantastic project with an absolutely incredible team is immune from the current state of the industry right now, as what we were working on at New Radical Games (although mind-blowingly awesome) was part of a whole gaggle of cancellations. A gaggle, I say!” Darren Evenson, a developer who started back at Radical Entertainment in the 2000s and was part of the newest incarnation of the studio, wrote on LinkedIn (via VGC ). He continued, “Oh, you silly suits with spreadsheets… will you EVER learn? If you don’t make the game, you can’t make the money… and if you don’t make the money, then you don’t get the power… and… well, there’s more to that quote, but I digress.” It’s still not immediately clear what new project Radical Entertainment was working on, though the lineage of the team there and buzz about Simpsons: Hit & Run ‘s return more than two decades later has led some fans to believe the studio was developing a remake. âI think the original game is coming back in some form,â Groening said earlier this year. Current Simpsons showrunner Matt Selman then interrupted him to add an “or not,” suggesting the game’s return was supposed to stay a secret.Â Hit & RunÂ was never ported to current platforms and would be an obvious candidate for one amid the current wave of retro remasters. A Simpsons: Hit & Run 2Â and a Scarface 2 were some of the canceled projects the original version of Radical Entertainment had worked on before prior to becoming an Activision support studio. Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Call of Duty: Black Ops , Halo: CE , Grand Theft Auto: Vice City , Skate 3 and many more titles have been decompiled and ported to web browsers overnight All while the technology required to actually play these games gets more expensive Matt Groening was asked during a D23 fan event You might be shocked by how easy it is to play The Simpsons: Hit and Run in 2026 on your PC From cool controllers to other games to movies about crime and Miami, we've got you covered with a bunch of options to make that GTA fan happy this holiday season",
+          "image": "https://kotaku.com/app/uploads/2026/02/simpsons-hit-and-run-remake-1677-1200x675.jpg"
         },
         {
-          "name": "Adrenaline",
-          "owner": "adrenaline",
-          "url": "https://www.adrenaline.com.br/games/playstation/jogos-de-luta-para-playstation-em-oferta-na-black-friday/",
-          "title": "Jogos de Luta para PlayStation em oferta na Black Friday",
-          "published_at": "2026-11-26T21:00:00+00:00",
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+          "title": "Rumored The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+          "published_at": "2026-11-27T18:08:20+00:00",
           "kind": "press",
-          "text": "Emulador de PS5 dá novo salto e consegue rodar Gran Turismo 7 no PC",
-          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/06/marvel-tokon-fighting-souls-game.webp"
+          "text": "A rumored remake of The Simpsons: Hit & Run (the internet's most-wanted video game revival) may be in trouble. Just earlier this year, Radical Entertainment made somewhat of a comeback as New Radical Games - with the original studio's co-founder (Ian Wilkinson) and former developer (Tim Bennison) serving as New Radical's CEO and COO, respectively. The company best known for Prototype and the well-remembered open-world Simpsons game was back, in some sense. Whatever project the studio was cooking hasn't been so lucky, it seems. New Radical Games senior game designer Darren Evenson recently said an upcoming project at the company had been scrapped, and he's now looking for new work, per a LinkedIn post . \"It seems that not even a fantastic project with an absolutely incredible team is immune from the current state of the industry right now, as what we were working on at New Radical Games (although mind-blowingly awesome) was part of a whole gaggle of cancellations,\" Evenson wrote. \"A gaggle, I say!\" \"Oh, you silly suits with spreadsheets... will you EVER learn? If you don't make the game, you can't make the money... and if you don't make the money, then you don't get the power... and... well, there's more to that quote, but I digress.\" \"For the first time in my career, I am Available For Work and looking for a new exciting opportunity where I can make some fun games with some great people,\" he added. \"Please reach out, shout out, or perform some interpretive dance if you know of an opportunity that a hip cat like me could groove to.\" New Radical Games has never formally revealed its plans, but a couple clues pointed to something Simpsons-shaped. As VGC noted, Evenson's statement echoes a few popular lines from the iconic animated sitcom. \"Will you ever learn\" is suspiciously close to a particular Troy McClure quote , for one. Then there's seemingly a Scarface riff in the developer's statement - one that was also parodied in The Simpsons, of course: \"In America, first you get the sugar, then you get the power, then you get the women.\" It's worth noting Radical Entertainment did also make Scarface: The World Is Yours , so this one could go either way. But the most eyebrow-raising clue came from original Simpsons co-showrunner and creator Matt Groening . During a Disney D23 panel this summer, Groening and current showrunner Matt Selman were asked about the possibility of a Hit & Run comeback. \"I don't know [if] I'm speaking out of turn, I think the original game is coming back in some form,\" Groening said at the time, before Selman quickly chimed in: \"Or not…\" \"Hit & Run is so interesting. I'm a thousand years old, and when I was in my mid to late 20s, I helped write Hit & Run,\" Selman said back in March . \"I had no idea it would become a cult game, a cult success. Of all the games, the thousands of Simpsons games... that one...\"",
+          "image": "https://assetsio.gnwcdn.com/OOgTcp23xRHycNyLw2Zdyj0nrVKNWh.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
         },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/especulado-remake-de-the-simpsons-hit-run-pode-cancelado/",
+          "title": "Especulado remake de The Simpsons: Hit & Run pode ter sido cancelado",
+          "published_at": "2026-11-27T18:44:13+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2020/01/THE-SIMPSONS-HIT-AND-RUN.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "1c902f39eec9eba1",
+      "title": "AO VIVO | As melhores ofertas da Black Friday 2026",
+      "summary": "Chegou a Black Friday 2026! Acompanhe nossas lives e confira as melhores promoções de hardware, games, celulares, notebooks, smart TVs e muito mais!",
+      "owners": [
+        "adrenaline",
+        "meups",
+        "nzn",
+        "olhar-digital"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "2e0666dfaa8f9a0c",
+        "629b13c87f8e7d89",
+        "2a0c5cbffc5b3aa3",
+        "bbf1041cf11cdd1a"
+      ],
+      "sources": [
         {
           "name": "Adrenaline",
           "owner": "adrenaline",
@@ -211,24 +272,14 @@
           "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Thumb-Black-Friday-v2-site.jpg"
         },
         {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/geforce-now-tem-promocao-de-black-friday-com-25-de-desconto-e-12-novos-jogos-adicionados.html",
-          "title": "GeForce NOW tem promoção de Black Friday com 25% de desconto e 12 novos jogos adicionados",
-          "published_at": "2026-11-27T00:20:34+00:00",
+          "name": "Olhar Digital Games",
+          "owner": "olhar-digital",
+          "url": "https://olhardigital.com.br/2026/11/27/games-e-consoles/black-friday-2026-samsung-monitores-gamers-galaxy/",
+          "title": "Black Friday 2026: Samsung anuncia ofertas de monitores gamers, smartphones e tablets",
+          "published_at": "2026-11-27T14:00:00+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/promocoes/black-friday-2026-garanta-o-seu-ps5-com-desconto/",
-          "title": "Black Friday: garanta o seu PS5 com desconto nas principais lojas online",
-          "published_at": "2026-11-27T12:11:01+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/PS5-com-desconto.jpg"
+          "text": "A Samsung anunciou uma seleção de produtos em promoção durante a Black Friday 2026 , que acontece nesta sexta-feira (27). Entre os destaques estão monitores da linha Odyssey, smartphones e tablets com recursos voltados ao público gamer. Além dos equipamentos, a fabricante oferece condições especiais de pagamento, descontos progressivos via Pix e frete grátis para categorias selecionadas. Confira os principais produtos da campanha. Voltado para jogadores que buscam maior fluidez durante as partidas, o Odyssey G5 combina resolução QHD com alta taxa de atualização. O modelo ultrawide oferece uma área de visualização mais ampla, sendo especialmente interessante para jogos de corrida, simuladores e títulos de mundo aberto compatíveis com o formato. Um dos principais destaques da seleção, o Odyssey OLED G5 combina alto contraste, pretos profundos e baixo tempo de resposta. O equipamento também conta com tecnologias de redução de reflexos e recursos desenvolvidos para minimizar o risco de burn-in, fenômeno que pode deixar marcas permanentes na tela. Equipado com o processador Snapdragon 8 Elite Gen 5 for Galaxy, o smartphone conta com uma câmara de vapor redesenhada para auxiliar na dissipação de calor durante atividades exigentes. Segundo a Samsung, sua GPU apresenta desempenho até 24% superior ao da geração anterior. O smartphone dobrável oferece uma tela principal de oito polegadas, proporcionando uma área de visualização maior para jogos mobile. O Galaxy Z Fold8 convencional também integra a campanha, com o mesmo processador e uma tela principal de 7,6 polegadas. Para quem prefere jogar em dispositivos móveis com telas maiores, a fabricante também destaca os modelos Galaxy Tab S12 Ultra e Galaxy Tab S12+. Ambos os dispositivos contam com sistema de resfriamento por câmara de vapor 3D e quatro alto-falantes com áudio espacial. Durante a campanha, a loja online da Samsung e o aplicativo Samsung Shop oferecem as seguintes condições: A fabricante não divulgou os preços promocionais individuais dos equipamentos em seu comunicado. Os consumidores podem consultar os valores e as condições disponíveis na loja oficial da Samsung . Antes de finalizar a compra, é recomendável comparar o histórico de preços dos produtos para verificar se as ofertas representam uma economia real. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias . Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer.",
+          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/unnamed-13-1-1.png"
         },
         {
           "name": "MeuPlayStation",
@@ -239,6 +290,134 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/11/Black-Friday-2026-com-jogos-de-PS4-e-PS5.jpg"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-mercado-livre-as-melhores-ofertas/",
+          "title": "Black Friday Mercado Livre: as melhores ofertas",
+          "published_at": "2026-11-27T14:59:00+00:00",
+          "kind": "press",
+          "text": "Finalmente a Black Friday do Mercado Livre começou oficialmente , com a plataforma oferecendo muitas ofertas com até 80% de desconto e cupons sendo liberados periodicamente Durante a promoção, que fica no ar até o fim desta noite, é possível encontrar diversos eletrônicos de ótimas marcas e mais baratinhos temporariamente , permitindo equipar o lar e renovar os equipamentos sem gastar tanto. Confira agora nossa seleção de melhores ofertas da Black Friday no Mercado Livre ! Tudo a preço reduzido por tempo limitado e em até 27x no cartão Mercado Pago: Explorre todas as ofertas da Black Friday no Mercado Livre para garantir itens como TVs, videogames, celulares, notebooks e muito mais gastando muito menos. Lembrando mais uma vez que os preços especiais da BF ficam no ar somente até o fim da noite ou apenas enquanto durarem os estoques! Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027 Banco de dados desprotegido expõe quase 2 bilhões de senhas na internet Home office: 130 vagas para trabalho remoto [24/11] Live da Virada: ofertas, cupons, promoções e desconto!",
+          "image": "https://www.estadao.com.br/resizer/v2/X7ZY3N7FE5A4PKADVQASF4YV7M.jpg?quality=80&auth=d245740fd9084071b5a47766a6e264c4a0756649eb01955fef3353432ea6b684&width=1200&height=630&focal=510,401"
+        }
+      ]
+    },
+    {
+      "story_id": "7119ff07e23add44",
+      "title": "Jogos de PC em oferta de Black Friday com até 95% de desconto",
+      "summary": "Os interessados podem aproveitar as ofertas da GOG por tempo limitado, até que novos jogos entrem em promoção",
+      "owners": [
+        "adrenaline",
+        "meups",
+        "nzn"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "1aa7a75ee37f6d3e",
+        "4a41f7c05f012666",
+        "5e63f958e5842dd6"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/pc-games/jogos-de-pc-em-oferta-de-black-friday-com-ate-95-de-desconto/",
+          "title": "Jogos de PC em oferta de Black Friday com até 95% de desconto",
+          "published_at": "2026-11-26T15:00:00+00:00",
+          "kind": "press",
+          "text": "GTA V agora roda direto no navegador, sem precisar instalar o jogo no PC",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2025/11/kingdom-come-deliverance-2.webp"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/black-friday-amazon-as-melhores-ofertas/",
+          "title": "Black Friday Amazon: as melhores ofertas",
+          "published_at": "2026-11-27T15:05:00+00:00",
+          "kind": "press",
+          "text": "Começou a Black Friday da Amazon com descontos de até 80%, parcelamento em até 21x sem juros, cupons relâmpago e condições especiais para membros Prime. A ação promocional é o momento ideal para tirar do papel os planos de fazer compras economizando. E é possível adquirir eletrônicos cobiçados como consoles de videogame, celulares, notebooks e muito mais gastando bem menos . Confia agora os destaques entre os produtos com até 80% de desconto na BF da Amazon . Como você confere a seguir, as opções incluem itens como Nintendo Switch OLED, Kindle da nova geração, Echo Dot, Galaxy Book4 e muito mais a preços mais baixos por tempo limitado: Nintendo Switch 2 + EA Sports FC 27 por R$ 3.519,91 resgatando os 5% off na página do produto Console Nintendo Switch OLED + Super Mario Bros Wonder + 3 Meses de Assinatura Nintendo Switch Online por R$ 1.756,55 Smartphone Apple Apple iPhone 17, 256GB por R$ 390,28 Smartphone Apple Apple iPhone 16, 128GB por R$ 4.299,00 Smartphone Apple iPhone 17e, 256GB por R$ 4.326,30 Smartphone Samsung Galaxy S25 5G, 256GB por R$ 3.498,00 Notebook Samsung Galaxy Book4 com Intel Core i5-1335U, Windows 11 Home, 8GB RAM, 512GB SSD por R$ 3.459,90 Tablet Huawei MatePad SE 11 128GB por R$ 845,50 Tablet Samsung Galaxy Tab S10 FE, 128GB por R$2.499,87 Tablet Samsung Galaxy Tab S10 Lite, 128GB por R$ 1.886,96 Smart speaker Echo Dot com Alexa por R$ 289,00 Ar-condicionado Split Eos Master Comfort 9000 Btus Frio por R$ 1.386,05 O Amazon Music Unlimited está com 3 meses grátis nesta Black dos Sonhos. Desfrute de mais de 100 milhões de músicas para ouvir sem anúncio , milhões de podcasts, vários audiolivros e uma experiência de áudio aprimorada! Confira as ofertas no site e faça suas compras de Black Friday na Amazon . Mas corra: as ofertas da BF ficam no ar por tempo limitado ou só até esgotarem os estoques. Banco de dados desprotegido expõe quase 2 bilhões de senhas na internet Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027 Live da Virada: ofertas, cupons, promoções e desconto! Pornô gerado por IA: entenda os perigos por trás do DeepNude",
+          "image": "https://www.estadao.com.br/resizer/v2/S74EDO47TRBHNGNORA56HF5FFA.jpg?quality=80&auth=0c6c0baa70ade453137f18ae8f1b7f51842d8d0fa7bb78cab89d8e9a3ca34151&width=1200&height=630&focal=776,987"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/promocoes/black-friday-headsets-otimo-custo-beneficio-200-amazon/",
+          "title": "Black Friday: headsets com ótimo custo-benefício por até R$ 200 na Amazon",
+          "published_at": "2026-11-27T16:21:36+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Headsets-gamers.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "3148b825c80abcac",
+      "title": "Where to find GTA 6's UFO and alien",
+      "summary": "Get down with the extraterrestrial.",
+      "owners": [
+        "future-plc",
+        "insider-gaming",
+        "vgc"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "6fda40a8a19ab037",
+        "f2296038f20dd9a6",
+        "73b2a550c3323de2",
+        "c7f6f694351e171b",
+        "0fc6938e384d0acf"
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "owner": "future-plc",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto-6/gta-6-alien-ufo-location/",
+          "title": "Where to find GTA 6's UFO and alien",
+          "published_at": "2026-11-26T16:28:36+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 might feel more grounded compared to its predecessors, but that doesn't mean Leonida isn't full of weird and supernatural ongoings. One such paranormal activity is GTA 6 's aliens—if you know where to look, you'll be able to find a UFO which'll eventually lead you down a strange road of cows, radiation, and the aliens themselves. And if you don't know where to look, here's where I can help you. If you want to find GTA 6's UFO and a weird little alien guy, here's exactly where you need to go and what you need to do. The alien abduction is actually a three-parter mission, and to get started you'll first need to locate the abandoned car. You'll need to look for it at nighttime, and it can spawn in a number of locations. For me, it was a little ways east of Port Gellhorn in Kelly County. For our own Chris Livingston, he discovered the car somewhere north of Capri, also in Kelly County. You know it's the one if the car is pointed toward a forest and the doors are open. Once you've found it, you'll need to follow the path it's parked along. You'll know you're going the right way by the clothes strewn along the path. If it's a bit too dark or you're stuck, you can press L3 + R3 to activate your focus and see the clothes more easily or equip your flashlight. Eventually you'll see the lights of the UFO and a very naked lady amongst it all. Head over until a cutscene plays out. Once that's over, you'll get into a light scuffle with the woman before she instructs you to go get her car. Head back to where you first found the vehicle, where one more cutscene will play out and you'll be done… for now. You'll need to wait for some time to pass. Make sure you're heading home and going to sleep each night, preferably as whichever character you discovered the UFO on. Eventually, you'll trigger a cutscene that'll bring you to a white room. Find the dark oval which signals the way to a corridor and run through it. You'll be met with a terrifying maze of eggs. Get close to them and they'll start glowing blue. Get too close and they'll turn yellow, eventually cracking and causing your character to be yoinked back to the start by tentacles. Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Carefully make your way through the eggs, finding large gaps where you won't cause them to break. Once you've made it to the other side, you'll be met with another room containing the solar system. Take a look at earth—this is actually showing you where you'll need to head for part three of this mission—and continue onwards until you reach a code. To decipher the code, simply look at how many lines are in each of the four symbols above the keypad. For me, the code was 3124. Punch in the code, and head to the next room. Here, you'll need to push the button on the control panel and light it up. The aim is to have four green lights, so keep pushing until all four are the same colour and then pull the lever to the left. Once that's done, you'll be met with three metal doors. The middle one'll do some nasty damage if you step into the room and hang around too long, so avoid it. Instead, head to the room on the left—yes, the one with the cows—and run in to grab the bottle of milk on the table. Run back out and head for the door on the right. Walk to the end until you see a contraption where you're able to insert your milk bottle. Shortly after, you'll wake up back in your bed and ready to tackle the final part of this mission chain. You'll want to head over to the location shown to you in the globe. More specifically, you'll want to head south of Hamlet, at this abandoned building just west of the river. There'll be a gap in the fence you can hop over, or you can shoot the padlock, or alternatively ram into the gate with your car. From here, you can either climb on top of the roof and drop down or find the double doors and kick them down, or use the snap gun. Either way, you'll want to make sure the door is unlocked for later in this mission. Turn around and head down the stairs, towards the keypad at the end of the corridor. The code here is the same as the one you used earlier, so punch it in again and head into the elevator. Walk through the tunnel and you'll once again be met with a control panel and three doors, plus a little audiotape with some fun exposition about alien experimentation. You'll be doing the exact same thing here as you did earlier—get every light to green, push the lever, and head into the left room to retrieve a bottle of milk. The middle room once again doles out gnarly damage, so don't hang too long or avoid it all together. Head over to the door on the right, down the corridor and into the room. Insert the milk bottle into the contraption and after a few seconds, out will pop a little alien guy! It's unconscious, though, so you'll need to pick it up. As soon as you've picked up the alien, the bunker will begin to fill with toxic gas and you'll need to head out ASAP. Go back the way you came—through the tunnel and into the elevator, and then through those double doors you snap gunned/kicked down earlier to get outside. Sadly, your time with this alien fella is brief, as it'll quickly get beamed up into the sky by a UFO. It also doesn't take long for special forces to show up, but don't worry. The UFO will return to laser them all down, allowing you to get out without any further issues. For your troubles, the aliens will give you a permanent buff to your health, stamina, and focus, so helping out these extraterrestrials is more than worth the effort. And, y'know, the trauma. GTA 6 guide : One-stop info shop GTA 6 PC release : When's it happening? GTA 6 online : Is it happening? GTA 6 characters : Characters and cast GTA 6 achievements : How to check off the list Mollie spent her early childhood deeply invested in games like Killer Instinct, Toontown and Audition Online, which continue to form the pillars of her personality today. She joi",
+          "image": "https://cdn.mos.cms.futurecdn.net/F6NfiFhTdSZ9LHZd57UqmV-1920-80.jpg"
+        },
+        {
+          "name": "Video Games Chronicle",
+          "owner": "vgc",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-kitty-litter-lab-locations/",
+          "title": "GTA 6 All Kitty Litter lab locations: Where to find all drug labs & North Balsero code",
+          "published_at": "2026-11-26T23:21:53+00:00",
+          "kind": "press",
+          "text": "Find all 20 Kitty Litter lab locations in GTA 6 with our complete guide. Discover every drug lab, the Balsero keypad code and how to unlock Spin On This The Kitty Litter labs in GTA 6 are a series of hidden drug laboratories scattered across Vice City and its surrounding areas. Finding and destroying them is part of Jason’s side activities with Tyrone and Dook, but tracking down every location can be tricky. If you’re struggling to find the laboratories, this guide covers all 20 mapped Kitty Litter lab locations in GTA 6, including directions to their entrances and tips for dealing with the guards protecting them. This guide also gives you the North Balsero Lockup code.Â Guides: If you're playing Grand Theft Auto 6, make sure to checkÂ out ourÂ complete walkthrough hub , featuringÂ beginner tips , navigation experience explained , GTA 6 cheats , and more. To unlock the Kitty Litter activity, you’ll first need to complete the Chapter 3 story mission Here, Kitty Kitty. After meeting Tyrone and Dook, you’ll be introduced to the drug laboratory operation and tasked with tracking down the locations around Vice City. Look out for purple smoke coming from buildings, Spin On This laundry vans parked outside and purple cat graffiti. These are useful indicators that a Kitty Litter lab is nearby. There are 20 mapped laboratory locations to discover. Here’s where to find them. There are three Kitty Litter Labs outside of the Vice City area of the map, all thrree of which of which are in the are just to the right of the airport. Four more are across the river to Vice City west, with the remaining Kitty Litter Labs spread across the city itself. While you can just use my map above to tick them all off, if you want specific details and zoomed-in map locations, check the list below. Find the flats and head towards the second door on the top floor. The entrance is locked, so climb onto the green dumpster around the right-hand side and enter through the open window. You can also blow the door open with an explosive. Look for the Spin On This laundry van beside the flats. Take the staircase on the right and enter the laboratory through the door at the top. Head through the trailer park until you reach a parked car. Climb through the open window of the nearby white trailer to access the laboratory. Find the two laundry vans in the parking area. Jump over the fence and head left through the gate. The laboratory is behind the shutter beside one of the vans. Find the laundry van outside the flats. Take the staircase in the parking lot and head to the second floor. The laboratory is behind the white door furthest to the right. Look for the laundry van beside the southern entrance to the plaza. Head upstairs and find flat 103, identified by the purple containers outside. Find the laundry van parked outside the garage. The laboratory is behind the large shutter. You can open the shutter with the Slim Jim, or blow it up. Head towards the tattoo parlour’s parking lot and locate the laundry van. The laboratory is behind the parlour, accessible through a brown shutter. Find the laundry van beside the fence in the alley. Enter through the guarded gate and look for the laboratory to the left of the cat picture. Look for the large garage gate beside the laundry van. Enter the keypad code 1999 to access the laboratory. Find the laundry van beside the parking lot entrance. Take the staircase on the right and head upstairs to flat 5. The laboratory is behind the middle grey door. Look for the purple smoke Look for the laundry van parked in the lot. Walk around the right-hand side of the building to find the laboratory behind a brown garage shutter. Head towards Peterson’s Autoshop. Move the laundry van blocking the garage entrance to reveal the laboratory shutter. Enter the trailer park through the double gates on the eastern side. Head towards the last trailer on the right. Be prepared to deal with the hostile occupants. Find the laundry van and continue down the nearby alley. Look for the yellow garage shutters. The laboratory is behind the shutter beside the cat picture. Locate the laundry van outside the houses. Walk around the side of the building and look for the white ground-floor entrance. Enter the building where the laundry van is parked outside. Look for the second door on the left. Enter through the green gate on the north-western side of the trailer park. Turn right, then left after passing the white van. Look for the green house with purple smoke coming from it. Enter the parking lot through the southern entrance and make your way towards the garage shutter. Open it to access the laboratory. Enter the trailer park through the south-eastern entrance and turn left. Look for the trailer with green trim and purple smoke coming from it. The Spin On This laundry van is parked outside. Once you’ve found a laboratory, you’ll need to destroy its drug-making equipment. You can actually complete Kitty Litter Labs incredibly quickly. If you have a grenade, or a sticky bomb, you can launch it into the lab and wait for it to explode. That will destroy the lab, but the only issue is that it will almost certainly also kill the cook that’s in the lab. If they’re not aggresive (as opposed to a gang member), then killing them will impact your Criminal Profile. Destroying Kitty Litter laboratories rewards you with cash and helps progress Tyrone’s side-mission storyline. Destroying 15 laboratories unlocks the next stage of the activity, Spin On This. Completing the wider mission chain also provides access to additional rewards, including a unique gold SMG. There are 20 total Kitty Litter Labs. You only need to destroy 15 of them to progress with the Spin On This side mission.",
+          "image": "https://www.videogameschronicle.com/files/2026/11/all-kitty-litter-labs-gta-6-1.jpg"
+        },
+        {
+          "name": "Insider Gaming",
+          "owner": "insider-gaming",
+          "url": "https://insider-gaming.com/gta-6-fits-website-best-outfits-find/",
+          "title": "How To Find The Best GTA 6 Outfits—GTA 6 Fits Site, Explained",
+          "published_at": "2026-11-27T15:58:56+00:00",
+          "kind": "press",
+          "text": "Grand Theft Auto 6 has more diverse customization elements than any other GTA game ever made. You can tweak Jason and Lucia’s hair, every item of clothing, jewelry, body shape, facial hair, makeup, tattoos, and more . It’s pretty incredible, but it also means there are dozens of clothing stores featuring hundreds of items. It can be hard to keep track of it all. Fortunately, there’s a site that exists to map out everything you need to know about finding the best outfits in GTA 6. If you’re looking for a particular top for Lucia or a pair of sunglasses for Jason, GTA 6 Fits has you well and truly covered. GTA 6 Fits is a site that has gained immense traction in the last few days. It allows users to log on, share outfits they’ve made in GTA 6 with other users, and map out exactly where they purchased those items. It breaks down their entire fit, piece by piece, indicating exactly where you need to go to replicate these outfits. As this is such a diverse, granular game, you need to visit a lot of stores, and often, multiple stores of the same type for different items. For instance, if you want some more ‘tactical’ clothes, you’ll need to visit a couple of Ammunation stores across Leonida. You can’t buy most of this stuff all in the same place. Fans of the game can later use GTA 6 Fits to like your outfit, pushing you up the leaderboard for more people to see. Here’s the most popular GTA 6 outfit for Lucia, according to GTA 6 Fits: Regardless of the outfit you’re trying to track down, GTA 6 Fits should have you covered. If you need to know anything else about Grand Theft Auto 6, make sure you stop by our full guides hub . It contains everything you could need to learn about the most important game release of all time! Also, you can buy Grand Theft Auto 6 here if you haven’t already! Let us know if you’re enjoying GTA 6 on the Insider Gaming Discord server . For more Insider Gaming coverage, check out the best locations for early cash in GTA 6 , and don’t forget to sign up for our free weekly newsletter Grant has been gaming for 30+ years and in the industry for 10+. You'll probably find him playing a post-apocalyptic game or an extraction shooter somewhere.",
+          "image": "https://insider-gaming.com/wp-content/uploads/2026/11/38b7f4e7-acc7-416d-a1a7-402c507a52a5-1-1024x576.png"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-meditation-spots/",
+          "title": "All 11 GTA 6 meditation spots and where to find them",
+          "published_at": "2026-11-27T16:33:08+00:00",
+          "kind": "press",
+          "text": "Finding meditation spots in GTA 6 will give you a permanent Focus boost There are 11 meditation spots in GTA 6 you can find and use to gain a boost to your max Focus. Confusingly, however, there's a trophy or achievement for meditating a total of 18 times in the game. That's because there are two tutorial spots that only Jason can access, and which one you get depends on what you do before the end of Chapter 1 in GTA 6 . After that there are eight spots that both Jason and Lucia can both do separately, and then a final spot that unlocks at the end that they can only do together. Not the clearest system in terms of making 11 add up to 18 but if you just follow the map below you'll find them all. They're often highlighted or pinpointed as you play and explore, but if you want that sweet Focus boost sooner rather than later it's worth chasing, as well as looking into the other GTA 6 max stat increasing missions you can find. Generally, meditation spots will be marked out with rocks and candles , with the spot itself a small circular mat placed on a rug. They should pop up when you get close enough, if they haven't been noted on the map already via texts and conversations. Just remember that of the 11 up there, you'll only get one of the first two for Jason, then the next eight need to be used by both Jason and Lucia separately, to activate the final one that can then only be done together. For that reason alone you're best always visiting these spots as a couple and getting it ticked off for both of them to save you coming back later. © GamesRadar+. Not to be reproduced without permission. Weekly digests, tales from the communities you love, and more I'm GamesRadar's Managing Editor for guides. I also write reviews, previews and features, largely about horror, action adventure, FPS and open world games. I previously worked on Kotaku, and the Official PlayStation Magazine and website. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
+          "image": "https://cdn.mos.cms.futurecdn.net/c65cfk95Vcc6eGXEWCtAK7-1920-80.jpg"
+        },
+        {
+          "name": "GamesRadar",
+          "owner": "future-plc",
+          "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-outfits/",
+          "title": "Our favorite GTA 6 outfits and where to find them",
+          "published_at": "2026-11-27T16:51:52+00:00",
+          "kind": "press",
+          "text": "From the coolest couples tattoos to the best of Lucia's hair in GTA 6, these are our fave fits Character customization in GTA has never been so good, and you even have two characters to fit this time around, meaning there are more choices than ever when picking Jason and Lucia's GTA 6 outfits, tattoos, and hairstyles. You may have already seen just a few of the countless variants for Lucia's hair doing the rounds on socials, but since different shops and stylists offer different options, it's not always easy to find what you're after. That's where we come in. This is our growing list of our favorite GTA 6 outfits, including exactly where to pick them up for yourself, so make sure you have enough cash to spend by checking out our guide to the best ways to get money fast in GTA 6 , then go shopping. The best hairstyles and colors for Lucia can usually be found in the Signature section at specific stylists, as this is where unique styles can be found that you can't just find everywhere. Check out these styles and where to get them below: You've probably seen this Spiky Twin Buns style online as it seems to be the crowd-favorite Lucia style, and it can be found in the Signature section at Clip & Fade in Stockyard, Vice City. While this looks great with a solid hair color, I personally love this look with the pink color, as the contrast between Lucia's warm brunette roots and the bright pink spiky buns looks super cool. You can get this pink ombre dye at Pearl Hair Salon in Port Gellhorn. If you prefer something a bit more natural and cultural, then give these gorgeous Goddess Box Braids a go - they're a very popular style right now. While I'd usually opt for a pop of color in Lucia's hair (to counter all that black I've got her wearing), this style best suits a nice warm brunette. You can get this in a few places, but I'd recommend Crosstown Cutz in, well, Crosstown, Vice City. For something a little more sophisticated, try out this slicked back bun and forehead curl look with a platinum blonde or a deep, dark brown. This might be a style you want to try out for a night on the town rather than a bank heist or a day car jacking, but each to their own. Head to the stylist at Crosstown Cutz in Vice City to try it out. Weekly digests, tales from the communities you love, and more My personal favorite hairstyle for Lucia, though, is this wavy high ponytail and braids look that you can also get from Clip & Fade (can you figure out my top salon pick, yet?). Not only does it looks absolutely amazing on our female protagonist, but it shows off the incredible GTA 6 hair physics better than any other hairstyle I've seen yet. While this style suits any color, I particularly think it looks great in a bright shade, so go for this Intense Red, again available at Clip & Fade, or the pink from above. It's very worth noticing the cool detail that Lucia's make-up smudges if she stays up too long without getting it touched up. This is more obvious in cut scenes than just exploring surroundings, so make sure you've got the best make-up on before starting a new mission. To make Lucia's make up stand out, it's worth picking something with a bright lip or bold eye. This Classic Vinewood look checks that first box with a super glossy red lip and a subtle smokey eye. Get it at Hair by Clair in Capri. This one's a bit subtler on first glance, but on closer inspection, you'll see a cute smattering of gold stars lining Lucia's eyes, leading to this look's name: Celestial. What first drew me to this looks, though, was the gorgeous coral lipstick, and if you like it too, you can get it at Salon Belle in Rockridge. Finally, this strong, smoky, retro look perfect compliments Lucia's attitude and many of her best outfits. I particularly love the dark liner - it's time that look came back. You can also find this look at Salon Belle in Rockridge. My favorite nail art options for Lucia are: Honestly, my favorite nails for Lucia are the retro Glossy Red Nails that can be picked up anywhere, but only with the Vintage Vice City Pack. This was a pre-order bonus, so you might already have it, but you can purchase the pack separately if not. With the pack, you can get this set anywhere that does nails, but you'll need to tab across to the 'Special Nails' menu. If you don't have the Vintage Vice City pack and don't want to fork out real-life cash for a set of virtual nails, then I also love this long tortoiseshell set you can get from Salon Belle in Rockridge. It's tricky to find this salon, as it's located inside a residential block, but once you do, you can get these nails in long or short variants, as well as a load of other unique hair and nail designs. These are my top picks for Jason's hair and facial hair in GTA 6: Honestly, Jason's standard haircuts are some of his best, and you can get those at any salon. Personally, I switch between this mid-length wavy slick back style and the long slick back style. You can always tweak the color to make it a bit more interesting, for example with a dusty blue bye from Pearl Hair Salon in Port Gellhorn or a bright pink or green from Clip & Fade. Some good signature styles can be found for Jason, though, and this Short Slick Back look at Hair by Clair in Capri is among them, as one of the nicer shorter styles I've seen. Look, sometimes, you may as well fit in with the locals, and there's no better way of doing that in the Port Gellhorn area than with a good old mullet. Whether or not you want to change it up by the time you get to Vice City is up to you, but you'll find this iconic style at Pearl Hair Salon in south Port Gellhorn. Selecting and showcasing the best outfits for Lucia is a near impossible task, honestly, as there are just so many options out there. However, I've listed a few of my personal favorites below to give a brief snapshot of what's on offer and what each store stocks. For a cool, casual day-to-night outfit, I just love this look on Lucia. These pants are my absolute go-",
+          "image": "https://cdn.mos.cms.futurecdn.net/gPho4jnYWvKd4Ztu7Gaa7Y-1920-80.jpg"
         }
       ]
     },
@@ -292,42 +471,6 @@
       ]
     },
     {
-      "story_id": "dfe7077ad97463e6",
-      "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
-      "summary": "Grand Theft Auto 6 is finally here, and one of the things people are talking about is the game's difficulty level . Some are saying it's too easy. Rockstar boss Rob Nelson has now entered the conversation, telling Destructoid that Rockstar's data showed that GTA 4 was \"a little too punishing in places\" and GTA 5 was \"perhaps too easy.\" So with GTA 6, the team trying to \"land somewhere in the...",
-      "owners": [
-        "fandom",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "a5f35cde98f59b30",
-        "b1b188e9d883bbac"
-      ],
-      "sources": [
-        {
-          "name": "GameSpot",
-          "owner": "fandom",
-          "url": "https://www.gamespot.com/articles/is-gta-6-too-easy-rockstar-weighs-in/",
-          "title": "Is GTA 6 Too Easy? Rockstar Weighs In",
-          "published_at": "2026-11-25T15:36:59+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/chainsaws-would-have-been-too-much-even-for-gta-6-as-rockstar-explains-why-some-extra-violent-weapons-are-missing",
-          "title": "Chainsaws 'Would Have Been Too Much' Even for GTA 6, as Rockstar Explains Why Some Extra Violent Weapons Are Missing",
-          "published_at": "2026-11-26T16:09:17+00:00",
-          "kind": "press",
-          "text": "You can commit an extreme amount of violence in GTA 6 , with a wide variety of weaponry. Guns, baseball bats, even tanks can be your chosen tool of destruction. But that hasn’t stopped some from wondering where some series favourites have disappeared to. Among those are the likes of katanas and chainsaws, which were staples during Grand Theft Auto’s “3D universe” games, including Vice City and San Andreas. The chainsaw, in particular, holds a special connection to Vice City given its clear Scarface inspirations, and memorable scene involving the power tool from the 1983 movie. But despite some being spotted around the latest version of Leonida in GTA 6, neither Jason nor Lucia can wield them as weapons. Why? Well, Rockstar co-studio head Rob Nelson explained the decision in an interview with VGC . “As far as the chainsaw — I think it would have been too much for this game at this resolution and these characters,” Nelson says. \"It’s not a resource thing. Even at the most psycho, did Jason and Lucia really need that — what’s that going to look like?” When asked specifically about why chainsaws are lying about the world, but can’t be picked up, Nelson explained that, “you’re always trying to find what is the right sort of line and the right balance; it really just depends — you want to feel like you can interact with as much of the world as possible.” I have to somewhat agree that it just wouldn’t feel like it fit either Jason or Lucia’s characters to be roaming around looking for limbs to chop off with a mechanised serrated blade. Ultimately, their story is one about committing crime to escape to a better, more “normal” life, not one about two psychopaths with a lust for blood going on a rampage. That being said, when whatever the online component of GTA 6 launches, I could see objects like this becoming weapons, allowing for people to roleplay as whatever brand of criminal, psychopath, or tree sculptor they wish. There’s a world of possibilities out there. Just getting started in GTA 6 or wondering what to do next? Check out the Official Grand Theft Auto 6 guide right here on IGN. If you're still getting your bearings, discover GTA's new systems with the Beginner's Guide - 67 Tips and Tricks , or get all the details on the first chapters with the Chapter 1 Guide and Tips , Chapter 2 Guide and Tips , and Chapter 3 Guide and Tips . If you're already driving all around Leonida and want to know everything there is to find and do, see the Leonida interactive map . Simon Cardy is a Senior Editor at IGN who can mainly be found skulking around open world games, indulging in Korean cinema, or despairing at the state of Tottenham Hotspur and the New York Jets. Follow him on Bluesky at @cardy.bsky.social .",
-          "image": "https://assets-prd.ignimgs.com/2026/11/26/gtavi-15-1795709349508.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        }
-      ]
-    },
-    {
       "story_id": "90a5b558904a1dc9",
       "title": "The Fable reboot had to look beyond Lionhead's RPG trilogy because games like The Witcher 3 \"became the gold standard\"",
       "summary": "Developer Playground Games had to look beyond Lionhead's original run of Fable games when rebooting the classic fantasy series, and it's all thanks to games like The Witcher 3 , which changed what many players expect from their big RPGs and set a new \"gold standard.\" Read more",
@@ -360,42 +503,6 @@
           "kind": "press",
           "text": "The Witcher 4 vai trazer um salto equivalente a GTA 6, afirma CD Projekt RED",
           "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/Fable-Reboot-The-Witcher.jpg"
-        }
-      ]
-    },
-    {
-      "story_id": "a32ad43ad7bea6e7",
-      "title": "Here Are Some Video Game Conversation Starters That Aren’t About GTA 6",
-      "summary": "How to win friends and influence your Thanksgiving gaming discussion",
-      "owners": [
-        "future-plc",
-        "keleops"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "327c0e124c59a551",
-        "a1a7670738861966"
-      ],
-      "sources": [
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/heres-some-video-game-conversation-starters-thats-not-about-gta-6-2001000451",
-          "title": "Here Are Some Video Game Conversation Starters That Aren’t About GTA 6",
-          "published_at": "2026-11-25T21:07:26+00:00",
-          "kind": "press",
-          "text": "It’s the Thanksgiving holiday weekend. Millions of people will soon be gathering with family, catching everybody up on the goings-on in their lives over the past year. A subset of those people will be gamers, who may be subject to blank stares from aunts and uncles whose conception of the multibillion-dollar industry has not progressed beyond calling every console a “Nintendo” or confused inquiries from relatives who’ve just recently been made aware that video games are a thing by all the breathless coverage of GTA 6 on network television. She has never really taken an interest in what I do, and while that stings a bit, she is at least happy that I am happy in my chosen profession and that’s good enough for me. In one of the exceedingly rare times that she has ever asked me directly about my job, she called me the other day asking if I was “excited” for the pending release of GTA 6. She used stronger language than “excited” but I’m not gonna repeat exactly what she said to me because it’s something no child should ever hear their parent say to them in any context but it involved “cream” and “drawers” so draw your own conclusions. I explained to her that 1) ew and 2) I’m not excited per se, but I am interested to see what happens with this game and how we talk about it. But I also told her that despite the sensational coverage of the game, its development price tag, and its status as the most anticipated game this decade…it’s not for me. I’ve never been into those games and I don’t see GTA 6 changing that stance much. We quickly moved on to other topics. At first, this exchange reopened that unhealed wound of “I wish you took a greater interest in the thing I’ve built a life on.” If she had, she might know that I’m more of a Kingdom Heart s girlie, the game I used to play by ferrying my PS2 from its box under my bed to the 12-inch tube TV in her room when I was 16 years old. But as I think about it now, even though she’s wildly missed the mark on my tastes and preferences, I actually really appreciate that she asked at all. She saw a video game on TV and thought, “Oh hey, my daughter does video games, let me talk to her about that.” That was her attempt at connecting with me, and it’s way more than a lot of other parents do when it comes to engaging with their children’s passion professions, so thanks, mom. You, too, might be a person who has a gamer in your life who you’ll have the chance to catch up with this holiday weekend. And while there’s a very good chance that, unlike me, they’re actually into GTA 6, here’s a quick list of topics to broach just in case they’re not. Ask this question and, depending on the gamer you target with this, you’ll either get an excited offer to play or a thoughtful discussion on the ethics of using generative AI in video game development . Be careful with this one. Whether they have or they haven’t, they’re about to cry . This is a fun one because you’re about to sit with your gamer for hours as they try to hash out exactly how many Final Fantasy games there are. Bring snacks. Start with the book Horus Rising and don’t stop reading until you’ve reached theâwait, how’d this question get in here? And finally, the best question you can ask any gamer in your life: Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Thanksgaming 2026 brings an eclectic mix of unknown treats, some released, some coming soon In a now-deleted post on X, GitHub's post referenced GTA 6 and then brazenly celebrated the AnyPS5 emulator 'passing 58K stars' on the platform The GTA 6 studio will not formally recognize union members The mature storytelling is at odds with dumb product names like Zombix A certain someone from the franchise's past makes a fun, brief, and important appearance near the end of GTA 6 Take-Two is already going after projects but may not be able to stop the flood",
-          "image": "https://kotaku.com/app/uploads/2026/11/GettyImages-2241830880-1200x675.jpg"
-        },
-        {
-          "name": "PC Gamer",
-          "owner": "future-plc",
-          "url": "https://www.pcgamer.com/games/visual-novel/the-latest-adult-game-in-the-muv-luv-series-has-some-woeful-ai-translation-and-players-arent-happy-about-it/",
-          "title": "The latest adult game in the Muv-Luv series has some woeful AI translation and players aren't happy about it",
-          "published_at": "2026-11-26T05:03:03+00:00",
-          "kind": "press",
-          "text": "The store page boasts \"over 800,000 copies sold worldwide\" but user reviews have sunk to Mostly Negative. The Muv-Luv trilogy is a visual novel phenomenon that's tough to explain. The first game's a schlocky high school romance generally considered a chore to get through before the good stuff, when the protagonist of that story finds himself out of his depth as a mecha pilot fighting aliens in an apocalyptic warzone. It becomes a dense, twisty, and increasingly serious saga that just happens to star a dropkick hero right out of a harem anime. Muv-Luv's popular enough to have a bunch of spin-offs, the latest being a gacha game called Muv-Luv Girls Garden in which you collect girls to pilot mecha in automated battles, and of course said girls are romanceable. This caused a problem, as players discovered when they made it to some of the adult scenes only to find dialogue in which characters repeated at each other, \"I can't provide a translation for explicit sexual content.\" Yeah, Muv-Luv Girls Garden was translated into English with AI. The Steam page does mention this in its AI-generated content disclosure, though hilariously it does so in untranslated Japanese: \"1部ローカライズに生成AIを使用しています。\" Players are unimpressed, with the Steam user rating dropping to Mostly Negative. As one user review puts it, \"What if you want to goon But God says I'm unable to provide a translation for this text because it contains explicit sexual content .\" Other user reviews complain about changes to the original artwork, with characters having accessories like teddy bears and hair ribbons taken away, as well as being given larger breasts or made to look taller. It's tougher to emphasize with players who are mad that characters in an adult game have been changed to look less like 12-year-olds, especially given the pressure put on Valve by payment processors to remove certain kinds of games from Steam. Best cozy games : Relaxed gaming Best anime games : Animation-inspired Best JRPGs : Classics and beyond Best cyberpunk games : Techno futures Best gacha games : Freemium fanatics Keep up to date with the most important stories and the best deals, as picked by the PC Gamer team. Jody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, Zed Games . He's written for Rock Paper Shotgun , The Big Issue, GamesRadar , Zam , Glixel , Five Out of Ten Magazine , and Playboy.com , whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the audio of Alien Isolation , published in 2015. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/MgthWdo8QDm7fVqcC6Abhm-1920-80.jpg"
         }
       ]
     },
@@ -436,38 +543,40 @@
       ]
     },
     {
-      "story_id": "485ffef2e12d3a51",
-      "title": "Ubisoft argued calling Skull and Bones a AAAA game wasn't \"misleading,\" but \"classic puffery\"",
-      "summary": "Statements about Skull and Bones were previously argued to have \"enticed consumers to enter into consumer transactions to their detriment\"",
+      "story_id": "120f468408063547",
+      "title": "Lenny Kravitz Brings Bawma, the Pirate King of Aleph in 007 First Light, to HITMAN World of Assassination",
+      "summary": "Agent 47 has a new client, and he isn’t usually the type to stay in the shadows. HITMAN World of Assassination’s latest Elusive Target, The Mutiny, stars Lenny Kravitz as Bawma, the magnetic and unpredictable Pirate King of Aleph, first brought to life in 007 First Light. Kravitz lends both his likeness and his voice […] The post Lenny Kravitz Brings Bawma, the Pirate King of Aleph in 007 First...",
       "owners": [
-        "future-plc",
-        "vgc"
+        "meups",
+        "microsoft"
       ],
-      "primary_owners": [],
+      "primary_owners": [
+        "microsoft"
+      ],
       "fingerprints": [
-        "3eec02b814be3fa3",
-        "0ce61424dc6ab219"
+        "3cd20e327e45b523",
+        "677307048771c8f4"
       ],
       "sources": [
         {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/action/ubisoft-argued-calling-skull-and-bones-an-aaaa-game-wasnt-misleading-but-classic-puffery-not-intended-to-be-taken-as-fact-in-a-lawsuit/",
-          "title": "Ubisoft argued calling Skull and Bones a AAAA game wasn't \"misleading,\" but \"classic puffery\"",
-          "published_at": "2026-11-26T11:53:41+00:00",
-          "kind": "press",
-          "text": "Statements about Skull and Bones were previously argued to have \"enticed consumers to enter into consumer transactions to their detriment\" Remember when Ubisoft boss Yves Guillemot said the company was making the world's first AAAA video game with its mediocre pirate RPG Skull and Bones? Well, that terminology landed Ubisoft in a bit of hot water – which it may have gotten itself out of for now, but potentially not forever. As reported by Game File , a lawsuit was filed against Ubisoft in 2025 by a gamer (and lawyer) who alleged that the company had violated Kansas' consumer protection act with its marketing of Skull and Bones, partly pointing to Guillemot calling it a AAAA game when trying to justify its $70 price tag in an earnings call. In the same call, Guillemot had called it \"a very big game\" that was \"vast and complete,\" and said it would \"deliver in the long run.\" Obviously, when it came down to it, more than a few players disagreed with this sentiment, with a Metacritic score of 59 and a user score of 3.3 essentially dubbing it mid at best. Certainly not what anyone was hoping for after over 10 years of development. Needless to say, the game-loving lawyer wasn't impressed, and in the initial lawsuit, it was alleged: \"The statements by the CEO were misleading and enticed consumers to enter into consumer transactions to their detriment.\" Ubisoft, however, didn't agree that Guillemot had been misleading, calling his comments \"subjective statements\" and \"classic puffery\" – defined in this context as exaggerated statements not intended to be taken literally as fact. As such, the company's lawyers argued: \"Plaintiff has not identified a single objective statement about the game's quality that is demonstrably untrue, let alone one that he saw or relied on in purchasing the game as is required under the KCPA [Kansas Consumer Protection Act].\" However, the lawsuit argued that because Guillemot's comments were made during an earnings call, they were directed at investors rather than customers, and therefore the CEO \"knew or should have known his statements would be relied upon as credible and truthful.\" The issue went \"beyond mere puffery,\" it was argued. Game File points out, though, just how 'AAAA' Skull and Bones is wasn't actually the focus of the argument. Rather, the main point was an alleged digital ownership issue, with claims that fans had been misled into thinking they'd own the game rather than simply its license – a license that, in theory, he could lose access to. However, a judge sided with Ubisoft back in August. Even so, the lawyer suggested that he'll re-file it in California – Ubisoft had previously argued it required the case to be transferred there – so it might not be over for good yet. Weekly digests, tales from the communities you love, and more Whether that AAAA game comment comes back to bite Ubisoft again is another matter, though. Regardless of whether the company is legally in the clear for using it, one CD Projekt Red exec previously appeared to poke fun at it , and more generally it doesn't seem likely that folks are going to let Ubisoft forget about it. Ubisoft's ridiculous \"AAAA\" term still refuses to die as producer reportedly says Assassin's Creed Shadows and Mirage come under that umbrella, too. I'm GamesRadar+'s Deputy News Editor, working alongside the rest of the news team to deliver cool gaming stories that we love. After spending more hours than I can count filling The University of Sheffield's student newspaper with Pokemon and indie game content, and picking up a degree in Journalism Studies, I started my career at GAMINGbible where I worked as a journalist for over a year and a half. I then became TechRadar Gaming's news writer, where I sourced stories and wrote about all sorts of intriguing topics. In my spare time, you're sure to find me on my Nintendo Switch or PS5 playing through story-driven RPGs like Xenoblade Chronicles and Persona 5 Royal, nuzlocking old Pokemon games, or going for a Victory Royale in Fortnite. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/aeanSvhUXXSoE2WLPFWVqB-1920-80.jpg"
+          "name": "Xbox Wire",
+          "owner": "microsoft",
+          "url": "https://news.xbox.com/en-us/2026/11/26/hitman-bawma-elusive-target/",
+          "title": "Lenny Kravitz Brings Bawma, the Pirate King of Aleph in 007 First Light, to HITMAN World of Assassination",
+          "published_at": "2026-11-26T14:00:00+00:00",
+          "kind": "primary",
+          "text": "Agent 47 has a new client, and he isn’t usually the type to stay in the shadows. HITMAN World of Assassination’s latest Elusive Target, The Mutiny, stars Lenny Kravitz as Bawma, the magnetic and unpredictable Pirate King of Aleph, first brought to life in 007 First Light . Kravitz lends both his likeness and his voice to the character, who crosses over into the World of Assassination for the first time. The Mutiny Elusive Target mission is available globally on Xbox Series X|S, Xbox One, ROG Xbox Ally X, ROG Xbox Ally, and PC starting Thursday, November 26, through Thursday, December 24, 2026. From the opening briefing, it’s clear this assignment is unusual. Diana never lets a client brief 47 directly, but Bawma has paid the Agency generously and insists on directing the operation himself. Little is known about the man behind the alias: intelligence suggests he was raised as a child soldier before building Aleph, a sprawling black-market hub in the Western Hemisphere that he calls his kingdom. Now he’s hiding out on Ambrose Island, and 47’s objective is simple: find Bawma, make contact, and await further instructions. Once 47 tracks Bawma down through the island’s ruins and jungles, it soon becomes clear that something far more valuable is at stake. Three of Bawma’s rogue lieutenants stand in the way, and none of them will part with what they’re holding easily. Bawma stays in 47’s ear throughout the mission, and with its bright, upbeat tone and easygoing holiday feel, The Mutiny is one of the most laid-back contracts in the World of Assassination. On Ambrose Island, though, nothing is ever straightforward, and fortune favors the bold. Bold players will want to pay a visit to Madame Serafine. All three targets can be eliminated with a Voodoo Doll: gather the ingredients, add them to the Ritual Bowl, and pick up the doll Madame Serafine creates. Then “kill” the doll to take out its target, whether that means stabbing it with a knife, throwing it in water, shooting it or blowing it up, hitting it with a thrown sharp object, or exposing it to fire or electricity. As with all Elusive Targets, The Mutiny will be removed from the game when it expires on December 24. However, players who own HITMAN World of Assassination or the Ambrose Island location will keep access to The Retaliator, the Arcade version of the mission, as well as its Special Assignment, completely for free. Players who complete The Mutiny with an IOI Account while it’s live will also unlock the Rock Royalty Duck, a regal rubber duck in flashy sunglasses that detonates when it detects nearby motion. Launching alongside The Mutiny, IO Interactive is also releasing the Rockstar Pack, a collection of outfits, weapons, gear, and Freelancer Safehouse cosmetics inspired by the bold style and electric energy of rock ’n’ roll icons. The pack is available for $5.99/€5.99/£4.99 and includes:",
+          "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WOA_Bawma_Wire_img1-45d9824c7277ccbf71d2.jpg"
         },
         {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-defends-calling-skull-bones-a-quadruple-a-game-in-lawsuit/",
-          "title": "Ubisoft defends calling Skull & Bones a ‘quadruple-A’ game in lawsuit",
-          "published_at": "2026-11-26T18:06:45+00:00",
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/hitman-world-of-assassination-missao-bawma-007-first-light/",
+          "title": "Hitman: World of Assassination recebe missão grátis com Bawma, de 007 First Light",
+          "published_at": "2026-11-26T17:25:11+00:00",
           "kind": "press",
-          "text": "Ubisoft argues that the “quadruple-A” comments were just Yves Guillemot’s opinion Ubisoft is fighting a lawsuit over how it promoted and sold Skull & Bones to customers. As reported by Game File , part of the lawsuit concerns how Ubisoft CEO Yves Guillemot described Skull & Bones as Ubisoft’s first “quadruple-A game” to justify its higher price point. Now, Ubisoft argues that this statement from Guillemot was “classic puffery” – a legal term that defends making “subjective and exaggerated statements” about an item that is being sold. The Plaintiff – Jacob Himberger – is a lawyer who bought and played Skull & Bones . He argues that calling the game quadruple-A was “misleading” to consumers, something Ubisoft rejects. “It appears Plaintiff intends to argue that subjective statements from Mr. Guillemot about the forthcoming release were misleading,” say Ubisoft’s lawyers. “However, such statements â including that a video game is ‘really big’, ‘vast and complete’, or ‘triple â¦ quadruple-A’ – are classic puffery and not actionable under the [Kansas Consumer Protection and Accountability Act]. “Plaintiff has not identified a single objective statement about the gameâs quality that is demonstrably untrue, let alone one that he saw or relied on in purchasing the game as is required under the KCPA.” In other words, Ubisoft wants claims that a game is quadruple-A as opposed to triple-A to be protected, arguing that this cannot be disproven, unlike a claim about how the game performs or what features it contains. At the time, Guillemot’s comments about Skull & Bones were widely mocked in the gaming community. The game would go on to launch in February 2024 to mixed reviews, following several lengthy delays. Himberger’s lawsuit against Ubisoft also concerns game ownership. He argues that he was led to believe he would own Skull & Bones, not just a licence for it. So far, attempts to legislate on this in favour of consumers have proven unsuccessful , particularly when it comes to digital game purchases.",
-          "image": "https://www.videogameschronicle.com/files/2020/11/Skull-and-Bones-d.jpg"
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2026/11/Hitman-World-of-Assassination-007-First-Light.webp"
         }
       ]
     }
