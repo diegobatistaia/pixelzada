@@ -7,43 +7,31 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-26T20:52-03:00",
+ "atualizado": "2026-11-27T05:31-03:00",
  "hoje": {
-  "data": "2026-11-26",
+  "data": "2026-11-27",
   "reels": {
    "meta": 17,
-   "publicados": 14,
-   "deviam_ter_saido": 14,
+   "publicados": 0,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 6,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 64,
+  "agendados": 61,
   "meta_por_dia": 17,
-  "dias_de_reserva": 3.8,
+  "dias_de_reserva": 3.6,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 64,
+  "sem_revisao": 61,
   "por_dia": [
-   {
-    "data": "2026-11-26",
-    "agendados": 3,
-    "meta": 17
-   },
    {
     "data": "2026-11-27",
     "agendados": 17,
@@ -68,7 +56,7 @@
  },
  "site": {
   "total": 297,
-  "hoje": 8,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "Atriz de Lucia em GTA 6 faz primeiro comunicado após o lançamento e diz que passou quase uma década na personagem",
@@ -77,12 +65,12 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "26/11/2026 19:58",
+  "ultima_coleta": "26/11/2026 22:07",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Asx6hq9waTV4XmkyLHxPCfO\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AdbSB29Y-1mld0SAIU9zJQB\"}}"
  },
  "falhas": {
   "rodadas_24h": 93,
@@ -100,15 +88,6 @@
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-20",
-   "reels": 48,
-   "reels_meta": 48,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 9,
-   "views_reels": null
-  },
   {
    "data": "2026-11-21",
    "reels": 44,
@@ -156,11 +135,20 @@
   },
   {
    "data": "2026-11-26",
-   "reels": 14,
+   "reels": 17,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 8,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-27",
+   "reels": 0,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
    "views_reels": null
   }
  ],
@@ -211,10 +199,6 @@
   }
  ],
  "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00"
-  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
