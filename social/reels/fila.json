@@ -17623,7 +17623,7 @@
     "slug": "gta6-corte-hiltonerika-12",
     "data": "2026-11-27",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
     "tentativas": 0,
@@ -17646,6 +17646,19 @@
       "motivo": "Personagem vestido pilotando um jet ski na água.",
       "por": "imagem",
       "em": "2026-11-22T02:43:32-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-27T07:01:51-03:00",
+      "media_id": "18133299803310060",
+      "permalink": "https://www.instagram.com/reel/DgPayRZIoyk/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
