@@ -18043,7 +18043,7 @@
     "slug": "gta6-corte-cellbit-10",
     "data": "2026-11-27",
     "horario": "19:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Cellbit jogando GTA 6\n📺 twitch.tv/cellbit\n\n#gta6 #gtavi #cellbit #pixelzada",
     "tentativas": 0,
@@ -18066,6 +18066,19 @@
       "motivo": "streamer jogando com roupas normais e cenas de gameplay em ambiente escuro",
       "por": "imagem",
       "em": "2026-11-22T00:19:22-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-27T19:02:10-03:00",
+      "media_id": "17900363535413800",
+      "permalink": "https://www.instagram.com/reel/DgQtNsnvRC8/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
