@@ -17959,7 +17959,7 @@
     "slug": "gta6-corte-hiltonerika-8",
     "data": "2026-11-27",
     "horario": "17:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 hiltonerika jogando GTA 6\n📺 twitch.tv/hiltonerika\n\n#gta6 #gtavi #hiltonerika #pixelzada",
     "tentativas": 0,
@@ -17982,6 +17982,19 @@
       "motivo": "quadros de gameplay mostrando pessoas vestidas, carros e ruas",
       "por": "imagem",
       "em": "2026-11-22T00:43:30-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-27T17:02:24-03:00",
+      "media_id": "18117266720135051",
+      "permalink": "https://www.instagram.com/reel/DgQflP5TFqW/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
