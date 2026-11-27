@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T19:04:56+00:00",
+  "generated_at": "2026-11-27T19:13:03+00:00",
   "posts_per_language_today": 3,
   "daily_cap_per_language": 10,
-  "already_written_today": 1,
+  "already_written_today": 2,
   "min_independent_sources": 2,
   "official_announcement_alone": true,
   "languages": [
@@ -41,136 +41,6 @@
     160
   ],
   "stories": [
-    {
-      "story_id": "eb5acb0847e3d181",
-      "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
-      "summary": "Hollow Knight: Silksong developer Team Cherry is set to issue a long-awaited update on expansion Sea of Sorrow during a Direct-style special presentation today, and IGN is reporting live.",
-      "owners": [
-        "future-plc",
-        "gameblast",
-        "gematsu",
-        "insider-gaming",
-        "keleops",
-        "nzn",
-        "vgc",
-        "ziff-davis"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "2d7ff776f0701187",
-        "488d6b01e9d1d96b",
-        "1b79c91f56693110",
-        "8ae2d41ed3a44e2f",
-        "426c288e969a65e3",
-        "a970900b998b7b84",
-        "5d9325b86649360b",
-        "81a5bc2bcf8147ca",
-        "50bf72f3a9f5752c",
-        "6a483e096120c568"
-      ],
-      "sources": [
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/excitement-builds-for-hollow-knight-silksong-news-ahead-of-cherry-time-special-presentation",
-          "title": "Hollow Knight: Silksong Cherry Time! Special Presentation Reveals Expansion Release Date",
-          "published_at": "2026-11-27T14:32:24+00:00",
-          "kind": "press",
-          "text": "I must say, I thought we'd get more than a teaser trailer and a release date for Sea of Sorrow when it comes to Hollow Knight news from this presentation, but perhaps Team Cherry wants to hold back. It said barely anything about the expansion itself, although the trailer did tease new elements. It was cool to see Team Cherry use its enormous platform to boost three Australian indie devs though. I imagine they're thrilled to have their games put in front of such a huge audience. Good luck to them! Well, it's time to wrap this live blog up. Thanks for tuning in. See you at the next one!",
-          "image": "https://assets-prd.ignimgs.com/2026/11/27/cherry-main-1795789809266.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "IGN",
-          "owner": "ziff-davis",
-          "url": "https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
-          "title": "Hollow Knight: Silksong - Sea of Sorrow Launch Trailer Finally Confirms Release Date, Teases Fishing",
-          "published_at": "2026-11-27T15:36:31+00:00",
-          "kind": "press",
-          "text": "Team Cherry has just wrapped up its Cherry Time! showcase, giving us some long-awaited news on the future of Hollow Knight: Silksong. The big takeaway here is that Hollow Knight: Silksong's first big expansion, Sea of Sorrow, finally has a release date of December 11. Sea of Sorrow will be available to all Silksong players for free. All you need is a copy of the base game, and you can start playing Sea of Sorrow when it goes live on December 11. This also means Team Cherry has stuck to its promise to get Sea of Sorrow out by the end of the year. Some had feared that today's announcement would be a delay — or an announcement that the DLC was being expanded into a full game, which is famously how Silksong's development began. In the showcase, we got a new look at Sea of Sorrow's gameplay. This gives us a good preview of what's in store for us, as we see new areas, enemies, and boss fights. Of course, it all looks as challenging as ever, as you'd expect for Silksong's post-launch DLC. And is that a fishing mini-game teased at the end? We weren't told anything else about the future of Silksong or the Hollow Knight series at large. There was no mention of this being Silksong's only expansion, so it's very possible that Team Cherry plans to support the game beyond Sea of Sorrow. For now, here's the official blurb on Sea of Sorrow: Outside of this reveal, Team Cherry used the attention to promote indie games from other studios. Three were shown off: Blokkan: Secret of the Walking City, which is fully hand-drawn; Radio Rain, which is centred around 1980s-inspired music; and The Botanist and the Translator, which boasts a Sailor Moon-esque vibe. In a follow-up blog post , Team Cherry confirmed that these new games will release under the new Team Cherry Presents label, which is headed up by the indie developer's fourth team member, Huy Le. Huy is technical director and on-going support for all the Team Cherry Presents games, but has also helped out on Silksong and Sea of Sorrow. \"As a long-time team of three people, adding a fourth member is a big deal!\" Team Cherry said. Rhiannon (she/her) is a freelance journalist who has been in the industry since 2019. She won MCV's Women in Games award in 2025 and adores RPGs. You can follow her on Bluesky at @rhithewitch.",
-          "image": "https://assets-prd.ignimgs.com/2026/11/27/screenshot-2026-11-27-153357-1795793658837.png?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
-          "title": "Hollow Knight: Silksong free expansion ‘Sea of Sorrow’ launches December 11",
-          "published_at": "2026-11-27T15:11:41+00:00",
-          "kind": "press",
-          "text": "Hollow Knight: Silksong free expansion “Sea of Sorrow” will launch on December 11, developer Team Cherry announced . “In ‘Sea of Sorrow,’ players will voyage above and beneath Pharloom’s forgotten ocean, across islands, through forts and into deep caverns beneath the waves,” Team Cherry said. “We’ve spent the whole year stuffing this adventure full with all the things you’d expect from Hollow Knight: Silksong —crazed characters, high adventure, and epic bosses! It’s also overflowing with more exceptional music by the eternally talented Christopher Larkin! We’re pretty darn excited to get it into all of your hands on December 11, so please look forward to it.” Hollow Knight: Silksong is available now for PlayStation 5 , Xbox Series , Switch 2 , PlayStation 4 , Xbox One , Switch , and PC via Steam , GOG , Humble Store , and Microsoft Store . It is also available via Game Pass.",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Sea-of-Sorrow-Date_11-27-26.jpg"
-        },
-        {
-          "name": "GamesRadar",
-          "owner": "future-plc",
-          "url": "https://www.gamesradar.com/games/action/hollow-knight-silksongs-sea-of-sorrow-dlc-launches-in-2-weeks-team-cherry-calls-it-an-expansion-unlike-any-weve-done-before/",
-          "title": "Hollow Knight: Silksong Sea of Sorrow DLC launches in 2 weeks",
-          "published_at": "2026-11-27T15:14:26+00:00",
-          "kind": "press",
-          "text": "Team Cherry has confirmed that Hollow Knight: Silksong 's Sea of Sorrow DLC will be releasing on December 11, 2026. This was confirmed in the developer's \"Cherry Time! Special Presentation,\" which featured a new trailer for the expansion alongside the announcement of its release date (and the showcase of three lovely looking indie titles). And thankfully we're not going to be waiting very long, as Sea of Sorrow is coming out in two weeks, with the devs hyping it up as an \"expansion unlike any we've done before.\" As promised, Sea of Sorrow is a \"high-seas adventure,\" with the trailer featuring Hornet arriving on a boat to uncharted shores and taking the fight to pirate bugs who yelp \"arghhh\" when you beat them with a very Donkey Kong Country 2-coded sound effect. We also saw her blasting out of cannons, climbing net ladders, and getting in scraps with multiple giant pirate bosses. We knew its release had to be soon as the DLC, which was announced shortly after Silksong launched, was previously given a 2026 release window – although given the reveal to release timeline of the game itself, it's perhaps no surprise that some have not been so trusting, especially when that date vanished on the game's physical copy. While Silksong famously started out as a DLC for the original Hollow Knight, it's easy to forget that the original got multiple DLC packs, with four free expansions released within its two years. Team Cherry didn't confirm what DLC is still to come for Silksong, but given it's the \"first big content update\" I'm sure fans will be fed for a while yet. Katana Zero pulls a Hollow Knight: Silksong - the beloved action game's DLC is now \"the size of a full sequel\" after 7 years of development. Sign up to our Switch 2 Spotlight newsletter to make sure you get the very latest news on Nintendo's new console and its games every week Scott has been freelancing for over four years across a number of different gaming publications, first appearing on GamesRadar+ in 2024. He has also written for the likes of PC Gamer, Eurogamer, VG247, Play, TechRadar, and others. He's typically rambling about Metal Gear Solid, God Hand, or any other PS2-era titles that rarely (if ever) get sequels. You must confirm your public display name before commenting Please logout and then login again, you will then be prompted to enter your display name.",
-          "image": "https://cdn.mos.cms.futurecdn.net/fswVh45rpNiU4zSVF9SgAo-1920-80.jpg"
-        },
-        {
-          "name": "Eurogamer",
-          "owner": "ziff-davis",
-          "url": "https://www.eurogamer.net/hollow-knight-silksongs-first-big-expansion-sea-of-sorrows-comes-out-in-two-weeks-and-seems-to-include-a-fishing-minigame",
-          "title": "Hollow Knight: Silksong's first big expansion, Sea of Sorrow, comes out in two weeks - and seems to include a fishing minigame",
-          "published_at": "2026-11-27T15:16:10+00:00",
-          "kind": "press",
-          "text": "Hollow Knight: Silksong developer Team Cherry debuted a special 'Cherry Time Special Presentation' today (27th November), with the aim of bringing more information to light about the game's first big DLC offering, Sea of Sorrows, but also provide a nice little springboard for some other indie titles. But first, the reason we're all here: Sea of Sorrow is \"an expansion like we've never done before\", says Team Cherry, before showing off a trailer for the content - which will be free for all players, in case you've forgetten. The trailer confirms the release date for the DLC, 11th December, and teases some new environments, enemies, bosses and - right at the end - what looks like a fishing mini-game. But of course, this is a nautical-themed expansion, after all. Team Cherry has hinted at the future of Silksong before. Recently, and more than a year after its initial release, physical versions of Hollow Knight: Silksong finally began arriving on players' doorsteps. These editions seemed to tease previously unconfirmed \"free content packs\" (note the plural). \"The world of Hollow Knight: Silksong will expand with free content packs,\" the booklet read in the physical editions. \"Prepare for even more adventures filled with new friends, new abilities, and new ferocious foes!\" We have no hint on what will happen next for Silksong, though, off the back of this presentation. At the start of the show, the two founders of Team Cherry (that's William Pellen and Ari Gibson) used their platform to show off three cool little indie games from other developers in the scene: In September last year, Eurogamer gave five stars to Hollow Knight: Silksong , calling it \"pretty and charmingly mean-spirited\" whilst praising it as a \"game filled with revelations and genuine personality\". I'm excited to get my hands on more of this sumptuous Metroidvania.",
-          "image": "https://assetsio.gnwcdn.com/sea-of-sorrows-silksong.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-        },
-        {
-          "name": "Kotaku",
-          "owner": "keleops",
-          "url": "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319",
-          "title": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
-          "published_at": "2026-11-27T15:25:27+00:00",
-          "kind": "press",
-          "text": "DLC Hollow Knight: Silksong Release Date Sea of Sorrows After an extended period of silence regarding its much anticipated expansion for Hollow Knight: Silksong , Team Cherry is back with a big update on its upcoming DLC, Sea of Sorrow . The new content drops on December 11, 2026. Even better, it’s free for all players. The Sea of Sorrow launch trailer shows off what appear to be several new biomes and lots of other features, including what appears to be a new crest based on how Hornet is moving int he new gameplay footage. The announcement was part of a Team Cherry showcase that promoted three other very cool-looking indie games that the studio will be publishing called Radio Rain, Untangle: Plant Problems, Blokkan: Secret of the Walking City. Here’s the full thing (the Sea of Sorrow reveal is in the last few minutes): It looks like a pretty major expansion. Fans are ecstatic. And yes, it looks like there’s a new fishing minigame coming to the Soulslike Metroidvania. Team Cherry also called Sea of Sorrow Silksong ‘s “first major expansion,” suggesting there could be others as well. The Hollow Knight sequel launched in September 2025 and was everything fans were hoping for. It’s tough as nails but, like Zelda: Tears of the Kingdom ‘s relationship to Breath of the Wild , feels like a step forward in all the right ways. The post- GTA 6 hangover was leaving December looking thin for new game releases, so the launch date is a nice surprise. “ It feels like Christmas came early and Sanata is here, but instead it’s Team Cherry that came down the chimney,” one player wrote on YouTube.Â Donât miss the latest reviews, news and tips. Sign up for our free newsletter. Indie devs are facing tighter pricing pressures than ever Players thought they'd be entitled to all of the year two racers as well If you want a better-looking version of the famous killer, you'll also need to fork over another $10 GenAI has made things worse, but it's been bad for a while There's three months left on the clock for the Sea of Sorrows DLC to come out, but a lack of updates bodes ill",
-          "image": "https://kotaku.com/app/uploads/2026/11/sea-of-sorrow-1200x675.jpg"
-        },
-        {
-          "name": "Insider Gaming",
-          "owner": "insider-gaming",
-          "url": "https://insider-gaming.com/hollow-knights-free-sea-of-sorrow-dlc-releases-in-december/",
-          "title": "Hollow Knight: Silksong’s Free Sea of Sorrow DLC Releases in December",
-          "published_at": "2026-11-27T15:54:15+00:00",
-          "kind": "press",
-          "text": "Team Cherry has announced the release date for Hollow Knight: Silksong’s upcoming Sea of Sorrow DLC. It’s arriving in 2026, and it’s actually only a couple of weeks away. The developers behind the epic Hollow Knight: Silksong revealed almost a year ago that Silksong was getting a free expansion coming in 2026 . There are no delays or radio silence this time; Team Cherry has finally unveiled its release date. Hollow Knight: Silksong is getting a free expansion. Sea of Sorrow looks to build on the epic world of the sequel, and Team Cherry revealed on November 27 that the new DLC launches on December 11, 2026. Check out what Team Cherry said about Hollow Knight: Silksong Sea of Sorrow: We’ve just announced three exciting new games being developed by a few of our close friends, and, if that wasn’t enough, there’s now an imminent release date for Hollow Knight: Silksong’s first big content update – Sea of Sorrow! Arriving free for all players on December 11! In Sea of Sorrow, players will voyage above and beneath Pharloom’s forgotten ocean, across islands, through forts and into deep caverns beneath the waves. We’ve spent the whole year stuffing this adventure full with all the things you’d expect from Hollow Knight: Silksong – crazed characters, high adventure, and epic bosses! It’s also overflowing with more exceptional music by the eternally talented Christopher Larkin! We’re pretty darn excited to get it into all of your hands on December 11, so please look forward to it.’ It looks just as difficult, just as punishing, and just as fun as the base game. Here’s the official trailer for Sea of Sorrow. How excited are you for Sea of Sorrow? Let us know your thoughts via the free Insider Gaming Discord server . For more Insider Gaming content, read ‘ Simpsons Hit & Run and Prototype Studio Have Just Had Their Unannounced Game Canceled .’ Don’t forget to sign up for our free weekly newsletter . Andy is Insider Gaming's Senior Evergreen Editor and has been in the games journalism sphere in one way or another for over 7 years. His video game taste is as…",
-          "image": "https://insider-gaming.com/wp-content/uploads/2025/12/Hollow-Knight-Silksong-Sea-of-Sorrow-DLC-Release-Period-Explained-guide.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/hollow-knight-silksong-expasao-gratuita-sea-of-sorrow-sera-lancada-em-11-de-dezembro-confira-o-trailer.html",
-          "title": "Hollow Knight: Silksong: expasão gratuita Sea of Sorrow será lançada em 11 de dezembro, confira o trailer",
-          "published_at": "2026-11-27T15:54:43+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
-        },
-        {
-          "name": "Video Games Chronicle",
-          "owner": "vgc",
-          "url": "https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/",
-          "title": "Hollow Knight: Silksong’s first expansion, Sea of Sorrow, is officially out next month",
-          "published_at": "2026-11-27T16:07:26+00:00",
-          "kind": "press",
-          "text": "Sea of Sorrow will add new areas and bosses to Silksong Hollow Knight: Silksong’s first major expansion, Sea of Sorrow, will officially release for free on December 11, developer Team Cherry has announced. In Sea of Sorrow, players will âvoyage above and beneath Pharloomâs forgotten ocean, across islands, through forts and into deep caverns beneath the wavesâ, according to an announcement. âWeâve spent the whole year stuffing this adventure full with all the things youâd expect from Hollow Knight: Silksong – crazed characters, high adventure, and epic bosses,â Team Cherry said. âItâs also overflowing with more exceptional music by the eternally talented Christopher Larkin ! Weâre pretty darn excited to get it into all of your hands on December 11, so please look forward to it.â",
-          "image": "https://www.videogameschronicle.com/files/2025/12/hollow-knight-silksong-sea-of-sorrow.jpg"
-        },
-        {
-          "name": "Voxel",
-          "owner": "nzn",
-          "url": "https://www.estadao.com.br/tecmundo/voxel/sea-of-sorrow-dlc-gratis-de-hollow-knight-silksong-chega-em-dezembro/",
-          "title": "Sea of Sorrow, DLC grátis de Hollow Knight: Silksong, chega em dezembro",
-          "published_at": "2026-11-27T16:22:00+00:00",
-          "kind": "press",
-          "text": "A Team Cherry anunciou nesta quinta-feira (27) a data de lançamento de Sea of Sorrow , primeira grande expansão de conteúdo de Hollow Knight: Silksong . A DLC será lançada em 11 de dezembro de 2026 e estará disponível gratuitamente para todos os jogadores que possuem o game. A novidade foi revelada durante a apresentação Cherry Time!, que também trouxe um novo trailer com cenas inéditas da expansão. O vídeo mostra algumas das novas áreas, inimigos e chefes que aguardam Hornet em sua próxima aventura, mantendo o nível de desafio característico da franquia. O material também dá uma breve pista de uma possível atividade de pesca, que aparece nos momentos finais do trailer. Embora a Team Cherry não tenha confirmado detalhes sobre a mecânica, a novidade já chama atenção entre as possibilidades de conteúdo da expansão. Segundo a descrição oficial, Sea of Sorrow levará os jogadores para explorar o oceano esquecido de Pharloom, tanto acima quanto abaixo da superfície. A aventura passará por ilhas, fortalezas e cavernas profundas escondidas sob as águas. A Team Cherry promete novos personagens, desafios e chefes épicos, além de músicas inéditas compostas por Christopher Larkin, responsável pela trilha sonora dos jogos da franquia. A desenvolvedora afirma que passou o ano inteiro trabalhando para ampliar a experiência com a expansão. Por enquanto, o estúdio não revelou se Sea of Sorrow será a única grande atualização de conteúdo de Silksong ou se outras expansões estão nos planos. Também não foram divulgados detalhes sobre a duração da aventura ou a quantidade exata de novidades. Além das novidades de Silksong, a apresentação Cherry Time também serviu para revelar três projetos desenvolvidos por estúdios independentes próximos da Team Cherry. Os títulos chegarão ao mercado sob o novo selo Team Cherry Presents , que contará com suporte técnico do estúdio responsável por Hollow Knight. O novo selo será coordenado tecnicamente por Huy Le, que também passa a integrar oficialmente a Team Cherry como seu quarto integrante. Ele ficará responsável por oferecer suporte aos desenvolvedores, criar ferramentas de desenvolvimento e ajudar na implementação de mecânicas e na resolução de problemas técnicos. Le também já colaborou diretamente com Hollow Knight: Silksong, especialmente durante a reta final de desenvolvimento. Entre suas contribuições estão trabalhos com as versões do jogo para diferentes plataformas, correções de bugs e implementação de recursos como salvamento automático, conquistas e suporte a HD Rumble. A Team Cherry ainda destacou que a chegada de um quarto integrante é um acontecimento importante para o estúdio, que tradicionalmente trabalhou com apenas três pessoas. Ainda não há datas de lançamento para os jogos apresentados pelo novo selo. E aí, ansioso para jogar o DLC de Silksong? Banco de dados desprotegido expõe quase 2 bilhões de senhas na internet Live da Virada: ofertas, cupons, promoções e desconto! Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027",
-          "image": "https://www.estadao.com.br/resizer/v2/IZZMBF6S6NMO5EVGS5JBNBSGLM.jpg?quality=80&auth=b9a179e220b8a4697518ea03360f7ff62c87e98392770270bf440cbed896f202&width=1200&height=630&smart=true"
-        }
-      ]
-    },
     {
       "story_id": "22e20cd017d698a9",
       "title": "Fans fear for Simpsons Hit & Run remake after unannounced game from devs behind the OG is canceled",
@@ -298,7 +168,7 @@
           "title": "Black Friday Mercado Livre: as melhores ofertas",
           "published_at": "2026-11-27T14:59:00+00:00",
           "kind": "press",
-          "text": "Finalmente a Black Friday do Mercado Livre começou oficialmente , com a plataforma oferecendo muitas ofertas com até 80% de desconto e cupons sendo liberados periodicamente Durante a promoção, que fica no ar até o fim desta noite, é possível encontrar diversos eletrônicos de ótimas marcas e mais baratinhos temporariamente , permitindo equipar o lar e renovar os equipamentos sem gastar tanto. Confira agora nossa seleção de melhores ofertas da Black Friday no Mercado Livre ! Tudo a preço reduzido por tempo limitado e em até 27x no cartão Mercado Pago: Explorre todas as ofertas da Black Friday no Mercado Livre para garantir itens como TVs, videogames, celulares, notebooks e muito mais gastando muito menos. Lembrando mais uma vez que os preços especiais da BF ficam no ar somente até o fim da noite ou apenas enquanto durarem os estoques! Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027 Banco de dados desprotegido expõe quase 2 bilhões de senhas na internet Home office: 130 vagas para trabalho remoto [24/11] Live da Virada: ofertas, cupons, promoções e desconto!",
+          "text": "Finalmente a Black Friday do Mercado Livre começou oficialmente , com a plataforma oferecendo muitas ofertas com até 80% de desconto e cupons sendo liberados periodicamente Durante a promoção, que fica no ar até o fim desta noite, é possível encontrar diversos eletrônicos de ótimas marcas e mais baratinhos temporariamente , permitindo equipar o lar e renovar os equipamentos sem gastar tanto. Confira agora nossa seleção de melhores ofertas da Black Friday no Mercado Livre ! Tudo a preço reduzido por tempo limitado e em até 27x no cartão Mercado Pago: Explorre todas as ofertas da Black Friday no Mercado Livre para garantir itens como TVs, videogames, celulares, notebooks e muito mais gastando muito menos. Lembrando mais uma vez que os preços especiais da BF ficam no ar somente até o fim da noite ou apenas enquanto durarem os estoques! Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027 Saiba a origem dos nomes dos planetas do sistema solar Pornô gerado por IA: entenda os perigos por trás do DeepNude",
           "image": "https://www.estadao.com.br/resizer/v2/X7ZY3N7FE5A4PKADVQASF4YV7M.jpg?quality=80&auth=d245740fd9084071b5a47766a6e264c4a0756649eb01955fef3353432ea6b684&width=1200&height=630&focal=510,401"
         }
       ]
@@ -588,6 +458,42 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2026/11/Hitman-World-of-Assassination-007-First-Light.webp"
+        }
+      ]
+    },
+    {
+      "story_id": "61c13d657867e117",
+      "title": "Origament: A Paper Adventure now available for PS5, Switch",
+      "summary": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch …",
+      "owners": [
+        "gameblast",
+        "gematsu"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "4f8dd1b6ed6bc90e",
+        "b3682947426751db"
+      ],
+      "sources": [
+        {
+          "name": "Gematsu",
+          "owner": "gematsu",
+          "url": "https://www.gematsu.com/2026/11/origament-a-paper-adventure-now-available-for-ps5-switch",
+          "title": "Origament: A Paper Adventure now available for PS5, Switch",
+          "published_at": "2026-11-26T14:08:59+00:00",
+          "kind": "press",
+          "text": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch for $9.99 / €9.99, publisher Assemble Entertainment and developer Space Sauce announced. Origament: A Paper Adventure first launched for PC via Steam on April 7. Here is an overview of the game, via Assemble Entertainment: Deep inside the Archive of Memory, forgotten letters sleep in endless drawers. But one little letter has other plans. Awakened by a mysterious spark, it escapes through a Time Glitch and sets off on an adventure across time and continents. Somewhere out there, someone is still waiting to read it. And that letter? That’s you! From moonlit gardens to the Wild West, every world has a story to tell and a clue to uncover. Are you ready to deliver the most important letter of all?",
+          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Origament-Console_11-23-26.jpg"
+        },
+        {
+          "name": "GameBlast",
+          "owner": "gameblast",
+          "url": "https://www.gameblast.com.br/2026/11/origament-a-paper-adventure-esta-disponivel-playstation-5-switch.html",
+          "title": "Origament: A Paper Adventure está disponível para PlayStation 5 e Switch",
+          "published_at": "2026-11-27T12:32:23+00:00",
+          "kind": "press",
+          "text": "Uma carta esquecida precisa atravessar o tempo para chegar ao seu destino.",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyp5tiZYI9ZKqMkbtiK3IZfNR1MipVYnXzP4r5-g4fTeXJvQpvXME2ZkfS0HCQRX9Wm3flhQw-lOJSY1rg7TZ96wvKdNinj8D-9Ywav0jfC87HNGTnNGRQq0IpDd029dzdzfVOmJQSzeC6Dn993ehOmb_Sz9-wOGU6p7rm1oQkUEUdZV-2lFo4rJZmPu6h/w1200-h630-p-k-no-nu/origamentblastconsoles.jpg"
         }
       ]
     }
