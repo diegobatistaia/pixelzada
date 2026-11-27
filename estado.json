@@ -7,34 +7,41 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-27T05:31-03:00",
+ "atualizado": "2026-11-27T15:58-03:00",
  "hoje": {
   "data": "2026-11-27",
   "reels": {
    "meta": 17,
-   "publicados": 0,
-   "deviam_ter_saido": 0,
+   "publicados": 8,
+   "deviam_ter_saido": 9,
    "atrasados": [],
-   "horarios_vazios_hoje": []
+   "horarios_vazios_hoje": [
+    "16:00"
+   ]
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 0,
-   "atrasados": [],
+   "deviam_ter_saido": 4,
+   "atrasados": [
+    "09:00",
+    "11:00",
+    "13:00",
+    "15:00"
+   ],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 61,
+  "agendados": 53,
   "meta_por_dia": 17,
-  "dias_de_reserva": 3.6,
+  "dias_de_reserva": 3.1,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 61,
+  "sem_revisao": 53,
   "por_dia": [
    {
     "data": "2026-11-27",
-    "agendados": 17,
+    "agendados": 7,
     "meta": 17
    },
    {
@@ -49,31 +56,31 @@
    },
    {
     "data": "2026-11-30",
-    "agendados": 10,
+    "agendados": 12,
     "meta": 17
    }
   ]
  },
  "site": {
-  "total": 297,
-  "hoje": 0,
+  "total": 298,
+  "hoje": 1,
   "meta_dia": 8,
   "ultima": {
-   "titulo": "Atriz de Lucia em GTA 6 faz primeiro comunicado após o lançamento e diz que passou quase uma década na personagem",
-   "url": "https://pixelzada.com.br/pt/atriz-de-lucia-em-gta-6-faz-primeiro-comunicado-apos-o-lancamento-e-diz-que-passou-quase-uma-decada-na-personagem/",
-   "em": "2026-11-26T19:48:13-03:00"
+   "titulo": "Ubisoft diz na Justiça que chamar Skull and Bones de AAAA é exagero comercial e não propaganda enganosa",
+   "url": "https://pixelzada.com.br/pt/ubisoft-diz-na-justica-que-chamar-skull-and-bones-de-aaaa-e-exagero-comercial-e-nao-propaganda-enganosa/",
+   "em": "2026-11-27T11:47:33-03:00"
   }
  },
  "pesquisa": {
-  "ultima_coleta": "26/11/2026 22:07",
+  "ultima_coleta": "27/11/2026 15:54",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AdbSB29Y-1mld0SAIU9zJQB\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"A8KO5qpsH43bu3i4_CURU56\"}}"
  },
  "falhas": {
-  "rodadas_24h": 93,
+  "rodadas_24h": 84,
   "falhas_24h": 0,
   "sem_resolver": 0,
   "lista": []
@@ -83,7 +90,7 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 116
+   "youtube": 117
   },
   "erros_hoje": 0
  },
@@ -144,11 +151,11 @@
   },
   {
    "data": "2026-11-27",
-   "reels": 0,
+   "reels": 8,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
-   "materias": 0,
+   "materias": 1,
    "views_reels": null
   }
  ],
@@ -199,6 +206,14 @@
   }
  ],
  "alertas": [
+  {
+   "nivel": "vermelho",
+   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00"
+  },
+  {
+   "nivel": "amarelo",
+   "texto": "1 horário(s) de Reel ainda sem vídeo hoje"
+  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
