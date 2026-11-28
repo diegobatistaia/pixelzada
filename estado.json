@@ -7,47 +7,34 @@
   "site": "https://pixelzada.com.br",
   "repo": "diegobatistaia/pixelzada"
  },
- "atualizado": "2026-11-27T22:59-03:00",
+ "atualizado": "2026-11-28T07:26-03:00",
  "hoje": {
-  "data": "2026-11-27",
+  "data": "2026-11-28",
   "reels": {
    "meta": 17,
-   "publicados": 13,
-   "deviam_ter_saido": 16,
+   "publicados": 1,
+   "deviam_ter_saido": 0,
    "atrasados": [],
    "horarios_vazios_hoje": []
   },
   "carrosseis": {
    "meta": 7,
    "publicados": 0,
-   "deviam_ter_saido": 7,
-   "atrasados": [
-    "09:00",
-    "11:00",
-    "13:00",
-    "15:00",
-    "17:00",
-    "19:00",
-    "21:00"
-   ],
+   "deviam_ter_saido": 0,
+   "atrasados": [],
    "pautas_esperando": 0
   }
  },
  "fila_reels": {
-  "agendados": 48,
+  "agendados": 46,
   "meta_por_dia": 17,
-  "dias_de_reserva": 2.8,
+  "dias_de_reserva": 2.7,
   "grade_cheia_ate": "2026-11-29",
-  "sem_revisao": 48,
+  "sem_revisao": 46,
   "por_dia": [
    {
-    "data": "2026-11-27",
-    "agendados": 1,
-    "meta": 17
-   },
-   {
     "data": "2026-11-28",
-    "agendados": 17,
+    "agendados": 16,
     "meta": 17
    },
    {
@@ -64,7 +51,7 @@
  },
  "site": {
   "total": 302,
-  "hoje": 5,
+  "hoje": 0,
   "meta_dia": 8,
   "ultima": {
    "titulo": "Playtonic confirma que Yooka-Laylee and the Impossible Lair: Definitive Edition não chega ao Xbox e gera revolta",
@@ -73,15 +60,15 @@
   }
  },
  "pesquisa": {
-  "ultima_coleta": "27/11/2026 20:58",
+  "ultima_coleta": "28/11/2026 06:07",
   "perfis_lidos": 37,
   "perfis_com_falha": 3
  },
  "instagram": {
-  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"AV86mTXDRfuSiT6U9-PyQTq\"}}"
+  "erro": "HTTP 400 em https://graph.instagram.com/v26.0/17841420505797110/media: {\"error\":{\"message\":\"Invalid cursor provided\",\"type\":\"IGApiException\",\"code\":100,\"fbtrace_id\":\"Akyt1ndFSjzFhuwCuPKmf3d\"}}"
  },
  "falhas": {
-  "rodadas_24h": 82,
+  "rodadas_24h": 83,
   "falhas_24h": 0,
   "sem_resolver": 0,
   "lista": []
@@ -91,20 +78,11 @@
   "uso": {
    "mes": "2026-11",
    "tiktok": 34,
-   "youtube": 118
+   "youtube": 119
   },
   "erros_hoje": 0
  },
  "ultimos_dias": [
-  {
-   "data": "2026-11-21",
-   "reels": 44,
-   "reels_meta": 48,
-   "carrosseis": 0,
-   "carrosseis_meta": 7,
-   "materias": 4,
-   "views_reels": null
-  },
   {
    "data": "2026-11-22",
    "reels": 47,
@@ -152,11 +130,20 @@
   },
   {
    "data": "2026-11-27",
-   "reels": 13,
+   "reels": 14,
    "reels_meta": 17,
    "carrosseis": 0,
    "carrosseis_meta": 7,
    "materias": 5,
+   "views_reels": null
+  },
+  {
+   "data": "2026-11-28",
+   "reels": 1,
+   "reels_meta": 17,
+   "carrosseis": 0,
+   "carrosseis_meta": 7,
+   "materias": 0,
    "views_reels": null
   }
  ],
@@ -207,10 +194,6 @@
   }
  ],
  "alertas": [
-  {
-   "nivel": "vermelho",
-   "texto": "Carrossel atrasado hoje: 09:00, 11:00, 13:00, 15:00, 17:00, 19:00, 21:00"
-  },
   {
    "nivel": "amarelo",
    "texto": "Não consegui ler o Instagram nesta rodada"
