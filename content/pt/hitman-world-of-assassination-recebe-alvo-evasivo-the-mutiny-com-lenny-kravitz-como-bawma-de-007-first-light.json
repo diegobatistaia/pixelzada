@@ -18,7 +18,10 @@
     "query": "HITMAN The Mutiny Lenny Kravitz Bawma",
     "alt": "Arte de divulgação de The Mutiny, novo Alvo Evasivo de HITMAN World of Assassination com Bawma",
     "url": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/WOA_Bawma_Wire_img1-45d9824c7277ccbf71d2.jpg",
-    "credit": "Imagem: Xbox Wire"
+    "credit": "Imagem: Xbox Wire",
+    "path": "/assets/img/hitman-world-of-assassination-recebe-alv-10d52fd0.jpg",
+    "source_url": "",
+    "foco": "14% 38%"
   },
   "fonte_unica": "anuncio_oficial",
   "sources": [
@@ -35,7 +38,7 @@
       "title": "HITMAN World of Assassination recebe nova missão gratuita com Bawma de 007 First Light"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -132,5 +135,7 @@
       "text": "Quem quiser aproveitar o evento tem quase quatro semanas para jogar, já que a janela vai de 26 de novembro a 24 de dezembro.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-28T10:47:44+00:00",
+  "updated_at": "2026-11-28T10:47:44+00:00"
 }
