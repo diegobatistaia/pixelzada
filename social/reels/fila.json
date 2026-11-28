@@ -18379,7 +18379,7 @@
     "slug": "gta6-corte-alanzoka-55",
     "data": "2026-11-28",
     "horario": "11:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 alanzoka jogando GTA 6\n📺 twitch.tv/alanzoka\n\n#gta6 #gtavi #alanzoka #pixelzada",
     "tentativas": 0,
@@ -18402,6 +18402,19 @@
       "motivo": "streamer jogando e cenas de gameplay com personagem vestido",
       "por": "imagem",
       "em": "2026-11-21T21:41:56-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-28T11:03:17-03:00",
+      "media_id": "18004391121030180",
+      "permalink": "https://www.instagram.com/reel/DgSbNJ9BaT6/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
