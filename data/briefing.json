@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:39:14+00:00",
+  "generated_at": "2026-11-28T14:39:11+00:00",
   "posts_per_language_today": 2,
   "daily_cap_per_language": 10,
   "already_written_today": 1,
@@ -145,8 +145,8 @@
           "title": "Black Friday Mercado Livre: as melhores ofertas",
           "published_at": "2026-11-27T14:59:00+00:00",
           "kind": "press",
-          "text": "",
-          "image": ""
+          "text": "Finalmente a Black Friday do Mercado Livre começou oficialmente , com a plataforma oferecendo muitas ofertas com até 80% de desconto e cupons sendo liberados periodicamente Durante a promoção, que fica no ar até o fim desta noite, é possível encontrar diversos eletrônicos de ótimas marcas e mais baratinhos temporariamente , permitindo equipar o lar e renovar os equipamentos sem gastar tanto. Confira agora nossa seleção de melhores ofertas da Black Friday no Mercado Livre ! Tudo a preço reduzido por tempo limitado e em até 27x no cartão Mercado Pago: Explorre todas as ofertas da Black Friday no Mercado Livre para garantir itens como TVs, videogames, celulares, notebooks e muito mais gastando muito menos. Lembrando mais uma vez que os preços especiais da BF ficam no ar somente até o fim da noite ou apenas enquanto durarem os estoques! Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027 Pornô gerado por IA: entenda os perigos por trás do DeepNude Engenharia de Prompt: o que é e para que serve? X ganha controle parental pela primeira vez; saiba como funciona Figurinhas do WhatsApp com áudio chegam também ao iPhone",
+          "image": "https://www.estadao.com.br/resizer/v2/X7ZY3N7FE5A4PKADVQASF4YV7M.jpg?quality=80&auth=d245740fd9084071b5a47766a6e264c4a0756649eb01955fef3353432ea6b684&width=1200&height=630&focal=510,401"
         }
       ]
     },
@@ -199,6 +199,54 @@
       ]
     },
     {
+      "story_id": "a375ad5c685f85d7",
+      "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
+      "summary": "EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry. The wait to finally, officially see the superhero romp in action might be over soon, at least if the developer's updated website - two weeks before The Game Awards, no less - is any indication. Read more",
+      "owners": [
+        "adrenaline",
+        "meups",
+        "ziff-davis"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "4efffa2eb80042ff",
+        "93a36aaa03599414",
+        "f07dc8e9fa14cb90"
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "owner": "ziff-davis",
+          "url": "https://www.eurogamer.net/iron-man-game-awards-ea-motive",
+          "title": "Marvel's Iron Man might be planning to rear its head at The Game Awards, if EA Motive's updated website is any indication",
+          "published_at": "2026-11-27T20:27:30+00:00",
+          "kind": "press",
+          "text": "EA Motive's Iron Man game has been quietly cooking away for a few years now, but don't worry. The wait to finally, officially see the superhero romp in action might be over soon, at least if the developer's updated website - two weeks before The Game Awards, no less - is any indication. Redditors today noticed that EA Motive's official website got a little makeover recently. It's not clear when exactly the tweaks were pushed through, but the Wayback Machine makes clear that it's definitely been updated. A new website look is by no means confirmation of an imminent announcement, of course, but there are a few other bits of evidence that certainly point in that direction. For one, The Game Awards 2026 will air on Disney Plus for the very first time, alongside all the other platforms you're used to. \"As the evening unfolds, viewers can expect major announcements and surprises from some of Disney's most anticipated titles in gaming,\" the film studio said earlier this month. Kingdom Hearts 4 , Marvel 1943: Rise of Hydra and more are definitely possible, too. Turmoil at Marvel's Blade developer Arkane Lyon makes that one a tricker guess, however. Second is the fact that The Game Awards air on 10th December - eight days before the global opening of Avengers: Doomsday, a film that's shaping up to become the biggest cinematic event since the last time Marvel chucked all of its toys into the same sandbox and bashed them together. Giving one of the company's most popular superheroes the spotlight around the same time seems like a good idea. This isn't the first time EA's Iron Man has popped up in recent times, either. What appeared to be an unfinished trailer for Motive's Iron Man leaked onto the internet this summer, and showed off blisteringly fast flying and lots of destructive gadgets. It looked further along than I expected, at least, so I wouldn't be surprised to see the billionaire playboy philanthropist rear his head again in two weeks time.",
+          "image": "https://assetsio.gnwcdn.com/ea-motive-new-title-teaser-16x9.jpg.adapt.1456w.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/ea-pode-finalmente-mostrar-marvels-iron-man-no-the-game-awards-2026/",
+          "title": "EA pode finalmente mostrar Marvel’s Iron Man no The Game Awards 2026",
+          "published_at": "2026-11-28T12:53:35+00:00",
+          "kind": "press",
+          "text": "Confira as principais ofertas de hardware, componentes e outros eletrônicos que encontramos pela internet. Placa de vídeo, placa-mãe, memória RAM e tudo que você precisa para montar o seu PC. Ao participar do nosso grupo, você recebe promoções diariamente e tem acesso antecipado a cupons de desconto.",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/marvel-iron-man-ea-motive-revelacao-rumor.jpg"
+        },
+        {
+          "name": "MeuPlayStation",
+          "owner": "meups",
+          "url": "https://meups.com.br/noticias/marvels-iron-man-pode-aparecer-no-the-game-awards/",
+          "title": "Marvel’s Iron Man pode aparecer no The Game Awards após site da Motive ser atualizado",
+          "published_at": "2026-11-28T13:56:36+00:00",
+          "kind": "press",
+          "text": "",
+          "image": "https://meups.com.br/wp-content/uploads/2023/02/homem-de-ferro-1.jpg"
+        }
+      ]
+    },
+    {
       "story_id": "6eac38b471cfc4c7",
       "title": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
       "summary": "Check out Raylo's Black Friday gaming subscriptions, including PS5 and Xbox GTA 6 bundles, Nintendo Switch 2, gaming TVs, and more for a complete setup with £0 upfront.",
@@ -243,42 +291,6 @@
           "kind": "press",
           "text": "You won’t find deals on most consoles or GTA VI , but we’ve highlighted some Black Friday gems you ought to see. You won’t find deals on most consoles or GTA VI , but we’ve highlighted some Black Friday gems you ought to see. If you buy something from a link, The Verge may earn a commission. See our ethics statement. While deals on consoles and key PC components are in short supply during Black Friday (or simply not good enough to warrant covering), there are numerous fantastic discounts on video games, accessories, and monitors to make up for it. We thought it’d be useful to display all of the deals we think are worth your attention on one page instead of sprinkled here and there in our coverage. Below, you’ll find the very best discounts we’ve found for PlayStation, Xbox, Nintendo Switch 2, and PC players to shop. You can filter the table below to display exactly the type of products you’re looking for. Both the white and midnight black versions of the DualSense Edge are discounted. Refurbished versions (with the same warranty as new controllers) are another $25 off. The Nintendo Switch 2 features a 7.9-inch LCD display, magnetically attached Joy-Con 2 controllers, backward compatibility with most original Switch games, and exclusive titles like Donkey Kong Bananza and The Legend of Zelda: Ocarina of Time. Read our review . The P9 is great if you need more storage for your Nintendo Switch 2. The microSD Express card offers sequential read speeds of up to 800MB/s, but only gadgets with a microSD Express card slot can take full advantage of the highest speeds. That includes certain cameras, tablets, and drones with a microSD USH-I slot. Donkey Kong Bananza is one of the Switch 2’s first exclusive must-have titles. Its destructible environment allows you to smash your way through each of its 17 levels, and the paths you make will remain intact unless you specifically choose to reset the world. Your companion Pauline’s singing allows you to transform into animals that have abilities that allow you to reach previously inaccessible parts of levels. Read our review . The Pro 3 features swappable ABXY face buttons and joystick caps, providing players with a highly customizable experience. It also features new L4 and R4 macro buttons between the triggers and its USB-C charging port, along with more durable and power efficient TMR joysticks. Nintendo’s latest Switch 2 exclusive is the best way to relive what is arguably the best Zelda game of all time. The revamped visuals look gorgeous, and while the game’s improved controls might annoy some purists who still cling to the heyday of ’98, we reckon most folks won’t bat an eye. Elden Ring: Tarnished Edition includes both the base game and the Shadow of the Erdtree expansion, along with new customization options. The Fractal Scape gaming headset has a sleek, refined design, with a 2.4GHz low-latency connection and excellent sound for gaming or music. The Meta Quest 3S is a battery-powered standalone VR headset that has the same chipset as the pricier Quest 3, but with the same lenses and screen resolution as the Quest 2. In addition to being able to play many games from the Meta Store, it can also be connected to a gaming PC to play VR games like Half-Life Alyx. Read our review . The Nex Playground is a motion-controlled console that connects to your TV and uses a built-in camera and AI to track your movements as you play. Designed for ages five and up, it comes with games like Fruit Ninja and Whac-a-Mole . You can download more games, including titles featuring popular characters like Elmo, with a paid Play Pass subscription. The World of Warcraft Celebration Pass cuts the price of a 12-month subscription during Black Friday, offering access to modern WoW , WoW: Forever , and WoW: Classic at a discounted rate. The Witcher 3 lets you explore the war-torn Northern Kingdoms as Geralt of Rivia while preparing to face the mysterious Wild Hunt. The recent remaster adds improved visuals, smoother combat, and better movement, cementing the game’s status as one of the best RPGs of all time. Clicking the Superstrike feels like using a regular gaming mouse, which is impressive considering there are no mechanical switches inside. Instead, it uses haptics to emulate the effect (to great effect). One of the most affordable Tandem RGB Stripe OLEDs is even cheaper during Black Friday. The AW3226Q monitor has a 165Hz refresh rate, G-Sync compatibility, better-looking text rendering than most other OLED monitors, and unbeatable contrast. Make this the year that the gamer in your life has an OLED TV to play their console games on. Despite being affordable, the B6E doesn’t skimp on features. A gift for the gamer who already has all the gear they need (and who loves to read about gaming when they’re not gaming). The site focuses on well-researched deep dives and oral histories on classic video games. The 1440p 240Hz refresh rate screen is sleek, but pretty basic for the price. It stands out, though, thanks to its DualSense-charging cradle that extends from its bottom. This is the first discount. If you’re seeking out a prettier DualSense, the Chroma controllers are just a few bucks more than the standard color schemes. No game has delivered more thrills per minute (TPM) this year than Star Wars Galactic Racer . Podracing is back and better than ever with this game’s stellar sense of speed, and it has a surprisingly memorable cast of characters. Everyone knows gift cards aren’t the best gift, but with such steep discounts happening on Nintendo eShop credit, you can save a lot on a Switch 2, or games and accessories, if you’re alright with jumping through a couple extra hoops. Halo: Campaign Evolved lets you revisit the original Halo: Combat Evolved campaign with better graphics, updated controls, and improved sound. The well-crafted remake also adds three new missions starring Master Chief and Sgt. Johnson that take place before the main campaign. Read our review . USB",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/World-of-Warcraft-Shaman-keyart.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        }
-      ]
-    },
-    {
-      "story_id": "61c13d657867e117",
-      "title": "Origament: A Paper Adventure now available for PS5, Switch",
-      "summary": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch …",
-      "owners": [
-        "gameblast",
-        "gematsu"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "4f8dd1b6ed6bc90e",
-        "b3682947426751db"
-      ],
-      "sources": [
-        {
-          "name": "Gematsu",
-          "owner": "gematsu",
-          "url": "https://www.gematsu.com/2026/11/origament-a-paper-adventure-now-available-for-ps5-switch",
-          "title": "Origament: A Paper Adventure now available for PS5, Switch",
-          "published_at": "2026-11-26T14:08:59+00:00",
-          "kind": "press",
-          "text": "Platformer adventure game Origament: A Paper Adventure is now available for PlayStation 5 and Switch for $9.99 / €9.99, publisher Assemble Entertainment and developer Space Sauce announced. Origament: A Paper Adventure first launched for PC via Steam on April 7. Here is an overview of the game, via Assemble Entertainment: Deep inside the Archive of Memory, forgotten letters sleep in endless drawers. But one little letter has other plans. Awakened by a mysterious spark, it escapes through a Time Glitch and sets off on an adventure across time and continents. Somewhere out there, someone is still waiting to read it. And that letter? That’s you! From moonlit gardens to the Wild West, every world has a story to tell and a clue to uncover. Are you ready to deliver the most important letter of all?",
-          "image": "https://www.gematsu.com/wp-content/uploads/2026/11/Origament-Console_11-23-26.jpg"
-        },
-        {
-          "name": "GameBlast",
-          "owner": "gameblast",
-          "url": "https://www.gameblast.com.br/2026/11/origament-a-paper-adventure-esta-disponivel-playstation-5-switch.html",
-          "title": "Origament: A Paper Adventure está disponível para PlayStation 5 e Switch",
-          "published_at": "2026-11-27T12:32:23+00:00",
-          "kind": "press",
-          "text": "",
-          "image": ""
         }
       ]
     },
@@ -355,42 +367,6 @@
       ]
     },
     {
-      "story_id": "a442c92dcfdeec42",
-      "title": "Rockstar explica porque GTA VI não permite rejogar missões da história",
-      "summary": "MeuPlayStation | Tudo sobre PS5 e PS4 no Brasil Dev explica que um possível modo replay ficaria \"desconectado\" da proposta do jogo O post Rockstar explica porque GTA VI não permite rejogar missões da história apareceu primeiro em MeuPlayStation | Tudo sobre PlayStation .",
-      "owners": [
-        "meups",
-        "olhar-digital"
-      ],
-      "primary_owners": [],
-      "fingerprints": [
-        "ea966356792c02df",
-        "289cfc743b29874d"
-      ],
-      "sources": [
-        {
-          "name": "MeuPlayStation",
-          "owner": "meups",
-          "url": "https://meups.com.br/noticias/rockstar-explica-porque-gta-vi-nao-permite-rejogar-missoes/",
-          "title": "Rockstar explica porque GTA VI não permite rejogar missões da história",
-          "published_at": "2026-11-26T18:41:32+00:00",
-          "kind": "press",
-          "text": "",
-          "image": "https://meups.com.br/wp-content/uploads/2026/11/GTA-VI-25.jpg"
-        },
-        {
-          "name": "Olhar Digital Games",
-          "owner": "olhar-digital",
-          "url": "https://olhardigital.com.br/2026/11/27/games-e-consoles/gta-6-por-que-nao-permite-repetir-missoes/",
-          "title": "Por que GTA 6 não permite repetir missões? Rockstar explica decisão",
-          "published_at": "2026-11-27T17:00:00+00:00",
-          "kind": "press",
-          "text": "Entre as mudanças introduzidas em Grand Theft Auto VI ( GTA 6 ), uma delas pode frustrar os fãs da franquia: a ausência de uma opção para repetir missões da campanha. Diferentemente de GTA 5 , o novo título da Rockstar Games não permite revisitar missões concluídas por meio de um sistema dedicado, seja para reviver momentos marcantes da história ou melhorar o desempenho em determinados objetivos. Em entrevista ao Kotaku, Scott Butchard, diretor sênior de design da Rockstar, explicou que a decisão está diretamente relacionada à proposta narrativa do jogo. Segundo Butchard, a possibilidade de repetir missões chegou a ser considerada durante as primeiras etapas de desenvolvimento. Entretanto, conforme o projeto avançava, a equipe percebeu que a funcionalidade não combinava com a experiência que pretendia oferecer. “À medida que o jogo tomava forma, o recurso parecia entrar em conflito com a história que estávamos tentando contar, além de parecer estranho e desconectado”, afirmou o diretor, em tradução livre. Na avaliação da desenvolvedora, permitir que os jogadores revisitassem missões isoladamente diminuiria a importância das decisões tomadas ao longo da campanha. A abordagem aproxima GTA 6 de experiências narrativas nas quais as consequências das ações do jogador são mais importantes do que a busca por um desempenho perfeito em cada missão. Embora tenha se popularizado em GTA 5, a possibilidade de repetir missões não esteve presente desde o início da franquia. A funcionalidade foi introduzida em The Ballad of Gay Tony, expansão de GTA 4, e posteriormente incorporada a GTA 5. No quinto título numerado da série, o recurso estava associado a um sistema de medalhas que avaliava o desempenho dos jogadores com base no cumprimento de objetivos secundários. Isso incentivava os fãs a revisitar missões para conquistar medalhas de ouro, experimentar diferentes abordagens ou simplesmente reviver seus momentos favoritos da campanha. Até o momento, a Rockstar Games não anunciou planos para implementar um sistema de repetição de missões em GTA 6. A decisão reforça a prioridade dada pela desenvolvedora à imersão narrativa, uma característica também presente em Red Dead Redemption 2 . Por outro lado, a ausência da funcionalidade limita as possibilidades para jogadores interessados em revisitar momentos específicos da história sem precisar recorrer a salvamentos anteriores ou iniciar uma nova campanha. Uma eventual implementação por meio de modificações feitas pela comunidade, quando o jogo chegar ao PC, também é uma possibilidade, embora não exista confirmação nesse sentido. Amazon Prime também é feito para jogadores! Todo mês, obtenha itens exclusivos, jogos grátis, uma assinatura gratuita na Twitch.tv e muito mais com sua assinatura Prime . Clique aqui para um teste gratuito de 30 dias . Rachele Victoria é formada em Letras, MBA em Inovação e atua há 10 anos com comunicação e conteúdo gamer.",
-          "image": "https://img.odcdn.com.br/wp-content/uploads/2026/11/Jason_and_Lucia_15-1.jpg"
-        }
-      ]
-    },
-    {
       "story_id": "014bb9007c73c49b",
       "title": "skate.: Full Circle removerá Skate Pass e conteúdos sazonais e adicionará o modo S.K.A.T.E. a partir do dia 1º de dezembro",
       "summary": "Após um lançamento relativamente decepcionante e decisões questionáveis, skate. segue recebendo atualizações constantes. Mais de um ano depois, a equipe de desenvolvimento está reparando grandes mudanças para a Atualização 0.33.1, começando pela ausência de conteúdo sazonal e do Skate Pass após o término da 5ª temporada, em 1º de dezembro. No entanto, isso não significa que novos conteúdos ou...",
@@ -423,6 +399,42 @@
           "kind": "press",
           "text": "",
           "image": "https://meups.com.br/wp-content/uploads/2025/10/skate.jpg"
+        }
+      ]
+    },
+    {
+      "story_id": "669177038bd17b62",
+      "title": "GTA 6 ganha multiplayer em adaptação não oficial para PC",
+      "summary": "Nos computadores, você não precisa mais dirigir sozinho pela Leonida de GTA 6",
+      "owners": [
+        "adrenaline",
+        "nzn"
+      ],
+      "primary_owners": [],
+      "fingerprints": [
+        "96440f0757db72f2",
+        "962893dc94ec2d16"
+      ],
+      "sources": [
+        {
+          "name": "Adrenaline",
+          "owner": "adrenaline",
+          "url": "https://www.adrenaline.com.br/games/gta-6-ganha-multiplayer-em-adaptacao-nao-oficial-para-pc/",
+          "title": "GTA 6 ganha multiplayer em adaptação não oficial para PC",
+          "published_at": "2026-11-27T10:55:11+00:00",
+          "kind": "press",
+          "text": "GTA 6 recebeu recursos extras para rodar no Xbox One, afirma Digital Foundry",
+          "image": "https://www.adrenaline.com.br/wp-content/uploads/2026/11/GTA-6-Multiplayer-Mod-Rockstar.jpeg"
+        },
+        {
+          "name": "Voxel",
+          "owner": "nzn",
+          "url": "https://www.estadao.com.br/tecmundo/voxel/gta-6-ganha-versao-pirata-estavel-no-pc-e-modders-testam-ate-multiplayer/",
+          "title": "GTA 6 ganha versão pirata estável no PC e modders testam até multiplayer",
+          "published_at": "2026-11-27T13:15:00+00:00",
+          "kind": "press",
+          "text": "GTA 6 é bom? Confira a review do aguardado Grand Theft Auto VI A comunidade de modders continua avançando na tentativa de fazer GTA 6 funcionar no PC. Depois que o vazador CyberLeek compartilhou o executável da versão de Xbox nas redes sociais , diferentes grupos começaram a desenvolver adaptações não oficiais do jogo para computadores. Agora, uma dessas iniciativas ganhou seu primeiro lançamento público: o ScarlettPort. A ferramenta permite executar uma versão adaptada de GTA 6 sem precisar compilar arquivos manualmente, bastando baixar e iniciar o pacote disponibilizado pelos responsáveis pelo projeto. A versão mais recente já consegue passar pelos menus, telas de salvamento e avisos legais até carregar o mundo do jogo. O processo leva cerca de 178 segundos na versão 0.5.0, que também permite controlar o personagem e visualizar cenários com iluminação e texturas completas. O ScarlettPort é um projeto que busca adaptar a versão de Xbox de GTA 6 para funcionar em computadores. Diferentemente de outras iniciativas da comunidade, a ferramenta já pode ser baixada em um arquivo ZIP e executada sem que o usuário precise compilar o código por conta própria. A atualização 0.5.2 trouxe uma série de correções para melhorar a inicialização e o funcionamento do jogo. Entre as mudanças está a solução para uma tela preta que podia aparecer depois do carregamento com a predefinição Estável, além do uso do próprio upscaler de GTA 6 quando a tecnologia da AMD não está disponível. O projeto também recebeu melhorias no carregamento de cenários e nos shaders, incluindo a restauração de 40 variantes e correções que evitam falhas durante a compilação de determinados pipelines. Em testes realizados com uma AMD Radeon RX 9060 XT, o ScarlettPort apresentou uma taxa de quadros mediana entre 18,9 e 22 FPS. Outras novidades do port também incluem suporte aprimorado a mouse e teclado, controles DualSense e DualShock 4, além de registros de erros mais detalhados. O inicializador também passou a exibir o progresso da compilação de shaders em tempo real e permite instalar novas versões com apenas um clique. Vale lembrar que a ferramenta não inclui os arquivos do jogo e exige uma cópia da versão de Xbox Series X. Enquanto o ScarlettPort avança com seu lançamento público, outro projeto acompanhado pela comunidade também chama atenção. O CGBJ, que já alcançou 91,5% de conclusão segundo os critérios do site PortWatchVI , conseguiu executar uma versão de GTA 6 com vários jogadores no mesmo mundo. Vídeos compartilhados nas redes sociais mostram personagens e veículos circulando juntos, além de um sistema de comunicação por proximidade. A iniciativa chamou atenção porque, há poucos dias, os projetos ainda enfrentavam dificuldades para fazer o jogo funcionar de maneira básica nos computadores. Em publicação, os responsáveis pelo feito destacaram que conseguiram colocar o multiplayer em funcionamento antes mesmo da chegada do GTA Online 2 . Lembrando que o projeto ainda é não oficial e não representa uma versão completa do modo online da Rockstar, mas mostra outro caminho explorado pelos modders. Apesar dos avanços, é importante manter as expectativas sob controle. O ScarlettPort ainda está longe de oferecer uma experiência estável a 30 FPS: os testes divulgados apontam desempenho próximo de 20 FPS, com limitações que ainda precisam ser corrigidas. Mesmo assim, é o primeiro lançamento público de uma adaptação não oficial do jogo para PC. Também é preciso ter cuidado com supostos downloads de GTA 6 para computadores em sites de torrent. Existem versões falsas circulando nessas plataformas, que podem esconder arquivos maliciosos ou não entregar o conteúdo prometido. Por enquanto, o ScarlettPort é uma das alternativas públicas disponíveis, mas exige uma cópia legítima da versão de Xbox Series X para funcionar. E você, já está jogando GTA 6 ou pretende esperar pelo lançamento oficial no PC? Conte nas redes sociais do VOXL ! Hacker vaza suposto arquivo executável de GTA 6 Banco de dados desprotegido expõe quase 2 bilhões de senhas na internet Apple, Samsung e Xiaomi devem cortar produção de celulares para 2027 Claude Code: como fazer suas automações de IA continuarem funcionando mesmo com o notebook desligado Home office: 130 vagas para trabalho remoto [24/11]",
+          "image": "https://www.estadao.com.br/resizer/v2/TDLKBIM6H5OWPIHQG3HJ6ZUOBA.jpg?quality=80&auth=9b80b65c492e557144fb3abda44ab56002944f4ff703ac23b2b8db04e675f33b&width=1200&height=630&focal=1174,465"
         }
       ]
     }
