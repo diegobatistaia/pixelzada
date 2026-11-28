@@ -18127,7 +18127,7 @@
     "slug": "gta6-corte-sodtz",
     "data": "2026-11-27",
     "horario": "22:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Sodtz jogando GTA 6\n📺 twitch.tv/sodtz\n\n#gta6 #gtavi #sodtz #pixelzada",
     "tentativas": 0,
@@ -18150,6 +18150,19 @@
       "motivo": "streamer jogando e revalidando cenas de gameplay sem conteúdo impróprio",
       "por": "imagem",
       "em": "2026-11-21T23:40:04-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-27T22:01:19-03:00",
+      "media_id": "18016726505983488",
+      "permalink": "https://www.instagram.com/reel/DgRBt-vNQbX/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
