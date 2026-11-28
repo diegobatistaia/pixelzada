@@ -18253,7 +18253,7 @@
     "slug": "gta6-corte-apenas1live-3",
     "data": "2026-11-28",
     "horario": "08:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 Apenas1Live jogando GTA 6\n📺 twitch.tv/apenas1live\n\n#gta6 #gtavi #apenas1live #pixelzada",
     "tentativas": 0,
@@ -18276,6 +18276,19 @@
       "motivo": "streamers vestidas e cenas de gameplay comuns",
       "por": "imagem",
       "em": "2026-11-21T22:44:25-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-28T08:02:47-03:00",
+      "media_id": "18116911540870141",
+      "permalink": "https://www.instagram.com/reel/DgSGjgYKOZ2/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
