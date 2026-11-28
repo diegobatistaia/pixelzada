@@ -18,7 +18,10 @@
     "query": "skate. EA Full Circle",
     "alt": "Arte de skate., jogo de skate da EA e da Full Circle",
     "url": "https://cdn.mos.cms.futurecdn.net/L6Uv3zEQCqJWLrsdQY9RyX-1920-80.jpg",
-    "credit": "Imagem: PC Gamer"
+    "credit": "Imagem: PC Gamer",
+    "path": "/assets/img/ea-encerra-temporadas-de-skate-e-troca-p-03205685.jpg",
+    "source_url": "",
+    "foco": "52% 31%"
   },
   "sources": [
     {
@@ -34,7 +37,7 @@
       "title": "Skate is dropping seasons and season passes in favor of regular, agile content updates"
     }
   ],
-  "status": "draft",
+  "status": "published",
   "body": [
     {
       "type": "p",
@@ -116,5 +119,7 @@
       "text": "Como o jogo segue em acesso antecipado, as regras podem mudar com o tempo. Por ora, as duas fontes concordam no essencial: acabam as temporadas e o passe, e entram atualizações regulares.",
       "items": []
     }
-  ]
+  ],
+  "published_at": "2026-11-28T00:07:37+00:00",
+  "updated_at": "2026-11-28T00:07:37+00:00"
 }
