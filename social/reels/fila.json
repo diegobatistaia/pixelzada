@@ -18211,7 +18211,7 @@
     "slug": "gta6-corte-meikodrj",
     "data": "2026-11-28",
     "horario": "07:00",
-    "status": "agendado",
+    "status": "publicado",
     "estilo": "Dividido (modelo 1)",
     "legenda": "🎮 MeikodRJ jogando GTA 6\n📺 twitch.tv/meikodrj\n\n#gta6 #gtavi #meikodrj #pixelzada",
     "tentativas": 0,
@@ -18234,6 +18234,19 @@
       "motivo": "cenas de gameplay com personagens vestidos e ambiente noturno",
       "por": "imagem",
       "em": "2026-11-21T23:11:02-03:00"
+    },
+    "publicado": {
+      "em": "2026-11-28T07:02:07-03:00",
+      "media_id": "18120609575148204",
+      "permalink": "https://www.instagram.com/reel/DgR_m0CNkZA/"
+    },
+    "redes": {
+      "tiktok": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      },
+      "youtube": {
+        "pulado": "rede pausada (buffer.json: pausadas)"
+      }
     }
   },
   {
